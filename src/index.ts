@@ -18,7 +18,7 @@ export const entries = (): ArmEntry[] => {
 
     // どちらのバージョンにも含まれる
     // 差分をチェックして更新
-    const entry = oldEntry
+    const entry = { ...oldEntry }
 
     // しょぼかる TID が違う
     {
