@@ -1,0 +1,46 @@
+name: 'Check'
+
+on:
+  push:
+    branches:
+      - 'master'
+
+  pull_request:
+    types:
+      - opened
+      - synchronize
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    if: github.event_name != 'push'
+    uses: SlashNephy/.github/.github/workflows/yarn-run.yml@master
+    permissions:
+      contents: 'read'
+    with:
+      script: 'build'
+
+  lint:
+    uses: SlashNephy/.github/.github/workflows/yarn-lint.yml@master
+    permissions:
+      contents: 'read'
+      pull-requests: 'write'
+
+  format:
+    if: github.event_name == 'push'
+    uses: SlashNephy/.github/.github/workflows/yarn-format.yml@master
+    permissions:
+      contents: 'write'
+    with:
+      pre-script: 'generate'
+
+  # format は renovate で動かないので分ける
+  push:
+    if: github.event_name == 'push' && contains(github.ref, 'renovate')
+    uses: SlashNephy/.github/.github/workflows/yarn-push.yml@master
+    permissions:
+      contents: 'write'
+    with:
+      script: 'generate'
+      commit-message: '✨ yarn generate'
