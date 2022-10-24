@@ -2,6 +2,8 @@
 
 💊 Supplemental database for [kawaiioverflow/arm](https://github.com/kawaiioverflow/arm)
 
+The database is updated once an hour by GitHub Actions.
+
 ## Usage
 
 Fetch arm.json from the following URL.
