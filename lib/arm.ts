@@ -1,6 +1,3 @@
-export type ArmEntry = {
-  mal_id?: number
-  annict_id?: number
-  anilist_id?: number
-  syobocal_tid?: number
-}
+import type { arm } from '@kawaiioverflow/arm'
+
+export type ArmEntry = typeof arm[0]
