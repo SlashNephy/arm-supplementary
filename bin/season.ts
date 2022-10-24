@@ -53,7 +53,6 @@ const main = async () => {
         syobocal_tid: w.syobocalTid ?? undefined,
       }
 
-      // eslint-disable-next-line @typescript-eslint/restrict-template-expressions
       console.log(`// ${w.media}: ${w.title}\n${JSON.stringify(entry, null, 2)},`)
     })
 }

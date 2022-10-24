@@ -14,8 +14,8 @@
     "format:prettier": "yarn lint:prettier --write",
     "generate": "ts-node bin/generate.ts",
     "graphql": "concurrently -n graphql: -m 1 'yarn:graphql:*'",
-    "graphql:annict:schema": "curl -o graphql/annict/schema.graphql https://raw.githubusercontent.com/kiraka/annict-web/main/app/graphql/beta/schema.graphql",
     "graphql:annict:codegen": "graphql-codegen --config graphql/annict/codegen.yml",
+    "graphql:annict:schema": "curl -o graphql/annict/schema.graphql https://raw.githubusercontent.com/kiraka/annict-web/main/app/graphql/beta/schema.graphql",
     "lint": "concurrently -n lint: 'yarn:lint:*'",
     "lint:eslint": "eslint .",
     "lint:prettier": "prettier --check ."
