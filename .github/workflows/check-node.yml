@@ -10,11 +10,14 @@ on:
       - opened
       - synchronize
 
+  schedule:
+    - cron: '0 * * * *'
+
   workflow_dispatch:
 
 jobs:
   build:
-    if: github.event_name != 'push'
+    if: github.event_name != 'push' && github.event_name != 'schedule'
     uses: SlashNephy/.github/.github/workflows/yarn-run.yml@master
     permissions:
       contents: 'read'
@@ -22,6 +25,7 @@ jobs:
       script: 'build'
 
   lint:
+    if: github.event_name != 'schedule'
     uses: SlashNephy/.github/.github/workflows/yarn-lint.yml@master
     permissions:
       contents: 'read'
@@ -32,15 +36,37 @@ jobs:
     uses: SlashNephy/.github/.github/workflows/yarn-format.yml@master
     permissions:
       contents: 'write'
-    with:
-      pre-script: 'generate'
 
-  # format は renovate で動かないので分ける
-  push:
-    if: github.event_name == 'push' && contains(github.ref, 'renovate')
-    uses: SlashNephy/.github/.github/workflows/yarn-push.yml@master
+  update:
+    if: github.event_name == 'push' || github.event_name == 'schedule'
     permissions:
       contents: 'write'
-    with:
-      script: 'generate'
-      commit-message: '✨ yarn generate'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        with:
+          token: '${{ secrets.GITHUB_TOKEN }}'
+
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          cache: 'yarn'
+          cache-dependency-path: 'yarn.lock'
+
+      - name: Install
+        run: 'yarn install --immutable'
+
+      - name: Generate
+        run: 'yarn generate'
+        env:
+          ANNICT_ACCESS_TOKEN: '${{ secrets.ANNICT_ACCESS_TOKEN }}'
+
+      - name: Format
+        run: 'yarn format'
+
+      - name: Push
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: '🪄 update database'

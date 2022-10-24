@@ -1,0 +1,17 @@
+query listWorks($after: String) {
+  searchWorks(after: $after) {
+    nodes {
+      annictId
+      malAnimeId
+      syobocalTid
+      title
+      media
+      seasonYear
+      seasonName
+    }
+    pageInfo {
+      hasNextPage
+      endCursor
+    }
+  }
+}
