@@ -26560,7 +26560,7 @@ export const annict: ArmEntry[] = [
   // [2021-AUTUMN] WEB: The Missing 8
   // https://annict.com/works/9320
   { annict_id: 9320, mal_id: 50689 },
-  // [2023-null] TV: EDENS ZERO 第2期
+  // [2023-SPRING] TV: EDENS ZERO 第2期
   // https://annict.com/works/9321
   { annict_id: 9321, mal_id: 50002 },
   // [2022-WINTER] WEB: 死役所
@@ -28906,4 +28906,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] TV: Buddy Daddies
   // https://annict.com/works/10136
   { annict_id: 10136 },
+  // [2022-WINTER] WEB: LUPIN ZERO
+  // https://annict.com/works/10137
+  { annict_id: 10137 },
 ]
