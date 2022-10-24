@@ -58,8 +58,8 @@ const generateReadme = async () => {
     },
   ]
   for (const row of rows) {
-    const newSize = data.filter((x) => x[row.key]).length
-    const oldSize = arm.filter((x) => x[row.key]).length
+    const newSize = data.filter((x) => x[row.key] !== undefined).length
+    const oldSize = arm.filter((x) => x[row.key] !== undefined).length
     table.appendRow([
       row.label,
       `${newSize} (${newSize > oldSize ? '+' : newSize < oldSize ? '-' : '±'}${newSize - oldSize})`,
