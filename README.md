@@ -1,6 +1,6 @@
 # arm-supplementary
 
-💊 Complement the kawaiioverflow/arm database.
+💊 Supplemental database for [kawaiioverflow/arm](https://github.com/kawaiioverflow/arm)
 
 ## Usage
 

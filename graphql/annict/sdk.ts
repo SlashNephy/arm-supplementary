@@ -5,14 +5,16 @@ import * as Dom from 'graphql-request/dist/types.dom'
 import gql from 'graphql-tag'
 
 export const ListWorksDocument = gql`
-  query listWorks($season: String!, $after: String) {
-    searchWorks(seasons: [$season], orderBy: { field: WATCHERS_COUNT, direction: DESC }, after: $after) {
+  query listWorks($after: String) {
+    searchWorks(after: $after) {
       nodes {
         annictId
         malAnimeId
         syobocalTid
         title
         media
+        seasonYear
+        seasonName
       }
       pageInfo {
         hasNextPage
@@ -33,7 +35,7 @@ const defaultWrapper: SdkFunctionWrapper = (action, _operationName, _operationTy
 export function getSdk(client: GraphQLClient, withWrapper: SdkFunctionWrapper = defaultWrapper) {
   return {
     listWorks(
-      variables: Types.ListWorksQueryVariables,
+      variables?: Types.ListWorksQueryVariables,
       requestHeaders?: Dom.RequestInit['headers']
     ): Promise<Types.ListWorksQuery> {
       return withWrapper(

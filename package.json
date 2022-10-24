@@ -12,10 +12,12 @@
     "format": "concurrently -n format: -m 1 'yarn:format:*'",
     "format:eslint": "yarn lint:eslint --fix",
     "format:prettier": "yarn lint:prettier --write",
-    "generate": "ts-node bin/generate.ts",
+    "generate": "concurrently -n generate: -m 1 'yarn:generate:*'",
+    "generate:annict": "ts-node bin/annict.ts",
+    "generate:json": "ts-node bin/generate.ts",
     "graphql": "concurrently -n graphql: -m 1 'yarn:graphql:*'",
-    "graphql:annict:schema": "curl -o graphql/annict/schema.graphql https://raw.githubusercontent.com/kiraka/annict-web/main/app/graphql/beta/schema.graphql",
     "graphql:annict:codegen": "graphql-codegen --config graphql/annict/codegen.yml",
+    "graphql:annict:schema": "curl -o graphql/annict/schema.graphql https://raw.githubusercontent.com/kiraka/annict-web/main/app/graphql/beta/schema.graphql",
     "lint": "concurrently -n lint: 'yarn:lint:*'",
     "lint:eslint": "eslint .",
     "lint:prettier": "prettier --check ."
@@ -45,6 +47,14 @@
   "eslintConfig": {
     "extends": [
       "@slashnephy/eslint-config"
-    ]
+    ],
+    "rules": {
+      "@typescript-eslint/no-unsafe-assignment": "off",
+      "@typescript-eslint/no-unsafe-call": "off",
+      "@typescript-eslint/no-unsafe-member-access": "off",
+      "@typescript-eslint/no-unsafe-return": "off",
+      "@typescript-eslint/no-unsafe-argument": "off",
+      "@typescript-eslint/restrict-template-expressions": "off"
+    }
   }
 }
