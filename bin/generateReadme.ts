@@ -20,6 +20,10 @@ const generateReadme = async () => {
   md.newline()
   md.newline()
 
+  md.text('The database is updated once an hour by GitHub Actions.')
+  md.newline()
+  md.newline()
+
   md.h2('Usage')
   md.newline()
 
