@@ -1971,6 +1971,7 @@ __metadata:
     eslint: 8.26.0
     graphql: 16.6.0
     graphql-request: 5.0.0
+    markdown-doc-builder: 1.3.0
     prettier: 2.7.1
     ts-node: 10.9.1
     typescript: 4.8.4
@@ -4630,6 +4631,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"js-utils-lite@npm:^2.0.0":
+  version: 2.0.0
+  resolution: "js-utils-lite@npm:2.0.0"
+  checksum: aaa986a8425e343411710f7bac20c66e4861aeb90d4ab5ccff84f784318352d55749d95bd1124f95bd1ddb368ca52acfb161c6737727d651aca9658993bf7af4
+  languageName: node
+  linkType: hard
+
 "js-yaml@npm:^4.0.0, js-yaml@npm:^4.1.0":
   version: 4.1.0
   resolution: "js-yaml@npm:4.1.0"
@@ -5027,6 +5035,15 @@ __metadata:
   version: 0.2.2
   resolution: "map-cache@npm:0.2.2"
   checksum: 3067cea54285c43848bb4539f978a15dedc63c03022abeec6ef05c8cb6829f920f13b94bcaf04142fc6a088318e564c4785704072910d120d55dbc2e0c421969
+  languageName: node
+  linkType: hard
+
+"markdown-doc-builder@npm:1.3.0":
+  version: 1.3.0
+  resolution: "markdown-doc-builder@npm:1.3.0"
+  dependencies:
+    js-utils-lite: ^2.0.0
+  checksum: 09c14081bf95bb278c7ecfbaede4780e143cf43aae3aecac4ca30d4d91aad8ce90b9ddb3ffe31d46df7fe78172ebdba6faae098cb13080e477f9bdec5eaae5ff
   languageName: node
   linkType: hard
 

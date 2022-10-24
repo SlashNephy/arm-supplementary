@@ -14,7 +14,8 @@
     "format:prettier": "yarn lint:prettier --write",
     "generate": "concurrently -n generate: -m 1 'yarn:generate:*'",
     "generate:annict": "ts-node bin/annict.ts",
-    "generate:json": "ts-node bin/generate.ts",
+    "generate:json": "ts-node bin/generateJson.ts",
+    "generate:readme": "ts-node bin/generateReadme.ts",
     "graphql": "concurrently -n graphql: -m 1 'yarn:graphql:*'",
     "graphql:annict:codegen": "graphql-codegen --config graphql/annict/codegen.yml",
     "graphql:annict:schema": "curl -o graphql/annict/schema.graphql https://raw.githubusercontent.com/kiraka/annict-web/main/app/graphql/beta/schema.graphql",
@@ -25,7 +26,8 @@
   "dependencies": {
     "@kawaiioverflow/arm": "0.102.0",
     "dotenv": "16.0.3",
-    "graphql-request": "5.0.0"
+    "graphql-request": "5.0.0",
+    "markdown-doc-builder": "1.3.0"
   },
   "devDependencies": {
     "@graphql-codegen/cli": "2.13.7",
