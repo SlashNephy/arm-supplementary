@@ -12,6 +12,7 @@ const annict = async () => {
     // eslint-disable-next-line quotes
     "import type { ArmEntry } from '../lib/arm'",
     '',
+    '// @ts-ignore',
     'export const annict: ArmEntry[] = [',
   ]
 
