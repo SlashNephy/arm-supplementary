@@ -1,0 +1,14 @@
+query listWorks($page: Int!) {
+  Page(page: $page, perPage: 50) {
+    media(type: ANIME) {
+      id
+      idMal
+      title {
+        native
+      }
+    }
+    pageInfo {
+      hasNextPage
+    }
+  }
+}
