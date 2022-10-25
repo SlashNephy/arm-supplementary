@@ -23795,7 +23795,7 @@ export const annict: ArmEntry[] = [
   // [2004-null] OVA: ムーラン2
   // https://annict.com/works/8268
   { annict_id: 8268 },
-  // [2005-null] OVA: ターザン2
+  // [2005-SUMMER] OVA: ターザン2
   // https://annict.com/works/8269
   { annict_id: 8269 },
   // [2004-WINTER] OVA: スティッチ！ ザ・ムービー
@@ -23852,7 +23852,7 @@ export const annict: ArmEntry[] = [
   // [2007-WINTER] OVA: シンデレラIII 戻された時計の針
   // https://annict.com/works/8287
   { annict_id: 8287 },
-  // [2008-null] OVA: リトル・マーメイドIII はじまりの物語
+  // [2008-SUMMER] OVA: リトル・マーメイドIII はじまりの物語
   // https://annict.com/works/8288
   { annict_id: 8288 },
   // [2017-AUTUMN] MOVIE: COCOLORS
@@ -28916,4 +28916,10 @@ export const annict: ArmEntry[] = [
   // [2000-SPRING] OVA: 史上最強のグーフィー・ムービー Xゲームで大パニック!
   // https://annict.com/works/10139
   { annict_id: 10139 },
+  // [2004-AUTUMN] OVA: ポップアップ ミッキー/すてきなクリスマス
+  // https://annict.com/works/10140
+  { annict_id: 10140 },
+  // [2007-SUMMER] OVA: DISNEY PRINCESS おとぎの国のプリンセス/夢を信じて
+  // https://annict.com/works/10141
+  { annict_id: 10141 },
 ]

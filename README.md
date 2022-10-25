@@ -14,11 +14,11 @@ Fetch arm.json from the following URL.
 
 ## Statistics
 
-Currently, arm-supplementary has 25540 entries (+197).
+Currently, arm-supplementary has 25542 entries (+199).
 
 | Service            | arm-supplementary |  arm  |
 | :----------------- | :---------------: | :---: |
-| Annict             |    9638 (+197)    | 9441  |
+| Annict             |    9640 (+199)    | 9441  |
 | AniList            |    18037 (±0)     | 18037 |
 | MyAnimeList        |   21770 (+398)    | 21372 |
 | しょぼいカレンダー |    5426 (+97)     | 5329  |
