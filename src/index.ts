@@ -1,15 +1,36 @@
 import { fetchArm } from '../lib/arm'
+import { animeOfflineDatabase } from './anime-offline-database'
 import { annict } from './annict'
 
 import type { ArmEntry } from '../lib/arm'
 
 export const mergeEntries = async (): Promise<ArmEntry[]> => {
-  const entries: ArmEntry[] = []
-
   const arm = await fetchArm()
 
-  for (const oldEntry of arm) {
-    const newEntry = annict.find((x) => x.annict_id === oldEntry.annict_id)
+  let entries = mergeSpecificEntries(arm, annict, 'annict_id', ['syobocal_tid', 'mal_id'])
+  entries = mergeSpecificEntries(entries, animeOfflineDatabase, 'mal_id', [
+    'anilist_id',
+    'anidb_id',
+    'animeplanet_id',
+    'anisearch_id',
+    'kitsu_id',
+    'livechart_id',
+    'notify_id',
+  ])
+
+  return entries
+}
+
+const mergeSpecificEntries = (
+  oldEntries: ArmEntry[],
+  newEntries: ArmEntry[],
+  compareKey: keyof ArmEntry,
+  updateKeys: (keyof ArmEntry)[]
+) => {
+  const entries: ArmEntry[] = []
+
+  for (const oldEntry of oldEntries) {
+    const newEntry = newEntries.find((x) => x[compareKey] !== undefined && x[compareKey] === oldEntry[compareKey])
 
     // 旧バージョンにだけ含まれる
     if (newEntry === undefined) {
@@ -21,42 +42,27 @@ export const mergeEntries = async (): Promise<ArmEntry[]> => {
     // 差分をチェックして更新
     const entry = { ...oldEntry }
 
-    // しょぼかる TID が違う
-    {
-      const oldId = oldEntry.syobocal_tid
-      const newId = newEntry.syobocal_tid
+    for (const updateKey of updateKeys) {
+      const oldId = oldEntry[updateKey]
+      const newId = newEntry[updateKey]
 
       if (oldId !== newId) {
         // 新 ID だけ存在する
         if (oldId === undefined && newId !== undefined) {
-          entry.syobocal_tid = newId
+          // eslint-disable-next-line @typescript-eslint/ban-ts-comment
+          // @ts-expect-error
+          entry[updateKey] = newId
         }
 
         // ID が異なる
         // 本来どちらにするか手動で判断する必要があるが、新しい方にしてしまう
         if (oldId !== undefined && newId !== undefined) {
-          entry.syobocal_tid = newId
-          console.log(`Syobocal: ${oldId} -> ${newId}`)
-        }
-      }
-    }
-
-    // MAL ID が違う
-    {
-      const oldId = oldEntry.mal_id
-      const newId = newEntry.mal_id
-
-      if (oldId !== newId) {
-        // 新 ID だけ存在する
-        if (oldId === undefined && newId !== undefined) {
-          entry.mal_id = newId
-        }
-
-        // ID が異なる
-        // 本来どちらにするか手動で判断する必要があるが、新しい方にしてしまう
-        if (oldId !== undefined && newId !== undefined) {
-          entry.mal_id = newId
-          console.log(`MAL: ${oldId} -> ${newId}`)
+          // eslint-disable-next-line @typescript-eslint/ban-ts-comment
+          // @ts-expect-error
+          entry[updateKey] = newId
+          console.log(`${updateKey}: ${oldId} -> ${newId} `)
+          console.log(`Old: ${JSON.stringify(oldEntry)}`)
+          console.log(`New: ${JSON.stringify(newEntry)}`)
         }
       }
     }
@@ -64,8 +70,10 @@ export const mergeEntries = async (): Promise<ArmEntry[]> => {
     entries.push(entry)
   }
 
-  for (const newEntry of annict) {
-    const oldEntry = arm.find((x) => x.annict_id === newEntry.annict_id)
+  for (const newEntry of newEntries) {
+    const oldEntry = oldEntries.find(
+      (x) => newEntry[compareKey] !== undefined && x[compareKey] === newEntry[compareKey]
+    )
 
     // 新バージョンにのみ含まれる
     if (oldEntry === undefined) {

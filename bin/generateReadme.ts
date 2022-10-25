@@ -5,6 +5,7 @@ import { cwd } from 'process'
 import markdown, { MarkdownTableBuilder, TableAlignType } from 'markdown-doc-builder'
 
 import { fetchArm } from '../lib/arm'
+import { animeOfflineDatabase } from '../src/anime-offline-database'
 
 import type { ArmEntry } from '../lib/arm'
 
@@ -56,32 +57,74 @@ const generateReadme = async () => {
   md.newline()
 
   const table = MarkdownTableBuilder.newBuilder(0, 3)
-  table.header(['Service', 'arm-supplementary', 'arm'])
+  table.header(['Service', 'arm-supplementary', 'arm / anime-offline-database'])
   table.setHeadersAlign([TableAlignType.Left, TableAlignType.Middle, TableAlignType.Middle])
 
-  const rows: { label: string; key: keyof ArmEntry }[] = [
+  const rows: { label: string; url: string; key: keyof ArmEntry }[] = [
     {
       label: 'Annict',
+      url: 'https://annict.com',
       key: 'annict_id',
     },
     {
       label: 'AniList',
+      url: 'https://anilist.co',
       key: 'anilist_id',
     },
     {
       label: 'MyAnimeList',
+      url: 'https://myanimelist.net',
       key: 'mal_id',
     },
     {
       label: 'しょぼいカレンダー',
+      url: 'https://cal.syoboi.jp',
       key: 'syobocal_tid',
+    },
+    {
+      label: 'AniDB',
+      url: 'https://anidb.net',
+      key: 'anidb_id',
+    },
+    {
+      label: 'Anime-Planet',
+      url: 'https://anime-planet.com',
+      key: 'animeplanet_id',
+    },
+    {
+      label: 'aniSearch',
+      url: 'https://anisearch.com',
+      key: 'anisearch_id',
+    },
+    {
+      label: 'Kitsu',
+      url: 'https://kitsu.io',
+      key: 'kitsu_id',
+    },
+    {
+      label: 'LiveChart.me',
+      url: 'https://livechart.me',
+      key: 'livechart_id',
+    },
+    {
+      label: 'Anime Notifier',
+      url: 'https://notify.moe',
+      key: 'notify_id',
     },
   ]
 
   for (const row of rows) {
     const newSize = entries.filter((x) => x[row.key] !== undefined).length
-    const oldSize = arm.filter((x) => x[row.key] !== undefined).length
-    table.appendRow([row.label, `${newSize} (${indicateSign(newSize - oldSize)})`, oldSize.toString()])
+    let oldSize = arm.filter((x) => x[row.key] !== undefined).length
+    if (oldSize === 0) {
+      oldSize = animeOfflineDatabase.filter((x) => x[row.key] !== undefined).length
+    }
+
+    table.appendRow([
+      `[${row.label}](${row.url})`,
+      `${newSize} (${indicateSign(newSize - oldSize)})`,
+      oldSize.toString(),
+    ])
   }
 
   md.table(table)
