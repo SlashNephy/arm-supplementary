@@ -12,7 +12,7 @@ Fetch arm.json from the following URL.
 
 ## Statistics
 
-Currently, arm-supplementary has 25538 entries.
+Currently, arm-supplementary has 25538 entries (+195).
 
 | Service            | arm-supplementary |  arm  |
 | :----------------- | :---------------: | :---: |

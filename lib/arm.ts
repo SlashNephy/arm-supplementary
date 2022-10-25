@@ -5,6 +5,14 @@ export type ArmEntry = {
   anilist_id?: number
   annict_id?: number
   syobocal_tid?: number
+
+  // extended
+  anidb_id?: number
+  animeplanet_id?: string
+  anisearch_id?: number
+  kitsu_id?: number
+  livechart_id?: number
+  notify_id?: string
 }
 
 export const fetchArm = async (): Promise<ArmEntry[]> => {
