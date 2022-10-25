@@ -2,10 +2,10 @@ import { writeFile } from 'fs/promises'
 import { join } from 'path'
 import { cwd } from 'process'
 
-import { arm } from '@kawaiioverflow/arm'
 import markdown, { MarkdownTableBuilder, TableAlignType } from 'markdown-doc-builder'
 
-import { entries } from '../src'
+import { fetchArm } from '../lib/arm'
+import { mergeEntries } from '../src'
 
 import type { ArmEntry } from '../lib/arm'
 
@@ -35,8 +35,8 @@ const generateReadme = async () => {
   md.h2('Statistics')
   md.newline()
 
-  const data = entries()
-  md.text(`Currently, arm-supplementary has ${data.length} entries.`)
+  const entries = await mergeEntries()
+  md.text(`Currently, arm-supplementary has ${entries.length} entries.`)
   md.newline()
 
   const table = MarkdownTableBuilder.newBuilder(0, 3)
@@ -61,8 +61,10 @@ const generateReadme = async () => {
       key: 'syobocal_tid',
     },
   ]
+
+  const arm = await fetchArm()
   for (const row of rows) {
-    const newSize = data.filter((x) => x[row.key] !== undefined).length
+    const newSize = entries.filter((x) => x[row.key] !== undefined).length
     const oldSize = arm.filter((x) => x[row.key] !== undefined).length
     table.appendRow([
       row.label,

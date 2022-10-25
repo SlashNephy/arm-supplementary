@@ -1,11 +1,12 @@
-import { arm } from '@kawaiioverflow/arm'
-
+import { fetchArm } from '../lib/arm'
 import { annict } from './annict'
 
 import type { ArmEntry } from '../lib/arm'
 
-export const entries = (): ArmEntry[] => {
+export const mergeEntries = async (): Promise<ArmEntry[]> => {
   const entries: ArmEntry[] = []
+
+  const arm = await fetchArm()
 
   for (const oldEntry of arm) {
     const newEntry = annict.find((x) => x.annict_id === oldEntry.annict_id)
