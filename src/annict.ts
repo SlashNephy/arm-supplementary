@@ -23342,7 +23342,7 @@ export const annict: ArmEntry[] = [
   // [2002-AUTUMN] MOVIE: ピーター・パン2 ネバーランドの秘密
   // https://annict.com/works/8117
   { annict_id: 8117 },
-  // [2003-null] MOVIE: ジャングル・ブック2
+  // [2005-AUTUMN] OVA: ジャングル・ブック2
   // https://annict.com/works/8118
   { annict_id: 8118 },
   // [2004-null] MOVIE: くまのプーさん 完全保存版II ピグレット・ムービー
@@ -23831,7 +23831,7 @@ export const annict: ArmEntry[] = [
   // [2004-null] OVA: くまのプーさん/冬の贈りもの
   // https://annict.com/works/8280
   { annict_id: 8280 },
-  // [2004-null] OVA: くまのプーさん/ルーの楽しい春の日
+  // [2004-SPRING] OVA: くまのプーさん/ルーの楽しい春の日
   // https://annict.com/works/8281
   { annict_id: 8281 },
   // [2005-null] OVA: くまのプーさん/ランピーとぶるぶるオバケ
@@ -28910,4 +28910,10 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] WEB: LUPIN ZERO
   // https://annict.com/works/10137
   { annict_id: 10137 },
+  // [2000-AUTUMN] OVA: ミッキーのクリスマスの贈りもの
+  // https://annict.com/works/10138
+  { annict_id: 10138 },
+  // [2000-SPRING] OVA: 史上最強のグーフィー・ムービー Xゲームで大パニック!
+  // https://annict.com/works/10139
+  { annict_id: 10139 },
 ]
