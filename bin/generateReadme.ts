@@ -1,13 +1,18 @@
-import { writeFile } from 'fs/promises'
+import { readFile, writeFile } from 'fs/promises'
 import { join } from 'path'
 import { cwd } from 'process'
 
 import markdown, { MarkdownTableBuilder, TableAlignType } from 'markdown-doc-builder'
 
 import { fetchArm } from '../lib/arm'
-import { mergeEntries } from '../src'
 
 import type { ArmEntry } from '../lib/arm'
+
+const loadArmJson = async (): Promise<ArmEntry[]> => {
+  const path = join(cwd(), 'dist', 'arm.json')
+  const content = await readFile(path, 'utf-8')
+  return JSON.parse(content) as ArmEntry[]
+}
 
 const generateReadme = async () => {
   const md = markdown.newBuilder()
@@ -35,7 +40,7 @@ const generateReadme = async () => {
   md.h2('Statistics')
   md.newline()
 
-  const entries = await mergeEntries()
+  const entries = await loadArmJson()
   md.text(`Currently, arm-supplementary has ${entries.length} entries.`)
   md.newline()
 
