@@ -25,6 +25,12 @@ const generateReadme = async () => {
   md.h1('arm-supplementary')
   md.newline()
 
+  md.text(
+    '[![Check](https://github.com/SlashNephy/arm-supplementary/actions/workflows/check-node.yml/badge.svg)](https://github.com/SlashNephy/arm-supplementary/actions/workflows/check-node.yml)'
+  )
+  md.newline()
+  md.newline()
+
   md.text('💊 Supplemental database for [kawaiioverflow/arm](https://github.com/kawaiioverflow/arm)')
   md.newline()
   md.newline()
