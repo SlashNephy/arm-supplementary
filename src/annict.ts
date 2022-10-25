@@ -23159,7 +23159,7 @@ export const annict: ArmEntry[] = [
   // [1991-SUMMER] MOVIE: リトル・マーメイド
   // https://annict.com/works/8056
   { annict_id: 8056 },
-  // [null-null] MOVIE: ビアンカの大冒険 ゴールデン・イーグルを救え！
+  // [1996-SPRING] MOVIE: ビアンカの大冒険 ゴールデン・イーグルを救え！
   // https://annict.com/works/8057
   { annict_id: 8057 },
   // [1992-AUTUMN] MOVIE: 美女と野獣
@@ -23198,7 +23198,7 @@ export const annict: ArmEntry[] = [
   // [2004-WINTER] MOVIE: ブラザー・ベア
   // https://annict.com/works/8069
   { annict_id: 8069 },
-  // [null-null] MOVIE: ホーム・オン・ザ・レンジ にぎやか農場を救え！
+  // [2005-WINTER] OVA: ホーム・オン・ザ・レンジ にぎやか農場を救え！
   // https://annict.com/works/8070
   { annict_id: 8070 },
   // [2005-AUTUMN] MOVIE: チキン・リトル（2005年の映画）
