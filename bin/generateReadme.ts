@@ -14,6 +14,10 @@ const loadArmJson = async (): Promise<ArmEntry[]> => {
   return JSON.parse(content) as ArmEntry[]
 }
 
+const indicateSign = (value: number): string => {
+  return `${value > 0 ? '+' : value < 0 ? '' : '±'}${value}`
+}
+
 const generateReadme = async () => {
   const md = markdown.newBuilder()
 
@@ -41,7 +45,8 @@ const generateReadme = async () => {
   md.newline()
 
   const entries = await loadArmJson()
-  md.text(`Currently, arm-supplementary has ${entries.length} entries.`)
+  const arm = await fetchArm()
+  md.text(`Currently, arm-supplementary has ${entries.length} entries (${indicateSign(entries.length - arm.length)}).`)
   md.newline()
 
   const table = MarkdownTableBuilder.newBuilder(0, 3)
@@ -67,15 +72,10 @@ const generateReadme = async () => {
     },
   ]
 
-  const arm = await fetchArm()
   for (const row of rows) {
     const newSize = entries.filter((x) => x[row.key] !== undefined).length
     const oldSize = arm.filter((x) => x[row.key] !== undefined).length
-    table.appendRow([
-      row.label,
-      `${newSize} (${newSize > oldSize ? '+' : newSize < oldSize ? '-' : '±'}${newSize - oldSize})`,
-      oldSize.toString(),
-    ])
+    table.appendRow([row.label, `${newSize} (${indicateSign(newSize - oldSize)})`, oldSize.toString()])
   }
 
   md.table(table)
