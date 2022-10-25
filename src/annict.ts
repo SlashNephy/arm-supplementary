@@ -1,5 +1,6 @@
 import type { ArmEntry } from '../lib/arm'
 
+// @ts-ignore
 export const annict: ArmEntry[] = [
   // [2004-SPRING] TV: Akira Kurosawa's SAMURAI 7
   // https://annict.com/works/1
