@@ -28906,7 +28906,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] TV: Buddy Daddies
   // https://annict.com/works/10136
   { annict_id: 10136 },
-  // [2022-WINTER] WEB: LUPIN ZERO
+  // [2022-AUTUMN] WEB: LUPIN ZERO
   // https://annict.com/works/10137
   { annict_id: 10137 },
 ]
