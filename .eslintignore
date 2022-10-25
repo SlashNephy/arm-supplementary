@@ -1,3 +1,4 @@
 dist/
 graphql/*/*.ts
-src/annict.ts
+src/*.ts
+!src/index.ts
