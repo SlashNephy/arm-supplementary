@@ -8,10 +8,12 @@ export type ArmEntry = {
 }
 
 export const fetchArm = async (): Promise<ArmEntry[]> => {
+  const { default: fetch } = await import('node-fetch')
   const response = await fetch('https://raw.githubusercontent.com/kawaiioverflow/arm/master/arm.json', {
     headers: {
       'User-Agent': UserAgent,
     },
   })
-  return await response.json()
+  const json = await response.json()
+  return json as ArmEntry[]
 }
