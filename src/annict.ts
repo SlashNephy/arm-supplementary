@@ -27677,7 +27677,7 @@ export const annict: ArmEntry[] = [
   // [1989-AUTUMN] OVA: アッセンブル・インサート
   // https://annict.com/works/9725
   { annict_id: 9725, mal_id: 2414 },
-  // [2023-WINTER] TV: BIRDIE WING -Golf Girls' Story- Season 2
+  // [2023-SPRING] TV: BIRDIE WING -Golf Girls' Story- Season 2
   // https://annict.com/works/9726
   { annict_id: 9726, mal_id: 52229 },
   // [2011-WINTER] MOVIE: トリコ 3D 開幕!グルメアドベンチャー!!
