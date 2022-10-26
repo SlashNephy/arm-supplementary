@@ -14,11 +14,17 @@ Fetch arm.json from the following URL.
 
 ## Statistics
 
-Currently, arm-supplementary has 25542 entries (+199).
+Currently, arm-supplementary has 35269 entries (+9926).
 
-| Service            | arm-supplementary |  arm  |
-| :----------------- | :---------------: | :---: |
-| Annict             |    9640 (+199)    | 9441  |
-| AniList            |    18037 (±0)     | 18037 |
-| MyAnimeList        |   21770 (+398)    | 21372 |
-| しょぼいカレンダー |    5426 (+97)     | 5329  |
+| Service                                     | arm-supplementary | arm / anime-offline-database |
+| :------------------------------------------ | :---------------: | :--------------------------: |
+| [Annict](https://annict.com)                |    9641 (+200)    |             9441             |
+| [AniList](https://anilist.co)               |   20432 (+2395)   |            18037             |
+| [MyAnimeList](https://myanimelist.net)      |   24798 (+3426)   |            21372             |
+| [しょぼいカレンダー](https://cal.syoboi.jp) |    5426 (+97)     |             5329             |
+| [AniDB](https://anidb.net)                  |   12860 (+313)    |            12547             |
+| [Anime-Planet](https://anime-planet.com)    |   21657 (+334)    |            21323             |
+| [aniSearch](https://anisearch.com)          |   17475 (+336)    |            17139             |
+| [Kitsu](https://kitsu.io)                   |   18577 (+353)    |            18224             |
+| [LiveChart.me](https://livechart.me)        |   10442 (+291)    |            10151             |
+| [Anime Notifier](https://notify.moe)        |   15774 (+341)    |            15433             |
