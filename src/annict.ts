@@ -26780,7 +26780,7 @@ export const annict: ArmEntry[] = [
   // [2022-SUMMER] TV: カードファイト!! ヴァンガード will+Dress
   // https://annict.com/works/9425
   { annict_id: 9425, mal_id: 49819, syobocal_tid: 6400 },
-  // [2023-null] TV: スパイ教室
+  // [2023-WINTER] TV: スパイ教室
   // https://annict.com/works/9426
   { annict_id: 9426, mal_id: 51252 },
   // [2022-SUMMER] TV: D4DJ Double Mix
