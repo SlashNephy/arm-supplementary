@@ -28922,4 +28922,7 @@ export const annict: ArmEntry[] = [
   // [2007-SUMMER] OVA: DISNEY PRINCESS おとぎの国のプリンセス/夢を信じて
   // https://annict.com/works/10141
   { annict_id: 10141 },
+  // [2022-AUTUMN] MOVIE: カメの甲羅はあばら骨
+  // https://annict.com/works/10142
+  { annict_id: 10142, mal_id: 52980 },
 ]
