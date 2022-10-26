@@ -29,7 +29,7 @@
     "source:annict": "ts-node bin/annict.ts"
   },
   "dependencies": {
-    "@kawaiioverflow/arm": "0.102.0",
+    "@kawaiioverflow/arm": "0.103.0",
     "dotenv": "16.0.3",
     "graphql-request": "5.0.0",
     "markdown-doc-builder": "1.3.0",
