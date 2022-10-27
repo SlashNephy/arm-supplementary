@@ -25193,7 +25193,7 @@ export const annict: ArmEntry[] = [
   // [2022-WINTER] TV: ハコヅメ ～交番女子の逆襲～
   // https://annict.com/works/8799
   { annict_id: 8799, mal_id: 49519, syobocal_tid: 6194 },
-  // [null-null] WEB: とーとつにエジプト神 2
+  // [2023-WINTER] WEB: とーとつにエジプト神 2
   // https://annict.com/works/8800
   { annict_id: 8800, mal_id: 49522 },
   // [2021-AUTUMN] TV: デジモンゴーストゲーム
@@ -27584,7 +27584,7 @@ export const annict: ArmEntry[] = [
   // [2022-SPRING] WEB: よふかしのうた ミニ
   // https://annict.com/works/9694
   { annict_id: 9694, mal_id: 52015 },
-  // [2023-null] WEB: 伊藤潤二『マニアック』
+  // [2023-WINTER] WEB: 伊藤潤二『マニアック』
   // https://annict.com/works/9695
   { annict_id: 9695, mal_id: 52031 },
   // [2023-null] TV: 【推しの子】
