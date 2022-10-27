@@ -15,9 +15,9 @@ export type ArmEntry = {
   notify_id?: string
 }
 
-export const fetchArm = async (): Promise<ArmEntry[]> => {
+export const fetchArm = async (sha = 'c10d04d07eff16e3cdf6a2f2b70217ba1eb3913f'): Promise<ArmEntry[]> => {
   const { default: fetch } = await import('node-fetch')
-  const response = await fetch('https://raw.githubusercontent.com/kawaiioverflow/arm/master/arm.json', {
+  const response = await fetch(`https://raw.githubusercontent.com/kawaiioverflow/arm/${sha}/arm.json`, {
     headers: {
       'User-Agent': UserAgent,
     },
