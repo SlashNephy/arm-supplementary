@@ -725,9 +725,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@graphql-codegen/cli@npm:2.13.7":
-  version: 2.13.7
-  resolution: "@graphql-codegen/cli@npm:2.13.7"
+"@graphql-codegen/cli@npm:2.13.8":
+  version: 2.13.8
+  resolution: "@graphql-codegen/cli@npm:2.13.8"
   dependencies:
     "@babel/generator": ^7.18.13
     "@babel/template": ^7.18.10
@@ -740,7 +740,7 @@ __metadata:
     "@graphql-tools/github-loader": ^7.3.6
     "@graphql-tools/graphql-file-loader": ^7.5.0
     "@graphql-tools/json-file-loader": ^7.4.1
-    "@graphql-tools/load": ^7.7.1
+    "@graphql-tools/load": 7.8.0
     "@graphql-tools/prisma-loader": ^7.2.7
     "@graphql-tools/url-loader": ^7.13.2
     "@graphql-tools/utils": ^8.9.0
@@ -772,7 +772,7 @@ __metadata:
     graphql-code-generator: cjs/bin.js
     graphql-codegen: cjs/bin.js
     graphql-codegen-esm: esm/bin.js
-  checksum: c025e311c072c1d992451f27625c863eef1236e5f01e2aeb6f00e67a60e99c7812a13481481a8fc6ea2967fffd77433d582f10365244d677608fdc7aa13bbe29
+  checksum: 558c689f7ba022ef08aac6127dcf09e038f6a1fd81bf7bacabdf8f78cc6a322691063fc2ea012d4502108d36207363c1427fcbba0bc3a56a454fae26f76b115e
   languageName: node
   linkType: hard
 
@@ -1046,7 +1046,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@graphql-tools/load@npm:^7.5.5, @graphql-tools/load@npm:^7.7.1":
+"@graphql-tools/load@npm:7.8.0, @graphql-tools/load@npm:^7.5.5":
   version: 7.8.0
   resolution: "@graphql-tools/load@npm:7.8.0"
   dependencies:
@@ -1964,7 +1964,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "arm-supplementary@workspace:."
   dependencies:
-    "@graphql-codegen/cli": 2.13.7
+    "@graphql-codegen/cli": 2.13.8
     "@graphql-codegen/import-types-preset": 2.2.5
     "@graphql-codegen/typescript": 2.8.0
     "@graphql-codegen/typescript-graphql-request": 4.5.7
