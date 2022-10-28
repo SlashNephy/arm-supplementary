@@ -5,6 +5,7 @@ import { cwd } from 'process'
 import markdown, { MarkdownCodeType, MarkdownTableBuilder, TableAlignType } from 'markdown-doc-builder'
 
 import { fetchArm } from '../lib/arm'
+import { env } from '../lib/env'
 import { animeOfflineDatabase } from '../src/anime-offline-database'
 
 import type { ArmEntry } from '../lib/arm'
@@ -82,7 +83,7 @@ const generateReadme = async () => {
   md.newline()
 
   const entries = await loadArmJson()
-  const arm = await fetchArm()
+  const arm = await fetchArm(env.ARM_COMMIT_SHA)
   md.text(`Currently, arm-supplementary has ${entries.length} entries (${indicateSign(entries.length - arm.length)}).`)
   md.newline()
 

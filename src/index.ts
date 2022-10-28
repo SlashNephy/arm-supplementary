@@ -1,11 +1,12 @@
 import { fetchArm } from '../lib/arm'
+import { env } from '../lib/env'
 import { animeOfflineDatabase } from './anime-offline-database'
 import { annict } from './annict'
 
 import type { ArmEntry } from '../lib/arm'
 
 export const mergeEntries = async (): Promise<ArmEntry[]> => {
-  const arm = await fetchArm()
+  const arm = await fetchArm(env.ARM_COMMIT_SHA)
 
   let entries = mergeSpecificEntries(arm, annict, 'annict_id', ['syobocal_tid', 'mal_id'])
   entries = mergeSpecificEntries(entries, animeOfflineDatabase, 'mal_id', [
