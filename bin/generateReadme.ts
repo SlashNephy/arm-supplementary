@@ -2,12 +2,35 @@ import { readFile, writeFile } from 'fs/promises'
 import { join } from 'path'
 import { cwd } from 'process'
 
-import markdown, { MarkdownTableBuilder, TableAlignType } from 'markdown-doc-builder'
+import markdown, { MarkdownCodeType, MarkdownTableBuilder, TableAlignType } from 'markdown-doc-builder'
 
 import { fetchArm } from '../lib/arm'
 import { animeOfflineDatabase } from '../src/anime-offline-database'
 
 import type { ArmEntry } from '../lib/arm'
+
+// language=TypeScript
+const sampleCode = `
+export type ArmEntry = {
+  mal_id?: number
+  anilist_id?: number
+  annict_id?: number
+  syobocal_tid?: number
+
+  // extended
+  anidb_id?: number
+  animeplanet_id?: string
+  anisearch_id?: number
+  kitsu_id?: number
+  livechart_id?: number
+  notify_id?: string
+}
+
+export const fetchArmEntries = async (): Promise<ArmEntry[]> => {
+  const response = await fetch('https://raw.githubusercontent.com/SlashNephy/arm-supplementary/master/dist/arm.json')
+  return await response.json()
+}
+`.trim()
 
 const loadArmJson = async (): Promise<ArmEntry[]> => {
   const path = join(cwd(), 'dist', 'arm.json')
@@ -47,6 +70,13 @@ const generateReadme = async () => {
   md.newline()
 
   md.list(['https://raw.githubusercontent.com/SlashNephy/arm-supplementary/master/dist/arm.json'])
+
+  md.text('In TypeScript, you can use arm-supplementary from the following code.')
+  md.newline()
+  md.newline()
+
+  md.codeBlock(MarkdownCodeType.TypeScript, sampleCode)
+  md.newline()
 
   md.h2('Statistics')
   md.newline()
