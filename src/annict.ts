@@ -28840,7 +28840,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10113, syobocal_tid: 6061 },
   // [null-null] TV: SHY
   // https://annict.com/works/10114
-  { annict_id: 10114 },
+  { annict_id: 10114, mal_id: 53237 },
   // [null-null] TV: ラブライブ！スーパースター!! 3期
   // https://annict.com/works/10115
   { annict_id: 10115, mal_id: 53287 },
@@ -28927,7 +28927,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10142, mal_id: 52980 },
   // [2023-WINTER] TV: とんでもスキルで異世界放浪メシ
   // https://annict.com/works/10143
-  { annict_id: 10143 },
+  { annict_id: 10143, mal_id: 53446 },
   // [2023-SUMMER] TV: 悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。
   // https://annict.com/works/10144
   { annict_id: 10144 },
