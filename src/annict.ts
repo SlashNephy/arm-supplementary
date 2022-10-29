@@ -28925,4 +28925,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] MOVIE: カメの甲羅はあばら骨
   // https://annict.com/works/10142
   { annict_id: 10142, mal_id: 52980 },
+  // [2023-WINTER] TV: とんでもスキルで異世界放浪メシ
+  // https://annict.com/works/10143
+  { annict_id: 10143 },
 ]
