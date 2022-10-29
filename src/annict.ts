@@ -25898,7 +25898,7 @@ export const annict: ArmEntry[] = [
   // [2022-WINTER] OVA: 小林さんちのメイドラゴンS TV未放送エピソード「ニッポンのおもてなし (アテンドはドラゴンです)」
   // https://annict.com/works/9067
   { annict_id: 9067, mal_id: 49893 },
-  // [2023-null] TV: シュガーアップル・フェアリーテイル
+  // [2023-WINTER] TV: シュガーアップル・フェアリーテイル
   // https://annict.com/works/9068
   { annict_id: 9068, mal_id: 49980 },
   // [2022-AUTUMN] TV: 悪役令嬢なのでラスボスを飼ってみました
@@ -28928,4 +28928,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] TV: とんでもスキルで異世界放浪メシ
   // https://annict.com/works/10143
   { annict_id: 10143 },
+  // [2023-SUMMER] TV: 悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。
+  // https://annict.com/works/10144
+  { annict_id: 10144 },
 ]
