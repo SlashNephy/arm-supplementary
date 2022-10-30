@@ -25928,7 +25928,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 文豪ストレイドッグス (第4期)
   // https://annict.com/works/9077
   { annict_id: 9077, mal_id: 50330 },
-  // [2022-null] TV: テクノロイド オーバーマインド
+  // [2023-WINTER] TV: テクノロイド オーバーマインド
   // https://annict.com/works/9078
   { annict_id: 9078, mal_id: 50284 },
   // [2021-SPRING] MOVIE: トゥルーノース
