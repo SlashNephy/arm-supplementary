@@ -19589,7 +19589,7 @@ export const annict: ArmEntry[] = [
   // [2020-WINTER] TV: ソマリと森の神様
   // https://annict.com/works/6605
   { annict_id: 6605, mal_id: 39575, syobocal_tid: 5551 },
-  // [null-null] TV: テンカウント
+  // [2023-null] MOVIE: 劇場アニメ「テンカウント」
   // https://annict.com/works/6606
   { annict_id: 6606, mal_id: 37616 },
   // [2020-WINTER] MOVIE: メイドインアビス 深き魂の黎明
