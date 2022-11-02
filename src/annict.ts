@@ -10370,7 +10370,7 @@ export const annict: ArmEntry[] = [
   // [2009-SPRING] MOVIE: 劇場版 天元突破グレンラガン 螺巌篇
   // https://annict.com/works/3467
   { annict_id: 3467, mal_id: 4565, syobocal_tid: 5555 },
-  // [1980-SPRING] MOVIE: 地球へ…TOWARD THE TERRA
+  // [1980-SPRING] MOVIE: 地球へ…
   // https://annict.com/works/3468
   { annict_id: 3468, mal_id: 2560, syobocal_tid: 2791 },
   // [1996-SPRING] MOVIE: 天地無用！ in LOVE
