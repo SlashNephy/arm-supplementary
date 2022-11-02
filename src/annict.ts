@@ -7583,7 +7583,7 @@ export const annict: ArmEntry[] = [
   // [2011-WINTER] OVA: IS＜インフィニット・ストラトス＞アンコール 恋に焦がれる六重奏
   // https://annict.com/works/2531
   { annict_id: 2531, mal_id: 10794, syobocal_tid: 2765 },
-  // [1994-SPRING] OVA: I・R・I・A ZEIRAM THE ANIMATION
+  // [1994-SPRING] OVA: I・Я・I・A ZЁIЯAM THE ANIMATION
   // https://annict.com/works/2532
   { annict_id: 2532, mal_id: 432 },
   // [2010-WINTER] OVA: いっしょにすりーぴんぐ
