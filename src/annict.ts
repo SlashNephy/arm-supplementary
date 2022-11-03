@@ -6023,7 +6023,7 @@ export const annict: ArmEntry[] = [
   // [2001-AUTUMN] TV: 星のカービィ
   // https://annict.com/works/2010
   { annict_id: 2010, mal_id: 2390, syobocal_tid: 50 },
-  // [1978-SUMMER] TV: 星の王子様　プチ・フランス
+  // [1978-SUMMER] TV: 星の王子さま プチ・フランス
   // https://annict.com/works/2011
   { annict_id: 2011, mal_id: 3811 },
   // [2011-SPRING] TV: 星空へ架かる橋
@@ -28931,4 +28931,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] TV: 悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。
   // https://annict.com/works/10144
   { annict_id: 10144 },
+  // [1961-SPRING] TV: つよいぞラフティ
+  // https://annict.com/works/10145
+  { annict_id: 10145 },
 ]
