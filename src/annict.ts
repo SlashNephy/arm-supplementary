@@ -28934,4 +28934,7 @@ export const annict: ArmEntry[] = [
   // [1961-SPRING] TV: つよいぞラフティ
   // https://annict.com/works/10145
   { annict_id: 10145 },
+  // [2015-AUTUMN] OVA: ろぼっとアトム
+  // https://annict.com/works/10146
+  { annict_id: 10146, mal_id: 40377 },
 ]
