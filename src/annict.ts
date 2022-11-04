@@ -28937,4 +28937,13 @@ export const annict: ArmEntry[] = [
   // [2015-AUTUMN] OVA: ろぼっとアトム
   // https://annict.com/works/10146
   { annict_id: 10146, mal_id: 40377 },
+  // [1982-SUMMER] MOVIE: スペースアドベンチャー コブラ
+  // https://annict.com/works/10147
+  { annict_id: 10147, mal_id: 2452 },
+  // [2014-SPRING] MOVIE: イナズマイレブン 超次元ドリームマッチ
+  // https://annict.com/works/10148
+  { annict_id: 10148, mal_id: 24347 },
+  // [2014-WINTER] WEB: ダンボール戦機 オールスターフォトバトル
+  // https://annict.com/works/10149
+  { annict_id: 10149, mal_id: 33957 },
 ]
