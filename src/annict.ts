@@ -28946,4 +28946,13 @@ export const annict: ArmEntry[] = [
   // [2014-WINTER] WEB: ダンボール戦機 オールスターフォトバトル
   // https://annict.com/works/10149
   { annict_id: 10149, mal_id: 33957 },
+  // [1995-SPRING] OVA: マクロス7ぷらす
+  // https://annict.com/works/10150
+  { annict_id: 10150, mal_id: 6209 },
+  // [2016-SUMMER] OVA: でるた小劇場
+  // https://annict.com/works/10151
+  { annict_id: 10151, mal_id: 33806 },
+  // [2018-SUMMER] OVA: げきじょうばん でるた小劇場
+  // https://annict.com/works/10152
+  { annict_id: 10152, mal_id: 38676 },
 ]
