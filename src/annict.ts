@@ -28961,4 +28961,13 @@ export const annict: ArmEntry[] = [
   // [2008-AUTUMN] OVA: イマジンあにめ 2
   // https://annict.com/works/10154
   { annict_id: 10154, mal_id: 6297 },
+  // [2010-AUTUMN] OVA: イマジンあにめ 3
+  // https://annict.com/works/10155
+  { annict_id: 10155, mal_id: 10202 },
+  // [2008-AUTUMN] MOVIE: イマジンあにめ モモタロスよ永遠に－イマジン終着駅－
+  // https://annict.com/works/10156
+  { annict_id: 10156 },
+  // [2011-WINTER] OVA: マクロスＦ 超時空劇場
+  // https://annict.com/works/10157
+  { annict_id: 10157, mal_id: 10361 },
 ]
