@@ -28955,4 +28955,10 @@ export const annict: ArmEntry[] = [
   // [2018-SUMMER] OVA: げきじょうばん でるた小劇場
   // https://annict.com/works/10152
   { annict_id: 10152, mal_id: 38676 },
+  // [2008-SPRING] OVA: イマジンあにめ
+  // https://annict.com/works/10153
+  { annict_id: 10153, mal_id: 3923 },
+  // [2008-AUTUMN] OVA: イマジンあにめ 2
+  // https://annict.com/works/10154
+  { annict_id: 10154, mal_id: 6297 },
 ]
