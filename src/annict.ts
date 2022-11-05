@@ -28970,4 +28970,7 @@ export const annict: ArmEntry[] = [
   // [2011-WINTER] OVA: マクロスＦ 超時空劇場
   // https://annict.com/works/10157
   { annict_id: 10157, mal_id: 10361 },
+  // [null-null] TV: 転生したら第七王子だったので、気ままに魔術を極めます
+  // https://annict.com/works/10158
+  { annict_id: 10158 },
 ]
