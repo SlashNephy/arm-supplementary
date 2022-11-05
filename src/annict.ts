@@ -28973,4 +28973,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 転生したら第七王子だったので、気ままに魔術を極めます
   // https://annict.com/works/10158
   { annict_id: 10158 },
+  // [2012-SPRING] TV: 仮面ライダーフォーゼ×クレヨンしんちゃん
+  // https://annict.com/works/10159
+  { annict_id: 10159, mal_id: 14095 },
 ]
