@@ -22718,7 +22718,7 @@ export const annict: ArmEntry[] = [
   // [2021-AUTUMN] TV: 大正オトメ御伽話
   // https://annict.com/works/7879
   { annict_id: 7879, mal_id: 45055, syobocal_tid: 6110 },
-  // [null-null] TV: くまクマ熊ベアー 第2期
+  // [2023-SPRING] TV: くまクマ熊ベアーぱーんち！
   // https://annict.com/works/7880
   { annict_id: 7880, mal_id: 45486 },
   // [2022-WINTER] TV: スローループ
@@ -27695,7 +27695,7 @@ export const annict: ArmEntry[] = [
   // [2023-null] OTHER: 俺だけレベルアップな件
   // https://annict.com/works/9731
   { annict_id: 9731 },
-  // [null-null] OTHER: 彼女が公爵邸に行った理由
+  // [2023-SPRING] TV: 彼女が公爵邸に行った理由
   // https://annict.com/works/9732
   { annict_id: 9732 },
   // [2023-null] TV: シャングリラ・フロンティア
