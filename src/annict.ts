@@ -27374,7 +27374,7 @@ export const annict: ArmEntry[] = [
   // [2022-SPRING] WEB: アンダン 〜時を超える者〜 シーズン2
   // https://annict.com/works/9624
   { annict_id: 9624 },
-  // [null-null] WEB: ウマ娘 プリティーダービー [新作シリーズ]
+  // [2023-SPRING] WEB: ウマ娘 プリティーダービー Road to the Top
   // https://annict.com/works/9625
   { annict_id: 9625, mal_id: 51761 },
   // [2022-SPRING] OTHER: Zombie Zoo
@@ -28979,4 +28979,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] TV: UniteUp!
   // https://annict.com/works/10160
   { annict_id: 10160 },
+  // [null-null] TV: ウマ娘 プリティーダービー Season 3
+  // https://annict.com/works/10161
+  { annict_id: 10161, mal_id: 156632 },
 ]
