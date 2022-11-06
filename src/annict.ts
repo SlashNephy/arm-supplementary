@@ -28976,4 +28976,7 @@ export const annict: ArmEntry[] = [
   // [2012-SPRING] TV: 仮面ライダーフォーゼ×クレヨンしんちゃん
   // https://annict.com/works/10159
   { annict_id: 10159, mal_id: 14095 },
+  // [2023-WINTER] TV: UniteUp!
+  // https://annict.com/works/10160
+  { annict_id: 10160 },
 ]
