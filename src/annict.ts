@@ -29012,4 +29012,13 @@ export const annict: ArmEntry[] = [
   // [2018-WINTER] OVA: イナズマイレブン リローデッド
   // https://annict.com/works/10171
   { annict_id: 10171, mal_id: 37814 },
+  // [1980-WINTER] MOVIE: 火の鳥2772 愛のコスモゾーン
+  // https://annict.com/works/10172
+  { annict_id: 10172, mal_id: 2793 },
+  // [1985-WINTER] MOVIE: ボビーに首ったけ
+  // https://annict.com/works/10173
+  { annict_id: 10173, mal_id: 3120 },
+  // [2001-SUMMER] MOVIE: FINAL FANTASY
+  // https://annict.com/works/10174
+  { annict_id: 10174, mal_id: 1361 },
 ]
