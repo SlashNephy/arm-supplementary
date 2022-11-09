@@ -28982,4 +28982,10 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: ウマ娘 プリティーダービー Season 3
   // https://annict.com/works/10161
   { annict_id: 10161, mal_id: 156632 },
+  // [2007-SUMMER] OVA: うら☆ひぐ（仮）
+  // https://annict.com/works/10162
+  { annict_id: 10162, mal_id: 6064 },
+  // [2020-WINTER] WEB: 機動戦士ガンダムG40
+  // https://annict.com/works/10163
+  { annict_id: 10163, mal_id: 41063 },
 ]
