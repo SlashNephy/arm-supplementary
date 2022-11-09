@@ -28988,4 +28988,28 @@ export const annict: ArmEntry[] = [
   // [2020-WINTER] WEB: 機動戦士ガンダムG40
   // https://annict.com/works/10163
   { annict_id: 10163, mal_id: 41063 },
+  // [2022-SPRING] WEB: 機動戦士ガンダム00 Revealed Chronicle
+  // https://annict.com/works/10164
+  { annict_id: 10164, mal_id: 51554 },
+  // [2015-SPRING] OVA: ガンダム Gのレコンギスタ FROM THE PAST TO THE FUTURE
+  // https://annict.com/works/10165
+  { annict_id: 10165, mal_id: 31454 },
+  // [2014-AUTUMN] OVA: モビルスーツ学園 「Ｇ-レコ甲子園」
+  // https://annict.com/works/10166
+  { annict_id: 10166, mal_id: 34519 },
+  // [2020-WINTER] OVA: モビルスーツ学園 「帰ってきたＧ-レコ甲子園」
+  // https://annict.com/works/10167
+  { annict_id: 10167, mal_id: 40888 },
+  // [2009-SUMMER] OVA: リング・オブ・ガンダム
+  // https://annict.com/works/10168
+  { annict_id: 10168, mal_id: 7060 },
+  // [null-null] TV: 終末トレインどこへいく？
+  // https://annict.com/works/10169
+  { annict_id: 10169, mal_id: 53356 },
+  // [2016-AUTUMN] WEB: イナズマイレブン アウターコード
+  // https://annict.com/works/10170
+  { annict_id: 10170, mal_id: 34178 },
+  // [2018-WINTER] OVA: イナズマイレブン リローデッド
+  // https://annict.com/works/10171
+  { annict_id: 10171, mal_id: 37814 },
 ]
