@@ -29021,4 +29021,7 @@ export const annict: ArmEntry[] = [
   // [2001-SUMMER] MOVIE: FINAL FANTASY
   // https://annict.com/works/10174
   { annict_id: 10174, mal_id: 1361 },
+  // [2023-SPRING] MOVIE: ザ・スーパーマリオブラザーズ・ムービー
+  // https://annict.com/works/10175
+  { annict_id: 10175 },
 ]
