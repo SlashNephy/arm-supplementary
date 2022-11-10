@@ -28721,7 +28721,7 @@ export const annict: ArmEntry[] = [
   // [null-null] MOVIE: 劇場版 ベルサイユのばら
   // https://annict.com/works/10074
   { annict_id: 10074 },
-  // [2023-null] TV: 女神のカフェテラス
+  // [2023-SPRING] TV: 女神のカフェテラス
   // https://annict.com/works/10075
   { annict_id: 10075 },
   // [2022-SUMMER] WEB: BASTARD!! -暗黒の破壊神- (2022) part2
@@ -29024,4 +29024,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] MOVIE: ザ・スーパーマリオブラザーズ・ムービー
   // https://annict.com/works/10175
   { annict_id: 10175 },
+  // [null-null] OTHER: 転生したらスライムだった件 第3期
+  // https://annict.com/works/10176
+  { annict_id: 10176 },
 ]
