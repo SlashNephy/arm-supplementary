@@ -29024,7 +29024,10 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] MOVIE: ザ・スーパーマリオブラザーズ・ムービー
   // https://annict.com/works/10175
   { annict_id: 10175 },
-  // [null-null] OTHER: 転生したらスライムだった件 第3期
+  // [null-null] TV: 転生したらスライムだった件 第3期
   // https://annict.com/works/10176
   { annict_id: 10176 },
+  // [2023-null] TV: THE MARGINAL SERVICE
+  // https://annict.com/works/10177
+  { annict_id: 10177, mal_id: 53587 },
 ]
