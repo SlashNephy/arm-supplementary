@@ -29030,4 +29030,7 @@ export const annict: ArmEntry[] = [
   // [2023-null] TV: THE MARGINAL SERVICE
   // https://annict.com/works/10177
   { annict_id: 10177, mal_id: 53587 },
+  // [null-null] TV: 最弱テイマーはゴミ拾いの旅を始めました。
+  // https://annict.com/works/10178
+  { annict_id: 10178 },
 ]
