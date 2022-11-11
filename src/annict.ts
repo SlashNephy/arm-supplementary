@@ -29033,4 +29033,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 最弱テイマーはゴミ拾いの旅を始めました。
   // https://annict.com/works/10178
   { annict_id: 10178 },
+  // [2010-SUMMER] MOVIE: CINEMA KEIBA/JAPAN WORLD CUP
+  // https://annict.com/works/10179
+  { annict_id: 10179, mal_id: 37326 },
 ]
