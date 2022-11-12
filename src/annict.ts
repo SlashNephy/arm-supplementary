@@ -27770,7 +27770,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] TV: 老後に備えて異世界で８万枚の金貨を貯めます
   // https://annict.com/works/9756
   { annict_id: 9756 },
-  // [2023-null] TV: ダークギャザリング
+  // [2023-SUMMER] TV: ダークギャザリング
   // https://annict.com/works/9757
   { annict_id: 9757 },
   // [2022-SUMMER] WEB: 兄に付ける薬はない！5 -快把我哥帯走5-
