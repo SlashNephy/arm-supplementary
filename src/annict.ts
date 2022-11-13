@@ -29042,4 +29042,22 @@ export const annict: ArmEntry[] = [
   // [2016-SPRING] WEB: リック・アンド・モーティ シーズン1
   // https://annict.com/works/10181
   { annict_id: 10181 },
+  // [2016-SPRING] WEB: リック・アンド・モーティ シーズン2
+  // https://annict.com/works/10182
+  { annict_id: 10182 },
+  // [2016-SPRING] WEB: リック・アンド・モーティ シーズン3
+  // https://annict.com/works/10183
+  { annict_id: 10183 },
+  // [2019-AUTUMN] WEB: リック・アンド・モーティ シーズン4
+  // https://annict.com/works/10184
+  { annict_id: 10184 },
+  // [2021-SPRING] WEB: リック・アンド・モーティ シーズン5
+  // https://annict.com/works/10185
+  { annict_id: 10185 },
+  // [2022-SUMMER] WEB: リック・アンド・モーティ シーズン6
+  // https://annict.com/works/10186
+  { annict_id: 10186 },
+  // [2011-WINTER] OVA: スペランカー先生
+  // https://annict.com/works/10187
+  { annict_id: 10187, mal_id: 10406 },
 ]
