@@ -10604,7 +10604,7 @@ export const annict: ArmEntry[] = [
   // [2006-SUMMER] MOVIE: 時をかける少女
   // https://annict.com/works/3545
   { annict_id: 3545, mal_id: 2236, syobocal_tid: 1197 },
-  // [1986-AUTUMN] MOVIE: 時空の旅人　Time Stranger
+  // [1986-AUTUMN] MOVIE: 時空の旅人 Time Stranger
   // https://annict.com/works/3546
   { annict_id: 3546, mal_id: 3115 },
   // [2003-AUTUMN] MOVIE: 東京ゴッドファーザーズ
