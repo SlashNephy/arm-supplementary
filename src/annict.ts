@@ -29060,4 +29060,7 @@ export const annict: ArmEntry[] = [
   // [2011-WINTER] OVA: スペランカー先生
   // https://annict.com/works/10187
   { annict_id: 10187, mal_id: 10406 },
+  // [2023-SPRING] MOVIE: プリンセス・プリンシパル Crown Handler 第3章
+  // https://annict.com/works/10188
+  { annict_id: 10188 },
 ]
