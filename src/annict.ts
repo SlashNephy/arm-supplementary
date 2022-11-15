@@ -29066,4 +29066,7 @@ export const annict: ArmEntry[] = [
   // [2023-null] WEB: 陰陽師
   // https://annict.com/works/10189
   { annict_id: 10189, mal_id: 53151 },
+  // [1996-WINTER] MOVIE: チョッちゃん物語
+  // https://annict.com/works/10190
+  { annict_id: 10190, mal_id: 4201 },
 ]
