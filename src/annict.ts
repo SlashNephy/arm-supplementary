@@ -29038,7 +29038,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10179, mal_id: 37326 },
   // [2023-null] TV: 絆のアリル
   // https://annict.com/works/10180
-  { annict_id: 10180 },
+  { annict_id: 10180, mal_id: 51139 },
   // [2016-SPRING] WEB: リック・アンド・モーティ シーズン1
   // https://annict.com/works/10181
   { annict_id: 10181 },
