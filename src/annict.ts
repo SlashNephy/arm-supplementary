@@ -22826,7 +22826,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 対ありでした。 ～お嬢さまは格闘ゲームなんてしない～
   // https://annict.com/works/7915
   { annict_id: 7915, mal_id: 46488 },
-  // [2023-null] TV: 贄姫と獣の王
+  // [2023-SPRING] TV: 贄姫と獣の王
   // https://annict.com/works/7916
   { annict_id: 7916, mal_id: 46422 },
   // [2021-AUTUMN] TV: ブルーピリオド
