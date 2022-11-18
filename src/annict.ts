@@ -29078,4 +29078,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: デッドマウント・デスプレイ
   // https://annict.com/works/10193
   { annict_id: 10193 },
+  // [null-null] OTHER: ばいばい、アース
+  // https://annict.com/works/10194
+  { annict_id: 10194 },
 ]
