@@ -27998,7 +27998,7 @@ export const annict: ArmEntry[] = [
   // [2002-SPRING] TV: レッチュ ゲッチュ サルゲッチュ
   // https://annict.com/works/9832
   { annict_id: 9832, mal_id: 31054 },
-  // [null-null] TV: 異世界でチート能力を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～
+  // [2023-SPRING] TV: 異世界でチート能力を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～
   // https://annict.com/works/9833
   { annict_id: 9833 },
   // [2023-WINTER] TV: ツルネ ―つながりの一射―
@@ -29072,4 +29072,10 @@ export const annict: ArmEntry[] = [
   // [2023-null] TV: 事情を知らない転校生がグイグイくる。
   // https://annict.com/works/10191
   { annict_id: 10191 },
+  // [2023-WINTER] WEB: 最後の召喚師 -The Last Summoner-
+  // https://annict.com/works/10192
+  { annict_id: 10192 },
+  // [2023-SPRING] TV: デッドマウント・デスプレイ
+  // https://annict.com/works/10193
+  { annict_id: 10193 },
 ]
