@@ -23744,7 +23744,7 @@ export const annict: ArmEntry[] = [
   // [2021-WINTER] OVA: planetarian～雪圏球～
   // https://annict.com/works/8251
   { annict_id: 8251, mal_id: 40778 },
-  // [null-null] MOVIE: ガールズ&パンツァー 最終章 第4話
+  // [2023-null] MOVIE: ガールズ&パンツァー 最終章 第4話
   // https://annict.com/works/8252
   { annict_id: 8252, mal_id: 39167 },
   // [2021-WINTER] WEB: インビンシブル ～無敵のヒーロー～
@@ -24251,7 +24251,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] MOVIE: 劇場版 ブラッククローバー 魔法帝の剣
   // https://annict.com/works/8452
   { annict_id: 8452, mal_id: 48585 },
-  // [null-null] OTHER: ライアー・ライアー
+  // [2023-null] TV: ライアー・ライアー
   // https://annict.com/works/8453
   { annict_id: 8453, mal_id: 48633 },
   // [2021-SPRING] OTHER: Obey Me! スペシャルアニメ 「魔界大旅行」
