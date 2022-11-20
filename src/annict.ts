@@ -29081,4 +29081,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: ばいばい、アース
   // https://annict.com/works/10194
   { annict_id: 10194 },
+  // [2019-WINTER] MOVIE: 映画 コラショの海底わくわく大冒険！
+  // https://annict.com/works/10195
+  { annict_id: 10195, mal_id: 38743 },
 ]
