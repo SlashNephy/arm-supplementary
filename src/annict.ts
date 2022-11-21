@@ -29087,4 +29087,7 @@ export const annict: ArmEntry[] = [
   // [2023-null] TV: 夢見る男子は現実主義者
   // https://annict.com/works/10196
   { annict_id: 10196 },
+  // [2017-AUTUMN] TV: アニ×パラ〜あなたのヒーローは誰ですか〜
+  // https://annict.com/works/10197
+  { annict_id: 10197, mal_id: 37290 },
 ]
