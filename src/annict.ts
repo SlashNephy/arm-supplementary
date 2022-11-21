@@ -29084,4 +29084,7 @@ export const annict: ArmEntry[] = [
   // [2019-WINTER] MOVIE: 映画 コラショの海底わくわく大冒険！
   // https://annict.com/works/10195
   { annict_id: 10195, mal_id: 38743 },
+  // [2023-null] TV: 夢見る男子は現実主義者
+  // https://annict.com/works/10196
+  { annict_id: 10196 },
 ]
