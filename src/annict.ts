@@ -29093,4 +29093,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] WEB: 『ブルーアーカイブ』ショートアニメーション「beautiful day dreamer」
   // https://annict.com/works/10198
   { annict_id: 10198 },
+  // [2022-AUTUMN] MOVIE: ストレンジ・ワールド/もうひとつの世界
+  // https://annict.com/works/10199
+  { annict_id: 10199 },
 ]
