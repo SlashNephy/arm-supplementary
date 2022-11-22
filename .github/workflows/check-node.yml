@@ -46,7 +46,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
         with:
-          token: '${{ secrets.GITHUB_TOKEN }}'
+          token: '${{ secrets.GH_PAT }}'
 
       - name: Setup Node
         uses: actions/setup-node@v3
