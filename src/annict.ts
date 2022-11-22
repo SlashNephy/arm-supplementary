@@ -25919,7 +25919,7 @@ export const annict: ArmEntry[] = [
   // [2020-WINTER] TV: ムーミン谷のなかまたち シーズン2
   // https://annict.com/works/9074
   { annict_id: 9074 },
-  // [null-null] TV: トニカクカワイイ 第2期
+  // [2023-null] TV: トニカクカワイイ 第2期
   // https://annict.com/works/9075
   { annict_id: 9075, mal_id: 50307 },
   // [2022-AUTUMN] WEB: トニカクカワイイ 〜制服〜
