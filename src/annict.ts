@@ -29098,5 +29098,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 10199 },
   // [2023-SUMMER] MOVIE: ラブライブ！虹ヶ咲学園スクールアイドル同好会 (OVA)
   // https://annict.com/works/10200
-  { annict_id: 10200 },
+  { annict_id: 10200, mal_id: 53671 },
 ]
