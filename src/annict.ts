@@ -29102,4 +29102,10 @@ export const annict: ArmEntry[] = [
   // [2023-null] TV: ブルバスター
   // https://annict.com/works/10201
   { annict_id: 10201 },
+  // [2019-WINTER] OVA: ガイコツ書店員本田さん OVA
+  // https://annict.com/works/10202
+  { annict_id: 10202, mal_id: 38527 },
+  // [2022-AUTUMN] WEB: 真・進化の実劇場
+  // https://annict.com/works/10203
+  { annict_id: 10203, mal_id: 53595 },
 ]
