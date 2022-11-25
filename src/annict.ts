@@ -26210,7 +26210,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: ミギとダリ
   // https://annict.com/works/9203
   { annict_id: 9203, mal_id: 50586 },
-  // [2023-null] MOVIE: 劇場版グリッドマン ユニバース
+  // [2023-WINTER] MOVIE: グリッドマン ユニバース
   // https://annict.com/works/9204
   { annict_id: 9204, mal_id: 50587 },
   // [2022-AUTUMN] TV: 後宮の烏
@@ -27275,7 +27275,7 @@ export const annict: ArmEntry[] = [
   // [2002-SPRING] TV: おじゃる丸（第5シリーズ）
   // https://annict.com/works/9591
   { annict_id: 9591, mal_id: 4459, syobocal_tid: 454 },
-  // [null-null] TV: 神無き世界のカミサマ活動
+  // [2023-null] TV: 神無き世界のカミサマ活動
   // https://annict.com/works/9592
   { annict_id: 9592, mal_id: 51693 },
   // [2003-SPRING] TV: おじゃる丸（第6シリーズ）
@@ -29099,4 +29099,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] MOVIE: ラブライブ！虹ヶ咲学園スクールアイドル同好会 (OVA)
   // https://annict.com/works/10200
   { annict_id: 10200, mal_id: 53671 },
+  // [2023-null] TV: ブルバスター
+  // https://annict.com/works/10201
+  { annict_id: 10201 },
 ]
