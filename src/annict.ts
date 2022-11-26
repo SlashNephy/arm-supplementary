@@ -29114,4 +29114,13 @@ export const annict: ArmEntry[] = [
   // [2011-SUMMER] TV: アベンジャーズ 地球最強のヒーロー
   // https://annict.com/works/10205
   { annict_id: 10205 },
+  // [2003-SPRING] TV: キム・ポッシブル
+  // https://annict.com/works/10206
+  { annict_id: 10206 },
+  // [1970-WINTER] TV: スクービー・ドゥー
+  // https://annict.com/works/10207
+  { annict_id: 10207 },
+  // [1961-SPRING] TV: 原始家族フリントストーン
+  // https://annict.com/works/10208
+  { annict_id: 10208 },
 ]
