@@ -21877,7 +21877,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 7533, mal_id: 917 },
   // [2020-SPRING] TV: 大家さんと僕 シーズン2
   // https://annict.com/works/7534
-  { annict_id: 7534, mal_id: 41349, syobocal_tid: 5690 },
+  { annict_id: 7534, mal_id: 53651, syobocal_tid: 5690 },
   // [2019-WINTER] TV: DCスーパーヒーローガールズ (TVシリーズ)
   // https://annict.com/works/7535
   { annict_id: 7535 },
@@ -23050,7 +23050,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 8019, mal_id: 48495, syobocal_tid: 5937 },
   // [2021-SPRING] TV: 大家さんと僕 シーズン3
   // https://annict.com/works/8020
-  { annict_id: 8020, mal_id: 41349, syobocal_tid: 5962 },
+  { annict_id: 8020, mal_id: 53652, syobocal_tid: 5962 },
   // [2021-SPRING] TV: おしりたんてい (第5シリーズ)
   // https://annict.com/works/8021
   { annict_id: 8021, syobocal_tid: 5964 },
@@ -29108,4 +29108,10 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] WEB: 真・進化の実劇場
   // https://annict.com/works/10203
   { annict_id: 10203, mal_id: 53595 },
+  // [2009-AUTUMN] TV: アイアンマン ザ・アドベンチャーズ
+  // https://annict.com/works/10204
+  { annict_id: 10204 },
+  // [2011-SUMMER] TV: アベンジャーズ 地球最強のヒーロー
+  // https://annict.com/works/10205
+  { annict_id: 10205 },
 ]
