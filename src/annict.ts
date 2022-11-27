@@ -27047,7 +27047,7 @@ export const annict: ArmEntry[] = [
   // [2022-WINTER] WEB: まちカドまぞく 2丁目 みに
   // https://annict.com/works/9515
   { annict_id: 9515, mal_id: 51543 },
-  // [2023-null] TV: アイドルマスター シンデレラガールズ U149
+  // [2023-SPRING] TV: アイドルマスター シンデレラガールズ U149
   // https://annict.com/works/9516
   { annict_id: 9516, mal_id: 51536 },
   // [2022-SPRING] TV: おしりたんてい (第6シリーズ)
