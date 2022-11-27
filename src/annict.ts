@@ -25298,7 +25298,7 @@ export const annict: ArmEntry[] = [
   // [2023-null] TV: The Legend of Heroes 閃の軌跡 Northern War
   // https://annict.com/works/8835
   { annict_id: 8835, mal_id: 48441 },
-  // [2023-null] WEB: 終末のワルキューレ 第2期
+  // [2023-WINTER] WEB: 終末のワルキューレⅡ
   // https://annict.com/works/8836
   { annict_id: 8836, mal_id: 49618 },
   // [2021-AUTUMN] TV: しょうたいむ！～歌のお姉さんだってしたい
@@ -27170,7 +27170,7 @@ export const annict: ArmEntry[] = [
   // [2022-SPRING] TV: 名探偵コナン 本庁の刑事恋物語～結婚前夜～
   // https://annict.com/works/9556
   { annict_id: 9556 },
-  // [2023-SPRING] TV: 異世界はスマートフォンとともに。第2期
+  // [2023-SPRING] TV: 異世界はスマートフォンとともに。2
   // https://annict.com/works/9557
   { annict_id: 9557, mal_id: 51632 },
   // [2014-SUMMER] OVA: 月刊少女野崎くん 特典アニメ
@@ -28760,7 +28760,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: その着せ替え人形は恋をする 続編
   // https://annict.com/works/10087
   { annict_id: 10087 },
-  // [2023-WINTER] TV: にじよんあにめーしょん
+  // [2023-WINTER] TV: にじよん あにめーしょん
   // https://annict.com/works/10088
   { annict_id: 10088, mal_id: 53077 },
   // [2022-AUTUMN] TV: ぷにるんず
@@ -29123,4 +29123,7 @@ export const annict: ArmEntry[] = [
   // [1961-SPRING] TV: 原始家族フリントストーン
   // https://annict.com/works/10208
   { annict_id: 10208 },
+  // [null-null] OTHER: ポールプリンセス!!
+  // https://annict.com/works/10209
+  { annict_id: 10209 },
 ]
