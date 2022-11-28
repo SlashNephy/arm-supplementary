@@ -27311,7 +27311,7 @@ export const annict: ArmEntry[] = [
   // [2023-null] TV: おとなりに銀河
   // https://annict.com/works/9603
   { annict_id: 9603, mal_id: 51705 },
-  // [2023-null] TV: 勇者が死んだ！
+  // [2023-SPRING] TV: 勇者が死んだ！
   // https://annict.com/works/9604
   { annict_id: 9604, mal_id: 51706 },
   // [2021-WINTER] WEB: がきたびっ！～あけちの故郷 (ふるさと) 編～
@@ -29126,4 +29126,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: ポールプリンセス!!
   // https://annict.com/works/10209
   { annict_id: 10209 },
+  // [2023-SPRING] TV: ワールドダイスター
+  // https://annict.com/works/10210
+  { annict_id: 10210 },
 ]
