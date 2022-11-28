@@ -38,17 +38,17 @@ export const fetchArmEntries = async (): Promise<ArmEntry[]> => {
 
 ## Statistics
 
-Currently, arm-supplementary has 34522 entries (+7316).
+Currently, arm-supplementary has 34567 entries (+7361).
 
 | Service                                     | arm-supplementary | arm / anime-offline-database |
 | :------------------------------------------ | :---------------: | :--------------------------: |
 | [Annict](https://annict.com)                |    9709 (+153)    |             9556             |
-| [AniList](https://anilist.co)               |   20382 (+2077)   |            18305             |
-| [MyAnimeList](https://myanimelist.net)      |   24179 (+818)    |            23361             |
+| [AniList](https://anilist.co)               |   20394 (+2089)   |            18305             |
+| [MyAnimeList](https://myanimelist.net)      |   24203 (+842)    |            23361             |
 | [しょぼいカレンダー](https://cal.syoboi.jp) |    5414 (+31)     |             5383             |
-| [AniDB](https://anidb.net)                  |   12696 (+112)    |            12584             |
-| [Anime-Planet](https://anime-planet.com)    |   21479 (+114)    |            21365             |
-| [aniSearch](https://anisearch.com)          |   17344 (+120)    |            17224             |
-| [Kitsu](https://kitsu.io)                   |   18450 (+125)    |            18325             |
-| [LiveChart.me](https://livechart.me)        |   10361 (+108)    |            10253             |
+| [AniDB](https://anidb.net)                  |   12705 (+112)    |            12593             |
+| [Anime-Planet](https://anime-planet.com)    |   21519 (+114)    |            21405             |
+| [aniSearch](https://anisearch.com)          |   17371 (+120)    |            17251             |
+| [Kitsu](https://kitsu.io)                   |   18458 (+125)    |            18333             |
+| [LiveChart.me](https://livechart.me)        |   10395 (+108)    |            10287             |
 | [Anime Notifier](https://notify.moe)        |   15589 (+121)    |            15468             |
