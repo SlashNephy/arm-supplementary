@@ -36,6 +36,8 @@ jobs:
     uses: SlashNephy/.github/.github/workflows/yarn-format.yml@master
     permissions:
       contents: 'write'
+    secrets:
+      github-token: '${{ secrets.GH_PAT }}'
 
   update:
     if: github.event_name == 'push' || github.event_name == 'schedule'
