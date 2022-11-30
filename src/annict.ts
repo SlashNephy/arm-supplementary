@@ -6137,7 +6137,7 @@ export const annict: ArmEntry[] = [
   // [2008-SPRING] TV: マクロスFRONTIER
   // https://annict.com/works/2048
   { annict_id: 2048, mal_id: 3572, syobocal_tid: 1357 },
-  // [1994-AUTUMN] TV: マクロス７
+  // [1994-AUTUMN] TV: マクロス7
   // https://annict.com/works/2049
   { annict_id: 2049, mal_id: 1397, syobocal_tid: 1166 },
   // [2011-AUTUMN] TV: マケン姫っ！
@@ -9068,7 +9068,7 @@ export const annict: ArmEntry[] = [
   // [2002-AUTUMN] OVA: マクロス ゼロ
   // https://annict.com/works/3032
   { annict_id: 3032, mal_id: 194, syobocal_tid: 2752 },
-  // [1997-AUTUMN] OVA: マクロスダイナマイト７
+  // [1997-AUTUMN] OVA: マクロスダイナマイト7
   // https://annict.com/works/3033
   { annict_id: 3033, mal_id: 1398, syobocal_tid: 1287 },
   // [1994-SUMMER] OVA: マクロスプラス
@@ -28733,7 +28733,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: ありふれた職業で世界最強 3rd season
   // https://annict.com/works/10078
   { annict_id: 10078 },
-  // [null-null] TV: 葬送のフリーレン
+  // [2023-null] TV: 葬送のフリーレン
   // https://annict.com/works/10079
   { annict_id: 10079 },
   // [null-null] TV: SYNDUALITY
@@ -28967,7 +28967,7 @@ export const annict: ArmEntry[] = [
   // [2008-AUTUMN] MOVIE: イマジンあにめ モモタロスよ永遠に－イマジン終着駅－
   // https://annict.com/works/10156
   { annict_id: 10156 },
-  // [2011-WINTER] OVA: マクロスＦ 超時空劇場
+  // [2011-WINTER] OVA: マクロスF 超時空劇場
   // https://annict.com/works/10157
   { annict_id: 10157, mal_id: 10361 },
   // [null-null] TV: 転生したら第七王子だったので、気ままに魔術を極めます
@@ -29129,4 +29129,10 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: ワールドダイスター
   // https://annict.com/works/10210
   { annict_id: 10210 },
+  // [2021-SUMMER] WEB: ガンプラくん
+  // https://annict.com/works/10211
+  { annict_id: 10211 },
+  // [1987-SPRING] OVA: 超時空要塞マクロス Flash Back 2012
+  // https://annict.com/works/10212
+  { annict_id: 10212, mal_id: 1504 },
 ]
