@@ -36,6 +36,8 @@ jobs:
     uses: SlashNephy/.github/.github/workflows/yarn-format.yml@master
     permissions:
       contents: 'write'
+    with:
+      use-custom-token: true
     secrets:
       github-token: '${{ secrets.GH_PAT }}'
 
