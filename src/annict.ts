@@ -29135,4 +29135,22 @@ export const annict: ArmEntry[] = [
   // [1987-SPRING] OVA: 超時空要塞マクロス Flash Back 2012
   // https://annict.com/works/10212
   { annict_id: 10212, mal_id: 1504 },
+  // [2016-WINTER] WEB: 逆転裁判6 プロローグ
+  // https://annict.com/works/10213
+  { annict_id: 10213, mal_id: 32946 },
+  // [null-null] OTHER: 戦姫絶唱シンフォギア 新プロジェクト
+  // https://annict.com/works/10214
+  { annict_id: 10214, mal_id: 53646 },
+  // [2014-WINTER] OVA: 戦姫絶唱シンフォギアG: 戦姫絶唱しないシンフォギア
+  // https://annict.com/works/10215
+  { annict_id: 10215, mal_id: 20843 },
+  // [2015-AUTUMN] OVA: 戦姫絶唱シンフォギアGX: 戦姫絶唱しないシンフォギア
+  // https://annict.com/works/10216
+  { annict_id: 10216, mal_id: 32151 },
+  // [2017-AUTUMN] OVA: 戦姫絶唱シンフォギアAXZ: 戦姫絶唱しないシンフォギア
+  // https://annict.com/works/10217
+  { annict_id: 10217, mal_id: 36692 },
+  // [2019-AUTUMN] OVA: 戦姫絶唱シンフォギアXV: 戦姫絶唱しないシンフォギア
+  // https://annict.com/works/10218
+  { annict_id: 10218, mal_id: 40659 },
 ]
