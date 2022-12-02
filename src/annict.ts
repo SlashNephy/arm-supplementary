@@ -25925,7 +25925,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] WEB: トニカクカワイイ 〜制服〜
   // https://annict.com/works/9076
   { annict_id: 9076, mal_id: 51533 },
-  // [null-null] TV: 文豪ストレイドッグス (第4期)
+  // [2023-WINTER] TV: 文豪ストレイドッグス (第4期)
   // https://annict.com/works/9077
   { annict_id: 9077, mal_id: 50330 },
   // [2023-WINTER] TV: テクノロイド オーバーマインド
