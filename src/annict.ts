@@ -27535,7 +27535,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9677, mal_id: 51956 },
   // [2022-AUTUMN] TV: 僕とロボコ
   // https://annict.com/works/9678
-  { annict_id: 9678, mal_id: 51940 },
+  { annict_id: 9678, mal_id: 51940, syobocal_tid: 6531 },
   // [2022-AUTUMN] WEB: スター・ウォーズ: バッド・バッチ シーズン2
   // https://annict.com/works/9679
   { annict_id: 9679 },
