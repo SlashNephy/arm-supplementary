@@ -29153,4 +29153,7 @@ export const annict: ArmEntry[] = [
   // [2019-AUTUMN] OVA: 戦姫絶唱シンフォギアXV: 戦姫絶唱しないシンフォギア
   // https://annict.com/works/10218
   { annict_id: 10218, mal_id: 40659 },
+  // [2023-AUTUMN] MOVIE: きみの色
+  // https://annict.com/works/10219
+  { annict_id: 10219 },
 ]
