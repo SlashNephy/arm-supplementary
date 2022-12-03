@@ -28790,10 +28790,10 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] TV: Fate/strange Fake -Whispers of Dawn-
   // https://annict.com/works/10097
   { annict_id: 10097 },
-  // [null-null] OTHER: 青春ブタ野郎はおでかけシスターの夢を見ない
+  // [null-null] MOVIE: 青春ブタ野郎はおでかけシスターの夢を見ない
   // https://annict.com/works/10098
   { annict_id: 10098 },
-  // [null-null] OTHER: 青春ブタ野郎はランドセルガールの夢を見ない
+  // [null-null] MOVIE: 青春ブタ野郎はランドセルガールの夢を見ない
   // https://annict.com/works/10099
   { annict_id: 10099 },
   // [null-null] MOVIE: アイゼンフリューゲル
