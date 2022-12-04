@@ -29162,4 +29162,22 @@ export const annict: ArmEntry[] = [
   // [2023-null] MOVIE: 劇場版シティーハンター 2023
   // https://annict.com/works/10221
   { annict_id: 10221 },
+  // [2012-null] MOVIE: コンシューミング・スピリッツ
+  // https://annict.com/works/10222
+  { annict_id: 10222 },
+  // [2012-null] MOVIE: はちみつ色のユン
+  // https://annict.com/works/10223
+  { annict_id: 10223 },
+  // [2012-null] MOVIE: しわ
+  // https://annict.com/works/10224
+  { annict_id: 10224 },
+  // [1997-null] MOVIE: どんぐりの家
+  // https://annict.com/works/10225
+  { annict_id: 10225, mal_id: 5916 },
+  // [1989-SPRING] OVA: 妖魔
+  // https://annict.com/works/10226
+  { annict_id: 10226, mal_id: 1484 },
+  // [1987-AUTUMN] MOVIE: 紫式部 源氏物語
+  // https://annict.com/works/10227
+  { annict_id: 10227, mal_id: 3488 },
 ]
