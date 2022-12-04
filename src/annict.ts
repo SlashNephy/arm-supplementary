@@ -29156,4 +29156,10 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] MOVIE: きみの色
   // https://annict.com/works/10219
   { annict_id: 10219 },
+  // [2023-SPRING] MOVIE: 名探偵コナン 黒鉄の魚影
+  // https://annict.com/works/10220
+  { annict_id: 10220 },
+  // [2023-null] MOVIE: 劇場版シティーハンター 2023
+  // https://annict.com/works/10221
+  { annict_id: 10221 },
 ]
