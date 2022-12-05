@@ -25295,7 +25295,7 @@ export const annict: ArmEntry[] = [
   // [2021-SUMMER] WEB: がんばれ同期ちゃん
   // https://annict.com/works/8834
   { annict_id: 8834, mal_id: 49605, syobocal_tid: 6117 },
-  // [2023-null] TV: The Legend of Heroes 閃の軌跡 Northern War
+  // [2023-WINTER] TV: The Legend of Heroes 閃の軌跡 Northern War
   // https://annict.com/works/8835
   { annict_id: 8835, mal_id: 48441 },
   // [2023-WINTER] WEB: 終末のワルキューレⅡ
