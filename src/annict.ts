@@ -27800,7 +27800,7 @@ export const annict: ArmEntry[] = [
   // [1979-SUMMER] TV: SF西遊記スタージンガーII
   // https://annict.com/works/9766
   { annict_id: 9766, mal_id: 1236 },
-  // [2023-null] TV: 僕の心のヤバイやつ
+  // [2023-SPRING] TV: 僕の心のヤバイやつ
   // https://annict.com/works/9767
   { annict_id: 9767, mal_id: 52578 },
   // [2008-SPRING] TV: きらりん☆レボリューション STAGE3
