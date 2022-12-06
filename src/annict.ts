@@ -29180,4 +29180,7 @@ export const annict: ArmEntry[] = [
   // [1987-AUTUMN] MOVIE: 紫式部 源氏物語
   // https://annict.com/works/10227
   { annict_id: 10227, mal_id: 3488 },
+  // [2023-WINTER] MOVIE: ドラえもん のび太と空の理想郷
+  // https://annict.com/works/10228
+  { annict_id: 10228 },
 ]
