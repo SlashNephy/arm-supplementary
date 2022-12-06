@@ -27527,7 +27527,7 @@ export const annict: ArmEntry[] = [
   // [2010-WINTER] OVA: ベスト・オブ・おおきく振りかぶって～夏のスコアブック～
   // https://annict.com/works/9675
   { annict_id: 9675, mal_id: 8423 },
-  // [2023-null] TV: この素晴らしい世界に爆焔を！
+  // [2023-SPRING] TV: この素晴らしい世界に爆焔を！
   // https://annict.com/works/9676
   { annict_id: 9676, mal_id: 51958 },
   // [null-null] TV: Paradox Live THE ANIMATION
@@ -27956,7 +27956,7 @@ export const annict: ArmEntry[] = [
   // [2007-SPRING] TV: アニ＊クリ15
   // https://annict.com/works/9818
   { annict_id: 9818, mal_id: 2832 },
-  // [2023-null] TV: 王様ランキング 勇気の宝箱
+  // [2023-SPRING] TV: 王様ランキング 勇気の宝箱
   // https://annict.com/works/9819
   { annict_id: 9819, mal_id: 52657 },
   // [null-null] TV: ダンジョン飯
