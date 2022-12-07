@@ -29183,4 +29183,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] MOVIE: ドラえもん のび太と空の理想郷
   // https://annict.com/works/10228
   { annict_id: 10228 },
+  // [null-null] TV: 戦隊大失格
+  // https://annict.com/works/10229
+  { annict_id: 10229 },
 ]
