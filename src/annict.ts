@@ -28775,7 +28775,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: 東京ミュウミュウ にゅ～♡ 2
   // https://annict.com/works/10092
   { annict_id: 10092 },
-  // [2023-null] WEB: ルパン三世VSキャッツ・アイ
+  // [2023-WINTER] WEB: ルパン三世VSキャッツ・アイ
   // https://annict.com/works/10093
   { annict_id: 10093, mal_id: 53109 },
   // [2022-SUMMER] WEB: スター・トレック：ローワー・デッキ シーズン3
