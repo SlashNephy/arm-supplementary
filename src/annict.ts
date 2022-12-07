@@ -29186,4 +29186,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 戦隊大失格
   // https://annict.com/works/10229
   { annict_id: 10229 },
+  // [2022-AUTUMN] TV: すとぷりのHere!We!GO!!
+  // https://annict.com/works/10230
+  { annict_id: 10230 },
 ]
