@@ -28909,7 +28909,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10136 },
   // [2022-AUTUMN] WEB: LUPIN ZERO
   // https://annict.com/works/10137
-  { annict_id: 10137 },
+  { annict_id: 10137, mal_id: 53414 },
   // [2000-AUTUMN] OVA: ミッキーのクリスマスの贈りもの
   // https://annict.com/works/10138
   { annict_id: 10138 },
@@ -29189,4 +29189,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] TV: すとぷりのHere!We!GO!!
   // https://annict.com/works/10230
   { annict_id: 10230 },
+  // [2022-AUTUMN] WEB: ソニックプライム
+  // https://annict.com/works/10231
+  { annict_id: 10231 },
 ]
