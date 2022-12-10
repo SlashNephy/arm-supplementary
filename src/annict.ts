@@ -26204,7 +26204,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 七つの魔剣が支配する
   // https://annict.com/works/9201
   { annict_id: 9201, mal_id: 50582 },
-  // [null-null] TV: 豚のレバーは加熱しろ
+  // [2023-null] TV: 豚のレバーは加熱しろ
   // https://annict.com/works/9202
   { annict_id: 9202, mal_id: 50583 },
   // [null-null] OTHER: ミギとダリ
@@ -29192,4 +29192,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] WEB: ソニックプライム
   // https://annict.com/works/10231
   { annict_id: 10231 },
+  // [2023-WINTER] TV: 魔術士オーフェンはぐれ旅 アーバンラマ編
+  // https://annict.com/works/10232
+  { annict_id: 10232, mal_id: 53162 },
 ]
