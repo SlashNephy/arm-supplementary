@@ -26582,7 +26582,7 @@ export const annict: ArmEntry[] = [
   // [2023-null] TV: 呪術廻戦 (2期)
   // https://annict.com/works/9327
   { annict_id: 9327, mal_id: 51009 },
-  // [null-null] TV: 鬼滅の刃 刀鍛冶の里編 (3期)
+  // [2023-SPRING] TV: 鬼滅の刃 刀鍛冶の里編 (3期)
   // https://annict.com/works/9328
   { annict_id: 9328, mal_id: 51019 },
   // [null-null] OTHER: Helck
