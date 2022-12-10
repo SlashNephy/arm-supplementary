@@ -29195,4 +29195,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] TV: 魔術士オーフェンはぐれ旅 アーバンラマ編
   // https://annict.com/works/10232
   { annict_id: 10232, mal_id: 53162 },
+  // [2022-SUMMER] WEB: あはれ！名作くん　竜宮中編
+  // https://annict.com/works/10233
+  { annict_id: 10233, mal_id: 52900 },
 ]
