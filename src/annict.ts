@@ -27466,7 +27466,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9654, mal_id: 51805 },
   // [2023-WINTER] TV: 久保さんは僕を許さない
   // https://annict.com/works/9655
-  { annict_id: 9655, mal_id: 51815 },
+  { annict_id: 9655, mal_id: 51815, syobocal_tid: 6565 },
   // [2022-SUMMER] TV: うたの☆プリンスさまっ♪ マジLOVEスターリッシュツアーズ ～旅の始まり～
   // https://annict.com/works/9656
   { annict_id: 9656 },
@@ -27691,7 +27691,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9729 },
   // [2023-WINTER] TV: トモちゃんは女の子！
   // https://annict.com/works/9730
-  { annict_id: 9730 },
+  { annict_id: 9730, mal_id: 52305 },
   // [2023-null] OTHER: 俺だけレベルアップな件
   // https://annict.com/works/9731
   { annict_id: 9731 },
@@ -28003,7 +28003,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9833 },
   // [2023-WINTER] TV: ツルネ ―つながりの一射―
   // https://annict.com/works/9834
-  { annict_id: 9834 },
+  { annict_id: 9834, mal_id: 52826 },
   // [1963-AUTUMN] TV: 鉄人28号(1963年)
   // https://annict.com/works/9835
   { annict_id: 9835, mal_id: 2686 },
