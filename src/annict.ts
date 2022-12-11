@@ -29198,4 +29198,7 @@ export const annict: ArmEntry[] = [
   // [2022-SUMMER] WEB: あはれ！名作くん　竜宮中編
   // https://annict.com/works/10233
   { annict_id: 10233, mal_id: 52900 },
+  // [2022-SUMMER] WEB: 聖闘士星矢: Knights of the Zodiac バトル・サンクチュアリ
+  // https://annict.com/works/10234
+  { annict_id: 10234, mal_id: 52273 },
 ]
