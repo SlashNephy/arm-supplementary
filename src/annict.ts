@@ -27625,7 +27625,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9707, mal_id: 6864 },
   // [2023-WINTER] TV: 氷属性男子とクールな同僚女子
   // https://annict.com/works/9708
-  { annict_id: 9708 },
+  { annict_id: 9708, mal_id: 52173 },
   // [2022-SUMMER] TV: メガトン級ムサシ シーズン1特別篇
   // https://annict.com/works/9709
   { annict_id: 9709 },
@@ -27970,7 +27970,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9822, mal_id: 52976, syobocal_tid: 6488 },
   // [2023-WINTER] TV: 転生王女と天才令嬢の魔法革命
   // https://annict.com/works/9823
-  { annict_id: 9823 },
+  { annict_id: 9823, mal_id: 52736 },
   // [2002-SUMMER] OVA: ジャングルはいつもハレのちグゥ デラックス
   // https://annict.com/works/9824
   { annict_id: 9824, mal_id: 254, syobocal_tid: 2480 },

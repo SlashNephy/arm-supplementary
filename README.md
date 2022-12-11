@@ -43,12 +43,12 @@ Currently, arm-supplementary has 34588 entries (+7204).
 | Service                                     | arm-supplementary | arm / anime-offline-database |
 | :------------------------------------------ | :---------------: | :--------------------------: |
 | [Annict](https://annict.com)                |    9733 (+145)    |             9588             |
-| [AniList](https://anilist.co)               |   20414 (+2083)   |            18331             |
-| [MyAnimeList](https://myanimelist.net)      |   24027 (+532)    |            23495             |
+| [AniList](https://anilist.co)               |   20416 (+2085)   |            18331             |
+| [MyAnimeList](https://myanimelist.net)      |   24029 (+534)    |            23495             |
 | [しょぼいカレンダー](https://cal.syoboi.jp) |    5437 (+28)     |             5409             |
-| [AniDB](https://anidb.net)                  |   12723 (+116)    |            12607             |
-| [Anime-Planet](https://anime-planet.com)    |   21697 (+117)    |            21580             |
-| [aniSearch](https://anisearch.com)          |   17381 (+123)    |            17258             |
-| [Kitsu](https://kitsu.io)                   |   18500 (+128)    |            18372             |
-| [LiveChart.me](https://livechart.me)        |   10426 (+110)    |            10316             |
-| [Anime Notifier](https://notify.moe)        |   15628 (+124)    |            15504             |
+| [AniDB](https://anidb.net)                  |   12725 (+118)    |            12607             |
+| [Anime-Planet](https://anime-planet.com)    |   21699 (+119)    |            21580             |
+| [aniSearch](https://anisearch.com)          |   17383 (+125)    |            17258             |
+| [Kitsu](https://kitsu.io)                   |   18502 (+130)    |            18372             |
+| [LiveChart.me](https://livechart.me)        |   10428 (+112)    |            10316             |
+| [Anime Notifier](https://notify.moe)        |   15630 (+126)    |            15504             |
