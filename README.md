@@ -43,12 +43,12 @@ Currently, arm-supplementary has 34588 entries (+7204).
 | Service                                     | arm-supplementary | arm / anime-offline-database |
 | :------------------------------------------ | :---------------: | :--------------------------: |
 | [Annict](https://annict.com)                |    9733 (+145)    |             9588             |
-| [AniList](https://anilist.co)               |   20420 (+2089)   |            18331             |
+| [AniList](https://anilist.co)               |   20410 (+2079)   |            18331             |
 | [MyAnimeList](https://myanimelist.net)      |   24033 (+538)    |            23495             |
 | [しょぼいカレンダー](https://cal.syoboi.jp) |    5438 (+29)     |             5409             |
 | [AniDB](https://anidb.net)                  |   12729 (+122)    |            12607             |
-| [Anime-Planet](https://anime-planet.com)    |   21703 (+123)    |            21580             |
-| [aniSearch](https://anisearch.com)          |   17387 (+129)    |            17258             |
+| [Anime-Planet](https://anime-planet.com)    |   21845 (+123)    |            21722             |
+| [aniSearch](https://anisearch.com)          |   17388 (+129)    |            17259             |
 | [Kitsu](https://kitsu.io)                   |   18506 (+134)    |            18372             |
 | [LiveChart.me](https://livechart.me)        |   10432 (+116)    |            10316             |
 | [Anime Notifier](https://notify.moe)        |   15634 (+130)    |            15504             |
