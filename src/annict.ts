@@ -26072,7 +26072,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: スキップとローファー
   // https://annict.com/works/9125
   { annict_id: 9125, mal_id: 50416 },
-  // [null-null] TV: しょうたいむ！～歌のお姉さんだってしたい 第2期
+  // [2023-WINTER] TV: しょうたいむ！2 ～歌のお姉さんだってしたい～
   // https://annict.com/works/9126
   { annict_id: 9126, mal_id: 50469 },
   // [2022-AUTUMN] TV: 夫婦以上、恋人未満。
