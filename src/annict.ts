@@ -29201,4 +29201,10 @@ export const annict: ArmEntry[] = [
   // [2022-SUMMER] WEB: 聖闘士星矢: Knights of the Zodiac バトル・サンクチュアリ
   // https://annict.com/works/10234
   { annict_id: 10234, mal_id: 52273 },
+  // [null-null] TV: 2.5次元の誘惑
+  // https://annict.com/works/10235
+  { annict_id: 10235 },
+  // [null-null] MOVIE: しん次元！クレヨンしんちゃんTHE MOVIE 超能力大決戦 ～とべとべ手巻き寿司～
+  // https://annict.com/works/10236
+  { annict_id: 10236 },
 ]
