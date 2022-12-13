@@ -27587,7 +27587,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] WEB: 伊藤潤二『マニアック』
   // https://annict.com/works/9695
   { annict_id: 9695, mal_id: 52031 },
-  // [2023-null] TV: 【推しの子】
+  // [2023-SPRING] TV: 【推しの子】
   // https://annict.com/works/9696
   { annict_id: 9696, mal_id: 52034 },
   // [2022-AUTUMN] TV: 勇者パーティーを追放されたビーストテイマー、最強種の猫耳少女と出会う
@@ -29204,7 +29204,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 2.5次元の誘惑
   // https://annict.com/works/10235
   { annict_id: 10235 },
-  // [null-null] MOVIE: しん次元！クレヨンしんちゃんTHE MOVIE 超能力大決戦 ～とべとべ手巻き寿司～
+  // [2023-SUMMER] MOVIE: しん次元！クレヨンしんちゃんTHE MOVIE 超能力大決戦 ～とべとべ手巻き寿司～
   // https://annict.com/works/10236
   { annict_id: 10236 },
 ]
