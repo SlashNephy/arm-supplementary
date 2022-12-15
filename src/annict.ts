@@ -28972,16 +28972,16 @@ export const annict: ArmEntry[] = [
   { annict_id: 10157, mal_id: 10361 },
   // [null-null] TV: 転生したら第七王子だったので、気ままに魔術を極めます
   // https://annict.com/works/10158
-  { annict_id: 10158 },
+  { annict_id: 10158, mal_id: 53516 },
   // [2012-SPRING] TV: 仮面ライダーフォーゼ×クレヨンしんちゃん
   // https://annict.com/works/10159
   { annict_id: 10159, mal_id: 14095 },
   // [2023-WINTER] TV: UniteUp!
   // https://annict.com/works/10160
-  { annict_id: 10160 },
+  { annict_id: 10160, mal_id: 53132 },
   // [null-null] TV: ウマ娘 プリティーダービー Season 3
   // https://annict.com/works/10161
-  { annict_id: 10161, mal_id: 156632 },
+  { annict_id: 10161, mal_id: 53526 },
   // [2007-SUMMER] OVA: うら☆ひぐ（仮）
   // https://annict.com/works/10162
   { annict_id: 10162, mal_id: 6064 },
@@ -29026,7 +29026,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10175 },
   // [null-null] TV: 転生したらスライムだった件 第3期
   // https://annict.com/works/10176
-  { annict_id: 10176 },
+  { annict_id: 10176, mal_id: 53580 },
   // [2023-null] TV: THE MARGINAL SERVICE
   // https://annict.com/works/10177
   { annict_id: 10177, mal_id: 53587 },
@@ -29219,4 +29219,7 @@ export const annict: ArmEntry[] = [
   // [2023-null] TV: め組の大吾 救国のオレンジ
   // https://annict.com/works/10240
   { annict_id: 10240 },
+  // [2022-AUTUMN] TV: 万聖街 (日本語吹替版)
+  // https://annict.com/works/10241
+  { annict_id: 10241, syobocal_tid: 6484 },
 ]
