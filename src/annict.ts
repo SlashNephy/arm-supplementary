@@ -29213,4 +29213,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: Unnamed Memory
   // https://annict.com/works/10238
   { annict_id: 10238 },
+  // [2017-SUMMER] WEB: ソニックトゥーン
+  // https://annict.com/works/10239
+  { annict_id: 10239 },
 ]
