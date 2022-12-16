@@ -29228,4 +29228,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] TV: おかしな転生
   // https://annict.com/works/10243
   { annict_id: 10243 },
+  // [2023-WINTER] MOVIE: 劇場総集編 SSSS.GRIDMAN
+  // https://annict.com/works/10244
+  { annict_id: 10244 },
 ]
