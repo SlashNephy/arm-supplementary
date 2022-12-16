@@ -18482,7 +18482,7 @@ export const annict: ArmEntry[] = [
   // [2016-AUTUMN] MOVIE: 映画 妖怪ウォッチ 空飛ぶクジラとダブル世界の大冒険だニャン！
   // https://annict.com/works/6198
   { annict_id: 6198, mal_id: 32222, syobocal_tid: 4809 },
-  // [2019-SPRING] TV: MIX
+  // [2019-SPRING] TV: MIX MEISEI STORY
   // https://annict.com/works/6199
   { annict_id: 6199, mal_id: 38098, syobocal_tid: 5287 },
   // [2018-AUTUMN] TV: 軒轅剣・蒼き曜
@@ -29222,4 +29222,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] TV: 万聖街 (日本語吹替版)
   // https://annict.com/works/10241
   { annict_id: 10241, syobocal_tid: 6484 },
+  // [2023-SPRING] TV: MIX MEISEI STORY 2ND SEASON
+  // https://annict.com/works/10242
+  { annict_id: 10242 },
 ]
