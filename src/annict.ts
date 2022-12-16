@@ -29237,4 +29237,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] TV: ポケットモンスター めざせポケモンマスター
   // https://annict.com/works/10246
   { annict_id: 10246 },
+  // [2022-AUTUMN] TV: ポケットモンスター 遥かなる青い空
+  // https://annict.com/works/10247
+  { annict_id: 10247 },
 ]
