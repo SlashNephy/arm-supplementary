@@ -29234,4 +29234,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] TV: 劇場総集編 SSSS.DYNAZENON
   // https://annict.com/works/10245
   { annict_id: 10245 },
+  // [2023-WINTER] TV: ポケットモンスター めざせポケモンマスター
+  // https://annict.com/works/10246
+  { annict_id: 10246 },
 ]
