@@ -29236,8 +29236,11 @@ export const annict: ArmEntry[] = [
   { annict_id: 10245 },
   // [2023-WINTER] TV: ポケットモンスター めざせポケモンマスター
   // https://annict.com/works/10246
-  { annict_id: 10246 },
+  { annict_id: 10246, mal_id: 53874 },
   // [2022-AUTUMN] TV: ポケットモンスター 遥かなる青い空
   // https://annict.com/works/10247
-  { annict_id: 10247 },
+  { annict_id: 10247, mal_id: 53873 },
+  // [null-null] OVA: アズールレーン Queen's Orders
+  // https://annict.com/works/10248
+  { annict_id: 10248, mal_id: 49793 },
 ]
