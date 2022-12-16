@@ -27809,7 +27809,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: 転生貴族の異世界冒険録～自重を知らない神々の使徒～
   // https://annict.com/works/9769
   { annict_id: 9769 },
-  // [2024-null] TV: 怪獣８号
+  // [2024-null] TV: 怪獣8号
   // https://annict.com/works/9770
   { annict_id: 9770 },
   // [1990-AUTUMN] TV: きかんしゃトーマス 第1シーズン
@@ -29225,4 +29225,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: MIX MEISEI STORY 2ND SEASON
   // https://annict.com/works/10242
   { annict_id: 10242 },
+  // [2023-SUMMER] TV: おかしな転生
+  // https://annict.com/works/10243
+  { annict_id: 10243 },
 ]
