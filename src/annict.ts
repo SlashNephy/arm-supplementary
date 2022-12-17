@@ -27610,7 +27610,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9702 },
   // [2023-WINTER] TV: TRIGUN STAMPEDE
   // https://annict.com/works/9703
-  { annict_id: 9703 },
+  { annict_id: 9703, mal_id: 52093 },
   // [1997-null] TV: メン・イン・ブラック シーズン1
   // https://annict.com/works/9704
   { annict_id: 9704 },
@@ -27767,9 +27767,9 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 佐々木とピーちゃん
   // https://annict.com/works/9755
   { annict_id: 9755 },
-  // [2023-WINTER] TV: 老後に備えて異世界で８万枚の金貨を貯めます
+  // [2023-WINTER] TV: 老後に備えて異世界で8万枚の金貨を貯めます
   // https://annict.com/works/9756
-  { annict_id: 9756 },
+  { annict_id: 9756, mal_id: 52461 },
   // [2023-SUMMER] TV: ダークギャザリング
   // https://annict.com/works/9757
   { annict_id: 9757 },
