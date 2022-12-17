@@ -27722,9 +27722,9 @@ export const annict: ArmEntry[] = [
   // [1989-AUTUMN] TV: 敵は海賊〜猫たちの饗宴〜
   // https://annict.com/works/9740
   { annict_id: 9740, mal_id: 2679 },
-  // [2023-WINTER] TV: 解雇された暗黒兵士(30代)のスローなセカンドライフ
+  // [2023-WINTER] TV: 解雇された暗黒兵士 (30代) のスローなセカンドライフ
   // https://annict.com/works/9741
-  { annict_id: 9741 },
+  { annict_id: 9741, mal_id: 52446 },
   // [1986-SPRING] TV: こんなこいるかな
   // https://annict.com/works/9742
   { annict_id: 9742, mal_id: 30129 },
