@@ -29243,4 +29243,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OVA: アズールレーン Queen's Orders
   // https://annict.com/works/10248
   { annict_id: 10248, mal_id: 49793 },
+  // [null-null] TV: アークナイツ【冬隠帰路/PERISH IN FROST】
+  // https://annict.com/works/10249
+  { annict_id: 10249, mal_id: 53881 },
 ]
