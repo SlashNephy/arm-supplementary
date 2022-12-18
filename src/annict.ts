@@ -26266,7 +26266,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9221, mal_id: 50613 },
   // [2023-WINTER] TV: 吸血鬼すぐ死ぬ2
   // https://annict.com/works/9222
-  { annict_id: 9222 },
+  { annict_id: 9222, mal_id: 50287 },
   // [2021-AUTUMN] WEB: ヒルダと山の王
   // https://annict.com/works/9223
   { annict_id: 9223 },
