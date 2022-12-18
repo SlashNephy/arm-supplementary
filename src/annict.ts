@@ -29246,4 +29246,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: アークナイツ【冬隠帰路/PERISH IN FROST】
   // https://annict.com/works/10249
   { annict_id: 10249, mal_id: 53881 },
+  // [2023-WINTER] TV: 「FLAGLIA」～なつやすみの物語～
+  // https://annict.com/works/10250
+  { annict_id: 10250, mal_id: 53424 },
 ]
