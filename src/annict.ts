@@ -27019,7 +27019,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9505, mal_id: 51462 },
   // [2023-WINTER] TV: 真・進化の実 ～知らないうちに勝ち組人生～
   // https://annict.com/works/9506
-  { annict_id: 9506, mal_id: 51495 },
+  { annict_id: 9506, mal_id: 51495, syobocal_tid: 6570 },
   // [2023-SPRING] TV: 政宗くんのリベンジR
   // https://annict.com/works/9507
   { annict_id: 9507, mal_id: 51498 },
