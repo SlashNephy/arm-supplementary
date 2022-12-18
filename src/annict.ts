@@ -28820,7 +28820,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] TV: ダンジョンに出会いを求めるのは間違っているだろうか IV 深章 厄災篇
   // https://annict.com/works/10107
   { annict_id: 10107, mal_id: 53111 },
-  // [2023-WINTER] TV: リベンジャー
+  // [2023-WINTER] TV: REVENGER
   // https://annict.com/works/10108
   { annict_id: 10108, mal_id: 53213 },
   // [2022-SUMMER] OTHER: ムサシ総集篇 叛撃の咆哮
