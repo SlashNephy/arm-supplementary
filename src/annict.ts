@@ -27686,7 +27686,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] TV: ノケモノたちの夜
   // https://annict.com/works/9728
   { annict_id: 9728 },
-  // [2023-null] TV: マッシュル-MASHLE-
+  // [2023-SPRING] TV: マッシュル-MASHLE-
   // https://annict.com/works/9729
   { annict_id: 9729 },
   // [2023-WINTER] TV: トモちゃんは女の子！
