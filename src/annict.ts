@@ -22781,7 +22781,7 @@ export const annict: ArmEntry[] = [
   // [2021-SUMMER] TV: 指先から本気の熱情2-恋人は消防士-
   // https://annict.com/works/7900
   { annict_id: 7900, mal_id: 46701, syobocal_tid: 6057 },
-  // [null-null] TV: 地獄楽
+  // [2023-SPRING] TV: 地獄楽
   // https://annict.com/works/7901
   { annict_id: 7901, mal_id: 46569 },
   // [2022-AUTUMN] TV: アイドリッシュセブン Third BEAT! 第2クール
@@ -26579,7 +26579,7 @@ export const annict: ArmEntry[] = [
   // [2022-WINTER] TV: ざんねんないきもの事典 (第4シリーズ)
   // https://annict.com/works/9326
   { annict_id: 9326, syobocal_tid: 6271 },
-  // [2023-null] TV: 呪術廻戦 (2期)
+  // [2023-SUMMER] TV: 呪術廻戦 (2期)
   // https://annict.com/works/9327
   { annict_id: 9327, mal_id: 51009 },
   // [2023-SPRING] TV: 鬼滅の刃 刀鍛冶の里編 (3期)
