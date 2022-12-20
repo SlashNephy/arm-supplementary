@@ -29255,4 +29255,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: カワイスギクライシス
   // https://annict.com/works/10252
   { annict_id: 10252 },
+  // [2023-null] TV: SPY×FAMILY Season2
+  // https://annict.com/works/10253
+  { annict_id: 10253 },
 ]
