@@ -29258,4 +29258,7 @@ export const annict: ArmEntry[] = [
   // [2023-null] TV: SPY×FAMILY Season2
   // https://annict.com/works/10253
   { annict_id: 10253 },
+  // [2023-WINTER] WEB: 極主夫道 Season2
+  // https://annict.com/works/10254
+  { annict_id: 10254 },
 ]
