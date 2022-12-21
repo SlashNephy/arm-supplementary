@@ -29261,4 +29261,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] WEB: 極主夫道 Season2
   // https://annict.com/works/10254
   { annict_id: 10254 },
+  // [null-null] TV: 青の祓魔師 Season3
+  // https://annict.com/works/10255
+  { annict_id: 10255 },
 ]
