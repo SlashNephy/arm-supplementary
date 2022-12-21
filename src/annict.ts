@@ -29264,4 +29264,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 青の祓魔師 Season3
   // https://annict.com/works/10255
   { annict_id: 10255 },
+  // [2022-AUTUMN] WEB: DIALOGUE＋「1000万回ハグなんだ」アニメーション Music Video
+  // https://annict.com/works/10256
+  { annict_id: 10256 },
 ]
