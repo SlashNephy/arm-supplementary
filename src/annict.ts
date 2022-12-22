@@ -29270,4 +29270,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] WEB: これでバッチリ！スマホデビューへの道！
   // https://annict.com/works/10257
   { annict_id: 10257 },
+  // [null-null] TV: 転生したら剣でした 第2期
+  // https://annict.com/works/10258
+  { annict_id: 10258 },
 ]
