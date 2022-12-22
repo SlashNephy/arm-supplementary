@@ -27811,7 +27811,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9769 },
   // [2024-null] TV: 怪獣8号
   // https://annict.com/works/9770
-  { annict_id: 9770 },
+  { annict_id: 9770, mal_id: 52588 },
   // [1990-AUTUMN] TV: きかんしゃトーマス 第1シーズン
   // https://annict.com/works/9771
   { annict_id: 9771 },

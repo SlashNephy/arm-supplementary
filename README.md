@@ -43,12 +43,12 @@ Currently, arm-supplementary has 34690 entries (+7156).
 | Service                                     | arm-supplementary | arm / anime-offline-database |
 | :------------------------------------------ | :---------------: | :--------------------------: |
 | [Annict](https://annict.com)                |    9757 (+143)    |             9614             |
-| [AniList](https://anilist.co)               |   20476 (+2078)   |            18398             |
-| [MyAnimeList](https://myanimelist.net)      |   24018 (+416)    |            23602             |
+| [AniList](https://anilist.co)               |   20477 (+2079)   |            18398             |
+| [MyAnimeList](https://myanimelist.net)      |   24019 (+417)    |            23602             |
 | [しょぼいカレンダー](https://cal.syoboi.jp) |    5476 (+31)     |             5445             |
-| [AniDB](https://anidb.net)                  |   12750 (+112)    |            12638             |
-| [Anime-Planet](https://anime-planet.com)    |   21991 (+113)    |            21878             |
-| [aniSearch](https://anisearch.com)          |   17418 (+119)    |            17299             |
-| [Kitsu](https://kitsu.io)                   |   18560 (+124)    |            18436             |
-| [LiveChart.me](https://livechart.me)        |   10452 (+106)    |            10346             |
-| [Anime Notifier](https://notify.moe)        |   15641 (+120)    |            15521             |
+| [AniDB](https://anidb.net)                  |   12751 (+113)    |            12638             |
+| [Anime-Planet](https://anime-planet.com)    |   21992 (+114)    |            21878             |
+| [aniSearch](https://anisearch.com)          |   17419 (+120)    |            17299             |
+| [Kitsu](https://kitsu.io)                   |   18561 (+125)    |            18436             |
+| [LiveChart.me](https://livechart.me)        |   10453 (+107)    |            10346             |
+| [Anime Notifier](https://notify.moe)        |   15642 (+121)    |            15521             |
