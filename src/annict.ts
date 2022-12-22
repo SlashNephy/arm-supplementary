@@ -29267,4 +29267,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] WEB: DIALOGUE＋「1000万回ハグなんだ」アニメーション Music Video
   // https://annict.com/works/10256
   { annict_id: 10256 },
+  // [2022-AUTUMN] WEB: これでバッチリ！スマホデビューへの道！
+  // https://annict.com/works/10257
+  { annict_id: 10257 },
 ]
