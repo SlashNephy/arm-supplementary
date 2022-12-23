@@ -29279,4 +29279,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 鴨乃橋ロンの禁断推理
   // https://annict.com/works/10260
   { annict_id: 10260 },
+  // [2022-AUTUMN] WEB: 『城郭合体オシロボッツ』ショートアニメ
+  // https://annict.com/works/10261
+  { annict_id: 10261, mal_id: 53883 },
 ]
