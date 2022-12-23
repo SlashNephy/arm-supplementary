@@ -29393,4 +29393,10 @@ export const annict: ArmEntry[] = [
   // [2001-AUTUMN] OVA: アヒルのペックルのみにくいアヒルの子
   // https://annict.com/works/10298
   { annict_id: 10298, mal_id: 22575 },
+  // [2001-AUTUMN] OVA: ハローキティのおやゆび姫(2001)
+  // https://annict.com/works/10299
+  { annict_id: 10299, mal_id: 17481 },
+  // [2001-AUTUMN] OVA: ポムポムプリンの北風と太陽
+  // https://annict.com/works/10300
+  { annict_id: 10300, mal_id: 22577 },
 ]
