@@ -29405,4 +29405,55 @@ export const annict: ArmEntry[] = [
   // [2001-AUTUMN] OVA: ハローキティの3匹の子ぶた
   // https://annict.com/works/10302
   { annict_id: 10302, mal_id: 22483 },
+  // [1992-SUMMER] OVA: ハローキティのサーカスがやってきた
+  // https://annict.com/works/10303
+  { annict_id: 10303, mal_id: 22455 },
+  // [1995-WINTER] TV: ハローキティの幸せのチューリップ
+  // https://annict.com/works/10304
+  { annict_id: 10304, mal_id: 18825 },
+  // [1993-WINTER] OVA: ハローキティのすてきな姉妹
+  // https://annict.com/works/10305
+  { annict_id: 10305, mal_id: 18029 },
+  // [1992-SUMMER] OVA: ハローキティのとまった大時計
+  // https://annict.com/works/10306
+  { annict_id: 10306, mal_id: 22477 },
+  // [1993-SUMMER] OVA: ハローキティのハッピー!仮装大会
+  // https://annict.com/works/10307
+  { annict_id: 10307, mal_id: 18031 },
+  // [1994-WINTER] OVA: ハローキティのパパなんて大きらい
+  // https://annict.com/works/10308
+  { annict_id: 10308, mal_id: 17957 },
+  // [1992-SPRING] OVA: ハローキティのふしぎなみずうみ
+  // https://annict.com/works/10309
+  { annict_id: 10309, mal_id: 22457 },
+  // [1992-SUMMER] OVA: ハローキティのまほうのリンゴ
+  // https://annict.com/works/10310
+  { annict_id: 10310, mal_id: 22479 },
+  // [1992-SUMMER] OVA: ハローキティのやっぱりママがすき
+  // https://annict.com/works/10311
+  { annict_id: 10311, mal_id: 22445 },
+  // [1993-WINTER] OVA: ハローキティの郵便屋さんありがとう
+  // https://annict.com/works/10312
+  { annict_id: 10312, mal_id: 18033 },
+  // [1993-AUTUMN] OVA: ハローキティの夢どろぼう
+  // https://annict.com/works/10313
+  { annict_id: 10313, mal_id: 22461 },
+  // [1994-WINTER] OVA: ハローキティの夢のお城の王子さま
+  // https://annict.com/works/10314
+  { annict_id: 10314, mal_id: 22495 },
+  // [1992-SUMMER] OVA: ハローキティのロンドンにおりた宇宙人
+  // https://annict.com/works/10315
+  { annict_id: 10315, mal_id: 17953 },
+  // [1989-SUMMER] OVA: キティとミミィのハッピーバースデー
+  // https://annict.com/works/10316
+  { annict_id: 10316, mal_id: 22499 },
+  // [1993-SPRING] OVA: キキとララのお姫さまになりたい
+  // https://annict.com/works/10317
+  { annict_id: 10317, mal_id: 17485 },
+  // [1993-AUTUMN] OVA: キキとララの白鳥座のお姫さま
+  // https://annict.com/works/10318
+  { annict_id: 10318, mal_id: 17977 },
+  // [1994-WINTER] OVA: キキとララのはばたけ!ペガサス
+  // https://annict.com/works/10319
+  { annict_id: 10319, mal_id: 29247 },
 ]
