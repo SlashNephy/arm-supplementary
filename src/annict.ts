@@ -29480,4 +29480,10 @@ export const annict: ArmEntry[] = [
   // [1994-WINTER] OVA: けろけろけろっぴの空をとべたら
   // https://annict.com/works/10327
   { annict_id: 10327, mal_id: 22645 },
+  // [1989-SUMMER] OVA: けろけろけろっぴの大冒険
+  // https://annict.com/works/10328
+  { annict_id: 10328, mal_id: 22625 },
+  // [1993-SPRING] OVA: けろけろけろっぴの大冒険(ピンクのきのこんこを探して)
+  // https://annict.com/works/10329
+  { annict_id: 10329, mal_id: 18087 },
 ]
