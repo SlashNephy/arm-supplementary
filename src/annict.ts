@@ -29281,5 +29281,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 10260 },
   // [2022-AUTUMN] WEB: 『城郭合体オシロボッツ』ショートアニメ
   // https://annict.com/works/10261
-  { annict_id: 10261, mal_id: 53883 },
+  { annict_id: 10261 },
 ]
