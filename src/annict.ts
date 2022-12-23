@@ -29474,4 +29474,10 @@ export const annict: ArmEntry[] = [
   // [1993-AUTUMN] OVA: けろけろけろっぴのけろけろハウスのひみつ
   // https://annict.com/works/10325
   { annict_id: 10325, mal_id: 22615 },
+  // [1992-SPRING] OVA: けろけろけろっぴの空とぶゆめの船
+  // https://annict.com/works/10326
+  { annict_id: 10326, mal_id: 22647 },
+  // [1994-WINTER] OVA: けろけろけろっぴの空をとべたら
+  // https://annict.com/works/10327
+  { annict_id: 10327, mal_id: 22645 },
 ]
