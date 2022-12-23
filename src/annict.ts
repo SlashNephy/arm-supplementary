@@ -29348,4 +29348,13 @@ export const annict: ArmEntry[] = [
   // [2001-SUMMER] OVA: ハローキティのかぐや姫(2001)
   // https://annict.com/works/10283
   { annict_id: 10283, mal_id: 42501 },
+  // [2001-SUMMER] OVA: ハンギョドンのはだかの王様
+  // https://annict.com/works/10284
+  { annict_id: 10284, mal_id: 22563 },
+  // [2001-SUMMER] OVA: ハローキティのねむれる森の美女
+  // https://annict.com/works/10285
+  { annict_id: 10285, mal_id: 17955 },
+  // [2001-SUMMER] OVA: バッドばつ丸のアリとキリギリス
+  // https://annict.com/works/10286
+  { annict_id: 10286, mal_id: 22565 },
 ]
