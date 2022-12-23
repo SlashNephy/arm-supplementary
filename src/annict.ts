@@ -29456,4 +29456,13 @@ export const annict: ArmEntry[] = [
   // [1994-WINTER] OVA: キキとララのはばたけ!ペガサス
   // https://annict.com/works/10319
   { annict_id: 10319, mal_id: 29247 },
+  // [1994-SPRING] OVA: キキとララのパパとママにあいたい
+  // https://annict.com/works/10320
+  { annict_id: 10320, mal_id: 17979 },
+  // [1993-AUTUMN] OVA: キキとララの星のダンスシューズ
+  // https://annict.com/works/10321
+  { annict_id: 10321, mal_id: 17981 },
+  // [1995-SPRING] OVA: キキとララのママってすてき!
+  // https://annict.com/works/10322
+  { annict_id: 10322, mal_id: 29249 },
 ]
