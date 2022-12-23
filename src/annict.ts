@@ -29339,4 +29339,13 @@ export const annict: ArmEntry[] = [
   // [2001-SUMMER] OVA: ハローキティの王様の耳はロバの耳
   // https://annict.com/works/10280
   { annict_id: 10280, mal_id: 22491 },
+  // [2001-SUMMER] OVA: ハローキティのヘンゼルとグレーテル
+  // https://annict.com/works/10281
+  { annict_id: 10281, mal_id: 22489 },
+  // [2001-SUMMER] OVA: マイメロディの赤ずきん(2001)
+  // https://annict.com/works/10282
+  { annict_id: 10282, mal_id: 30468 },
+  // [2001-SUMMER] OVA: ハローキティのかぐや姫(2001)
+  // https://annict.com/works/10283
+  { annict_id: 10283, mal_id: 42501 },
 ]
