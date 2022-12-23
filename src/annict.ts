@@ -29282,4 +29282,61 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] WEB: 『城郭合体オシロボッツ』ショートアニメ
   // https://annict.com/works/10261
   { annict_id: 10261 },
+  // [1996-WINTER] MOVIE: ハローキティのみんなの森をまもれ!
+  // https://annict.com/works/10262
+  { annict_id: 10262, mal_id: 18589 },
+  // [2007-WINTER] MOVIE: シナモン the movie
+  // https://annict.com/works/10263
+  { annict_id: 10263, mal_id: 5848 },
+  // [1993-SUMMER] OVA: ハローキティのしらゆきひめ
+  // https://annict.com/works/10264
+  { annict_id: 10264, mal_id: 17951 },
+  // [1993-SUMMER] OVA: キキとララのヘンゼルとグレーテル
+  // https://annict.com/works/10265
+  { annict_id: 10265, mal_id: 17483 },
+  // [1993-SUMMER] OVA: けろけろけろっぴのガリバーの冒険
+  // https://annict.com/works/10266
+  { annict_id: 10266, mal_id: 15663 },
+  // [1991-SUMMER] MOVIE: たあ坊の竜宮星大探険
+  // https://annict.com/works/10267
+  { annict_id: 10267, mal_id: 19517 },
+  // [1996-WINTER] MOVIE: バッドばつ丸のオレのポチは世界一
+  // https://annict.com/works/10268
+  { annict_id: 10268, mal_id: 17479 },
+  // [1993-SUMMER] OVA: ハローキティのアルプスの少女ハイジ
+  // https://annict.com/works/10269
+  { annict_id: 10269, mal_id: 22443 },
+  // [1993-SUMMER] OVA: ハローキティのかぐや姫
+  // https://annict.com/works/10270
+  { annict_id: 10270, mal_id: 22497 },
+  // [1993-SUMMER] OVA: アヒルのペックルのアラジンと魔法のランプ
+  // https://annict.com/works/10271
+  { annict_id: 10271, mal_id: 22611 },
+  // [1993-AUTUMN] OVA: アヒルのペックルのシンドバッドの冒険
+  // https://annict.com/works/10272
+  { annict_id: 10272, mal_id: 22603 },
+  // [1993-AUTUMN] OVA: ハローキティの不思議の国のアリス
+  // https://annict.com/works/10273
+  { annict_id: 10273, mal_id: 15577 },
+  // [1994-WINTER] OVA: けろけろけろっぴのロビンフッド
+  // https://annict.com/works/10274
+  { annict_id: 10274, mal_id: 17987 },
+  // [1994-WINTER] OVA: ハローキティのアルプスの少女ハイジII クララとの出会い
+  // https://annict.com/works/10275
+  { annict_id: 10275, mal_id: 18587 },
+  // [1994-SUMMER] OVA: ハローキティの小公女
+  // https://annict.com/works/10276
+  { annict_id: 10276, mal_id: 22459 },
+  // [2001-SUMMER] OVA: ハローキティの白雪姫(2001)
+  // https://annict.com/works/10277
+  { annict_id: 10277, mal_id: 30263 },
+  // [2001-SUMMER] OVA: バッドばつ丸のオオカミが来た!
+  // https://annict.com/works/10278
+  { annict_id: 10278, mal_id: 22451 },
+  // [2001-SUMMER] OVA: ポチャッコのジャックと豆の木
+  // https://annict.com/works/10279
+  { annict_id: 10279, mal_id: 22493 },
+  // [2001-SUMMER] OVA: ハローキティの王様の耳はロバの耳
+  // https://annict.com/works/10280
+  { annict_id: 10280, mal_id: 22491 },
 ]
