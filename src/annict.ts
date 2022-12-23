@@ -29357,4 +29357,10 @@ export const annict: ArmEntry[] = [
   // [2001-SUMMER] OVA: バッドばつ丸のアリとキリギリス
   // https://annict.com/works/10286
   { annict_id: 10286, mal_id: 22565 },
+  // [2001-SUMMER] OVA: ハローキティの白鳥の王子
+  // https://annict.com/works/10287
+  { annict_id: 10287, mal_id: 18085 },
+  // [2001-SUMMER] OVA: おさるのもんきちの金の斧 銀の斧
+  // https://annict.com/works/10288
+  { annict_id: 10288, mal_id: 22567 },
 ]
