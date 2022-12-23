@@ -29507,4 +29507,7 @@ export const annict: ArmEntry[] = [
   // [1993-WINTER] OVA: けろけろけろっぴのよわむし王子の大冒険
   // https://annict.com/works/10336
   { annict_id: 10336, mal_id: 22613 },
+  // [2019-null] MOVIE: アンダー・ザ・シー～ぼくたち海底王国パトロール隊～
+  // https://annict.com/works/10337
+  { annict_id: 10337 },
 ]
