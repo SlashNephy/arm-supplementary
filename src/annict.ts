@@ -29387,4 +29387,10 @@ export const annict: ArmEntry[] = [
   // [2001-AUTUMN] OVA: ハローキティのマッチ売りの少女
   // https://annict.com/works/10296
   { annict_id: 10296, mal_id: 22487 },
+  // [2001-AUTUMN] OVA: ハローキティの長靴をはいた猫
+  // https://annict.com/works/10297
+  { annict_id: 10297, mal_id: 22449 },
+  // [2001-AUTUMN] OVA: アヒルのペックルのみにくいアヒルの子
+  // https://annict.com/works/10298
+  { annict_id: 10298, mal_id: 22575 },
 ]
