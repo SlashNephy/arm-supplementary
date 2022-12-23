@@ -29276,4 +29276,7 @@ export const annict: ArmEntry[] = [
   // [2024-null] TV: 夜桜さんちの大作戦
   // https://annict.com/works/10259
   { annict_id: 10259 },
+  // [null-null] TV: 鴨乃橋ロンの禁断推理
+  // https://annict.com/works/10260
+  { annict_id: 10260 },
 ]
