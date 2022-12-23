@@ -29501,4 +29501,10 @@ export const annict: ArmEntry[] = [
   // [1993-SUMMER] OVA: けろけろけろっぴのぼくらのお姫さま
   // https://annict.com/works/10334
   { annict_id: 10334, mal_id: 36591 },
+  // [1993-WINTER] OVA: けろけろけろっぴのミツバチ大騒動
+  // https://annict.com/works/10335
+  { annict_id: 10335, mal_id: 22653 },
+  // [1993-WINTER] OVA: けろけろけろっぴのよわむし王子の大冒険
+  // https://annict.com/works/10336
+  { annict_id: 10336, mal_id: 22613 },
 ]
