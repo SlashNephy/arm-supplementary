@@ -29372,4 +29372,13 @@ export const annict: ArmEntry[] = [
   // [2001-AUTUMN] OVA: ハローキティの桃太郎
   // https://annict.com/works/10291
   { annict_id: 10291, mal_id: 22447 },
+  // [2001-AUTUMN] OVA: ポムポムプリンのウサギとカメ
+  // https://annict.com/works/10292
+  { annict_id: 10292, mal_id: 22569 },
+  // [2001-AUTUMN] OVA: ハローキティのシンデレラ(2001)
+  // https://annict.com/works/10293
+  { annict_id: 10293, mal_id: 30264 },
+  // [2001-AUTUMN] OVA: アヒルのペックルのアヒルのドレイクステール
+  // https://annict.com/works/10294
+  { annict_id: 10294, mal_id: 22571 },
 ]
