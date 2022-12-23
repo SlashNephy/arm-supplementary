@@ -25667,7 +25667,7 @@ export const annict: ArmEntry[] = [
   // [2021-AUTUMN] TV: ポプテピピック 再放送(リミックス版)
   // https://annict.com/works/8990
   { annict_id: 8990, syobocal_tid: 4785 },
-  // [2023-SPRING] MOVIE: らくだい魔女
+  // [2023-WINTER] MOVIE: らくだい魔女 フウカと闇の魔女
   // https://annict.com/works/8991
   { annict_id: 8991, mal_id: 51404 },
   // [2022-SUMMER] TV: 新テニスの王子様 U-17 WORLD CUP
@@ -29273,4 +29273,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 転生したら剣でした 第2期
   // https://annict.com/works/10258
   { annict_id: 10258 },
+  // [2024-null] TV: 夜桜さんちの大作戦
+  // https://annict.com/works/10259
+  { annict_id: 10259 },
 ]
