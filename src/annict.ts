@@ -29471,4 +29471,7 @@ export const annict: ArmEntry[] = [
   // [1992-SUMMER] OVA: けろけろけろっぴの恐竜がでた!
   // https://annict.com/works/10324
   { annict_id: 10324, mal_id: 22643 },
+  // [1993-AUTUMN] OVA: けろけろけろっぴのけろけろハウスのひみつ
+  // https://annict.com/works/10325
+  { annict_id: 10325, mal_id: 22615 },
 ]
