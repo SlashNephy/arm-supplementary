@@ -29363,4 +29363,13 @@ export const annict: ArmEntry[] = [
   // [2001-SUMMER] OVA: おさるのもんきちの金の斧 銀の斧
   // https://annict.com/works/10288
   { annict_id: 10288, mal_id: 22567 },
+  // [2001-AUTUMN] OVA: ハローキティのくるみ割り人形
+  // https://annict.com/works/10289
+  { annict_id: 10289, mal_id: 18083 },
+  // [2001-AUTUMN] OVA: コロコロクリリンの田舎のネズミ都会のネズミ
+  // https://annict.com/works/10290
+  { annict_id: 10290, mal_id: 18081 },
+  // [2001-AUTUMN] OVA: ハローキティの桃太郎
+  // https://annict.com/works/10291
+  { annict_id: 10291, mal_id: 22447 },
 ]
