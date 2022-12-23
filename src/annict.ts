@@ -29399,4 +29399,10 @@ export const annict: ArmEntry[] = [
   // [2001-AUTUMN] OVA: ポムポムプリンの北風と太陽
   // https://annict.com/works/10300
   { annict_id: 10300, mal_id: 22577 },
+  // [2001-AUTUMN] OVA: ハローキティの雪の女王
+  // https://annict.com/works/10301
+  { annict_id: 10301, mal_id: 22485 },
+  // [2001-AUTUMN] OVA: ハローキティの3匹の子ぶた
+  // https://annict.com/works/10302
+  { annict_id: 10302, mal_id: 22483 },
 ]
