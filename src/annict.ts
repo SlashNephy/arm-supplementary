@@ -29465,4 +29465,10 @@ export const annict: ArmEntry[] = [
   // [1995-SPRING] OVA: キキとララのママってすてき!
   // https://annict.com/works/10322
   { annict_id: 10322, mal_id: 29249 },
+  // [1992-SUMMER] OVA: けろけろけろっぴのがんばれ!けろっぴーず
+  // https://annict.com/works/10323
+  { annict_id: 10323, mal_id: 22605 },
+  // [1992-SUMMER] OVA: けろけろけろっぴの恐竜がでた!
+  // https://annict.com/works/10324
+  { annict_id: 10324, mal_id: 22643 },
 ]
