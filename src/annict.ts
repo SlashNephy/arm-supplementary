@@ -29510,4 +29510,7 @@ export const annict: ArmEntry[] = [
   // [2020-SPRING] OVA: アンダー・ザ・シー～ぼくたち海底王国パトロール隊～
   // https://annict.com/works/10337
   { annict_id: 10337 },
+  // [2023-null] MOVIE: SPY×FAMILY劇場版
+  // https://annict.com/works/10338
+  { annict_id: 10338 },
 ]
