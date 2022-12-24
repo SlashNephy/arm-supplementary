@@ -29516,4 +29516,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 声優ラジオのウラオモテ
   // https://annict.com/works/10339
   { annict_id: 10339 },
+  // [null-null] OTHER: 地縛少年花子くん 新作
+  // https://annict.com/works/10340
+  { annict_id: 10340, mal_id: 53924 },
 ]
