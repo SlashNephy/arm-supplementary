@@ -29027,7 +29027,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 転生したらスライムだった件 第3期
   // https://annict.com/works/10176
   { annict_id: 10176, mal_id: 53580 },
-  // [2023-null] TV: THE MARGINAL SERVICE
+  // [2023-SPRING] TV: THE MARGINAL SERVICE
   // https://annict.com/works/10177
   { annict_id: 10177, mal_id: 53587 },
   // [null-null] TV: 最弱テイマーはゴミ拾いの旅を始めました。
@@ -29513,4 +29513,7 @@ export const annict: ArmEntry[] = [
   // [2023-null] MOVIE: SPY×FAMILY劇場版
   // https://annict.com/works/10338
   { annict_id: 10338 },
+  // [null-null] TV: 声優ラジオのウラオモテ
+  // https://annict.com/works/10339
+  { annict_id: 10339 },
 ]
