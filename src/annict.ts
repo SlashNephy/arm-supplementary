@@ -28799,7 +28799,7 @@ export const annict: ArmEntry[] = [
   // [null-null] MOVIE: アイゼンフリューゲル
   // https://annict.com/works/10100
   { annict_id: 10100 },
-  // [2023-null] TV: 山田くんとLv999の恋をする
+  // [2023-SPRING] TV: 山田くんとLv999の恋をする
   // https://annict.com/works/10101
   { annict_id: 10101 },
   // [2023-WINTER] TV: アルスの巨獣
