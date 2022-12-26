@@ -29231,7 +29231,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] MOVIE: 劇場総集編 SSSS.GRIDMAN
   // https://annict.com/works/10244
   { annict_id: 10244 },
-  // [2023-WINTER] TV: 劇場総集編 SSSS.DYNAZENON
+  // [2023-WINTER] MOVIE: 劇場総集編 SSSS.DYNAZENON
   // https://annict.com/works/10245
   { annict_id: 10245 },
   // [2023-WINTER] TV: ポケットモンスター めざせポケモンマスター
@@ -29519,4 +29519,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 地縛少年花子くん 新作
   // https://annict.com/works/10340
   { annict_id: 10340, mal_id: 53924 },
+  // [2023-WINTER] OVA: 「鬼滅の刃」上弦集結、そして刀鍛冶の里へ
+  // https://annict.com/works/10341
+  { annict_id: 10341 },
 ]
