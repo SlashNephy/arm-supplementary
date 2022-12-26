@@ -29522,4 +29522,25 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] OVA: 「鬼滅の刃」上弦集結、そして刀鍛冶の里へ
   // https://annict.com/works/10341
   { annict_id: 10341 },
+  // [2022-AUTUMN] WEB: 新米錬金術師の店舗経営 ミニアニメ
+  // https://annict.com/works/10342
+  { annict_id: 10342, mal_id: 53248 },
+  // [2022-AUTUMN] WEB: かげじつ！
+  // https://annict.com/works/10343
+  { annict_id: 10343, mal_id: 53406 },
+  // [2022-SUMMER] WEB: ブッチギレ！ ミニアニメ
+  // https://annict.com/works/10344
+  { annict_id: 10344 },
+  // [2022-AUTUMN] WEB: ブルーロック あでぃしょなる・たいむ！
+  // https://annict.com/works/10345
+  { annict_id: 10345 },
+  // [2022-AUTUMN] WEB: 英雄王、武を極めるため転生す ～そして、世界最強の見習い騎士♀～ ミニアニメ
+  // https://annict.com/works/10346
+  { annict_id: 10346, syobocal_tid: 43727 },
+  // [2020-AUTUMN] WEB: 英雄王、武を極めるため転生す ミニアニメ
+  // https://annict.com/works/10347
+  { annict_id: 10347, mal_id: 53619 },
+  // [2022-SUMMER] WEB: イロナス
+  // https://annict.com/works/10348
+  { annict_id: 10348 },
 ]
