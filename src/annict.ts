@@ -24407,7 +24407,7 @@ export const annict: ArmEntry[] = [
   // [2021-SPRING] WEB: Artiswitch
   // https://annict.com/works/8504
   { annict_id: 8504, mal_id: 49066 },
-  // [2023-null] TV: 魔法少女マジカルデストロイヤーズ
+  // [2023-SPRING] TV: 魔法少女マジカルデストロイヤーズ
   // https://annict.com/works/8505
   { annict_id: 8505, mal_id: 48981 },
   // [2020-AUTUMN] WEB: ミッキーマウスのワンダフルワールド
