@@ -27470,7 +27470,7 @@ export const annict: ArmEntry[] = [
   // [2022-SUMMER] TV: うたの☆プリンスさまっ♪ マジLOVEスターリッシュツアーズ ～旅の始まり～
   // https://annict.com/works/9656
   { annict_id: 9656 },
-  // [null-null] TV: 私の百合はお仕事です！
+  // [2023-SPRING] TV: 私の百合はお仕事です！
   // https://annict.com/works/9657
   { annict_id: 9657, mal_id: 51817 },
   // [2022-SUMMER] TV: iiiあいすくりん2
