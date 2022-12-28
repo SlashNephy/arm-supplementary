@@ -28906,7 +28906,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10135, mal_id: 53410 },
   // [2023-WINTER] TV: Buddy Daddies
   // https://annict.com/works/10136
-  { annict_id: 10136 },
+  { annict_id: 10136, mal_id: 53411 },
   // [2022-AUTUMN] WEB: LUPIN ZERO
   // https://annict.com/works/10137
   { annict_id: 10137, mal_id: 53414 },
@@ -29546,4 +29546,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] WEB: アグレッシブ烈子 シーズン5
   // https://annict.com/works/10349
   { annict_id: 10349, mal_id: 50598 },
+  // [2022-AUTUMN] WEB: ぐでたま 〜母をたずねてどんくらい〜
+  // https://annict.com/works/10350
+  { annict_id: 10350 },
 ]
