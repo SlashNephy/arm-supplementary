@@ -18365,7 +18365,7 @@ export const annict: ArmEntry[] = [
   // [2018-AUTUMN] TV: ゾンビランドサガ
   // https://annict.com/works/6159
   { annict_id: 6159, mal_id: 37976, syobocal_tid: 5057 },
-  // [2019-SPRING] WEB: アグレッシブ烈子 シーズン2 (2018)
+  // [2019-SPRING] WEB: アグレッシブ烈子 シーズン2
   // https://annict.com/works/6160
   { annict_id: 6160, mal_id: 37985 },
   // [2018-SUMMER] OVA: 嫌な顔されながらおパンツ見せてもらいたい
@@ -20372,7 +20372,7 @@ export const annict: ArmEntry[] = [
   // [2010-SPRING] OVA: 秘密結社 鷹の爪 THE MOVIE4 〜カスペルスキーを持つ男〜
   // https://annict.com/works/6869
   { annict_id: 6869, mal_id: 30753 },
-  // [2020-SUMMER] WEB: アグレッシブ烈子 シーズン3 (2018)
+  // [2020-SUMMER] WEB: アグレッシブ烈子 シーズン3
   // https://annict.com/works/6870
   { annict_id: 6870, mal_id: 40215 },
   // [2021-AUTUMN] TV: サクガン
@@ -25571,7 +25571,7 @@ export const annict: ArmEntry[] = [
   // [2022-WINTER] TV: 現実主義勇者の王国再建記 第二部
   // https://annict.com/works/8958
   { annict_id: 8958, mal_id: 49930, syobocal_tid: 6210 },
-  // [2021-AUTUMN] WEB: アグレッシブ烈子 シーズン4 (2018)
+  // [2021-AUTUMN] WEB: アグレッシブ烈子 シーズン4
   // https://annict.com/works/8959
   { annict_id: 8959, mal_id: 45489 },
   // [2021-AUTUMN] WEB: スーパー・クルックス
@@ -29543,4 +29543,7 @@ export const annict: ArmEntry[] = [
   // [2022-SUMMER] WEB: イロナス
   // https://annict.com/works/10348
   { annict_id: 10348 },
+  // [2023-WINTER] WEB: アグレッシブ烈子 シーズン5
+  // https://annict.com/works/10349
+  { annict_id: 10349, mal_id: 50598 },
 ]
