@@ -27566,7 +27566,7 @@ export const annict: ArmEntry[] = [
   // [2022-SUMMER] WEB: 僕のヒーローアカデミア 新作オリジナルエピソード「HLB／笑え！地獄のように」
   // https://annict.com/works/9688
   { annict_id: 9688, mal_id: 51781 },
-  // [2023-null] MOVIE: 響け！ユーフォニアム アンサンブルコンテスト編
+  // [2023-WINTER] MOVIE: 特別編 響け！ユーフォニアム～アンサンブルコンテスト～
   // https://annict.com/works/9689
   { annict_id: 9689, mal_id: 51995 },
   // [null-null] OTHER: フットサルボーイズ!!!!! オリジナルショートアニメ
