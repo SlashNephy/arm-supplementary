@@ -26680,7 +26680,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9391, mal_id: 51225 },
   // [2023-WINTER] TV: NieR:Automata Ver1.1a
   // https://annict.com/works/9392
-  { annict_id: 9392, mal_id: 51105 },
+  { annict_id: 9392, mal_id: 51105, syobocal_tid: 6601 },
   // [2022-AUTUMN] MOVIE: かがみの孤城
   // https://annict.com/works/9393
   { annict_id: 9393, mal_id: 51116 },
