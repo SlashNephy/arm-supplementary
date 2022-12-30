@@ -28847,7 +28847,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] TV: ジョジョの奇妙な冒険 ストーンオーシャン 第3期
   // https://annict.com/works/10116
   { annict_id: 10116, mal_id: 53273, syobocal_tid: 6596 },
-  // [2022-AUTUMN] WEB: 夜は猫といっしょ(秋クール)
+  // [2022-AUTUMN] WEB: 夜は猫といっしょ(YouTube版)
   // https://annict.com/works/10117
   { annict_id: 10117, mal_id: 51692, syobocal_tid: 6511 },
   // [2023-null] TV: お嬢と番犬くん
