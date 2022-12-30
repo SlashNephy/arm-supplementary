@@ -29555,4 +29555,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 乙女ゲー世界はモブに厳しい世界です 第2期
   // https://annict.com/works/10352
   { annict_id: 10352 },
+  // [null-null] OTHER: Turkey!
+  // https://annict.com/works/10353
+  { annict_id: 10353 },
 ]
