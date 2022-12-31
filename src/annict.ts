@@ -28787,7 +28787,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: ATRI -My Dear Moments-
   // https://annict.com/works/10096
   { annict_id: 10096, mal_id: 53128 },
-  // [null-null] TV: Fate/strange Fake -Whispers of Dawn-
+  // [2023-SUMMER] TV: Fate/strange Fake -Whispers of Dawn-
   // https://annict.com/works/10097
   { annict_id: 10097, mal_id: 53127 },
   // [null-null] MOVIE: 青春ブタ野郎はおでかけシスターの夢を見ない
