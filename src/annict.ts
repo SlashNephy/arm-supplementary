@@ -29591,4 +29591,7 @@ export const annict: ArmEntry[] = [
   // [2017-WINTER] MOVIE: インナー・ワーキング
   // https://annict.com/works/10364
   { annict_id: 10364 },
+  // [2017-SUMMER] OVA: マウイの魚釣りチャレンジ
+  // https://annict.com/works/10365
+  { annict_id: 10365 },
 ]
