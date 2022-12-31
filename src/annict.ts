@@ -29567,4 +29567,22 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] TV: 名画と7人の巨匠たち セブンボイスミュージアム
   // https://annict.com/works/10356
   { annict_id: 10356, syobocal_tid: 6593 },
+  // [1996-WINTER] TV: シティーハンター ザ・シークレット・サービス
+  // https://annict.com/works/10357
+  { annict_id: 10357, mal_id: 1477 },
+  // [1997-SPRING] TV: シティーハンター グッド・バイ・マイ・スイート・ハート
+  // https://annict.com/works/10358
+  { annict_id: 10358, mal_id: 1478 },
+  // [1999-SPRING] TV: シティーハンター 緊急生中継!? 凶悪犯冴羽獠の最期
+  // https://annict.com/works/10359
+  { annict_id: 10359, mal_id: 1479 },
+  // [1989-SPRING] MOVIE: シティーハンター 愛と宿命のマグナム
+  // https://annict.com/works/10360
+  { annict_id: 10360, mal_id: 1474 },
+  // [1990-SUMMER] MOVIE: シティーハンター ベイシティウォーズ
+  // https://annict.com/works/10361
+  { annict_id: 10361, mal_id: 1475 },
+  // [1990-SUMMER] MOVIE: シティーハンター 百万ドルの陰謀
+  // https://annict.com/works/10362
+  { annict_id: 10362, mal_id: 1476 },
 ]
