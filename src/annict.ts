@@ -29585,4 +29585,10 @@ export const annict: ArmEntry[] = [
   // [1990-SUMMER] MOVIE: シティーハンター 百万ドルの陰謀
   // https://annict.com/works/10362
   { annict_id: 10362, mal_id: 1476 },
+  // [2012-AUTUMN] OVA: ラプンツェルのウェディング
+  // https://annict.com/works/10363
+  { annict_id: 10363 },
+  // [2017-WINTER] MOVIE: インナー・ワーキング
+  // https://annict.com/works/10364
+  { annict_id: 10364 },
 ]
