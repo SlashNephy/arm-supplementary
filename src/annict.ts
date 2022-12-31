@@ -29594,4 +29594,7 @@ export const annict: ArmEntry[] = [
   // [2017-SUMMER] OVA: マウイの魚釣りチャレンジ
   // https://annict.com/works/10365
   { annict_id: 10365 },
+  // [null-null] OTHER: 16bitセンセーション
+  // https://annict.com/works/10366
+  { annict_id: 10366 },
 ]
