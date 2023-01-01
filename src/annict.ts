@@ -29596,7 +29596,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10365 },
   // [null-null] OTHER: 16bitセンセーション
   // https://annict.com/works/10366
-  { annict_id: 10366 },
+  { annict_id: 10366, mal_id: 54041 },
   // [2023-null] OTHER: Fate/Grand Order 藤丸立香はわからない
   // https://annict.com/works/10367
   { annict_id: 10367 },
