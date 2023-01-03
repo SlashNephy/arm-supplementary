@@ -11,13 +11,13 @@ on:
       - synchronize
 
   schedule:
-    - cron: "0 * * * *"
+    - cron: '0 * * * *'
 
   workflow_dispatch:
 
 jobs:
   build:
-    if: github.event_name != "push" && github.event_name != "schedule"
+    if: github.event_name != 'push' && github.event_name != 'schedule'
     uses: SlashNephy/.github/.github/workflows/yarn-run.yml@master
     permissions:
       contents: read
@@ -25,24 +25,24 @@ jobs:
       script: build
 
   lint:
-    if: github.event_name != "schedule"
+    if: github.event_name != 'schedule'
     uses: SlashNephy/.github/.github/workflows/yarn-lint.yml@master
     permissions:
       contents: read
       pull-requests: write
 
   format:
-    if: github.event_name == "push"
+    if: github.event_name == 'push'
     uses: SlashNephy/.github/.github/workflows/yarn-format.yml@master
     permissions:
       contents: write
     with:
       use-custom-token: true
     secrets:
-      github-token: "${{ secrets.GH_PAT }}"
+      github-token: '${{ secrets.GH_PAT }}'
 
   update:
-    if: github.event_name == "push" || github.event_name == "schedule"
+    if: github.event_name == 'push' || github.event_name == 'schedule'
     permissions:
       contents: write
     runs-on: ubuntu-latest
@@ -50,12 +50,12 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
         with:
-          token: "${{ secrets.GH_PAT }}"
+          token: '${{ secrets.GH_PAT }}'
 
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
-          node-version: "18"
+          node-version: '18'
           cache: yarn
           cache-dependency-path: yarn.lock
 
@@ -65,10 +65,10 @@ jobs:
       - name: Generate
         run: yarn generate
         env:
-          ANNICT_ACCESS_TOKEN: "${{ secrets.ANNICT_ACCESS_TOKEN }}"
+          ANNICT_ACCESS_TOKEN: '${{ secrets.ANNICT_ACCESS_TOKEN }}'
           # ARM_COMMIT_SHA: 'c10d04d07eff16e3cdf6a2f2b70217ba1eb3913f'
 
       - name: Push
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "🪄 update database"
+          commit_message: '🪄 update database'
