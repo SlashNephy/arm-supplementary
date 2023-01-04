@@ -29612,4 +29612,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: 逃走中 グレートミッション
   // https://annict.com/works/10371
   { annict_id: 10371 },
+  // [2023-WINTER] TV: 弱虫ペダル GLORY LINE -特別総集編-
+  // https://annict.com/works/10372
+  { annict_id: 10372 },
 ]
