@@ -25364,7 +25364,7 @@ export const annict: ArmEntry[] = [
   // [2013-SUMMER] OTHER: 絶対防衛レヴィアタン ミニ 焚き火劇場
   // https://annict.com/works/8857
   { annict_id: 8857, mal_id: 19397 },
-  // [null-null] TV: アンダーニンジャ
+  // [2023-null] TV: アンダーニンジャ
   // https://annict.com/works/8858
   { annict_id: 8858, mal_id: 49766 },
   // [2022-SPRING] OVA: 憂国のモリアーティ ～百合の追憶～
@@ -29609,4 +29609,7 @@ export const annict: ArmEntry[] = [
   // [2011-null] WEB: つぶやき隊
   // https://annict.com/works/10370
   { annict_id: 10370, mal_id: 34163 },
+  // [2023-SPRING] TV: 逃走中 グレートミッション
+  // https://annict.com/works/10371
+  { annict_id: 10371 },
 ]
