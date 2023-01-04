@@ -29615,4 +29615,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] TV: 弱虫ペダル GLORY LINE -特別総集編-
   // https://annict.com/works/10372
   { annict_id: 10372 },
+  // [2022-AUTUMN] WEB: きよねこっ
+  // https://annict.com/works/10373
+  { annict_id: 10373, mal_id: 50529 },
 ]
