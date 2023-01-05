@@ -26408,7 +26408,7 @@ export const annict: ArmEntry[] = [
   // [2022-WINTER] WEB: ぷちセカ
   // https://annict.com/works/9269
   { annict_id: 9269, mal_id: 49939, syobocal_tid: 6252 },
-  // [2023-null] TV: 君は放課後インソムニア
+  // [2023-SPRING] TV: 君は放課後インソムニア
   // https://annict.com/works/9270
   { annict_id: 9270, mal_id: 50796 },
   // [2022-WINTER] WEB: 『あなたを一言で表してください』の質問が苦手だ。
