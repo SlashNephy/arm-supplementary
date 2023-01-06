@@ -22790,7 +22790,7 @@ export const annict: ArmEntry[] = [
   // [2021-AUTUMN] TV: 進化の実～知らないうちに勝ち組人生～
   // https://annict.com/works/7903
   { annict_id: 7903, mal_id: 46985, syobocal_tid: 6143 },
-  // [null-null] TV: ゴブリンスレイヤー 第2期
+  // [2023-null] TV: ゴブリンスレイヤーⅡ
   // https://annict.com/works/7904
   { annict_id: 7904, mal_id: 47160 },
   // [null-null] TV: 友達の妹が俺にだけウザい
@@ -29618,4 +29618,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] WEB: きよねこっ
   // https://annict.com/works/10373
   { annict_id: 10373, mal_id: 50529 },
+  // [2023-null] TV: ひきこまり吸血姫の悶々
+  // https://annict.com/works/10374
+  { annict_id: 10374 },
 ]
