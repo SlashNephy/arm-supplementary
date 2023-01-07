@@ -29621,4 +29621,34 @@ export const annict: ArmEntry[] = [
   // [2023-null] TV: ひきこまり吸血姫の悶々
   // https://annict.com/works/10374
   { annict_id: 10374 },
+  // [1992-AUTUMN] OVA: けろけろけろっぴのクリスマス・イブのおくりもの
+  // https://annict.com/works/10375
+  { annict_id: 10375, mal_id: 17983 },
+  // [1998-AUTUMN] OVA: ハローキティのはじめてのクリスマスケーキ
+  // https://annict.com/works/10376
+  { annict_id: 10376, mal_id: 29535 },
+  // [1998-AUTUMN] OVA: みんなの楽しい夏休み
+  // https://annict.com/works/10377
+  { annict_id: 10377, mal_id: 29539 },
+  // [1993-AUTUMN] OVA: サンタさんが二人いた
+  // https://annict.com/works/10378
+  { annict_id: 10378, mal_id: 29541 },
+  // [1993-AUTUMN] OVA: サンタさんへのおくりもの
+  // https://annict.com/works/10379
+  { annict_id: 10379, mal_id: 18823 },
+  // [1993-AUTUMN] OVA: おかぜをひいたサンタさん
+  // https://annict.com/works/10380
+  { annict_id: 10380, mal_id: 29537 },
+  // [1992-AUTUMN] OVA: キティとダニエルのすてきなクリスマス
+  // https://annict.com/works/10381
+  { annict_id: 10381, mal_id: 29543 },
+  // [1992-AUTUMN] OVA: サンタさんとトナカイクッピ
+  // https://annict.com/works/10382
+  { annict_id: 10382, mal_id: 22627 },
+  // [2004-WINTER] OVA: キティとダニエルのおどるサンタさんのひみつ
+  // https://annict.com/works/10383
+  { annict_id: 10383, mal_id: 29549 },
+  // [1999-null] OVA: ハローキティといっしょにお勉強
+  // https://annict.com/works/10384
+  { annict_id: 10384, mal_id: 53665 },
 ]
