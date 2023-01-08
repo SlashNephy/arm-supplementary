@@ -25454,7 +25454,7 @@ export const annict: ArmEntry[] = [
   // [2015-SUMMER] MOVIE: モンスター・ホテル2
   // https://annict.com/works/8887
   { annict_id: 8887 },
-  // [2022-AUTUMN] TV: 機動戦士ガンダム 水星の魔女
+  // [2022-AUTUMN] TV: 機動戦士ガンダム 水星の魔女 Season1
   // https://annict.com/works/8888
   { annict_id: 8888, mal_id: 49828, syobocal_tid: 6466 },
   // [2022-SPRING] MOVIE: 機動戦士ガンダム ククルス・ドアンの島
