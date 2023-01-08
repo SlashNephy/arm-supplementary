@@ -29654,4 +29654,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] TV: KJファイル 第2期
   // https://annict.com/works/10385
   { annict_id: 10385, mal_id: 53231, syobocal_tid: 6604 },
+  // [2023-SUMMER] TV: ゾン100～ゾンビになるまでにしたい100のこと～
+  // https://annict.com/works/10386
+  { annict_id: 10386 },
 ]
