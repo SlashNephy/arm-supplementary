@@ -29657,4 +29657,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] TV: ゾン100～ゾンビになるまでにしたい100のこと～
   // https://annict.com/works/10386
   { annict_id: 10386 },
+  // [2023-WINTER] TV: ひろがるスカイ！プリキュア
+  // https://annict.com/works/10387
+  { annict_id: 10387 },
 ]
