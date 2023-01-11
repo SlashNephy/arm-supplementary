@@ -27299,7 +27299,7 @@ export const annict: ArmEntry[] = [
   // [2009-WINTER] TV: おじゃる丸（第12シリーズ）
   // https://annict.com/works/9599
   { annict_id: 9599, mal_id: 4459, syobocal_tid: 1790 },
-  // [2022-SUMMER] TV: 夜は猫といっしょ
+  // [2022-SUMMER] TV: 夜は猫といっしょ(Season1)
   // https://annict.com/works/9600
   { annict_id: 9600, mal_id: 51692, syobocal_tid: 6426 },
   // [2022-SPRING] WEB: なならき 〜Seven Lucky Gods〜
@@ -28847,7 +28847,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] TV: ジョジョの奇妙な冒険 ストーンオーシャン 第3期
   // https://annict.com/works/10116
   { annict_id: 10116, mal_id: 53273, syobocal_tid: 6596 },
-  // [2022-AUTUMN] WEB: 夜は猫といっしょ(YouTube版)
+  // [2022-AUTUMN] WEB: 夜は猫といっしょ(Season1秋クール)
   // https://annict.com/works/10117
   { annict_id: 10117, mal_id: 51692, syobocal_tid: 6511 },
   // [2023-null] TV: お嬢と番犬くん
@@ -29666,4 +29666,7 @@ export const annict: ArmEntry[] = [
   // [2023-null] WEB: BASTARD!! -暗黒の破壊神- 地獄の鎮魂歌編
   // https://annict.com/works/10389
   { annict_id: 10389 },
+  // [2023-null] WEB: 夜は猫といっしょ(Season2)
+  // https://annict.com/works/10390
+  { annict_id: 10390 },
 ]
