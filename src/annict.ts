@@ -25195,7 +25195,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 8799, mal_id: 49519, syobocal_tid: 6194 },
   // [2023-WINTER] WEB: とーとつにエジプト神 2
   // https://annict.com/works/8800
-  { annict_id: 8800, mal_id: 49522 },
+  { annict_id: 8800, mal_id: 49522, syobocal_tid: 6612 },
   // [2021-AUTUMN] TV: デジモンゴーストゲーム
   // https://annict.com/works/8801
   { annict_id: 8801, mal_id: 49515, syobocal_tid: 6154 },
