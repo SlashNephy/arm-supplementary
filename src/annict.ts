@@ -29672,4 +29672,7 @@ export const annict: ArmEntry[] = [
   // [2025-null] MOVIE: Future Kid Takara（仮称）
   // https://annict.com/works/10391
   { annict_id: 10391 },
+  // [2023-SPRING] TV: ぐんまちゃん シーズン2
+  // https://annict.com/works/10392
+  { annict_id: 10392 },
 ]
