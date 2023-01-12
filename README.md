@@ -38,17 +38,17 @@ export const fetchArmEntries = async (): Promise<ArmEntry[]> => {
 
 ## Statistics
 
-Currently, arm-supplementary has 34752 entries (+6967).
+Currently, arm-supplementary has 34824 entries (+7039).
 
 | Service                                     | arm-supplementary | arm / anime-offline-database |
 | :------------------------------------------ | :---------------: | :--------------------------: |
 | [Annict](https://annict.com)                |    9891 (+144)    |             9747             |
-| [AniList](https://anilist.co)               |   20507 (+2061)   |            18446             |
-| [MyAnimeList](https://myanimelist.net)      |   24183 (+318)    |            23865             |
+| [AniList](https://anilist.co)               |   20513 (+2067)   |            18446             |
+| [MyAnimeList](https://myanimelist.net)      |   24225 (+360)    |            23865             |
 | [しょぼいカレンダー](https://cal.syoboi.jp) |    5491 (+30)     |             5461             |
 | [AniDB](https://anidb.net)                  |   12772 (+113)    |            12659             |
-| [Anime-Planet](https://anime-planet.com)    |   22248 (+113)    |            22135             |
-| [aniSearch](https://anisearch.com)          |   17544 (+120)    |            17424             |
-| [Kitsu](https://kitsu.io)                   |   18623 (+125)    |            18498             |
-| [LiveChart.me](https://livechart.me)        |   10482 (+106)    |            10376             |
-| [Anime Notifier](https://notify.moe)        |   15659 (+121)    |            15538             |
+| [Anime-Planet](https://anime-planet.com)    |   22268 (+113)    |            22155             |
+| [aniSearch](https://anisearch.com)          |   17572 (+120)    |            17452             |
+| [Kitsu](https://kitsu.io)                   |   18631 (+125)    |            18506             |
+| [LiveChart.me](https://livechart.me)        |   10489 (+106)    |            10383             |
+| [Anime Notifier](https://notify.moe)        |   15662 (+121)    |            15541             |
