@@ -29669,4 +29669,7 @@ export const annict: ArmEntry[] = [
   // [2023-null] WEB: 夜は猫といっしょ(Season2)
   // https://annict.com/works/10390
   { annict_id: 10390 },
+  // [2025-null] MOVIE: Future Kid Takara（仮称）
+  // https://annict.com/works/10391
+  { annict_id: 10391 },
 ]
