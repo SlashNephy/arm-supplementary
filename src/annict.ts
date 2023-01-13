@@ -29675,4 +29675,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: ぐんまちゃん シーズン2
   // https://annict.com/works/10392
   { annict_id: 10392 },
+  // [null-null] TV: 怪異と乙女と神隠し
+  // https://annict.com/works/10393
+  { annict_id: 10393 },
 ]
