@@ -29693,4 +29693,7 @@ export const annict: ArmEntry[] = [
   // [2009-SPRING] TV: シュガーバニーズ フルール
   // https://annict.com/works/10398
   { annict_id: 10398, mal_id: 6481 },
+  // [2023-null] TV: 好きな子がめがねを忘れた
+  // https://annict.com/works/10399
+  { annict_id: 10399, mal_id: 54234 },
 ]
