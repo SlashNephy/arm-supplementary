@@ -29678,4 +29678,10 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 怪異と乙女と神隠し
   // https://annict.com/works/10393
   { annict_id: 10393 },
+  // [2006-AUTUMN] TV: ウサハナ 夢見るバレリーナ
+  // https://annict.com/works/10394
+  { annict_id: 10394, mal_id: 6522 },
+  // [2006-AUTUMN] TV: けろけろけろっぴ はすのうえタウン危機一髪!
+  // https://annict.com/works/10395
+  { annict_id: 10395, mal_id: 22651 },
 ]
