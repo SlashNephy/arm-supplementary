@@ -29684,4 +29684,13 @@ export const annict: ArmEntry[] = [
   // [2006-AUTUMN] TV: けろけろけろっぴ はすのうえタウン危機一髪!
   // https://annict.com/works/10395
   { annict_id: 10395, mal_id: 22651 },
+  // [2007-SPRING] TV: シュガーバニーズ
+  // https://annict.com/works/10396
+  { annict_id: 10396, mal_id: 3885 },
+  // [2008-SPRING] TV: シュガーバニーズ ショコラ!
+  // https://annict.com/works/10397
+  { annict_id: 10397, mal_id: 6482 },
+  // [2009-SPRING] TV: シュガーバニーズ フルール
+  // https://annict.com/works/10398
+  { annict_id: 10398, mal_id: 6481 },
 ]
