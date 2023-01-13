@@ -27974,7 +27974,7 @@ export const annict: ArmEntry[] = [
   // [2002-SUMMER] OVA: ジャングルはいつもハレのちグゥ デラックス
   // https://annict.com/works/9824
   { annict_id: 9824, mal_id: 254, syobocal_tid: 2480 },
-  // [null-null] MOVIE: 劇場版 PSYCHO-PASS サイコパス PROVIDENCE
+  // [2023-SPRING] MOVIE: 劇場版 PSYCHO-PASS サイコパス PROVIDENCE
   // https://annict.com/works/9825
   { annict_id: 9825, mal_id: 52747 },
   // [2019-SUMMER] WEB: ポカリスエット×はたらく細胞
