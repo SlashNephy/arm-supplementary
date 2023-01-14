@@ -29696,4 +29696,10 @@ export const annict: ArmEntry[] = [
   // [2023-null] TV: 好きな子がめがねを忘れた
   // https://annict.com/works/10399
   { annict_id: 10399, mal_id: 54234 },
+  // [2023-WINTER] TV: 機動戦士ガンダム 閃光のハサウェイ TVエディション
+  // https://annict.com/works/10400
+  { annict_id: 10400 },
+  // [2023-WINTER] TV: 機動戦士ガンダム サンダーボルト TVエディション
+  // https://annict.com/works/10401
+  { annict_id: 10401 },
 ]
