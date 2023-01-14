@@ -29702,4 +29702,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] TV: 機動戦士ガンダム サンダーボルト TVエディション
   // https://annict.com/works/10401
   { annict_id: 10401 },
+  // [2023-WINTER] TV: 機動戦士ガンダムNT(ナラティブ) TVエディション
+  // https://annict.com/works/10402
+  { annict_id: 10402 },
 ]
