@@ -29257,7 +29257,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10252 },
   // [2023-null] TV: SPY×FAMILY Season2
   // https://annict.com/works/10253
-  { annict_id: 10253 },
+  { annict_id: 10253, mal_id: 53887 },
   // [2023-WINTER] WEB: 極主夫道 Season2
   // https://annict.com/works/10254
   { annict_id: 10254 },
@@ -29512,7 +29512,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10337 },
   // [2023-null] MOVIE: SPY×FAMILY劇場版
   // https://annict.com/works/10338
-  { annict_id: 10338 },
+  { annict_id: 10338, mal_id: 53888 },
   // [null-null] TV: 声優ラジオのウラオモテ
   // https://annict.com/works/10339
   { annict_id: 10339 },

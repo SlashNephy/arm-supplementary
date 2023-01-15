@@ -43,12 +43,12 @@ Currently, arm-supplementary has 34834 entries (+7049).
 | Service                                     | arm-supplementary | arm / anime-offline-database |
 | :------------------------------------------ | :---------------: | :--------------------------: |
 | [Annict](https://annict.com)                |    9902 (+155)    |             9747             |
-| [AniList](https://anilist.co)               |   20517 (+2071)   |            18446             |
-| [MyAnimeList](https://myanimelist.net)      |   24231 (+366)    |            23865             |
+| [AniList](https://anilist.co)               |   20519 (+2073)   |            18446             |
+| [MyAnimeList](https://myanimelist.net)      |   24233 (+368)    |            23865             |
 | [しょぼいカレンダー](https://cal.syoboi.jp) |    5491 (+30)     |             5461             |
-| [AniDB](https://anidb.net)                  |   12776 (+117)    |            12659             |
-| [Anime-Planet](https://anime-planet.com)    |   22272 (+117)    |            22155             |
-| [aniSearch](https://anisearch.com)          |   17576 (+124)    |            17452             |
-| [Kitsu](https://kitsu.io)                   |   18636 (+130)    |            18506             |
-| [LiveChart.me](https://livechart.me)        |   10489 (+106)    |            10383             |
-| [Anime Notifier](https://notify.moe)        |   15667 (+126)    |            15541             |
+| [AniDB](https://anidb.net)                  |   12778 (+119)    |            12659             |
+| [Anime-Planet](https://anime-planet.com)    |   22274 (+119)    |            22155             |
+| [aniSearch](https://anisearch.com)          |   17578 (+126)    |            17452             |
+| [Kitsu](https://kitsu.io)                   |   18638 (+132)    |            18506             |
+| [LiveChart.me](https://livechart.me)        |   10491 (+108)    |            10383             |
+| [Anime Notifier](https://notify.moe)        |   15669 (+128)    |            15541             |
