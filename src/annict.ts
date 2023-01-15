@@ -29705,4 +29705,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] TV: 機動戦士ガンダムNT(ナラティブ) TVエディション
   // https://annict.com/works/10402
   { annict_id: 10402 },
+  // [null-null] TV: ささやくように恋を唄う
+  // https://annict.com/works/10403
+  { annict_id: 10403 },
 ]
