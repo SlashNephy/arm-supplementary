@@ -29711,4 +29711,49 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: メイドインアビス 烈日の黄金郷 続編
   // https://annict.com/works/10404
   { annict_id: 10404 },
+  // [2022-AUTUMN] WEB: Oswald the Lucky Rabbit
+  // https://annict.com/works/10405
+  { annict_id: 10405 },
+  // [2021-SUMMER] WEB: おばあちゃんの特別な日
+  // https://annict.com/works/10406
+  { annict_id: 10406 },
+  // [2021-SUMMER] WEB: 誕生日シンドローム
+  // https://annict.com/works/10407
+  { annict_id: 10407 },
+  // [2020-AUTUMN] WEB: 夢追いウサギ
+  // https://annict.com/works/10408
+  { annict_id: 10408 },
+  // [2020-SUMMER] WEB: 殻を破る
+  // https://annict.com/works/10409
+  { annict_id: 10409 },
+  // [2020-SPRING] WEB: ループ
+  // https://annict.com/works/10410
+  { annict_id: 10410 },
+  // [2020-SPRING] WEB: 風に乗る
+  // https://annict.com/works/10411
+  { annict_id: 10411 },
+  // [2020-SPRING] WEB: 宙を舞う
+  // https://annict.com/works/10412
+  { annict_id: 10412 },
+  // [2020-SPRING] WEB: 猫とピットブル
+  // https://annict.com/works/10413
+  { annict_id: 10413 },
+  // [2020-SPRING] WEB: ハイタッチ
+  // https://annict.com/works/10414
+  { annict_id: 10414 },
+  // [2018-AUTUMN] OVA: ジャック・ジャックとエドナおばたん
+  // https://annict.com/works/10415
+  { annict_id: 10415 },
+  // [2020-SPRING] WEB: 心をつむいで
+  // https://annict.com/works/10416
+  { annict_id: 10416 },
+  // [2018-SUMMER] MOVIE: Bao
+  // https://annict.com/works/10417
+  { annict_id: 10417 },
+  // [2017-AUTUMN] OVA: 生徒募集！ミス・フリッターのレーシング・スクール
+  // https://annict.com/works/10418
+  { annict_id: 10418 },
+  // [2017-SUMMER] MOVIE: LOU
+  // https://annict.com/works/10419
+  { annict_id: 10419 },
 ]
