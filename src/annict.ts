@@ -29710,7 +29710,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10403 },
   // [null-null] OTHER: メイドインアビス 烈日の黄金郷 続編
   // https://annict.com/works/10404
-  { annict_id: 10404 },
+  { annict_id: 10404, mal_id: 54250 },
   // [2022-AUTUMN] WEB: Oswald the Lucky Rabbit
   // https://annict.com/works/10405
   { annict_id: 10405 },
