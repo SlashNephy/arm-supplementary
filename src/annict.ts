@@ -29756,4 +29756,7 @@ export const annict: ArmEntry[] = [
   // [2017-SUMMER] MOVIE: LOU
   // https://annict.com/works/10419
   { annict_id: 10419 },
+  // [2016-AUTUMN] OVA: 突撃！海中インタビュー
+  // https://annict.com/works/10420
+  { annict_id: 10420 },
 ]
