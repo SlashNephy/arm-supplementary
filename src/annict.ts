@@ -27041,7 +27041,7 @@ export const annict: ArmEntry[] = [
   // [2008-SUMMER] OVA: 我が家のお稲荷さま。 クーちゃんのオマケ劇場
   // https://annict.com/works/9513
   { annict_id: 9513, mal_id: 5484 },
-  // [2023-null] TV: 進撃の巨人 The Final Season 完結編
+  // [2023-WINTER] TV: 進撃の巨人 The Final Season 完結編（前編）
   // https://annict.com/works/9514
   { annict_id: 9514, mal_id: 51535 },
   // [2022-WINTER] WEB: まちカドまぞく 2丁目 みに
@@ -29759,4 +29759,10 @@ export const annict: ArmEntry[] = [
   // [2016-AUTUMN] OVA: 突撃！海中インタビュー
   // https://annict.com/works/10420
   { annict_id: 10420 },
+  // [2015-AUTUMN] OVA: ライリーの初デート？
+  // https://annict.com/works/10421
+  { annict_id: 10421 },
+  // [2015-SUMMER] MOVIE: 南の島のラブソング
+  // https://annict.com/works/10422
+  { annict_id: 10422 },
 ]
