@@ -29771,4 +29771,7 @@ export const annict: ArmEntry[] = [
   // [2015-WINTER] OVA: サンダーボルトの冒険
   // https://annict.com/works/10424
   { annict_id: 10424 },
+  // [2023-SPRING] TV: 機動戦士ガンダム 水星の魔女 Season2
+  // https://annict.com/works/10425
+  { annict_id: 10425 },
 ]
