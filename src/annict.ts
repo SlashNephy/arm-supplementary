@@ -29765,4 +29765,10 @@ export const annict: ArmEntry[] = [
   // [2015-SUMMER] MOVIE: 南の島のラブソング
   // https://annict.com/works/10422
   { annict_id: 10422 },
+  // [2016-WINTER] MOVIE: ボクのスーパーチーム
+  // https://annict.com/works/10423
+  { annict_id: 10423 },
+  // [2015-WINTER] OVA: サンダーボルトの冒険
+  // https://annict.com/works/10424
+  { annict_id: 10424 },
 ]
