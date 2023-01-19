@@ -27320,10 +27320,10 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] TV: 冰剣の魔術師が世界を統べる 〜世界最強の魔術師である少年は、魔術学院に入学する〜
   // https://annict.com/works/9606
   { annict_id: 9606, mal_id: 51711, syobocal_tid: 6545 },
-  // [2023-SUMMER] MOVIE: 美少女戦士セーラームーンCosmos 〈前編〉
+  // [2023-SPRING] MOVIE: 美少女戦士セーラームーンCosmos 〈前編〉
   // https://annict.com/works/9607
   { annict_id: 9607, mal_id: 51716 },
-  // [2023-null] MOVIE: 美少女戦士セーラームーンCosmos 〈後編〉
+  // [2023-SPRING] MOVIE: 美少女戦士セーラームーンCosmos 〈後編〉
   // https://annict.com/works/9608
   { annict_id: 9608, mal_id: 51716 },
   // [2010-WINTER] TV: おじゃる丸（第13シリーズ）
@@ -29774,4 +29774,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: 機動戦士ガンダム 水星の魔女 Season2
   // https://annict.com/works/10425
   { annict_id: 10425 },
+  // [null-null] TV: 結婚指輪物語
+  // https://annict.com/works/10426
+  { annict_id: 10426 },
 ]
