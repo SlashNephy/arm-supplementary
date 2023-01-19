@@ -29611,7 +29611,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10370, mal_id: 34163 },
   // [2023-SPRING] TV: 逃走中 グレートミッション
   // https://annict.com/works/10371
-  { annict_id: 10371 },
+  { annict_id: 10371, mal_id: 54040 },
   // [2023-WINTER] TV: 弱虫ペダル GLORY LINE -特別総集編-
   // https://annict.com/works/10372
   { annict_id: 10372 },
@@ -29620,7 +29620,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10373, mal_id: 50529 },
   // [2023-null] TV: ひきこまり吸血姫の悶々
   // https://annict.com/works/10374
-  { annict_id: 10374 },
+  { annict_id: 10374, mal_id: 54103 },
   // [1992-AUTUMN] OVA: けろけろけろっぴのクリスマス・イブのおくりもの
   // https://annict.com/works/10375
   { annict_id: 10375, mal_id: 17983 },
@@ -29656,28 +29656,28 @@ export const annict: ArmEntry[] = [
   { annict_id: 10385, mal_id: 53231, syobocal_tid: 6604 },
   // [2023-SUMMER] TV: ゾン100～ゾンビになるまでにしたい100のこと～
   // https://annict.com/works/10386
-  { annict_id: 10386 },
+  { annict_id: 10386, mal_id: 54112 },
   // [2023-WINTER] TV: ひろがるスカイ！プリキュア
   // https://annict.com/works/10387
-  { annict_id: 10387 },
+  { annict_id: 10387, mal_id: 53716 },
   // [2023-null] TV: 異世界でもふもふなでなでするためにがんばってます。
   // https://annict.com/works/10388
-  { annict_id: 10388 },
+  { annict_id: 10388, mal_id: 52359 },
   // [2023-null] WEB: BASTARD!! -暗黒の破壊神- 地獄の鎮魂歌編
   // https://annict.com/works/10389
-  { annict_id: 10389 },
+  { annict_id: 10389, mal_id: 54141 },
   // [2023-null] WEB: 夜は猫といっしょ(Season2)
   // https://annict.com/works/10390
   { annict_id: 10390, mal_id: 54198 },
   // [2025-null] MOVIE: Future Kid Takara（仮称）
   // https://annict.com/works/10391
-  { annict_id: 10391 },
+  { annict_id: 10391, mal_id: 54160 },
   // [2023-SPRING] TV: ぐんまちゃん シーズン2
   // https://annict.com/works/10392
-  { annict_id: 10392 },
+  { annict_id: 10392, mal_id: 54216 },
   // [null-null] TV: 怪異と乙女と神隠し
   // https://annict.com/works/10393
-  { annict_id: 10393 },
+  { annict_id: 10393, mal_id: 54199 },
   // [2006-AUTUMN] TV: ウサハナ 夢見るバレリーナ
   // https://annict.com/works/10394
   { annict_id: 10394, mal_id: 6522 },
@@ -29707,7 +29707,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10402 },
   // [null-null] TV: ささやくように恋を唄う
   // https://annict.com/works/10403
-  { annict_id: 10403 },
+  { annict_id: 10403, mal_id: 54233 },
   // [null-null] OTHER: メイドインアビス 烈日の黄金郷 続編
   // https://annict.com/works/10404
   { annict_id: 10404, mal_id: 54250 },
@@ -29773,13 +29773,13 @@ export const annict: ArmEntry[] = [
   { annict_id: 10424 },
   // [2023-SPRING] TV: 機動戦士ガンダム 水星の魔女 Season2
   // https://annict.com/works/10425
-  { annict_id: 10425 },
+  { annict_id: 10425, mal_id: 53199 },
   // [null-null] TV: 結婚指輪物語
   // https://annict.com/works/10426
-  { annict_id: 10426 },
+  { annict_id: 10426, mal_id: 54265 },
   // [2023-null] TV: てんぷる
   // https://annict.com/works/10427
-  { annict_id: 10427, mal_id: 0 },
+  { annict_id: 10427, mal_id: 54275 },
   // [2023-null] TV: 進撃の巨人 The Final Season 完結編（後編）
   // https://annict.com/works/10428
   { annict_id: 10428 },
