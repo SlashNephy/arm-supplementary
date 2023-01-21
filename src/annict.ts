@@ -29786,4 +29786,7 @@ export const annict: ArmEntry[] = [
   // [2019-WINTER] WEB: MOVE TO THE FUTURE
   // https://annict.com/works/10429
   { annict_id: 10429, mal_id: 39222 },
+  // [2008-AUTUMN] TV: ライブオン CARDLIVER 翔
+  // https://annict.com/works/10430
+  { annict_id: 10430, mal_id: 5235, syobocal_tid: 1512 },
 ]
