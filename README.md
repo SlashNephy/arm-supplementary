@@ -38,17 +38,17 @@ export const fetchArmEntries = async (): Promise<ArmEntry[]> => {
 
 ## Statistics
 
-Currently, arm-supplementary has 34825 entries (+6994).
+Currently, arm-supplementary has 34826 entries (+6995).
 
 | Service                                     | arm-supplementary | arm / anime-offline-database |
 | :------------------------------------------ | :---------------: | :--------------------------: |
-| [Annict](https://annict.com)                |    9927 (+145)    |             9782             |
-| [AniList](https://anilist.co)               |   20528 (+2068)   |            18460             |
-| [MyAnimeList](https://myanimelist.net)      |   24215 (+315)    |            23900             |
+| [Annict](https://annict.com)                |    9928 (+146)    |             9782             |
+| [AniList](https://anilist.co)               |   20529 (+2069)   |            18460             |
+| [MyAnimeList](https://myanimelist.net)      |   24216 (+316)    |            23900             |
 | [しょぼいカレンダー](https://cal.syoboi.jp) |    5493 (+29)     |             5464             |
-| [AniDB](https://anidb.net)                  |   12794 (+124)    |            12670             |
-| [Anime-Planet](https://anime-planet.com)    |   22291 (+124)    |            22167             |
-| [aniSearch](https://anisearch.com)          |   17603 (+131)    |            17472             |
-| [Kitsu](https://kitsu.io)                   |   18667 (+134)    |            18533             |
+| [AniDB](https://anidb.net)                  |   12795 (+125)    |            12670             |
+| [Anime-Planet](https://anime-planet.com)    |   22292 (+125)    |            22167             |
+| [aniSearch](https://anisearch.com)          |   17604 (+132)    |            17472             |
+| [Kitsu](https://kitsu.io)                   |   18668 (+135)    |            18533             |
 | [LiveChart.me](https://livechart.me)        |   10510 (+118)    |            10392             |
 | [Anime Notifier](https://notify.moe)        |   15688 (+134)    |            15554             |
