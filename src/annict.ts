@@ -29789,4 +29789,7 @@ export const annict: ArmEntry[] = [
   // [2008-AUTUMN] TV: ライブオン CARDLIVER 翔
   // https://annict.com/works/10430
   { annict_id: 10430, mal_id: 5235, syobocal_tid: 1512 },
+  // [null-null] TV: オーバーテイク！
+  // https://annict.com/works/10431
+  { annict_id: 10431 },
 ]
