@@ -1,7 +1,7 @@
 import { GraphQLClient } from 'graphql-request'
 
-import { getSdk } from '../graphql/annict/sdk'
 import { UserAgent } from './constant'
+import { getSdk } from '../graphql/annict/sdk'
 
 import type { ListWorksQuery } from '../graphql/annict/operations'
 import type { Sdk } from '../graphql/annict/sdk'
