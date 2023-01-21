@@ -26318,7 +26318,7 @@ export const annict: ArmEntry[] = [
   // [2013-AUTUMN] OVA: 進撃の巨人 OAD シリーズ
   // https://annict.com/works/9239
   { annict_id: 9239, mal_id: 18397 },
-  // [null-null] OVA: 蒼穹のファフナー BEHIND THE LINE
+  // [2023-WINTER] OVA: 蒼穹のファフナー BEHIND THE LINE
   // https://annict.com/works/9240
   { annict_id: 9240, mal_id: 50675 },
   // [2022-WINTER] MOVIE: アンネ・フランクと旅する日記
