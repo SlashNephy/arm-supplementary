@@ -29792,4 +29792,10 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: オーバーテイク！
   // https://annict.com/works/10431
   { annict_id: 10431 },
+  // [null-null] TV: ブルーアーカイブ The Animation
+  // https://annict.com/works/10432
+  { annict_id: 10432 },
+  // [2022-WINTER] WEB: アイドルマスター ミリオンライブ！アニメプロローグイメージMV「セブンカウント」
+  // https://annict.com/works/10433
+  { annict_id: 10433, mal_id: 51842 },
 ]
