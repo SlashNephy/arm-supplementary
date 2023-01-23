@@ -29798,4 +29798,7 @@ export const annict: ArmEntry[] = [
   // [2022-WINTER] WEB: アイドルマスター ミリオンライブ！アニメプロローグイメージMV「セブンカウント」
   // https://annict.com/works/10433
   { annict_id: 10433, mal_id: 51842 },
+  // [null-null] TV: VTuberなんだが配信切り忘れたら伝説になってた
+  // https://annict.com/works/10434
+  { annict_id: 10434 },
 ]
