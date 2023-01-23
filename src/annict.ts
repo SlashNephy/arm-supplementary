@@ -26069,7 +26069,7 @@ export const annict: ArmEntry[] = [
   // [2022-WINTER] MOVIE: あんさんぶるスターズ!! -Road to Show!!-
   // https://annict.com/works/9124
   { annict_id: 9124, mal_id: 50414 },
-  // [null-null] TV: スキップとローファー
+  // [2023-SPRING] TV: スキップとローファー
   // https://annict.com/works/9125
   { annict_id: 9125, mal_id: 50416 },
   // [2023-WINTER] TV: しょうたいむ！2 ～歌のお姉さんだってしたい～
@@ -29801,4 +29801,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: VTuberなんだが配信切り忘れたら伝説になってた
   // https://annict.com/works/10434
   { annict_id: 10434 },
+  // [2023-SPRING] TV: 六道の悪女たち
+  // https://annict.com/works/10435
+  { annict_id: 10435 },
 ]
