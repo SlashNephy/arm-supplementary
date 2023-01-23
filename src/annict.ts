@@ -28853,7 +28853,7 @@ export const annict: ArmEntry[] = [
   // [2023-null] TV: お嬢と番犬くん
   // https://annict.com/works/10118
   { annict_id: 10118 },
-  // [2023-SPRING] MOVIE: アイカツ！ 10th STORY ～未来へのSTARWAY～ (2023)
+  // [2023-WINTER] MOVIE: アイカツ！ 10th STORY ～未来へのSTARWAY～ (2023)
   // https://annict.com/works/10119
   { annict_id: 10119 },
   // [2013-SPRING] WEB: ターニングガールズ
