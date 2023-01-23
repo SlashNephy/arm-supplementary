@@ -29069,7 +29069,7 @@ export const annict: ArmEntry[] = [
   // [1996-WINTER] MOVIE: チョッちゃん物語
   // https://annict.com/works/10190
   { annict_id: 10190, mal_id: 4201 },
-  // [2023-null] TV: 事情を知らない転校生がグイグイくる。
+  // [2023-SPRING] TV: 事情を知らない転校生がグイグイくる。
   // https://annict.com/works/10191
   { annict_id: 10191 },
   // [2023-WINTER] WEB: 最後の召喚師 -The Last Summoner-
