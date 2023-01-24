@@ -29791,17 +29791,17 @@ export const annict: ArmEntry[] = [
   { annict_id: 10430, mal_id: 5235, syobocal_tid: 1512 },
   // [null-null] TV: オーバーテイク！
   // https://annict.com/works/10431
-  { annict_id: 10431 },
+  { annict_id: 10431, mal_id: 54301 },
   // [null-null] TV: ブルーアーカイブ The Animation
   // https://annict.com/works/10432
-  { annict_id: 10432 },
+  { annict_id: 10432, mal_id: 54309 },
   // [2022-WINTER] WEB: アイドルマスター ミリオンライブ！アニメプロローグイメージMV「セブンカウント」
   // https://annict.com/works/10433
   { annict_id: 10433, mal_id: 51842 },
   // [null-null] TV: VTuberなんだが配信切り忘れたら伝説になってた
   // https://annict.com/works/10434
-  { annict_id: 10434 },
+  { annict_id: 10434, mal_id: 54284 },
   // [2023-SPRING] TV: 六道の悪女たち
   // https://annict.com/works/10435
-  { annict_id: 10435 },
+  { annict_id: 10435, mal_id: 54259 },
 ]
