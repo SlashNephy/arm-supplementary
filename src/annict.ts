@@ -29804,4 +29804,22 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: 六道の悪女たち
   // https://annict.com/works/10435
   { annict_id: 10435, mal_id: 54259 },
+  // [2002-SPRING] TV: ベイベーばあちゃん
+  // https://annict.com/works/10436
+  { annict_id: 10436, mal_id: 2732 },
+  // [2009-SPRING] TV: ヒゲぴよ
+  // https://annict.com/works/10437
+  { annict_id: 10437, mal_id: 5983 },
+  // [2011-SPRING] TV: ソッキーズ フロンティアクエスト
+  // https://annict.com/works/10438
+  { annict_id: 10438, mal_id: 8143 },
+  // [2013-AUTUMN] MOVIE: モンスターズ・パーティ
+  // https://annict.com/works/10439
+  { annict_id: 10439 },
+  // [2013-SUMMER] MOVIE: ブルー・アンブレラ
+  // https://annict.com/works/10440
+  { annict_id: 10440 },
+  // [2012-AUTUMN] OVA: モルデューの伝説
+  // https://annict.com/works/10441
+  { annict_id: 10441 },
 ]
