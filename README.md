@@ -38,17 +38,17 @@ export const fetchArmEntries = async (): Promise<ArmEntry[]> => {
 
 ## Statistics
 
-Currently, arm-supplementary has 34837 entries (+7006).
+Currently, arm-supplementary has 34840 entries (+7009).
 
 | Service                                     | arm-supplementary | arm / anime-offline-database |
 | :------------------------------------------ | :---------------: | :--------------------------: |
-| [Annict](https://annict.com)                |    9940 (+158)    |             9782             |
+| [Annict](https://annict.com)                |    9943 (+161)    |             9782             |
 | [AniList](https://anilist.co)               |   20534 (+2074)   |            18460             |
-| [MyAnimeList](https://myanimelist.net)      |   24224 (+324)    |            23900             |
+| [MyAnimeList](https://myanimelist.net)      |   24225 (+325)    |            23900             |
 | [しょぼいカレンダー](https://cal.syoboi.jp) |    5494 (+30)     |             5464             |
-| [AniDB](https://anidb.net)                  |   12799 (+129)    |            12670             |
-| [Anime-Planet](https://anime-planet.com)    |   22295 (+128)    |            22167             |
-| [aniSearch](https://anisearch.com)          |   17608 (+136)    |            17472             |
-| [Kitsu](https://kitsu.io)                   |   18672 (+139)    |            18533             |
+| [AniDB](https://anidb.net)                  |   12800 (+130)    |            12670             |
+| [Anime-Planet](https://anime-planet.com)    |   22296 (+129)    |            22167             |
+| [aniSearch](https://anisearch.com)          |   17609 (+137)    |            17472             |
+| [Kitsu](https://kitsu.io)                   |   18673 (+140)    |            18533             |
 | [LiveChart.me](https://livechart.me)        |   10511 (+119)    |            10392             |
-| [Anime Notifier](https://notify.moe)        |   15692 (+138)    |            15554             |
+| [Anime Notifier](https://notify.moe)        |   15693 (+139)    |            15554             |

@@ -29822,4 +29822,13 @@ export const annict: ArmEntry[] = [
   // [2012-AUTUMN] OVA: モルデューの伝説
   // https://annict.com/works/10441
   { annict_id: 10441 },
+  // [1996-WINTER] MOVIE: 銀河鉄道999〜夢と希望のステーション〜
+  // https://annict.com/works/10442
+  { annict_id: 10442 },
+  // [2000-WINTER] MOVIE: 銀河鉄道999 ガラスのクレア(2000年)
+  // https://annict.com/works/10443
+  { annict_id: 10443 },
+  // [2001-SUMMER] MOVIE: 銀河鉄道999 虹の道標
+  // https://annict.com/works/10444
+  { annict_id: 10444, mal_id: 27651 },
 ]
