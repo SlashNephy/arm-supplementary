@@ -29831,4 +29831,7 @@ export const annict: ArmEntry[] = [
   // [2001-SUMMER] MOVIE: 銀河鉄道999 虹の道標
   // https://annict.com/works/10444
   { annict_id: 10444, mal_id: 27651 },
+  // [2021-SPRING] OVA: アクダマドライブ第6巻映像特典#12ディレクターズカット「カンゼンバン」
+  // https://annict.com/works/10445
+  { annict_id: 10445 },
 ]
