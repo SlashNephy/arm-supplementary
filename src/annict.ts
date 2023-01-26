@@ -29834,4 +29834,7 @@ export const annict: ArmEntry[] = [
   // [2021-SPRING] OVA: アクダマドライブ第6巻映像特典#12ディレクターズカット「カンゼンバン」
   // https://annict.com/works/10445
   { annict_id: 10445 },
+  // [2023-null] OTHER: AYAKA ーあやかー
+  // https://annict.com/works/10446
+  { annict_id: 10446, mal_id: 53428 },
 ]
