@@ -29074,7 +29074,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10191 },
   // [2023-WINTER] WEB: 最後の召喚師 -The Last Summoner-
   // https://annict.com/works/10192
-  { annict_id: 10192, syobocal_tid: 6560 },
+  { annict_id: 10192, mal_id: 41915, syobocal_tid: 6560 },
   // [2023-SPRING] TV: デッドマウント・デスプレイ
   // https://annict.com/works/10193
   { annict_id: 10193 },
