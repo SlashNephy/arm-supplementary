@@ -27386,7 +27386,7 @@ export const annict: ArmEntry[] = [
   // [2022-SPRING] WEB: ボス・ベイビー やっぱりビジネスは赤ちゃんにおまかせ！
   // https://annict.com/works/9628
   { annict_id: 9628 },
-  // [null-null] TV: レベル1だけどユニークスキルで最強です
+  // [2023-SUMMER] TV: レベル1だけどユニークスキルで最強です
   // https://annict.com/works/9629
   { annict_id: 9629, mal_id: 51764 },
   // [2022-SPRING] WEB: ミニ豆ちゃん シーズン2
@@ -27440,7 +27440,7 @@ export const annict: ArmEntry[] = [
   // [2005-SUMMER] MOVIE: マリといた夏
   // https://annict.com/works/9646
   { annict_id: 9646, mal_id: 2133 },
-  // [null-null] TV: 七つの大罪 黙示録の四騎士
+  // [2023-null] TV: 七つの大罪 黙示録の四騎士
   // https://annict.com/works/9647
   { annict_id: 9647, mal_id: 51794 },
   // [1977-AUTUMN] TV: 風船少女テンプルちゃん
