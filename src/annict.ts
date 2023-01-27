@@ -29837,4 +29837,7 @@ export const annict: ArmEntry[] = [
   // [2023-null] OTHER: AYAKA ーあやかー
   // https://annict.com/works/10446
   { annict_id: 10446, mal_id: 53428 },
+  // [2024-null] TV: アクロトリップ
+  // https://annict.com/works/10447
+  { annict_id: 10447, mal_id: 53723 },
 ]
