@@ -27308,7 +27308,7 @@ export const annict: ArmEntry[] = [
   // [2012-WINTER] MOVIE: チベット犬物語 〜金色のドージェ〜
   // https://annict.com/works/9602
   { annict_id: 9602, mal_id: 10629 },
-  // [2023-null] TV: おとなりに銀河
+  // [2023-SPRING] TV: おとなりに銀河
   // https://annict.com/works/9603
   { annict_id: 9603, mal_id: 51705 },
   // [2023-SPRING] TV: 勇者が死んだ！
