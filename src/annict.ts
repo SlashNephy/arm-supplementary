@@ -29840,4 +29840,10 @@ export const annict: ArmEntry[] = [
   // [2024-null] TV: アクロトリップ
   // https://annict.com/works/10447
   { annict_id: 10447, mal_id: 53723 },
+  // [2022-AUTUMN] WEB: 小林さんのツンデレ講座
+  // https://annict.com/works/10448
+  { annict_id: 10448, mal_id: 53958 },
+  // [2023-WINTER] WEB: ツンリゼ ミニ
+  // https://annict.com/works/10449
+  { annict_id: 10449 },
 ]
