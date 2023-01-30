@@ -38,17 +38,17 @@ export const fetchArmEntries = async (): Promise<ArmEntry[]> => {
 
 ## Statistics
 
-Currently, arm-supplementary has 34809 entries (+6952).
+Currently, arm-supplementary has 34832 entries (+6975).
 
 | Service                                     | arm-supplementary | arm / anime-offline-database |
 | :------------------------------------------ | :---------------: | :--------------------------: |
 | [Annict](https://annict.com)                |    9951 (+153)    |             9798             |
-| [AniList](https://anilist.co)               |   20510 (+2041)   |            18469             |
-| [MyAnimeList](https://myanimelist.net)      |   24235 (+303)    |            23932             |
+| [AniList](https://anilist.co)               |   20517 (+2048)   |            18469             |
+| [MyAnimeList](https://myanimelist.net)      |   24256 (+324)    |            23932             |
 | [しょぼいカレンダー](https://cal.syoboi.jp) |    5494 (+29)     |             5465             |
-| [AniDB](https://anidb.net)                  |   12795 (+119)    |            12676             |
-| [Anime-Planet](https://anime-planet.com)    |   22350 (+119)    |            22231             |
-| [aniSearch](https://anisearch.com)          |   17615 (+127)    |            17488             |
-| [Kitsu](https://kitsu.io)                   |   18680 (+130)    |            18550             |
-| [LiveChart.me](https://livechart.me)        |   10513 (+110)    |            10403             |
+| [AniDB](https://anidb.net)                  |   12799 (+119)    |            12680             |
+| [Anime-Planet](https://anime-planet.com)    |   22359 (+119)    |            22240             |
+| [aniSearch](https://anisearch.com)          |   17635 (+127)    |            17508             |
+| [Kitsu](https://kitsu.io)                   |   18695 (+130)    |            18565             |
+| [LiveChart.me](https://livechart.me)        |   10515 (+110)    |            10405             |
 | [Anime Notifier](https://notify.moe)        |   15713 (+127)    |            15586             |
