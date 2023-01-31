@@ -29855,4 +29855,10 @@ export const annict: ArmEntry[] = [
   // [2012-SUMMER] OVA: エウレカセブンAO OVA -ユングフラウの花々たち-
   // https://annict.com/works/10452
   { annict_id: 10452 },
+  // [1989-SPRING] OVA: クレオパトラD.C.
+  // https://annict.com/works/10453
+  { annict_id: 10453, mal_id: 2754 },
+  // [1993-SPRING] OVA: 砂の薔薇 雪の黙示録
+  // https://annict.com/works/10454
+  { annict_id: 10454, mal_id: 3989 },
 ]
