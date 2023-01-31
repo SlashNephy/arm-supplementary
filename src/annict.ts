@@ -27059,7 +27059,7 @@ export const annict: ArmEntry[] = [
   // [2022-SPRING] TV: スーパーウィングス ミッションチーム
   // https://annict.com/works/9519
   { annict_id: 9519 },
-  // [null-null] OTHER: わたしの幸せな結婚
+  // [2023-SUMMER] TV: わたしの幸せな結婚
   // https://annict.com/works/9520
   { annict_id: 9520, mal_id: 51552 },
   // [null-null] OTHER: とんがり帽子のアトリエ
