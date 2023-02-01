@@ -29861,4 +29861,10 @@ export const annict: ArmEntry[] = [
   // [1993-SPRING] OVA: 砂の薔薇 雪の黙示録
   // https://annict.com/works/10454
   { annict_id: 10454, mal_id: 3989 },
+  // [2005-AUTUMN] MOVIE: 劇場版 甲虫王者ムシキング グレイテストチャンピオンへの道
+  // https://annict.com/works/10455
+  { annict_id: 10455, mal_id: 17469 },
+  // [2007-WINTER] MOVIE: 甲虫王者ムシキング スーパーバトルムービー 〜闇の改造甲虫〜
+  // https://annict.com/works/10456
+  { annict_id: 10456, mal_id: 2173 },
 ]
