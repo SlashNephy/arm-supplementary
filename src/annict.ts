@@ -29867,4 +29867,10 @@ export const annict: ArmEntry[] = [
   // [2007-WINTER] MOVIE: 甲虫王者ムシキング スーパーバトルムービー 〜闇の改造甲虫〜
   // https://annict.com/works/10456
   { annict_id: 10456, mal_id: 2173 },
+  // [2006-WINTER] WEB: ラマだった王様 学校へ行こう！
+  // https://annict.com/works/10457
+  { annict_id: 10457 },
+  // [1992-SPRING] MOVIE: 地下幻燈劇画 少女椿
+  // https://annict.com/works/10458
+  { annict_id: 10458, mal_id: 2981 },
 ]
