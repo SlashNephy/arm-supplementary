@@ -27629,7 +27629,7 @@ export const annict: ArmEntry[] = [
   // [2022-SUMMER] TV: メガトン級ムサシ シーズン1特別篇
   // https://annict.com/works/9709
   { annict_id: 9709 },
-  // [2023-SPRING] MOVIE: 金の国 水の国
+  // [2023-WINTER] MOVIE: 金の国 水の国
   // https://annict.com/works/9710
   { annict_id: 9710 },
   // [2010-SPRING] TV: ザ・ペンギンズ from マダガスカル シーズン1
