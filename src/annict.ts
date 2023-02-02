@@ -25502,7 +25502,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] TV: 新米錬金術師の店舗経営
   // https://annict.com/works/8935
   { annict_id: 8935, mal_id: 49849, syobocal_tid: 6446 },
-  // [2023-null] TV: 死神坊ちゃんと黒メイド [2期]
+  // [2023-SUMMER] TV: 死神坊ちゃんと黒メイド 第2期
   // https://annict.com/works/8936
   { annict_id: 8936, mal_id: 49858 },
   // [2021-SUMMER] WEB: 月曜日のたわわ2
