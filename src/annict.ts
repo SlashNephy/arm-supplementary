@@ -29873,4 +29873,13 @@ export const annict: ArmEntry[] = [
   // [1992-SPRING] MOVIE: 地下幻燈劇画 少女椿
   // https://annict.com/works/10458
   { annict_id: 10458, mal_id: 2981 },
+  // [2018-AUTUMN] WEB: シンデレラ・シェフ ～萌妻食神～
+  // https://annict.com/works/10459
+  { annict_id: 10459, mal_id: 37618 },
+  // [2021-AUTUMN] WEB: シンデレラ・シェフ ～萌妻食神～ シーズン2
+  // https://annict.com/works/10460
+  { annict_id: 10460, mal_id: 49847 },
+  // [2022-SUMMER] WEB: シンデレラ・シェフ ～萌妻食神～ シーズン3
+  // https://annict.com/works/10461
+  { annict_id: 10461, mal_id: 51203 },
 ]
