@@ -29158,7 +29158,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10219 },
   // [2023-SPRING] MOVIE: 名探偵コナン 黒鉄の魚影
   // https://annict.com/works/10220
-  { annict_id: 10220 },
+  { annict_id: 10220, mal_id: 53540 },
   // [2023-null] MOVIE: 劇場版シティーハンター 2023
   // https://annict.com/works/10221
   { annict_id: 10221 },
@@ -29882,4 +29882,7 @@ export const annict: ArmEntry[] = [
   // [2022-SUMMER] WEB: シンデレラ・シェフ ～萌妻食神～ シーズン3
   // https://annict.com/works/10461
   { annict_id: 10461, mal_id: 51203 },
+  // [2023-null] TV: でこぼこ魔女の親子事情
+  // https://annict.com/works/10462
+  { annict_id: 10462 },
 ]
