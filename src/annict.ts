@@ -12394,7 +12394,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 4144, mal_id: 25049 },
   // [2015-WINTER] TV: 暗殺教室
   // https://annict.com/works/4145
-  { annict_id: 4145, mal_id: 19759, syobocal_tid: 3631 },
+  { annict_id: 4145, mal_id: 24833, syobocal_tid: 3631 },
   // [2015-WINTER] TV: 幸腹グラフィティ
   // https://annict.com/works/4146
   { annict_id: 4146, mal_id: 24629, syobocal_tid: 3610 },
@@ -12994,7 +12994,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 4346, mal_id: 28929, syobocal_tid: 3743 },
   // [2015-SPRING] TV: 電波教師
   // https://annict.com/works/4347
-  { annict_id: 4347, mal_id: 21495, syobocal_tid: 3712 },
+  { annict_id: 4347, mal_id: 29589, syobocal_tid: 3712 },
   // [2015-SPRING] TV: てさぐれ！部活もの すぴんおふ プルプルんシャルムと遊ぼう
   // https://annict.com/works/4348
   { annict_id: 4348, mal_id: 28835, syobocal_tid: 3678 },
