@@ -29884,5 +29884,8 @@ export const annict: ArmEntry[] = [
   { annict_id: 10461, mal_id: 51203 },
   // [2023-null] TV: でこぼこ魔女の親子事情
   // https://annict.com/works/10462
-  { annict_id: 10462 },
+  { annict_id: 10462, mal_id: 52985 },
+  // [2023-null] TV: はめつのおうこく
+  // https://annict.com/works/10463
+  { annict_id: 10463, mal_id: 54362 },
 ]
