@@ -29209,7 +29209,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10236 },
   // [2023-null] TV: 私の推しは悪役令嬢。
   // https://annict.com/works/10237
-  { annict_id: 10237 },
+  { annict_id: 10237, mal_id: 53833 },
   // [null-null] TV: Unnamed Memory
   // https://annict.com/works/10238
   { annict_id: 10238 },
