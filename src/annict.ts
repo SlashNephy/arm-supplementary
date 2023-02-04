@@ -6661,7 +6661,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2223, mal_id: 1188, syobocal_tid: 74 },
   // [2007-AUTUMN] TV: もやしもん
   // https://annict.com/works/2224
-  { annict_id: 2224, mal_id: 9290, syobocal_tid: 1194 },
+  { annict_id: 2224, mal_id: 3001, syobocal_tid: 1194 },
   // [2012-SUMMER] TV: もやしもん リターンズ
   // https://annict.com/works/2225
   { annict_id: 2225, mal_id: 13409, syobocal_tid: 2602 },
@@ -6889,7 +6889,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2299, mal_id: 9441, syobocal_tid: 2050 },
   // [1992-AUTUMN] TV: 幽☆遊☆白書
   // https://annict.com/works/2300
-  { annict_id: 2300, mal_id: 6964, syobocal_tid: 1696 },
+  { annict_id: 2300, mal_id: 392, syobocal_tid: 1696 },
   // [1998-SPRING] TV: 遊☆戯☆王
   // https://annict.com/works/2301
   { annict_id: 2301, mal_id: 550 },
@@ -7633,7 +7633,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2547, mal_id: 822, syobocal_tid: 2354 },
   // [2009-SPRING] OVA: OVA うたわれるもの
   // https://annict.com/works/2548
-  { annict_id: 2548, mal_id: 6743, syobocal_tid: 2066 },
+  { annict_id: 2548, mal_id: 3593, syobocal_tid: 2066 },
   // [2013-WINTER] OVA: Vassalord.
   // https://annict.com/works/2549
   { annict_id: 2549, mal_id: 15933 },
@@ -11908,7 +11908,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3980, mal_id: 22043, syobocal_tid: 3385 },
   // [2014-SPRING] TV: 龍ヶ嬢七々々の埋蔵金
   // https://annict.com/works/3981
-  { annict_id: 3981, mal_id: 13517, syobocal_tid: 3335 },
+  { annict_id: 3981, mal_id: 21561, syobocal_tid: 3335 },
   // [2014-SPRING] TV: メカクシティアクターズ
   // https://annict.com/works/3982
   { annict_id: 3982, mal_id: 21603, syobocal_tid: 3333 },
@@ -17560,10 +17560,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 5888, mal_id: 12921 },
   // [2015-WINTER] OVA: ハイスクールD×D NEW 第13話「おっぱい、包みます！」
   // https://annict.com/works/5889
-  { annict_id: 5889 },
+  { annict_id: 5889, mal_id: 30300 },
   // [2015-AUTUMN] OVA: ハイスクールD×D BorN 第13話「蘇らない不死鳥」
   // https://annict.com/works/5890
-  { annict_id: 5890 },
+  { annict_id: 5890, mal_id: 32215 },
   // [2012-SUMMER] OVA: ギルティクラウン ロストクリスマス
   // https://annict.com/works/5891
   { annict_id: 5891 },
@@ -27982,7 +27982,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9826, mal_id: 40076 },
   // [2022-AUTUMN] WEB: TIGER & BUNNY 2 part2
   // https://annict.com/works/9827
-  { annict_id: 9827, mal_id: 41595 },
+  { annict_id: 9827, mal_id: 52291 },
   // [null-null] TV: SK∞ エスケーエイト 第2期
   // https://annict.com/works/9828
   { annict_id: 9828, mal_id: 52750 },
