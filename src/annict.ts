@@ -496,7 +496,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 164, mal_id: 17831, syobocal_tid: 3019 },
   // [2000-AUTUMN] TV: 犬夜叉
   // https://annict.com/works/165
-  { annict_id: 165, mal_id: 4886, syobocal_tid: 430 },
+  { annict_id: 165, mal_id: 249, syobocal_tid: 430 },
   // [2009-AUTUMN] TV: 犬夜叉 -完結編-
   // https://annict.com/works/166
   { annict_id: 166, mal_id: 6811, syobocal_tid: 1740 },
@@ -868,7 +868,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 288, mal_id: 7079, syobocal_tid: 1819 },
   // [2007-SPRING] TV: おおきく振りかぶって
   // https://annict.com/works/289
-  { annict_id: 289, mal_id: 8423, syobocal_tid: 1113 },
+  { annict_id: 289, mal_id: 2159, syobocal_tid: 1113 },
   // [2010-SPRING] TV: おおきく振りかぶって～夏の大会編～
   // https://annict.com/works/290
   { annict_id: 290, mal_id: 7720, syobocal_tid: 1892 },
@@ -1624,7 +1624,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 540, mal_id: 3229, syobocal_tid: 1309 },
   // [2003-AUTUMN] TV: 君が望む永遠
   // https://annict.com/works/541
-  { annict_id: 541, mal_id: 9170, syobocal_tid: 146 },
+  { annict_id: 541, mal_id: 147, syobocal_tid: 146 },
   // [2011-AUTUMN] TV: 君と僕。
   // https://annict.com/works/542
   { annict_id: 542, mal_id: 10460, syobocal_tid: 2272 },
@@ -2794,7 +2794,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 932, mal_id: 2555 },
   // [2006-SPRING] TV: 少女チャングムの夢
   // https://annict.com/works/933
-  { annict_id: 933, mal_id: 9200, syobocal_tid: 842 },
+  { annict_id: 933, mal_id: 1778, syobocal_tid: 842 },
   // [1997-SPRING] TV: 少女革命ウテナ
   // https://annict.com/works/934
   { annict_id: 934, mal_id: 440, syobocal_tid: 235 },
@@ -3094,7 +3094,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1032, mal_id: 18277, syobocal_tid: 3141 },
   // [2003-WINTER] TV: ストラトス・フォー
   // https://annict.com/works/1033
-  { annict_id: 1033, mal_id: 1903, syobocal_tid: 33 },
+  { annict_id: 1033, mal_id: 421, syobocal_tid: 33 },
   // [2014-WINTER] TV: ストレンジ・プラス
   // https://annict.com/works/1034
   { annict_id: 1034, mal_id: 21067, syobocal_tid: 3278 },
@@ -3172,7 +3172,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1058, mal_id: 1837, syobocal_tid: 100 },
   // [2012-AUTUMN] TV: 好きっていいなよ。
   // https://annict.com/works/1059
-  { annict_id: 1059, mal_id: 17409, syobocal_tid: 2728 },
+  { annict_id: 1059, mal_id: 14289, syobocal_tid: 2728 },
   // [2005-WINTER] TV: 好きなものは好きだからしょうがない!!
   // https://annict.com/works/1060
   { annict_id: 1060, mal_id: 1532, syobocal_tid: 544 },
@@ -21094,7 +21094,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 7206, mal_id: 40693 },
   // [2007-AUTUMN] OVA: 君が望む永遠 〜Next Season〜
   // https://annict.com/works/7207
-  { annict_id: 7207 },
+  { annict_id: 7207, mal_id: 3318 },
   // [2020-AUTUMN] TV: ドラゴンクエスト ダイの大冒険 (2020年版)
   // https://annict.com/works/7208
   { annict_id: 7208, mal_id: 40906, syobocal_tid: 5779 },
