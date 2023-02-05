@@ -520,7 +520,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 172 },
   // [2005-AUTUMN] TV: 韋駄天翔
   // https://annict.com/works/173
-  { annict_id: 173, syobocal_tid: 680 },
+  { annict_id: 173, mal_id: 1316, syobocal_tid: 680 },
   // [1998-SPRING] TV: 頭文字D First Stage
   // https://annict.com/works/174
   { annict_id: 174, mal_id: 185, syobocal_tid: 2296 },
