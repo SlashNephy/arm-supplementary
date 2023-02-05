@@ -121,7 +121,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 39, mal_id: 3006, syobocal_tid: 186 },
   // [2012-SPRING] TV: あっちこっち
   // https://annict.com/works/40
-  { annict_id: 40, mal_id: 22419, syobocal_tid: 2489 },
+  { annict_id: 40, mal_id: 12291, syobocal_tid: 2489 },
   // [2009-AUTUMN] TV: あにゃまる探偵 キルミンずぅ
   // https://annict.com/works/41
   { annict_id: 41, mal_id: 7152, syobocal_tid: 1725 },
@@ -7546,7 +7546,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2518, mal_id: 17395 },
   // [2002-WINTER] OVA: アーケードゲーマーふぶき
   // https://annict.com/works/2519
-  { annict_id: 2519, mal_id: 5715 },
+  { annict_id: 2519, mal_id: 1596 },
   // [1989-SUMMER] OVA: アーシアン
   // https://annict.com/works/2520
   { annict_id: 2520, mal_id: 1324 },
@@ -8062,7 +8062,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2692, mal_id: 1804 },
   // [2002-SPRING] OVA: こすぷれCOMPLEX
   // https://annict.com/works/2693
-  { annict_id: 2693, mal_id: 983, syobocal_tid: 920 },
+  { annict_id: 2693, mal_id: 982, syobocal_tid: 920 },
   // [1995-AUTUMN] OVA: こどものおもちゃ OVA
   // https://annict.com/works/2694
   { annict_id: 2694, mal_id: 3421 },
