@@ -29918,4 +29918,13 @@ export const annict: ArmEntry[] = [
   // [2012-SPRING] TV: ペンギンの問題POW
   // https://annict.com/works/10473
   { annict_id: 10473, mal_id: 40087 },
+  // [2014-AUTUMN] TV: モンスター・ハイ～こわイケガールズ～
+  // https://annict.com/works/10474
+  { annict_id: 10474, mal_id: 28381 },
+  // [2017-AUTUMN] TV: ペッパピッグ
+  // https://annict.com/works/10475
+  { annict_id: 10475 },
+  // [2016-SUMMER] TV: しゅつどう!パジャマスク
+  // https://annict.com/works/10476
+  { annict_id: 10476 },
 ]
