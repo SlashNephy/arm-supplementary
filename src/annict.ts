@@ -29927,4 +29927,7 @@ export const annict: ArmEntry[] = [
   // [2016-SUMMER] TV: しゅつどう!パジャマスク
   // https://annict.com/works/10476
   { annict_id: 10476 },
+  // [2023-WINTER] WEB: 私のハッシュタグが映えなくて。
+  // https://annict.com/works/10478
+  { annict_id: 10478, mal_id: 54278 },
 ]
