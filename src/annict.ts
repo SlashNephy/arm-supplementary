@@ -29888,4 +29888,34 @@ export const annict: ArmEntry[] = [
   // [2023-null] TV: はめつのおうこく
   // https://annict.com/works/10463
   { annict_id: 10463, mal_id: 54362 },
+  // [2014-SPRING] TV: ラーバ
+  // https://annict.com/works/10464
+  { annict_id: 10464 },
+  // [2005-AUTUMN] TV: ハイ!ハイ! パフィー・アミユミ
+  // https://annict.com/works/10465
+  { annict_id: 10465, syobocal_tid: 620 },
+  // [2007-SPRING] TV: トレジャーガウスト
+  // https://annict.com/works/10466
+  { annict_id: 10466, mal_id: 20087 },
+  // [2008-SUMMER] TV: チョロQデッキシステム Qファイターズ!
+  // https://annict.com/works/10467
+  { annict_id: 10467 },
+  // [2010-WINTER] TV: ケシカスくん
+  // https://annict.com/works/10468
+  { annict_id: 10468, mal_id: 8244 },
+  // [2010-SUMMER] TV: GO!GO!ムッシーヒーロー!!
+  // https://annict.com/works/10469
+  { annict_id: 10469 },
+  // [2008-SPRING] TV: ペンギンの問題
+  // https://annict.com/works/10470
+  { annict_id: 10470, mal_id: 4331 },
+  // [2010-SPRING] TV: ペンギンの問題Max
+  // https://annict.com/works/10471
+  { annict_id: 10471, mal_id: 10855 },
+  // [2011-SPRING] TV: ペンギンの問題DX?
+  // https://annict.com/works/10472
+  { annict_id: 10472, mal_id: 10856 },
+  // [2012-SPRING] TV: ペンギンの問題POW
+  // https://annict.com/works/10473
+  { annict_id: 10473, mal_id: 40087 },
 ]
