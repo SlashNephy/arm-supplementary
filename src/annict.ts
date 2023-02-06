@@ -29930,4 +29930,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] WEB: 私のハッシュタグが映えなくて。
   // https://annict.com/works/10478
   { annict_id: 10478, mal_id: 54278 },
+  // [2022-AUTUMN] WEB: 色を知るたび、世界が広くなる。
+  // https://annict.com/works/10479
+  { annict_id: 10479, mal_id: 53395 },
 ]
