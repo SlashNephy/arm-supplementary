@@ -25847,7 +25847,7 @@ export const annict: ArmEntry[] = [
   // [2018-AUTUMN] OVA: 恋と嘘 OAD
   // https://annict.com/works/9050
   { annict_id: 9050, mal_id: 37711 },
-  // [null-null] TV: 異世界召喚は二度目です
+  // [2023-SPRING] TV: 異世界召喚は二度目です
   // https://annict.com/works/9051
   { annict_id: 9051, mal_id: 50223 },
   // [2022-SPRING] TV: ちいかわ
