@@ -6865,7 +6865,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2291, mal_id: 5075 },
   // [1998-AUTUMN] TV: 夢で逢えたら
   // https://annict.com/works/2292
-  { annict_id: 2292, mal_id: 715 },
+  { annict_id: 2292, mal_id: 718 },
   // [1997-SUMMER] TV: 夢のクレヨン王国
   // https://annict.com/works/2293
   { annict_id: 2293, mal_id: 4651, syobocal_tid: 4061 },
