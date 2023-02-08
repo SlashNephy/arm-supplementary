@@ -29933,4 +29933,10 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] WEB: 色を知るたび、世界が広くなる。
   // https://annict.com/works/10479
   { annict_id: 10479, mal_id: 53395 },
+  // [2002-AUTUMN] TV: ペコラ(2002年)
+  // https://annict.com/works/10480
+  { annict_id: 10480, mal_id: 12359 },
+  // [1998-SPRING] TV: パニポニ
+  // https://annict.com/works/10481
+  { annict_id: 10481, mal_id: 29487 },
 ]
