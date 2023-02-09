@@ -26432,7 +26432,7 @@ export const annict: ArmEntry[] = [
   // [2022-WINTER] WEB: マーベル ヒット・モンキー シーズン1
   // https://annict.com/works/9277
   { annict_id: 9277 },
-  // [null-null] OTHER: 弱キャラ友崎くん 新作アニメ
+  // [null-null] TV: 弱キャラ友崎くん 2nd STAGE
   // https://annict.com/works/9278
   { annict_id: 9278, mal_id: 50803 },
   // [2021-SUMMER] WEB: ウルフボーイとなんでも工場
