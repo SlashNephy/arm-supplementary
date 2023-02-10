@@ -27509,7 +27509,7 @@ export const annict: ArmEntry[] = [
   // [2018-SUMMER] MOVIE: 映画 ドライブヘッド 〜トミカハイパーレスキュー 機動救急警察〜
   // https://annict.com/works/9669
   { annict_id: 9669, mal_id: 36857 },
-  // [2023-null] TV: デキる猫は今日も憂鬱
+  // [2023-SUMMER] TV: デキる猫は今日も憂鬱
   // https://annict.com/works/9670
   { annict_id: 9670, mal_id: 51916 },
   // [2014-AUTUMN] OVA: グリザイアの果実「グリザイアの特典」
@@ -28880,7 +28880,7 @@ export const annict: ArmEntry[] = [
   // [2014-WINTER] WEB: Peeping Life 『新婚ちゃん関西にいらっしゃい』
   // https://annict.com/works/10127
   { annict_id: 10127, mal_id: 24443 },
-  // [null-null] TV: 星屑テレパス
+  // [2023-null] TV: 星屑テレパス
   // https://annict.com/works/10128
   { annict_id: 10128, mal_id: 53262 },
   // [2012-SPRING] MOVIE: 旅するぬいぐるみ
