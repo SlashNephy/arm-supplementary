@@ -26585,7 +26585,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: 鬼滅の刃 刀鍛冶の里編 (3期)
   // https://annict.com/works/9328
   { annict_id: 9328, mal_id: 51019 },
-  // [null-null] OTHER: Helck
+  // [2023-SUMMER] TV: Helck
   // https://annict.com/works/9329
   { annict_id: 9329, mal_id: 51020 },
   // [1997-WINTER] MOVIE: 劇場版 フランダースの犬
@@ -29939,7 +29939,10 @@ export const annict: ArmEntry[] = [
   // [1998-SPRING] TV: パニポニ
   // https://annict.com/works/10481
   { annict_id: 10481, mal_id: 29487 },
-  // [null-null] TV: とあるおっさんのＶＲＭＭＯ活動記
+  // [null-null] TV: とあるおっさんのVRMMO活動記
   // https://annict.com/works/10482
-  { annict_id: 10482 },
+  { annict_id: 10482, mal_id: 54431 },
+  // [2023-SUMMER] TV: AIの遺電子
+  // https://annict.com/works/10483
+  { annict_id: 10483, mal_id: 53787 },
 ]
