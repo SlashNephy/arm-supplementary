@@ -38,16 +38,16 @@ export const fetchArmEntries = async (): Promise<ArmEntry[]> => {
 
 ## Statistics
 
-Currently, arm-supplementary has 34822 entries (+6925).
+Currently, arm-supplementary has 34797 entries (+6900).
 
 | Service                                     | arm-supplementary | arm / anime-offline-database |
 | :------------------------------------------ | :---------------: | :--------------------------: |
-| [Annict](https://annict.com)                |    9992 (+154)    |             9838             |
+| [Annict](https://annict.com)                |    9995 (+157)    |             9838             |
 | [AniList](https://anilist.co)               |   20534 (+2046)   |            18488             |
 | [MyAnimeList](https://myanimelist.net)      |   24258 (+294)    |            23964             |
 | [しょぼいカレンダー](https://cal.syoboi.jp) |    5492 (+27)     |             5465             |
 | [AniDB](https://anidb.net)                  |   12804 (+121)    |            12683             |
-| [Anime-Planet](https://anime-planet.com)    |   22377 (+118)    |            22259             |
+| [Anime-Planet](https://anime-planet.com)    |   22375 (+118)    |            22257             |
 | [aniSearch](https://anisearch.com)          |   17657 (+128)    |            17529             |
 | [Kitsu](https://kitsu.io)                   |   18722 (+132)    |            18590             |
 | [LiveChart.me](https://livechart.me)        |   10517 (+107)    |            10410             |

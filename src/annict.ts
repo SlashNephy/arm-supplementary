@@ -29867,7 +29867,7 @@ export const annict: ArmEntry[] = [
   // [2007-WINTER] MOVIE: 甲虫王者ムシキング スーパーバトルムービー 〜闇の改造甲虫〜
   // https://annict.com/works/10456
   { annict_id: 10456, mal_id: 2173 },
-  // [2006-WINTER] WEB: ラマだった王様 学校へ行こう！
+  // [2006-WINTER] TV: ラマだった王様 学校へ行こう！
   // https://annict.com/works/10457
   { annict_id: 10457 },
   // [1992-SPRING] MOVIE: 地下幻燈劇画 少女椿
@@ -29978,4 +29978,13 @@ export const annict: ArmEntry[] = [
   // [2020-SPRING] WEB: フォーキーのコレって何?
   // https://annict.com/works/10494
   { annict_id: 10494 },
+  // [2004-SPRING] TV: スペース・レンジャー バズ・ライトイヤー
+  // https://annict.com/works/10495
+  { annict_id: 10495 },
+  // [2012-SUMMER] MOVIE: ニセものバズがやって来た
+  // https://annict.com/works/10496
+  { annict_id: 10496 },
+  // [2011-SUMMER] MOVIE: ハワイアン・バケーション
+  // https://annict.com/works/10497
+  { annict_id: 10497 },
 ]
