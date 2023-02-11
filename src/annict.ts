@@ -23582,7 +23582,7 @@ export const annict: ArmEntry[] = [
   // [1999-SUMMER] OVA: ライオン・キング2 シンバズ・プライド
   // https://annict.com/works/8197
   { annict_id: 8197 },
-  // [2000-null] OVA: スペース・レンジャー バズライトイヤー／帝王ザーグを倒せ！
+  // [2001-WINTER] OVA: スペース・レンジャー バズライトイヤー／帝王ザーグを倒せ！
   // https://annict.com/works/8198
   { annict_id: 8198 },
   // [2020-SUMMER] WEB: ゼニメーション
@@ -29972,4 +29972,10 @@ export const annict: ArmEntry[] = [
   // [1999-AUTUMN] TV: 101匹わんちゃん(TVシリーズ)
   // https://annict.com/works/10492
   { annict_id: 10492 },
+  // [null-null] OTHER: 『リコリス・リコイル』新作アニメーション
+  // https://annict.com/works/10493
+  { annict_id: 10493 },
+  // [2020-SPRING] WEB: フォーキーのコレって何?
+  // https://annict.com/works/10494
+  { annict_id: 10494 },
 ]
