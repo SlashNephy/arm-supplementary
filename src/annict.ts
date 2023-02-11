@@ -29945,4 +29945,31 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] TV: AIの遺電子
   // https://annict.com/works/10483
   { annict_id: 10483, mal_id: 53787 },
+  // [1999-SPRING] TV: ムーぽん
+  // https://annict.com/works/10484
+  { annict_id: 10484 },
+  // [1999-SPRING] TV: ハコいりせがれ
+  // https://annict.com/works/10485
+  { annict_id: 10485 },
+  // [1999-SUMMER] TV: バーバパパ 世界をまわる
+  // https://annict.com/works/10486
+  { annict_id: 10486, mal_id: 2824 },
+  // [1999-SUMMER] TV: スーパーマン
+  // https://annict.com/works/10487
+  { annict_id: 10487 },
+  // [1999-SUMMER] TV: 小梅ちゃんが行く!!
+  // https://annict.com/works/10488
+  { annict_id: 10488, mal_id: 6571 },
+  // [1999-SUMMER] TV: 愛の若草山物語
+  // https://annict.com/works/10489
+  { annict_id: 10489, mal_id: 6075 },
+  // [1999-SUMMER] TV: アレクサンダー戦記
+  // https://annict.com/works/10490
+  { annict_id: 10490, mal_id: 1442 },
+  // [1999-AUTUMN] TV: GREGORY HORROR SHOW
+  // https://annict.com/works/10491
+  { annict_id: 10491, mal_id: 6069 },
+  // [1999-AUTUMN] TV: 101匹わんちゃん(TVシリーズ)
+  // https://annict.com/works/10492
+  { annict_id: 10492 },
 ]
