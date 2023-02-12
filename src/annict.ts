@@ -27668,7 +27668,7 @@ export const annict: ArmEntry[] = [
   // [2012-SUMMER] TV: ひつじのショーン チャンピオンシープス
   // https://annict.com/works/9722
   { annict_id: 9722 },
-  // [2023-null] OTHER: 幻日のヨハネ -SUNSHINE in the MIRROR-
+  // [2023-SUMMER] TV: 幻日のヨハネ -SUNSHINE in the MIRROR-
   // https://annict.com/works/9723
   { annict_id: 9723, mal_id: 52214 },
   // [null-null] OTHER: 『チ。ー地球の運動についてー』
