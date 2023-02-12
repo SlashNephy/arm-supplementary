@@ -24155,7 +24155,7 @@ export const annict: ArmEntry[] = [
   // [1979-SPRING] TV: シートン動物記 りすのバナー
   // https://annict.com/works/8388
   { annict_id: 8388, mal_id: 4515 },
-  // [2014-null] TV: トイ・ストーリー・オブ・テラー!
+  // [2015-SUMMER] TV: トイ・ストーリー・オブ・テラー!
   // https://annict.com/works/8389
   { annict_id: 8389 },
   // [2015-SUMMER] TV: トイ・ストーリー 謎の恐竜ワールド
