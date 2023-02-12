@@ -29987,4 +29987,13 @@ export const annict: ArmEntry[] = [
   // [2011-SUMMER] MOVIE: ハワイアン・バケーション
   // https://annict.com/works/10497
   { annict_id: 10497 },
+  // [2000-SPRING] TV: GREGORY HORROR SHOW - THE SECOND GUEST -
+  // https://annict.com/works/10498
+  { annict_id: 10498, mal_id: 12481 },
+  // [2000-AUTUMN] TV: GREGORY HORROR SHOW - THE LAST TRAIN -
+  // https://annict.com/works/10499
+  { annict_id: 10499, mal_id: 12483 },
+  // [2001-SPRING] TV: GREGORY HORROR SHOW - THE BLOODY KARTE -
+  // https://annict.com/works/10500
+  { annict_id: 10500, mal_id: 12485 },
 ]
