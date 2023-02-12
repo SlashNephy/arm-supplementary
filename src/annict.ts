@@ -29996,4 +29996,19 @@ export const annict: ArmEntry[] = [
   // [2001-SPRING] TV: GREGORY HORROR SHOW - THE BLOODY KARTE -
   // https://annict.com/works/10500
   { annict_id: 10500, mal_id: 12485 },
+  // [2000-SPRING] TV: ぞうのババール
+  // https://annict.com/works/10501
+  { annict_id: 10501 },
+  // [2000-SPRING] TV: アニメ浪曲紀行 清水次郎長伝
+  // https://annict.com/works/10502
+  { annict_id: 10502, mal_id: 25063 },
+  // [2000-AUTUMN] TV: デジタル所さん Mr.Digital Tokoro
+  // https://annict.com/works/10503
+  { annict_id: 10503, mal_id: 48904 },
+  // [2000-AUTUMN] TV: ハムスター倶楽部
+  // https://annict.com/works/10504
+  { annict_id: 10504, mal_id: 9900 },
+  // [2000-AUTUMN] TV: BARRY PARTY
+  // https://annict.com/works/10505
+  { annict_id: 10505 },
 ]
