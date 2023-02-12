@@ -29974,7 +29974,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10492 },
   // [null-null] OTHER: 『リコリス・リコイル』新作アニメーション
   // https://annict.com/works/10493
-  { annict_id: 10493 },
+  { annict_id: 10493, mal_id: 54440 },
   // [2020-SPRING] WEB: フォーキーのコレって何?
   // https://annict.com/works/10494
   { annict_id: 10494 },
