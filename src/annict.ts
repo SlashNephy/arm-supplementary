@@ -29519,7 +29519,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 地縛少年花子くん 新作
   // https://annict.com/works/10340
   { annict_id: 10340, mal_id: 53924 },
-  // [2023-WINTER] OVA: 「鬼滅の刃」上弦集結、そして刀鍛冶の里へ
+  // [2023-WINTER] MOVIE: 「鬼滅の刃」上弦集結、そして刀鍛冶の里へ
   // https://annict.com/works/10341
   { annict_id: 10341 },
   // [2022-AUTUMN] WEB: 新米錬金術師の店舗経営 ミニアニメ
