@@ -30011,4 +30011,7 @@ export const annict: ArmEntry[] = [
   // [2000-AUTUMN] TV: BARRY PARTY
   // https://annict.com/works/10505
   { annict_id: 10505 },
+  // [2019-SPRING] WEB: ホロのぐらふぃてぃ
+  // https://annict.com/works/10506
+  { annict_id: 10506, mal_id: 44042 },
 ]
