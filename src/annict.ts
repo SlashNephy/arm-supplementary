@@ -27605,7 +27605,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 江戸前エルフ
   // https://annict.com/works/9701
   { annict_id: 9701 },
-  // [2023-SPRING] TV: 白聖女と黒牧師
+  // [2023-SUMMER] TV: 白聖女と黒牧師
   // https://annict.com/works/9702
   { annict_id: 9702 },
   // [2023-WINTER] TV: TRIGUN STAMPEDE
