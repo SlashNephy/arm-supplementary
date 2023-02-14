@@ -30014,4 +30014,7 @@ export const annict: ArmEntry[] = [
   // [2019-SPRING] WEB: ホロのぐらふぃてぃ
   // https://annict.com/works/10506
   { annict_id: 10506, mal_id: 44042 },
+  // [2023-WINTER] WEB: ヴィンランド・サガ SEASON2 #6.5 "Drowning in the Shadow"
+  // https://annict.com/works/10507
+  { annict_id: 10507 },
 ]
