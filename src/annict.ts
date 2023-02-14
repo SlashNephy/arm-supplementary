@@ -2227,7 +2227,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 742, mal_id: 799, syobocal_tid: 275 },
   // [2001-SUMMER] TV: コスモウォーリアー零
   // https://annict.com/works/743
-  { annict_id: 743, mal_id: 1677 },
+  { annict_id: 743, mal_id: 1676 },
   // [1992-SPRING] TV: コビーの冒険
   // https://annict.com/works/744
   { annict_id: 744 },
@@ -30017,4 +30017,28 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] WEB: ヴィンランド・サガ SEASON2 #6.5 "Drowning in the Shadow"
   // https://annict.com/works/10507
   { annict_id: 10507 },
+  // [1979-AUTUMN] TV: 銀河鉄道999 君は戦士のように生きられるか！！
+  // https://annict.com/works/10508
+  { annict_id: 10508, mal_id: 6733 },
+  // [1980-SPRING] TV: 銀河鉄道999 永遠の旅人エメラルダス
+  // https://annict.com/works/10509
+  { annict_id: 10509, mal_id: 6734 },
+  // [1980-AUTUMN] TV: 銀河鉄道999 君は母のように愛せるか！！
+  // https://annict.com/works/10510
+  { annict_id: 10510, mal_id: 6735 },
+  // [2002-SUMMER] WEB: インターネットアニメーション 銀河鉄道999 不滅の空間軌道
+  // https://annict.com/works/10511
+  { annict_id: 10511, mal_id: 28733 },
+  // [2010-SUMMER] WEB: 銀河鉄道999〜時空を超えたエネルギーの旅
+  // https://annict.com/works/10512
+  { annict_id: 10512, mal_id: 10118 },
+  // [1998-SPRING] OVA: クイーン・エメラルダス
+  // https://annict.com/works/10513
+  { annict_id: 10513, mal_id: 1553 },
+  // [1999-WINTER] OVA: ハーロック・サーガ ニーベルングの指環
+  // https://annict.com/works/10514
+  { annict_id: 10514, mal_id: 1645 },
+  // [2002-SUMMER] OVA: ヤングハーロックを追え! コスモウォーリアー零外伝
+  // https://annict.com/works/10515
+  { annict_id: 10515, mal_id: 1677 },
 ]
