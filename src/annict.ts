@@ -26909,7 +26909,7 @@ export const annict: ArmEntry[] = [
   // [2022-SPRING] TV: スマーフ
   // https://annict.com/works/9468
   { annict_id: 9468, syobocal_tid: 6347 },
-  // [2023-null] TV: Opus.COLORs
+  // [2023-SPRING] TV: Opus.COLORs
   // https://annict.com/works/9469
   { annict_id: 9469, mal_id: 51415 },
   // [2022-SUMMER] TV: Engage Kiss
@@ -30041,4 +30041,7 @@ export const annict: ArmEntry[] = [
   // [2002-SUMMER] OVA: ヤングハーロックを追え! コスモウォーリアー零外伝
   // https://annict.com/works/10515
   { annict_id: 10515, mal_id: 1677 },
+  // [null-null] TV: 異修羅
+  // https://annict.com/works/10516
+  { annict_id: 10516, mal_id: 54449 },
 ]

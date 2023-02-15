@@ -38,17 +38,17 @@ export const fetchArmEntries = async (): Promise<ArmEntry[]> => {
 
 ## Statistics
 
-Currently, arm-supplementary has 34810 entries (+6844).
+Currently, arm-supplementary has 34811 entries (+6845).
 
 | Service                                     | arm-supplementary | arm / anime-offline-database |
 | :------------------------------------------ | :---------------: | :--------------------------: |
-| [Annict](https://annict.com)                |   10013 (+139)    |             9874             |
-| [AniList](https://anilist.co)               |   20541 (+2040)   |            18501             |
-| [MyAnimeList](https://myanimelist.net)      |   24277 (+258)    |            24019             |
+| [Annict](https://annict.com)                |   10014 (+140)    |             9874             |
+| [AniList](https://anilist.co)               |   20542 (+2041)   |            18501             |
+| [MyAnimeList](https://myanimelist.net)      |   24278 (+259)    |            24019             |
 | [しょぼいカレンダー](https://cal.syoboi.jp) |    5496 (+29)     |             5467             |
-| [AniDB](https://anidb.net)                  |   12806 (+113)    |            12693             |
-| [Anime-Planet](https://anime-planet.com)    |   22388 (+111)    |            22277             |
-| [aniSearch](https://anisearch.com)          |   17679 (+120)    |            17559             |
+| [AniDB](https://anidb.net)                  |   12807 (+114)    |            12693             |
+| [Anime-Planet](https://anime-planet.com)    |   22389 (+112)    |            22277             |
+| [aniSearch](https://anisearch.com)          |   17680 (+121)    |            17559             |
 | [Kitsu](https://kitsu.io)                   |   18731 (+123)    |            18608             |
-| [LiveChart.me](https://livechart.me)        |   10519 (+103)    |            10416             |
+| [LiveChart.me](https://livechart.me)        |   10520 (+104)    |            10416             |
 | [Anime Notifier](https://notify.moe)        |   15724 (+120)    |            15604             |
