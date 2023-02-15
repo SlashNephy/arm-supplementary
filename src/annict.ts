@@ -24251,7 +24251,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] MOVIE: 劇場版 ブラッククローバー 魔法帝の剣
   // https://annict.com/works/8452
   { annict_id: 8452, mal_id: 48585 },
-  // [2023-null] TV: ライアー・ライアー
+  // [2023-SUMMER] TV: ライアー・ライアー
   // https://annict.com/works/8453
   { annict_id: 8453, mal_id: 48633 },
   // [2021-SPRING] OTHER: Obey Me! スペシャルアニメ 「魔界大旅行」
@@ -25919,7 +25919,7 @@ export const annict: ArmEntry[] = [
   // [2020-WINTER] TV: ムーミン谷のなかまたち シーズン2
   // https://annict.com/works/9074
   { annict_id: 9074 },
-  // [2023-null] TV: トニカクカワイイ 第2期
+  // [2023-SPRING] TV: トニカクカワイイ 第2期
   // https://annict.com/works/9075
   { annict_id: 9075, mal_id: 50307 },
   // [2022-AUTUMN] WEB: トニカクカワイイ 〜制服〜
@@ -27275,7 +27275,7 @@ export const annict: ArmEntry[] = [
   // [2002-SPRING] TV: おじゃる丸（第5シリーズ）
   // https://annict.com/works/9591
   { annict_id: 9591, mal_id: 4459, syobocal_tid: 454 },
-  // [2023-null] TV: 神無き世界のカミサマ活動
+  // [2023-SPRING] TV: 神無き世界のカミサマ活動
   // https://annict.com/works/9592
   { annict_id: 9592, mal_id: 51693 },
   // [2003-SPRING] TV: おじゃる丸（第6シリーズ）
@@ -28790,7 +28790,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] TV: Fate/strange Fake -Whispers of Dawn-
   // https://annict.com/works/10097
   { annict_id: 10097, mal_id: 53127 },
-  // [null-null] MOVIE: 青春ブタ野郎はおでかけシスターの夢を見ない
+  // [2023-SUMMER] MOVIE: 青春ブタ野郎はおでかけシスターの夢を見ない
   // https://annict.com/works/10098
   { annict_id: 10098 },
   // [null-null] MOVIE: 青春ブタ野郎はランドセルガールの夢を見ない
