@@ -30044,4 +30044,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 異修羅
   // https://annict.com/works/10516
   { annict_id: 10516, mal_id: 54449 },
+  // [null-null] WEB: PLUTO
+  // https://annict.com/works/10517
+  { annict_id: 10517 },
 ]
