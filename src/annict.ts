@@ -30047,4 +30047,7 @@ export const annict: ArmEntry[] = [
   // [null-null] WEB: PLUTO
   // https://annict.com/works/10517
   { annict_id: 10517, mal_id: 35737 },
+  // [2023-null] TV: 薬屋のひとりごと
+  // https://annict.com/works/10518
+  { annict_id: 10518, mal_id: 54492 },
 ]
