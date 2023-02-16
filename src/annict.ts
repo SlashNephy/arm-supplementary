@@ -30046,5 +30046,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 10516, mal_id: 54449 },
   // [null-null] WEB: PLUTO
   // https://annict.com/works/10517
-  { annict_id: 10517 },
+  { annict_id: 10517, mal_id: 35737 },
 ]
