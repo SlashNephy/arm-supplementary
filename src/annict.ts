@@ -30062,4 +30062,7 @@ export const annict: ArmEntry[] = [
   // [2010-AUTUMN] TV: ウェイン＆ラニー クリスマスを守れ！
   // https://annict.com/works/10522
   { annict_id: 10522 },
+  // [2017-WINTER] OVA: スーパーダンガンロンパ2.5 狛枝凪斗と世界の破壊者
+  // https://annict.com/works/10523
+  { annict_id: 10523, mal_id: 34152 },
 ]
