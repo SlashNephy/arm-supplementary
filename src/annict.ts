@@ -30050,4 +30050,16 @@ export const annict: ArmEntry[] = [
   // [2023-null] TV: 薬屋のひとりごと
   // https://annict.com/works/10518
   { annict_id: 10518, mal_id: 54492 },
+  // [2012-SUMMER] MOVIE: 月と少年
+  // https://annict.com/works/10519
+  { annict_id: 10519 },
+  // [2010-SUMMER] MOVIE: デイ&ナイト
+  // https://annict.com/works/10520
+  { annict_id: 10520 },
+  // [2015-SUMMER] OVA: ウェイン＆ラニー クリスマスを守れ！／秘密の指令
+  // https://annict.com/works/10521
+  { annict_id: 10521 },
+  // [2010-AUTUMN] TV: ウェイン＆ラニー クリスマスを守れ！
+  // https://annict.com/works/10522
+  { annict_id: 10522 },
 ]
