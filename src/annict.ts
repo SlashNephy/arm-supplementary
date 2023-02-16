@@ -30071,4 +30071,10 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] WEB: 日清のどん兵衛CM「最強年越し 篇」
   // https://annict.com/works/10525
   { annict_id: 10525 },
+  // [2022-AUTUMN] WEB: 日清のどん兵衛CM「どんぎつねシーズン2 耳そこなんですか？ 篇」
+  // https://annict.com/works/10526
+  { annict_id: 10526 },
+  // [2022-SUMMER] WEB: 日清のどん兵衛CM「どんぎつねシーズン2 秋祭 篇」
+  // https://annict.com/works/10527
+  { annict_id: 10527 },
 ]
