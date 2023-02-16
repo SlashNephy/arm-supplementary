@@ -28739,9 +28739,9 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: SYNDUALITY
   // https://annict.com/works/10080
   { annict_id: 10080, mal_id: 53026 },
-  // [null-null] TV: 彼女、お借りします 第3期
+  // [2023-SUMMER] TV: 彼女、お借りします 第3期
   // https://annict.com/works/10081
-  { annict_id: 10081 },
+  { annict_id: 10081, mal_id: 53050 },
   // [null-null] TV: カノジョも彼女 第2期
   // https://annict.com/works/10082
   { annict_id: 10082 },
@@ -30065,4 +30065,10 @@ export const annict: ArmEntry[] = [
   // [2017-WINTER] OVA: スーパーダンガンロンパ2.5 狛枝凪斗と世界の破壊者
   // https://annict.com/works/10523
   { annict_id: 10523, mal_id: 34152 },
+  // [2023-WINTER] WEB: 日清のどん兵衛CM「正直すぎる尻尾 篇」
+  // https://annict.com/works/10524
+  { annict_id: 10524 },
+  // [2022-AUTUMN] WEB: 日清のどん兵衛CM「最強年越し 篇」
+  // https://annict.com/works/10525
+  { annict_id: 10525 },
 ]
