@@ -24248,7 +24248,7 @@ export const annict: ArmEntry[] = [
   // [2022-WINTER] TV: 進撃の巨人 The Final Season Part.2
   // https://annict.com/works/8451
   { annict_id: 8451, mal_id: 48583, syobocal_tid: 6246 },
-  // [2023-WINTER] MOVIE: 劇場版 ブラッククローバー 魔法帝の剣
+  // [2023-SPRING] MOVIE: 劇場版 ブラッククローバー 魔法帝の剣
   // https://annict.com/works/8452
   { annict_id: 8452, mal_id: 48585 },
   // [2023-SUMMER] TV: ライアー・ライアー
