@@ -30080,4 +30080,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] TV: 現代アートを基礎から学べるチャンネル TV版
   // https://annict.com/works/10528
   { annict_id: 10528, syobocal_tid: 6605 },
+  // [2023-WINTER] MOVIE: 【推しの子】　Mother and Children
+  // https://annict.com/works/10529
+  { annict_id: 10529 },
 ]
