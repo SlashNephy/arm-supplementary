@@ -29216,7 +29216,7 @@ export const annict: ArmEntry[] = [
   // [2017-SUMMER] WEB: ソニックトゥーン
   // https://annict.com/works/10239
   { annict_id: 10239 },
-  // [2023-null] TV: め組の大吾 救国のオレンジ
+  // [2023-AUTUMN] TV: め組の大吾 救国のオレンジ
   // https://annict.com/works/10240
   { annict_id: 10240 },
   // [2022-AUTUMN] TV: 万聖街 (日本語吹替版)
