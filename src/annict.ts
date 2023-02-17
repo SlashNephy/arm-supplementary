@@ -30076,7 +30076,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10526 },
   // [2022-SUMMER] WEB: 日清のどん兵衛CM「どんぎつねシーズン2 秋祭 篇」
   // https://annict.com/works/10527
-  { annict_id: 10527 },
+  { annict_id: 10527, mal_id: 53443 },
   // [2023-WINTER] TV: 現代アートを基礎から学べるチャンネル TV版
   // https://annict.com/works/10528
   { annict_id: 10528, syobocal_tid: 6605 },
