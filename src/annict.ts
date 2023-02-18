@@ -30086,4 +30086,10 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] WEB: 聖剣伝説 LEGEND OF MANA -The Teardrop Crystal- 第12話「ティアストーン（後編）」ディレクターズカット版
   // https://annict.com/works/10530
   { annict_id: 10530 },
+  // [2007-SPRING] OVA: 創星のアクエリオン
+  // https://annict.com/works/10531
+  { annict_id: 10531, mal_id: 2170 },
+  // [2007-SUMMER] MOVIE: 劇場版アクエリオン -創星神話篇&壱発逆転篇-
+  // https://annict.com/works/10532
+  { annict_id: 10532, mal_id: 6032 },
 ]
