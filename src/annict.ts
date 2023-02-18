@@ -30083,4 +30083,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] MOVIE: 【推しの子】　Mother and Children
   // https://annict.com/works/10529
   { annict_id: 10529 },
+  // [2023-WINTER] WEB: 聖剣伝説 LEGEND OF MANA -The Teardrop Crystal- 第12話「ティアストーン（後編）」ディレクターズカット版
+  // https://annict.com/works/10530
+  { annict_id: 10530 },
 ]
