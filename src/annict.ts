@@ -24923,7 +24923,7 @@ export const annict: ArmEntry[] = [
   // [2022-SPRING] TV: 社畜さんは幼女幽霊に癒されたい。
   // https://annict.com/works/8677
   { annict_id: 8677, mal_id: 49160, syobocal_tid: 6296 },
-  // [null-null] WEB: MAKE MY DAY
+  // [2023-WINTER] WEB: MAKE MY DAY
   // https://annict.com/works/8678
   { annict_id: 8678, mal_id: 49164 },
   // [2022-AUTUMN] WEB: exception
