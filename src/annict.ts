@@ -30080,7 +30080,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] TV: 現代アートを基礎から学べるチャンネル TV版
   // https://annict.com/works/10528
   { annict_id: 10528, syobocal_tid: 6605 },
-  // [2023-WINTER] MOVIE: 【推しの子】　Mother and Children
+  // [2023-WINTER] MOVIE: 【推しの子】 Mother and Children
   // https://annict.com/works/10529
   { annict_id: 10529 },
   // [2023-WINTER] WEB: 聖剣伝説 LEGEND OF MANA -The Teardrop Crystal- 第12話「ティアストーン（後編）」ディレクターズカット版
