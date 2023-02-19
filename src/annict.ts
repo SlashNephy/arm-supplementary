@@ -30107,4 +30107,7 @@ export const annict: ArmEntry[] = [
   // [2009-SPRING] OVA: バーニー
   // https://annict.com/works/10537
   { annict_id: 10537 },
+  // [2008-AUTUMN] MOVIE: マジシャン・プレスト
+  // https://annict.com/works/10538
+  { annict_id: 10538 },
 ]
