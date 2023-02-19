@@ -30101,4 +30101,7 @@ export const annict: ArmEntry[] = [
   // [2009-AUTUMN] MOVIE: 晴れ ときどき くもり
   // https://annict.com/works/10535
   { annict_id: 10535 },
+  // [2009-AUTUMN] OVA: ライノ!
+  // https://annict.com/works/10536
+  { annict_id: 10536 },
 ]
