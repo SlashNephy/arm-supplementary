@@ -30092,4 +30092,13 @@ export const annict: ArmEntry[] = [
   // [2007-SUMMER] MOVIE: 劇場版アクエリオン -創星神話篇&壱発逆転篇-
   // https://annict.com/works/10532
   { annict_id: 10532, mal_id: 6032 },
+  // [2013-SPRING] OVA: ジョージとAJ
+  // https://annict.com/works/10533
+  { annict_id: 10533 },
+  // [2010-SPRING] OVA: ダグの特別な1日
+  // https://annict.com/works/10534
+  { annict_id: 10534 },
+  // [2009-AUTUMN] MOVIE: 晴れ ときどき くもり
+  // https://annict.com/works/10535
+  { annict_id: 10535 },
 ]
