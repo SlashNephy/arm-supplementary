@@ -30110,4 +30110,7 @@ export const annict: ArmEntry[] = [
   // [2008-AUTUMN] MOVIE: マジシャン・プレスト
   // https://annict.com/works/10538
   { annict_id: 10538 },
+  // [2013-WINTER] TV: グーフィーのホームシアター
+  // https://annict.com/works/10539
+  { annict_id: 10539 },
 ]
