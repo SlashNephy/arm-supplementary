@@ -30113,4 +30113,10 @@ export const annict: ArmEntry[] = [
   // [2013-WINTER] TV: グーフィーのホームシアター
   // https://annict.com/works/10539
   { annict_id: 10539 },
+  // [2023-SUMMER] TV: 聖者無双～サラリーマン、異世界で生き残るために歩む道～
+  // https://annict.com/works/10540
+  { annict_id: 10540, mal_id: 53263 },
+  // [2023-SPRING] TV: ポケットモンスター（2023）
+  // https://annict.com/works/10541
+  { annict_id: 10541 },
 ]
