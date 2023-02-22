@@ -30119,4 +30119,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: ポケットモンスター（2023）
   // https://annict.com/works/10541
   { annict_id: 10541 },
+  // [null-null] TV: 陰の実力者になりたくて！ 2nd season
+  // https://annict.com/works/10542
+  { annict_id: 10542, mal_id: 54595 },
 ]
