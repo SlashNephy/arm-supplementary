@@ -28000,7 +28000,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9832, mal_id: 31054 },
   // [2023-SPRING] TV: 異世界でチート能力を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～
   // https://annict.com/works/9833
-  { annict_id: 9833 },
+  { annict_id: 9833, mal_id: 52830 },
   // [2023-WINTER] TV: ツルネ ―つながりの一射―
   // https://annict.com/works/9834
   { annict_id: 9834, mal_id: 52826, syobocal_tid: 6549 },
@@ -29024,7 +29024,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] MOVIE: ザ・スーパーマリオブラザーズ・ムービー
   // https://annict.com/works/10175
   { annict_id: 10175 },
-  // [null-null] TV: 転生したらスライムだった件 第3期
+  // [2024-SPRING] TV: 転生したらスライムだった件 第3期
   // https://annict.com/works/10176
   { annict_id: 10176, mal_id: 53580 },
   // [2023-SPRING] TV: THE MARGINAL SERVICE
@@ -29071,7 +29071,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10190, mal_id: 4201 },
   // [2023-SPRING] TV: 事情を知らない転校生がグイグイくる。
   // https://annict.com/works/10191
-  { annict_id: 10191 },
+  { annict_id: 10191, mal_id: 53621 },
   // [2023-WINTER] WEB: 最後の召喚師 -The Last Summoner-
   // https://annict.com/works/10192
   { annict_id: 10192, mal_id: 41915, syobocal_tid: 6560 },
