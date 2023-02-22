@@ -28979,7 +28979,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] TV: UniteUp!
   // https://annict.com/works/10160
   { annict_id: 10160, mal_id: 53132, syobocal_tid: 6592 },
-  // [null-null] TV: ウマ娘 プリティーダービー Season 3
+  // [2023-null] TV: ウマ娘 プリティーダービー Season 3
   // https://annict.com/works/10161
   { annict_id: 10161, mal_id: 53526 },
   // [2007-SUMMER] OVA: うら☆ひぐ（仮）
