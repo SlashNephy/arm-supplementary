@@ -29036,7 +29036,7 @@ export const annict: ArmEntry[] = [
   // [2010-SUMMER] MOVIE: CINEMA KEIBA/JAPAN WORLD CUP
   // https://annict.com/works/10179
   { annict_id: 10179, mal_id: 37326 },
-  // [2023-null] TV: 絆のアリル
+  // [2023-SPRING] TV: 絆のアリル
   // https://annict.com/works/10180
   { annict_id: 10180, mal_id: 51139 },
   // [2016-SPRING] WEB: リック・アンド・モーティ シーズン1
