@@ -29159,9 +29159,9 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] MOVIE: 名探偵コナン 黒鉄の魚影
   // https://annict.com/works/10220
   { annict_id: 10220, mal_id: 53540 },
-  // [2023-null] MOVIE: 劇場版シティーハンター 2023
+  // [2023-AUTUMN] MOVIE: 劇場版シティーハンター 天使の涙
   // https://annict.com/works/10221
-  { annict_id: 10221 },
+  { annict_id: 10221, mal_id: 51585 },
   // [2012-null] MOVIE: コンシューミング・スピリッツ
   // https://annict.com/works/10222
   { annict_id: 10222 },
