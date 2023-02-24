@@ -27602,7 +27602,7 @@ export const annict: ArmEntry[] = [
   // [2022-SUMMER] TV: 5億年ボタン【公式】～菅原そうたのショートショート～
   // https://annict.com/works/9700
   { annict_id: 9700, mal_id: 52162, syobocal_tid: 6403 },
-  // [null-null] TV: 江戸前エルフ
+  // [2023-SPRING] TV: 江戸前エルフ
   // https://annict.com/works/9701
   { annict_id: 9701 },
   // [2023-SUMMER] TV: 白聖女と黒牧師
@@ -29885,7 +29885,7 @@ export const annict: ArmEntry[] = [
   // [2023-null] TV: でこぼこ魔女の親子事情
   // https://annict.com/works/10462
   { annict_id: 10462, mal_id: 52985 },
-  // [2023-null] TV: はめつのおうこく
+  // [2023-AUTUMN] TV: はめつのおうこく
   // https://annict.com/works/10463
   { annict_id: 10463, mal_id: 54362 },
   // [2014-SPRING] TV: ラーバ
