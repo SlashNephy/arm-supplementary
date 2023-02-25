@@ -29521,7 +29521,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10340, mal_id: 53924 },
   // [2023-WINTER] MOVIE: 「鬼滅の刃」上弦集結、そして刀鍛冶の里へ
   // https://annict.com/works/10341
-  { annict_id: 10341 },
+  { annict_id: 10341, mal_id: 54591 },
   // [2022-AUTUMN] WEB: 新米錬金術師の店舗経営 ミニアニメ
   // https://annict.com/works/10342
   { annict_id: 10342, mal_id: 53248 },
