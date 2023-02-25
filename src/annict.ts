@@ -30128,4 +30128,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 休日のわるものさん
   // https://annict.com/works/10544
   { annict_id: 10544 },
+  // [2023-SUMMER] TV: 百姓貴族
+  // https://annict.com/works/10545
+  { annict_id: 10545 },
 ]
