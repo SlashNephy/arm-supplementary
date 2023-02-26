@@ -27604,7 +27604,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9700, mal_id: 52162, syobocal_tid: 6403 },
   // [2023-SPRING] TV: 江戸前エルフ
   // https://annict.com/works/9701
-  { annict_id: 9701 },
+  { annict_id: 9701, mal_id: 52081 },
   // [2023-SUMMER] TV: 白聖女と黒牧師
   // https://annict.com/works/9702
   { annict_id: 9702 },
