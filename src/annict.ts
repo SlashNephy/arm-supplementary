@@ -28772,7 +28772,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] TV: 女体化した僕を騎士様達がねらってます
   // https://annict.com/works/10091
   { annict_id: 10091, syobocal_tid: 6482 },
-  // [2023-SPRING] TV: 東京ミュウミュウ にゅ～♡ 2
+  // [2023-SPRING] TV: 東京ミュウミュウ にゅ～♡ 第2期
   // https://annict.com/works/10092
   { annict_id: 10092 },
   // [2023-WINTER] WEB: ルパン三世VSキャッツ・アイ
