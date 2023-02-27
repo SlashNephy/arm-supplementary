@@ -30127,11 +30127,11 @@ export const annict: ArmEntry[] = [
   { annict_id: 10543 },
   // [null-null] TV: 休日のわるものさん
   // https://annict.com/works/10544
-  { annict_id: 10544 },
+  { annict_id: 10544, mal_id: 54617 },
   // [2023-SUMMER] TV: 百姓貴族
   // https://annict.com/works/10545
   { annict_id: 10545 },
   // [2023-null] TV: ポーション頼みで生き延びます！
   // https://annict.com/works/10546
-  { annict_id: 10546 },
+  { annict_id: 10546, mal_id: 54616 },
 ]
