@@ -30124,7 +30124,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10542, mal_id: 54595 },
   // [2024-null] TV: HIGHSPEED Étoile
   // https://annict.com/works/10543
-  { annict_id: 10543 },
+  { annict_id: 10543, mal_id: 52405 },
   // [null-null] TV: 休日のわるものさん
   // https://annict.com/works/10544
   { annict_id: 10544, mal_id: 54617 },
