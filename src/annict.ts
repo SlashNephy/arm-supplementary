@@ -30134,4 +30134,7 @@ export const annict: ArmEntry[] = [
   // [2023-null] TV: ポーション頼みで生き延びます！
   // https://annict.com/works/10546
   { annict_id: 10546, mal_id: 54616 },
+  // [2022-WINTER] TV: 越後幕府
+  // https://annict.com/works/10547
+  { annict_id: 10547, mal_id: 51336 },
 ]
