@@ -28892,7 +28892,7 @@ export const annict: ArmEntry[] = [
   // [2006-SPRING] MOVIE: はなれ砦のヨナ
   // https://annict.com/works/10131
   { annict_id: 10131, mal_id: 1031 },
-  // [2023-null] TV: 天国大魔境
+  // [2023-SPRING] TV: 天国大魔境
   // https://annict.com/works/10132
   { annict_id: 10132, mal_id: 53393 },
   // [2009-SPRING] TV: リロ・アンド・スティッチ ザ・シリーズ
