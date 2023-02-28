@@ -30137,4 +30137,7 @@ export const annict: ArmEntry[] = [
   // [2022-WINTER] TV: 越後幕府
   // https://annict.com/works/10547
   { annict_id: 10547, mal_id: 51336 },
+  // [null-null] TV: 外科医エリーゼ
+  // https://annict.com/works/10548
+  { annict_id: 10548, mal_id: 54632 },
 ]
