@@ -27802,7 +27802,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9766, mal_id: 1236 },
   // [2023-SPRING] TV: 僕の心のヤバイやつ
   // https://annict.com/works/9767
-  { annict_id: 9767, mal_id: 52578 },
+  { annict_id: 9767, mal_id: 52578, syobocal_tid: 6643 },
   // [2008-SPRING] TV: きらりん☆レボリューション STAGE3
   // https://annict.com/works/9768
   { annict_id: 9768, mal_id: 1516, syobocal_tid: 1431 },
