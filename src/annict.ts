@@ -30140,4 +30140,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 外科医エリーゼ
   // https://annict.com/works/10548
   { annict_id: 10548, mal_id: 54632 },
+  // [2023-SPRING] TV: 鬼滅の刃 遊郭編 特別編集版
+  // https://annict.com/works/10549
+  { annict_id: 10549 },
 ]
