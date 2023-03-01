@@ -30143,4 +30143,10 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: 鬼滅の刃 遊郭編 特別編集版
   // https://annict.com/works/10549
   { annict_id: 10549 },
+  // [2023-SPRING] TV: Re:STARS
+  // https://annict.com/works/10550
+  { annict_id: 10550 },
+  // [null-null] TV: 川越ボーイズ・シング
+  // https://annict.com/works/10551
+  { annict_id: 10551 },
 ]
