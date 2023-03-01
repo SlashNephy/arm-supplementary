@@ -22720,7 +22720,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 7879, mal_id: 45055, syobocal_tid: 6110 },
   // [2023-SPRING] TV: くまクマ熊ベアーぱーんち！
   // https://annict.com/works/7880
-  { annict_id: 7880, mal_id: 45486 },
+  { annict_id: 7880, mal_id: 45486, syobocal_tid: 6644 },
   // [2022-WINTER] TV: スローループ
   // https://annict.com/works/7881
   { annict_id: 7881, mal_id: 45425, syobocal_tid: 6193 },
