@@ -30149,4 +30149,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 川越ボーイズ・シング
   // https://annict.com/works/10551
   { annict_id: 10551 },
+  // [2023-SPRING] TV: ちびゴジラの逆襲
+  // https://annict.com/works/10552
+  { annict_id: 10552 },
 ]
