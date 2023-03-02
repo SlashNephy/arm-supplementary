@@ -42,7 +42,7 @@
     "@graphql-codegen/typescript-operations": "3.0.1",
     "@slashnephy/eslint-config": "0.3.4",
     "@slashnephy/prettier-config": "0.1.16",
-    "@types/node": "18.14.2",
+    "@types/node": "18.14.3",
     "concurrently": "7.6.0",
     "eslint": "8.35.0",
     "graphql": "16.6.0",
