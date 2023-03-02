@@ -25849,7 +25849,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9050, mal_id: 37711 },
   // [2023-SPRING] TV: 異世界召喚は二度目です
   // https://annict.com/works/9051
-  { annict_id: 9051, mal_id: 50223 },
+  { annict_id: 9051, mal_id: 50223, syobocal_tid: 6630 },
   // [2022-SPRING] TV: ちいかわ
   // https://annict.com/works/9052
   { annict_id: 9052, mal_id: 50250 },
