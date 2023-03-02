@@ -27697,7 +27697,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9731 },
   // [2023-SPRING] TV: 彼女が公爵邸に行った理由
   // https://annict.com/works/9732
-  { annict_id: 9732 },
+  { annict_id: 9732, mal_id: 52308, syobocal_tid: 6629 },
   // [2023-null] TV: シャングリラ・フロンティア
   // https://annict.com/works/9733
   { annict_id: 9733 },
