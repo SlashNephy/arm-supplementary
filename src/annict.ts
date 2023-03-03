@@ -26462,7 +26462,7 @@ export const annict: ArmEntry[] = [
   // [null-null] MOVIE: エスタブライフ リベンジャーズロード
   // https://annict.com/works/9287
   { annict_id: 9287, mal_id: 50863 },
-  // [null-null] TV: アリス・ギア・アイギス
+  // [2023-SPRING] TV: アリス・ギア・アイギス Expansion
   // https://annict.com/works/9288
   { annict_id: 9288, mal_id: 50871 },
   // [2022-SUMMER] TV: 惑星のさみだれ
@@ -30155,4 +30155,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: 冒険大陸 アニアキングダム
   // https://annict.com/works/10553
   { annict_id: 10553 },
+  // [2023-null] WEB: 終末のワルキューレⅡ後編
+  // https://annict.com/works/10554
+  { annict_id: 10554, mal_id: 49618 },
 ]
