@@ -30152,4 +30152,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: ちびゴジラの逆襲
   // https://annict.com/works/10552
   { annict_id: 10552 },
+  // [2023-SPRING] TV: 冒険大陸 アニアキングダム
+  // https://annict.com/works/10553
+  { annict_id: 10553 },
 ]
