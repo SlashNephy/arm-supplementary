@@ -25298,7 +25298,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] TV: The Legend of Heroes 閃の軌跡 Northern War
   // https://annict.com/works/8835
   { annict_id: 8835, mal_id: 48441, syobocal_tid: 6573 },
-  // [2023-WINTER] WEB: 終末のワルキューレⅡ
+  // [2023-WINTER] WEB: 終末のワルキューレⅡ前編
   // https://annict.com/works/8836
   { annict_id: 8836, mal_id: 49618 },
   // [2021-AUTUMN] TV: しょうたいむ！～歌のお姉さんだってしたい
@@ -27197,7 +27197,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 望まぬ不死の冒険者
   // https://annict.com/works/9565
   { annict_id: 9565, mal_id: 51648 },
-  // [2023-null] WEB: ULTRAMAN FINALシーズン
+  // [2023-SPRING] WEB: ULTRAMAN FINALシーズン
   // https://annict.com/works/9566
   { annict_id: 9566, mal_id: 51653 },
   // [2022-SUMMER] MOVIE: アイカツ！ 10th STORY ～未来へのSTARWAY～ (2022)
