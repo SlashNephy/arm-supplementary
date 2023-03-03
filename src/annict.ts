@@ -28723,7 +28723,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10074 },
   // [2023-SPRING] TV: 女神のカフェテラス
   // https://annict.com/works/10075
-  { annict_id: 10075 },
+  { annict_id: 10075, mal_id: 52973, syobocal_tid: 6649 },
   // [2022-SUMMER] WEB: BASTARD!! -暗黒の破壊神- (2022) part2
   // https://annict.com/works/10076
   { annict_id: 10076, mal_id: 50953 },
