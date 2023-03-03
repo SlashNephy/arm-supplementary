@@ -29780,7 +29780,7 @@ export const annict: ArmEntry[] = [
   // [2023-null] TV: てんぷる
   // https://annict.com/works/10427
   { annict_id: 10427, mal_id: 54275 },
-  // [2023-null] TV: 進撃の巨人 The Final Season 完結編（後編）
+  // [2023-AUTUMN] TV: 進撃の巨人 The Final Season 完結編（後編）
   // https://annict.com/works/10428
   { annict_id: 10428 },
   // [2019-WINTER] WEB: MOVE TO THE FUTURE
