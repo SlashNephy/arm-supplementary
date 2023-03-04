@@ -30161,4 +30161,10 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] MOVIE: 映画プリキュアオールスターズ F
   // https://annict.com/works/10555
   { annict_id: 10555 },
+  // [1997-null] MOVIE: 空とぶドンキホーテ
+  // https://annict.com/works/10556
+  { annict_id: 10556 },
+  // [2004-AUTUMN] MOVIE: ドンキホーテ夢見る騎士
+  // https://annict.com/works/10557
+  { annict_id: 10557 },
 ]
