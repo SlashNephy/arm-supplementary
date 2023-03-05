@@ -29222,9 +29222,9 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] TV: 万聖街 (日本語吹替版)
   // https://annict.com/works/10241
   { annict_id: 10241, syobocal_tid: 6484 },
-  // [2023-SPRING] TV: MIX MEISEI STORY 2ND SEASON
+  // [2023-SPRING] TV: MIX MEISEI STORY 2ND SEASON ～二度目の夏、空の向こうへ～
   // https://annict.com/works/10242
-  { annict_id: 10242 },
+  { annict_id: 10242, mal_id: 52614, syobocal_tid: 6631 },
   // [2023-SUMMER] TV: おかしな転生
   // https://annict.com/works/10243
   { annict_id: 10243 },
