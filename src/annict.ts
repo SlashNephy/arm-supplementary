@@ -26492,7 +26492,7 @@ export const annict: ArmEntry[] = [
   // [2022-WINTER] WEB: キッド・コズミック シーズン3
   // https://annict.com/works/9297
   { annict_id: 9297 },
-  // [2022-WINTER] WEB: ザ・カップヘッド・ショウ！
+  // [2022-WINTER] WEB: ザ・カップヘッド・ショウ！ シーズン1
   // https://annict.com/works/9298
   { annict_id: 9298 },
   // [2022-SUMMER] TV: プリマドール
@@ -30167,4 +30167,10 @@ export const annict: ArmEntry[] = [
   // [2004-AUTUMN] MOVIE: ドンキホーテ夢見る騎士
   // https://annict.com/works/10557
   { annict_id: 10557 },
+  // [2022-SUMMER] WEB: ザ・カップヘッド・ショウ！ シーズン2
+  // https://annict.com/works/10558
+  { annict_id: 10558 },
+  // [2022-AUTUMN] WEB: ザ・カップヘッド・ショウ！ シーズン3
+  // https://annict.com/works/10559
+  { annict_id: 10559 },
 ]
