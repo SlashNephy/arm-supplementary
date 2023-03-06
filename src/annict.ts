@@ -3449,7 +3449,7 @@ export const annict: ArmEntry[] = [
   // [2001-SPRING] TV: Z.O.E Dolores, i
   // https://annict.com/works/1151
   { annict_id: 1151, mal_id: 1249, syobocal_tid: 1150 },
-  // [1999-SUMMER] TV: ZOIDS
+  // [1999-SUMMER] TV: ゾイド-ZOIDS-
   // https://annict.com/works/1152
   { annict_id: 1152, mal_id: 763, syobocal_tid: 3948 },
   // [2004-AUTUMN] TV: ZOIDS FUZORS
