@@ -27679,7 +27679,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9725, mal_id: 2414 },
   // [2023-SPRING] TV: BIRDIE WING -Golf Girls' Story- Season 2
   // https://annict.com/works/9726
-  { annict_id: 9726, mal_id: 52229 },
+  { annict_id: 9726, mal_id: 52229, syobocal_tid: 6639 },
   // [2011-WINTER] MOVIE: トリコ 3D 開幕!グルメアドベンチャー!!
   // https://annict.com/works/9727
   { annict_id: 9727, mal_id: 10074 },
