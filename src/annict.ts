@@ -29666,7 +29666,7 @@ export const annict: ArmEntry[] = [
   // [2023-null] WEB: BASTARD!! -暗黒の破壊神- 地獄の鎮魂歌編
   // https://annict.com/works/10389
   { annict_id: 10389, mal_id: 54141 },
-  // [2023-null] WEB: 夜は猫といっしょ(Season2)
+  // [2023-WINTER] WEB: 夜は猫といっしょ(Season2)
   // https://annict.com/works/10390
   { annict_id: 10390, mal_id: 54198 },
   // [2025-null] MOVIE: Future Kid Takara（仮称）
