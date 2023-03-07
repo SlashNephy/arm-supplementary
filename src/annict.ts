@@ -27935,7 +27935,7 @@ export const annict: ArmEntry[] = [
   // [2022-WINTER] MOVIE: きかんしゃトーマス オールスター☆パレード
   // https://annict.com/works/9811
   { annict_id: 9811 },
-  // [null-null] OTHER: 自動販売機に生まれ変わった俺は迷宮を彷徨う
+  // [2023-SUMMER] TV: 自動販売機に生まれ変わった俺は迷宮を彷徨う
   // https://annict.com/works/9812
   { annict_id: 9812, mal_id: 52619 },
   // [2022-AUTUMN] OVA: 女の園の星
@@ -30173,4 +30173,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] WEB: ザ・カップヘッド・ショウ！ シーズン3
   // https://annict.com/works/10559
   { annict_id: 10559 },
+  // [1998-WINTER] OVA: ピカチュウのふゆやすみ
+  // https://annict.com/works/10560
+  { annict_id: 10560, mal_id: 4874 },
 ]
