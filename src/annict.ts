@@ -27698,9 +27698,9 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: 彼女が公爵邸に行った理由
   // https://annict.com/works/9732
   { annict_id: 9732, mal_id: 52308, syobocal_tid: 6629 },
-  // [2023-null] TV: シャングリラ・フロンティア
+  // [2023-AUTUMN] TV: シャングリラ・フロンティア〜クソゲーハンター、神ゲーに挑まんとす〜
   // https://annict.com/works/9733
-  { annict_id: 9733 },
+  { annict_id: 9733, mal_id: 52347 },
   // [2022-SUMMER] WEB: Extreme Hearts S×S×S
   // https://annict.com/works/9734
   { annict_id: 9734, mal_id: 52365 },
