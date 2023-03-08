@@ -43,12 +43,12 @@ Currently, arm-supplementary has 34793 entries (+6751).
 | Service                                     | arm-supplementary | arm / anime-offline-database |
 | :------------------------------------------ | :---------------: | :--------------------------: |
 | [Annict](https://annict.com)                |   10058 (+151)    |             9907             |
-| [AniList](https://anilist.co)               |   20570 (+2050)   |            18520             |
-| [MyAnimeList](https://myanimelist.net)      |   24381 (+316)    |            24065             |
+| [AniList](https://anilist.co)               |   20571 (+2051)   |            18520             |
+| [MyAnimeList](https://myanimelist.net)      |   24382 (+317)    |            24065             |
 | [しょぼいカレンダー](https://cal.syoboi.jp) |    5520 (+34)     |             5486             |
-| [AniDB](https://anidb.net)                  |   12824 (+118)    |            12706             |
-| [Anime-Planet](https://anime-planet.com)    |   22474 (+116)    |            22358             |
-| [aniSearch](https://anisearch.com)          |   17719 (+125)    |            17594             |
-| [Kitsu](https://kitsu.io)                   |   18781 (+128)    |            18653             |
-| [LiveChart.me](https://livechart.me)        |   10537 (+108)    |            10429             |
-| [Anime Notifier](https://notify.moe)        |   15733 (+125)    |            15608             |
+| [AniDB](https://anidb.net)                  |   12825 (+119)    |            12706             |
+| [Anime-Planet](https://anime-planet.com)    |   22475 (+117)    |            22358             |
+| [aniSearch](https://anisearch.com)          |   17720 (+126)    |            17594             |
+| [Kitsu](https://kitsu.io)                   |   18782 (+129)    |            18653             |
+| [LiveChart.me](https://livechart.me)        |   10538 (+109)    |            10429             |
+| [Anime Notifier](https://notify.moe)        |   15734 (+126)    |            15608             |

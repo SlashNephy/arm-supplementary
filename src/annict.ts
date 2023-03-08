@@ -28733,9 +28733,9 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: ありふれた職業で世界最強 3rd season
   // https://annict.com/works/10078
   { annict_id: 10078 },
-  // [2023-null] TV: 葬送のフリーレン
+  // [2023-AUTUMN] TV: 葬送のフリーレン
   // https://annict.com/works/10079
-  { annict_id: 10079 },
+  { annict_id: 10079, mal_id: 52991 },
   // [null-null] TV: SYNDUALITY
   // https://annict.com/works/10080
   { annict_id: 10080, mal_id: 53026 },
