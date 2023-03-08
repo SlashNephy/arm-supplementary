@@ -26771,7 +26771,7 @@ export const annict: ArmEntry[] = [
   // [2022-SPRING] MOVIE: とんがり頭のごん太 ―2つの名前を生きた福島被災犬の物語―
   // https://annict.com/works/9422
   { annict_id: 9422, mal_id: 49845 },
-  // [2023-null] TV: 異世界ワンターンキル姉さん ～姉同伴の異世界生活はじめました～
+  // [2023-SPRING] TV: 異世界ワンターンキル姉さん ～姉同伴の異世界生活はじめました～
   // https://annict.com/works/9423
   { annict_id: 9423, mal_id: 51219 },
   // [2022-AUTUMN] TV: 不徳のギルド
@@ -28838,7 +28838,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] TV: 羅小黒戦記 ぼくが選ぶ未来 TV放送版
   // https://annict.com/works/10113
   { annict_id: 10113, syobocal_tid: 6061 },
-  // [null-null] TV: SHY
+  // [2023-null] TV: SHY
   // https://annict.com/works/10114
   { annict_id: 10114, mal_id: 53237 },
   // [null-null] TV: ラブライブ！スーパースター!! 3期
