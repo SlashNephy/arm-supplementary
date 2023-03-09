@@ -27658,7 +27658,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9718 },
   // [2023-SPRING] TV: マイホームヒーロー
   // https://annict.com/works/9719
-  { annict_id: 9719 },
+  { annict_id: 9719, mal_id: 52092 },
   // [2022-AUTUMN] TV: SPY×FAMILY 第2クール
   // https://annict.com/works/9720
   { annict_id: 9720, mal_id: 50602, syobocal_tid: 6451 },
