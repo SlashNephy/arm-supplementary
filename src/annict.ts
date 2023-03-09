@@ -28702,7 +28702,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10066, mal_id: 52168 },
   // [2023-SPRING] TV: 魔法使いの嫁 SEASON2
   // https://annict.com/works/10067
-  { annict_id: 10067 },
+  { annict_id: 10067, mal_id: 52955, syobocal_tid: 6625 },
   // [1995-AUTUMN] OVA: 沈黙の艦隊
   // https://annict.com/works/10068
   { annict_id: 10068, mal_id: 2881 },
