@@ -26201,7 +26201,7 @@ export const annict: ArmEntry[] = [
   // [2022-SPRING] MOVIE: 映画クレヨンしんちゃん もののけニンジャ珍風伝
   // https://annict.com/works/9200
   { annict_id: 9200, mal_id: 50562 },
-  // [null-null] TV: 七つの魔剣が支配する
+  // [2023-SUMMER] TV: 七つの魔剣が支配する
   // https://annict.com/works/9201
   { annict_id: 9201, mal_id: 50582 },
   // [2023-null] TV: 豚のレバーは加熱しろ
