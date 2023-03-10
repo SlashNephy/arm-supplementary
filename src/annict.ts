@@ -30176,4 +30176,7 @@ export const annict: ArmEntry[] = [
   // [1998-WINTER] OVA: ピカチュウのふゆやすみ
   // https://annict.com/works/10560
   { annict_id: 10560, mal_id: 4874 },
+  // [2023-SPRING] TV: でんでんの電脳電車
+  // https://annict.com/works/10561
+  { annict_id: 10561 },
 ]
