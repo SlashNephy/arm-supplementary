@@ -29128,7 +29128,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10209 },
   // [2023-SPRING] TV: ワールドダイスター
   // https://annict.com/works/10210
-  { annict_id: 10210, mal_id: 53698 },
+  { annict_id: 10210, mal_id: 53698, syobocal_tid: 6641 },
   // [2021-SUMMER] WEB: ガンプラくん
   // https://annict.com/works/10211
   { annict_id: 10211 },
