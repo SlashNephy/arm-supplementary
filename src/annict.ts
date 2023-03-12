@@ -26618,7 +26618,7 @@ export const annict: ArmEntry[] = [
   // [2022-WINTER] WEB: ヒューマン・リソース・モンスターズ
   // https://annict.com/works/9339
   { annict_id: 9339 },
-  // [null-null] TV: 漣蒼士に処女を捧ぐ～さあ、じっくり愛でましょうか
+  // [2023-SPRING] TV: 漣蒼士に純潔を捧ぐ
   // https://annict.com/works/9340
   { annict_id: 9340, mal_id: 51065 },
   // [1984-SPRING] TV: キン肉マン 決戦!! 七人の超人VS宇宙野武士
@@ -27299,7 +27299,7 @@ export const annict: ArmEntry[] = [
   // [2009-WINTER] TV: おじゃる丸（第12シリーズ）
   // https://annict.com/works/9599
   { annict_id: 9599, mal_id: 4459, syobocal_tid: 1790 },
-  // [2022-SUMMER] TV: 夜は猫といっしょ(Season1)
+  // [2022-SUMMER] TV: 夜は猫といっしょ Season1
   // https://annict.com/works/9600
   { annict_id: 9600, mal_id: 51692, syobocal_tid: 6426 },
   // [2022-SPRING] WEB: なならき 〜Seven Lucky Gods〜
@@ -28847,7 +28847,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] TV: ジョジョの奇妙な冒険 ストーンオーシャン 第3期
   // https://annict.com/works/10116
   { annict_id: 10116, mal_id: 53273, syobocal_tid: 6596 },
-  // [2022-AUTUMN] WEB: 夜は猫といっしょ(Season1秋クール)
+  // [2022-AUTUMN] WEB: 夜は猫といっしょ Season1秋クール
   // https://annict.com/works/10117
   { annict_id: 10117, mal_id: 51692, syobocal_tid: 6511 },
   // [2023-null] TV: お嬢と番犬くん
@@ -29666,7 +29666,7 @@ export const annict: ArmEntry[] = [
   // [2023-null] WEB: BASTARD!! -暗黒の破壊神- 地獄の鎮魂歌編
   // https://annict.com/works/10389
   { annict_id: 10389, mal_id: 54141 },
-  // [2023-WINTER] WEB: 夜は猫といっしょ(Season2)
+  // [2023-WINTER] WEB: 夜は猫といっしょ Season2
   // https://annict.com/works/10390
   { annict_id: 10390, mal_id: 54198 },
   // [2025-null] MOVIE: Future Kid Takara（仮称）
@@ -30185,4 +30185,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 不滅のあなたへ Season3
   // https://annict.com/works/10563
   { annict_id: 10563 },
+  // [2023-WINTER] TV: おしりたんてい コズミックフロント
+  // https://annict.com/works/10564
+  { annict_id: 10564 },
 ]
