@@ -30182,4 +30182,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: デュエル・マスターズ WIN 決闘学園編（デュエル・ウォーズ）
   // https://annict.com/works/10562
   { annict_id: 10562 },
+  // [null-null] TV: 不滅のあなたへ Season3
+  // https://annict.com/works/10563
+  { annict_id: 10563 },
 ]
