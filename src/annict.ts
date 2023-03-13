@@ -30191,4 +30191,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] TV: 夜廻り猫
   // https://annict.com/works/10565
   { annict_id: 10565, mal_id: 53655, syobocal_tid: 6664 },
+  // [2022-AUTUMN] WEB: 不死身な僕の日常 シーズン2
+  // https://annict.com/works/10566
+  { annict_id: 10566, mal_id: 44069 },
 ]
