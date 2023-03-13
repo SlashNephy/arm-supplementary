@@ -30197,4 +30197,13 @@ export const annict: ArmEntry[] = [
   // [2023-null] TV: 君のことが大大大大大好きな100人の彼女
   // https://annict.com/works/10567
   { annict_id: 10567 },
+  // [2011-SPRING] OTHER: メグミとタイヨウ 果汁グミ Tweet Love Story
+  // https://annict.com/works/10568
+  { annict_id: 10568, mal_id: 25265 },
+  // [2012-WINTER] OTHER: メグミとタイヨウII 果汁グミ Tweet Mystery 消えたサファイアロマンの謎
+  // https://annict.com/works/10569
+  { annict_id: 10569, mal_id: 25267 },
+  // [2012-SPRING] OTHER: メグミとタイヨウIII 果汁グミ Tweet Fantasy タイムラインワールド
+  // https://annict.com/works/10570
+  { annict_id: 10570, mal_id: 25491 },
 ]
