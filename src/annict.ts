@@ -27049,7 +27049,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9515, mal_id: 51543 },
   // [2023-SPRING] TV: アイドルマスター シンデレラガールズ U149
   // https://annict.com/works/9516
-  { annict_id: 9516, mal_id: 51536 },
+  { annict_id: 9516, mal_id: 51536, syobocal_tid: 6624 },
   // [2022-SPRING] TV: おしりたんてい (第6シリーズ)
   // https://annict.com/works/9517
   { annict_id: 9517, syobocal_tid: 6345 },
@@ -30188,4 +30188,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] TV: おしりたんてい コズミックフロント
   // https://annict.com/works/10564
   { annict_id: 10564 },
+  // [2023-WINTER] TV: 夜廻り猫
+  // https://annict.com/works/10565
+  { annict_id: 10565, mal_id: 53655, syobocal_tid: 6664 },
 ]
