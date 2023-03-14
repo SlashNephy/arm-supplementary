@@ -29071,7 +29071,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10190, mal_id: 4201 },
   // [2023-SPRING] TV: 事情を知らない転校生がグイグイくる。
   // https://annict.com/works/10191
-  { annict_id: 10191, mal_id: 53621 },
+  { annict_id: 10191, mal_id: 53621, syobocal_tid: 6638 },
   // [2023-WINTER] WEB: 最後の召喚師 -The Last Summoner-
   // https://annict.com/works/10192
   { annict_id: 10192, mal_id: 41915, syobocal_tid: 6560 },
@@ -29611,7 +29611,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10370, mal_id: 34163 },
   // [2023-SPRING] TV: 逃走中 グレートミッション
   // https://annict.com/works/10371
-  { annict_id: 10371, mal_id: 54040 },
+  { annict_id: 10371, mal_id: 54040, syobocal_tid: 6632 },
   // [2023-WINTER] TV: 弱虫ペダル GLORY LINE -特別総集編-
   // https://annict.com/works/10372
   { annict_id: 10372 },
