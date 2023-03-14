@@ -30212,4 +30212,7 @@ export const annict: ArmEntry[] = [
   // [2024-null] TV: 魔法つかいプリキュア！2
   // https://annict.com/works/10572
   { annict_id: 10572 },
+  // [2023-WINTER] WEB: ぷちクールドジ男子のひとコマ
+  // https://annict.com/works/10573
+  { annict_id: 10573 },
 ]
