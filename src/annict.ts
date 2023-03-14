@@ -28801,7 +28801,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10100 },
   // [2023-SPRING] TV: 山田くんとLv999の恋をする
   // https://annict.com/works/10101
-  { annict_id: 10101 },
+  { annict_id: 10101, mal_id: 53126 },
   // [2023-WINTER] TV: アルスの巨獣
   // https://annict.com/works/10102
   { annict_id: 10102, mal_id: 53179, syobocal_tid: 6551 },
