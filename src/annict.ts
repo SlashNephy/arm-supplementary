@@ -30206,4 +30206,10 @@ export const annict: ArmEntry[] = [
   // [2012-SPRING] OTHER: メグミとタイヨウIII 果汁グミ Tweet Fantasy タイムラインワールド
   // https://annict.com/works/10570
   { annict_id: 10570, mal_id: 25491 },
+  // [2023-AUTUMN] TV: キボウノチカラ～オトナプリキュア ‘23～
+  // https://annict.com/works/10571
+  { annict_id: 10571 },
+  // [2024-null] TV: 魔法つかいプリキュア！2
+  // https://annict.com/works/10572
+  { annict_id: 10572 },
 ]
