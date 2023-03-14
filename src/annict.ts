@@ -23444,7 +23444,7 @@ export const annict: ArmEntry[] = [
   // [1990-WINTER] MOVIE: 劇場版 悪魔くん ようこそ悪魔ランドへ!!
   // https://annict.com/works/8151
   { annict_id: 8151, mal_id: 8227 },
-  // [2023-null] WEB: 悪魔くん (新アニメ)
+  // [2023-AUTUMN] WEB: 悪魔くん (Netflixオリジナル)
   // https://annict.com/works/8152
   { annict_id: 8152, mal_id: 48425 },
   // [1968-SUMMER] MOVIE: ゲゲゲの鬼太郎 (1968年劇場版)
@@ -29693,7 +29693,7 @@ export const annict: ArmEntry[] = [
   // [2009-SPRING] TV: シュガーバニーズ フルール
   // https://annict.com/works/10398
   { annict_id: 10398, mal_id: 6481 },
-  // [2023-null] TV: 好きな子がめがねを忘れた
+  // [2023-SUMMER] TV: 好きな子がめがねを忘れた
   // https://annict.com/works/10399
   { annict_id: 10399, mal_id: 54234 },
   // [2023-WINTER] TV: 機動戦士ガンダム 閃光のハサウェイ TVエディション
