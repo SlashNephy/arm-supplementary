@@ -30218,4 +30218,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] TV: それしか ないわけ ないでしょう
   // https://annict.com/works/10574
   { annict_id: 10574 },
+  // [2024-WINTER] TV: SHAMAN KING FLOWERS
+  // https://annict.com/works/10575
+  { annict_id: 10575 },
 ]
