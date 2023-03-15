@@ -30196,7 +30196,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10566, mal_id: 44069 },
   // [2023-null] TV: 君のことが大大大大大好きな100人の彼女
   // https://annict.com/works/10567
-  { annict_id: 10567 },
+  { annict_id: 10567, mal_id: 54714 },
   // [2011-SPRING] OTHER: メグミとタイヨウ 果汁グミ Tweet Love Story
   // https://annict.com/works/10568
   { annict_id: 10568, mal_id: 25265 },
@@ -30215,4 +30215,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] WEB: ぷちクールドジ男子のひとコマ
   // https://annict.com/works/10573
   { annict_id: 10573 },
+  // [2023-WINTER] TV: それしか ないわけ ないでしょう
+  // https://annict.com/works/10574
+  { annict_id: 10574 },
 ]
