@@ -27806,9 +27806,9 @@ export const annict: ArmEntry[] = [
   // [2008-SPRING] TV: きらりん☆レボリューション STAGE3
   // https://annict.com/works/9768
   { annict_id: 9768, mal_id: 1516, syobocal_tid: 1431 },
-  // [2023-SPRING] TV: 転生貴族の異世界冒険録～自重を知らない神々の使徒～
+  // [2023-SPRING] TV: 転生貴族の異世界冒険録 ～自重を知らない神々の使徒～
   // https://annict.com/works/9769
-  { annict_id: 9769 },
+  { annict_id: 9769, mal_id: 52608 },
   // [2024-null] TV: 怪獣8号
   // https://annict.com/works/9770
   { annict_id: 9770, mal_id: 52588 },
@@ -30224,4 +30224,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: ゴー！ゴー！びーくるずー
   // https://annict.com/works/10576
   { annict_id: 10576 },
+  // [2023-SPRING] TV: ビーストウォーズ 超生命体トランスフォーマー アゲイン
+  // https://annict.com/works/10577
+  { annict_id: 10577 },
 ]
