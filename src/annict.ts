@@ -24650,7 +24650,7 @@ export const annict: ArmEntry[] = [
   // [2022-SUMMER] MOVIE: おそ松さん ～ヒピポ族と輝く果実～
   // https://annict.com/works/8585
   { annict_id: 8585, mal_id: 49119 },
-  // [2023-null] OVA: おそ松さん 新作アニメ 第2弾
+  // [2023-SUMMER] MOVIE: おそ松さん～魂のたこ焼きパーティーと伝説のお泊り会～
   // https://annict.com/works/8586
   { annict_id: 8586 },
   // [1997-WINTER] TV: ドラゴンボールGT 悟空外伝！ 勇気の証しは四星球
