@@ -30230,4 +30230,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 魔法少女にあこがれて
   // https://annict.com/works/10578
   { annict_id: 10578 },
+  // [null-null] OTHER: 妻、小学生になる。
+  // https://annict.com/works/10579
+  { annict_id: 10579 },
 ]
