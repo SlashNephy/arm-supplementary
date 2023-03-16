@@ -30233,4 +30233,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 妻、小学生になる。
   // https://annict.com/works/10579
   { annict_id: 10579 },
+  // [2023-null] TV: 暴食のベルセルク
+  // https://annict.com/works/10580
+  { annict_id: 10580, mal_id: 53439 },
 ]
