@@ -30227,4 +30227,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: ビーストウォーズ 超生命体トランスフォーマー アゲイン
   // https://annict.com/works/10577
   { annict_id: 10577 },
+  // [null-null] TV: 魔法少女にあこがれて
+  // https://annict.com/works/10578
+  { annict_id: 10578 },
 ]
