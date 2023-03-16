@@ -28727,9 +28727,9 @@ export const annict: ArmEntry[] = [
   // [2022-SUMMER] WEB: BASTARD!! -暗黒の破壊神- (2022) part2
   // https://annict.com/works/10076
   { annict_id: 10076, mal_id: 50953 },
-  // [null-null] TV: 経験済みなキミと、経験ゼロなオレが、お付き合いする話。
+  // [2023-null] TV: 経験済みなキミと、経験ゼロなオレが、お付き合いする話。
   // https://annict.com/works/10077
-  { annict_id: 10077 },
+  { annict_id: 10077, mal_id: 52990 },
   // [null-null] TV: ありふれた職業で世界最強 3rd season
   // https://annict.com/works/10078
   { annict_id: 10078 },
