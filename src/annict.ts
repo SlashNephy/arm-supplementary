@@ -27589,7 +27589,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9695, mal_id: 52031 },
   // [2023-SPRING] TV: 【推しの子】
   // https://annict.com/works/9696
-  { annict_id: 9696, mal_id: 52034 },
+  { annict_id: 9696, mal_id: 52034, syobocal_tid: 6676 },
   // [2022-AUTUMN] TV: 勇者パーティーを追放されたビーストテイマー、最強種の猫耳少女と出会う
   // https://annict.com/works/9697
   { annict_id: 9697, mal_id: 52046, syobocal_tid: 6444 },
@@ -30130,7 +30130,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10544, mal_id: 54617 },
   // [2023-SUMMER] TV: 百姓貴族
   // https://annict.com/works/10545
-  { annict_id: 10545 },
+  { annict_id: 10545, mal_id: 53426 },
   // [2023-null] TV: ポーション頼みで生き延びます！
   // https://annict.com/works/10546
   { annict_id: 10546, mal_id: 54616 },
@@ -30145,10 +30145,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 10549 },
   // [2023-SPRING] TV: Re:STARS
   // https://annict.com/works/10550
-  { annict_id: 10550 },
+  { annict_id: 10550, mal_id: 40969, syobocal_tid: 6666 },
   // [null-null] TV: 川越ボーイズ・シング
   // https://annict.com/works/10551
-  { annict_id: 10551 },
+  { annict_id: 10551, mal_id: 54638 },
   // [2023-SPRING] TV: ちびゴジラの逆襲
   // https://annict.com/works/10552
   { annict_id: 10552, mal_id: 54644 },
@@ -30184,7 +30184,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10562 },
   // [null-null] TV: 不滅のあなたへ Season3
   // https://annict.com/works/10563
-  { annict_id: 10563 },
+  { annict_id: 10563, mal_id: 54703 },
   // [2023-WINTER] TV: おしりたんてい コズミックフロント
   // https://annict.com/works/10564
   { annict_id: 10564 },
@@ -30208,10 +30208,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 10570, mal_id: 25491 },
   // [2023-AUTUMN] TV: キボウノチカラ～オトナプリキュア ‘23～
   // https://annict.com/works/10571
-  { annict_id: 10571 },
+  { annict_id: 10571, mal_id: 54716 },
   // [2024-null] TV: 魔法つかいプリキュア！2
   // https://annict.com/works/10572
-  { annict_id: 10572 },
+  { annict_id: 10572, mal_id: 54717 },
   // [2023-WINTER] WEB: ぷちクールドジ男子のひとコマ
   // https://annict.com/works/10573
   { annict_id: 10573 },
@@ -30220,7 +30220,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10574 },
   // [2024-WINTER] TV: SHAMAN KING FLOWERS
   // https://annict.com/works/10575
-  { annict_id: 10575 },
+  { annict_id: 10575, mal_id: 51673 },
   // [2023-SPRING] TV: ゴー！ゴー！びーくるずー
   // https://annict.com/works/10576
   { annict_id: 10576 },
@@ -30229,11 +30229,14 @@ export const annict: ArmEntry[] = [
   { annict_id: 10577 },
   // [null-null] TV: 魔法少女にあこがれて
   // https://annict.com/works/10578
-  { annict_id: 10578 },
+  { annict_id: 10578, mal_id: 54722 },
   // [null-null] OTHER: 妻、小学生になる。
   // https://annict.com/works/10579
-  { annict_id: 10579 },
+  { annict_id: 10579, mal_id: 54726 },
   // [2023-null] TV: 暴食のベルセルク
   // https://annict.com/works/10580
   { annict_id: 10580, mal_id: 53439 },
+  // [null-null] OTHER: キン肉マン 新シリーズ
+  // https://annict.com/works/10581
+  { annict_id: 10581 },
 ]
