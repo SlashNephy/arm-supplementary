@@ -30242,4 +30242,10 @@ export const annict: ArmEntry[] = [
   // [2006-SPRING] OVA: 山古志村のマリと三匹の子犬
   // https://annict.com/works/10582
   { annict_id: 10582, mal_id: 30985 },
+  // [2023-SUMMER] TV: うちの会社の小さい先輩の話
+  // https://annict.com/works/10583
+  { annict_id: 10583 },
+  // [null-null] TV: 時々ボソッとロシア語でデレる隣のアーリャさん
+  // https://annict.com/works/10584
+  { annict_id: 10584 },
 ]
