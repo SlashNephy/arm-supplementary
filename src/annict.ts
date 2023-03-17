@@ -30239,4 +30239,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: キン肉マン 新シリーズ
   // https://annict.com/works/10581
   { annict_id: 10581 },
+  // [2006-SPRING] OVA: 山古志村のマリと三匹の子犬
+  // https://annict.com/works/10582
+  { annict_id: 10582, mal_id: 30985 },
 ]
