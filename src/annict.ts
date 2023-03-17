@@ -30248,4 +30248,10 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 時々ボソッとロシア語でデレる隣のアーリャさん
   // https://annict.com/works/10584
   { annict_id: 10584 },
+  // [null-null] TV: Dr.STONE NEW WORLD 第2クール
+  // https://annict.com/works/10585
+  { annict_id: 10585 },
+  // [2023-AUTUMN] TV: デッドマウント・デスプレイ 第2クール
+  // https://annict.com/works/10586
+  { annict_id: 10586 },
 ]
