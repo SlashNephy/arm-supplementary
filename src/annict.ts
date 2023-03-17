@@ -29618,7 +29618,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] WEB: きよねこっ
   // https://annict.com/works/10373
   { annict_id: 10373, mal_id: 50529 },
-  // [2023-null] TV: ひきこまり吸血姫の悶々
+  // [2023-AUTUMN] TV: ひきこまり吸血姫の悶々
   // https://annict.com/works/10374
   { annict_id: 10374, mal_id: 54103 },
   // [1992-AUTUMN] OVA: けろけろけろっぴのクリスマス・イブのおくりもの
@@ -29705,7 +29705,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] TV: 機動戦士ガンダムNT(ナラティブ) TVエディション
   // https://annict.com/works/10402
   { annict_id: 10402 },
-  // [null-null] TV: ささやくように恋を唄う
+  // [2024-WINTER] TV: ささやくように恋を唄う
   // https://annict.com/works/10403
   { annict_id: 10403, mal_id: 54233 },
   // [null-null] OTHER: メイドインアビス 烈日の黄金郷 続編
@@ -30244,7 +30244,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10582, mal_id: 30985 },
   // [2023-SUMMER] TV: うちの会社の小さい先輩の話
   // https://annict.com/works/10583
-  { annict_id: 10583 },
+  { annict_id: 10583, mal_id: 53379 },
   // [null-null] TV: 時々ボソッとロシア語でデレる隣のアーリャさん
   // https://annict.com/works/10584
   { annict_id: 10584 },
