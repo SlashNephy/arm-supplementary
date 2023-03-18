@@ -27688,7 +27688,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9728, mal_id: 52274, syobocal_tid: 6594 },
   // [2023-SPRING] TV: マッシュル-MASHLE-
   // https://annict.com/works/9729
-  { annict_id: 9729 },
+  { annict_id: 9729, mal_id: 52211 },
   // [2023-WINTER] TV: トモちゃんは女の子！
   // https://annict.com/works/9730
   { annict_id: 9730, mal_id: 52305, syobocal_tid: 6542 },
