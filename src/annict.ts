@@ -19688,7 +19688,7 @@ export const annict: ArmEntry[] = [
   // [2007-SPRING] OVA: 頭文字D BATTLE STAGE 2
   // https://annict.com/works/6639
   { annict_id: 6639, mal_id: 3931, syobocal_tid: 2392 },
-  // [2004-null] OVA: 頭文字D to the Next Stage 〜プロジェクトDへ向けて〜
+  // [2003-WINTER] OVA: 頭文字D to the Next Stage 〜プロジェクトDへ向けて〜
   // https://annict.com/works/6640
   { annict_id: 6640, mal_id: 12725, syobocal_tid: 2393 },
   // [2019-SUMMER] MOVIE: ヴァイオレット・エヴァーガーデン 外伝 -永遠と自動手記人形-
