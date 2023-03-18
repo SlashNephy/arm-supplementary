@@ -30254,4 +30254,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: デッドマウント・デスプレイ 第2クール
   // https://annict.com/works/10586
   { annict_id: 10586 },
+  // [null-null] TV: 火狩りの王 第2シーズン
+  // https://annict.com/works/10587
+  { annict_id: 10587 },
 ]
