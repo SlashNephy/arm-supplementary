@@ -30257,4 +30257,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 火狩りの王 第2シーズン
   // https://annict.com/works/10587
   { annict_id: 10587 },
+  // [2024-SPRING] TV: アイドルマスター シャイニーカラーズ
+  // https://annict.com/works/10588
+  { annict_id: 10588 },
 ]
