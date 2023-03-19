@@ -27652,7 +27652,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9716, mal_id: 48897 },
   // [2022-AUTUMN] MOVIE: かぐや様は告らせたい-ファーストキッスは終わらない-
   // https://annict.com/works/9717
-  { annict_id: 9717, mal_id: 52198 },
+  { annict_id: 9717, mal_id: 52198, syobocal_tid: 6679 },
   // [null-null] TV: デート・ア・ライブⅤ
   // https://annict.com/works/9718
   { annict_id: 9718 },
