@@ -30266,4 +30266,10 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] TV: ライザのアトリエ ～常闇の女王と秘密の隠れ家～
   // https://annict.com/works/10590
   { annict_id: 10590 },
+  // [null-null] TV: 逃げ上手の若君
+  // https://annict.com/works/10591
+  { annict_id: 10591 },
+  // [2021-AUTUMN] WEB: 洒落どる パイロットフィルム
+  // https://annict.com/works/10592
+  { annict_id: 10592, mal_id: 50136 },
 ]
