@@ -30263,4 +30263,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 3年Z組銀八先生
   // https://annict.com/works/10589
   { annict_id: 10589 },
+  // [2023-SUMMER] TV: ライザのアトリエ ～常闇の女王と秘密の隠れ家～
+  // https://annict.com/works/10590
+  { annict_id: 10590 },
 ]
