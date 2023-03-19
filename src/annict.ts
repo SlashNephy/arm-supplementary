@@ -30260,4 +30260,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: アイドルマスター シャイニーカラーズ
   // https://annict.com/works/10588
   { annict_id: 10588 },
+  // [null-null] OTHER: 3年Z組銀八先生
+  // https://annict.com/works/10589
+  { annict_id: 10589 },
 ]
