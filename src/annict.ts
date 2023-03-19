@@ -22405,7 +22405,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 7741, mal_id: 43763, syobocal_tid: 5993 },
   // [2023-WINTER] TV: 火狩りの王
   // https://annict.com/works/7742
-  { annict_id: 7742, mal_id: 43760 },
+  { annict_id: 7742, mal_id: 43760, syobocal_tid: 6619 },
   // [2021-AUTUMN] MOVIE: フラ・フラダンス
   // https://annict.com/works/7743
   { annict_id: 7743, mal_id: 43762 },
@@ -27658,7 +27658,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9718 },
   // [2023-SPRING] TV: マイホームヒーロー
   // https://annict.com/works/9719
-  { annict_id: 9719, mal_id: 52092 },
+  { annict_id: 9719, mal_id: 52092, syobocal_tid: 6670 },
   // [2022-AUTUMN] TV: SPY×FAMILY 第2クール
   // https://annict.com/works/9720
   { annict_id: 9720, mal_id: 50602, syobocal_tid: 6451 },
