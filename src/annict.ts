@@ -29266,7 +29266,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10255 },
   // [2022-AUTUMN] WEB: DIALOGUE＋「1000万回ハグなんだ」アニメーション Music Video
   // https://annict.com/works/10256
-  { annict_id: 10256 },
+  { annict_id: 10256, mal_id: 53917 },
   // [2022-AUTUMN] WEB: これでバッチリ！スマホデビューへの道！
   // https://annict.com/works/10257
   { annict_id: 10257 },
@@ -30262,7 +30262,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10588, mal_id: 54758 },
   // [null-null] OTHER: 3年Z組銀八先生
   // https://annict.com/works/10589
-  { annict_id: 10589 },
+  { annict_id: 10589, mal_id: 54757 },
   // [2023-SUMMER] TV: ライザのアトリエ ～常闇の女王と秘密の隠れ家～
   // https://annict.com/works/10590
   { annict_id: 10590, mal_id: 54760 },
