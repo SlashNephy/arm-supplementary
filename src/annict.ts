@@ -30259,16 +30259,16 @@ export const annict: ArmEntry[] = [
   { annict_id: 10587, mal_id: 54754 },
   // [2024-SPRING] TV: アイドルマスター シャイニーカラーズ
   // https://annict.com/works/10588
-  { annict_id: 10588 },
+  { annict_id: 10588, mal_id: 54758 },
   // [null-null] OTHER: 3年Z組銀八先生
   // https://annict.com/works/10589
   { annict_id: 10589 },
   // [2023-SUMMER] TV: ライザのアトリエ ～常闇の女王と秘密の隠れ家～
   // https://annict.com/works/10590
-  { annict_id: 10590 },
+  { annict_id: 10590, mal_id: 54760 },
   // [null-null] TV: 逃げ上手の若君
   // https://annict.com/works/10591
-  { annict_id: 10591 },
+  { annict_id: 10591, mal_id: 54724 },
   // [2021-AUTUMN] WEB: 洒落どる パイロットフィルム
   // https://annict.com/works/10592
   { annict_id: 10592, mal_id: 50136 },
