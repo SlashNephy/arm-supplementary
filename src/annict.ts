@@ -30278,4 +30278,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] TV: しゅわわん！
   // https://annict.com/works/10594
   { annict_id: 10594, syobocal_tid: 6675 },
+  // [2023-AUTUMN] MOVIE: 窓ぎわのトットちゃん
+  // https://annict.com/works/10595
+  { annict_id: 10595 },
 ]
