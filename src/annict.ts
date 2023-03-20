@@ -30284,4 +30284,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 想星のアクエリオン Myth of Emotions
   // https://annict.com/works/10596
   { annict_id: 10596, mal_id: 54769 },
+  // [2023-SPRING] TV: おしりたんてい (第7シリーズ)
+  // https://annict.com/works/10597
+  { annict_id: 10597 },
 ]
