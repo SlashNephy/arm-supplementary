@@ -20464,7 +20464,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6931, mal_id: 40356, syobocal_tid: 6321 },
   // [null-null] TV: 盾の勇者の成り上がり 第3期
   // https://annict.com/works/6932
-  { annict_id: 6932 },
+  { annict_id: 6932, mal_id: 40357 },
   // [2019-SUMMER] TV: カードファイト!! ヴァンガード (新右衛門編)
   // https://annict.com/works/6933
   { annict_id: 6933, mal_id: 40167, syobocal_tid: 5409 },
