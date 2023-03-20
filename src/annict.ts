@@ -30272,4 +30272,10 @@ export const annict: ArmEntry[] = [
   // [2021-AUTUMN] WEB: 洒落どる パイロットフィルム
   // https://annict.com/works/10592
   { annict_id: 10592, mal_id: 50136 },
+  // [2023-WINTER] TV: ハートカクテル カラフル
+  // https://annict.com/works/10593
+  { annict_id: 10593, syobocal_tid: 6674 },
+  // [2023-WINTER] TV: しゅわわん！
+  // https://annict.com/works/10594
+  { annict_id: 10594, syobocal_tid: 6675 },
 ]
