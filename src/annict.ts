@@ -30296,4 +30296,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] MOVIE: 長ぐつをはいたネコと9つの命
   // https://annict.com/works/10600
   { annict_id: 10600 },
+  // [2023-SPRING] TV: 魔術士オーフェンはぐれ旅 聖域編
+  // https://annict.com/works/10601
+  { annict_id: 10601, mal_id: 54738, syobocal_tid: 6685 },
 ]
