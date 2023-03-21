@@ -30287,4 +30287,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: おしりたんてい (第7シリーズ)
   // https://annict.com/works/10597
   { annict_id: 10597 },
+  // [2023-WINTER] WEB: 667通のラブレター
+  // https://annict.com/works/10598
+  { annict_id: 10598 },
 ]
