@@ -30178,7 +30178,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10560, mal_id: 4874 },
   // [2023-SPRING] TV: でんでんの電脳電車
   // https://annict.com/works/10561
-  { annict_id: 10561 },
+  { annict_id: 10561, syobocal_tid: 6665 },
   // [2023-SPRING] TV: デュエル・マスターズ WIN 決闘学園編（デュエル・ウォーズ）
   // https://annict.com/works/10562
   { annict_id: 10562, syobocal_tid: 6682 },
