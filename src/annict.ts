@@ -30290,4 +30290,10 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] WEB: 667通のラブレター
   // https://annict.com/works/10598
   { annict_id: 10598 },
+  // [2012-WINTER] MOVIE: 長ぐつをはいたネコ
+  // https://annict.com/works/10599
+  { annict_id: 10599 },
+  // [2023-WINTER] MOVIE: 長ぐつをはいたネコと9つの命
+  // https://annict.com/works/10600
+  { annict_id: 10600 },
 ]
