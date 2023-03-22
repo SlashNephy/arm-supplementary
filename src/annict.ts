@@ -26261,7 +26261,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] TV: 東京リベンジャーズ 聖夜決戦編
   // https://annict.com/works/9220
   { annict_id: 9220, mal_id: 50608, syobocal_tid: 6564 },
-  // [2023-null] TV: るろうに剣心 -明治剣客浪漫譚-(2023年)
+  // [2023-SUMMER] TV: るろうに剣心 -明治剣客浪漫譚-(2023年)
   // https://annict.com/works/9221
   { annict_id: 9221, mal_id: 50613 },
   // [2023-WINTER] TV: 吸血鬼すぐ死ぬ2
