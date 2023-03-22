@@ -29248,7 +29248,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10249, mal_id: 53881 },
   // [2023-WINTER] TV: 「FLAGLIA」～なつやすみの物語～
   // https://annict.com/works/10250
-  { annict_id: 10250, mal_id: 53424 },
+  { annict_id: 10250, mal_id: 53424, syobocal_tid: 6617 },
   // [2023-null] TV: 道産子ギャルはなまらめんこい
   // https://annict.com/works/10251
   { annict_id: 10251 },
