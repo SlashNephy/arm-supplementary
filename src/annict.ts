@@ -23519,7 +23519,7 @@ export const annict: ArmEntry[] = [
   // [2022-WINTER] TV: ドールズフロントライン
   // https://annict.com/works/8176
   { annict_id: 8176, mal_id: 46604, syobocal_tid: 6225 },
-  // [2023-SPRING] TV: Dr.STONE NEW WORLD [第3期]
+  // [2023-SPRING] TV: Dr.STONE NEW WORLD
   // https://annict.com/works/8177
   { annict_id: 8177, mal_id: 48549, syobocal_tid: 6667 },
   // [2022-SPRING] MOVIE: 映画 五等分の花嫁
