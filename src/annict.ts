@@ -27277,7 +27277,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9591, mal_id: 4459, syobocal_tid: 454 },
   // [2023-SPRING] TV: 神無き世界のカミサマ活動
   // https://annict.com/works/9592
-  { annict_id: 9592, mal_id: 51693 },
+  { annict_id: 9592, mal_id: 51693, syobocal_tid: 6659 },
   // [2003-SPRING] TV: おじゃる丸（第6シリーズ）
   // https://annict.com/works/9593
   { annict_id: 9593, mal_id: 4459 },
@@ -27310,7 +27310,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9602, mal_id: 10629 },
   // [2023-SPRING] TV: おとなりに銀河
   // https://annict.com/works/9603
-  { annict_id: 9603, mal_id: 51705 },
+  { annict_id: 9603, mal_id: 51705, syobocal_tid: 6628 },
   // [2023-SPRING] TV: 勇者が死んだ！
   // https://annict.com/works/9604
   { annict_id: 9604, mal_id: 51706 },
@@ -30217,7 +30217,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10573 },
   // [2023-WINTER] TV: それしか ないわけ ないでしょう
   // https://annict.com/works/10574
-  { annict_id: 10574 },
+  { annict_id: 10574, syobocal_tid: 6687 },
   // [2024-WINTER] TV: SHAMAN KING FLOWERS
   // https://annict.com/works/10575
   { annict_id: 10575, mal_id: 51673 },
