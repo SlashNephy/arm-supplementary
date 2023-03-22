@@ -30311,4 +30311,16 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] OVA: マスク男子は恋したくないのに
   // https://annict.com/works/10605
   { annict_id: 10605, mal_id: 54792 },
+  // [null-null] MOVIE: 映画 ギヴン 続編
+  // https://annict.com/works/10606
+  { annict_id: 10606, mal_id: 54791 },
+  // [2024-WINTER] TV: メタリックルージュ
+  // https://annict.com/works/10607
+  { annict_id: 10607 },
+  // [2023-AUTUMN] TV: カミエラビ
+  // https://annict.com/works/10608
+  { annict_id: 10608 },
+  // [2023-WINTER] WEB: バイオ名作劇場　ふしぎの村のレオン
+  // https://annict.com/works/10609
+  { annict_id: 10609, mal_id: 54782 },
 ]
