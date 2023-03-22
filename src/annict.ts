@@ -25547,7 +25547,7 @@ export const annict: ArmEntry[] = [
   // [2022-WINTER] WEB: コタローは1人暮らし
   // https://annict.com/works/8950
   { annict_id: 8950, mal_id: 49909, syobocal_tid: 6598 },
-  // [2023-null] TV: 英雄教室
+  // [2023-SUMMER] TV: 英雄教室
   // https://annict.com/works/8951
   { annict_id: 8951, mal_id: 49894 },
   // [2023-WINTER] TV: 人間不信の冒険者たちが世界を救うようです
