@@ -27692,7 +27692,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] TV: トモちゃんは女の子！
   // https://annict.com/works/9730
   { annict_id: 9730, mal_id: 52305, syobocal_tid: 6542 },
-  // [2023-null] OTHER: 俺だけレベルアップな件
+  // [2023-WINTER] TV: 俺だけレベルアップな件
   // https://annict.com/works/9731
   { annict_id: 9731, mal_id: 52299 },
   // [2023-SPRING] TV: 彼女が公爵邸に行った理由
@@ -30299,4 +30299,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: 魔術士オーフェンはぐれ旅 聖域編
   // https://annict.com/works/10601
   { annict_id: 10601, mal_id: 54738, syobocal_tid: 6685 },
+  // [null-null] OTHER: 銀魂 3年Z組銀八先生
+  // https://annict.com/works/10602
+  { annict_id: 10602 },
 ]
