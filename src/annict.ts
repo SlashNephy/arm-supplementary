@@ -30299,7 +30299,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: 魔術士オーフェンはぐれ旅 聖域編
   // https://annict.com/works/10601
   { annict_id: 10601, mal_id: 54738, syobocal_tid: 6685 },
-  // [null-null] OTHER: 銀魂 3年Z組銀八先生
+  // [null-null] OTHER: 転生したらスライムだった件 コリウスの夢
   // https://annict.com/works/10602
   { annict_id: 10602 },
 ]
