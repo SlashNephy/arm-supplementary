@@ -30302,4 +30302,13 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 転生したらスライムだった件 コリウスの夢
   // https://annict.com/works/10602
   { annict_id: 10602 },
+  // [2023-AUTUMN] MOVIE: 大雪海のカイナ ほしのけんじゃ
+  // https://annict.com/works/10603
+  { annict_id: 10603, mal_id: 54122 },
+  // [2023-SUMMER] TV: アンデッドガール・マーダーファルス
+  // https://annict.com/works/10604
+  { annict_id: 10604, mal_id: 54790 },
+  // [2023-AUTUMN] OVA: マスク男子は恋したくないのに
+  // https://annict.com/works/10605
+  { annict_id: 10605, mal_id: 54792 },
 ]
