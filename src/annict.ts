@@ -28774,7 +28774,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10091, syobocal_tid: 6482 },
   // [2023-SPRING] TV: 東京ミュウミュウ にゅ～♡ 第2期
   // https://annict.com/works/10092
-  { annict_id: 10092, mal_id: 53097 },
+  { annict_id: 10092, mal_id: 53097, syobocal_tid: 6640 },
   // [2023-WINTER] WEB: ルパン三世VSキャッツ・アイ
   // https://annict.com/works/10093
   { annict_id: 10093, mal_id: 53109 },
