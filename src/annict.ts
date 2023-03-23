@@ -30323,4 +30323,13 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] WEB: バイオ名作劇場　ふしぎの村のレオン
   // https://annict.com/works/10609
   { annict_id: 10609, mal_id: 54782 },
+  // [2023-SPRING] MOVIE: 永久少年 Eternal Boys 特別編集版
+  // https://annict.com/works/10610
+  { annict_id: 10610 },
+  // [2023-SPRING] MOVIE: 永久少年 Eternal Boys NEXT STAGE
+  // https://annict.com/works/10611
+  { annict_id: 10611 },
+  // [2023-SUMMER] MOVIE: SAND LAND
+  // https://annict.com/works/10612
+  { annict_id: 10612, mal_id: 53882 },
 ]
