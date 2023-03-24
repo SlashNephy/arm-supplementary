@@ -1577,7 +1577,7 @@ export const annict: ArmEntry[] = [
   // [2001-SPRING] TV: ギャラクシーエンジェル
   // https://annict.com/works/525
   { annict_id: 525, mal_id: 383, syobocal_tid: 319 },
-  // [2002-AUTUMN] TV: ギャラクシーエンジェルA
+  // [2002-AUTUMN] TV: ギャラクシーエンジェルA/AA/S
   // https://annict.com/works/526
   { annict_id: 526, mal_id: 653, syobocal_tid: 17 },
   // [2004-SUMMER] TV: ギャラクシーエンジェルX
@@ -27374,7 +27374,7 @@ export const annict: ArmEntry[] = [
   // [2022-SPRING] WEB: アンダン 〜時を超える者〜 シーズン2
   // https://annict.com/works/9624
   { annict_id: 9624 },
-  // [2023-SPRING] WEB: ウマ娘 プリティーダービー Road to the Top
+  // [2023-SPRING] WEB: ウマ娘 プリティーダービー ROAD TO THE TOP
   // https://annict.com/works/9625
   { annict_id: 9625, mal_id: 51761 },
   // [2022-SPRING] OTHER: Zombie Zoo
@@ -29200,7 +29200,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10233, mal_id: 52900 },
   // [2022-SUMMER] WEB: 聖闘士星矢: Knights of the Zodiac バトル・サンクチュアリ
   // https://annict.com/works/10234
-  { annict_id: 10234, mal_id: 52273 },
+  { annict_id: 10234, mal_id: 52273, syobocal_tid: 6609 },
   // [null-null] TV: 2.5次元の誘惑
   // https://annict.com/works/10235
   { annict_id: 10235 },
@@ -30116,7 +30116,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] TV: 聖者無双～サラリーマン、異世界で生き残るために歩む道～
   // https://annict.com/works/10540
   { annict_id: 10540, mal_id: 53263 },
-  // [2023-SPRING] TV: ポケットモンスター（2023）
+  // [2023-SPRING] TV: ポケットモンスター (2023)
   // https://annict.com/works/10541
   { annict_id: 10541 },
   // [null-null] TV: 陰の実力者になりたくて！ 2nd season
