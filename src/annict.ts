@@ -30344,4 +30344,10 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] MOVIE: ひつじのショーン スペシャル クリスマスがやってきた！
   // https://annict.com/works/10616
   { annict_id: 10616 },
+  // [null-null] OTHER: スペシャルキッド・ファクトリー
+  // https://annict.com/works/10617
+  { annict_id: 10617, mal_id: 54833 },
+  // [2024-SPRING] TV: この世界は不完全すぎる
+  // https://annict.com/works/10618
+  { annict_id: 10618, mal_id: 54835 },
 ]
