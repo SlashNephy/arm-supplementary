@@ -30356,4 +30356,10 @@ export const annict: ArmEntry[] = [
   // [2024-null] TV: 夜のクラゲは泳げない
   // https://annict.com/works/10620
   { annict_id: 10620 },
+  // [2023-SUMMER] TV: シュガーアップル・フェアリーテイル 第2クール
+  // https://annict.com/works/10621
+  { annict_id: 10621 },
+  // [2023-WINTER] OVA: にじよん あにめーしょん 新作アニメーション
+  // https://annict.com/works/10622
+  { annict_id: 10622 },
 ]
