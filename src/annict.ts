@@ -27530,7 +27530,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: この素晴らしい世界に爆焔を！
   // https://annict.com/works/9676
   { annict_id: 9676, mal_id: 51958 },
-  // [null-null] TV: Paradox Live THE ANIMATION
+  // [2023-AUTUMN] TV: Paradox Live THE ANIMATION
   // https://annict.com/works/9677
   { annict_id: 9677, mal_id: 51956 },
   // [2022-AUTUMN] TV: 僕とロボコ
