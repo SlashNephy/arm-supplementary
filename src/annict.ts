@@ -27197,7 +27197,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 望まぬ不死の冒険者
   // https://annict.com/works/9565
   { annict_id: 9565, mal_id: 51648 },
-  // [2023-SPRING] WEB: ULTRAMAN FINALシーズン
+  // [2023-SPRING] WEB: ULTRAMAN FINAL
   // https://annict.com/works/9566
   { annict_id: 9566, mal_id: 51653 },
   // [2022-SUMMER] MOVIE: アイカツ！ 10th STORY ～未来へのSTARWAY～ (2022)
