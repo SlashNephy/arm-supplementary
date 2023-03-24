@@ -30338,7 +30338,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] TV: いきものさん
   // https://annict.com/works/10614
   { annict_id: 10614 },
-  // [2023-AUTUMN] TV: キャプテン翼シーズン２ジュニアユース編
+  // [2023-AUTUMN] TV: キャプテン翼シーズン２ ジュニアユース編
   // https://annict.com/works/10615
   { annict_id: 10615, mal_id: 54803 },
 ]
