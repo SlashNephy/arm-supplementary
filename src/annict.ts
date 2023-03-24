@@ -30341,4 +30341,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: キャプテン翼シーズン２ ジュニアユース編
   // https://annict.com/works/10615
   { annict_id: 10615, mal_id: 54803 },
+  // [2022-AUTUMN] MOVIE: ひつじのショーン スペシャル クリスマスがやってきた！
+  // https://annict.com/works/10616
+  { annict_id: 10616 },
 ]
