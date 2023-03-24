@@ -30316,10 +30316,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 10606, mal_id: 54791 },
   // [2024-WINTER] TV: メタリックルージュ
   // https://annict.com/works/10607
-  { annict_id: 10607 },
+  { annict_id: 10607, mal_id: 54794 },
   // [2023-AUTUMN] TV: カミエラビ
   // https://annict.com/works/10608
-  { annict_id: 10608 },
+  { annict_id: 10608, mal_id: 54798 },
   // [2023-WINTER] WEB: バイオ名作劇場　ふしぎの村のレオン
   // https://annict.com/works/10609
   { annict_id: 10609, mal_id: 54782 },
@@ -30328,13 +30328,13 @@ export const annict: ArmEntry[] = [
   { annict_id: 10610 },
   // [2023-SPRING] MOVIE: 永久少年 Eternal Boys NEXT STAGE
   // https://annict.com/works/10611
-  { annict_id: 10611 },
+  { annict_id: 10611, mal_id: 54796 },
   // [2023-SUMMER] MOVIE: SAND LAND
   // https://annict.com/works/10612
   { annict_id: 10612, mal_id: 53882 },
   // [2024-null] TV: うる星やつら 第2期
   // https://annict.com/works/10613
-  { annict_id: 10613 },
+  { annict_id: 10613, mal_id: 54829 },
   // [2023-SUMMER] TV: いきものさん
   // https://annict.com/works/10614
   { annict_id: 10614 },
@@ -30352,10 +30352,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 10618, mal_id: 54835 },
   // [null-null] TV: 悪役令嬢レベル99～私は裏ボスですが魔王ではありません～
   // https://annict.com/works/10619
-  { annict_id: 10619 },
+  { annict_id: 10619, mal_id: 54837 },
   // [2024-null] TV: 夜のクラゲは泳げない
   // https://annict.com/works/10620
-  { annict_id: 10620 },
+  { annict_id: 10620, mal_id: 54839 },
   // [2023-SUMMER] TV: シュガーアップル・フェアリーテイル 第2クール
   // https://annict.com/works/10621
   { annict_id: 10621 },
