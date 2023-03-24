@@ -24409,7 +24409,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 8504, mal_id: 49066 },
   // [2023-SPRING] TV: 魔法少女マジカルデストロイヤーズ
   // https://annict.com/works/8505
-  { annict_id: 8505, mal_id: 48981 },
+  { annict_id: 8505, mal_id: 48981, syobocal_tid: 6671 },
   // [2020-AUTUMN] WEB: ミッキーマウスのワンダフルワールド
   // https://annict.com/works/8506
   { annict_id: 8506 },
@@ -27142,7 +27142,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9546, mal_id: 1659 },
   // [2023-SPRING] TV: 青のオーケストラ
   // https://annict.com/works/9547
-  { annict_id: 9547, mal_id: 51614 },
+  { annict_id: 9547, mal_id: 51614, syobocal_tid: 6626 },
   // [2016-WINTER] OVA: 俺がお嬢様学校に「庶民サンプル」としてゲッツされた件 ショートアニメ
   // https://annict.com/works/9548
   { annict_id: 9548, mal_id: 31797 },
@@ -30358,7 +30358,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10620, mal_id: 54839 },
   // [2023-SUMMER] TV: シュガーアップル・フェアリーテイル 第2クール
   // https://annict.com/works/10621
-  { annict_id: 10621 },
+  { annict_id: 10621, mal_id: 54842 },
   // [2023-WINTER] OVA: にじよん あにめーしょん 新作アニメーション
   // https://annict.com/works/10622
   { annict_id: 10622 },
