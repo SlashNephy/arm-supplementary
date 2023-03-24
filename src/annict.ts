@@ -22783,7 +22783,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 7900, mal_id: 46701, syobocal_tid: 6057 },
   // [2023-SPRING] TV: 地獄楽
   // https://annict.com/works/7901
-  { annict_id: 7901, mal_id: 46569 },
+  { annict_id: 7901, mal_id: 46569, syobocal_tid: 6672 },
   // [2022-AUTUMN] TV: アイドリッシュセブン Third BEAT! 第2クール
   // https://annict.com/works/7902
   { annict_id: 7902, mal_id: 46654, syobocal_tid: 6440 },
