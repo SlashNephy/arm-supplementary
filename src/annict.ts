@@ -29777,7 +29777,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 結婚指輪物語
   // https://annict.com/works/10426
   { annict_id: 10426, mal_id: 54265 },
-  // [2023-null] TV: てんぷる
+  // [2023-SUMMER] TV: てんぷる
   // https://annict.com/works/10427
   { annict_id: 10427, mal_id: 54275 },
   // [2023-AUTUMN] TV: 進撃の巨人 The Final Season 完結編（後編）
@@ -30353,4 +30353,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 悪役令嬢レベル99～私は裏ボスですが魔王ではありません～
   // https://annict.com/works/10619
   { annict_id: 10619 },
+  // [2024-null] TV: 夜のクラゲは泳げない
+  // https://annict.com/works/10620
+  { annict_id: 10620 },
 ]
