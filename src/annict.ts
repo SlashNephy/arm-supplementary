@@ -29594,7 +29594,7 @@ export const annict: ArmEntry[] = [
   // [2017-SUMMER] OVA: マウイの魚釣りチャレンジ
   // https://annict.com/works/10365
   { annict_id: 10365 },
-  // [null-null] OTHER: 16bitセンセーション
+  // [null-null] TV: 16bitセンセーション ANOTHER LAYER
   // https://annict.com/works/10366
   { annict_id: 10366, mal_id: 54041 },
   // [2023-WINTER] WEB: Fate/Grand Order 藤丸立香はわからない
@@ -29774,7 +29774,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: 機動戦士ガンダム 水星の魔女 Season2
   // https://annict.com/works/10425
   { annict_id: 10425, mal_id: 53199 },
-  // [null-null] TV: 結婚指輪物語
+  // [2024-null] TV: 結婚指輪物語
   // https://annict.com/works/10426
   { annict_id: 10426, mal_id: 54265 },
   // [2023-SUMMER] TV: てんぷる
@@ -30364,5 +30364,29 @@ export const annict: ArmEntry[] = [
   { annict_id: 10622 },
   // [2023-SUMMER] TV: ホリミヤ -piece-
   // https://annict.com/works/10623
-  { annict_id: 10623 },
+  { annict_id: 10623, mal_id: 54856 },
+  // [null-null] TV: 先輩はおとこのこ
+  // https://annict.com/works/10624
+  { annict_id: 10624, mal_id: 54855 },
+  // [2023-SPRING] WEB: ヤキトリ
+  // https://annict.com/works/10625
+  { annict_id: 10625, mal_id: 54851 },
+  // [2023-SUMMER] WEB: 大奥
+  // https://annict.com/works/10626
+  { annict_id: 10626, mal_id: 54850 },
+  // [null-null] TV: Re:ゼロから始める異世界生活 第3期
+  // https://annict.com/works/10627
+  { annict_id: 10627, mal_id: 54857 },
+  // [2023-null] MOVIE: 攻殻機動隊 SAC_2045 劇場版パート2
+  // https://annict.com/works/10628
+  { annict_id: 10628 },
+  // [2023-null] TV: 帰還者の魔法は特別です
+  // https://annict.com/works/10629
+  { annict_id: 10629, mal_id: 54852 },
+  // [null-null] TV: リンカイ！
+  // https://annict.com/works/10630
+  { annict_id: 10630 },
+  // [null-null] OTHER: 魔王2099
+  // https://annict.com/works/10631
+  { annict_id: 10631, mal_id: 54853 },
 ]
