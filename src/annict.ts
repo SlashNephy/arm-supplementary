@@ -30401,4 +30401,10 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: TRIGUN STAMPEDE シリーズ完結編
   // https://annict.com/works/10635
   { annict_id: 10635 },
+  // [null-null] TV: ブルーロック TVシリーズ第2期
+  // https://annict.com/works/10636
+  { annict_id: 10636 },
+  // [null-null] MOVIE: 劇場版ブルーロック　-EPISODE 凪-
+  // https://annict.com/works/10637
+  { annict_id: 10637 },
 ]
