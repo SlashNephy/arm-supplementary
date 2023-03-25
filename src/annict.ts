@@ -30395,4 +30395,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 『ヒプノシスマイク-Division Rap Battle-』Rhyme Anima ＋
   // https://annict.com/works/10633
   { annict_id: 10633, mal_id: 54858 },
+  // [null-null] TV: 僕のヒーローアカデミア (第7期)
+  // https://annict.com/works/10634
+  { annict_id: 10634 },
 ]
