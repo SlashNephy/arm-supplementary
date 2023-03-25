@@ -30385,11 +30385,14 @@ export const annict: ArmEntry[] = [
   { annict_id: 10629, mal_id: 54852 },
   // [null-null] TV: リンカイ！
   // https://annict.com/works/10630
-  { annict_id: 10630 },
+  { annict_id: 10630, mal_id: 54859 },
   // [null-null] OTHER: 魔王2099
   // https://annict.com/works/10631
   { annict_id: 10631, mal_id: 54853 },
   // [2023-WINTER] TV: さみしいあなた
   // https://annict.com/works/10632
   { annict_id: 10632, syobocal_tid: 6615 },
+  // [null-null] TV: 『ヒプノシスマイク-Division Rap Battle-』Rhyme Anima ＋
+  // https://annict.com/works/10633
+  { annict_id: 10633, mal_id: 54858 },
 ]
