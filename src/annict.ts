@@ -30362,4 +30362,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] OVA: にじよん あにめーしょん 新作アニメーション
   // https://annict.com/works/10622
   { annict_id: 10622 },
+  // [2023-SUMMER] TV: ホリミヤ -piece-
+  // https://annict.com/works/10623
+  { annict_id: 10623 },
 ]
