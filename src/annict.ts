@@ -28625,7 +28625,7 @@ export const annict: ArmEntry[] = [
   // [2022-SUMMER] WEB: CINDERELLA GIRLS 10th Anniversary Celebration Animation 「ETERNITY MEMORIES」
   // https://annict.com/works/10041
   { annict_id: 10041, mal_id: 51234 },
-  // [2023-null] TV: アンデッドアンラック
+  // [2023-AUTUMN] TV: アンデッドアンラック
   // https://annict.com/works/10042
   { annict_id: 10042, mal_id: 52741 },
   // [2006-SPRING] TV: アクビガール
@@ -28742,9 +28742,9 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] TV: 彼女、お借りします 第3期
   // https://annict.com/works/10081
   { annict_id: 10081, mal_id: 53050 },
-  // [null-null] TV: カノジョも彼女 第2期
+  // [2023-AUTUMN] TV: カノジョも彼女 第2期
   // https://annict.com/works/10082
-  { annict_id: 10082 },
+  { annict_id: 10082, mal_id: 53040 },
   // [null-null] OTHER: 『原神』アニメ
   // https://annict.com/works/10083
   { annict_id: 10083 },
@@ -30397,5 +30397,8 @@ export const annict: ArmEntry[] = [
   { annict_id: 10633, mal_id: 54858 },
   // [null-null] TV: 僕のヒーローアカデミア (第7期)
   // https://annict.com/works/10634
-  { annict_id: 10634 },
+  { annict_id: 10634, mal_id: 54789 },
+  // [null-null] TV: TRIGUN STAMPEDE シリーズ完結編
+  // https://annict.com/works/10635
+  { annict_id: 10635 },
 ]

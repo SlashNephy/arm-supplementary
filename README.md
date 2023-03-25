@@ -42,13 +42,13 @@ Currently, arm-supplementary has 34972 entries (+6879).
 
 | Service                                     | arm-supplementary | arm / anime-offline-database |
 | :------------------------------------------ | :---------------: | :--------------------------: |
-| [Annict](https://annict.com)                |   10132 (+200)    |             9932             |
-| [AniList](https://anilist.co)               |   20645 (+2100)   |            18545             |
-| [MyAnimeList](https://myanimelist.net)      |   24502 (+420)    |            24082             |
+| [Annict](https://annict.com)                |   10133 (+201)    |             9932             |
+| [AniList](https://anilist.co)               |   20646 (+2101)   |            18545             |
+| [MyAnimeList](https://myanimelist.net)      |   24503 (+421)    |            24082             |
 | [しょぼいカレンダー](https://cal.syoboi.jp) |    5596 (+80)     |             5516             |
-| [AniDB](https://anidb.net)                  |   12872 (+132)    |            12740             |
-| [Anime-Planet](https://anime-planet.com)    |   22563 (+131)    |            22432             |
-| [aniSearch](https://anisearch.com)          |   17766 (+138)    |            17628             |
-| [Kitsu](https://kitsu.io)                   |   18883 (+141)    |            18742             |
-| [LiveChart.me](https://livechart.me)        |   10603 (+120)    |            10483             |
+| [AniDB](https://anidb.net)                  |   12873 (+133)    |            12740             |
+| [Anime-Planet](https://anime-planet.com)    |   22564 (+132)    |            22432             |
+| [aniSearch](https://anisearch.com)          |   17767 (+139)    |            17628             |
+| [Kitsu](https://kitsu.io)                   |   18884 (+142)    |            18742             |
+| [LiveChart.me](https://livechart.me)        |   10604 (+121)    |            10483             |
 | [Anime Notifier](https://notify.moe)        |   15796 (+138)    |            15658             |
