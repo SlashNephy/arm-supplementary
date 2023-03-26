@@ -28795,7 +28795,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10098, mal_id: 53129 },
   // [null-null] MOVIE: 青春ブタ野郎はランドセルガールの夢を見ない
   // https://annict.com/works/10099
-  { annict_id: 10099 },
+  { annict_id: 10099, mal_id: 54870 },
   // [null-null] MOVIE: アイゼンフリューゲル
   // https://annict.com/works/10100
   { annict_id: 10100 },
