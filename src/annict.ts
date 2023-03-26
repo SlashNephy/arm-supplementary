@@ -26207,7 +26207,7 @@ export const annict: ArmEntry[] = [
   // [2023-null] TV: 豚のレバーは加熱しろ
   // https://annict.com/works/9202
   { annict_id: 9202, mal_id: 50583 },
-  // [null-null] OTHER: ミギとダリ
+  // [null-null] TV: ミギとダリ
   // https://annict.com/works/9203
   { annict_id: 9203, mal_id: 50586 },
   // [2023-WINTER] MOVIE: グリッドマン ユニバース
@@ -27772,7 +27772,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9756, mal_id: 52461, syobocal_tid: 6543 },
   // [2023-SUMMER] TV: ダークギャザリング
   // https://annict.com/works/9757
-  { annict_id: 9757 },
+  { annict_id: 9757, mal_id: 52505 },
   // [2022-SUMMER] WEB: 兄に付ける薬はない！5 -快把我哥帯走5-
   // https://annict.com/works/9758
   { annict_id: 9758, mal_id: 49599, syobocal_tid: 6424 },
