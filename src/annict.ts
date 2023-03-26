@@ -25208,7 +25208,7 @@ export const annict: ArmEntry[] = [
   // [2022-WINTER] TV: 幻想三國誌 -天元霊心記-
   // https://annict.com/works/8804
   { annict_id: 8804, mal_id: 49514, syobocal_tid: 6105 },
-  // [null-null] MOVIE: 『デジモンアドベンチャー02』新作映画
+  // [2023-AUTUMN] MOVIE: デジモンアドベンチャー02 THE BEGINNING
   // https://annict.com/works/8805
   { annict_id: 8805, mal_id: 49523 },
   // [2022-WINTER] MOVIE: 魔神英雄伝ワタル 七魂の龍神丸 -再会-
@@ -30407,4 +30407,7 @@ export const annict: ArmEntry[] = [
   // [null-null] MOVIE: 劇場版ブルーロック　-EPISODE 凪-
   // https://annict.com/works/10637
   { annict_id: 10637 },
+  // [2023-null] WEB: GAMERA -Rebirth-
+  // https://annict.com/works/10638
+  { annict_id: 10638, mal_id: 53627 },
 ]
