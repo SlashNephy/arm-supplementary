@@ -26048,7 +26048,7 @@ export const annict: ArmEntry[] = [
   // [2022-SPRING] TV: インセクトランド
   // https://annict.com/works/9117
   { annict_id: 9117, mal_id: 50600, syobocal_tid: 6304 },
-  // [2023-null] TV: 魔都精兵のスレイブ
+  // [2024-WINTER] TV: 魔都精兵のスレイブ
   // https://annict.com/works/9118
   { annict_id: 9118, mal_id: 50392 },
   // [2022-WINTER] WEB: 私ときどきレッサーパンダ
