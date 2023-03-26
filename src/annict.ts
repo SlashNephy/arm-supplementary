@@ -28784,7 +28784,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] TV: アニメ ボス・ベイビー シーズン2
   // https://annict.com/works/10095
   { annict_id: 10095, syobocal_tid: 6496 },
-  // [null-null] TV: ATRI -My Dear Moments-
+  // [2024-null] TV: ATRI -My Dear Moments-
   // https://annict.com/works/10096
   { annict_id: 10096, mal_id: 53128 },
   // [2023-SUMMER] TV: Fate/strange Fake -Whispers of Dawn-
