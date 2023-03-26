@@ -19517,7 +19517,7 @@ export const annict: ArmEntry[] = [
   // [2019-AUTUMN] MOVIE: 空の青さを知る人よ
   // https://annict.com/works/6549
   { annict_id: 6549, mal_id: 39569, syobocal_tid: 5447 },
-  // [2020-SUMMER] TV: Re:ゼロから始める異世界生活 2ndシーズン
+  // [2020-SUMMER] TV: Re:ゼロから始める異世界生活 2nd season
   // https://annict.com/works/6582
   { annict_id: 6582, mal_id: 39587, syobocal_tid: 5697 },
   // [2019-SPRING] TV: 『続・終物語』&『<物語> シリーズ』セレクション
@@ -21896,7 +21896,7 @@ export const annict: ArmEntry[] = [
   // [2020-SPRING] TV: ステイングベイビーズ
   // https://annict.com/works/7540
   { annict_id: 7540, syobocal_tid: 5696 },
-  // [2021-WINTER] TV: Re:ゼロから始める異世界生活 2ndシーズン 第2部
+  // [2021-WINTER] TV: Re:ゼロから始める異世界生活 2nd season 第2部
   // https://annict.com/works/7541
   { annict_id: 7541, mal_id: 42203, syobocal_tid: 5857 },
   // [2020-AUTUMN] MOVIE: 劇場版 BEM ～BECOME HUMAN～
@@ -27440,7 +27440,7 @@ export const annict: ArmEntry[] = [
   // [2005-SUMMER] MOVIE: マリといた夏
   // https://annict.com/works/9646
   { annict_id: 9646, mal_id: 2133 },
-  // [2023-null] TV: 七つの大罪 黙示録の四騎士
+  // [2023-AUTUMN] TV: 七つの大罪 黙示録の四騎士
   // https://annict.com/works/9647
   { annict_id: 9647, mal_id: 51794 },
   // [1977-AUTUMN] TV: 風船少女テンプルちゃん
@@ -28811,9 +28811,9 @@ export const annict: ArmEntry[] = [
   // [2006-SUMMER] MOVIE: モンスター・ハウス
   // https://annict.com/works/10104
   { annict_id: 10104 },
-  // [2023-null] TV: はたらく魔王さま！！続編
+  // [2023-SUMMER] TV: はたらく魔王さま！！2nd Season
   // https://annict.com/works/10105
-  { annict_id: 10105 },
+  { annict_id: 10105, mal_id: 53200 },
   // [2022-AUTUMN] TV: 湖池屋SDGs劇場 サスとテナ シーズン3
   // https://annict.com/works/10106
   { annict_id: 10106 },
@@ -29834,7 +29834,7 @@ export const annict: ArmEntry[] = [
   // [2021-SPRING] OVA: アクダマドライブ第6巻映像特典#12ディレクターズカット「カンゼンバン」
   // https://annict.com/works/10445
   { annict_id: 10445 },
-  // [2023-null] OTHER: AYAKA ーあやかー
+  // [2023-SUMMER] TV: AYAKA ーあやかー
   // https://annict.com/works/10446
   { annict_id: 10446, mal_id: 53428 },
   // [2024-null] TV: アクロトリップ
@@ -30374,7 +30374,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] WEB: 大奥
   // https://annict.com/works/10626
   { annict_id: 10626, mal_id: 54850 },
-  // [null-null] TV: Re:ゼロから始める異世界生活 3rdシーズン
+  // [null-null] TV: Re:ゼロから始める異世界生活 3rd season
   // https://annict.com/works/10627
   { annict_id: 10627, mal_id: 54857 },
   // [2023-null] MOVIE: 攻殻機動隊 SAC_2045 劇場版パート2
@@ -30400,13 +30400,13 @@ export const annict: ArmEntry[] = [
   { annict_id: 10634, mal_id: 54789 },
   // [null-null] TV: TRIGUN STAMPEDE シリーズ完結編
   // https://annict.com/works/10635
-  { annict_id: 10635 },
+  { annict_id: 10635, mal_id: 54863 },
   // [null-null] TV: ブルーロック TVシリーズ第2期
   // https://annict.com/works/10636
-  { annict_id: 10636 },
+  { annict_id: 10636, mal_id: 54865 },
   // [null-null] MOVIE: 劇場版ブルーロック　-EPISODE 凪-
   // https://annict.com/works/10637
-  { annict_id: 10637 },
+  { annict_id: 10637, mal_id: 54866 },
   // [2023-null] WEB: GAMERA -Rebirth-
   // https://annict.com/works/10638
   { annict_id: 10638, mal_id: 53627 },
