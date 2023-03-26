@@ -26732,7 +26732,7 @@ export const annict: ArmEntry[] = [
   // [2022-SUMMER] MOVIE: 特「刀剣乱舞-花丸-」～雪月華～ 華ノ巻
   // https://annict.com/works/9409
   { annict_id: 9409, mal_id: 47777 },
-  // [2023-null] TV: 無職転生 ～異世界行ったら本気だす～ 第2期
+  // [2023-SUMMER] TV: 無職転生 ～異世界行ったら本気だす～ 第2期
   // https://annict.com/works/9410
   { annict_id: 9410, mal_id: 51179 },
   // [1992-AUTUMN] OVA: 銀河英雄伝説外伝 黄金の翼
