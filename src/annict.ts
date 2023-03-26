@@ -28792,7 +28792,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10097, mal_id: 53127 },
   // [2023-SUMMER] MOVIE: 青春ブタ野郎はおでかけシスターの夢を見ない
   // https://annict.com/works/10098
-  { annict_id: 10098 },
+  { annict_id: 10098, mal_id: 53129 },
   // [null-null] MOVIE: 青春ブタ野郎はランドセルガールの夢を見ない
   // https://annict.com/works/10099
   { annict_id: 10099 },
@@ -29096,7 +29096,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] MOVIE: ストレンジ・ワールド/もうひとつの世界
   // https://annict.com/works/10199
   { annict_id: 10199 },
-  // [2023-SUMMER] MOVIE: ラブライブ！虹ヶ咲学園スクールアイドル同好会 NEXT SKY
+  // [2023-SUMMER] OVA: ラブライブ！虹ヶ咲学園スクールアイドル同好会 NEXT SKY
   // https://annict.com/works/10200
   { annict_id: 10200, mal_id: 53671 },
   // [2023-null] TV: ブルバスター
@@ -30410,4 +30410,13 @@ export const annict: ArmEntry[] = [
   // [2023-null] WEB: GAMERA -Rebirth-
   // https://annict.com/works/10638
   { annict_id: 10638, mal_id: 53627 },
+  // [null-null] TV: HIGH CARD season2
+  // https://annict.com/works/10639
+  { annict_id: 10639, mal_id: 54869 },
+  // [2023-null] WEB: PHOENIX: EDEN17
+  // https://annict.com/works/10640
+  { annict_id: 10640, mal_id: 53720 },
+  // [null-null] OTHER: TO BE HERO X
+  // https://annict.com/works/10641
+  { annict_id: 10641 },
 ]
