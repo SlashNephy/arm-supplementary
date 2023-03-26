@@ -28736,7 +28736,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: 葬送のフリーレン
   // https://annict.com/works/10079
   { annict_id: 10079, mal_id: 52991 },
-  // [null-null] TV: SYNDUALITY
+  // [2023-SUMMER] TV: SYNDUALITY Noir
   // https://annict.com/works/10080
   { annict_id: 10080, mal_id: 53026 },
   // [2023-SUMMER] TV: 彼女、お借りします 第3期
@@ -29255,7 +29255,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: カワイスギクライシス
   // https://annict.com/works/10252
   { annict_id: 10252, mal_id: 53163, syobocal_tid: 6627 },
-  // [2023-null] TV: SPY×FAMILY Season2
+  // [2023-AUTUMN] TV: SPY×FAMILY Season 2
   // https://annict.com/works/10253
   { annict_id: 10253, mal_id: 53887 },
   // [2023-WINTER] WEB: 極主夫道 Season2
@@ -29510,7 +29510,7 @@ export const annict: ArmEntry[] = [
   // [2020-SPRING] OVA: アンダー・ザ・シー～ぼくたち海底王国パトロール隊～
   // https://annict.com/works/10337
   { annict_id: 10337 },
-  // [2023-null] MOVIE: SPY×FAMILY劇場版
+  // [2023-AUTUMN] MOVIE: 劇場版 SPY×FAMILY CODE: White
   // https://annict.com/works/10338
   { annict_id: 10338, mal_id: 53888 },
   // [null-null] TV: 声優ラジオのウラオモテ
