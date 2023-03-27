@@ -30154,7 +30154,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10552, mal_id: 54644 },
   // [2023-SPRING] TV: 冒険大陸 アニアキングダム
   // https://annict.com/works/10553
-  { annict_id: 10553 },
+  { annict_id: 10553, syobocal_tid: 6696 },
   // [2023-null] WEB: 終末のワルキューレⅡ後編
   // https://annict.com/works/10554
   { annict_id: 10554, mal_id: 49618 },
