@@ -30422,4 +30422,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] WEB: 外見至上主義
   // https://annict.com/works/10642
   { annict_id: 10642, mal_id: 53149 },
+  // [2023-WINTER] WEB: 冬のおくりもの
+  // https://annict.com/works/10643
+  { annict_id: 10643 },
 ]
