@@ -29125,7 +29125,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10208 },
   // [null-null] OTHER: ポールプリンセス!!
   // https://annict.com/works/10209
-  { annict_id: 10209 },
+  { annict_id: 10209, mal_id: 53680 },
   // [2023-SPRING] TV: ワールドダイスター
   // https://annict.com/works/10210
   { annict_id: 10210, mal_id: 53698, syobocal_tid: 6641 },
