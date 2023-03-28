@@ -30428,4 +30428,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] TV: もののがたり 第二章
   // https://annict.com/works/10645
   { annict_id: 10645 },
+  // [2023-WINTER] WEB: 黄金の庭園：冬に積もる新年の願い
+  // https://annict.com/works/10646
+  { annict_id: 10646, mal_id: 54035 },
 ]
