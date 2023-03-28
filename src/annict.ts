@@ -29123,7 +29123,7 @@ export const annict: ArmEntry[] = [
   // [1961-SPRING] TV: 原始家族フリントストーン
   // https://annict.com/works/10208
   { annict_id: 10208 },
-  // [null-null] OTHER: ポールプリンセス!!
+  // [2022-AUTUMN] OTHER: ポールプリンセス!!
   // https://annict.com/works/10209
   { annict_id: 10209, mal_id: 53680 },
   // [2023-SPRING] TV: ワールドダイスター
