@@ -43,7 +43,7 @@
     "@slashnephy/eslint-config": "0.4.7",
     "@slashnephy/prettier-config": "0.1.16",
     "@types/node": "18.15.11",
-    "concurrently": "8.0.0",
+    "concurrently": "8.0.1",
     "eslint": "8.37.0",
     "graphql": "16.6.0",
     "prettier": "2.8.7",
