@@ -39,9 +39,7 @@ const loadArmJson = async (): Promise<ArmEntry[]> => {
   return JSON.parse(content) as ArmEntry[]
 }
 
-const indicateSign = (value: number): string => {
-  return `${value > 0 ? '+' : value < 0 ? '' : '±'}${value}`
-}
+const indicateSign = (value: number): string => `${value > 0 ? '+' : value < 0 ? '' : '±'}${value}`
 
 const generateReadme = async () => {
   const md = markdown.newBuilder()

@@ -1,4 +1,4 @@
 dist/
-graphql/*/*.ts
+graphql/*/generated/*.ts
 src/*.ts
 !src/index.ts
