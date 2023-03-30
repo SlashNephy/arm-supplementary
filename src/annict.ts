@@ -8771,7 +8771,7 @@ export const annict: ArmEntry[] = [
   // [2011-WINTER] OVA: バカとテストと召喚獣 ～祭～
   // https://annict.com/works/2932
   { annict_id: 2932, mal_id: 9471, syobocal_tid: 2145 },
-  // [1987-SUMMER] OVA: バリバリ伝説
+  // [1986-SPRING] OVA: バリバリ伝説
   // https://annict.com/works/2933
   { annict_id: 2933, mal_id: 5002 },
   // [2013-SUMMER] OVA: パパのいうことを聞きなさい！男女8人夏物語
@@ -30427,8 +30427,44 @@ export const annict: ArmEntry[] = [
   { annict_id: 10643 },
   // [2023-SUMMER] TV: もののがたり 第二章
   // https://annict.com/works/10645
-  { annict_id: 10645 },
+  { annict_id: 10645, mal_id: 54883 },
   // [2023-WINTER] WEB: 黄金の庭園：冬に積もる新年の願い
   // https://annict.com/works/10646
   { annict_id: 10646, mal_id: 54035 },
+  // [2023-SUMMER] TV: 文豪ストレイドッグス (第5期)
+  // https://annict.com/works/10647
+  { annict_id: 10647, mal_id: 54898 },
+  // [1986-SUMMER] MOVIE: アモン・サーガ
+  // https://annict.com/works/10648
+  { annict_id: 10648, mal_id: 2249 },
+  // [1987-SUMMER] MOVIE: あいつとララバイ 水曜日のシンデレラ
+  // https://annict.com/works/10649
+  { annict_id: 10649, mal_id: 14183 },
+  // [1987-SUMMER] MOVIE: バリバリ伝説(劇場版)
+  // https://annict.com/works/10650
+  { annict_id: 10650, mal_id: 12745 },
+  // [1987-AUTUMN] OVA: 真魔神伝 バトルロイヤルハイスクール
+  // https://annict.com/works/10651
+  { annict_id: 10651, mal_id: 3625 },
+  // [1943-WINTER] MOVIE: 桃太郎の海鷲
+  // https://annict.com/works/10652
+  { annict_id: 10652, mal_id: 6857 },
+  // [1979-WINTER] TV: がんばれ! ぼくらのヒット・エンド・ラン
+  // https://annict.com/works/10653
+  { annict_id: 10653, mal_id: 11593 },
+  // [1990-SUMMER] OVA: 毎日が日曜日
+  // https://annict.com/works/10654
+  { annict_id: 10654, mal_id: 2059 },
+  // [1996-SUMMER] OVA: MAZE☆爆熱時空(OVA)
+  // https://annict.com/works/10655
+  { annict_id: 10655, mal_id: 1162 },
+  // [null-null] TV: WIND BREAKER
+  // https://annict.com/works/10656
+  { annict_id: 10656 },
+  // [2022-AUTUMN] TV: キャッチ！ティニピン
+  // https://annict.com/works/10657
+  { annict_id: 10657, mal_id: 48343, syobocal_tid: 6699 },
+  // [2023-SPRING] TV: クズ悪役の自己救済システム
+  // https://annict.com/works/10658
+  { annict_id: 10658, mal_id: 38990 },
 ]
