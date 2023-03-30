@@ -1,32 +1,29 @@
+// eslint-disable-next-line import/no-unresolved
 import { GraphQLClient } from 'graphql-request'
 
 import { UserAgent } from './constant'
-import { getSdk } from '../graphql/annict/sdk'
+import { ListWorksDocument } from '../graphql/annict/generated/graphql'
 
-import type { ListWorksQuery } from '../graphql/annict/operations'
-import type { Sdk } from '../graphql/annict/sdk'
+import type { ListWorksQuery } from '../graphql/annict/generated/graphql'
 
-export const createAnnictClient = (accessToken?: string): Sdk => {
-  const client = new GraphQLClient('https://api.annict.com/graphql', {
+export const createAnnictClient = (accessToken?: string): GraphQLClient =>
+  new GraphQLClient('https://api.annict.com/graphql', {
     headers: {
       authorization: `Bearer ${accessToken}`,
       'User-Agent': UserAgent,
     },
   })
 
-  return getSdk(client)
-}
-
 export type AnnictWork = NonNullable<NonNullable<NonNullable<ListWorksQuery['searchWorks']>['nodes']>[0]>
 
-export const fetchAllAnnictWorks = async (client: Sdk): Promise<AnnictWork[]> => {
+export const fetchAllAnnictWorks = async (client: GraphQLClient): Promise<AnnictWork[]> => {
   const result: AnnictWork[] = []
   let after: string | null = null
 
-  // eslint-disable-next-line no-constant-condition,@typescript-eslint/no-unnecessary-condition
+  // eslint-disable-next-line @typescript-eslint/no-unnecessary-condition
   while (true) {
     // eslint-disable-next-line no-await-in-loop
-    const response: ListWorksQuery = await client.listWorks({
+    const response: ListWorksQuery = await client.request(ListWorksDocument, {
       after,
     })
 

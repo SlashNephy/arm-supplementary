@@ -6,17 +6,16 @@ import { fetchAnimeOfflineDatabase } from '../lib/anime-offline-database'
 
 import type { ArmEntry } from '../lib/arm'
 
-const findByPrefix = (array: string[], prefix: string): string | undefined => {
-  return array.find((x) => x.startsWith(prefix))?.replace(prefix, '')
-}
+const findByPrefix = (array: string[], prefix: string): string | undefined =>
+  array.find((x) => x.startsWith(prefix))?.replace(prefix, '')
 
 const tryParseInt = (value?: string): number | undefined => {
   if (value === undefined) {
     return undefined
   }
 
-  const num = parseInt(value)
-  return isNaN(num) ? undefined : num
+  const num = parseInt(value, 10)
+  return Number.isNaN(num) ? undefined : num
 }
 
 const animeOfflineDatabase = async () => {

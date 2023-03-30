@@ -22,7 +22,7 @@ const annict = async () => {
   for (const work of works.sort((a, b) => a.annictId - b.annictId)) {
     const entry: ArmEntry = {
       annict_id: work.annictId,
-      mal_id: work.malAnimeId !== null && work.malAnimeId !== '' ? parseInt(work.malAnimeId) : undefined,
+      mal_id: work.malAnimeId ? parseInt(work.malAnimeId, 10) : undefined,
       syobocal_tid: work.syobocalTid ?? undefined,
     }
 
