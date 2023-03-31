@@ -30424,7 +30424,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10642, mal_id: 53149 },
   // [2023-WINTER] WEB: 冬のおくりもの
   // https://annict.com/works/10643
-  { annict_id: 10643 },
+  { annict_id: 10643, mal_id: 54767 },
   // [2023-SUMMER] TV: もののがたり 第二章
   // https://annict.com/works/10645
   { annict_id: 10645, mal_id: 54883 },
