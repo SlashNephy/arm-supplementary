@@ -30460,7 +30460,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10655, mal_id: 1162 },
   // [null-null] TV: WIND BREAKER
   // https://annict.com/works/10656
-  { annict_id: 10656 },
+  { annict_id: 10656, mal_id: 54900 },
   // [2022-AUTUMN] TV: キャッチ！ティニピン
   // https://annict.com/works/10657
   { annict_id: 10657, mal_id: 48343, syobocal_tid: 6699 },
@@ -30469,8 +30469,14 @@ export const annict: ArmEntry[] = [
   { annict_id: 10658, mal_id: 38990 },
   // [null-null] OTHER: 新米オッサン冒険者、最強パーティに死ぬほど鍛えられて無敵になる。
   // https://annict.com/works/10659
-  { annict_id: 10659 },
+  { annict_id: 10659, mal_id: 54913 },
   // [2023-SPRING] TV: おじゃる丸（第26シリーズ）
   // https://annict.com/works/10660
   { annict_id: 10660, mal_id: 4459 },
+  // [null-null] OTHER: 五等分の花嫁∽
+  // https://annict.com/works/10661
+  { annict_id: 10661, mal_id: 54915 },
+  // [null-null] TV: カードキャプターさくら クリアカード編 続編
+  // https://annict.com/works/10662
+  { annict_id: 10662, mal_id: 54916 },
 ]
