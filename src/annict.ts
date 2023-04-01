@@ -23744,7 +23744,7 @@ export const annict: ArmEntry[] = [
   // [2021-WINTER] OVA: planetarian～雪圏球～
   // https://annict.com/works/8251
   { annict_id: 8251, mal_id: 40778 },
-  // [2023-null] MOVIE: ガールズ&パンツァー 最終章 第4話
+  // [2023-AUTUMN] MOVIE: ガールズ&パンツァー 最終章 第4話
   // https://annict.com/works/8252
   { annict_id: 8252, mal_id: 39167 },
   // [2021-WINTER] WEB: インビンシブル ～無敵のヒーロー～
