@@ -30467,4 +30467,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: クズ悪役の自己救済システム
   // https://annict.com/works/10658
   { annict_id: 10658, mal_id: 38990 },
+  // [null-null] OTHER: 新米オッサン冒険者、最強パーティに死ぬほど鍛えられて無敵になる。
+  // https://annict.com/works/10659
+  { annict_id: 10659 },
 ]
