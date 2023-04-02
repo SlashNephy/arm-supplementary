@@ -29276,9 +29276,9 @@ export const annict: ArmEntry[] = [
   // [2024-null] TV: 夜桜さんちの大作戦
   // https://annict.com/works/10259
   { annict_id: 10259 },
-  // [null-null] TV: 鴨乃橋ロンの禁断推理
+  // [2023-AUTUMN] TV: 鴨乃橋ロンの禁断推理
   // https://annict.com/works/10260
-  { annict_id: 10260 },
+  { annict_id: 10260, mal_id: 53879 },
   // [2022-AUTUMN] WEB: 『城郭合体オシロボッツ』ショートアニメ
   // https://annict.com/works/10261
   { annict_id: 10261 },
@@ -30479,4 +30479,10 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: カードキャプターさくら クリアカード編 続編
   // https://annict.com/works/10662
   { annict_id: 10662, mal_id: 54916 },
+  // [2023-null] OTHER: 新・やらないか
+  // https://annict.com/works/10663
+  { annict_id: 10663, mal_id: 54907 },
+  // [null-null] TV: 東京リベンジャーズ 天竺編
+  // https://annict.com/works/10664
+  { annict_id: 10664, mal_id: 54918 },
 ]
