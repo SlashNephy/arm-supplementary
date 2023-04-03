@@ -30497,4 +30497,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: ビックリメン
   // https://annict.com/works/10668
   { annict_id: 10668 },
+  // [2022-WINTER] OVA: 新劇場版 頭文字D BATTLE DIGEST
+  // https://annict.com/works/10669
+  { annict_id: 10669, mal_id: 50846 },
 ]
