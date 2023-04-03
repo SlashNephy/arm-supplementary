@@ -29123,7 +29123,7 @@ export const annict: ArmEntry[] = [
   // [1961-SPRING] TV: 原始家族フリントストーン
   // https://annict.com/works/10208
   { annict_id: 10208 },
-  // [2022-AUTUMN] OTHER: ポールプリンセス!!
+  // [2022-AUTUMN] WEB: ポールプリンセス!!
   // https://annict.com/works/10209
   { annict_id: 10209, mal_id: 53680 },
   // [2023-SPRING] TV: ワールドダイスター
@@ -30488,4 +30488,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] WEB: こうしす！EE
   // https://annict.com/works/10665
   { annict_id: 10665 },
+  // [2023-AUTUMN] MOVIE: 劇場版 ポールプリンセス!!
+  // https://annict.com/works/10666
+  { annict_id: 10666, mal_id: 54923 },
 ]
