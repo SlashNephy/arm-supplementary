@@ -30491,4 +30491,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] MOVIE: 劇場版 ポールプリンセス!!
   // https://annict.com/works/10666
   { annict_id: 10666, mal_id: 54923 },
+  // [2023-AUTUMN] TV: 婚約破棄された令嬢を拾った俺が、イケナイことを教え込む
+  // https://annict.com/works/10667
+  { annict_id: 10667, mal_id: 52934 },
 ]
