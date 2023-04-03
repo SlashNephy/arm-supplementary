@@ -30494,4 +30494,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: 婚約破棄された令嬢を拾った俺が、イケナイことを教え込む
   // https://annict.com/works/10667
   { annict_id: 10667, mal_id: 52934 },
+  // [2023-AUTUMN] TV: ビックリメン
+  // https://annict.com/works/10668
+  { annict_id: 10668 },
 ]
