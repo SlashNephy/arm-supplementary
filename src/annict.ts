@@ -30512,4 +30512,7 @@ export const annict: ArmEntry[] = [
   // [2006-AUTUMN] OVA: メーターと恐怖の火の玉
   // https://annict.com/works/10673
   { annict_id: 10673 },
+  // [2023-SUMMER] MOVIE: 劇場版 Re:STARS 〜未来へ繋ぐ2つのきらぼし〜
+  // https://annict.com/works/10674
+  { annict_id: 10674 },
 ]
