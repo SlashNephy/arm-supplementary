@@ -38,17 +38,17 @@ export const fetchArmEntries = async (): Promise<ArmEntry[]> => {
 
 ## Statistics
 
-Currently, arm-supplementary has 35057 entries (+6903).
+Currently, arm-supplementary has 35058 entries (+6904).
 
 | Service                                     | arm-supplementary | arm / anime-offline-database |
 | :------------------------------------------ | :---------------: | :--------------------------: |
-| [Annict](https://annict.com)                |   10167 (+164)    |            10003             |
-| [AniList](https://anilist.co)               |   20680 (+2083)   |            18597             |
-| [MyAnimeList](https://myanimelist.net)      |   24547 (+367)    |            24180             |
+| [Annict](https://annict.com)                |   10168 (+165)    |            10003             |
+| [AniList](https://anilist.co)               |   20681 (+2084)   |            18597             |
+| [MyAnimeList](https://myanimelist.net)      |   24548 (+368)    |            24180             |
 | [しょぼいカレンダー](https://cal.syoboi.jp) |    5566 (+29)     |             5537             |
-| [AniDB](https://anidb.net)                  |   12913 (+127)    |            12786             |
+| [AniDB](https://anidb.net)                  |   12914 (+128)    |            12786             |
 | [Anime-Planet](https://anime-planet.com)    |   22676 (+127)    |            22549             |
-| [aniSearch](https://anisearch.com)          |   17809 (+135)    |            17674             |
-| [Kitsu](https://kitsu.io)                   |   18947 (+138)    |            18809             |
+| [aniSearch](https://anisearch.com)          |   17810 (+136)    |            17674             |
+| [Kitsu](https://kitsu.io)                   |   18948 (+139)    |            18809             |
 | [LiveChart.me](https://livechart.me)        |   10662 (+115)    |            10547             |
-| [Anime Notifier](https://notify.moe)        |   15830 (+133)    |            15697             |
+| [Anime Notifier](https://notify.moe)        |   15831 (+134)    |            15697             |

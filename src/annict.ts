@@ -30503,4 +30503,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: スマーフ シーズン2
   // https://annict.com/works/10670
   { annict_id: 10670, syobocal_tid: 6698 },
+  // [2001-SUMMER] MOVIE: 鉄腕アトム～地球最後の日～
+  // https://annict.com/works/10671
+  { annict_id: 10671, mal_id: 17961 },
 ]
