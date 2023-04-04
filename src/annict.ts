@@ -30500,4 +30500,7 @@ export const annict: ArmEntry[] = [
   // [2022-WINTER] OVA: 新劇場版 頭文字D BATTLE DIGEST
   // https://annict.com/works/10669
   { annict_id: 10669, mal_id: 50846 },
+  // [2023-SPRING] TV: スマーフ シーズン2
+  // https://annict.com/works/10670
+  { annict_id: 10670, syobocal_tid: 6698 },
 ]
