@@ -2720,7 +2720,7 @@ export const annict: ArmEntry[] = [
   // [2012-SPRING] TV: ジュエルペット きら☆デコッ！
   // https://annict.com/works/907
   { annict_id: 907, mal_id: 12963, syobocal_tid: 2496 },
-  // [2010-SPRING] TV: ジュエルペット てぃんくる
+  // [2010-SPRING] TV: ジュエルペット てぃんくる☆
   // https://annict.com/works/908
   { annict_id: 908, mal_id: 8217, syobocal_tid: 1905 },
   // [2011-SPRING] TV: ジュエルペット サンシャイン
@@ -30509,4 +30509,7 @@ export const annict: ArmEntry[] = [
   // [1999-SUMMER] MOVIE: 鉄腕アトム 青騎士の巻
   // https://annict.com/works/10672
   { annict_id: 10672, mal_id: 17965 },
+  // [2006-AUTUMN] OVA: メーターと恐怖の火の玉
+  // https://annict.com/works/10673
+  { annict_id: 10673 },
 ]
