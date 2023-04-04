@@ -20000,7 +20000,7 @@ export const annict: ArmEntry[] = [
   // [2019-SPRING] WEB: トランスフォーマー サイバーバース
   // https://annict.com/works/6743
   { annict_id: 6743 },
-  // [2022-null] MOVIE: 君たちはどう生きるか
+  // [2023-SUMMER] MOVIE: 君たちはどう生きるか
   // https://annict.com/works/6745
   { annict_id: 6745, mal_id: 36699 },
   // [2021-WINTER] WEB: ぶらどらぶ
