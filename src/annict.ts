@@ -30506,4 +30506,7 @@ export const annict: ArmEntry[] = [
   // [2001-SUMMER] MOVIE: 鉄腕アトム～地球最後の日～
   // https://annict.com/works/10671
   { annict_id: 10671, mal_id: 17961 },
+  // [1999-SUMMER] MOVIE: 鉄腕アトム 青騎士の巻
+  // https://annict.com/works/10672
+  { annict_id: 10672, mal_id: 17965 },
 ]
