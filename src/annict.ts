@@ -30515,4 +30515,10 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] MOVIE: 劇場版 Re:STARS 〜未来へ繋ぐ2つのきらぼし〜
   // https://annict.com/works/10674
   { annict_id: 10674 },
+  // [2014-WINTER] MOVIE: 劇場版 プリティーリズム・オールスターセレクション プリズムショー☆ベストテン
+  // https://annict.com/works/10675
+  { annict_id: 10675, mal_id: 21707 },
+  // [2013-SUMMER] OVA: ジュエルペット てぃんくる☆ 特別編「ほほえみの虹にドッキ☆ドキ！」
+  // https://annict.com/works/10676
+  { annict_id: 10676 },
 ]
