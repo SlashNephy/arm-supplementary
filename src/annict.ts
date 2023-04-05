@@ -30524,4 +30524,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] OVA: 犬になったら好きな人に拾われた。 OVA1「ドッグプール。」
   // https://annict.com/works/10677
   { annict_id: 10677 },
+  // [2023-SPRING] OVA: 犬になったら好きな人に拾われた。 OVA2「学園祭デート。」
+  // https://annict.com/works/10678
+  { annict_id: 10678 },
 ]
