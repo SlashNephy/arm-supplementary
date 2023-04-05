@@ -30496,7 +30496,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10667, mal_id: 52934 },
   // [2023-AUTUMN] TV: ビックリメン
   // https://annict.com/works/10668
-  { annict_id: 10668 },
+  { annict_id: 10668, mal_id: 54914 },
   // [2022-WINTER] OVA: 新劇場版 頭文字D BATTLE DIGEST
   // https://annict.com/works/10669
   { annict_id: 10669, mal_id: 50846 },
@@ -30523,7 +30523,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10676 },
   // [2023-WINTER] OVA: 犬になったら好きな人に拾われた。 OVA1「ドッグプール。」
   // https://annict.com/works/10677
-  { annict_id: 10677 },
+  { annict_id: 10677, mal_id: 54225 },
   // [2023-SPRING] OVA: 犬になったら好きな人に拾われた。 OVA2「学園祭デート。」
   // https://annict.com/works/10678
   { annict_id: 10678 },
