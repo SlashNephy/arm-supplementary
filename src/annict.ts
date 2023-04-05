@@ -30521,4 +30521,7 @@ export const annict: ArmEntry[] = [
   // [2013-SUMMER] OVA: ジュエルペット てぃんくる☆ 特別編「ほほえみの虹にドッキ☆ドキ！」
   // https://annict.com/works/10676
   { annict_id: 10676 },
+  // [2023-WINTER] OVA: 犬になったら好きな人に拾われた。 OVA1「ドッグプール。」
+  // https://annict.com/works/10677
+  { annict_id: 10677 },
 ]
