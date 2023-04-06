@@ -30539,4 +30539,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] WEB: もしメタ -もし女子高生がメタバースで巫女になったら-
   // https://annict.com/works/10682
   { annict_id: 10682 },
+  // [2023-WINTER] WEB: 鶴が舞う夜に
+  // https://annict.com/works/10683
+  { annict_id: 10683 },
 ]
