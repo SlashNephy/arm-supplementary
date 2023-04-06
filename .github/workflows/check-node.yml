@@ -68,6 +68,9 @@ jobs:
           ANNICT_ACCESS_TOKEN: '${{ secrets.ANNICT_ACCESS_TOKEN }}'
           # ARM_COMMIT_SHA: 'c10d04d07eff16e3cdf6a2f2b70217ba1eb3913f'
 
+      - name: Pull
+        run: git pull
+
       - name: Push
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
