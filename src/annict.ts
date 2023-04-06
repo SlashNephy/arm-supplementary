@@ -27655,7 +27655,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9717, mal_id: 52198, syobocal_tid: 6679 },
   // [null-null] TV: デート・ア・ライブⅤ
   // https://annict.com/works/9718
-  { annict_id: 9718 },
+  { annict_id: 9718, mal_id: 52196 },
   // [2023-SPRING] TV: マイホームヒーロー
   // https://annict.com/works/9719
   { annict_id: 9719, mal_id: 52092, syobocal_tid: 6670 },

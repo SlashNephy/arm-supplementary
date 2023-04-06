@@ -43,12 +43,12 @@ Currently, arm-supplementary has 35022 entries (+6850).
 | Service                                     | arm-supplementary | arm / anime-offline-database |
 | :------------------------------------------ | :---------------: | :--------------------------: |
 | [Annict](https://annict.com)                |   10176 (+146)    |            10030             |
-| [AniList](https://anilist.co)               |   20676 (+2062)   |            18614             |
-| [MyAnimeList](https://myanimelist.net)      |   24540 (+346)    |            24194             |
+| [AniList](https://anilist.co)               |   20677 (+2063)   |            18614             |
+| [MyAnimeList](https://myanimelist.net)      |   24541 (+347)    |            24194             |
 | [しょぼいカレンダー](https://cal.syoboi.jp) |    5565 (+26)     |             5539             |
-| [AniDB](https://anidb.net)                  |   12903 (+117)    |            12786             |
-| [Anime-Planet](https://anime-planet.com)    |   22645 (+115)    |            22530             |
-| [aniSearch](https://anisearch.com)          |   17799 (+125)    |            17674             |
-| [Kitsu](https://kitsu.io)                   |   18941 (+127)    |            18814             |
-| [LiveChart.me](https://livechart.me)        |   10655 (+108)    |            10547             |
-| [Anime Notifier](https://notify.moe)        |   15821 (+124)    |            15697             |
+| [AniDB](https://anidb.net)                  |   12904 (+118)    |            12786             |
+| [Anime-Planet](https://anime-planet.com)    |   22646 (+116)    |            22530             |
+| [aniSearch](https://anisearch.com)          |   17800 (+126)    |            17674             |
+| [Kitsu](https://kitsu.io)                   |   18942 (+128)    |            18814             |
+| [LiveChart.me](https://livechart.me)        |   10656 (+109)    |            10547             |
+| [Anime Notifier](https://notify.moe)        |   15822 (+125)    |            15697             |
