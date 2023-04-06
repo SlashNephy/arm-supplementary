@@ -24314,7 +24314,7 @@ export const annict: ArmEntry[] = [
   // [1962-SUMMER] MOVIE: アラビアンナイト・シンドバッドの冒険
   // https://annict.com/works/8473
   { annict_id: 8473, mal_id: 7786 },
-  // [null-null] OVA: るろうに剣心-明治剣客浪漫譚- 新京都編
+  // [2012-WINTER] OVA: るろうに剣心-明治剣客浪漫譚- 新京都編
   // https://annict.com/works/8474
   { annict_id: 8474, mal_id: 11441 },
   // [2019-SUMMER] WEB: 永遠に12才!
@@ -26723,7 +26723,7 @@ export const annict: ArmEntry[] = [
   // [2022-SPRING] WEB: Pokémon LEGENDS アルセウス「雪ほどきし二藍」
   // https://annict.com/works/9406
   { annict_id: 9406, mal_id: 51145 },
-  // [2022-null] MOVIE: バッドガイズ
+  // [2022-AUTUMN] MOVIE: バッドガイズ
   // https://annict.com/works/9407
   { annict_id: 9407 },
   // [2022-SUMMER] MOVIE: 特「刀剣乱舞-花丸-」～雪月華～ 月ノ巻
@@ -26915,16 +26915,16 @@ export const annict: ArmEntry[] = [
   // [2022-SUMMER] TV: Engage Kiss
   // https://annict.com/works/9470
   { annict_id: 9470, mal_id: 51417, syobocal_tid: 6381 },
-  // [2022-null] MOVIE: 天神
+  // [2022-WINTER] WEB: 天神
   // https://annict.com/works/9471
   { annict_id: 9471, mal_id: 51412 },
-  // [2022-null] MOVIE: ロックンおヨネ
+  // [2022-WINTER] WEB: ロックンおヨネ
   // https://annict.com/works/9472
   { annict_id: 9472, mal_id: 51413 },
-  // [2022-null] MOVIE: 宇宙キャンパー/チッチ
+  // [2022-WINTER] WEB: 宇宙キャンパー/チッチ
   // https://annict.com/works/9473
   { annict_id: 9473, mal_id: 51414 },
-  // [2022-null] MOVIE: キラキラきらり☆
+  // [2022-WINTER] WEB: キラキラきらり☆
   // https://annict.com/works/9474
   { annict_id: 9474, mal_id: 49844 },
   // [2021-WINTER] WEB: DELIVER POLICE/西東京市デリバー警察隊
@@ -30530,4 +30530,10 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] OVA: アイドルマスター シンデレラガールズ U149 新作アニメ
   // https://annict.com/works/10679
   { annict_id: 10679 },
+  // [2023-WINTER] WEB: NICO/AGONY
+  // https://annict.com/works/10680
+  { annict_id: 10680 },
+  // [2023-WINTER] WEB: WANDER BURABURA BAKKAMU
+  // https://annict.com/works/10681
+  { annict_id: 10681 },
 ]
