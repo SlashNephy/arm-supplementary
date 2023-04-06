@@ -12389,7 +12389,7 @@ export const annict: ArmEntry[] = [
   // [2014-AUTUMN] TV: 怪盗ジョーカー
   // https://annict.com/works/4143
   { annict_id: 4143, mal_id: 24909, syobocal_tid: 3554 },
-  // [null-null] TV: スシニンジャ
+  // [2014-SUMMER] WEB: スシニンジャ
   // https://annict.com/works/4144
   { annict_id: 4144, mal_id: 25049 },
   // [2015-WINTER] TV: 暗殺教室
@@ -15434,7 +15434,7 @@ export const annict: ArmEntry[] = [
   // [2004-SUMMER] MOVIE: ピカチュウのなつまつり
   // https://annict.com/works/5173
   { annict_id: 5173, mal_id: 5845 },
-  // [null-null] TV: ピカイア!!
+  // [2017-WINTER] TV: ピカイア!!
   // https://annict.com/works/5174
   { annict_id: 5174, mal_id: 34852, syobocal_tid: 4485 },
   // [2017-WINTER] OVA: ゆゆ式 OVA
@@ -16889,7 +16889,7 @@ export const annict: ArmEntry[] = [
   // [2017-AUTUMN] MOVIE: 曇天に笑う<外伝> ～決別、犲の誓い～
   // https://annict.com/works/5664
   { annict_id: 5664, mal_id: 35086 },
-  // [null-null] MOVIE: ルパンは今も燃えているか？
+  // [2018-SUMMER] OVA: ルパンは今も燃えているか？
   // https://annict.com/works/5665
   { annict_id: 5665, mal_id: 36967 },
   // [2018-WINTER] TV: 一人之下 the outcast 羅天大醮篇
@@ -22835,7 +22835,7 @@ export const annict: ArmEntry[] = [
   // [2021-SPRING] TV: Fairy蘭丸～あなたの心お助けします～
   // https://annict.com/works/7918
   { annict_id: 7918, mal_id: 45665, syobocal_tid: 5968 },
-  // [null-null] OVA: やはり俺の青春ラブコメはまちがっている。完 OVA
+  // [2023-SPRING] OVA: やはり俺の青春ラブコメはまちがっている。完 OVA
   // https://annict.com/works/7919
   { annict_id: 7919, mal_id: 46431 },
   // [2021-SPRING] TV: オッドタクシー
