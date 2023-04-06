@@ -30536,4 +30536,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] WEB: WANDER BURABURA BAKKAMU
   // https://annict.com/works/10681
   { annict_id: 10681 },
+  // [2023-WINTER] WEB: もしメタ -もし女子高生がメタバースで巫女になったら-
+  // https://annict.com/works/10682
+  { annict_id: 10682 },
 ]
