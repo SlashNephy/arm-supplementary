@@ -20462,7 +20462,7 @@ export const annict: ArmEntry[] = [
   // [2022-SPRING] TV: 盾の勇者の成り上がり Season2
   // https://annict.com/works/6931
   { annict_id: 6931, mal_id: 40356, syobocal_tid: 6321 },
-  // [null-null] TV: 盾の勇者の成り上がり 第3期
+  // [2023-AUTUMN] TV: 盾の勇者の成り上がり Season3
   // https://annict.com/works/6932
   { annict_id: 6932, mal_id: 40357 },
   // [2019-SUMMER] TV: カードファイト!! ヴァンガード (新右衛門編)
