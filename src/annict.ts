@@ -22835,7 +22835,7 @@ export const annict: ArmEntry[] = [
   // [2021-SPRING] TV: Fairy蘭丸～あなたの心お助けします～
   // https://annict.com/works/7918
   { annict_id: 7918, mal_id: 45665, syobocal_tid: 5968 },
-  // [2023-SPRING] OVA: やはり俺の青春ラブコメはまちがっている。完 OVA
+  // [2023-SPRING] OVA: やはり俺の青春ラブコメはまちがっている。完 OVA「だから、思春期は終わらずに、青春は続いていく。」
   // https://annict.com/works/7919
   { annict_id: 7919, mal_id: 46431 },
   // [2021-SPRING] TV: オッドタクシー
