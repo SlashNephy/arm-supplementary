@@ -20405,7 +20405,7 @@ export const annict: ArmEntry[] = [
   // [2020-WINTER] OVA: ハイキュー!! 陸 VS 空
   // https://annict.com/works/6912
   { annict_id: 6912, mal_id: 40262 },
-  // [2017-SPRING] OTHER: 地下鉄に乗るっ
+  // [2017-SPRING] WEB: 地下鉄に乗るっ
   // https://annict.com/works/6913
   { annict_id: 6913, mal_id: 36888 },
   // [2020-AUTUMN] TV: A3! SEASON AUTUMN & WINTER
