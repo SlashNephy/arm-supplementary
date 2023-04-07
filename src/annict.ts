@@ -30542,4 +30542,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] WEB: 鶴が舞う夜に
   // https://annict.com/works/10683
   { annict_id: 10683 },
+  // [2023-SUMMER] TV: スパイ教室 2nd season
+  // https://annict.com/works/10684
+  { annict_id: 10684, mal_id: 54947 },
 ]
