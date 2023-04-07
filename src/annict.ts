@@ -28712,9 +28712,9 @@ export const annict: ArmEntry[] = [
   // [1998-WINTER] OVA: 沈黙の艦隊 VOYAGE 3
   // https://annict.com/works/10070
   { annict_id: 10070, mal_id: 2881 },
-  // [2023-null] TV: ティアムーン帝国物語～断頭台から始まる、姫の転生逆転ストーリー～
+  // [2023-AUTUMN] TV: ティアムーン帝国物語～断頭台から始まる、姫の転生逆転ストーリー～
   // https://annict.com/works/10071
-  { annict_id: 10071 },
+  { annict_id: 10071, mal_id: 52962 },
   // [2023-null] TV: 実は俺、最強でした？
   // https://annict.com/works/10073
   { annict_id: 10073 },
