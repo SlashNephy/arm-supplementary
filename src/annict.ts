@@ -26732,7 +26732,7 @@ export const annict: ArmEntry[] = [
   // [2022-SUMMER] MOVIE: 特「刀剣乱舞-花丸-」～雪月華～ 華ノ巻
   // https://annict.com/works/9409
   { annict_id: 9409, mal_id: 47777 },
-  // [2023-SUMMER] TV: 無職転生 ～異世界行ったら本気だす～ 第2期
+  // [2023-SUMMER] TV: 無職転生Ⅱ ～異世界行ったら本気だす～
   // https://annict.com/works/9410
   { annict_id: 9410, mal_id: 51179 },
   // [1992-AUTUMN] OVA: 銀河英雄伝説外伝 黄金の翼
@@ -29240,7 +29240,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] TV: ポケットモンスター 遥かなる青い空
   // https://annict.com/works/10247
   { annict_id: 10247, mal_id: 53873 },
-  // [null-null] OVA: アズールレーン Queen's Orders
+  // [2023-SUMMER] OVA: アズールレーン Queen's Orders
   // https://annict.com/works/10248
   { annict_id: 10248, mal_id: 49793 },
   // [null-null] TV: アークナイツ【冬隠帰路/PERISH IN FROST】
