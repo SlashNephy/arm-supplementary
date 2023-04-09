@@ -30548,4 +30548,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] WEB: 七つの大罪 怨嗟のエジンバラ 後編
   // https://annict.com/works/10685
   { annict_id: 10685, mal_id: 53911 },
+  // [2023-SUMMER] TV: BanG Dream! It's MyGO!!!!!
+  // https://annict.com/works/10686
+  { annict_id: 10686 },
 ]
