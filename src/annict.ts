@@ -14846,7 +14846,7 @@ export const annict: ArmEntry[] = [
   // [2016-AUTUMN] TV: 侍霊演武：将星乱
   // https://annict.com/works/4976
   { annict_id: 4976, mal_id: 33775, syobocal_tid: 4346 },
-  // [null-null] MOVIE: つみきのいえ
+  // [2008-AUTUMN] MOVIE: つみきのいえ
   // https://annict.com/works/4977
   { annict_id: 4977, mal_id: 5365 },
   // [2016-AUTUMN] TV: きんだーてれび
@@ -26885,7 +26885,7 @@ export const annict: ArmEntry[] = [
   // [2006-WINTER] MOVIE: 水グモもんもん
   // https://annict.com/works/9460
   { annict_id: 9460, mal_id: 4306 },
-  // [null-null] WEB: ケンガンアシュラ Part3
+  // [2023-SUMMER] WEB: ケンガンアシュラ Season2
   // https://annict.com/works/9461
   { annict_id: 9461, mal_id: 51369 },
   // [2002-AUTUMN] MOVIE: 空想の空飛ぶ機械達
@@ -30545,4 +30545,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] TV: スパイ教室 2nd season
   // https://annict.com/works/10684
   { annict_id: 10684, mal_id: 54947 },
+  // [2023-SUMMER] WEB: 七つの大罪 怨嗟のエジンバラ 後編
+  // https://annict.com/works/10685
+  { annict_id: 10685, mal_id: 53911 },
 ]
