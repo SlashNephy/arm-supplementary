@@ -24257,7 +24257,7 @@ export const annict: ArmEntry[] = [
   // [2021-SPRING] OTHER: Obey Me! スペシャルアニメ 「魔界大旅行」
   // https://annict.com/works/8454
   { annict_id: 8454 },
-  // [null-null] WEB: Obey Me!
+  // [2021-SUMMER] WEB: Obey Me!
   // https://annict.com/works/8455
   { annict_id: 8455, mal_id: 48641 },
   // [2022-SUMMER] WEB: 風都探偵
@@ -30554,4 +30554,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 疑似ハーレム
   // https://annict.com/works/10687
   { annict_id: 10687 },
+  // [2022-SUMMER] WEB: Obey Me! The Anime Season 2
+  // https://annict.com/works/10688
+  { annict_id: 10688, mal_id: 52045 },
 ]
