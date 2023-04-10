@@ -30337,7 +30337,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10613, mal_id: 54829 },
   // [2023-SUMMER] TV: いきものさん
   // https://annict.com/works/10614
-  { annict_id: 10614 },
+  { annict_id: 10614, mal_id: 54847 },
   // [2023-AUTUMN] TV: キャプテン翼シーズン２ ジュニアユース編
   // https://annict.com/works/10615
   { annict_id: 10615, mal_id: 54803 },
@@ -30550,10 +30550,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 10685, mal_id: 53911 },
   // [2023-SUMMER] TV: BanG Dream! It's MyGO!!!!!
   // https://annict.com/works/10686
-  { annict_id: 10686 },
+  { annict_id: 10686, mal_id: 54959 },
   // [null-null] TV: 疑似ハーレム
   // https://annict.com/works/10687
-  { annict_id: 10687 },
+  { annict_id: 10687, mal_id: 54968 },
   // [2022-SUMMER] WEB: Obey Me! The Anime Season 2
   // https://annict.com/works/10688
   { annict_id: 10688, mal_id: 52045 },
