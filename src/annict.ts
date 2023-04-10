@@ -15353,7 +15353,7 @@ export const annict: ArmEntry[] = [
   // [1996-SUMMER] OVA: ウルトラマン超闘士激伝
   // https://annict.com/works/5145
   { annict_id: 5145, mal_id: 17621 },
-  // [null-null] OVA: GUNDAM EVOLVE
+  // [2001-SPRING] OVA: GUNDAM EVOLVE
   // https://annict.com/works/5146
   { annict_id: 5146, mal_id: 3288 },
   // [2012-AUTUMN] MOVIE: バイオハザード ダムネーション
@@ -15608,7 +15608,7 @@ export const annict: ArmEntry[] = [
   // [2017-SPRING] MOVIE: CHAOS;CHILD SILENT SKY
   // https://annict.com/works/5231
   { annict_id: 5231, mal_id: 35315 },
-  // [null-null] OTHER: 変形少女
+  // [2017-WINTER] WEB: 変形少女
   // https://annict.com/works/5232
   { annict_id: 5232, mal_id: 35286 },
   // [2018-WINTER] TV: ラーメン大好き小泉さん
@@ -24593,7 +24593,7 @@ export const annict: ArmEntry[] = [
   // [2021-SUMMER] WEB: よしまほ
   // https://annict.com/works/8566
   { annict_id: 8566, mal_id: 48892 },
-  // [null-null] OVA: スタンドマイヒーローズ OVA
+  // [2023-SPRING] OVA: スタンドマイヒーローズ WARMTH OF MEMORIES
   // https://annict.com/works/8567
   { annict_id: 8567, mal_id: 48917 },
   // [2018-AUTUMN] MOVIE: 宇宙の法 黎明編
