@@ -16940,7 +16940,7 @@ export const annict: ArmEntry[] = [
   // [2016-WINTER] OVA: 赤髪の白雪姫 OVA「なんでもない宝物、この頁」
   // https://annict.com/works/5681
   { annict_id: 5681, mal_id: 31483 },
-  // [null-null] TV: おかしなガムボール
+  // [2011-AUTUMN] TV: おかしなガムボール
   // https://annict.com/works/5682
   { annict_id: 5682 },
   // [2013-WINTER] WEB: ヤンキーハムスター
@@ -28790,7 +28790,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] TV: Fate/strange Fake -Whispers of Dawn-
   // https://annict.com/works/10097
   { annict_id: 10097, mal_id: 53127 },
-  // [2023-SUMMER] MOVIE: 青春ブタ野郎はおでかけシスターの夢を見ない
+  // [2023-SPRING] MOVIE: 青春ブタ野郎はおでかけシスターの夢を見ない
   // https://annict.com/works/10098
   { annict_id: 10098, mal_id: 53129 },
   // [null-null] MOVIE: 青春ブタ野郎はランドセルガールの夢を見ない
