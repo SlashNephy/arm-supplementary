@@ -27376,7 +27376,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9624 },
   // [2023-SPRING] WEB: ウマ娘 プリティーダービー ROAD TO THE TOP
   // https://annict.com/works/9625
-  { annict_id: 9625, mal_id: 51761 },
+  { annict_id: 9625, mal_id: 51761, syobocal_tid: 6705 },
   // [2022-SPRING] OTHER: Zombie Zoo
   // https://annict.com/works/9626
   { annict_id: 9626 },
