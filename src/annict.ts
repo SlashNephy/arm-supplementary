@@ -17183,7 +17183,7 @@ export const annict: ArmEntry[] = [
   // [2018-SUMMER] MOVIE: ペンギン・ハイウェイ
   // https://annict.com/works/5762
   { annict_id: 5762, mal_id: 37407, syobocal_tid: 5029 },
-  // [null-null] TV: ぶっぷな毎日
+  // [2017-WINTER] TV: ぶっぷな毎日
   // https://annict.com/works/5763
   { annict_id: 5763, mal_id: 34891, syobocal_tid: 4839 },
   // [2016-AUTUMN] TV: イナズマデリバリー
@@ -22040,7 +22040,7 @@ export const annict: ArmEntry[] = [
   // [1986-AUTUMN] TV: ドリモグだァ!!
   // https://annict.com/works/7620
   { annict_id: 7620, mal_id: 6771 },
-  // [null-null] MOVIE: 風が吹くとき
+  // [1987-SUMMER] MOVIE: 風が吹くとき
   // https://annict.com/works/7621
   { annict_id: 7621 },
   // [2020-SUMMER] WEB: デカダンス 第5.5話「install」
@@ -25496,7 +25496,7 @@ export const annict: ArmEntry[] = [
   // [2021-AUTUMN] TV: ポンコツクエスト～魔王と派遣の魔物たち～ シーズン7
   // https://annict.com/works/8933
   { annict_id: 8933, mal_id: 31667, syobocal_tid: 3727 },
-  // [null-null] WEB: 女子高生と魔法のノート
+  // [2022-AUTUMN] WEB: 女子高生と魔法のノート
   // https://annict.com/works/8934
   { annict_id: 8934, mal_id: 49851 },
   // [2022-AUTUMN] TV: 新米錬金術師の店舗経営
