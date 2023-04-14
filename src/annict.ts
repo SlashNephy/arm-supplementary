@@ -26300,7 +26300,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] TV: ツンデレ悪役令嬢リーゼロッテと実況の遠藤くんと解説の小林さん
   // https://annict.com/works/9233
   { annict_id: 9233, mal_id: 50652, syobocal_tid: 6536 },
-  // [null-null] TV: 最果てのパラディン 2期
+  // [2023-AUTUMN] TV: 最果てのパラディン 鉄錆の山の王
   // https://annict.com/works/9234
   { annict_id: 9234, mal_id: 50664 },
   // [2022-AUTUMN] TV: ポプテピピック 第二シリーズ
@@ -30557,4 +30557,7 @@ export const annict: ArmEntry[] = [
   // [2022-SUMMER] WEB: Obey Me! The Anime Season 2
   // https://annict.com/works/10688
   { annict_id: 10688, mal_id: 52045 },
+  // [null-null] OTHER: 結婚するって、本当ですか
+  // https://annict.com/works/10689
+  { annict_id: 10689, mal_id: 54982 },
 ]
