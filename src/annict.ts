@@ -30560,4 +30560,19 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 結婚するって、本当ですか
   // https://annict.com/works/10689
   { annict_id: 10689, mal_id: 54982 },
+  // [2023-SPRING] MOVIE: 劇場版 Collar×Malice -deep cover- 前編
+  // https://annict.com/works/10690
+  { annict_id: 10690, mal_id: 39905 },
+  // [2023-SPRING] MOVIE: 劇場版 Collar×Malice -deep cover- 後編
+  // https://annict.com/works/10691
+  { annict_id: 10691, mal_id: 39905 },
+  // [2023-SPRING] OVA: 天地無用！ GXP パラダイス始動編
+  // https://annict.com/works/10692
+  { annict_id: 10692, mal_id: 54013 },
+  // [2023-SPRING] TV: ぼさにまる
+  // https://annict.com/works/10693
+  { annict_id: 10693, mal_id: 54630 },
+  // [2023-SPRING] TV: ユーチューニャー
+  // https://annict.com/works/10694
+  { annict_id: 10694, mal_id: 54781 },
 ]
