@@ -18959,7 +18959,7 @@ export const annict: ArmEntry[] = [
   // [2018-AUTUMN] WEB: HERO MASK
   // https://annict.com/works/6360
   { annict_id: 6360, mal_id: 38628, syobocal_tid: 5718 },
-  // [null-null] WEB: ファイトリーグ ギア・ガジェット・ジェネレーターズ
+  // [2019-WINTER] WEB: ファイトリーグ ギア・ガジェット・ジェネレーターズ
   // https://annict.com/works/6361
   { annict_id: 6361, mal_id: 38719 },
   // [2019-SPRING] TV: 八十亀ちゃんかんさつにっき
