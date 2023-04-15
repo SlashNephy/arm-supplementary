@@ -30581,4 +30581,19 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] WEB: あんさんぶるスターズ!! 追憶セレクション「エレメント」
   // https://annict.com/works/10696
   { annict_id: 10696, mal_id: 52999 },
+  // [2023-SPRING] TV: ジェノムシステム
+  // https://annict.com/works/10697
+  { annict_id: 10697 },
+  // [2023-WINTER] WEB: スペアイ SPACE IDOL
+  // https://annict.com/works/10698
+  { annict_id: 10698, mal_id: 53857 },
+  // [2023-WINTER] WEB: ブロックバスターズ
+  // https://annict.com/works/10699
+  { annict_id: 10699 },
+  // [2023-SUMMER] TV: シャドウバースF セブンシャドウズ編
+  // https://annict.com/works/10700
+  { annict_id: 10700, mal_id: 54854 },
+  // [2023-SPRING] MOVIE: 劇場版アイドリッシュセブン LIVE 4bit BEYOND THE PERiOD
+  // https://annict.com/works/10701
+  { annict_id: 10701, mal_id: 54118 },
 ]
