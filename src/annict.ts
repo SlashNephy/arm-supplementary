@@ -27569,9 +27569,9 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] MOVIE: 特別編 響け！ユーフォニアム～アンサンブルコンテスト～
   // https://annict.com/works/9689
   { annict_id: 9689, mal_id: 51995 },
-  // [null-null] OTHER: フットサルボーイズ!!!!! オリジナルショートアニメ
+  // [2022-SUMMER] OVA: フットサルボーイズ!!!!! 新規制作ショートアニメ
   // https://annict.com/works/9690
-  { annict_id: 9690 },
+  { annict_id: 9690, mal_id: 52551 },
   // [2022-SUMMER] WEB: 世界の終わりに柴犬と
   // https://annict.com/works/9691
   { annict_id: 9691 },
@@ -30299,7 +30299,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: 魔術士オーフェンはぐれ旅 聖域編
   // https://annict.com/works/10601
   { annict_id: 10601, mal_id: 54738, syobocal_tid: 6685 },
-  // [null-null] OTHER: 転生したらスライムだった件 コリウスの夢
+  // [2023-AUTUMN] OTHER: 転生したらスライムだった件 コリウスの夢
   // https://annict.com/works/10602
   { annict_id: 10602 },
   // [2023-AUTUMN] MOVIE: 大雪海のカイナ ほしのけんじゃ
@@ -30575,4 +30575,10 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: ユーチューニャー
   // https://annict.com/works/10694
   { annict_id: 10694, mal_id: 54781 },
+  // [2023-SPRING] WEB: 爆丸レジェンズ
+  // https://annict.com/works/10695
+  { annict_id: 10695 },
+  // [2023-SPRING] WEB: あんさんぶるスターズ!! 追憶セレクション「エレメント」
+  // https://annict.com/works/10696
+  { annict_id: 10696, mal_id: 52999 },
 ]
