@@ -30392,7 +30392,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] TV: さみしいあなた
   // https://annict.com/works/10632
   { annict_id: 10632, syobocal_tid: 6615 },
-  // [null-null] TV: 『ヒプノシスマイク-Division Rap Battle-』Rhyme Anima ＋
+  // [2023-AUTUMN] TV: 『ヒプノシスマイク-Division Rap Battle-』Rhyme Anima ＋
   // https://annict.com/works/10633
   { annict_id: 10633, mal_id: 54858 },
   // [null-null] TV: 僕のヒーローアカデミア (第7期)
