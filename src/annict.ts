@@ -30596,4 +30596,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] MOVIE: 劇場版アイドリッシュセブン LIVE 4bit BEYOND THE PERiOD
   // https://annict.com/works/10701
   { annict_id: 10701, mal_id: 54118 },
+  // [2023-WINTER] TV: 青のオーケストラ ５分で楽しいクラシック
+  // https://annict.com/works/10702
+  { annict_id: 10702, syobocal_tid: 6673 },
 ]
