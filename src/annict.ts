@@ -15248,7 +15248,7 @@ export const annict: ArmEntry[] = [
   // [2018-WINTER] TV: Fate/EXTRA Last Encore
   // https://annict.com/works/5110
   { annict_id: 5110, mal_id: 33047, syobocal_tid: 4832 },
-  // [null-null] TV: 恋するシロクマ
+  // [2017-WINTER] OTHER: 恋するシロクマ
   // https://annict.com/works/5111
   { annict_id: 5111, mal_id: 34535 },
   // [1996-WINTER] MOVIE: ウルトラマンカンパニー
@@ -15299,12 +15299,12 @@ export const annict: ArmEntry[] = [
   // [2014-WINTER] MOVIE: 父を探して
   // https://annict.com/works/5127
   { annict_id: 5127 },
-  // [null-null] MOVIE: TAMALA2010 a punk cat in space
+  // [2002-AUTUMN] MOVIE: TAMALA2010 a punk cat in space
   // https://annict.com/works/5128
-  { annict_id: 5128, mal_id: 8079 },
-  // [null-null] OVA: TAMALA ON PARADE
+  { annict_id: 5128, mal_id: 2033 },
+  // [2007-SUMMER] OVA: TAMALA ON PARADE
   // https://annict.com/works/5129
-  { annict_id: 5129 },
+  { annict_id: 5129, mal_id: 8079 },
   // [2016-SUMMER] TV: ガンダムビルドファイターズトライ アイランド・ウォーズ
   // https://annict.com/works/5130
   { annict_id: 5130, mal_id: 30533 },
@@ -20573,9 +20573,9 @@ export const annict: ArmEntry[] = [
   // [2020-SUMMER] TV: ピーター・グリルと賢者の時間
   // https://annict.com/works/6968
   { annict_id: 6968, mal_id: 40436, syobocal_tid: 5706 },
-  // [null-null] OVA: ナカノヒトゲノム【実況中】 新作エピソード
+  // [2020-WINTER] OVA: ナカノヒトゲノム【実況中】 GAME EX「KNOTS OF MEMORIES」
   // https://annict.com/works/6969
-  { annict_id: 6969 },
+  { annict_id: 6969, mal_id: 40460 },
   // [null-null] MOVIE: 劇場版 活撃 刀剣乱舞
   // https://annict.com/works/6970
   { annict_id: 6970, mal_id: 36419 },
