@@ -30599,4 +30599,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] TV: 青のオーケストラ ５分で楽しいクラシック
   // https://annict.com/works/10702
   { annict_id: 10702, syobocal_tid: 6673 },
+  // [null-null] TV: 真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました2nd
+  // https://annict.com/works/10703
+  { annict_id: 10703, mal_id: 53488 },
 ]
