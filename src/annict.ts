@@ -23606,7 +23606,7 @@ export const annict: ArmEntry[] = [
   // [2012-null] MOVIE: くまのアーネストおじさんとセレスティーヌ
   // https://annict.com/works/8205
   { annict_id: 8205 },
-  // [null-null] MOVIE: エセルとアーネスト ふたりの物語
+  // [2019-SUMMER] MOVIE: エセルとアーネスト ふたりの物語
   // https://annict.com/works/8206
   { annict_id: 8206 },
   // [1990-AUTUMN] OVA: THE 八犬伝
@@ -30602,4 +30602,10 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました2nd
   // https://annict.com/works/10703
   { annict_id: 10703, mal_id: 53488 },
+  // [2022-AUTUMN] MOVIE: ガディガルズ
+  // https://annict.com/works/10704
+  { annict_id: 10704 },
+  // [2023-WINTER] MOVIE: きかんしゃトーマス めざせ！夢のチャンピオンカップ
+  // https://annict.com/works/10705
+  { annict_id: 10705 },
 ]
