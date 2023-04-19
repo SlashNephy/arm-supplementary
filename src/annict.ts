@@ -30626,4 +30626,10 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] MOVIE: 兵馬俑の城
   // https://annict.com/works/10711
   { annict_id: 10711 },
+  // [2023-SPRING] TV: 七不思議がくる！
+  // https://annict.com/works/10712
+  { annict_id: 10712 },
+  // [2024-null] TV: オーイ! とんぼ
+  // https://annict.com/works/10713
+  { annict_id: 10713 },
 ]
