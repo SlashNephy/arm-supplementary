@@ -30608,4 +30608,22 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] MOVIE: きかんしゃトーマス めざせ！夢のチャンピオンカップ
   // https://annict.com/works/10705
   { annict_id: 10705 },
+  // [2023-SPRING] MOVIE: 雄獅少年／ライオン少年
+  // https://annict.com/works/10706
+  { annict_id: 10706 },
+  // [2023-SPRING] MOVIE: プチ・ニコラ パリがくれた幸せ
+  // https://annict.com/works/10707
+  { annict_id: 10707 },
+  // [2023-SPRING] MOVIE: スパイダーマン：アクロス・ザ・スパイダーバース
+  // https://annict.com/works/10708
+  { annict_id: 10708 },
+  // [2024-null] MOVIE: スパイダーマン：ビヨンド・ザ・スパイダーバース（原題）
+  // https://annict.com/works/10709
+  { annict_id: 10709 },
+  // [2023-SPRING] MOVIE: それいけ！アンパンマン ロボリィとぽかぽかプレゼント
+  // https://annict.com/works/10710
+  { annict_id: 10710 },
+  // [2023-SPRING] MOVIE: 兵馬俑の城
+  // https://annict.com/works/10711
+  { annict_id: 10711 },
 ]
