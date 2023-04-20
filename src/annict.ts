@@ -27631,7 +27631,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9709 },
   // [2023-WINTER] MOVIE: 金の国 水の国
   // https://annict.com/works/9710
-  { annict_id: 9710 },
+  { annict_id: 9710, mal_id: 52186 },
   // [2010-SPRING] TV: ザ・ペンギンズ from マダガスカル シーズン1
   // https://annict.com/works/9711
   { annict_id: 9711, syobocal_tid: 1914 },
@@ -28855,7 +28855,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10118, mal_id: 53300 },
   // [2023-WINTER] MOVIE: アイカツ！ 10th STORY ～未来へのSTARWAY～ (2023)
   // https://annict.com/works/10119
-  { annict_id: 10119 },
+  { annict_id: 10119, mal_id: 53499 },
   // [2013-SPRING] WEB: ターニングガールズ
   // https://annict.com/works/10120
   { annict_id: 10120, mal_id: 19133 },
@@ -29062,7 +29062,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10187, mal_id: 10406 },
   // [2023-SPRING] MOVIE: プリンセス・プリンシパル Crown Handler 第3章
   // https://annict.com/works/10188
-  { annict_id: 10188 },
+  { annict_id: 10188, mal_id: 41141 },
   // [2023-null] WEB: 陰陽師
   // https://annict.com/works/10189
   { annict_id: 10189, mal_id: 53151 },
@@ -29182,7 +29182,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10227, mal_id: 3488 },
   // [2023-WINTER] MOVIE: ドラえもん のび太と空の理想郷
   // https://annict.com/works/10228
-  { annict_id: 10228 },
+  { annict_id: 10228, mal_id: 52318 },
   // [null-null] TV: 戦隊大失格
   // https://annict.com/works/10229
   { annict_id: 10229 },
@@ -29206,7 +29206,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10235 },
   // [2023-SUMMER] MOVIE: しん次元！クレヨンしんちゃんTHE MOVIE 超能力大決戦 ～とべとべ手巻き寿司～
   // https://annict.com/works/10236
-  { annict_id: 10236 },
+  { annict_id: 10236, mal_id: 53810 },
   // [2023-null] TV: 私の推しは悪役令嬢。
   // https://annict.com/works/10237
   { annict_id: 10237, mal_id: 53833 },
@@ -30118,7 +30118,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10540, mal_id: 53263 },
   // [2023-SPRING] TV: ポケットモンスター (2023)
   // https://annict.com/works/10541
-  { annict_id: 10541, syobocal_tid: 6694 },
+  { annict_id: 10541, mal_id: 53876, syobocal_tid: 6694 },
   // [null-null] TV: 陰の実力者になりたくて！ 2nd season
   // https://annict.com/works/10542
   { annict_id: 10542, mal_id: 54595 },
