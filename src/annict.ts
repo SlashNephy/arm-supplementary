@@ -25973,7 +25973,7 @@ export const annict: ArmEntry[] = [
   // [2022-WINTER] TV: 時光代理人 -LINK CLICK-
   // https://annict.com/works/9092
   { annict_id: 9092, mal_id: 44074, syobocal_tid: 6242 },
-  // [2023-SPRING] WEB: 幼女社長R
+  // [2023-SUMMER] WEB: 幼女社長R
   // https://annict.com/works/9093
   { annict_id: 9093, mal_id: 53079 },
   // [2021-AUTUMN] WEB: スペースドギーズ
