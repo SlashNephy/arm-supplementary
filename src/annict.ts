@@ -29233,7 +29233,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10244, mal_id: 53850 },
   // [2023-WINTER] MOVIE: 劇場総集編 SSSS.DYNAZENON
   // https://annict.com/works/10245
-  { annict_id: 10245 },
+  { annict_id: 10245, mal_id: 53851 },
   // [2023-WINTER] TV: ポケットモンスター めざせポケモンマスター
   // https://annict.com/works/10246
   { annict_id: 10246, mal_id: 53874, syobocal_tid: 6587 },
