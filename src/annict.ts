@@ -30632,4 +30632,7 @@ export const annict: ArmEntry[] = [
   // [2024-null] TV: オーイ! とんぼ
   // https://annict.com/works/10713
   { annict_id: 10713 },
+  // [null-null] TV: 甘神さんちの縁結び
+  // https://annict.com/works/10714
+  { annict_id: 10714 },
 ]
