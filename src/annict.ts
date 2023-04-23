@@ -30634,7 +30634,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10713 },
   // [null-null] TV: 甘神さんちの縁結び
   // https://annict.com/works/10714
-  { annict_id: 10714 },
+  { annict_id: 10714, mal_id: 55071 },
   // [2012-SPRING] TV: リトル・チャロ東北編
   // https://annict.com/works/10715
   { annict_id: 10715, mal_id: 13465 },
