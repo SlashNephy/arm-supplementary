@@ -30647,4 +30647,10 @@ export const annict: ArmEntry[] = [
   // [1996-SPRING] OVA: BURN-UP W
   // https://annict.com/works/10718
   { annict_id: 10718, mal_id: 769 },
+  // [null-null] OTHER: ガールズバンドクライ
+  // https://annict.com/works/10719
+  { annict_id: 10719, mal_id: 55102 },
+  // [2024-SPRING] TV: バーテンダー 神のグラス
+  // https://annict.com/works/10720
+  { annict_id: 10720, mal_id: 53407 },
 ]
