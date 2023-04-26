@@ -30665,7 +30665,13 @@ export const annict: ArmEntry[] = [
   // [2000-WINTER] OVA: ブラック・ジャック 空からきた子ども
   // https://annict.com/works/10724
   { annict_id: 10724, mal_id: 6246 },
-  // [null-null] MOVIE: ブラック・ジャック／平安遷都
+  // [2000-AUTUMN] MOVIE: ブラック・ジャック／平安遷都
   // https://annict.com/works/10725
   { annict_id: 10725, mal_id: 10055 },
+  // [2001-SUMMER] WEB: ブラック・ジャック＜Flashアニメ＞
+  // https://annict.com/works/10726
+  { annict_id: 10726, mal_id: 7229 },
+  // [2005-AUTUMN] MOVIE: Dr.ピノコの森の冒険
+  // https://annict.com/works/10727
+  { annict_id: 10727, mal_id: 4070 },
 ]
