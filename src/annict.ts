@@ -28715,9 +28715,9 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: ティアムーン帝国物語～断頭台から始まる、姫の転生逆転ストーリー～
   // https://annict.com/works/10071
   { annict_id: 10071, mal_id: 52962 },
-  // [2023-null] TV: 実は俺、最強でした？
+  // [2023-SUMMER] TV: 実は俺、最強でした？
   // https://annict.com/works/10073
-  { annict_id: 10073 },
+  { annict_id: 10073, mal_id: 52969 },
   // [null-null] MOVIE: 劇場版 ベルサイユのばら
   // https://annict.com/works/10074
   { annict_id: 10074 },
@@ -30674,4 +30674,7 @@ export const annict: ArmEntry[] = [
   // [2005-AUTUMN] MOVIE: Dr.ピノコの森の冒険
   // https://annict.com/works/10727
   { annict_id: 10727, mal_id: 4070 },
+  // [null-null] TV: 愚かな天使は悪魔と踊る
+  // https://annict.com/works/10728
+  { annict_id: 10728, mal_id: 55129 },
 ]
