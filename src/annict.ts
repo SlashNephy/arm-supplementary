@@ -30656,4 +30656,13 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: BabyBus －ベビーバス－ (地上波)
   // https://annict.com/works/10721
   { annict_id: 10721 },
+  // [2003-AUTUMN] TV: ブラック・ジャック スペシャル～命をめぐる4つの奇跡～
+  // https://annict.com/works/10722
+  { annict_id: 10722, mal_id: 1373 },
+  // [1996-AUTUMN] MOVIE: ブラック・ジャック 劇場版
+  // https://annict.com/works/10723
+  { annict_id: 10723, mal_id: 1521 },
+  // [2000-WINTER] OVA: ブラック・ジャック 空からきた子ども
+  // https://annict.com/works/10724
+  { annict_id: 10724, mal_id: 6246 },
 ]
