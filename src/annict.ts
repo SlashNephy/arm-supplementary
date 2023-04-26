@@ -28930,7 +28930,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10143, mal_id: 53446, syobocal_tid: 6568 },
   // [2023-SUMMER] TV: 悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。
   // https://annict.com/works/10144
-  { annict_id: 10144 },
+  { annict_id: 10144, mal_id: 53438 },
   // [1961-SPRING] TV: つよいぞラフティ
   // https://annict.com/works/10145
   { annict_id: 10145 },
@@ -30677,4 +30677,10 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 愚かな天使は悪魔と踊る
   // https://annict.com/works/10728
   { annict_id: 10728, mal_id: 55129 },
+  // [2023-AUTUMN] MOVIE: 北極百貨店のコンシェルジュさん
+  // https://annict.com/works/10729
+  { annict_id: 10729, mal_id: 55115 },
+  // [2023-AUTUMN] WEB: あんさんぶるスターズ!! 追憶セレクション 「クロスロード」
+  // https://annict.com/works/10730
+  { annict_id: 10730, mal_id: 55125 },
 ]
