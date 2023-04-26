@@ -30653,4 +30653,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: バーテンダー 神のグラス
   // https://annict.com/works/10720
   { annict_id: 10720, mal_id: 53407 },
+  // [2023-SPRING] TV: BabyBus －ベビーバス－ (地上波)
+  // https://annict.com/works/10721
+  { annict_id: 10721 },
 ]
