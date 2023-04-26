@@ -30665,4 +30665,7 @@ export const annict: ArmEntry[] = [
   // [2000-WINTER] OVA: ブラック・ジャック 空からきた子ども
   // https://annict.com/works/10724
   { annict_id: 10724, mal_id: 6246 },
+  // [null-null] MOVIE: ブラック・ジャック／平安遷都
+  // https://annict.com/works/10725
+  { annict_id: 10725, mal_id: 10055 },
 ]
