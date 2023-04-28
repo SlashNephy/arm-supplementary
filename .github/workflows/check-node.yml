@@ -43,8 +43,6 @@ jobs:
 
   update:
     if: github.event_name == 'push' || github.event_name == 'schedule'
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
@@ -75,3 +73,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: '🪄 update database'
+          commit_author: 'StarryBlueSky-bot <97773209+StarryBlueSky-bot@users.noreply.github.com>'
