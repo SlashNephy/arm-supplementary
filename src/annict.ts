@@ -30689,4 +30689,13 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] MOVIE: バイオハザード: デスアイランド
   // https://annict.com/works/10732
   { annict_id: 10732, mal_id: 54398 },
+  // [2023-AUTUMN] MOVIE: 駒田蒸留所へようこそ
+  // https://annict.com/works/10733
+  { annict_id: 10733, mal_id: 55149 },
+  // [null-null] OTHER: やり直し令嬢は竜帝陛下を攻略中
+  // https://annict.com/works/10734
+  { annict_id: 10734, mal_id: 55150 },
+  // [2023-AUTUMN] TV: 柚木さんちの四兄弟。
+  // https://annict.com/works/10735
+  { annict_id: 10735, mal_id: 55153 },
 ]
