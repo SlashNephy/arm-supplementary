@@ -9788,9 +9788,9 @@ export const annict: ArmEntry[] = [
   // [1998-SPRING] MOVIE: クレヨンしんちゃん 電撃！ブタのヒヅメ大作戦
   // https://annict.com/works/3273
   { annict_id: 3273, mal_id: 8360, syobocal_tid: 5296 },
-  // [2012-SUMMER] MOVIE: グスコーブドリの伝記
+  // [2012-SUMMER] MOVIE: グスコーブドリの伝記（2012）
   // https://annict.com/works/3274
-  { annict_id: 3274, mal_id: 8450, syobocal_tid: 2504 },
+  { annict_id: 3274, mal_id: 13215, syobocal_tid: 2504 },
   // [2001-SUMMER] MOVIE: グッドモーニングコール
   // https://annict.com/works/3275
   { annict_id: 3275, mal_id: 1056 },
@@ -30698,4 +30698,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: 柚木さんちの四兄弟。
   // https://annict.com/works/10735
   { annict_id: 10735, mal_id: 55153 },
+  // [1994-SUMMER] MOVIE: グスコーブドリの伝記（1994）
+  // https://annict.com/works/10736
+  { annict_id: 10736, mal_id: 8450 },
 ]
