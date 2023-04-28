@@ -6236,7 +6236,7 @@ export const annict: ArmEntry[] = [
   // [2011-AUTUMN] TV: 真剣で私に恋しなさい！！
   // https://annict.com/works/2082
   { annict_id: 2082, mal_id: 10213, syobocal_tid: 2276 },
-  // [2004-SUMMER] TV: 舞-HiME
+  // [2004-AUTUMN] TV: 舞-HiME
   // https://annict.com/works/2083
   { annict_id: 2083, mal_id: 98, syobocal_tid: 407 },
   // [2005-AUTUMN] TV: 舞-乙HiME
@@ -23474,7 +23474,7 @@ export const annict: ArmEntry[] = [
   // [2008-SUMMER] OTHER: ゲゲゲの鬼太郎 妖怪JAPANラリー3D
   // https://annict.com/works/8161
   { annict_id: 8161, mal_id: 28103 },
-  // [2023-AUTUMN] MOVIE: 鬼太郎誕生 ゲゲゲの謎 (ゲゲゲの鬼太郎)
+  // [2023-AUTUMN] MOVIE: 鬼太郎誕生 ゲゲゲの謎
   // https://annict.com/works/8162
   { annict_id: 8162, mal_id: 48426 },
   // [2022-SPRING] TV: 史上最強の大魔王、村人Aに転生する
@@ -30683,4 +30683,10 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] WEB: あんさんぶるスターズ!! 追憶セレクション 「クロスロード」
   // https://annict.com/works/10730
   { annict_id: 10730, mal_id: 55125 },
+  // [2023-SUMMER] MOVIE: マイ・エレメント
+  // https://annict.com/works/10731
+  { annict_id: 10731 },
+  // [2023-SUMMER] MOVIE: バイオハザード: デスアイランド
+  // https://annict.com/works/10732
+  { annict_id: 10732, mal_id: 54398 },
 ]
