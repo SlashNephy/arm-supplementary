@@ -27607,7 +27607,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9701, mal_id: 52081, syobocal_tid: 6651 },
   // [2023-SUMMER] TV: 白聖女と黒牧師
   // https://annict.com/works/9702
-  { annict_id: 9702 },
+  { annict_id: 9702, mal_id: 52082 },
   // [2023-WINTER] TV: TRIGUN STAMPEDE
   // https://annict.com/works/9703
   { annict_id: 9703, mal_id: 52093, syobocal_tid: 6580 },
