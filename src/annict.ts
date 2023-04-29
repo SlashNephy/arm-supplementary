@@ -30701,4 +30701,7 @@ export const annict: ArmEntry[] = [
   // [1994-SUMMER] MOVIE: グスコーブドリの伝記（1994）
   // https://annict.com/works/10736
   { annict_id: 10736, mal_id: 8450 },
+  // [1975-WINTER] MOVIE: これがUFOだ!空飛ぶ円盤
+  // https://annict.com/works/10737
+  { annict_id: 10737, mal_id: 4250 },
 ]
