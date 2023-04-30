@@ -30719,4 +30719,7 @@ export const annict: ArmEntry[] = [
   // [2010-SPRING] OVA: "文学少女" メモワール
   // https://annict.com/works/10742
   { annict_id: 10742, mal_id: 8481 },
+  // [1985-SUMMER] MOVIE: 銀河鉄道の夜
+  // https://annict.com/works/10743
+  { annict_id: 10743, mal_id: 1441, syobocal_tid: 2385 },
 ]
