@@ -30704,4 +30704,16 @@ export const annict: ArmEntry[] = [
   // [1975-WINTER] MOVIE: これがUFOだ!空飛ぶ円盤
   // https://annict.com/works/10737
   { annict_id: 10737, mal_id: 4250 },
+  // [2022-SPRING] TV: ファンタスティック・プリズン
+  // https://annict.com/works/10738
+  { annict_id: 10738 },
+  // [2023-WINTER] WEB: KUROMI’S PRETTY JOURNEY
+  // https://annict.com/works/10739
+  { annict_id: 10739, mal_id: 54535 },
+  // [2023-SUMMER] TV: 湖池屋SDGs劇場 サスとテナ シーズン4
+  // https://annict.com/works/10740
+  { annict_id: 10740 },
+  // [2009-AUTUMN] OVA: "文学少女" 今日のおやつ 〜はつ恋〜
+  // https://annict.com/works/10741
+  { annict_id: 10741, mal_id: 7669 },
 ]
