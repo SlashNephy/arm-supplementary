@@ -30716,4 +30716,7 @@ export const annict: ArmEntry[] = [
   // [2009-AUTUMN] OVA: "文学少女" 今日のおやつ 〜はつ恋〜
   // https://annict.com/works/10741
   { annict_id: 10741, mal_id: 7669 },
+  // [2010-SPRING] OVA: "文学少女" メモワール
+  // https://annict.com/works/10742
+  { annict_id: 10742, mal_id: 8481 },
 ]
