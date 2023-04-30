@@ -30722,4 +30722,7 @@ export const annict: ArmEntry[] = [
   // [1985-SUMMER] MOVIE: 銀河鉄道の夜
   // https://annict.com/works/10743
   { annict_id: 10743, mal_id: 1441, syobocal_tid: 2385 },
+  // [1996-SUMMER] MOVIE: 賢治のトランク
+  // https://annict.com/works/10744
+  { annict_id: 10744, mal_id: 21099 },
 ]
