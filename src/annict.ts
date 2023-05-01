@@ -30782,4 +30782,49 @@ export const annict: ArmEntry[] = [
   // [1989-SPRING] OVA: 大江戸捕り物帳ねずみ小僧　らん丸あらわる！の巻
   // https://annict.com/works/10763
   { annict_id: 10763, mal_id: 29275 },
+  // [2011-SPRING] OVA: レスキューチーム メーター
+  // https://annict.com/works/10764
+  { annict_id: 10764 },
+  // [2011-SPRING] OVA: メーター ザ・スタントカー
+  // https://annict.com/works/10765
+  { annict_id: 10765 },
+  // [2011-SPRING] OVA: 闘牛士 メーター
+  // https://annict.com/works/10766
+  { annict_id: 10766 },
+  // [2009-SUMMER] MOVIE: メーターの東京レース
+  // https://annict.com/works/10767
+  { annict_id: 10767 },
+  // [2011-SPRING] OVA: UFM 未確認飛行メーター
+  // https://annict.com/works/10768
+  { annict_id: 10768 },
+  // [2011-SPRING] OVA: モンスタートラック メーター
+  // https://annict.com/works/10769
+  { annict_id: 10769 },
+  // [2011-SPRING] OVA: ヘヴィ メタル メーター
+  // https://annict.com/works/10770
+  { annict_id: 10770 },
+  // [2011-SPRING] OVA: ムーン メーター
+  // https://annict.com/works/10771
+  { annict_id: 10771 },
+  // [2011-SPRING] OVA: 名探偵 メーター
+  // https://annict.com/works/10772
+  { annict_id: 10772 },
+  // [2011-AUTUMN] OVA: 飛行機メーター
+  // https://annict.com/works/10773
+  { annict_id: 10773 },
+  // [2013-SPRING] OVA: タイムトラベル メーター
+  // https://annict.com/works/10774
+  { annict_id: 10774 },
+  // [2013-WINTER] TV: マックイーンのしゃっくり
+  // https://annict.com/works/10775
+  { annict_id: 10775 },
+  // [2013-WINTER] TV: レッドと小さな友達
+  // https://annict.com/works/10776
+  { annict_id: 10776 },
+  // [2013-WINTER] TV: グイドは看板ダンサー
+  // https://annict.com/works/10777
+  { annict_id: 10777 },
+  // [2018-AUTUMN] OVA: ラジエーター・スプリングス 500 1/2
+  // https://annict.com/works/10778
+  { annict_id: 10778 },
 ]
