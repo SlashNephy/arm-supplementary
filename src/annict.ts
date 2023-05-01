@@ -29636,7 +29636,7 @@ export const annict: ArmEntry[] = [
   // [1993-AUTUMN] OVA: サンタさんへのおくりもの
   // https://annict.com/works/10379
   { annict_id: 10379, mal_id: 18823 },
-  // [1993-AUTUMN] OVA: おかぜをひいたサンタさん
+  // [1989-null] OVA: おかぜをひいたサンタさん
   // https://annict.com/works/10380
   { annict_id: 10380, mal_id: 29537 },
   // [1992-AUTUMN] OVA: キティとダニエルのすてきなクリスマス
@@ -30725,4 +30725,46 @@ export const annict: ArmEntry[] = [
   // [1996-SUMMER] MOVIE: 賢治のトランク
   // https://annict.com/works/10744
   { annict_id: 10744, mal_id: 21099 },
+  // [1986-SUMMER] OVA: 那由他
+  // https://annict.com/works/10745
+  { annict_id: 10745, mal_id: 3480 },
+  // [1989-null] OVA: リルチルン
+  // https://annict.com/works/10746
+  { annict_id: 10746, mal_id: 35618 },
+  // [1989-null] OVA: サムちゃんのおばけなんか怖くない
+  // https://annict.com/works/10747
+  { annict_id: 10747, mal_id: 35035 },
+  // [1989-null] OVA: ハンギョドンの００７／２　ドクターサンデーあらわる
+  // https://annict.com/works/10748
+  { annict_id: 10748, mal_id: 29271 },
+  // [1989-null] OVA: サムとチップのハチャメチャ大レース
+  // https://annict.com/works/10749
+  { annict_id: 10749, mal_id: 35033 },
+  // [1994-WINTER] OVA: パティ&ジミーの君こそスーパースター!
+  // https://annict.com/works/10750
+  { annict_id: 10750, mal_id: 22609 },
+  // [1985-AUTUMN] MOVIE: 妖精フローレンス
+  // https://annict.com/works/10751
+  { annict_id: 10751, mal_id: 4943 },
+  // [1979-AUTUMN] MOVIE: 星のオルフェウス
+  // https://annict.com/works/10752
+  { annict_id: 10752, mal_id: 2876 },
+  // [1994-SPRING] OVA: マイメロディのオオカミさんにきをつけて
+  // https://annict.com/works/10753
+  { annict_id: 10753, mal_id: 50377 },
+  // [1993-SPRING] OVA: 名探偵ハンギョドン　怪盗ルーズあらわるの巻
+  // https://annict.com/works/10754
+  { annict_id: 10754, mal_id: 19705 },
+  // [1989-null] OVA: ウメ屋雑貨店　ぼくたちのひみつ
+  // https://annict.com/works/10755
+  { annict_id: 10755 },
+  // [1993-WINTER] OVA: ぽこぽんの里帰り
+  // https://annict.com/works/10756
+  { annict_id: 10756, mal_id: 35037 },
+  // [1979-SPRING] OVA: 短編ユニコ　黒い雲と白い羽
+  // https://annict.com/works/10757
+  { annict_id: 10757, mal_id: 2428 },
+  // [1989-null] OVA: たあ坊のガンバル宣言
+  // https://annict.com/works/10758
+  { annict_id: 10758, mal_id: 30284 },
 ]
