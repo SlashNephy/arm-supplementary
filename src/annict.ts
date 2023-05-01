@@ -30770,4 +30770,10 @@ export const annict: ArmEntry[] = [
   // [1992-SUMMER] OVA: ハンギョドンのパラレル大作戦　－恐竜王国は大さわぎ－
   // https://annict.com/works/10759
   { annict_id: 10759, mal_id: 29267 },
+  // [1992-AUTUMN] OVA: ハンギョドンのパラレル大作戦　－未来世界は大さわぎ－
+  // https://annict.com/works/10760
+  { annict_id: 10760, mal_id: 29269 },
+  // [1993-SPRING] OVA: ぽこぽんのキツネ川温泉へんしん合戦
+  // https://annict.com/works/10761
+  { annict_id: 10761, mal_id: 35034 },
 ]
