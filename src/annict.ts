@@ -30767,4 +30767,7 @@ export const annict: ArmEntry[] = [
   // [1989-null] OVA: たあ坊のガンバル宣言
   // https://annict.com/works/10758
   { annict_id: 10758, mal_id: 30284 },
+  // [1992-SUMMER] OVA: ハンギョドンのパラレル大作戦　－恐竜王国は大さわぎ－
+  // https://annict.com/works/10759
+  { annict_id: 10759, mal_id: 29267 },
 ]
