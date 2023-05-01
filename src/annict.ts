@@ -30776,4 +30776,10 @@ export const annict: ArmEntry[] = [
   // [1993-SPRING] OVA: ぽこぽんのキツネ川温泉へんしん合戦
   // https://annict.com/works/10761
   { annict_id: 10761, mal_id: 35034 },
+  // [1993-SPRING] OVA: エディ＆エミィのイニシャルリングは2人で
+  // https://annict.com/works/10762
+  { annict_id: 10762, mal_id: 35036 },
+  // [1989-SPRING] OVA: 大江戸捕り物帳ねずみ小僧　らん丸あらわる！の巻
+  // https://annict.com/works/10763
+  { annict_id: 10763, mal_id: 29275 },
 ]
