@@ -30833,4 +30833,7 @@ export const annict: ArmEntry[] = [
   // [2025-null] OTHER: #コンパス2.0 戦闘摂理解析システム
   // https://annict.com/works/10780
   { annict_id: 10780, mal_id: 53762 },
+  // [2023-WINTER] TV: 邪神ちゃんドロップキック【世紀末編】
+  // https://annict.com/works/10781
+  { annict_id: 10781 },
 ]
