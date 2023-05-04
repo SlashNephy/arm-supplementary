@@ -30473,7 +30473,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: おじゃる丸 (第26シリーズ)
   // https://annict.com/works/10660
   { annict_id: 10660, mal_id: 4459 },
-  // [null-null] OTHER: 五等分の花嫁∽
+  // [2023-SUMMER] MOVIE: 五等分の花嫁∽
   // https://annict.com/works/10661
   { annict_id: 10661, mal_id: 54915 },
   // [null-null] TV: カードキャプターさくら クリアカード編 続編
