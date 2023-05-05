@@ -22427,7 +22427,7 @@ export const annict: ArmEntry[] = [
   // [2021-SPRING] WEB: 極主夫道
   // https://annict.com/works/7749
   { annict_id: 7749, mal_id: 43692, syobocal_tid: 6103 },
-  // [2022-null] WEB: リラックマと遊園地
+  // [2022-SUMMER] WEB: リラックマと遊園地
   // https://annict.com/works/7750
   { annict_id: 7750, mal_id: 43694 },
   // [2022-WINTER] WEB: テルマエ・ロマエ ノヴァエ
@@ -25997,7 +25997,7 @@ export const annict: ArmEntry[] = [
   // [2023-null] WEB: ティアナ (原題)
   // https://annict.com/works/9100
   { annict_id: 9100 },
-  // [2022-null] WEB: カーズ・オン・ザ・ロード (原題)
+  // [2022-SUMMER] WEB: カーズ・オン・ザ・ロード
   // https://annict.com/works/9101
   { annict_id: 9101 },
   // [2023-null] WEB: ウィン・オア・ルーズ (原題)
@@ -30836,4 +30836,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: 邪神ちゃんドロップキック【世紀末編】
   // https://annict.com/works/10781
   { annict_id: 10781 },
+  // [2023-SPRING] WEB: べあべあべあくまーぱーんち！
+  // https://annict.com/works/10782
+  { annict_id: 10782, mal_id: 55225 },
 ]
