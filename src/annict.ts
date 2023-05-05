@@ -30622,7 +30622,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10709 },
   // [2023-SPRING] MOVIE: それいけ！アンパンマン ロボリィとぽかぽかプレゼント
   // https://annict.com/works/10710
-  { annict_id: 10710 },
+  { annict_id: 10710, mal_id: 54135 },
   // [2023-SPRING] MOVIE: 兵馬俑の城
   // https://annict.com/works/10711
   { annict_id: 10711 },
@@ -30631,7 +30631,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10712 },
   // [2024-null] TV: オーイ! とんぼ
   // https://annict.com/works/10713
-  { annict_id: 10713 },
+  { annict_id: 10713, mal_id: 55194 },
   // [null-null] TV: 甘神さんちの縁結び
   // https://annict.com/works/10714
   { annict_id: 10714, mal_id: 55071 },
@@ -30839,4 +30839,19 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] WEB: べあべあべあくまーぱーんち！
   // https://annict.com/works/10782
   { annict_id: 10782, mal_id: 55225 },
+  // [2023-SPRING] TV: 鷹の爪外伝「秘密厩舎 馬の蹄」
+  // https://annict.com/works/10783
+  { annict_id: 10783, syobocal_tid: 6710 },
+  // [2023-SUMMER] TV: 闇芝居 (11期)
+  // https://annict.com/works/10784
+  { annict_id: 10784, mal_id: 55166 },
+  // [2023-SUMMER] MOVIE: 古の王子と3つの花
+  // https://annict.com/works/10785
+  { annict_id: 10785 },
+  // [2023-AUTUMN] MOVIE: ウィッシュ
+  // https://annict.com/works/10786
+  { annict_id: 10786 },
+  // [2023-AUTUMN] TV: ドッグシグナル
+  // https://annict.com/works/10787
+  { annict_id: 10787, mal_id: 54294 },
 ]
