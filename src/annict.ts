@@ -30854,4 +30854,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: ドッグシグナル
   // https://annict.com/works/10787
   { annict_id: 10787, mal_id: 54294 },
+  // [1985-SUMMER] OVA: ダロス スペシャル
+  // https://annict.com/works/10788
+  { annict_id: 10788, mal_id: 10313 },
 ]
