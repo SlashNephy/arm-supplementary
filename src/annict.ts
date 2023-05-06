@@ -30857,4 +30857,7 @@ export const annict: ArmEntry[] = [
   // [1985-SUMMER] OVA: ダロス スペシャル
   // https://annict.com/works/10788
   { annict_id: 10788, mal_id: 10313 },
+  // [1991-SPRING] OVA: バブルガム・クラッシュ!
+  // https://annict.com/works/10789
+  { annict_id: 10789, mal_id: 1348 },
 ]
