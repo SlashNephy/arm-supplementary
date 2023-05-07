@@ -30598,7 +30598,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10701, mal_id: 54118 },
   // [2023-WINTER] TV: 青のオーケストラ ５分で楽しいクラシック
   // https://annict.com/works/10702
-  { annict_id: 10702, syobocal_tid: 6673 },
+  { annict_id: 10702, mal_id: 54771, syobocal_tid: 6673 },
   // [null-null] TV: 真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました2nd
   // https://annict.com/works/10703
   { annict_id: 10703, mal_id: 53488 },
@@ -30610,7 +30610,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10705 },
   // [2023-SPRING] MOVIE: 雄獅少年／ライオン少年
   // https://annict.com/works/10706
-  { annict_id: 10706 },
+  { annict_id: 10706, mal_id: 52769 },
   // [2023-SPRING] MOVIE: プチ・ニコラ パリがくれた幸せ
   // https://annict.com/works/10707
   { annict_id: 10707 },
@@ -30625,7 +30625,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10710, mal_id: 54135 },
   // [2023-SPRING] MOVIE: 兵馬俑の城
   // https://annict.com/works/10711
-  { annict_id: 10711 },
+  { annict_id: 10711, mal_id: 51601 },
   // [2023-SPRING] TV: 七不思議がくる！
   // https://annict.com/works/10712
   { annict_id: 10712 },
