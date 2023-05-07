@@ -30280,7 +30280,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10594, syobocal_tid: 6675 },
   // [2023-AUTUMN] MOVIE: 窓ぎわのトットちゃん
   // https://annict.com/works/10595
-  { annict_id: 10595 },
+  { annict_id: 10595, mal_id: 54764 },
   // [null-null] TV: 想星のアクエリオン Myth of Emotions
   // https://annict.com/works/10596
   { annict_id: 10596, mal_id: 54769 },
@@ -30301,7 +30301,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10601, mal_id: 54738, syobocal_tid: 6685 },
   // [2023-AUTUMN] OTHER: 転生したらスライムだった件 コリウスの夢
   // https://annict.com/works/10602
-  { annict_id: 10602 },
+  { annict_id: 10602, mal_id: 54565 },
   // [2023-AUTUMN] MOVIE: 大雪海のカイナ ほしのけんじゃ
   // https://annict.com/works/10603
   { annict_id: 10603, mal_id: 54122 },
@@ -30361,7 +30361,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10621, mal_id: 54842 },
   // [2023-WINTER] OVA: にじよん あにめーしょん 新作アニメーション
   // https://annict.com/works/10622
-  { annict_id: 10622 },
+  { annict_id: 10622, mal_id: 54117 },
   // [2023-SUMMER] TV: ホリミヤ -piece-
   // https://annict.com/works/10623
   { annict_id: 10623, mal_id: 54856 },
@@ -30520,7 +30520,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10675, mal_id: 21707 },
   // [2013-SUMMER] OVA: ジュエルペット てぃんくる☆ 特別編「ほほえみの虹にドッキ☆ドキ！」
   // https://annict.com/works/10676
-  { annict_id: 10676 },
+  { annict_id: 10676, mal_id: 19619 },
   // [2023-WINTER] OVA: 犬になったら好きな人に拾われた。 OVA1「ドッグプール。」
   // https://annict.com/works/10677
   { annict_id: 10677, mal_id: 54225 },
@@ -30860,4 +30860,7 @@ export const annict: ArmEntry[] = [
   // [1991-SPRING] OVA: バブルガム・クラッシュ!
   // https://annict.com/works/10789
   { annict_id: 10789, mal_id: 1348 },
+  // [2023-SUMMER] TV: カードファイト!! ヴァンガード will+Dress Season3
+  // https://annict.com/works/10790
+  { annict_id: 10790, mal_id: 52079 },
 ]
