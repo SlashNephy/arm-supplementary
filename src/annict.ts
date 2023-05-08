@@ -30835,7 +30835,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10780, mal_id: 53762 },
   // [2023-AUTUMN] TV: 邪神ちゃんドロップキック【世紀末編】
   // https://annict.com/works/10781
-  { annict_id: 10781 },
+  { annict_id: 10781, mal_id: 55237 },
   // [2023-SPRING] WEB: べあべあべあくまーぱーんち！
   // https://annict.com/works/10782
   { annict_id: 10782, mal_id: 55225 },
