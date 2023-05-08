@@ -30863,4 +30863,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] TV: カードファイト!! ヴァンガード will+Dress Season3
   // https://annict.com/works/10790
   { annict_id: 10790, mal_id: 52079 },
+  // [2024-null] TV: 転生貴族、鑑定スキルで成り上がる
+  // https://annict.com/works/10791
+  { annict_id: 10791 },
 ]
