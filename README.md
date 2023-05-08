@@ -38,17 +38,17 @@ export const fetchArmEntries = async (): Promise<ArmEntry[]> => {
 
 ## Statistics
 
-Currently, arm-supplementary has 35281 entries (+6859).
+Currently, arm-supplementary has 35308 entries (+6886).
 
 | Service                                     | arm-supplementary | arm / anime-offline-database |
 | :------------------------------------------ | :---------------: | :--------------------------: |
 | [Annict](https://annict.com)                |   10288 (+153)    |            10135             |
-| [AniList](https://anilist.co)               |   20754 (+2079)   |            18675             |
-| [MyAnimeList](https://myanimelist.net)      |   24709 (+306)    |            24403             |
+| [AniList](https://anilist.co)               |   20758 (+2083)   |            18675             |
+| [MyAnimeList](https://myanimelist.net)      |   24708 (+305)    |            24403             |
 | [しょぼいカレンダー](https://cal.syoboi.jp) |    5574 (+27)     |             5547             |
-| [AniDB](https://anidb.net)                  |   12942 (+128)    |            12814             |
-| [Anime-Planet](https://anime-planet.com)    |   22795 (+127)    |            22668             |
-| [aniSearch](https://anisearch.com)          |   17859 (+135)    |            17724             |
-| [Kitsu](https://kitsu.io)                   |   19073 (+136)    |            18937             |
-| [LiveChart.me](https://livechart.me)        |   10710 (+117)    |            10593             |
+| [AniDB](https://anidb.net)                  |   12946 (+128)    |            12818             |
+| [Anime-Planet](https://anime-planet.com)    |   22845 (+127)    |            22718             |
+| [aniSearch](https://anisearch.com)          |   17867 (+136)    |            17731             |
+| [Kitsu](https://kitsu.io)                   |   19096 (+137)    |            18959             |
+| [LiveChart.me](https://livechart.me)        |   10733 (+117)    |            10616             |
 | [Anime Notifier](https://notify.moe)        |   15855 (+132)    |            15723             |
