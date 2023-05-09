@@ -28880,7 +28880,7 @@ export const annict: ArmEntry[] = [
   // [2014-WINTER] WEB: Peeping Life 『新婚ちゃん関西にいらっしゃい』
   // https://annict.com/works/10127
   { annict_id: 10127, mal_id: 24443 },
-  // [2023-null] TV: 星屑テレパス
+  // [2023-AUTUMN] TV: 星屑テレパス
   // https://annict.com/works/10128
   { annict_id: 10128, mal_id: 53262 },
   // [2012-SPRING] MOVIE: 旅するぬいぐるみ
