@@ -29939,7 +29939,7 @@ export const annict: ArmEntry[] = [
   // [1998-SPRING] TV: パニポニ
   // https://annict.com/works/10481
   { annict_id: 10481, mal_id: 29487 },
-  // [null-null] TV: とあるおっさんのVRMMO活動記
+  // [2023-AUTUMN] TV: とあるおっさんのVRMMO活動記
   // https://annict.com/works/10482
   { annict_id: 10482, mal_id: 54431 },
   // [2023-SUMMER] TV: AIの遺電子
