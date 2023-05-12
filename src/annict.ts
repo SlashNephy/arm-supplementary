@@ -29207,7 +29207,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] MOVIE: しん次元！クレヨンしんちゃんTHE MOVIE 超能力大決戦 ～とべとべ手巻き寿司～
   // https://annict.com/works/10236
   { annict_id: 10236, mal_id: 53810 },
-  // [2023-null] TV: 私の推しは悪役令嬢。
+  // [2023-AUTUMN] TV: 私の推しは悪役令嬢。
   // https://annict.com/works/10237
   { annict_id: 10237, mal_id: 53833 },
   // [null-null] TV: Unnamed Memory
