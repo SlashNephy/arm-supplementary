@@ -30866,4 +30866,7 @@ export const annict: ArmEntry[] = [
   // [2024-null] TV: 転生貴族、鑑定スキルで成り上がる
   // https://annict.com/works/10791
   { annict_id: 10791 },
+  // [2023-AUTUMN] WEB: ガンダムビルドメタバース
+  // https://annict.com/works/10792
+  { annict_id: 10792 },
 ]
