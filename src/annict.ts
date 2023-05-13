@@ -30869,4 +30869,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] WEB: ガンダムビルドメタバース
   // https://annict.com/works/10792
   { annict_id: 10792 },
+  // [2007-WINTER] WEB: ぷちえゔぁ EVANGELION@SCHOOL
+  // https://annict.com/works/10793
+  { annict_id: 10793, mal_id: 4130 },
 ]
