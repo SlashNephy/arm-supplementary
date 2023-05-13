@@ -30896,4 +30896,7 @@ export const annict: ArmEntry[] = [
   // [2005-SPRING] OVA: ジャック・ジャック・アタック！
   // https://annict.com/works/10801
   { annict_id: 10801 },
+  // [1990-SPRING] OVA: AD.POLICE
+  // https://annict.com/works/10802
+  { annict_id: 10802, mal_id: 1346 },
 ]
