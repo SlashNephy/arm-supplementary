@@ -30872,4 +30872,13 @@ export const annict: ArmEntry[] = [
   // [2007-WINTER] WEB: ぷちえゔぁ EVANGELION@SCHOOL
   // https://annict.com/works/10793
   { annict_id: 10793, mal_id: 4130 },
+  // [2008-SPRING] TV: リトル・チャロ
+  // https://annict.com/works/10794
+  { annict_id: 10794, mal_id: 13177 },
+  // [2010-WINTER] TV: リトル・チャロ2
+  // https://annict.com/works/10795
+  { annict_id: 10795, mal_id: 13179 },
+  // [2013-SPRING] TV: リトル・チャロ4 英語で歩くニューヨーク
+  // https://annict.com/works/10796
+  { annict_id: 10796, mal_id: 35476 },
 ]
