@@ -22556,7 +22556,7 @@ export const annict: ArmEntry[] = [
   // [2021-WINTER] TV: WAVE!!～サーフィンやっぺ!!～
   // https://annict.com/works/7825
   { annict_id: 7825, mal_id: 46118, syobocal_tid: 5881 },
-  // [null-null] TV: B-PROJECT 第3期
+  // [2023-AUTUMN] TV: B-PROJECT～熱烈＊ラブコール～
   // https://annict.com/works/7826
   { annict_id: 7826, mal_id: 44081 },
   // [2021-AUTUMN] TV: 真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました
@@ -26894,7 +26894,7 @@ export const annict: ArmEntry[] = [
   // [2022-SUMMER] TV: オリエント 第2クール「淡路島激闘編」
   // https://annict.com/works/9463
   { annict_id: 9463, mal_id: 51368, syobocal_tid: 6393 },
-  // [null-null] WEB: 範馬刃牙 2期
+  // [2023-SUMMER] WEB: 範馬刃牙 2期
   // https://annict.com/works/9464
   { annict_id: 9464, mal_id: 51318 },
   // [2022-SUMMER] TV: ブッチギレ！
@@ -30899,4 +30899,10 @@ export const annict: ArmEntry[] = [
   // [1990-SPRING] OVA: AD.POLICE
   // https://annict.com/works/10802
   { annict_id: 10802, mal_id: 1346 },
+  // [2003-SPRING] OVA: PARASITE DOLLS (OVA)
+  // https://annict.com/works/10803
+  { annict_id: 10803, mal_id: 1350 },
+  // [2022-AUTUMN] WEB: ゴールデン道画劇場 第4期
+  // https://annict.com/works/10804
+  { annict_id: 10804, mal_id: 37755 },
 ]
