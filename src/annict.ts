@@ -30265,7 +30265,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10589, mal_id: 54757 },
   // [2023-SUMMER] TV: ライザのアトリエ ～常闇の女王と秘密の隠れ家～
   // https://annict.com/works/10590
-  { annict_id: 10590, mal_id: 54760 },
+  { annict_id: 10590, mal_id: 54760, syobocal_tid: 6713 },
   // [null-null] TV: 逃げ上手の若君
   // https://annict.com/works/10591
   { annict_id: 10591, mal_id: 54724 },
@@ -30881,4 +30881,19 @@ export const annict: ArmEntry[] = [
   // [2013-SPRING] TV: リトル・チャロ4 英語で歩くニューヨーク
   // https://annict.com/works/10796
   { annict_id: 10796, mal_id: 35476 },
+  // [2007-SUMMER] MOVIE: リフテッド
+  // https://annict.com/works/10797
+  { annict_id: 10797 },
+  // [2006-AUTUMN] OVA: マッチ売りの少女
+  // https://annict.com/works/10798
+  { annict_id: 10798 },
+  // [2006-AUTUMN] OVA: ワン・マン・バンド
+  // https://annict.com/works/10799
+  { annict_id: 10799 },
+  // [2005-SPRING] OVA: Mr.インクレディブルと仲間たち
+  // https://annict.com/works/10800
+  { annict_id: 10800 },
+  // [2005-SPRING] OVA: ジャック・ジャック・アタック！
+  // https://annict.com/works/10801
+  { annict_id: 10801 },
 ]
