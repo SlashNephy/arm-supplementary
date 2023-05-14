@@ -30905,4 +30905,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] WEB: ゴールデン道画劇場 第4期
   // https://annict.com/works/10804
   { annict_id: 10804, mal_id: 37755 },
+  // [2023-SPRING] TV: 異世界屋敷の妖精メイド
+  // https://annict.com/works/10805
+  { annict_id: 10805 },
 ]
