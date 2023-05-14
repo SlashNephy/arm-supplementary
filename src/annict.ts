@@ -30908,4 +30908,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: 異世界屋敷の妖精メイド
   // https://annict.com/works/10805
   { annict_id: 10805 },
+  // [2023-SUMMER] WEB: 境界戦機 極鋼ノ装鬼
+  // https://annict.com/works/10806
+  { annict_id: 10806, mal_id: 54495 },
 ]
