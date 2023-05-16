@@ -30911,4 +30911,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] WEB: 境界戦機 極鋼ノ装鬼
   // https://annict.com/works/10806
   { annict_id: 10806, mal_id: 54495 },
+  // [1995-SUMMER] MOVIE: KAZU&YASU ヒーロー誕生
+  // https://annict.com/works/10807
+  { annict_id: 10807, mal_id: 20143 },
 ]
