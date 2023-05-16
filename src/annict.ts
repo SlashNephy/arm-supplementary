@@ -2885,7 +2885,7 @@ export const annict: ArmEntry[] = [
   // [2011-SPRING] TV: 汐留ケーブルテレビ
   // https://annict.com/works/963
   { annict_id: 963, mal_id: 10633 },
-  // [1997-AUTUMN] TV: 深海伝説マーメノイド
+  // [1997-AUTUMN] TV: 深海伝説MEREMANOID
   // https://annict.com/works/964
   { annict_id: 964, mal_id: 15579 },
   // [2005-AUTUMN] TV: 灼眼のシャナ
