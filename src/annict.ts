@@ -30920,4 +30920,7 @@ export const annict: ArmEntry[] = [
   // [2008-AUTUMN] OVA: プリごろ太 宇宙の友情大冒険
   // https://annict.com/works/10809
   { annict_id: 10809, mal_id: 5656 },
+  // [2005-WINTER] OVA: 王様と猫
+  // https://annict.com/works/10810
+  { annict_id: 10810 },
 ]
