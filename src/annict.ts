@@ -24539,7 +24539,7 @@ export const annict: ArmEntry[] = [
   // [2011-SUMMER] MOVIE: ネッシーのなみだ
   // https://annict.com/works/8548
   { annict_id: 8548 },
-  // [2015-SUMMER] OTHER: ロレンゾ
+  // [2015-SUMMER] OVA: ロレンゾ
   // https://annict.com/works/8549
   { annict_id: 8549 },
   // [2021-SPRING] WEB: ゼニメーション シーズン2
@@ -25553,7 +25553,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] TV: 人間不信の冒険者たちが世界を救うようです
   // https://annict.com/works/8952
   { annict_id: 8952, mal_id: 49612, syobocal_tid: 6539 },
-  // [null-null] OTHER: 治癒魔法の間違った使い方 ～戦場を駆ける回復要員～
+  // [2024-null] TV: 治癒魔法の間違った使い方
   // https://annict.com/works/8953
   { annict_id: 8953, mal_id: 49613 },
   // [2022-WINTER] OVA: のんのんびより のんすとっぷ 第13話「部活をがんばった」
@@ -30923,4 +30923,25 @@ export const annict: ArmEntry[] = [
   // [2005-WINTER] OVA: 王様と猫
   // https://annict.com/works/10810
   { annict_id: 10810 },
+  // [2004-SUMMER] OVA: ワン・バイ・ワン
+  // https://annict.com/works/10811
+  { annict_id: 10811 },
+  // [2004-AUTUMN] MOVIE: バウンディン
+  // https://annict.com/works/10812
+  { annict_id: 10812 },
+  // [2002-SUMMER] OVA: マイクとサリーの新車でGO!
+  // https://annict.com/works/10813
+  { annict_id: 10813 },
+  // [2002-AUTUMN] OVA: ミッキーのマジカル・クリスマス/雪の日のゆかいなパーティー
+  // https://annict.com/works/10814
+  { annict_id: 10814 },
+  // [2015-SUMMER] OVA: ジョン・ヘンリー
+  // https://annict.com/works/10815
+  { annict_id: 10815 },
+  // [2002-SUMMER] OVA: フォー・ザ・バーズ
+  // https://annict.com/works/10816
+  { annict_id: 10816 },
+  // [1999-WINTER] MOVIE: ゲーリーじいさんのチェス
+  // https://annict.com/works/10817
+  { annict_id: 10817 },
 ]
