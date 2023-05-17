@@ -30917,4 +30917,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 新しい上司はど天然
   // https://annict.com/works/10808
   { annict_id: 10808 },
+  // [2008-AUTUMN] OVA: プリごろ太 宇宙の友情大冒険
+  // https://annict.com/works/10809
+  { annict_id: 10809, mal_id: 5656 },
 ]
