@@ -30986,4 +30986,13 @@ export const annict: ArmEntry[] = [
   // [1997-WINTER] OVA: アンドレとウォーリーB.の冒険
   // https://annict.com/works/10831
   { annict_id: 10831 },
+  // [1984-AUTUMN] MOVIE: ミッキーのクリスマス・キャロル
+  // https://annict.com/works/10832
+  { annict_id: 10832 },
+  // [1996-AUTUMN] OVA: レジェンド・オブ・クリスタニア
+  // https://annict.com/works/10833
+  { annict_id: 10833, mal_id: 1150 },
+  // [2020-SPRING] WEB: スター・ウォーズ/クローン・ウォーズ (テレビシリーズ シーズン7)
+  // https://annict.com/works/10834
+  { annict_id: 10834 },
 ]
