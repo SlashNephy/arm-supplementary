@@ -30947,4 +30947,7 @@ export const annict: ArmEntry[] = [
   // [2021-WINTER] WEB: ピクサー・ポップコーン・ショーツ
   // https://annict.com/works/10818
   { annict_id: 10818 },
+  // [null-null] TV: メダリスト
+  // https://annict.com/works/10819
+  { annict_id: 10819 },
 ]
