@@ -30944,4 +30944,7 @@ export const annict: ArmEntry[] = [
   // [1999-WINTER] MOVIE: ゲーリーじいさんのチェス
   // https://annict.com/works/10817
   { annict_id: 10817 },
+  // [2021-WINTER] WEB: ピクサー・ポップコーン・ショーツ
+  // https://annict.com/works/10818
+  { annict_id: 10818 },
 ]
