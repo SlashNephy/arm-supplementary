@@ -30950,4 +30950,40 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: メダリスト
   // https://annict.com/works/10819
   { annict_id: 10819 },
+  // [1996-AUTUMN] OVA: ミッキーのアルバイトは危機一髪
+  // https://annict.com/works/10820
+  { annict_id: 10820 },
+  // [1996-SUMMER] OVA: キャンプは楽しい
+  // https://annict.com/works/10821
+  { annict_id: 10821 },
+  // [1995-WINTER] OVA: ミッキーの王子と少年
+  // https://annict.com/works/10822
+  { annict_id: 10822 },
+  // [1996-SUMMER] OVA: ローラー・コースター・ラビット
+  // https://annict.com/works/10823
+  { annict_id: 10823 },
+  // [1997-WINTER] OVA: ニックナック
+  // https://annict.com/works/10824
+  { annict_id: 10824 },
+  // [1996-SUMMER] OVA: おなかが大変！
+  // https://annict.com/works/10825
+  { annict_id: 10825 },
+  // [1997-WINTER] OVA: ティン・トイ
+  // https://annict.com/works/10826
+  { annict_id: 10826 },
+  // [1995-SUMMER] MOVIE: はじまりの冒険者たち レジェンド・オブ・クリスタニア
+  // https://annict.com/works/10827
+  { annict_id: 10827, mal_id: 515 },
+  // [1997-WINTER] OVA: レッズ・ドリーム
+  // https://annict.com/works/10828
+  { annict_id: 10828 },
+  // [1996-AUTUMN] OVA: グーフィーのサッカー大好き
+  // https://annict.com/works/10829
+  { annict_id: 10829 },
+  // [1997-WINTER] OVA: ルクソーJr.
+  // https://annict.com/works/10830
+  { annict_id: 10830 },
+  // [1997-WINTER] OVA: アンドレとウォーリーB.の冒険
+  // https://annict.com/works/10831
+  { annict_id: 10831 },
 ]
