@@ -14996,7 +14996,7 @@ export const annict: ArmEntry[] = [
   // [2018-SPRING] TV: フルメタル･パニック！ Invisible Victory
   // https://annict.com/works/5026
   { annict_id: 5026, mal_id: 31931, syobocal_tid: 4848 },
-  // [null-null] TV: 猫ピッチャー
+  // [2014-SPRING] TV: 猫ピッチャー
   // https://annict.com/works/5027
   { annict_id: 5027, mal_id: 23737 },
   // [2016-AUTUMN] MOVIE: 好きになるその瞬間を。〜告白実行委員会〜
@@ -19250,7 +19250,7 @@ export const annict: ArmEntry[] = [
   // [2019-AUTUMN] OVA: Re:ゼロから始める異世界生活 氷結の絆
   // https://annict.com/works/6457
   { annict_id: 6457, mal_id: 38414, syobocal_tid: 5671 },
-  // [null-null] TV: ふつうってなんだろう？
+  // [2018-AUTUMN] TV: ふつうってなんだろう？
   // https://annict.com/works/6458
   { annict_id: 6458, mal_id: 38711 },
   // [2019-WINTER] TV: カワウソラボ
@@ -30532,16 +30532,16 @@ export const annict: ArmEntry[] = [
   { annict_id: 10679 },
   // [2023-WINTER] WEB: NICO/AGONY
   // https://annict.com/works/10680
-  { annict_id: 10680 },
+  { annict_id: 10680, mal_id: 55299 },
   // [2023-WINTER] WEB: WANDER BURABURA BAKKAMU
   // https://annict.com/works/10681
-  { annict_id: 10681 },
+  { annict_id: 10681, mal_id: 55300 },
   // [2023-WINTER] WEB: もしメタ -もし女子高生がメタバースで巫女になったら-
   // https://annict.com/works/10682
-  { annict_id: 10682 },
+  { annict_id: 10682, mal_id: 55301 },
   // [2023-WINTER] WEB: 鶴が舞う夜に
   // https://annict.com/works/10683
-  { annict_id: 10683 },
+  { annict_id: 10683, mal_id: 55302 },
   // [2023-SUMMER] TV: スパイ教室 2nd season
   // https://annict.com/works/10684
   { annict_id: 10684, mal_id: 54947 },
@@ -30995,4 +30995,7 @@ export const annict: ArmEntry[] = [
   // [2020-SPRING] WEB: スター・ウォーズ/クローン・ウォーズ (テレビシリーズ シーズン7)
   // https://annict.com/works/10834
   { annict_id: 10834 },
+  // [1992-null] MOVIE: 地球を救え！なかまたち ちびねこトムの大冒険
+  // https://annict.com/works/10835
+  { annict_id: 10835, mal_id: 17657 },
 ]
