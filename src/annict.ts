@@ -20810,21 +20810,21 @@ export const annict: ArmEntry[] = [
   // [1991-null] OVA: うる星やつら 霊魂とデート
   // https://annict.com/works/7079
   { annict_id: 7079 },
-  // [2008-null] OVA: It's a Rumic World うる星やつら〜ザ・障害物水泳大会
+  // [2008-SUMMER] OVA: It's a Rumic World うる星やつら〜ザ・障害物水泳大会
   // https://annict.com/works/7080
-  { annict_id: 7080 },
+  { annict_id: 7080, mal_id: 6567 },
   // [1988-WINTER] MOVIE: めぞん一刻 完結篇
   // https://annict.com/works/7081
   { annict_id: 7081, mal_id: 2460, syobocal_tid: 2678 },
   // [1991-null] OVA: めぞん一刻 番外編 一刻島ナンパ始末記
   // https://annict.com/works/7082
   { annict_id: 7082, mal_id: 2459 },
-  // [2008-null] OVA: It's a Rumic World らんま1/2〜悪夢！春眠香
+  // [2008-SUMMER] OVA: It's a Rumic World らんま1/2〜悪夢！春眠香
   // https://annict.com/works/7083
   { annict_id: 7083, mal_id: 5493 },
-  // [2008-null] OVA: It's a Rumic World 犬夜叉〜黒い鉄砕牙
+  // [2008-SUMMER] OVA: It's a Rumic World 犬夜叉〜黒い鉄砕牙
   // https://annict.com/works/7084
-  { annict_id: 7084 },
+  { annict_id: 7084, mal_id: 4886 },
   // [2018-SUMMER] OVA: 政宗くんのリベンジ OAD
   // https://annict.com/works/7085
   { annict_id: 7085, mal_id: 37377 },
@@ -31043,4 +31043,31 @@ export const annict: ArmEntry[] = [
   // [1994-SUMMER] OVA: らんま1/2 道を継ぐ者（後編）
   // https://annict.com/works/10850
   { annict_id: 10850, mal_id: 1007 },
+  // [1994-AUTUMN] OVA: らんま1/2 SPECIAL よみがえる記憶（上巻）
+  // https://annict.com/works/10851
+  { annict_id: 10851, mal_id: 1008 },
+  // [1995-WINTER] OVA: らんま1/2 SPECIAL よみがえる記憶（下巻）
+  // https://annict.com/works/10852
+  { annict_id: 10852, mal_id: 1008 },
+  // [1995-AUTUMN] OVA: らんま1/2 SUPER ああ呪いの破恋洞! 我が愛は永遠に
+  // https://annict.com/works/10853
+  { annict_id: 10853, mal_id: 1011 },
+  // [1995-AUTUMN] OVA: らんま1/2 SUPER 邪悪の鬼
+  // https://annict.com/works/10854
+  { annict_id: 10854, mal_id: 1011 },
+  // [1996-WINTER] OVA: らんま1/2 SUPER 二人のあかね「乱馬、私を見て!」
+  // https://annict.com/works/10855
+  { annict_id: 10855, mal_id: 1011 },
+  // [2004-SPRING] OVA: 高橋留美子劇場 人魚の森 未放送エピソード
+  // https://annict.com/works/10856
+  { annict_id: 10856, mal_id: 620 },
+  // [1991-SUMMER] OVA: 人魚の森
+  // https://annict.com/works/10857
+  { annict_id: 10857, mal_id: 2016 },
+  // [1993-SUMMER] OVA: 人魚の傷
+  // https://annict.com/works/10858
+  { annict_id: 10858, mal_id: 2017 },
+  // [1986-SPRING] OVA: ザ・超女
+  // https://annict.com/works/10859
+  { annict_id: 10859, mal_id: 3787 },
 ]
