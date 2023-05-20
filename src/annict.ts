@@ -31004,4 +31004,25 @@ export const annict: ArmEntry[] = [
   // [2002-WINTER] OVA: デジタルジュース
   // https://annict.com/works/10837
   { annict_id: 10837, mal_id: 1105 },
+  // [1996-SPRING] OVA: ミュータント・タートルズ 超人伝説編
+  // https://annict.com/works/10838
+  { annict_id: 10838, mal_id: 1059 },
+  // [2008-WINTER] MOVIE: ミュータント・タートルズ -TMNT-
+  // https://annict.com/works/10839
+  { annict_id: 10839 },
+  // [2017-AUTUMN] TV: ミュータント タートルズ(2014) シーズン2
+  // https://annict.com/works/10840
+  { annict_id: 10840 },
+  // [2018-SUMMER] TV: ミュータント タートルズ(2014) シーズン3
+  // https://annict.com/works/10841
+  { annict_id: 10841 },
+  // [2018-AUTUMN] TV: ミュータント タートルズ(2014) シーズン4
+  // https://annict.com/works/10842
+  { annict_id: 10842 },
+  // [2019-SPRING] TV: ミュータント タートルズ(2014) シーズン5
+  // https://annict.com/works/10843
+  { annict_id: 10843 },
+  // [2023-SUMMER] MOVIE: ミュータント・タートルズ：ミュータント・パニック！
+  // https://annict.com/works/10844
+  { annict_id: 10844 },
 ]
