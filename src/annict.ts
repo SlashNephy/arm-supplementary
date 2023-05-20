@@ -455,7 +455,7 @@ export const annict: ArmEntry[] = [
   // [1983-SPRING] TV: イーグルサム
   // https://annict.com/works/151
   { annict_id: 151, mal_id: 8179 },
-  // [1996-AUTUMN] TV: イーハトーブ幻想　KENJIの春
+  // [1996-AUTUMN] TV: イーハトーブ幻想 KENJIの春
   // https://annict.com/works/152
   { annict_id: 152, mal_id: 1206 },
   // [1975-AUTUMN] TV: 一休さん
