@@ -31025,4 +31025,22 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] MOVIE: ミュータント・タートルズ：ミュータント・パニック！
   // https://annict.com/works/10844
   { annict_id: 10844 },
+  // [1993-AUTUMN] OVA: らんま1/2 シャンプー豹変! 反転宝珠の禍
+  // https://annict.com/works/10845
+  { annict_id: 10845, mal_id: 1007 },
+  // [1993-AUTUMN] OVA: らんま1/2 天道家 すくらんぶるクリスマス
+  // https://annict.com/works/10846
+  { annict_id: 10846, mal_id: 1007 },
+  // [1994-WINTER] OVA: らんま1/2 あかねVSらんま お母さんの味は私が守る!
+  // https://annict.com/works/10847
+  { annict_id: 10847, mal_id: 1007 },
+  // [1994-SPRING] OVA: らんま1/2 学園に吹く嵐! アダルトチェンジひな子先生
+  // https://annict.com/works/10848
+  { annict_id: 10848, mal_id: 1007 },
+  // [1994-SPRING] OVA: らんま1/2 道を継ぐ者（前編）
+  // https://annict.com/works/10849
+  { annict_id: 10849, mal_id: 1007 },
+  // [1994-SUMMER] OVA: らんま1/2 道を継ぐ者（後編）
+  // https://annict.com/works/10850
+  { annict_id: 10850, mal_id: 1007 },
 ]
