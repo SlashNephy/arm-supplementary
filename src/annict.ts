@@ -30998,4 +30998,7 @@ export const annict: ArmEntry[] = [
   // [1992-null] MOVIE: 地球を救え！なかまたち ちびねこトムの大冒険
   // https://annict.com/works/10835
   { annict_id: 10835, mal_id: 17657 },
+  // [2011-AUTUMN] MOVIE: 桜の温度
+  // https://annict.com/works/10836
+  { annict_id: 10836, mal_id: 15393 },
 ]
