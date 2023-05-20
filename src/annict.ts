@@ -31001,4 +31001,7 @@ export const annict: ArmEntry[] = [
   // [2011-AUTUMN] MOVIE: 桜の温度
   // https://annict.com/works/10836
   { annict_id: 10836, mal_id: 15393 },
+  // [2002-WINTER] OVA: デジタルジュース
+  // https://annict.com/works/10837
+  { annict_id: 10837, mal_id: 1105 },
 ]
