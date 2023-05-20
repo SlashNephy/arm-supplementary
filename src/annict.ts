@@ -31070,4 +31070,7 @@ export const annict: ArmEntry[] = [
   // [1986-SPRING] OVA: ザ・超女
   // https://annict.com/works/10859
   { annict_id: 10859, mal_id: 3787 },
+  // [2023-SUMMER] TV: 夫婦交歓～戻れない夜～
+  // https://annict.com/works/10860
+  { annict_id: 10860 },
 ]
