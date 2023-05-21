@@ -26960,7 +26960,7 @@ export const annict: ArmEntry[] = [
   // [2022-WINTER] WEB: ミッキーマウスのワンダフル・スプリング
   // https://annict.com/works/9486
   { annict_id: 9486 },
-  // [null-null] TV: Lv1魔王とワンルーム勇者
+  // [2023-SUMMER] TV: Lv1魔王とワンルーム勇者
   // https://annict.com/works/9487
   { annict_id: 9487, mal_id: 51458 },
   // [2022-SPRING] TV: ベイビーシャークのわくわくショー
