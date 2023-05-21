@@ -6275,7 +6275,7 @@ export const annict: ArmEntry[] = [
   // [1990-SPRING] TV: 魔法のエンジェル スイートミント
   // https://annict.com/works/2095
   { annict_id: 2095, mal_id: 2040 },
-  // [1985-SPRING] TV: 魔法のスター マジカルエミ
+  // [1985-SPRING] TV: 魔法のスターマジカルエミ
   // https://annict.com/works/2096
   { annict_id: 2096, mal_id: 2038 },
   // [1998-SPRING] TV: 魔法のステージ ファンシーララ
