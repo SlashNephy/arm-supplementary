@@ -31076,4 +31076,7 @@ export const annict: ArmEntry[] = [
   // [1986-SUMMER] OVA: 魔法のスターマジカルエミ 蝉時雨
   // https://annict.com/works/10861
   { annict_id: 10861, mal_id: 8443 },
+  // [2002-SPRING] OVA: 魔法のスターマジカルエミ 雲光る
+  // https://annict.com/works/10862
+  { annict_id: 10862, mal_id: 8431 },
 ]
