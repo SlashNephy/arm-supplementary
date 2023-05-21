@@ -30916,7 +30916,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10807, mal_id: 20143 },
   // [null-null] TV: 新しい上司はど天然
   // https://annict.com/works/10808
-  { annict_id: 10808 },
+  { annict_id: 10808, mal_id: 55310 },
   // [2008-AUTUMN] OVA: プリごろ太 宇宙の友情大冒険
   // https://annict.com/works/10809
   { annict_id: 10809, mal_id: 5656 },
@@ -30949,7 +30949,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10818 },
   // [null-null] TV: メダリスト
   // https://annict.com/works/10819
-  { annict_id: 10819 },
+  { annict_id: 10819, mal_id: 55318 },
   // [1996-AUTUMN] OVA: ミッキーのアルバイトは危機一髪
   // https://annict.com/works/10820
   { annict_id: 10820 },
@@ -31088,4 +31088,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] MOVIE: ぼっち・ざ・ろっく！ 劇場総集編
   // https://annict.com/works/10865
   { annict_id: 10865, mal_id: 55357 },
+  // [2023-SUMMER] WEB: シンデュアリティ科学講座
+  // https://annict.com/works/10866
+  { annict_id: 10866 },
 ]
