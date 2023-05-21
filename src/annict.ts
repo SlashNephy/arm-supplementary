@@ -24866,7 +24866,7 @@ export const annict: ArmEntry[] = [
   // [2018-null] OVA: 押絵ト旅スル男
   // https://annict.com/works/8658
   { annict_id: 8658, mal_id: 37365 },
-  // [null-null] MOVIE: アリスとテレスのまぼろし工場
+  // [2023-SUMMER] MOVIE: アリスとテレスのまぼろし工場
   // https://annict.com/works/8659
   { annict_id: 8659, mal_id: 49303 },
   // [2022-AUTUMN] TV: 聖剣伝説 LEGEND OF MANA -The Teardrop Crystal-
