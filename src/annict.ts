@@ -31079,4 +31079,13 @@ export const annict: ArmEntry[] = [
   // [2002-SPRING] OVA: 魔法のスターマジカルエミ 雲光る
   // https://annict.com/works/10862
   { annict_id: 10862, mal_id: 8431 },
+  // [2024-WINTER] TV: ぶっちぎり?!
+  // https://annict.com/works/10863
+  { annict_id: 10863, mal_id: 55358 },
+  // [null-null] MOVIE: つるばみ色のなぎ子たち
+  // https://annict.com/works/10864
+  { annict_id: 10864, mal_id: 55359 },
+  // [2024-SPRING] MOVIE: ぼっち・ざ・ろっく！ 劇場総集編
+  // https://annict.com/works/10865
+  { annict_id: 10865, mal_id: 55357 },
 ]
