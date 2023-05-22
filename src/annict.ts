@@ -2591,7 +2591,7 @@ export const annict: ArmEntry[] = [
   // [2006-SPRING] TV: Simoun -シムーン-
   // https://annict.com/works/864
   { annict_id: 864, mal_id: 879, syobocal_tid: 835 },
-  // [2011-SPRING] TV: Steins;Gate
+  // [2011-SPRING] TV: STEINS;GATE
   // https://annict.com/works/865
   { annict_id: 865, mal_id: 9253, syobocal_tid: 2142 },
   // [2013-WINTER] TV: THE UNLIMITED 兵部京介
@@ -9953,7 +9953,7 @@ export const annict: ArmEntry[] = [
   // [2000-SPRING] MOVIE: 人狼 JIN-ROH
   // https://annict.com/works/3328
   { annict_id: 3328, mal_id: 570, syobocal_tid: 3989 },
-  // [2013-SPRING] MOVIE: 劇場版 Steins;Gate 負荷領域のデジャヴ
+  // [2013-SPRING] MOVIE: 劇場版 STEINS;GATE 負荷領域のデジャヴ
   // https://annict.com/works/3329
   { annict_id: 3329, mal_id: 11577, syobocal_tid: 3494 },
   // [2013-WINTER] MOVIE: 劇場版しまじろうのわお！ しまじろうとフフのだいぼうけん 〜すくえ！七色の花〜
@@ -12629,7 +12629,7 @@ export const annict: ArmEntry[] = [
   // [2015-WINTER] MOVIE: 劇場版 PSYCHO-PASS サイコパス
   // https://annict.com/works/4224
   { annict_id: 4224, mal_id: 21339, syobocal_tid: 5217 },
-  // [2014-AUTUMN] WEB: Steins;Gate 聡明叡智のコグニティブ・コンピューティング
+  // [2014-AUTUMN] WEB: STEINS;GATE 聡明叡智のコグニティブ・コンピューティング
   // https://annict.com/works/4225
   { annict_id: 4225, mal_id: 27957 },
   // [2015-WINTER] MOVIE: 花とアリス殺人事件
