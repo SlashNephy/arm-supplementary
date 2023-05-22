@@ -31091,4 +31091,10 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] WEB: シンデュアリティ科学講座
   // https://annict.com/works/10866
   { annict_id: 10866 },
+  // [1979-SUMMER] MOVIE: 海のトリトン 劇場版
+  // https://annict.com/works/10867
+  { annict_id: 10867, mal_id: 7626 },
+  // [1982-SPRING] TV: 特集番組｢明るいイデオン｣内ショートアニメーション
+  // https://annict.com/works/10868
+  { annict_id: 10868 },
 ]
