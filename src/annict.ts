@@ -31097,4 +31097,7 @@ export const annict: ArmEntry[] = [
   // [1982-SPRING] TV: 特集番組｢明るいイデオン｣内ショートアニメーション
   // https://annict.com/works/10868
   { annict_id: 10868 },
+  // [2024-WINTER] TV: ぽんのみち
+  // https://annict.com/works/10869
+  { annict_id: 10869, mal_id: 55397 },
 ]
