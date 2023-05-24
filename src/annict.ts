@@ -24253,7 +24253,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 8452, mal_id: 48585 },
   // [2023-SUMMER] TV: ライアー・ライアー
   // https://annict.com/works/8453
-  { annict_id: 8453, mal_id: 48633 },
+  { annict_id: 8453, mal_id: 48633, syobocal_tid: 6715 },
   // [2021-SPRING] OTHER: Obey Me! スペシャルアニメ 「魔界大旅行」
   // https://annict.com/works/8454
   { annict_id: 8454 },
@@ -31130,4 +31130,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] OTHER: EVANGELION:3.0（-46h）
   // https://annict.com/works/10879
   { annict_id: 10879, mal_id: 53246 },
+  // [2023-SUMMER] TV: フェ～レンザイ -神さまの日常-
+  // https://annict.com/works/10880
+  { annict_id: 10880, mal_id: 37292 },
 ]
