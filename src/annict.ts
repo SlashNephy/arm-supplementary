@@ -23087,7 +23087,7 @@ export const annict: ArmEntry[] = [
   // [1952-WINTER] MOVIE: シンデレラ
   // https://annict.com/works/8032
   { annict_id: 8032, syobocal_tid: 5566 },
-  // [1953-null] MOVIE: ふしぎの国のアリス (1951年の映画)
+  // [1953-SUMMER] MOVIE: ふしぎの国のアリス (1951年の映画)
   // https://annict.com/works/8033
   { annict_id: 8033 },
   // [1987-AUTUMN] MOVIE: 勝利投手
