@@ -31100,4 +31100,19 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] TV: ぽんのみち
   // https://annict.com/works/10869
   { annict_id: 10869, mal_id: 55397 },
+  // [1988-AUTUMN] OTHER: トップをねらえ！科学講座
+  // https://annict.com/works/10870
+  { annict_id: 10870, mal_id: 5462 },
+  // [2012-WINTER] OTHER: 帰ってきた科学講座
+  // https://annict.com/works/10871
+  { annict_id: 10871, mal_id: 24123 },
+  // [2000-AUTUMN] OTHER: はるみ＆ゆみこの グッドモーニング 沖女！
+  // https://annict.com/works/10872
+  { annict_id: 10872, mal_id: 7248 },
+  // [2001-WINTER] OTHER: AD.2032.7.23 戦闘宙域 cosmic battle space orbit of Halley's comet
+  // https://annict.com/works/10873
+  { annict_id: 10873, mal_id: 7248 },
+  // [2001-WINTER] OTHER: シズラープロジェクト
+  // https://annict.com/works/10874
+  { annict_id: 10874, mal_id: 7248 },
 ]
