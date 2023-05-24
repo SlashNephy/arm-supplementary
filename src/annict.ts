@@ -30550,7 +30550,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10685, mal_id: 53911 },
   // [2023-SUMMER] TV: BanG Dream! It's MyGO!!!!!
   // https://annict.com/works/10686
-  { annict_id: 10686, mal_id: 54959 },
+  { annict_id: 10686, mal_id: 54959, syobocal_tid: 6716 },
   // [null-null] TV: 疑似ハーレム
   // https://annict.com/works/10687
   { annict_id: 10687, mal_id: 54968 },
