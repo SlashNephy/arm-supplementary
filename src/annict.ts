@@ -31115,4 +31115,19 @@ export const annict: ArmEntry[] = [
   // [2001-WINTER] OTHER: シズラープロジェクト
   // https://annict.com/works/10874
   { annict_id: 10874, mal_id: 7248 },
+  // [2012-SPRING] OTHER: トップをねらえ2!科学講座
+  // https://annict.com/works/10875
+  { annict_id: 10875, mal_id: 20547 },
+  // [1991-AUTUMN] OTHER: ナディアおまけ劇場
+  // https://annict.com/works/10876
+  { annict_id: 10876, mal_id: 3381 },
+  // [1981-SUMMER] OTHER: DAICON III OPENING ANIMATION
+  // https://annict.com/works/10877
+  { annict_id: 10877, mal_id: 2724 },
+  // [1983-SUMMER] OTHER: DAICON IV OPENING ANIMATION
+  // https://annict.com/works/10878
+  { annict_id: 10878, mal_id: 2724 },
+  // [2023-WINTER] OTHER: EVANGELION:3.0（-46h）
+  // https://annict.com/works/10879
+  { annict_id: 10879, mal_id: 53246 },
 ]
