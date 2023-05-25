@@ -27959,7 +27959,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: 王様ランキング 勇気の宝箱
   // https://annict.com/works/9819
   { annict_id: 9819, mal_id: 52657, syobocal_tid: 6691 },
-  // [null-null] TV: ダンジョン飯
+  // [2024-WINTER] TV: ダンジョン飯
   // https://annict.com/works/9820
   { annict_id: 9820, mal_id: 52701 },
   // [2022-AUTUMN] TV: ハーレムきゃんぷっ！
@@ -31133,4 +31133,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] TV: フェ～レンザイ -神さまの日常-
   // https://annict.com/works/10880
   { annict_id: 10880, mal_id: 37292 },
+  // [2023-SUMMER] OTHER: おでかけ子ザメ
+  // https://annict.com/works/10881
+  { annict_id: 10881 },
 ]
