@@ -26822,7 +26822,7 @@ export const annict: ArmEntry[] = [
   // [2022-SPRING] WEB: 緑のたまごとハム ～サムとガイの大冒険～ 2皿目
   // https://annict.com/works/9439
   { annict_id: 9439 },
-  // [2023-null] TV: ラグナクリムゾン
+  // [2023-AUTUMN] TV: ラグナクリムゾン
   // https://annict.com/works/9440
   { annict_id: 9440, mal_id: 51297 },
   // [2022-WINTER] TV: ぼくらベビーベアーズ
@@ -31136,4 +31136,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] OTHER: おでかけ子ザメ
   // https://annict.com/works/10881
   { annict_id: 10881 },
+  // [null-null] OTHER: ざつ旅 -That's Journey-
+  // https://annict.com/works/10882
+  { annict_id: 10882, mal_id: 55514 },
 ]
