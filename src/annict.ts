@@ -16456,7 +16456,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5517, mal_id: 38571 },
   // [2008-WINTER] TV: 教えて!土管くん
   // https://annict.com/works/5518
-  { annict_id: 5518 },
+  { annict_id: 5518, mal_id: 54052 },
   // [2007-AUTUMN] TV: おしゃべり なちゅどんズ
   // https://annict.com/works/5519
   { annict_id: 5519, mal_id: 53019 },
