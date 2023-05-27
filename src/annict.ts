@@ -26207,7 +26207,7 @@ export const annict: ArmEntry[] = [
   // [2023-null] TV: 豚のレバーは加熱しろ
   // https://annict.com/works/9202
   { annict_id: 9202, mal_id: 50583 },
-  // [null-null] TV: ミギとダリ
+  // [2023-AUTUMN] TV: ミギとダリ
   // https://annict.com/works/9203
   { annict_id: 9203, mal_id: 50586 },
   // [2023-WINTER] MOVIE: グリッドマン ユニバース
