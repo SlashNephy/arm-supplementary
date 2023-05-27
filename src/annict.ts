@@ -30155,9 +30155,9 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: 冒険大陸 アニアキングダム
   // https://annict.com/works/10553
   { annict_id: 10553, syobocal_tid: 6696 },
-  // [2023-null] WEB: 終末のワルキューレⅡ後編
+  // [2023-SUMMER] WEB: 終末のワルキューレⅡ後編
   // https://annict.com/works/10554
-  { annict_id: 10554, mal_id: 49618 },
+  { annict_id: 10554, mal_id: 55454 },
   // [2023-SUMMER] MOVIE: 映画プリキュアオールスターズ F
   // https://annict.com/works/10555
   { annict_id: 10555 },
@@ -31139,4 +31139,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: ざつ旅 -That's Journey-
   // https://annict.com/works/10882
   { annict_id: 10882, mal_id: 55514 },
+  // [2023-SUMMER] MOVIE: マスターオブスキル For the GLORY
+  // https://annict.com/works/10883
+  { annict_id: 10883, mal_id: 40080 },
 ]
