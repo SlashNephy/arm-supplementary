@@ -31142,4 +31142,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] MOVIE: マスターオブスキル For the GLORY
   // https://annict.com/works/10883
   { annict_id: 10883, mal_id: 40080 },
+  // [2023-AUTUMN] MOVIE: ストールンプリンセス：キーウの王女とルスラン
+  // https://annict.com/works/10884
+  { annict_id: 10884 },
 ]
