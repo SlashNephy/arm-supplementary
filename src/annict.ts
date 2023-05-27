@@ -29096,7 +29096,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] MOVIE: ストレンジ・ワールド/もうひとつの世界
   // https://annict.com/works/10199
   { annict_id: 10199 },
-  // [2023-SUMMER] OVA: ラブライブ！虹ヶ咲学園スクールアイドル同好会 NEXT SKY
+  // [2023-SPRING] OVA: ラブライブ！虹ヶ咲学園スクールアイドル同好会 NEXT SKY
   // https://annict.com/works/10200
   { annict_id: 10200, mal_id: 53671 },
   // [2023-null] TV: ブルバスター
@@ -31100,25 +31100,25 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] TV: ぽんのみち
   // https://annict.com/works/10869
   { annict_id: 10869, mal_id: 55397 },
-  // [1988-AUTUMN] OTHER: トップをねらえ！科学講座
+  // [1988-AUTUMN] OVA: トップをねらえ！科学講座
   // https://annict.com/works/10870
   { annict_id: 10870, mal_id: 5462 },
-  // [2012-WINTER] OTHER: 帰ってきた科学講座
+  // [2012-WINTER] OVA: 帰ってきた科学講座
   // https://annict.com/works/10871
   { annict_id: 10871, mal_id: 24123 },
-  // [2000-AUTUMN] OTHER: はるみ＆ゆみこの グッドモーニング 沖女！
+  // [2000-AUTUMN] OVA: はるみ＆ゆみこの グッドモーニング 沖女！
   // https://annict.com/works/10872
   { annict_id: 10872, mal_id: 7248 },
-  // [2001-WINTER] OTHER: AD.2032.7.23 戦闘宙域 cosmic battle space orbit of Halley's comet
+  // [2001-WINTER] OVA: AD.2032.7.23 戦闘宙域 cosmic battle space orbit of Halley's comet
   // https://annict.com/works/10873
   { annict_id: 10873, mal_id: 7248 },
-  // [2001-WINTER] OTHER: シズラープロジェクト
+  // [2001-WINTER] OVA: シズラープロジェクト
   // https://annict.com/works/10874
   { annict_id: 10874, mal_id: 7248 },
-  // [2012-SPRING] OTHER: トップをねらえ2!科学講座
+  // [2012-SPRING] OVA: トップをねらえ2!科学講座
   // https://annict.com/works/10875
   { annict_id: 10875, mal_id: 20547 },
-  // [1991-AUTUMN] OTHER: ナディアおまけ劇場
+  // [1991-AUTUMN] OVA: ナディアおまけ劇場
   // https://annict.com/works/10876
   { annict_id: 10876, mal_id: 3381 },
   // [1981-SUMMER] OTHER: DAICON III OPENING ANIMATION
@@ -31127,7 +31127,7 @@ export const annict: ArmEntry[] = [
   // [1983-SUMMER] OTHER: DAICON IV OPENING ANIMATION
   // https://annict.com/works/10878
   { annict_id: 10878, mal_id: 2724 },
-  // [2023-WINTER] OTHER: EVANGELION:3.0（-46h）
+  // [2023-WINTER] OVA: EVANGELION:3.0（-46h）
   // https://annict.com/works/10879
   { annict_id: 10879, mal_id: 53246 },
   // [2023-SUMMER] TV: フェ～レンザイ -神さまの日常-
@@ -31145,4 +31145,13 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] MOVIE: ストールンプリンセス：キーウの王女とルスラン
   // https://annict.com/works/10884
   { annict_id: 10884 },
+  // [1992-SUMMER] OVA: 絶愛-1989-
+  // https://annict.com/works/10885
+  { annict_id: 10885, mal_id: 1041 },
+  // [1994-SUMMER] OVA: BRONZE KOJI NANJO cathexis
+  // https://annict.com/works/10886
+  { annict_id: 10886, mal_id: 3007 },
+  // [1996-AUTUMN] OVA: BRONZE ZETSUAI since 1989
+  // https://annict.com/works/10887
+  { annict_id: 10887, mal_id: 1042 },
 ]
