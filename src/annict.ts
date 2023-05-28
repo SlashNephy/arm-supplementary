@@ -31157,4 +31157,13 @@ export const annict: ArmEntry[] = [
   // [2007-WINTER] MOVIE: オシャレ魔女♥ラブandベリー しあわせのまほう
   // https://annict.com/works/10888
   { annict_id: 10888, mal_id: 3362 },
+  // [1999-AUTUMN] OVA: Pia♥キャロットへようこそ!!2 DX
+  // https://annict.com/works/10889
+  { annict_id: 10889, mal_id: 215 },
+  // [2002-AUTUMN] MOVIE: Pia♥キャロットへようこそ!! 劇場版〜さやかの恋物語〜
+  // https://annict.com/works/10890
+  { annict_id: 10890, mal_id: 216 },
+  // [2003-SPRING] OVA: みずいろ
+  // https://annict.com/works/10891
+  { annict_id: 10891, mal_id: 1039 },
 ]
