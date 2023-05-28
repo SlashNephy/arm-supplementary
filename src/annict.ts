@@ -31154,4 +31154,7 @@ export const annict: ArmEntry[] = [
   // [1996-AUTUMN] OVA: BRONZE ZETSUAI since 1989
   // https://annict.com/works/10887
   { annict_id: 10887, mal_id: 1042 },
+  // [2007-WINTER] MOVIE: オシャレ魔女♥ラブandベリー しあわせのまほう
+  // https://annict.com/works/10888
+  { annict_id: 10888, mal_id: 3362 },
 ]
