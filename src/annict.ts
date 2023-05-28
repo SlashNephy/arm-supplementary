@@ -28898,7 +28898,7 @@ export const annict: ArmEntry[] = [
   // [2009-SPRING] TV: リロ・アンド・スティッチ ザ・シリーズ
   // https://annict.com/works/10133
   { annict_id: 10133, syobocal_tid: 1649 },
-  // [2023-SUMMER] TV: 強くてニューサーガ
+  // [2023-null] TV: 強くてニューサーガ
   // https://annict.com/works/10134
   { annict_id: 10134 },
   // [null-null] TV: ゆるキャン SEASON3
@@ -30119,7 +30119,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: ポケットモンスター (2023)
   // https://annict.com/works/10541
   { annict_id: 10541, mal_id: 53876, syobocal_tid: 6694 },
-  // [null-null] TV: 陰の実力者になりたくて！ 2nd season
+  // [2023-AUTUMN] TV: 陰の実力者になりたくて！ 2nd season
   // https://annict.com/works/10542
   { annict_id: 10542, mal_id: 54595 },
   // [2024-null] TV: HIGHSPEED Étoile
