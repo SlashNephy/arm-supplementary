@@ -29551,7 +29551,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10350 },
   // [2023-SUMMER] TV: BLEACH 千年血戦篇ｰ訣別譚ｰ
   // https://annict.com/works/10351
-  { annict_id: 10351 },
+  { annict_id: 10351, mal_id: 53998 },
   // [null-null] TV: 乙女ゲー世界はモブに厳しい世界です 第2期
   // https://annict.com/works/10352
   { annict_id: 10352 },
