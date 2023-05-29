@@ -31190,4 +31190,10 @@ export const annict: ArmEntry[] = [
   // [2009-AUTUMN] OVA: アキカン！ 「カン一発!?温泉パニック」
   // https://annict.com/works/10899
   { annict_id: 10899, mal_id: 6287 },
+  // [1989-AUTUMN] OVA: 青き炎
+  // https://annict.com/works/10900
+  { annict_id: 10900, mal_id: 3306 },
+  // [1992-WINTER] OVA: るり色プリンセス
+  // https://annict.com/works/10901
+  { annict_id: 10901, mal_id: 9212 },
 ]
