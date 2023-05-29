@@ -31166,4 +31166,28 @@ export const annict: ArmEntry[] = [
   // [2003-SPRING] OVA: みずいろ
   // https://annict.com/works/10891
   { annict_id: 10891, mal_id: 1039 },
+  // [2009-SPRING] OVA: 恋姫†無双 「群雄、生徒会長の座を狙って相争うのこと ～あと、ポロリもあるよ！～」
+  // https://annict.com/works/10892
+  { annict_id: 10892, mal_id: 5305 },
+  // [2009-SPRING] OVA: ちびちび演義 恋姫ふらっしゅ♡ 〜張飛、おっぱいをもとめんとするのこと〜
+  // https://annict.com/works/10893
+  { annict_id: 10893, mal_id: 15093 },
+  // [2010-SUMMER] OVA: 真・恋姫†無双 「群雄、南の島でバカンスをするのこと 〜あと、ポロリもあるよ！〜」
+  // https://annict.com/works/10894
+  { annict_id: 10894, mal_id: 7774 },
+  // [2010-SUMMER] OVA: ちびちび演義 真・恋姫ふらっしゅ♡ 〜報われない組、報われんとするのこと〜
+  // https://annict.com/works/10895
+  { annict_id: 10895, mal_id: 15095 },
+  // [2010-WINTER] OVA: 真・恋姫†無双 LIVE Revolution
+  // https://annict.com/works/10896
+  { annict_id: 10896, mal_id: 8635 },
+  // [2011-WINTER] OVA: 真・恋姫†無双～乙女大乱～ 「学園祭だよ！全員集合のこと」
+  // https://annict.com/works/10897
+  { annict_id: 10897, mal_id: 10297 },
+  // [2011-WINTER] OVA: ちびちび演義 真・恋姫ふらっしゅ♡ 〜張飛、孫尚香、袁術、三国志するのこと〜
+  // https://annict.com/works/10898
+  { annict_id: 10898, mal_id: 15015 },
+  // [2009-AUTUMN] OVA: アキカン！ 「カン一発!?温泉パニック」
+  // https://annict.com/works/10899
+  { annict_id: 10899, mal_id: 6287 },
 ]
