@@ -31196,4 +31196,7 @@ export const annict: ArmEntry[] = [
   // [1992-WINTER] OVA: るり色プリンセス
   // https://annict.com/works/10901
   { annict_id: 10901, mal_id: 9212 },
+  // [1995-AUTUMN] OVA: 赤ずきんチャチャ OVA
+  // https://annict.com/works/10902
+  { annict_id: 10902, mal_id: 367 },
 ]
