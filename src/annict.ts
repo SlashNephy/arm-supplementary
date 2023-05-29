@@ -31199,4 +31199,7 @@ export const annict: ArmEntry[] = [
   // [1995-AUTUMN] OVA: 赤ずきんチャチャ OVA
   // https://annict.com/works/10902
   { annict_id: 10902, mal_id: 367 },
+  // [null-null] TV: 勇気爆発バーンブレイバーン
+  // https://annict.com/works/10903
+  { annict_id: 10903, mal_id: 55528 },
 ]
