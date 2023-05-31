@@ -31202,4 +31202,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 勇気爆発バーンブレイバーン
   // https://annict.com/works/10903
   { annict_id: 10903, mal_id: 55528 },
+  // [1991-SPRING] OVA: 夢枕獏 とわいらいと劇場
+  // https://annict.com/works/10904
+  { annict_id: 10904, mal_id: 12769 },
 ]
