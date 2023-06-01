@@ -29227,7 +29227,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10242, mal_id: 52614, syobocal_tid: 6631 },
   // [2023-SUMMER] TV: おかしな転生
   // https://annict.com/works/10243
-  { annict_id: 10243 },
+  { annict_id: 10243, mal_id: 52611 },
   // [2023-WINTER] MOVIE: 劇場総集編 SSSS.GRIDMAN
   // https://annict.com/works/10244
   { annict_id: 10244, mal_id: 53850 },

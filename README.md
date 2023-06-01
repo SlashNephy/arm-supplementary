@@ -43,12 +43,12 @@ Currently, arm-supplementary has 35414 entries (+6825).
 | Service                                     | arm-supplementary | arm / anime-offline-database |
 | :------------------------------------------ | :---------------: | :--------------------------: |
 | [Annict](https://annict.com)                |   10401 (+156)    |            10245             |
-| [AniList](https://anilist.co)               |   20760 (+2055)   |            18705             |
-| [MyAnimeList](https://myanimelist.net)      |   24892 (+337)    |            24555             |
+| [AniList](https://anilist.co)               |   20761 (+2056)   |            18705             |
+| [MyAnimeList](https://myanimelist.net)      |   24893 (+338)    |            24555             |
 | [しょぼいカレンダー](https://cal.syoboi.jp) |    5592 (+27)     |             5565             |
-| [AniDB](https://anidb.net)                  |   12955 (+127)    |            12828             |
-| [Anime-Planet](https://anime-planet.com)    |   22869 (+127)    |            22742             |
-| [aniSearch](https://anisearch.com)          |   17901 (+135)    |            17766             |
-| [Kitsu](https://kitsu.io)                   |   19151 (+140)    |            19011             |
-| [LiveChart.me](https://livechart.me)        |   10785 (+121)    |            10664             |
-| [Anime Notifier](https://notify.moe)        |   15861 (+137)    |            15724             |
+| [AniDB](https://anidb.net)                  |   12956 (+128)    |            12828             |
+| [Anime-Planet](https://anime-planet.com)    |   22870 (+128)    |            22742             |
+| [aniSearch](https://anisearch.com)          |   17902 (+136)    |            17766             |
+| [Kitsu](https://kitsu.io)                   |   19152 (+141)    |            19011             |
+| [LiveChart.me](https://livechart.me)        |   10786 (+122)    |            10664             |
+| [Anime Notifier](https://notify.moe)        |   15862 (+138)    |            15724             |
