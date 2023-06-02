@@ -31135,7 +31135,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10880, mal_id: 37292 },
   // [2023-SUMMER] OTHER: おでかけ子ザメ
   // https://annict.com/works/10881
-  { annict_id: 10881 },
+  { annict_id: 10881, mal_id: 55463 },
   // [null-null] OTHER: ざつ旅 -That's Journey-
   // https://annict.com/works/10882
   { annict_id: 10882, mal_id: 55514 },
@@ -31205,4 +31205,7 @@ export const annict: ArmEntry[] = [
   // [1991-SPRING] OVA: 夢枕獏 とわいらいと劇場
   // https://annict.com/works/10904
   { annict_id: 10904, mal_id: 12769 },
+  // [2023-AUTUMN] TV: 忍ばない！クリプトニンジャ咲耶
+  // https://annict.com/works/10905
+  { annict_id: 10905 },
 ]
