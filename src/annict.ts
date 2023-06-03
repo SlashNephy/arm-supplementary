@@ -31214,4 +31214,10 @@ export const annict: ArmEntry[] = [
   // [2002-SUMMER] OTHER: プロモーションアニメ「アニメ店長」
   // https://annict.com/works/10907
   { annict_id: 10907, mal_id: 3080 },
+  // [2010-AUTUMN] OTHER: プロモーションアニメ「アニメ店長 激情版」
+  // https://annict.com/works/10908
+  { annict_id: 10908, mal_id: 9861 },
+  // [2010-AUTUMN] OTHER: アニメ店長×東方Project
+  // https://annict.com/works/10909
+  { annict_id: 10909, mal_id: 9875 },
 ]
