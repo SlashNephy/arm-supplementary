@@ -31211,4 +31211,7 @@ export const annict: ArmEntry[] = [
   // [2012-null] OVA: ジャスティーン
   // https://annict.com/works/10906
   { annict_id: 10906 },
+  // [2002-SUMMER] OTHER: プロモーションアニメ「アニメ店長」
+  // https://annict.com/works/10907
+  { annict_id: 10907, mal_id: 3080 },
 ]
