@@ -31223,4 +31223,7 @@ export const annict: ArmEntry[] = [
   // [2011-SPRING] TV: ごはんかいじゅうパップ
   // https://annict.com/works/10910
   { annict_id: 10910, mal_id: 22669 },
+  // [null-null] OTHER: マクロス 新作アニメーション
+  // https://annict.com/works/10911
+  { annict_id: 10911 },
 ]
