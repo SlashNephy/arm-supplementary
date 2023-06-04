@@ -31226,4 +31226,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: マクロス 新作アニメーション
   // https://annict.com/works/10911
   { annict_id: 10911 },
+  // [2024-null] TV: 新テニスの王子様 U-17 WORLD CUP SEMIFINAL
+  // https://annict.com/works/10912
+  { annict_id: 10912 },
 ]
