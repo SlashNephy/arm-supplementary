@@ -31220,4 +31220,7 @@ export const annict: ArmEntry[] = [
   // [2010-AUTUMN] OTHER: アニメ店長×東方Project
   // https://annict.com/works/10909
   { annict_id: 10909, mal_id: 9875 },
+  // [2011-SPRING] TV: ごはんかいじゅうパップ
+  // https://annict.com/works/10910
+  { annict_id: 10910, mal_id: 22669 },
 ]
