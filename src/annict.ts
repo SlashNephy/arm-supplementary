@@ -15202,7 +15202,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5094, mal_id: 34467, syobocal_tid: 4467 },
   // [2019-SPRING] OVA: 蒼穹のファフナー THE BEYOND
   // https://annict.com/works/5095
-  { annict_id: 5095, mal_id: 34649 },
+  { annict_id: 5095, mal_id: 34649, syobocal_tid: 6737 },
   // [2018-WINTER] OVA: DAYS 東院学園戦
   // https://annict.com/works/5096
   { annict_id: 5096, mal_id: 34513 },
