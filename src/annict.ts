@@ -27061,7 +27061,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9519 },
   // [2023-SUMMER] TV: わたしの幸せな結婚
   // https://annict.com/works/9520
-  { annict_id: 9520, mal_id: 51552 },
+  { annict_id: 9520, mal_id: 51552, syobocal_tid: 6738 },
   // [null-null] OTHER: とんがり帽子のアトリエ
   // https://annict.com/works/9521
   { annict_id: 9521, mal_id: 51553 },
