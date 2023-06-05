@@ -25549,7 +25549,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 8950, mal_id: 49909, syobocal_tid: 6598 },
   // [2023-SUMMER] TV: 英雄教室
   // https://annict.com/works/8951
-  { annict_id: 8951, mal_id: 49894 },
+  { annict_id: 8951, mal_id: 49894, syobocal_tid: 6743 },
   // [2023-WINTER] TV: 人間不信の冒険者たちが世界を救うようです
   // https://annict.com/works/8952
   { annict_id: 8952, mal_id: 49612, syobocal_tid: 6539 },
