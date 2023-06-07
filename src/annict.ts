@@ -31228,5 +31228,14 @@ export const annict: ArmEntry[] = [
   { annict_id: 10911 },
   // [2024-null] TV: 新テニスの王子様 U-17 WORLD CUP SEMIFINAL
   // https://annict.com/works/10912
-  { annict_id: 10912 },
+  { annict_id: 10912, mal_id: 55570 },
+  // [1990-SPRING] OVA: 聖ミカエラ学園漂流記
+  // https://annict.com/works/10913
+  { annict_id: 10913, mal_id: 2239 },
+  // [2012-AUTUMN] OVA: THE IDOLM@STER SHINY FESTA
+  // https://annict.com/works/10914
+  { annict_id: 10914, mal_id: 14835 },
+  // [2024-null] TV: 花野井くんと恋の病
+  // https://annict.com/works/10915
+  { annict_id: 10915, mal_id: 55597 },
 ]
