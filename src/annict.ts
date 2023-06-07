@@ -24652,7 +24652,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 8585, mal_id: 49119 },
   // [2023-SUMMER] MOVIE: おそ松さん～魂のたこ焼きパーティーと伝説のお泊り会～
   // https://annict.com/works/8586
-  { annict_id: 8586 },
+  { annict_id: 8586, mal_id: 49120 },
   // [1997-WINTER] TV: ドラゴンボールGT 悟空外伝！ 勇気の証しは四星球
   // https://annict.com/works/8588
   { annict_id: 8588, mal_id: 987 },
