@@ -31238,4 +31238,7 @@ export const annict: ArmEntry[] = [
   // [2024-null] TV: 花野井くんと恋の病
   // https://annict.com/works/10915
   { annict_id: 10915, mal_id: 55597 },
+  // [2023-SUMMER] TV: 女体化した僕を騎士様達がねらってます 2nd
+  // https://annict.com/works/10916
+  { annict_id: 10916 },
 ]
