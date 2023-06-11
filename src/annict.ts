@@ -28793,7 +28793,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] MOVIE: 青春ブタ野郎はおでかけシスターの夢を見ない
   // https://annict.com/works/10098
   { annict_id: 10098, mal_id: 53129 },
-  // [null-null] MOVIE: 青春ブタ野郎はランドセルガールの夢を見ない
+  // [2023-AUTUMN] MOVIE: 青春ブタ野郎はランドセルガールの夢を見ない
   // https://annict.com/works/10099
   { annict_id: 10099, mal_id: 54870 },
   // [null-null] MOVIE: アイゼンフリューゲル
