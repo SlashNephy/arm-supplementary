@@ -31243,5 +31243,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 10916 },
   // [null-null] TV: スナックバス江
   // https://annict.com/works/10917
-  { annict_id: 10917 },
+  { annict_id: 10917, mal_id: 55636 },
 ]
