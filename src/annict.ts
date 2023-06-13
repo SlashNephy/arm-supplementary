@@ -31241,4 +31241,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] TV: 女体化した僕を騎士様達がねらってます 2nd
   // https://annict.com/works/10916
   { annict_id: 10916 },
+  // [null-null] TV: スナックバス江
+  // https://annict.com/works/10917
+  { annict_id: 10917 },
 ]
