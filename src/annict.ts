@@ -29551,7 +29551,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10350 },
   // [2023-SUMMER] TV: BLEACH 千年血戦篇ｰ訣別譚ｰ
   // https://annict.com/works/10351
-  { annict_id: 10351, mal_id: 53998 },
+  { annict_id: 10351, mal_id: 53998, syobocal_tid: 6742 },
   // [null-null] TV: 乙女ゲー世界はモブに厳しい世界です 第2期
   // https://annict.com/works/10352
   { annict_id: 10352 },
@@ -29656,7 +29656,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10385, mal_id: 53231, syobocal_tid: 6604 },
   // [2023-SUMMER] TV: ゾン100～ゾンビになるまでにしたい100のこと～
   // https://annict.com/works/10386
-  { annict_id: 10386, mal_id: 54112 },
+  { annict_id: 10386, mal_id: 54112, syobocal_tid: 6720 },
   // [2023-WINTER] TV: ひろがるスカイ！プリキュア
   // https://annict.com/works/10387
   { annict_id: 10387, mal_id: 53716, syobocal_tid: 6614 },
