@@ -30427,13 +30427,13 @@ export const annict: ArmEntry[] = [
   { annict_id: 10643, mal_id: 54767 },
   // [2023-SUMMER] TV: もののがたり 第二章
   // https://annict.com/works/10645
-  { annict_id: 10645, mal_id: 54883 },
+  { annict_id: 10645, mal_id: 54883, syobocal_tid: 6747 },
   // [2023-WINTER] WEB: 黄金の庭園：冬に積もる新年の願い
   // https://annict.com/works/10646
   { annict_id: 10646, mal_id: 54035 },
   // [2023-SUMMER] TV: 文豪ストレイドッグス (第5期)
   // https://annict.com/works/10647
-  { annict_id: 10647, mal_id: 54898 },
+  { annict_id: 10647, mal_id: 54898, syobocal_tid: 6745 },
   // [1986-SUMMER] MOVIE: アモン・サーガ
   // https://annict.com/works/10648
   { annict_id: 10648, mal_id: 2249 },
