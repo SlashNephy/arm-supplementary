@@ -26203,7 +26203,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9200, mal_id: 50562 },
   // [2023-SUMMER] TV: 七つの魔剣が支配する
   // https://annict.com/works/9201
-  { annict_id: 9201, mal_id: 50582 },
+  { annict_id: 9201, mal_id: 50582, syobocal_tid: 6740 },
   // [2023-null] TV: 豚のレバーは加熱しろ
   // https://annict.com/works/9202
   { annict_id: 9202, mal_id: 50583 },
@@ -26581,13 +26581,13 @@ export const annict: ArmEntry[] = [
   { annict_id: 9326, syobocal_tid: 6271 },
   // [2023-SUMMER] TV: 呪術廻戦 (2期)
   // https://annict.com/works/9327
-  { annict_id: 9327, mal_id: 51009 },
+  { annict_id: 9327, mal_id: 51009, syobocal_tid: 6724 },
   // [2023-SPRING] TV: 鬼滅の刃 刀鍛冶の里編
   // https://annict.com/works/9328
   { annict_id: 9328, mal_id: 51019, syobocal_tid: 6645 },
   // [2023-SUMMER] TV: Helck
   // https://annict.com/works/9329
-  { annict_id: 9329, mal_id: 51020 },
+  { annict_id: 9329, mal_id: 51020, syobocal_tid: 6728 },
   // [1997-WINTER] MOVIE: 劇場版 フランダースの犬
   // https://annict.com/works/9330
   { annict_id: 9330, mal_id: 2623 },
@@ -26734,7 +26734,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9409, mal_id: 47777 },
   // [2023-SUMMER] TV: 無職転生Ⅱ ～異世界行ったら本気だす～
   // https://annict.com/works/9410
-  { annict_id: 9410, mal_id: 51179 },
+  { annict_id: 9410, mal_id: 51179, syobocal_tid: 6721 },
   // [1992-AUTUMN] OVA: 銀河英雄伝説外伝 黄金の翼
   // https://annict.com/works/9411
   { annict_id: 9411, mal_id: 3015, syobocal_tid: 1899 },
@@ -26962,7 +26962,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9486 },
   // [2023-SUMMER] TV: Lv1魔王とワンルーム勇者
   // https://annict.com/works/9487
-  { annict_id: 9487, mal_id: 51458 },
+  { annict_id: 9487, mal_id: 51458, syobocal_tid: 6746 },
   // [2022-SPRING] TV: ベイビーシャークのわくわくショー
   // https://annict.com/works/9488
   { annict_id: 9488, syobocal_tid: 6336 },
@@ -27022,7 +27022,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9506, mal_id: 51495, syobocal_tid: 6570 },
   // [2023-SUMMER] TV: 政宗くんのリベンジR
   // https://annict.com/works/9507
-  { annict_id: 9507, mal_id: 51498 },
+  { annict_id: 9507, mal_id: 51498, syobocal_tid: 6736 },
   // [2022-AUTUMN] TV: 4人はそれぞれウソをつく
   // https://annict.com/works/9508
   { annict_id: 9508, mal_id: 51464, syobocal_tid: 6456 },
@@ -27388,7 +27388,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9628 },
   // [2023-SUMMER] TV: レベル1だけどユニークスキルで最強です
   // https://annict.com/works/9629
-  { annict_id: 9629, mal_id: 51764 },
+  { annict_id: 9629, mal_id: 51764, syobocal_tid: 6741 },
   // [2022-SPRING] WEB: ミニ豆ちゃん シーズン2
   // https://annict.com/works/9630
   { annict_id: 9630, mal_id: 39230 },
@@ -27511,7 +27511,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9669, mal_id: 36857 },
   // [2023-SUMMER] TV: デキる猫は今日も憂鬱
   // https://annict.com/works/9670
-  { annict_id: 9670, mal_id: 51916 },
+  { annict_id: 9670, mal_id: 51916, syobocal_tid: 6718 },
   // [2014-AUTUMN] OVA: グリザイアの果実「グリザイアの特典」
   // https://annict.com/works/9671
   { annict_id: 9671, mal_id: 29101 },
@@ -27670,7 +27670,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9722 },
   // [2023-SUMMER] TV: 幻日のヨハネ -SUNSHINE in the MIRROR-
   // https://annict.com/works/9723
-  { annict_id: 9723, mal_id: 52214 },
+  { annict_id: 9723, mal_id: 52214, syobocal_tid: 6734 },
   // [null-null] OTHER: 『チ。ー地球の運動についてー』
   // https://annict.com/works/9724
   { annict_id: 9724 },
@@ -27772,7 +27772,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9756, mal_id: 52461, syobocal_tid: 6543 },
   // [2023-SUMMER] TV: ダークギャザリング
   // https://annict.com/works/9757
-  { annict_id: 9757, mal_id: 52505 },
+  { annict_id: 9757, mal_id: 52505, syobocal_tid: 6744 },
   // [2022-SUMMER] WEB: 兄に付ける薬はない！5 -快把我哥帯走5-
   // https://annict.com/works/9758
   { annict_id: 9758, mal_id: 49599, syobocal_tid: 6424 },
@@ -27937,7 +27937,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9811 },
   // [2023-SUMMER] TV: 自動販売機に生まれ変わった俺は迷宮を彷徨う
   // https://annict.com/works/9812
-  { annict_id: 9812, mal_id: 52619 },
+  { annict_id: 9812, mal_id: 52619, syobocal_tid: 6723 },
   // [2022-AUTUMN] OVA: 女の園の星
   // https://annict.com/works/9813
   { annict_id: 9813 },
@@ -28717,7 +28717,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10071, mal_id: 52962 },
   // [2023-SUMMER] TV: 実は俺、最強でした？
   // https://annict.com/works/10073
-  { annict_id: 10073, mal_id: 52969 },
+  { annict_id: 10073, mal_id: 52969, syobocal_tid: 6754 },
   // [null-null] MOVIE: 劇場版 ベルサイユのばら
   // https://annict.com/works/10074
   { annict_id: 10074 },
@@ -28738,7 +28738,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10079, mal_id: 52991 },
   // [2023-SUMMER] TV: SYNDUALITY Noir
   // https://annict.com/works/10080
-  { annict_id: 10080, mal_id: 53026 },
+  { annict_id: 10080, mal_id: 53026, syobocal_tid: 6729 },
   // [2023-SUMMER] TV: 彼女、お借りします 第3期
   // https://annict.com/works/10081
   { annict_id: 10081, mal_id: 53050 },
