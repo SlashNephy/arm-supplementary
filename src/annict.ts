@@ -30130,7 +30130,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10544, mal_id: 54617 },
   // [2023-SUMMER] TV: 百姓貴族
   // https://annict.com/works/10545
-  { annict_id: 10545, mal_id: 53426 },
+  { annict_id: 10545, mal_id: 53426, syobocal_tid: 6726 },
   // [2023-null] TV: ポーション頼みで生き延びます！
   // https://annict.com/works/10546
   { annict_id: 10546, mal_id: 54616 },
@@ -30244,7 +30244,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10582, mal_id: 30985 },
   // [2023-SUMMER] TV: うちの会社の小さい先輩の話
   // https://annict.com/works/10583
-  { annict_id: 10583, mal_id: 53379 },
+  { annict_id: 10583, mal_id: 53379, syobocal_tid: 6733 },
   // [null-null] TV: 時々ボソッとロシア語でデレる隣のアーリャさん
   // https://annict.com/works/10584
   { annict_id: 10584, mal_id: 54744 },
