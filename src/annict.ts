@@ -28741,7 +28741,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10080, mal_id: 53026, syobocal_tid: 6729 },
   // [2023-SUMMER] TV: 彼女、お借りします 第3期
   // https://annict.com/works/10081
-  { annict_id: 10081, mal_id: 53050 },
+  { annict_id: 10081, mal_id: 53050, syobocal_tid: 6756 },
   // [2023-AUTUMN] TV: カノジョも彼女 第2期
   // https://annict.com/works/10082
   { annict_id: 10082, mal_id: 53040 },
@@ -28813,7 +28813,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10104 },
   // [2023-SUMMER] TV: はたらく魔王さま！！2nd Season
   // https://annict.com/works/10105
-  { annict_id: 10105, mal_id: 53200 },
+  { annict_id: 10105, mal_id: 53200, syobocal_tid: 6758 },
   // [2022-AUTUMN] TV: 湖池屋SDGs劇場 サスとテナ シーズン3
   // https://annict.com/works/10106
   { annict_id: 10106 },
