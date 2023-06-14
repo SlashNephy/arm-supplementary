@@ -30337,7 +30337,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10613, mal_id: 54829 },
   // [2023-SUMMER] TV: いきものさん
   // https://annict.com/works/10614
-  { annict_id: 10614, mal_id: 54847 },
+  { annict_id: 10614, mal_id: 54847, syobocal_tid: 6752 },
   // [2023-AUTUMN] TV: キャプテン翼シーズン２ ジュニアユース編
   // https://annict.com/works/10615
   { annict_id: 10615, mal_id: 54803 },
@@ -30358,13 +30358,13 @@ export const annict: ArmEntry[] = [
   { annict_id: 10620, mal_id: 54839 },
   // [2023-SUMMER] TV: シュガーアップル・フェアリーテイル 第2クール
   // https://annict.com/works/10621
-  { annict_id: 10621, mal_id: 54842 },
+  { annict_id: 10621, mal_id: 54842, syobocal_tid: 6739 },
   // [2023-WINTER] OVA: にじよん あにめーしょん 新作アニメーション
   // https://annict.com/works/10622
   { annict_id: 10622, mal_id: 54117 },
   // [2023-SUMMER] TV: ホリミヤ -piece-
   // https://annict.com/works/10623
-  { annict_id: 10623, mal_id: 54856 },
+  { annict_id: 10623, mal_id: 54856, syobocal_tid: 6749 },
   // [null-null] TV: 先輩はおとこのこ
   // https://annict.com/works/10624
   { annict_id: 10624, mal_id: 54855 },
