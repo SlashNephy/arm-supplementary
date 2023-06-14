@@ -28930,7 +28930,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10143, mal_id: 53446, syobocal_tid: 6568 },
   // [2023-SUMMER] TV: 悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。
   // https://annict.com/works/10144
-  { annict_id: 10144, mal_id: 53438 },
+  { annict_id: 10144, mal_id: 53438, syobocal_tid: 6757 },
   // [1961-SPRING] TV: つよいぞラフティ
   // https://annict.com/works/10145
   { annict_id: 10145 },
@@ -29086,7 +29086,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10195, mal_id: 38743 },
   // [2023-SUMMER] TV: 夢見る男子は現実主義者
   // https://annict.com/works/10196
-  { annict_id: 10196, mal_id: 53632 },
+  { annict_id: 10196, mal_id: 53632, syobocal_tid: 6755 },
   // [2017-AUTUMN] TV: アニ×パラ〜あなたのヒーローは誰ですか〜
   // https://annict.com/works/10197
   { annict_id: 10197, mal_id: 37290 },
@@ -29227,7 +29227,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10242, mal_id: 52614, syobocal_tid: 6631 },
   // [2023-SUMMER] TV: おかしな転生
   // https://annict.com/works/10243
-  { annict_id: 10243, mal_id: 52611 },
+  { annict_id: 10243, mal_id: 52611, syobocal_tid: 6735 },
   // [2023-WINTER] MOVIE: 劇場総集編 SSSS.GRIDMAN
   // https://annict.com/works/10244
   { annict_id: 10244, mal_id: 53850 },
