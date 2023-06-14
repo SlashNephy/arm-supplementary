@@ -29695,7 +29695,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10398, mal_id: 6481 },
   // [2023-SUMMER] TV: 好きな子がめがねを忘れた
   // https://annict.com/works/10399
-  { annict_id: 10399, mal_id: 54234 },
+  { annict_id: 10399, mal_id: 54234, syobocal_tid: 6751 },
   // [2023-WINTER] TV: 機動戦士ガンダム 閃光のハサウェイ TVエディション
   // https://annict.com/works/10400
   { annict_id: 10400, syobocal_tid: 6616 },
@@ -29944,7 +29944,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10482, mal_id: 54431 },
   // [2023-SUMMER] TV: AIの遺電子
   // https://annict.com/works/10483
-  { annict_id: 10483, mal_id: 53787 },
+  { annict_id: 10483, mal_id: 53787, syobocal_tid: 6719 },
   // [1999-SPRING] TV: ムーぽん
   // https://annict.com/works/10484
   { annict_id: 10484 },
