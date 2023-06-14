@@ -31072,7 +31072,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10859, mal_id: 3787 },
   // [2023-SUMMER] TV: 夫婦交歓～戻れない夜～
   // https://annict.com/works/10860
-  { annict_id: 10860 },
+  { annict_id: 10860, syobocal_tid: 6722 },
   // [1986-SUMMER] OVA: 魔法のスターマジカルエミ 蝉時雨
   // https://annict.com/works/10861
   { annict_id: 10861, mal_id: 8443 },
@@ -31132,7 +31132,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10879, mal_id: 53246 },
   // [2023-SUMMER] TV: フェ～レンザイ -神さまの日常-
   // https://annict.com/works/10880
-  { annict_id: 10880, mal_id: 37292 },
+  { annict_id: 10880, mal_id: 37292, syobocal_tid: 6750 },
   // [2023-SUMMER] OTHER: おでかけ子ザメ
   // https://annict.com/works/10881
   { annict_id: 10881, mal_id: 55463 },
@@ -31247,4 +31247,7 @@ export const annict: ArmEntry[] = [
   // [2016-SUMMER] WEB: うさまる
   // https://annict.com/works/10918
   { annict_id: 10918, mal_id: 33787 },
+  // [2023-SUMMER] WEB: トニカクカワイイ 女子高編
+  // https://annict.com/works/10919
+  { annict_id: 10919, mal_id: 55651 },
 ]
