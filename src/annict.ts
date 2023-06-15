@@ -30640,7 +30640,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10715, mal_id: 13465 },
   // [2023-SPRING] WEB: 今日、わたしの物語が走ります。
   // https://annict.com/works/10716
-  { annict_id: 10716 },
+  { annict_id: 10716, mal_id: 54352 },
   // [1991-WINTER] OVA: BURN-UP
   // https://annict.com/works/10717
   { annict_id: 10717, mal_id: 767 },
