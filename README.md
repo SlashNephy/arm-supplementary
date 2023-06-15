@@ -43,12 +43,12 @@ Currently, arm-supplementary has 35641 entries (+6988).
 | Service                                     | arm-supplementary | arm / anime-offline-database |
 | :------------------------------------------ | :---------------: | :--------------------------: |
 | [Annict](https://annict.com)                |   10416 (+162)    |            10254             |
-| [AniList](https://anilist.co)               |   20819 (+2104)   |            18715             |
-| [MyAnimeList](https://myanimelist.net)      |   25003 (+399)    |            24604             |
+| [AniList](https://anilist.co)               |   20820 (+2105)   |            18715             |
+| [MyAnimeList](https://myanimelist.net)      |   25004 (+400)    |            24604             |
 | [しょぼいカレンダー](https://cal.syoboi.jp) |    5646 (+63)     |             5583             |
-| [AniDB](https://anidb.net)                  |   12964 (+129)    |            12835             |
-| [Anime-Planet](https://anime-planet.com)    |   22940 (+130)    |            22810             |
-| [aniSearch](https://anisearch.com)          |   17930 (+137)    |            17793             |
-| [Kitsu](https://kitsu.io)                   |   19271 (+142)    |            19129             |
-| [LiveChart.me](https://livechart.me)        |   10821 (+123)    |            10698             |
-| [Anime Notifier](https://notify.moe)        |   15917 (+139)    |            15778             |
+| [AniDB](https://anidb.net)                  |   12965 (+130)    |            12835             |
+| [Anime-Planet](https://anime-planet.com)    |   22941 (+131)    |            22810             |
+| [aniSearch](https://anisearch.com)          |   17931 (+138)    |            17793             |
+| [Kitsu](https://kitsu.io)                   |   19272 (+143)    |            19129             |
+| [LiveChart.me](https://livechart.me)        |   10822 (+124)    |            10698             |
+| [Anime Notifier](https://notify.moe)        |   15918 (+140)    |            15778             |
