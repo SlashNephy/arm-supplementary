@@ -31250,4 +31250,10 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] WEB: トニカクカワイイ 女子高編
   // https://annict.com/works/10919
   { annict_id: 10919, mal_id: 55651 },
+  // [2023-SPRING] TV: 七不思議がくる！2
+  // https://annict.com/works/10920
+  { annict_id: 10920 },
+  // [2024-WINTER] TV: キングダム 第5シリーズ
+  // https://annict.com/works/10921
+  { annict_id: 10921, mal_id: 53223 },
 ]
