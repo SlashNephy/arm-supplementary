@@ -31256,4 +31256,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] TV: キングダム 第5シリーズ
   // https://annict.com/works/10921
   { annict_id: 10921, mal_id: 53223 },
+  // [2024-WINTER] TV: 僕の心のヤバイやつ 第2期
+  // https://annict.com/works/10922
+  { annict_id: 10922, mal_id: 55690 },
 ]
