@@ -29077,7 +29077,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10192, mal_id: 41915, syobocal_tid: 6560 },
   // [2023-SPRING] TV: デッドマウント・デスプレイ
   // https://annict.com/works/10193
-  { annict_id: 10193, syobocal_tid: 6689 },
+  { annict_id: 10193, mal_id: 53613, syobocal_tid: 6689 },
   // [null-null] OTHER: ばいばい、アース
   // https://annict.com/works/10194
   { annict_id: 10194 },
@@ -30253,7 +30253,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10585 },
   // [2023-AUTUMN] TV: デッドマウント・デスプレイ 第2クール
   // https://annict.com/works/10586
-  { annict_id: 10586 },
+  { annict_id: 10586, mal_id: 54743 },
   // [null-null] TV: 火狩りの王 第2シーズン
   // https://annict.com/works/10587
   { annict_id: 10587, mal_id: 54754 },
