@@ -31262,4 +31262,10 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: 冒険者になりたいと都に出て行った娘がSランクになってた
   // https://annict.com/works/10923
   { annict_id: 10923, mal_id: 53494 },
+  // [null-null] TV: 鬼滅の刃 柱稽古編
+  // https://annict.com/works/10924
+  { annict_id: 10924 },
+  // [2024-WINTER] MOVIE: 劇場版 僕とロボコ
+  // https://annict.com/works/10925
+  { annict_id: 10925 },
 ]
