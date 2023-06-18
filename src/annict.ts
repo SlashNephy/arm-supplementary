@@ -31259,4 +31259,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] TV: 僕の心のヤバイやつ 第2期
   // https://annict.com/works/10922
   { annict_id: 10922, mal_id: 55690 },
+  // [2023-AUTUMN] TV: 冒険者になりたいと都に出て行った娘がSランクになってた
+  // https://annict.com/works/10923
+  { annict_id: 10923, mal_id: 53494 },
 ]
