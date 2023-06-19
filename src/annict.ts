@@ -31271,4 +31271,10 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: うたごえはミルフィーユ
   // https://annict.com/works/10926
   { annict_id: 10926, mal_id: 55689 },
+  // [1980-SUMMER] MOVIE: 11ぴきのねこ
+  // https://annict.com/works/10927
+  { annict_id: 10927, mal_id: 6071 },
+  // [1986-SUMMER] MOVIE: 11ぴきのねことあほうどり
+  // https://annict.com/works/10928
+  { annict_id: 10928, mal_id: 6072 },
 ]
