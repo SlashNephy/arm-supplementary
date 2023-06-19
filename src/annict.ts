@@ -30179,7 +30179,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: でんでんの電脳電車
   // https://annict.com/works/10561
   { annict_id: 10561, syobocal_tid: 6665 },
-  // [2023-SPRING] TV: デュエル・マスターズ WIN 決闘学園編（デュエル・ウォーズ）
+  // [2023-SPRING] TV: デュエル・マスターズ WIN 決闘学園編 (デュエル・ウォーズ)
   // https://annict.com/works/10562
   { annict_id: 10562, syobocal_tid: 6682 },
   // [null-null] TV: 不滅のあなたへ Season3
@@ -30596,7 +30596,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] MOVIE: 劇場版アイドリッシュセブン LIVE 4bit BEYOND THE PERiOD
   // https://annict.com/works/10701
   { annict_id: 10701, mal_id: 54118 },
-  // [2023-WINTER] TV: 青のオーケストラ ５分で楽しいクラシック
+  // [2023-WINTER] TV: 青のオーケストラ 5分で楽しいクラシック
   // https://annict.com/works/10702
   { annict_id: 10702, mal_id: 54771, syobocal_tid: 6673 },
   // [null-null] TV: 真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました2nd
