@@ -31277,4 +31277,13 @@ export const annict: ArmEntry[] = [
   // [1986-SUMMER] MOVIE: 11ぴきのねことあほうどり
   // https://annict.com/works/10928
   { annict_id: 10928, mal_id: 6072 },
+  // [null-null] OTHER: 華Doll* -Reinterpretation of Flowering-
+  // https://annict.com/works/10929
+  { annict_id: 10929, mal_id: 55710 },
+  // [null-null] TV: 出来損ないと呼ばれた元英雄は、実家から追放されたので好き勝手に生きることにした
+  // https://annict.com/works/10930
+  { annict_id: 10930 },
+  // [2024-null] OTHER: 未ル
+  // https://annict.com/works/10931
+  { annict_id: 10931 },
 ]
