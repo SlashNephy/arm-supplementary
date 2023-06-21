@@ -31328,4 +31328,31 @@ export const annict: ArmEntry[] = [
   // [2008-SPRING] OVA: やなせたかしメルヘン劇場
   // https://annict.com/works/10945
   { annict_id: 10945, mal_id: 17471 },
+  // [1990-WINTER] OVA: 楳図かずおの呪い
+  // https://annict.com/works/10946
+  { annict_id: 10946, mal_id: 6276 },
+  // [1989-SUMMER] OVA: バオー来訪者
+  // https://annict.com/works/10947
+  { annict_id: 10947, mal_id: 1468 },
+  // [1989-SPRING] MOVIE: 変幻退魔夜行 カルラ舞う！ -奈良怨霊絵巻-
+  // https://annict.com/works/10948
+  { annict_id: 10948, mal_id: 3178 },
+  // [1990-SUMMER] OVA: 変幻退魔夜行 カルラ舞う！ 〜仙台小芥子怨歌〜
+  // https://annict.com/works/10949
+  { annict_id: 10949, mal_id: 2073 },
+  // [1992-SUMMER] OVA: 間の楔
+  // https://annict.com/works/10950
+  { annict_id: 10950, mal_id: 719 },
+  // [2012-WINTER] OVA: 間の楔 (2012)
+  // https://annict.com/works/10951
+  { annict_id: 10951, mal_id: 5784 },
+  // [1999-SUMMER] OVA: トラジマのミーめ
+  // https://annict.com/works/10952
+  { annict_id: 10952, mal_id: 9344 },
+  // [1989-WINTER] OVA: クラッシャージョウ 氷結監獄の罠
+  // https://annict.com/works/10953
+  { annict_id: 10953, mal_id: 2696 },
+  // [1989-SPRING] OVA: クラッシャージョウ 最終兵器アッシュ
+  // https://annict.com/works/10954
+  { annict_id: 10954, mal_id: 2696 },
 ]
