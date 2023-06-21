@@ -31286,4 +31286,7 @@ export const annict: ArmEntry[] = [
   // [2024-null] OTHER: 未ル
   // https://annict.com/works/10931
   { annict_id: 10931, mal_id: 55727 },
+  // [2023-SUMMER] MOVIE: カールじいさんのデート
+  // https://annict.com/works/10932
+  { annict_id: 10932 },
 ]
