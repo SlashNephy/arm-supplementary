@@ -25136,7 +25136,7 @@ export const annict: ArmEntry[] = [
   // [null-null] WEB: BEASTARS 新章
   // https://annict.com/works/8780
   { annict_id: 8780, mal_id: 49469 },
-  // [null-null] TV: この素晴らしい世界に祝福を！ 3
+  // [2024-null] TV: この素晴らしい世界に祝福を！ 3
   // https://annict.com/works/8781
   { annict_id: 8781, mal_id: 49458 },
   // [2022-SPRING] TV: サマータイムレンダ
@@ -31364,4 +31364,10 @@ export const annict: ArmEntry[] = [
   // [1999-SUMMER] OVA: シーバス1-2-3
   // https://annict.com/works/10957
   { annict_id: 10957, mal_id: 1228 },
+  // [1985-WINTER] OVA: NORA
+  // https://annict.com/works/10958
+  { annict_id: 10958, mal_id: 2088 },
+  // [1985-AUTUMN] OVA: Twinkle NORA Rock me!
+  // https://annict.com/works/10959
+  { annict_id: 10959, mal_id: 9342 },
 ]
