@@ -31355,4 +31355,7 @@ export const annict: ArmEntry[] = [
   // [1989-SPRING] OVA: クラッシャージョウ 最終兵器アッシュ
   // https://annict.com/works/10954
   { annict_id: 10954, mal_id: 2696 },
+  // [1993-AUTUMN] OVA: その気にさせてよmyマイ舞
+  // https://annict.com/works/10955
+  { annict_id: 10955, mal_id: 3095 },
 ]
