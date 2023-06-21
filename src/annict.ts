@@ -31313,4 +31313,7 @@ export const annict: ArmEntry[] = [
   // [1988-WINTER] OVA: レイナ剣狼伝説
   // https://annict.com/works/10940
   { annict_id: 10940, mal_id: 6577 },
+  // [1990-SPRING] OVA: LIGHTNING TRAP LEINA & LAIKA
+  // https://annict.com/works/10941
+  { annict_id: 10941, mal_id: 3596 },
 ]
