@@ -31310,4 +31310,7 @@ export const annict: ArmEntry[] = [
   // [1996-WINTER] OVA: 装鬼兵M.D.ガイスト2 ～デスフォース～
   // https://annict.com/works/10939
   { annict_id: 10939, mal_id: 1286 },
+  // [1988-WINTER] OVA: レイナ剣狼伝説
+  // https://annict.com/works/10940
+  { annict_id: 10940, mal_id: 6577 },
 ]
