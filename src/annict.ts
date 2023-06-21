@@ -31358,4 +31358,7 @@ export const annict: ArmEntry[] = [
   // [1993-AUTUMN] OVA: その気にさせてよmyマイ舞
   // https://annict.com/works/10955
   { annict_id: 10955, mal_id: 3095 },
+  // [1982-SUMMER] TV: アンドロメダ・ストーリーズ
+  // https://annict.com/works/10956
+  { annict_id: 10956, mal_id: 3675 },
 ]
