@@ -31316,4 +31316,16 @@ export const annict: ArmEntry[] = [
   // [1990-SPRING] OVA: LIGHTNING TRAP LEINA & LAIKA
   // https://annict.com/works/10941
   { annict_id: 10941, mal_id: 3596 },
+  // [1980-WINTER] MOVIE: ナーザの大暴れ
+  // https://annict.com/works/10942
+  { annict_id: 10942, mal_id: 8783 },
+  // [1993-SUMMER] OVA: キャシャーン (OVA)
+  // https://annict.com/works/10943
+  { annict_id: 10943, mal_id: 1598 },
+  // [1994-SPRING] OVA: 真・孔雀王
+  // https://annict.com/works/10944
+  { annict_id: 10944, mal_id: 3599 },
+  // [2008-SPRING] OVA: やなせたかしメルヘン劇場
+  // https://annict.com/works/10945
+  { annict_id: 10945, mal_id: 17471 },
 ]
