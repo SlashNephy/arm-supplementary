@@ -31298,4 +31298,16 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] WEB: 幻日のリムル -SUNSHINE in the SLIME-
   // https://annict.com/works/10935
   { annict_id: 10935, mal_id: 55720 },
+  // [1988-WINTER] TV: 宇宙伝説ユリシーズ31
+  // https://annict.com/works/10936
+  { annict_id: 10936, mal_id: 2331 },
+  // [1986-SPRING] OVA: 装鬼兵M.D.ガイスト
+  // https://annict.com/works/10937
+  { annict_id: 10937, mal_id: 1285 },
+  // [1996-WINTER] OVA: 装鬼兵M.D.ガイスト～完璧版～
+  // https://annict.com/works/10938
+  { annict_id: 10938 },
+  // [1996-WINTER] OVA: 装鬼兵M.D.ガイスト2 ～デスフォース～
+  // https://annict.com/works/10939
+  { annict_id: 10939, mal_id: 1286 },
 ]
