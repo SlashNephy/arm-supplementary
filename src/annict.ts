@@ -31289,4 +31289,13 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] MOVIE: カールじいさんのデート
   // https://annict.com/works/10932
   { annict_id: 10932 },
+  // [2023-SUMMER] MOVIE: 愛しのクノール
+  // https://annict.com/works/10933
+  { annict_id: 10933 },
+  // [2007-AUTUMN] OVA: 釣りバカ瑛花さん スカイガールズ ダイナマイトフィッシング
+  // https://annict.com/works/10934
+  { annict_id: 10934, mal_id: 3410 },
+  // [2023-SPRING] WEB: 幻日のリムル -SUNSHINE in the SLIME-
+  // https://annict.com/works/10935
+  { annict_id: 10935, mal_id: 55720 },
 ]
