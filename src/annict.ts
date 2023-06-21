@@ -31361,4 +31361,7 @@ export const annict: ArmEntry[] = [
   // [1982-SUMMER] TV: アンドロメダ・ストーリーズ
   // https://annict.com/works/10956
   { annict_id: 10956, mal_id: 3675 },
+  // [1999-SUMMER] OVA: シーバス1-2-3
+  // https://annict.com/works/10957
+  { annict_id: 10957, mal_id: 1228 },
 ]
