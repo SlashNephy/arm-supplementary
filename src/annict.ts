@@ -31373,4 +31373,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: 魔法使いの嫁 SEASON2 第2クール
   // https://annict.com/works/10960
   { annict_id: 10960 },
+  // [null-null] MOVIE: 劇場版 王様ランキング
+  // https://annict.com/works/10961
+  { annict_id: 10961 },
 ]
