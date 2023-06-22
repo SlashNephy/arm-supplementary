@@ -31370,4 +31370,7 @@ export const annict: ArmEntry[] = [
   // [1985-AUTUMN] OVA: Twinkle NORA Rock me!
   // https://annict.com/works/10959
   { annict_id: 10959, mal_id: 9342 },
+  // [2023-AUTUMN] TV: 魔法使いの嫁 SEASON2 第2クール
+  // https://annict.com/works/10960
+  { annict_id: 10960 },
 ]
