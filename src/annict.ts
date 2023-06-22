@@ -22288,7 +22288,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 7702, mal_id: 42962, syobocal_tid: 6439 },
   // [2022-SPRING] WEB: スプリガン (Netflixオリジナル)
   // https://annict.com/works/7703
-  { annict_id: 7703, mal_id: 39489 },
+  { annict_id: 7703, mal_id: 39489, syobocal_tid: 6727 },
   // [2019-WINTER] MOVIE: 鬼滅の刃 兄妹の絆
   // https://annict.com/works/7704
   { annict_id: 7704 },
@@ -25298,7 +25298,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] TV: The Legend of Heroes 閃の軌跡 Northern War
   // https://annict.com/works/8835
   { annict_id: 8835, mal_id: 48441, syobocal_tid: 6573 },
-  // [2023-WINTER] WEB: 終末のワルキューレⅡ前編
+  // [2023-WINTER] WEB: 終末のワルキューレⅡ 前編
   // https://annict.com/works/8836
   { annict_id: 8836, mal_id: 49618 },
   // [2021-AUTUMN] TV: しょうたいむ！～歌のお姉さんだってしたい
@@ -26263,7 +26263,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9220, mal_id: 50608, syobocal_tid: 6564 },
   // [2023-SUMMER] TV: るろうに剣心 -明治剣客浪漫譚- (2023)
   // https://annict.com/works/9221
-  { annict_id: 9221, mal_id: 50613 },
+  { annict_id: 9221, mal_id: 50613, syobocal_tid: 6725 },
   // [2023-WINTER] TV: 吸血鬼すぐ死ぬ2
   // https://annict.com/works/9222
   { annict_id: 9222, mal_id: 50287, syobocal_tid: 6537 },
@@ -27607,7 +27607,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9701, mal_id: 52081, syobocal_tid: 6651 },
   // [2023-SUMMER] TV: 白聖女と黒牧師
   // https://annict.com/works/9702
-  { annict_id: 9702, mal_id: 52082 },
+  { annict_id: 9702, mal_id: 52082, syobocal_tid: 6764 },
   // [2023-WINTER] TV: TRIGUN STAMPEDE
   // https://annict.com/works/9703
   { annict_id: 9703, mal_id: 52093, syobocal_tid: 6580 },
@@ -29779,7 +29779,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10426, mal_id: 54265 },
   // [2023-SUMMER] TV: てんぷる
   // https://annict.com/works/10427
-  { annict_id: 10427, mal_id: 54275 },
+  { annict_id: 10427, mal_id: 54275, syobocal_tid: 6762 },
   // [2023-AUTUMN] TV: 進撃の巨人 The Final Season 完結編（後編）
   // https://annict.com/works/10428
   { annict_id: 10428 },
@@ -30115,7 +30115,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10539 },
   // [2023-SUMMER] TV: 聖者無双～サラリーマン、異世界で生き残るために歩む道～
   // https://annict.com/works/10540
-  { annict_id: 10540, mal_id: 53263 },
+  { annict_id: 10540, mal_id: 53263, syobocal_tid: 6760 },
   // [2023-SPRING] TV: ポケットモンスター (2023)
   // https://annict.com/works/10541
   { annict_id: 10541, mal_id: 53876, syobocal_tid: 6694 },
@@ -30155,7 +30155,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: 冒険大陸 アニアキングダム
   // https://annict.com/works/10553
   { annict_id: 10553, syobocal_tid: 6696 },
-  // [2023-SUMMER] WEB: 終末のワルキューレⅡ後編
+  // [2023-SUMMER] WEB: 終末のワルキューレⅡ 後編
   // https://annict.com/works/10554
   { annict_id: 10554, mal_id: 55454 },
   // [2023-SUMMER] MOVIE: 映画プリキュアオールスターズ F
@@ -30307,7 +30307,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10603, mal_id: 54122 },
   // [2023-SUMMER] TV: アンデッドガール・マーダーファルス
   // https://annict.com/works/10604
-  { annict_id: 10604, mal_id: 54790 },
+  { annict_id: 10604, mal_id: 54790, syobocal_tid: 6763 },
   // [2023-AUTUMN] OVA: マスク男子は恋したくないのに
   // https://annict.com/works/10605
   { annict_id: 10605, mal_id: 54792 },
