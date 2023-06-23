@@ -31376,4 +31376,13 @@ export const annict: ArmEntry[] = [
   // [null-null] MOVIE: 劇場版 王様ランキング
   // https://annict.com/works/10961
   { annict_id: 10961, mal_id: 55744 },
+  // [2024-null] MOVIE: ラブライブ！虹ヶ咲学園スクールアイドル同好会 劇場上映シリーズ 第1章
+  // https://annict.com/works/10962
+  { annict_id: 10962 },
+  // [null-null] MOVIE: ラブライブ！虹ヶ咲学園スクールアイドル同好会 劇場上映シリーズ 第2章
+  // https://annict.com/works/10963
+  { annict_id: 10963 },
+  // [null-null] MOVIE: ラブライブ！虹ヶ咲学園スクールアイドル同好会 劇場上映シリーズ 第3章
+  // https://annict.com/works/10964
+  { annict_id: 10964 },
 ]
