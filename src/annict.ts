@@ -26741,7 +26741,7 @@ export const annict: ArmEntry[] = [
   // [1993-AUTUMN] MOVIE: 銀河英雄伝説 外伝 新たなる戦いの序曲
   // https://annict.com/works/9412
   { annict_id: 9412, mal_id: 3016, syobocal_tid: 1056 },
-  // [2023-null] TV: ようこそ実力至上主義の教室へ 3rd season
+  // [2024-WINTER] TV: ようこそ実力至上主義の教室へ 3rd season
   // https://annict.com/works/9413
   { annict_id: 9413, mal_id: 51180 },
   // [2023-WINTER] TV: HIGH CARD
@@ -31385,4 +31385,10 @@ export const annict: ArmEntry[] = [
   // [null-null] MOVIE: ラブライブ！虹ヶ咲学園スクールアイドル同好会 劇場上映シリーズ 第3章
   // https://annict.com/works/10964
   { annict_id: 10964 },
+  // [2024-null] TV: 女神のカフェテラス 第2期
+  // https://annict.com/works/10965
+  { annict_id: 10965, mal_id: 55749 },
+  // [2023-SUMMER] TV: 和田淳監督特集
+  // https://annict.com/works/10966
+  { annict_id: 10966 },
 ]
