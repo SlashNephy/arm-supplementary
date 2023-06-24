@@ -25475,7 +25475,7 @@ export const annict: ArmEntry[] = [
   // [2021-SPRING] WEB: 夏目友人帳×熊本県「人吉・球磨での優しい時間」
   // https://annict.com/works/8894
   { annict_id: 8894, mal_id: 48953 },
-  // [2023-null] MOVIE: 劇場版 乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…
+  // [2023-AUTUMN] MOVIE: 劇場版 乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…
   // https://annict.com/works/8927
   { annict_id: 8927, mal_id: 49842 },
   // [2021-AUTUMN] WEB: BanG Dream! ガルパ☆ピコ ふぃーばー！
