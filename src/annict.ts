@@ -30544,7 +30544,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10683, mal_id: 55302 },
   // [2023-SUMMER] TV: スパイ教室 2nd season
   // https://annict.com/works/10684
-  { annict_id: 10684, mal_id: 54947 },
+  { annict_id: 10684, mal_id: 54947, syobocal_tid: 6768 },
   // [2023-SUMMER] WEB: 七つの大罪 怨嗟のエジンバラ 後編
   // https://annict.com/works/10685
   { annict_id: 10685, mal_id: 53911 },
