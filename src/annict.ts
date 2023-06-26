@@ -31391,4 +31391,16 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] TV: 和田淳監督特集
   // https://annict.com/works/10966
   { annict_id: 10966 },
+  // [2024-null] MOVIE: i☆Ris the Movie -Full Energy!!-
+  // https://annict.com/works/10967
+  { annict_id: 10967, mal_id: 53534 },
+  // [2023-SUMMER] TV: シルバニアファミリー フレアのゴー・フォー・ドリーム！
+  // https://annict.com/works/10968
+  { annict_id: 10968 },
+  // [2023-AUTUMN] MOVIE: 劇場版 シルバニアファミリー フレアからのおくりもの
+  // https://annict.com/works/10969
+  { annict_id: 10969, mal_id: 54989 },
+  // [2023-SPRING] WEB: おかしな転生 ミニアニメ「ペイストリーのおかしなそうだんしつ！」
+  // https://annict.com/works/10970
+  { annict_id: 10970, mal_id: 55753 },
 ]
