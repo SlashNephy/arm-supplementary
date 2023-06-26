@@ -29096,7 +29096,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] MOVIE: ストレンジ・ワールド/もうひとつの世界
   // https://annict.com/works/10199
   { annict_id: 10199 },
-  // [2023-SPRING] MOVIE: ラブライブ！虹ヶ咲学園スクールアイドル同好会 NEXT SKY
+  // [2023-SPRING] OVA: ラブライブ！虹ヶ咲学園スクールアイドル同好会 NEXT SKY
   // https://annict.com/works/10200
   { annict_id: 10200, mal_id: 53671 },
   // [2023-null] TV: ブルバスター
