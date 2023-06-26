@@ -25504,7 +25504,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 8935, mal_id: 49849, syobocal_tid: 6446 },
   // [2023-SUMMER] TV: 死神坊ちゃんと黒メイド 第2期
   // https://annict.com/works/8936
-  { annict_id: 8936, mal_id: 49858 },
+  { annict_id: 8936, mal_id: 49858, syobocal_tid: 6765 },
   // [2021-SUMMER] WEB: 月曜日のたわわ2
   // https://annict.com/works/8937
   { annict_id: 8937, mal_id: 49854, syobocal_tid: 6156 },
@@ -30844,7 +30844,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10783, syobocal_tid: 6710 },
   // [2023-SUMMER] TV: 闇芝居 (11期)
   // https://annict.com/works/10784
-  { annict_id: 10784, mal_id: 55166 },
+  { annict_id: 10784, mal_id: 55166, syobocal_tid: 6766 },
   // [2023-SUMMER] MOVIE: 古の王子と3つの花
   // https://annict.com/works/10785
   { annict_id: 10785 },
@@ -31240,7 +31240,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10915, mal_id: 55597 },
   // [2023-SUMMER] TV: 女体化した僕を騎士様達がねらってます 2nd
   // https://annict.com/works/10916
-  { annict_id: 10916 },
+  { annict_id: 10916, syobocal_tid: 6769 },
   // [null-null] TV: スナックバス江
   // https://annict.com/works/10917
   { annict_id: 10917, mal_id: 55636 },
