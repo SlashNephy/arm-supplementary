@@ -31378,7 +31378,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10961, mal_id: 55744 },
   // [2024-null] MOVIE: ラブライブ！虹ヶ咲学園スクールアイドル同好会 劇場上映シリーズ 第1章
   // https://annict.com/works/10962
-  { annict_id: 10962 },
+  { annict_id: 10962, mal_id: 55748 },
   // [null-null] MOVIE: ラブライブ！虹ヶ咲学園スクールアイドル同好会 劇場上映シリーズ 第2章
   // https://annict.com/works/10963
   { annict_id: 10963 },
@@ -31403,4 +31403,10 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] WEB: おかしな転生 ミニアニメ「ペイストリーのおかしなそうだんしつ！」
   // https://annict.com/works/10970
   { annict_id: 10970, mal_id: 55753 },
+  // [null-null] TV: ゴールデンカムイ 最終章
+  // https://annict.com/works/10971
+  { annict_id: 10971, mal_id: 55772 },
+  // [2024-WINTER] TV: 姫様“拷問”の時間です
+  // https://annict.com/works/10972
+  { annict_id: 10972, mal_id: 55774 },
 ]
