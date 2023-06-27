@@ -31409,4 +31409,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] TV: 姫様“拷問”の時間です
   // https://annict.com/works/10972
   { annict_id: 10972, mal_id: 55774 },
+  // [2007-SPRING] MOVIE: いぬかみっ！THE MOVIE 特命霊的捜査官・仮名史郎っ！
+  // https://annict.com/works/10973
+  { annict_id: 10973, mal_id: 2132 },
 ]
