@@ -19513,7 +19513,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6547, mal_id: 39668, syobocal_tid: 5307 },
   // [2019-SPRING] TV: 凹凸世界
   // https://annict.com/works/6548
-  { annict_id: 6548, syobocal_tid: 5273 },
+  { annict_id: 6548, mal_id: 33704, syobocal_tid: 5273 },
   // [2019-AUTUMN] MOVIE: 空の青さを知る人よ
   // https://annict.com/works/6549
   { annict_id: 6549, mal_id: 39569, syobocal_tid: 5447 },
@@ -20068,7 +20068,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6767, mal_id: 39382 },
   // [2019-SUMMER] TV: 凹凸世界 シーズン2
   // https://annict.com/works/6768
-  { annict_id: 6768, syobocal_tid: 5376 },
+  { annict_id: 6768, mal_id: 36345, syobocal_tid: 5376 },
   // [2024-null] MOVIE: キマイラ
   // https://annict.com/works/6769
   { annict_id: 6769, mal_id: 37437 },

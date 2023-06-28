@@ -43,12 +43,12 @@ Currently, arm-supplementary has 35682 entries (+6913).
 | Service                                     | arm-supplementary | arm / anime-offline-database |
 | :------------------------------------------ | :---------------: | :--------------------------: |
 | [Annict](https://annict.com)                |   10472 (+199)    |            10273             |
-| [AniList](https://anilist.co)               |   20886 (+2110)   |            18776             |
-| [MyAnimeList](https://myanimelist.net)      |   25093 (+373)    |            24720             |
+| [AniList](https://anilist.co)               |   20888 (+2112)   |            18776             |
+| [MyAnimeList](https://myanimelist.net)      |   25095 (+375)    |            24720             |
 | [しょぼいカレンダー](https://cal.syoboi.jp) |    5638 (+39)     |             5599             |
-| [AniDB](https://anidb.net)                  |   12996 (+151)    |            12845             |
-| [Anime-Planet](https://anime-planet.com)    |   22974 (+152)    |            22822             |
-| [aniSearch](https://anisearch.com)          |   17962 (+158)    |            17804             |
-| [Kitsu](https://kitsu.io)                   |   19318 (+164)    |            19154             |
-| [LiveChart.me](https://livechart.me)        |   10847 (+138)    |            10709             |
-| [Anime Notifier](https://notify.moe)        |   15950 (+161)    |            15789             |
+| [AniDB](https://anidb.net)                  |   12998 (+153)    |            12845             |
+| [Anime-Planet](https://anime-planet.com)    |   22976 (+154)    |            22822             |
+| [aniSearch](https://anisearch.com)          |   17964 (+160)    |            17804             |
+| [Kitsu](https://kitsu.io)                   |   19320 (+166)    |            19154             |
+| [LiveChart.me](https://livechart.me)        |   10849 (+140)    |            10709             |
+| [Anime Notifier](https://notify.moe)        |   15952 (+163)    |            15789             |
