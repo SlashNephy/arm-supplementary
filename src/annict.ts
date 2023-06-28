@@ -25975,7 +25975,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9092, mal_id: 44074, syobocal_tid: 6242 },
   // [2023-SUMMER] WEB: 幼女社長R
   // https://annict.com/works/9093
-  { annict_id: 9093, mal_id: 53079 },
+  { annict_id: 9093, mal_id: 53079, syobocal_tid: 6771 },
   // [2021-AUTUMN] WEB: スペースドギーズ
   // https://annict.com/works/9094
   { annict_id: 9094 },
