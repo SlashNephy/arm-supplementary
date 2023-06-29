@@ -30371,7 +30371,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] WEB: ヤキトリ
   // https://annict.com/works/10625
   { annict_id: 10625, mal_id: 54851 },
-  // [2023-SUMMER] WEB: 大奥
+  // [2023-SPRING] WEB: 大奥
   // https://annict.com/works/10626
   { annict_id: 10626, mal_id: 54850 },
   // [null-null] TV: Re:ゼロから始める異世界生活 3rd season
