@@ -31420,5 +31420,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 10975, mal_id: 55775 },
   // [null-null] TV: 【推しの子】 第2期
   // https://annict.com/works/10976
-  { annict_id: 10976 },
+  { annict_id: 10976, mal_id: 55791 },
 ]
