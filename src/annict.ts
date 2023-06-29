@@ -28838,7 +28838,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] TV: 羅小黒戦記 ぼくが選ぶ未来 TV放送版
   // https://annict.com/works/10113
   { annict_id: 10113, syobocal_tid: 6061 },
-  // [2023-null] TV: SHY
+  // [2023-AUTUMN] TV: SHY
   // https://annict.com/works/10114
   { annict_id: 10114, mal_id: 53237 },
   // [null-null] TV: ラブライブ！スーパースター!! 3期
@@ -30137,7 +30137,7 @@ export const annict: ArmEntry[] = [
   // [2022-WINTER] TV: 越後幕府
   // https://annict.com/works/10547
   { annict_id: 10547, mal_id: 51336 },
-  // [null-null] TV: 外科医エリーゼ
+  // [2024-WINTER] TV: 外科医エリーゼ
   // https://annict.com/works/10548
   { annict_id: 10548, mal_id: 54632 },
   // [2023-SPRING] TV: 鬼滅の刃 遊郭編 特別編集版
