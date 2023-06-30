@@ -31133,7 +31133,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] TV: フェ～レンザイ -神さまの日常-
   // https://annict.com/works/10880
   { annict_id: 10880, mal_id: 37292, syobocal_tid: 6750 },
-  // [2023-SUMMER] OTHER: おでかけ子ザメ
+  // [2023-SUMMER] WEB: おでかけ子ザメ
   // https://annict.com/works/10881
   { annict_id: 10881, mal_id: 55463 },
   // [null-null] OTHER: ざつ旅 -That's Journey-
