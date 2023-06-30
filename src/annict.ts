@@ -26579,7 +26579,7 @@ export const annict: ArmEntry[] = [
   // [2022-WINTER] TV: ざんねんないきもの事典 (第4シリーズ)
   // https://annict.com/works/9326
   { annict_id: 9326, syobocal_tid: 6271 },
-  // [2023-SUMMER] TV: 呪術廻戦 (2期)
+  // [2023-SUMMER] TV: 呪術廻戦 懐玉・玉折／渋谷事変
   // https://annict.com/works/9327
   { annict_id: 9327, mal_id: 51009, syobocal_tid: 6724 },
   // [2023-SPRING] TV: 鬼滅の刃 刀鍛冶の里編
