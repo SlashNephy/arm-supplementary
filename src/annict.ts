@@ -26456,7 +26456,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] TV: 大雪海のカイナ
   // https://annict.com/works/9285
   { annict_id: 9285, mal_id: 50864, syobocal_tid: 6562 },
-  // [null-null] OTHER: 神は遊戯に飢えている。
+  // [2024-null] TV: 神は遊戯に飢えている。
   // https://annict.com/works/9286
   { annict_id: 9286, mal_id: 50869 },
   // [2024-SPRING] MOVIE: BLOODY ESCAPE -地獄の逃走劇-
@@ -30227,7 +30227,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: ビーストウォーズ 超生命体トランスフォーマー アゲイン
   // https://annict.com/works/10577
   { annict_id: 10577 },
-  // [null-null] TV: 魔法少女にあこがれて
+  // [2024-null] TV: 魔法少女にあこがれて
   // https://annict.com/works/10578
   { annict_id: 10578, mal_id: 54722 },
   // [null-null] OTHER: 妻、小学生になる。
