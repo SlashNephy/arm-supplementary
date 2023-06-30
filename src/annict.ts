@@ -27643,7 +27643,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9713 },
   // [2022-SUMMER] TV: ななし怪談
   // https://annict.com/works/9714
-  { annict_id: 9714 },
+  { annict_id: 9714, mal_id: 52814 },
   // [2022-AUTUMN] TV: アキバ冥途戦争
   // https://annict.com/works/9715
   { annict_id: 9715, mal_id: 52193, syobocal_tid: 6448 },
@@ -31421,4 +31421,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 【推しの子】 第2期
   // https://annict.com/works/10976
   { annict_id: 10976, mal_id: 55791 },
+  // [2023-SUMMER] TV: ななし怪談 (2023)
+  // https://annict.com/works/10977
+  { annict_id: 10977 },
 ]
