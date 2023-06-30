@@ -30194,7 +30194,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] WEB: 不死身な僕の日常 シーズン2
   // https://annict.com/works/10566
   { annict_id: 10566, mal_id: 44069 },
-  // [2023-null] TV: 君のことが大大大大大好きな100人の彼女
+  // [2023-AUTUMN] TV: 君のことが大大大大大好きな100人の彼女
   // https://annict.com/works/10567
   { annict_id: 10567, mal_id: 54714 },
   // [2011-SPRING] OTHER: メグミとタイヨウ 果汁グミ Tweet Love Story
@@ -31424,4 +31424,10 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] TV: ななし怪談 (2023)
   // https://annict.com/works/10977
   { annict_id: 10977 },
+  // [2003-AUTUMN] OVA: ハートカクテルアゲイン
+  // https://annict.com/works/10978
+  { annict_id: 10978, mal_id: 21121 },
+  // [2023-SUMMER] TV: ハートカクテル カラフル 夏編
+  // https://annict.com/works/10979
+  { annict_id: 10979 },
 ]
