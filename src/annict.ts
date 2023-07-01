@@ -31432,11 +31432,14 @@ export const annict: ArmEntry[] = [
   { annict_id: 10979 },
   // [2024-WINTER] TV: マッシュル-MASHLE- 神覚者候補選抜試験編
   // https://annict.com/works/10980
-  { annict_id: 10980 },
-  // [null-null] OTHER: 夏目友人帳 漆
+  { annict_id: 10980, mal_id: 55813 },
+  // [null-null] TV: 夏目友人帳 漆
   // https://annict.com/works/10981
-  { annict_id: 10981 },
+  { annict_id: 10981, mal_id: 55823 },
   // [null-null] TV: 地獄楽 第二期
   // https://annict.com/works/10982
   { annict_id: 10982 },
+  // [2015-WINTER] OVA: 昭和元禄落語心中 OAD
+  // https://annict.com/works/10983
+  { annict_id: 10983, mal_id: 25801 },
 ]
