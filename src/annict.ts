@@ -31436,4 +31436,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 夏目友人帳 漆
   // https://annict.com/works/10981
   { annict_id: 10981 },
+  // [null-null] TV: 地獄楽 第二期
+  // https://annict.com/works/10982
+  { annict_id: 10982 },
 ]
