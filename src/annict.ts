@@ -31433,4 +31433,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] TV: マッシュル-MASHLE- 神覚者候補選抜試験編
   // https://annict.com/works/10980
   { annict_id: 10980 },
+  // [null-null] OTHER: 夏目友人帳 漆
+  // https://annict.com/works/10981
+  { annict_id: 10981 },
 ]
