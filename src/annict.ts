@@ -31445,4 +31445,10 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] MOVIE: 機動戦士ガンダムSEED FREEDOM
   // https://annict.com/works/10984
   { annict_id: 10984 },
+  // [null-null] TV: Fate/strange Fake
+  // https://annict.com/works/10985
+  { annict_id: 10985 },
+  // [null-null] OTHER: NEW PANTY AND STOCKING
+  // https://annict.com/works/10986
+  { annict_id: 10986, mal_id: 52293 },
 ]
