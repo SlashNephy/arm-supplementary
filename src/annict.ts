@@ -31451,4 +31451,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: NEW PANTY AND STOCKING
   // https://annict.com/works/10986
   { annict_id: 10986, mal_id: 52293 },
+  // [null-null] WEB: 村井の恋
+  // https://annict.com/works/10987
+  { annict_id: 10987, mal_id: 52080 },
 ]
