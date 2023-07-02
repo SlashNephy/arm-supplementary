@@ -31442,4 +31442,7 @@ export const annict: ArmEntry[] = [
   // [2015-WINTER] OVA: 昭和元禄落語心中 OAD
   // https://annict.com/works/10983
   { annict_id: 10983, mal_id: 25801 },
+  // [2024-WINTER] MOVIE: 機動戦士ガンダムSEED FREEDOM
+  // https://annict.com/works/10984
+  { annict_id: 10984 },
 ]
