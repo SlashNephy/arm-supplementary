@@ -25133,7 +25133,7 @@ export const annict: ArmEntry[] = [
   // [2021-AUTUMN] TV: メガトン級ムサシ
   // https://annict.com/works/8779
   { annict_id: 8779, mal_id: 33737, syobocal_tid: 6140 },
-  // [null-null] WEB: BEASTARS 新章
+  // [2024-null] WEB: BEASTARS FINAL SEASON
   // https://annict.com/works/8780
   { annict_id: 8780, mal_id: 49469 },
   // [2024-null] TV: この素晴らしい世界に祝福を！ 3
