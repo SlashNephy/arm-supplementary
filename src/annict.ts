@@ -30160,7 +30160,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10554, mal_id: 55454 },
   // [2023-SUMMER] MOVIE: 映画プリキュアオールスターズ F
   // https://annict.com/works/10555
-  { annict_id: 10555 },
+  { annict_id: 10555, mal_id: 54650 },
   // [1997-null] MOVIE: 空とぶドンキホーテ
   // https://annict.com/works/10556
   { annict_id: 10556 },
@@ -30592,7 +30592,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10699 },
   // [2023-SUMMER] TV: シャドウバースF セブンシャドウズ編
   // https://annict.com/works/10700
-  { annict_id: 10700, mal_id: 54854 },
+  { annict_id: 10700, mal_id: 54854, syobocal_tid: 6778 },
   // [2023-SPRING] MOVIE: 劇場版アイドリッシュセブン LIVE 4bit BEYOND THE PERiOD
   // https://annict.com/works/10701
   { annict_id: 10701, mal_id: 54118 },
@@ -31454,4 +31454,13 @@ export const annict: ArmEntry[] = [
   // [null-null] WEB: 村井の恋
   // https://annict.com/works/10987
   { annict_id: 10987, mal_id: 52080 },
+  // [null-null] TV: リビルドワールド
+  // https://annict.com/works/10988
+  { annict_id: 10988 },
+  // [null-null] TV: 沖縄で好きになった子が方言すぎてツラすぎる
+  // https://annict.com/works/10989
+  { annict_id: 10989, mal_id: 55842 },
+  // [null-null] TV: 黄昏アウトフォーカス
+  // https://annict.com/works/10990
+  { annict_id: 10990, mal_id: 55844 },
 ]
