@@ -26759,7 +26759,7 @@ export const annict: ArmEntry[] = [
   // [2022-WINTER] TV: アウルハウス シーズン2
   // https://annict.com/works/9418
   { annict_id: 9418 },
-  // [2023-null] TV: 聖女の魔力は万能です Season2
+  // [2023-AUTUMN] TV: 聖女の魔力は万能です Season2
   // https://annict.com/works/9419
   { annict_id: 9419, mal_id: 51215 },
   // [2022-SUMMER] TV: 金装のヴェルメイユ ～崖っぷち魔術師は最強の厄災と魔法世界を突き進む～
@@ -29249,9 +29249,9 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] TV: 「FLAGLIA」～なつやすみの物語～
   // https://annict.com/works/10250
   { annict_id: 10250, mal_id: 53424, syobocal_tid: 6617 },
-  // [2023-null] TV: 道産子ギャルはなまらめんこい
+  // [2024-WINTER] TV: 道産子ギャルはなまらめんこい
   // https://annict.com/works/10251
-  { annict_id: 10251 },
+  { annict_id: 10251, mal_id: 53421 },
   // [2023-SPRING] TV: カワイスギクライシス
   // https://annict.com/works/10252
   { annict_id: 10252, mal_id: 53163, syobocal_tid: 6627 },
@@ -31438,16 +31438,16 @@ export const annict: ArmEntry[] = [
   { annict_id: 10981, mal_id: 55823 },
   // [null-null] TV: 地獄楽 第二期
   // https://annict.com/works/10982
-  { annict_id: 10982 },
+  { annict_id: 10982, mal_id: 55825 },
   // [2015-WINTER] OVA: 昭和元禄落語心中 OAD
   // https://annict.com/works/10983
   { annict_id: 10983, mal_id: 25801 },
   // [2024-WINTER] MOVIE: 機動戦士ガンダムSEED FREEDOM
   // https://annict.com/works/10984
-  { annict_id: 10984 },
+  { annict_id: 10984, mal_id: 49073 },
   // [null-null] TV: Fate/strange Fake
   // https://annict.com/works/10985
-  { annict_id: 10985 },
+  { annict_id: 10985, mal_id: 55830 },
   // [null-null] OTHER: NEW PANTY AND STOCKING
   // https://annict.com/works/10986
   { annict_id: 10986, mal_id: 52293 },
@@ -31463,4 +31463,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 黄昏アウトフォーカス
   // https://annict.com/works/10990
   { annict_id: 10990, mal_id: 55844 },
+  // [null-null] WEB: 機動戦士ガンダム 復讐のレクイエム
+  // https://annict.com/works/10991
+  { annict_id: 10991 },
 ]
