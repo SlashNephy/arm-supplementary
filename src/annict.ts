@@ -31466,4 +31466,7 @@ export const annict: ArmEntry[] = [
   // [null-null] WEB: 機動戦士ガンダム 復讐のレクイエム
   // https://annict.com/works/10991
   { annict_id: 10991 },
+  // [null-null] OTHER: 異世界スーサイド・スクワッド
+  // https://annict.com/works/10992
+  { annict_id: 10992, mal_id: 55848 },
 ]
