@@ -31456,7 +31456,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10987, mal_id: 52080 },
   // [null-null] TV: リビルドワールド
   // https://annict.com/works/10988
-  { annict_id: 10988 },
+  { annict_id: 10988, mal_id: 55843 },
   // [null-null] TV: 沖縄で好きになった子が方言すぎてツラすぎる
   // https://annict.com/works/10989
   { annict_id: 10989, mal_id: 55842 },
@@ -31472,4 +31472,7 @@ export const annict: ArmEntry[] = [
   // [2024-null] TV: 黒執事 新シリーズ
   // https://annict.com/works/10993
   { annict_id: 10993, mal_id: 55855 },
+  // [2023-AUTUMN] WEB: ポケモンコンシェルジュ
+  // https://annict.com/works/10994
+  { annict_id: 10994, mal_id: 54633 },
 ]
