@@ -28970,7 +28970,7 @@ export const annict: ArmEntry[] = [
   // [2011-WINTER] OVA: マクロスF 超時空劇場
   // https://annict.com/works/10157
   { annict_id: 10157, mal_id: 10361 },
-  // [null-null] TV: 転生したら第七王子だったので、気ままに魔術を極めます
+  // [2024-SPRING] TV: 転生したら第七王子だったので、気ままに魔術を極めます
   // https://annict.com/works/10158
   { annict_id: 10158, mal_id: 53516 },
   // [2012-SPRING] TV: 仮面ライダーフォーゼ×クレヨンしんちゃん
@@ -30380,7 +30380,7 @@ export const annict: ArmEntry[] = [
   // [2023-null] MOVIE: 攻殻機動隊 SAC_2045 劇場版パート2
   // https://annict.com/works/10628
   { annict_id: 10628 },
-  // [2023-null] TV: 帰還者の魔法は特別です
+  // [2023-AUTUMN] TV: 帰還者の魔法は特別です
   // https://annict.com/works/10629
   { annict_id: 10629, mal_id: 54852 },
   // [null-null] TV: リンカイ！
@@ -31469,4 +31469,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 異世界スーサイド・スクワッド
   // https://annict.com/works/10992
   { annict_id: 10992, mal_id: 55848 },
+  // [2024-null] TV: 黒執事 新シリーズ
+  // https://annict.com/works/10993
+  { annict_id: 10993, mal_id: 55855 },
 ]
