@@ -30712,7 +30712,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10739, mal_id: 54535 },
   // [2023-SUMMER] TV: 湖池屋SDGs劇場 サスとテナ シーズン4
   // https://annict.com/works/10740
-  { annict_id: 10740 },
+  { annict_id: 10740, syobocal_tid: 6779 },
   // [2009-AUTUMN] OVA: "文学少女" 今日のおやつ 〜はつ恋〜
   // https://annict.com/works/10741
   { annict_id: 10741, mal_id: 7669 },
@@ -31475,4 +31475,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] WEB: ポケモンコンシェルジュ
   // https://annict.com/works/10994
   { annict_id: 10994, mal_id: 54633 },
+  // [2024-WINTER] TV: ゆびさきと恋々
+  // https://annict.com/works/10995
+  { annict_id: 10995 },
 ]
