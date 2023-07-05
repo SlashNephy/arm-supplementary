@@ -26372,7 +26372,7 @@ export const annict: ArmEntry[] = [
   // [1975-AUTUMN] TV: わんぱく大昔クムクム
   // https://annict.com/works/9257
   { annict_id: 9257, mal_id: 8240 },
-  // [2023-null] TV: MFゴースト
+  // [2023-AUTUMN] TV: MFゴースト
   // https://annict.com/works/9258
   { annict_id: 9258, mal_id: 50695 },
   // [null-null] TV: スライム倒して300年、知らないうちにレベルMAXになってました 第2期
