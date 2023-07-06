@@ -22288,7 +22288,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 7702, mal_id: 42962, syobocal_tid: 6439 },
   // [2022-SPRING] WEB: スプリガン (Netflixオリジナル)
   // https://annict.com/works/7703
-  { annict_id: 7703, mal_id: 39489, syobocal_tid: 6727 },
+  { annict_id: 7703, mal_id: 39489 },
   // [2019-WINTER] MOVIE: 鬼滅の刃 兄妹の絆
   // https://annict.com/works/7704
   { annict_id: 7704 },
@@ -31478,4 +31478,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] TV: ゆびさきと恋々
   // https://annict.com/works/10995
   { annict_id: 10995 },
+  // [2023-SUMMER] TV: スプリガン (TV放送)
+  // https://annict.com/works/10996
+  { annict_id: 10996, syobocal_tid: 6727 },
 ]
