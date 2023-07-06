@@ -31493,4 +31493,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] TV: NARUTO -ナルト- 完全新作アニメーション
   // https://annict.com/works/11000
   { annict_id: 11000, mal_id: 54688 },
+  // [2023-SPRING] WEB: 髑髏島
+  // https://annict.com/works/11001
+  { annict_id: 11001 },
 ]
