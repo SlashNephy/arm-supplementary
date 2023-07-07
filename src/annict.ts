@@ -30557,7 +30557,7 @@ export const annict: ArmEntry[] = [
   // [2022-SUMMER] WEB: Obey Me! The Anime Season 2
   // https://annict.com/works/10688
   { annict_id: 10688, mal_id: 52045 },
-  // [null-null] OTHER: 結婚するって、本当ですか
+  // [null-null] TV: 結婚するって、本当ですか
   // https://annict.com/works/10689
   { annict_id: 10689, mal_id: 54982 },
   // [2023-SPRING] MOVIE: 劇場版 Collar×Malice -deep cover- 前編
@@ -31496,4 +31496,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] WEB: 髑髏島
   // https://annict.com/works/11001
   { annict_id: 11001 },
+  // [2024-SPRING] TV: 無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール
+  // https://annict.com/works/11002
+  { annict_id: 11002, mal_id: 55888 },
 ]
