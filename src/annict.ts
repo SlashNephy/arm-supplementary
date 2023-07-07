@@ -31477,7 +31477,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10994, mal_id: 54633 },
   // [2024-WINTER] TV: ゆびさきと恋々
   // https://annict.com/works/10995
-  { annict_id: 10995 },
+  { annict_id: 10995, mal_id: 55866 },
   // [2023-SUMMER] TV: スプリガン (TV放送)
   // https://annict.com/works/10996
   { annict_id: 10996, syobocal_tid: 6727 },
