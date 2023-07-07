@@ -30047,7 +30047,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] WEB: PLUTO
   // https://annict.com/works/10517
   { annict_id: 10517, mal_id: 35737 },
-  // [2023-null] TV: 薬屋のひとりごと
+  // [2023-AUTUMN] TV: 薬屋のひとりごと
   // https://annict.com/works/10518
   { annict_id: 10518, mal_id: 54492 },
   // [2012-SUMMER] MOVIE: 月と少年
