@@ -31499,4 +31499,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: 無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール
   // https://annict.com/works/11002
   { annict_id: 11002, mal_id: 55888 },
+  // [2023-AUTUMN] TV: 僕らの雨いろプロトコル
+  // https://annict.com/works/11003
+  { annict_id: 11003, mal_id: 55894 },
 ]
