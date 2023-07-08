@@ -31502,4 +31502,13 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: 僕らの雨いろプロトコル
   // https://annict.com/works/11003
   { annict_id: 11003, mal_id: 55894 },
+  // [2023-SUMMER] MOVIE: アイドルマスター ミリオンライブ！ 劇場先行上映 第1幕
+  // https://annict.com/works/11004
+  { annict_id: 11004 },
+  // [2023-SUMMER] MOVIE: アイドルマスター ミリオンライブ！ 劇場先行上映 第2幕
+  // https://annict.com/works/11005
+  { annict_id: 11005 },
+  // [2023-SUMMER] MOVIE: アイドルマスター ミリオンライブ！ 劇場先行上映 第3幕
+  // https://annict.com/works/11006
+  { annict_id: 11006 },
 ]
