@@ -31514,4 +31514,7 @@ export const annict: ArmEntry[] = [
   // [1968-SUMMER] MOVIE: Yellow Submarine
   // https://annict.com/works/11007
   { annict_id: 11007 },
+  // [null-null] TV: ザ・ファブル
+  // https://annict.com/works/11008
+  { annict_id: 11008 },
 ]
