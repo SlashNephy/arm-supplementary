@@ -31511,4 +31511,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] MOVIE: アイドルマスター ミリオンライブ！ 劇場先行上映 第3幕
   // https://annict.com/works/11006
   { annict_id: 11006 },
+  // [1968-SUMMER] MOVIE: Yellow Submarine
+  // https://annict.com/works/11007
+  { annict_id: 11007 },
 ]
