@@ -29675,7 +29675,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: ぐんまちゃん シーズン2
   // https://annict.com/works/10392
   { annict_id: 10392, mal_id: 54216, syobocal_tid: 6652 },
-  // [null-null] TV: 怪異と乙女と神隠し
+  // [2024-null] TV: 怪異と乙女と神隠し
   // https://annict.com/works/10393
   { annict_id: 10393, mal_id: 54199 },
   // [2006-AUTUMN] TV: ウサハナ 夢見るバレリーナ
