@@ -13316,7 +13316,7 @@ export const annict: ArmEntry[] = [
   // [2015-AUTUMN] TV: コンクリート・レボルティオ～超人幻想～
   // https://annict.com/works/4455
   { annict_id: 4455, mal_id: 31147, syobocal_tid: 3921 },
-  // [2015-AUTUMN] TV: 蒼穹のファフナーEXODUS (第2クール)
+  // [2015-AUTUMN] TV: 蒼穹のファフナー EXODUS (第2クール)
   // https://annict.com/works/4456
   { annict_id: 4456, mal_id: 30549, syobocal_tid: 3919 },
   // [2015-AUTUMN] TV: うたわれるもの 偽りの仮面
