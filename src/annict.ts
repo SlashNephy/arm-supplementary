@@ -28901,7 +28901,7 @@ export const annict: ArmEntry[] = [
   // [2023-null] TV: 強くてニューサーガ
   // https://annict.com/works/10134
   { annict_id: 10134 },
-  // [2024-null] TV: ゆるキャン SEASON3
+  // [2024-null] TV: ゆるキャン△ SEASON3
   // https://annict.com/works/10135
   { annict_id: 10135, mal_id: 53410 },
   // [2023-WINTER] TV: Buddy Daddies
