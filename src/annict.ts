@@ -31517,4 +31517,16 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: ザ・ファブル
   // https://annict.com/works/11008
   { annict_id: 11008 },
+  // [2023-SUMMER] WEB: 逆異世界転生エージェント エーコさん
+  // https://annict.com/works/11009
+  { annict_id: 11009 },
+  // [2011-WINTER] OVA: ショコラの魔法
+  // https://annict.com/works/11010
+  { annict_id: 11010, mal_id: 9935 },
+  // [2014-SUMMER] OVA: エリートジャック！！
+  // https://annict.com/works/11011
+  { annict_id: 11011, mal_id: 24985 },
+  // [2012-WINTER] OVA: いじめ 〜いけにえの教室〜
+  // https://annict.com/works/11012
+  { annict_id: 11012 },
 ]
