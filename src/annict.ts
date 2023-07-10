@@ -31516,7 +31516,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11007 },
   // [null-null] TV: ザ・ファブル
   // https://annict.com/works/11008
-  { annict_id: 11008 },
+  { annict_id: 11008, mal_id: 55911 },
   // [2023-SUMMER] WEB: 逆異世界転生エージェント エーコさん
   // https://annict.com/works/11009
   { annict_id: 11009 },
