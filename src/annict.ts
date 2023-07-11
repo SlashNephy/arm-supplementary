@@ -31529,4 +31529,10 @@ export const annict: ArmEntry[] = [
   // [2012-WINTER] OVA: いじめ 〜いけにえの教室〜
   // https://annict.com/works/11012
   { annict_id: 11012 },
+  // [2023-SUMMER] WEB: 時光代理人 -LINK CLICK- 第2期
+  // https://annict.com/works/11013
+  { annict_id: 11013, mal_id: 49413 },
+  // [2008-SUMMER] OTHER: 遊☆戯☆王5D's 進化する決闘! スターダストVSレッド・デーモンズ
+  // https://annict.com/works/11014
+  { annict_id: 11014, mal_id: 5298 },
 ]
