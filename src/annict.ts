@@ -31088,7 +31088,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] MOVIE: ぼっち・ざ・ろっく！ 劇場総集編
   // https://annict.com/works/10865
   { annict_id: 10865, mal_id: 55357 },
-  // [2023-SUMMER] WEB: シンデュアリティ科学講座
+  // [2023-SUMMER] WEB: しんでゅありてぃ科学講座
   // https://annict.com/works/10866
   { annict_id: 10866 },
   // [1979-SUMMER] MOVIE: 海のトリトン 劇場版
