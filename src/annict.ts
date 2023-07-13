@@ -28742,7 +28742,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] TV: 彼女、お借りします 第3期
   // https://annict.com/works/10081
   { annict_id: 10081, mal_id: 53050, syobocal_tid: 6756 },
-  // [2023-AUTUMN] TV: カノジョも彼女 第2期
+  // [2023-AUTUMN] TV: カノジョも彼女 Season 2
   // https://annict.com/works/10082
   { annict_id: 10082, mal_id: 53040 },
   // [null-null] OTHER: 『原神』アニメ
