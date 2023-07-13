@@ -25520,7 +25520,7 @@ export const annict: ArmEntry[] = [
   // [2021-SUMMER] WEB: シンビアパート
   // https://annict.com/works/8941
   { annict_id: 8941, mal_id: 38923 },
-  // [null-null] TV: 月が導く異世界道中 第2期
+  // [2024-WINTER] TV: 月が導く異世界道中 第2期
   // https://annict.com/works/8942
   { annict_id: 8942, mal_id: 49889 },
   // [1998-AUTUMN] MOVIE: 魔法の剣 キャメロット
