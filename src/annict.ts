@@ -16238,7 +16238,7 @@ export const annict: ArmEntry[] = [
   // [2017-SUMMER] WEB: ドリフェス！R
   // https://annict.com/works/5445
   { annict_id: 5445, mal_id: 34552, syobocal_tid: 4726 },
-  // [2017-AUTUMN] TV: 食戟のソーマ 餐の皿
+  // [2017-AUTUMN] TV: 食戟のソーマ 餐ノ皿
   // https://annict.com/works/5446
   { annict_id: 5446, mal_id: 35788, syobocal_tid: 4718 },
   // [2017-AUTUMN] TV: あめこん!! (雨色ココア第4期)
