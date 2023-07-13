@@ -31090,7 +31090,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10865, mal_id: 55357 },
   // [2023-SUMMER] WEB: しんでゅありてぃ科学講座
   // https://annict.com/works/10866
-  { annict_id: 10866 },
+  { annict_id: 10866, mal_id: 55939 },
   // [1979-SUMMER] MOVIE: 海のトリトン 劇場版
   // https://annict.com/works/10867
   { annict_id: 10867, mal_id: 7626 },
@@ -31396,7 +31396,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10967, mal_id: 53534 },
   // [2023-SUMMER] TV: シルバニアファミリー フレアのゴー・フォー・ドリーム！
   // https://annict.com/works/10968
-  { annict_id: 10968 },
+  { annict_id: 10968, mal_id: 55948 },
   // [2023-AUTUMN] MOVIE: 劇場版 シルバニアファミリー フレアからのおくりもの
   // https://annict.com/works/10969
   { annict_id: 10969, mal_id: 54989 },
@@ -31535,4 +31535,16 @@ export const annict: ArmEntry[] = [
   // [2008-SUMMER] OTHER: 遊☆戯☆王5D's 進化する決闘! スターダストVSレッド・デーモンズ
   // https://annict.com/works/11014
   { annict_id: 11014, mal_id: 5298 },
+  // [2023-AUTUMN] TV: レヱル・ロマネスク2
+  // https://annict.com/works/11015
+  { annict_id: 11015, mal_id: 44583 },
+  // [2023-AUTUMN] MOVIE: アイドルマスター シャイニーカラーズ 劇場先行上映 第1章
+  // https://annict.com/works/11016
+  { annict_id: 11016 },
+  // [2023-AUTUMN] MOVIE: アイドルマスター シャイニーカラーズ 劇場先行上映 第2章
+  // https://annict.com/works/11017
+  { annict_id: 11017 },
+  // [2024-WINTER] MOVIE: アイドルマスター シャイニーカラーズ 劇場先行上映 第3章
+  // https://annict.com/works/11018
+  { annict_id: 11018 },
 ]
