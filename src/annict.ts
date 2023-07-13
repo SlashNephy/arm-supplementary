@@ -31547,4 +31547,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] MOVIE: アイドルマスター シャイニーカラーズ 劇場先行上映 第3章
   // https://annict.com/works/11018
   { annict_id: 11018 },
+  // [2024-WINTER] TV: 魔女と野獣
+  // https://annict.com/works/11019
+  { annict_id: 11019, mal_id: 52816 },
 ]
