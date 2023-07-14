@@ -20,7 +20,6 @@ export const fetchAllAnnictWorks = async (client: GraphQLClient): Promise<Annict
   const result: AnnictWork[] = []
   let after: string | null = null
 
-  // eslint-disable-next-line @typescript-eslint/no-unnecessary-condition
   while (true) {
     // eslint-disable-next-line no-await-in-loop
     const response: ListWorksQuery = await client.request(ListWorksDocument, {
