@@ -29210,9 +29210,9 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: 私の推しは悪役令嬢。
   // https://annict.com/works/10237
   { annict_id: 10237, mal_id: 53833 },
-  // [null-null] TV: Unnamed Memory
+  // [2024-null] TV: Unnamed Memory
   // https://annict.com/works/10238
-  { annict_id: 10238 },
+  { annict_id: 10238, mal_id: 53835 },
   // [2017-SUMMER] WEB: ソニックトゥーン
   // https://annict.com/works/10239
   { annict_id: 10239 },
@@ -31550,4 +31550,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] TV: 魔女と野獣
   // https://annict.com/works/11019
   { annict_id: 11019, mal_id: 52816 },
+  // [null-null] TV: 30歳まで童貞だと魔法使いになれるらしい
+  // https://annict.com/works/11020
+  { annict_id: 11020, mal_id: 55973 },
 ]
