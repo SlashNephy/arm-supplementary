@@ -15253,7 +15253,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5111, mal_id: 34535 },
   // [1996-WINTER] MOVIE: ウルトラマンカンパニー
   // https://annict.com/works/5112
-  { annict_id: 5112 },
+  { annict_id: 5112, mal_id: 55949 },
   // [1998-WINTER] MOVIE: ウルトラニャン2 ハッピー大作戦
   // https://annict.com/works/5113
   { annict_id: 5113, mal_id: 4682 },
