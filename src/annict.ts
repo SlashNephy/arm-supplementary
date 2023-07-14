@@ -31553,4 +31553,13 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 30歳まで童貞だと魔法使いになれるらしい
   // https://annict.com/works/11020
   { annict_id: 11020, mal_id: 55973 },
+  // [2023-SUMMER] WEB: うちの会社の小さい先輩の話 Twitterミニアニメ
+  // https://annict.com/works/11021
+  { annict_id: 11021 },
+  // [2023-SUMMER] WEB: キンバリー魔法学校のゆかいな日常
+  // https://annict.com/works/11022
+  { annict_id: 11022, mal_id: 55804 },
+  // [2023-SUMMER] WEB: キンバリー魔法学校通信
+  // https://annict.com/works/11023
+  { annict_id: 11023 },
 ]
