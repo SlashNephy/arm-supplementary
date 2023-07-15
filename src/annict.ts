@@ -26204,7 +26204,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] TV: 七つの魔剣が支配する
   // https://annict.com/works/9201
   { annict_id: 9201, mal_id: 50582, syobocal_tid: 6740 },
-  // [2023-null] TV: 豚のレバーは加熱しろ
+  // [2023-AUTUMN] TV: 豚のレバーは加熱しろ
   // https://annict.com/works/9202
   { annict_id: 9202, mal_id: 50583 },
   // [2023-AUTUMN] TV: ミギとダリ
@@ -31574,4 +31574,16 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: ソードアート・オンライン オルタナティブ ガンゲイル・オンラインII
   // https://annict.com/works/11027
   { annict_id: 11027, mal_id: 55994 },
+  // [null-null] TV: 男女の友情は成立する？（いや、しないっ!!）
+  // https://annict.com/works/11028
+  { annict_id: 11028, mal_id: 52709 },
+  // [null-null] TV: ユア・フォルマ
+  // https://annict.com/works/11029
+  { annict_id: 11029, mal_id: 55995 },
+  // [null-null] OTHER: ギルドの受付嬢ですが、残業は嫌なのでボスをソロ討伐しようと思います
+  // https://annict.com/works/11030
+  { annict_id: 11030, mal_id: 55997 },
+  // [null-null] TV: 恋は双子で割り切れない
+  // https://annict.com/works/11031
+  { annict_id: 11031, mal_id: 55996 },
 ]
