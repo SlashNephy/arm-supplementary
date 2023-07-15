@@ -31562,4 +31562,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] WEB: キンバリー魔法学校通信
   // https://annict.com/works/11023
   { annict_id: 11023 },
+  // [2023-AUTUMN] MOVIE: 火の鳥 エデンの花
+  // https://annict.com/works/11024
+  { annict_id: 11024, mal_id: 55970 },
 ]
