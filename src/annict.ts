@@ -29513,9 +29513,9 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] MOVIE: 劇場版 SPY×FAMILY CODE: White
   // https://annict.com/works/10338
   { annict_id: 10338, mal_id: 53888 },
-  // [null-null] TV: 声優ラジオのウラオモテ
+  // [2024-null] TV: 声優ラジオのウラオモテ
   // https://annict.com/works/10339
-  { annict_id: 10339 },
+  { annict_id: 10339, mal_id: 53912 },
   // [null-null] OTHER: 地縛少年花子くん 新作
   // https://annict.com/works/10340
   { annict_id: 10340, mal_id: 53924 },
@@ -30413,7 +30413,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: HIGH CARD season2
   // https://annict.com/works/10639
   { annict_id: 10639, mal_id: 54869 },
-  // [2023-null] WEB: PHOENIX: EDEN17
+  // [2023-SUMMER] WEB: 火の鳥 エデンの宙
   // https://annict.com/works/10640
   { annict_id: 10640, mal_id: 53720 },
   // [null-null] OTHER: TO BE HERO X
@@ -31568,4 +31568,10 @@ export const annict: ArmEntry[] = [
   // [2016-AUTUMN] TV: 神々の記
   // https://annict.com/works/11025
   { annict_id: 11025, mal_id: 34292 },
+  // [2024-null] TV: 魔法科高校の劣等生 新シリーズ
+  // https://annict.com/works/11026
+  { annict_id: 11026, mal_id: 50713 },
+  // [null-null] TV: ソードアート・オンライン オルタナティブ ガンゲイル・オンラインII
+  // https://annict.com/works/11027
+  { annict_id: 11027, mal_id: 55994 },
 ]
