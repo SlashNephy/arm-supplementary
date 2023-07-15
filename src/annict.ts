@@ -31565,4 +31565,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] MOVIE: 火の鳥 エデンの花
   // https://annict.com/works/11024
   { annict_id: 11024, mal_id: 55970 },
+  // [2016-AUTUMN] TV: 神々の記
+  // https://annict.com/works/11025
+  { annict_id: 11025, mal_id: 34292 },
 ]
