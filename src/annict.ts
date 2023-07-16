@@ -30041,7 +30041,7 @@ export const annict: ArmEntry[] = [
   // [2002-SUMMER] OVA: ヤングハーロックを追え! コスモウォーリアー零外伝
   // https://annict.com/works/10515
   { annict_id: 10515, mal_id: 1677 },
-  // [null-null] TV: 異修羅
+  // [2024-WINTER] TV: 異修羅
   // https://annict.com/works/10516
   { annict_id: 10516, mal_id: 54449 },
   // [2023-AUTUMN] WEB: PLUTO
@@ -30233,7 +30233,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 妻、小学生になる。
   // https://annict.com/works/10579
   { annict_id: 10579, mal_id: 54726 },
-  // [2023-null] TV: 暴食のベルセルク
+  // [2023-AUTUMN] TV: 暴食のベルセルク
   // https://annict.com/works/10580
   { annict_id: 10580, mal_id: 53439 },
   // [null-null] OTHER: キン肉マン 新シリーズ
