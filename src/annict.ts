@@ -26186,9 +26186,9 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] TV: 弱虫ペダル LIMIT BREAK
   // https://annict.com/works/9195
   { annict_id: 9195, mal_id: 50552, syobocal_tid: 6429 },
-  // [2022-SUMMER] MOVIE: 屋根裏のラジャー
+  // [2023-AUTUMN] MOVIE: 屋根裏のラジャー
   // https://annict.com/works/9196
-  { annict_id: 9196 },
+  { annict_id: 9196, mal_id: 50553 },
   // [2021-SUMMER] WEB: 俺、つしま (Web)
   // https://annict.com/works/9197
   { annict_id: 9197, mal_id: 49392 },
