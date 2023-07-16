@@ -31589,4 +31589,10 @@ export const annict: ArmEntry[] = [
   // [2024-null] TV: メカウデ
   // https://annict.com/works/11032
   { annict_id: 11032, mal_id: 53033 },
+  // [2022-SPRING] WEB: ミニ豆ちゃん シーズン3
+  // https://annict.com/works/11033
+  { annict_id: 11033, mal_id: 41509 },
+  // [2022-SUMMER] WEB: ミニ豆ちゃん シーズン4
+  // https://annict.com/works/11034
+  { annict_id: 11034, mal_id: 42333 },
 ]
