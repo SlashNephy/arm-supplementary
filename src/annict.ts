@@ -31586,4 +31586,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 恋は双子で割り切れない
   // https://annict.com/works/11031
   { annict_id: 11031, mal_id: 55996 },
+  // [2024-null] TV: メカウデ
+  // https://annict.com/works/11032
+  { annict_id: 11032, mal_id: 53033 },
 ]
