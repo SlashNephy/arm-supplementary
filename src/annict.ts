@@ -31597,10 +31597,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 11034, mal_id: 42333 },
   // [null-null] TV: 錆喰いビスコ 第2期
   // https://annict.com/works/11035
-  { annict_id: 11035 },
+  { annict_id: 11035, mal_id: 56008 },
   // [null-null] OTHER: 勇者刑に処す 懲罰勇者9004隊刑務記録
   // https://annict.com/works/11036
-  { annict_id: 11036 },
+  { annict_id: 11036, mal_id: 56009 },
   // [null-null] TV: 百千さん家のあやかし王子
   // https://annict.com/works/11037
   { annict_id: 11037, mal_id: 55998 },
