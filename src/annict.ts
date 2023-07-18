@@ -15202,7 +15202,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5094, mal_id: 34467, syobocal_tid: 4467 },
   // [2019-SPRING] OVA: 蒼穹のファフナー THE BEYOND
   // https://annict.com/works/5095
-  { annict_id: 5095, mal_id: 34649, syobocal_tid: 6737 },
+  { annict_id: 5095, mal_id: 34649 },
   // [2018-WINTER] OVA: DAYS 東院学園戦
   // https://annict.com/works/5096
   { annict_id: 5096, mal_id: 34513 },
@@ -28735,7 +28735,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10078 },
   // [2023-AUTUMN] TV: 葬送のフリーレン
   // https://annict.com/works/10079
-  { annict_id: 10079, mal_id: 52991 },
+  { annict_id: 10079, mal_id: 52991, syobocal_tid: 6776 },
   // [2023-SUMMER] TV: SYNDUALITY Noir
   // https://annict.com/works/10080
   { annict_id: 10080, mal_id: 53026, syobocal_tid: 6729 },
@@ -31604,4 +31604,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 百千さん家のあやかし王子
   // https://annict.com/works/11037
   { annict_id: 11037, mal_id: 55998 },
+  // [2023-SUMMER] TV: 蒼穹のファフナー THE BEYOND (TV Edition)
+  // https://annict.com/works/11038
+  { annict_id: 11038, syobocal_tid: 6737 },
 ]
