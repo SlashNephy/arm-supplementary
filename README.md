@@ -43,12 +43,12 @@ Currently, arm-supplementary has 35802 entries (+6976).
 | Service                                     | arm-supplementary | arm / anime-offline-database |
 | :------------------------------------------ | :---------------: | :--------------------------: |
 | [Annict](https://annict.com)                |   10535 (+200)    |            10335             |
-| [AniList](https://anilist.co)               |   20936 (+2098)   |            18838             |
-| [MyAnimeList](https://myanimelist.net)      |   25220 (+433)    |            24787             |
+| [AniList](https://anilist.co)               |   20938 (+2100)   |            18838             |
+| [MyAnimeList](https://myanimelist.net)      |   25222 (+435)    |            24787             |
 | [しょぼいカレンダー](https://cal.syoboi.jp) |    5641 (+31)     |             5610             |
-| [AniDB](https://anidb.net)                  |   13022 (+143)    |            12879             |
-| [Anime-Planet](https://anime-planet.com)    |   23084 (+144)    |            22940             |
-| [aniSearch](https://anisearch.com)          |   18029 (+150)    |            17879             |
-| [Kitsu](https://kitsu.io)                   |   19378 (+155)    |            19223             |
-| [LiveChart.me](https://livechart.me)        |   10975 (+137)    |            10838             |
-| [Anime Notifier](https://notify.moe)        |   15971 (+151)    |            15820             |
+| [AniDB](https://anidb.net)                  |   13024 (+145)    |            12879             |
+| [Anime-Planet](https://anime-planet.com)    |   23086 (+146)    |            22940             |
+| [aniSearch](https://anisearch.com)          |   18031 (+152)    |            17879             |
+| [Kitsu](https://kitsu.io)                   |   19380 (+157)    |            19223             |
+| [LiveChart.me](https://livechart.me)        |   10976 (+138)    |            10838             |
+| [Anime Notifier](https://notify.moe)        |   15973 (+153)    |            15820             |

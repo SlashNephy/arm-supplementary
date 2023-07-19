@@ -25735,10 +25735,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 9012, mal_id: 50175, syobocal_tid: 6289 },
   // [2015-SUMMER] TV: スティッチ！パーフェクト・メモリー
   // https://annict.com/works/9013
-  { annict_id: 9013 },
+  { annict_id: 9013, mal_id: 31238 },
   // [2012-SPRING] TV: スティッチと砂の惑星
   // https://annict.com/works/9014
-  { annict_id: 9014 },
+  { annict_id: 9014, mal_id: 25891 },
   // [2021-AUTUMN] MOVIE: 映画 妖怪ウォッチ♪ ケータとオレっちの出会い編だニャン♪ ワ、ワタクシも～♪♪
   // https://annict.com/works/9015
   { annict_id: 9015 },
