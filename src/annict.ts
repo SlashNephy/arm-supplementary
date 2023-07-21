@@ -12263,7 +12263,7 @@ export const annict: ArmEntry[] = [
   // [2014-SUMMER] OVA: あの夏で待ってる 特別編
   // https://annict.com/works/4101
   { annict_id: 4101, mal_id: 23447 },
-  // [2014-SUMMER] TV: 神羅万象～天地神明の章～
+  // [2014-SUMMER] WEB: 神羅万象～天地神明の章～
   // https://annict.com/works/4102
   { annict_id: 4102, mal_id: 24719 },
   // [2014-AUTUMN] OVA: 翠星のガルガンティア ～めぐる航路、遥か～
@@ -12302,7 +12302,7 @@ export const annict: ArmEntry[] = [
   // [2014-SUMMER] TV: LOVE STAGE!!
   // https://annict.com/works/4114
   { annict_id: 4114, mal_id: 21105, syobocal_tid: 3462 },
-  // [2014-SUMMER] TV: 思い出のマーニー
+  // [2014-SUMMER] MOVIE: 思い出のマーニー
   // https://annict.com/works/4115
   { annict_id: 4115, mal_id: 21557, syobocal_tid: 4658 },
   // [2014-SPRING] TV: ロボカーポリー(第2期)
