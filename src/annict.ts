@@ -12449,7 +12449,7 @@ export const annict: ArmEntry[] = [
   // [2014-AUTUMN] TV: 四月は君の嘘
   // https://annict.com/works/4164
   { annict_id: 4164, mal_id: 23273, syobocal_tid: 3546 },
-  // [2014-AUTUMN] TV: 劇場版 アイカツ！
+  // [2014-AUTUMN] MOVIE: 劇場版 アイカツ！
   // https://annict.com/works/4165
   { annict_id: 4165, mal_id: 22819, syobocal_tid: 4275 },
   // [2015-WINTER] TV: デュラララ!!×2 承
