@@ -31429,7 +31429,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10978, mal_id: 21121 },
   // [2023-SUMMER] TV: ハートカクテル カラフル 夏編
   // https://annict.com/works/10979
-  { annict_id: 10979 },
+  { annict_id: 10979, syobocal_tid: 6780 },
   // [2024-WINTER] TV: マッシュル-MASHLE- 神覚者候補選抜試験編
   // https://annict.com/works/10980
   { annict_id: 10980, mal_id: 55813 },
