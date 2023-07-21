@@ -29660,7 +29660,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] TV: ひろがるスカイ！プリキュア
   // https://annict.com/works/10387
   { annict_id: 10387, mal_id: 53716, syobocal_tid: 6614 },
-  // [2024-null] TV: 異世界でもふもふなでなでするためにがんばってます。
+  // [2024-WINTER] TV: 異世界でもふもふなでなでするためにがんばってます。
   // https://annict.com/works/10388
   { annict_id: 10388, mal_id: 52359 },
   // [2023-SUMMER] WEB: BASTARD!! -暗黒の破壊神- 地獄の鎮魂歌編
