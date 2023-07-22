@@ -31607,4 +31607,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] TV: 蒼穹のファフナー THE BEYOND (TV Edition)
   // https://annict.com/works/11038
   { annict_id: 11038, syobocal_tid: 6737 },
+  // [2016-WINTER] WEB: おにくだいすき！ゼウシくん 第3期
+  // https://annict.com/works/11039
+  { annict_id: 11039, mal_id: 32666 },
 ]
