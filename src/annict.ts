@@ -31613,4 +31613,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: MONSTERS 一百三情飛龍侍極
   // https://annict.com/works/11040
   { annict_id: 11040 },
+  // [null-null] WEB: Project BULLET／BULLET
+  // https://annict.com/works/11041
+  { annict_id: 11041, mal_id: 53722 },
 ]
