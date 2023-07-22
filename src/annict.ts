@@ -31610,4 +31610,7 @@ export const annict: ArmEntry[] = [
   // [2016-WINTER] WEB: おにくだいすき！ゼウシくん 第3期
   // https://annict.com/works/11039
   { annict_id: 11039, mal_id: 32666 },
+  // [null-null] OTHER: MONSTERS 一百三情飛龍侍極
+  // https://annict.com/works/11040
+  { annict_id: 11040 },
 ]
