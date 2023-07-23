@@ -17533,10 +17533,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 5879, mal_id: 10092 },
   // [2013-SPRING] OVA: 神のみぞ知るセカイ OVA「マジカル☆スター かのん100%」
   // https://annict.com/works/5880
-  { annict_id: 5880 },
+  { annict_id: 5880, mal_id: 17725 },
   // [2011-SUMMER] OVA: 神のみぞ知るセカイ OVA「4人とアイドル」
   // https://annict.com/works/5881
-  { annict_id: 5881 },
+  { annict_id: 5881, mal_id: 10805 },
   // [2017-SPRING] OVA: 青の祓魔師 京都不浄王篇 OVA
   // https://annict.com/works/5882
   { annict_id: 5882 },
@@ -17656,7 +17656,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5920 },
   // [2013-SPRING] TV: ガラスの仮面ですがZ
   // https://annict.com/works/5921
-  { annict_id: 5921, syobocal_tid: 2999 },
+  { annict_id: 5921, mal_id: 27621, syobocal_tid: 2999 },
   // [2013-SPRING] MOVIE: ガラスの仮面ですが THE MOVIE 女スパイの恋! 紫のバラは危険な香り!?
   // https://annict.com/works/5922
   { annict_id: 5922, mal_id: 18109 },

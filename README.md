@@ -43,12 +43,12 @@ Currently, arm-supplementary has 35896 entries (+7070).
 | Service                                     | arm-supplementary | arm / anime-offline-database |
 | :------------------------------------------ | :---------------: | :--------------------------: |
 | [Annict](https://annict.com)                |   10538 (+203)    |            10335             |
-| [AniList](https://anilist.co)               |   20953 (+2115)   |            18838             |
-| [MyAnimeList](https://myanimelist.net)      |   25303 (+516)    |            24787             |
+| [AniList](https://anilist.co)               |   20956 (+2118)   |            18838             |
+| [MyAnimeList](https://myanimelist.net)      |   25306 (+519)    |            24787             |
 | [しょぼいカレンダー](https://cal.syoboi.jp) |    5642 (+32)     |             5610             |
-| [AniDB](https://anidb.net)                  |   13038 (+146)    |            12892             |
-| [Anime-Planet](https://anime-planet.com)    |   23110 (+148)    |            22962             |
-| [aniSearch](https://anisearch.com)          |   18060 (+154)    |            17906             |
-| [Kitsu](https://kitsu.io)                   |   19447 (+158)    |            19289             |
-| [LiveChart.me](https://livechart.me)        |   10991 (+140)    |            10851             |
-| [Anime Notifier](https://notify.moe)        |   15989 (+155)    |            15834             |
+| [AniDB](https://anidb.net)                  |   13040 (+148)    |            12892             |
+| [Anime-Planet](https://anime-planet.com)    |   23112 (+150)    |            22962             |
+| [aniSearch](https://anisearch.com)          |   18063 (+157)    |            17906             |
+| [Kitsu](https://kitsu.io)                   |   19450 (+161)    |            19289             |
+| [LiveChart.me](https://livechart.me)        |   10993 (+142)    |            10851             |
+| [Anime Notifier](https://notify.moe)        |   15992 (+158)    |            15834             |
