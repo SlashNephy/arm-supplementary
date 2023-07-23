@@ -31612,8 +31612,11 @@ export const annict: ArmEntry[] = [
   { annict_id: 11039, mal_id: 32666 },
   // [null-null] OTHER: MONSTERS 一百三情飛龍侍極
   // https://annict.com/works/11040
-  { annict_id: 11040 },
+  { annict_id: 11040, mal_id: 56055 },
   // [null-null] WEB: Project BULLET／BULLET
   // https://annict.com/works/11041
   { annict_id: 11041, mal_id: 53722 },
+  // [null-null] TV: NieR:Automata Ver1.1a 第2クール
+  // https://annict.com/works/11042
+  { annict_id: 11042, mal_id: 56063 },
 ]
