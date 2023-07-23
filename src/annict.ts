@@ -25757,7 +25757,7 @@ export const annict: ArmEntry[] = [
   // [2021-AUTUMN] WEB: ディスカバー・ビースト 〜愉快で残酷な野生のヒミツ〜
   // https://annict.com/works/9020
   { annict_id: 9020 },
-  // [null-null] TV: 聖剣学院の魔剣使い
+  // [2023-AUTUMN] TV: 聖剣学院の魔剣使い
   // https://annict.com/works/9021
   { annict_id: 9021, mal_id: 50184 },
   // [2005-SUMMER] OVA: 攻殻機動隊 STAND ALONE COMPLEX The Laughing Man
@@ -27766,7 +27766,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9754 },
   // [null-null] TV: 佐々木とピーちゃん
   // https://annict.com/works/9755
-  { annict_id: 9755 },
+  { annict_id: 9755, mal_id: 52482 },
   // [2023-WINTER] TV: 老後に備えて異世界で8万枚の金貨を貯めます
   // https://annict.com/works/9756
   { annict_id: 9756, mal_id: 52461, syobocal_tid: 6543 },
@@ -31619,4 +31619,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: NieR:Automata Ver1.1a 第2クール
   // https://annict.com/works/11042
   { annict_id: 11042, mal_id: 56063 },
+  // [2024-null] TV: なぜ僕の世界を誰も覚えていないのか？
+  // https://annict.com/works/11043
+  { annict_id: 11043, mal_id: 56062 },
 ]
