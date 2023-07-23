@@ -4667,7 +4667,7 @@ export const annict: ArmEntry[] = [
   // [2013-AUTUMN] TV: 熱風海陸ブシロード
   // https://annict.com/works/1557
   { annict_id: 1557, mal_id: 19653, syobocal_tid: 3226 },
-  // [2012-WINTER] TV: 猫物語(黒)
+  // [2012-AUTUMN] TV: 猫物語(黒)
   // https://annict.com/works/1558
   { annict_id: 1558, mal_id: 15689, syobocal_tid: 2840 },
   // [2011-SUMMER] TV: 猫神やおよろず
