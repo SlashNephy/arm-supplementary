@@ -17548,10 +17548,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 5884 },
   // [2011-SPRING] TV: フジログ シーズン1
   // https://annict.com/works/5885
-  { annict_id: 5885, syobocal_tid: 2179 },
+  { annict_id: 5885, mal_id: 10533, syobocal_tid: 2179 },
   // [2011-AUTUMN] TV: フジログ シーズン2
   // https://annict.com/works/5886
-  { annict_id: 5886, syobocal_tid: 2300 },
+  { annict_id: 5886, mal_id: 10997, syobocal_tid: 2300 },
   // [2011-AUTUMN] OVA: R-15 #すぺしゃる「R15少年漂流記」
   // https://annict.com/works/5887
   { annict_id: 5887 },
