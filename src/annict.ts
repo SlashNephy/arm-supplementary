@@ -27763,7 +27763,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9753 },
   // [2024-null] TV: 義妹生活
   // https://annict.com/works/9754
-  { annict_id: 9754 },
+  { annict_id: 9754, mal_id: 52481 },
   // [2024-null] TV: 佐々木とピーちゃん
   // https://annict.com/works/9755
   { annict_id: 9755, mal_id: 52482 },
