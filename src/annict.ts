@@ -7234,7 +7234,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2414, mal_id: 1601, syobocal_tid: 958 },
   // [2010-WINTER] TV: れでぃ×ばと！ Ladies versus Butlers！
   // https://annict.com/works/2415
-  { annict_id: 2415, syobocal_tid: 1796 },
+  { annict_id: 2415, mal_id: 7148, syobocal_tid: 1796 },
   // [1966-SPRING] TV: レインボー戦隊ロビン
   // https://annict.com/works/2416
   { annict_id: 2416, mal_id: 9438 },
