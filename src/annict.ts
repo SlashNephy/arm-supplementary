@@ -30407,7 +30407,7 @@ export const annict: ArmEntry[] = [
   // [null-null] MOVIE: 劇場版ブルーロック　-EPISODE 凪-
   // https://annict.com/works/10637
   { annict_id: 10637, mal_id: 54866 },
-  // [2023-null] WEB: GAMERA -Rebirth-
+  // [2023-SUMMER] WEB: GAMERA -Rebirth-
   // https://annict.com/works/10638
   { annict_id: 10638, mal_id: 53627 },
   // [null-null] TV: HIGH CARD season2
