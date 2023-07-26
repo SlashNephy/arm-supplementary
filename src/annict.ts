@@ -30674,7 +30674,7 @@ export const annict: ArmEntry[] = [
   // [2005-AUTUMN] MOVIE: Dr.ピノコの森の冒険
   // https://annict.com/works/10727
   { annict_id: 10727, mal_id: 4070 },
-  // [null-null] TV: 愚かな天使は悪魔と踊る
+  // [2024-null] TV: 愚かな天使は悪魔と踊る
   // https://annict.com/works/10728
   { annict_id: 10728, mal_id: 55129 },
   // [2023-AUTUMN] MOVIE: 北極百貨店のコンシェルジュさん
