@@ -31628,4 +31628,13 @@ export const annict: ArmEntry[] = [
   // [2024-null] TV: となりの妖怪さん
   // https://annict.com/works/11045
   { annict_id: 11045, mal_id: 51461 },
+  // [2022-AUTUMN] WEB: ドラゴン王子 シーズン4
+  // https://annict.com/works/11046
+  { annict_id: 11046 },
+  // [2023-SUMMER] WEB: ドラゴン王子 シーズン5
+  // https://annict.com/works/11047
+  { annict_id: 11047 },
+  // [2023-SUMMER] WEB: 悪魔城ドラキュラ －キャッスルヴァニア－: 月夜のノクターン
+  // https://annict.com/works/11048
+  { annict_id: 11048 },
 ]
