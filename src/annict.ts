@@ -31622,4 +31622,7 @@ export const annict: ArmEntry[] = [
   // [2024-null] TV: なぜ僕の世界を誰も覚えていないのか？
   // https://annict.com/works/11043
   { annict_id: 11043, mal_id: 56062 },
+  // [2023-AUTUMN] TV: 攻略うぉんてっど！～異世界救います！？～
+  // https://annict.com/works/11044
+  { annict_id: 11044, mal_id: 50571 },
 ]
