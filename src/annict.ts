@@ -6749,7 +6749,7 @@ export const annict: ArmEntry[] = [
   // [1996-AUTUMN] TV: YAT安心！宇宙旅行
   // https://annict.com/works/2253
   { annict_id: 2253, mal_id: 1891, syobocal_tid: 3253 },
-  // [1989-AUTUMN] TV: YAWARA！
+  // [1989-AUTUMN] TV: YAWARA!
   // https://annict.com/works/2254
   { annict_id: 2254, mal_id: 691, syobocal_tid: 4195 },
   // [2013-SPRING] TV: やはり俺の青春ラブコメはまちがっている。
@@ -11192,7 +11192,7 @@ export const annict: ArmEntry[] = [
   // [2012-SPRING] MOVIE: ももへの手紙
   // https://annict.com/works/3741
   { annict_id: 3741, mal_id: 10389, syobocal_tid: 2960 },
-  // [1992-SUMMER] MOVIE: YAWARA！ それゆけ腰ぬけキッズ！！
+  // [1992-SUMMER] MOVIE: YAWARA! それゆけ腰ぬけキッズ！！
   // https://annict.com/works/3742
   { annict_id: 3742, mal_id: 2008 },
   // [2009-SUMMER] MOVIE: 劇場版 ヤッターマン 新ヤッターメカ大集合！オモチャの国で大決戦だコロン！
@@ -31637,4 +31637,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] WEB: 悪魔城ドラキュラ －キャッスルヴァニア－: 月夜のノクターン
   // https://annict.com/works/11048
   { annict_id: 11048 },
+  // [1996-SUMMER] TV: YAWARA! Special ずっと君のことが…。
+  // https://annict.com/works/11049
+  { annict_id: 11049, mal_id: 2009 },
 ]
