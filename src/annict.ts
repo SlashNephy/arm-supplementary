@@ -30146,7 +30146,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: Re:STARS
   // https://annict.com/works/10550
   { annict_id: 10550, mal_id: 40969, syobocal_tid: 6666 },
-  // [null-null] TV: 川越ボーイズ・シング
+  // [2023-AUTUMN] TV: 川越ボーイズ・シング
   // https://annict.com/works/10551
   { annict_id: 10551, mal_id: 54638 },
   // [2023-SPRING] TV: ちびゴジラの逆襲
