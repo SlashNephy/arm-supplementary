@@ -31640,4 +31640,22 @@ export const annict: ArmEntry[] = [
   // [1996-SUMMER] TV: YAWARA! Special ずっと君のことが…。
   // https://annict.com/works/11049
   { annict_id: 11049, mal_id: 2009 },
+  // [1933-null] MOVIE: のらくろ二等兵 教練の巻
+  // https://annict.com/works/11050
+  { annict_id: 11050, mal_id: 5871 },
+  // [1933-null] MOVIE: のらくろ二等兵 演習の巻
+  // https://annict.com/works/11051
+  { annict_id: 11051, mal_id: 4395 },
+  // [1934-null] MOVIE: のらくろ伍長 軍旗祭の巻
+  // https://annict.com/works/11052
+  { annict_id: 11052, mal_id: 4394 },
+  // [1935-null] MOVIE: のらくろ一等兵
+  // https://annict.com/works/11053
+  { annict_id: 11053, mal_id: 30019 },
+  // [1935-null] MOVIE: のらくろ二等兵
+  // https://annict.com/works/11054
+  { annict_id: 11054, mal_id: 30018 },
+  // [1938-null] MOVIE: のらくろ虎退治
+  // https://annict.com/works/11055
+  { annict_id: 11055 },
 ]
