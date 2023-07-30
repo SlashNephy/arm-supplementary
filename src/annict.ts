@@ -29003,7 +29003,7 @@ export const annict: ArmEntry[] = [
   // [2009-SUMMER] OVA: リング・オブ・ガンダム
   // https://annict.com/works/10168
   { annict_id: 10168, mal_id: 7060 },
-  // [null-null] TV: 終末トレインどこへいく？
+  // [2024-null] TV: 終末トレインどこへいく？
   // https://annict.com/works/10169
   { annict_id: 10169, mal_id: 53356 },
   // [2016-AUTUMN] WEB: イナズマイレブン アウターコード
@@ -31658,4 +31658,7 @@ export const annict: ArmEntry[] = [
   // [1938-null] MOVIE: のらくろ虎退治
   // https://annict.com/works/11055
   { annict_id: 11055 },
+  // [null-null] TV: UniteUp! 第2期
+  // https://annict.com/works/11056
+  { annict_id: 11056, mal_id: 56135 },
 ]
