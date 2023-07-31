@@ -1,4 +1,3 @@
-// eslint-disable-next-line import/no-unresolved
 import { GraphQLClient } from 'graphql-request'
 
 import { UserAgent } from './constant'
@@ -20,6 +19,7 @@ export const fetchAllAnnictWorks = async (client: GraphQLClient): Promise<Annict
   const result: AnnictWork[] = []
   let after: string | null = null
 
+  // eslint-disable-next-line @typescript-eslint/no-unnecessary-condition
   while (true) {
     // eslint-disable-next-line no-await-in-loop
     const response: ListWorksQuery = await client.request(ListWorksDocument, {
