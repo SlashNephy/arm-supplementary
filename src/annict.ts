@@ -4589,7 +4589,7 @@ export const annict: ArmEntry[] = [
   // [1980-WINTER] TV: ニルスのふしぎな旅
   // https://annict.com/works/1531
   { annict_id: 1531, mal_id: 2151, syobocal_tid: 1858 },
-  // [2008-WINTER] TV: 二十面相の娘
+  // [2008-SPRING] TV: 二十面相の娘
   // https://annict.com/works/1532
   { annict_id: 1532, mal_id: 3673, syobocal_tid: 1348 },
   // [2003-SPRING] TV: 人間交差点　HUMAN SCRAMBLE
