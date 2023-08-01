@@ -31670,4 +31670,19 @@ export const annict: ArmEntry[] = [
   // [1991-AUTUMN] TV: バカボンおそ松のカレーをたずねて三千里
   // https://annict.com/works/11059
   { annict_id: 11059, mal_id: 24373 },
+  // [1993-WINTER] OVA: 甲竜伝説ヴィルガスト
+  // https://annict.com/works/11060
+  { annict_id: 11060, mal_id: 2049 },
+  // [1997-AUTUMN] OVA: 電脳戦隊ヴギィ'ズ★エンジェル
+  // https://annict.com/works/11061
+  { annict_id: 11061, mal_id: 2453 },
+  // [1998-SUMMER] OVA: 電脳戦隊ヴギィ'ズ★エンジェル外伝 進め！スーパー★エンジェルス！
+  // https://annict.com/works/11062
+  { annict_id: 11062, mal_id: 23855 },
+  // [1999-WINTER] OVA: 電脳戦隊ヴギィ'ズ★エンジェル FOREVER AND EVER
+  // https://annict.com/works/11063
+  { annict_id: 11063, mal_id: 17131 },
+  // [1982-AUTUMN] MOVIE: FUTURE WAR 198X年
+  // https://annict.com/works/11064
+  { annict_id: 11064, mal_id: 8584 },
 ]
