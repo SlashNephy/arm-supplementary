@@ -31667,4 +31667,7 @@ export const annict: ArmEntry[] = [
   // [1994-AUTUMN] OVA: 疾風！アイアンリーガー 銀光の旗の下に
   // https://annict.com/works/11058
   { annict_id: 11058, mal_id: 13449 },
+  // [1991-AUTUMN] TV: バカボンおそ松のカレーをたずねて三千里
+  // https://annict.com/works/11059
+  { annict_id: 11059, mal_id: 24373 },
 ]
