@@ -31661,4 +31661,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: UniteUp! 第2期
   // https://annict.com/works/11056
   { annict_id: 11056, mal_id: 56135 },
+  // [2023-AUTUMN] WEB: グッド・ナイト・ワールド
+  // https://annict.com/works/11057
+  { annict_id: 11057, mal_id: 56146 },
 ]
