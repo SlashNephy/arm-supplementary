@@ -25685,9 +25685,9 @@ export const annict: ArmEntry[] = [
   // [2021-AUTUMN] WEB: カルマのラップ・ワールド
   // https://annict.com/works/8996
   { annict_id: 8996 },
-  // [2022-AUTUMN] OVA: 超次元ゲイム ネプテューヌ ～ねぷねぷだらけの感謝祭 (フェスティバル)～
+  // [2021-AUTUMN] OVA: 超次元ゲイム ネプテューヌ ～ねぷねぷだらけの感謝祭 (フェスティバル)～
   // https://annict.com/works/8997
-  { annict_id: 8997 },
+  { annict_id: 8997, mal_id: 39638 },
   // [2018-null] WEB: シーラとプリンセス戦士 シーズン1
   // https://annict.com/works/8998
   { annict_id: 8998 },
@@ -31135,7 +31135,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10880, mal_id: 37292, syobocal_tid: 6750 },
   // [2023-SUMMER] WEB: おでかけ子ザメ
   // https://annict.com/works/10881
-  { annict_id: 10881, mal_id: 55463 },
+  { annict_id: 10881, mal_id: 55463, syobocal_tid: 6781 },
   // [null-null] OTHER: ざつ旅 -That's Journey-
   // https://annict.com/works/10882
   { annict_id: 10882, mal_id: 55514 },
@@ -31685,4 +31685,16 @@ export const annict: ArmEntry[] = [
   // [1982-AUTUMN] MOVIE: FUTURE WAR 198X年
   // https://annict.com/works/11064
   { annict_id: 11064, mal_id: 8584 },
+  // [1985-SPRING] MOVIE: ペンギンズ・メモリー 幸福物語
+  // https://annict.com/works/11065
+  { annict_id: 11065, mal_id: 16434 },
+  // [1989-AUTUMN] OVA: 海の闇、月の影
+  // https://annict.com/works/11066
+  { annict_id: 11066, mal_id: 4484 },
+  // [2003-SPRING] TV: SUBMARINE SUPER99
+  // https://annict.com/works/11067
+  { annict_id: 11067, mal_id: 1713, syobocal_tid: 65 },
+  // [2020-AUTUMN] OVA: 超次元ゲイム ネプテューヌ Hi☆Light
+  // https://annict.com/works/11068
+  { annict_id: 11068, mal_id: 40073 },
 ]
