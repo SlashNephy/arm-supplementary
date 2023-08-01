@@ -31664,4 +31664,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] WEB: グッド・ナイト・ワールド
   // https://annict.com/works/11057
   { annict_id: 11057, mal_id: 56146 },
+  // [1994-AUTUMN] OVA: 疾風！アイアンリーガー 銀光の旗の下に
+  // https://annict.com/works/11058
+  { annict_id: 11058, mal_id: 13449 },
 ]
