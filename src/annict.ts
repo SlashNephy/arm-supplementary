@@ -30410,7 +30410,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] WEB: GAMERA -Rebirth-
   // https://annict.com/works/10638
   { annict_id: 10638, mal_id: 53627 },
-  // [null-null] TV: HIGH CARD season2
+  // [2024-WINTER] TV: HIGH CARD season2
   // https://annict.com/works/10639
   { annict_id: 10639, mal_id: 54869 },
   // [2023-SUMMER] WEB: 火の鳥 エデンの宙
