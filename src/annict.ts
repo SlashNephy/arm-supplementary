@@ -31423,7 +31423,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10976, mal_id: 55791 },
   // [2023-SUMMER] TV: ななし怪談 (2023)
   // https://annict.com/works/10977
-  { annict_id: 10977 },
+  { annict_id: 10977, mal_id: 56105 },
   // [2003-AUTUMN] OVA: ハートカクテルアゲイン
   // https://annict.com/works/10978
   { annict_id: 10978, mal_id: 21121 },
