@@ -22196,7 +22196,7 @@ export const annict: ArmEntry[] = [
   // [2021-SPRING] TV: 聖女の魔力は万能です
   // https://annict.com/works/7672
   { annict_id: 7672, mal_id: 42826, syobocal_tid: 5933 },
-  // [2020-AUTUMN] OTHER: 忘却バッテリー
+  // [2020-AUTUMN] OTHER: 忘却バッテリー（JSAF）
   // https://annict.com/works/7673
   { annict_id: 7673, mal_id: 42829 },
   // [2021-WINTER] TV: SK∞ エスケーエイト
@@ -31697,4 +31697,7 @@ export const annict: ArmEntry[] = [
   // [2020-AUTUMN] OVA: 超次元ゲイム ネプテューヌ Hi☆Light
   // https://annict.com/works/11068
   { annict_id: 11068, mal_id: 40073 },
+  // [null-null] TV: 忘却バッテリー
+  // https://annict.com/works/11069
+  { annict_id: 11069 },
 ]
