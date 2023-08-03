@@ -31700,4 +31700,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 忘却バッテリー
   // https://annict.com/works/11069
   { annict_id: 11069 },
+  // [2012-SUMMER] OVA: 喜安浩平の世界
+  // https://annict.com/works/11070
+  { annict_id: 11070 },
 ]
