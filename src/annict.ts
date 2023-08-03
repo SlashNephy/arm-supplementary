@@ -29602,7 +29602,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10367, mal_id: 54042 },
   // [2022-AUTUMN] TV: 「Fate/Grand Order 藤丸立香はわからない」年末スペシャル
   // https://annict.com/works/10368
-  { annict_id: 10368 },
+  { annict_id: 10368, mal_id: 54976 },
   // [2022-AUTUMN] TV: へんたつ大晦日特技編
   // https://annict.com/works/10369
   { annict_id: 10369, syobocal_tid: 5574 },
