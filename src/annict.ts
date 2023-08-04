@@ -19832,9 +19832,9 @@ export const annict: ArmEntry[] = [
   // [2021-AUTUMN] TV: MUTEKING THE Dancing HERO
   // https://annict.com/works/6687
   { annict_id: 6687, mal_id: 39893, syobocal_tid: 6127 },
-  // [2024-null] TV: 響け！ユーフォニアム 久美子3年生編
+  // [2024-SPRING] TV: 響け！ユーフォニアム3
   // https://annict.com/works/6688
-  { annict_id: 6688 },
+  { annict_id: 6688, mal_id: 39894 },
   // [2019-SPRING] WEB: ベイブレードバースト ガチ
   // https://annict.com/works/6689
   { annict_id: 6689, mal_id: 39282 },
@@ -22790,7 +22790,7 @@ export const annict: ArmEntry[] = [
   // [2021-AUTUMN] TV: 進化の実～知らないうちに勝ち組人生～
   // https://annict.com/works/7903
   { annict_id: 7903, mal_id: 46985, syobocal_tid: 6143 },
-  // [2023-null] TV: ゴブリンスレイヤーⅡ
+  // [2023-AUTUMN] TV: ゴブリンスレイヤーⅡ
   // https://annict.com/works/7904
   { annict_id: 7904, mal_id: 47160 },
   // [null-null] TV: 友達の妹が俺にだけウザい
@@ -25904,7 +25904,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] TV: 悪役令嬢なのでラスボスを飼ってみました
   // https://annict.com/works/9069
   { annict_id: 9069, mal_id: 49979, syobocal_tid: 6447 },
-  // [null-null] TV: 精霊幻想記 第2期
+  // [2024-null] TV: 精霊幻想記 第2期
   // https://annict.com/works/9070
   { annict_id: 9070, mal_id: 50306 },
   // [2021-AUTUMN] WEB: バトルスピリッツ ミラージュ
@@ -31699,8 +31699,17 @@ export const annict: ArmEntry[] = [
   { annict_id: 11068, mal_id: 40073 },
   // [null-null] TV: 忘却バッテリー
   // https://annict.com/works/11069
-  { annict_id: 11069 },
+  { annict_id: 11069, mal_id: 56165 },
   // [2012-SUMMER] OVA: 喜安浩平の世界
   // https://annict.com/works/11070
   { annict_id: 11070 },
+  // [2023-SUMMER] WEB: セリア先生のわくわくまじかる教室 Season2
+  // https://annict.com/works/11071
+  { annict_id: 11071 },
+  // [2024-null] MOVIE: 大室家 dear sisters
+  // https://annict.com/works/11072
+  { annict_id: 11072, mal_id: 56175 },
+  // [2024-null] MOVIE: 大室家 dear friends
+  // https://annict.com/works/11073
+  { annict_id: 11073 },
 ]
