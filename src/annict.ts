@@ -27809,7 +27809,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: 転生貴族の異世界冒険録 ～自重を知らない神々の使徒～
   // https://annict.com/works/9769
   { annict_id: 9769, mal_id: 52608, syobocal_tid: 6660 },
-  // [2024-null] TV: 怪獣8号
+  // [2024-SPRING] TV: 怪獣8号
   // https://annict.com/works/9770
   { annict_id: 9770, mal_id: 52588 },
   // [1990-AUTUMN] TV: きかんしゃトーマス 第1シーズン
