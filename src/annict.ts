@@ -31721,4 +31721,10 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] MOVIE: 劇場版 モノノ怪
   // https://annict.com/works/11076
   { annict_id: 11076, mal_id: 52107 },
+  // [null-null] MOVIE: Fate/kaleid liner プリズマ☆イリヤ Licht 続編
+  // https://annict.com/works/11077
+  { annict_id: 11077, mal_id: 49703 },
+  // [2024-null] TV: グレンダイザーU
+  // https://annict.com/works/11078
+  { annict_id: 11078, mal_id: 56189 },
 ]
