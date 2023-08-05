@@ -31717,7 +31717,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11074, mal_id: 53730 },
   // [null-null] TV: デリコズ・ナーサリー
   // https://annict.com/works/11075
-  { annict_id: 11075 },
+  { annict_id: 11075, mal_id: 56179 },
   // [2024-SUMMER] MOVIE: 劇場版 モノノ怪
   // https://annict.com/works/11076
   { annict_id: 11076, mal_id: 52107 },
