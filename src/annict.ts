@@ -31712,10 +31712,13 @@ export const annict: ArmEntry[] = [
   // [2024-null] MOVIE: 大室家 dear friends
   // https://annict.com/works/11073
   { annict_id: 11073 },
-  // [2024-null] TV: 即死チートが最強すぎて、異世界のやつらがまるで相手にならないんですが。
+  // [2024-WINTER] TV: 即死チートが最強すぎて、異世界のやつらがまるで相手にならないんですが。
   // https://annict.com/works/11074
   { annict_id: 11074, mal_id: 53730 },
   // [null-null] TV: デリコズ・ナーサリー
   // https://annict.com/works/11075
   { annict_id: 11075 },
+  // [2024-SUMMER] MOVIE: 劇場版 モノノ怪
+  // https://annict.com/works/11076
+  { annict_id: 11076, mal_id: 52107 },
 ]
