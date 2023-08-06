@@ -31727,4 +31727,7 @@ export const annict: ArmEntry[] = [
   // [2024-null] TV: グレンダイザーU
   // https://annict.com/works/11078
   { annict_id: 11078, mal_id: 56189 },
+  // [null-null] MOVIE: 僕のヒーローアカデミア THE MOVIE 第4弾
+  // https://annict.com/works/11079
+  { annict_id: 11079 },
 ]
