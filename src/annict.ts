@@ -29594,7 +29594,7 @@ export const annict: ArmEntry[] = [
   // [2017-SUMMER] OVA: マウイの魚釣りチャレンジ
   // https://annict.com/works/10365
   { annict_id: 10365 },
-  // [null-null] TV: 16bitセンセーション ANOTHER LAYER
+  // [2023-AUTUMN] TV: 16bitセンセーション ANOTHER LAYER
   // https://annict.com/works/10366
   { annict_id: 10366, mal_id: 54041 },
   // [2023-WINTER] WEB: Fate/Grand Order 藤丸立香はわからない
