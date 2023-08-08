@@ -30914,7 +30914,7 @@ export const annict: ArmEntry[] = [
   // [1995-SUMMER] MOVIE: KAZU&YASU ヒーロー誕生
   // https://annict.com/works/10807
   { annict_id: 10807, mal_id: 20143 },
-  // [null-null] TV: 新しい上司はど天然
+  // [2023-AUTUMN] TV: 新しい上司はど天然
   // https://annict.com/works/10808
   { annict_id: 10808, mal_id: 55310 },
   // [2008-AUTUMN] OVA: プリごろ太 宇宙の友情大冒険
