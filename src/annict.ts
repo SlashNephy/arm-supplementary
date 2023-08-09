@@ -31730,4 +31730,7 @@ export const annict: ArmEntry[] = [
   // [null-null] MOVIE: 僕のヒーローアカデミア THE MOVIE 第4弾
   // https://annict.com/works/11079
   { annict_id: 11079 },
+  // [null-null] TV: じいさんばあさん若返る
+  // https://annict.com/works/11080
+  { annict_id: 11080, mal_id: 56230 },
 ]
