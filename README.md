@@ -38,17 +38,17 @@ export const fetchArmEntries = async (): Promise<ArmEntry[]> => {
 
 ## Statistics
 
-Currently, arm-supplementary has 35899 entries (+6897).
+Currently, arm-supplementary has 35998 entries (+6996).
 
 | Service                                     | arm-supplementary | arm / anime-offline-database |
 | :------------------------------------------ | :---------------: | :--------------------------: |
 | [Annict](https://annict.com)                |   10578 (+171)    |            10407             |
-| [AniList](https://anilist.co)               |   20937 (+2058)   |            18879             |
-| [MyAnimeList](https://myanimelist.net)      |   25378 (+399)    |            24979             |
+| [AniList](https://anilist.co)               |   20970 (+2091)   |            18879             |
+| [MyAnimeList](https://myanimelist.net)      |   25417 (+438)    |            24979             |
 | [しょぼいカレンダー](https://cal.syoboi.jp) |    5643 (+31)     |             5612             |
-| [AniDB](https://anidb.net)                  |   13031 (+133)    |            12898             |
-| [Anime-Planet](https://anime-planet.com)    |   23127 (+134)    |            22993             |
-| [aniSearch](https://anisearch.com)          |   18064 (+143)    |            17921             |
-| [Kitsu](https://kitsu.io)                   |   19480 (+148)    |            19332             |
-| [LiveChart.me](https://livechart.me)        |   10988 (+128)    |            10860             |
+| [AniDB](https://anidb.net)                  |   13041 (+133)    |            12908             |
+| [Anime-Planet](https://anime-planet.com)    |   23154 (+134)    |            23020             |
+| [aniSearch](https://anisearch.com)          |   18084 (+143)    |            17941             |
+| [Kitsu](https://kitsu.io)                   |   19508 (+148)    |            19360             |
+| [LiveChart.me](https://livechart.me)        |   11002 (+128)    |            10874             |
 | [Anime Notifier](https://notify.moe)        |   15977 (+142)    |            15835             |
