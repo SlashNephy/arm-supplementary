@@ -31733,4 +31733,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: じいさんばあさん若返る
   // https://annict.com/works/11080
   { annict_id: 11080, mal_id: 56230 },
+  // [null-null] TV: 歴史に残る悪女になるぞ
+  // https://annict.com/works/11081
+  { annict_id: 11081, mal_id: 56228 },
 ]
