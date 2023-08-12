@@ -31739,4 +31739,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] TV: 戦国妖狐
   // https://annict.com/works/11082
   { annict_id: 11082, mal_id: 56242 },
+  // [2023-SUMMER] WEB: 『彼女、お借りします』×『てんぷる』コラボミニアニメ
+  // https://annict.com/works/11083
+  { annict_id: 11083, mal_id: 56172 },
 ]
