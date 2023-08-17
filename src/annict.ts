@@ -6326,7 +6326,7 @@ export const annict: ArmEntry[] = [
   // [2005-AUTUMN] TV: 魔法少女リリカルなのはA's
   // https://annict.com/works/2112
   { annict_id: 2112, mal_id: 77, syobocal_tid: 665 },
-  // [2007-WINTER] TV: 魔法少女リリカルなのはStrikerS
+  // [2007-SPRING] TV: 魔法少女リリカルなのはStrikerS
   // https://annict.com/works/2113
   { annict_id: 2113, mal_id: 1915, syobocal_tid: 1029 },
   // [2001-SUMMER] TV: 魔法少女猫たると
