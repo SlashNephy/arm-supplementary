@@ -31742,4 +31742,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] WEB: 『彼女、お借りします』×『てんぷる』コラボミニアニメ
   // https://annict.com/works/11083
   { annict_id: 11083, mal_id: 56172 },
+  // [null-null] TV: ダンジョンの中のひと
+  // https://annict.com/works/11084
+  { annict_id: 11084, mal_id: 56348 },
 ]
