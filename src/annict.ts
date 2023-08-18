@@ -31748,4 +31748,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] WEB: ChroNoiR Episode.0
   // https://annict.com/works/11085
   { annict_id: 11085, mal_id: 56111 },
+  // [2024-null] TV: ループ7回目の悪役令嬢は、元敵国で自由気ままな花嫁生活を満喫する
+  // https://annict.com/works/11086
+  { annict_id: 11086, mal_id: 56352 },
 ]
