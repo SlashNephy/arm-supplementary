@@ -31745,4 +31745,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: ダンジョンの中のひと
   // https://annict.com/works/11084
   { annict_id: 11084, mal_id: 56348 },
+  // [2023-SUMMER] WEB: ChroNoiR Episode.0
+  // https://annict.com/works/11085
+  { annict_id: 11085, mal_id: 56111 },
 ]
