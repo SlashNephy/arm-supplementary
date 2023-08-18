@@ -31751,4 +31751,7 @@ export const annict: ArmEntry[] = [
   // [2024-null] TV: ループ7回目の悪役令嬢は、元敵国で自由気ままな花嫁生活を満喫する
   // https://annict.com/works/11086
   { annict_id: 11086, mal_id: 56352 },
+  // [2023-SUMMER] WEB: マッシュ・バーンデッドたちと寮生活
+  // https://annict.com/works/11087
+  { annict_id: 11087 },
 ]
