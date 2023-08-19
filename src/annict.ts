@@ -31757,4 +31757,7 @@ export const annict: ArmEntry[] = [
   // [null-null] MOVIE: 劇場版ハイキュー!! ゴミ捨て場の決戦
   // https://annict.com/works/11088
   { annict_id: 11088, mal_id: 52742 },
+  // [2023-SUMMER] WEB: メック・カデッツ
+  // https://annict.com/works/11089
+  { annict_id: 11089 },
 ]
