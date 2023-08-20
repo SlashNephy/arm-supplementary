@@ -31072,7 +31072,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10859, mal_id: 3787 },
   // [2023-SUMMER] TV: 夫婦交歓～戻れない夜～
   // https://annict.com/works/10860
-  { annict_id: 10860, syobocal_tid: 6722 },
+  { annict_id: 10860, mal_id: 55616, syobocal_tid: 6722 },
   // [1986-SUMMER] OVA: 魔法のスターマジカルエミ 蝉時雨
   // https://annict.com/works/10861
   { annict_id: 10861, mal_id: 8443 },
