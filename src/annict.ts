@@ -26041,7 +26041,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9114, mal_id: 49431, syobocal_tid: 6228 },
   // [2006-AUTUMN] TV: 009-1 (ゼロゼロナインワン)
   // https://annict.com/works/9115
-  { annict_id: 9115, syobocal_tid: 1019 },
+  { annict_id: 9115, mal_id: 1583, syobocal_tid: 1019 },
   // [2023-WINTER] TV: もののがたり
   // https://annict.com/works/9116
   { annict_id: 9116, mal_id: 50384, syobocal_tid: 6579 },
