@@ -31760,4 +31760,16 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] WEB: メック・カデッツ
   // https://annict.com/works/11089
   { annict_id: 11089 },
+  // [1957-WINTER] MOVIE: ラテン・アメリカの旅
+  // https://annict.com/works/11090
+  { annict_id: 11090 },
+  // [1959-WINTER] MOVIE: 三人の騎士
+  // https://annict.com/works/11091
+  { annict_id: 11091 },
+  // [1986-SPRING] TV: サンゴ礁伝説 青い海のエルフィ
+  // https://annict.com/works/11092
+  { annict_id: 11092, mal_id: 5014 },
+  // [1977-null] MOVIE: 草原の子テングリ
+  // https://annict.com/works/11093
+  { annict_id: 11093, mal_id: 11561 },
 ]
