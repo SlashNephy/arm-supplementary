@@ -20014,7 +20014,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6748, mal_id: 39942, syobocal_tid: 5543 },
   // [2006-SPRING] TV: タマ&フレンズ 探せ！魔法のプニプニストーン
   // https://annict.com/works/6750
-  { annict_id: 6750 },
+  { annict_id: 6750, mal_id: 49555 },
   // [2019-AUTUMN] MOVIE: 映画 妖怪学園Y 猫はHEROになれるか
   // https://annict.com/works/6751
   { annict_id: 6751, mal_id: 39529 },
@@ -31772,4 +31772,10 @@ export const annict: ArmEntry[] = [
   // [1977-null] MOVIE: 草原の子テングリ
   // https://annict.com/works/11093
   { annict_id: 11093, mal_id: 11561 },
+  // [null-null] OTHER: 魔王様、リトライ！R
+  // https://annict.com/works/11094
+  { annict_id: 11094 },
+  // [2023-AUTUMN] WEB: スコット・ピルグリムがゆく
+  // https://annict.com/works/11095
+  { annict_id: 11095 },
 ]
