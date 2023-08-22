@@ -30332,7 +30332,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] MOVIE: SAND LAND
   // https://annict.com/works/10612
   { annict_id: 10612, mal_id: 53882 },
-  // [2024-null] TV: うる星やつら 第2期
+  // [2024-WINTER] TV: うる星やつら 第2期
   // https://annict.com/works/10613
   { annict_id: 10613, mal_id: 54829 },
   // [2023-SUMMER] TV: いきものさん
