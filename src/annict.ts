@@ -31778,4 +31778,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] WEB: スコット・ピルグリムがゆく
   // https://annict.com/works/11095
   { annict_id: 11095 },
+  // [2023-AUTUMN] TV: 天官賜福 貮
+  // https://annict.com/works/11096
+  { annict_id: 11096, mal_id: 50399 },
 ]

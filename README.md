@@ -38,17 +38,17 @@ export const fetchArmEntries = async (): Promise<ArmEntry[]> => {
 
 ## Statistics
 
-Currently, arm-supplementary has 36152 entries (+7055).
+Currently, arm-supplementary has 36153 entries (+7056).
 
 | Service                                     | arm-supplementary | arm / anime-offline-database |
 | :------------------------------------------ | :---------------: | :--------------------------: |
-| [Annict](https://annict.com)                |   10592 (+170)    |            10422             |
-| [AniList](https://anilist.co)               |   21023 (+2091)   |            18932             |
-| [MyAnimeList](https://myanimelist.net)      |   25543 (+497)    |            25046             |
+| [Annict](https://annict.com)                |   10593 (+171)    |            10422             |
+| [AniList](https://anilist.co)               |   21024 (+2092)   |            18932             |
+| [MyAnimeList](https://myanimelist.net)      |   25544 (+498)    |            25046             |
 | [しょぼいカレンダー](https://cal.syoboi.jp) |    5644 (+29)     |             5615             |
 | [AniDB](https://anidb.net)                  |   13051 (+132)    |            12919             |
-| [Anime-Planet](https://anime-planet.com)    |   23185 (+135)    |            23050             |
-| [aniSearch](https://anisearch.com)          |   18126 (+144)    |            17982             |
-| [Kitsu](https://kitsu.io)                   |   19525 (+146)    |            19379             |
-| [LiveChart.me](https://livechart.me)        |   11008 (+126)    |            10882             |
+| [Anime-Planet](https://anime-planet.com)    |   23186 (+136)    |            23050             |
+| [aniSearch](https://anisearch.com)          |   18127 (+145)    |            17982             |
+| [Kitsu](https://kitsu.io)                   |   19526 (+147)    |            19379             |
+| [LiveChart.me](https://livechart.me)        |   11009 (+127)    |            10882             |
 | [Anime Notifier](https://notify.moe)        |   16046 (+143)    |            15903             |
