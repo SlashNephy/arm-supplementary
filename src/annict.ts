@@ -31774,7 +31774,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11093, mal_id: 11561 },
   // [null-null] OTHER: 魔王様、リトライ！R
   // https://annict.com/works/11094
-  { annict_id: 11094 },
+  { annict_id: 11094, mal_id: 56400 },
   // [2023-AUTUMN] WEB: スコット・ピルグリムがゆく
   // https://annict.com/works/11095
   { annict_id: 11095 },
@@ -31784,4 +31784,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: 放課後少年花子くん
   // https://annict.com/works/11097
   { annict_id: 11097, mal_id: 56425 },
+  // [2024-null] TV: ハイガクラ
+  // https://annict.com/works/11098
+  { annict_id: 11098, mal_id: 56420 },
 ]
