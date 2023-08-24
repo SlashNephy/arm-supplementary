@@ -31781,4 +31781,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: 天官賜福 貮
   // https://annict.com/works/11096
   { annict_id: 11096, mal_id: 50399 },
+  // [2023-AUTUMN] TV: 放課後少年花子くん
+  // https://annict.com/works/11097
+  { annict_id: 11097, mal_id: 56425 },
 ]
