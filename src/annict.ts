@@ -31787,4 +31787,7 @@ export const annict: ArmEntry[] = [
   // [2024-null] TV: ハイガクラ
   // https://annict.com/works/11098
   { annict_id: 11098, mal_id: 56420 },
+  // [2023-AUTUMN] TV: しーくれっとみっしょん～潜入捜査官は絶対に負けない！～
+  // https://annict.com/works/11099
+  { annict_id: 11099 },
 ]
