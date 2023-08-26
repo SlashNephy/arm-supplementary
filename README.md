@@ -43,12 +43,12 @@ Currently, arm-supplementary has 36136 entries (+6968).
 | Service                                     | arm-supplementary | arm / anime-offline-database |
 | :------------------------------------------ | :---------------: | :--------------------------: |
 | [Annict](https://annict.com)                |   10595 (+161)    |            10434             |
-| [AniList](https://anilist.co)               |   21018 (+2080)   |            18938             |
-| [MyAnimeList](https://myanimelist.net)      |   25544 (+427)    |            25117             |
+| [AniList](https://anilist.co)               |   21019 (+2081)   |            18938             |
+| [MyAnimeList](https://myanimelist.net)      |   25545 (+428)    |            25117             |
 | [しょぼいカレンダー](https://cal.syoboi.jp) |    5649 (+29)     |             5620             |
-| [AniDB](https://anidb.net)                  |   13048 (+129)    |            12919             |
-| [Anime-Planet](https://anime-planet.com)    |   23181 (+131)    |            23050             |
-| [aniSearch](https://anisearch.com)          |   18121 (+139)    |            17982             |
-| [Kitsu](https://kitsu.io)                   |   19522 (+143)    |            19379             |
-| [LiveChart.me](https://livechart.me)        |   11006 (+124)    |            10882             |
-| [Anime Notifier](https://notify.moe)        |   16042 (+139)    |            15903             |
+| [AniDB](https://anidb.net)                  |   13049 (+130)    |            12919             |
+| [Anime-Planet](https://anime-planet.com)    |   23182 (+132)    |            23050             |
+| [aniSearch](https://anisearch.com)          |   18122 (+140)    |            17982             |
+| [Kitsu](https://kitsu.io)                   |   19523 (+144)    |            19379             |
+| [LiveChart.me](https://livechart.me)        |   11007 (+125)    |            10882             |
+| [Anime Notifier](https://notify.moe)        |   16043 (+140)    |            15903             |

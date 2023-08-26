@@ -30250,7 +30250,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10584, mal_id: 54744 },
   // [2023-AUTUMN] TV: Dr.STONE NEW WORLD 第2クール
   // https://annict.com/works/10585
-  { annict_id: 10585 },
+  { annict_id: 10585, mal_id: 55644 },
   // [2023-AUTUMN] TV: デッドマウント・デスプレイ 第2クール
   // https://annict.com/works/10586
   { annict_id: 10586, mal_id: 54743 },
