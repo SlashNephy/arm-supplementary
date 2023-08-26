@@ -30377,9 +30377,9 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: Re:ゼロから始める異世界生活 3rd season
   // https://annict.com/works/10627
   { annict_id: 10627, mal_id: 54857 },
-  // [2023-null] MOVIE: 攻殻機動隊 SAC_2045 劇場版パート2
+  // [2023-AUTUMN] MOVIE: 攻殻機動隊 SAC_2045 最後の人間
   // https://annict.com/works/10628
-  { annict_id: 10628 },
+  { annict_id: 10628, mal_id: 54860 },
   // [2023-AUTUMN] TV: 帰還者の魔法は特別です
   // https://annict.com/works/10629
   { annict_id: 10629, mal_id: 54852 },
