@@ -25553,7 +25553,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] TV: 人間不信の冒険者たちが世界を救うようです
   // https://annict.com/works/8952
   { annict_id: 8952, mal_id: 49612, syobocal_tid: 6539 },
-  // [2024-null] TV: 治癒魔法の間違った使い方
+  // [2024-WINTER] TV: 治癒魔法の間違った使い方
   // https://annict.com/works/8953
   { annict_id: 8953, mal_id: 49613 },
   // [2022-WINTER] OVA: のんのんびより のんすとっぷ 第13話「部活をがんばった」
