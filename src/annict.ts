@@ -29218,7 +29218,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10239 },
   // [2023-AUTUMN] TV: め組の大吾 救国のオレンジ
   // https://annict.com/works/10240
-  { annict_id: 10240, mal_id: 53848 },
+  { annict_id: 10240, mal_id: 53848, syobocal_tid: 6791 },
   // [2022-AUTUMN] TV: 万聖街 (日本語吹替版)
   // https://annict.com/works/10241
   { annict_id: 10241, syobocal_tid: 6484 },
@@ -30697,7 +30697,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10734, mal_id: 55150 },
   // [2023-AUTUMN] TV: 柚木さんちの四兄弟。
   // https://annict.com/works/10735
-  { annict_id: 10735, mal_id: 55153 },
+  { annict_id: 10735, mal_id: 55153, syobocal_tid: 6796 },
   // [1994-SUMMER] MOVIE: グスコーブドリの伝記（1994）
   // https://annict.com/works/10736
   { annict_id: 10736, mal_id: 8450 },
@@ -31796,4 +31796,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: 万聖街 TVスペシャル
   // https://annict.com/works/11101
   { annict_id: 11101 },
+  // [null-null] TV: 魔導具師ダリヤはうつむかない
+  // https://annict.com/works/11102
+  { annict_id: 11102 },
 ]
