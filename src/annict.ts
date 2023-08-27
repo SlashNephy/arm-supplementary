@@ -31790,4 +31790,10 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: しーくれっとみっしょん～潜入捜査官は絶対に負けない！～
   // https://annict.com/works/11099
   { annict_id: 11099 },
+  // [2023-SUMMER] TV: 万聖街(日本語吹替版) 総集編
+  // https://annict.com/works/11100
+  { annict_id: 11100 },
+  // [2023-AUTUMN] TV: 万聖街 TVスペシャル
+  // https://annict.com/works/11101
+  { annict_id: 11101 },
 ]
