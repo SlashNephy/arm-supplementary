@@ -28981,7 +28981,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10160, mal_id: 53132, syobocal_tid: 6592 },
   // [2023-AUTUMN] TV: ウマ娘 プリティーダービー Season 3
   // https://annict.com/works/10161
-  { annict_id: 10161, mal_id: 53526 },
+  { annict_id: 10161, mal_id: 53526, syobocal_tid: 6792 },
   // [2007-SUMMER] OVA: うら☆ひぐ（仮）
   // https://annict.com/works/10162
   { annict_id: 10162, mal_id: 6064 },
@@ -29884,7 +29884,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10461, mal_id: 51203 },
   // [2023-AUTUMN] TV: でこぼこ魔女の親子事情
   // https://annict.com/works/10462
-  { annict_id: 10462, mal_id: 52985 },
+  { annict_id: 10462, mal_id: 52985, syobocal_tid: 6794 },
   // [2023-AUTUMN] TV: はめつのおうこく
   // https://annict.com/works/10463
   { annict_id: 10463, mal_id: 54362 },
@@ -30049,7 +30049,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10517, mal_id: 35737 },
   // [2023-AUTUMN] TV: 薬屋のひとりごと
   // https://annict.com/works/10518
-  { annict_id: 10518, mal_id: 54492 },
+  { annict_id: 10518, mal_id: 54492, syobocal_tid: 6793 },
   // [2012-SUMMER] MOVIE: 月と少年
   // https://annict.com/works/10519
   { annict_id: 10519 },
@@ -30493,7 +30493,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10666, mal_id: 54923 },
   // [2023-AUTUMN] TV: 婚約破棄された令嬢を拾った俺が、イケナイことを教え込む
   // https://annict.com/works/10667
-  { annict_id: 10667, mal_id: 52934 },
+  { annict_id: 10667, mal_id: 52934, syobocal_tid: 6795 },
   // [2023-AUTUMN] TV: ビックリメン
   // https://annict.com/works/10668
   { annict_id: 10668, mal_id: 54914 },
@@ -31249,7 +31249,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10918, mal_id: 33787 },
   // [2023-SUMMER] WEB: トニカクカワイイ 女子高編
   // https://annict.com/works/10919
-  { annict_id: 10919, mal_id: 55651 },
+  { annict_id: 10919, mal_id: 55651, syobocal_tid: 6786 },
   // [2023-SPRING] TV: 七不思議がくる！2
   // https://annict.com/works/10920
   { annict_id: 10920 },
@@ -31492,7 +31492,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10999, mal_id: 55874 },
   // [2023-SUMMER] TV: NARUTO -ナルト- 完全新作アニメーション
   // https://annict.com/works/11000
-  { annict_id: 11000, mal_id: 54688 },
+  { annict_id: 11000, mal_id: 54688, syobocal_tid: 6798 },
   // [2023-SPRING] WEB: 髑髏島
   // https://annict.com/works/11001
   { annict_id: 11001 },
@@ -31798,5 +31798,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 11101 },
   // [null-null] TV: 魔導具師ダリヤはうつむかない
   // https://annict.com/works/11102
-  { annict_id: 11102 },
+  { annict_id: 11102, mal_id: 56449 },
 ]
