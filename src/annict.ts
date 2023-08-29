@@ -31490,7 +31490,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] MOVIE: ドラえもん のび太の地球交響楽
   // https://annict.com/works/10999
   { annict_id: 10999, mal_id: 55874 },
-  // [2023-SUMMER] TV: NARUTO -ナルト- 完全新作アニメーション
+  // [2023-null] TV: NARUTO -ナルト- 完全新作アニメーション
   // https://annict.com/works/11000
   { annict_id: 11000, mal_id: 54688, syobocal_tid: 6798 },
   // [2023-SPRING] WEB: 髑髏島
