@@ -31799,4 +31799,10 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 魔導具師ダリヤはうつむかない
   // https://annict.com/works/11102
   { annict_id: 11102, mal_id: 56449 },
+  // [2024-SPRING] MOVIE: デッドデッドデーモンズデデデデデストラクション 後編
+  // https://annict.com/works/11103
+  { annict_id: 11103 },
+  // [2023-AUTUMN] TV: まついぬ
+  // https://annict.com/works/11104
+  { annict_id: 11104 },
 ]
