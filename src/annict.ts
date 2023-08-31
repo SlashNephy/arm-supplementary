@@ -30208,7 +30208,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10570, mal_id: 25491 },
   // [2023-AUTUMN] TV: キボウノチカラ～オトナプリキュア ‘23～
   // https://annict.com/works/10571
-  { annict_id: 10571, mal_id: 54716 },
+  { annict_id: 10571, mal_id: 54716, syobocal_tid: 6800 },
   // [2024-null] TV: 魔法つかいプリキュア！2
   // https://annict.com/works/10572
   { annict_id: 10572, mal_id: 54717 },
