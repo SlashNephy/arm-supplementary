@@ -31805,4 +31805,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: まついぬ
   // https://annict.com/works/11104
   { annict_id: 11104 },
+  // [null-null] OTHER: ゼーガペイン オルタモーダ編
+  // https://annict.com/works/11105
+  { annict_id: 11105 },
 ]
