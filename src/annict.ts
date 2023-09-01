@@ -29063,7 +29063,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] MOVIE: プリンセス・プリンシパル Crown Handler 第3章
   // https://annict.com/works/10188
   { annict_id: 10188, mal_id: 41141 },
-  // [2023-null] WEB: 陰陽師
+  // [2023-AUTUMN] WEB: 陰陽師
   // https://annict.com/works/10189
   { annict_id: 10189, mal_id: 53151 },
   // [1996-WINTER] MOVIE: チョッちゃん物語
