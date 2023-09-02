@@ -29099,9 +29099,9 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] OVA: ラブライブ！虹ヶ咲学園スクールアイドル同好会 NEXT SKY
   // https://annict.com/works/10200
   { annict_id: 10200, mal_id: 53671 },
-  // [2023-null] TV: ブルバスター
+  // [2023-AUTUMN] TV: ブルバスター
   // https://annict.com/works/10201
-  { annict_id: 10201 },
+  { annict_id: 10201, mal_id: 53633 },
   // [2019-WINTER] OVA: ガイコツ書店員本田さん OVA
   // https://annict.com/works/10202
   { annict_id: 10202, mal_id: 38527 },
@@ -30475,7 +30475,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10660, mal_id: 4459 },
   // [2023-SUMMER] MOVIE: 五等分の花嫁∽
   // https://annict.com/works/10661
-  { annict_id: 10661, mal_id: 54915 },
+  { annict_id: 10661, mal_id: 54915, syobocal_tid: 6799 },
   // [null-null] TV: カードキャプターさくら クリアカード編 続編
   // https://annict.com/works/10662
   { annict_id: 10662, mal_id: 54916 },
