@@ -27077,7 +27077,7 @@ export const annict: ArmEntry[] = [
   // [2022-SPRING] OVA: 勇者、辞めます 新作アニメーション「研修旅行は目的を見失うな」
   // https://annict.com/works/9525
   { annict_id: 9525, mal_id: 51562 },
-  // [2023-AUTUMN] MOVIE: 「ツキウタ。」 劇場版 『RABBITS KINGDOM THE MOVIE』
+  // [2024-SUMMER] MOVIE: 「ツキウタ。」 劇場版 『RABBITS KINGDOM THE MOVIE』
   // https://annict.com/works/9526
   { annict_id: 9526, mal_id: 51539 },
   // [2022-SPRING] WEB: さむらいラビット: ザ・ウサギ・クロニクル
