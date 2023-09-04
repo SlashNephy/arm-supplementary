@@ -31817,4 +31817,7 @@ export const annict: ArmEntry[] = [
   // [2017-WINTER] MOVIE: 青鬼 The Animation
   // https://annict.com/works/11108
   { annict_id: 11108, mal_id: 33820 },
+  // [2022-WINTER] WEB: hololiveERROR
+  // https://annict.com/works/11109
+  { annict_id: 11109 },
 ]
