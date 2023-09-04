@@ -31811,4 +31811,10 @@ export const annict: ArmEntry[] = [
   // [2024-null] WEB: 君に届け 3RD SEASON
   // https://annict.com/works/11106
   { annict_id: 11106, mal_id: 56538 },
+  // [2023-AUTUMN] MOVIE: 銀魂オンシアター2D バラガキ篇
+  // https://annict.com/works/11107
+  { annict_id: 11107 },
+  // [2017-WINTER] MOVIE: 青鬼 The Animation
+  // https://annict.com/works/11108
+  { annict_id: 11108, mal_id: 33820 },
 ]
