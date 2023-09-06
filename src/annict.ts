@@ -30121,7 +30121,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10541, mal_id: 53876, syobocal_tid: 6694 },
   // [2023-AUTUMN] TV: 陰の実力者になりたくて！ 2nd season
   // https://annict.com/works/10542
-  { annict_id: 10542, mal_id: 54595 },
+  { annict_id: 10542, mal_id: 54595, syobocal_tid: 6833 },
   // [2024-null] TV: HIGHSPEED Étoile
   // https://annict.com/works/10543
   { annict_id: 10543, mal_id: 52405 },
@@ -31820,4 +31820,7 @@ export const annict: ArmEntry[] = [
   // [2022-WINTER] WEB: hololiveERROR
   // https://annict.com/works/11109
   { annict_id: 11109 },
+  // [2023-WINTER] WEB: HELLO OSAKA
+  // https://annict.com/works/11110
+  { annict_id: 11110 },
 ]
