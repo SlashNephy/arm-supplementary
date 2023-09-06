@@ -31807,7 +31807,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11104 },
   // [null-null] OTHER: ゼーガペイン オルタモーダ編
   // https://annict.com/works/11105
-  { annict_id: 11105 },
+  { annict_id: 11105, mal_id: 56488 },
   // [2024-null] WEB: 君に届け 3RD SEASON
   // https://annict.com/works/11106
   { annict_id: 11106, mal_id: 56538 },
@@ -31823,4 +31823,10 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] WEB: HELLO OSAKA
   // https://annict.com/works/11110
   { annict_id: 11110 },
+  // [2023-AUTUMN] WEB: かげじつ！せかんど
+  // https://annict.com/works/11111
+  { annict_id: 11111 },
+  // [2023-SUMMER] WEB: レイとクレアに一問一答 〜異世界で聞いてみた〜
+  // https://annict.com/works/11112
+  { annict_id: 11112, mal_id: 56552 },
 ]
