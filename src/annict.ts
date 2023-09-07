@@ -30484,7 +30484,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10663, mal_id: 54907 },
   // [2023-AUTUMN] TV: 東京リベンジャーズ 天竺編
   // https://annict.com/works/10664
-  { annict_id: 10664, mal_id: 54918 },
+  { annict_id: 10664, mal_id: 54918, syobocal_tid: 6835 },
   // [2023-SPRING] WEB: こうしす！EE
   // https://annict.com/works/10665
   { annict_id: 10665 },
