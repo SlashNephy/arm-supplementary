@@ -31804,7 +31804,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11103 },
   // [2023-AUTUMN] TV: まついぬ
   // https://annict.com/works/11104
-  { annict_id: 11104 },
+  { annict_id: 11104, syobocal_tid: 6823 },
   // [null-null] OTHER: ゼーガペイン オルタモーダ編
   // https://annict.com/works/11105
   { annict_id: 11105, mal_id: 56488 },
@@ -31841,4 +31841,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: オチビサン
   // https://annict.com/works/11116
   { annict_id: 11116, mal_id: 56588, syobocal_tid: 6838 },
+  // [2023-AUTUMN] TV: メカアマト
+  // https://annict.com/works/11117
+  { annict_id: 11117 },
 ]
