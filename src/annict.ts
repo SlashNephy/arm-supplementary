@@ -31702,7 +31702,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11069, mal_id: 56165 },
   // [2012-SUMMER] OVA: 喜安浩平の世界
   // https://annict.com/works/11070
-  { annict_id: 11070 },
+  { annict_id: 11070, mal_id: 56235 },
   // [2023-SUMMER] WEB: セリア先生のわくわくまじかる教室 Season2
   // https://annict.com/works/11071
   { annict_id: 11071, mal_id: 56178 },
