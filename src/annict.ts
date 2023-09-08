@@ -28714,7 +28714,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10070, mal_id: 2881 },
   // [2023-AUTUMN] TV: ティアムーン帝国物語～断頭台から始まる、姫の転生逆転ストーリー～
   // https://annict.com/works/10071
-  { annict_id: 10071, mal_id: 52962 },
+  { annict_id: 10071, mal_id: 52962, syobocal_tid: 6826 },
   // [2023-SUMMER] TV: 実は俺、最強でした？
   // https://annict.com/works/10073
   { annict_id: 10073, mal_id: 52969, syobocal_tid: 6754 },
@@ -31835,4 +31835,10 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] WEB: 放課後のブレス
   // https://annict.com/works/11114
   { annict_id: 11114, mal_id: 56218 },
+  // [2023-AUTUMN] TV: トランスフォーマー アーススパーク
+  // https://annict.com/works/11115
+  { annict_id: 11115, syobocal_tid: 6834 },
+  // [2023-AUTUMN] TV: オチビサン
+  // https://annict.com/works/11116
+  { annict_id: 11116, mal_id: 56588, syobocal_tid: 6838 },
 ]
