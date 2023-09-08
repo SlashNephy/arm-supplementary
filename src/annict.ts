@@ -22003,7 +22003,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 7607, mal_id: 41568 },
   // [2023-AUTUMN] TV: アイドルマスター ミリオンライブ！
   // https://annict.com/works/7608
-  { annict_id: 7608, mal_id: 42385 },
+  { annict_id: 7608, mal_id: 42385, syobocal_tid: 6836 },
   // [2021-SUMMER] TV: 迷宮ブラックカンパニー
   // https://annict.com/works/7609
   { annict_id: 7609, mal_id: 42340, syobocal_tid: 6046 },
