@@ -25619,7 +25619,7 @@ export const annict: ArmEntry[] = [
   // [2021-AUTUMN] OVA: RWBY VOLUME 7
   // https://annict.com/works/8974
   { annict_id: 8974 },
-  // [2023-null] OTHER: キミと僕の最後の戦場、あるいは世界が始まる聖戦 続編
+  // [2024-null] OTHER: キミと僕の最後の戦場、あるいは世界が始まる聖戦 season II
   // https://annict.com/works/8975
   { annict_id: 8975, mal_id: 49981 },
   // [1995-SUMMER] MOVIE: On Your Mark
