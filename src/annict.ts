@@ -22792,7 +22792,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 7903, mal_id: 46985, syobocal_tid: 6143 },
   // [2023-AUTUMN] TV: ゴブリンスレイヤーⅡ
   // https://annict.com/works/7904
-  { annict_id: 7904, mal_id: 47160 },
+  { annict_id: 7904, mal_id: 47160, syobocal_tid: 6839 },
   // [null-null] TV: 友達の妹が俺にだけウザい
   // https://annict.com/works/7905
   { annict_id: 7905, mal_id: 47158 },
@@ -25619,7 +25619,7 @@ export const annict: ArmEntry[] = [
   // [2021-AUTUMN] OVA: RWBY VOLUME 7
   // https://annict.com/works/8974
   { annict_id: 8974 },
-  // [2024-null] OTHER: キミと僕の最後の戦場、あるいは世界が始まる聖戦 season II
+  // [2024-null] TV: キミと僕の最後の戦場、あるいは世界が始まる聖戦 season II
   // https://annict.com/works/8975
   { annict_id: 8975, mal_id: 49981 },
   // [1995-SUMMER] MOVIE: On Your Mark
