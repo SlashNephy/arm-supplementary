@@ -27442,7 +27442,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9646, mal_id: 2133 },
   // [2023-AUTUMN] TV: 七つの大罪 黙示録の四騎士
   // https://annict.com/works/9647
-  { annict_id: 9647, mal_id: 51794 },
+  { annict_id: 9647, mal_id: 51794, syobocal_tid: 6828 },
   // [1977-AUTUMN] TV: 風船少女テンプルちゃん
   // https://annict.com/works/9648
   { annict_id: 9648, mal_id: 2809 },
@@ -30350,7 +30350,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: この世界は不完全すぎる
   // https://annict.com/works/10618
   { annict_id: 10618, mal_id: 54835 },
-  // [null-null] TV: 悪役令嬢レベル99～私は裏ボスですが魔王ではありません～
+  // [2024-WINTER] TV: 悪役令嬢レベル99～私は裏ボスですが魔王ではありません～
   // https://annict.com/works/10619
   { annict_id: 10619, mal_id: 54837 },
   // [2024-null] TV: 夜のクラゲは泳げない
