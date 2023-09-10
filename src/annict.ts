@@ -30266,7 +30266,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] TV: ライザのアトリエ ～常闇の女王と秘密の隠れ家～
   // https://annict.com/works/10590
   { annict_id: 10590, mal_id: 54760, syobocal_tid: 6713 },
-  // [null-null] TV: 逃げ上手の若君
+  // [2024-null] TV: 逃げ上手の若君
   // https://annict.com/works/10591
   { annict_id: 10591, mal_id: 54724 },
   // [2021-AUTUMN] WEB: 洒落どる パイロットフィルム
@@ -31469,7 +31469,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 異世界スーサイド・スクワッド
   // https://annict.com/works/10992
   { annict_id: 10992, mal_id: 55848 },
-  // [2024-null] TV: 黒執事 新シリーズ
+  // [2024-null] TV: 黒執事 寄宿学校編
   // https://annict.com/works/10993
   { annict_id: 10993, mal_id: 55855 },
   // [2023-AUTUMN] WEB: ポケモンコンシェルジュ
@@ -31831,7 +31831,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11112, mal_id: 56552 },
   // [2023-AUTUMN] TV: 全力ウサギ (2023)
   // https://annict.com/works/11113
-  { annict_id: 11113 },
+  { annict_id: 11113, mal_id: 50995 },
   // [2023-SUMMER] WEB: 放課後のブレス
   // https://annict.com/works/11114
   { annict_id: 11114, mal_id: 56218 },
@@ -31844,4 +31844,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: メカアマト
   // https://annict.com/works/11117
   { annict_id: 11117 },
+  // [2024-WINTER] MOVIE: 傷物語 -こよみヴァンプ-
+  // https://annict.com/works/11118
+  { annict_id: 11118, mal_id: 56609 },
 ]
