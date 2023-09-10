@@ -24218,7 +24218,7 @@ export const annict: ArmEntry[] = [
   // [2021-SPRING] TV: 猫ジョッキー
   // https://annict.com/works/8409
   { annict_id: 8409, mal_id: 48790, syobocal_tid: 6011 },
-  // [null-null] MOVIE: 劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉
+  // [2024-WINTER] MOVIE: 劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉
   // https://annict.com/works/8410
   { annict_id: 8410, mal_id: 48820 },
   // [2022-SPRING] MOVIE: 劇場版 Free!-the Final Stroke- 後編
