@@ -30386,7 +30386,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: リンカイ！
   // https://annict.com/works/10630
   { annict_id: 10630, mal_id: 54859 },
-  // [null-null] OTHER: 魔王2099
+  // [null-null] TV: 魔王2099
   // https://annict.com/works/10631
   { annict_id: 10631, mal_id: 54853 },
   // [2023-WINTER] TV: さみしいあなた
@@ -31601,7 +31601,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 勇者刑に処す 懲罰勇者9004隊刑務記録
   // https://annict.com/works/11036
   { annict_id: 11036, mal_id: 56009 },
-  // [null-null] TV: 百千さん家のあやかし王子
+  // [2024-null] TV: 百千さん家のあやかし王子
   // https://annict.com/works/11037
   { annict_id: 11037, mal_id: 55998 },
   // [2023-SUMMER] TV: 蒼穹のファフナー THE BEYOND (TV Edition)
@@ -31715,7 +31715,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] TV: 即死チートが最強すぎて、異世界のやつらがまるで相手にならないんですが。
   // https://annict.com/works/11074
   { annict_id: 11074, mal_id: 53730 },
-  // [null-null] TV: デリコズ・ナーサリー
+  // [2024-null] TV: デリコズ・ナーサリー
   // https://annict.com/works/11075
   { annict_id: 11075, mal_id: 56179 },
   // [2024-SUMMER] MOVIE: 劇場版 モノノ怪
