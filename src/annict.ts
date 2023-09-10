@@ -30413,7 +30413,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] TV: HIGH CARD season2
   // https://annict.com/works/10639
   { annict_id: 10639, mal_id: 54869 },
-  // [2023-SUMMER] WEB: 火の鳥 エデンの宙
+  // [2023-AUTUMN] WEB: 火の鳥 エデンの宙
   // https://annict.com/works/10640
   { annict_id: 10640, mal_id: 53720 },
   // [null-null] OTHER: TO BE HERO X
