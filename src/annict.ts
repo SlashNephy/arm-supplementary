@@ -29263,7 +29263,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10254 },
   // [2024-WINTER] TV: 青の祓魔師 島根啓明結社篇
   // https://annict.com/works/10255
-  { annict_id: 10255 },
+  { annict_id: 10255, mal_id: 53889 },
   // [2022-AUTUMN] WEB: DIALOGUE＋「1000万回ハグなんだ」アニメーション Music Video
   // https://annict.com/works/10256
   { annict_id: 10256, mal_id: 53917 },
@@ -30413,7 +30413,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] TV: HIGH CARD season2
   // https://annict.com/works/10639
   { annict_id: 10639, mal_id: 54869 },
-  // [2023-AUTUMN] WEB: 火の鳥 エデンの宙
+  // [2023-SUMMER] WEB: 火の鳥 エデンの宙
   // https://annict.com/works/10640
   { annict_id: 10640, mal_id: 53720 },
   // [null-null] OTHER: TO BE HERO X
