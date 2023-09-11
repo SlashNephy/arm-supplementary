@@ -28627,7 +28627,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10041, mal_id: 51234 },
   // [2023-AUTUMN] TV: アンデッドアンラック
   // https://annict.com/works/10042
-  { annict_id: 10042, mal_id: 52741 },
+  { annict_id: 10042, mal_id: 52741, syobocal_tid: 6820 },
   // [2006-SPRING] TV: アクビガール
   // https://annict.com/works/10043
   { annict_id: 10043, mal_id: 6077, syobocal_tid: 900 },
@@ -28841,7 +28841,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: SHY
   // https://annict.com/works/10114
   { annict_id: 10114, mal_id: 53237, syobocal_tid: 6832 },
-  // [null-null] TV: ラブライブ！スーパースター!! 3期
+  // [2024-null] TV: ラブライブ！スーパースター!! 3期
   // https://annict.com/works/10115
   { annict_id: 10115, mal_id: 53287 },
   // [2023-WINTER] TV: ジョジョの奇妙な冒険 ストーンオーシャン 第3期
