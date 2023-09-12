@@ -27700,7 +27700,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9732, mal_id: 52308, syobocal_tid: 6629 },
   // [2023-AUTUMN] TV: シャングリラ・フロンティア〜クソゲーハンター、神ゲーに挑まんとす〜
   // https://annict.com/works/9733
-  { annict_id: 9733, mal_id: 52347 },
+  { annict_id: 9733, mal_id: 52347, syobocal_tid: 6805 },
   // [2022-SUMMER] WEB: Extreme Hearts S×S×S
   // https://annict.com/works/9734
   { annict_id: 9734, mal_id: 52365 },
@@ -29209,7 +29209,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10236, mal_id: 53810 },
   // [2023-AUTUMN] TV: 私の推しは悪役令嬢。
   // https://annict.com/works/10237
-  { annict_id: 10237, mal_id: 53833 },
+  { annict_id: 10237, mal_id: 53833, syobocal_tid: 6853 },
   // [2024-null] TV: Unnamed Memory
   // https://annict.com/works/10238
   { annict_id: 10238, mal_id: 53835 },
