@@ -58,7 +58,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 18, mal_id: 10798, syobocal_tid: 2258 },
   // [2005-WINTER] TV: ああっ女神さまっ
   // https://annict.com/works/19
-  { annict_id: 19, mal_id: 9611, syobocal_tid: 521 },
+  { annict_id: 19, mal_id: 50, syobocal_tid: 521 },
   // [2006-SPRING] TV: ああっ女神さまっ それぞれの翼
   // https://annict.com/works/20
   { annict_id: 20, mal_id: 880, syobocal_tid: 779 },
