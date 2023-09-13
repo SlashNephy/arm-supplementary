@@ -5026,7 +5026,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1677, mal_id: 708, syobocal_tid: 2688 },
   // [2005-SPRING] TV: パタリロ西遊記!
   // https://annict.com/works/1678
-  { annict_id: 1678, syobocal_tid: 646 },
+  { annict_id: 1678, mal_id: 1035, syobocal_tid: 646 },
   // [1982-SPRING] TV: パタリロ！
   // https://annict.com/works/1679
   { annict_id: 1679, mal_id: 2835 },
@@ -31850,4 +31850,19 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: アズールレーン びそくぜんしんっ！ 第二期
   // https://annict.com/works/11119
   { annict_id: 11119, mal_id: 56613 },
+  // [1986-AUTUMN] MOVIE: 強殖装甲ガイバー(映画)
+  // https://annict.com/works/11120
+  { annict_id: 11120, mal_id: 2293 },
+  // [1989-SUMMER] OVA: 強殖装甲ガイバー(OVA)
+  // https://annict.com/works/11121
+  { annict_id: 11121, mal_id: 6016 },
+  // [1992-WINTER] OVA: 強殖装甲ガイバー II
+  // https://annict.com/works/11122
+  { annict_id: 11122, mal_id: 1336 },
+  // [null-null] OTHER: 北斗の拳 -FIST OF THE NORTH STAR-
+  // https://annict.com/works/11123
+  { annict_id: 11123 },
+  // [2024-WINTER] TV: 貼りまわれ！こいぬ
+  // https://annict.com/works/11124
+  { annict_id: 11124 },
 ]
