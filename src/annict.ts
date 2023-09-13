@@ -31865,4 +31865,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] TV: 貼りまわれ！こいぬ
   // https://annict.com/works/11124
   { annict_id: 11124 },
+  // [2011-WINTER] OVA: ああっ女神さまっ(OAD)
+  // https://annict.com/works/11125
+  { annict_id: 11125, mal_id: 9611 },
 ]
