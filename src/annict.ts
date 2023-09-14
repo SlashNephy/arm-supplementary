@@ -29257,7 +29257,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10252, mal_id: 53163, syobocal_tid: 6627 },
   // [2023-AUTUMN] TV: SPY×FAMILY Season 2
   // https://annict.com/works/10253
-  { annict_id: 10253, mal_id: 53887 },
+  { annict_id: 10253, mal_id: 53887, syobocal_tid: 6858 },
   // [2023-WINTER] WEB: 極主夫道 Season2
   // https://annict.com/works/10254
   { annict_id: 10254 },
@@ -31783,7 +31783,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11096, mal_id: 50399 },
   // [2023-AUTUMN] TV: 放課後少年花子くん
   // https://annict.com/works/11097
-  { annict_id: 11097, mal_id: 56425 },
+  { annict_id: 11097, mal_id: 56425, syobocal_tid: 6829 },
   // [2024-null] TV: ハイガクラ
   // https://annict.com/works/11098
   { annict_id: 11098, mal_id: 56420 },
@@ -31861,7 +31861,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11122, mal_id: 1336 },
   // [null-null] OTHER: 北斗の拳 -FIST OF THE NORTH STAR-
   // https://annict.com/works/11123
-  { annict_id: 11123 },
+  { annict_id: 11123, mal_id: 56646 },
   // [2024-WINTER] TV: 貼りまわれ！こいぬ
   // https://annict.com/works/11124
   { annict_id: 11124 },
@@ -31871,4 +31871,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: BanG Dream! Ave Mujica
   // https://annict.com/works/11126
   { annict_id: 11126 },
+  // [null-null] TV: 青のミブロ
+  // https://annict.com/works/11127
+  { annict_id: 11127, mal_id: 56647 },
 ]
