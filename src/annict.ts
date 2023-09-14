@@ -20464,7 +20464,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6931, mal_id: 40356, syobocal_tid: 6321 },
   // [2023-AUTUMN] TV: 盾の勇者の成り上がり Season3
   // https://annict.com/works/6932
-  { annict_id: 6932, mal_id: 40357 },
+  { annict_id: 6932, mal_id: 40357, syobocal_tid: 6859 },
   // [2019-SUMMER] TV: カードファイト!! ヴァンガード (新右衛門編)
   // https://annict.com/works/6933
   { annict_id: 6933, mal_id: 40167, syobocal_tid: 5409 },
@@ -28852,7 +28852,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10117, mal_id: 51692, syobocal_tid: 6511 },
   // [2023-AUTUMN] TV: お嬢と番犬くん
   // https://annict.com/works/10118
-  { annict_id: 10118, mal_id: 53300 },
+  { annict_id: 10118, mal_id: 53300, syobocal_tid: 6803 },
   // [2023-WINTER] MOVIE: アイカツ！ 10th STORY ～未来へのSTARWAY～ (2023)
   // https://annict.com/works/10119
   { annict_id: 10119, mal_id: 53499 },
