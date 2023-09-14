@@ -29030,7 +29030,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: THE MARGINAL SERVICE
   // https://annict.com/works/10177
   { annict_id: 10177, mal_id: 53587, syobocal_tid: 6693 },
-  // [2024-null] TV: 最弱テイマーはゴミ拾いの旅を始めました。
+  // [2024-WINTER] TV: 最弱テイマーはゴミ拾いの旅を始めました。
   // https://annict.com/works/10178
   { annict_id: 10178, mal_id: 53590 },
   // [2010-SUMMER] MOVIE: CINEMA KEIBA/JAPAN WORLD CUP
