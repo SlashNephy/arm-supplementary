@@ -2828,7 +2828,7 @@ export const annict: ArmEntry[] = [
   // [1984-SPRING] TV: 巨神ゴーグ
   // https://annict.com/works/944
   { annict_id: 944, mal_id: 3327, syobocal_tid: 2281 },
-  // [1998-SUMMER] TV: 影技 -SHADOW SKILL-
+  // [1998-SUMMER] TV: SHADOW SKILL -影技-
   // https://annict.com/works/945
   { annict_id: 945, mal_id: 678 },
   // [2010-AUTUMN] TV: 心霊探偵 八雲
@@ -8192,9 +8192,9 @@ export const annict: ArmEntry[] = [
   // [1987-AUTUMN] OVA: JUNK BOY
   // https://annict.com/works/2736
   { annict_id: 2736, mal_id: 3889 },
-  // [1995-SUMMER] OVA: SHADOW SKILL -影枝-
+  // [1995-SUMMER] OVA: 影技 -SHADOW SKILL-(OVA1期)
   // https://annict.com/works/2737
-  { annict_id: 2737 },
+  { annict_id: 2737, mal_id: 3005 },
   // [2003-AUTUMN] OVA: SHADOW SKILL ～クルダ流交殺法の秘密～
   // https://annict.com/works/2738
   { annict_id: 2738, mal_id: 1099 },
@@ -30632,7 +30632,7 @@ export const annict: ArmEntry[] = [
   // [2024-null] TV: オーイ! とんぼ
   // https://annict.com/works/10713
   { annict_id: 10713, mal_id: 55194 },
-  // [null-null] TV: 甘神さんちの縁結び
+  // [2024-null] TV: 甘神さんちの縁結び
   // https://annict.com/works/10714
   { annict_id: 10714, mal_id: 55071 },
   // [2012-SPRING] TV: リトル・チャロ東北編
@@ -31537,7 +31537,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11014, mal_id: 5298 },
   // [2023-AUTUMN] TV: レヱル・ロマネスク2
   // https://annict.com/works/11015
-  { annict_id: 11015, mal_id: 44583 },
+  { annict_id: 11015, mal_id: 44583, syobocal_tid: 6816 },
   // [2023-AUTUMN] MOVIE: アイドルマスター シャイニーカラーズ 劇場先行上映 第1章
   // https://annict.com/works/11016
   { annict_id: 11016 },
@@ -31874,4 +31874,19 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 青のミブロ
   // https://annict.com/works/11127
   { annict_id: 11127, mal_id: 56647 },
+  // [1998-SPRING] TV: 新YAT安心!宇宙旅行
+  // https://annict.com/works/11128
+  { annict_id: 11128, mal_id: 1892 },
+  // [1996-SUMMER] OVA: 影技 -SHADOW SKILL-(OVA2期)
+  // https://annict.com/works/11129
+  { annict_id: 11129, mal_id: 679 },
+  // [2001-WINTER] TV: すしあざらし
+  // https://annict.com/works/11130
+  { annict_id: 11130, mal_id: 34490 },
+  // [2001-SPRING] TV: ミニモニ。やるのだぴょん
+  // https://annict.com/works/11131
+  { annict_id: 11131, mal_id: 7452 },
+  // [2003-SPRING] TV: ミニモニ。じゃ てーびぃー
+  // https://annict.com/works/11132
+  { annict_id: 11132, mal_id: 4104 },
 ]
