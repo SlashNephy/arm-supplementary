@@ -30133,7 +30133,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10545, mal_id: 53426, syobocal_tid: 6726 },
   // [2023-AUTUMN] TV: ポーション頼みで生き延びます！
   // https://annict.com/works/10546
-  { annict_id: 10546, mal_id: 54616 },
+  { annict_id: 10546, mal_id: 54616, syobocal_tid: 6827 },
   // [2022-WINTER] TV: 越後幕府
   // https://annict.com/works/10547
   { annict_id: 10547, mal_id: 51336 },
@@ -31261,7 +31261,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10922, mal_id: 55690 },
   // [2023-AUTUMN] TV: 冒険者になりたいと都に出て行った娘がSランクになってた
   // https://annict.com/works/10923
-  { annict_id: 10923, mal_id: 53494 },
+  { annict_id: 10923, mal_id: 53494, syobocal_tid: 6861 },
   // [null-null] TV: 鬼滅の刃 柱稽古編
   // https://annict.com/works/10924
   { annict_id: 10924, mal_id: 55701 },
@@ -31417,7 +31417,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10974, mal_id: 55779 },
   // [2023-AUTUMN] TV: 絆のアリル セカンドシーズン
   // https://annict.com/works/10975
-  { annict_id: 10975, mal_id: 55775 },
+  { annict_id: 10975, mal_id: 55775, syobocal_tid: 6814 },
   // [null-null] TV: 【推しの子】 第2期
   // https://annict.com/works/10976
   { annict_id: 10976, mal_id: 55791 },
@@ -31892,4 +31892,16 @@ export const annict: ArmEntry[] = [
   // [2001-SUMMER] TV: 筋肉番付 金剛くんの大冒険!
   // https://annict.com/works/11133
   { annict_id: 11133, mal_id: 10360 },
+  // [null-null] TV: トリリオンゲーム
+  // https://annict.com/works/11134
+  { annict_id: 11134, mal_id: 56662 },
+  // [2001-AUTUMN] TV: くるくるアミー
+  // https://annict.com/works/11135
+  { annict_id: 11135 },
+  // [2001-AUTUMN] TV: ストレイシープ ポーのちっちゃな大冒険
+  // https://annict.com/works/11136
+  { annict_id: 11136, mal_id: 10989 },
+  // [2001-AUTUMN] TV: ピロッポ
+  // https://annict.com/works/11137
+  { annict_id: 11137, mal_id: 5018 },
 ]
