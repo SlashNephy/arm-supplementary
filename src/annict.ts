@@ -31889,4 +31889,7 @@ export const annict: ArmEntry[] = [
   // [2003-SPRING] TV: ミニモニ。じゃ てーびぃー
   // https://annict.com/works/11132
   { annict_id: 11132, mal_id: 4104 },
+  // [2001-SUMMER] TV: 筋肉番付 金剛くんの大冒険!
+  // https://annict.com/works/11133
+  { annict_id: 11133, mal_id: 10360 },
 ]
