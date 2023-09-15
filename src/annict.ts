@@ -31789,7 +31789,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11098, mal_id: 56420 },
   // [2023-AUTUMN] TV: しーくれっとみっしょん～潜入捜査官は絶対に負けない！～
   // https://annict.com/works/11099
-  { annict_id: 11099 },
+  { annict_id: 11099, syobocal_tid: 6843 },
   // [2023-SUMMER] TV: 万聖街(日本語吹替版) 総集編
   // https://annict.com/works/11100
   { annict_id: 11100 },
