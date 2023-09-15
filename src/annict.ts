@@ -30496,7 +30496,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10667, mal_id: 52934, syobocal_tid: 6795 },
   // [2023-AUTUMN] TV: ビックリメン
   // https://annict.com/works/10668
-  { annict_id: 10668, mal_id: 54914 },
+  { annict_id: 10668, mal_id: 54914, syobocal_tid: 6857 },
   // [2022-WINTER] OVA: 新劇場版 頭文字D BATTLE DIGEST
   // https://annict.com/works/10669
   { annict_id: 10669, mal_id: 50846 },
