@@ -31870,7 +31870,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11125, mal_id: 9611 },
   // [null-null] TV: BanG Dream! Ave Mujica
   // https://annict.com/works/11126
-  { annict_id: 11126 },
+  { annict_id: 11126, mal_id: 56653 },
   // [null-null] TV: 青のミブロ
   // https://annict.com/works/11127
   { annict_id: 11127, mal_id: 56647 },
