@@ -31928,4 +31928,7 @@ export const annict: ArmEntry[] = [
   // [2003-SPRING] TV: カスミン(第3シリーズ)
   // https://annict.com/works/11145
   { annict_id: 11145, mal_id: 2738 },
+  // [2002-AUTUMN] TV: ゴールドマッスル
+  // https://annict.com/works/11146
+  { annict_id: 11146 },
 ]
