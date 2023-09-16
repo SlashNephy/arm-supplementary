@@ -31904,4 +31904,28 @@ export const annict: ArmEntry[] = [
   // [2001-AUTUMN] TV: ピロッポ
   // https://annict.com/works/11137
   { annict_id: 11137, mal_id: 5018 },
+  // [2002-WINTER] TV: きっかけはラフくん
+  // https://annict.com/works/11138
+  { annict_id: 11138 },
+  // [2002-WINTER] TV: ヘイ!ヘイ!シュルーム
+  // https://annict.com/works/11139
+  { annict_id: 11139 },
+  // [2002-WINTER] TV: バットマン・ザ・フューチャー
+  // https://annict.com/works/11140
+  { annict_id: 11140 },
+  // [2002-SUMMER] TV: TO-FU OYAKO
+  // https://annict.com/works/11141
+  { annict_id: 11141 },
+  // [2002-SUMMER] TV: リリパット王国
+  // https://annict.com/works/11142
+  { annict_id: 11142 },
+  // [2002-AUTUMN] TV: 宇宙大作戦チョコベーダー
+  // https://annict.com/works/11143
+  { annict_id: 11143 },
+  // [2002-AUTUMN] TV: カスミン(第2シリーズ)
+  // https://annict.com/works/11144
+  { annict_id: 11144, mal_id: 27723 },
+  // [2003-SPRING] TV: カスミン(第3シリーズ)
+  // https://annict.com/works/11145
+  { annict_id: 11145, mal_id: 2738 },
 ]
