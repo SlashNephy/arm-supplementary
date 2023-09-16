@@ -31940,4 +31940,7 @@ export const annict: ArmEntry[] = [
   // [2011-SPRING] TV: エックスメン
   // https://annict.com/works/11149
   { annict_id: 11149, mal_id: 6919 },
+  // [2002-AUTUMN] TV: ポケットモンスター サイドストーリー
+  // https://annict.com/works/11150
+  { annict_id: 11150 },
 ]
