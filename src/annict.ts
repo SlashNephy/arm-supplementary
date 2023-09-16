@@ -31931,4 +31931,7 @@ export const annict: ArmEntry[] = [
   // [2002-AUTUMN] TV: ゴールドマッスル
   // https://annict.com/works/11146
   { annict_id: 11146 },
+  // [2002-AUTUMN] TV: X-メン:エボリューション
+  // https://annict.com/works/11147
+  { annict_id: 11147, mal_id: 0 },
 ]
