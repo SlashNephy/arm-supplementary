@@ -31933,5 +31933,8 @@ export const annict: ArmEntry[] = [
   { annict_id: 11146 },
   // [2002-AUTUMN] TV: X-メン:エボリューション
   // https://annict.com/works/11147
-  { annict_id: 11147, mal_id: 0 },
+  { annict_id: 11147 },
+  // [1994-SPRING] TV: X-メン
+  // https://annict.com/works/11148
+  { annict_id: 11148 },
 ]
