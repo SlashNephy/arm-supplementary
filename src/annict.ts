@@ -26953,7 +26953,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9483, mal_id: 51544, syobocal_tid: 6333 },
   // [2022-WINTER] TV: おじゃる丸 25年スペシャル「ヘイアンチョウ鬼神決戦」
   // https://annict.com/works/9484
-  { annict_id: 9484 },
+  { annict_id: 9484, mal_id: 56518 },
   // [2022-SPRING] TV: 邪神ちゃんドロップキックX まめアニメ (北海道編)
   // https://annict.com/works/9485
   { annict_id: 9485, mal_id: 52006 },
@@ -31943,4 +31943,10 @@ export const annict: ArmEntry[] = [
   // [2002-AUTUMN] TV: ポケットモンスター サイドストーリー
   // https://annict.com/works/11150
   { annict_id: 11150 },
+  // [null-null] OTHER: Burn the Witch #0.8
+  // https://annict.com/works/11151
+  { annict_id: 11151, mal_id: 56671 },
+  // [1984-WINTER] MOVIE: ウルトラマンキッズ M7.8星のゆかいな仲間
+  // https://annict.com/works/11152
+  { annict_id: 11152, mal_id: 10909 },
 ]
