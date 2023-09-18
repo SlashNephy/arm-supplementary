@@ -31943,7 +31943,7 @@ export const annict: ArmEntry[] = [
   // [2002-AUTUMN] TV: ポケットモンスター サイドストーリー
   // https://annict.com/works/11150
   { annict_id: 11150 },
-  // [null-null] OTHER: Burn the Witch #0.8
+  // [null-null] OTHER: BURN THE WITCH #0.8
   // https://annict.com/works/11151
   { annict_id: 11151, mal_id: 56671 },
   // [1984-WINTER] MOVIE: ウルトラマンキッズ M7.8星のゆかいな仲間
