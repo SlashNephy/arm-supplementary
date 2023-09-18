@@ -28744,7 +28744,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10081, mal_id: 53050, syobocal_tid: 6756 },
   // [2023-AUTUMN] TV: カノジョも彼女 Season 2
   // https://annict.com/works/10082
-  { annict_id: 10082, mal_id: 53040 },
+  { annict_id: 10082, mal_id: 53040, syobocal_tid: 6822 },
   // [null-null] OTHER: 『原神』アニメ
   // https://annict.com/works/10083
   { annict_id: 10083 },
