@@ -29620,7 +29620,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10373, mal_id: 50529 },
   // [2023-AUTUMN] TV: ひきこまり吸血姫の悶々
   // https://annict.com/works/10374
-  { annict_id: 10374, mal_id: 54103 },
+  { annict_id: 10374, mal_id: 54103, syobocal_tid: 6825 },
   // [1992-AUTUMN] OVA: けろけろけろっぴのクリスマス・イブのおくりもの
   // https://annict.com/works/10375
   { annict_id: 10375, mal_id: 17983 },
