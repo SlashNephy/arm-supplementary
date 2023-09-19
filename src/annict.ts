@@ -5564,9 +5564,9 @@ export const annict: ArmEntry[] = [
   // [2001-AUTUMN] TV: FF:U ～ファイナルファンタジー：アンリミテッド～
   // https://annict.com/works/1857
   { annict_id: 1857, mal_id: 1157 },
-  // [2003-SPRING] TV: FIRE STORM
+  // [2003-SPRING] TV: FIRESTORM
   // https://annict.com/works/1858
-  { annict_id: 1858 },
+  { annict_id: 1858, mal_id: 2382 },
   // [2010-AUTUMN] TV: FORTUNE ARTERIAL 赤い約束
   // https://annict.com/works/1859
   { annict_id: 1859, mal_id: 8536, syobocal_tid: 2043 },
