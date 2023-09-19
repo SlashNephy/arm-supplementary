@@ -4241,9 +4241,9 @@ export const annict: ArmEntry[] = [
   // [2006-SPRING] TV: TOKKO 特公
   // https://annict.com/works/1415
   { annict_id: 1415, mal_id: 916, syobocal_tid: 843 },
-  // [2013-SPRING] TV: TRAiN HEROES
+  // [2013-SPRING] TV: トレインヒーロー
   // https://annict.com/works/1416
-  { annict_id: 1416, mal_id: 18137 },
+  { annict_id: 1416, mal_id: 18137, syobocal_tid: 2951 },
   // [1998-SPRING] TV: TRIGUN
   // https://annict.com/works/1417
   { annict_id: 1417, mal_id: 6, syobocal_tid: 1448 },
