@@ -32000,4 +32000,7 @@ export const annict: ArmEntry[] = [
   // [2014-SUMMER] WEB: トレインヒーロー 本日もスピン・アウト！
   // https://annict.com/works/11169
   { annict_id: 11169, mal_id: 54804 },
+  // [2017-WINTER] WEB: トレインヒーロー 本日もスピン・アウト！ インドネシア編
+  // https://annict.com/works/11170
+  { annict_id: 11170, mal_id: 54805 },
 ]
