@@ -32006,4 +32006,10 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] OVA: 僕のヒーローアカデミア 新作オリジナルエピソード「雄英ヒーローズ・バトル」
   // https://annict.com/works/11171
   { annict_id: 11171 },
+  // [null-null] TV: Re:Monster
+  // https://annict.com/works/11172
+  { annict_id: 11172 },
+  // [2024-WINTER] TV: 月刊モー想科学
+  // https://annict.com/works/11173
+  { annict_id: 11173, mal_id: 56691 },
 ]
