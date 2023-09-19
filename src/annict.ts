@@ -6044,7 +6044,7 @@ export const annict: ArmEntry[] = [
   // [2007-WINTER] TV: Master of Epic The Animation Age
   // https://annict.com/works/2017
   { annict_id: 2017, mal_id: 1885, syobocal_tid: 1081 },
-  // [2002-WINTER] TV: MOUSE
+  // [2003-WINTER] TV: MOUSE
   // https://annict.com/works/2018
   { annict_id: 2018, mal_id: 624 },
   // [2007-AUTUMN] TV: Myself;Yourself
@@ -31949,4 +31949,10 @@ export const annict: ArmEntry[] = [
   // [1984-WINTER] MOVIE: ウルトラマンキッズ M7.8星のゆかいな仲間
   // https://annict.com/works/11152
   { annict_id: 11152, mal_id: 10909 },
+  // [2003-SPRING] TV: かっぱまき
+  // https://annict.com/works/11153
+  { annict_id: 11153, mal_id: 20123 },
+  // [2003-SPRING] TV: GO!GO!カートくん
+  // https://annict.com/works/11154
+  { annict_id: 11154 },
 ]
