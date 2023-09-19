@@ -31994,4 +31994,10 @@ export const annict: ArmEntry[] = [
   // [2003-AUTUMN] TV: トキ この地球（ほし）の未来を見つめて
   // https://annict.com/works/11167
   { annict_id: 11167, mal_id: 23407 },
+  // [2014-WINTER] MOVIE: 劇場版 トレインヒーロー
+  // https://annict.com/works/11168
+  { annict_id: 11168, mal_id: 22131 },
+  // [2014-SUMMER] WEB: トレインヒーロー 本日もスピン・アウト！
+  // https://annict.com/works/11169
+  { annict_id: 11169, mal_id: 54804 },
 ]
