@@ -6437,7 +6437,7 @@ export const annict: ArmEntry[] = [
   // [2008-AUTUMN] TV: ミチコとハッチン
   // https://annict.com/works/2149
   { annict_id: 2149, mal_id: 4087, syobocal_tid: 1503 },
-  // [2001-AUTUMN] TV: ミッドナイトホラースクール
+  // [2003-AUTUMN] TV: ミッドナイトホラースクール
   // https://annict.com/works/2150
   { annict_id: 2150, mal_id: 7751 },
   // [2013-SUMMER] TV: ミュウツー ～覚醒への序章～
@@ -31961,4 +31961,37 @@ export const annict: ArmEntry[] = [
   // [2003-WINTER] TV: ZoomZoo
   // https://annict.com/works/11156
   { annict_id: 11156 },
+  // [2003-SPRING] TV: 梅四エッキス
+  // https://annict.com/works/11157
+  { annict_id: 11157, mal_id: 56462 },
+  // [2003-SPRING] TV: ayupan 不思議の扉
+  // https://annict.com/works/11158
+  { annict_id: 11158 },
+  // [2001-SPRING] TV: KEROKERO NEWS SHOW
+  // https://annict.com/works/11159
+  { annict_id: 11159 },
+  // [2003-SPRING] TV: ケロケロキングデラックスプラス
+  // https://annict.com/works/11160
+  { annict_id: 11160 },
+  // [2003-AUTUMN] TV: 福島民話館 ねぇみんな…
+  // https://annict.com/works/11161
+  { annict_id: 11161, syobocal_tid: 808 },
+  // [2003-AUTUMN] TV: トントンあったと にいがたの昔ばなし
+  // https://annict.com/works/11162
+  { annict_id: 11162, mal_id: 10242 },
+  // [2003-AUTUMN] TV: トムトム☆ブー
+  // https://annict.com/works/11163
+  { annict_id: 11163 },
+  // [2003-AUTUMN] TV: ジェイコブの屋根
+  // https://annict.com/works/11164
+  { annict_id: 11164 },
+  // [2003-AUTUMN] TV: ヘラクレス(TVシリーズ)
+  // https://annict.com/works/11165
+  { annict_id: 11165 },
+  // [2003-AUTUMN] TV: 着せかえアニメむか～しむかし
+  // https://annict.com/works/11166
+  { annict_id: 11166 },
+  // [2003-AUTUMN] TV: トキ この地球（ほし）の未来を見つめて
+  // https://annict.com/works/11167
+  { annict_id: 11167, mal_id: 23407 },
 ]
