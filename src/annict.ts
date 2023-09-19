@@ -31955,4 +31955,10 @@ export const annict: ArmEntry[] = [
   // [2003-SPRING] TV: GO!GO!カートくん
   // https://annict.com/works/11154
   { annict_id: 11154 },
+  // [2003-SPRING] TV: スーパートレインがんばりダッシュ
+  // https://annict.com/works/11155
+  { annict_id: 11155 },
+  // [2003-WINTER] TV: ZoomZoo
+  // https://annict.com/works/11156
+  { annict_id: 11156 },
 ]
