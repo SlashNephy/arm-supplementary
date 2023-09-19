@@ -23432,7 +23432,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] TV: 魔王学院の不適合者Ⅱ ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～ part1
   // https://annict.com/works/8147
   { annict_id: 8147, mal_id: 48417, syobocal_tid: 6567 },
-  // [null-null] TV: 魔王学院の不適合者 ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～ 第2期 2クール目
+  // [null-null] TV: 魔王学院の不適合者Ⅱ ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～ part2
   // https://annict.com/works/8148
   { annict_id: 8148, mal_id: 48418 },
   // [2022-WINTER] TV: 錆喰いビスコ
@@ -32003,4 +32003,7 @@ export const annict: ArmEntry[] = [
   // [2017-WINTER] WEB: トレインヒーロー 本日もスピン・アウト！ インドネシア編
   // https://annict.com/works/11170
   { annict_id: 11170, mal_id: 54805 },
+  // [2023-AUTUMN] OVA: 僕のヒーローアカデミア 新作オリジナルエピソード「雄英ヒーローズ・バトル」
+  // https://annict.com/works/11171
+  { annict_id: 11171 },
 ]
