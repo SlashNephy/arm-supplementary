@@ -26824,7 +26824,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9439 },
   // [2023-AUTUMN] TV: ラグナクリムゾン
   // https://annict.com/works/9440
-  { annict_id: 9440, mal_id: 51297 },
+  { annict_id: 9440, mal_id: 51297, syobocal_tid: 6804 },
   // [2022-WINTER] TV: ぼくらベビーベアーズ
   // https://annict.com/works/9441
   { annict_id: 9441, syobocal_tid: 6264 },
@@ -32018,4 +32018,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 自動販売機に生まれ変わった俺は迷宮を彷徨う(2期)
   // https://annict.com/works/11175
   { annict_id: 11175 },
+  // [null-null] OTHER: 渡くんの××が崩壊寸前
+  // https://annict.com/works/11176
+  { annict_id: 11176, mal_id: 56693 },
 ]
