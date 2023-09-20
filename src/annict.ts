@@ -32015,4 +32015,7 @@ export const annict: ArmEntry[] = [
   // [1987-SPRING] MOVIE: ほえろブンブン(劇場版)
   // https://annict.com/works/11174
   { annict_id: 11174, mal_id: 10509 },
+  // [null-null] TV: 自動販売機に生まれ変わった俺は迷宮を彷徨う(2期)
+  // https://annict.com/works/11175
+  { annict_id: 11175 },
 ]
