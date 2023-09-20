@@ -11390,7 +11390,7 @@ export const annict: ArmEntry[] = [
   // [2009-WINTER] WEB: 涼宮ハルヒちゃんの憂鬱
   // https://annict.com/works/3808
   { annict_id: 3808, mal_id: 5118, syobocal_tid: 1567 },
-  // [null-null] WEB: 西武鉄道駅員タコちゃん
+  // [2011-SPRING] WEB: 西武鉄道駅員タコちゃん
   // https://annict.com/works/3809
   { annict_id: 3809, mal_id: 10850 },
   // [2012-SPRING] WEB: 鷹の爪.jp
