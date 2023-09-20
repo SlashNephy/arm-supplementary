@@ -32012,4 +32012,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] TV: 月刊モー想科学
   // https://annict.com/works/11173
   { annict_id: 11173, mal_id: 56691 },
+  // [1987-SPRING] MOVIE: ほえろブンブン(劇場版)
+  // https://annict.com/works/11174
+  { annict_id: 11174, mal_id: 10509 },
 ]
