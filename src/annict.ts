@@ -29887,7 +29887,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10462, mal_id: 52985, syobocal_tid: 6794 },
   // [2023-AUTUMN] TV: はめつのおうこく
   // https://annict.com/works/10463
-  { annict_id: 10463, mal_id: 54362 },
+  { annict_id: 10463, mal_id: 54362, syobocal_tid: 6821 },
   // [2014-SPRING] TV: ラーバ
   // https://annict.com/works/10464
   { annict_id: 10464 },
@@ -32027,4 +32027,10 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] WEB: ガメラVS子ザメラ
   // https://annict.com/works/11178
   { annict_id: 11178, mal_id: 56702 },
+  // [2024-SPRING] OVA: わたしの幸せな結婚 未放送エピソード『わたしの幸せなかたち』
+  // https://annict.com/works/11179
+  { annict_id: 11179, mal_id: 55889 },
+  // [null-null] TV: わたしの幸せな結婚 第二期
+  // https://annict.com/works/11180
+  { annict_id: 11180, mal_id: 56701 },
 ]
