@@ -32045,4 +32045,10 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] OVA: 好きな子がめがねを忘れた Blu-ray第3巻収録 ショートアニメ
   // https://annict.com/works/11184
   { annict_id: 11184 },
+  // [2023-AUTUMN] OVA: てんぷる OVA「うそ、何でこんなにおっきく…」
+  // https://annict.com/works/11185
+  { annict_id: 11185 },
+  // [2023-AUTUMN] OVA: てんぷる OVA「そんなところを触られては…」
+  // https://annict.com/works/11186
+  { annict_id: 11186 },
 ]
