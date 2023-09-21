@@ -32033,4 +32033,16 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: わたしの幸せな結婚 第二期
   // https://annict.com/works/11180
   { annict_id: 11180, mal_id: 56701 },
+  // [2023-AUTUMN] WEB: 鬼武者
+  // https://annict.com/works/11181
+  { annict_id: 11181, mal_id: 53150 },
+  // [2023-AUTUMN] OVA: 好きな子がめがねを忘れた Blu-ray第1巻収録 ショートアニメ
+  // https://annict.com/works/11182
+  { annict_id: 11182, mal_id: 56213 },
+  // [2024-WINTER] OVA: 好きな子がめがねを忘れた Blu-ray第2巻収録 ショートアニメ
+  // https://annict.com/works/11183
+  { annict_id: 11183 },
+  // [2024-WINTER] OVA: 好きな子がめがねを忘れた Blu-ray第3巻収録 ショートアニメ
+  // https://annict.com/works/11184
+  { annict_id: 11184 },
 ]
