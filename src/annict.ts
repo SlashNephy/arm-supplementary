@@ -32026,5 +32026,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 11177, mal_id: 56562 },
   // [2023-SUMMER] WEB: ガメラVS子ザメラ
   // https://annict.com/works/11178
-  { annict_id: 11178 },
+  { annict_id: 11178, mal_id: 56702 },
 ]
