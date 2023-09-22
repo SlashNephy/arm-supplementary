@@ -31802,7 +31802,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] MOVIE: デッドデッドデーモンズデデデデデストラクション 後編
   // https://annict.com/works/11103
   { annict_id: 11103 },
-  // [2023-AUTUMN] TV: まついぬ
+  // [2023-AUTUMN] TV: 松犬
   // https://annict.com/works/11104
   { annict_id: 11104, syobocal_tid: 6823 },
   // [null-null] OTHER: ゼーガペイン オルタモーダ編
