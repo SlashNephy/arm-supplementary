@@ -32051,4 +32051,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] OVA: てんぷる OVA「そんなところを触られては…」
   // https://annict.com/works/11186
   { annict_id: 11186 },
+  // [2023-AUTUMN] OVA: 百姓貴族 未放送エピソード
+  // https://annict.com/works/11187
+  { annict_id: 11187 },
 ]
