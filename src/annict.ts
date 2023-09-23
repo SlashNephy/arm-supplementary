@@ -25759,7 +25759,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9020 },
   // [2023-AUTUMN] TV: 聖剣学院の魔剣使い
   // https://annict.com/works/9021
-  { annict_id: 9021, mal_id: 50184 },
+  { annict_id: 9021, mal_id: 50184, syobocal_tid: 6860 },
   // [2005-SUMMER] OVA: 攻殻機動隊 STAND ALONE COMPLEX The Laughing Man
   // https://annict.com/works/9022
   { annict_id: 9022, mal_id: 2449, syobocal_tid: 2394 },
