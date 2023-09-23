@@ -29791,7 +29791,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10430, mal_id: 5235, syobocal_tid: 1512 },
   // [2023-AUTUMN] TV: オーバーテイク！
   // https://annict.com/works/10431
-  { annict_id: 10431, mal_id: 54301 },
+  { annict_id: 10431, mal_id: 54301, syobocal_tid: 6807 },
   // [null-null] TV: ブルーアーカイブ The Animation
   // https://annict.com/works/10432
   { annict_id: 10432, mal_id: 54309 },
