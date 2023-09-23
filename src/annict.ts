@@ -32054,4 +32054,10 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] OVA: 百姓貴族 未放送エピソード
   // https://annict.com/works/11187
   { annict_id: 11187 },
+  // [2016-AUTUMN] WEB: シンデレラガールズ劇場5周年記念ショートアニメ
+  // https://annict.com/works/11188
+  { annict_id: 11188, mal_id: 34489 },
+  // [2023-SUMMER] WEB: バトルスピリッツ15周年記念ショートアニメ
+  // https://annict.com/works/11189
+  { annict_id: 11189 },
 ]
