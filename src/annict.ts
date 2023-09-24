@@ -31804,7 +31804,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11103 },
   // [2023-AUTUMN] TV: まついぬ
   // https://annict.com/works/11104
-  { annict_id: 11104, syobocal_tid: 6823 },
+  { annict_id: 11104, mal_id: 56487, syobocal_tid: 6823 },
   // [null-null] OTHER: ゼーガペイン オルタモーダ編
   // https://annict.com/works/11105
   { annict_id: 11105, mal_id: 56488 },
@@ -32062,7 +32062,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11189 },
   // [2024-null] TV: 死神坊ちゃんと黒メイド 第3期
   // https://annict.com/works/11190
-  { annict_id: 11190 },
+  { annict_id: 11190, mal_id: 56738 },
   // [null-null] TV: SYNDUALITY Noir 第2クール
   // https://annict.com/works/11191
   { annict_id: 11191, mal_id: 56731 },
