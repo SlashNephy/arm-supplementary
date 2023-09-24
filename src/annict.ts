@@ -31754,7 +31754,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] WEB: マッシュ・バーンデッドたちと寮生活
   // https://annict.com/works/11087
   { annict_id: 11087 },
-  // [null-null] MOVIE: 劇場版ハイキュー!! ゴミ捨て場の決戦
+  // [2024-WINTER] MOVIE: 劇場版ハイキュー!! ゴミ捨て場の決戦
   // https://annict.com/works/11088
   { annict_id: 11088, mal_id: 52742 },
   // [2023-SUMMER] WEB: メック・カデッツ
