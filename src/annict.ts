@@ -30148,7 +30148,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10550, mal_id: 40969, syobocal_tid: 6666 },
   // [2023-AUTUMN] TV: 川越ボーイズ・シング
   // https://annict.com/works/10551
-  { annict_id: 10551, mal_id: 54638 },
+  { annict_id: 10551, mal_id: 54638, syobocal_tid: 6870 },
   // [2023-SPRING] TV: ちびゴジラの逆襲
   // https://annict.com/works/10552
   { annict_id: 10552, mal_id: 54644, syobocal_tid: 6704 },
@@ -32063,4 +32063,22 @@ export const annict: ArmEntry[] = [
   // [2024-null] TV: 死神坊ちゃんと黒メイド 第3期
   // https://annict.com/works/11190
   { annict_id: 11190 },
+  // [null-null] TV: SYNDUALITY Noir 第2クール
+  // https://annict.com/works/11191
+  { annict_id: 11191, mal_id: 56731 },
+  // [null-null] TV: 世界最高の暗殺者、異世界貴族に転生する 第2期
+  // https://annict.com/works/11192
+  { annict_id: 11192, mal_id: 56732 },
+  // [null-null] OTHER: 転校先の清楚可憐な美少女が、昔男子と思って一緒に遊んだ幼馴染だった件
+  // https://annict.com/works/11193
+  { annict_id: 11193, mal_id: 56735 },
+  // [null-null] OTHER: クラスで2番目に可愛い女の子と友だちになった
+  // https://annict.com/works/11194
+  { annict_id: 11194, mal_id: 56734 },
+  // [null-null] OTHER: 最強出涸らし皇子の暗躍帝位争い
+  // https://annict.com/works/11195
+  { annict_id: 11195, mal_id: 56736 },
+  // [null-null] OTHER: マジカル★エクスプローラー
+  // https://annict.com/works/11196
+  { annict_id: 11196, mal_id: 56733 },
 ]
