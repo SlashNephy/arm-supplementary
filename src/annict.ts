@@ -32063,7 +32063,7 @@ export const annict: ArmEntry[] = [
   // [2024-null] TV: 死神坊ちゃんと黒メイド 第3期
   // https://annict.com/works/11190
   { annict_id: 11190, mal_id: 56738 },
-  // [null-null] TV: SYNDUALITY Noir 第2クール
+  // [2024-WINTER] TV: SYNDUALITY Noir 第2クール
   // https://annict.com/works/11191
   { annict_id: 11191, mal_id: 56731 },
   // [null-null] TV: 世界最高の暗殺者、異世界貴族に転生する 第2期
