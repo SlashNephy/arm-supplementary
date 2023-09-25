@@ -28882,7 +28882,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10127, mal_id: 24443 },
   // [2023-AUTUMN] TV: 星屑テレパス
   // https://annict.com/works/10128
-  { annict_id: 10128, mal_id: 53262 },
+  { annict_id: 10128, mal_id: 53262, syobocal_tid: 6837 },
   // [2012-SPRING] MOVIE: 旅するぬいぐるみ
   // https://annict.com/works/10129
   { annict_id: 10129, mal_id: 15077 },
