@@ -32084,4 +32084,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 時光代理人 -LINK CLICK- 第2期
   // https://annict.com/works/11197
   { annict_id: 11197, mal_id: 49413 },
+  // [2024-WINTER] TV: 百妖譜
+  // https://annict.com/works/11198
+  { annict_id: 11198, mal_id: 41224 },
 ]
