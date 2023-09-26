@@ -38,5 +38,6 @@ export const fetchAnimeOfflineDatabase = async (): Promise<AnimeOfflineDatabase>
     }
   )
   const json = await response.json()
+
   return json as AnimeOfflineDatabase
 }
