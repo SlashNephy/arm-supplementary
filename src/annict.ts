@@ -26896,7 +26896,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9463, mal_id: 51368, syobocal_tid: 6393 },
   // [2023-SUMMER] WEB: 範馬刃牙 2期
   // https://annict.com/works/9464
-  { annict_id: 9464, mal_id: 51318 },
+  { annict_id: 9464, mal_id: 51318, syobocal_tid: 6808 },
   // [2022-SUMMER] TV: ブッチギレ！
   // https://annict.com/works/9465
   { annict_id: 9465, mal_id: 51371, syobocal_tid: 6396 },
@@ -31529,7 +31529,7 @@ export const annict: ArmEntry[] = [
   // [2012-WINTER] OVA: いじめ 〜いけにえの教室〜
   // https://annict.com/works/11012
   { annict_id: 11012 },
-  // [2023-SUMMER] WEB: 時光代理人 -LINK CLICK- 第2期
+  // [2023-SUMMER] WEB: 時光代理人 -LINK CLICK- 第2期（配信版）
   // https://annict.com/works/11013
   { annict_id: 11013, mal_id: 49413 },
   // [2008-SUMMER] OTHER: 遊☆戯☆王5D's 進化する決闘! スターダストVSレッド・デーモンズ
@@ -32078,7 +32078,10 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 最強出涸らし皇子の暗躍帝位争い
   // https://annict.com/works/11195
   { annict_id: 11195, mal_id: 56736 },
-  // [null-null] OTHER: マジカル★エクスプローラー　エロゲの友人キャラに転生したけど、ゲーム知識使って自由に生きる
+  // [null-null] OTHER: マジカル★エクスプローラー エロゲの友人キャラに転生したけど、ゲーム知識使って自由に生きる
   // https://annict.com/works/11196
   { annict_id: 11196, mal_id: 56733 },
+  // [null-null] TV: 時光代理人 -LINK CLICK- 第2期
+  // https://annict.com/works/11197
+  { annict_id: 11197, mal_id: 49413 },
 ]
