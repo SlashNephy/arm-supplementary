@@ -32078,7 +32078,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 最強出涸らし皇子の暗躍帝位争い
   // https://annict.com/works/11195
   { annict_id: 11195, mal_id: 56736 },
-  // [null-null] OTHER: マジカル★エクスプローラー
+  // [null-null] OTHER: マジカル★エクスプローラー　エロゲの友人キャラに転生したけど、ゲーム知識使って自由に生きる
   // https://annict.com/works/11196
   { annict_id: 11196, mal_id: 56733 },
 ]
