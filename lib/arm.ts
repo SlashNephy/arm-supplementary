@@ -23,5 +23,6 @@ export const fetchArm = async (sha?: string): Promise<ArmEntry[]> => {
     },
   })
   const json = await response.json()
+
   return json as ArmEntry[]
 }

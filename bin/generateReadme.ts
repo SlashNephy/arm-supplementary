@@ -36,6 +36,7 @@ export const fetchArmEntries = async (): Promise<ArmEntry[]> => {
 const loadArmJson = async (): Promise<ArmEntry[]> => {
   const path = join(cwd(), 'dist', 'arm.json')
   const content = await readFile(path, 'utf-8')
+
   return JSON.parse(content) as ArmEntry[]
 }
 

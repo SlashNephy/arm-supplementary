@@ -15,6 +15,7 @@ const tryParseInt = (value?: string): number | undefined => {
   }
 
   const num = parseInt(value, 10)
+
   return Number.isNaN(num) ? undefined : num
 }
 
