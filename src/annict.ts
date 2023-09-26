@@ -30125,7 +30125,7 @@ export const annict: ArmEntry[] = [
   // [2024-null] TV: HIGHSPEED Étoile
   // https://annict.com/works/10543
   { annict_id: 10543, mal_id: 52405 },
-  // [null-null] TV: 休日のわるものさん
+  // [2024-WINTER] TV: 休日のわるものさん
   // https://annict.com/works/10544
   { annict_id: 10544, mal_id: 54617 },
   // [2023-SUMMER] TV: 百姓貴族
@@ -30467,7 +30467,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: クズ悪役の自己救済システム
   // https://annict.com/works/10658
   { annict_id: 10658, mal_id: 38990 },
-  // [null-null] OTHER: 新米オッサン冒険者、最強パーティに死ぬほど鍛えられて無敵になる。
+  // [2024-null] TV: 新米オッサン冒険者、最強パーティに死ぬほど鍛えられて無敵になる。
   // https://annict.com/works/10659
   { annict_id: 10659, mal_id: 54913 },
   // [2023-SPRING] TV: おじゃる丸 (第26シリーズ)
