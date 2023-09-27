@@ -32087,4 +32087,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] TV: 百妖譜
   // https://annict.com/works/11198
   { annict_id: 11198, mal_id: 41224 },
+  // [2023-SUMMER] WEB: まぢピンチ THE ANIMATION
+  // https://annict.com/works/11199
+  { annict_id: 11199 },
 ]
