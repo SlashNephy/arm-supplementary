@@ -26209,7 +26209,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9202, mal_id: 50583 },
   // [2023-AUTUMN] TV: ミギとダリ
   // https://annict.com/works/9203
-  { annict_id: 9203, mal_id: 50586 },
+  { annict_id: 9203, mal_id: 50586, syobocal_tid: 6811 },
   // [2023-WINTER] MOVIE: グリッドマン ユニバース
   // https://annict.com/works/9204
   { annict_id: 9204, mal_id: 50587 },
@@ -30319,7 +30319,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10607, mal_id: 54794 },
   // [2023-AUTUMN] TV: カミエラビ
   // https://annict.com/works/10608
-  { annict_id: 10608, mal_id: 54798 },
+  { annict_id: 10608, mal_id: 54798, syobocal_tid: 6846 },
   // [2023-WINTER] WEB: バイオ名作劇場　ふしぎの村のレオン
   // https://annict.com/works/10609
   { annict_id: 10609, mal_id: 54782 },
