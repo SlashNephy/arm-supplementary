@@ -30235,7 +30235,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10579, mal_id: 54726 },
   // [2023-AUTUMN] TV: 暴食のベルセルク
   // https://annict.com/works/10580
-  { annict_id: 10580, mal_id: 53439 },
+  { annict_id: 10580, mal_id: 53439, syobocal_tid: 6847 },
   // [null-null] OTHER: キン肉マン 新シリーズ
   // https://annict.com/works/10581
   { annict_id: 10581 },
@@ -32090,4 +32090,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] WEB: まぢピンチ THE ANIMATION
   // https://annict.com/works/11199
   { annict_id: 11199 },
+  // [2023-AUTUMN] WEB: 《まったり解説》暴食のベルセルク
+  // https://annict.com/works/11200
+  { annict_id: 11200, mal_id: 56758 },
 ]
