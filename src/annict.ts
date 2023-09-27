@@ -32093,4 +32093,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] WEB: 《まったり解説》暴食のベルセルク
   // https://annict.com/works/11200
   { annict_id: 11200, mal_id: 56758 },
+  // [2014-WINTER] TV: 蟲師 特別篇「日蝕む翳」
+  // https://annict.com/works/11201
+  { annict_id: 11201 },
 ]
