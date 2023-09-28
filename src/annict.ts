@@ -4499,7 +4499,7 @@ export const annict: ArmEntry[] = [
   // [2007-SUMMER] TV: ななついろ★ドロップス
   // https://annict.com/works/1501
   { annict_id: 1501, mal_id: 1688, syobocal_tid: 1090 },
-  // [2004-AUTUMN] TV: ななみちゃん
+  // [2004-SPRING] TV: ななみちゃん
   // https://annict.com/works/1502
   { annict_id: 1502, mal_id: 749, syobocal_tid: 527 },
   // [2003-SUMMER] TV: なるたる
@@ -32096,4 +32096,19 @@ export const annict: ArmEntry[] = [
   // [2014-WINTER] TV: 蟲師 特別篇「日蝕む翳」
   // https://annict.com/works/11201
   { annict_id: 11201 },
+  // [2004-SPRING] TV: 超ぽじてぃぶ! ファイターズ
+  // https://annict.com/works/11202
+  { annict_id: 11202, syobocal_tid: 679 },
+  // [2004-SPRING] TV: パンダーゼット THE ROBONIMATION
+  // https://annict.com/works/11203
+  { annict_id: 11203, mal_id: 2234, syobocal_tid: 354 },
+  // [2004-SPRING] TV: のってけエクスプレッツ
+  // https://annict.com/works/11204
+  { annict_id: 11204, mal_id: 29740 },
+  // [2004-SUMMER] TV: ポストペットモモ便
+  // https://annict.com/works/11205
+  { annict_id: 11205, mal_id: 1656 },
+  // [2004-SUMMER] TV: カレーの国のコバ～ル
+  // https://annict.com/works/11206
+  { annict_id: 11206, mal_id: 35817, syobocal_tid: 515 },
 ]
