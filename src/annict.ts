@@ -30464,7 +30464,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] TV: キャッチ！ティニピン
   // https://annict.com/works/10657
   { annict_id: 10657, mal_id: 48343, syobocal_tid: 6699 },
-  // [2023-SPRING] TV: クズ悪役の自己救済システム
+  // [2023-SPRING] TV: クズ悪役の自己救済システム（字幕版）
   // https://annict.com/works/10658
   { annict_id: 10658, mal_id: 38990 },
   // [2024-null] TV: 新米オッサン冒険者、最強パーティに死ぬほど鍛えられて無敵になる。
@@ -32114,4 +32114,10 @@ export const annict: ArmEntry[] = [
   // [2004-AUTUMN] TV: シトラスタウン
   // https://annict.com/works/11207
   { annict_id: 11207 },
+  // [2023-AUTUMN] TV: クズ悪役の自己救済システム
+  // https://annict.com/works/11208
+  { annict_id: 11208, mal_id: 38990 },
+  // [null-null] OTHER: ただいま、おかえり
+  // https://annict.com/works/11209
+  { annict_id: 11209, mal_id: 56768 },
 ]
