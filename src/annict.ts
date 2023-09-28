@@ -26761,7 +26761,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9418 },
   // [2023-AUTUMN] TV: 聖女の魔力は万能です Season2
   // https://annict.com/works/9419
-  { annict_id: 9419, mal_id: 51215 },
+  { annict_id: 9419, mal_id: 51215, syobocal_tid: 6845 },
   // [2022-SUMMER] TV: 金装のヴェルメイユ ～崖っぷち魔術師は最強の厄災と魔法世界を突き進む～
   // https://annict.com/works/9420
   { annict_id: 9420, mal_id: 51213, syobocal_tid: 6366 },
@@ -30236,9 +30236,9 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: 暴食のベルセルク
   // https://annict.com/works/10580
   { annict_id: 10580, mal_id: 53439, syobocal_tid: 6847 },
-  // [null-null] OTHER: キン肉マン 新シリーズ
+  // [2024-null] TV: キン肉マン 完璧超人始祖編
   // https://annict.com/works/10581
-  { annict_id: 10581 },
+  { annict_id: 10581, mal_id: 54730 },
   // [2006-SPRING] OVA: 山古志村のマリと三匹の子犬
   // https://annict.com/works/10582
   { annict_id: 10582, mal_id: 30985 },
