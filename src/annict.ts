@@ -32111,4 +32111,7 @@ export const annict: ArmEntry[] = [
   // [2004-SUMMER] TV: カレーの国のコバ～ル
   // https://annict.com/works/11206
   { annict_id: 11206, mal_id: 35817, syobocal_tid: 515 },
+  // [2004-AUTUMN] TV: シトラスタウン
+  // https://annict.com/works/11207
+  { annict_id: 11207 },
 ]
