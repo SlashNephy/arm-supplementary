@@ -30254,7 +30254,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: デッドマウント・デスプレイ 第2クール
   // https://annict.com/works/10586
   { annict_id: 10586, mal_id: 54743 },
-  // [null-null] TV: 火狩りの王 第2シーズン
+  // [2024-WINTER] TV: 火狩りの王 第2シーズン
   // https://annict.com/works/10587
   { annict_id: 10587, mal_id: 54754 },
   // [2024-SPRING] TV: アイドルマスター シャイニーカラーズ
@@ -32120,4 +32120,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: ただいま、おかえり
   // https://annict.com/works/11209
   { annict_id: 11209, mal_id: 56768 },
+  // [2023-AUTUMN] WEB: シャンフロ ミニ
+  // https://annict.com/works/11210
+  { annict_id: 11210 },
 ]
