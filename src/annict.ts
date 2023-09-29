@@ -30299,7 +30299,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: 魔術士オーフェンはぐれ旅 聖域編
   // https://annict.com/works/10601
   { annict_id: 10601, mal_id: 54738, syobocal_tid: 6685 },
-  // [2023-AUTUMN] OTHER: 転生したらスライムだった件 コリウスの夢
+  // [2023-AUTUMN] WEB: 転生したらスライムだった件 コリウスの夢
   // https://annict.com/works/10602
   { annict_id: 10602, mal_id: 54565 },
   // [2023-AUTUMN] MOVIE: 大雪海のカイナ ほしのけんじゃ
