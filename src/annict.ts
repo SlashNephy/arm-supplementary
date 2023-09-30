@@ -23432,7 +23432,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] TV: 魔王学院の不適合者Ⅱ ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～ part1
   // https://annict.com/works/8147
   { annict_id: 8147, mal_id: 48417, syobocal_tid: 6567 },
-  // [null-null] TV: 魔王学院の不適合者Ⅱ ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～ part2
+  // [2024-null] TV: 魔王学院の不適合者Ⅱ ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～ 2ndクール
   // https://annict.com/works/8148
   { annict_id: 8148, mal_id: 48418 },
   // [2022-WINTER] TV: 錆喰いビスコ
@@ -26374,7 +26374,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9257, mal_id: 8240 },
   // [2023-AUTUMN] TV: MFゴースト
   // https://annict.com/works/9258
-  { annict_id: 9258, mal_id: 50695 },
+  { annict_id: 9258, mal_id: 50695, syobocal_tid: 6809 },
   // [null-null] TV: スライム倒して300年、知らないうちにレベルMAXになってました 第2期
   // https://annict.com/works/9259
   { annict_id: 9259, mal_id: 50738 },
@@ -29774,7 +29774,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: 機動戦士ガンダム 水星の魔女 Season2
   // https://annict.com/works/10425
   { annict_id: 10425, mal_id: 53199, syobocal_tid: 6680 },
-  // [2024-null] TV: 結婚指輪物語
+  // [2024-WINTER] TV: 結婚指輪物語
   // https://annict.com/works/10426
   { annict_id: 10426, mal_id: 54265 },
   // [2023-SUMMER] TV: てんぷる
@@ -32123,4 +32123,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] WEB: シャンフロ ミニ
   // https://annict.com/works/11210
   { annict_id: 11210 },
+  // [2024-null] TV: BLEACH 千年血戦篇-相剋譚-
+  // https://annict.com/works/11211
+  { annict_id: 11211, mal_id: 56784 },
 ]
