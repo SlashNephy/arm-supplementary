@@ -32126,4 +32126,19 @@ export const annict: ArmEntry[] = [
   // [2024-null] TV: BLEACH 千年血戦篇-相剋譚-
   // https://annict.com/works/11211
   { annict_id: 11211, mal_id: 56784 },
+  // [2021-AUTUMN] WEB: うさまるマート
+  // https://annict.com/works/11212
+  { annict_id: 11212 },
+  // [2022-SPRING] WEB: うさまるヒーローズ
+  // https://annict.com/works/11213
+  { annict_id: 11213 },
+  // [2022-SUMMER] WEB: ちびちびうさまる
+  // https://annict.com/works/11214
+  { annict_id: 11214 },
+  // [2023-SPRING] WEB: ちびちびうさまる そらのたび
+  // https://annict.com/works/11215
+  { annict_id: 11215 },
+  // [2023-AUTUMN] WEB: 温泉旅館 うさまる荘
+  // https://annict.com/works/11216
+  { annict_id: 11216 },
 ]
