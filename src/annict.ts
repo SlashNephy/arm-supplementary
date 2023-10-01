@@ -7438,7 +7438,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2482, mal_id: 2558 },
   // [1965-SPRING] TV: Ｗ3
   // https://annict.com/works/2483
-  { annict_id: 2483, mal_id: 30767 },
+  { annict_id: 2483, mal_id: 4088 },
   // [1998-SPRING] OVA: AIKa
   // https://annict.com/works/2484
   { annict_id: 2484, mal_id: 366, syobocal_tid: 421 },
