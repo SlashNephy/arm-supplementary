@@ -3166,7 +3166,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1056, mal_id: 1603, syobocal_tid: 1045 },
   // [1965-WINTER] TV: スーパー・ジェッター
   // https://annict.com/works/1057
-  { annict_id: 1057 },
+  { annict_id: 1057, mal_id: 16159 },
   // [2003-SUMMER] TV: 住めば都のコスモス荘 すっとこ大戦ドッコイダー
   // https://annict.com/works/1058
   { annict_id: 1058, mal_id: 1837, syobocal_tid: 100 },
@@ -9398,7 +9398,7 @@ export const annict: ArmEntry[] = [
   // [1990-SUMMER] MOVIE: 愛と剣のキャメロット まんが家マリナ タイムスリップ事件
   // https://annict.com/works/3142
   { annict_id: 3142, mal_id: 5931 },
-  // [2007-AUTUMN] MOVIE: Yes!プリキュア5 鏡の国のミラクル大冒険
+  // [2007-AUTUMN] MOVIE: 映画Yes!プリキュア5 鏡の国のミラクル大冒険
   // https://annict.com/works/3143
   { annict_id: 3143, mal_id: 3051, syobocal_tid: 2444 },
   // [2010-SPRING] MOVIE: いばらの王 ‐King of Thorn‐
@@ -10715,7 +10715,7 @@ export const annict: ArmEntry[] = [
   // [2013-SPRING] MOVIE: ハル
   // https://annict.com/works/3582
   { annict_id: 3582, mal_id: 16528, syobocal_tid: 3493 },
-  // [2010-AUTUMN] MOVIE: ハートキャッチプリキュア！花の都でファッションショー…ですか！？
+  // [2010-AUTUMN] MOVIE: 映画ハートキャッチプリキュア！花の都でファッションショー…ですか！？
   // https://annict.com/works/3583
   { annict_id: 3583, mal_id: 9288, syobocal_tid: 2278 },
   // [2004-WINTER] MOVIE: ハードル　真実と勇気の間で
@@ -32120,7 +32120,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: ただいま、おかえり
   // https://annict.com/works/11209
   { annict_id: 11209, mal_id: 56768 },
-  // [2023-AUTUMN] WEB: シャンフロ ミニ
+  // [2023-SUMMER] WEB: シャンフロ ミニ
   // https://annict.com/works/11210
   { annict_id: 11210 },
   // [2024-null] TV: BLEACH 千年血戦篇-相剋譚-
@@ -32147,4 +32147,10 @@ export const annict: ArmEntry[] = [
   // [2016-WINTER] WEB: モラン
   // https://annict.com/works/11218
   { annict_id: 11218 },
+  // [2023-AUTUMN] WEB: シャンフロ劇場
+  // https://annict.com/works/11219
+  { annict_id: 11219 },
+  // [2023-AUTUMN] WEB: おーばーていく！えくすとら
+  // https://annict.com/works/11220
+  { annict_id: 11220 },
 ]
