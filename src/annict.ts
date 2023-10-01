@@ -32141,4 +32141,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] WEB: 温泉旅館 うさまる荘
   // https://annict.com/works/11216
   { annict_id: 11216 },
+  // [2022-AUTUMN] WEB: ブラウン&フレンズ
+  // https://annict.com/works/11217
+  { annict_id: 11217 },
 ]
