@@ -31207,7 +31207,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10904, mal_id: 12769 },
   // [2023-AUTUMN] TV: 忍ばない！クリプトニンジャ咲耶
   // https://annict.com/works/10905
-  { annict_id: 10905 },
+  { annict_id: 10905, syobocal_tid: 6812 },
   // [2012-null] OVA: ジャスティーン
   // https://annict.com/works/10906
   { annict_id: 10906 },
