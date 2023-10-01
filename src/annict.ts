@@ -32144,4 +32144,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] WEB: ブラウン&フレンズ
   // https://annict.com/works/11217
   { annict_id: 11217 },
+  // [2016-WINTER] WEB: モラン
+  // https://annict.com/works/11218
+  { annict_id: 11218 },
 ]
