@@ -32159,4 +32159,16 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: チキップダンサーズ 第3期
   // https://annict.com/works/11222
   { annict_id: 11222, syobocal_tid: 6802 },
+  // [2016-WINTER] WEB: 超普通都市カシワ伝説
+  // https://annict.com/works/11223
+  { annict_id: 11223, mal_id: 42054 },
+  // [2019-SUMMER] WEB: 超普通都市カシワ伝説Z
+  // https://annict.com/works/11224
+  { annict_id: 11224, mal_id: 42055 },
+  // [2023-WINTER] WEB: 超普通地区トーカツ伝説
+  // https://annict.com/works/11225
+  { annict_id: 11225 },
+  // [2017-SPRING] WEB: 超普通都市カシワ伝説 UDC2編
+  // https://annict.com/works/11226
+  { annict_id: 11226, mal_id: 42875 },
 ]
