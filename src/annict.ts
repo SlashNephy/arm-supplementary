@@ -32156,4 +32156,7 @@ export const annict: ArmEntry[] = [
   // [1998-null] OVA: ゲキ・ガンガー3 熱血大決戦!!
   // https://annict.com/works/11221
   { annict_id: 11221 },
+  // [2023-AUTUMN] TV: チキップダンサーズ 第3期
+  // https://annict.com/works/11222
+  { annict_id: 11222, syobocal_tid: 6802 },
 ]
