@@ -32171,4 +32171,28 @@ export const annict: ArmEntry[] = [
   // [2017-SPRING] WEB: 超普通都市カシワ伝説 UDC2編
   // https://annict.com/works/11226
   { annict_id: 11226, mal_id: 42875 },
+  // [2021-AUTUMN] WEB: 超普通都市カシワ伝説 柏パスタ修行編
+  // https://annict.com/works/11227
+  { annict_id: 11227 },
+  // [2021-AUTUMN] WEB: 超普通シリーズ 障害理解編
+  // https://annict.com/works/11228
+  { annict_id: 11228 },
+  // [2024-WINTER] TV: 超普通県チバ伝説
+  // https://annict.com/works/11229
+  { annict_id: 11229, mal_id: 54197 },
+  // [2022-WINTER] WEB: 超普通都市カシワ伝説  (2022)
+  // https://annict.com/works/11230
+  { annict_id: 11230, mal_id: 42876 },
+  // [2022-WINTER] WEB: 超普通都市マツド伝説
+  // https://annict.com/works/11231
+  { annict_id: 11231 },
+  // [2022-WINTER] WEB: 超普通都市カマガヤ伝説
+  // https://annict.com/works/11232
+  { annict_id: 11232 },
+  // [2023-WINTER] WEB: 超普通都市チバチュウ伝説
+  // https://annict.com/works/11233
+  { annict_id: 11233 },
+  // [null-null] WEB: 超普通地区トーカツ伝説 第2部
+  // https://annict.com/works/11234
+  { annict_id: 11234 },
 ]
