@@ -27532,7 +27532,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9676, mal_id: 51958, syobocal_tid: 6648 },
   // [2023-AUTUMN] TV: Paradox Live THE ANIMATION
   // https://annict.com/works/9677
-  { annict_id: 9677, mal_id: 51956 },
+  { annict_id: 9677, mal_id: 51956, syobocal_tid: 6869 },
   // [2022-AUTUMN] TV: 僕とロボコ
   // https://annict.com/works/9678
   { annict_id: 9678, mal_id: 51940, syobocal_tid: 6531 },
@@ -31624,7 +31624,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11043, mal_id: 56062 },
   // [2023-AUTUMN] TV: 攻略うぉんてっど！～異世界救います！？～
   // https://annict.com/works/11044
-  { annict_id: 11044, mal_id: 50571 },
+  { annict_id: 11044, mal_id: 50571, syobocal_tid: 6818 },
   // [2024-null] TV: となりの妖怪さん
   // https://annict.com/works/11045
   { annict_id: 11045, mal_id: 51461 },
