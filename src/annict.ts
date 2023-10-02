@@ -25366,7 +25366,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 8857, mal_id: 19397 },
   // [2023-AUTUMN] TV: アンダーニンジャ
   // https://annict.com/works/8858
-  { annict_id: 8858, mal_id: 49766 },
+  { annict_id: 8858, mal_id: 49766, syobocal_tid: 6817 },
   // [2022-SPRING] OVA: 憂国のモリアーティ ～百合の追憶～
   // https://annict.com/works/8859
   { annict_id: 8859, mal_id: 49733 },
@@ -28729,7 +28729,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10076, mal_id: 50953 },
   // [2023-AUTUMN] TV: 経験済みなキミと、経験ゼロなオレが、お付き合いする話。
   // https://annict.com/works/10077
-  { annict_id: 10077, mal_id: 52990 },
+  { annict_id: 10077, mal_id: 52990, syobocal_tid: 6864 },
   // [null-null] TV: ありふれた職業で世界最強 3rd season
   // https://annict.com/works/10078
   { annict_id: 10078 },
@@ -29101,7 +29101,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10200, mal_id: 53671 },
   // [2023-AUTUMN] TV: ブルバスター
   // https://annict.com/works/10201
-  { annict_id: 10201, mal_id: 53633 },
+  { annict_id: 10201, mal_id: 53633, syobocal_tid: 6813 },
   // [2019-WINTER] OVA: ガイコツ書店員本田さん OVA
   // https://annict.com/works/10202
   { annict_id: 10202, mal_id: 38527 },
@@ -29941,7 +29941,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10481, mal_id: 29487 },
   // [2023-AUTUMN] TV: とあるおっさんのVRMMO活動記
   // https://annict.com/works/10482
-  { annict_id: 10482, mal_id: 54431 },
+  { annict_id: 10482, mal_id: 54431, syobocal_tid: 6844 },
   // [2023-SUMMER] TV: AIの遺電子
   // https://annict.com/works/10483
   { annict_id: 10483, mal_id: 53787, syobocal_tid: 6719 },
@@ -30253,7 +30253,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10585, mal_id: 55644, syobocal_tid: 6856 },
   // [2023-AUTUMN] TV: デッドマウント・デスプレイ 第2クール
   // https://annict.com/works/10586
-  { annict_id: 10586, mal_id: 54743 },
+  { annict_id: 10586, mal_id: 54743, syobocal_tid: 6849 },
   // [2024-WINTER] TV: 火狩りの王 第2シーズン
   // https://annict.com/works/10587
   { annict_id: 10587, mal_id: 54754 },
@@ -30382,7 +30382,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10628, mal_id: 54860 },
   // [2023-AUTUMN] TV: 帰還者の魔法は特別です
   // https://annict.com/works/10629
-  { annict_id: 10629, mal_id: 54852 },
+  { annict_id: 10629, mal_id: 54852, syobocal_tid: 6854 },
   // [null-null] TV: リンカイ！
   // https://annict.com/works/10630
   { annict_id: 10630, mal_id: 54859 },
@@ -30916,7 +30916,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10807, mal_id: 20143 },
   // [2023-AUTUMN] TV: 新しい上司はど天然
   // https://annict.com/works/10808
-  { annict_id: 10808, mal_id: 55310 },
+  { annict_id: 10808, mal_id: 55310, syobocal_tid: 6855 },
   // [2008-AUTUMN] OVA: プリごろ太 宇宙の友情大冒険
   // https://annict.com/works/10809
   { annict_id: 10809, mal_id: 5656 },
