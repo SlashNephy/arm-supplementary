@@ -27484,7 +27484,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9660, mal_id: 51818 },
   // [2022-SUMMER] OTHER: ROLY POLY PEOPLES
   // https://annict.com/works/9661
-  { annict_id: 9661 },
+  { annict_id: 9661, mal_id: 52421 },
   // [2020-SUMMER] WEB: 仮面ライダーゼロワン ショートアニメ EVERYONE'S DAILY LIFE
   // https://annict.com/works/9662
   { annict_id: 9662, mal_id: 42491 },
@@ -27574,7 +27574,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9690, mal_id: 52551 },
   // [2022-SUMMER] WEB: 世界の終わりに柴犬と
   // https://annict.com/works/9691
-  { annict_id: 9691 },
+  { annict_id: 9691, mal_id: 52020 },
   // [2010-AUTUMN] MOVIE: メガマインド
   // https://annict.com/works/9692
   { annict_id: 9692 },
@@ -27940,7 +27940,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9812, mal_id: 52619, syobocal_tid: 6723 },
   // [2022-AUTUMN] OVA: 女の園の星
   // https://annict.com/works/9813
-  { annict_id: 9813 },
+  { annict_id: 9813, mal_id: 52601 },
   // [2014-WINTER] WEB: クロスロード
   // https://annict.com/works/9814
   { annict_id: 9814, mal_id: 22839 },
