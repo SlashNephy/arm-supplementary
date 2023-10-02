@@ -43,12 +43,12 @@ Currently, arm-supplementary has 36547 entries (+6960).
 | Service                                     | arm-supplementary | arm / anime-offline-database |
 | :------------------------------------------ | :---------------: | :--------------------------: |
 | [Annict](https://annict.com)                |   10717 (+181)    |            10536             |
-| [AniList](https://anilist.co)               |   21354 (+2185)   |            19169             |
-| [MyAnimeList](https://myanimelist.net)      |   25807 (+458)    |            25349             |
+| [AniList](https://anilist.co)               |   21357 (+2188)   |            19169             |
+| [MyAnimeList](https://myanimelist.net)      |   25810 (+461)    |            25349             |
 | [しょぼいカレンダー](https://cal.syoboi.jp) |    5738 (+40)     |             5698             |
-| [AniDB](https://anidb.net)                  |   13089 (+137)    |            12952             |
-| [Anime-Planet](https://anime-planet.com)    |   23280 (+138)    |            23142             |
-| [aniSearch](https://anisearch.com)          |   18202 (+146)    |            18056             |
-| [Kitsu](https://kitsu.io)                   |   19640 (+151)    |            19489             |
-| [LiveChart.me](https://livechart.me)        |   11054 (+127)    |            10927             |
-| [Anime Notifier](https://notify.moe)        |   16095 (+147)    |            15948             |
+| [AniDB](https://anidb.net)                  |   13092 (+140)    |            12952             |
+| [Anime-Planet](https://anime-planet.com)    |   23283 (+141)    |            23142             |
+| [aniSearch](https://anisearch.com)          |   18204 (+148)    |            18056             |
+| [Kitsu](https://kitsu.io)                   |   19641 (+152)    |            19489             |
+| [LiveChart.me](https://livechart.me)        |   11056 (+129)    |            10927             |
+| [Anime Notifier](https://notify.moe)        |   16097 (+149)    |            15948             |
