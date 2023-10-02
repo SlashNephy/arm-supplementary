@@ -22558,7 +22558,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 7825, mal_id: 46118, syobocal_tid: 5881 },
   // [2023-AUTUMN] TV: B-PROJECT～熱烈＊ラブコール～
   // https://annict.com/works/7826
-  { annict_id: 7826, mal_id: 44081 },
+  { annict_id: 7826, mal_id: 44081, syobocal_tid: 6810 },
   // [2021-AUTUMN] TV: 真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました
   // https://annict.com/works/7827
   { annict_id: 7827, mal_id: 44037, syobocal_tid: 6126 },
@@ -30340,7 +30340,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10614, mal_id: 54847, syobocal_tid: 6752 },
   // [2023-AUTUMN] TV: キャプテン翼シーズン２ ジュニアユース編
   // https://annict.com/works/10615
-  { annict_id: 10615, mal_id: 54803 },
+  { annict_id: 10615, mal_id: 54803, syobocal_tid: 6806 },
   // [2022-AUTUMN] MOVIE: ひつじのショーン スペシャル クリスマスがやってきた！
   // https://annict.com/works/10616
   { annict_id: 10616 },
