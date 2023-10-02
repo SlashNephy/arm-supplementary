@@ -31831,7 +31831,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11112, mal_id: 56552 },
   // [2023-AUTUMN] TV: 全力ウサギ (2023)
   // https://annict.com/works/11113
-  { annict_id: 11113, mal_id: 50995 },
+  { annict_id: 11113, mal_id: 50995, syobocal_tid: 6873 },
   // [2023-SUMMER] WEB: 放課後のブレス
   // https://annict.com/works/11114
   { annict_id: 11114, mal_id: 56218 },
