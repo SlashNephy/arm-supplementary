@@ -26206,7 +26206,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9201, mal_id: 50582, syobocal_tid: 6740 },
   // [2023-AUTUMN] TV: 豚のレバーは加熱しろ
   // https://annict.com/works/9202
-  { annict_id: 9202, mal_id: 50583 },
+  { annict_id: 9202, mal_id: 50583, syobocal_tid: 6841 },
   // [2023-AUTUMN] TV: ミギとダリ
   // https://annict.com/works/9203
   { annict_id: 9203, mal_id: 50586, syobocal_tid: 6811 },
@@ -26302,7 +26302,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9233, mal_id: 50652, syobocal_tid: 6536 },
   // [2023-AUTUMN] TV: 最果てのパラディン 鉄錆の山の王
   // https://annict.com/works/9234
-  { annict_id: 9234, mal_id: 50664 },
+  { annict_id: 9234, mal_id: 50664, syobocal_tid: 6824 },
   // [2022-AUTUMN] TV: ポプテピピック 第二シリーズ
   // https://annict.com/works/9235
   { annict_id: 9235, mal_id: 50663, syobocal_tid: 6438 },
@@ -29245,7 +29245,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10248, mal_id: 49793 },
   // [2023-AUTUMN] TV: アークナイツ【冬隠帰路/PERISH IN FROST】
   // https://annict.com/works/10249
-  { annict_id: 10249, mal_id: 53881 },
+  { annict_id: 10249, mal_id: 53881, syobocal_tid: 6872 },
   // [2023-WINTER] TV: 「FLAGLIA」～なつやすみの物語～
   // https://annict.com/works/10250
   { annict_id: 10250, mal_id: 53424, syobocal_tid: 6617 },
@@ -29596,7 +29596,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10365 },
   // [2023-AUTUMN] TV: 16bitセンセーション ANOTHER LAYER
   // https://annict.com/works/10366
-  { annict_id: 10366, mal_id: 54041 },
+  { annict_id: 10366, mal_id: 54041, syobocal_tid: 6848 },
   // [2023-WINTER] WEB: Fate/Grand Order 藤丸立香はわからない
   // https://annict.com/works/10367
   { annict_id: 10367, mal_id: 54042 },
@@ -30629,7 +30629,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: 七不思議がくる！
   // https://annict.com/works/10712
   { annict_id: 10712 },
-  // [2024-null] TV: オーイ! とんぼ
+  // [2024-SPRING] TV: オーイ! とんぼ
   // https://annict.com/works/10713
   { annict_id: 10713, mal_id: 55194 },
   // [2024-null] TV: 甘神さんちの縁結び
@@ -30835,7 +30835,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10780, mal_id: 53762 },
   // [2023-AUTUMN] TV: 邪神ちゃんドロップキック【世紀末編】
   // https://annict.com/works/10781
-  { annict_id: 10781, mal_id: 55237 },
+  { annict_id: 10781, mal_id: 55237, syobocal_tid: 6830 },
   // [2023-SPRING] WEB: べあべあべあくまーぱーんち！
   // https://annict.com/works/10782
   { annict_id: 10782, mal_id: 55225 },
@@ -30853,7 +30853,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10786 },
   // [2023-AUTUMN] TV: ドッグシグナル
   // https://annict.com/works/10787
-  { annict_id: 10787, mal_id: 54294 },
+  { annict_id: 10787, mal_id: 54294, syobocal_tid: 6867 },
   // [1985-SUMMER] OVA: ダロス スペシャル
   // https://annict.com/works/10788
   { annict_id: 10788, mal_id: 10313 },
@@ -31501,7 +31501,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11002, mal_id: 55888 },
   // [2023-AUTUMN] TV: 僕らの雨いろプロトコル
   // https://annict.com/works/11003
-  { annict_id: 11003, mal_id: 55894 },
+  { annict_id: 11003, mal_id: 55894, syobocal_tid: 6865 },
   // [2023-SUMMER] MOVIE: アイドルマスター ミリオンライブ！ 劇場先行上映 第1幕
   // https://annict.com/works/11004
   { annict_id: 11004 },
@@ -32195,4 +32195,10 @@ export const annict: ArmEntry[] = [
   // [null-null] WEB: 超普通地区トーカツ伝説 第2部
   // https://annict.com/works/11234
   { annict_id: 11234 },
+  // [2023-AUTUMN] TV: BEYBLADE X
+  // https://annict.com/works/11235
+  { annict_id: 11235, mal_id: 56566, syobocal_tid: 6862 },
+  // [2023-AUTUMN] TV: おしりたんてい (第8シリーズ)
+  // https://annict.com/works/11236
+  { annict_id: 11236, syobocal_tid: 6871 },
 ]
