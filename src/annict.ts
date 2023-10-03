@@ -32153,7 +32153,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] WEB: おーばーていく！えくすとら
   // https://annict.com/works/11220
   { annict_id: 11220 },
-  // [1998-null] OVA: ゲキ・ガンガー3 熱血大決戦!!
+  // [1998-WINTER] OVA: ゲキ・ガンガー3 熱血大決戦!!
   // https://annict.com/works/11221
   { annict_id: 11221 },
   // [2023-AUTUMN] TV: チキップダンサーズ 第3期
