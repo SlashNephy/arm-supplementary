@@ -32234,4 +32234,7 @@ export const annict: ArmEntry[] = [
   // [2015-null] OVA: やっぱり海が好き
   // https://annict.com/works/11247
   { annict_id: 11247, mal_id: 56452 },
+  // [2005-SUMMER] TV: AIR IN SUMMER
+  // https://annict.com/works/11248
+  { annict_id: 11248, mal_id: 656 },
 ]
