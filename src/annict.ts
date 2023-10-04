@@ -32237,4 +32237,10 @@ export const annict: ArmEntry[] = [
   // [2005-SUMMER] TV: AIR IN SUMMER
   // https://annict.com/works/11248
   { annict_id: 11248, mal_id: 656 },
+  // [null-null] TV: ワンルーム、日当たり普通、天使つき。
+  // https://annict.com/works/11249
+  { annict_id: 11249, mal_id: 56838 },
+  // [null-null] TV: 合コンに行ったら女がいなかった話
+  // https://annict.com/works/11250
+  { annict_id: 11250, mal_id: 56843 },
 ]
