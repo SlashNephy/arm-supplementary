@@ -32210,4 +32210,10 @@ export const annict: ArmEntry[] = [
   // [2011-null] MOVIE: アロイス・ネーベル
   // https://annict.com/works/11239
   { annict_id: 11239 },
+  // [2023-AUTUMN] TV: フシギ学園魔法部！
+  // https://annict.com/works/11240
+  { annict_id: 11240 },
+  // [2023-AUTUMN] TV: 異世界屋敷の妖精メイド〜あかいろ〜
+  // https://annict.com/works/11241
+  { annict_id: 11241 },
 ]
