@@ -32201,4 +32201,13 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: おしりたんてい (第8シリーズ)
   // https://annict.com/works/11236
   { annict_id: 11236, syobocal_tid: 6871 },
+  // [2023-WINTER] WEB: シナモンアニメだもん
+  // https://annict.com/works/11237
+  { annict_id: 11237 },
+  // [2020-null] WEB: そんな感じ
+  // https://annict.com/works/11238
+  { annict_id: 11238 },
+  // [2011-null] MOVIE: アロイス・ネーベル
+  // https://annict.com/works/11239
+  { annict_id: 11239 },
 ]
