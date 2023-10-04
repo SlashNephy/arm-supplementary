@@ -32216,4 +32216,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: 異世界屋敷の妖精メイド〜あかいろ〜
   // https://annict.com/works/11241
   { annict_id: 11241 },
+  // [2023-AUTUMN] TV: 女神 OF THE ドロップス
+  // https://annict.com/works/11242
+  { annict_id: 11242 },
 ]
