@@ -32219,4 +32219,19 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: 女神 OF THE ドロップス
   // https://annict.com/works/11242
   { annict_id: 11242 },
+  // [2023-AUTUMN] WEB: I.CINNAMOROLL Animation
+  // https://annict.com/works/11243
+  { annict_id: 11243 },
+  // [2023-AUTUMN] WEB: ぬいストーリー
+  // https://annict.com/works/11244
+  { annict_id: 11244, mal_id: 56623 },
+  // [2022-SPRING] WEB: ヤンキーハムスター シーズン３
+  // https://annict.com/works/11245
+  { annict_id: 11245, mal_id: 55564 },
+  // [2023-AUTUMN] WEB: ヤンキーハムスター シーズン4
+  // https://annict.com/works/11246
+  { annict_id: 11246, mal_id: 56622 },
+  // [2015-null] OVA: やっぱり海が好き
+  // https://annict.com/works/11247
+  { annict_id: 11247, mal_id: 56452 },
 ]
