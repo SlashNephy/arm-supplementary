@@ -32249,4 +32249,13 @@ export const annict: ArmEntry[] = [
   // [2002-SUMMER] MOVIE: 爆転シュート ベイブレード THE MOVIE 激闘!!タカオVS大地
   // https://annict.com/works/11252
   { annict_id: 11252, mal_id: 1670 },
+  // [2014-SPRING] TV: もっふりモフ☆モフ
+  // https://annict.com/works/11253
+  { annict_id: 11253 },
+  // [2015-SUMMER] TV: ブーブーボーイ
+  // https://annict.com/works/11254
+  { annict_id: 11254, mal_id: 30892 },
+  // [2020-AUTUMN] TV: モグモグモギュー
+  // https://annict.com/works/11255
+  { annict_id: 11255 },
 ]
