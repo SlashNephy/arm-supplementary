@@ -32243,4 +32243,10 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 合コンに行ったら女がいなかった話
   // https://annict.com/works/11250
   { annict_id: 11250, mal_id: 56843 },
+  // [2002-SUMMER] MOVIE: 劇場版サルゲッチュ 黄金のピポヘル・ウッキーバトル
+  // https://annict.com/works/11251
+  { annict_id: 11251, mal_id: 31052 },
+  // [2002-SUMMER] MOVIE: 爆転シュート ベイブレード THE MOVIE 激闘!!タカオVS大地
+  // https://annict.com/works/11252
+  { annict_id: 11252, mal_id: 1670 },
 ]
