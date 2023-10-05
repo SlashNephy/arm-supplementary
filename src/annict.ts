@@ -32264,4 +32264,16 @@ export const annict: ArmEntry[] = [
   // [2024-null] WEB: T・Pぼん
   // https://annict.com/works/11257
   { annict_id: 11257, mal_id: 56840 },
+  // [2024-WINTER] TV: 最強タンクの迷宮攻略～体力9999のレアスキル持ちタンク、勇者パーティーを追放される～
+  // https://annict.com/works/11258
+  { annict_id: 11258, mal_id: 56845 },
+  // [2024-null] TV: ハミダシクリエイティブ
+  // https://annict.com/works/11259
+  { annict_id: 11259, mal_id: 56461 },
+  // [1966-AUTUMN] TV: グリンチのクリスマス
+  // https://annict.com/works/11260
+  { annict_id: 11260 },
+  // [1999-WINTER] TV: フューチャラマ シーズン1
+  // https://annict.com/works/11261
+  { annict_id: 11261 },
 ]
