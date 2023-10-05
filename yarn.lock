@@ -1657,10 +1657,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:*, @types/node@npm:20.6.5":
+"@types/node@npm:*":
   version: 20.6.5
   resolution: "@types/node@npm:20.6.5"
   checksum: b849e849cf7631458a65c5019c81962028e306d8c4455a48422277b240f5a7eb8a1f1dafa60306bd4c773b77263bb8b05c074b1026e868bd137bb2022cf63ea2
+  languageName: node
+  linkType: hard
+
+"@types/node@npm:20.8.2":
+  version: 20.8.2
+  resolution: "@types/node@npm:20.8.2"
+  checksum: 3da73e25d821bfcdb7de98589027e08bb4848e55408671c4a83ec0341e124b5313a0b20e1e4b4eff1168ea17a86f622ad73fcb04b761abd77496b9a27cbd5de5
   languageName: node
   linkType: hard
 
@@ -2192,7 +2199,7 @@ __metadata:
     "@graphql-codegen/client-preset": 4.1.0
     "@slashnephy/eslint-config": 2.0.24
     "@slashnephy/prettier-config": 1.0.15
-    "@types/node": 20.6.5
+    "@types/node": 20.8.2
     concurrently: 8.2.1
     dotenv: 16.3.1
     eslint: 8.50.0
