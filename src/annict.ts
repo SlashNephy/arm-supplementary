@@ -32258,4 +32258,10 @@ export const annict: ArmEntry[] = [
   // [2020-AUTUMN] TV: モグモグモギュー
   // https://annict.com/works/11255
   { annict_id: 11255 },
+  // [1989-AUTUMN] TV: 藤子・F・不二雄アニメスペシャル SFアドベンチャー T・Pぼん
+  // https://annict.com/works/11256
+  { annict_id: 11256, mal_id: 12529 },
+  // [2024-null] WEB: T・Pぼん
+  // https://annict.com/works/11257
+  { annict_id: 11257, mal_id: 56840 },
 ]
