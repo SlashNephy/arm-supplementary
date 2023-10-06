@@ -3614,7 +3614,7 @@ export const annict: ArmEntry[] = [
   // [2011-SPRING] TV: だぶるじぇい
   // https://annict.com/works/1206
   { annict_id: 1206, mal_id: 10838 },
-  // [2004-AUTUMN] TV: だめっこどうぶつ
+  // [2005-WINTER] TV: だめっこどうぶつ
   // https://annict.com/works/1207
   { annict_id: 1207, mal_id: 485, syobocal_tid: 553 },
   // [1969-AUTUMN] TV: タイガーマスク
@@ -32276,4 +32276,16 @@ export const annict: ArmEntry[] = [
   // [1999-WINTER] TV: フューチャラマ シーズン1
   // https://annict.com/works/11261
   { annict_id: 11261 },
+  // [2005-WINTER] TV: ウィッチ ヴィレッジ ストーリー
+  // https://annict.com/works/11262
+  { annict_id: 11262, mal_id: 31696 },
+  // [2005-WINTER] TV: モリゾーとキッコロ(第2シリーズ)
+  // https://annict.com/works/11263
+  { annict_id: 11263 },
+  // [2005-WINTER] TV: ネポス・ナポス
+  // https://annict.com/works/11264
+  { annict_id: 11264, mal_id: 30409 },
+  // [2005-WINTER] TV: 留守電アワー SODANブラザーズ
+  // https://annict.com/works/11265
+  { annict_id: 11265, mal_id: 30138 },
 ]
