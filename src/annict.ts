@@ -32288,4 +32288,10 @@ export const annict: ArmEntry[] = [
   // [2005-WINTER] TV: 留守電アワー SODANブラザーズ
   // https://annict.com/works/11265
   { annict_id: 11265, mal_id: 30138 },
+  // [2023-AUTUMN] TV: いきものさん 特別編
+  // https://annict.com/works/11266
+  { annict_id: 11266 },
+  // [2023-AUTUMN] MOVIE: ダンジョン飯 ～Delicious in Dungeon～
+  // https://annict.com/works/11267
+  { annict_id: 11267 },
 ]
