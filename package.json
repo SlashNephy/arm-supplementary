@@ -45,7 +45,7 @@
     "ts-node": "10.9.1",
     "typescript": "5.1.6"
   },
-  "packageManager": "yarn@3.6.3",
+  "packageManager": "yarn@3.6.4",
   "eslintConfig": {
     "extends": [
       "@slashnephy/eslint-config"
