@@ -32005,7 +32005,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11170, mal_id: 54805 },
   // [2023-AUTUMN] OVA: 僕のヒーローアカデミア 新作オリジナルエピソード「雄英ヒーローズ・バトル」
   // https://annict.com/works/11171
-  { annict_id: 11171 },
+  { annict_id: 11171, mal_id: 56685 },
   // [null-null] TV: Re:Monster
   // https://annict.com/works/11172
   { annict_id: 11172 },
@@ -32047,13 +32047,13 @@ export const annict: ArmEntry[] = [
   { annict_id: 11184 },
   // [2023-AUTUMN] OVA: てんぷる OVA「うそ、何でこんなにおっきく…」
   // https://annict.com/works/11185
-  { annict_id: 11185 },
+  { annict_id: 11185, mal_id: 56741 },
   // [2023-AUTUMN] OVA: てんぷる OVA「そんなところを触られては…」
   // https://annict.com/works/11186
   { annict_id: 11186 },
   // [2023-AUTUMN] OVA: 百姓貴族 未放送エピソード
   // https://annict.com/works/11187
-  { annict_id: 11187 },
+  { annict_id: 11187, mal_id: 56743 },
   // [2016-AUTUMN] WEB: シンデレラガールズ劇場5周年記念ショートアニメ
   // https://annict.com/works/11188
   { annict_id: 11188, mal_id: 34489 },
@@ -32122,7 +32122,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11209, mal_id: 56768 },
   // [2023-SUMMER] WEB: シャンフロ ミニ
   // https://annict.com/works/11210
-  { annict_id: 11210 },
+  { annict_id: 11210, mal_id: 56791 },
   // [2024-null] TV: BLEACH 千年血戦篇-相剋譚-
   // https://annict.com/works/11211
   { annict_id: 11211, mal_id: 56784 },
