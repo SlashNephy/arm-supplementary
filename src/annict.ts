@@ -32299,8 +32299,8 @@ export const annict: ArmEntry[] = [
   { annict_id: 11268 },
   // [null-null] TV: お隣の天使様にいつの間にか駄目人間にされていた件 第2期
   // https://annict.com/works/11269
-  { annict_id: 11269 },
+  { annict_id: 11269, mal_id: 56876 },
   // [null-null] TV: 青のオーケストラ 第2期
   // https://annict.com/works/11270
-  { annict_id: 11270 },
+  { annict_id: 11270, mal_id: 56877 },
 ]
