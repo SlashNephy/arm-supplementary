@@ -32116,7 +32116,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11207 },
   // [2023-AUTUMN] TV: クズ悪役の自己救済システム
   // https://annict.com/works/11208
-  { annict_id: 11208, mal_id: 38990 },
+  { annict_id: 11208, mal_id: 38990, syobocal_tid: 6876 },
   // [null-null] OTHER: ただいま、おかえり
   // https://annict.com/works/11209
   { annict_id: 11209, mal_id: 56768 },
