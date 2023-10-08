@@ -32297,4 +32297,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] WEB: 僕らの雨いろプロトコル ミニアニメ
   // https://annict.com/works/11268
   { annict_id: 11268 },
+  // [null-null] TV: お隣の天使様にいつの間にか駄目人間にされていた件 第2期
+  // https://annict.com/works/11269
+  { annict_id: 11269 },
 ]
