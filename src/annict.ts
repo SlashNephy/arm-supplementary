@@ -11999,7 +11999,7 @@ export const annict: ArmEntry[] = [
   // [2012-SPRING] TV: ポケットモンスター ベストウイッシュ シーズン2
   // https://annict.com/works/4013
   { annict_id: 4013, mal_id: 14093, syobocal_tid: 2610 },
-  // [2012-AUTUMN] TV: 遊☆戯☆王 ZEXAL II
+  // [2012-AUTUMN] TV: 遊☆戯☆王ZEXAL II
   // https://annict.com/works/4014
   { annict_id: 4014, mal_id: 15489, syobocal_tid: 2724 },
   // [2013-SPRING] TV: すすめ！キッチン戦隊クックルン
