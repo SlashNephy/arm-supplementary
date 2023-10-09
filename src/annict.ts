@@ -32303,4 +32303,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 青のオーケストラ 第2期
   // https://annict.com/works/11270
   { annict_id: 11270, mal_id: 56877 },
+  // [2023-SUMMER] WEB: 不死身な僕の日常 シーズン3
+  // https://annict.com/works/11271
+  { annict_id: 11271, mal_id: 50404 },
 ]
