@@ -32204,10 +32204,10 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] WEB: シナモンアニメだもん
   // https://annict.com/works/11237
   { annict_id: 11237 },
-  // [2020-null] WEB: そんな感じ
+  // [2020-SUMMER] WEB: そんな感じ
   // https://annict.com/works/11238
   { annict_id: 11238 },
-  // [2011-null] MOVIE: アロイス・ネーベル
+  // [2011-SUMMER] MOVIE: アロイス・ネーベル
   // https://annict.com/works/11239
   { annict_id: 11239 },
   // [2023-AUTUMN] TV: フシギ学園魔法部！
@@ -32273,7 +32273,7 @@ export const annict: ArmEntry[] = [
   // [1966-AUTUMN] TV: グリンチのクリスマス
   // https://annict.com/works/11260
   { annict_id: 11260 },
-  // [1999-WINTER] TV: フューチャラマ シーズン1
+  // [1999-WINTER] TV: フューチュラマ シーズン1
   // https://annict.com/works/11261
   { annict_id: 11261 },
   // [2005-WINTER] TV: ウィッチ ヴィレッジ ストーリー
@@ -32306,4 +32306,10 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] WEB: 不死身な僕の日常 シーズン3
   // https://annict.com/works/11271
   { annict_id: 11271, mal_id: 50404 },
+  // [1999-AUTUMN] TV: フューチュラマ シーズン2
+  // https://annict.com/works/11272
+  { annict_id: 11272 },
+  // [2021-WINTER] TV: フューチュラマ シーズン3
+  // https://annict.com/works/11273
+  { annict_id: 11273 },
 ]
