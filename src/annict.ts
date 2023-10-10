@@ -18088,7 +18088,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6064, mal_id: 5311 },
   // [2022-WINTER] MOVIE: 地球外少年少女
   // https://annict.com/works/6066
-  { annict_id: 6066, mal_id: 37914 },
+  { annict_id: 6066, mal_id: 37914, syobocal_tid: 6254 },
   // [2017-SUMMER] OTHER: バーフバリ 失われた伝説
   // https://annict.com/works/6068
   { annict_id: 6068 },
