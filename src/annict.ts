@@ -29183,9 +29183,9 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] MOVIE: ドラえもん のび太と空の理想郷
   // https://annict.com/works/10228
   { annict_id: 10228, mal_id: 52318 },
-  // [null-null] TV: 戦隊大失格
+  // [2024-null] TV: 戦隊大失格
   // https://annict.com/works/10229
-  { annict_id: 10229 },
+  { annict_id: 10229, mal_id: 53770 },
   // [2022-AUTUMN] TV: すとぷりのHere!We!GO!!
   // https://annict.com/works/10230
   { annict_id: 10230 },
@@ -32309,7 +32309,19 @@ export const annict: ArmEntry[] = [
   // [1999-AUTUMN] TV: フューチュラマ シーズン2
   // https://annict.com/works/11272
   { annict_id: 11272 },
-  // [2021-WINTER] TV: フューチュラマ シーズン3
+  // [2001-WINTER] TV: フューチュラマ シーズン3
   // https://annict.com/works/11273
   { annict_id: 11273 },
+  // [2023-AUTUMN] WEB: 葬送のフリーレン ミニアニメ 「●●の魔法」
+  // https://annict.com/works/11274
+  { annict_id: 11274 },
+  // [2002-WINTER] TV: フューチュラマ シーズン4
+  // https://annict.com/works/11275
+  { annict_id: 11275 },
+  // [2008-WINTER] TV: フューチュラマ シーズン5
+  // https://annict.com/works/11276
+  { annict_id: 11276 },
+  // [2010-SPRING] TV: フューチュラマ シーズン6 パート1
+  // https://annict.com/works/11277
+  { annict_id: 11277 },
 ]
