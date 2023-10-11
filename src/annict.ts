@@ -31825,7 +31825,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11110 },
   // [2023-AUTUMN] WEB: かげじつ！せかんど
   // https://annict.com/works/11111
-  { annict_id: 11111 },
+  { annict_id: 11111, mal_id: 56842 },
   // [2023-SUMMER] WEB: レイとクレアに一問一答 〜異世界で聞いてみた〜
   // https://annict.com/works/11112
   { annict_id: 11112, mal_id: 56552 },
