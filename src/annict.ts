@@ -32375,4 +32375,13 @@ export const annict: ArmEntry[] = [
   // [2021-SUMMER] TV: よろしく!スパイディとすごいなかまたち
   // https://annict.com/works/11294
   { annict_id: 11294 },
+  // [2011-SPRING] TV: フューチュラマ シーズン6 パート2
+  // https://annict.com/works/11295
+  { annict_id: 11295 },
+  // [2012-SPRING] TV: フューチュラマ シーズン7 パート1
+  // https://annict.com/works/11296
+  { annict_id: 11296 },
+  // [2013-SPRING] TV: フューチュラマ シーズン7 パート2
+  // https://annict.com/works/11297
+  { annict_id: 11297 },
 ]
