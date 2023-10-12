@@ -32333,4 +32333,37 @@ export const annict: ArmEntry[] = [
   // [2005-SPRING] TV: 五味太郎 ことわざムービーズ
   // https://annict.com/works/11280
   { annict_id: 11280 },
+  // [2005-AUTUMN] TV: ガーゴイルズ
+  // https://annict.com/works/11281
+  { annict_id: 11281 },
+  // [2005-AUTUMN] TV: スーパー・ロボット・モンキー・チーム・ハイパーフォース GO!
+  // https://annict.com/works/11282
+  { annict_id: 11282 },
+  // [2005-AUTUMN] TV: 南の島の小さな飛行機 バーディー
+  // https://annict.com/works/11283
+  { annict_id: 11283, mal_id: 53910, syobocal_tid: 1775 },
+  // [1974-SUMMER] TV: スパイダーマン(1967年)
+  // https://annict.com/works/11284
+  { annict_id: 11284 },
+  // [2005-AUTUMN] TV: スパイダーマン&アメイジング・フレンズ
+  // https://annict.com/works/11285
+  { annict_id: 11285 },
+  // [2004-SUMMER] TV: スパイダーマン(1994年)
+  // https://annict.com/works/11286
+  { annict_id: 11286, syobocal_tid: 439 },
+  // [2005-AUTUMN] TV: スパイダーマン・アンリミテッド
+  // https://annict.com/works/11287
+  { annict_id: 11287 },
+  // [2004-SPRING] TV: スパイダーマン 新アニメシリーズ
+  // https://annict.com/works/11288
+  { annict_id: 11288, syobocal_tid: 414 },
+  // [2009-SUMMER] TV: スペクタキュラー・スパイダーマン
+  // https://annict.com/works/11289
+  { annict_id: 11289 },
+  // [2022-WINTER] WEB: マーベル スパイダーマン：マキシマム・ヴェノム
+  // https://annict.com/works/11290
+  { annict_id: 11290 },
+  // [2018-SPRING] TV: マーベル おしえて!スパイダーマン
+  // https://annict.com/works/11291
+  { annict_id: 11291 },
 ]
