@@ -32366,4 +32366,7 @@ export const annict: ArmEntry[] = [
   // [2018-SPRING] TV: マーベル おしえて!スパイダーマン
   // https://annict.com/works/11291
   { annict_id: 11291 },
+  // [2020-WINTER] WEB: LEGO マーベル スパイダーマン/ヴェノムの野望
+  // https://annict.com/works/11292
+  { annict_id: 11292 },
 ]
