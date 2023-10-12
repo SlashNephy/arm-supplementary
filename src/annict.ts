@@ -32384,4 +32384,10 @@ export const annict: ArmEntry[] = [
   // [2013-SPRING] TV: フューチュラマ シーズン7 パート2
   // https://annict.com/works/11297
   { annict_id: 11297 },
+  // [2020-WINTER] WEB: シザー・セブン
+  // https://annict.com/works/11298
+  { annict_id: 11298, mal_id: 38409 },
+  // [2020-SPRING] WEB: シザー・セブン シーズン2
+  // https://annict.com/works/11299
+  { annict_id: 11299, mal_id: 40784 },
 ]
