@@ -32393,4 +32393,7 @@ export const annict: ArmEntry[] = [
   // [2021-AUTUMN] WEB: シザー・セブン シーズン3
   // https://annict.com/works/11300
   { annict_id: 11300, mal_id: 45556 },
+  // [2023-SUMMER] WEB: シザー・セブン シーズン4
+  // https://annict.com/works/11301
+  { annict_id: 11301, mal_id: 54029 },
 ]
