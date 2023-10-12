@@ -32324,4 +32324,13 @@ export const annict: ArmEntry[] = [
   // [2010-SPRING] TV: フューチュラマ シーズン6 パート1
   // https://annict.com/works/11277
   { annict_id: 11277 },
+  // [2005-SPRING] TV: ウキウキわんちゃんず
+  // https://annict.com/works/11278
+  { annict_id: 11278 },
+  // [2005-SPRING] TV: オトナ語の謎。
+  // https://annict.com/works/11279
+  { annict_id: 11279 },
+  // [2005-SPRING] TV: 五味太郎 ことわざムービーズ
+  // https://annict.com/works/11280
+  { annict_id: 11280 },
 ]
