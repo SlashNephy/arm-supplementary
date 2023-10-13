@@ -32405,4 +32405,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: フューチュラマ シーズン8 パート2
   // https://annict.com/works/11304
   { annict_id: 11304 },
+  // [2010-SPRING] OVA: ONE PIECE FILM STRONG WORLD EPISODE:0
+  // https://annict.com/works/11305
+  { annict_id: 11305, mal_id: 8740 },
 ]
