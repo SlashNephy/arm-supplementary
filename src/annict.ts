@@ -32396,4 +32396,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] WEB: シザー・セブン シーズン4
   // https://annict.com/works/11301
   { annict_id: 11301, mal_id: 54029 },
+  // [2024-AUTUMN] TV: ドラゴンボールDAIMA
+  // https://annict.com/works/11302
+  { annict_id: 11302 },
 ]
