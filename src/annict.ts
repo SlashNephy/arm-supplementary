@@ -32399,4 +32399,10 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: ドラゴンボールDAIMA
   // https://annict.com/works/11302
   { annict_id: 11302 },
+  // [2023-SPRING] TV: フューチュラマ シーズン8 パート1
+  // https://annict.com/works/11303
+  { annict_id: 11303 },
+  // [null-null] TV: フューチュラマ シーズン8 パート2
+  // https://annict.com/works/11304
+  { annict_id: 11304 },
 ]
