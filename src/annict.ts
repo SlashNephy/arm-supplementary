@@ -31550,7 +31550,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] TV: 魔女と野獣
   // https://annict.com/works/11019
   { annict_id: 11019, mal_id: 52816 },
-  // [null-null] TV: 30歳まで童貞だと魔法使いになれるらしい
+  // [2024-WINTER] TV: 30歳まで童貞だと魔法使いになれるらしい
   // https://annict.com/works/11020
   { annict_id: 11020, mal_id: 55973 },
   // [2023-SUMMER] WEB: うちの会社の小さい先輩の話 Twitterミニアニメ
@@ -32413,7 +32413,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11306, mal_id: 56906 },
   // [null-null] OTHER: 公女殿下の家庭教師
   // https://annict.com/works/11307
-  { annict_id: 11307 },
+  { annict_id: 11307, mal_id: 56907 },
   // [2024-SUMMER] MOVIE: ぼっち・ざ・ろっく！ 劇場総集編 後編
   // https://annict.com/works/11308
   { annict_id: 11308 },
