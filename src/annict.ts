@@ -27653,7 +27653,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] MOVIE: かぐや様は告らせたい-ファーストキッスは終わらない-
   // https://annict.com/works/9717
   { annict_id: 9717, mal_id: 52198, syobocal_tid: 6679 },
-  // [null-null] TV: デート・ア・ライブⅤ
+  // [2024-null] TV: デート・ア・ライブⅤ
   // https://annict.com/works/9718
   { annict_id: 9718, mal_id: 52196 },
   // [2023-SPRING] TV: マイホームヒーロー
@@ -32398,7 +32398,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11301, mal_id: 54029 },
   // [2024-AUTUMN] TV: ドラゴンボールDAIMA
   // https://annict.com/works/11302
-  { annict_id: 11302 },
+  { annict_id: 11302, mal_id: 56894 },
   // [2023-SPRING] TV: フューチュラマ シーズン8 パート1
   // https://annict.com/works/11303
   { annict_id: 11303 },
@@ -32408,4 +32408,10 @@ export const annict: ArmEntry[] = [
   // [2010-SPRING] OVA: ONE PIECE FILM STRONG WORLD EPISODE:0
   // https://annict.com/works/11305
   { annict_id: 11305, mal_id: 8740 },
+  // [null-null] OTHER: 異世界でチート能力を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～ 新アニメ
+  // https://annict.com/works/11306
+  { annict_id: 11306, mal_id: 56906 },
+  // [null-null] OTHER: 公女殿下の家庭教師
+  // https://annict.com/works/11307
+  { annict_id: 11307 },
 ]
