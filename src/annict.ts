@@ -29798,7 +29798,7 @@ export const annict: ArmEntry[] = [
   // [2022-WINTER] WEB: アイドルマスター ミリオンライブ！アニメプロローグイメージMV「セブンカウント」
   // https://annict.com/works/10433
   { annict_id: 10433, mal_id: 51842 },
-  // [null-null] TV: VTuberなんだが配信切り忘れたら伝説になってた
+  // [2024-null] TV: VTuberなんだが配信切り忘れたら伝説になってた
   // https://annict.com/works/10434
   { annict_id: 10434, mal_id: 54284 },
   // [2023-SPRING] TV: 六道の悪女たち
@@ -30386,7 +30386,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: リンカイ！
   // https://annict.com/works/10630
   { annict_id: 10630, mal_id: 54859 },
-  // [null-null] TV: 魔王2099
+  // [2024-null] TV: 魔王2099
   // https://annict.com/works/10631
   { annict_id: 10631, mal_id: 54853 },
   // [2023-WINTER] TV: さみしいあなた
@@ -31085,7 +31085,7 @@ export const annict: ArmEntry[] = [
   // [null-null] MOVIE: つるばみ色のなぎ子たち
   // https://annict.com/works/10864
   { annict_id: 10864, mal_id: 55359 },
-  // [2024-SPRING] MOVIE: ぼっち・ざ・ろっく！ 劇場総集編
+  // [2024-SPRING] MOVIE: ぼっち・ざ・ろっく！ 劇場総集編 前編
   // https://annict.com/works/10865
   { annict_id: 10865, mal_id: 55357 },
   // [2023-SUMMER] WEB: しんでゅありてぃ科学講座
@@ -32414,4 +32414,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 公女殿下の家庭教師
   // https://annict.com/works/11307
   { annict_id: 11307 },
+  // [2024-SUMMER] MOVIE: ぼっち・ざ・ろっく！ 劇場総集編 後編
+  // https://annict.com/works/11308
+  { annict_id: 11308 },
 ]
