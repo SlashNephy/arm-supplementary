@@ -22081,7 +22081,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 7633, mal_id: 4933 },
   // [2021-SPRING] TV: どすこい すしずもう
   // https://annict.com/works/7634
-  { annict_id: 7634, syobocal_tid: 5970 },
+  { annict_id: 7634, mal_id: 48517, syobocal_tid: 5970 },
   // [2020-SUMMER] WEB: XPICE
   // https://annict.com/works/7635
   { annict_id: 7635, mal_id: 42729 },
