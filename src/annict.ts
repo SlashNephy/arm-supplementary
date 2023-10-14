@@ -32417,4 +32417,19 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] MOVIE: ぼっち・ざ・ろっく！ 劇場総集編 後編
   // https://annict.com/works/11308
   { annict_id: 11308 },
+  // [2018-SUMMER] WEB: 魔法が解けて
+  // https://annict.com/works/11309
+  { annict_id: 11309 },
+  // [2019-SUMMER] WEB: 魔法が解けて シーズン2
+  // https://annict.com/works/11310
+  { annict_id: 11310 },
+  // [2021-SUMMER] WEB: 魔法が解けて シーズン3
+  // https://annict.com/works/11311
+  { annict_id: 11311 },
+  // [2022-WINTER] WEB: 魔法が解けて シーズン4
+  // https://annict.com/works/11312
+  { annict_id: 11312 },
+  // [2023-SUMMER] WEB: 魔法が解けて シーズン5
+  // https://annict.com/works/11313
+  { annict_id: 11313 },
 ]
