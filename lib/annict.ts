@@ -2,6 +2,7 @@ import { GraphQLClient } from 'graphql-request'
 
 import { UserAgent } from './constant'
 import { ListWorksDocument } from '../graphql/annict/generated/graphql'
+import { sleep } from './sleep'
 
 import type { ListWorksQuery } from '../graphql/annict/generated/graphql'
 
@@ -36,5 +37,6 @@ export const fetchAllAnnictWorks = async (client: GraphQLClient): Promise<Annict
     }
 
     after = response.searchWorks?.pageInfo.endCursor ?? null
+    await sleep(3000)
   }
 }
