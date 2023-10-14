@@ -1,8 +1,8 @@
 import { GraphQLClient } from 'graphql-request'
 
 import { UserAgent } from './constant'
-import { ListWorksDocument } from '../graphql/annict/generated/graphql'
 import { sleep } from './sleep'
+import { ListWorksDocument } from '../graphql/annict/generated/graphql'
 
 import type { ListWorksQuery } from '../graphql/annict/generated/graphql'
 
@@ -37,6 +37,8 @@ export const fetchAllAnnictWorks = async (client: GraphQLClient): Promise<Annict
     }
 
     after = response.searchWorks?.pageInfo.endCursor ?? null
+
+    // eslint-disable-next-line no-await-in-loop
     await sleep(3000)
   }
 }
