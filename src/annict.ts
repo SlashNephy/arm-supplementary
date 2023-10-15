@@ -27194,7 +27194,7 @@ export const annict: ArmEntry[] = [
   // [2016-SUMMER] OVA: 牙狼 -紅蓮ノ月- 第25話 「刻蝶」
   // https://annict.com/works/9564
   { annict_id: 9564, mal_id: 33709 },
-  // [2024-null] TV: 望まぬ不死の冒険者
+  // [2024-WINTER] TV: 望まぬ不死の冒険者
   // https://annict.com/works/9565
   { annict_id: 9565, mal_id: 51648 },
   // [2023-SPRING] WEB: ULTRAMAN FINAL
