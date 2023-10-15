@@ -31748,7 +31748,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] WEB: ChroNoiR Episode.0
   // https://annict.com/works/11085
   { annict_id: 11085, mal_id: 56111 },
-  // [2024-null] TV: ループ7回目の悪役令嬢は、元敵国で自由気ままな花嫁生活を満喫する
+  // [2024-WINTER] TV: ループ7回目の悪役令嬢は、元敵国で自由気ままな花嫁生活を満喫する
   // https://annict.com/works/11086
   { annict_id: 11086, mal_id: 56352 },
   // [2023-SUMMER] WEB: マッシュ・バーンデッドたちと寮生活
@@ -32432,4 +32432,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] WEB: 魔法が解けて シーズン5
   // https://annict.com/works/11313
   { annict_id: 11313 },
+  // [2024-null] TV: Lv2からチートだった元勇者候補のまったり異世界ライフ
+  // https://annict.com/works/11314
+  { annict_id: 11314, mal_id: 56923 },
 ]
