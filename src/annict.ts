@@ -32435,4 +32435,7 @@ export const annict: ArmEntry[] = [
   // [2024-null] TV: Lv2からチートだった元勇者候補のまったり異世界ライフ
   // https://annict.com/works/11314
   { annict_id: 11314, mal_id: 56923 },
+  // [2024-SUMMER] MOVIE: めくらやなぎと眠る女
+  // https://annict.com/works/11315
+  { annict_id: 11315 },
 ]
