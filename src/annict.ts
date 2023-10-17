@@ -32438,4 +32438,10 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] MOVIE: めくらやなぎと眠る女
   // https://annict.com/works/11315
   { annict_id: 11315 },
+  // [2000-SUMMER] OVA: A KITE INTERNATIONAL VERSION
+  // https://annict.com/works/11316
+  { annict_id: 11316 },
+  // [1987-AUTUMN] OVA: 夢幻戦士ヴァリス
+  // https://annict.com/works/11317
+  { annict_id: 11317, mal_id: 22943 },
 ]
