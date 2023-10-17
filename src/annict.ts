@@ -8213,7 +8213,7 @@ export const annict: ArmEntry[] = [
   // [1992-SUMMER] OVA: ジャイアントロボ THE ANIMATION -地球が静止する日
   // https://annict.com/works/2743
   { annict_id: 2743, mal_id: 2321, syobocal_tid: 2918 },
-  // [1995-WINTER] OVA: ジャイアント・ロボ THE ANIMATION 外伝 鉄腕 GinRei
+  // [1995-WINTER] OVA: ジャイアント・ロボ THE ANIMATION 外伝 鉄腕 GinRei EPISODE:23〜禁断の果実を奪還せよ極楽大作戦!!
   // https://annict.com/works/2744
   { annict_id: 2744 },
   // [1985-SUMMER] OVA: ジャスティ
