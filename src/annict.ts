@@ -2543,7 +2543,7 @@ export const annict: ArmEntry[] = [
   // [2014-WINTER] TV: 桜Trick
   // https://annict.com/works/848
   { annict_id: 848, mal_id: 20047, syobocal_tid: 3247 },
-  // [2006-AUTUMN] TV: 砂沙美☆魔法少女クラブ
+  // [2006-SPRING] TV: 砂沙美☆魔法少女クラブ
   // https://annict.com/works/849
   { annict_id: 849, mal_id: 1881, syobocal_tid: 768 },
   // [2001-SUMMER] TV: 砂漠の海賊！キャプテンクッパ
@@ -6872,7 +6872,7 @@ export const annict: ArmEntry[] = [
   // [2009-AUTUMN] TV: 夢をかなえるゾウ
   // https://annict.com/works/2294
   { annict_id: 2294, mal_id: 5841, syobocal_tid: 1829 },
-  // [2006-WINTER] TV: 夢使い
+  // [2006-SPRING] TV: 夢使い
   // https://annict.com/works/2295
   { annict_id: 2295, mal_id: 943, syobocal_tid: 826 },
   // [2011-WINTER] TV: 夢喰いメリー
@@ -7091,7 +7091,7 @@ export const annict: ArmEntry[] = [
   // [2010-SPRING] TV: リングにかけろ1 影道編
   // https://annict.com/works/2367
   { annict_id: 2367, mal_id: 7793, syobocal_tid: 2131 },
-  // [2011-SPRING] TV: リングにかけろ１ 世界大会編
+  // [2011-SPRING] TV: リングにかけろ1 世界大会編
   // https://annict.com/works/2368
   { annict_id: 2368, mal_id: 10346, syobocal_tid: 2163 },
   // [2006-AUTUMN] TV: 流星のロックマン
@@ -7220,7 +7220,7 @@ export const annict: ArmEntry[] = [
   // [2001-AUTUMN] TV: RAVE
   // https://annict.com/works/2410
   { annict_id: 2410, mal_id: 246 },
-  // [2006-WINTER] TV: RAY THE ANIMATION
+  // [2006-SPRING] TV: RAY THE ANIMATION
   // https://annict.com/works/2411
   { annict_id: 2411, mal_id: 919, syobocal_tid: 773 },
   // [2013-SPRING] TV: RDG レッドデータガール
@@ -7229,7 +7229,7 @@ export const annict: ArmEntry[] = [
   // [2006-WINTER] TV: REC
   // https://annict.com/works/2413
   { annict_id: 2413, mal_id: 710, syobocal_tid: 736 },
-  // [2006-SUMMER] TV: RED GARDEN
+  // [2006-AUTUMN] TV: RED GARDEN
   // https://annict.com/works/2414
   { annict_id: 2414, mal_id: 1601, syobocal_tid: 958 },
   // [2010-WINTER] TV: れでぃ×ばと！ Ladies versus Butlers！
@@ -32450,4 +32450,31 @@ export const annict: ArmEntry[] = [
   // [1995-SUMMER] OVA: ジャイアント・ロボ THE ANIMATION 外伝 青い瞳の銀鈴 GinRei With blue eyes
   // https://annict.com/works/11319
   { annict_id: 11319 },
+  // [2006-AUTUMN] OVA: プロジェクトパポ
+  // https://annict.com/works/11320
+  { annict_id: 11320 },
+  // [2006-WINTER] TV: Kin-Qキッズ☆おたすK隊
+  // https://annict.com/works/11321
+  { annict_id: 11321, mal_id: 54868 },
+  // [2006-SPRING] TV: しばわんこの和のこころ
+  // https://annict.com/works/11322
+  { annict_id: 11322, mal_id: 1739, syobocal_tid: 854 },
+  // [2006-SPRING] TV: リングにかけろ1 -日米決戦編-
+  // https://annict.com/works/11323
+  { annict_id: 11323, mal_id: 1771, syobocal_tid: 888 },
+  // [2006-AUTUMN] TV: 砂沙美☆魔法少女クラブ シーズン2
+  // https://annict.com/works/11324
+  { annict_id: 11324, mal_id: 1882, syobocal_tid: 885 },
+  // [2006-SPRING] TV: チビナックス
+  // https://annict.com/works/11325
+  { annict_id: 11325, mal_id: 32417 },
+  // [2007-SPRING] TV: チビナックス 2.0
+  // https://annict.com/works/11326
+  { annict_id: 11326, mal_id: 32418 },
+  // [2008-SPRING] TV: チビナックス シーズン3
+  // https://annict.com/works/11327
+  { annict_id: 11327, mal_id: 32419 },
+  // [2006-SUMMER] TV: シルクロード少年 ユート
+  // https://annict.com/works/11328
+  { annict_id: 11328, mal_id: 1863, syobocal_tid: 967 },
 ]
