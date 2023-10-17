@@ -32447,4 +32447,7 @@ export const annict: ArmEntry[] = [
   // [1994-WINTER] OVA: ジャイアント・ロボ THE ANIMATION 外伝 素足のGinRei EPISODE:1〜盗まれた戦闘チャイナを探せ大作戦!!
   // https://annict.com/works/11318
   { annict_id: 11318, mal_id: 2322 },
+  // [1995-SUMMER] OVA: ジャイアント・ロボ THE ANIMATION 外伝 青い瞳の銀鈴 GinRei With blue eyes
+  // https://annict.com/works/11319
+  { annict_id: 11319 },
 ]
