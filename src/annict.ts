@@ -86,7 +86,7 @@ export const annict: ArmEntry[] = [
   // [2005-SUMMER] TV: あかほり外道アワーらぶげ
   // https://annict.com/works/28
   { annict_id: 28, mal_id: 309, syobocal_tid: 638 },
-  // [2006-SUMMER] TV: あさっての方向。
+  // [2006-AUTUMN] TV: あさっての方向。
   // https://annict.com/works/29
   { annict_id: 29, mal_id: 1554, syobocal_tid: 994 },
   // [1982-WINTER] TV: あさりちゃん
