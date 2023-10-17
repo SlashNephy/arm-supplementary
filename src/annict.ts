@@ -32477,4 +32477,10 @@ export const annict: ArmEntry[] = [
   // [2006-SUMMER] TV: シルクロード少年 ユート
   // https://annict.com/works/11328
   { annict_id: 11328, mal_id: 1863, syobocal_tid: 967 },
+  // [2006-AUTUMN] TV: TOKYO TRIBE 2
+  // https://annict.com/works/11329
+  { annict_id: 11329, mal_id: 1703, syobocal_tid: 907 },
+  // [2006-AUTUMN] TV: RGBアドベンチャー
+  // https://annict.com/works/11330
+  { annict_id: 11330, mal_id: 3372, syobocal_tid: 1073 },
 ]
