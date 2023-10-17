@@ -32444,4 +32444,7 @@ export const annict: ArmEntry[] = [
   // [1987-AUTUMN] OVA: 夢幻戦士ヴァリス
   // https://annict.com/works/11317
   { annict_id: 11317, mal_id: 22943 },
+  // [1994-WINTER] OVA: ジャイアント・ロボ THE ANIMATION 外伝 素足のGinRei EPISODE:1〜盗まれた戦闘チャイナを探せ大作戦!!
+  // https://annict.com/works/11318
+  { annict_id: 11318, mal_id: 2322 },
 ]
