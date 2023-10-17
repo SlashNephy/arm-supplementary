@@ -2570,7 +2570,7 @@ export const annict: ArmEntry[] = [
   // [2010-SPRING] TV: GIANT KILLING
   // https://annict.com/works/857
   { annict_id: 857, mal_id: 7661, syobocal_tid: 1893 },
-  // [2007-WINTER] TV: GR-GIANT- ROBO
+  // [2007-WINTER] TV: GR-GIANT ROBO-
   // https://annict.com/works/858
   { annict_id: 858, mal_id: 3146 },
   // [1999-SPRING] TV: GTO
