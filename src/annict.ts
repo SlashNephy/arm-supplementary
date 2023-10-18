@@ -28696,7 +28696,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10064, mal_id: 52460, syobocal_tid: 6431 },
   // [2023-WINTER] TV: 齢5000年の草食ドラゴン、いわれなき邪竜認定
   // https://annict.com/works/10065
-  { annict_id: 10065, syobocal_tid: 6557 },
+  { annict_id: 10065, mal_id: 50421, syobocal_tid: 6557 },
   // [2022-SUMMER] TV: 機動戦士ガンダム 水星の魔女 PROLOGUE
   // https://annict.com/works/10066
   { annict_id: 10066, mal_id: 52168 },
@@ -32489,4 +32489,13 @@ export const annict: ArmEntry[] = [
   // [2009-WINTER] OVA: 猫ラーメン〜俺の醤油味〜
   // https://annict.com/works/11332
   { annict_id: 11332, mal_id: 14519 },
+  // [2024-WINTER] TV: カードファイト!! ヴァンガード Divinez
+  // https://annict.com/works/11333
+  { annict_id: 11333 },
+  // [null-null] OTHER: ツイヤバ
+  // https://annict.com/works/11334
+  { annict_id: 11334 },
+  // [null-null] TV: 齢5000年の草食ドラゴン、いわれなき邪竜認定 2期
+  // https://annict.com/works/11335
+  { annict_id: 11335 },
 ]
