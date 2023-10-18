@@ -32483,4 +32483,10 @@ export const annict: ArmEntry[] = [
   // [2006-AUTUMN] TV: RGBアドベンチャー
   // https://annict.com/works/11330
   { annict_id: 11330, mal_id: 3372, syobocal_tid: 1073 },
+  // [2006-AUTUMN] TV: 猫ラーメン
+  // https://annict.com/works/11331
+  { annict_id: 11331, mal_id: 3535, syobocal_tid: 1105 },
+  // [2009-WINTER] OVA: 猫ラーメン〜俺の醤油味〜
+  // https://annict.com/works/11332
+  { annict_id: 11332, mal_id: 14519 },
 ]
