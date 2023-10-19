@@ -29078,9 +29078,9 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: デッドマウント・デスプレイ
   // https://annict.com/works/10193
   { annict_id: 10193, mal_id: 53613, syobocal_tid: 6689 },
-  // [null-null] OTHER: ばいばい、アース
+  // [2024-null] TV: ばいばい、アース
   // https://annict.com/works/10194
-  { annict_id: 10194 },
+  { annict_id: 10194, mal_id: 53626 },
   // [2019-WINTER] MOVIE: 映画 コラショの海底わくわく大冒険！
   // https://annict.com/works/10195
   { annict_id: 10195, mal_id: 38743 },
@@ -32494,7 +32494,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11333 },
   // [null-null] OTHER: ツイヤバ
   // https://annict.com/works/11334
-  { annict_id: 11334 },
+  { annict_id: 11334, mal_id: 56948 },
   // [null-null] TV: 齢5000年の草食ドラゴン、いわれなき邪竜認定 2期
   // https://annict.com/works/11335
   { annict_id: 11335 },

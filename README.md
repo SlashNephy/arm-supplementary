@@ -43,12 +43,12 @@ Currently, arm-supplementary has 36829 entries (+7242).
 | Service                                     | arm-supplementary | arm / anime-offline-database |
 | :------------------------------------------ | :---------------: | :--------------------------: |
 | [Annict](https://annict.com)                |   10832 (+296)    |            10536             |
-| [AniList](https://anilist.co)               |   21497 (+2328)   |            19169             |
-| [MyAnimeList](https://myanimelist.net)      |   25951 (+602)    |            25349             |
+| [AniList](https://anilist.co)               |   21498 (+2329)   |            19169             |
+| [MyAnimeList](https://myanimelist.net)      |   25953 (+604)    |            25349             |
 | [しょぼいカレンダー](https://cal.syoboi.jp) |    5774 (+76)     |             5698             |
-| [AniDB](https://anidb.net)                  |   13136 (+169)    |            12967             |
-| [Anime-Planet](https://anime-planet.com)    |   23363 (+182)    |            23181             |
-| [aniSearch](https://anisearch.com)          |   18271 (+182)    |            18089             |
-| [Kitsu](https://kitsu.io)                   |   19748 (+188)    |            19560             |
-| [LiveChart.me](https://livechart.me)        |   11105 (+157)    |            10948             |
-| [Anime Notifier](https://notify.moe)        |   16193 (+187)    |            16006             |
+| [AniDB](https://anidb.net)                  |   13137 (+170)    |            12967             |
+| [Anime-Planet](https://anime-planet.com)    |   23364 (+183)    |            23181             |
+| [aniSearch](https://anisearch.com)          |   18272 (+183)    |            18089             |
+| [Kitsu](https://kitsu.io)                   |   19749 (+189)    |            19560             |
+| [LiveChart.me](https://livechart.me)        |   11106 (+158)    |            10948             |
+| [Anime Notifier](https://notify.moe)        |   16194 (+188)    |            16006             |
