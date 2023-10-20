@@ -30122,7 +30122,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: 陰の実力者になりたくて！ 2nd season
   // https://annict.com/works/10542
   { annict_id: 10542, mal_id: 54595, syobocal_tid: 6833 },
-  // [2024-null] TV: HIGHSPEED Étoile
+  // [2024-SPRING] TV: HIGHSPEED Étoile
   // https://annict.com/works/10543
   { annict_id: 10543, mal_id: 52405 },
   // [2024-WINTER] TV: 休日のわるものさん
@@ -30311,7 +30311,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] OVA: マスク男子は恋したくないのに
   // https://annict.com/works/10605
   { annict_id: 10605, mal_id: 54792 },
-  // [null-null] MOVIE: 映画 ギヴン 続編
+  // [2024-WINTER] MOVIE: 映画 ギヴン 柊mix
   // https://annict.com/works/10606
   { annict_id: 10606, mal_id: 54791 },
   // [2024-WINTER] TV: メタリックルージュ
