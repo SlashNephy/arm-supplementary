@@ -30458,7 +30458,7 @@ export const annict: ArmEntry[] = [
   // [1996-SUMMER] OVA: MAZE☆爆熱時空(OVA)
   // https://annict.com/works/10655
   { annict_id: 10655, mal_id: 1162 },
-  // [null-null] TV: WIND BREAKER
+  // [2024-SPRING] TV: WIND BREAKER
   // https://annict.com/works/10656
   { annict_id: 10656, mal_id: 54900 },
   // [2022-AUTUMN] TV: キャッチ！ティニピン
@@ -32498,4 +32498,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 齢5000年の草食ドラゴン、いわれなき邪竜認定 2期
   // https://annict.com/works/11335
   { annict_id: 11335 },
+  // [null-null] TV: 来世は他人がいい
+  // https://annict.com/works/11336
+  { annict_id: 11336, mal_id: 56964 },
 ]
