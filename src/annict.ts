@@ -5618,7 +5618,7 @@ export const annict: ArmEntry[] = [
   // [2005-WINTER] TV: ふたりはプリキュア Max Heart
   // https://annict.com/works/1875
   { annict_id: 1875, mal_id: 1929, syobocal_tid: 559 },
-  // [2006-WINTER] TV: ふたりはプリキュア Splash★Star
+  // [2006-WINTER] TV: ふたりはプリキュア Splash☆Star
   // https://annict.com/works/1876
   { annict_id: 1876, mal_id: 1534, syobocal_tid: 780 },
   // [2013-SUMMER] TV: ふたりはミルキィホームズ
@@ -10844,7 +10844,7 @@ export const annict: ArmEntry[] = [
   // [2005-SUMMER] MOVIE: ファイナルファンタジーVII アドベントチルドレン
   // https://annict.com/works/3625
   { annict_id: 3625, mal_id: 317 },
-  // [2009-AUTUMN] MOVIE: フレッシュプリキュア！おもちゃの国は秘密がいっぱい！？
+  // [2009-AUTUMN] MOVIE: 映画フレッシュプリキュア！おもちゃの国は秘密がいっぱい！？
   // https://annict.com/works/3626
   { annict_id: 3626, mal_id: 6527, syobocal_tid: 2331 },
   // [2010-SPRING] MOVIE: 劇場版 ブレイク ブレイド 第一章「覚醒ノ刻」
@@ -10859,10 +10859,10 @@ export const annict: ArmEntry[] = [
   // [2009-SPRING] MOVIE: プリキュアオールスターズDX みんなともだちっ☆奇跡の全員大集合！
   // https://annict.com/works/3630
   { annict_id: 3630, mal_id: 5753, syobocal_tid: 1875 },
-  // [2010-SPRING] MOVIE: プリキュアオールスターズDX2 希望の光☆レインボージュエルを守れ！
+  // [2010-SPRING] MOVIE: 映画プリキュアオールスターズDX2 希望の光☆レインボージュエルを守れ！
   // https://annict.com/works/3631
   { annict_id: 3631, mal_id: 8133, syobocal_tid: 2409 },
-  // [2011-SPRING] MOVIE: プリキュアオールスターズDX3 未来にとどけ！世界をつなぐ☆虹色の花
+  // [2011-SPRING] MOVIE: 映画プリキュアオールスターズDX3 未来にとどけ！世界をつなぐ☆虹色の花
   // https://annict.com/works/3632
   { annict_id: 3632, mal_id: 9979, syobocal_tid: 2449 },
   // [2009-AUTUMN] MOVIE: 仏陀再誕 The REBIRTH of BUDDHA
@@ -17945,7 +17945,7 @@ export const annict: ArmEntry[] = [
   // [2015-WINTER] MOVIE: 映画 プリキュアオールスターズ 春のカーニバル♪
   // https://annict.com/works/6017
   { annict_id: 6017, mal_id: 28511, syobocal_tid: 3682 },
-  // [2006-AUTUMN] MOVIE: 映画 ふたりはプリキュア Splash Star チクタク危機一髪！
+  // [2006-AUTUMN] MOVIE: 映画 ふたりはプリキュア Splash☆Star チクタク危機一髪！
   // https://annict.com/works/6018
   { annict_id: 6018, mal_id: 4124, syobocal_tid: 3975 },
   // [2005-AUTUMN] MOVIE: 映画 ふたりはプリキュア Max Heart 2 雪空のともだち
