@@ -32501,4 +32501,22 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 来世は他人がいい
   // https://annict.com/works/11336
   { annict_id: 11336, mal_id: 56964 },
+  // [2012-AUTUMN] TV: 紙兎ロペ 〜笑う朝には福来たるってマジっすか!?
+  // https://annict.com/works/11337
+  { annict_id: 11337, mal_id: 13817 },
+  // [2012-SPRING] MOVIE: 映画紙兎ロペ つか、夏休みラスイチってマジっすか!?
+  // https://annict.com/works/11338
+  { annict_id: 11338, mal_id: 13821 },
+  // [2005-SPRING] MOVIE: 9
+  // https://annict.com/works/11339
+  { annict_id: 11339 },
+  // [2010-SPRING] MOVIE: 9 〜9番目の奇妙な人形〜
+  // https://annict.com/works/11340
+  { annict_id: 11340 },
+  // [1980-WINTER] MOVIE: あしたのジョー 劇場版
+  // https://annict.com/works/11341
+  { annict_id: 11341, mal_id: 2920 },
+  // [1981-SUMMER] MOVIE: あしたのジョー2 劇場版
+  // https://annict.com/works/11342
+  { annict_id: 11342, mal_id: 2922 },
 ]
