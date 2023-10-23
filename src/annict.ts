@@ -5300,7 +5300,7 @@ export const annict: ArmEntry[] = [
   // [2006-SPRING] TV: ひまわりっ!
   // https://annict.com/works/1769
   { annict_id: 1769, mal_id: 910, syobocal_tid: 791 },
-  // [2006-AUTUMN] TV: ひまわりっ!!
+  // [2007-WINTER] TV: ひまわりっ!!
   // https://annict.com/works/1770
   { annict_id: 1770, mal_id: 1988, syobocal_tid: 997 },
   // [1969-WINTER] TV: ひみつのアッコちゃん (1969年版)
@@ -28901,7 +28901,7 @@ export const annict: ArmEntry[] = [
   // [2023-null] TV: 強くてニューサーガ
   // https://annict.com/works/10134
   { annict_id: 10134 },
-  // [2024-null] TV: ゆるキャン△ SEASON3
+  // [2024-SPRING] TV: ゆるキャン△ SEASON3
   // https://annict.com/works/10135
   { annict_id: 10135, mal_id: 53410 },
   // [2023-WINTER] TV: Buddy Daddies
@@ -30674,7 +30674,7 @@ export const annict: ArmEntry[] = [
   // [2005-AUTUMN] MOVIE: Dr.ピノコの森の冒険
   // https://annict.com/works/10727
   { annict_id: 10727, mal_id: 4070 },
-  // [2024-null] TV: 愚かな天使は悪魔と踊る
+  // [2024-WINTER] TV: 愚かな天使は悪魔と踊る
   // https://annict.com/works/10728
   { annict_id: 10728, mal_id: 55129 },
   // [2023-AUTUMN] MOVIE: 北極百貨店のコンシェルジュさん
@@ -31514,7 +31514,7 @@ export const annict: ArmEntry[] = [
   // [1968-SUMMER] MOVIE: Yellow Submarine
   // https://annict.com/works/11007
   { annict_id: 11007 },
-  // [null-null] TV: ザ・ファブル
+  // [2024-SPRING] TV: ザ・ファブル
   // https://annict.com/works/11008
   { annict_id: 11008, mal_id: 55911 },
   // [2023-SUMMER] WEB: 逆異世界転生エージェント エーコさん
@@ -31943,7 +31943,7 @@ export const annict: ArmEntry[] = [
   // [2002-AUTUMN] TV: ポケットモンスター サイドストーリー
   // https://annict.com/works/11150
   { annict_id: 11150 },
-  // [null-null] OTHER: BURN THE WITCH #0.8
+  // [2023-AUTUMN] WEB: BURN THE WITCH #0.8
   // https://annict.com/works/11151
   { annict_id: 11151, mal_id: 56671 },
   // [1984-WINTER] MOVIE: ウルトラマンキッズ M7.8星のゆかいな仲間
@@ -32522,4 +32522,19 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] WEB: 猫猫のひとりごと
   // https://annict.com/works/11343
   { annict_id: 11343 },
+  // [2007-WINTER] TV: めがね番長
+  // https://annict.com/works/11344
+  { annict_id: 11344 },
+  // [2007-WINTER] TV: アームズラリー
+  // https://annict.com/works/11345
+  { annict_id: 11345, mal_id: 41115 },
+  // [2007-WINTER] TV: かくざ父さん
+  // https://annict.com/works/11346
+  { annict_id: 11346, mal_id: 41118 },
+  // [2007-WINTER] TV: キラキラ小学生 セレブちゃん
+  // https://annict.com/works/11347
+  { annict_id: 11347, mal_id: 41156 },
+  // [2007-WINTER] TV: オリガのロシア語講座
+  // https://annict.com/works/11348
+  { annict_id: 11348, mal_id: 41114 },
 ]
