@@ -32519,4 +32519,7 @@ export const annict: ArmEntry[] = [
   // [1981-SUMMER] MOVIE: あしたのジョー2 劇場版
   // https://annict.com/works/11342
   { annict_id: 11342, mal_id: 2922 },
+  // [2023-AUTUMN] WEB: 猫猫のひとりごと
+  // https://annict.com/works/11343
+  { annict_id: 11343 },
 ]
