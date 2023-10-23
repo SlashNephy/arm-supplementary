@@ -470,7 +470,7 @@ export const annict: ArmEntry[] = [
   // [2003-SUMMER] TV: 一騎当千
   // https://annict.com/works/156
   { annict_id: 156, mal_id: 257, syobocal_tid: 77 },
-  // [2007-SPRING] TV: 一騎当千 Dragon Destiny
+  // [2007-WINTER] TV: 一騎当千 Dragon Destiny
   // https://annict.com/works/157
   { annict_id: 157, mal_id: 1956, syobocal_tid: 1088 },
   // [2008-SPRING] TV: 一騎当千 Great Guardians
@@ -1663,7 +1663,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 553, mal_id: 5834, syobocal_tid: 5591 },
   // [2002-AUTUMN] TV: 巨人の星【特別篇】　猛虎 花形満
   // https://annict.com/works/554
-  { annict_id: 554, syobocal_tid: 2851 },
+  { annict_id: 554, mal_id: 51085, syobocal_tid: 2851 },
   // [2013-SUMMER] TV: 帰宅部活動記録
   // https://annict.com/works/555
   { annict_id: 555, mal_id: 18495, syobocal_tid: 3045 },
@@ -5294,7 +5294,7 @@ export const annict: ArmEntry[] = [
   // [2010-AUTUMN] TV: ひつじのショーン
   // https://annict.com/works/1767
   { annict_id: 1767 },
-  // [2007-WINTER] TV: ひとひら
+  // [2007-SPRING] TV: ひとひら
   // https://annict.com/works/1768
   { annict_id: 1768, mal_id: 1721, syobocal_tid: 1086 },
   // [2006-SPRING] TV: ひまわりっ!
@@ -16322,7 +16322,7 @@ export const annict: ArmEntry[] = [
   // [2008-WINTER] TV: 新アタッカーYOU! 金メダルへの道
   // https://annict.com/works/5473
   { annict_id: 5473, mal_id: 11919 },
-  // [2007-WINTER] TV: アフロサムライ
+  // [2007-SPRING] TV: アフロサムライ
   // https://annict.com/works/5474
   { annict_id: 5474, mal_id: 1292, syobocal_tid: 2009 },
   // [2018-WINTER] TV: ミイラの飼い方
@@ -32540,4 +32540,40 @@ export const annict: ArmEntry[] = [
   // [2007-WINTER] TV: ビーンワールド
   // https://annict.com/works/11349
   { annict_id: 11349 },
+  // [2007-SPRING] TV: コロコロアニマル
+  // https://annict.com/works/11350
+  { annict_id: 11350, mal_id: 29745 },
+  // [2007-SPRING] TV: 巨人の星【特別篇】 父 一徹
+  // https://annict.com/works/11351
+  { annict_id: 11351, syobocal_tid: 5129 },
+  // [2007-SPRING] TV: 優しさと感動のこだま
+  // https://annict.com/works/11352
+  { annict_id: 11352 },
+  // [2002-AUTUMN] OVA: タチコマな日々
+  // https://annict.com/works/11353
+  { annict_id: 11353, mal_id: 1335 },
+  // [2004-WINTER] OVA: タチコマな日々(インターバル)
+  // https://annict.com/works/11354
+  { annict_id: 11354, mal_id: 10949 },
+  // [2004-SUMMER] OVA: タチコマな日々(2nd GIG)
+  // https://annict.com/works/11355
+  { annict_id: 11355, mal_id: 3485 },
+  // [2005-SUMMER] OVA: タチコマな日々(The Laughing Man)
+  // https://annict.com/works/11356
+  { annict_id: 11356, mal_id: 10947 },
+  // [2006-WINTER] OVA: タチコマな日々(Individual Eleven)
+  // https://annict.com/works/11357
+  { annict_id: 11357, mal_id: 10948 },
+  // [2007-SPRING] TV: タチコマな日々(TV)
+  // https://annict.com/works/11358
+  { annict_id: 11358, mal_id: 10870 },
+  // [2007-SUMMER] OVA: ウチコマナ日々
+  // https://annict.com/works/11359
+  { annict_id: 11359, mal_id: 3447 },
+  // [2011-SUMMER] OVA: タチコマな日々(ぜんぶいり)
+  // https://annict.com/works/11360
+  { annict_id: 11360, mal_id: 10950 },
+  // [2011-SPRING] MOVIE: Xi AVANT
+  // https://annict.com/works/11361
+  { annict_id: 11361, mal_id: 10405 },
 ]
