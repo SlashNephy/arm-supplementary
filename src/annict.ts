@@ -32537,4 +32537,7 @@ export const annict: ArmEntry[] = [
   // [2007-WINTER] TV: オリガのロシア語講座
   // https://annict.com/works/11348
   { annict_id: 11348, mal_id: 41114 },
+  // [2007-WINTER] TV: ビーンワールド
+  // https://annict.com/works/11349
+  { annict_id: 11349 },
 ]
