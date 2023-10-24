@@ -32678,4 +32678,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: 烏は主を選ばない
   // https://annict.com/works/11395
   { annict_id: 11395, mal_id: 56980 },
+  // [2008-WINTER] TV: attacked kuma3
+  // https://annict.com/works/11396
+  { annict_id: 11396 },
 ]
