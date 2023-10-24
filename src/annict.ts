@@ -32648,4 +32648,31 @@ export const annict: ArmEntry[] = [
   // [2007-AUTUMN] TV: やっとかめ探偵団
   // https://annict.com/works/11385
   { annict_id: 11385, mal_id: 5468, syobocal_tid: 1267 },
+  // [2007-AUTUMN] TV: ボノロン～不思議な森のいいつたえ～
+  // https://annict.com/works/11386
+  { annict_id: 11386, mal_id: 20173 },
+  // [2007-AUTUMN] TV: さぁイコー! たまごっち
+  // https://annict.com/works/11387
+  { annict_id: 11387, mal_id: 6798, syobocal_tid: 1293 },
+  // [2017-SPRING] MOVIE: 映画たまごっち ヒミツのおとどけ大作戦!
+  // https://annict.com/works/11388
+  { annict_id: 11388, mal_id: 34310 },
+  // [2017-SPRING] MOVIE: 映画 かみさまみならい ヒミツのここたま 奇跡をおこせ♪テップルとドキドキここたま界
+  // https://annict.com/works/11389
+  { annict_id: 11389, mal_id: 34198 },
+  // [1958-SUMMER] TV: もぐらのアバンチュール
+  // https://annict.com/works/11390
+  { annict_id: 11390, mal_id: 19125 },
+  // [2008-WINTER] TV: プープーキッズ
+  // https://annict.com/works/11391
+  { annict_id: 11391, mal_id: 53089 },
+  // [2008-WINTER] TV: 格言！かくざ父さん
+  // https://annict.com/works/11392
+  { annict_id: 11392, mal_id: 41116 },
+  // [2008-WINTER] TV: レオナルド博士とキリン村のなかまたち
+  // https://annict.com/works/11393
+  { annict_id: 11393, mal_id: 41159 },
+  // [2008-WINTER] TV: はなけろ～虹の国のシエル姫～
+  // https://annict.com/works/11394
+  { annict_id: 11394 },
 ]
