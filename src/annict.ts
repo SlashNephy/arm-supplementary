@@ -32645,4 +32645,7 @@ export const annict: ArmEntry[] = [
   // [2007-AUTUMN] TV: 天才? Dr.ハマックス
   // https://annict.com/works/11384
   { annict_id: 11384, mal_id: 2930 },
+  // [2007-AUTUMN] TV: やっとかめ探偵団
+  // https://annict.com/works/11385
+  { annict_id: 11385, mal_id: 5468, syobocal_tid: 1267 },
 ]
