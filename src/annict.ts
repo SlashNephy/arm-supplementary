@@ -32624,4 +32624,10 @@ export const annict: ArmEntry[] = [
   // [2007-AUTUMN] TV: ネコべん
   // https://annict.com/works/11377
   { annict_id: 11377, mal_id: 53087 },
+  // [2007-AUTUMN] TV: 先生のチョンマゲ アッパレひでよしくん
+  // https://annict.com/works/11378
+  { annict_id: 11378 },
+  // [2007-AUTUMN] TV: バイキンくん
+  // https://annict.com/works/11379
+  { annict_id: 11379 },
 ]
