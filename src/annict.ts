@@ -31199,7 +31199,7 @@ export const annict: ArmEntry[] = [
   // [1995-AUTUMN] OVA: 赤ずきんチャチャ OVA
   // https://annict.com/works/10902
   { annict_id: 10902, mal_id: 367 },
-  // [null-null] TV: 勇気爆発バーンブレイバーン
+  // [2024-WINTER] TV: 勇気爆発バーンブレイバーン
   // https://annict.com/works/10903
   { annict_id: 10903, mal_id: 55528 },
   // [1991-SPRING] OVA: 夢枕獏 とわいらいと劇場
@@ -32675,4 +32675,7 @@ export const annict: ArmEntry[] = [
   // [2008-WINTER] TV: はなけろ～虹の国のシエル姫～
   // https://annict.com/works/11394
   { annict_id: 11394 },
+  // [2024-SPRING] TV: 烏は主を選ばない
+  // https://annict.com/works/11395
+  { annict_id: 11395, mal_id: 56980 },
 ]
