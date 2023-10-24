@@ -32630,4 +32630,10 @@ export const annict: ArmEntry[] = [
   // [2007-AUTUMN] TV: バイキンくん
   // https://annict.com/works/11379
   { annict_id: 11379 },
+  // [2007-AUTUMN] TV: ピテカント
+  // https://annict.com/works/11380
+  { annict_id: 11380, mal_id: 53116 },
+  // [2007-AUTUMN] TV: 筋肉学園
+  // https://annict.com/works/11381
+  { annict_id: 11381 },
 ]
