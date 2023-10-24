@@ -32612,4 +32612,16 @@ export const annict: ArmEntry[] = [
   // [2007-SUMMER] TV: はなけろ～ペンペン村のまごころ屋～
   // https://annict.com/works/11373
   { annict_id: 11373 },
+  // [2007-AUTUMN] TV: シャンプー王子
+  // https://annict.com/works/11374
+  { annict_id: 11374, mal_id: 35508 },
+  // [2007-AUTUMN] TV: スイスイ!フィジー!
+  // https://annict.com/works/11375
+  { annict_id: 11375 },
+  // [2007-AUTUMN] TV: はなけろ～くるりん島のなかまたち～
+  // https://annict.com/works/11376
+  { annict_id: 11376 },
+  // [2007-AUTUMN] TV: ネコべん
+  // https://annict.com/works/11377
+  { annict_id: 11377, mal_id: 53087 },
 ]
