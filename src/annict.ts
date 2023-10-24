@@ -32606,4 +32606,7 @@ export const annict: ArmEntry[] = [
   // [2007-SUMMER] TV: ご存知！かくざ父さん
   // https://annict.com/works/11371
   { annict_id: 11371, mal_id: 41117 },
+  // [2007-SUMMER] TV: 本マグロトロ太郎
+  // https://annict.com/works/11372
+  { annict_id: 11372, mal_id: 53090 },
 ]
