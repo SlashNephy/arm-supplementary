@@ -29846,7 +29846,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] WEB: ツンリゼ ミニ
   // https://annict.com/works/10449
   { annict_id: 10449 },
-  // [2017-WINTER] WEB: エウレカセブンAO 特別編 『ロード・ドント・ スロー・ミー・ダウン』
+  // [2017-WINTER] WEB: エウレカセブンAO 特別編 ロード・ドント・ スロー・ミー・ダウン
   // https://annict.com/works/10450
   { annict_id: 10450 },
   // [2012-AUTUMN] WEB: エウレカセブンAO ショートアニメ 新たなり深き青
