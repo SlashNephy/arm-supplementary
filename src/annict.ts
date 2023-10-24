@@ -32681,4 +32681,7 @@ export const annict: ArmEntry[] = [
   // [2008-WINTER] TV: attacked kuma3
   // https://annict.com/works/11396
   { annict_id: 11396 },
+  // [2023-AUTUMN] TV: すみっコぐらし そらいろのまいにち
+  // https://annict.com/works/11397
+  { annict_id: 11397 },
 ]
