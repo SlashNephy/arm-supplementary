@@ -32609,4 +32609,7 @@ export const annict: ArmEntry[] = [
   // [2007-SUMMER] TV: 本マグロトロ太郎
   // https://annict.com/works/11372
   { annict_id: 11372, mal_id: 53090 },
+  // [2007-SUMMER] TV: はなけろ～ペンペン村のまごころ屋～
+  // https://annict.com/works/11373
+  { annict_id: 11373 },
 ]
