@@ -32597,4 +32597,13 @@ export const annict: ArmEntry[] = [
   // [2007-SUMMER] TV: ぷっぷくびーつ
   // https://annict.com/works/11368
   { annict_id: 11368, mal_id: 53115 },
+  // [2007-SUMMER] TV: シコロボ
+  // https://annict.com/works/11369
+  { annict_id: 11369 },
+  // [2007-SUMMER] TV: ちょぼっと☆ちょボット
+  // https://annict.com/works/11370
+  { annict_id: 11370 },
+  // [2007-SUMMER] TV: ご存知！かくざ父さん
+  // https://annict.com/works/11371
+  { annict_id: 11371, mal_id: 41117 },
 ]
