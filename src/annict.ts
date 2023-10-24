@@ -32636,4 +32636,7 @@ export const annict: ArmEntry[] = [
   // [2007-AUTUMN] TV: 筋肉学園
   // https://annict.com/works/11381
   { annict_id: 11381 },
+  // [2007-AUTUMN] TV: 土管くん何かの絵描き歌
+  // https://annict.com/works/11382
+  { annict_id: 11382, mal_id: 54051 },
 ]
