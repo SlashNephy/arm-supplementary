@@ -32576,4 +32576,22 @@ export const annict: ArmEntry[] = [
   // [2011-SPRING] MOVIE: Xi AVANT
   // https://annict.com/works/11361
   { annict_id: 11361, mal_id: 10405 },
+  // [2007-SUMMER] TV: CODE リョーコ
+  // https://annict.com/works/11362
+  { annict_id: 11362 },
+  // [2007-SPRING] TV: やっこはん姉妹
+  // https://annict.com/works/11363
+  { annict_id: 11363 },
+  // [2007-SUMMER] TV: ウスペラーズ
+  // https://annict.com/works/11364
+  { annict_id: 11364 },
+  // [2007-SUMMER] TV: なぞなぞう
+  // https://annict.com/works/11365
+  { annict_id: 11365 },
+  // [2007-SUMMER] TV: BUZZER BEATER(第2期)
+  // https://annict.com/works/11366
+  { annict_id: 11366, mal_id: 2684, syobocal_tid: 1185 },
+  // [2007-SUMMER] TV: はぴはぴクローバー
+  // https://annict.com/works/11367
+  { annict_id: 11367, mal_id: 5276, syobocal_tid: 1189 },
 ]
