@@ -32639,4 +32639,10 @@ export const annict: ArmEntry[] = [
   // [2007-AUTUMN] TV: 土管くん何かの絵描き歌
   // https://annict.com/works/11382
   { annict_id: 11382, mal_id: 54051 },
+  // [2007-AUTUMN] TV: まめうしくん
+  // https://annict.com/works/11383
+  { annict_id: 11383, mal_id: 12185 },
+  // [2007-AUTUMN] TV: 天才? Dr.ハマックス
+  // https://annict.com/works/11384
+  { annict_id: 11384, mal_id: 2930 },
 ]
