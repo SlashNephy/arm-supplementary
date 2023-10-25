@@ -32683,5 +32683,35 @@ export const annict: ArmEntry[] = [
   { annict_id: 11396 },
   // [2023-AUTUMN] TV: すみっコぐらし そらいろのまいにち
   // https://annict.com/works/11397
-  { annict_id: 11397 },
+  { annict_id: 11397, mal_id: 56997 },
+  // [2008-SPRING] TV: てんてこししまい君
+  // https://annict.com/works/11398
+  { annict_id: 11398 },
+  // [2008-SPRING] TV: 本マグロトロ太郎TV
+  // https://annict.com/works/11399
+  { annict_id: 11399 },
+  // [2008-SPRING] TV: Dofusドフス★12の世界★ドフス アンド フレンズ
+  // https://annict.com/works/11400
+  { annict_id: 11400 },
+  // [2008-SPRING] TV: レオナルド博士とキリン村のなかまでしょ
+  // https://annict.com/works/11401
+  { annict_id: 11401, mal_id: 41160 },
+  // [2008-SPRING] TV: はなけろ〜どんぐりころころエコろころ〜
+  // https://annict.com/works/11402
+  { annict_id: 11402 },
+  // [2004-SPRING] TV: U.H.O. フューチャーレスキュー2061
+  // https://annict.com/works/11403
+  { annict_id: 11403 },
+  // [2008-SPRING] TV: Rocket! ぼくらを月につれてって 新・月世界旅行
+  // https://annict.com/works/11404
+  { annict_id: 11404 },
+  // [2008-SPRING] TV: 家電漫才 ジョンテレビSHOW！
+  // https://annict.com/works/11405
+  { annict_id: 11405, mal_id: 29746 },
+  // [2008-SPRING] TV: 忍者玉丸
+  // https://annict.com/works/11406
+  { annict_id: 11406, mal_id: 35106 },
+  // [2008-SPRING] TV: いつもワガママガマ王子
+  // https://annict.com/works/11407
+  { annict_id: 11407 },
 ]
