@@ -25520,7 +25520,7 @@ export const annict: ArmEntry[] = [
   // [2021-SUMMER] WEB: シンビアパート
   // https://annict.com/works/8941
   { annict_id: 8941, mal_id: 38923 },
-  // [2024-WINTER] TV: 月が導く異世界道中 第2期
+  // [2024-WINTER] TV: 月が導く異世界道中 第二幕
   // https://annict.com/works/8942
   { annict_id: 8942, mal_id: 49889 },
   // [1998-AUTUMN] MOVIE: 魔法の剣 キャメロット
@@ -32723,4 +32723,10 @@ export const annict: ArmEntry[] = [
   // [2024-null] TV: 魔王の俺が奴隷エルフを嫁にしたんだが、どう愛でればいい？
   // https://annict.com/works/11410
   { annict_id: 11410, mal_id: 53434 },
+  // [2024-SPRING] TV: クマーバ
+  // https://annict.com/works/11411
+  { annict_id: 11411 },
+  // [2023-AUTUMN] WEB: 道産子あるある！教えて、冬木さん！
+  // https://annict.com/works/11412
+  { annict_id: 11412 },
 ]
