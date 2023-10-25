@@ -32714,4 +32714,10 @@ export const annict: ArmEntry[] = [
   // [2008-SPRING] TV: いつもワガママガマ王子
   // https://annict.com/works/11407
   { annict_id: 11407 },
+  // [1998-AUTUMN] TV: どーもくん(どーもスポット)
+  // https://annict.com/works/11408
+  { annict_id: 11408, mal_id: 7643 },
+  // [2008-SPRING] TV: どーもくん(どーもTVシリーズ)
+  // https://annict.com/works/11409
+  { annict_id: 11409, mal_id: 8815 },
 ]
