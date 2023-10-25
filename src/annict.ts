@@ -32314,7 +32314,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11273 },
   // [2023-AUTUMN] WEB: 葬送のフリーレン ミニアニメ 「●●の魔法」
   // https://annict.com/works/11274
-  { annict_id: 11274 },
+  { annict_id: 11274, mal_id: 56885 },
   // [2002-WINTER] TV: フューチュラマ シーズン4
   // https://annict.com/works/11275
   { annict_id: 11275 },
@@ -32720,4 +32720,7 @@ export const annict: ArmEntry[] = [
   // [2008-SPRING] TV: どーもくん(どーもTVシリーズ)
   // https://annict.com/works/11409
   { annict_id: 11409, mal_id: 8815 },
+  // [2024-null] TV: 魔王の俺が奴隷エルフを嫁にしたんだが、どう愛でればいい？
+  // https://annict.com/works/11410
+  { annict_id: 11410, mal_id: 53434 },
 ]
