@@ -32756,4 +32756,7 @@ export const annict: ArmEntry[] = [
   // [2013-SPRING] TV: ドリーム9 トリコ×ONE PIECE×ドラゴンボールZ 超コラボスペシャル!!
   // https://annict.com/works/11421
   { annict_id: 11421 },
+  // [2019-AUTUMN] WEB: ガイナタマガー
+  // https://annict.com/works/11422
+  { annict_id: 11422, mal_id: 40768 },
 ]
