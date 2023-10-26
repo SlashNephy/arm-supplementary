@@ -32747,4 +32747,13 @@ export const annict: ArmEntry[] = [
   // [2000-AUTUMN] OVA: 無限のリヴァイアス Light 新作アニメーション
   // https://annict.com/works/11418
   { annict_id: 11418, mal_id: 41203 },
+  // [2020-WINTER] WEB: パチスロエウレカセブン3 オリジナルエピソード
+  // https://annict.com/works/11419
+  { annict_id: 11419 },
+  // [2007-SUMMER] OVA: ひぐらしのなく頃に 外伝 猫殺し編
+  // https://annict.com/works/11420
+  { annict_id: 11420, mal_id: 2899 },
+  // [2013-SPRING] TV: ドリーム9 トリコ×ONE PIECE×ドラゴンボールZ 超コラボスペシャル!!
+  // https://annict.com/works/11421
+  { annict_id: 11421 },
 ]
