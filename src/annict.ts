@@ -2858,7 +2858,7 @@ export const annict: ArmEntry[] = [
   // [1995-AUTUMN] TV: 新世紀エヴァンゲリオン
   // https://annict.com/works/954
   { annict_id: 954, mal_id: 30, syobocal_tid: 335 },
-  // [2002-AUTUMN] TV: 新世紀伝マーズ
+  // [2002-AUTUMN] TV: 神世紀伝マーズ
   // https://annict.com/works/955
   { annict_id: 955, mal_id: 1712 },
   // [1995-SPRING] TV: 新機動戦記ガンダムW
@@ -7946,7 +7946,7 @@ export const annict: ArmEntry[] = [
   // [1996-WINTER] OVA: 機動戦士ガンダム 第08MS小隊
   // https://annict.com/works/2654
   { annict_id: 2654, mal_id: 81, syobocal_tid: 845 },
-  // [1999-SUMMER] OVA: 機動戦士ガンダム　第08MS小隊　ラスト・リゾート
+  // [1999-SUMMER] OVA: 機動戦士ガンダム 第08MS小隊 ラスト・リゾート
   // https://annict.com/works/2655
   { annict_id: 2655 },
   // [1988-SPRING] OVA: 機動警察パトレイバー アーリーデイズ
@@ -9692,7 +9692,7 @@ export const annict: ArmEntry[] = [
   // [1991-WINTER] MOVIE: 機動戦士ガンダム F91
   // https://annict.com/works/3241
   { annict_id: 3241, mal_id: 88, syobocal_tid: 741 },
-  // [1998-SUMMER] MOVIE: 機動戦士ガンダム　第08MS小隊　ミラーズ・リポート
+  // [1998-SUMMER] MOVIE: 機動戦士ガンダム 第08MS小隊 ミラーズ・リポート
   // https://annict.com/works/3242
   { annict_id: 3242, mal_id: 83, syobocal_tid: 846 },
   // [1998-SUMMER] MOVIE: 機動戦艦ナデシコ The prince of darkness
@@ -32729,4 +32729,16 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] WEB: 道産子あるある！教えて、冬木さん！
   // https://annict.com/works/11412
   { annict_id: 11412 },
+  // [1994-SPRING] OVA: マーズ
+  // https://annict.com/works/11413
+  { annict_id: 11413, mal_id: 10648 },
+  // [1992-AUTUMN] OVA: 宝島メモリアル「夕凪と呼ばれた男」
+  // https://annict.com/works/11414
+  { annict_id: 11414, mal_id: 11685 },
+  // [1996-AUTUMN] OVA: 機動戦士ガンダム 第08MS小隊 宇宙世紀余話
+  // https://annict.com/works/11415
+  { annict_id: 11415, mal_id: 5723 },
+  // [2013-WINTER] OVA: 機動戦士ガンダム 第08MS小隊 三次元との戦い
+  // https://annict.com/works/11416
+  { annict_id: 11416, mal_id: 17717 },
 ]
