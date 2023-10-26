@@ -32741,4 +32741,10 @@ export const annict: ArmEntry[] = [
   // [2013-WINTER] OVA: 機動戦士ガンダム 第08MS小隊 三次元との戦い
   // https://annict.com/works/11416
   { annict_id: 11416, mal_id: 17717 },
+  // [2000-AUTUMN] WEB: 無限のリヴァイアス イリュージョン
+  // https://annict.com/works/11417
+  { annict_id: 11417, mal_id: 13233 },
+  // [2000-AUTUMN] OVA: 無限のリヴァイアス Light 新作アニメーション
+  // https://annict.com/works/11418
+  { annict_id: 11418, mal_id: 41203 },
 ]
