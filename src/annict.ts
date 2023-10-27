@@ -23822,7 +23822,7 @@ export const annict: ArmEntry[] = [
   // [1994-null] TV: 景山民夫のダブルファンタジー「サイケデリック航空」
   // https://annict.com/works/8277
   { annict_id: 8277, mal_id: 41325 },
-  // [2021-SPRING] TV: ワンダーエッグ・プライオリティ 特別編
+  // [2021-SPRING] TV: ワンダーエッグ・プライオリティ 特別編 「私のプライオリティ」
   // https://annict.com/works/8278
   { annict_id: 8278, mal_id: 48614 },
   // [2002-null] OVA: くまのプーさん/みんなのクリスマス
@@ -32759,4 +32759,13 @@ export const annict: ArmEntry[] = [
   // [2019-AUTUMN] WEB: ガイナタマガー
   // https://annict.com/works/11422
   { annict_id: 11422, mal_id: 40768 },
+  // [2023-AUTUMN] WEB: ワンス・アポン・ア・スタジオ -100年の思い出-
+  // https://annict.com/works/11423
+  { annict_id: 11423 },
+  // [2021-AUTUMN] WEB: ケンタウロスワールド シーズン2
+  // https://annict.com/works/11424
+  { annict_id: 11424 },
+  // [1981-SUMMER] MOVIE: ヘビーメタル
+  // https://annict.com/works/11425
+  { annict_id: 11425 },
 ]
