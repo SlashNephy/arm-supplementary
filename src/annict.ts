@@ -32771,4 +32771,7 @@ export const annict: ArmEntry[] = [
   // [2011-WINTER] MOVIE: ファンタスティック Mr.FOX
   // https://annict.com/works/11426
   { annict_id: 11426 },
+  // [2018-SPRING] MOVIE: 犬ヶ島
+  // https://annict.com/works/11427
+  { annict_id: 11427 },
 ]
