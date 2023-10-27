@@ -32768,4 +32768,7 @@ export const annict: ArmEntry[] = [
   // [1981-SUMMER] MOVIE: ヘビーメタル
   // https://annict.com/works/11425
   { annict_id: 11425 },
+  // [2011-WINTER] MOVIE: ファンタスティック Mr.FOX
+  // https://annict.com/works/11426
+  { annict_id: 11426 },
 ]
