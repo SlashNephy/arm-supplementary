@@ -30227,7 +30227,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: ビーストウォーズ 超生命体トランスフォーマー アゲイン
   // https://annict.com/works/10577
   { annict_id: 10577 },
-  // [2024-null] TV: 魔法少女にあこがれて
+  // [2024-WINTER] TV: 魔法少女にあこがれて
   // https://annict.com/works/10578
   { annict_id: 10578, mal_id: 54722 },
   // [null-null] OTHER: 妻、小学生になる。
