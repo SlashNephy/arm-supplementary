@@ -9446,13 +9446,13 @@ export const annict: ArmEntry[] = [
   // [1991-AUTUMN] MOVIE: うる星やつら いつだってマイ・ダーリン
   // https://annict.com/works/3158
   { annict_id: 3158, mal_id: 1925, syobocal_tid: 2833 },
-  // [1983-null] MOVIE: うる星やつら オンリー・ユー
+  // [1983-WINTER] MOVIE: うる星やつら オンリー・ユー
   // https://annict.com/works/3159
   { annict_id: 3159, mal_id: 1920, syobocal_tid: 2829 },
   // [1988-WINTER] MOVIE: うる星やつら 完結篇
   // https://annict.com/works/3160
   { annict_id: 3160, mal_id: 1924, syobocal_tid: 2832 },
-  // [1984-null] MOVIE: うる星やつら2 ビューティフル・ドリーマー
+  // [1984-WINTER] MOVIE: うる星やつら2 ビューティフル・ドリーマー
   // https://annict.com/works/3161
   { annict_id: 3161, mal_id: 1921, syobocal_tid: 4078 },
   // [1985-null] MOVIE: うる星やつら3 リメンバー・マイ・ラブ
@@ -21719,7 +21719,7 @@ export const annict: ArmEntry[] = [
   // [2020-AUTUMN] WEB: とーとつにエジプト神
   // https://annict.com/works/7481
   { annict_id: 7481, mal_id: 41688 },
-  // [1985-null] OVA: 幻夢戦記レダ
+  // [1985-WINTER] OVA: 幻夢戦記レダ
   // https://annict.com/works/7482
   { annict_id: 7482, mal_id: 2196 },
   // [2020-SPRING] OVA: へやキャン△ SPECIAL EPISODE「サウナとごはんと三輪バイク」
@@ -23552,7 +23552,7 @@ export const annict: ArmEntry[] = [
   // [2011-AUTUMN] TV: ピクシー・ホロウ・ゲームズ 妖精たちの祭典
   // https://annict.com/works/8187
   { annict_id: 8187 },
-  // [2012-null] OVA: ティンカー・ベルと輝く羽の秘密
+  // [2012-SUMMER] OVA: ティンカー・ベルと輝く羽の秘密
   // https://annict.com/works/8188
   { annict_id: 8188 },
   // [2013-AUTUMN] MOVIE: プレーンズ
@@ -23564,7 +23564,7 @@ export const annict: ArmEntry[] = [
   // [2014-SUMMER] MOVIE: プレーンズ2/ファイアー&レスキュー
   // https://annict.com/works/8191
   { annict_id: 8191 },
-  // [2015-null] OVA: ティンカー・ベルと流れ星の伝説
+  // [2014-AUTUMN] OVA: ティンカー・ベルと流れ星の伝説
   // https://annict.com/works/8192
   { annict_id: 8192 },
   // [1998-null] OVA: くまのプーさん クリストファー・ロビンを探せ！
@@ -27950,7 +27950,7 @@ export const annict: ArmEntry[] = [
   // [1999-null] OVA: 遠い世界 OTHER WORLDS
   // https://annict.com/works/9816
   { annict_id: 9816 },
-  // [1999-null] OVA: 彼女と彼女の猫 Their standing points
+  // [1999-AUTUMN] OVA: 彼女と彼女の猫 Their standing points
   // https://annict.com/works/9817
   { annict_id: 9817, mal_id: 1004 },
   // [2007-SPRING] TV: アニ＊クリ15
