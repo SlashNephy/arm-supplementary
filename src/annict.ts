@@ -32774,4 +32774,7 @@ export const annict: ArmEntry[] = [
   // [2018-SPRING] MOVIE: 犬ヶ島
   // https://annict.com/works/11427
   { annict_id: 11427 },
+  // [1989-WINTER] MOVIE: 超神伝説うろつき童子 オリジナル劇場公開版
+  // https://annict.com/works/11428
+  { annict_id: 11428, mal_id: 2359 },
 ]
