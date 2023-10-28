@@ -32792,4 +32792,16 @@ export const annict: ArmEntry[] = [
   // [2017-SPRING] WEB: いぬかい部長 くりーむ
   // https://annict.com/works/11434
   { annict_id: 11434 },
+  // [1990-SUMMER] MOVIE: いばら姫またはねむり姫
+  // https://annict.com/works/11435
+  { annict_id: 11435, mal_id: 7169 },
+  // [1999-SUMMER] MOVIE: CLOVER
+  // https://annict.com/works/11436
+  { annict_id: 11436, mal_id: 1890 },
+  // [2008-SPRING] TV: やさいのようせい N.Y.SALAD 第2シリーズ
+  // https://annict.com/works/11437
+  { annict_id: 11437, mal_id: 10706 },
+  // [2010-WINTER] MOVIE: やさいのようせい N.Y.SALAD The Movie
+  // https://annict.com/works/11438
+  { annict_id: 11438, mal_id: 42366 },
 ]
