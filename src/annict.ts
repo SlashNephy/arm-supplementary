@@ -32783,4 +32783,7 @@ export const annict: ArmEntry[] = [
   // [2008-WINTER] WEB: いぬかい部長
   // https://annict.com/works/11431
   { annict_id: 11431 },
+  // [2017-SPRING] WEB: いぬかい部長 レモン味
+  // https://annict.com/works/11432
+  { annict_id: 11432 },
 ]
