@@ -32786,4 +32786,10 @@ export const annict: ArmEntry[] = [
   // [2017-SPRING] WEB: いぬかい部長 レモン味
   // https://annict.com/works/11432
   { annict_id: 11432 },
+  // [2017-SPRING] WEB: いぬかいX長
+  // https://annict.com/works/11433
+  { annict_id: 11433 },
+  // [2017-SPRING] WEB: いぬかい部長 くりーむ
+  // https://annict.com/works/11434
+  { annict_id: 11434 },
 ]
