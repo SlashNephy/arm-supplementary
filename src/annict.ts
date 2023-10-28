@@ -32804,4 +32804,22 @@ export const annict: ArmEntry[] = [
   // [2010-WINTER] MOVIE: やさいのようせい N.Y.SALAD The Movie
   // https://annict.com/works/11438
   { annict_id: 11438, mal_id: 42366 },
+  // [1991-SPRING] OVA: 聖伝-リグ・ヴェーダ-
+  // https://annict.com/works/11439
+  { annict_id: 11439, mal_id: 439 },
+  // [2008-SPRING] TV: モリゾー・キッコロとフルービー 守れ!みんなの水の惑星
+  // https://annict.com/works/11440
+  { annict_id: 11440 },
+  // [2012-SPRING] WEB: のねのね劇場
+  // https://annict.com/works/11441
+  { annict_id: 11441, mal_id: 14077 },
+  // [2008-SPRING] TV: ニコニコ♪コニーちゃん
+  // https://annict.com/works/11442
+  { annict_id: 11442, mal_id: 34182 },
+  // [2008-SPRING] TV: なぜ? どうして? がおがおぶーっ!
+  // https://annict.com/works/11443
+  { annict_id: 11443 },
+  // [2007-WINTER] TV: ブーンドックス
+  // https://annict.com/works/11444
+  { annict_id: 11444 },
 ]
