@@ -27716,9 +27716,6 @@ export const annict: ArmEntry[] = [
   // [2022-SUMMER] OVA: 超次元ゲイム ネプテューヌ ～陽だまりの茄花（リトルパープル）～
   // https://annict.com/works/9738
   { annict_id: 9738 },
-  // [null-null] TV: HIGHSPEED Etoile
-  // https://annict.com/works/9739
-  { annict_id: 9739 },
   // [1989-AUTUMN] TV: 敵は海賊〜猫たちの饗宴〜
   // https://annict.com/works/9740
   { annict_id: 9740, mal_id: 2679 },
@@ -32780,4 +32777,10 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] WEB: ドラゴン娘になりたくないっ！
   // https://annict.com/works/11429
   { annict_id: 11429 },
+  // [1987-WINTER] OVA: DOUGRAM vs ROUND-FACER
+  // https://annict.com/works/11430
+  { annict_id: 11430, mal_id: 18795 },
+  // [2008-WINTER] WEB: いぬかい部長
+  // https://annict.com/works/11431
+  { annict_id: 11431 },
 ]

@@ -38,17 +38,17 @@ export const fetchArmEntries = async (): Promise<ArmEntry[]> => {
 
 ## Statistics
 
-Currently, arm-supplementary has 36962 entries (+7375).
+Currently, arm-supplementary has 36964 entries (+7377).
 
 | Service                                     | arm-supplementary | arm / anime-offline-database |
 | :------------------------------------------ | :---------------: | :--------------------------: |
-| [Annict](https://annict.com)                |   10926 (+390)    |            10536             |
-| [AniList](https://anilist.co)               |   21560 (+2391)   |            19169             |
-| [MyAnimeList](https://myanimelist.net)      |   26065 (+716)    |            25349             |
+| [Annict](https://annict.com)                |   10928 (+392)    |            10536             |
+| [AniList](https://anilist.co)               |   21561 (+2392)   |            19169             |
+| [MyAnimeList](https://myanimelist.net)      |   26066 (+717)    |            25349             |
 | [しょぼいカレンダー](https://cal.syoboi.jp) |    5779 (+81)     |             5698             |
 | [AniDB](https://anidb.net)                  |   13167 (+189)    |            12978             |
-| [Anime-Planet](https://anime-planet.com)    |   23465 (+226)    |            23239             |
-| [aniSearch](https://anisearch.com)          |   18341 (+211)    |            18130             |
-| [Kitsu](https://kitsu.io)                   |   19887 (+226)    |            19661             |
+| [Anime-Planet](https://anime-planet.com)    |   23466 (+227)    |            23239             |
+| [aniSearch](https://anisearch.com)          |   18342 (+212)    |            18130             |
+| [Kitsu](https://kitsu.io)                   |   19888 (+227)    |            19661             |
 | [LiveChart.me](https://livechart.me)        |   11142 (+182)    |            10960             |
-| [Anime Notifier](https://notify.moe)        |   16240 (+224)    |            16016             |
+| [Anime Notifier](https://notify.moe)        |   16241 (+225)    |            16016             |
