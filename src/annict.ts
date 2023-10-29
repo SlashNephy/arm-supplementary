@@ -32822,4 +32822,19 @@ export const annict: ArmEntry[] = [
   // [2007-WINTER] TV: ブーンドックス
   // https://annict.com/works/11444
   { annict_id: 11444 },
+  // [2008-SUMMER] TV: ちょこっと☆ちょボット
+  // https://annict.com/works/11445
+  { annict_id: 11445 },
+  // [2008-SUMMER] TV: 開運 大便小僧
+  // https://annict.com/works/11446
+  { annict_id: 11446 },
+  // [2008-SUMMER] TV: ネオ アンジェリーク Abyss -Second Age-
+  // https://annict.com/works/11447
+  { annict_id: 11447, mal_id: 4662, syobocal_tid: 1434 },
+  // [2008-SUMMER] TV: スッキリ!!・クロラ The Sukkiri Crawlers
+  // https://annict.com/works/11448
+  { annict_id: 11448, mal_id: 54972 },
+  // [2008-SUMMER] TV: いじいじくん
+  // https://annict.com/works/11449
+  { annict_id: 11449 },
 ]
