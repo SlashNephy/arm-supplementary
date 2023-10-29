@@ -32837,4 +32837,10 @@ export const annict: ArmEntry[] = [
   // [2008-SUMMER] TV: いじいじくん
   // https://annict.com/works/11449
   { annict_id: 11449 },
+  // [2008-SUMMER] TV: 男（デブ）はつらいYo!
+  // https://annict.com/works/11450
+  { annict_id: 11450 },
+  // [2008-SUMMER] TV: Little Village People
+  // https://annict.com/works/11451
+  { annict_id: 11451 },
 ]
