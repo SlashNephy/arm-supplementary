@@ -32518,7 +32518,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11342, mal_id: 2922 },
   // [2023-AUTUMN] WEB: 猫猫のひとりごと
   // https://annict.com/works/11343
-  { annict_id: 11343 },
+  { annict_id: 11343, mal_id: 56975 },
   // [2007-WINTER] TV: めがね番長
   // https://annict.com/works/11344
   { annict_id: 11344 },
@@ -32846,4 +32846,10 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: とんでもスキルで異世界放浪メシ 第2期
   // https://annict.com/works/11452
   { annict_id: 11452, mal_id: 57025 },
+  // [2023-AUTUMN] TV: ととのえ！サクマくん by &sauna
+  // https://annict.com/works/11453
+  { annict_id: 11453 },
+  // [2024-null] TV: ヴァンパイア男子寮
+  // https://annict.com/works/11454
+  { annict_id: 11454, mal_id: 57031 },
 ]
