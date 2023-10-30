@@ -32852,4 +32852,10 @@ export const annict: ArmEntry[] = [
   // [2024-null] TV: ヴァンパイア男子寮
   // https://annict.com/works/11454
   { annict_id: 11454, mal_id: 57031 },
+  // [2023-SPRING] TV: 烈火澆愁（字幕版）
+  // https://annict.com/works/11455
+  { annict_id: 11455, mal_id: 44064 },
+  // [2024-WINTER] TV: 烈火澆愁
+  // https://annict.com/works/11456
+  { annict_id: 11456, mal_id: 44064 },
 ]
