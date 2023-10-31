@@ -32858,4 +32858,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] TV: 烈火澆愁
   // https://annict.com/works/11456
   { annict_id: 11456, mal_id: 44064 },
+  // [2023-AUTUMN] WEB: 「ぷれぷれぷれあです」×「かげじつ！」 コラボアニメ
+  // https://annict.com/works/11457
+  { annict_id: 11457, mal_id: 57034 },
 ]
