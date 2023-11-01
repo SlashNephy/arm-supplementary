@@ -31772,7 +31772,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 魔王様、リトライ！R
   // https://annict.com/works/11094
   { annict_id: 11094, mal_id: 56400 },
-  // [2023-AUTUMN] WEB: スコット・ピルグリムがゆく
+  // [2023-AUTUMN] WEB: スコット・ピルグリム テイクス・オフ
   // https://annict.com/works/11095
   { annict_id: 11095 },
   // [2023-AUTUMN] TV: 天官賜福 貮
