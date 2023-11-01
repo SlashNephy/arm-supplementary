@@ -30350,7 +30350,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] TV: 悪役令嬢レベル99～私は裏ボスですが魔王ではありません～
   // https://annict.com/works/10619
   { annict_id: 10619, mal_id: 54837 },
-  // [2024-null] TV: 夜のクラゲは泳げない
+  // [2024-SPRING] TV: 夜のクラゲは泳げない
   // https://annict.com/works/10620
   { annict_id: 10620, mal_id: 54839 },
   // [2023-SUMMER] TV: シュガーアップル・フェアリーテイル 第2クール
@@ -31277,7 +31277,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 華Doll* -Reinterpretation of Flowering-
   // https://annict.com/works/10929
   { annict_id: 10929, mal_id: 55710 },
-  // [null-null] TV: 出来損ないと呼ばれた元英雄は、実家から追放されたので好き勝手に生きることにした
+  // [2024-null] TV: 出来損ないと呼ばれた元英雄は、実家から追放されたので好き勝手に生きることにした
   // https://annict.com/works/10930
   { annict_id: 10930, mal_id: 55717 },
   // [2024-null] OTHER: 未ル
