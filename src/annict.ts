@@ -32864,4 +32864,28 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 妃教育から逃げたい私
   // https://annict.com/works/11458
   { annict_id: 11458 },
+  // [2015-SUMMER] WEB: HAPPY FOREST
+  // https://annict.com/works/11459
+  { annict_id: 11459, mal_id: 36097 },
+  // [2016-SPRING] WEB: THE GIFT
+  // https://annict.com/works/11460
+  { annict_id: 11460, mal_id: 36099 },
+  // [2019-SUMMER] WEB: THE PEAK
+  // https://annict.com/works/11461
+  { annict_id: 11461, mal_id: 40570 },
+  // [2023-AUTUMN] WEB: Ghost Tale
+  // https://annict.com/works/11462
+  { annict_id: 11462, mal_id: 57037 },
+  // [2008-AUTUMN] WEB: NIGHT OF THE WEREHOG ～ソニック＆チップ 恐怖の館～
+  // https://annict.com/works/11463
+  { annict_id: 11463, mal_id: 5583 },
+  // [2016-WINTER] MOVIE: MOOM/ムーム
+  // https://annict.com/works/11464
+  { annict_id: 11464, mal_id: 25541 },
+  // [2022-SUMMER] MOVIE: Samurai Frog Golf
+  // https://annict.com/works/11465
+  { annict_id: 11465 },
+  // [2021-SUMMER] WEB: ファイアーエムブレム ヒーローズ ミニキャラシアター
+  // https://annict.com/works/11466
+  { annict_id: 11466, mal_id: 49771 },
 ]
