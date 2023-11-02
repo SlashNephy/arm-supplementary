@@ -31775,7 +31775,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] WEB: スコット・ピルグリム テイクス・オフ
   // https://annict.com/works/11095
   { annict_id: 11095 },
-  // [2023-AUTUMN] TV: 天官賜福 貮
+  // [2023-AUTUMN] TV: 天官賜福 貮（オリジナル版）
   // https://annict.com/works/11096
   { annict_id: 11096, mal_id: 50399 },
   // [2023-AUTUMN] TV: 放課後少年花子くん
@@ -32891,4 +32891,13 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] OVA: アイドルマスター ミリオンライブ！ アンコールステージ「Rat A Tat!!!」
   // https://annict.com/works/11467
   { annict_id: 11467 },
+  // [1993-AUTUMN] MOVIE: 映画「ぼのぼの」
+  // https://annict.com/works/11468
+  { annict_id: 11468, mal_id: 8416 },
+  // [null-null] TV: 俺は全てを【パリイ】する
+  // https://annict.com/works/11469
+  { annict_id: 11469 },
+  // [2024-WINTER] TV: 天官賜福 貮
+  // https://annict.com/works/11470
+  { annict_id: 11470, mal_id: 50399 },
 ]
