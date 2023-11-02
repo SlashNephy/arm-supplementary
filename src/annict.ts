@@ -5063,7 +5063,7 @@ export const annict: ArmEntry[] = [
   // [1998-WINTER] TV: 万能文化猫娘
   // https://annict.com/works/1690
   { annict_id: 1690, mal_id: 375, syobocal_tid: 236 },
-  // [2008-SUMMER] TV: 伯爵と妖精
+  // [2008-AUTUMN] TV: 伯爵と妖精
   // https://annict.com/works/1691
   { annict_id: 1691, mal_id: 4551, syobocal_tid: 1458 },
   // [2006-AUTUMN] TV: 働きマン
@@ -32900,4 +32900,19 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] TV: 天官賜福 貮
   // https://annict.com/works/11470
   { annict_id: 11470, mal_id: 50399 },
+  // [2008-AUTUMN] TV: ネットミラクルショッピング
+  // https://annict.com/works/11471
+  { annict_id: 11471 },
+  // [2010-WINTER] TV: ネットミラクルショッピング(2ndシーズン)
+  // https://annict.com/works/11472
+  { annict_id: 11472 },
+  // [2008-AUTUMN] TV: てんてこししまい君 相談しまショー
+  // https://annict.com/works/11473
+  { annict_id: 11473 },
+  // [2008-AUTUMN] TV: おねがい!ポクポン
+  // https://annict.com/works/11474
+  { annict_id: 11474 },
+  // [2009-WINTER] TV: 新忍者玉丸
+  // https://annict.com/works/11475
+  { annict_id: 11475, mal_id: 35107 },
 ]
