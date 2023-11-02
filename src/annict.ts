@@ -32888,4 +32888,7 @@ export const annict: ArmEntry[] = [
   // [2021-SUMMER] WEB: ファイアーエムブレム ヒーローズ ミニキャラシアター
   // https://annict.com/works/11466
   { annict_id: 11466, mal_id: 49771 },
+  // [2023-AUTUMN] OVA: アイドルマスター ミリオンライブ！ アンコールステージ「Rat A Tat!!!」
+  // https://annict.com/works/11467
+  { annict_id: 11467 },
 ]
