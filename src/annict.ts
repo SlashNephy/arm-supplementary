@@ -32863,7 +32863,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11457, mal_id: 57034 },
   // [null-null] TV: 妃教育から逃げたい私
   // https://annict.com/works/11458
-  { annict_id: 11458 },
+  { annict_id: 11458, mal_id: 57050 },
   // [2015-SUMMER] WEB: HAPPY FOREST
   // https://annict.com/works/11459
   { annict_id: 11459, mal_id: 36097 },
