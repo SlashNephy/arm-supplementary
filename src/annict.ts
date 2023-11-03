@@ -32915,4 +32915,7 @@ export const annict: ArmEntry[] = [
   // [2009-WINTER] TV: 新忍者玉丸
   // https://annict.com/works/11475
   { annict_id: 11475, mal_id: 35107 },
+  // [2010-SPRING] TV: 極上!!めちゃモテ委員長 セカンドコレクション
+  // https://annict.com/works/11476
+  { annict_id: 11476, mal_id: 8538, syobocal_tid: 1922 },
 ]
