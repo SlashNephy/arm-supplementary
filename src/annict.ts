@@ -33020,4 +33020,7 @@ export const annict: ArmEntry[] = [
   // [2009-AUTUMN] OVA: TO
   // https://annict.com/works/11511
   { annict_id: 11511, mal_id: 7279 },
+  // [1994-SUMMER] OVA: 逮捕しちゃうぞ (OVA)
+  // https://annict.com/works/11512
+  { annict_id: 11512, mal_id: 1577 },
 ]
