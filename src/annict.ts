@@ -32927,4 +32927,7 @@ export const annict: ArmEntry[] = [
   // [2009-WINTER] TV: エグザムライ戦国
   // https://annict.com/works/11479
   { annict_id: 11479, mal_id: 5883, syobocal_tid: 1561 },
+  // [2009-WINTER] TV: さくらんBOY DT
+  // https://annict.com/works/11480
+  { annict_id: 11480, mal_id: 5810 },
 ]
