@@ -25849,7 +25849,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9050, mal_id: 37711 },
   // [2023-SPRING] TV: 異世界召喚は二度目です
   // https://annict.com/works/9051
-  { annict_id: 9051, mal_id: 50223, syobocal_tid: 6630 },
+  { annict_id: 9051, mal_id: 50220, syobocal_tid: 6630 },
   // [2022-SPRING] TV: ちいかわ
   // https://annict.com/works/9052
   { annict_id: 9052, mal_id: 50250 },
@@ -28756,7 +28756,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10086, syobocal_tid: 6465 },
   // [null-null] OTHER: その着せ替え人形は恋をする 続編
   // https://annict.com/works/10087
-  { annict_id: 10087 },
+  { annict_id: 10087, mal_id: 53065 },
   // [2023-WINTER] TV: にじよん あにめーしょん
   // https://annict.com/works/10088
   { annict_id: 10088, mal_id: 53077, syobocal_tid: 6585 },
@@ -29269,7 +29269,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10257 },
   // [null-null] TV: 転生したら剣でした 第2期
   // https://annict.com/works/10258
-  { annict_id: 10258 },
+  { annict_id: 10258, mal_id: 53913 },
   // [2024-null] TV: 夜桜さんちの大作戦
   // https://annict.com/works/10259
   { annict_id: 10259 },
@@ -29551,7 +29551,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10351, mal_id: 53998, syobocal_tid: 6742 },
   // [null-null] TV: 乙女ゲー世界はモブに厳しい世界です 第2期
   // https://annict.com/works/10352
-  { annict_id: 10352 },
+  { annict_id: 10352, mal_id: 54000 },
   // [null-null] OTHER: Turkey!
   // https://annict.com/works/10353
   { annict_id: 10353 },
@@ -30175,7 +30175,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10560, mal_id: 4874 },
   // [2023-SPRING] TV: でんでんの電脳電車
   // https://annict.com/works/10561
-  { annict_id: 10561, syobocal_tid: 6665 },
+  { annict_id: 10561, mal_id: 54933, syobocal_tid: 6665 },
   // [2023-SPRING] TV: デュエル・マスターズ WIN 決闘学園編 (デュエル・ウォーズ)
   // https://annict.com/works/10562
   { annict_id: 10562, syobocal_tid: 6682 },
@@ -31204,7 +31204,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10904, mal_id: 12769 },
   // [2023-AUTUMN] TV: 忍ばない！クリプトニンジャ咲耶
   // https://annict.com/works/10905
-  { annict_id: 10905, syobocal_tid: 6812 },
+  { annict_id: 10905, mal_id: 56505, syobocal_tid: 6812 },
   // [2012-null] OVA: ジャスティーン
   // https://annict.com/works/10906
   { annict_id: 10906 },
@@ -32894,9 +32894,9 @@ export const annict: ArmEntry[] = [
   // [1993-AUTUMN] MOVIE: 映画「ぼのぼの」
   // https://annict.com/works/11468
   { annict_id: 11468, mal_id: 8416 },
-  // [null-null] TV: 俺は全てを【パリイ】する
+  // [null-null] TV: 俺は全てを【パリイ】する ～逆勘違いの世界最強は冒険者になりたい～
   // https://annict.com/works/11469
-  { annict_id: 11469 },
+  { annict_id: 11469, mal_id: 57058 },
   // [2024-WINTER] TV: 天官賜福 貮
   // https://annict.com/works/11470
   { annict_id: 11470, mal_id: 50399 },
@@ -32999,4 +32999,7 @@ export const annict: ArmEntry[] = [
   // [2009-AUTUMN] TV: 忍者玉丸 東海道五十三次
   // https://annict.com/works/11503
   { annict_id: 11503, mal_id: 35108 },
+  // [null-null] TV: ダンジョンに出会いを求めるのは間違っているだろうかⅤ
+  // https://annict.com/works/11504
+  { annict_id: 11504 },
 ]
