@@ -1520,7 +1520,7 @@ export const annict: ArmEntry[] = [
   // [1994-AUTUMN] TV: キャプテン翼J
   // https://annict.com/works/506
   { annict_id: 506, mal_id: 1674, syobocal_tid: 932 },
-  // [2009-WINTER] TV: キャラディのジョークな毎日
+  // [2009-SPRING] TV: キャラディのジョークな毎日
   // https://annict.com/works/507
   { annict_id: 507, mal_id: 6131, syobocal_tid: 1663 },
   // [1976-AUTUMN] TV: キャンディ・キャンディ
@@ -32951,4 +32951,28 @@ export const annict: ArmEntry[] = [
   // [2009-WINTER] TV: 金色のコルダ〜secondo passo〜
   // https://annict.com/works/11487
   { annict_id: 11487, mal_id: 5717, syobocal_tid: 1570 },
+  // [2009-SPRING] TV: おてんばルル
+  // https://annict.com/works/11488
+  { annict_id: 11488, mal_id: 6206 },
+  // [2009-SPRING] TV: Naked Wolves
+  // https://annict.com/works/11489
+  { annict_id: 11489, mal_id: 7247 },
+  // [2009-SPRING] TV: ダンカイカレー中辛
+  // https://annict.com/works/11490
+  { annict_id: 11490 },
+  // [2009-SPRING] TV: うんこさん-ツイてる人にしか見えない妖精-
+  // https://annict.com/works/11491
+  { annict_id: 11491, mal_id: 6658 },
+  // [2010-WINTER] TV: うんこさん純情派-ツイてる人にしか見えない妖精-
+  // https://annict.com/works/11492
+  { annict_id: 11492, mal_id: 33085 },
+  // [2011-WINTER] OVA: ブクブクアワー
+  // https://annict.com/works/11493
+  { annict_id: 11493 },
+  // [2018-AUTUMN] OVA: けたくまのDVD
+  // https://annict.com/works/11494
+  { annict_id: 11494, mal_id: 38828 },
+  // [2009-SUMMER] TV: 体育倉庫〜ジムくんとゆかいな仲間たち〜
+  // https://annict.com/works/11495
+  { annict_id: 11495 },
 ]
