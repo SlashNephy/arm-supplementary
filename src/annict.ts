@@ -33023,4 +33023,7 @@ export const annict: ArmEntry[] = [
   // [1994-SUMMER] OVA: 逮捕しちゃうぞ (OVA)
   // https://annict.com/works/11512
   { annict_id: 11512, mal_id: 1577 },
+  // [2023-AUTUMN] WEB: 名探偵ピカチュウ ～華麗なるモーニングルーティン～
+  // https://annict.com/works/11513
+  { annict_id: 11513, mal_id: 57003 },
 ]
