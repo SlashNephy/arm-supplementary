@@ -6869,7 +6869,7 @@ export const annict: ArmEntry[] = [
   // [1997-SUMMER] TV: 夢のクレヨン王国
   // https://annict.com/works/2293
   { annict_id: 2293, mal_id: 4651, syobocal_tid: 4061 },
-  // [2009-AUTUMN] TV: 夢をかなえるゾウ
+  // [2009-WINTER] TV: 夢をかなえるゾウ
   // https://annict.com/works/2294
   { annict_id: 2294, mal_id: 5841, syobocal_tid: 1829 },
   // [2006-SPRING] TV: 夢使い
