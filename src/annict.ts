@@ -33002,4 +33002,22 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: ダンジョンに出会いを求めるのは間違っているだろうかⅤ
   // https://annict.com/works/11504
   { annict_id: 11504 },
+  // [2015-SUMMER] OTHER: ゼーガペイン PROJECT RESURRECTION 8.3.1.2015
+  // https://annict.com/works/11506
+  { annict_id: 11506 },
+  // [2016-AUTUMN] TV: 超圧縮・ミズハナ編 ゼーガペイン Memories in the shell
+  // https://annict.com/works/11507
+  { annict_id: 11507 },
+  // [2015-WINTER] WEB: 超爆裂異次元メンコバトル ギガントシューター つかさα
+  // https://annict.com/works/11508
+  { annict_id: 11508 },
+  // [2014-SUMMER] OVA: 超爆裂異次元恋愛白書 メロメロシューター みるこミル子
+  // https://annict.com/works/11509
+  { annict_id: 11509 },
+  // [2013-AUTUMN] WEB: 超亜空間防壁チーズ・ナポリタン
+  // https://annict.com/works/11510
+  { annict_id: 11510, mal_id: 21875 },
+  // [2009-AUTUMN] OVA: TO
+  // https://annict.com/works/11511
+  { annict_id: 11511, mal_id: 7279 },
 ]
