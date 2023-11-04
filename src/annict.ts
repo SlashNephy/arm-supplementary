@@ -32930,4 +32930,25 @@ export const annict: ArmEntry[] = [
   // [2009-WINTER] TV: さくらんBOY DT
   // https://annict.com/works/11480
   { annict_id: 11480, mal_id: 5810 },
+  // [2009-WINTER] TV: 京浜家族
+  // https://annict.com/works/11481
+  { annict_id: 11481 },
+  // [2009-WINTER] TV: KAWASAKI Frontale×天体戦士サンレッド
+  // https://annict.com/works/11482
+  { annict_id: 11482, mal_id: 8316 },
+  // [2009-WINTER] TV: オリガのドキドキイングリッシュ
+  // https://annict.com/works/11483
+  { annict_id: 11483 },
+  // [2009-WINTER] TV: 無敵!素敵!ハイチュウキング
+  // https://annict.com/works/11484
+  { annict_id: 11484 },
+  // [2009-WINTER] TV: 土管くん アナザーストーリー
+  // https://annict.com/works/11485
+  { annict_id: 11485 },
+  // [2007-WINTER] OVA: 金色のコルダ ～Primo Passo～「ひと夏のアンコール」
+  // https://annict.com/works/11486
+  { annict_id: 11486, mal_id: 3392 },
+  // [2009-WINTER] TV: 金色のコルダ〜secondo passo〜
+  // https://annict.com/works/11487
+  { annict_id: 11487, mal_id: 5717, syobocal_tid: 1570 },
 ]
