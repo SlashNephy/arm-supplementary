@@ -32918,4 +32918,13 @@ export const annict: ArmEntry[] = [
   // [2010-SPRING] TV: 極上!!めちゃモテ委員長 セカンドコレクション
   // https://annict.com/works/11476
   { annict_id: 11476, mal_id: 8538, syobocal_tid: 1922 },
+  // [2009-WINTER] TV: ことなかれヒーロー じんじゃーまん
+  // https://annict.com/works/11477
+  { annict_id: 11477, mal_id: 33123 },
+  // [2009-WINTER] TV: 闘え!ミミッチ・ミッチー
+  // https://annict.com/works/11478
+  { annict_id: 11478 },
+  // [2009-WINTER] TV: エグザムライ戦国
+  // https://annict.com/works/11479
+  { annict_id: 11479, mal_id: 5883, syobocal_tid: 1561 },
 ]
