@@ -32975,4 +32975,7 @@ export const annict: ArmEntry[] = [
   // [2009-SUMMER] TV: 体育倉庫〜ジムくんとゆかいな仲間たち〜
   // https://annict.com/works/11495
   { annict_id: 11495 },
+  // [2009-SUMMER] TV: ウチュレイ!
+  // https://annict.com/works/11496
+  { annict_id: 11496, mal_id: 6947, syobocal_tid: 1726 },
 ]
