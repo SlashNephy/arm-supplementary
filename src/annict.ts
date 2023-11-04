@@ -32978,4 +32978,25 @@ export const annict: ArmEntry[] = [
   // [2009-SUMMER] TV: ウチュレイ!
   // https://annict.com/works/11496
   { annict_id: 11496, mal_id: 6947, syobocal_tid: 1726 },
+  // [2009-AUTUMN] TV: ヤンス!ガンス! MEAT or DIE
+  // https://annict.com/works/11497
+  { annict_id: 11497, mal_id: 7721 },
+  // [2009-AUTUMN] TV: 炬燵猫
+  // https://annict.com/works/11498
+  { annict_id: 11498, mal_id: 7189, syobocal_tid: 1761 },
+  // [2009-AUTUMN] TV: わいもくん
+  // https://annict.com/works/11499
+  { annict_id: 11499 },
+  // [2009-AUTUMN] TV: ローズオニールキューピー
+  // https://annict.com/works/11500
+  { annict_id: 11500, mal_id: 7211 },
+  // [2009-AUTUMN] TV: ヴァイス・サヴァイヴR
+  // https://annict.com/works/11501
+  { annict_id: 11501, mal_id: 7463 },
+  // [2009-AUTUMN] TV: コケッコーさん
+  // https://annict.com/works/11502
+  { annict_id: 11502, mal_id: 34643, syobocal_tid: 1804 },
+  // [2009-AUTUMN] TV: 忍者玉丸 東海道五十三次
+  // https://annict.com/works/11503
+  { annict_id: 11503, mal_id: 35108 },
 ]
