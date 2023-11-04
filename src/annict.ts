@@ -3745,7 +3745,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1249, mal_id: 11843, syobocal_tid: 2386 },
   // [1996-AUTUMN] TV: 逮捕しちゃうぞ
   // https://annict.com/works/1250
-  { annict_id: 1250, mal_id: 1577 },
+  { annict_id: 1250, mal_id: 1372 },
   // [2001-SPRING] TV: 逮捕しちゃうぞ Second Season
   // https://annict.com/works/1251
   { annict_id: 1251, mal_id: 2014 },
