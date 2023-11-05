@@ -33001,7 +33001,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11503, mal_id: 35108 },
   // [null-null] TV: ダンジョンに出会いを求めるのは間違っているだろうかⅤ
   // https://annict.com/works/11504
-  { annict_id: 11504 },
+  { annict_id: 11504, mal_id: 57066 },
   // [2015-SUMMER] OTHER: ゼーガペイン PROJECT RESURRECTION 8.3.1.2015
   // https://annict.com/works/11506
   { annict_id: 11506 },
@@ -33029,4 +33029,7 @@ export const annict: ArmEntry[] = [
   // [2024-null] OTHER: ポンコツクエスト～魔王と派遣の魔物たち～ シーズン8
   // https://annict.com/works/11514
   { annict_id: 11514 },
+  // [null-null] OTHER: 銀河英雄伝説 Die Neue These 続編
+  // https://annict.com/works/11515
+  { annict_id: 11515 },
 ]
