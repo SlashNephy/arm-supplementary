@@ -33026,4 +33026,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] WEB: 名探偵ピカチュウ ～華麗なるモーニングルーティン～
   // https://annict.com/works/11513
   { annict_id: 11513, mal_id: 57003 },
+  // [2024-null] OTHER: ポンコツクエスト～魔王と派遣の魔物たち～ シーズン8
+  // https://annict.com/works/11514
+  { annict_id: 11514 },
 ]
