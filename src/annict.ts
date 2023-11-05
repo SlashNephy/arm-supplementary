@@ -33031,5 +33031,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 11514 },
   // [null-null] OTHER: 銀河英雄伝説 Die Neue These 続編
   // https://annict.com/works/11515
-  { annict_id: 11515 },
+  { annict_id: 11515, mal_id: 57071 },
 ]
