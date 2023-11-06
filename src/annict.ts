@@ -33032,4 +33032,16 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 銀河英雄伝説 Die Neue These 続編
   // https://annict.com/works/11515
   { annict_id: 11515, mal_id: 57071 },
+  // [2018-SUMMER] WEB: スーパードラゴンボールヒーローズ プロモーションアニメ 監獄惑星編
+  // https://annict.com/works/11516
+  { annict_id: 11516, mal_id: 37885 },
+  // [2019-WINTER] WEB: スーパードラゴンボールヒーローズ プロモーションアニメ 宇宙争乱編
+  // https://annict.com/works/11517
+  { annict_id: 11517 },
+  // [2020-WINTER] WEB: スーパードラゴンボールヒーローズ プロモーションアニメ 特別編『決戦 タイムパトロールVS暗黒王』
+  // https://annict.com/works/11518
+  { annict_id: 11518 },
+  // [2020-WINTER] WEB: スーパードラゴンボールヒーローズ ビッグバンミッション プロモーションアニメ 宇宙創成編
+  // https://annict.com/works/11519
+  { annict_id: 11519 },
 ]
