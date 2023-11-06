@@ -31082,7 +31082,7 @@ export const annict: ArmEntry[] = [
   // [null-null] MOVIE: つるばみ色のなぎ子たち
   // https://annict.com/works/10864
   { annict_id: 10864, mal_id: 55359 },
-  // [2024-SPRING] MOVIE: ぼっち・ざ・ろっく！ 劇場総集編 前編
+  // [2024-SPRING] MOVIE: 劇場総集編ぼっち・ざ・ろっく！ Re:
   // https://annict.com/works/10865
   { annict_id: 10865, mal_id: 55357 },
   // [2023-SUMMER] WEB: しんでゅありてぃ科学講座
@@ -32411,7 +32411,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 公女殿下の家庭教師
   // https://annict.com/works/11307
   { annict_id: 11307, mal_id: 56907 },
-  // [2024-SUMMER] MOVIE: ぼっち・ざ・ろっく！ 劇場総集編 後編
+  // [2024-SUMMER] MOVIE: 劇場総集編ぼっち・ざ・ろっく！ Re:Re:
   // https://annict.com/works/11308
   { annict_id: 11308 },
   // [2018-SUMMER] WEB: 魔法が解けて
