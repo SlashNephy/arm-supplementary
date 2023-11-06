@@ -33044,4 +33044,7 @@ export const annict: ArmEntry[] = [
   // [2020-WINTER] WEB: スーパードラゴンボールヒーローズ ビッグバンミッション プロモーションアニメ 宇宙創成編
   // https://annict.com/works/11519
   { annict_id: 11519 },
+  // [2021-WINTER] WEB: スーパードラゴンボールヒーローズ ビッグバンミッション プロモーションアニメ 新時空大戦編
+  // https://annict.com/works/11520
+  { annict_id: 11520 },
 ]
