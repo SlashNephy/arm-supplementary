@@ -33047,4 +33047,13 @@ export const annict: ArmEntry[] = [
   // [2021-WINTER] WEB: スーパードラゴンボールヒーローズ ビッグバンミッション プロモーションアニメ 新時空大戦編
   // https://annict.com/works/11520
   { annict_id: 11520 },
+  // [2020-AUTUMN] WEB: スーパードラゴンボールヒーローズ ビッグバンミッション プロモーションアニメ 特別編『戦いの場所へ突き進め ドラゴンボールヒーローズ』
+  // https://annict.com/works/11521
+  { annict_id: 11521 },
+  // [2022-WINTER] WEB: スーパードラゴンボールヒーローズ ウルトラゴッドミッション プロモーションアニメ 時の界王神編
+  // https://annict.com/works/11522
+  { annict_id: 11522 },
+  // [2023-AUTUMN] WEB: スーパードラゴンボールヒーローズ ウルトラゴッドミッション プロモーションCGアニメ 魔の侵略者編
+  // https://annict.com/works/11523
+  { annict_id: 11523 },
 ]
