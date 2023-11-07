@@ -33056,4 +33056,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] WEB: スーパードラゴンボールヒーローズ ウルトラゴッドミッション プロモーションCGアニメ 魔の侵略者編
   // https://annict.com/works/11523
   { annict_id: 11523 },
+  // [null-null] OTHER: 機動戦士ガンダム 鉄血のオルフェンズ ウルズハント
+  // https://annict.com/works/11524
+  { annict_id: 11524 },
 ]
