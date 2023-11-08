@@ -30242,7 +30242,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] TV: うちの会社の小さい先輩の話
   // https://annict.com/works/10583
   { annict_id: 10583, mal_id: 53379, syobocal_tid: 6733 },
-  // [null-null] TV: 時々ボソッとロシア語でデレる隣のアーリャさん
+  // [2024-SPRING] TV: 時々ボソッとロシア語でデレる隣のアーリャさん
   // https://annict.com/works/10584
   { annict_id: 10584, mal_id: 54744 },
   // [2023-AUTUMN] TV: Dr.STONE NEW WORLD 第2クール
