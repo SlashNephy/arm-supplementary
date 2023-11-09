@@ -31232,7 +31232,7 @@ export const annict: ArmEntry[] = [
   // [2012-AUTUMN] OVA: THE IDOLM@STER SHINY FESTA
   // https://annict.com/works/10914
   { annict_id: 10914, mal_id: 14835 },
-  // [2024-null] TV: 花野井くんと恋の病
+  // [2024-SPRING] TV: 花野井くんと恋の病
   // https://annict.com/works/10915
   { annict_id: 10915, mal_id: 55597 },
   // [2023-SUMMER] TV: 女体化した僕を騎士様達がねらってます 2nd
