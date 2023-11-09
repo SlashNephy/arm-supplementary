@@ -29513,7 +29513,7 @@ export const annict: ArmEntry[] = [
   // [2024-null] TV: 声優ラジオのウラオモテ
   // https://annict.com/works/10339
   { annict_id: 10339, mal_id: 53912 },
-  // [null-null] OTHER: 地縛少年花子くん 新作
+  // [null-null] TV: 地縛少年花子くん 第2期
   // https://annict.com/works/10340
   { annict_id: 10340, mal_id: 53924 },
   // [2023-WINTER] MOVIE: 「鬼滅の刃」上弦集結、そして刀鍛冶の里へ
@@ -30860,7 +30860,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] TV: カードファイト!! ヴァンガード will+Dress Season3
   // https://annict.com/works/10790
   { annict_id: 10790, mal_id: 52079, syobocal_tid: 6759 },
-  // [2024-null] TV: 転生貴族、鑑定スキルで成り上がる
+  // [2024-SPRING] TV: 転生貴族、鑑定スキルで成り上がる
   // https://annict.com/works/10791
   { annict_id: 10791, mal_id: 55265 },
   // [2023-AUTUMN] WEB: ガンダムビルドメタバース
@@ -33059,4 +33059,10 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 機動戦士ガンダム 鉄血のオルフェンズ ウルズハント
   // https://annict.com/works/11524
   { annict_id: 11524 },
+  // [2024-null] TV: 菜なれ花なれ
+  // https://annict.com/works/11525
+  { annict_id: 11525, mal_id: 57099 },
+  // [2024-null] TV: THE NEW GATE
+  // https://annict.com/works/11526
+  { annict_id: 11526, mal_id: 57100 },
 ]
