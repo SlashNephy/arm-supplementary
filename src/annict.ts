@@ -29702,7 +29702,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] TV: 機動戦士ガンダムNT(ナラティブ) TVエディション
   // https://annict.com/works/10402
   { annict_id: 10402, syobocal_tid: 5133 },
-  // [2024-WINTER] TV: ささやくように恋を唄う
+  // [2024-SPRING] TV: ささやくように恋を唄う
   // https://annict.com/works/10403
   { annict_id: 10403, mal_id: 54233 },
   // [null-null] OTHER: メイドインアビス 烈日の黄金郷 続編
