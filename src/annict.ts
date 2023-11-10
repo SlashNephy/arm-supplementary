@@ -30298,7 +30298,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10601, mal_id: 54738, syobocal_tid: 6685 },
   // [2023-AUTUMN] WEB: 転生したらスライムだった件 コリウスの夢
   // https://annict.com/works/10602
-  { annict_id: 10602, mal_id: 54565 },
+  { annict_id: 10602, mal_id: 54565, syobocal_tid: 6880 },
   // [2023-AUTUMN] MOVIE: 大雪海のカイナ ほしのけんじゃ
   // https://annict.com/works/10603
   { annict_id: 10603, mal_id: 54122 },
@@ -33067,5 +33067,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 11526, mal_id: 57100 },
   // [2024-AUTUMN] TV: 放課後少年花子くん 続編
   // https://annict.com/works/11527
-  { annict_id: 11527 },
+  { annict_id: 11527, mal_id: 57102 },
 ]
