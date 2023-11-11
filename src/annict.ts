@@ -33077,4 +33077,19 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] WEB: ぼくのデーモン
   // https://annict.com/works/11530
   { annict_id: 11530 },
+  // [2023-AUTUMN] WEB: レオ
+  // https://annict.com/works/11531
+  { annict_id: 11531 },
+  // [2021-SPRING] WEB: ジュラシック・ワールド/サバイバル・キャンプ シーズン3
+  // https://annict.com/works/11532
+  { annict_id: 11532 },
+  // [2021-AUTUMN] WEB: ジュラシック・ワールド/サバイバル・キャンプ シーズン4
+  // https://annict.com/works/11533
+  { annict_id: 11533 },
+  // [2022-SUMMER] WEB: ジュラシック・ワールド/サバイバル・キャンプ シーズン5
+  // https://annict.com/works/11534
+  { annict_id: 11534 },
+  // [2024-null] WEB: ジュラシック･ワールド/サバイバル・ミッション
+  // https://annict.com/works/11535
+  { annict_id: 11535 },
 ]
