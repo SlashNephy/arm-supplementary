@@ -5048,7 +5048,7 @@ export const annict: ArmEntry[] = [
   // [2006-WINTER] TV: パピヨンローゼ New Season
   // https://annict.com/works/1685
   { annict_id: 1685, mal_id: 3112, syobocal_tid: 735 },
-  // [1989-AUTUMN] TV: パラソルへんべえ
+  // [1989-AUTUMN] TV: パラソルヘンべえ
   // https://annict.com/works/1686
   { annict_id: 1686, mal_id: 7605 },
   // [2001-SPRING] TV: パラッパラッパー
