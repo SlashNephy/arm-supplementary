@@ -26060,7 +26060,7 @@ export const annict: ArmEntry[] = [
   // [2022-SUMMER] MOVIE: ONE PIECE FILM RED
   // https://annict.com/works/9121
   { annict_id: 9121, mal_id: 50410 },
-  // [null-null] WEB: Arcane (アーケイン) シーズン2
+  // [2024-AUTUMN] WEB: Arcane (アーケイン) シーズン2
   // https://annict.com/works/9122
   { annict_id: 9122 },
   // [2022-AUTUMN] TV: 僕のヒーローアカデミア (第6期)
@@ -33068,4 +33068,13 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: 放課後少年花子くん 続編
   // https://annict.com/works/11527
   { annict_id: 11527, mal_id: 57102 },
+  // [null-null] TV: 無職の英雄 別にスキルなんか要らなかったんだが
+  // https://annict.com/works/11528
+  { annict_id: 11528, mal_id: 56854 },
+  // [2024-null] WEB: ULTRAMAN: RISING
+  // https://annict.com/works/11529
+  { annict_id: 11529 },
+  // [2023-AUTUMN] WEB: ぼくのデーモン
+  // https://annict.com/works/11530
+  { annict_id: 11530 },
 ]
