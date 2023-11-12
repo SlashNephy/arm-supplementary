@@ -33092,4 +33092,10 @@ export const annict: ArmEntry[] = [
   // [2024-null] WEB: ジュラシック･ワールド/サバイバル・ミッション
   // https://annict.com/works/11535
   { annict_id: 11535 },
+  // [null-null] TV: 悶えてよ、アダムくん
+  // https://annict.com/works/11536
+  { annict_id: 11536 },
+  // [null-null] OTHER: 魔法使いの約束
+  // https://annict.com/works/11537
+  { annict_id: 11537 },
 ]
