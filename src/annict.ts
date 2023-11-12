@@ -25753,7 +25753,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9018, mal_id: 50185, syobocal_tid: 6235 },
   // [2021-AUTUMN] OVA: うまよん 新作ショートアニメ
   // https://annict.com/works/9019
-  { annict_id: 9019 },
+  { annict_id: 9019, mal_id: 52751 },
   // [2021-AUTUMN] WEB: ディスカバー・ビースト 〜愉快で残酷な野生のヒミツ〜
   // https://annict.com/works/9020
   { annict_id: 9020 },
@@ -29272,7 +29272,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10258, mal_id: 53913 },
   // [2024-null] TV: 夜桜さんちの大作戦
   // https://annict.com/works/10259
-  { annict_id: 10259 },
+  { annict_id: 10259, mal_id: 53865 },
   // [2023-AUTUMN] TV: 鴨乃橋ロンの禁断推理
   // https://annict.com/works/10260
   { annict_id: 10260, mal_id: 53879, syobocal_tid: 6840 },

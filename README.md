@@ -43,12 +43,12 @@ Currently, arm-supplementary has 37144 entries (+7557).
 | Service                                     | arm-supplementary | arm / anime-offline-database |
 | :------------------------------------------ | :---------------: | :--------------------------: |
 | [Annict](https://annict.com)                |   11033 (+497)    |            10536             |
-| [AniList](https://anilist.co)               |   21648 (+2479)   |            19169             |
-| [MyAnimeList](https://myanimelist.net)      |   26185 (+836)    |            25349             |
+| [AniList](https://anilist.co)               |   21650 (+2481)   |            19169             |
+| [MyAnimeList](https://myanimelist.net)      |   26187 (+838)    |            25349             |
 | [しょぼいカレンダー](https://cal.syoboi.jp) |    5787 (+89)     |             5698             |
-| [AniDB](https://anidb.net)                  |   13213 (+224)    |            12989             |
-| [Anime-Planet](https://anime-planet.com)    |   23541 (+269)    |            23272             |
-| [aniSearch](https://anisearch.com)          |   18441 (+254)    |            18187             |
-| [Kitsu](https://kitsu.io)                   |   19962 (+270)    |            19692             |
-| [LiveChart.me](https://livechart.me)        |   11184 (+205)    |            10979             |
-| [Anime Notifier](https://notify.moe)        |   16293 (+267)    |            16026             |
+| [AniDB](https://anidb.net)                  |   13214 (+225)    |            12989             |
+| [Anime-Planet](https://anime-planet.com)    |   23543 (+271)    |            23272             |
+| [aniSearch](https://anisearch.com)          |   18443 (+256)    |            18187             |
+| [Kitsu](https://kitsu.io)                   |   19963 (+271)    |            19692             |
+| [LiveChart.me](https://livechart.me)        |   11185 (+206)    |            10979             |
+| [Anime Notifier](https://notify.moe)        |   16294 (+268)    |            16026             |
