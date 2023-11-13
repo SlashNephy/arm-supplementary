@@ -33104,4 +33104,37 @@ export const annict: ArmEntry[] = [
   // [null-null] WEB: Terminator: The Anime Series
   // https://annict.com/works/11539
   { annict_id: 11539 },
+  // [1981-SUMMER] MOVIE: Dr.スランプ アラレちゃん ハロー!不思議島
+  // https://annict.com/works/11540
+  { annict_id: 11540, mal_id: 7666 },
+  // [1982-SUMMER] MOVIE: Dr.SLUMP ほよよ! 宇宙大冒険
+  // https://annict.com/works/11541
+  { annict_id: 11541, mal_id: 8546 },
+  // [1983-WINTER] MOVIE: Dr.スランプ アラレちゃん ほよよ!世界一周大レース
+  // https://annict.com/works/11542
+  { annict_id: 11542, mal_id: 7667 },
+  // [1984-AUTUMN] MOVIE: Dr.スランプ アラレちゃん ほよよ!ナナバ城の秘宝
+  // https://annict.com/works/11543
+  { annict_id: 11543, mal_id: 6028 },
+  // [1985-SUMMER] MOVIE: Dr.スランプ アラレちゃん ほよよ!夢の都メカポリス
+  // https://annict.com/works/11544
+  { annict_id: 11544, mal_id: 8547 },
+  // [1993-WINTER] MOVIE: Dr.スランプ アラレちゃん んちゃ!ペンギン村はハレのち晴れ
+  // https://annict.com/works/11545
+  { annict_id: 11545, mal_id: 7816 },
+  // [1993-SUMMER] MOVIE: Dr.スランプ アラレちゃん んちゃ!ペンギン村より愛をこめて
+  // https://annict.com/works/11546
+  { annict_id: 11546, mal_id: 7157 },
+  // [1994-WINTER] MOVIE: Dr.スランプ アラレちゃん ほよよ!!助けたサメに連れられて…
+  // https://annict.com/works/11547
+  { annict_id: 11547, mal_id: 8548 },
+  // [1994-SUMMER] MOVIE: Dr.スランプ アラレちゃん んちゃ!!わくわくハートの夏休み
+  // https://annict.com/works/11548
+  { annict_id: 11548, mal_id: 7158 },
+  // [1999-WINTER] MOVIE: ドクタースランプ アラレのびっくりバーン
+  // https://annict.com/works/11549
+  { annict_id: 11549, mal_id: 8550 },
+  // [2007-WINTER] MOVIE: Dr.SLUMP Dr.マシリト アバレちゃん
+  // https://annict.com/works/11550
+  { annict_id: 11550, mal_id: 8551 },
 ]
