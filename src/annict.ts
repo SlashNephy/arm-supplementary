@@ -33137,4 +33137,10 @@ export const annict: ArmEntry[] = [
   // [2007-WINTER] MOVIE: Dr.SLUMP Dr.マシリト アバレちゃん
   // https://annict.com/works/11550
   { annict_id: 11550, mal_id: 8551 },
+  // [2010-WINTER] TV: ちーすい丸
+  // https://annict.com/works/11551
+  { annict_id: 11551, mal_id: 8025 },
+  // [2010-SUMMER] TV: HARD TALK CAFE
+  // https://annict.com/works/11552
+  { annict_id: 11552 },
 ]
