@@ -33194,4 +33194,13 @@ export const annict: ArmEntry[] = [
   // [2011-AUTUMN] TV: HIGH SCORE
   // https://annict.com/works/11569
   { annict_id: 11569, mal_id: 10958, syobocal_tid: 2381 },
+  // [2023-AUTUMN] TV: ゴルゴ13セレクション
+  // https://annict.com/works/11570
+  { annict_id: 11570 },
+  // [1971-SPRING] TV: ゴルゴ13 (1971)
+  // https://annict.com/works/11571
+  { annict_id: 11571 },
+  // [1998-SPRING] OVA: ゴルゴ13〜QUEEN BEE〜
+  // https://annict.com/works/11572
+  { annict_id: 11572, mal_id: 1761 },
 ]
