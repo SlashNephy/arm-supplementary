@@ -33203,4 +33203,7 @@ export const annict: ArmEntry[] = [
   // [1998-SPRING] OVA: ゴルゴ13〜QUEEN BEE〜
   // https://annict.com/works/11572
   { annict_id: 11572, mal_id: 1761 },
+  // [2024-null] WEB: 聖闘士星矢: Knights of the Zodiac バトル・サンクチュアリ Part 2
+  // https://annict.com/works/11573
+  { annict_id: 11573 },
 ]
