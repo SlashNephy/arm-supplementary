@@ -5113,7 +5113,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1706, mal_id: 495, syobocal_tid: 5502 },
   // [2007-SPRING] TV: 爆丸―バトルブローラーズ―
   // https://annict.com/works/1707
-  { annict_id: 1707, syobocal_tid: 1161 },
+  { annict_id: 1707, mal_id: 2156, syobocal_tid: 1161 },
   // [2010-WINTER] TV: 爆丸バトルブローラーズ ニューヴェストロイア
   // https://annict.com/works/1708
   { annict_id: 1708, mal_id: 5337, syobocal_tid: 1891 },
@@ -15098,7 +15098,7 @@ export const annict: ArmEntry[] = [
   // [2016-AUTUMN] TV: うさぎのモフィ(第4シーズン)
   // https://annict.com/works/5060
   { annict_id: 5060, syobocal_tid: 4391 },
-  // [2011-AUTUMN] TV: デュエル・マスターズ ビクトリー
+  // [2011-SPRING] TV: デュエル・マスターズ ビクトリー
   // https://annict.com/works/5061
   { annict_id: 5061, mal_id: 10524, syobocal_tid: 2298 },
   // [2017-SPRING] TV: サクラクエスト
@@ -33143,4 +33143,22 @@ export const annict: ArmEntry[] = [
   // [2010-SUMMER] TV: HARD TALK CAFE
   // https://annict.com/works/11552
   { annict_id: 11552 },
+  // [2011-WINTER] TV: DD北斗之拳
+  // https://annict.com/works/11553
+  { annict_id: 11553, mal_id: 10177, syobocal_tid: 2101 },
+  // [2010-SUMMER] TV: 学校のコワイうわさ 新・花子さんがきた!!
+  // https://annict.com/works/11554
+  { annict_id: 11554, mal_id: 9345 },
+  // [2011-SPRING] TV: 爆丸 バトルブローラーズ ガンダリアンインベーダーズ
+  // https://annict.com/works/11555
+  { annict_id: 11555, mal_id: 7334, syobocal_tid: 2168 },
+  // [2012-SPRING] TV: リボンちゃん
+  // https://annict.com/works/11556
+  { annict_id: 11556, mal_id: 13459 },
+  // [2011-SPRING] TV: ホッカイラジャーズ野球少年団
+  // https://annict.com/works/11557
+  { annict_id: 11557 },
+  // [2011-SPRING] TV: 47都道府犬
+  // https://annict.com/works/11558
+  { annict_id: 11558, mal_id: 27589 },
 ]
