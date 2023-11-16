@@ -3611,7 +3611,7 @@ export const annict: ArmEntry[] = [
   // [2012-SUMMER] TV: だから僕は、Hができない。
   // https://annict.com/works/1205
   { annict_id: 1205, mal_id: 12549, syobocal_tid: 2575 },
-  // [2011-SPRING] TV: だぶるじぇい
+  // [2011-SUMMER] TV: だぶるじぇい
   // https://annict.com/works/1206
   { annict_id: 1206, mal_id: 10838 },
   // [2005-WINTER] TV: だめっこどうぶつ
@@ -33161,4 +33161,37 @@ export const annict: ArmEntry[] = [
   // [2011-SPRING] TV: 47都道府犬
   // https://annict.com/works/11558
   { annict_id: 11558, mal_id: 27589 },
+  // [2011-SPRING] TV: おはよう忍者隊ガッチャマン
+  // https://annict.com/works/11559
+  { annict_id: 11559, mal_id: 31517 },
+  // [2013-SPRING] TV: マジンガーZIP!
+  // https://annict.com/works/11560
+  { annict_id: 11560, mal_id: 18365 },
+  // [2014-SPRING] TV: おはようハクション大魔王
+  // https://annict.com/works/11561
+  { annict_id: 11561, mal_id: 38363 },
+  // [2015-SPRING] TV: グッド・モーニング!!!ドロンジョ
+  // https://annict.com/works/11562
+  { annict_id: 11562, mal_id: 31699 },
+  // [2016-SPRING] TV: 朝だよ!貝社員
+  // https://annict.com/works/11563
+  { annict_id: 11563, mal_id: 33044 },
+  // [2019-SUMMER] WEB: デラックスだよ!貝社員
+  // https://annict.com/works/11564
+  { annict_id: 11564, mal_id: 40141 },
+  // [2011-SUMMER] TV: その時、シマコーが動いた!
+  // https://annict.com/works/11565
+  { annict_id: 11565, mal_id: 11609 },
+  // [2011-SUMMER] TV: プ〜ねこ小劇場
+  // https://annict.com/works/11566
+  { annict_id: 11566, mal_id: 11589 },
+  // [2011-AUTUMN] TV: ズーブルズ!
+  // https://annict.com/works/11567
+  { annict_id: 11567, mal_id: 13167, syobocal_tid: 2440 },
+  // [2011-AUTUMN] TV: まみむめもんち
+  // https://annict.com/works/11568
+  { annict_id: 11568 },
+  // [2011-AUTUMN] TV: HIGH SCORE
+  // https://annict.com/works/11569
+  { annict_id: 11569, mal_id: 10958, syobocal_tid: 2381 },
 ]
