@@ -27761,7 +27761,7 @@ export const annict: ArmEntry[] = [
   // [2024-null] TV: 義妹生活
   // https://annict.com/works/9754
   { annict_id: 9754, mal_id: 52481 },
-  // [2024-null] TV: 佐々木とピーちゃん
+  // [2024-WINTER] TV: 佐々木とピーちゃん
   // https://annict.com/works/9755
   { annict_id: 9755, mal_id: 52482 },
   // [2023-WINTER] TV: 老後に備えて異世界で8万枚の金貨を貯めます
