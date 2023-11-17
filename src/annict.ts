@@ -33230,4 +33230,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] WEB: マイリトルポニー: キューティマークに夢のせて
   // https://annict.com/works/11581
   { annict_id: 11581 },
+  // [2024-null] WEB: GREAT PRETENDER razbliuto
+  // https://annict.com/works/11582
+  { annict_id: 11582, mal_id: 57184 },
 ]
