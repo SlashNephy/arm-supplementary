@@ -33206,4 +33206,28 @@ export const annict: ArmEntry[] = [
   // [2024-null] WEB: 聖闘士星矢: Knights of the Zodiac バトル・サンクチュアリ Part 2
   // https://annict.com/works/11573
   { annict_id: 11573 },
+  // [2015-AUTUMN] WEB: マイリトルポニー: エクエストリア・ガールズ
+  // https://annict.com/works/11574
+  { annict_id: 11574 },
+  // [2015-AUTUMN] WEB: マイリトルポニー: エクエストリア・ガールズ - 虹の冒険
+  // https://annict.com/works/11575
+  { annict_id: 11575 },
+  // [2015-AUTUMN] WEB: マイリトルポニー: エクエストリア・ガールズ - フレンドシップ・ゲーム
+  // https://annict.com/works/11576
+  { annict_id: 11576 },
+  // [2017-WINTER] WEB: マイリトルポニー: エクエストリア・ガールズ - エバーフリーの伝説
+  // https://annict.com/works/11577
+  { annict_id: 11577 },
+  // [2019-AUTUMN] TV: マイリトルポニー 〜最高のプレゼント〜
+  // https://annict.com/works/11578
+  { annict_id: 11578 },
+  // [2019-AUTUMN] TV: マイリトルポニー〜虹の終わりの町〜
+  // https://annict.com/works/11579
+  { annict_id: 11579 },
+  // [2022-SPRING] WEB: マイリトルポニー: おはなし聞かせて
+  // https://annict.com/works/11580
+  { annict_id: 11580 },
+  // [2022-AUTUMN] WEB: マイリトルポニー: キューティマークに夢のせて
+  // https://annict.com/works/11581
+  { annict_id: 11581 },
 ]
