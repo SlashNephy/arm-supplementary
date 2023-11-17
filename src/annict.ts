@@ -33233,4 +33233,7 @@ export const annict: ArmEntry[] = [
   // [2024-null] WEB: GREAT PRETENDER razbliuto
   // https://annict.com/works/11582
   { annict_id: 11582, mal_id: 57184 },
+  // [null-null] TV: デブとラブと過ちと！
+  // https://annict.com/works/11583
+  { annict_id: 11583, mal_id: 57189 },
 ]
