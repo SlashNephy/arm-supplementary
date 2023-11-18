@@ -27617,9 +27617,9 @@ export const annict: ArmEntry[] = [
   // [1998-null] TV: メン・イン・ブラック シーズン2
   // https://annict.com/works/9705
   { annict_id: 9705 },
-  // [2023-null] OTHER: Garden of Remembrance
+  // [2024-null] OTHER: Garden of Remembrance
   // https://annict.com/works/9706
-  { annict_id: 9706 },
+  { annict_id: 9706, mal_id: 52085 },
   // [2011-WINTER] TV: xxxHOLiC・籠 あだゆめ
   // https://annict.com/works/9707
   { annict_id: 9707, mal_id: 6864 },
