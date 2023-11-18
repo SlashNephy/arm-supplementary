@@ -30362,7 +30362,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] TV: ホリミヤ -piece-
   // https://annict.com/works/10623
   { annict_id: 10623, mal_id: 54856, syobocal_tid: 6749 },
-  // [null-null] TV: 先輩はおとこのこ
+  // [2024-null] TV: 先輩はおとこのこ
   // https://annict.com/works/10624
   { annict_id: 10624, mal_id: 54855 },
   // [2023-SPRING] WEB: ヤキトリ
@@ -33236,4 +33236,10 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: デブとラブと過ちと！
   // https://annict.com/works/11583
   { annict_id: 11583, mal_id: 57189 },
+  // [null-null] TV: かつて魔法少女と悪は敵対していた。
+  // https://annict.com/works/11584
+  { annict_id: 11584 },
+  // [2024-SUMMER] TV: 神之塔 -Tower of God- 第2期
+  // https://annict.com/works/11585
+  { annict_id: 11585, mal_id: 52635 },
 ]
