@@ -26459,7 +26459,7 @@ export const annict: ArmEntry[] = [
   // [2024-null] TV: 神は遊戯に飢えている。
   // https://annict.com/works/9286
   { annict_id: 9286, mal_id: 50869 },
-  // [2024-SPRING] MOVIE: BLOODY ESCAPE -地獄の逃走劇-
+  // [2024-WINTER] MOVIE: BLOODY ESCAPE -地獄の逃走劇-
   // https://annict.com/works/9287
   { annict_id: 9287, mal_id: 50863 },
   // [2023-SPRING] TV: アリス・ギア・アイギス Expansion
