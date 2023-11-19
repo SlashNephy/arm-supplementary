@@ -33257,4 +33257,7 @@ export const annict: ArmEntry[] = [
   // [2021-SPRING] WEB: クロージャの機密ファイル
   // https://annict.com/works/11590
   { annict_id: 11590, mal_id: 48994 },
+  // [2022-AUTUMN] WEB: リー探偵事務所
+  // https://annict.com/works/11591
+  { annict_id: 11591, mal_id: 53852 },
 ]
