@@ -33242,4 +33242,13 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] TV: 神之塔 -Tower of God- 第2期
   // https://annict.com/works/11585
   { annict_id: 11585, mal_id: 52635 },
+  // [null-null] TV: アオのハコ
+  // https://annict.com/works/11586
+  { annict_id: 11586 },
+  // [2023-AUTUMN] WEB: ラプソディ
+  // https://annict.com/works/11587
+  { annict_id: 11587 },
+  // [2023-SPRING] WEB: ケーちゃんの絵日記 ハガネガニと渦貝
+  // https://annict.com/works/11588
+  { annict_id: 11588 },
 ]
