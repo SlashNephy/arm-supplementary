@@ -5978,7 +5978,7 @@ export const annict: ArmEntry[] = [
   // [2009-SPRING] TV: 亡念のザムド
   // https://annict.com/works/1995
   { annict_id: 1995, mal_id: 4177, syobocal_tid: 1507 },
-  // [2012-WINTER] TV: 僕の妹は「大阪おかん」
+  // [2012-AUTUMN] TV: 僕の妹は「大阪おかん」
   // https://annict.com/works/1996
   { annict_id: 1996, mal_id: 16405, syobocal_tid: 2815 },
   // [2011-AUTUMN] TV: 僕は友達が少ない
@@ -33275,4 +33275,19 @@ export const annict: ArmEntry[] = [
   // [2012-SPRING] TV: くびれ3姉妹
   // https://annict.com/works/11596
   { annict_id: 11596, mal_id: 24797 },
+  // [2012-SPRING] TV: 超ロボット生命体 トランスフォーマー プライム
+  // https://annict.com/works/11597
+  { annict_id: 11597, syobocal_tid: 2487 },
+  // [2012-SPRING] TV: スイッチOH!くん
+  // https://annict.com/works/11598
+  { annict_id: 11598 },
+  // [2012-WINTER] WEB: こいけん! 〜私たちアニメになっちゃった!〜
+  // https://annict.com/works/11599
+  { annict_id: 11599, mal_id: 12237, syobocal_tid: 2621 },
+  // [2012-SUMMER] TV: 『スッキリ!!×映画ひみつのアッコちゃん』〜テクマクマヤコン テクマクマヤコン ステキなOLにな〜れ!〜
+  // https://annict.com/works/11600
+  { annict_id: 11600 },
+  // [2012-AUTUMN] TV: ロンゴマックス
+  // https://annict.com/works/11601
+  { annict_id: 11601 },
 ]
