@@ -33097,7 +33097,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11536 },
   // [null-null] OTHER: 魔法使いの約束
   // https://annict.com/works/11537
-  { annict_id: 11537 },
+  { annict_id: 11537, mal_id: 57152 },
   // [null-null] TV: 孕むまで乱れいけ～身代わり花嫁と軍服の猛愛
   // https://annict.com/works/11538
   { annict_id: 11538 },
@@ -33238,13 +33238,13 @@ export const annict: ArmEntry[] = [
   { annict_id: 11583, mal_id: 57189 },
   // [null-null] TV: かつて魔法少女と悪は敵対していた。
   // https://annict.com/works/11584
-  { annict_id: 11584 },
+  { annict_id: 11584, mal_id: 57217 },
   // [2024-SUMMER] TV: 神之塔 -Tower of God- 第2期
   // https://annict.com/works/11585
   { annict_id: 11585, mal_id: 52635 },
   // [null-null] TV: アオのハコ
   // https://annict.com/works/11586
-  { annict_id: 11586 },
+  { annict_id: 11586, mal_id: 57181 },
   // [2023-AUTUMN] WEB: ラプソディ
   // https://annict.com/works/11587
   { annict_id: 11587 },
