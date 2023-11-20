@@ -33260,4 +33260,19 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] WEB: リー探偵事務所
   // https://annict.com/works/11591
   { annict_id: 11591, mal_id: 53852 },
+  // [2012-SPRING] TV: ぬっこ。
+  // https://annict.com/works/11592
+  { annict_id: 11592, mal_id: 22585 },
+  // [2012-SPRING] TV: パンダのたぷたぷ
+  // https://annict.com/works/11593
+  { annict_id: 11593, mal_id: 13463 },
+  // [2012-SPRING] TV: パブー&モジーズ
+  // https://annict.com/works/11594
+  { annict_id: 11594, mal_id: 13165, syobocal_tid: 2533 },
+  // [2012-SPRING] TV: ズモモとヌペペ
+  // https://annict.com/works/11595
+  { annict_id: 11595, mal_id: 13455, syobocal_tid: 2525 },
+  // [2012-SPRING] TV: くびれ3姉妹
+  // https://annict.com/works/11596
+  { annict_id: 11596, mal_id: 24797 },
 ]
