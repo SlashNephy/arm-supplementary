@@ -33290,4 +33290,7 @@ export const annict: ArmEntry[] = [
   // [2012-AUTUMN] TV: ロンゴマックス
   // https://annict.com/works/11601
   { annict_id: 11601 },
+  // [2023-AUTUMN] WEB: Artiswitch Ruru's Episodes of Memories
+  // https://annict.com/works/11602
+  { annict_id: 11602, mal_id: 57229 },
 ]
