@@ -33296,4 +33296,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] OVA: RWBY Volume 9
   // https://annict.com/works/11603
   { annict_id: 11603 },
+  // [2024-WINTER] MOVIE: メカアマト MOVIE
+  // https://annict.com/works/11604
+  { annict_id: 11604 },
 ]
