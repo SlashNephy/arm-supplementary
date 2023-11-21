@@ -33293,4 +33293,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] WEB: Artiswitch Ruru's Episodes of Memories
   // https://annict.com/works/11602
   { annict_id: 11602, mal_id: 57229 },
+  // [2023-AUTUMN] OVA: RWBY Volume 9
+  // https://annict.com/works/11603
+  { annict_id: 11603 },
 ]
