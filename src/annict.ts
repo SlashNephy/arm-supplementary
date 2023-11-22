@@ -9647,7 +9647,7 @@ export const annict: ArmEntry[] = [
   // [2013-SUMMER] MOVIE: キャプテンハーロック -SPACE PIRATE CAPTAIN HARLOCK-
   // https://annict.com/works/3225
   { annict_id: 3225, mal_id: 17269 },
-  // [1977-SUMMER] MOVIE: キャンディ・キャンディ (劇場版)
+  // [1992-SPRING] MOVIE: キャンディ・キャンディ (劇場版)
   // https://annict.com/works/3226
   { annict_id: 3226, mal_id: 723 },
   // [2000-SPRING] MOVIE: ギブリーズ
@@ -33311,4 +33311,28 @@ export const annict: ArmEntry[] = [
   // [1970-WINTER] MOVIE: チュウチュウバンバン
   // https://annict.com/works/11608
   { annict_id: 11608, mal_id: 24927 },
+  // [1978-WINTER] MOVIE: キャンディ・キャンディ 春の呼び声
+  // https://annict.com/works/11609
+  { annict_id: 11609, mal_id: 2801 },
+  // [1978-SUMMER] MOVIE: キャンディ・キャンディ キャンディ・キャンディの夏休み
+  // https://annict.com/works/11610
+  { annict_id: 11610, mal_id: 2802 },
+  // [1978-WINTER] MOVIE: 一休さんとやんちゃ姫
+  // https://annict.com/works/11611
+  { annict_id: 11611, mal_id: 21467 },
+  // [1981-WINTER] MOVIE: 一休さん 春だ！やんちゃ姫
+  // https://annict.com/works/11612
+  { annict_id: 11612, mal_id: 21475 },
+  // [1978-SUMMER] MOVIE: 宇宙海賊キャプテンハーロック アルカディア号の謎
+  // https://annict.com/works/11613
+  { annict_id: 11613, mal_id: 2470 },
+  // [1979-WINTER] MOVIE: SF西遊記スタージンガー(映画)
+  // https://annict.com/works/11614
+  { annict_id: 11614, mal_id: 17165 },
+  // [1980-WINTER] MOVIE: 花の子ルンルン こんにちわ桜の国
+  // https://annict.com/works/11615
+  { annict_id: 11615, mal_id: 9264 },
+  // [1980-SUMMER] MOVIE: 魔法少女ララベル 海が呼ぶ夏休み
+  // https://annict.com/works/11616
+  { annict_id: 11616, mal_id: 7807 },
 ]
