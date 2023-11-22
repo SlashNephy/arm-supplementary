@@ -26849,7 +26849,7 @@ export const annict: ArmEntry[] = [
   // [2022-SPRING] TV: ミラ
   // https://annict.com/works/9448
   { annict_id: 9448 },
-  // [2024-SPRING] MOVIE: デッドデッドデーモンズデデデデデストラクション 前編
+  // [2024-WINTER] MOVIE: デッドデッドデーモンズデデデデデストラクション 前編
   // https://annict.com/works/9449
   { annict_id: 9449, mal_id: 51358 },
   // [2002-AUTUMN] MOVIE: めいとこねこバス
