@@ -20186,7 +20186,7 @@ export const annict: ArmEntry[] = [
   // [2019-AUTUMN] MOVIE: ルパン三世 THE FIRST
   // https://annict.com/works/6807
   { annict_id: 6807, mal_id: 40082, syobocal_tid: 5803 },
-  // [1995-null] OVA: バイストン・ウェル物語 ガーゼィの翼
+  // [1996-SUMMER] OVA: バイストン・ウェル物語 ガーゼィの翼
   // https://annict.com/works/6808
   { annict_id: 6808, mal_id: 1657 },
   // [2019-SUMMER] MOVIE: ロング・ウェイ・ノース 地球のてっぺん
