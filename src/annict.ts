@@ -33299,4 +33299,16 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] MOVIE: メカアマト MOVIE
   // https://annict.com/works/11604
   { annict_id: 11604 },
+  // [1970-WINTER] MOVIE: やさしいライオン
+  // https://annict.com/works/11605
+  { annict_id: 11605, mal_id: 12789 },
+  // [1970-AUTUMN] TV: 進めや進めスモーキー!
+  // https://annict.com/works/11606
+  { annict_id: 11606 },
+  // [1969-WINTER] MOVIE: ひとりぼっち
+  // https://annict.com/works/11607
+  { annict_id: 11607, mal_id: 27375 },
+  // [1970-WINTER] MOVIE: チュウチュウバンバン
+  // https://annict.com/works/11608
+  { annict_id: 11608, mal_id: 24927 },
 ]
