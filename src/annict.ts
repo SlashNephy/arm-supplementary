@@ -33335,4 +33335,16 @@ export const annict: ArmEntry[] = [
   // [1980-SUMMER] MOVIE: 魔法少女ララベル 海が呼ぶ夏休み
   // https://annict.com/works/11616
   { annict_id: 11616, mal_id: 7807 },
+  // [1981-WINTER] MOVIE: 悪魔と姫ぎみ
+  // https://annict.com/works/11617
+  { annict_id: 11617, mal_id: 23779 },
+  // [1982-WINTER] MOVIE: 世界名作童話 アラジンと魔法のランプ
+  // https://annict.com/works/11618
+  { annict_id: 11618, mal_id: 3757 },
+  // [1982-WINTER] MOVIE: あさりちゃん 愛のメルヘン少女
+  // https://annict.com/works/11619
+  { annict_id: 11619, mal_id: 6630 },
+  // [1983-WINTER] MOVIE: まんがイソップ物語(映画)
+  // https://annict.com/works/11620
+  { annict_id: 11620, mal_id: 23763 },
 ]
