@@ -4214,7 +4214,7 @@ export const annict: ArmEntry[] = [
   // [2011-SPRING] TV: Dororonえん魔くん メ～ラめら
   // https://annict.com/works/1406
   { annict_id: 1406, mal_id: 9493, syobocal_tid: 2119 },
-  // [1997-AUTUMN] TV: Dr.スランプ
+  // [1997-AUTUMN] TV: ドクタースランプ
   // https://annict.com/works/1407
   { annict_id: 1407, mal_id: 3312 },
   // [1981-SPRING] TV: Dr.スランプ アラレちゃん
@@ -7271,7 +7271,7 @@ export const annict: ArmEntry[] = [
   // [2006-SPRING] TV: 錬金3級 まじかる？ぽか～ん
   // https://annict.com/works/2427
   { annict_id: 2427, mal_id: 941, syobocal_tid: 805 },
-  // [2008-SPRING] TV: RoboDz 風雲編
+  // [2008-SPRING] TV: ロボディーズ -RoboDz- 風雲編
   // https://annict.com/works/2428
   { annict_id: 2428, mal_id: 4547 },
   // [2012-AUTUMN] TV: ROBOTICS;NOTES
@@ -33401,4 +33401,19 @@ export const annict: ArmEntry[] = [
   // [1994-AUTUMN] MOVIE: おさわが!スーパーベビー
   // https://annict.com/works/11638
   { annict_id: 11638 },
+  // [1997-SUMMER] MOVIE: キューティーハニーF(映画)
+  // https://annict.com/works/11639
+  { annict_id: 11639, mal_id: 6496 },
+  // [1997-WINTER] MOVIE: 花より男子(映画)
+  // https://annict.com/works/11640
+  { annict_id: 11640, mal_id: 2071 },
+  // [1998-SPRING] MOVIE: 蓮如物語
+  // https://annict.com/works/11641
+  { annict_id: 11641, mal_id: 17721 },
+  // [2000-SUMMER] MOVIE: デジモンアドベンチャー3D デジモングランプリ!
+  // https://annict.com/works/11642
+  { annict_id: 11642, mal_id: 8490 },
+  // [2006-SUMMER] MOVIE: デジモンセイバーズ3D デジタルワールド危機イッパツ!
+  // https://annict.com/works/11643
+  { annict_id: 11643, mal_id: 8491 },
 ]
