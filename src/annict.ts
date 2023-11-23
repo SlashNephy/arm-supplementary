@@ -33419,4 +33419,28 @@ export const annict: ArmEntry[] = [
   // [2009-AUTUMN] MOVIE: きかんしゃ やえもん
   // https://annict.com/works/11644
   { annict_id: 11644, mal_id: 8492 },
+  // [1971-WINTER] MOVIE: 忍風カムイ外伝 月日貝の巻
+  // https://annict.com/works/11645
+  { annict_id: 11645, mal_id: 30965 },
+  // [1981-SPRING] TV: どんべえ物語
+  // https://annict.com/works/11646
+  { annict_id: 11646, mal_id: 11625 },
+  // [1991-null] OVA: 生命の科学ミクロパトロール
+  // https://annict.com/works/11647
+  { annict_id: 11647 },
+  // [1990-SUMMER] TV: コボちゃんスペシャル 秋がいっぱい!!
+  // https://annict.com/works/11648
+  { annict_id: 11648, mal_id: 39344 },
+  // [1991-SUMMER] TV: コボちゃんスペシャル 夢いっぱい!!
+  // https://annict.com/works/11649
+  { annict_id: 11649 },
+  // [1994-SUMMER] TV: コボちゃんスペシャル 祭りがいっぱい!
+  // https://annict.com/works/11650
+  { annict_id: 11650, mal_id: 39343 },
+  // [1998-SUMMER] TV: コボちゃんスペシャル 約束のマジックディ
+  // https://annict.com/works/11651
+  { annict_id: 11651 },
+  // [2009-AUTUMN] WEB: 家電クンフー
+  // https://annict.com/works/11652
+  { annict_id: 11652 },
 ]
