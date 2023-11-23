@@ -33416,4 +33416,7 @@ export const annict: ArmEntry[] = [
   // [2006-SUMMER] MOVIE: デジモンセイバーズ3D デジタルワールド危機イッパツ!
   // https://annict.com/works/11643
   { annict_id: 11643, mal_id: 8491 },
+  // [2009-AUTUMN] MOVIE: きかんしゃ やえもん
+  // https://annict.com/works/11644
+  { annict_id: 11644, mal_id: 8492 },
 ]
