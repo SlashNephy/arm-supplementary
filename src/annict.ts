@@ -33347,4 +33347,37 @@ export const annict: ArmEntry[] = [
   // [1983-WINTER] MOVIE: まんがイソップ物語(映画)
   // https://annict.com/works/11620
   { annict_id: 11620, mal_id: 23763 },
+  // [1984-SUMMER] MOVIE: パパママバイバイ
+  // https://annict.com/works/11621
+  { annict_id: 11621, mal_id: 28073 },
+  // [1984-SUMMER] MOVIE: The♥かぼちゃワイン ニタの愛情物語
+  // https://annict.com/works/11622
+  { annict_id: 11622, mal_id: 8524 },
+  // [1985-WINTER] MOVIE: Gu-Guガンモ(映画)
+  // https://annict.com/works/11623
+  { annict_id: 11623, mal_id: 19751 },
+  // [1985-SUMMER] OVA: とんがり帽子のメモル マリエルの宝石箱
+  // https://annict.com/works/11624
+  { annict_id: 11624, mal_id: 12657 },
+  // [1989-AUTUMN] OVA: トランスフォーマー ザ・ムービー
+  // https://annict.com/works/11625
+  { annict_id: 11625 },
+  // [1986-SUMMER] MOVIE: メイプルタウン物語(映画)
+  // https://annict.com/works/11626
+  { annict_id: 11626, mal_id: 34826 },
+  // [1996-AUTUMN] OVA: トランスフォーマー・ザ・リバース
+  // https://annict.com/works/11627
+  { annict_id: 11627 },
+  // [1988-SUMMER] MOVIE: 闘将!!拉麺男(映画)
+  // https://annict.com/works/11628
+  { annict_id: 11628, mal_id: 16728 },
+  // [1988-WINTER] MOVIE: レディレディ!!(映画)
+  // https://annict.com/works/11629
+  { annict_id: 11629, mal_id: 9773 },
+  // [1990-WINTER] MOVIE: 魔法使いサリー(映画)
+  // https://annict.com/works/11630
+  { annict_id: 11630, mal_id: 17719 },
+  // [1990-SUMMER] MOVIE: Pink みずドロボウあめドロボウ
+  // https://annict.com/works/11631
+  { annict_id: 11631, mal_id: 11659 },
 ]
