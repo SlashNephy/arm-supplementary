@@ -33380,4 +33380,25 @@ export const annict: ArmEntry[] = [
   // [1990-SUMMER] MOVIE: Pink みずドロボウあめドロボウ
   // https://annict.com/works/11631
   { annict_id: 11631, mal_id: 11659 },
+  // [1992-SPRING] MOVIE: きんぎょ注意報!(映画)
+  // https://annict.com/works/11632
+  { annict_id: 11632, mal_id: 3155 },
+  // [1986-SPRING] OVA: 戦え!超ロボット生命体トランスフォーマー スクランブルシティ発動編
+  // https://annict.com/works/11633
+  { annict_id: 11633, mal_id: 6800 },
+  // [1990-WINTER] OVA: G.I.ジョー ザ・ムービー
+  // https://annict.com/works/11634
+  { annict_id: 11634 },
+  // [1988-AUTUMN] OVA: Crying フリーマン
+  // https://annict.com/works/11635
+  { annict_id: 11635, mal_id: 1153 },
+  // [1990-SUMMER] OVA: トランスフォーマーZ
+  // https://annict.com/works/11636
+  { annict_id: 11636, mal_id: 6038 },
+  // [1994-AUTUMN] MOVIE: 蒼き伝説シュート!(映画)
+  // https://annict.com/works/11637
+  { annict_id: 11637, mal_id: 2682 },
+  // [1994-AUTUMN] MOVIE: おさわが!スーパーベビー
+  // https://annict.com/works/11638
+  { annict_id: 11638 },
 ]
