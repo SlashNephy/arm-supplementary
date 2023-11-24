@@ -33443,4 +33443,10 @@ export const annict: ArmEntry[] = [
   // [2009-AUTUMN] WEB: 家電クンフー
   // https://annict.com/works/11652
   { annict_id: 11652 },
+  // [1981-AUTUMN] MOVIE: マンザイ太閤記
+  // https://annict.com/works/11653
+  { annict_id: 11653, mal_id: 24683 },
+  // [1982-SUMMER] MOVIE: 巨人の星(1982年)
+  // https://annict.com/works/11654
+  { annict_id: 11654, mal_id: 17439 },
 ]
