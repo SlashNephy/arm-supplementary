@@ -55,9 +55,6 @@
         "files": "graphql/codegen.ts",
         "parserOptions": {
           "project": "./tsconfig.node.json"
-        },
-        "rules": {
-          "import/no-default-export": "off"
         }
       }
     ]
