@@ -71,6 +71,7 @@ jobs:
 
       - name: Push
         uses: stefanzweifel/git-auto-commit-action@v4
+        continue-on-error: true
         with:
           commit_message: '🪄 update database'
           commit_author: 'StarryBlueSky-bot <97773209+StarryBlueSky-bot@users.noreply.github.com>'
