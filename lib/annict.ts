@@ -32,7 +32,7 @@ export const fetchAllAnnictWorks = async (client: GraphQLClient): Promise<Annict
       result.push(...works)
     }
 
-    if (response.searchWorks?.pageInfo.hasNextPage === false) {
+    if (!response.searchWorks?.pageInfo.hasNextPage) {
       return result
     }
 
