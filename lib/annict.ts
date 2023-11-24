@@ -36,7 +36,7 @@ export const fetchAllAnnictWorks = async (client: GraphQLClient): Promise<Annict
       return result
     }
 
-    after = response.searchWorks?.pageInfo.endCursor ?? null
+    after = response.searchWorks.pageInfo.endCursor ?? null
 
     // eslint-disable-next-line no-await-in-loop
     await sleep(3000)
