@@ -33449,4 +33449,19 @@ export const annict: ArmEntry[] = [
   // [1982-SUMMER] MOVIE: 巨人の星(1982年)
   // https://annict.com/works/11654
   { annict_id: 11654, mal_id: 17439 },
+  // [1983-SPRING] MOVIE: プロ野球を10倍楽しく見る方法
+  // https://annict.com/works/11655
+  { annict_id: 11655, mal_id: 18339 },
+  // [1984-SPRING] MOVIE: プロ野球を10倍楽しく見る方法PART2
+  // https://annict.com/works/11656
+  { annict_id: 11656, mal_id: 18341 },
+  // [1986-AUTUMN] OVA: 活劇少女探偵団
+  // https://annict.com/works/11657
+  { annict_id: 11657, mal_id: 9491 },
+  // [1987-SUMMER] MOVIE: Bugってハニー メガロム少女舞4622
+  // https://annict.com/works/11658
+  { annict_id: 11658, mal_id: 31868 },
+  // [1989-WINTER] MOVIE: おねがい!サミアどん(映画)
+  // https://annict.com/works/11659
+  { annict_id: 11659 },
 ]
