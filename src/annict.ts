@@ -33464,4 +33464,13 @@ export const annict: ArmEntry[] = [
   // [1989-WINTER] MOVIE: おねがい!サミアどん(映画)
   // https://annict.com/works/11659
   { annict_id: 11659 },
+  // [1989-SUMMER] MOVIE: NEMO/ニモ
+  // https://annict.com/works/11660
+  { annict_id: 11660, mal_id: 2286 },
+  // [1989-AUTUMN] OVA: エースをねらえ! ファイナル・ステージ
+  // https://annict.com/works/11661
+  { annict_id: 11661, mal_id: 312 },
+  // [1990-WINTER] MOVIE: おじさん改造講座
+  // https://annict.com/works/11662
+  { annict_id: 11662, mal_id: 23865 },
 ]
