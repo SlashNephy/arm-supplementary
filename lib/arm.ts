@@ -1,4 +1,4 @@
-import { UserAgent } from './constant'
+import { UserAgent } from './constant.ts'
 
 export type ArmEntry = {
   mal_id?: number

@@ -2,8 +2,8 @@ import { writeFile } from 'fs/promises'
 import { join } from 'path'
 import { cwd } from 'process'
 
-import { createAnnictClient, fetchAllAnnictWorks } from '../lib/annict'
-import { env } from '../lib/env'
+import { createAnnictClient, fetchAllAnnictWorks } from '../lib/annict.ts'
+import { env } from '../lib/env.ts'
 
 import type { ArmEntry } from '../lib/arm'
 

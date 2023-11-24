@@ -1,8 +1,8 @@
 import { GraphQLClient } from 'graphql-request'
 
-import { UserAgent } from './constant'
-import { sleep } from './sleep'
-import { ListWorksDocument } from '../graphql/annict/generated/graphql'
+import { UserAgent } from './constant.ts'
+import { sleep } from './sleep.ts'
+import { ListWorksDocument } from '../graphql/annict/generated/graphql.ts'
 
 import type { ListWorksQuery } from '../graphql/annict/generated/graphql'
 
