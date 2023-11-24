@@ -2,7 +2,7 @@ import { writeFile } from 'fs/promises'
 import { join } from 'path'
 import { cwd } from 'process'
 
-import { mergeEntries } from '../src'
+import { mergeEntries } from '../src/index.ts'
 
 const generateJson = async () => {
   const entries = await mergeEntries()

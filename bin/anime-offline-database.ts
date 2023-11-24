@@ -2,7 +2,7 @@ import { writeFile } from 'fs/promises'
 import { join } from 'path'
 import { cwd } from 'process'
 
-import { fetchAnimeOfflineDatabase } from '../lib/anime-offline-database'
+import { fetchAnimeOfflineDatabase } from '../lib/anime-offline-database.ts'
 
 import type { ArmEntry } from '../lib/arm'
 

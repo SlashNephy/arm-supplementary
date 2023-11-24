@@ -4,9 +4,9 @@ import { cwd } from 'process'
 
 import markdown, { MarkdownCodeType, MarkdownTableBuilder, TableAlignType } from 'markdown-doc-builder'
 
-import { fetchArm } from '../lib/arm'
-import { env } from '../lib/env'
-import { animeOfflineDatabase } from '../src/anime-offline-database'
+import { fetchArm } from '../lib/arm.ts'
+import { env } from '../lib/env.ts'
+import { animeOfflineDatabase } from '../src/anime-offline-database.ts'
 
 import type { ArmEntry } from '../lib/arm'
 

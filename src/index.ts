@@ -1,7 +1,7 @@
-import { animeOfflineDatabase } from './anime-offline-database'
-import { annict } from './annict'
-import { fetchArm } from '../lib/arm'
-import { env } from '../lib/env'
+import { animeOfflineDatabase } from './anime-offline-database.ts'
+import { annict } from './annict.ts'
+import { fetchArm } from '../lib/arm.ts'
+import { env } from '../lib/env.ts'
 
 import type { ArmEntry } from '../lib/arm'
 
