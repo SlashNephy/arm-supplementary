@@ -33584,4 +33584,7 @@ export const annict: ArmEntry[] = [
   // [1983-WINTER] MOVIE: 忍者ハットリくん ニンニンふるさと大作戦の巻
   // https://annict.com/works/11699
   { annict_id: 11699, mal_id: 23647 },
+  // [1983-WINTER] MOVIE: パーマン バードマンがやって来た!!
+  // https://annict.com/works/11700
+  { annict_id: 11700, mal_id: 29613 },
 ]
