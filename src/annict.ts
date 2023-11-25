@@ -33509,4 +33509,7 @@ export const annict: ArmEntry[] = [
   // [1981-SUMMER] TV: カバ園長の動物園日記
   // https://annict.com/works/11674
   { annict_id: 11674, mal_id: 25057 },
+  // [1981-AUTUMN] TV: ぼくらマンガ家 トキワ荘物語
+  // https://annict.com/works/11675
+  { annict_id: 11675, mal_id: 20109 },
 ]
