@@ -3292,7 +3292,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1098, mal_id: 6974, syobocal_tid: 1966 },
   // [1999-AUTUMN] TV: 世紀末伝説～ワンダフル・タツノコランド
   // https://annict.com/works/1099
-  { annict_id: 1099 },
+  { annict_id: 1099, mal_id: 51144 },
   // [1963-SUMMER] TV: 仙人部落
   // https://annict.com/works/1100
   { annict_id: 1100, mal_id: 8041, syobocal_tid: 4836 },
@@ -33512,4 +33512,49 @@ export const annict: ArmEntry[] = [
   // [1981-AUTUMN] TV: ぼくらマンガ家 トキワ荘物語
   // https://annict.com/works/11675
   { annict_id: 11675, mal_id: 20109 },
+  // [1982-WINTER] TV: 吾輩は猫である
+  // https://annict.com/works/11676
+  { annict_id: 11676, mal_id: 20145 },
+  // [1982-SPRING] TV: 二死満塁
+  // https://annict.com/works/11677
+  { annict_id: 11677, mal_id: 23537 },
+  // [1982-SPRING] TV: 孫悟空シルクロードをとぶ!!
+  // https://annict.com/works/11678
+  { annict_id: 11678, mal_id: 24669 },
+  // [1982-SUMMER] TV: 十五少年漂流記
+  // https://annict.com/works/11679
+  { annict_id: 11679, mal_id: 5013 },
+  // [1982-AUTUMN] TV: 少年宮本武蔵 わんぱく二刀流
+  // https://annict.com/works/11680
+  { annict_id: 11680, mal_id: 57166 },
+  // [1983-WINTER] TV: 吾輩は犬である ドン松五郎の生活
+  // https://annict.com/works/11681
+  { annict_id: 11681, mal_id: 24447 },
+  // [1983-SPRING] TV: ナイン
+  // https://annict.com/works/11682
+  { annict_id: 11682, mal_id: 8953 },
+  // [1983-AUTUMN] TV: ナイン2 恋人宣言
+  // https://annict.com/works/11683
+  { annict_id: 11683, mal_id: 9243 },
+  // [1984-SUMMER] TV: ナイン 完結編
+  // https://annict.com/works/11684
+  { annict_id: 11684, mal_id: 9244 },
+  // [1983-SUMMER] MOVIE: ナイン オリジナル版
+  // https://annict.com/works/11685
+  { annict_id: 11685, mal_id: 9242 },
+  // [1983-SUMMER] TV: どくとるマンボウ&怪盗ジバコ 宇宙より愛をこめて
+  // https://annict.com/works/11686
+  { annict_id: 11686, mal_id: 23801 },
+  // [1986-WINTER] TV: 生徒諸君!心に緑のネッカチーフを
+  // https://annict.com/works/11687
+  { annict_id: 11687, mal_id: 17835 },
+  // [1999-AUTUMN] TV: 手塚治虫アカデミー大賞
+  // https://annict.com/works/11688
+  { annict_id: 11688, mal_id: 48853 },
+  // [1978-SUMMER] MOVIE: 科学忍者隊ガッチャマン(映画)
+  // https://annict.com/works/11689
+  { annict_id: 11689, mal_id: 3153 },
+  // [1984-SUMMER] MOVIE: 地球物語 テレパス2500
+  // https://annict.com/works/11690
+  { annict_id: 11690, mal_id: 8563 },
 ]
