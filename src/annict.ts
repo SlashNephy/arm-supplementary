@@ -10774,7 +10774,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3601, mal_id: 14175, syobocal_tid: 3460 },
   // [1992-SUMMER] MOVIE: 走れメロス
   // https://annict.com/works/3602
-  { annict_id: 3602, mal_id: 8554 },
+  { annict_id: 3602, mal_id: 4876 },
   // [2011-SUMMER] MOVIE: 鋼の錬金術師 嘆きの丘の聖なる星
   // https://annict.com/works/3603
   { annict_id: 3603, mal_id: 9135 },
@@ -33473,4 +33473,40 @@ export const annict: ArmEntry[] = [
   // [1990-WINTER] MOVIE: おじさん改造講座
   // https://annict.com/works/11662
   { annict_id: 11662, mal_id: 23865 },
+  // [1979-SPRING] TV: 怪盗ルパン 813の謎
+  // https://annict.com/works/11663
+  { annict_id: 11663, mal_id: 17403 },
+  // [1979-SPRING] TV: トンデモネズミ大活躍
+  // https://annict.com/works/11664
+  { annict_id: 11664, mal_id: 5272 },
+  // [1979-SUMMER] TV: ジャン・バルジャン物語
+  // https://annict.com/works/11665
+  { annict_id: 11665, mal_id: 5900 },
+  // [1979-AUTUMN] TV: あしながおじさん
+  // https://annict.com/works/11666
+  { annict_id: 11666, mal_id: 20587 },
+  // [1980-WINTER] TV: のどか森の動物大作戦
+  // https://annict.com/works/11667
+  { annict_id: 11667, mal_id: 9575 },
+  // [1980-SPRING] TV: 若草物語
+  // https://annict.com/works/11668
+  { annict_id: 11668, mal_id: 4991 },
+  // [1980-AUTUMN] TV: 二十四の瞳
+  // https://annict.com/works/11669
+  { annict_id: 11669, mal_id: 19917 },
+  // [1981-WINTER] TV: 荒野の呼び声 吠えろバック
+  // https://annict.com/works/11670
+  { annict_id: 11670, mal_id: 4074 },
+  // [1981-WINTER] TV: 走れメロス(1981年)
+  // https://annict.com/works/11671
+  { annict_id: 11671, mal_id: 8554 },
+  // [1981-SPRING] TV: ルパン対ホームズ
+  // https://annict.com/works/11672
+  { annict_id: 11672, mal_id: 10755 },
+  // [1981-SPRING] TV: 姿三四郎
+  // https://annict.com/works/11673
+  { annict_id: 11673, mal_id: 4440 },
+  // [1981-SUMMER] TV: カバ園長の動物園日記
+  // https://annict.com/works/11674
+  { annict_id: 11674, mal_id: 25057 },
 ]
