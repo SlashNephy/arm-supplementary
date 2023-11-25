@@ -11516,7 +11516,7 @@ export const annict: ArmEntry[] = [
   // [2008-SUMMER] TV: キクちゃんとオオカミ
   // https://annict.com/works/3850
   { annict_id: 3850, mal_id: 5192, syobocal_tid: 1459 },
-  // [2006-SUMMER] TV: 焼跡の，お菓子の木
+  // [2006-SUMMER] TV: 焼跡の、お菓子の木
   // https://annict.com/works/3851
   { annict_id: 3851, mal_id: 15815 },
   // [2005-SUMMER] TV: ぼくの防空壕
@@ -33617,4 +33617,10 @@ export const annict: ArmEntry[] = [
   // [1988-SUMMER] MOVIE: 県立海空高校野球部員山下たろーくん
   // https://annict.com/works/11710
   { annict_id: 11710, mal_id: 27837 },
+  // [1992-WINTER] MOVIE: 21エモン 宇宙いけ! 裸足のプリンセス
+  // https://annict.com/works/11711
+  { annict_id: 11711, mal_id: 6074 },
+  // [1992-WINTER] MOVIE: トキメキソーラーくるまによん
+  // https://annict.com/works/11712
+  { annict_id: 11712 },
 ]
