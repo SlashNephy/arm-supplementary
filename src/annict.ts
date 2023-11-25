@@ -33623,4 +33623,7 @@ export const annict: ArmEntry[] = [
   // [1992-WINTER] MOVIE: トキメキソーラーくるまによん
   // https://annict.com/works/11712
   { annict_id: 11712 },
+  // [2023-SUMMER] MOVIE: オオカミの家
+  // https://annict.com/works/11713
+  { annict_id: 11713 },
 ]
