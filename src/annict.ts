@@ -33587,4 +33587,10 @@ export const annict: ArmEntry[] = [
   // [1983-WINTER] MOVIE: パーマン バードマンがやって来た!!
   // https://annict.com/works/11700
   { annict_id: 11700, mal_id: 29613 },
+  // [1984-WINTER] MOVIE: 忍者ハットリくん+パーマン 超能力ウォーズ
+  // https://annict.com/works/11701
+  { annict_id: 11701, mal_id: 29235 },
+  // [1985-WINTER] TV: 忍者ハットリくん+パーマン 忍者怪獣ジッポウVSミラクル卵
+  // https://annict.com/works/11702
+  { annict_id: 11702, mal_id: 29233 },
 ]

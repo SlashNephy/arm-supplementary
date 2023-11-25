@@ -38,17 +38,17 @@ export const fetchArmEntries = async (): Promise<ArmEntry[]> => {
 
 ## Statistics
 
-Currently, arm-supplementary has 37386 entries (+7799).
+Currently, arm-supplementary has 37388 entries (+7801).
 
 | Service                                     | arm-supplementary | arm / anime-offline-database |
 | :------------------------------------------ | :---------------: | :--------------------------: |
-| [Annict](https://annict.com)                |   11196 (+660)    |            10536             |
+| [Annict](https://annict.com)                |   11198 (+662)    |            10536             |
 | [AniList](https://anilist.co)               |   21766 (+2597)   |            19169             |
-| [MyAnimeList](https://myanimelist.net)      |   26387 (+1038)   |            25349             |
+| [MyAnimeList](https://myanimelist.net)      |   26389 (+1040)   |            25349             |
 | [しょぼいカレンダー](https://cal.syoboi.jp) |    5795 (+97)     |             5698             |
-| [AniDB](https://anidb.net)                  |   13333 (+341)    |            12992             |
-| [Anime-Planet](https://anime-planet.com)    |   23669 (+389)    |            23280             |
-| [aniSearch](https://anisearch.com)          |   18567 (+373)    |            18194             |
-| [Kitsu](https://kitsu.io)                   |   20095 (+389)    |            19706             |
+| [AniDB](https://anidb.net)                  |   13335 (+343)    |            12992             |
+| [Anime-Planet](https://anime-planet.com)    |   23671 (+391)    |            23280             |
+| [aniSearch](https://anisearch.com)          |   18569 (+375)    |            18194             |
+| [Kitsu](https://kitsu.io)                   |   20097 (+391)    |            19706             |
 | [LiveChart.me](https://livechart.me)        |   11258 (+272)    |            10986             |
-| [Anime Notifier](https://notify.moe)        |   16413 (+386)    |            16027             |
+| [Anime Notifier](https://notify.moe)        |   16415 (+388)    |            16027             |
