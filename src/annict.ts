@@ -33569,4 +33569,13 @@ export const annict: ArmEntry[] = [
   // [1981-SUMMER] TV: 恐怖伝説 怪奇!フランケンシュタイン
   // https://annict.com/works/11694
   { annict_id: 11694, mal_id: 6978 },
+  // [1981-WINTER] MOVIE: 怪物くん 怪物ランドへの招待
+  // https://annict.com/works/11695
+  { annict_id: 11695, mal_id: 22977 },
+  // [1982-WINTER] MOVIE: 怪物くん デーモンの剣
+  // https://annict.com/works/11696
+  { annict_id: 11696, mal_id: 22975 },
+  // [1981-SUMMER] MOVIE: 21エモン 宇宙へいらっしゃい!
+  // https://annict.com/works/11697
+  { annict_id: 11697, mal_id: 6073 },
 ]
