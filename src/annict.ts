@@ -33557,4 +33557,16 @@ export const annict: ArmEntry[] = [
   // [1984-SUMMER] MOVIE: 地球物語 テレパス2500
   // https://annict.com/works/11690
   { annict_id: 11690, mal_id: 8563 },
+  // [1979-SUMMER] TV: あしたの勇者たち
+  // https://annict.com/works/11691
+  { annict_id: 11691, mal_id: 13947 },
+  // [1979-AUTUMN] TV: 大恐竜時代
+  // https://annict.com/works/11692
+  { annict_id: 11692, mal_id: 4907 },
+  // [1980-SUMMER] TV: 闇の帝王 吸血鬼ドラキュラ
+  // https://annict.com/works/11693
+  { annict_id: 11693, mal_id: 3801 },
+  // [1981-SUMMER] TV: 恐怖伝説 怪奇!フランケンシュタイン
+  // https://annict.com/works/11694
+  { annict_id: 11694, mal_id: 6978 },
 ]
