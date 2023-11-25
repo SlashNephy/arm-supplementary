@@ -30380,7 +30380,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: 帰還者の魔法は特別です
   // https://annict.com/works/10629
   { annict_id: 10629, mal_id: 54852, syobocal_tid: 6854 },
-  // [null-null] TV: リンカイ！
+  // [2024-SPRING] TV: リンカイ！
   // https://annict.com/works/10630
   { annict_id: 10630, mal_id: 54859 },
   // [2024-null] TV: 魔王2099
