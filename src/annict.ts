@@ -33578,4 +33578,10 @@ export const annict: ArmEntry[] = [
   // [1981-SUMMER] MOVIE: 21エモン 宇宙へいらっしゃい!
   // https://annict.com/works/11697
   { annict_id: 11697, mal_id: 6073 },
+  // [1982-WINTER] MOVIE: 忍者ハットリくん ニンニン忍法絵日記の巻
+  // https://annict.com/works/11698
+  { annict_id: 11698, mal_id: 21493 },
+  // [1983-WINTER] MOVIE: 忍者ハットリくん ニンニンふるさと大作戦の巻
+  // https://annict.com/works/11699
+  { annict_id: 11699, mal_id: 23647 },
 ]
