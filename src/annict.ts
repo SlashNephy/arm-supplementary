@@ -33593,4 +33593,28 @@ export const annict: ArmEntry[] = [
   // [1985-WINTER] TV: 忍者ハットリくん+パーマン 忍者怪獣ジッポウVSミラクル卵
   // https://annict.com/works/11702
   { annict_id: 11702, mal_id: 29233 },
+  // [1985-WINTER] TV: 三国志(1985年)
+  // https://annict.com/works/11703
+  { annict_id: 11703, mal_id: 8677 },
+  // [1986-SUMMER] TV: 三国志II 天翔ける英雄たち
+  // https://annict.com/works/11704
+  { annict_id: 11704, mal_id: 8678 },
+  // [1986-WINTER] MOVIE: オバケのQ太郎 とびだせ! バケバケ大作戦
+  // https://annict.com/works/11705
+  { annict_id: 11705, mal_id: 22993 },
+  // [1987-WINTER] MOVIE: オバケのQ太郎 進め! 1/100大作戦
+  // https://annict.com/works/11706
+  { annict_id: 11706, mal_id: 22991 },
+  // [1986-WINTER] MOVIE: プロゴルファー猿 スーパーGOLFワールドへの挑戦!!
+  // https://annict.com/works/11707
+  { annict_id: 11707, mal_id: 17317 },
+  // [1987-WINTER] MOVIE: プロゴルファー猿 甲賀秘境! 影の忍法ゴルファー参上!
+  // https://annict.com/works/11708
+  { annict_id: 11708, mal_id: 17321 },
+  // [1988-WINTER] MOVIE: ウルトラB ブラックホールからの独裁者B・B
+  // https://annict.com/works/11709
+  { annict_id: 11709, mal_id: 10244 },
+  // [1988-SUMMER] MOVIE: 県立海空高校野球部員山下たろーくん
+  // https://annict.com/works/11710
+  { annict_id: 11710, mal_id: 27837 },
 ]
