@@ -33626,4 +33626,31 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] MOVIE: オオカミの家
   // https://annict.com/works/11713
   { annict_id: 11713 },
+  // [null-null] OTHER: DARKNESS HEELS
+  // https://annict.com/works/11714
+  { annict_id: 11714, mal_id: 57303 },
+  // [1988-WINTER] OVA: 安部譲二かっとび青春記 渋谷ホンキィトンク
+  // https://annict.com/works/11715
+  { annict_id: 11715, mal_id: 17501 },
+  // [1990-AUTUMN] OVA: ころがし涼太
+  // https://annict.com/works/11716
+  { annict_id: 11716, mal_id: 10564 },
+  // [1981-SPRING] MOVIE: フリテンくん
+  // https://annict.com/works/11717
+  { annict_id: 11717, mal_id: 20093 },
+  // [1990-SPRING] OVA: フリテンくん(OVA)
+  // https://annict.com/works/11718
+  { annict_id: 11718, mal_id: 20095 },
+  // [1991-SPRING] OVA: おカマ白書
+  // https://annict.com/works/11719
+  { annict_id: 11719, mal_id: 10353 },
+  // [1992-WINTER] OVA: なにわ遊侠伝
+  // https://annict.com/works/11720
+  { annict_id: 11720, mal_id: 9498 },
+  // [1997-WINTER] OVA: 深海の艦隊 サブマリン707
+  // https://annict.com/works/11721
+  { annict_id: 11721, mal_id: 16251 },
+  // [2000-AUTUMN] TV: 手塚治虫が消えた!? 20世紀最後の怪事件
+  // https://annict.com/works/11722
+  { annict_id: 11722, mal_id: 4941 },
 ]
