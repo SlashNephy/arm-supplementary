@@ -7951,7 +7951,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2655 },
   // [1988-SPRING] OVA: 機動警察パトレイバー アーリーデイズ
   // https://annict.com/works/2656
-  { annict_id: 2656, syobocal_tid: 107 },
+  { annict_id: 2656, mal_id: 1288, syobocal_tid: 107 },
   // [2002-AUTUMN] OVA: 機甲兵団J-PHOENIX PFリップス小隊
   // https://annict.com/works/2657
   { annict_id: 2657, mal_id: 8883 },
