@@ -33671,4 +33671,7 @@ export const annict: ArmEntry[] = [
   // [1994-WINTER] TV: 死にぞこない係長
   // https://annict.com/works/11728
   { annict_id: 11728 },
+  // [2005-SUMMER] TV: ほとり〜たださいわいを希う。〜
+  // https://annict.com/works/11729
+  { annict_id: 11729, mal_id: 475 },
 ]
