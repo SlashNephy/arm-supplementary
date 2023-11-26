@@ -33674,4 +33674,7 @@ export const annict: ArmEntry[] = [
   // [2005-SUMMER] TV: ほとり〜たださいわいを希う。〜
   // https://annict.com/works/11729
   { annict_id: 11729, mal_id: 475 },
+  // [1979-SUMMER] TV: アンネの日記 アンネ・フランク物語
+  // https://annict.com/works/11730
+  { annict_id: 11730, mal_id: 12027 },
 ]
