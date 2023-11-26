@@ -33689,4 +33689,13 @@ export const annict: ArmEntry[] = [
   // [1996-SUMMER] OVA: ぼくは王さま(OVA)
   // https://annict.com/works/11734
   { annict_id: 11734, mal_id: 24791 },
+  // [2003-SUMMER] TV: onちゃん夢パワー大冒険!
+  // https://annict.com/works/11735
+  { annict_id: 11735, mal_id: 8229 },
+  // [2016-WINTER] MOVIE: シンドバッド 魔法のランプと動く島
+  // https://annict.com/works/11736
+  { annict_id: 11736, mal_id: 31829 },
+  // [2016-SPRING] MOVIE: シンドバッド 真昼の夜とふしぎの門
+  // https://annict.com/works/11737
+  { annict_id: 11737, mal_id: 32888 },
 ]
