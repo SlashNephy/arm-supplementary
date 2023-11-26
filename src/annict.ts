@@ -23816,10 +23816,10 @@ export const annict: ArmEntry[] = [
   // [1978-null] TV: 100万年地球の旅 バンダーブック
   // https://annict.com/works/8275
   { annict_id: 8275, mal_id: 5133 },
-  // [1994-null] TV: 景山民夫のダブルファンタジー「南洋ホテル」
+  // [1994-WINTER] TV: 景山民夫のダブルファンタジー「南洋ホテル」
   // https://annict.com/works/8276
   { annict_id: 8276, mal_id: 41325 },
-  // [1994-null] TV: 景山民夫のダブルファンタジー「サイケデリック航空」
+  // [1994-WINTER] TV: 景山民夫のダブルファンタジー「サイケデリック航空」
   // https://annict.com/works/8277
   { annict_id: 8277, mal_id: 41325 },
   // [2021-SPRING] TV: ワンダーエッグ・プライオリティ 特別編 「私のプライオリティ」
