@@ -24029,7 +24029,7 @@ export const annict: ArmEntry[] = [
   // [1992-SUMMER] OVA: HUMANE SOCIETY 〜人類愛に満ちた社会〜
   // https://annict.com/works/8346
   { annict_id: 8346, mal_id: 8745 },
-  // [1996-null] MOVIE: ドラゴンクエスト列伝 ロトの紋章
+  // [1996-SPRING] MOVIE: ドラゴンクエスト列伝 ロトの紋章
   // https://annict.com/works/8347
   { annict_id: 8347, mal_id: 7491 },
   // [2021-SPRING] WEB: 夜の国
@@ -33677,4 +33677,13 @@ export const annict: ArmEntry[] = [
   // [1979-SUMMER] TV: アンネの日記 アンネ・フランク物語
   // https://annict.com/works/11730
   { annict_id: 11730, mal_id: 12027 },
+  // [1991-WINTER] OVA: 少年アシベ(OVA)
+  // https://annict.com/works/11731
+  { annict_id: 11731, mal_id: 33199 },
+  // [1991-WINTER] OVA: ジャングルウォーズ
+  // https://annict.com/works/11732
+  { annict_id: 11732, mal_id: 17473 },
+  // [1996-SPRING] MOVIE: ハーメルンのバイオリン弾き(映画)
+  // https://annict.com/works/11733
+  { annict_id: 11733, mal_id: 2207 },
 ]
