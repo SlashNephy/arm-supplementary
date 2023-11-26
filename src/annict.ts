@@ -5905,7 +5905,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1970 },
   // [2013-SPRING] TV: ぼくは王さま
   // https://annict.com/works/1971
-  { annict_id: 1971, mal_id: 24791, syobocal_tid: 2964 },
+  { annict_id: 1971, mal_id: 18191, syobocal_tid: 2964 },
   // [2007-SPRING] TV: ぼくらの
   // https://annict.com/works/1972
   { annict_id: 1972, mal_id: 1690, syobocal_tid: 1100 },
@@ -33686,4 +33686,7 @@ export const annict: ArmEntry[] = [
   // [1996-SPRING] MOVIE: ハーメルンのバイオリン弾き(映画)
   // https://annict.com/works/11733
   { annict_id: 11733, mal_id: 2207 },
+  // [1996-SUMMER] OVA: ぼくは王さま(OVA)
+  // https://annict.com/works/11734
+  { annict_id: 11734, mal_id: 24791 },
 ]
