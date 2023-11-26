@@ -33653,4 +33653,22 @@ export const annict: ArmEntry[] = [
   // [2000-AUTUMN] TV: 手塚治虫が消えた!? 20世紀最後の怪事件
   // https://annict.com/works/11722
   { annict_id: 11722, mal_id: 4941 },
+  // [1997-SUMMER] MOVIE: ジャングル大帝(1997年)
+  // https://annict.com/works/11723
+  { annict_id: 11723, mal_id: 2264 },
+  // [2003-SUMMER] MOVIE: ぼくの孫悟空
+  // https://annict.com/works/11724
+  { annict_id: 11724, mal_id: 20189 },
+  // [2005-SUMMER] MOVIE: ASTRO BOY 鉄腕アトム 10万光年の来訪者・IGZA
+  // https://annict.com/works/11725
+  { annict_id: 11725, mal_id: 39363 },
+  // [1991-SPRING] OVA: アニメ交響詩 ジャングル大帝
+  // https://annict.com/works/11726
+  { annict_id: 11726, mal_id: 13047 },
+  // [1990-SPRING] TV: オバタリアン
+  // https://annict.com/works/11727
+  { annict_id: 11727, mal_id: 28101 },
+  // [1994-WINTER] TV: 死にぞこない係長
+  // https://annict.com/works/11728
+  { annict_id: 11728 },
 ]
