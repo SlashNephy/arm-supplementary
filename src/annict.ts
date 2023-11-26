@@ -31415,7 +31415,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: 絆のアリル セカンドシーズン
   // https://annict.com/works/10975
   { annict_id: 10975, mal_id: 55775, syobocal_tid: 6814 },
-  // [null-null] TV: 【推しの子】 第2期
+  // [2024-null] TV: 【推しの子】 第2期
   // https://annict.com/works/10976
   { annict_id: 10976, mal_id: 55791 },
   // [2023-SUMMER] TV: ななし怪談 (2023)
@@ -33698,4 +33698,10 @@ export const annict: ArmEntry[] = [
   // [2016-SPRING] MOVIE: シンドバッド 真昼の夜とふしぎの門
   // https://annict.com/works/11737
   { annict_id: 11737, mal_id: 32888 },
+  // [2024-WINTER] TV: 名湯『異世界の湯』開拓記 ～アラフォー温泉マニアの転生先は、のんびり温泉天国でした～
+  // https://annict.com/works/11738
+  { annict_id: 11738, mal_id: 57315 },
+  // [null-null] OTHER: ラーメン赤猫
+  // https://annict.com/works/11739
+  { annict_id: 11739 },
 ]
