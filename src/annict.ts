@@ -33800,4 +33800,13 @@ export const annict: ArmEntry[] = [
   // [2024-null] TV: ダンダダン
   // https://annict.com/works/11771
   { annict_id: 11771 },
+  // [1985-AUTUMN] OVA: 吸血鬼ハンター"D"
+  // https://annict.com/works/11772
+  { annict_id: 11772, mal_id: 732 },
+  // [1986-AUTUMN] MOVIE: GREY デジタル・ターゲット
+  // https://annict.com/works/11773
+  { annict_id: 11773, mal_id: 2423 },
+  // [1986-SUMMER] OVA: アイ・シティ
+  // https://annict.com/works/11774
+  { annict_id: 11774, mal_id: 5053 },
 ]
