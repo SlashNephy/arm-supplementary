@@ -33707,4 +33707,22 @@ export const annict: ArmEntry[] = [
   // [1974-SUMMER] MOVIE: ジャックと豆の木
   // https://annict.com/works/11740
   { annict_id: 11740, mal_id: 3720 },
+  // [1982-WINTER] MOVIE: 象のいない動物園
+  // https://annict.com/works/11741
+  { annict_id: 11741, mal_id: 11097 },
+  // [1982-AUTUMN] MOVIE: 対馬丸-さようなら沖縄-
+  // https://annict.com/works/11742
+  { annict_id: 11742, mal_id: 12903 },
+  // [1983-SPRING] MOVIE: ノエルの不思議な冒険
+  // https://annict.com/works/11743
+  { annict_id: 11743, mal_id: 9303 },
+  // [1985-WINTER] MOVIE: ごんぎつね
+  // https://annict.com/works/11744
+  { annict_id: 11744, mal_id: 9535 },
+  // [1987-SUMMER] MOVIE: チロヌップのきつね
+  // https://annict.com/works/11745
+  { annict_id: 11745, mal_id: 17689 },
+  // [1988-AUTUMN] MOVIE: シニカル・ヒステリー・アワー トリップ・コースター
+  // https://annict.com/works/11746
+  { annict_id: 11746, mal_id: 6759 },
 ]
