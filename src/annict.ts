@@ -33734,4 +33734,7 @@ export const annict: ArmEntry[] = [
   // [1989-SPRING] MOVIE: シニカル・ヒステリー・アワー うたかたのうた
   // https://annict.com/works/11749
   { annict_id: 11749, mal_id: 6762 },
+  // [1989-SUMMER] MOVIE: かんからさんしん
+  // https://annict.com/works/11750
+  { annict_id: 11750, mal_id: 17217 },
 ]
