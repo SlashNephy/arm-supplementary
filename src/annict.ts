@@ -6638,7 +6638,7 @@ export const annict: ArmEntry[] = [
   // [2000-WINTER] TV: 女神候補生
   // https://annict.com/works/2216
   { annict_id: 2216, mal_id: 888 },
-  // [1999-AUTUMN] TV: MONKEY MAGiC
+  // [1999-AUTUMN] TV: モンキーマジック
   // https://annict.com/works/2217
   { annict_id: 2217, mal_id: 1139 },
   // [2004-SPRING] TV: MONSTER
@@ -32848,7 +32848,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11452, mal_id: 57025 },
   // [2023-AUTUMN] TV: ととのえ！サクマくん by &sauna
   // https://annict.com/works/11453
-  { annict_id: 11453 },
+  { annict_id: 11453, mal_id: 57077 },
   // [2024-null] TV: ヴァンパイア男子寮
   // https://annict.com/works/11454
   { annict_id: 11454, mal_id: 57031 },
@@ -33703,7 +33703,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11738, mal_id: 57315 },
   // [null-null] OTHER: ラーメン赤猫
   // https://annict.com/works/11739
-  { annict_id: 11739 },
+  { annict_id: 11739, mal_id: 57325 },
   // [1974-SUMMER] MOVIE: ジャックと豆の木
   // https://annict.com/works/11740
   { annict_id: 11740, mal_id: 3720 },
@@ -33770,4 +33770,31 @@ export const annict: ArmEntry[] = [
   // [1998-SUMMER] OVA: きょうしつはおばけがいっぱい／ぼくはゆうしゃだぞ
   // https://annict.com/works/11761
   { annict_id: 11761, mal_id: 27847 },
+  // [2000-AUTUMN] MOVIE: 太陽の法
+  // https://annict.com/works/11762
+  { annict_id: 11762, mal_id: 7985 },
+  // [2003-AUTUMN] MOVIE: 黄金の法
+  // https://annict.com/works/11763
+  { annict_id: 11763, mal_id: 3496 },
+  // [2000-SUMMER] OVA: ストリートファイターZERO THE ANIMATION
+  // https://annict.com/works/11764
+  { annict_id: 11764, mal_id: 979 },
+  // [2000-AUTUMN] OVA: GRANDEEK〜外伝〜
+  // https://annict.com/works/11765
+  { annict_id: 11765, mal_id: 2365 },
+  // [2000-SPRING] OVA: 世にも恐ろしいグリム童話
+  // https://annict.com/works/11766
+  { annict_id: 11766, mal_id: 4085 },
+  // [2000-SPRING] OVA: 世にも恐ろしい日本昔話
+  // https://annict.com/works/11767
+  { annict_id: 11767, mal_id: 9829 },
+  // [2002-null] MOVIE: アフガニスタン・パグマン村の物語 せかいいちうつくしいぼくの村
+  // https://annict.com/works/11768
+  { annict_id: 11768, mal_id: 26135 },
+  // [1993-SPRING] OVA: 念仏物語
+  // https://annict.com/works/11769
+  { annict_id: 11769, mal_id: 34924 },
+  // [2008-SPRING] OVA: 念仏物語 親鸞さま ねがい、そして ひかり。
+  // https://annict.com/works/11770
+  { annict_id: 11770, mal_id: 5693 },
 ]
