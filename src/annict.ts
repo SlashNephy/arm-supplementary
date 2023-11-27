@@ -33704,4 +33704,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: ラーメン赤猫
   // https://annict.com/works/11739
   { annict_id: 11739 },
+  // [1974-SUMMER] MOVIE: ジャックと豆の木
+  // https://annict.com/works/11740
+  { annict_id: 11740, mal_id: 3720 },
 ]
