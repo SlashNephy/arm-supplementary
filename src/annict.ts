@@ -3017,7 +3017,7 @@ export const annict: ArmEntry[] = [
   // [2006-SPRING] TV: Strawberry Panic
   // https://annict.com/works/1007
   { annict_id: 1007, mal_id: 855, syobocal_tid: 816 },
-  // [1995-SPRING] TV: STREET FIGHTER II V
+  // [1995-SPRING] TV: ストリートファイターII V
   // https://annict.com/works/1008
   { annict_id: 1008, mal_id: 876 },
   // [2013-SUMMER] TV: Super Seisyun Brothers -超青春姉弟s-
@@ -5237,7 +5237,7 @@ export const annict: ArmEntry[] = [
   // [2005-WINTER] TV: B-伝説！バトルビーダマン 炎魂
   // https://annict.com/works/1748
   { annict_id: 1748, mal_id: 4667 },
-  // [1995-SPRING] TV: BiT the CUPID
+  // [1995-SPRING] TV: ビット・ザ・キューピッド
   // https://annict.com/works/1749
   { annict_id: 1749, mal_id: 9812 },
   // [2008-WINTER] TV: BUS GAMER
@@ -33737,4 +33737,34 @@ export const annict: ArmEntry[] = [
   // [1989-SUMMER] MOVIE: かんからさんしん
   // https://annict.com/works/11750
   { annict_id: 11750, mal_id: 17217 },
+  // [1990-SPRING] MOVIE: 走れ!白いオオカミ
+  // https://annict.com/works/11751
+  { annict_id: 11751, mal_id: 5936 },
+  // [1991-SPRING] OVA: スイートスポット
+  // https://annict.com/works/11752
+  { annict_id: 11752, mal_id: 26035 },
+  // [1992-WINTER] MOVIE: パッチンして！おばあちゃん
+  // https://annict.com/works/11753
+  { annict_id: 11753, mal_id: 6018 },
+  // [1993-SUMMER] MOVIE: 3丁目のタマ おねがい!モモちゃんを捜して!!
+  // https://annict.com/works/11754
+  { annict_id: 11754, mal_id: 12589 },
+  // [1994-WINTER] OVA: 気分は形而上 実在OL講座
+  // https://annict.com/works/11755
+  { annict_id: 11755, mal_id: 28965 },
+  // [1995-SPRING] OVA: プリンセス・ミネルバ
+  // https://annict.com/works/11756
+  { annict_id: 11756, mal_id: 2529 },
+  // [1997-WINTER] OVA: HEN
+  // https://annict.com/works/11757
+  { annict_id: 11757, mal_id: 2317 },
+  // [1997-SUMMER] OVA: ねずみくんのチョッキ
+  // https://annict.com/works/11758
+  { annict_id: 11758, mal_id: 27849 },
+  // [1998-AUTUMN] TV: タッチ Miss Lonely Yesterday あれから君は…
+  // https://annict.com/works/11759
+  { annict_id: 11759, mal_id: 1540 },
+  // [2001-WINTER] TV: タッチ CROSS ROAD〜風のゆくえ〜
+  // https://annict.com/works/11760
+  { annict_id: 11760, mal_id: 1539 },
 ]
