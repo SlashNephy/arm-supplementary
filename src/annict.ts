@@ -33725,4 +33725,10 @@ export const annict: ArmEntry[] = [
   // [1988-AUTUMN] MOVIE: シニカル・ヒステリー・アワー トリップ・コースター
   // https://annict.com/works/11746
   { annict_id: 11746, mal_id: 6759 },
+  // [1989-WINTER] MOVIE: シニカル・ヒステリー・アワー へんしん！
+  // https://annict.com/works/11747
+  { annict_id: 11747, mal_id: 6760 },
+  // [1989-SPRING] MOVIE: シニカル・ヒステリー・アワー 夜は楽しい
+  // https://annict.com/works/11748
+  { annict_id: 11748, mal_id: 6761 },
 ]
