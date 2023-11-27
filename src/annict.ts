@@ -33767,4 +33767,7 @@ export const annict: ArmEntry[] = [
   // [2001-WINTER] TV: タッチ CROSS ROAD〜風のゆくえ〜
   // https://annict.com/works/11760
   { annict_id: 11760, mal_id: 1539 },
+  // [1998-SUMMER] OVA: きょうしつはおばけがいっぱい／ぼくはゆうしゃだぞ
+  // https://annict.com/works/11761
+  { annict_id: 11761, mal_id: 27847 },
 ]
