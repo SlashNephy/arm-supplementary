@@ -33839,4 +33839,28 @@ export const annict: ArmEntry[] = [
   // [2015-SPRING] TV: 出番ですよ!オニギリズ
   // https://annict.com/works/11784
   { annict_id: 11784, mal_id: 30893 },
+  // [1982-AUTUMN] TV: 愛の奇蹟 ドクターノーマン物語
+  // https://annict.com/works/11785
+  { annict_id: 11785, mal_id: 23861 },
+  // [1981-WINTER] MOVIE: おじゃまんが山田くん(映画)
+  // https://annict.com/works/11786
+  { annict_id: 11786, mal_id: 16730 },
+  // [1985-SUMMER] MOVIE: キャプテン翼 ヨーロッパ大決戦
+  // https://annict.com/works/11787
+  { annict_id: 11787, mal_id: 2118 },
+  // [1985-AUTUMN] MOVIE: キャプテン翼 危うし!全日本Jr.
+  // https://annict.com/works/11788
+  { annict_id: 11788, mal_id: 2119 },
+  // [1986-WINTER] MOVIE: キャプテン翼 明日に向って走れ!
+  // https://annict.com/works/11789
+  { annict_id: 11789, mal_id: 2120 },
+  // [1986-SUMMER] MOVIE: キャプテン翼 世界大決戦!! Jr.ワールドカップ
+  // https://annict.com/works/11790
+  { annict_id: 11790, mal_id: 2121 },
+  // [1984-SUMMER] MOVIE: 黒い雨にうたれて
+  // https://annict.com/works/11791
+  { annict_id: 11791, mal_id: 19135 },
+  // [1985-AUTUMN] OVA: 酎ハイれもん LOVE30S
+  // https://annict.com/works/11792
+  { annict_id: 11792, mal_id: 9998 },
 ]
