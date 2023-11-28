@@ -33863,4 +33863,7 @@ export const annict: ArmEntry[] = [
   // [1985-AUTUMN] OVA: 酎ハイれもん LOVE30S
   // https://annict.com/works/11792
   { annict_id: 11792, mal_id: 9998 },
+  // [1997-SUMMER] OVA: B'T-X NEO
+  // https://annict.com/works/11793
+  { annict_id: 11793, mal_id: 1736 },
 ]
