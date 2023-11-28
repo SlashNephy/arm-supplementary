@@ -1334,7 +1334,7 @@ export const annict: ArmEntry[] = [
   // [2011-SUMMER] TV: 快盗天使ツインエンジェル ～キュンキュン☆ときめきパラダイス!!～
   // https://annict.com/works/444
   { annict_id: 444, mal_id: 10217, syobocal_tid: 2204 },
-  // [1996-SPRING] TV: 怪傑ゾロ
+  // [1996-SPRING] TV: 快傑ゾロ
   // https://annict.com/works/445
   { annict_id: 445, mal_id: 3010 },
   // [2007-SPRING] TV: 怪物王女-Princess Resurrection-
@@ -31310,7 +31310,7 @@ export const annict: ArmEntry[] = [
   // [1988-WINTER] OVA: レイナ剣狼伝説
   // https://annict.com/works/10940
   { annict_id: 10940, mal_id: 6577 },
-  // [1990-SPRING] OVA: LIGHTNING TRAP LEINA & LAIKA
+  // [1990-SPRING] OVA: ライトニングトラップ レイナ&ライカ
   // https://annict.com/works/10941
   { annict_id: 10941, mal_id: 3596 },
   // [1980-WINTER] MOVIE: ナーザの大暴れ
@@ -33809,4 +33809,16 @@ export const annict: ArmEntry[] = [
   // [1986-SUMMER] OVA: アイ・シティ
   // https://annict.com/works/11774
   { annict_id: 11774, mal_id: 5053 },
+  // [1990-WINTER] OVA: ガデュリン
+  // https://annict.com/works/11775
+  { annict_id: 11775, mal_id: 7139 },
+  // [1992-SUMMER] OVA: 放課後のティンカー・ベル
+  // https://annict.com/works/11776
+  { annict_id: 11776, mal_id: 13299 },
+  // [1992-SUMMER] OVA: ジャンケンマン 怪獣大決戦
+  // https://annict.com/works/11777
+  { annict_id: 11777, mal_id: 10247 },
+  // [1997-WINTER] OVA: VS騎士ラムネ&40FRESH
+  // https://annict.com/works/11778
+  { annict_id: 11778, mal_id: 1411 },
 ]
