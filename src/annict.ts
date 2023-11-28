@@ -7154,7 +7154,7 @@ export const annict: ArmEntry[] = [
   // [1991-SUMMER] TV: ルパン三世 ナポレオンの辞書を奪え
   // https://annict.com/works/2388
   { annict_id: 2388, mal_id: 1423, syobocal_tid: 2624 },
-  // [1995-SUMMER] OTHER: ルパン三世 ハリマオの財宝を追え!!
+  // [1995-SUMMER] TV: ルパン三世 ハリマオの財宝を追え!!
   // https://annict.com/works/2389
   { annict_id: 2389, mal_id: 1434, syobocal_tid: 2647 },
   // [1989-SPRING] TV: ルパン三世 バイバイ・リバティー・危機一発！
