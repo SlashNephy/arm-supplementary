@@ -5228,7 +5228,7 @@ export const annict: ArmEntry[] = [
   // [2009-SPRING] TV: 鋼の錬金術師 FULLMETAL ALCHEMIST
   // https://annict.com/works/1745
   { annict_id: 1745, mal_id: 5114, syobocal_tid: 1575 },
-  // [1996-SPRING] TV: B'T X
+  // [1996-SPRING] TV: B'T-X
   // https://annict.com/works/1746
   { annict_id: 1746, mal_id: 286 },
   // [2004-WINTER] TV: B-伝説！バトルビーダマン
