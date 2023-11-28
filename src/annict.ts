@@ -33866,4 +33866,7 @@ export const annict: ArmEntry[] = [
   // [1997-SUMMER] OVA: B'T-X NEO
   // https://annict.com/works/11793
   { annict_id: 11793, mal_id: 1736 },
+  // [2024-null] TV: 株式会社マジルミエ
+  // https://annict.com/works/11794
+  { annict_id: 11794 },
 ]
