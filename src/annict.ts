@@ -33799,7 +33799,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11770, mal_id: 5693 },
   // [2024-null] TV: ダンダダン
   // https://annict.com/works/11771
-  { annict_id: 11771 },
+  { annict_id: 11771, mal_id: 57334 },
   // [1985-AUTUMN] OVA: 吸血鬼ハンター"D"
   // https://annict.com/works/11772
   { annict_id: 11772, mal_id: 732 },
