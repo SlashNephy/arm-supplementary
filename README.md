@@ -43,12 +43,12 @@ Currently, arm-supplementary has 37643 entries (+8056).
 | Service                                     | arm-supplementary | arm / anime-offline-database |
 | :------------------------------------------ | :---------------: | :--------------------------: |
 | [Annict](https://annict.com)                |   11290 (+754)    |            10536             |
-| [AniList](https://anilist.co)               |   21859 (+2690)   |            19169             |
-| [MyAnimeList](https://myanimelist.net)      |   26591 (+1242)   |            25349             |
+| [AniList](https://anilist.co)               |   21860 (+2691)   |            19169             |
+| [MyAnimeList](https://myanimelist.net)      |   26592 (+1243)   |            25349             |
 | [しょぼいカレンダー](https://cal.syoboi.jp) |    5795 (+97)     |             5698             |
-| [AniDB](https://anidb.net)                  |   13417 (+416)    |            13001             |
-| [Anime-Planet](https://anime-planet.com)    |   23784 (+469)    |            23315             |
-| [aniSearch](https://anisearch.com)          |   18665 (+450)    |            18215             |
-| [Kitsu](https://kitsu.io)                   |   20227 (+476)    |            19751             |
-| [LiveChart.me](https://livechart.me)        |   11313 (+310)    |            11003             |
-| [Anime Notifier](https://notify.moe)        |   16508 (+472)    |            16036             |
+| [AniDB](https://anidb.net)                  |   13418 (+417)    |            13001             |
+| [Anime-Planet](https://anime-planet.com)    |   23785 (+470)    |            23315             |
+| [aniSearch](https://anisearch.com)          |   18666 (+451)    |            18215             |
+| [Kitsu](https://kitsu.io)                   |   20228 (+477)    |            19751             |
+| [LiveChart.me](https://livechart.me)        |   11314 (+311)    |            11003             |
+| [Anime Notifier](https://notify.moe)        |   16509 (+473)    |            16036             |

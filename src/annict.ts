@@ -28795,7 +28795,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10099, mal_id: 54870 },
   // [null-null] MOVIE: アイゼンフリューゲル
   // https://annict.com/works/10100
-  { annict_id: 10100 },
+  { annict_id: 10100, mal_id: 53130 },
   // [2023-SPRING] TV: 山田くんとLv999の恋をする
   // https://annict.com/works/10101
   { annict_id: 10101, mal_id: 53126, syobocal_tid: 6650 },
