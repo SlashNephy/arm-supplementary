@@ -33821,4 +33821,22 @@ export const annict: ArmEntry[] = [
   // [1997-WINTER] OVA: VS騎士ラムネ&40FRESH
   // https://annict.com/works/11778
   { annict_id: 11778, mal_id: 1411 },
+  // [2002-SUMMER] OVA: ふたりエッチ(第1・2期)
+  // https://annict.com/works/11779
+  { annict_id: 11779, mal_id: 382 },
+  // [2014-AUTUMN] OVA: ふたりエッチ(第3期)
+  // https://annict.com/works/11780
+  { annict_id: 11780, mal_id: 23985 },
+  // [2012-AUTUMN] TV: おわんこ
+  // https://annict.com/works/11781
+  { annict_id: 11781, mal_id: 30905 },
+  // [2011-WINTER] TV: 大人女子のアニメタイム
+  // https://annict.com/works/11782
+  { annict_id: 11782, mal_id: 10178 },
+  // [2013-SPRING] TV: 爆獣合神ジグルハゼル
+  // https://annict.com/works/11783
+  { annict_id: 11783, mal_id: 18227 },
+  // [2015-SPRING] TV: 出番ですよ!オニギリズ
+  // https://annict.com/works/11784
+  { annict_id: 11784, mal_id: 30893 },
 ]
