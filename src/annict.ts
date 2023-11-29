@@ -4307,7 +4307,7 @@ export const annict: ArmEntry[] = [
   // [1972-AUTUMN] TV: ど根性ガエル
   // https://annict.com/works/1437
   { annict_id: 1437, mal_id: 5618, syobocal_tid: 3293 },
-  // [null-null] TV: トムとジェリー
+  // [1975-SUMMER] TV: 新トムとジェリー
   // https://annict.com/works/1438
   { annict_id: 1438 },
   // [1964-SPRING] TV: トムとジェリー（TBS版）
