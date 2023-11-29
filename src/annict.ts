@@ -33875,4 +33875,10 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] MOVIE: パリピ孔明 Road to Summer Sonia
   // https://annict.com/works/11796
   { annict_id: 11796 },
+  // [2021-AUTUMN] WEB: 超普通県チバ伝説 第0話「2年後に!!!シャ〇ンディ諸島で!!!」
+  // https://annict.com/works/11797
+  { annict_id: 11797 },
+  // [2023-AUTUMN] WEB: がそんし！！～エスパー少女と忍者の我孫子物語～
+  // https://annict.com/works/11798
+  { annict_id: 11798 },
 ]
