@@ -17033,7 +17033,7 @@ export const annict: ArmEntry[] = [
   // [2018-SPRING] TV: 鹿楓堂 よついろ日和
   // https://annict.com/works/5712
   { annict_id: 5712, mal_id: 36513, syobocal_tid: 4912 },
-  // [null-null] OVA: 手塚治虫 実験アニメーション作品集
+  // [2007-WINTER] OVA: 手塚治虫 実験アニメーション作品集
   // https://annict.com/works/5713
   { annict_id: 5713 },
   // [2018-WINTER] WEB: ちちぶでぶちち
