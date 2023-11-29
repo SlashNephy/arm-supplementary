@@ -31622,7 +31622,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: 攻略うぉんてっど！～異世界救います！？～
   // https://annict.com/works/11044
   { annict_id: 11044, mal_id: 50571, syobocal_tid: 6818 },
-  // [2024-null] TV: となりの妖怪さん
+  // [2024-SPRING] TV: となりの妖怪さん
   // https://annict.com/works/11045
   { annict_id: 11045, mal_id: 51461 },
   // [2022-AUTUMN] WEB: ドラゴン王子 シーズン4
