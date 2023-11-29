@@ -25324,7 +25324,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 8843, mal_id: 48861 },
   // [2022-WINTER] MOVIE: ブルーサーマル
   // https://annict.com/works/8844
-  { annict_id: 8844, mal_id: 49665 },
+  { annict_id: 8844, mal_id: 49665, syobocal_tid: 6521 },
   // [2021-AUTUMN] TV: キミとフィットボクシング
   // https://annict.com/works/8845
   { annict_id: 8845, mal_id: 49664, syobocal_tid: 6153 },
@@ -33872,4 +33872,7 @@ export const annict: ArmEntry[] = [
   // [1928-AUTUMN] MOVIE: 蒸気船ウィリー
   // https://annict.com/works/11795
   { annict_id: 11795 },
+  // [2024-WINTER] MOVIE: パリピ孔明 Road to Summer Sonia
+  // https://annict.com/works/11796
+  { annict_id: 11796 },
 ]
