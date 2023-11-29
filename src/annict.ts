@@ -33869,4 +33869,7 @@ export const annict: ArmEntry[] = [
   // [2024-null] TV: 株式会社マジルミエ
   // https://annict.com/works/11794
   { annict_id: 11794 },
+  // [1928-AUTUMN] MOVIE: 蒸気船ウィリー
+  // https://annict.com/works/11795
+  { annict_id: 11795 },
 ]
