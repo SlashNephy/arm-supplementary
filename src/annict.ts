@@ -33881,4 +33881,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] WEB: がそんし！！～エスパー少女と忍者の我孫子物語～
   // https://annict.com/works/11798
   { annict_id: 11798 },
+  // [2024-WINTER] TV: わんだふるぷりきゅあ！
+  // https://annict.com/works/11799
+  { annict_id: 11799 },
 ]
