@@ -33868,13 +33868,13 @@ export const annict: ArmEntry[] = [
   { annict_id: 11793, mal_id: 1736 },
   // [2024-null] TV: 株式会社マジルミエ
   // https://annict.com/works/11794
-  { annict_id: 11794 },
+  { annict_id: 11794, mal_id: 57360 },
   // [1928-AUTUMN] MOVIE: 蒸気船ウィリー
   // https://annict.com/works/11795
   { annict_id: 11795 },
   // [2024-WINTER] MOVIE: パリピ孔明 Road to Summer Sonia
   // https://annict.com/works/11796
-  { annict_id: 11796 },
+  { annict_id: 11796, mal_id: 57369 },
   // [2021-AUTUMN] WEB: 超普通県チバ伝説 第0話「2年後に!!!シャ〇ンディ諸島で!!!」
   // https://annict.com/works/11797
   { annict_id: 11797 },
@@ -33886,5 +33886,11 @@ export const annict: ArmEntry[] = [
   { annict_id: 11799 },
   // [2024-SPRING] MOVIE: 名探偵コナン 100万ドルの五稜星
   // https://annict.com/works/11800
-  { annict_id: 11800 },
+  { annict_id: 11800, mal_id: 56785 },
+  // [2024-null] TV: 異世界ゆるり紀行 ～子育てしながら冒険者します～
+  // https://annict.com/works/11801
+  { annict_id: 11801, mal_id: 57380 },
+  // [null-null] TV: 星降る王国のニナ
+  // https://annict.com/works/11802
+  { annict_id: 11802, mal_id: 57362 },
 ]
