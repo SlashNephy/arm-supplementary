@@ -31703,7 +31703,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] WEB: セリア先生のわくわくまじかる教室 Season2
   // https://annict.com/works/11071
   { annict_id: 11071, mal_id: 56178 },
-  // [2024-null] MOVIE: 大室家 dear sisters
+  // [2024-WINTER] MOVIE: 大室家 dear sisters
   // https://annict.com/works/11072
   { annict_id: 11072, mal_id: 56175 },
   // [2024-null] MOVIE: 大室家 dear friends
