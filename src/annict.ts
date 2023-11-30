@@ -33884,4 +33884,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] TV: わんだふるぷりきゅあ！
   // https://annict.com/works/11799
   { annict_id: 11799 },
+  // [2024-SPRING] MOVIE: 名探偵コナン 100万ドルの五稜星
+  // https://annict.com/works/11800
+  { annict_id: 11800 },
 ]
