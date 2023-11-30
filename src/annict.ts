@@ -15875,7 +15875,7 @@ export const annict: ArmEntry[] = [
   // [2017-SUMMER] TV: ようこそ実力至上主義の教室へ
   // https://annict.com/works/5322
   { annict_id: 5322, mal_id: 35507, syobocal_tid: 4612 },
-  // [1985-SUMMER] OVA: エリア88（OVA)
+  // [1985-WINTER] OVA: エリア88（OVA)
   // https://annict.com/works/5323
   { annict_id: 5323, mal_id: 1488 },
   // [2018-SPRING] TV: 銀河英雄伝説 Die Neue These 邂逅
