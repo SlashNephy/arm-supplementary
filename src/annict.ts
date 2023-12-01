@@ -33908,4 +33908,19 @@ export const annict: ArmEntry[] = [
   // [1991-AUTUMN] OVA: 英雄凱伝モザイカ
   // https://annict.com/works/11807
   { annict_id: 11807, mal_id: 8855 },
+  // [1988-SUMMER] OVA: 現世守護神 ぴーひょろ一家
+  // https://annict.com/works/11808
+  { annict_id: 11808, mal_id: 25363 },
+  // [1964-SUMMER] MOVIE: 鉄腕アトム 宇宙の勇者
+  // https://annict.com/works/11809
+  { annict_id: 11809, mal_id: 10342 },
+  // [2000-WINTER] MOVIE: 睡蓮の人
+  // https://annict.com/works/11810
+  { annict_id: 11810, mal_id: 7683 },
+  // [1976-AUTUMN] TV: 恐竜探険隊ボーンフリー
+  // https://annict.com/works/11811
+  { annict_id: 11811, mal_id: 9978 },
+  // [1977-AUTUMN] TV: 恐竜大戦争アイゼンボーグ
+  // https://annict.com/works/11812
+  { annict_id: 11812, mal_id: 4073 },
 ]
