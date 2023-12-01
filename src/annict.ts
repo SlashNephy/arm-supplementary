@@ -33947,4 +33947,10 @@ export const annict: ArmEntry[] = [
   // [2008-SUMMER] TV: おたすけマニー
   // https://annict.com/works/11820
   { annict_id: 11820 },
+  // [2006-SPRING] TV: ミッキーマウス クラブハウス
+  // https://annict.com/works/11821
+  { annict_id: 11821 },
+  // [2008-WINTER] TV: プーさんといっしょ
+  // https://annict.com/works/11822
+  { annict_id: 11822 },
 ]
