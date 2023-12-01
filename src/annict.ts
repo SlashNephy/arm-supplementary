@@ -33893,4 +33893,16 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 星降る王国のニナ
   // https://annict.com/works/11802
   { annict_id: 11802, mal_id: 57362 },
+  // [1984-WINTER] MOVIE: 綿の国星
+  // https://annict.com/works/11803
+  { annict_id: 11803, mal_id: 1207, syobocal_tid: 2888 },
+  // [1984-SUMMER] OVA: Radio City Fantasy 街角のメルヘン
+  // https://annict.com/works/11804
+  { annict_id: 11804, mal_id: 11221 },
+  // [2009-SUMMER] WEB: おんたま!
+  // https://annict.com/works/11805
+  { annict_id: 11805, mal_id: 6890, syobocal_tid: 1705 },
+  // [1987-SPRING] OVA: サーキット・エンジェル ～決意のスターティング・グリッド～
+  // https://annict.com/works/11806
+  { annict_id: 11806, mal_id: 8898 },
 ]
