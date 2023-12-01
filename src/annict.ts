@@ -31508,7 +31508,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] MOVIE: アイドルマスター ミリオンライブ！ 劇場先行上映 第3幕
   // https://annict.com/works/11006
   { annict_id: 11006 },
-  // [1968-SUMMER] MOVIE: Yellow Submarine
+  // [1968-SUMMER] MOVIE: イエロー・サブマリン
   // https://annict.com/works/11007
   { annict_id: 11007 },
   // [2024-SPRING] TV: ザ・ファブル
@@ -31766,7 +31766,7 @@ export const annict: ArmEntry[] = [
   // [1986-SPRING] TV: サンゴ礁伝説 青い海のエルフィ
   // https://annict.com/works/11092
   { annict_id: 11092, mal_id: 5014 },
-  // [1977-null] MOVIE: 草原の子テングリ
+  // [1977-WINTER] MOVIE: 草原の子テングリ
   // https://annict.com/works/11093
   { annict_id: 11093, mal_id: 11561 },
   // [null-null] OTHER: 魔王様、リトライ！R
@@ -33929,4 +33929,22 @@ export const annict: ArmEntry[] = [
   // [2013-SUMMER] TV: アニ×アニ！ みようぜ！イナダンギャグ外伝
   // https://annict.com/works/11814
   { annict_id: 11814 },
+  // [1996-SPRING] TV: ライオン・キングのティモンとプンバァ
+  // https://annict.com/works/11815
+  { annict_id: 11815 },
+  // [2016-SPRING] TV: ライオン・ガード
+  // https://annict.com/works/11816
+  { annict_id: 11816 },
+  // [2001-AUTUMN] TV: ターザン(TVシリーズ)
+  // https://annict.com/works/11817
+  { annict_id: 11817 },
+  // [2000-SPRING] TV: リセス 〜ぼくらの休み時間〜
+  // https://annict.com/works/11818
+  { annict_id: 11818 },
+  // [2006-AUTUMN] TV: リトル・アインシュタイン
+  // https://annict.com/works/11819
+  { annict_id: 11819 },
+  // [2008-SUMMER] TV: おたすけマニー
+  // https://annict.com/works/11820
+  { annict_id: 11820 },
 ]
