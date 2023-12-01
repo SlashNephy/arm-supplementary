@@ -33905,4 +33905,7 @@ export const annict: ArmEntry[] = [
   // [1987-SPRING] OVA: サーキット・エンジェル ～決意のスターティング・グリッド～
   // https://annict.com/works/11806
   { annict_id: 11806, mal_id: 8898 },
+  // [1991-AUTUMN] OVA: 英雄凱伝モザイカ
+  // https://annict.com/works/11807
+  { annict_id: 11807, mal_id: 8855 },
 ]
