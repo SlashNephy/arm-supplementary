@@ -33923,4 +33923,10 @@ export const annict: ArmEntry[] = [
   // [1977-AUTUMN] TV: 恐竜大戦争アイゼンボーグ
   // https://annict.com/works/11812
   { annict_id: 11812, mal_id: 4073 },
+  // [2012-AUTUMN] TV: 映画みようぜ！！ イナダンギャグ外伝
+  // https://annict.com/works/11813
+  { annict_id: 11813, mal_id: 51123 },
+  // [2013-SUMMER] TV: アニ×アニ！ みようぜ！イナダンギャグ外伝
+  // https://annict.com/works/11814
+  { annict_id: 11814 },
 ]
