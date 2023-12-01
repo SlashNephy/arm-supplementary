@@ -33253,7 +33253,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11588 },
   // [2023-AUTUMN] WEB: ケーちゃんの絵日記
   // https://annict.com/works/11589
-  { annict_id: 11589 },
+  { annict_id: 11589, mal_id: 55072 },
   // [2021-SPRING] WEB: クロージャの機密ファイル
   // https://annict.com/works/11590
   { annict_id: 11590, mal_id: 48994 },
