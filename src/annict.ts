@@ -31463,7 +31463,7 @@ export const annict: ArmEntry[] = [
   // [null-null] WEB: 機動戦士ガンダム 復讐のレクイエム
   // https://annict.com/works/10991
   { annict_id: 10991 },
-  // [null-null] OTHER: 異世界スーサイド・スクワッド
+  // [2024-null] TV: 異世界スーサイド・スクワッド
   // https://annict.com/works/10992
   { annict_id: 10992, mal_id: 55848 },
   // [2024-null] TV: 黒執事 寄宿学校編
@@ -33965,4 +33965,7 @@ export const annict: ArmEntry[] = [
   // [1981-WINTER] MOVIE: タイムパトロール隊オタスケマン アターシャの結婚披露宴!?
   // https://annict.com/works/11826
   { annict_id: 11826 },
+  // [2024-SPRING] TV: アストロノオト
+  // https://annict.com/works/11827
+  { annict_id: 11827 },
 ]
