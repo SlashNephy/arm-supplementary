@@ -9455,7 +9455,7 @@ export const annict: ArmEntry[] = [
   // [1984-WINTER] MOVIE: うる星やつら2 ビューティフル・ドリーマー
   // https://annict.com/works/3161
   { annict_id: 3161, mal_id: 1921, syobocal_tid: 4078 },
-  // [1985-null] MOVIE: うる星やつら3 リメンバー・マイ・ラブ
+  // [1985-WINTER] MOVIE: うる星やつら3 リメンバー・マイ・ラブ
   // https://annict.com/works/3162
   { annict_id: 3162, mal_id: 1922, syobocal_tid: 2830 },
   // [1986-WINTER] MOVIE: うる星やつら4 ラム・ザ・フォーエバー
@@ -23633,7 +23633,7 @@ export const annict: ArmEntry[] = [
   // [1978-SUMMER] TV: 大雪山の勇者 牙王
   // https://annict.com/works/8214
   { annict_id: 8214, mal_id: 6202 },
-  // [1979-null] TV: まえがみ太郎
+  // [1979-SPRING] TV: まえがみ太郎
   // https://annict.com/works/8215
   { annict_id: 8215, mal_id: 3828 },
   // [1963-AUTUMN] MOVIE: わんわん忠臣蔵
@@ -23654,10 +23654,10 @@ export const annict: ArmEntry[] = [
   // [1959-null] MOVIE: 少年猿飛佐助
   // https://annict.com/works/8221
   { annict_id: 8221, mal_id: 4948 },
-  // [1965-null] MOVIE: ガリバーの宇宙旅行
+  // [1965-WINTER] MOVIE: ガリバーの宇宙旅行
   // https://annict.com/works/8222
   { annict_id: 8222, mal_id: 2833 },
-  // [1971-null] MOVIE: アリババと40匹の盗賊
+  // [1971-SUMMER] MOVIE: アリババと40匹の盗賊
   // https://annict.com/works/8223
   { annict_id: 8223 },
   // [2011-null] MOVIE: TATSUMI マンガに革命を起こした男
@@ -23813,7 +23813,7 @@ export const annict: ArmEntry[] = [
   // [2021-WINTER] WEB: キッド・コズミック
   // https://annict.com/works/8274
   { annict_id: 8274 },
-  // [1978-null] TV: 100万年地球の旅 バンダーブック
+  // [1978-SUMMER] TV: 100万年地球の旅 バンダーブック
   // https://annict.com/works/8275
   { annict_id: 8275, mal_id: 5133 },
   // [1994-WINTER] TV: 景山民夫のダブルファンタジー「南洋ホテル」
@@ -23867,7 +23867,7 @@ export const annict: ArmEntry[] = [
   // [2007-AUTUMN] OVA: 楓ニュータウン
   // https://annict.com/works/8292
   { annict_id: 8292, mal_id: 5799 },
-  // [1984-null] MOVIE: 超人ロック〈劇場版〉
+  // [1984-WINTER] MOVIE: 超人ロック〈劇場版〉
   // https://annict.com/works/8293
   { annict_id: 8293, mal_id: 3522 },
   // [1983-SPRING] MOVIE: ゴルゴ13 劇場版
@@ -23996,7 +23996,7 @@ export const annict: ArmEntry[] = [
   // [2021-SPRING] TV: ネコこのゴロ 令和版
   // https://annict.com/works/8335
   { annict_id: 8335, syobocal_tid: 6006 },
-  // [1986-null] OVA: 湘南爆走族
+  // [1986-SUMMER] OVA: 湘南爆走族
   // https://annict.com/works/8336
   { annict_id: 8336, mal_id: 2463 },
   // [1987-AUTUMN] OVA: 魔境外伝レディウス
@@ -24119,7 +24119,7 @@ export const annict: ArmEntry[] = [
   // [1979-WINTER] MOVIE: 龍の子太郎
   // https://annict.com/works/8376
   { annict_id: 8376, mal_id: 1208 },
-  // [1980-null] MOVIE: 世界名作童話 森は生きている
+  // [1980-WINTER] MOVIE: 世界名作童話 森は生きている
   // https://annict.com/works/8377
   { annict_id: 8377, mal_id: 3751 },
   // [2021-SUMMER] TV: ジャヒー様はくじけない！
@@ -25232,7 +25232,7 @@ export const annict: ArmEntry[] = [
   // [2017-WINTER] WEB: エンシェンと魔法のタブレット ～もうひとつのひるね姫～
   // https://annict.com/works/8812
   { annict_id: 8812, mal_id: 34893 },
-  // [1980-null] MOVIE: 王と鳥
+  // [1985-SUMMER] MOVIE: 王と鳥
   // https://annict.com/works/8813
   { annict_id: 8813 },
   // [1984-AUTUMN] OVA: 銀河漂流バイファム カチュアからの便り
@@ -33953,4 +33953,16 @@ export const annict: ArmEntry[] = [
   // [2008-WINTER] TV: プーさんといっしょ
   // https://annict.com/works/11822
   { annict_id: 11822 },
+  // [2020-AUTUMN] MOVIE: パウ・パトロール カーレース大作戦 GO! GO!
+  // https://annict.com/works/11823
+  { annict_id: 11823 },
+  // [2022-SUMMER] MOVIE: パウ・パトロール 大空のミッション・パウ ロイヤルストーンをとりもどせ！
+  // https://annict.com/works/11824
+  { annict_id: 11824 },
+  // [1980-WINTER] MOVIE: ゼンダマン ピラミッドの謎の箱だよ!ゼンダマン
+  // https://annict.com/works/11825
+  { annict_id: 11825 },
+  // [1981-WINTER] MOVIE: タイムパトロール隊オタスケマン アターシャの結婚披露宴!?
+  // https://annict.com/works/11826
+  { annict_id: 11826 },
 ]
