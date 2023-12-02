@@ -33968,4 +33968,10 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: アストロノオト
   // https://annict.com/works/11827
   { annict_id: 11827 },
+  // [2011-SPRING] OTHER: 笛を吹くお医者さん
+  // https://annict.com/works/11828
+  { annict_id: 11828 },
+  // [2015-SPRING] WEB: 太鼓の達人 15周年記念ショートアニメーション
+  // https://annict.com/works/11829
+  { annict_id: 11829, mal_id: 31102 },
 ]
