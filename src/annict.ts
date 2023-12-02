@@ -33967,7 +33967,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11826 },
   // [2024-SPRING] TV: アストロノオト
   // https://annict.com/works/11827
-  { annict_id: 11827 },
+  { annict_id: 11827, mal_id: 57391 },
   // [2011-SPRING] OTHER: 笛を吹くお医者さん
   // https://annict.com/works/11828
   { annict_id: 11828 },
