@@ -33995,4 +33995,7 @@ export const annict: ArmEntry[] = [
   // [2005-SUMMER] MOVIE: 空飛ぶ都市計画
   // https://annict.com/works/11836
   { annict_id: 11836, mal_id: 3818 },
+  // [2006-SPRING] MOVIE: ジュディ・ジェディ
+  // https://annict.com/works/11837
+  { annict_id: 11837 },
 ]
