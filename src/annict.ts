@@ -33974,4 +33974,25 @@ export const annict: ArmEntry[] = [
   // [2015-SPRING] WEB: 太鼓の達人 15周年記念ショートアニメーション
   // https://annict.com/works/11829
   { annict_id: 11829, mal_id: 31102 },
+  // [2022-AUTUMN] WEB: 禅 グローグーとマックロクロスケ
+  // https://annict.com/works/11830
+  { annict_id: 11830, mal_id: 53599 },
+  // [2011-AUTUMN] WEB: キュッキュの大冒険
+  // https://annict.com/works/11831
+  { annict_id: 11831 },
+  // [2016-SUMMER] WEB: となりのおにぎり君
+  // https://annict.com/works/11832
+  { annict_id: 11832, mal_id: 34050 },
+  // [1946-SPRING] MOVIE: メイク・マイン・ミュージック
+  // https://annict.com/works/11833
+  { annict_id: 11833 },
+  // [2004-SPRING] MOVIE: ポータブル空港
+  // https://annict.com/works/11834
+  { annict_id: 11834, mal_id: 3821 },
+  // [2005-SPRING] MOVIE: space station No.9
+  // https://annict.com/works/11835
+  { annict_id: 11835, mal_id: 3820 },
+  // [2005-SUMMER] MOVIE: 空飛ぶ都市計画
+  // https://annict.com/works/11836
+  { annict_id: 11836, mal_id: 3818 },
 ]
