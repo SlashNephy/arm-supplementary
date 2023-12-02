@@ -29135,7 +29135,7 @@ export const annict: ArmEntry[] = [
   // [2016-WINTER] WEB: 逆転裁判6 プロローグ
   // https://annict.com/works/10213
   { annict_id: 10213, mal_id: 32946 },
-  // [null-null] OTHER: 戦姫絶唱シンフォギア 新プロジェクト
+  // [null-null] MOVIE: 劇場版 戦姫絶唱シンフォギア
   // https://annict.com/works/10214
   { annict_id: 10214, mal_id: 53646 },
   // [2014-WINTER] OVA: 戦姫絶唱シンフォギアG: 戦姫絶唱しないシンフォギア
