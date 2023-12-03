@@ -34016,4 +34016,7 @@ export const annict: ArmEntry[] = [
   // [1994-WINTER] OVA: ハローキティといっしょ
   // https://annict.com/works/11844
   { annict_id: 11844, mal_id: 25871 },
+  // [2001-SPRING] TV: カペリート
+  // https://annict.com/works/11845
+  { annict_id: 11845 },
 ]
