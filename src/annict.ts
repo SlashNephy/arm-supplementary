@@ -30268,7 +30268,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10592, mal_id: 50136 },
   // [2023-WINTER] TV: ハートカクテル カラフル
   // https://annict.com/works/10593
-  { annict_id: 10593, syobocal_tid: 6674 },
+  { annict_id: 10593, mal_id: 57185, syobocal_tid: 6674 },
   // [2023-WINTER] TV: しゅわわん！
   // https://annict.com/works/10594
   { annict_id: 10594, syobocal_tid: 6675 },
@@ -31423,7 +31423,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10978, mal_id: 21121 },
   // [2023-SUMMER] TV: ハートカクテル カラフル 夏編
   // https://annict.com/works/10979
-  { annict_id: 10979, syobocal_tid: 6780 },
+  { annict_id: 10979, mal_id: 57186, syobocal_tid: 6780 },
   // [2024-WINTER] TV: マッシュル-MASHLE- 神覚者候補選抜試験編
   // https://annict.com/works/10980
   { annict_id: 10980, mal_id: 55813 },
@@ -34019,4 +34019,7 @@ export const annict: ArmEntry[] = [
   // [2001-SPRING] TV: カペリート
   // https://annict.com/works/11845
   { annict_id: 11845 },
+  // [2023-AUTUMN] TV: ハートカクテル カラフル 冬編
+  // https://annict.com/works/11846
+  { annict_id: 11846, syobocal_tid: 6892 },
 ]
