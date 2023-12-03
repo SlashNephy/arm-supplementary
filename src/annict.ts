@@ -34028,4 +34028,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: プリティーシリーズ 新作TVアニメーション
   // https://annict.com/works/11848
   { annict_id: 11848 },
+  // [2024-null] OTHER: 機動警察パトレイバーEZY
+  // https://annict.com/works/11849
+  { annict_id: 11849 },
 ]
