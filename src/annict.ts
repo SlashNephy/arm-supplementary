@@ -10070,7 +10070,7 @@ export const annict: ArmEntry[] = [
   // [1999-SUMMER] MOVIE: スーパードール☆リカちゃん リカちゃん絶体絶命！ドールナイツの奇跡
   // https://annict.com/works/3367
   { annict_id: 3367, mal_id: 10199 },
-  // [1986-SUMMER] MOVIE: スーパーマリオブラザーズ ピーチ救出大作戦
+  // [1986-SUMMER] MOVIE: スーパーマリオブラザーズ ピーチ姫救出大作戦!
   // https://annict.com/works/3368
   { annict_id: 3368, mal_id: 3886 },
   // [2011-AUTUMN] MOVIE: 映画スイートプリキュア♪とりもどせ！心がつなぐ奇跡のメロディ♪
@@ -33998,4 +33998,13 @@ export const annict: ArmEntry[] = [
   // [1981-WINTER] MOVIE: キティとミミィの新しい傘
   // https://annict.com/works/11838
   { annict_id: 11838, mal_id: 35032 },
+  // [1992-AUTUMN] OVA: ハローキティのきえたサンタさんの帽子
+  // https://annict.com/works/11839
+  { annict_id: 11839, mal_id: 22481 },
+  // [1993-WINTER] OVA: アヒルのペックルの水泳大会は大騷ぎ
+  // https://annict.com/works/11840
+  { annict_id: 11840, mal_id: 22607 },
+  // [1993-SPRING] OVA: アヒルのペックルの 秘宝を探せ!!
+  // https://annict.com/works/11841
+  { annict_id: 11841, mal_id: 22621 },
 ]
