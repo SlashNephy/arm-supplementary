@@ -20500,7 +20500,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6943, mal_id: 34315 },
   // [2018-WINTER] MOVIE: ゴーちゃん。～モコと氷の上の約束～
   // https://annict.com/works/6944
-  { annict_id: 6944 },
+  { annict_id: 6944, mal_id: 37267 },
   // [2020-SPRING] TV: 新サクラ大戦 the Animation
   // https://annict.com/works/6945
   { annict_id: 6945, mal_id: 40403, syobocal_tid: 5630 },
@@ -29282,7 +29282,7 @@ export const annict: ArmEntry[] = [
   // [1996-WINTER] MOVIE: ハローキティのみんなの森をまもれ!
   // https://annict.com/works/10262
   { annict_id: 10262, mal_id: 18589 },
-  // [2007-WINTER] MOVIE: シナモン the movie
+  // [2007-AUTUMN] MOVIE: シナモン the movie
   // https://annict.com/works/10263
   { annict_id: 10263, mal_id: 5848 },
   // [1993-SUMMER] OVA: ハローキティのしらゆきひめ
@@ -29489,9 +29489,6 @@ export const annict: ArmEntry[] = [
   // [1994-WINTER] OVA: けろけろけろっぴの友だちになろうよ
   // https://annict.com/works/10331
   { annict_id: 10331, mal_id: 22637 },
-  // [1996-WINTER] OVA: けろけろけろっぴのびっくり!おばけやしき
-  // https://annict.com/works/10332
-  { annict_id: 10332, mal_id: 22641 },
   // [1994-WINTER] OVA: けろけろけろっぴのぼくたちのたからもの
   // https://annict.com/works/10333
   { annict_id: 10333, mal_id: 17985 },
@@ -33998,4 +33995,7 @@ export const annict: ArmEntry[] = [
   // [2006-SPRING] MOVIE: ジュディ・ジェディ
   // https://annict.com/works/11837
   { annict_id: 11837 },
+  // [1981-WINTER] MOVIE: キティとミミィの新しい傘
+  // https://annict.com/works/11838
+  { annict_id: 11838, mal_id: 35032 },
 ]
