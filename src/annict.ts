@@ -29642,7 +29642,7 @@ export const annict: ArmEntry[] = [
   // [2004-WINTER] OVA: キティとダニエルのおどるサンタさんのひみつ
   // https://annict.com/works/10383
   { annict_id: 10383, mal_id: 29549 },
-  // [1999-null] OVA: ハローキティといっしょにお勉強
+  // [1999-WINTER] TV: ハローキティといっしょにお勉強
   // https://annict.com/works/10384
   { annict_id: 10384, mal_id: 53665 },
   // [2023-WINTER] TV: KJファイル 第2期
@@ -34007,4 +34007,13 @@ export const annict: ArmEntry[] = [
   // [1993-SPRING] OVA: アヒルのペックルの 秘宝を探せ!!
   // https://annict.com/works/11841
   { annict_id: 11841, mal_id: 22621 },
+  // [1993-AUTUMN] OVA: ポチャッコのわくわくバースデー
+  // https://annict.com/works/11842
+  { annict_id: 11842, mal_id: 22617 },
+  // [1993-AUTUMN] OVA: ポチャッコのにんじん畑は大騒ぎ
+  // https://annict.com/works/11843
+  { annict_id: 11843, mal_id: 22623 },
+  // [1994-WINTER] OVA: ハローキティといっしょ
+  // https://annict.com/works/11844
+  { annict_id: 11844, mal_id: 25871 },
 ]
