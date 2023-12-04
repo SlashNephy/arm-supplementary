@@ -34037,4 +34037,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] WEB: オズワルド・ザ・ラッキーラビット(2022)
   // https://annict.com/works/11851
   { annict_id: 11851 },
+  // [null-null] OTHER: 青春ブタ野郎シリーズ 《大学生編》
+  // https://annict.com/works/11852
+  { annict_id: 11852, mal_id: 57433 },
 ]
