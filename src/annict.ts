@@ -34031,4 +34031,7 @@ export const annict: ArmEntry[] = [
   // [2024-null] OTHER: 機動警察パトレイバーEZY
   // https://annict.com/works/11849
   { annict_id: 11849 },
+  // [2023-SUMMER] WEB: めちゃるGEAR MECHA MECHA NA MISSION
+  // https://annict.com/works/11850
+  { annict_id: 11850 },
 ]
