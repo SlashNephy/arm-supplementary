@@ -34034,4 +34034,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] WEB: めちゃるGEAR MECHA MECHA NA MISSION
   // https://annict.com/works/11850
   { annict_id: 11850 },
+  // [2022-AUTUMN] WEB: オズワルド・ザ・ラッキーラビット(2022)
+  // https://annict.com/works/11851
+  { annict_id: 11851 },
 ]
