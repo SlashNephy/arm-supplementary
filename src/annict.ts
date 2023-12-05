@@ -34043,4 +34043,16 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] WEB: 『ストリートファイター6』×『劇場版 SPY×FAMILY CODE: White』スペシャルコラボアニメ
   // https://annict.com/works/11853
   { annict_id: 11853 },
+  // [1984-WINTER] TV: 小さな恋のものがたり チッチとサリー初恋の四季
+  // https://annict.com/works/11854
+  { annict_id: 11854, mal_id: 25033 },
+  // [1989-AUTUMN] TV: ポール・ポジション
+  // https://annict.com/works/11855
+  { annict_id: 11855 },
+  // [1989-null] OVA: アニメ ゴーストバスターズ
+  // https://annict.com/works/11856
+  { annict_id: 11856 },
+  // [1990-SPRING] TV: スパイラルゾーン
+  // https://annict.com/works/11857
+  { annict_id: 11857 },
 ]
