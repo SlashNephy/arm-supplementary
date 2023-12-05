@@ -34040,4 +34040,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 青春ブタ野郎シリーズ 《大学生編》
   // https://annict.com/works/11852
   { annict_id: 11852, mal_id: 57433 },
+  // [2023-AUTUMN] WEB: 『ストリートファイター6』×『劇場版 SPY×FAMILY CODE: White』スペシャルコラボアニメ
+  // https://annict.com/works/11853
+  { annict_id: 11853 },
 ]
