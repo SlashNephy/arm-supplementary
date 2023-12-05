@@ -34021,7 +34021,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11845 },
   // [2023-AUTUMN] TV: ハートカクテル カラフル 冬編
   // https://annict.com/works/11846
-  { annict_id: 11846, syobocal_tid: 6892 },
+  { annict_id: 11846, mal_id: 57436, syobocal_tid: 6892 },
   // [2023-AUTUMN] TV: カッラフルなエッッブリデイ
   // https://annict.com/works/11847
   { annict_id: 11847, syobocal_tid: 6891 },
