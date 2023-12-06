@@ -34073,4 +34073,19 @@ export const annict: ArmEntry[] = [
   // [1987-AUTUMN] OVA: Good Morning アルテア
   // https://annict.com/works/11863
   { annict_id: 11863, mal_id: 2482 },
+  // [null-null] TV: 本好きの下剋上 司書になるためには手段を選んでいられません 領主の養女
+  // https://annict.com/works/11864
+  { annict_id: 11864, mal_id: 57466 },
+  // [1966-SUMMER] MOVIE: 長編漫画映画 ジャングル大帝
+  // https://annict.com/works/11865
+  { annict_id: 11865, mal_id: 20381 },
+  // [1979-SUMMER] MOVIE: 北極のムーシカ・ミーシカ
+  // https://annict.com/works/11866
+  { annict_id: 11866, mal_id: 7729 },
+  // [1981-SUMMER] MOVIE: ゆき
+  // https://annict.com/works/11867
+  { annict_id: 11867, mal_id: 8598 },
+  // [1988-SUMMER] MOVIE: 火の雨がふる
+  // https://annict.com/works/11868
+  { annict_id: 11868, mal_id: 5929 },
 ]
