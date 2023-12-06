@@ -34055,4 +34055,10 @@ export const annict: ArmEntry[] = [
   // [1990-SPRING] TV: スパイラルゾーン
   // https://annict.com/works/11857
   { annict_id: 11857 },
+  // [2024-AUTUMN] MOVIE: ふれる。
+  // https://annict.com/works/11858
+  { annict_id: 11858, mal_id: 57448 },
+  // [1989-SPRING] MOVIE: 劇場版 妖刀伝
+  // https://annict.com/works/11859
+  { annict_id: 11859, mal_id: 1378 },
 ]

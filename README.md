@@ -38,17 +38,17 @@ export const fetchArmEntries = async (): Promise<ArmEntry[]> => {
 
 ## Statistics
 
-Currently, arm-supplementary has 37752 entries (+8165).
+Currently, arm-supplementary has 37754 entries (+8167).
 
 | Service                                     | arm-supplementary | arm / anime-offline-database |
 | :------------------------------------------ | :---------------: | :--------------------------: |
-| [Annict](https://annict.com)                |   11353 (+817)    |            10536             |
-| [AniList](https://anilist.co)               |   21894 (+2725)   |            19169             |
-| [MyAnimeList](https://myanimelist.net)      |   26698 (+1349)   |            25349             |
+| [Annict](https://annict.com)                |   11355 (+819)    |            10536             |
+| [AniList](https://anilist.co)               |   21895 (+2726)   |            19169             |
+| [MyAnimeList](https://myanimelist.net)      |   26700 (+1351)   |            25349             |
 | [しょぼいカレンダー](https://cal.syoboi.jp) |    5800 (+102)    |             5698             |
-| [AniDB](https://anidb.net)                  |   13448 (+440)    |            13008             |
-| [Anime-Planet](https://anime-planet.com)    |   23826 (+496)    |            23330             |
-| [aniSearch](https://anisearch.com)          |   18722 (+476)    |            18246             |
-| [Kitsu](https://kitsu.io)                   |   20271 (+504)    |            19767             |
-| [LiveChart.me](https://livechart.me)        |   11331 (+317)    |            11014             |
-| [Anime Notifier](https://notify.moe)        |   16533 (+497)    |            16036             |
+| [AniDB](https://anidb.net)                  |   13449 (+441)    |            13008             |
+| [Anime-Planet](https://anime-planet.com)    |   23827 (+497)    |            23330             |
+| [aniSearch](https://anisearch.com)          |   18723 (+477)    |            18246             |
+| [Kitsu](https://kitsu.io)                   |   20272 (+505)    |            19767             |
+| [LiveChart.me](https://livechart.me)        |   11332 (+318)    |            11014             |
+| [Anime Notifier](https://notify.moe)        |   16534 (+498)    |            16036             |
