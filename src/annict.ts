@@ -33089,7 +33089,7 @@ export const annict: ArmEntry[] = [
   // [2024-null] WEB: ジュラシック･ワールド/サバイバル・ミッション
   // https://annict.com/works/11535
   { annict_id: 11535 },
-  // [null-null] TV: 悶えてよ、アダムくん
+  // [2024-WINTER] TV: 悶えてよ、アダムくん
   // https://annict.com/works/11536
   { annict_id: 11536 },
   // [null-null] OTHER: 魔法使いの約束
@@ -34091,4 +34091,34 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] WEB: 16bitセンセーション ANOTHER LAYER 特別番組 『時をかけるコノハ』
   // https://annict.com/works/11869
   { annict_id: 11869 },
+  // [1989-SUMMER] OVA: のたり松太郎
+  // https://annict.com/works/11870
+  { annict_id: 11870, mal_id: 7836 },
+  // [1992-WINTER] OVA: おーい！アダッチー
+  // https://annict.com/works/11871
+  { annict_id: 11871, mal_id: 28113 },
+  // [1992-SUMMER] MOVIE: せんぼんまつばら
+  // https://annict.com/works/11872
+  { annict_id: 11872, mal_id: 19167 },
+  // [1992-SUMMER] MOVIE: ぞう列車がやってきた
+  // https://annict.com/works/11873
+  { annict_id: 11873, mal_id: 11095 },
+  // [1993-SUMMER] MOVIE: つるにのって ～とも子の冒険～
+  // https://annict.com/works/11874
+  { annict_id: 11874, mal_id: 5917 },
+  // [1994-AUTUMN] OVA: 鬼がら
+  // https://annict.com/works/11875
+  { annict_id: 11875, mal_id: 28115 },
+  // [1994-SUMMER] MOVIE: ライヤンツーリーのうた
+  // https://annict.com/works/11876
+  { annict_id: 11876, mal_id: 9959 },
+  // [1996-SUMMER] MOVIE: マヤの一生
+  // https://annict.com/works/11877
+  { annict_id: 11877, mal_id: 25301 },
+  // [1997-SUMMER] MOVIE: 栄光へのシュプール 猪谷千春物語
+  // https://annict.com/works/11878
+  { annict_id: 11878, mal_id: 19943 },
+  // [1998-AUTUMN] OVA: 九頭竜川と少年
+  // https://annict.com/works/11879
+  { annict_id: 11879, mal_id: 28109 },
 ]
