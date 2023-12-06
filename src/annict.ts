@@ -28010,7 +28010,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] WEB: ロマンティック・キラー
   // https://annict.com/works/9837
   { annict_id: 9837, mal_id: 52865 },
-  // [1993-null] OVA: THE COCKPIT
+  // [1993-AUTUMN] OVA: THE COCKPIT
   // https://annict.com/works/9838
   { annict_id: 9838, mal_id: 2500 },
   // [1990-WINTER] OVA: BE-BOP-HIGHSCHOOL
