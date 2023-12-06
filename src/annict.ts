@@ -34088,4 +34088,7 @@ export const annict: ArmEntry[] = [
   // [1988-SUMMER] MOVIE: 火の雨がふる
   // https://annict.com/works/11868
   { annict_id: 11868, mal_id: 5929 },
+  // [2023-AUTUMN] WEB: 16bitセンセーション ANOTHER LAYER 特別番組 『時をかけるコノハ』
+  // https://annict.com/works/11869
+  { annict_id: 11869 },
 ]
