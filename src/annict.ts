@@ -21014,7 +21014,7 @@ export const annict: ArmEntry[] = [
   // [2021-WINTER] MOVIE: 劇場版 生徒会役員共2
   // https://annict.com/works/7179
   { annict_id: 7179, mal_id: 40814 },
-  // [2020-SPRING] TV: 本好きの下剋上 司書になるためには手段を選んでいられません 第2部
+  // [2020-SPRING] TV: 本好きの下剋上 司書になるためには手段を選んでいられません 第2期
   // https://annict.com/works/7180
   { annict_id: 7180, mal_id: 40815, syobocal_tid: 5600 },
   // [2007-SUMMER] OVA: こどものじかん やすみじかん 〜あなたがわたしにくれたもの〜
@@ -34067,4 +34067,10 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] MOVIE: 名探偵コナン 灰原哀物語 〜黒鉄のミステリートレイン〜
   // https://annict.com/works/11861
   { annict_id: 11861, mal_id: 53780 },
+  // [1986-SUMMER] MOVIE: ガルフォース エターナル・ストーリー
+  // https://annict.com/works/11862
+  { annict_id: 11862, mal_id: 2060 },
+  // [1987-AUTUMN] OVA: Good Morning アルテア
+  // https://annict.com/works/11863
+  { annict_id: 11863, mal_id: 2482 },
 ]
