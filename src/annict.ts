@@ -34061,4 +34061,7 @@ export const annict: ArmEntry[] = [
   // [1989-SPRING] MOVIE: 劇場版 妖刀伝
   // https://annict.com/works/11859
   { annict_id: 11859, mal_id: 1378 },
+  // [2024-WINTER] MOVIE: 名探偵コナン vs. 怪盗キッド
+  // https://annict.com/works/11860
+  { annict_id: 11860 },
 ]
