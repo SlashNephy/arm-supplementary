@@ -23099,7 +23099,7 @@ export const annict: ArmEntry[] = [
   // [2006-WINTER] OVA: 千年の約束
   // https://annict.com/works/8036
   { annict_id: 8036, mal_id: 20797 },
-  // [2007-null] OVA: ご案内します アナザーワールドへ
+  // [2004-null] OVA: ご案内します アナザーワールドへ
   // https://annict.com/works/8037
   { annict_id: 8037, mal_id: 20703 },
   // [2002-null] OVA: おジャ魔女どれみの交通安全
@@ -34121,4 +34121,37 @@ export const annict: ArmEntry[] = [
   // [1998-AUTUMN] OVA: 九頭竜川と少年
   // https://annict.com/works/11879
   { annict_id: 11879, mal_id: 28109 },
+  // [1999-null] OVA: 怪盗ガリーの日本人攻略法！
+  // https://annict.com/works/11880
+  { annict_id: 11880, mal_id: 28111 },
+  // [1999-WINTER] OVA: クマのミナクロと公平じいさん
+  // https://annict.com/works/11881
+  { annict_id: 11881, mal_id: 28119 },
+  // [2000-SPRING] OVA: 越後の昔ばなし あったてんがのぉ
+  // https://annict.com/works/11882
+  { annict_id: 11882, mal_id: 28117 },
+  // [2001-AUTUMN] OVA: 私たちの暮らしと土木
+  // https://annict.com/works/11883
+  { annict_id: 11883, mal_id: 22279 },
+  // [2002-WINTER] MOVIE: えっちゃんのせんそう
+  // https://annict.com/works/11884
+  { annict_id: 11884, mal_id: 19907 },
+  // [2003-WINTER] MOVIE: 明日をつくった男 田辺朔郎と琵琶湖疏水
+  // https://annict.com/works/11885
+  { annict_id: 11885, mal_id: 28091 },
+  // [1998-null] OVA: 25分で分かる手形・小切手のはなし
+  // https://annict.com/works/11886
+  { annict_id: 11886, mal_id: 52090 },
+  // [2005-SUMMER] MOVIE: NAGASAKI・1945 アンゼラスの鐘
+  // https://annict.com/works/11887
+  { annict_id: 11887, mal_id: 3465 },
+  // [2009-SPRING] MOVIE: パッテンライ!!　南の島の水ものがたり
+  // https://annict.com/works/11888
+  { annict_id: 11888, mal_id: 6688 },
+  // [2015-SUMMER] MOVIE: 氷川丸ものがたり
+  // https://annict.com/works/11889
+  { annict_id: 11889, mal_id: 31235 },
+  // [2016-SUMMER] MOVIE: 未来に向けて−防災を考える−
+  // https://annict.com/works/11890
+  { annict_id: 11890, mal_id: 33980 },
 ]
