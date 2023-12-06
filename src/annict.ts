@@ -34064,4 +34064,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] MOVIE: 名探偵コナン vs. 怪盗キッド
   // https://annict.com/works/11860
   { annict_id: 11860 },
+  // [2023-WINTER] MOVIE: 名探偵コナン 灰原哀物語 〜黒鉄のミステリートレイン〜
+  // https://annict.com/works/11861
+  { annict_id: 11861, mal_id: 53780 },
 ]
