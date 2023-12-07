@@ -34223,4 +34223,10 @@ export const annict: ArmEntry[] = [
   // [1991-AUTUMN] OVA: ねこ・ねこ・幻想曲
   // https://annict.com/works/11913
   { annict_id: 11913, mal_id: 8496 },
+  // [1998-SUMMER] MOVIE: 世紀末リーダー外伝たけし!
+  // https://annict.com/works/11914
+  { annict_id: 11914, mal_id: 16245 },
+  // [2023-AUTUMN] MOVIE: ペルリンプスと秘密の森
+  // https://annict.com/works/11915
+  { annict_id: 11915 },
 ]
