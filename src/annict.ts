@@ -34229,4 +34229,13 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] MOVIE: ペルリンプスと秘密の森
   // https://annict.com/works/11915
   { annict_id: 11915 },
+  // [1992-SUMMER] OVA: ハロー張りネズミ〜殺意の領分〜
+  // https://annict.com/works/11916
+  { annict_id: 11916, mal_id: 4756 },
+  // [1994-AUTUMN] OVA: 無責任艦長タイラー特別編 ひとりぼっちの戦争
+  // https://annict.com/works/11917
+  { annict_id: 11917, mal_id: 1168 },
+  // [1995-SUMMER] OVA: 無責任艦長タイラー(OVA)
+  // https://annict.com/works/11918
+  { annict_id: 11918 },
 ]
