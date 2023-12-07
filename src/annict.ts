@@ -34238,4 +34238,7 @@ export const annict: ArmEntry[] = [
   // [1995-SUMMER] OVA: 無責任艦長タイラー(OVA)
   // https://annict.com/works/11918
   { annict_id: 11918 },
+  // [1997-WINTER] OVA: 鬼神童子ZENKI外伝〜黯鬼奇譚〜
+  // https://annict.com/works/11919
+  { annict_id: 11919, mal_id: 5828 },
 ]
