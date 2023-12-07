@@ -34256,4 +34256,7 @@ export const annict: ArmEntry[] = [
   // [2015-AUTUMN] OVA: ヒーローカンパニー
   // https://annict.com/works/11924
   { annict_id: 11924, mal_id: 30512 },
+  // [2023-SUMMER] WEB: 綾ヵ島観光案内
+  // https://annict.com/works/11925
+  { annict_id: 11925, mal_id: 55754 },
 ]
