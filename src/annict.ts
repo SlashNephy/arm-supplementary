@@ -34253,4 +34253,7 @@ export const annict: ArmEntry[] = [
   // [2000-SUMMER] MOVIE: 劇場版 六門天外モンコレナイト〜伝説のファイアドラゴン〜
   // https://annict.com/works/11923
   { annict_id: 11923, mal_id: 5314 },
+  // [2015-AUTUMN] OVA: ヒーローカンパニー
+  // https://annict.com/works/11924
+  { annict_id: 11924, mal_id: 30512 },
 ]
