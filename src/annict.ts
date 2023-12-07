@@ -7901,7 +7901,7 @@ export const annict: ArmEntry[] = [
   // [2010-SPRING] OVA: 今日、恋をはじめます
   // https://annict.com/works/2639
   { annict_id: 2639, mal_id: 8560 },
-  // [1992-SPRING] OVA: 今日から俺は!!
+  // [1993-SPRING] OVA: 今日から俺は!!
   // https://annict.com/works/2640
   { annict_id: 2640, mal_id: 851 },
   // [2006-SPRING] OVA: 今日の5の2 OVA
@@ -34187,4 +34187,22 @@ export const annict: ArmEntry[] = [
   // [1990-SUMMER] OVA: おそ松くん イヤミはひとり風の中
   // https://annict.com/works/11901
   { annict_id: 11901, mal_id: 32088 },
+  // [1991-SPRING] TV: 満ちてくる時のむこうに
+  // https://annict.com/works/11902
+  { annict_id: 11902, mal_id: 16586 },
+  // [1991-WINTER] OVA: シャコタン☆ブギ
+  // https://annict.com/works/11903
+  { annict_id: 11903, mal_id: 15961 },
+  // [1991-SPRING] OVA: 江口寿史の寿五郎ショウ
+  // https://annict.com/works/11904
+  { annict_id: 11904, mal_id: 20385 },
+  // [1991-SUMMER] OVA: 恐怖新聞
+  // https://annict.com/works/11905
+  { annict_id: 11905, mal_id: 17615 },
+  // [1991-SUMMER] OVA: 心霊恐怖レポート うしろの百太郎
+  // https://annict.com/works/11906
+  { annict_id: 11906, mal_id: 12833 },
+  // [1996-WINTER] OVA: ソニック★ザ★ヘッジホッグ
+  // https://annict.com/works/11907
+  { annict_id: 11907, mal_id: 2263 },
 ]
