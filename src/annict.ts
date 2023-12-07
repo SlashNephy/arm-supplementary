@@ -34241,4 +34241,16 @@ export const annict: ArmEntry[] = [
   // [1997-WINTER] OVA: 鬼神童子ZENKI外伝〜黯鬼奇譚〜
   // https://annict.com/works/11919
   { annict_id: 11919, mal_id: 5828 },
+  // [1998-WINTER] OVA: 鉄拳 -TEKKEN-
+  // https://annict.com/works/11920
+  { annict_id: 11920, mal_id: 537 },
+  // [2011-SUMMER] MOVIE: 鉄拳 ブラッド・ベンジェンス
+  // https://annict.com/works/11921
+  { annict_id: 11921, mal_id: 10702 },
+  // [2022-SUMMER] WEB: Tekken: Bloodline
+  // https://annict.com/works/11922
+  { annict_id: 11922, mal_id: 51347 },
+  // [2000-SUMMER] MOVIE: 劇場版 六門天外モンコレナイト〜伝説のファイアドラゴン〜
+  // https://annict.com/works/11923
+  { annict_id: 11923, mal_id: 5314 },
 ]
