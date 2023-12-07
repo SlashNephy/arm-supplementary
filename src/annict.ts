@@ -8951,7 +8951,7 @@ export const annict: ArmEntry[] = [
   // [1995-SPRING] OVA: 不思議の国の美幸ちゃん
   // https://annict.com/works/2993
   { annict_id: 2993, mal_id: 1496, syobocal_tid: 1583 },
-  // [2001-SPRING] OVA: 冥王計画ゼオライマー
+  // [1988-AUTUMN] OVA: 冥王計画ゼオライマー
   // https://annict.com/works/2994
   { annict_id: 2994, mal_id: 1832, syobocal_tid: 1443 },
   // [1996-SPRING] OVA: 新世紀GPXサイバーフォーミュラ EARLYDAYS RENEWAL
@@ -34214,4 +34214,13 @@ export const annict: ArmEntry[] = [
   // [1999-SUMMER] MOVIE: 小さな巨人 ミクロマン 大激戦! ミクロマンVS最強戦士ゴルゴン
   // https://annict.com/works/11910
   { annict_id: 11910, mal_id: 24269 },
+  // [1991-WINTER] OVA: 魔獣戦士ルナ・ヴァルガー
+  // https://annict.com/works/11911
+  { annict_id: 11911, mal_id: 2079 },
+  // [1993-WINTER] OVA: がんばれゴエモン 次元城の悪夢
+  // https://annict.com/works/11912
+  { annict_id: 11912, mal_id: 8862 },
+  // [1991-AUTUMN] OVA: ねこ・ねこ・幻想曲
+  // https://annict.com/works/11913
+  { annict_id: 11913, mal_id: 8496 },
 ]
