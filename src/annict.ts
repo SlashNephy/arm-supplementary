@@ -34154,4 +34154,37 @@ export const annict: ArmEntry[] = [
   // [2016-SUMMER] MOVIE: 未来に向けて−防災を考える−
   // https://annict.com/works/11890
   { annict_id: 11890, mal_id: 33980 },
+  // [1984-AUTUMN] OVA: 魔法の天使クリィミーマミ 永遠のワンスモア
+  // https://annict.com/works/11891
+  { annict_id: 11891, mal_id: 2045 },
+  // [1985-SPRING] OVA: 魔法の天使クリィミーマミ ロング・グッドバイ
+  // https://annict.com/works/11892
+  { annict_id: 11892, mal_id: 2046 },
+  // [1985-AUTUMN] MOVIE: きまぐれオレンジ☆ロード(少年ジャンプスペシャルアニメ版)
+  // https://annict.com/works/11893
+  { annict_id: 11893, mal_id: 3394 },
+  // [1989-WINTER] OVA: きまぐれオレンジ☆ロード(OVA)
+  // https://annict.com/works/11894
+  { annict_id: 11894, mal_id: 2458 },
+  // [1986-WINTER] OVA: 艶姿 魔法の三人娘
+  // https://annict.com/works/11895
+  { annict_id: 11895, mal_id: 5246 },
+  // [1987-SUMMER] OVA: 魔女っ子クラブ四人組 A空間からのエイリアンX
+  // https://annict.com/works/11896
+  { annict_id: 11896, mal_id: 2080 },
+  // [1987-SUMMER] OVA: LILY-C.A.T.
+  // https://annict.com/works/11897
+  { annict_id: 11897, mal_id: 3258 },
+  // [1988-WINTER] OVA: 沙羅曼蛇
+  // https://annict.com/works/11898
+  { annict_id: 11898, mal_id: 2095 },
+  // [1989-WINTER] MOVIE: おそ松くん スイカの星からこんにちはザンス！
+  // https://annict.com/works/11899
+  { annict_id: 11899, mal_id: 19879 },
+  // [1989-SUMMER] OVA: Hi-SPEED JECY
+  // https://annict.com/works/11900
+  { annict_id: 11900, mal_id: 2697 },
+  // [1990-SUMMER] OVA: おそ松くん イヤミはひとり風の中
+  // https://annict.com/works/11901
+  { annict_id: 11901, mal_id: 32088 },
 ]
