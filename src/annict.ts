@@ -8501,7 +8501,7 @@ export const annict: ArmEntry[] = [
   // [1987-SUMMER] OVA: TWD EXPRESS ROLLING TAKEOFF
   // https://annict.com/works/2840
   { annict_id: 2840, mal_id: 12901 },
-  // [1998-AUTUMN] OVA: てなもんやボイジャーズ
+  // [1999-SPRING] OVA: てなもんやボイジャーズ
   // https://annict.com/works/2841
   { annict_id: 2841, mal_id: 773, syobocal_tid: 498 },
   // [1997-AUTUMN] OVA: でたとこプリンセス
@@ -34205,4 +34205,13 @@ export const annict: ArmEntry[] = [
   // [1996-WINTER] OVA: ソニック★ザ★ヘッジホッグ
   // https://annict.com/works/11907
   { annict_id: 11907, mal_id: 2263 },
+  // [1990-SPRING] OVA: 男樹
+  // https://annict.com/works/11908
+  { annict_id: 11908, mal_id: 17903 },
+  // [1998-SPRING] OVA: 新・男樹
+  // https://annict.com/works/11909
+  { annict_id: 11909, mal_id: 9749 },
+  // [1999-SUMMER] MOVIE: 小さな巨人 ミクロマン 大激戦! ミクロマンVS最強戦士ゴルゴン
+  // https://annict.com/works/11910
+  { annict_id: 11910, mal_id: 24269 },
 ]
