@@ -34259,4 +34259,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] WEB: 綾ヵ島観光案内
   // https://annict.com/works/11925
   { annict_id: 11925, mal_id: 55754 },
+  // [2024-WINTER] MOVIE: 映画しまじろう ミラクルじまのなないろカーネーション
+  // https://annict.com/works/11926
+  { annict_id: 11926, mal_id: 54268 },
 ]
