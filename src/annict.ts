@@ -34304,4 +34304,7 @@ export const annict: ArmEntry[] = [
   // [2003-SPRING] TV: はじめの一歩 Champion Road
   // https://annict.com/works/11940
   { annict_id: 11940, mal_id: 264 },
+  // [2003-SUMMER] OVA: はじめの一歩 間柴vs木村 死刑執行
+  // https://annict.com/works/11941
+  { annict_id: 11941, mal_id: 265 },
 ]
