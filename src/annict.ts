@@ -34286,4 +34286,22 @@ export const annict: ArmEntry[] = [
   // [1988-SUMMER] OVA: どんぐりと山猫
   // https://annict.com/works/11934
   { annict_id: 11934, mal_id: 8451 },
+  // [1991-SUMMER] OVA: 帝都物語
+  // https://annict.com/works/11935
+  { annict_id: 11935, mal_id: 1148 },
+  // [1993-SUMMER] TV: ヒロシマに一番電車が走った
+  // https://annict.com/works/11936
+  { annict_id: 11936, mal_id: 7967 },
+  // [1995-AUTUMN] OVA: バイオ・ハンター
+  // https://annict.com/works/11937
+  { annict_id: 11937, mal_id: 1269 },
+  // [1997-WINTER] OVA: ヴァンパイアハンター The Animated Series
+  // https://annict.com/works/11938
+  { annict_id: 11938, mal_id: 1952 },
+  // [2002-WINTER] OVA: TRAVA FIST PLANET
+  // https://annict.com/works/11939
+  { annict_id: 11939, mal_id: 1980 },
+  // [2003-SPRING] TV: はじめの一歩 Champion Road
+  // https://annict.com/works/11940
+  { annict_id: 11940, mal_id: 264 },
 ]
