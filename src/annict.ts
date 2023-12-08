@@ -14278,7 +14278,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 4783, mal_id: 30921 },
   // [2016-WINTER] MOVIE: 風の又三郎
   // https://annict.com/works/4784
-  { annict_id: 4784, mal_id: 12141 },
+  { annict_id: 4784, mal_id: 30922 },
   // [2016-SUMMER] TV: TABOO TATTOO (タブー・タトゥー)
   // https://annict.com/works/4785
   { annict_id: 4785, mal_id: 29758, syobocal_tid: 4210 },
@@ -34283,4 +34283,7 @@ export const annict: ArmEntry[] = [
   // [1988-SUMMER] OVA: 風の又三郎(OVA)
   // https://annict.com/works/11933
   { annict_id: 11933, mal_id: 12141 },
+  // [1988-SUMMER] OVA: どんぐりと山猫
+  // https://annict.com/works/11934
+  { annict_id: 11934, mal_id: 8451 },
 ]
