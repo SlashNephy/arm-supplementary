@@ -34262,4 +34262,25 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] MOVIE: 映画しまじろう ミラクルじまのなないろカーネーション
   // https://annict.com/works/11926
   { annict_id: 11926, mal_id: 54268 },
+  // [1985-AUTUMN] OVA: バビ・ストック
+  // https://annict.com/works/11927
+  { annict_id: 11927, mal_id: 10105 },
+  // [1985-SUMMER] OVA: 夢次元ハンターファンドラ
+  // https://annict.com/works/11928
+  { annict_id: 11928, mal_id: 5907 },
+  // [1986-WINTER] OVA: ザ・ヒューマノイド 哀の惑星レザリア
+  // https://annict.com/works/11929
+  { annict_id: 11929, mal_id: 2974 },
+  // [1988-SUMMER] OVA: ワット・ポーとぼくらのお話
+  // https://annict.com/works/11930
+  { annict_id: 11930, mal_id: 4521 },
+  // [1986-SUMMER] OVA: 傷追い人
+  // https://annict.com/works/11931
+  { annict_id: 11931, mal_id: 3064 },
+  // [1987-AUTUMN] OVA: X電車で行こう
+  // https://annict.com/works/11932
+  { annict_id: 11932, mal_id: 1973 },
+  // [1988-SUMMER] OVA: 風の又三郎(OVA)
+  // https://annict.com/works/11933
+  { annict_id: 11933, mal_id: 12141 },
 ]
