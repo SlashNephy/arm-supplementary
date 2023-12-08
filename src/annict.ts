@@ -34331,4 +34331,7 @@ export const annict: ArmEntry[] = [
   // [2008-SUMMER] OVA: バットマン ゴッサムナイト
   // https://annict.com/works/11949
   { annict_id: 11949, mal_id: 4094 },
+  // [2024-SPRING] WEB: ライジングインパクト
+  // https://annict.com/works/11950
+  { annict_id: 11950, mal_id: 57487 },
 ]
