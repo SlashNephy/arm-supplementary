@@ -34310,4 +34310,25 @@ export const annict: ArmEntry[] = [
   // [2003-AUTUMN] OVA: アクエリアンエイジ Saga II 〜Don't forget me…〜
   // https://annict.com/works/11942
   { annict_id: 11942, mal_id: 1268 },
+  // [2005-WINTER] OVA: おとぎ銃士 赤ずきん(OVA)
+  // https://annict.com/works/11943
+  { annict_id: 11943, mal_id: 402 },
+  // [2005-WINTER] OVA: 天上天下 ULTIMATE FIGHT
+  // https://annict.com/works/11944
+  { annict_id: 11944, mal_id: 448 },
+  // [2004-SUMMER] OVA: いちご100% 恋が始まる!? 撮影合宿 〜ゆれるココロが東へ西へ〜
+  // https://annict.com/works/11945
+  { annict_id: 11945, mal_id: 642 },
+  // [2005-SPRING] OVA: いちご100%(オリジナルDVDアニメ)
+  // https://annict.com/works/11946
+  { annict_id: 11946, mal_id: 981 },
+  // [2006-SUMMER] TV: 太陽の黙示録
+  // https://annict.com/works/11947
+  { annict_id: 11947, mal_id: 1857 },
+  // [2008-SUMMER] MOVIE: ハイランダー
+  // https://annict.com/works/11948
+  { annict_id: 11948, mal_id: 2178 },
+  // [2008-SUMMER] OVA: バットマン ゴッサムナイト
+  // https://annict.com/works/11949
+  { annict_id: 11949, mal_id: 4094 },
 ]
