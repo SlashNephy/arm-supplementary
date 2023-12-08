@@ -24875,9 +24875,9 @@ export const annict: ArmEntry[] = [
   // [2021-AUTUMN] TV: Deep Insanity THE LOST CHILD
   // https://annict.com/works/8661
   { annict_id: 8661, mal_id: 49292, syobocal_tid: 6148 },
-  // [null-null] OTHER: クラユカバ
+  // [2024-SPRING] MOVIE: クラユカバ
   // https://annict.com/works/8662
-  { annict_id: 8662 },
+  { annict_id: 8662, mal_id: 56553 },
   // [2012-SUMMER] WEB: 端ノ向フ
   // https://annict.com/works/8663
   { annict_id: 8663, mal_id: 24127 },
@@ -34334,4 +34334,10 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] WEB: ライジングインパクト
   // https://annict.com/works/11950
   { annict_id: 11950, mal_id: 57487 },
+  // [2021-SUMMER] MOVIE: クラユカバ 序章
+  // https://annict.com/works/11951
+  { annict_id: 11951 },
+  // [2024-SPRING] MOVIE: クラメルカガリ
+  // https://annict.com/works/11952
+  { annict_id: 11952 },
 ]
