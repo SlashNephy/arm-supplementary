@@ -34307,4 +34307,7 @@ export const annict: ArmEntry[] = [
   // [2003-SUMMER] OVA: はじめの一歩 間柴vs木村 死刑執行
   // https://annict.com/works/11941
   { annict_id: 11941, mal_id: 265 },
+  // [2003-AUTUMN] OVA: アクエリアンエイジ Saga II 〜Don't forget me…〜
+  // https://annict.com/works/11942
+  { annict_id: 11942, mal_id: 1268 },
 ]
