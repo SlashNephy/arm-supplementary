@@ -34340,4 +34340,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] MOVIE: クラメルカガリ
   // https://annict.com/works/11952
   { annict_id: 11952 },
+  // [1986-AUTUMN] MOVIE: 扉を開けて
+  // https://annict.com/works/11953
+  { annict_id: 11953, mal_id: 3192 },
 ]
