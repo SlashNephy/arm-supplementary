@@ -1513,7 +1513,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 503, mal_id: 1261 },
   // [1983-WINTER] TV: キャプテン
   // https://annict.com/works/504
-  { annict_id: 504, mal_id: 27915, syobocal_tid: 1794 },
+  { annict_id: 504, mal_id: 9905, syobocal_tid: 1794 },
   // [2001-AUTUMN] TV: キャプテン翼
   // https://annict.com/works/505
   { annict_id: 505, mal_id: 1614, syobocal_tid: 199 },
@@ -34415,4 +34415,28 @@ export const annict: ArmEntry[] = [
   // [1982-SPRING] TV: ぽっぺん先生と帰らずの沼
   // https://annict.com/works/11977
   { annict_id: 11977, mal_id: 30360 },
+  // [1977-SPRING] TV: アルプスの音楽少女 ネッティのふしぎな物語
+  // https://annict.com/works/11978
+  { annict_id: 11978 },
+  // [1978-AUTUMN] TV: 町一番のけちんぼう
+  // https://annict.com/works/11979
+  { annict_id: 11979, mal_id: 19971 },
+  // [1980-SPRING] TV: キャプテン(TVスペシャル)
+  // https://annict.com/works/11980
+  { annict_id: 11980, mal_id: 27915 },
+  // [1981-SUMMER] MOVIE: キャプテン(映画)
+  // https://annict.com/works/11981
+  { annict_id: 11981, mal_id: 18759 },
+  // [1980-SUMMER] TV: マリンスノーの伝説
+  // https://annict.com/works/11982
+  { annict_id: 11982, mal_id: 6942 },
+  // [1983-SPRING] TV: ジェレミーの木
+  // https://annict.com/works/11983
+  { annict_id: 11983, mal_id: 29207 },
+  // [1981-SPRING] TV: ミスター・ジャイアンツ 栄光の背番号3
+  // https://annict.com/works/11984
+  { annict_id: 11984 },
+  // [1981-AUTUMN] TV: 杜子春
+  // https://annict.com/works/11985
+  { annict_id: 11985, mal_id: 6124 },
 ]
