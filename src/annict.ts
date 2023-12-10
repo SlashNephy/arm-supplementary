@@ -22895,7 +22895,7 @@ export const annict: ArmEntry[] = [
   // [2021-WINTER] WEB: チョコ松さん～ホワイトデー編～ (おそ松さん)
   // https://annict.com/works/7938
   { annict_id: 7938, mal_id: 48409 },
-  // [2021-AUTUMN] TV: 鬼滅の刃 遊郭編 (2期)
+  // [2021-AUTUMN] TV: 鬼滅の刃 遊郭編
   // https://annict.com/works/7969
   { annict_id: 7969, mal_id: 47778, syobocal_tid: 6188 },
   // [2021-SPRING] TV: 黒ギャルになったから親友としてみた。
@@ -29513,7 +29513,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 地縛少年花子くん 第2期
   // https://annict.com/works/10340
   { annict_id: 10340, mal_id: 53924 },
-  // [2023-WINTER] MOVIE: 「鬼滅の刃」上弦集結、そして刀鍛冶の里へ
+  // [2023-WINTER] MOVIE: 鬼滅の刃 上弦集結、そして刀鍛冶の里へ
   // https://annict.com/works/10341
   { annict_id: 10341, mal_id: 54591 },
   // [2022-AUTUMN] WEB: 新米錬金術師の店舗経営 ミニアニメ
@@ -31256,7 +31256,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: 冒険者になりたいと都に出て行った娘がSランクになってた
   // https://annict.com/works/10923
   { annict_id: 10923, mal_id: 53494, syobocal_tid: 6861 },
-  // [null-null] TV: 鬼滅の刃 柱稽古編
+  // [2024-SPRING] TV: 鬼滅の刃 柱稽古編
   // https://annict.com/works/10924
   { annict_id: 10924, mal_id: 55701 },
   // [2024-WINTER] MOVIE: 劇場版 僕とロボコ
@@ -34460,4 +34460,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] WEB: 陰謀論のオシゴト シーズン2
   // https://annict.com/works/11992
   { annict_id: 11992 },
+  // [2024-WINTER] MOVIE: 鬼滅の刃 絆の奇跡、そして柱稽古へ
+  // https://annict.com/works/11993
+  { annict_id: 11993 },
 ]
