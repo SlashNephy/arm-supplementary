@@ -34466,4 +34466,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] TV: 炎上撲滅！魔法少女アイ子
   // https://annict.com/works/11994
   { annict_id: 11994 },
+  // [2024-WINTER] TV: 明治撃剣－1874－
+  // https://annict.com/works/11996
+  { annict_id: 11996, mal_id: 57502 },
 ]
