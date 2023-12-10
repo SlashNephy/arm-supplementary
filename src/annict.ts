@@ -34394,4 +34394,25 @@ export const annict: ArmEntry[] = [
   // [2005-SPRING] MOVIE: ガラスのうさぎ
   // https://annict.com/works/11970
   { annict_id: 11970, mal_id: 3646 },
+  // [1990-WINTER] TV: 宇宙を夢みた男たち
+  // https://annict.com/works/11971
+  { annict_id: 11971 },
+  // [2017-WINTER] TV: “栄光なき天才たち”からの物語
+  // https://annict.com/works/11972
+  { annict_id: 11972, mal_id: 35025 },
+  // [2004-SUMMER] OVA: アイシールド21 幻のゴールデンボウル
+  // https://annict.com/works/11973
+  { annict_id: 11973, mal_id: 1317 },
+  // [2005-SUMMER] OVA: アイシールド21 クリスマスボウルへの道 〜南の島で特訓だ! YA-HA-!!〜
+  // https://annict.com/works/11974
+  { annict_id: 11974, mal_id: 6418 },
+  // [1991-AUTUMN] OVA: 俺の空 刑事篇
+  // https://annict.com/works/11975
+  { annict_id: 11975, mal_id: 9338 },
+  // [1993-SUMMER] OVA: 紅狼
+  // https://annict.com/works/11976
+  { annict_id: 11976, mal_id: 6090 },
+  // [1982-SPRING] TV: ぽっぺん先生と帰らずの沼
+  // https://annict.com/works/11977
+  { annict_id: 11977, mal_id: 30360 },
 ]
