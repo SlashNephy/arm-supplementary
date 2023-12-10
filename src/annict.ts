@@ -22454,9 +22454,9 @@ export const annict: ArmEntry[] = [
   // [2020-AUTUMN] TV: カオルの大切なモノ
   // https://annict.com/works/7759
   { annict_id: 7759, mal_id: 43416, syobocal_tid: 5828 },
-  // [2020-AUTUMN] WEB: MARS RED ミニアニメ
+  // [2020-AUTUMN] WEB: ぜろきかん日報
   // https://annict.com/works/7760
-  { annict_id: 7760 },
+  { annict_id: 7760, mal_id: 44129 },
   // [2020-AUTUMN] TV: 東京ガンボ
   // https://annict.com/works/7761
   { annict_id: 7761, mal_id: 44056, syobocal_tid: 5829 },
@@ -31595,7 +31595,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 勇者刑に処す 懲罰勇者9004隊刑務記録
   // https://annict.com/works/11036
   { annict_id: 11036, mal_id: 56009 },
-  // [2024-null] TV: 百千さん家のあやかし王子
+  // [2024-WINTER] TV: 百千さん家のあやかし王子
   // https://annict.com/works/11037
   { annict_id: 11037, mal_id: 55998 },
   // [2023-SUMMER] TV: 蒼穹のファフナー THE BEYOND (TV Edition)
