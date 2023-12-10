@@ -34439,4 +34439,22 @@ export const annict: ArmEntry[] = [
   // [1981-AUTUMN] TV: 杜子春
   // https://annict.com/works/11985
   { annict_id: 11985, mal_id: 6124 },
+  // [2023-SUMMER] WEB: PUNCH PUNCH FOREVER!
+  // https://annict.com/works/11986
+  { annict_id: 11986 },
+  // [2023-SPRING] WEB: The Red Eclipse!
+  // https://annict.com/works/11987
+  { annict_id: 11987 },
+  // [2023-AUTUMN] WEB: アメイジング・デジタル・サーカス
+  // https://annict.com/works/11988
+  { annict_id: 11988 },
+  // [2009-SPRING] WEB: うるまでるびのGO!GO!選挙
+  // https://annict.com/works/11989
+  { annict_id: 11989 },
+  // [2010-AUTUMN] OVA: うるまでるびのGO!GO!明るい社会
+  // https://annict.com/works/11990
+  { annict_id: 11990 },
+  // [2023-AUTUMN] WEB: リック・アンド・モーティ シーズン7
+  // https://annict.com/works/11991
+  { annict_id: 11991 },
 ]
