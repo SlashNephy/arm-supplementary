@@ -34457,4 +34457,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] WEB: リック・アンド・モーティ シーズン7
   // https://annict.com/works/11991
   { annict_id: 11991 },
+  // [2022-AUTUMN] WEB: 陰謀論のオシゴト シーズン2
+  // https://annict.com/works/11992
+  { annict_id: 11992 },
 ]
