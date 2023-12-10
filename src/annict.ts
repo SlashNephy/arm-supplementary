@@ -34343,4 +34343,19 @@ export const annict: ArmEntry[] = [
   // [1986-AUTUMN] MOVIE: 扉を開けて
   // https://annict.com/works/11953
   { annict_id: 11953, mal_id: 3192 },
+  // [1988-SUMMER] MOVIE: 白旗の少女 琉子
+  // https://annict.com/works/11954
+  { annict_id: 11954, mal_id: 9546 },
+  // [1988-AUTUMN] OVA: 神州魑魅変
+  // https://annict.com/works/11955
+  { annict_id: 11955, mal_id: 7052 },
+  // [1989-SPRING] OVA: 力王 RIKI-OH 等括地獄
+  // https://annict.com/works/11956
+  { annict_id: 11956, mal_id: 3509 },
+  // [1990-SUMMER] OVA: 力王 RIKI-OH VIOLENCE2 滅びの子
+  // https://annict.com/works/11957
+  { annict_id: 11957, mal_id: 3511 },
+  // [1989-AUTUMN] OVA: 寒月一凍悪霊斬り
+  // https://annict.com/works/11958
+  { annict_id: 11958, mal_id: 18583 },
 ]
