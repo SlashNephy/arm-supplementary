@@ -10553,7 +10553,7 @@ export const annict: ArmEntry[] = [
   // [2013-WINTER] MOVIE: ドラゴンボールZ 神と神
   // https://annict.com/works/3528
   { annict_id: 3528, mal_id: 14837 },
-  // [1995-SUMMER] MOVIE: ドラゴンボールZ 竜拳爆発!!悟空がやらねば誰がやる
+  // [1995-SUMMER] MOVIE: ドラゴンボールZ 龍拳爆発!!悟空がやらねば誰がやる
   // https://annict.com/works/3529
   { annict_id: 3529, mal_id: 906 },
   // [1991-WINTER] MOVIE: ドラゴンボールZ 超サイヤ人だ孫悟空
