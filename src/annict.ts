@@ -30389,7 +30389,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: 『ヒプノシスマイク-Division Rap Battle-』Rhyme Anima ＋
   // https://annict.com/works/10633
   { annict_id: 10633, mal_id: 54858, syobocal_tid: 6819 },
-  // [null-null] TV: 僕のヒーローアカデミア (第7期)
+  // [2024-SPRING] TV: 僕のヒーローアカデミア (第7期)
   // https://annict.com/works/10634
   { annict_id: 10634, mal_id: 54789 },
   // [null-null] TV: TRIGUN STAMPEDE シリーズ完結編
@@ -31252,7 +31252,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10921, mal_id: 53223, syobocal_tid: 6909 },
   // [2024-WINTER] TV: 僕の心のヤバイやつ 第2期
   // https://annict.com/works/10922
-  { annict_id: 10922, mal_id: 55690 },
+  { annict_id: 10922, mal_id: 55690, syobocal_tid: 6917 },
   // [2023-AUTUMN] TV: 冒険者になりたいと都に出て行った娘がSランクになってた
   // https://annict.com/works/10923
   { annict_id: 10923, mal_id: 53494, syobocal_tid: 6861 },
@@ -32486,7 +32486,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] TV: カードファイト!! ヴァンガード Divinez
   // https://annict.com/works/11333
   { annict_id: 11333 },
-  // [null-null] OTHER: ツイヤバ
+  // [2023-AUTUMN] WEB: ツイヤバ
   // https://annict.com/works/11334
   { annict_id: 11334, mal_id: 56948 },
   // [null-null] TV: 齢5000年の草食ドラゴン、いわれなき邪竜認定 2期
@@ -34463,4 +34463,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] MOVIE: 鬼滅の刃 絆の奇跡、そして柱稽古へ
   // https://annict.com/works/11993
   { annict_id: 11993 },
+  // [2024-WINTER] TV: 炎上撲滅！魔法少女アイ子
+  // https://annict.com/works/11994
+  { annict_id: 11994 },
 ]
