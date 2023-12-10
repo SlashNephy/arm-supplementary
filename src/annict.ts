@@ -8042,9 +8042,9 @@ export const annict: ArmEntry[] = [
   // [1986-SUMMER] OVA: Call Me トゥナイト
   // https://annict.com/works/2686
   { annict_id: 2686, mal_id: 2147 },
-  // [2008-SUMMER] OVA: COBRA THE SPACE ANIMATION
+  // [2008-SUMMER] OVA: COBRA THE ANIMATION ザ・サイコガン
   // https://annict.com/works/2687
-  { annict_id: 2687 },
+  { annict_id: 2687, mal_id: 4646 },
   // [1994-WINTER] OVA: Compiler
   // https://annict.com/works/2688
   { annict_id: 2688, mal_id: 3026 },
@@ -34358,4 +34358,40 @@ export const annict: ArmEntry[] = [
   // [1989-AUTUMN] OVA: 寒月一凍悪霊斬り
   // https://annict.com/works/11958
   { annict_id: 11958, mal_id: 18583 },
+  // [1990-AUTUMN] MOVIE: 亜人戦士
+  // https://annict.com/works/11959
+  { annict_id: 11959, mal_id: 17325 },
+  // [1990-SPRING] OVA: 鬼丸 ONIMARU
+  // https://annict.com/works/11960
+  { annict_id: 11960, mal_id: 23819 },
+  // [1990-AUTUMN] OVA: マッド★ブル34
+  // https://annict.com/works/11961
+  { annict_id: 11961, mal_id: 3448 },
+  // [1991-WINTER] OVA: 絶滅の島
+  // https://annict.com/works/11962
+  { annict_id: 11962 },
+  // [1993-SPRING] MOVIE: みいちゃんのてのひら
+  // https://annict.com/works/11963
+  { annict_id: 11963, mal_id: 27579 },
+  // [1994-SUMMER] MOVIE: 雪渡り
+  // https://annict.com/works/11964
+  { annict_id: 11964, mal_id: 15141 },
+  // [2009-SPRING] OVA: COBRA THE ANIMATION タイム・ドライブ
+  // https://annict.com/works/11965
+  { annict_id: 11965, mal_id: 5031 },
+  // [2001-SUMMER] MOVIE: いのちの地球 ダイオキシンの夏
+  // https://annict.com/works/11966
+  { annict_id: 11966, mal_id: 9495 },
+  // [2002-AUTUMN] MOVIE: 夢かける高原 清里の父 ポール・ラッシュ
+  // https://annict.com/works/11967
+  { annict_id: 11967, mal_id: 33828 },
+  // [2003-SUMMER] MOVIE: もも子、かえるの歌がきこえるよ。
+  // https://annict.com/works/11968
+  { annict_id: 11968, mal_id: 7877 },
+  // [1997-WINTER] MOVIE: 機関車先生
+  // https://annict.com/works/11969
+  { annict_id: 11969, mal_id: 23085 },
+  // [2005-SPRING] MOVIE: ガラスのうさぎ
+  // https://annict.com/works/11970
+  { annict_id: 11970, mal_id: 3646 },
 ]
