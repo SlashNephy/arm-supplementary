@@ -34526,4 +34526,7 @@ export const annict: ArmEntry[] = [
   // [1988-SUMMER] OVA: 小助さま力丸さま -コンペイ島の竜-
   // https://annict.com/works/12015
   { annict_id: 12015, mal_id: 3214 },
+  // [1989-SUMMER] OVA: やじきた学園道中記
+  // https://annict.com/works/12016
+  { annict_id: 12016, mal_id: 12795 },
 ]
