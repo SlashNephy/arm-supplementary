@@ -34613,4 +34613,7 @@ export const annict: ArmEntry[] = [
   // [1995-AUTUMN] TV: ズッコケ三人組 楠屋敷のグルグル様
   // https://annict.com/works/12044
   { annict_id: 12044, mal_id: 36559 },
+  // [2005-AUTUMN] OVA: METAL GEAR SOLID 3 SECRET THEATER
+  // https://annict.com/works/12045
+  { annict_id: 12045 },
 ]
