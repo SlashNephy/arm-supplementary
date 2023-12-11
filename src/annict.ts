@@ -34529,4 +34529,37 @@ export const annict: ArmEntry[] = [
   // [1989-SUMMER] OVA: やじきた学園道中記
   // https://annict.com/works/12016
   { annict_id: 12016, mal_id: 12795 },
+  // [1990-SPRING] MOVIE: 女戦士エフェ&ジーラ グーデの紋章
+  // https://annict.com/works/12017
+  { annict_id: 12017, mal_id: 2069 },
+  // [1990-WINTER] OVA: 1+2=パラダイス
+  // https://annict.com/works/12018
+  { annict_id: 12018, mal_id: 2730 },
+  // [1990-WINTER] OVA: 暗黒神伝承 武神
+  // https://annict.com/works/12019
+  { annict_id: 12019, mal_id: 1244 },
+  // [1987-SUMMER] OVA: ハイスクールAGENT
+  // https://annict.com/works/12020
+  { annict_id: 12020, mal_id: 18557 },
+  // [1988-SPRING] OVA: 学園便利屋シリーズ AntiqueHeart
+  // https://annict.com/works/12021
+  { annict_id: 12021, mal_id: 5926 },
+  // [1989-SUMMER] OVA: 新キャプテン翼
+  // https://annict.com/works/12022
+  { annict_id: 12022, mal_id: 2117 },
+  // [1989-SUMMER] OVA: ARIEL VISUAL
+  // https://annict.com/works/12023
+  { annict_id: 12023, mal_id: 2839 },
+  // [1990-AUTUMN] OVA: 魔獣戦線
+  // https://annict.com/works/12024
+  { annict_id: 12024, mal_id: 9043 },
+  // [1991-WINTER] OVA: DELUXE ARIEL
+  // https://annict.com/works/12025
+  { annict_id: 12025, mal_id: 2837 },
+  // [1991-SUMMER] OVA: 闇の司法官ジャッジ
+  // https://annict.com/works/12026
+  { annict_id: 12026, mal_id: 1340 },
+  // [1991-AUTUMN] OVA: 超幕末少年世紀タカマル
+  // https://annict.com/works/12027
+  { annict_id: 12027, mal_id: 21545 },
 ]
