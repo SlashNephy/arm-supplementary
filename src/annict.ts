@@ -34610,4 +34610,7 @@ export const annict: ArmEntry[] = [
   // [1995-SPRING] OVA: 真・女神転生 東京黙示録
   // https://annict.com/works/12043
   { annict_id: 12043, mal_id: 1338 },
+  // [1995-AUTUMN] TV: ズッコケ三人組 楠屋敷のグルグル様
+  // https://annict.com/works/12044
+  { annict_id: 12044, mal_id: 36559 },
 ]
