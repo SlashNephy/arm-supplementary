@@ -34592,4 +34592,16 @@ export const annict: ArmEntry[] = [
   // [1992-AUTUMN] OVA: 風魔の小次郎 最終章 風魔反乱篇
   // https://annict.com/works/12037
   { annict_id: 12037, mal_id: 4856 },
+  // [1993-SUMMER] OVA: 妖世紀水滸伝 -魔星降臨-
+  // https://annict.com/works/12038
+  { annict_id: 12038, mal_id: 1766 },
+  // [1993-AUTUMN] OVA: フォーチュン・クエスト 世にも幸せな冒険者たち
+  // https://annict.com/works/12039
+  { annict_id: 12039, mal_id: 6557 },
+  // [1994-AUTUMN] MOVIE: ダークサイド・ブルース
+  // https://annict.com/works/12040
+  { annict_id: 12040, mal_id: 1494 },
+  // [1994-AUTUMN] OVA: キャプテン翼 最強の敵!オランダユース
+  // https://annict.com/works/12041
+  { annict_id: 12041, mal_id: 2122 },
 ]
