@@ -8972,9 +8972,9 @@ export const annict: ArmEntry[] = [
   // [1992-SUMMER] OVA: 新世紀GPXサイバーフォーミュラ グラフィティ
   // https://annict.com/works/3000
   { annict_id: 3000, mal_id: 9759 },
-  // [1989-SPRING] OVA: 風魔の小次郎
+  // [1989-SPRING] OVA: 風魔の小次郎 夜叉篇
   // https://annict.com/works/3001
-  { annict_id: 3001 },
+  { annict_id: 3001, mal_id: 4854 },
   // [2011-SUMMER] OVA: Baby Princess 3Dぱらだいす0
   // https://annict.com/works/3002
   { annict_id: 3002, mal_id: 10196, syobocal_tid: 2233 },
@@ -34586,4 +34586,10 @@ export const annict: ArmEntry[] = [
   // [1992-AUTUMN] OVA: ねこひきのオルオラネ
   // https://annict.com/works/12035
   { annict_id: 12035, mal_id: 5925 },
+  // [1990-SUMMER] OVA: 風魔の小次郎 聖剣戦争篇
+  // https://annict.com/works/12036
+  { annict_id: 12036, mal_id: 4855 },
+  // [1992-AUTUMN] OVA: 風魔の小次郎 最終章 風魔反乱篇
+  // https://annict.com/works/12037
+  { annict_id: 12037, mal_id: 4856 },
 ]
