@@ -34604,4 +34604,7 @@ export const annict: ArmEntry[] = [
   // [1994-AUTUMN] OVA: キャプテン翼 最強の敵!オランダユース
   // https://annict.com/works/12041
   { annict_id: 12041, mal_id: 2122 },
+  // [null-null] MOVIE: 狂気山脈 ネイキッド・ピーク
+  // https://annict.com/works/12042
+  { annict_id: 12042, mal_id: 53849 },
 ]
