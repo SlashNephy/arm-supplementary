@@ -34607,4 +34607,7 @@ export const annict: ArmEntry[] = [
   // [null-null] MOVIE: 狂気山脈 ネイキッド・ピーク
   // https://annict.com/works/12042
   { annict_id: 12042, mal_id: 53849 },
+  // [1995-SPRING] OVA: 真・女神転生 東京黙示録
+  // https://annict.com/works/12043
+  { annict_id: 12043, mal_id: 1338 },
 ]
