@@ -8735,7 +8735,7 @@ export const annict: ArmEntry[] = [
   // [1984-SUMMER] OVA: BIRTH
   // https://annict.com/works/2920
   { annict_id: 2920, mal_id: 2607 },
-  // [1994-AUTUMN] OVA: BOUNTY DOG 月面のイヴ
+  // [1994-AUTUMN] OVA: BOUNTY DOG/月面のイブ
   // https://annict.com/works/2921
   { annict_id: 2921, mal_id: 1811 },
   // [2003-WINTER] OVA: HAND MAID マイ
@@ -34490,4 +34490,40 @@ export const annict: ArmEntry[] = [
   // [1996-AUTUMN] OVA: ガルフォース THE REVOLUTION
   // https://annict.com/works/12003
   { annict_id: 12003, mal_id: 2066 },
+  // [1988-WINTER] OVA: 恐怖のバイオ人間 最終教師
+  // https://annict.com/works/12004
+  { annict_id: 12004, mal_id: 2780 },
+  // [1989-WINTER] OVA: 虚無戦史MIROKU
+  // https://annict.com/works/12005
+  { annict_id: 12005, mal_id: 9691 },
+  // [1992-SPRING] OVA: 愛物語 9 Love Stories
+  // https://annict.com/works/12006
+  { annict_id: 12006, mal_id: 2387 },
+  // [1991-SPRING] OVA: 一本包丁満太郎
+  // https://annict.com/works/12007
+  { annict_id: 12007, mal_id: 6384 },
+  // [1994-AUTUMN] OVA: 誕生 〜Debut〜
+  // https://annict.com/works/12008
+  { annict_id: 12008, mal_id: 3513 },
+  // [1995-WINTER] OVA: 卒業 〜Graduation〜
+  // https://annict.com/works/12009
+  { annict_id: 12009, mal_id: 2714 },
+  // [1995-SPRING] OVA: 聖羅ヴィクトリー
+  // https://annict.com/works/12010
+  { annict_id: 12010, mal_id: 1643 },
+  // [1996-SPRING] OVA: お嬢様捜査網
+  // https://annict.com/works/12011
+  { annict_id: 12011, mal_id: 2057 },
+  // [1996-WINTER] OVA: Marriage ～結婚～
+  // https://annict.com/works/12012
+  { annict_id: 12012, mal_id: 2082 },
+  // [1996-SPRING] OVA: 闘神伝
+  // https://annict.com/works/12013
+  { annict_id: 12013, mal_id: 2462 },
+  // [1990-SUMMER] MOVIE: 「エイジ」
+  // https://annict.com/works/12014
+  { annict_id: 12014, mal_id: 6076 },
+  // [1988-SUMMER] OVA: 小助さま力丸さま -コンペイ島の竜-
+  // https://annict.com/works/12015
+  { annict_id: 12015, mal_id: 3214 },
 ]
