@@ -34562,4 +34562,28 @@ export const annict: ArmEntry[] = [
   // [1991-AUTUMN] OVA: 超幕末少年世紀タカマル
   // https://annict.com/works/12027
   { annict_id: 12027, mal_id: 21545 },
+  // [1989-AUTUMN] OVA: ドッグソルジャー DOG SOLDIER:SHADOWS OF THE PAST
+  // https://annict.com/works/12028
+  { annict_id: 12028, mal_id: 2318 },
+  // [1992-WINTER] OVA: バビル2世(OVA)
+  // https://annict.com/works/12029
+  { annict_id: 12029, mal_id: 1665 },
+  // [1992-SPRING] OVA: 源氏
+  // https://annict.com/works/12030
+  { annict_id: 12030, mal_id: 8233 },
+  // [1992-SPRING] OVA: ゴリラーマン
+  // https://annict.com/works/12031
+  { annict_id: 12031, mal_id: 24093 },
+  // [1992-SUMMER] OVA: ぷりんせすARMY
+  // https://annict.com/works/12032
+  { annict_id: 12032, mal_id: 3605 },
+  // [1992-AUTUMN] OVA: アップフェルラント物語
+  // https://annict.com/works/12033
+  { annict_id: 12033, mal_id: 5673 },
+  // [1992-AUTUMN] OVA: 新・超幕末少年世紀タカマル
+  // https://annict.com/works/12034
+  { annict_id: 12034, mal_id: 21547 },
+  // [1992-AUTUMN] OVA: ねこひきのオルオラネ
+  // https://annict.com/works/12035
+  { annict_id: 12035, mal_id: 5925 },
 ]
