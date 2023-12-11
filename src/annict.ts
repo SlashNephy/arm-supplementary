@@ -34469,4 +34469,13 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] TV: 明治撃剣－1874－
   // https://annict.com/works/11996
   { annict_id: 11996, mal_id: 57502 },
+  // [1987-AUTUMN] OVA: ガルフォース2 デストラクション
+  // https://annict.com/works/11997
+  { annict_id: 11997, mal_id: 2061 },
+  // [1988-AUTUMN] OVA: ガルフォース3 スターダスト・ウォー
+  // https://annict.com/works/11998
+  { annict_id: 11998, mal_id: 2062 },
+  // [1988-SUMMER] OVA: ガルフォース番外編 テンリトル・ガルフォース
+  // https://annict.com/works/11999
+  { annict_id: 11999, mal_id: 6331 },
 ]
