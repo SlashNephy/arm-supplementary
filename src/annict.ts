@@ -34478,4 +34478,10 @@ export const annict: ArmEntry[] = [
   // [1988-SUMMER] OVA: ガルフォース番外編 テンリトル・ガルフォース
   // https://annict.com/works/11999
   { annict_id: 11999, mal_id: 6331 },
+  // [1989-WINTER] OVA: レア・ガルフォース
+  // https://annict.com/works/12000
+  { annict_id: 12000, mal_id: 2063 },
+  // [1989-AUTUMN] OVA: ガルフォース 地球章
+  // https://annict.com/works/12001
+  { annict_id: 12001, mal_id: 2064 },
 ]
