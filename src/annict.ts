@@ -27671,9 +27671,9 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] TV: 幻日のヨハネ -SUNSHINE in the MIRROR-
   // https://annict.com/works/9723
   { annict_id: 9723, mal_id: 52214, syobocal_tid: 6734 },
-  // [null-null] OTHER: 『チ。ー地球の運動についてー』
+  // [2024-null] OTHER: 『チ。ー地球の運動についてー』
   // https://annict.com/works/9724
-  { annict_id: 9724 },
+  { annict_id: 9724, mal_id: 52215 },
   // [1989-AUTUMN] OVA: アッセンブル・インサート
   // https://annict.com/works/9725
   { annict_id: 9725, mal_id: 2414 },
