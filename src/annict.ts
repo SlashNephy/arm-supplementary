@@ -34661,4 +34661,7 @@ export const annict: ArmEntry[] = [
   // [2004-AUTUMN] OVA: アニメでじゅげむ
   // https://annict.com/works/12060
   { annict_id: 12060 },
+  // [1986-SUMMER] MOVIE: ハイスクール!奇面組(映画)
+  // https://annict.com/works/12061
+  { annict_id: 12061, mal_id: 5956 },
 ]
