@@ -34616,4 +34616,7 @@ export const annict: ArmEntry[] = [
   // [2005-AUTUMN] OVA: METAL GEAR SOLID 3 SECRET THEATER
   // https://annict.com/works/12045
   { annict_id: 12045 },
+  // [1996-AUTUMN] OVA: FAKE
+  // https://annict.com/works/12046
+  { annict_id: 12046, mal_id: 365 },
 ]
