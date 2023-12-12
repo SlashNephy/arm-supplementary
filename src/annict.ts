@@ -32231,7 +32231,7 @@ export const annict: ArmEntry[] = [
   // [2005-SUMMER] TV: AIR IN SUMMER
   // https://annict.com/works/11248
   { annict_id: 11248, mal_id: 656 },
-  // [null-null] TV: ワンルーム、日当たり普通、天使つき。
+  // [2024-SPRING] TV: ワンルーム、日当たり普通、天使つき。
   // https://annict.com/works/11249
   { annict_id: 11249, mal_id: 56838 },
   // [null-null] TV: 合コンに行ったら女がいなかった話
@@ -34637,4 +34637,7 @@ export const annict: ArmEntry[] = [
   // [1998-WINTER] OVA: 夢で逢えたら(OVA)
   // https://annict.com/works/12052
   { annict_id: 12052, mal_id: 715 },
+  // [2012-SUMMER] OVA: あくちぇる・わーるど。
+  // https://annict.com/works/12053
+  { annict_id: 12053, mal_id: 13859 },
 ]
