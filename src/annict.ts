@@ -5923,7 +5923,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1976, mal_id: 610, syobocal_tid: 114 },
   // [2002-SPRING] TV: ホイッスル！
   // https://annict.com/works/1977
-  { annict_id: 1977, mal_id: 34022, syobocal_tid: 4588 },
+  { annict_id: 1977, mal_id: 183, syobocal_tid: 4588 },
   // [1986-AUTUMN] TV: ボスコアドベンチャー
   // https://annict.com/works/1978
   { annict_id: 1978, mal_id: 3460 },
@@ -34664,4 +34664,10 @@ export const annict: ArmEntry[] = [
   // [1986-SUMMER] MOVIE: ハイスクール!奇面組(映画)
   // https://annict.com/works/12061
   { annict_id: 12061, mal_id: 5956 },
+  // [1993-AUTUMN] MOVIE: 映画ツヨシしっかりしなさい
+  // https://annict.com/works/12062
+  { annict_id: 12062, mal_id: 10943 },
+  // [1991-SUMMER] OVA: 哭きの竜 飛竜之章
+  // https://annict.com/works/12063
+  { annict_id: 12063, mal_id: 36662 },
 ]
