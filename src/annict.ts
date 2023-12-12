@@ -34640,4 +34640,25 @@ export const annict: ArmEntry[] = [
   // [2012-SUMMER] OVA: あくちぇる・わーるど。
   // https://annict.com/works/12053
   { annict_id: 12053, mal_id: 13859 },
+  // [1984-SUMMER] MOVIE: カッくんカフェ
+  // https://annict.com/works/12054
+  { annict_id: 12054, mal_id: 23613 },
+  // [1990-AUTUMN] OVA: リカちゃん ふしぎな不思議なユーニア物語
+  // https://annict.com/works/12055
+  { annict_id: 12055, mal_id: 9792 },
+  // [1991-SUMMER] OVA: リカちゃん ふしぎな魔法のリング
+  // https://annict.com/works/12056
+  { annict_id: 12056, mal_id: 7294 },
+  // [1992-SUMMER] OVA: リカちゃんの日曜日
+  // https://annict.com/works/12057
+  { annict_id: 12057, mal_id: 8919 },
+  // [1997-SUMMER] OVA: リカちゃんとヤマネコ 星の旅
+  // https://annict.com/works/12058
+  { annict_id: 12058, mal_id: 9878 },
+  // [1990-SPRING] OVA: 白鳥麗子でございます!
+  // https://annict.com/works/12059
+  { annict_id: 12059, mal_id: 2712 },
+  // [2004-AUTUMN] OVA: アニメでじゅげむ
+  // https://annict.com/works/12060
+  { annict_id: 12060 },
 ]
