@@ -34619,4 +34619,13 @@ export const annict: ArmEntry[] = [
   // [1996-AUTUMN] OVA: FAKE
   // https://annict.com/works/12046
   { annict_id: 12046, mal_id: 365 },
+  // [1997-WINTER] MOVIE: 魔法学園LUNAR! 青い竜の秘密
+  // https://annict.com/works/12047
+  { annict_id: 12047, mal_id: 1990 },
+  // [1997-SPRING] OVA: 紺碧の艦隊 特別編 蒼莱開発物語
+  // https://annict.com/works/12048
+  { annict_id: 12048, mal_id: 10335 },
+  // [1997-WINTER] OVA: 工業哀歌バレーボーイズ
+  // https://annict.com/works/12049
+  { annict_id: 12049, mal_id: 24159 },
 ]
