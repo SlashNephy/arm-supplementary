@@ -34628,4 +34628,7 @@ export const annict: ArmEntry[] = [
   // [1997-WINTER] OVA: 工業哀歌バレーボーイズ
   // https://annict.com/works/12049
   { annict_id: 12049, mal_id: 24159 },
+  // [2024-SPRING] MOVIE: トラペジウム
+  // https://annict.com/works/12050
+  { annict_id: 12050, mal_id: 57508 },
 ]
