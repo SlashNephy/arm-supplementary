@@ -34631,4 +34631,10 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] MOVIE: トラペジウム
   // https://annict.com/works/12050
   { annict_id: 12050, mal_id: 57508 },
+  // [2014-AUTUMN] MOVIE: ピクミン ショートムービー
+  // https://annict.com/works/12051
+  { annict_id: 12051, mal_id: 27539 },
+  // [1998-WINTER] OVA: 夢で逢えたら(OVA)
+  // https://annict.com/works/12052
+  { annict_id: 12052, mal_id: 715 },
 ]
