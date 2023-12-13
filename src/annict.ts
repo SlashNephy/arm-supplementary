@@ -29207,7 +29207,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: 私の推しは悪役令嬢。
   // https://annict.com/works/10237
   { annict_id: 10237, mal_id: 53833, syobocal_tid: 6853 },
-  // [2024-null] TV: Unnamed Memory
+  // [2024-SPRING] TV: Unnamed Memory
   // https://annict.com/works/10238
   { annict_id: 10238, mal_id: 53835 },
   // [2017-SUMMER] WEB: ソニックトゥーン
