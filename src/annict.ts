@@ -34676,4 +34676,13 @@ export const annict: ArmEntry[] = [
   // [1989-AUTUMN] OVA: 魔狩人 デーモンハンター
   // https://annict.com/works/12065
   { annict_id: 12065, mal_id: 6184 },
+  // [1995-AUTUMN] OVA: COMPILER FESTA
+  // https://annict.com/works/12066
+  { annict_id: 12066, mal_id: 5237 },
+  // [1991-AUTUMN] OVA: 入院ボッキ物語 おだいじに!
+  // https://annict.com/works/12067
+  { annict_id: 12067, mal_id: 16970 },
+  // [1997-WINTER] OVA: 超獣伝説ゲシュタルト
+  // https://annict.com/works/12068
+  { annict_id: 12068, mal_id: 1283 },
 ]
