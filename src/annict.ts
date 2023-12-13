@@ -1727,7 +1727,7 @@ export const annict: ArmEntry[] = [
   // [1994-SPRING] TV: 機動武闘伝Gガンダム
   // https://annict.com/works/575
   { annict_id: 575, mal_id: 96, syobocal_tid: 849 },
-  // [1989-AUTUMN] TV: 機動警察パトレイバー
+  // [1989-AUTUMN] TV: 機動警察パトレイバー ON TELEVISION
   // https://annict.com/works/576
   { annict_id: 576, mal_id: 1288, syobocal_tid: 896 },
   // [2005-SPRING] TV: 機獣創世紀 ゾイドジェネシス
@@ -31463,7 +31463,7 @@ export const annict: ArmEntry[] = [
   // [2024-null] TV: 異世界スーサイド・スクワッド
   // https://annict.com/works/10992
   { annict_id: 10992, mal_id: 55848 },
-  // [2024-null] TV: 黒執事 寄宿学校編
+  // [2024-SPRING] TV: 黒執事 -寄宿学校編-
   // https://annict.com/works/10993
   { annict_id: 10993, mal_id: 55855 },
   // [2023-AUTUMN] WEB: ポケモンコンシェルジュ
@@ -32485,7 +32485,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11332, mal_id: 14519 },
   // [2024-WINTER] TV: カードファイト!! ヴァンガード Divinez
   // https://annict.com/works/11333
-  { annict_id: 11333 },
+  { annict_id: 11333, mal_id: 54142, syobocal_tid: 6936 },
   // [2023-AUTUMN] WEB: ツイヤバ
   // https://annict.com/works/11334
   { annict_id: 11334, mal_id: 56948 },
