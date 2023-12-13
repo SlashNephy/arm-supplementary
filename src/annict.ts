@@ -31577,7 +31577,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: ギルドの受付嬢ですが、残業は嫌なのでボスをソロ討伐しようと思います
   // https://annict.com/works/11030
   { annict_id: 11030, mal_id: 55997 },
-  // [null-null] TV: 恋は双子で割り切れない
+  // [2024-SUMMER] TV: 恋は双子で割り切れない
   // https://annict.com/works/11031
   { annict_id: 11031, mal_id: 55996 },
   // [2024-null] TV: メカウデ
@@ -32846,7 +32846,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: ととのえ！サクマくん by &sauna
   // https://annict.com/works/11453
   { annict_id: 11453, mal_id: 57077 },
-  // [2024-null] TV: ヴァンパイア男子寮
+  // [2024-SPRING] TV: ヴァンパイア男子寮
   // https://annict.com/works/11454
   { annict_id: 11454, mal_id: 57031 },
   // [2023-SPRING] TV: 烈火澆愁（字幕版）
@@ -34685,4 +34685,16 @@ export const annict: ArmEntry[] = [
   // [1997-WINTER] OVA: 超獣伝説ゲシュタルト
   // https://annict.com/works/12068
   { annict_id: 12068, mal_id: 1283 },
+  // [2005-SUMMER] MOVIE: 嘉兵衛の海
+  // https://annict.com/works/12069
+  { annict_id: 12069, mal_id: 33607 },
+  // [2013-SUMMER] TV: ラブリームービー いとしのムーコ
+  // https://annict.com/works/12070
+  { annict_id: 12070, mal_id: 23897 },
+  // [2014-SPRING] TV: ラブリームービー いとしのムーコ シーズン2
+  // https://annict.com/works/12071
+  { annict_id: 12071, mal_id: 23901 },
+  // [1991-SUMMER] OVA: 迷走王ボーダー 社会復帰編
+  // https://annict.com/works/12072
+  { annict_id: 12072, mal_id: 16255 },
 ]
