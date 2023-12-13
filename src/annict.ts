@@ -34673,4 +34673,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: ぷにるはかわいいスライム
   // https://annict.com/works/12064
   { annict_id: 12064, mal_id: 57517 },
+  // [1989-AUTUMN] OVA: 魔狩人 デーモンハンター
+  // https://annict.com/works/12065
+  { annict_id: 12065, mal_id: 6184 },
 ]
