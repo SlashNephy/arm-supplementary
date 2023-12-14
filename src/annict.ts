@@ -30328,7 +30328,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10612, mal_id: 53882 },
   // [2024-WINTER] TV: うる星やつら 第2期
   // https://annict.com/works/10613
-  { annict_id: 10613, mal_id: 54829 },
+  { annict_id: 10613, mal_id: 54829, syobocal_tid: 6937 },
   // [2023-SUMMER] TV: いきものさん
   // https://annict.com/works/10614
   { annict_id: 10614, mal_id: 54847, syobocal_tid: 6752 },
@@ -32471,7 +32471,7 @@ export const annict: ArmEntry[] = [
   // [2006-SUMMER] TV: シルクロード少年 ユート
   // https://annict.com/works/11328
   { annict_id: 11328, mal_id: 1863, syobocal_tid: 967 },
-  // [2006-AUTUMN] TV: TOKYO TRIBE 2
+  // [2006-AUTUMN] TV: TOKYO TRIBE2
   // https://annict.com/works/11329
   { annict_id: 11329, mal_id: 1703, syobocal_tid: 907 },
   // [2006-AUTUMN] TV: RGBアドベンチャー
