@@ -34705,5 +34705,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 12074 },
   // [2024-null] TV: 負けヒロインが多すぎる！
   // https://annict.com/works/12075
-  { annict_id: 12075 },
+  { annict_id: 12075, mal_id: 57524 },
 ]
