@@ -34700,4 +34700,10 @@ export const annict: ArmEntry[] = [
   // [1987-AUTUMN] MOVIE: ゴキブリたちの黄昏
   // https://annict.com/works/12073
   { annict_id: 12073, mal_id: 4210 },
+  // [2024-SPRING] MOVIE: きかんしゃトーマス 大冒険！ルックアウトマウンテンとひみつのトンネル
+  // https://annict.com/works/12074
+  { annict_id: 12074 },
+  // [2024-null] TV: 負けヒロインが多すぎる！
+  // https://annict.com/works/12075
+  { annict_id: 12075 },
 ]
