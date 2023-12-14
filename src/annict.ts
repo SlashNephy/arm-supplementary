@@ -34697,4 +34697,7 @@ export const annict: ArmEntry[] = [
   // [1991-SUMMER] OVA: 迷走王ボーダー 社会復帰編
   // https://annict.com/works/12072
   { annict_id: 12072, mal_id: 16255 },
+  // [1987-AUTUMN] MOVIE: ゴキブリたちの黄昏
+  // https://annict.com/works/12073
+  { annict_id: 12073, mal_id: 4210 },
 ]
