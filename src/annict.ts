@@ -17738,7 +17738,7 @@ export const annict: ArmEntry[] = [
   // [2018-AUTUMN] TV: 学園BASARA
   // https://annict.com/works/5948
   { annict_id: 5948, mal_id: 37657, syobocal_tid: 5070 },
-  // [2014-AUTUMN] OVA: LOVE STAGE OVA「チョットジャナクッテ」
+  // [2014-AUTUMN] OVA: LOVE STAGE!! OVA「チョットジャナクッテ」
   // https://annict.com/works/5949
   { annict_id: 5949, mal_id: 23441 },
   // [2014-SUMMER] OVA: アオハライド OAD
