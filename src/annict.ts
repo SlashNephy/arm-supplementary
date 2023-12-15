@@ -34709,4 +34709,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] TV: 最強王図鑑 ～The Ultimate Battles～
   // https://annict.com/works/12076
   { annict_id: 12076 },
+  // [2024-null] TV: 妖怪学校の先生はじめました！
+  // https://annict.com/works/12077
+  { annict_id: 12077, mal_id: 57533 },
 ]
