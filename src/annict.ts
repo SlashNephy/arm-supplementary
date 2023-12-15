@@ -31604,7 +31604,7 @@ export const annict: ArmEntry[] = [
   // [2016-WINTER] WEB: おにくだいすき！ゼウシくん 第3期
   // https://annict.com/works/11039
   { annict_id: 11039, mal_id: 32666 },
-  // [null-null] OTHER: MONSTERS 一百三情飛龍侍極
+  // [2024-WINTER] WEB: MONSTERS 一百三情飛龍侍極
   // https://annict.com/works/11040
   { annict_id: 11040, mal_id: 56055 },
   // [null-null] WEB: Project BULLET／BULLET
@@ -34715,4 +34715,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 理想のヒモ生活
   // https://annict.com/works/12078
   { annict_id: 12078, mal_id: 57528 },
+  // [2023-AUTUMN] TV: 僕の心のヤバイやつ 2期直前！「僕ヤバ」総集編SP
+  // https://annict.com/works/12079
+  { annict_id: 12079 },
 ]
