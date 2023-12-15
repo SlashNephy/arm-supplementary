@@ -34712,4 +34712,7 @@ export const annict: ArmEntry[] = [
   // [2024-null] TV: 妖怪学校の先生はじめました！
   // https://annict.com/works/12077
   { annict_id: 12077, mal_id: 57533 },
+  // [null-null] OTHER: 理想のヒモ生活
+  // https://annict.com/works/12078
+  { annict_id: 12078, mal_id: 57528 },
 ]
