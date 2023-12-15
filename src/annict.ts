@@ -34706,4 +34706,7 @@ export const annict: ArmEntry[] = [
   // [2024-null] TV: 負けヒロインが多すぎる！
   // https://annict.com/works/12075
   { annict_id: 12075, mal_id: 57524 },
+  // [2024-WINTER] TV: 最強王図鑑 ～The Ultimate Battles～
+  // https://annict.com/works/12076
+  { annict_id: 12076 },
 ]
