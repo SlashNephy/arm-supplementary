@@ -29248,7 +29248,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10250, mal_id: 53424, syobocal_tid: 6617 },
   // [2024-WINTER] TV: 道産子ギャルはなまらめんこい
   // https://annict.com/works/10251
-  { annict_id: 10251, mal_id: 53421 },
+  { annict_id: 10251, mal_id: 53421, syobocal_tid: 6894 },
   // [2023-SPRING] TV: カワイスギクライシス
   // https://annict.com/works/10252
   { annict_id: 10252, mal_id: 53163, syobocal_tid: 6627 },
@@ -30214,7 +30214,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10574, syobocal_tid: 6687 },
   // [2024-WINTER] TV: SHAMAN KING FLOWERS
   // https://annict.com/works/10575
-  { annict_id: 10575, mal_id: 51673 },
+  { annict_id: 10575, mal_id: 51673, syobocal_tid: 6921 },
   // [2023-SPRING] TV: ゴー！ゴー！びーくるずー
   // https://annict.com/works/10576
   { annict_id: 10576, syobocal_tid: 6696 },
@@ -31402,7 +31402,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10971, mal_id: 55772 },
   // [2024-WINTER] TV: 姫様“拷問”の時間です
   // https://annict.com/works/10972
-  { annict_id: 10972, mal_id: 55774 },
+  { annict_id: 10972, mal_id: 55774, syobocal_tid: 6893 },
   // [2007-SPRING] MOVIE: いぬかみっ！THE MOVIE 特命霊的捜査官・仮名史郎っ！
   // https://annict.com/works/10973
   { annict_id: 10973, mal_id: 2132 },
