@@ -29270,7 +29270,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 転生したら剣でした 第2期
   // https://annict.com/works/10258
   { annict_id: 10258, mal_id: 53913 },
-  // [2024-null] TV: 夜桜さんちの大作戦
+  // [2024-SPRING] TV: 夜桜さんちの大作戦
   // https://annict.com/works/10259
   { annict_id: 10259, mal_id: 53865 },
   // [2023-AUTUMN] TV: 鴨乃橋ロンの禁断推理
