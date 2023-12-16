@@ -34739,4 +34739,7 @@ export const annict: ArmEntry[] = [
   // [2002-AUTUMN] OVA: From I"s ～もうひとつの夏の物語～
   // https://annict.com/works/12086
   { annict_id: 12086, mal_id: 1084 },
+  // [2003-SUMMER] MOVIE: 良寛さん
+  // https://annict.com/works/12087
+  { annict_id: 12087, mal_id: 30204 },
 ]
