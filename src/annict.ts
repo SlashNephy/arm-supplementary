@@ -7463,7 +7463,7 @@ export const annict: ArmEntry[] = [
   // [2002-AUTUMN] OVA: I'll／CKBC
   // https://annict.com/works/2491
   { annict_id: 2491, mal_id: 359, syobocal_tid: 874 },
-  // [2005-AUTUMN] OVA: I”s Pure
+  // [2005-AUTUMN] OVA: I"s Pure
   // https://annict.com/works/2492
   { annict_id: 2492, mal_id: 811 },
   // [2001-SPRING] OVA: R.O.D -READ OR DIE-
@@ -33698,7 +33698,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] TV: 名湯『異世界の湯』開拓記 ～アラフォー温泉マニアの転生先は、のんびり温泉天国でした～
   // https://annict.com/works/11738
   { annict_id: 11738, mal_id: 57315 },
-  // [null-null] OTHER: ラーメン赤猫
+  // [2024-SUMMER] TV: ラーメン赤猫
   // https://annict.com/works/11739
   { annict_id: 11739, mal_id: 57325 },
   // [1974-SUMMER] MOVIE: ジャックと豆の木
@@ -34736,4 +34736,7 @@ export const annict: ArmEntry[] = [
   // [1997-AUTUMN] OVA: ジェイクの贈り物
   // https://annict.com/works/12085
   { annict_id: 12085 },
+  // [2002-AUTUMN] OVA: From I"s ～もうひとつの夏の物語～
+  // https://annict.com/works/12086
+  { annict_id: 12086, mal_id: 1084 },
 ]
