@@ -34742,4 +34742,10 @@ export const annict: ArmEntry[] = [
   // [2003-SUMMER] MOVIE: 良寛さん
   // https://annict.com/works/12087
   { annict_id: 12087, mal_id: 30204 },
+  // [1992-SUMMER] OVA: 絶対無敵ライジンオー(OVA)
+  // https://annict.com/works/12088
+  { annict_id: 12088, mal_id: 2028 },
+  // [2001-AUTUMN] OVA: 完全勝利ダイテイオー
+  // https://annict.com/works/12089
+  { annict_id: 12089, mal_id: 9221 },
 ]
