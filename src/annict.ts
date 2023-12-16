@@ -34790,4 +34790,10 @@ export const annict: ArmEntry[] = [
   // [1995-SPRING] MOVIE: 翔べ!ペガサス 心のゴールにシュート
   // https://annict.com/works/12103
   { annict_id: 12103, mal_id: 19049 },
+  // [2001-AUTUMN] OVA: Memories Off
+  // https://annict.com/works/12104
+  { annict_id: 12104, mal_id: 361 },
+  // [2003-WINTER] OVA: Memories Off 2nd
+  // https://annict.com/works/12105
+  { annict_id: 12105, mal_id: 362 },
 ]
