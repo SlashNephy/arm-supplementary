@@ -34799,7 +34799,7 @@ export const annict: ArmEntry[] = [
   // [2004-SPRING] OVA: Memories Off 3.5 想い出の彼方へ
   // https://annict.com/works/12106
   { annict_id: 12106, mal_id: 363 },
-  // [2024-SUMMER] TV: 僕のヒーローアカデミア Memories
+  // [2024-SPRING] TV: 僕のヒーローアカデミア Memories
   // https://annict.com/works/12107
   { annict_id: 12107 },
 ]
