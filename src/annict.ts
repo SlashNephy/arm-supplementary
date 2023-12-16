@@ -34751,4 +34751,7 @@ export const annict: ArmEntry[] = [
   // [2007-SPRING] MOVIE: 新SOS大東京探検隊
   // https://annict.com/works/12090
   { annict_id: 12090, mal_id: 4471 },
+  // [2023-AUTUMN] WEB: キャロルの終末
+  // https://annict.com/works/12091
+  { annict_id: 12091 },
 ]
