@@ -32146,7 +32146,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11219 },
   // [2023-AUTUMN] WEB: おーばーていく！えくすとら
   // https://annict.com/works/11220
-  { annict_id: 11220 },
+  { annict_id: 11220, mal_id: 12 },
   // [1998-WINTER] OVA: ゲキ・ガンガー3 熱血大決戦!!
   // https://annict.com/works/11221
   { annict_id: 11221 },
@@ -34042,7 +34042,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11852, mal_id: 57433 },
   // [2023-AUTUMN] WEB: 『ストリートファイター6』×『劇場版 SPY×FAMILY CODE: White』スペシャルコラボアニメ
   // https://annict.com/works/11853
-  { annict_id: 11853 },
+  { annict_id: 11853, mal_id: 57435 },
   // [1984-WINTER] TV: 小さな恋のものがたり チッチとサリー初恋の四季
   // https://annict.com/works/11854
   { annict_id: 11854, mal_id: 25033 },
