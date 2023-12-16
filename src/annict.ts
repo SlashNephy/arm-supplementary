@@ -5557,7 +5557,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1854, mal_id: 356, syobocal_tid: 663 },
   // [2011-AUTUMN] TV: Fate/Zero 1stシーズン
   // https://annict.com/works/1855
-  { annict_id: 1855, mal_id: 10087 },
+  { annict_id: 1855, mal_id: 10087, syobocal_tid: 2277 },
   // [2012-SPRING] TV: Fate/Zero 2ndシーズン
   // https://annict.com/works/1856
   { annict_id: 1856, mal_id: 11741, syobocal_tid: 2500 },
@@ -31220,7 +31220,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: マクロス 新作アニメーション
   // https://annict.com/works/10911
   { annict_id: 10911 },
-  // [2024-null] TV: 新テニスの王子様 U-17 WORLD CUP SEMIFINAL
+  // [2024-AUTUMN] TV: 新テニスの王子様 U-17 WORLD CUP SEMIFINAL
   // https://annict.com/works/10912
   { annict_id: 10912, mal_id: 55570 },
   // [1990-SPRING] OVA: 聖ミカエラ学園漂流記
@@ -31721,7 +31721,7 @@ export const annict: ArmEntry[] = [
   // [2024-null] TV: グレンダイザーU
   // https://annict.com/works/11078
   { annict_id: 11078, mal_id: 56189 },
-  // [null-null] MOVIE: 僕のヒーローアカデミア THE MOVIE 第4弾
+  // [2024-SUMMER] MOVIE: 僕のヒーローアカデミア THE MOVIE 第4弾
   // https://annict.com/works/11079
   { annict_id: 11079, mal_id: 56196 },
   // [2024-SPRING] TV: じいさんばあさん若返る
@@ -34799,4 +34799,7 @@ export const annict: ArmEntry[] = [
   // [2004-SPRING] OVA: Memories Off 3.5 想い出の彼方へ
   // https://annict.com/works/12106
   { annict_id: 12106, mal_id: 363 },
+  // [2024-SUMMER] TV: 僕のヒーローアカデミア Memories
+  // https://annict.com/works/12107
+  { annict_id: 12107 },
 ]
