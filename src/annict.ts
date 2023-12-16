@@ -34748,4 +34748,7 @@ export const annict: ArmEntry[] = [
   // [2001-AUTUMN] OVA: 完全勝利ダイテイオー
   // https://annict.com/works/12089
   { annict_id: 12089, mal_id: 9221 },
+  // [2007-SPRING] MOVIE: 新SOS大東京探検隊
+  // https://annict.com/works/12090
+  { annict_id: 12090, mal_id: 4471 },
 ]
