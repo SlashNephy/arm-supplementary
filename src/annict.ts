@@ -33794,7 +33794,7 @@ export const annict: ArmEntry[] = [
   // [2008-SPRING] OVA: 念仏物語 親鸞さま ねがい、そして ひかり。
   // https://annict.com/works/11770
   { annict_id: 11770, mal_id: 5693 },
-  // [2024-null] TV: ダンダダン
+  // [2024-AUTUMN] TV: ダンダダン
   // https://annict.com/works/11771
   { annict_id: 11771, mal_id: 57334 },
   // [1985-AUTUMN] OVA: 吸血鬼ハンター"D"
