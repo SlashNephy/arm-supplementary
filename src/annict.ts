@@ -34796,4 +34796,7 @@ export const annict: ArmEntry[] = [
   // [2003-WINTER] OVA: Memories Off 2nd
   // https://annict.com/works/12105
   { annict_id: 12105, mal_id: 362 },
+  // [2004-SPRING] OVA: Memories Off 3.5 想い出の彼方へ
+  // https://annict.com/works/12106
+  { annict_id: 12106, mal_id: 363 },
 ]
