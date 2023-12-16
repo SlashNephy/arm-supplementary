@@ -34730,4 +34730,10 @@ export const annict: ArmEntry[] = [
   // [1989-SUMMER] OVA: 燃える!お兄さん(OVA)
   // https://annict.com/works/12083
   { annict_id: 12083, mal_id: 11959 },
+  // [1993-SUMMER] OVA: 天才えりちゃん 金魚を食べた
+  // https://annict.com/works/12084
+  { annict_id: 12084, mal_id: 18907 },
+  // [1997-AUTUMN] OVA: ジェイクの贈り物
+  // https://annict.com/works/12085
+  { annict_id: 12085 },
 ]

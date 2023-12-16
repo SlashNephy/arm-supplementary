@@ -38,17 +38,17 @@ export const fetchArmEntries = async (): Promise<ArmEntry[]> => {
 
 ## Statistics
 
-Currently, arm-supplementary has 37621 entries (+7419).
+Currently, arm-supplementary has 37623 entries (+7421).
 
 | Service                                     | arm-supplementary | arm / anime-offline-database |
 | :------------------------------------------ | :---------------: | :--------------------------: |
-| [Annict](https://annict.com)                |   11576 (+385)    |            11191             |
-| [AniList](https://anilist.co)               |   21808 (+2395)   |            19413             |
-| [MyAnimeList](https://myanimelist.net)      |   26551 (+751)    |            25800             |
+| [Annict](https://annict.com)                |   11578 (+387)    |            11191             |
+| [AniList](https://anilist.co)               |   21809 (+2396)   |            19413             |
+| [MyAnimeList](https://myanimelist.net)      |   26552 (+752)    |            25800             |
 | [しょぼいカレンダー](https://cal.syoboi.jp) |    5779 (+56)     |             5723             |
-| [AniDB](https://anidb.net)                  |   13340 (+315)    |            13025             |
+| [AniDB](https://anidb.net)                  |   13341 (+316)    |            13025             |
 | [Anime-Planet](https://anime-planet.com)    |   23671 (+324)    |            23347             |
-| [aniSearch](https://anisearch.com)          |   18600 (+332)    |            18268             |
-| [Kitsu](https://kitsu.io)                   |   20123 (+340)    |            19783             |
+| [aniSearch](https://anisearch.com)          |   18601 (+333)    |            18268             |
+| [Kitsu](https://kitsu.io)                   |   20124 (+341)    |            19783             |
 | [LiveChart.me](https://livechart.me)        |   11249 (+218)    |            11031             |
-| [Anime Notifier](https://notify.moe)        |   16393 (+334)    |            16059             |
+| [Anime Notifier](https://notify.moe)        |   16394 (+335)    |            16059             |
