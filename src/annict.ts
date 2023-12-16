@@ -34718,4 +34718,16 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: 僕の心のヤバイやつ 2期直前！「僕ヤバ」総集編SP
   // https://annict.com/works/12079
   { annict_id: 12079 },
+  // [1988-WINTER] TV: がんばれ!キッカーズスペシャル ひとりぼっちのエースストライカー
+  // https://annict.com/works/12080
+  { annict_id: 12080, mal_id: 33498 },
+  // [1985-AUTUMN] OVA: 劇場版 ニルスのふしぎな旅
+  // https://annict.com/works/12081
+  { annict_id: 12081, mal_id: 7664 },
+  // [1986-SPRING] OVA: GoGo虎ェ門
+  // https://annict.com/works/12082
+  { annict_id: 12082, mal_id: 23245 },
+  // [1989-SUMMER] OVA: 燃える!お兄さん(OVA)
+  // https://annict.com/works/12083
+  { annict_id: 12083, mal_id: 11959 },
 ]
