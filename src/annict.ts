@@ -34754,4 +34754,37 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] WEB: キャロルの終末
   // https://annict.com/works/12091
   { annict_id: 12091 },
+  // [1988-WINTER] OVA: 小さなペンギンロロの冒険
+  // https://annict.com/works/12092
+  { annict_id: 12092, mal_id: 4138 },
+  // [1989-WINTER] OVA: 爆走サーキット・ロマン TWIN
+  // https://annict.com/works/12093
+  { annict_id: 12093, mal_id: 13553 },
+  // [1986-SPRING] TV: 虹のかなたへ! 少女ダイアナ物語
+  // https://annict.com/works/12094
+  { annict_id: 12094, mal_id: 12165 },
+  // [1986-SUMMER] MOVIE: RUNNING BOY スター・ソルジャーの秘密
+  // https://annict.com/works/12095
+  { annict_id: 12095, mal_id: 10653 },
+  // [1989-AUTUMN] MOVIE: ギャラガ HYPER-PSYCHIC-GEO GARAGA
+  // https://annict.com/works/12096
+  { annict_id: 12096, mal_id: 1833 },
+  // [1990-WINTER] OVA: ぬ〜ぼ〜 消えたメダル
+  // https://annict.com/works/12097
+  { annict_id: 12097, mal_id: 18575 },
+  // [2009-SUMMER] WEB: ぬ～ぼ～なこころ
+  // https://annict.com/works/12098
+  { annict_id: 12098, mal_id: 18577 },
+  // [1990-SPRING] OVA: ミルキィパッション 道玄坂・愛の城
+  // https://annict.com/works/12099
+  { annict_id: 12099, mal_id: 16954 },
+  // [1995-AUTUMN] OVA: 学校の幽霊
+  // https://annict.com/works/12100
+  { annict_id: 12100, mal_id: 20353 },
+  // [1999-SPRING] OVA: 真 学校の幽霊
+  // https://annict.com/works/12101
+  { annict_id: 12101, mal_id: 35121 },
+  // [1992-WINTER] OVA: ケンネル所沢
+  // https://annict.com/works/12102
+  { annict_id: 12102, mal_id: 13715 },
 ]
