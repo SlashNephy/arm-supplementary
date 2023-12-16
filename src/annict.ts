@@ -34787,4 +34787,7 @@ export const annict: ArmEntry[] = [
   // [1992-WINTER] OVA: ケンネル所沢
   // https://annict.com/works/12102
   { annict_id: 12102, mal_id: 13715 },
+  // [1995-SPRING] MOVIE: 翔べ!ペガサス 心のゴールにシュート
+  // https://annict.com/works/12103
+  { annict_id: 12103, mal_id: 19049 },
 ]
