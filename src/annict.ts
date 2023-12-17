@@ -34820,4 +34820,7 @@ export const annict: ArmEntry[] = [
   // [2009-SUMMER] MOVIE: ウォレスとグルミット ベーカリー街の悪夢
   // https://annict.com/works/12113
   { annict_id: 12113 },
+  // [2001-SPRING] MOVIE: チキンラン
+  // https://annict.com/works/12114
+  { annict_id: 12114 },
 ]
