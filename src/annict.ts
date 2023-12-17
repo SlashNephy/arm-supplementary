@@ -34844,4 +34844,7 @@ export const annict: ArmEntry[] = [
   // [1998-SUMMER] OVA: ONE PIECE 倒せ!海賊ギャンザック
   // https://annict.com/works/12121
   { annict_id: 12121, mal_id: 466 },
+  // [null-null] MOVIE: 劇場版チェンソーマン レゼ篇
+  // https://annict.com/works/12122
+  { annict_id: 12122 },
 ]
