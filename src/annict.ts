@@ -33863,7 +33863,7 @@ export const annict: ArmEntry[] = [
   // [1997-SUMMER] OVA: B'T-X NEO
   // https://annict.com/works/11793
   { annict_id: 11793, mal_id: 1736 },
-  // [2024-null] TV: 株式会社マジルミエ
+  // [2024-AUTUMN] TV: 株式会社マジルミエ
   // https://annict.com/works/11794
   { annict_id: 11794, mal_id: 57360 },
   // [1928-AUTUMN] MOVIE: 蒸気船ウィリー
@@ -34832,4 +34832,16 @@ export const annict: ArmEntry[] = [
   // [1996-SPRING] OVA: サンクチュアリ
   // https://annict.com/works/12117
   { annict_id: 12117, mal_id: 2698 },
+  // [1988-SPRING] OVA: 赤い光弾ジリオン 歌姫夜曲
+  // https://annict.com/works/12118
+  { annict_id: 12118, mal_id: 2689 },
+  // [1990-AUTUMN] OVA: しあわせのかたち
+  // https://annict.com/works/12119
+  { annict_id: 12119, mal_id: 9404 },
+  // [1994-WINTER] OVA: B.B.フィッシュ
+  // https://annict.com/works/12120
+  { annict_id: 12120, mal_id: 5904 },
+  // [1998-SUMMER] OVA: ONE PIECE 倒せ!海賊ギャンザック
+  // https://annict.com/works/12121
+  { annict_id: 12121, mal_id: 466 },
 ]
