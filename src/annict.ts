@@ -31691,7 +31691,7 @@ export const annict: ArmEntry[] = [
   // [2020-AUTUMN] OVA: 超次元ゲイム ネプテューヌ Hi☆Light
   // https://annict.com/works/11068
   { annict_id: 11068, mal_id: 40073 },
-  // [null-null] TV: 忘却バッテリー
+  // [2024-SPRING] TV: 忘却バッテリー
   // https://annict.com/works/11069
   { annict_id: 11069, mal_id: 56165 },
   // [2012-SUMMER] OVA: 喜安浩平の世界
