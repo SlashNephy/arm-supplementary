@@ -34802,4 +34802,22 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: 僕のヒーローアカデミア Memories
   // https://annict.com/works/12107
   { annict_id: 12107 },
+  // [1996-SUMMER] MOVIE: ウォレスとグルミット チーズ・ホリデー
+  // https://annict.com/works/12108
+  { annict_id: 12108 },
+  // [1996-SUMMER] MOVIE: ウォレスとグルミット ペンギンに気をつけろ!
+  // https://annict.com/works/12109
+  { annict_id: 12109 },
+  // [1997-SUMMER] MOVIE: ウォレスとグルミット、危機一髪!
+  // https://annict.com/works/12110
+  { annict_id: 12110 },
+  // [2002-AUTUMN] TV: ウォレスとグルミットのおすすめ生活
+  // https://annict.com/works/12111
+  { annict_id: 12111 },
+  // [2006-WINTER] MOVIE: ウォレスとグルミット 野菜畑で大ピンチ!
+  // https://annict.com/works/12112
+  { annict_id: 12112 },
+  // [2009-SUMMER] MOVIE: ウォレスとグルミット ベーカリー街の悪夢
+  // https://annict.com/works/12113
+  { annict_id: 12113 },
 ]
