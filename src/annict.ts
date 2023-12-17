@@ -34844,10 +34844,16 @@ export const annict: ArmEntry[] = [
   // [1998-SUMMER] OVA: ONE PIECE 倒せ!海賊ギャンザック
   // https://annict.com/works/12121
   { annict_id: 12121, mal_id: 466 },
-  // [null-null] MOVIE: 劇場版チェンソーマン レゼ篇
+  // [null-null] MOVIE: 劇場版 チェンソーマン レゼ篇
   // https://annict.com/works/12122
-  { annict_id: 12122 },
+  { annict_id: 12122, mal_id: 57555 },
   // [null-null] WEB: THE ONE PIECE
   // https://annict.com/works/12123
-  { annict_id: 12123 },
+  { annict_id: 12123, mal_id: 57557 },
+  // [2024-null] TV: MFゴースト 2nd Season
+  // https://annict.com/works/12124
+  { annict_id: 12124 },
+  // [2024-null] TV: るろうに剣心 -明治剣客浪漫譚- 京都動乱
+  // https://annict.com/works/12125
+  { annict_id: 12125, mal_id: 57554 },
 ]
