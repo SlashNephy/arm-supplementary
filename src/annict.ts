@@ -34826,4 +34826,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] WEB: チキンラン: ナゲット大作戦
   // https://annict.com/works/12115
   { annict_id: 12115 },
+  // [2010-SPRING] TV: こひつじのティミー
+  // https://annict.com/works/12116
+  { annict_id: 12116 },
 ]
