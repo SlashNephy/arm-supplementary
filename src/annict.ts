@@ -34829,4 +34829,7 @@ export const annict: ArmEntry[] = [
   // [2010-SPRING] TV: こひつじのティミー
   // https://annict.com/works/12116
   { annict_id: 12116 },
+  // [1996-SPRING] OVA: サンクチュアリ
+  // https://annict.com/works/12117
+  { annict_id: 12117, mal_id: 2698 },
 ]
