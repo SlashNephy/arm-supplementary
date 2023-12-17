@@ -34847,4 +34847,7 @@ export const annict: ArmEntry[] = [
   // [null-null] MOVIE: 劇場版チェンソーマン レゼ篇
   // https://annict.com/works/12122
   { annict_id: 12122 },
+  // [null-null] WEB: THE ONE PIECE
+  // https://annict.com/works/12123
+  { annict_id: 12123 },
 ]
