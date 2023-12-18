@@ -22505,9 +22505,9 @@ export const annict: ArmEntry[] = [
   // [2016-SUMMER] MOVIE: キングスグレイブ ファイナルファンタジーXV
   // https://annict.com/works/7808
   { annict_id: 7808, mal_id: 33082 },
-  // [null-null] OTHER: コードギアス 奪還のロゼ
+  // [2024-SPRING] MOVIE: コードギアス 奪還のロゼ
   // https://annict.com/works/7809
-  { annict_id: 7809, mal_id: 44304 },
+  { annict_id: 7809, mal_id: 56835 },
   // [2021-SPRING] TV: ミュークルドリーミー みっくす！
   // https://annict.com/works/7810
   { annict_id: 7810, mal_id: 44273, syobocal_tid: 6004 },
