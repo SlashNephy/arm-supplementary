@@ -34877,4 +34877,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] MOVIE: ムーミンパパの思い出
   // https://annict.com/works/12132
   { annict_id: 12132 },
+  // [null-null] TV: SHY 第2期
+  // https://annict.com/works/12133
+  { annict_id: 12133 },
 ]
