@@ -11110,7 +11110,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3713, mal_id: 2937, syobocal_tid: 1759 },
   // [1985-WINTER] MOVIE: メガゾーン23（映画）
   // https://annict.com/works/3714
-  { annict_id: 3714 },
+  { annict_id: 3714, mal_id: 1935 },
   // [1986-SPRING] MOVIE: メガゾーン23 PART II 秘密く・だ・さ・い
   // https://annict.com/works/3715
   { annict_id: 3715, syobocal_tid: 4472 },
