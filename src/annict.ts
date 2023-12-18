@@ -9329,7 +9329,7 @@ export const annict: ArmEntry[] = [
   // [1988-SUMMER] MOVIE: AKIRA
   // https://annict.com/works/3119
   { annict_id: 3119, mal_id: 47, syobocal_tid: 441 },
-  // [2011-SPRING] MOVIE: APPLESEED XIII
+  // [2011-SPRING] OVA: APPLESEED XIII
   // https://annict.com/works/3120
   { annict_id: 3120, mal_id: 9737 },
   // [2013-SPRING] MOVIE: AURA ～魔竜院光牙最後の闘い～
@@ -34868,4 +34868,7 @@ export const annict: ArmEntry[] = [
   // [1989-SUMMER] OVA: アマダアニメシリーズ スーパーマリオブラザーズ
   // https://annict.com/works/12129
   { annict_id: 12129, mal_id: 4389 },
+  // [2012-AUTUMN] WEB: NEXT A-Class
+  // https://annict.com/works/12130
+  { annict_id: 12130, mal_id: 16331 },
 ]
