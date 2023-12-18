@@ -30254,7 +30254,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: アイドルマスター シャイニーカラーズ
   // https://annict.com/works/10588
   { annict_id: 10588, mal_id: 54758 },
-  // [null-null] OTHER: 3年Z組銀八先生
+  // [2025-null] TV: 3年Z組銀八先生
   // https://annict.com/works/10589
   { annict_id: 10589, mal_id: 54757 },
   // [2023-SUMMER] TV: ライザのアトリエ ～常闇の女王と秘密の隠れ家～
@@ -34874,4 +34874,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 百姓貴族 第2期
   // https://annict.com/works/12131
   { annict_id: 12131, mal_id: 57562 },
+  // [2023-AUTUMN] MOVIE: ムーミンパパの思い出
+  // https://annict.com/works/12132
+  { annict_id: 12132 },
 ]
