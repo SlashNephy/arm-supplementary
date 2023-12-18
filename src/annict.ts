@@ -34852,7 +34852,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12123, mal_id: 57557 },
   // [2024-null] TV: MFゴースト 2nd Season
   // https://annict.com/works/12124
-  { annict_id: 12124 },
+  { annict_id: 12124, mal_id: 57559 },
   // [2024-null] TV: るろうに剣心 -明治剣客浪漫譚- 京都動乱
   // https://annict.com/works/12125
   { annict_id: 12125, mal_id: 57554 },
@@ -34871,4 +34871,7 @@ export const annict: ArmEntry[] = [
   // [2012-AUTUMN] WEB: NEXT A-Class
   // https://annict.com/works/12130
   { annict_id: 12130, mal_id: 16331 },
+  // [null-null] OTHER: 百姓貴族 第2期
+  // https://annict.com/works/12131
+  { annict_id: 12131, mal_id: 57562 },
 ]
