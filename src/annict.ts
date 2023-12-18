@@ -18401,7 +18401,7 @@ export const annict: ArmEntry[] = [
   // [2018-SUMMER] OVA: テニスの王子様 BEST GAMES!! 手塚 vs 跡部
   // https://annict.com/works/6171
   { annict_id: 6171 },
-  // [2014-AUTUMN] OVA: 新テニスの王子様 OVA2 vs Genius10
+  // [2014-AUTUMN] OVA: 新テニスの王子様 OVA vs Genius10
   // https://annict.com/works/6172
   { annict_id: 6172, mal_id: 21755 },
   // [2011-SUMMER] OVA:  テニスの王子様 OVA ANOTHER STORY II 〜アノトキノボクラ
@@ -34856,4 +34856,10 @@ export const annict: ArmEntry[] = [
   // [2024-null] TV: るろうに剣心 -明治剣客浪漫譚- 京都動乱
   // https://annict.com/works/12125
   { annict_id: 12125, mal_id: 57554 },
+  // [2009-WINTER] OVA: ABUNAI SISTERS -KOKO & MIKA-
+  // https://annict.com/works/12126
+  { annict_id: 12126, mal_id: 5877 },
+  // [2010-SUMMER] OVA: ひよ恋
+  // https://annict.com/works/12127
+  { annict_id: 12127, mal_id: 8768 },
 ]
