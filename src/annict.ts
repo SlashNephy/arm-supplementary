@@ -34769,7 +34769,7 @@ export const annict: ArmEntry[] = [
   // [1989-AUTUMN] MOVIE: ギャラガ HYPER-PSYCHIC-GEO GARAGA
   // https://annict.com/works/12096
   { annict_id: 12096, mal_id: 1833 },
-  // [1990-WINTER] OVA: ぬ〜ぼ〜 消えたメダル
+  // [1990-WINTER] OVA: ぬ～ぼ～ 消えたメダル
   // https://annict.com/works/12097
   { annict_id: 12097, mal_id: 18575 },
   // [2009-SUMMER] WEB: ぬ～ぼ～なこころ
@@ -34862,4 +34862,10 @@ export const annict: ArmEntry[] = [
   // [2010-SUMMER] OVA: ひよ恋
   // https://annict.com/works/12127
   { annict_id: 12127, mal_id: 8768 },
+  // [1991-AUTUMN] OVA: 忍者龍剣伝
+  // https://annict.com/works/12128
+  { annict_id: 12128, mal_id: 619 },
+  // [1989-SUMMER] OVA: アマダアニメシリーズ スーパーマリオブラザーズ
+  // https://annict.com/works/12129
+  { annict_id: 12129, mal_id: 4389 },
 ]
