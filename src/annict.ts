@@ -34871,7 +34871,7 @@ export const annict: ArmEntry[] = [
   // [2012-AUTUMN] WEB: NEXT A-Class
   // https://annict.com/works/12130
   { annict_id: 12130, mal_id: 16331 },
-  // [null-null] OTHER: 百姓貴族 第2期
+  // [null-null] TV: 百姓貴族 (2期)
   // https://annict.com/works/12131
   { annict_id: 12131, mal_id: 57562 },
   // [2023-AUTUMN] MOVIE: ムーミンパパの思い出
