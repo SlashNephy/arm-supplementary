@@ -26849,7 +26849,7 @@ export const annict: ArmEntry[] = [
   // [2022-SPRING] TV: ミラ
   // https://annict.com/works/9448
   { annict_id: 9448 },
-  // [2024-WINTER] MOVIE: デッドデッドデーモンズデデデデデストラクション 前編
+  // [2024-WINTER] MOVIE: デッドデッドデーモンズデデデデデストラクション 前章
   // https://annict.com/works/9449
   { annict_id: 9449, mal_id: 51358 },
   // [2002-AUTUMN] MOVIE: めいとこねこバス
@@ -31793,7 +31793,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 魔導具師ダリヤはうつむかない
   // https://annict.com/works/11102
   { annict_id: 11102, mal_id: 56449 },
-  // [2024-SPRING] MOVIE: デッドデッドデーモンズデデデデデストラクション 後編
+  // [2024-SPRING] MOVIE: デッドデッドデーモンズデデデデデストラクション 後章
   // https://annict.com/works/11103
   { annict_id: 11103 },
   // [2023-AUTUMN] TV: まついぬ
@@ -33227,7 +33227,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] WEB: マイリトルポニー: キューティマークに夢のせて
   // https://annict.com/works/11581
   { annict_id: 11581 },
-  // [2024-null] WEB: GREAT PRETENDER razbliuto
+  // [2024-WINTER] WEB: GREAT PRETENDER razbliuto
   // https://annict.com/works/11582
   { annict_id: 11582, mal_id: 57184 },
   // [null-null] TV: デブとラブと過ちと！
@@ -34883,4 +34883,13 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] TV: 闇芝居 (12期)
   // https://annict.com/works/12134
   { annict_id: 12134 },
+  // [1995-AUTUMN] OVA: ヤマトタケル ～After War～
+  // https://annict.com/works/12135
+  { annict_id: 12135, mal_id: 9376 },
+  // [1996-AUTUMN] TV: ALICE in Cyberland
+  // https://annict.com/works/12136
+  { annict_id: 12136, mal_id: 5330 },
+  // [1987-AUTUMN] OVA: スクーパーズ
+  // https://annict.com/works/12137
+  { annict_id: 12137, mal_id: 9239 },
 ]
