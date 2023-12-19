@@ -34880,4 +34880,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: SHY 第2期
   // https://annict.com/works/12133
   { annict_id: 12133 },
+  // [2024-WINTER] TV: 闇芝居 (12期)
+  // https://annict.com/works/12134
+  { annict_id: 12134 },
 ]
