@@ -25522,7 +25522,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 8941, mal_id: 38923 },
   // [2024-WINTER] TV: 月が導く異世界道中 第二幕
   // https://annict.com/works/8942
-  { annict_id: 8942, mal_id: 49889 },
+  { annict_id: 8942, mal_id: 49889, syobocal_tid: 6903 },
   // [1998-AUTUMN] MOVIE: 魔法の剣 キャメロット
   // https://annict.com/works/8943
   { annict_id: 8943 },
@@ -27196,7 +27196,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9564, mal_id: 33709 },
   // [2024-WINTER] TV: 望まぬ不死の冒険者
   // https://annict.com/works/9565
-  { annict_id: 9565, mal_id: 51648 },
+  { annict_id: 9565, mal_id: 51648, syobocal_tid: 6919 },
   // [2023-SPRING] WEB: ULTRAMAN FINAL
   // https://annict.com/works/9566
   { annict_id: 9566, mal_id: 51653 },
@@ -27694,7 +27694,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9730, mal_id: 52305, syobocal_tid: 6542 },
   // [2024-WINTER] TV: 俺だけレベルアップな件
   // https://annict.com/works/9731
-  { annict_id: 9731, mal_id: 52299 },
+  { annict_id: 9731, mal_id: 52299, syobocal_tid: 6931 },
   // [2023-SPRING] TV: 彼女が公爵邸に行った理由
   // https://annict.com/works/9732
   { annict_id: 9732, mal_id: 52308, syobocal_tid: 6629 },
@@ -27958,7 +27958,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9819, mal_id: 52657, syobocal_tid: 6691 },
   // [2024-WINTER] TV: ダンジョン飯
   // https://annict.com/works/9820
-  { annict_id: 9820, mal_id: 52701 },
+  { annict_id: 9820, mal_id: 52701, syobocal_tid: 6940 },
   // [2022-AUTUMN] TV: ハーレムきゃんぷっ！
   // https://annict.com/works/9821
   { annict_id: 9821, mal_id: 52717, syobocal_tid: 6483 },
@@ -29029,7 +29029,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10177, mal_id: 53587, syobocal_tid: 6693 },
   // [2024-WINTER] TV: 最弱テイマーはゴミ拾いの旅を始めました。
   // https://annict.com/works/10178
-  { annict_id: 10178, mal_id: 53590 },
+  { annict_id: 10178, mal_id: 53590, syobocal_tid: 6927 },
   // [2010-SUMMER] MOVIE: CINEMA KEIBA/JAPAN WORLD CUP
   // https://annict.com/works/10179
   { annict_id: 10179, mal_id: 37326 },
@@ -30121,7 +30121,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10543, mal_id: 52405 },
   // [2024-WINTER] TV: 休日のわるものさん
   // https://annict.com/works/10544
-  { annict_id: 10544, mal_id: 54617 },
+  { annict_id: 10544, mal_id: 54617, syobocal_tid: 6939 },
   // [2023-SUMMER] TV: 百姓貴族
   // https://annict.com/works/10545
   { annict_id: 10545, mal_id: 53426, syobocal_tid: 6726 },
@@ -30133,7 +30133,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10547, mal_id: 51336 },
   // [2024-WINTER] TV: 外科医エリーゼ
   // https://annict.com/works/10548
-  { annict_id: 10548, mal_id: 54632 },
+  { annict_id: 10548, mal_id: 54632, syobocal_tid: 6938 },
   // [2023-SPRING] TV: 鬼滅の刃 遊郭編 特別編集版
   // https://annict.com/works/10549
   { annict_id: 10549 },
@@ -30250,7 +30250,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10586, mal_id: 54743, syobocal_tid: 6849 },
   // [2024-WINTER] TV: 火狩りの王 第2シーズン
   // https://annict.com/works/10587
-  { annict_id: 10587, mal_id: 54754 },
+  { annict_id: 10587, mal_id: 54754, syobocal_tid: 6929 },
   // [2024-SPRING] TV: アイドルマスター シャイニーカラーズ
   // https://annict.com/works/10588
   { annict_id: 10588, mal_id: 54758 },
@@ -30310,7 +30310,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10606, mal_id: 54791 },
   // [2024-WINTER] TV: メタリックルージュ
   // https://annict.com/works/10607
-  { annict_id: 10607, mal_id: 54794 },
+  { annict_id: 10607, mal_id: 54794, syobocal_tid: 6904 },
   // [2023-AUTUMN] TV: カミエラビ
   // https://annict.com/works/10608
   { annict_id: 10608, mal_id: 54798, syobocal_tid: 6846 },
@@ -30346,7 +30346,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10618, mal_id: 54835 },
   // [2024-WINTER] TV: 悪役令嬢レベル99～私は裏ボスですが魔王ではありません～
   // https://annict.com/works/10619
-  { annict_id: 10619, mal_id: 54837 },
+  { annict_id: 10619, mal_id: 54837, syobocal_tid: 6899 },
   // [2024-SPRING] TV: 夜のクラゲは泳げない
   // https://annict.com/works/10620
   { annict_id: 10620, mal_id: 54839 },
@@ -30670,7 +30670,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10727, mal_id: 4070 },
   // [2024-WINTER] TV: 愚かな天使は悪魔と踊る
   // https://annict.com/works/10728
-  { annict_id: 10728, mal_id: 55129 },
+  { annict_id: 10728, mal_id: 55129, syobocal_tid: 6900 },
   // [2023-AUTUMN] MOVIE: 北極百貨店のコンシェルジュさん
   // https://annict.com/works/10729
   { annict_id: 10729, mal_id: 55115 },
@@ -31075,7 +31075,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10862, mal_id: 8431 },
   // [2024-WINTER] TV: ぶっちぎり?!
   // https://annict.com/works/10863
-  { annict_id: 10863, mal_id: 55358 },
+  { annict_id: 10863, mal_id: 55358, syobocal_tid: 6928 },
   // [null-null] MOVIE: つるばみ色のなぎ子たち
   // https://annict.com/works/10864
   { annict_id: 10864, mal_id: 55359 },
@@ -32059,7 +32059,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11190, mal_id: 56738 },
   // [2024-WINTER] TV: SYNDUALITY Noir 第2クール
   // https://annict.com/works/11191
-  { annict_id: 11191, mal_id: 56731 },
+  { annict_id: 11191, mal_id: 56731, syobocal_tid: 6920 },
   // [null-null] TV: 世界最高の暗殺者、異世界貴族に転生する 第2期
   // https://annict.com/works/11192
   { annict_id: 11192, mal_id: 56732 },
@@ -34468,7 +34468,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11994 },
   // [2024-WINTER] TV: 明治撃剣－1874－
   // https://annict.com/works/11996
-  { annict_id: 11996, mal_id: 57502 },
+  { annict_id: 11996, mal_id: 57502, syobocal_tid: 6948 },
   // [1987-AUTUMN] OVA: ガルフォース2 デストラクション
   // https://annict.com/works/11997
   { annict_id: 11997, mal_id: 2061 },
