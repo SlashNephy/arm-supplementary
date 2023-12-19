@@ -31195,7 +31195,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10902, mal_id: 367 },
   // [2024-WINTER] TV: 勇気爆発バーンブレイバーン
   // https://annict.com/works/10903
-  { annict_id: 10903, mal_id: 55528 },
+  { annict_id: 10903, mal_id: 55528, syobocal_tid: 6926 },
   // [1991-SPRING] OVA: 夢枕獏 とわいらいと劇場
   // https://annict.com/works/10904
   { annict_id: 10904, mal_id: 12769 },
@@ -31237,7 +31237,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10916, syobocal_tid: 6769 },
   // [2024-WINTER] TV: スナックバス江
   // https://annict.com/works/10917
-  { annict_id: 10917, mal_id: 55636 },
+  { annict_id: 10917, mal_id: 55636, syobocal_tid: 6934 },
   // [2016-SUMMER] WEB: うさまる
   // https://annict.com/works/10918
   { annict_id: 10918, mal_id: 33787 },
@@ -31426,7 +31426,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10979, mal_id: 57186, syobocal_tid: 6780 },
   // [2024-WINTER] TV: マッシュル-MASHLE- 神覚者候補選抜試験編
   // https://annict.com/works/10980
-  { annict_id: 10980, mal_id: 55813 },
+  { annict_id: 10980, mal_id: 55813, syobocal_tid: 6944 },
   // [null-null] TV: 夏目友人帳 漆
   // https://annict.com/works/10981
   { annict_id: 10981, mal_id: 55823 },
@@ -31543,10 +31543,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 11018 },
   // [2024-WINTER] TV: 魔女と野獣
   // https://annict.com/works/11019
-  { annict_id: 11019, mal_id: 52816 },
+  { annict_id: 11019, mal_id: 52816, syobocal_tid: 6943 },
   // [2024-WINTER] TV: 30歳まで童貞だと魔法使いになれるらしい
   // https://annict.com/works/11020
-  { annict_id: 11020, mal_id: 55973 },
+  { annict_id: 11020, mal_id: 55973, syobocal_tid: 6922 },
   // [2023-SUMMER] WEB: うちの会社の小さい先輩の話 Twitterミニアニメ
   // https://annict.com/works/11021
   { annict_id: 11021 },
@@ -31597,7 +31597,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11036, mal_id: 56009 },
   // [2024-WINTER] TV: 百千さん家のあやかし王子
   // https://annict.com/works/11037
-  { annict_id: 11037, mal_id: 55998 },
+  { annict_id: 11037, mal_id: 55998, syobocal_tid: 6933 },
   // [2023-SUMMER] TV: 蒼穹のファフナー THE BEYOND (TV Edition)
   // https://annict.com/works/11038
   { annict_id: 11038, syobocal_tid: 6737 },
@@ -31732,7 +31732,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11081, mal_id: 56228 },
   // [2024-WINTER] TV: 戦国妖狐
   // https://annict.com/works/11082
-  { annict_id: 11082, mal_id: 56242 },
+  { annict_id: 11082, mal_id: 56242, syobocal_tid: 6923 },
   // [2023-SUMMER] WEB: 『彼女、お借りします』×『てんぷる』コラボミニアニメ
   // https://annict.com/works/11083
   { annict_id: 11083, mal_id: 56172 },
@@ -32005,7 +32005,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11172 },
   // [2024-WINTER] TV: 月刊モー想科学
   // https://annict.com/works/11173
-  { annict_id: 11173, mal_id: 56691 },
+  { annict_id: 11173, mal_id: 56691, syobocal_tid: 6925 },
   // [1987-SPRING] MOVIE: ほえろブンブン(劇場版)
   // https://annict.com/works/11174
   { annict_id: 11174, mal_id: 10509 },
@@ -32080,7 +32080,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11197, mal_id: 49413 },
   // [2024-WINTER] TV: 百妖譜
   // https://annict.com/works/11198
-  { annict_id: 11198, mal_id: 41224 },
+  { annict_id: 11198, mal_id: 41224, syobocal_tid: 6924 },
   // [2023-SUMMER] WEB: まぢピンチ THE ANIMATION
   // https://annict.com/works/11199
   { annict_id: 11199 },
@@ -32173,7 +32173,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11228 },
   // [2024-WINTER] TV: 超普通県チバ伝説
   // https://annict.com/works/11229
-  { annict_id: 11229, mal_id: 54197 },
+  { annict_id: 11229, mal_id: 54197, syobocal_tid: 6932 },
   // [2022-WINTER] WEB: 超普通都市カシワ伝説  (2022)
   // https://annict.com/works/11230
   { annict_id: 11230, mal_id: 42876 },
@@ -32854,7 +32854,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11455, mal_id: 44064 },
   // [2024-WINTER] TV: 烈火澆愁
   // https://annict.com/works/11456
-  { annict_id: 11456, mal_id: 44064 },
+  { annict_id: 11456, mal_id: 44064, syobocal_tid: 6942 },
   // [2023-AUTUMN] WEB: 「ぷれぷれぷれあです」×「かげじつ！」 コラボアニメ
   // https://annict.com/works/11457
   { annict_id: 11457, mal_id: 57034 },
@@ -33091,7 +33091,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11535 },
   // [2024-WINTER] TV: 悶えてよ、アダムくん
   // https://annict.com/works/11536
-  { annict_id: 11536 },
+  { annict_id: 11536, syobocal_tid: 6945 },
   // [null-null] OTHER: 魔法使いの約束
   // https://annict.com/works/11537
   { annict_id: 11537, mal_id: 57152 },
