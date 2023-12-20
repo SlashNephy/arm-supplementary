@@ -30167,7 +30167,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] WEB: ザ・カップヘッド・ショウ！ シーズン3
   // https://annict.com/works/10559
   { annict_id: 10559 },
-  // [1998-WINTER] OVA: ピカチュウのふゆやすみ
+  // [1998-AUTUMN] OVA: ピカチュウのふゆやすみ
   // https://annict.com/works/10560
   { annict_id: 10560, mal_id: 4874 },
   // [2023-SPRING] TV: でんでんの電脳電車
@@ -34916,4 +34916,13 @@ export const annict: ArmEntry[] = [
   // [2001-AUTUMN] TV: ポケットモンスタークリスタル ライコウ 雷の伝説
   // https://annict.com/works/12145
   { annict_id: 12145, mal_id: 1525 },
+  // [1999-AUTUMN] OVA: ポケットモンスター ピカチュウのふゆやすみ2000
+  // https://annict.com/works/12146
+  { annict_id: 12146, mal_id: 10916 },
+  // [2000-AUTUMN] OVA: ポケットモンスター ピチューとピカチュウのふゆやすみ2001
+  // https://annict.com/works/12147
+  { annict_id: 12147, mal_id: 10917 },
+  // [1998-WINTER] OVA: POWER DoLLS・プロジェクトα
+  // https://annict.com/works/12148
+  { annict_id: 12148 },
 ]
