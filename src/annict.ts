@@ -34892,4 +34892,10 @@ export const annict: ArmEntry[] = [
   // [1987-AUTUMN] OVA: スクーパーズ
   // https://annict.com/works/12137
   { annict_id: 12137, mal_id: 9239 },
+  // [1987-AUTUMN] OVA: たいまんぶるうす 清水直人編
+  // https://annict.com/works/12138
+  { annict_id: 12138, mal_id: 18569 },
+  // [1990-SPRING] OVA: たいまんぶるうす レディース編 真由美
+  // https://annict.com/works/12139
+  { annict_id: 12139, mal_id: 18567 },
 ]
