@@ -32146,7 +32146,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11219 },
   // [2023-AUTUMN] WEB: おーばーていく！えくすとら
   // https://annict.com/works/11220
-  { annict_id: 11220, mal_id: 12 },
+  { annict_id: 11220 },
   // [1998-WINTER] OVA: ゲキ・ガンガー3 熱血大決戦!!
   // https://annict.com/works/11221
   { annict_id: 11221 },
