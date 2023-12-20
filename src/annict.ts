@@ -12674,7 +12674,7 @@ export const annict: ArmEntry[] = [
   // [2014-AUTUMN] TV: テイルズ オブ ゼスティリア ～導師の夜明け～
   // https://annict.com/works/4239
   { annict_id: 4239, mal_id: 24459, syobocal_tid: 3627 },
-  // [2015-AUTUMN] TV: ルパン三世 (2015)
+  // [2015-AUTUMN] TV: ルパン三世 PART4
   // https://annict.com/works/4240
   { annict_id: 4240, mal_id: 27947, syobocal_tid: 3902 },
   // [2015-WINTER] WEB: アニメで分かる心療内科
@@ -20549,7 +20549,7 @@ export const annict: ArmEntry[] = [
   // [2019-SUMMER] WEB: モノのかみさま ここたま
   // https://annict.com/works/6960
   { annict_id: 6960, mal_id: 40437, syobocal_tid: 5471 },
-  // [2019-AUTUMN] TV: ポケットモンスター (2019年版)
+  // [2019-AUTUMN] TV: ポケットモンスター (2019)
   // https://annict.com/works/6961
   { annict_id: 6961, mal_id: 40351, syobocal_tid: 5501 },
   // [2020-AUTUMN] MOVIE: 劇場版 鬼滅の刃 無限列車編
@@ -34913,4 +34913,7 @@ export const annict: ArmEntry[] = [
   // [2007-WINTER] OVA: 最後のドアを閉めろ!
   // https://annict.com/works/12144
   { annict_id: 12144, mal_id: 2417 },
+  // [2001-AUTUMN] TV: ポケットモンスタークリスタル ライコウ 雷の伝説
+  // https://annict.com/works/12145
+  { annict_id: 12145, mal_id: 1525 },
 ]
