@@ -35000,4 +35000,7 @@ export const annict: ArmEntry[] = [
   // [1990-AUTUMN] OVA: OL改造講座
   // https://annict.com/works/12173
   { annict_id: 12173, mal_id: 22275 },
+  // [null-null] MOVIE: 劇場版 陰の実力者になりたくて！ 残響編
+  // https://annict.com/works/12174
+  { annict_id: 12174, mal_id: 57584 },
 ]
