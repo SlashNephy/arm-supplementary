@@ -34898,4 +34898,19 @@ export const annict: ArmEntry[] = [
   // [1990-SPRING] OVA: たいまんぶるうす レディース編 真由美
   // https://annict.com/works/12139
   { annict_id: 12139, mal_id: 18567 },
+  // [1997-WINTER] OVA: Jaja馬!カルテット
+  // https://annict.com/works/12140
+  { annict_id: 12140, mal_id: 1855 },
+  // [1996-AUTUMN] OVA: 元祖 爆れつハンター
+  // https://annict.com/works/12141
+  { annict_id: 12141, mal_id: 808 },
+  // [1998-WINTER] OVA: 魔界転生
+  // https://annict.com/works/12142
+  { annict_id: 12142, mal_id: 1455 },
+  // [2001-SPRING] OVA: sin THE MOVIE
+  // https://annict.com/works/12143
+  { annict_id: 12143, mal_id: 2262 },
+  // [2007-WINTER] OVA: 最後のドアを閉めろ!
+  // https://annict.com/works/12144
+  { annict_id: 12144, mal_id: 2417 },
 ]
