@@ -34925,4 +34925,7 @@ export const annict: ArmEntry[] = [
   // [1998-WINTER] OVA: POWER DoLLS・プロジェクトα
   // https://annict.com/works/12148
   { annict_id: 12148 },
+  // [1999-WINTER] OVA: ハイスクール・オーラバスター
+  // https://annict.com/works/12149
+  { annict_id: 12149, mal_id: 2739 },
 ]
