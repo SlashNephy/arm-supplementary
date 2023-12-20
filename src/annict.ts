@@ -34967,4 +34967,10 @@ export const annict: ArmEntry[] = [
   // [2016-AUTUMN] WEB: 100%パスカル先生(Webアニメ)
   // https://annict.com/works/12162
   { annict_id: 12162, mal_id: 35447 },
+  // [2015-AUTUMN] MOVIE: スナックワールド(映画)
+  // https://annict.com/works/12163
+  { annict_id: 12163, mal_id: 32593 },
+  // [2016-AUTUMN] MOVIE: スナックワールド 人嫌いのレニー
+  // https://annict.com/works/12164
+  { annict_id: 12164, mal_id: 34416 },
 ]
