@@ -15154,7 +15154,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5078, mal_id: 33502, syobocal_tid: 4507 },
   // [2017-SPRING] TV: スナックワールド
   // https://annict.com/works/5079
-  { annict_id: 5079, mal_id: 32593, syobocal_tid: 4570 },
+  { annict_id: 5079, mal_id: 32596, syobocal_tid: 4570 },
   // [2017-SPRING] TV: つぐもも
   // https://annict.com/works/5080
   { annict_id: 5080, mal_id: 34019, syobocal_tid: 4509 },
@@ -34952,4 +34952,19 @@ export const annict: ArmEntry[] = [
   // [2015-SPRING] TV: フーパのおでまし大作戦!!
   // https://annict.com/works/12157
   { annict_id: 12157, mal_id: 30686 },
+  // [2015-SPRING] OVA: おでまし小魔神フーパ
+  // https://annict.com/works/12158
+  { annict_id: 12158, mal_id: 31168 },
+  // [2008-AUTUMN] WEB: たまごっちオリジナルアニメ
+  // https://annict.com/works/12159
+  { annict_id: 12159, mal_id: 54380 },
+  // [2012-SUMMER] OVA: たまごっち!×鷹の爪 たまごっちで世界征服
+  // https://annict.com/works/12160
+  { annict_id: 12160, mal_id: 30754 },
+  // [2013-WINTER] OVA: それって、くちぱっち。
+  // https://annict.com/works/12161
+  { annict_id: 12161 },
+  // [2016-AUTUMN] WEB: 100%パスカル先生(Webアニメ)
+  // https://annict.com/works/12162
+  { annict_id: 12162, mal_id: 35447 },
 ]
