@@ -31858,7 +31858,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11123, mal_id: 56646 },
   // [2024-WINTER] TV: 貼りまわれ！こいぬ
   // https://annict.com/works/11124
-  { annict_id: 11124 },
+  { annict_id: 11124, syobocal_tid: 6950 },
   // [2011-WINTER] OVA: ああっ女神さまっ(OAD)
   // https://annict.com/works/11125
   { annict_id: 11125, mal_id: 9611 },
@@ -33697,7 +33697,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11737, mal_id: 32888 },
   // [2024-WINTER] TV: 名湯『異世界の湯』開拓記 ～アラフォー温泉マニアの転生先は、のんびり温泉天国でした～
   // https://annict.com/works/11738
-  { annict_id: 11738, mal_id: 57315 },
+  { annict_id: 11738, mal_id: 57315, syobocal_tid: 6949 },
   // [2024-SUMMER] TV: ラーメン赤猫
   // https://annict.com/works/11739
   { annict_id: 11739, mal_id: 57325 },
@@ -34882,7 +34882,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12133, mal_id: 57567 },
   // [2024-WINTER] TV: 闇芝居 (12期)
   // https://annict.com/works/12134
-  { annict_id: 12134 },
+  { annict_id: 12134, syobocal_tid: 6930 },
   // [1995-AUTUMN] OVA: ヤマトタケル ～After War～
   // https://annict.com/works/12135
   { annict_id: 12135, mal_id: 9376 },
@@ -34928,4 +34928,25 @@ export const annict: ArmEntry[] = [
   // [1999-WINTER] OVA: ハイスクール・オーラバスター
   // https://annict.com/works/12149
   { annict_id: 12149, mal_id: 2739 },
+  // [2003-WINTER] OVA: アーリーレインズ
+  // https://annict.com/works/12150
+  { annict_id: 12150, mal_id: 1928 },
+  // [2007-SUMMER] TV: ポケモン不思議のダンジョン 時の探検隊・闇の探検隊
+  // https://annict.com/works/12151
+  { annict_id: 12151, mal_id: 5256 },
+  // [2009-SPRING] TV: ポケモン不思議のダンジョン 空の探検隊 時と闇をめぐる最後の冒険
+  // https://annict.com/works/12152
+  { annict_id: 12152, mal_id: 6275 },
+  // [2009-AUTUMN] TV: うさるさん
+  // https://annict.com/works/12153
+  { annict_id: 12153, mal_id: 7174 },
+  // [2010-WINTER] TV: ポケモンレンジャー 光の軌跡
+  // https://annict.com/works/12154
+  { annict_id: 12154, mal_id: 8438 },
+  // [2012-SUMMER] OVA: うたえメロエッタ リンカのみをさがせ
+  // https://annict.com/works/12155
+  { annict_id: 12155, mal_id: 14935 },
+  // [2014-SUMMER] TV: 鉱国のプリンセス ディアンシー
+  // https://annict.com/works/12156
+  { annict_id: 12156, mal_id: 25365 },
 ]
