@@ -34949,4 +34949,7 @@ export const annict: ArmEntry[] = [
   // [2014-SUMMER] TV: 鉱国のプリンセス ディアンシー
   // https://annict.com/works/12156
   { annict_id: 12156, mal_id: 25365 },
+  // [2015-SPRING] TV: フーパのおでまし大作戦!!
+  // https://annict.com/works/12157
+  { annict_id: 12157, mal_id: 30686 },
 ]
