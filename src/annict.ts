@@ -34973,4 +34973,7 @@ export const annict: ArmEntry[] = [
   // [2016-AUTUMN] MOVIE: スナックワールド 人嫌いのレニー
   // https://annict.com/works/12164
   { annict_id: 12164, mal_id: 34416 },
+  // [2014-SPRING] TV: パックワールド
+  // https://annict.com/works/12165
+  { annict_id: 12165, mal_id: 28595 },
 ]
