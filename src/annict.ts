@@ -26456,7 +26456,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] TV: 大雪海のカイナ
   // https://annict.com/works/9285
   { annict_id: 9285, mal_id: 50864, syobocal_tid: 6562 },
-  // [2024-null] TV: 神は遊戯に飢えている。
+  // [2024-SPRING] TV: 神は遊戯に飢えている。
   // https://annict.com/works/9286
   { annict_id: 9286, mal_id: 50869 },
   // [2024-WINTER] MOVIE: BLOODY ESCAPE -地獄の逃走劇-
@@ -30641,7 +30641,7 @@ export const annict: ArmEntry[] = [
   // [1996-SPRING] OVA: BURN-UP W
   // https://annict.com/works/10718
   { annict_id: 10718, mal_id: 769 },
-  // [null-null] OTHER: ガールズバンドクライ
+  // [2024-SPRING] TV: ガールズバンドクライ
   // https://annict.com/works/10719
   { annict_id: 10719, mal_id: 55102 },
   // [2024-SPRING] TV: バーテンダー 神のグラス
@@ -34976,4 +34976,28 @@ export const annict: ArmEntry[] = [
   // [2014-SPRING] TV: パックワールド
   // https://annict.com/works/12165
   { annict_id: 12165, mal_id: 28595 },
+  // [2001-AUTUMN] OVA: ハム太郎のおたんじょうび 〜ママをたずねて三千てちてち〜
+  // https://annict.com/works/12166
+  { annict_id: 12166, mal_id: 2399 },
+  // [2003-WINTER] OVA: ハムちゃんずの宝さがし大作戦〜はむはー!すてきな海のなつやすみ〜
+  // https://annict.com/works/12167
+  { annict_id: 12167, mal_id: 8949 },
+  // [2004-WINTER] OVA: ハムちゃんずと虹の国の王子さま 〜せかいでいちばんのたからもの〜
+  // https://annict.com/works/12168
+  { annict_id: 12168, mal_id: 8965 },
+  // [2004-AUTUMN] OVA: ハムちゃんずのめざせ!ハムハム金メダル 〜はしれ!はしれ!だいさくせん〜
+  // https://annict.com/works/12169
+  { annict_id: 12169, mal_id: 8966 },
+  // [2008-WINTER] OVA: 真救世主伝説 北斗の拳 トキ伝
+  // https://annict.com/works/12170
+  { annict_id: 12170, mal_id: 4312 },
+  // [2008-AUTUMN] MOVIE: 真救世主伝説 北斗の拳 ZERO ケンシロウ伝
+  // https://annict.com/works/12171
+  { annict_id: 12171, mal_id: 5291 },
+  // [2012-WINTER] OVA: ルパン一家勢揃い
+  // https://annict.com/works/12172
+  { annict_id: 12172, mal_id: 13247 },
+  // [1990-AUTUMN] OVA: OL改造講座
+  // https://annict.com/works/12173
+  { annict_id: 12173, mal_id: 22275 },
 ]
