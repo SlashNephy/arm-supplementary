@@ -35003,4 +35003,10 @@ export const annict: ArmEntry[] = [
   // [null-null] MOVIE: 劇場版 陰の実力者になりたくて！ 残響編
   // https://annict.com/works/12174
   { annict_id: 12174, mal_id: 57584 },
+  // [1997-WINTER] OVA: ヴァリアブル・ジオ
+  // https://annict.com/works/12175
+  { annict_id: 12175, mal_id: 1183 },
+  // [2007-AUTUMN] OVA: やわらか三国志 突き刺せ!! 呂布子ちゃん
+  // https://annict.com/works/12176
+  { annict_id: 12176, mal_id: 3417 },
 ]
