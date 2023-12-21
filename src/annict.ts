@@ -35057,4 +35057,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] WEB: カビゴンとカラカラ
   // https://annict.com/works/12192
   { annict_id: 12192, mal_id: 57488 },
+  // [null-null] TV: 超普通マホウ少女 アスミトルバース
+  // https://annict.com/works/12193
+  { annict_id: 12193 },
 ]
