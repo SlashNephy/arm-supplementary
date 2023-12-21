@@ -30037,7 +30037,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10515, mal_id: 1677 },
   // [2024-WINTER] TV: 異修羅
   // https://annict.com/works/10516
-  { annict_id: 10516, mal_id: 54449 },
+  { annict_id: 10516, mal_id: 54449, syobocal_tid: 6953 },
   // [2023-AUTUMN] WEB: PLUTO
   // https://annict.com/works/10517
   { annict_id: 10517, mal_id: 35737 },
@@ -35045,4 +35045,7 @@ export const annict: ArmEntry[] = [
   // [2014-SUMMER] OVA: サクラカプセル
   // https://annict.com/works/12188
   { annict_id: 12188, mal_id: 25915 },
+  // [2023-AUTUMN] TV: 鷹の爪外伝 秘密厩舎 馬の蹄 ～グランプリ～
+  // https://annict.com/works/12189
+  { annict_id: 12189, syobocal_tid: 6890 },
 ]
