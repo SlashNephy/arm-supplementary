@@ -35060,4 +35060,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 超普通マホウ少女 アスミトルバース
   // https://annict.com/works/12193
   { annict_id: 12193 },
+  // [2010-AUTUMN] OVA: 迷elleオトコノ娘
+  // https://annict.com/works/12194
+  { annict_id: 12194, mal_id: 9337 },
 ]
