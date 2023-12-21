@@ -31865,7 +31865,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: BanG Dream! Ave Mujica
   // https://annict.com/works/11126
   { annict_id: 11126, mal_id: 56653 },
-  // [null-null] TV: 青のミブロ
+  // [2024-AUTUMN] TV: 青のミブロ
   // https://annict.com/works/11127
   { annict_id: 11127, mal_id: 56647 },
   // [1998-SPRING] TV: 新YAT安心!宇宙旅行
@@ -35050,5 +35050,8 @@ export const annict: ArmEntry[] = [
   { annict_id: 12189, syobocal_tid: 6890 },
   // [null-null] TV: Dr.STONE SCIENCE FUTURE
   // https://annict.com/works/12190
-  { annict_id: 12190 },
+  { annict_id: 12190, mal_id: 57592 },
+  // [2016-SUMMER] WEB: 練馬区PRアニメ『アニメで練馬区PR大作戦?!』
+  // https://annict.com/works/12191
+  { annict_id: 12191 },
 ]
