@@ -35054,4 +35054,7 @@ export const annict: ArmEntry[] = [
   // [2016-SUMMER] WEB: 練馬区PRアニメ『アニメで練馬区PR大作戦?!』
   // https://annict.com/works/12191
   { annict_id: 12191 },
+  // [2023-AUTUMN] WEB: カビゴンとカラカラ
+  // https://annict.com/works/12192
+  { annict_id: 12192, mal_id: 57488 },
 ]
