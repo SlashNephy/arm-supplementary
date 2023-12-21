@@ -35036,4 +35036,13 @@ export const annict: ArmEntry[] = [
   // [2007-WINTER] OVA: 爆裂天使-INFINITY-
   // https://annict.com/works/12185
   { annict_id: 12185, mal_id: 2205 },
+  // [1990-AUTUMN] OVA: 新カラテ地獄変
+  // https://annict.com/works/12186
+  { annict_id: 12186, mal_id: 10304 },
+  // [2010-SPRING] MOVIE: ジュノー
+  // https://annict.com/works/12187
+  { annict_id: 12187, mal_id: 9525 },
+  // [2014-SUMMER] OVA: サクラカプセル
+  // https://annict.com/works/12188
+  { annict_id: 12188, mal_id: 25915 },
 ]
