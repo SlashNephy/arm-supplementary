@@ -4625,7 +4625,7 @@ export const annict: ArmEntry[] = [
   // [1998-AUTUMN] TV: 虹の戦記イリス
   // https://annict.com/works/1543
   { annict_id: 1543 },
-  // [2006-SPRING] TV: 西の善き魔女 Astrea Testament
+  // [2006-SPRING] TV: 西の善き魔女 Astraea Testament
   // https://annict.com/works/1544
   { annict_id: 1544, mal_id: 942, syobocal_tid: 819 },
   // [1995-AUTUMN] TV: NOOBOW
@@ -7361,7 +7361,7 @@ export const annict: ArmEntry[] = [
   // [1999-AUTUMN] TV: ワンピース
   // https://annict.com/works/2457
   { annict_id: 2457, mal_id: 21, syobocal_tid: 350 },
-  // [1999-AUTUMN] TV: WILD ARMS TV
+  // [1999-AUTUMN] TV: ワイルドアームズ トワイライトヴェノム
   // https://annict.com/works/2458
   { annict_id: 2458, mal_id: 347 },
   // [2010-SPRING] TV: WORKING!!
@@ -35009,4 +35009,28 @@ export const annict: ArmEntry[] = [
   // [2007-AUTUMN] OVA: やわらか三国志 突き刺せ!! 呂布子ちゃん
   // https://annict.com/works/12176
   { annict_id: 12176, mal_id: 3417 },
+  // [1998-AUTUMN] MOVIE: がんばれゴエモン 地球救出大作戦
+  // https://annict.com/works/12177
+  { annict_id: 12177, mal_id: 9464 },
+  // [1998-AUTUMN] MOVIE: チャイニーズ・ゴースト・ストーリー スーシン
+  // https://annict.com/works/12178
+  { annict_id: 12178, mal_id: 315 },
+  // [1998-SPRING] OVA: サイキックフォース
+  // https://annict.com/works/12179
+  { annict_id: 12179, mal_id: 1027 },
+  // [2004-SUMMER] OVA: 土方歳三 白の軌跡
+  // https://annict.com/works/12180
+  { annict_id: 12180, mal_id: 1977 },
+  // [2008-SUMMER] OVA: デトロイト・メタル・シティ
+  // https://annict.com/works/12181
+  { annict_id: 12181, mal_id: 3702 },
+  // [2003-AUTUMN] OVA: .hack//GIFT
+  // https://annict.com/works/12182
+  { annict_id: 12182, mal_id: 454 },
+  // [2007-WINTER] OVA: .hack//G.U. Returner
+  // https://annict.com/works/12183
+  { annict_id: 12183, mal_id: 2928 },
+  // [2008-WINTER] OVA: .hack//G.U. TRILOGY
+  // https://annict.com/works/12184
+  { annict_id: 12184, mal_id: 3269 },
 ]
