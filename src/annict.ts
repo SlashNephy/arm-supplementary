@@ -536,7 +536,7 @@ export const annict: ArmEntry[] = [
   // [2000-AUTUMN] TV: ヴァンドレッド
   // https://annict.com/works/178
   { annict_id: 178, mal_id: 180, syobocal_tid: 1454 },
-  // [2001-AUTUMN] TV: VANDREAD the second stage
+  // [2001-AUTUMN] TV: ヴァンドレッド the second stage
   // https://annict.com/works/179
   { annict_id: 179, mal_id: 181, syobocal_tid: 1528 },
   // [2007-WINTER] TV: Venus Versus Virus～ヴィーナス ヴァーサス ヴァライアス～
@@ -35033,4 +35033,7 @@ export const annict: ArmEntry[] = [
   // [2008-WINTER] OVA: .hack//G.U. TRILOGY
   // https://annict.com/works/12184
   { annict_id: 12184, mal_id: 3269 },
+  // [2007-WINTER] OVA: 爆裂天使-INFINITY-
+  // https://annict.com/works/12185
+  { annict_id: 12185, mal_id: 2205 },
 ]
