@@ -35075,7 +35075,4 @@ export const annict: ArmEntry[] = [
   // [2007-AUTUMN] TV: 遙かなる時空の中で3 紅の月
   // https://annict.com/works/12198
   { annict_id: 12198, mal_id: 3227, syobocal_tid: 1299 },
-  // [null-null] MOVIE: 陰の実力者になりたくて！ 残響編
-  // https://annict.com/works/12199
-  { annict_id: 12199 },
 ]
