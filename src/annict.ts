@@ -5221,7 +5221,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1742, mal_id: 247, syobocal_tid: 500 },
   // [2010-WINTER] TV: 遙かなる時空の中で3 終わりなき運命
   // https://annict.com/works/1743
-  { annict_id: 1743, mal_id: 7254, syobocal_tid: 1299 },
+  { annict_id: 1743, mal_id: 7254 },
   // [2003-AUTUMN] TV: 鋼の錬金術師
   // https://annict.com/works/1744
   { annict_id: 1744, mal_id: 121, syobocal_tid: 134 },
@@ -35072,4 +35072,7 @@ export const annict: ArmEntry[] = [
   // [2002-SPRING] OVA: ナコルル 〜あのひとからのおくりもの〜 郷里之畏友編
   // https://annict.com/works/12197
   { annict_id: 12197, mal_id: 1937 },
+  // [2007-AUTUMN] TV: 遙かなる時空の中で3 紅の月
+  // https://annict.com/works/12198
+  { annict_id: 12198, mal_id: 3227, syobocal_tid: 1299 },
 ]
