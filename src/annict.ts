@@ -35078,4 +35078,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] WEB: 放送室の着ぐるみガール
   // https://annict.com/works/12200
   { annict_id: 12200 },
+  // [2024-WINTER] WEB: チェリまほミニ劇場
+  // https://annict.com/works/12201
+  { annict_id: 12201 },
 ]
