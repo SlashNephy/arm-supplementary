@@ -35063,4 +35063,13 @@ export const annict: ArmEntry[] = [
   // [2010-AUTUMN] OVA: 迷elleオトコノ娘
   // https://annict.com/works/12194
   { annict_id: 12194, mal_id: 9337 },
+  // [2000-AUTUMN] OVA: With You 〜みつめていたい〜
+  // https://annict.com/works/12195
+  { annict_id: 12195, mal_id: 2538 },
+  // [1999-SPRING] OVA: SAMURAI SPIRITS 2 アスラ斬魔伝
+  // https://annict.com/works/12196
+  { annict_id: 12196, mal_id: 839 },
+  // [2002-SPRING] OVA: ナコルル 〜あのひとからのおくりもの〜 郷里之畏友編
+  // https://annict.com/works/12197
+  { annict_id: 12197, mal_id: 1937 },
 ]
