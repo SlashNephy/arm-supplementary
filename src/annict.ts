@@ -35075,4 +35075,7 @@ export const annict: ArmEntry[] = [
   // [2007-AUTUMN] TV: 遙かなる時空の中で3 紅の月
   // https://annict.com/works/12198
   { annict_id: 12198, mal_id: 3227, syobocal_tid: 1299 },
+  // [2024-WINTER] WEB: 放送室の着ぐるみガール
+  // https://annict.com/works/12200
+  { annict_id: 12200 },
 ]
