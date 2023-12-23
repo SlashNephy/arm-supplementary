@@ -35081,4 +35081,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] WEB: チェリまほミニ劇場
   // https://annict.com/works/12201
   { annict_id: 12201 },
+  // [2024-WINTER] TV: 忍ばない！クリプトニンジャ咲耶 弐ノ巻
+  // https://annict.com/works/12202
+  { annict_id: 12202 },
 ]
