@@ -21580,7 +21580,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 7401, mal_id: 41467, syobocal_tid: 6487 },
   // [2020-AUTUMN] MOVIE: BURN THE WITCH
   // https://annict.com/works/7402
-  { annict_id: 7402, mal_id: 41468 },
+  { annict_id: 7402, mal_id: 41468, syobocal_tid: 6494 },
   // [2020-WINTER] OTHER: ありふれた職業で世界最強 プロローグ
   // https://annict.com/works/7403
   { annict_id: 7403 },
