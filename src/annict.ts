@@ -35084,4 +35084,10 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] TV: 忍ばない！クリプトニンジャ咲耶 弐ノ巻
   // https://annict.com/works/12202
   { annict_id: 12202 },
+  // [2024-null] TV: 君は冥土様。
+  // https://annict.com/works/12203
+  { annict_id: 12203, mal_id: 57611 },
+  // [null-null] TV: 帰還者の魔法は特別です 第2期
+  // https://annict.com/works/12204
+  { annict_id: 12204 },
 ]
