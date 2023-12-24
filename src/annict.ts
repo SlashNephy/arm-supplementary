@@ -10802,10 +10802,10 @@ export const annict: ArmEntry[] = [
   // [2000-SUMMER] MOVIE: ピチューとピカチュウ
   // https://annict.com/works/3611
   { annict_id: 3611, mal_id: 4793 },
-  // [1993-AUTUMN] MOVIE: 劇場版美少女戦士セーラームーンR
+  // [1993-AUTUMN] MOVIE: 劇場版 美少女戦士セーラームーンR
   // https://annict.com/works/3612
   { annict_id: 3612, mal_id: 531, syobocal_tid: 1732 },
-  // [1994-AUTUMN] MOVIE: 劇場版美少女戦士セーラームーンS
+  // [1994-AUTUMN] MOVIE: 劇場版 美少女戦士セーラームーンS
   // https://annict.com/works/3613
   { annict_id: 3613, mal_id: 997, syobocal_tid: 1757 },
   // [2009-AUTUMN] MOVIE: 東のエデン 劇場版Ⅰ The King of Eden
@@ -11458,7 +11458,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3830, mal_id: 499 },
   // [1990-AUTUMN] OVA: NEWドリームハンター麗夢
   // https://annict.com/works/3831
-  { annict_id: 3831 },
+  { annict_id: 3831, mal_id: 5585 },
   // [1986-SUMMER] OVA: 超時空ロマネスク SAMY MISSING・99
   // https://annict.com/works/3832
   { annict_id: 3832, mal_id: 7192 },
@@ -35120,4 +35120,13 @@ export const annict: ArmEntry[] = [
   // [2000-SUMMER] MOVIE: 風を見た少年 The Boy Who Saw The Wind
   // https://annict.com/works/12214
   { annict_id: 12214, mal_id: 757 },
+  // [1985-AUTUMN] OVA: ドリームハンター麗夢
+  // https://annict.com/works/12215
+  { annict_id: 12215, mal_id: 4003 },
+  // [2009-SUMMER] OVA: アドリブ王子
+  // https://annict.com/works/12216
+  { annict_id: 12216 },
+  // [2015-SUMMER] OVA: DOG DAYS″ Episode 12.5「リモーネリゾート・展望温泉！」
+  // https://annict.com/works/12217
+  { annict_id: 12217, mal_id: 31851 },
 ]
