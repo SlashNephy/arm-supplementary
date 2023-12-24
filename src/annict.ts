@@ -35129,4 +35129,19 @@ export const annict: ArmEntry[] = [
   // [2015-SUMMER] OVA: DOG DAYS″ Episode 12.5「リモーネリゾート・展望温泉！」
   // https://annict.com/works/12217
   { annict_id: 12217, mal_id: 31851 },
+  // [1982-WINTER] MOVIE: 時の支配者
+  // https://annict.com/works/12218
+  { annict_id: 12218 },
+  // [2009-AUTUMN] OVA: トリコ(ジャンプスーパーアニメツアー2009)
+  // https://annict.com/works/12219
+  { annict_id: 12219, mal_id: 6941 },
+  // [2010-AUTUMN] OVA: トリコ バーバリアンアイビーを捕獲せよ!
+  // https://annict.com/works/12220
+  { annict_id: 12220, mal_id: 11787 },
+  // [2017-AUTUMN] TV: Fate/Grand Order × 氷室の天地 ～7人の最強偉人篇～
+  // https://annict.com/works/12221
+  { annict_id: 12221, mal_id: 36914 },
+  // [2004-SUMMER] OVA: Memories Off 3.5 祈りの届く刻…
+  // https://annict.com/works/12222
+  { annict_id: 12222, mal_id: 363 },
 ]
