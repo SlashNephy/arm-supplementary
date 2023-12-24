@@ -31475,7 +31475,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] TV: スプリガン (TV放送)
   // https://annict.com/works/10996
   { annict_id: 10996, syobocal_tid: 6727 },
-  // [2024-null] TV: 変人のサラダボウル
+  // [2024-SPRING] TV: 変人のサラダボウル
   // https://annict.com/works/10997
   { annict_id: 10997, mal_id: 55877 },
   // [2023-AUTUMN] MOVIE: 映画 すみっコぐらし ツギハギ工場のふしぎなコ
