@@ -10049,7 +10049,7 @@ export const annict: ArmEntry[] = [
   // [1998-SUMMER] MOVIE: スプリガン
   // https://annict.com/works/3360
   { annict_id: 3360, mal_id: 420 },
-  // [1995-AUTUMN] MOVIE: スベシャルプレゼント 美少女戦士セーラームーンSuperS 外伝 亜美ちゃんの初恋
+  // [1995-AUTUMN] MOVIE: 美少女戦士セーラームーンSuperS 外伝 亜美ちゃんの初恋
   // https://annict.com/works/3361
   { annict_id: 3361, mal_id: 1278, syobocal_tid: 1760 },
   // [1996-SUMMER] MOVIE: スレイヤーズ RETURN
