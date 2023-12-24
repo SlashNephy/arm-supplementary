@@ -35090,4 +35090,19 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 帰還者の魔法は特別です 第2期
   // https://annict.com/works/12204
   { annict_id: 12204 },
+  // [1999-SUMMER] OVA: 倒凶十将伝
+  // https://annict.com/works/12205
+  { annict_id: 12205, mal_id: 1052 },
+  // [2001-SUMMER] OVA: 倒凶十将伝 封魔五行伝承
+  // https://annict.com/works/12206
+  { annict_id: 12206, mal_id: 25591 },
+  // [1994-SUMMER] OVA: KIZUNA -絆-
+  // https://annict.com/works/12207
+  { annict_id: 12207, mal_id: 733 },
+  // [2001-WINTER] OVA: KIZUNA -絆- 恋のから騒ぎ
+  // https://annict.com/works/12208
+  { annict_id: 12208, mal_id: 734 },
+  // [2010-AUTUMN] OVA: D.C.I&II P.S.P. RE-ANIMATED
+  // https://annict.com/works/12209
+  { annict_id: 12209, mal_id: 9353 },
 ]
