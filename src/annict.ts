@@ -8603,7 +8603,7 @@ export const annict: ArmEntry[] = [
   // [2008-WINTER] OVA: ToHeart2ad
   // https://annict.com/works/2876
   { annict_id: 2876, mal_id: 4166, syobocal_tid: 1653 },
-  // [2003-SUMMER] OVA: Ture Love Story -Summer Days,and yet．．．
+  // [2003-SUMMER] OVA: True Love Story -Summer Days,and yet．．．
   // https://annict.com/works/2877
   { annict_id: 2877, mal_id: 748 },
   // [2009-WINTER] OVA: とある魔術の禁書目録たん
@@ -10049,7 +10049,7 @@ export const annict: ArmEntry[] = [
   // [1998-SUMMER] MOVIE: スプリガン
   // https://annict.com/works/3360
   { annict_id: 3360, mal_id: 420 },
-  // [1995-AUTUMN] MOVIE: スベシャルプレゼント 美少女戦士セーラームーンSuperS 外伝亜美ちゃんの初恋
+  // [1995-AUTUMN] MOVIE: スベシャルプレゼント 美少女戦士セーラームーンSuperS 外伝 亜美ちゃんの初恋
   // https://annict.com/works/3361
   { annict_id: 3361, mal_id: 1278, syobocal_tid: 1760 },
   // [1996-SUMMER] MOVIE: スレイヤーズ RETURN
@@ -35105,4 +35105,19 @@ export const annict: ArmEntry[] = [
   // [2010-AUTUMN] OVA: D.C.I&II P.S.P. RE-ANIMATED
   // https://annict.com/works/12209
   { annict_id: 12209, mal_id: 9353 },
+  // [2003-SUMMER] OVA: 円盤皇女ワるきゅーレSPECIAL「七転八倒 花嫁修行」
+  // https://annict.com/works/12210
+  { annict_id: 12210, mal_id: 1129 },
+  // [2005-SPRING] OVA: 円盤皇女ワるきゅーレ 星霊節の花嫁
+  // https://annict.com/works/12211
+  { annict_id: 12211, mal_id: 1514 },
+  // [2006-SUMMER] OVA: 円盤皇女ワるきゅーレ 時と夢と銀河の宴
+  // https://annict.com/works/12212
+  { annict_id: 12212, mal_id: 1648 },
+  // [2005-AUTUMN] OVA: パパとKISS IN THE DARK
+  // https://annict.com/works/12213
+  { annict_id: 12213, mal_id: 746 },
+  // [2000-SUMMER] MOVIE: 風を見た少年 The Boy Who Saw The Wind
+  // https://annict.com/works/12214
+  { annict_id: 12214, mal_id: 757 },
 ]
