@@ -35144,4 +35144,7 @@ export const annict: ArmEntry[] = [
   // [2004-SUMMER] OVA: Memories Off 3.5 祈りの届く刻…
   // https://annict.com/works/12222
   { annict_id: 12222, mal_id: 363 },
+  // [2024-SPRING] TV: にじよん あにめーしょん2
+  // https://annict.com/works/12223
+  { annict_id: 12223 },
 ]
