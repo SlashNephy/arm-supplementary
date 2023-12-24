@@ -31772,7 +31772,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] WEB: スコット・ピルグリム テイクス・オフ
   // https://annict.com/works/11095
   { annict_id: 11095 },
-  // [2023-AUTUMN] TV: 天官賜福 貮（オリジナル版）
+  // [2023-AUTUMN] TV: 天官賜福 貮（字幕版）
   // https://annict.com/works/11096
   { annict_id: 11096, mal_id: 50399, syobocal_tid: 6912 },
   // [2023-AUTUMN] TV: 放課後少年花子くん
