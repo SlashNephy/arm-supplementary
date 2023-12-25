@@ -35159,4 +35159,10 @@ export const annict: ArmEntry[] = [
   // [1995-SUMMER] MOVIE: NINKU -忍空-(劇場版)
   // https://annict.com/works/12227
   { annict_id: 12227, mal_id: 2851 },
+  // [1993-AUTUMN] OVA: アルスラーン戦記(OVA)
+  // https://annict.com/works/12228
+  { annict_id: 12228, mal_id: 1762 },
+  // [1992-AUTUMN] OVA: 魔物ハンター妖子(OVA)
+  // https://annict.com/works/12229
+  { annict_id: 12229, mal_id: 1280 },
 ]
