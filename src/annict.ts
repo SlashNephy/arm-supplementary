@@ -2158,7 +2158,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 719, mal_id: 580 },
   // [1996-SPRING] TV: こちら葛飾区亀有公園前派出所
   // https://annict.com/works/720
-  { annict_id: 720, mal_id: 3546, syobocal_tid: 463 },
+  { annict_id: 720, mal_id: 3545, syobocal_tid: 463 },
   // [1998-WINTER] TV: こっちむいてみい子
   // https://annict.com/works/721
   { annict_id: 721, mal_id: 42083 },
@@ -35150,4 +35150,10 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 君のことが大大大大大好きな100人の彼女 第2期
   // https://annict.com/works/12224
   { annict_id: 12224, mal_id: 57616 },
+  // [1985-AUTUMN] OVA: こちら葛飾区亀有公園前派出所(ジャンプスペシャルアニメ版)
+  // https://annict.com/works/12225
+  { annict_id: 12225, mal_id: 3546 },
+  // [1994-AUTUMN] OVA: NINKU -忍空- ナイフの墓標
+  // https://annict.com/works/12226
+  { annict_id: 12226, mal_id: 16345 },
 ]
