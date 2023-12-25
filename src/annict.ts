@@ -31790,7 +31790,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: 万聖街 TVスペシャル
   // https://annict.com/works/11101
   { annict_id: 11101 },
-  // [null-null] TV: 魔導具師ダリヤはうつむかない
+  // [2024-null] TV: 魔導具師ダリヤはうつむかない
   // https://annict.com/works/11102
   { annict_id: 11102, mal_id: 56449 },
   // [2024-SPRING] MOVIE: デッドデッドデーモンズデデデデデストラクション 後章
@@ -35168,4 +35168,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] MOVIE: パウ・パトロール ザ・マイティ・ムービー
   // https://annict.com/works/12230
   { annict_id: 12230 },
+  // [null-null] TV: 鴨乃橋ロンの禁断推理 2nd Season
+  // https://annict.com/works/12231
+  { annict_id: 12231, mal_id: 57635 },
 ]
