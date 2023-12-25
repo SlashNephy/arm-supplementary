@@ -35156,4 +35156,7 @@ export const annict: ArmEntry[] = [
   // [1994-AUTUMN] OVA: NINKU -忍空- ナイフの墓標
   // https://annict.com/works/12226
   { annict_id: 12226, mal_id: 16345 },
+  // [1995-SUMMER] MOVIE: NINKU -忍空-(劇場版)
+  // https://annict.com/works/12227
+  { annict_id: 12227, mal_id: 2851 },
 ]
