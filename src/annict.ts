@@ -32075,7 +32075,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: マジカル★エクスプローラー エロゲの友人キャラに転生したけど、ゲーム知識使って自由に生きる
   // https://annict.com/works/11196
   { annict_id: 11196, mal_id: 56733 },
-  // [null-null] TV: 時光代理人 -LINK CLICK- 第2期
+  // [2024-SPRING] TV: 時光代理人 -LINK CLICK- 第2期
   // https://annict.com/works/11197
   { annict_id: 11197, mal_id: 49413 },
   // [2024-WINTER] TV: 百妖譜
