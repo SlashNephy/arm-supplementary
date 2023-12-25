@@ -35165,4 +35165,7 @@ export const annict: ArmEntry[] = [
   // [1992-AUTUMN] OVA: 魔物ハンター妖子(OVA)
   // https://annict.com/works/12229
   { annict_id: 12229, mal_id: 1280 },
+  // [2023-AUTUMN] MOVIE: パウ・パトロール ザ・マイティ・ムービー
+  // https://annict.com/works/12230
+  { annict_id: 12230 },
 ]
