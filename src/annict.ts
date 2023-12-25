@@ -25136,7 +25136,7 @@ export const annict: ArmEntry[] = [
   // [2024-null] WEB: BEASTARS FINAL SEASON
   // https://annict.com/works/8780
   { annict_id: 8780, mal_id: 49469 },
-  // [2024-null] TV: この素晴らしい世界に祝福を！ 3
+  // [2024-SPRING] TV: この素晴らしい世界に祝福を！ 3
   // https://annict.com/works/8781
   { annict_id: 8781, mal_id: 49458 },
   // [2022-SPRING] TV: サマータイムレンダ
