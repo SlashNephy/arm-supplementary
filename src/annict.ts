@@ -18412,7 +18412,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6174, mal_id: 13245 },
   // [2001-AUTUMN] OVA: テニスの王子様 A DAY OF SURVIVAL MOUNTAIN 〜恐怖の強化トレーニング〜
   // https://annict.com/works/6175
-  { annict_id: 6175 },
+  { annict_id: 6175, mal_id: 1190 },
   // [2002-AUTUMN] OVA: テニスの王子様 THE BAND OF PRINCES FILM KICK THE FUTURE!
   // https://annict.com/works/6176
   { annict_id: 6176, mal_id: 6749 },
@@ -35201,4 +35201,28 @@ export const annict: ArmEntry[] = [
   // [1977-SUMMER] MOVIE: 世界名作童話 せむしの仔馬
   // https://annict.com/works/12241
   { annict_id: 12241 },
+  // [1996-WINTER] MOVIE: ご近所物語(映画)
+  // https://annict.com/works/12242
+  { annict_id: 12242, mal_id: 7578 },
+  // [2001-WINTER] MOVIE: ONE PIECE ジャンゴのダンスカーニバル
+  // https://annict.com/works/12243
+  { annict_id: 12243, mal_id: 2385 },
+  // [2002-WINTER] MOVIE: ONE PIECE 夢のサッカー王!
+  // https://annict.com/works/12244
+  { annict_id: 12244, mal_id: 2386 },
+  // [2019-SPRING] MOVIE: 映画 爆釣バーハンター 謎のバーコードトライアングル！爆釣れ！神海魚ポセイドン
+  // https://annict.com/works/12245
+  { annict_id: 12245, mal_id: 39412 },
+  // [2019-SPRING] MOVIE: えいが うちの3姉妹
+  // https://annict.com/works/12246
+  { annict_id: 12246, mal_id: 39436 },
+  // [1998-SUMMER] OVA: HUNTER×HUNTER(ジャンプ・スーパー・アニメツアー'98)
+  // https://annict.com/works/12247
+  { annict_id: 12247, mal_id: 10189 },
+  // [2002-AUTUMN] OVA: ヒカルの碁 特別編・裁きの一局!いにしえの華よ咲け!!
+  // https://annict.com/works/12248
+  { annict_id: 12248, mal_id: 10765 },
+  // [2002-AUTUMN] OVA: 増田こうすけ劇場 ギャグマンガ日和(ジャンプ・スーパーアニメツアー2002)
+  // https://annict.com/works/12249
+  { annict_id: 12249, mal_id: 10262 },
 ]
