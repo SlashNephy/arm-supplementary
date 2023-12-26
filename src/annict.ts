@@ -35228,4 +35228,19 @@ export const annict: ArmEntry[] = [
   // [2008-SUMMER] OVA: BLEACH カラブリ！護廷十三屋台大作戦！
   // https://annict.com/works/12250
   { annict_id: 12250, mal_id: 35118 },
+  // [2008-AUTUMN] OVA: テガミバチ 〜光と青の幻想夜話〜
+  // https://annict.com/works/12251
+  { annict_id: 12251, mal_id: 5538 },
+  // [2008-AUTUMN] OVA: ONE PIECE ロマンス ドーン ストーリー
+  // https://annict.com/works/12252
+  { annict_id: 12252, mal_id: 5252 },
+  // [2010-AUTUMN] OVA: べるぜバブ 拾った赤ちゃんは大魔王!?
+  // https://annict.com/works/12253
+  { annict_id: 12253, mal_id: 9120 },
+  // [2010-AUTUMN] OVA: ぬらりひょんの孫 〜激闘 大フットサル大会！奴良組Wカップ！！〜
+  // https://annict.com/works/12254
+  { annict_id: 12254, mal_id: 10886 },
+  // [2013-AUTUMN] OVA: NARUTO -ナルト- 疾風伝 サニー・サイド・バトル!!!
+  // https://annict.com/works/12255
+  { annict_id: 12255, mal_id: 19511 },
 ]
