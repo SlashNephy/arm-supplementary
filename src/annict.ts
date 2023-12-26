@@ -19480,7 +19480,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6536, mal_id: 39355, syobocal_tid: 5442 },
   // [2019-SPRING] TV: ねこねこ日本史 (第4シリーズ)
   // https://annict.com/works/6537
-  { annict_id: 6537, syobocal_tid: 5298 },
+  { annict_id: 6537, mal_id: 39356, syobocal_tid: 5298 },
   // [2019-SPRING] TV: 少年アシベ GO!GO!ゴマちゃん(第4シリーズ)
   // https://annict.com/works/6538
   { annict_id: 6538, mal_id: 39457, syobocal_tid: 5293 },
@@ -21622,7 +21622,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 7416, mal_id: 40102 },
   // [2020-SPRING] TV: ねこねこ日本史 (第5シリーズ)
   // https://annict.com/works/7417
-  { annict_id: 7417, syobocal_tid: 5651 },
+  { annict_id: 7417, mal_id: 41404, syobocal_tid: 5651 },
   // [2020-SPRING] TV: アサティール 未来の昔ばなし
   // https://annict.com/works/7418
   { annict_id: 7418, mal_id: 41558 },
@@ -35174,4 +35174,31 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: シンカリオン チェンジ ザ ワールド
   // https://annict.com/works/12232
   { annict_id: 12232 },
+  // [1957-SPRING] MOVIE: こねこのらくがき
+  // https://annict.com/works/12233
+  { annict_id: 12233, mal_id: 6993 },
+  // [1959-SPRING] MOVIE: こねこのスタジオ
+  // https://annict.com/works/12234
+  { annict_id: 12234, mal_id: 6994 },
+  // [1959-SUMMER] MOVIE: たぬきさん大当り
+  // https://annict.com/works/12235
+  { annict_id: 12235, mal_id: 27377 },
+  // [1979-SUMMER] MOVIE: ねずみのよめいり
+  // https://annict.com/works/12236
+  { annict_id: 12236, mal_id: 23643 },
+  // [1967-SUMMER] MOVIE: ひょっこりひょうたん島
+  // https://annict.com/works/12237
+  { annict_id: 12237, mal_id: 22887 },
+  // [1968-AUTUMN] MOVIE: ピノキオの宇宙大冒険
+  // https://annict.com/works/12238
+  { annict_id: 12238 },
+  // [1968-AUTUMN] MOVIE: 人のくらしの百万年 マニ・マニ・マーチ
+  // https://annict.com/works/12239
+  { annict_id: 12239 },
+  // [1968-null] MOVIE: おかしなおかしな星の国
+  // https://annict.com/works/12240
+  { annict_id: 12240 },
+  // [1977-SUMMER] MOVIE: 世界名作童話 せむしの仔馬
+  // https://annict.com/works/12241
+  { annict_id: 12241 },
 ]
