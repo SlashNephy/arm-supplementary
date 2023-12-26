@@ -35171,4 +35171,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 鴨乃橋ロンの禁断推理 2nd Season
   // https://annict.com/works/12231
   { annict_id: 12231, mal_id: 57635 },
+  // [null-null] TV: シンカリオン チェンジ ザ ワールド
+  // https://annict.com/works/12232
+  { annict_id: 12232 },
 ]
