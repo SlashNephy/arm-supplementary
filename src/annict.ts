@@ -35225,4 +35225,7 @@ export const annict: ArmEntry[] = [
   // [2002-AUTUMN] OVA: 増田こうすけ劇場 ギャグマンガ日和(ジャンプ・スーパーアニメツアー2002)
   // https://annict.com/works/12249
   { annict_id: 12249, mal_id: 10262 },
+  // [2008-SUMMER] OVA: BLEACH カラブリ！護廷十三屋台大作戦！
+  // https://annict.com/works/12250
+  { annict_id: 12250, mal_id: 35118 },
 ]
