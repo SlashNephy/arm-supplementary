@@ -30217,7 +30217,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10575, mal_id: 51673, syobocal_tid: 6921 },
   // [2023-SPRING] TV: ゴー！ゴー！びーくるずー
   // https://annict.com/works/10576
-  { annict_id: 10576, syobocal_tid: 6696 },
+  { annict_id: 10576, mal_id: 55020, syobocal_tid: 6696 },
   // [2023-SPRING] TV: ビーストウォーズ 超生命体トランスフォーマー アゲイン
   // https://annict.com/works/10577
   { annict_id: 10577 },
