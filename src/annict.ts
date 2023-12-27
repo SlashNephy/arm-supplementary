@@ -25526,7 +25526,7 @@ export const annict: ArmEntry[] = [
   // [1998-AUTUMN] MOVIE: 魔法の剣 キャメロット
   // https://annict.com/works/8943
   { annict_id: 8943 },
-  // [2021-AUTUMN] WEB: 陰謀論のオシゴト
+  // [2021-AUTUMN] WEB: 陰謀論のオシゴト シーズン1
   // https://annict.com/works/8944
   { annict_id: 8944 },
   // [2004-WINTER] TV: ヒカルの碁 北斗杯への道
@@ -35246,4 +35246,7 @@ export const annict: ArmEntry[] = [
   // [2009-SPRING] OVA: きグルみっく☆V3
   // https://annict.com/works/12256
   { annict_id: 12256, mal_id: 6318 },
+  // [2011-WINTER] OVA: ナナとカオル
+  // https://annict.com/works/12257
+  { annict_id: 12257, mal_id: 9741 },
 ]
