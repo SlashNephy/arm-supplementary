@@ -1747,7 +1747,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 581, mal_id: 3315 },
   // [2006-SPRING] TV: 機神咆吼デモンベイン
   // https://annict.com/works/582
-  { annict_id: 582, mal_id: 766, syobocal_tid: 742 },
+  { annict_id: 582, mal_id: 1067, syobocal_tid: 742 },
   // [2007-SPRING] TV: 機神大戦 ギガンティック・フォーミュラ
   // https://annict.com/works/583
   { annict_id: 583, mal_id: 2215, syobocal_tid: 1098 },
@@ -35357,4 +35357,7 @@ export const annict: ArmEntry[] = [
   // [2014-WINTER] WEB: Wonder Momo
   // https://annict.com/works/12293
   { annict_id: 12293, mal_id: 22377 },
+  // [2004-SUMMER] OVA: 斬魔大聖デモンベイン(OVA)
+  // https://annict.com/works/12294
+  { annict_id: 12294, mal_id: 766 },
 ]
