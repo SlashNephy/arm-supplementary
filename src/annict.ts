@@ -35363,4 +35363,10 @@ export const annict: ArmEntry[] = [
   // [2012-AUTUMN] OVA: 聖☆おにいさん(OVA)
   // https://annict.com/works/12295
   { annict_id: 12295, mal_id: 15775 },
+  // [2014-SUMMER] TV: BABYGAMBA
+  // https://annict.com/works/12296
+  { annict_id: 12296, mal_id: 35710 },
+  // [2014-SPRING] MOVIE: 劇場版 ゆうとくんがいく
+  // https://annict.com/works/12297
+  { annict_id: 12297, mal_id: 22197 },
 ]
