@@ -35243,4 +35243,7 @@ export const annict: ArmEntry[] = [
   // [2013-AUTUMN] OVA: NARUTO -ナルト- 疾風伝 サニー・サイド・バトル!!!
   // https://annict.com/works/12255
   { annict_id: 12255, mal_id: 19511 },
+  // [2009-SPRING] OVA: きグルみっく☆V3
+  // https://annict.com/works/12256
+  { annict_id: 12256, mal_id: 6318 },
 ]
