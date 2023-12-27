@@ -35267,4 +35267,34 @@ export const annict: ArmEntry[] = [
   // [2013-AUTUMN] WEB: きょうかいのかなた アイドル裁判! 〜迷いながらも君を裁く民〜
   // https://annict.com/works/12263
   { annict_id: 12263, mal_id: 21241 },
+  // [2008-WINTER] MOVIE: 菅井君と家族石 THE MOVIE
+  // https://annict.com/works/12264
+  { annict_id: 12264, mal_id: 3575 },
+  // [2009-WINTER] MOVIE: ピューと吹く!ジャガー 〜いま、吹きにゆきます〜
+  // https://annict.com/works/12265
+  { annict_id: 12265, mal_id: 5240 },
+  // [2009-SUMMER] WEB: アセロラちゃん
+  // https://annict.com/works/12266
+  { annict_id: 12266, mal_id: 33500 },
+  // [2009-AUTUMN] WEB: リカちゃんと魔法の国
+  // https://annict.com/works/12267
+  { annict_id: 12267, mal_id: 22421 },
+  // [2010-WINTER] TV: ピチ高野球部
+  // https://annict.com/works/12268
+  { annict_id: 12268, mal_id: 31464 },
+  // [2011-WINTER] MOVIE: ハイブリッド刑事
+  // https://annict.com/works/12269
+  { annict_id: 12269, mal_id: 10238 },
+  // [2012-WINTER] WEB: ネオジェンヌのホンネDEガールズトーク
+  // https://annict.com/works/12270
+  { annict_id: 12270 },
+  // [2012-SUMMER] WEB: クレムリン
+  // https://annict.com/works/12271
+  { annict_id: 12271, mal_id: 15389 },
+  // [2013-SPRING] WEB: バカ・ミゼラブル
+  // https://annict.com/works/12272
+  { annict_id: 12272, mal_id: 20705 },
+  // [2013-SUMMER] WEB: だーよしPプロデュース あしたのジョブーブ
+  // https://annict.com/works/12273
+  { annict_id: 12273, mal_id: 36261 },
 ]
