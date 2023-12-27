@@ -35303,4 +35303,40 @@ export const annict: ArmEntry[] = [
   // [2014-SPRING] WEB: こぐまがとおる
   // https://annict.com/works/12275
   { annict_id: 12275 },
+  // [2014-AUTUMN] TV: ゆるがろ(牙狼〈GARO〉-炎の刻印- 魔戒指南)
+  // https://annict.com/works/12276
+  { annict_id: 12276, mal_id: 34613 },
+  // [2016-WINTER] TV: ゆるがろ(牙狼 -紅蓮ノ月- 魔戒指南)
+  // https://annict.com/works/12277
+  { annict_id: 12277, mal_id: 33846 },
+  // [2014-AUTUMN] MOVIE: ごはんかいじゅうパップ おいC〜海外旅行へん
+  // https://annict.com/works/12278
+  { annict_id: 12278 },
+  // [2014-WINTER] WEB: チャンネル5.5「金田一少年の事件簿」
+  // https://annict.com/works/12279
+  { annict_id: 12279, mal_id: 29821 },
+  // [2014-SPRING] WEB: チャンネル5.5「攻殻機動隊」
+  // https://annict.com/works/12280
+  { annict_id: 12280, mal_id: 29822 },
+  // [2014-SUMMER] WEB: チャンネル5.5「のだめカンタービレ」
+  // https://annict.com/works/12281
+  { annict_id: 12281, mal_id: 29823 },
+  // [2014-AUTUMN] WEB: チャンネル5.5「ベルサイユのばら」
+  // https://annict.com/works/12282
+  { annict_id: 12282, mal_id: 29820 },
+  // [2015-SUMMER] WEB: 全力予備校5.5ゼミナール
+  // https://annict.com/works/12283
+  { annict_id: 12283, mal_id: 33571 },
+  // [2015-SUMMER] TV: 金夜、安部礼司〜平均的サラリーマンの異常な日常〜
+  // https://annict.com/works/12284
+  { annict_id: 12284, mal_id: 31071 },
+  // [2015-SPRING] WEB: 極道酒場でんでん〜極道大戦争外伝〜
+  // https://annict.com/works/12285
+  { annict_id: 12285, mal_id: 30796 },
+  // [2015-SUMMER] WEB: 龍三と七人の子分たち×FROGMAN
+  // https://annict.com/works/12286
+  { annict_id: 12286, mal_id: 32559 },
+  // [2016-SPRING] TV: それいけ!サブイボマスク
+  // https://annict.com/works/12287
+  { annict_id: 12287, mal_id: 33188 },
 ]
