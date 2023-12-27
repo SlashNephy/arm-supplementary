@@ -35354,4 +35354,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] WEB: 魁!!令和の男塾
   // https://annict.com/works/12292
   { annict_id: 12292, mal_id: 57532 },
+  // [2014-WINTER] WEB: Wonder Momo
+  // https://annict.com/works/12293
+  { annict_id: 12293, mal_id: 22377 },
 ]
