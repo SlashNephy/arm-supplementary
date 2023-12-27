@@ -35300,4 +35300,7 @@ export const annict: ArmEntry[] = [
   // [2013-AUTUMN] WEB: こぐまの自転車マナー教室
   // https://annict.com/works/12274
   { annict_id: 12274 },
+  // [2014-SPRING] WEB: こぐまがとおる
+  // https://annict.com/works/12275
+  { annict_id: 12275 },
 ]
