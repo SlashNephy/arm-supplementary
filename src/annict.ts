@@ -35339,4 +35339,7 @@ export const annict: ArmEntry[] = [
   // [2016-SPRING] TV: それいけ!サブイボマスク
   // https://annict.com/works/12287
   { annict_id: 12287, mal_id: 33188 },
+  // [2015-SPRING] OVA: 山賊ダイアリー
+  // https://annict.com/works/12288
+  { annict_id: 12288, mal_id: 30378 },
 ]
