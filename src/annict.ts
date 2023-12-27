@@ -35297,4 +35297,7 @@ export const annict: ArmEntry[] = [
   // [2013-SUMMER] WEB: だーよしPプロデュース あしたのジョブーブ
   // https://annict.com/works/12273
   { annict_id: 12273, mal_id: 36261 },
+  // [2013-AUTUMN] WEB: こぐまの自転車マナー教室
+  // https://annict.com/works/12274
+  { annict_id: 12274 },
 ]
