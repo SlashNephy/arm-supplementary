@@ -35360,4 +35360,7 @@ export const annict: ArmEntry[] = [
   // [2004-SUMMER] OVA: 斬魔大聖デモンベイン(OVA)
   // https://annict.com/works/12294
   { annict_id: 12294, mal_id: 766 },
+  // [2012-AUTUMN] OVA: 聖☆おにいさん(OVA)
+  // https://annict.com/works/12295
+  { annict_id: 12295, mal_id: 15775 },
 ]
