@@ -35342,4 +35342,16 @@ export const annict: ArmEntry[] = [
   // [2015-SPRING] OVA: 山賊ダイアリー
   // https://annict.com/works/12288
   { annict_id: 12288, mal_id: 30378 },
+  // [2022-SUMMER] TV: 吉田勝子のさりとて暮らしのSDGs
+  // https://annict.com/works/12289
+  { annict_id: 12289 },
+  // [2020-AUTUMN] WEB: 発明王 ニバン・センジ
+  // https://annict.com/works/12290
+  { annict_id: 12290 },
+  // [2023-SUMMER] WEB: タイムスリップ島耕作
+  // https://annict.com/works/12291
+  { annict_id: 12291, mal_id: 56942 },
+  // [2023-AUTUMN] WEB: 魁!!令和の男塾
+  // https://annict.com/works/12292
+  { annict_id: 12292, mal_id: 57532 },
 ]
