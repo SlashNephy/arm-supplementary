@@ -35249,4 +35249,22 @@ export const annict: ArmEntry[] = [
   // [2011-WINTER] OVA: ナナとカオル
   // https://annict.com/works/12257
   { annict_id: 12257, mal_id: 9741 },
+  // [2011-SPRING] TV: ひめチェン！おとぎちっくアイドル リルぷりっ(第2期)
+  // https://annict.com/works/12258
+  { annict_id: 12258, mal_id: 31068 },
+  // [2013-SPRING] TV: 爆TECH!爆丸 ガチ
+  // https://annict.com/works/12259
+  { annict_id: 12259, mal_id: 21523 },
+  // [1996-WINTER] OVA: 残された名刺－ある在日一世の軌跡－
+  // https://annict.com/works/12260
+  { annict_id: 12260 },
+  // [1997-WINTER] OVA: 二匹の猫と元気な家族
+  // https://annict.com/works/12261
+  { annict_id: 12261, mal_id: 31002 },
+  // [1998-SUMMER] OVA: おじいちゃんの花火
+  // https://annict.com/works/12262
+  { annict_id: 12262, mal_id: 30980 },
+  // [2013-AUTUMN] WEB: きょうかいのかなた アイドル裁判! 〜迷いながらも君を裁く民〜
+  // https://annict.com/works/12263
+  { annict_id: 12263, mal_id: 21241 },
 ]
