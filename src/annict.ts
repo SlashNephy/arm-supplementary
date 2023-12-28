@@ -35446,7 +35446,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12322, mal_id: 57648 },
   // [null-null] TV: 呪術廻戦 死滅回游
   // https://annict.com/works/12323
-  { annict_id: 12323 },
+  { annict_id: 12323, mal_id: 57658 },
   // [2023-AUTUMN] WEB: ティアムーン帝国物語 ミニアニメ
   // https://annict.com/works/12324
   { annict_id: 12324, mal_id: 56978 },
