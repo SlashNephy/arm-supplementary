@@ -35435,4 +35435,7 @@ export const annict: ArmEntry[] = [
   // [2014-WINTER] OVA: つばさとホタル
   // https://annict.com/works/12319
   { annict_id: 12319, mal_id: 21781 },
+  // [2013-WINTER] TV: トロン：ライジング
+  // https://annict.com/works/12320
+  { annict_id: 12320 },
 ]
