@@ -35408,4 +35408,10 @@ export const annict: ArmEntry[] = [
   // [2012-SUMMER] OVA: ドクター・ストレンジ: 魔法大戦
   // https://annict.com/works/12310
   { annict_id: 12310 },
+  // [2018-SUMMER] MOVIE: K SEVEN STORIES Spin-off Short Movie「ザ・アイドルK」
+  // https://annict.com/works/12311
+  { annict_id: 12311, mal_id: 37308 },
+  // [2015-AUTUMN] OVA: ハンツー×トラッシュ
+  // https://annict.com/works/12312
+  { annict_id: 12312, mal_id: 31491 },
 ]
