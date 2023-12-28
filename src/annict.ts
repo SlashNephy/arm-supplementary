@@ -15248,7 +15248,7 @@ export const annict: ArmEntry[] = [
   // [2018-WINTER] TV: Fate/EXTRA Last Encore
   // https://annict.com/works/5110
   { annict_id: 5110, mal_id: 33047, syobocal_tid: 4832 },
-  // [2017-WINTER] OTHER: 恋するシロクマ
+  // [2017-WINTER] MOVIE: 恋するシロクマ
   // https://annict.com/works/5111
   { annict_id: 5111, mal_id: 34535 },
   // [1996-WINTER] MOVIE: ウルトラマンカンパニー
@@ -21686,7 +21686,7 @@ export const annict: ArmEntry[] = [
   // [2010-WINTER] MOVIE: 古墳ギャルのコフィー ～コフンデレラ～
   // https://annict.com/works/7438
   { annict_id: 7438, mal_id: 13511 },
-  // [2020-SPRING] WEB: ゾゾゾ ゾンビーくん
+  // [2020-SPRING] TV: ゾゾゾ ゾンビーくん
   // https://annict.com/works/7439
   { annict_id: 7439, mal_id: 41686 },
   // [2021-SUMMER] TV: 現実主義勇者の王国再建記
@@ -35414,4 +35414,16 @@ export const annict: ArmEntry[] = [
   // [2015-AUTUMN] OVA: ハンツー×トラッシュ
   // https://annict.com/works/12312
   { annict_id: 12312, mal_id: 31491 },
+  // [2017-WINTER] WEB: ゾゾゾ ゾンビーくん(webアニメ)
+  // https://annict.com/works/12313
+  { annict_id: 12313, mal_id: 34817 },
+  // [2019-AUTUMN] WEB: 恐竜少女ガウ子
+  // https://annict.com/works/12314
+  { annict_id: 12314, mal_id: 39849 },
+  // [2020-WINTER] WEB: 恐竜少女ガウ子(シーズン2)
+  // https://annict.com/works/12315
+  { annict_id: 12315, mal_id: 41421 },
+  // [2015-SUMMER] OVA: 咲日和
+  // https://annict.com/works/12316
+  { annict_id: 12316, mal_id: 27709 },
 ]
