@@ -35399,4 +35399,13 @@ export const annict: ArmEntry[] = [
   // [2012-SUMMER] OVA: 超人ハルク: サカールの預言
   // https://annict.com/works/12307
   { annict_id: 12307 },
+  // [2012-SUMMER] OVA: ウルヴァリンVSハルク
+  // https://annict.com/works/12308
+  { annict_id: 12308 },
+  // [2012-SUMMER] OVA: 勇者ソー 〜アスガルドの伝説〜
+  // https://annict.com/works/12309
+  { annict_id: 12309 },
+  // [2012-SUMMER] OVA: ドクター・ストレンジ: 魔法大戦
+  // https://annict.com/works/12310
+  { annict_id: 12310 },
 ]
