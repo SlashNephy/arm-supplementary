@@ -35375,4 +35375,10 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: モブから始まる探索英雄譚
   // https://annict.com/works/12299
   { annict_id: 12299, mal_id: 57646 },
+  // [1999-SUMMER] OVA: 同級生2 Special 卒業生
+  // https://annict.com/works/12300
+  { annict_id: 12300, mal_id: 5647 },
+  // [2023-AUTUMN] WEB: プロジェクトセカイ カラフルステージ! feat. 初音ミク 3周年記念 メインストーリーダイジェストアニメーション Journey to Bloom
+  // https://annict.com/works/12301
+  { annict_id: 12301, mal_id: 56830 },
 ]
