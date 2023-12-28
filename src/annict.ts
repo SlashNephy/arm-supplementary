@@ -35396,4 +35396,7 @@ export const annict: ArmEntry[] = [
   // [2012-SUMMER] OVA: アイアンマン: 鋼の戦士
   // https://annict.com/works/12306
   { annict_id: 12306 },
+  // [2012-SUMMER] OVA: 超人ハルク: サカールの預言
+  // https://annict.com/works/12307
+  { annict_id: 12307 },
 ]
