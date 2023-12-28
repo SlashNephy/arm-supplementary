@@ -35426,4 +35426,13 @@ export const annict: ArmEntry[] = [
   // [2015-SUMMER] OVA: 咲日和
   // https://annict.com/works/12316
   { annict_id: 12316, mal_id: 27709 },
+  // [2012-WINTER] OVA: 流れ星レンズ
+  // https://annict.com/works/12317
+  { annict_id: 12317, mal_id: 13833 },
+  // [2012-WINTER] OVA: まりもの花 ～最強武闘派小学生伝説～
+  // https://annict.com/works/12318
+  { annict_id: 12318, mal_id: 13835 },
+  // [2014-WINTER] OVA: つばさとホタル
+  // https://annict.com/works/12319
+  { annict_id: 12319, mal_id: 21781 },
 ]
