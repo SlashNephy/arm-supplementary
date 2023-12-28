@@ -35381,4 +35381,19 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] WEB: プロジェクトセカイ カラフルステージ! feat. 初音ミク 3周年記念 メインストーリーダイジェストアニメーション Journey to Bloom
   // https://annict.com/works/12301
   { annict_id: 12301, mal_id: 56830 },
+  // [2012-WINTER] OVA: 乙女なでしこ恋手帖
+  // https://annict.com/works/12302
+  { annict_id: 12302, mal_id: 13673 },
+  // [2012-SUMMER] OVA: アルティメット・アベンジャーズ
+  // https://annict.com/works/12303
+  { annict_id: 12303 },
+  // [2012-SUMMER] OVA: アルティメット・アベンジャーズ 2:ブラック・パンサー・ライジング
+  // https://annict.com/works/12304
+  { annict_id: 12304 },
+  // [2012-SUMMER] OVA: ネクスト・アベンジャーズ: 未来のヒーローたち
+  // https://annict.com/works/12305
+  { annict_id: 12305 },
+  // [2012-SUMMER] OVA: アイアンマン: 鋼の戦士
+  // https://annict.com/works/12306
+  { annict_id: 12306 },
 ]
