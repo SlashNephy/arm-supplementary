@@ -35477,4 +35477,10 @@ export const annict: ArmEntry[] = [
   // [2010-AUTUMN] MOVIE: とびだす絵本3D
   // https://annict.com/works/12333
   { annict_id: 12333, mal_id: 24803 },
+  // [2019-SPRING] MOVIE: ダヤンとタマと飛び猫と ～3つの猫の物語～
+  // https://annict.com/works/12334
+  { annict_id: 12334, mal_id: 39351 },
+  // [2023-AUTUMN] TV: 火狩りの王 第2シーズン放送直前SP！第1シーズン総集編
+  // https://annict.com/works/12335
+  { annict_id: 12335 },
 ]
