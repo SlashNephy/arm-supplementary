@@ -35474,4 +35474,7 @@ export const annict: ArmEntry[] = [
   // [2017-SPRING] TV: クイズとき子さん
   // https://annict.com/works/12332
   { annict_id: 12332, mal_id: 37263 },
+  // [2010-AUTUMN] MOVIE: とびだす絵本3D
+  // https://annict.com/works/12333
+  { annict_id: 12333, mal_id: 24803 },
 ]
