@@ -35450,4 +35450,13 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] WEB: ティアムーン帝国物語 ミニアニメ
   // https://annict.com/works/12324
   { annict_id: 12324, mal_id: 56978 },
+  // [2014-SUMMER] TV: にゃんぷくにゃるま
+  // https://annict.com/works/12325
+  { annict_id: 12325, mal_id: 24403 },
+  // [2014-AUTUMN] TV: 接続無用
+  // https://annict.com/works/12326
+  { annict_id: 12326, mal_id: 28887 },
+  // [2015-SPRING] TV: ハッピージョージ
+  // https://annict.com/works/12327
+  { annict_id: 12327, mal_id: 30411 },
 ]
