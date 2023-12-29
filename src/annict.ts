@@ -35441,7 +35441,7 @@ export const annict: ArmEntry[] = [
   // [2014-SPRING] TV: 野良スコ
   // https://annict.com/works/12321
   { annict_id: 12321, mal_id: 31019 },
-  // [null-null] OTHER: 日本へようこそエルフさん
+  // [null-null] OTHER: 日本へようこそエルフさん。
   // https://annict.com/works/12322
   { annict_id: 12322, mal_id: 57648 },
   // [null-null] TV: 呪術廻戦 死滅回游
