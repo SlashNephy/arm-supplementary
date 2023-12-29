@@ -35459,4 +35459,19 @@ export const annict: ArmEntry[] = [
   // [2015-SPRING] TV: ハッピージョージ
   // https://annict.com/works/12327
   { annict_id: 12327, mal_id: 30411 },
+  // [2015-SUMMER] TV: バリィさんのいまばり弁講座
+  // https://annict.com/works/12328
+  { annict_id: 12328, mal_id: 30989 },
+  // [2016-WINTER] TV: バリィさんの諸国漫遊記
+  // https://annict.com/works/12329
+  { annict_id: 12329, mal_id: 36611 },
+  // [2015-AUTUMN] TV: ミムマムミント
+  // https://annict.com/works/12330
+  { annict_id: 12330, mal_id: 32402 },
+  // [2016-SUMMER] TV: ちょびっとづかん
+  // https://annict.com/works/12331
+  { annict_id: 12331, mal_id: 33262 },
+  // [2017-SPRING] TV: クイズとき子さん
+  // https://annict.com/works/12332
+  { annict_id: 12332, mal_id: 37263 },
 ]
