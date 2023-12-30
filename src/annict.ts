@@ -35483,4 +35483,10 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: 火狩りの王 第2シーズン放送直前SP！第1シーズン総集編
   // https://annict.com/works/12335
   { annict_id: 12335 },
+  // [2019-WINTER] WEB: 刹界エイトレイド
+  // https://annict.com/works/12336
+  { annict_id: 12336, mal_id: 37169 },
+  // [2022-AUTUMN] TV: とむとじぇりーごっこ
+  // https://annict.com/works/12337
+  { annict_id: 12337, mal_id: 53907 },
 ]
