@@ -35531,4 +35531,7 @@ export const annict: ArmEntry[] = [
   // [2014-SUMMER] OVA: カセイフがイタ。
   // https://annict.com/works/12351
   { annict_id: 12351, mal_id: 28361 },
+  // [2012-AUTUMN] WEB: 古町と団五郎
+  // https://annict.com/works/12352
+  { annict_id: 12352, mal_id: 16389 },
 ]
