@@ -35519,4 +35519,10 @@ export const annict: ArmEntry[] = [
   // [2016-SPRING] WEB: スターフォックス ゼロ ザ・バトル・ビギンズ
   // https://annict.com/works/12347
   { annict_id: 12347, mal_id: 33205 },
+  // [2014-WINTER] WEB: ポレットのイス
+  // https://annict.com/works/12348
+  { annict_id: 12348, mal_id: 23285 },
+  // [2024-WINTER] TV: メカアマト シーズン2
+  // https://annict.com/works/12349
+  { annict_id: 12349 },
 ]
