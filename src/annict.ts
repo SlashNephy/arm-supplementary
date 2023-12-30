@@ -35504,4 +35504,19 @@ export const annict: ArmEntry[] = [
   // [2009-AUTUMN] OVA: ときめきメモリアル4 ORIGINAL ANIMATION -始まりのファインダー-
   // https://annict.com/works/12342
   { annict_id: 12342, mal_id: 7691 },
+  // [2018-SUMMER] WEB: 花咲ク絆ノ浪漫譚
+  // https://annict.com/works/12343
+  { annict_id: 12343, mal_id: 38469 },
+  // [2017-SPRING] WEB: 猫がくれたまぁるいしあわせ
+  // https://annict.com/works/12344
+  { annict_id: 12344, mal_id: 35624 },
+  // [2020-SUMMER] WEB: ハレルヤ -運命の選択-
+  // https://annict.com/works/12345
+  { annict_id: 12345, mal_id: 42955 },
+  // [2022-SPRING] WEB: アイヌ逓送人・吉良平治郎〜アイヌ・ネノアン・アイヌ〜
+  // https://annict.com/works/12346
+  { annict_id: 12346 },
+  // [2016-SPRING] WEB: スターフォックス ゼロ ザ・バトル・ビギンズ
+  // https://annict.com/works/12347
+  { annict_id: 12347, mal_id: 33205 },
 ]
