@@ -35489,4 +35489,19 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] TV: とむとじぇりーごっこ
   // https://annict.com/works/12337
   { annict_id: 12337, mal_id: 53907 },
+  // [2007-SPRING] MOVIE: ふるさと-Japan
+  // https://annict.com/works/12338
+  { annict_id: 12338, mal_id: 3367 },
+  // [2005-SUMMER] OVA: 学校の怪談(OVA)
+  // https://annict.com/works/12339
+  { annict_id: 12339, mal_id: 22053 },
+  // [2012-WINTER] TV: 猫の棲む島
+  // https://annict.com/works/12340
+  { annict_id: 12340, mal_id: 13497 },
+  // [2015-WINTER] TV: 今、ふたりの道
+  // https://annict.com/works/12341
+  { annict_id: 12341, mal_id: 30133 },
+  // [2009-AUTUMN] OVA: ときめきメモリアル4 ORIGINAL ANIMATION -始まりのファインダー-
+  // https://annict.com/works/12342
+  { annict_id: 12342, mal_id: 7691 },
 ]
