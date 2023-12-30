@@ -35371,7 +35371,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12297, mal_id: 22197 },
   // [2024-SPRING] MOVIE: 劇場版 ウマ娘 プリティーダービー 新時代の扉
   // https://annict.com/works/12298
-  { annict_id: 12298 },
+  { annict_id: 12298, mal_id: 57647 },
   // [null-null] TV: モブから始まる探索英雄譚
   // https://annict.com/works/12299
   { annict_id: 12299, mal_id: 57646 },
