@@ -35525,4 +35525,10 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] TV: メカアマト シーズン2
   // https://annict.com/works/12349
   { annict_id: 12349 },
+  // [2014-SUMMER] OVA: イヌイさんッ!
+  // https://annict.com/works/12350
+  { annict_id: 12350, mal_id: 24501 },
+  // [2014-SUMMER] OVA: カセイフがイタ。
+  // https://annict.com/works/12351
+  { annict_id: 12351, mal_id: 28361 },
 ]
