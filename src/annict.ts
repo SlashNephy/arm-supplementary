@@ -29594,7 +29594,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] WEB: Fate/Grand Order 藤丸立香はわからない
   // https://annict.com/works/10367
   { annict_id: 10367, mal_id: 54042 },
-  // [2022-AUTUMN] TV: 「Fate/Grand Order 藤丸立香はわからない」年末スペシャル
+  // [2022-AUTUMN] TV: Fate/Grand Order 藤丸立香はわからない 年末スペシャル
   // https://annict.com/works/10368
   { annict_id: 10368, mal_id: 54976 },
   // [2022-AUTUMN] TV: へんたつ大晦日特技編
@@ -35540,4 +35540,7 @@ export const annict: ArmEntry[] = [
   // [2014-SPRING] OVA: マギ シンドバッドの冒険(OVA)
   // https://annict.com/works/12354
   { annict_id: 12354, mal_id: 22097 },
+  // [2023-AUTUMN] TV: Fate/Grand Order 藤丸立香はわからない 大忘年おたのしみ会2023
+  // https://annict.com/works/12355
+  { annict_id: 12355 },
 ]
