@@ -14020,7 +14020,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 4697, mal_id: 31049, syobocal_tid: 4168 },
   // [2016-SPRING] TV: マギ シンドバッドの冒険
   // https://annict.com/works/4698
-  { annict_id: 4698, mal_id: 22097, syobocal_tid: 4111 },
+  { annict_id: 4698, mal_id: 31741, syobocal_tid: 4111 },
   // [2016-WINTER] MOVIE: ドラえもん 新・のび太の日本誕生
   // https://annict.com/works/4699
   { annict_id: 4699, mal_id: 31201 },
@@ -35534,4 +35534,10 @@ export const annict: ArmEntry[] = [
   // [2012-AUTUMN] WEB: 古町と団五郎
   // https://annict.com/works/12352
   { annict_id: 12352, mal_id: 16389 },
+  // [2018-SUMMER] OVA: テラフォーマーズ 地球編
+  // https://annict.com/works/12353
+  { annict_id: 12353, mal_id: 34532 },
+  // [2014-SPRING] OVA: マギ シンドバッドの冒険(OVA)
+  // https://annict.com/works/12354
+  { annict_id: 12354, mal_id: 22097 },
 ]
