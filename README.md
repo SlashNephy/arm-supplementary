@@ -43,12 +43,12 @@ Currently, arm-supplementary has 37598 entries (+7254).
 | Service                                     | arm-supplementary | arm / anime-offline-database |
 | :------------------------------------------ | :---------------: | :--------------------------: |
 | [Annict](https://annict.com)                |   11847 (+265)    |            11582             |
-| [AniList](https://anilist.co)               |   21741 (+2267)   |            19474             |
-| [MyAnimeList](https://myanimelist.net)      |   26515 (+613)    |            25902             |
+| [AniList](https://anilist.co)               |   21743 (+2269)   |            19474             |
+| [MyAnimeList](https://myanimelist.net)      |   26517 (+615)    |            25902             |
 | [しょぼいカレンダー](https://cal.syoboi.jp) |    5805 (+31)     |             5774             |
-| [AniDB](https://anidb.net)                  |   13242 (+189)    |            13053             |
-| [Anime-Planet](https://anime-planet.com)    |   23609 (+200)    |            23409             |
-| [aniSearch](https://anisearch.com)          |   18524 (+201)    |            18323             |
-| [Kitsu](https://kitsu.io)                   |   20038 (+220)    |            19818             |
-| [LiveChart.me](https://livechart.me)        |   11227 (+173)    |            11054             |
-| [Anime Notifier](https://notify.moe)        |   16285 (+210)    |            16075             |
+| [AniDB](https://anidb.net)                  |   13244 (+191)    |            13053             |
+| [Anime-Planet](https://anime-planet.com)    |   23611 (+202)    |            23409             |
+| [aniSearch](https://anisearch.com)          |   18526 (+203)    |            18323             |
+| [Kitsu](https://kitsu.io)                   |   20040 (+222)    |            19818             |
+| [LiveChart.me](https://livechart.me)        |   11229 (+175)    |            11054             |
+| [Anime Notifier](https://notify.moe)        |   16287 (+212)    |            16075             |

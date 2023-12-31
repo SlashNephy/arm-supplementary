@@ -17965,10 +17965,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 6023, mal_id: 37806, syobocal_tid: 5275 },
   // [2006-AUTUMN] TV: 銀河鉄道物語 〜永遠への分岐点〜
   // https://annict.com/works/6024
-  { annict_id: 6024, syobocal_tid: 1030 },
+  { annict_id: 6024, mal_id: 2717, syobocal_tid: 1030 },
   // [2007-WINTER] OVA: 銀河鉄道物語 〜忘れられた時の惑星〜
   // https://annict.com/works/6025
-  { annict_id: 6025, syobocal_tid: 1419 },
+  { annict_id: 6025, mal_id: 3854, syobocal_tid: 1419 },
   // [2018-AUTUMN] TV: ユリシーズ ジャンヌ・ダルクと錬金の騎士
   // https://annict.com/works/6026
   { annict_id: 6026, mal_id: 36510, syobocal_tid: 5066 },
