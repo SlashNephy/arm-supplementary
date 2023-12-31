@@ -35543,4 +35543,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: Fate/Grand Order 藤丸立香はわからない 大忘年おたのしみ会2023
   // https://annict.com/works/12355
   { annict_id: 12355 },
+  // [2017-SUMMER] MOVIE: 映画 ふうせんいぬティニー なんだかふしぎなきょうりゅうのくに!
+  // https://annict.com/works/12356
+  { annict_id: 12356, mal_id: 34756 },
 ]
