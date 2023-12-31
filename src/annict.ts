@@ -35546,4 +35546,7 @@ export const annict: ArmEntry[] = [
   // [2017-SUMMER] MOVIE: 映画 ふうせんいぬティニー なんだかふしぎなきょうりゅうのくに!
   // https://annict.com/works/12356
   { annict_id: 12356, mal_id: 34756 },
+  // [2022-AUTUMN] WEB: デスゲームマスター出須
+  // https://annict.com/works/12357
+  { annict_id: 12357 },
 ]
