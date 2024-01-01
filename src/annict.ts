@@ -35549,4 +35549,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] WEB: デスゲームマスター出須
   // https://annict.com/works/12357
   { annict_id: 12357 },
+  // [2021-SPRING] WEB: ンダホ結婚おめでとう！！
+  // https://annict.com/works/12358
+  { annict_id: 12358 },
 ]
