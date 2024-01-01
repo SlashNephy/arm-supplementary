@@ -31513,7 +31513,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11008, mal_id: 55911 },
   // [2023-SUMMER] WEB: 逆異世界転生エージェント エーコさん
   // https://annict.com/works/11009
-  { annict_id: 11009 },
+  { annict_id: 11009, mal_id: 55757 },
   // [2011-WINTER] OVA: ショコラの魔法
   // https://annict.com/works/11010
   { annict_id: 11010, mal_id: 9935 },
