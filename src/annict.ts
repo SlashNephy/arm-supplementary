@@ -26687,7 +26687,7 @@ export const annict: ArmEntry[] = [
   // [2022-WINTER] OVA: ありふれた職業で世界最強 2nd season TV未放送エピソード「ありふれた寄り道で世界最強」
   // https://annict.com/works/9394
   { annict_id: 9394, mal_id: 50916 },
-  // [2024-null] TV: 狼と香辛料 merchant meets the wise wolf
+  // [2024-SPRING] TV: 狼と香辛料 merchant meets the wise wolf
   // https://annict.com/works/9395
   { annict_id: 9395, mal_id: 51122 },
   // [null-null] TV: グリザイア：ファントムトリガー THE ANIMATION (TVシリーズ)
