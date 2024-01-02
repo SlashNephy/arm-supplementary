@@ -32054,7 +32054,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] WEB: バトルスピリッツ15周年記念ショートアニメ
   // https://annict.com/works/11189
   { annict_id: 11189 },
-  // [2024-null] TV: 死神坊ちゃんと黒メイド 第3期
+  // [2024-SPRING] TV: 死神坊ちゃんと黒メイド 第3期
   // https://annict.com/works/11190
   { annict_id: 11190, mal_id: 56738 },
   // [2024-WINTER] TV: SYNDUALITY Noir 第2クール
