@@ -35552,4 +35552,7 @@ export const annict: ArmEntry[] = [
   // [2021-SPRING] WEB: ンダホ結婚おめでとう！！
   // https://annict.com/works/12358
   { annict_id: 12358 },
+  // [2023-AUTUMN] TV: Fate/Samurai Remnant ショートアニメーション
+  // https://annict.com/works/12359
+  { annict_id: 12359 },
 ]
