@@ -35555,4 +35555,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: セイバーとバーサーカーの日本列島くいだおれの旅
   // https://annict.com/works/12359
   { annict_id: 12359 },
+  // [null-null] TV: 悪役令嬢転生おじさん
+  // https://annict.com/works/12360
+  { annict_id: 12360 },
 ]
