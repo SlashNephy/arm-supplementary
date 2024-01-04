@@ -35557,5 +35557,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 12359 },
   // [null-null] TV: 悪役令嬢転生おじさん
   // https://annict.com/works/12360
-  { annict_id: 12360 },
+  { annict_id: 12360, mal_id: 57719 },
 ]
