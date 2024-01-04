@@ -26447,7 +26447,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] TV: 便利屋斎藤さん、異世界に行く
   // https://annict.com/works/9282
   { annict_id: 9282, mal_id: 50854, syobocal_tid: 6574 },
-  // [null-null] OTHER: ヤマトよ永遠に REBEL3199
+  // [2024-SUMMER] MOVIE: ヤマトよ永遠に REBEL3199 第一章 黒の侵略
   // https://annict.com/works/9283
   { annict_id: 9283, mal_id: 50855 },
   // [2022-SPRING] TV: エスタブライフ グレイトエスケープ
