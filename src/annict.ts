@@ -35558,4 +35558,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 悪役令嬢転生おじさん
   // https://annict.com/works/12360
   { annict_id: 12360, mal_id: 57719 },
+  // [2018-SUMMER] OVA: 血界戦線 & BEYOND OAD
+  // https://annict.com/works/12361
+  { annict_id: 12361, mal_id: 37364 },
 ]
