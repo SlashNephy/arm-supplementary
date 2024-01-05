@@ -31562,7 +31562,7 @@ export const annict: ArmEntry[] = [
   // [2016-AUTUMN] TV: 神々の記
   // https://annict.com/works/11025
   { annict_id: 11025, mal_id: 34292 },
-  // [2024-null] TV: 魔法科高校の劣等生 新シリーズ
+  // [2024-SPRING] TV: 魔法科高校の劣等生 第3シーズン
   // https://annict.com/works/11026
   { annict_id: 11026, mal_id: 50713 },
   // [null-null] TV: ソードアート・オンライン オルタナティブ ガンゲイル・オンラインII
