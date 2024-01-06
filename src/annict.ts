@@ -31862,7 +31862,7 @@ export const annict: ArmEntry[] = [
   // [2011-WINTER] OVA: ああっ女神さまっ(OAD)
   // https://annict.com/works/11125
   { annict_id: 11125, mal_id: 9611 },
-  // [null-null] TV: BanG Dream! Ave Mujica
+  // [2025-WINTER] TV: BanG Dream! Ave Mujica
   // https://annict.com/works/11126
   { annict_id: 11126, mal_id: 56653 },
   // [2024-AUTUMN] TV: 青のミブロ
@@ -35564,4 +35564,10 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] WEB: じゃんたま カン！！
   // https://annict.com/works/12362
   { annict_id: 12362 },
+  // [2024-null] MOVIE: 劇場版「BanG Dream! It's MyGO!!!!!」前編 : 春の陽だまり、迷い猫
+  // https://annict.com/works/12363
+  { annict_id: 12363 },
+  // [2024-null] MOVIE: 劇場版「BanG Dream! It's MyGO!!!!!」後編 : うたう、僕らになれるうた & FILM LIVE
+  // https://annict.com/works/12364
+  { annict_id: 12364 },
 ]
