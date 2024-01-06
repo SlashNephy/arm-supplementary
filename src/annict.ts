@@ -31259,7 +31259,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: 鬼滅の刃 柱稽古編
   // https://annict.com/works/10924
   { annict_id: 10924, mal_id: 55701 },
-  // [2024-WINTER] MOVIE: 劇場版 僕とロボコ
+  // [2024-AUTUMN] MOVIE: 劇場版 僕とロボコ
   // https://annict.com/works/10925
   { annict_id: 10925, mal_id: 55709 },
   // [null-null] OTHER: うたごえはミルフィーユ
