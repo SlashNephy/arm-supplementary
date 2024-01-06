@@ -35561,4 +35561,7 @@ export const annict: ArmEntry[] = [
   // [2018-SUMMER] OVA: 血界戦線 & BEYOND OAD
   // https://annict.com/works/12361
   { annict_id: 12361, mal_id: 37364 },
+  // [2024-SPRING] WEB: じゃんたま カン！！
+  // https://annict.com/works/12362
+  { annict_id: 12362 },
 ]
