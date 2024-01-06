@@ -24323,7 +24323,7 @@ export const annict: ArmEntry[] = [
   // [2022-SUMMER] TV: オーバーロードⅣ
   // https://annict.com/works/8476
   { annict_id: 8476, mal_id: 48895, syobocal_tid: 6391 },
-  // [2024-null] MOVIE: 劇場版「オーバーロード」聖王国編
+  // [2024-null] MOVIE: 劇場版 オーバーロード 聖王国編
   // https://annict.com/works/8477
   { annict_id: 8477, mal_id: 48896 },
   // [2022-SPRING] TV: ラブライブ！虹ヶ咲学園スクールアイドル同好会 (第2期)
@@ -35564,10 +35564,10 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] WEB: じゃんたま カン！！
   // https://annict.com/works/12362
   { annict_id: 12362 },
-  // [2024-null] MOVIE: 劇場版「BanG Dream! It's MyGO!!!!!」前編 : 春の陽だまり、迷い猫
+  // [2024-null] MOVIE: 劇場版 BanG Dream! It's MyGO!!!!! 前編 : 春の陽だまり、迷い猫
   // https://annict.com/works/12363
   { annict_id: 12363 },
-  // [2024-null] MOVIE: 劇場版「BanG Dream! It's MyGO!!!!!」後編 : うたう、僕らになれるうた & FILM LIVE
+  // [2024-null] MOVIE: 劇場版 BanG Dream! It's MyGO!!!!! 後編 : うたう、僕らになれるうた & FILM LIVE
   // https://annict.com/works/12364
   { annict_id: 12364 },
 ]
