@@ -24128,7 +24128,7 @@ export const annict: ArmEntry[] = [
   // [2021-AUTUMN] TV: 最果てのパラディン
   // https://annict.com/works/8379
   { annict_id: 8379, mal_id: 48761, syobocal_tid: 6123 },
-  // [1989-null] TV: 手塚治虫物語 ぼくは孫悟空
+  // [1989-SUMMER] TV: 手塚治虫物語 ぼくは孫悟空
   // https://annict.com/works/8380
   { annict_id: 8380, mal_id: 9531 },
   // [2021-SPRING] WEB: ちびりべ
@@ -35582,4 +35582,16 @@ export const annict: ArmEntry[] = [
   // [1987-SPRING] TV: 鉄仮面を追え「ダルタニャン物語」より
   // https://annict.com/works/12368
   { annict_id: 12368, mal_id: 8214 },
+  // [1987-AUTUMN] TV: キテレツ大百科(スペシャル)
+  // https://annict.com/works/12369
+  { annict_id: 12369 },
+  // [1988-WINTER] TV: '88サイエンスアニメスペシャル 超・電・導ものがたり
+  // https://annict.com/works/12370
+  { annict_id: 12370 },
+  // [1988-AUTUMN] TV: 労働省アニメスペシャル マンガ がんばるサラリーマンのゆとり進化論
+  // https://annict.com/works/12371
+  { annict_id: 12371 },
+  // [1988-AUTUMN] TV: がんばれ!盲導犬サーブ
+  // https://annict.com/works/12372
+  { annict_id: 12372, mal_id: 9886 },
 ]
