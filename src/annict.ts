@@ -35594,4 +35594,10 @@ export const annict: ArmEntry[] = [
   // [1988-AUTUMN] TV: がんばれ!盲導犬サーブ
   // https://annict.com/works/12372
   { annict_id: 12372, mal_id: 9886 },
+  // [1990-SPRING] TV: 平成のシンデレラ 紀子さま物語
+  // https://annict.com/works/12373
+  { annict_id: 12373, mal_id: 24257 },
+  // [1991-SUMMER] TV: ある日、ラブソングを
+  // https://annict.com/works/12374
+  { annict_id: 12374 },
 ]
