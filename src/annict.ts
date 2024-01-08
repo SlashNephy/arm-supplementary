@@ -35600,4 +35600,7 @@ export const annict: ArmEntry[] = [
   // [1991-SUMMER] TV: ある日、ラブソングを
   // https://annict.com/works/12374
   { annict_id: 12374 },
+  // [1991-AUTUMN] TV: 森の妖精
+  // https://annict.com/works/12375
+  { annict_id: 12375 },
 ]
