@@ -35603,4 +35603,19 @@ export const annict: ArmEntry[] = [
   // [1991-AUTUMN] TV: 森の妖精
   // https://annict.com/works/12375
   { annict_id: 12375 },
+  // [1992-SUMMER] TV: カワセミが危ない
+  // https://annict.com/works/12376
+  { annict_id: 12376 },
+  // [1990-WINTER] TV: 笑ゥせぇるすまん(スペシャル)
+  // https://annict.com/works/12377
+  { annict_id: 12377, mal_id: 35116 },
+  // [1992-AUTUMN] TV: 笑ゥせぇるすまんスペシャル(1992年)
+  // https://annict.com/works/12378
+  { annict_id: 12378, mal_id: 35158 },
+  // [1993-SPRING] TV: 笑ゥせぇるすまん春の特大号
+  // https://annict.com/works/12379
+  { annict_id: 12379, mal_id: 35158 },
+  // [1993-AUTUMN] TV: 笑ゥせぇるすまん年忘れ特大号
+  // https://annict.com/works/12380
+  { annict_id: 12380, mal_id: 35158 },
 ]
