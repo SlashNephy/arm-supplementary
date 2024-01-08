@@ -35570,4 +35570,16 @@ export const annict: ArmEntry[] = [
   // [2024-null] MOVIE: 劇場版 BanG Dream! It's MyGO!!!!! 後編 : うたう、僕らになれるうた & FILM LIVE
   // https://annict.com/works/12364
   { annict_id: 12364, mal_id: 57754 },
+  // [1982-WINTER] TV: 三国志
+  // https://annict.com/works/12365
+  { annict_id: 12365, mal_id: 22973 },
+  // [1982-AUTUMN] TV: プロゴルファー猿(スペシャル)
+  // https://annict.com/works/12366
+  { annict_id: 12366, mal_id: 17313 },
+  // [1987-WINTER] MOVIE: ブンナよ木から降りてこい
+  // https://annict.com/works/12367
+  { annict_id: 12367, mal_id: 23611 },
+  // [1987-SPRING] TV: 鉄仮面を追え「ダルタニャン物語」より
+  // https://annict.com/works/12368
+  { annict_id: 12368, mal_id: 8214 },
 ]
