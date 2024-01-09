@@ -35654,4 +35654,10 @@ export const annict: ArmEntry[] = [
   // [1994-SUMMER] OVA: バッドばつ丸の男度胸の思いやり
   // https://annict.com/works/12392
   { annict_id: 12392, mal_id: 30125 },
+  // [1995-SPRING] TV: まんが日本昔ばなし スペシャル 里のかたりべむかしばなし
+  // https://annict.com/works/12393
+  { annict_id: 12393 },
+  // [1995-AUTUMN] TV: 孔子傳
+  // https://annict.com/works/12394
+  { annict_id: 12394, mal_id: 23615 },
 ]
