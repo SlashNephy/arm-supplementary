@@ -35662,8 +35662,32 @@ export const annict: ArmEntry[] = [
   { annict_id: 12394, mal_id: 23615 },
   // [null-null] WEB: ドロヘドロ 続編
   // https://annict.com/works/12395
-  { annict_id: 12395 },
+  { annict_id: 12395, mal_id: 57779 },
   // [2023-AUTUMN] WEB: 365日の明日
   // https://annict.com/works/12396
   { annict_id: 12396 },
+  // [1998-SUMMER] TV: アニメ 男はつらいよ〜寅次郎忘れな草〜
+  // https://annict.com/works/12397
+  { annict_id: 12397, mal_id: 19559 },
+  // [1998-AUTUMN] TV: VISITOR
+  // https://annict.com/works/12398
+  { annict_id: 12398, mal_id: 18627 },
+  // [2000-SUMMER] TV: バットマン サブゼロ 凍りついた愛
+  // https://annict.com/works/12399
+  { annict_id: 12399 },
+  // [2000-SUMMER] TV: ピンキー&ブレイン
+  // https://annict.com/works/12400
+  { annict_id: 12400 },
+  // [2000-AUTUMN] TV: ピンキー＆ブレインのクリスマス
+  // https://annict.com/works/12401
+  { annict_id: 12401 },
+  // [2000-AUTUMN] TV: ラブひな クリスマススペシャル ～サイレント・イヴ～
+  // https://annict.com/works/12402
+  { annict_id: 12402, mal_id: 191 },
+  // [2001-SPRING] TV: ラブひな 春スペシャル 〜キミサクラチルナカレ!!〜
+  // https://annict.com/works/12403
+  { annict_id: 12403, mal_id: 192 },
+  // [2001-AUTUMN] TV: 葉っぱのフレディ-いのちの旅-
+  // https://annict.com/works/12404
+  { annict_id: 12404 },
 ]
