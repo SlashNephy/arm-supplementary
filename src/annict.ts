@@ -25852,7 +25852,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9051, mal_id: 50220, syobocal_tid: 6630 },
   // [2022-SPRING] TV: ちいかわ
   // https://annict.com/works/9052
-  { annict_id: 9052, mal_id: 50250 },
+  { annict_id: 9052, mal_id: 50250, syobocal_tid: 6957 },
   // [2022-SPRING] TV: 3秒後､野獣｡～合コンで隅にいた彼は淫らな肉食でした
   // https://annict.com/works/9053
   { annict_id: 9053, mal_id: 50208, syobocal_tid: 6327 },
@@ -33880,7 +33880,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11798 },
   // [2024-WINTER] TV: わんだふるぷりきゅあ！
   // https://annict.com/works/11799
-  { annict_id: 11799 },
+  { annict_id: 11799, syobocal_tid: 6969 },
   // [2024-SPRING] MOVIE: 名探偵コナン 100万ドルの五稜星
   // https://annict.com/works/11800
   { annict_id: 11800, mal_id: 56785 },
@@ -34465,7 +34465,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11993 },
   // [2024-WINTER] TV: 炎上撲滅！魔法少女アイ子
   // https://annict.com/works/11994
-  { annict_id: 11994 },
+  { annict_id: 11994, syobocal_tid: 6965 },
   // [2024-WINTER] TV: 明治撃剣－1874－
   // https://annict.com/works/11996
   { annict_id: 11996, mal_id: 57502, syobocal_tid: 6948 },
@@ -35663,4 +35663,7 @@ export const annict: ArmEntry[] = [
   // [null-null] WEB: ドロヘドロ 続編
   // https://annict.com/works/12395
   { annict_id: 12395 },
+  // [2023-AUTUMN] WEB: 365日の明日
+  // https://annict.com/works/12396
+  { annict_id: 12396 },
 ]
