@@ -35660,4 +35660,7 @@ export const annict: ArmEntry[] = [
   // [1995-AUTUMN] TV: 孔子傳
   // https://annict.com/works/12394
   { annict_id: 12394, mal_id: 23615 },
+  // [null-null] WEB: ドロヘドロ 続編
+  // https://annict.com/works/12395
+  { annict_id: 12395 },
 ]
