@@ -29297,7 +29297,7 @@ export const annict: ArmEntry[] = [
   // [1991-SUMMER] MOVIE: たあ坊の竜宮星大探険
   // https://annict.com/works/10267
   { annict_id: 10267, mal_id: 19517 },
-  // [1996-WINTER] MOVIE: バッドばつ丸のオレのポチは世界一
+  // [1994-SUMMER] MOVIE: バッドばつ丸のオレのポチは世界一
   // https://annict.com/works/10268
   { annict_id: 10268, mal_id: 17479 },
   // [1993-SUMMER] OVA: ハローキティのアルプスの少女ハイジ
@@ -35618,4 +35618,40 @@ export const annict: ArmEntry[] = [
   // [1993-AUTUMN] TV: 笑ゥせぇるすまん年忘れ特大号
   // https://annict.com/works/12380
   { annict_id: 12380, mal_id: 35158 },
+  // [1994-AUTUMN] TV: 王女とゴブリン
+  // https://annict.com/works/12381
+  { annict_id: 12381 },
+  // [1994-WINTER] TV: アーシャ
+  // https://annict.com/works/12382
+  { annict_id: 12382 },
+  // [1994-WINTER] TV: 森のサーカス
+  // https://annict.com/works/12383
+  { annict_id: 12383 },
+  // [1994-SPRING] TV: インコ男爵の館
+  // https://annict.com/works/12384
+  { annict_id: 12384 },
+  // [1994-SPRING] TV: ミッドナイト・トリッパーズ
+  // https://annict.com/works/12385
+  { annict_id: 12385 },
+  // [1994-SPRING] TV: トンチーズ
+  // https://annict.com/works/12386
+  { annict_id: 12386 },
+  // [1994-SUMMER] TV: ゼロの惑星
+  // https://annict.com/works/12387
+  { annict_id: 12387 },
+  // [1995-WINTER] TV: キャンディジェーンのランデブー
+  // https://annict.com/works/12388
+  { annict_id: 12388 },
+  // [1999-AUTUMN] TV: お茶の水博士の「20世紀の贈りもの」
+  // https://annict.com/works/12389
+  { annict_id: 12389 },
+  // [1999-AUTUMN] TV: ゴジラ ザ・シリーズ
+  // https://annict.com/works/12390
+  { annict_id: 12390 },
+  // [1994-SUMMER] OVA: バッドばつ丸のオレは優等生
+  // https://annict.com/works/12391
+  { annict_id: 12391, mal_id: 30124 },
+  // [1994-SUMMER] OVA: バッドばつ丸の男度胸の思いやり
+  // https://annict.com/works/12392
+  { annict_id: 12392, mal_id: 30125 },
 ]
