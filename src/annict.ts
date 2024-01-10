@@ -35690,4 +35690,31 @@ export const annict: ArmEntry[] = [
   // [2001-AUTUMN] TV: 葉っぱのフレディ-いのちの旅-
   // https://annict.com/works/12404
   { annict_id: 12404 },
+  // [2002-WINTER] TV: MARS BRAT
+  // https://annict.com/works/12405
+  { annict_id: 12405 },
+  // [2002-WINTER] TV: 未来・スノーエンゼル －水と生命の惑星－
+  // https://annict.com/works/12406
+  { annict_id: 12406 },
+  // [2001-SUMMER] TV: スクービー・ドゥーのゾンビ島
+  // https://annict.com/works/12407
+  { annict_id: 12407 },
+  // [2001-AUTUMN] TV: スクービー・ドゥーの魔女の幽霊
+  // https://annict.com/works/12408
+  { annict_id: 12408 },
+  // [2002-SPRING] TV: スクービー・ドゥー 宇宙からの侵略者?!
+  // https://annict.com/works/12409
+  { annict_id: 12409 },
+  // [2002-SUMMER] TV: スクービー・ドゥーのサイバー・チェイス
+  // https://annict.com/works/12410
+  { annict_id: 12410 },
+  // [1994-SUMMER] TV: アルビンとチップマンクス
+  // https://annict.com/works/12411
+  { annict_id: 12411 },
+  // [2002-AUTUMN] TV: アルビンとチップマンクス/狼男にご用心!
+  // https://annict.com/works/12412
+  { annict_id: 12412 },
+  // [2002-AUTUMN] TV: ポピーザぱフォーマー カウントダウンスペシャル2002
+  // https://annict.com/works/12413
+  { annict_id: 12413, mal_id: 39780 },
 ]
