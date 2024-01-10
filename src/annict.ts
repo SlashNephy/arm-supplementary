@@ -35717,4 +35717,7 @@ export const annict: ArmEntry[] = [
   // [2002-AUTUMN] TV: ポピーザぱフォーマー カウントダウンスペシャル2002
   // https://annict.com/works/12413
   { annict_id: 12413, mal_id: 39780 },
+  // [2003-SUMMER] TV: エルティングビル・ クラブ
+  // https://annict.com/works/12414
+  { annict_id: 12414 },
 ]
