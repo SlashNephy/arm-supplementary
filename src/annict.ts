@@ -35720,4 +35720,19 @@ export const annict: ArmEntry[] = [
   // [2003-SUMMER] TV: エルティングビル・ クラブ
   // https://annict.com/works/12414
   { annict_id: 12414 },
+  // [2004-WINTER] TV: あした・きらりん
+  // https://annict.com/works/12415
+  { annict_id: 12415, mal_id: 32255 },
+  // [2006-AUTUMN] TV: 白い恋人
+  // https://annict.com/works/12416
+  { annict_id: 12416 },
+  // [2008-SUMMER] TV: タカネの自転車
+  // https://annict.com/works/12417
+  { annict_id: 12417, mal_id: 4685, syobocal_tid: 1445 },
+  // [2010-AUTUMN] MOVIE: Wake up!! TAMALA
+  // https://annict.com/works/12418
+  { annict_id: 12418, mal_id: 31476 },
+  // [2011-AUTUMN] TV: のらのらの〜ら
+  // https://annict.com/works/12419
+  { annict_id: 12419 },
 ]
