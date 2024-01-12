@@ -35746,5 +35746,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 12422, mal_id: 57810 },
   // [2024-SPRING] WEB: SAND LAND: THE SERIES
   // https://annict.com/works/12423
-  { annict_id: 12423 },
+  { annict_id: 12423, mal_id: 57160 },
 ]
