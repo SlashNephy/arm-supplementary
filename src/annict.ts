@@ -35173,7 +35173,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12231, mal_id: 57635 },
   // [null-null] TV: シンカリオン チェンジ ザ ワールド
   // https://annict.com/works/12232
-  { annict_id: 12232 },
+  { annict_id: 12232, mal_id: 57798 },
   // [1957-SPRING] MOVIE: こねこのらくがき
   // https://annict.com/works/12233
   { annict_id: 12233, mal_id: 6993 },
