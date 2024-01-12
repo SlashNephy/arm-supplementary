@@ -35738,4 +35738,13 @@ export const annict: ArmEntry[] = [
   // [2024-null] TV: 凍牌〜裏レート麻雀闘牌録〜
   // https://annict.com/works/12420
   { annict_id: 12420, mal_id: 57796 },
+  // [null-null] WEB: あたしンち 新作アニメ
+  // https://annict.com/works/12421
+  { annict_id: 12421 },
+  // [2024-SUMMER] TV: 小市民シリーズ
+  // https://annict.com/works/12422
+  { annict_id: 12422, mal_id: 57810 },
+  // [2024-SPRING] WEB: SAND LAND: THE SERIES
+  // https://annict.com/works/12423
+  { annict_id: 12423 },
 ]
