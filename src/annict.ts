@@ -35750,4 +35750,10 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 魔神創造伝ワタル
   // https://annict.com/works/12424
   { annict_id: 12424 },
+  // [2025-null] TV: 神椿市建設中。
+  // https://annict.com/works/12425
+  { annict_id: 12425 },
+  // [2024-SPRING] TV: 刀剣乱舞 廻
+  // https://annict.com/works/12426
+  { annict_id: 12426 },
 ]
