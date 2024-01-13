@@ -35753,7 +35753,10 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: 神椿市建設中。
   // https://annict.com/works/12425
   { annict_id: 12425 },
-  // [2024-SPRING] TV: 刀剣乱舞 廻
+  // [2024-SPRING] TV: 刀剣乱舞 廻 -虚伝 燃ゆる本能寺-
   // https://annict.com/works/12426
-  { annict_id: 12426 },
+  { annict_id: 12426, mal_id: 51859 },
+  // [null-null] OTHER: わんぱく！刀剣乱舞
+  // https://annict.com/works/12427
+  { annict_id: 12427 },
 ]
