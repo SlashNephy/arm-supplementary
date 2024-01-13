@@ -1,31 +1,49 @@
+import z from 'zod'
+
 import { UserAgent } from './constant.ts'
 
-export type AnimeOfflineDatabase = {
-  license: {
-    name: string
-    url: string
-  }
-  repository: string
-  lastUpdate: string
-  data: AnimeOfflineDatabaseEntry[]
-}
+const schema = z.object({
+  license: z.object({
+    name: z.string(),
+    url: z.string(),
+  }),
+  repository: z.string(),
+  lastUpdate: z.string(),
+  data: z
+    .object({
+      sources: z.string().array(),
+      title: z.string(),
+      type: z.union([
+        z.literal('TV'),
+        z.literal('MOVIE'),
+        z.literal('OVA'),
+        z.literal('ONA'),
+        z.literal('SPECIAL'),
+        z.literal('UNKNOWN'),
+      ]),
+      episodes: z.number(),
+      status: z.union([z.literal('FINISHED'), z.literal('ONGOING'), z.literal('UPCOMING'), z.literal('UNKNOWN')]),
+      animeSeason: z.object({
+        season: z.union([
+          z.literal('SPRING'),
+          z.literal('SUMMER'),
+          z.literal('FALL'),
+          z.literal('WINTER'),
+          z.literal('UNDEFINED'),
+        ]),
+        year: z.number().optional(),
+      }),
+      picture: z.string(),
+      thumbnail: z.string(),
+      synonyms: z.string().array(),
+      relations: z.string().array(),
+      tags: z.string().array(),
+    })
+    .array(),
+})
 
-export type AnimeOfflineDatabaseEntry = {
-  sources: string[]
-  title: string
-  type: 'TV' | 'MOVIE' | 'OVA' | 'ONA' | 'SPECIAL' | 'UNKNOWN'
-  episodes: number
-  status: 'FINISHED' | 'ONGOING' | 'UPCOMING' | 'UNKNOWN'
-  animeSeason: {
-    season: 'SPRING' | 'SUMMER' | 'FALL' | 'WINTER' | 'UNDEFINED'
-    year?: number
-  }
-  picture: string
-  thumbnail: string
-  synonyms: string[]
-  relations: string[]
-  tags: string[]
-}
+export type AnimeOfflineDatabase = z.infer<typeof schema>
+export type AnimeOfflineDatabaseEntry = AnimeOfflineDatabase['data'][0]
 
 export const fetchAnimeOfflineDatabase = async (): Promise<AnimeOfflineDatabase> => {
   const { default: fetch } = await import('node-fetch')
@@ -39,5 +57,5 @@ export const fetchAnimeOfflineDatabase = async (): Promise<AnimeOfflineDatabase>
   )
   const json = await response.json()
 
-  return json as AnimeOfflineDatabase
+  return await schema.parseAsync(json)
 }

@@ -1,19 +1,25 @@
+import z from 'zod'
+
 import { UserAgent } from './constant.ts'
 
-export type ArmEntry = {
-  mal_id?: number
-  anilist_id?: number
-  annict_id?: number
-  syobocal_tid?: number
+const schema = z
+  .object({
+    mal_id: z.number().optional(),
+    anilist_id: z.number().optional(),
+    annict_id: z.number().optional(),
+    syobocal_tid: z.number().optional(),
 
-  // extended
-  anidb_id?: number
-  animeplanet_id?: string
-  anisearch_id?: number
-  kitsu_id?: number
-  livechart_id?: number
-  notify_id?: string
-}
+    // extended
+    anidb_id: z.number().optional(),
+    animeplanet_id: z.string().optional(),
+    anisearch_id: z.number().optional(),
+    kitsu_id: z.number().optional(),
+    livechart_id: z.number().optional(),
+    notify_id: z.string().optional(),
+  })
+  .array()
+
+export type ArmEntry = z.infer<typeof schema>[0]
 
 export const fetchArm = async (sha?: string): Promise<ArmEntry[]> => {
   const { default: fetch } = await import('node-fetch')
@@ -24,5 +30,9 @@ export const fetchArm = async (sha?: string): Promise<ArmEntry[]> => {
   })
   const json = await response.json()
 
-  return json as ArmEntry[]
+  return await parseArmEntries(json)
+}
+
+export async function parseArmEntries(data: unknown): Promise<ArmEntry[]> {
+  return await schema.parseAsync(data)
 }

@@ -21,7 +21,6 @@ const tryParseInt = (value?: string): number | undefined => {
 
 const animeOfflineDatabase = async () => {
   const content: string[] = [
-    // eslint-disable-next-line quotes
     "import type { ArmEntry } from '../lib/arm'",
     '',
     '// @ts-ignore',
