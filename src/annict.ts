@@ -35747,4 +35747,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] WEB: SAND LAND: THE SERIES
   // https://annict.com/works/12423
   { annict_id: 12423, mal_id: 57160 },
+  // [null-null] TV: 魔神創造伝ワタル
+  // https://annict.com/works/12424
+  { annict_id: 12424 },
 ]
