@@ -4,7 +4,7 @@ import { cwd } from 'process'
 
 import markdown, { MarkdownCodeType, MarkdownTableBuilder, TableAlignType } from 'markdown-doc-builder'
 
-import { fetchArm } from '../lib/arm.ts'
+import { fetchArm, parseArmEntries } from '../lib/arm.ts'
 import { env } from '../lib/env.ts'
 import { animeOfflineDatabase } from '../src/anime-offline-database.ts'
 
@@ -36,8 +36,9 @@ export const fetchArmEntries = async (): Promise<ArmEntry[]> => {
 const loadArmJson = async (): Promise<ArmEntry[]> => {
   const path = join(cwd(), 'dist', 'arm.json')
   const content = await readFile(path, 'utf-8')
+  const json = JSON.parse(content)
 
-  return JSON.parse(content) as ArmEntry[]
+  return await parseArmEntries(json)
 }
 
 const indicateSign = (value: number): string => `${value > 0 ? '+' : value < 0 ? '' : '±'}${value}`
