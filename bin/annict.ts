@@ -9,6 +9,7 @@ import type { ArmEntry } from '../lib/arm'
 
 const annict = async () => {
   const content: string[] = [
+    // eslint-disable-next-line @stylistic/quotes
     "import type { ArmEntry } from '../lib/arm'",
     '',
     '// @ts-ignore',
