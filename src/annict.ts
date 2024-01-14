@@ -35777,4 +35777,7 @@ export const annict: ArmEntry[] = [
   // [null-null] MOVIE: ヤマトよ永遠に REBEL3199 第7章
   // https://annict.com/works/12433
   { annict_id: 12433 },
+  // [2016-SUMMER] OVA: ナルトが火影になった日
+  // https://annict.com/works/12434
+  { annict_id: 12434, mal_id: 32365 },
 ]
