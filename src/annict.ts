@@ -35780,4 +35780,13 @@ export const annict: ArmEntry[] = [
   // [2016-SUMMER] OVA: ナルトが火影になった日
   // https://annict.com/works/12434
   { annict_id: 12434, mal_id: 32365 },
+  // [2001-AUTUMN] TV: 阿貴的家族 アークエ・ファミリー全員集合!!
+  // https://annict.com/works/12435
+  { annict_id: 12435 },
+  // [2002-AUTUMN] TV: 超阿貴的家族 爆笑一家再襲来!
+  // https://annict.com/works/12436
+  { annict_id: 12436 },
+  // [2005-SPRING] MOVIE: アークエとガッチンポー THE MOVIE チェルシーの逆襲 / アークエと魔法のハンマー
+  // https://annict.com/works/12437
+  { annict_id: 12437, mal_id: 29842 },
 ]
