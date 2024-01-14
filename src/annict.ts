@@ -35759,4 +35759,22 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: わんぱく！刀剣乱舞
   // https://annict.com/works/12427
   { annict_id: 12427 },
+  // [null-null] MOVIE: ヤマトよ永遠に REBEL3199 第2章
+  // https://annict.com/works/12428
+  { annict_id: 12428 },
+  // [null-null] MOVIE: ヤマトよ永遠に REBEL3199 第3章
+  // https://annict.com/works/12429
+  { annict_id: 12429 },
+  // [null-null] MOVIE: ヤマトよ永遠に REBEL3199 第4章
+  // https://annict.com/works/12430
+  { annict_id: 12430 },
+  // [null-null] MOVIE: ヤマトよ永遠に REBEL3199 第5章
+  // https://annict.com/works/12431
+  { annict_id: 12431 },
+  // [null-null] MOVIE: ヤマトよ永遠に REBEL3199 第6章
+  // https://annict.com/works/12432
+  { annict_id: 12432 },
+  // [null-null] MOVIE: ヤマトよ永遠に REBEL3199 第7章
+  // https://annict.com/works/12433
+  { annict_id: 12433 },
 ]
