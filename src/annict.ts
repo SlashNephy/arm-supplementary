@@ -35789,4 +35789,7 @@ export const annict: ArmEntry[] = [
   // [2005-SPRING] MOVIE: アークエとガッチンポー THE MOVIE チェルシーの逆襲 / アークエと魔法のハンマー
   // https://annict.com/works/12437
   { annict_id: 12437, mal_id: 29842 },
+  // [2022-AUTUMN] TV: まめきちまめこニートの日常
+  // https://annict.com/works/12438
+  { annict_id: 12438, mal_id: 53011 },
 ]
