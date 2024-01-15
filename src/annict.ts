@@ -35792,4 +35792,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] TV: まめきちまめこニートの日常
   // https://annict.com/works/12438
   { annict_id: 12438, mal_id: 53011 },
+  // [2002-SUMMER] TV: 楽しいダックタウン
+  // https://annict.com/works/12439
+  { annict_id: 12439 },
 ]
