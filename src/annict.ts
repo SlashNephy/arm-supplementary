@@ -27758,7 +27758,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 探偵はもう、死んでいる。Season2
   // https://annict.com/works/9753
   { annict_id: 9753 },
-  // [2024-null] TV: 義妹生活
+  // [2024-SUMMER] TV: 義妹生活
   // https://annict.com/works/9754
   { annict_id: 9754, mal_id: 52481 },
   // [2024-WINTER] TV: 佐々木とピーちゃん
@@ -35795,4 +35795,7 @@ export const annict: ArmEntry[] = [
   // [2002-SUMMER] TV: 楽しいダックタウン
   // https://annict.com/works/12439
   { annict_id: 12439 },
+  // [2024-null] TV: エルフさんは痩せられない。
+  // https://annict.com/works/12440
+  { annict_id: 12440, mal_id: 57845 },
 ]
