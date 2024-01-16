@@ -35798,4 +35798,25 @@ export const annict: ArmEntry[] = [
   // [2024-null] TV: エルフさんは痩せられない。
   // https://annict.com/works/12440
   { annict_id: 12440, mal_id: 57845 },
+  // [2014-WINTER] WEB: 超合金ハローキティ オリジナルフラッシュアニメ
+  // https://annict.com/works/12441
+  { annict_id: 12441 },
+  // [2016-WINTER] WEB: マジンガーZ×ハローキティ×超合金 オリジナルショートアニメ
+  // https://annict.com/works/12442
+  { annict_id: 12442 },
+  // [2020-WINTER] WEB: 超合金 ガンダム★ハローキティ ショートアニメーション
+  // https://annict.com/works/12443
+  { annict_id: 12443 },
+  // [null-null] TV: よあそびぐらしっ！
+  // https://annict.com/works/12444
+  { annict_id: 12444 },
+  // [2006-SPRING] MOVIE: 立喰師列伝
+  // https://annict.com/works/12445
+  { annict_id: 12445, mal_id: 2388 },
+  // [1992-SPRING] OVA: 鉄の処女JUN
+  // https://annict.com/works/12446
+  { annict_id: 12446, mal_id: 1641 },
+  // [1931-WINTER] MOVIE: 黒ニャゴ
+  // https://annict.com/works/12447
+  { annict_id: 12447, mal_id: 4398 },
 ]
