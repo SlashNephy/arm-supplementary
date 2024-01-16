@@ -35819,4 +35819,7 @@ export const annict: ArmEntry[] = [
   // [1931-WINTER] MOVIE: 黒ニャゴ
   // https://annict.com/works/12447
   { annict_id: 12447, mal_id: 4398 },
+  // [1931-null] MOVIE: 茶目子の一日
+  // https://annict.com/works/12448
+  { annict_id: 12448, mal_id: 6431 },
 ]
