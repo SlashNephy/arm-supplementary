@@ -35822,4 +35822,7 @@ export const annict: ArmEntry[] = [
   // [1931-null] MOVIE: 茶目子の一日
   // https://annict.com/works/12448
   { annict_id: 12448, mal_id: 6431 },
+  // [1959-WINTER] MOVIE: ひょうたんすずめ
+  // https://annict.com/works/12449
+  { annict_id: 12449, mal_id: 16007 },
 ]
