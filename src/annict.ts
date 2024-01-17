@@ -23765,7 +23765,7 @@ export const annict: ArmEntry[] = [
   // [2001-null] OVA: 少年科學倶楽部
   // https://annict.com/works/8258
   { annict_id: 8258 },
-  // [1992-null] OVA: チャイナさんの憂鬱
+  // [1992-SPRING] OVA: チャイナさんの憂鬱
   // https://annict.com/works/8259
   { annict_id: 8259 },
   // [2001-null] OVA: チャイナさんの縮小
