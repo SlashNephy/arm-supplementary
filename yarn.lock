@@ -1841,9 +1841,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@slashnephy/eslint-config@npm:2.3.3":
-  version: 2.3.3
-  resolution: "@slashnephy/eslint-config@npm:2.3.3"
+"@slashnephy/eslint-config@npm:2.3.5":
+  version: 2.3.5
+  resolution: "@slashnephy/eslint-config@npm:2.3.5"
   dependencies:
     "@emotion/eslint-plugin": "npm:11.11.0"
     "@graphql-eslint/eslint-plugin": "npm:3.20.1"
@@ -1890,7 +1890,7 @@ __metadata:
     yaml-eslint-parser: "npm:1.2.2"
   peerDependencies:
     eslint: ^8
-  checksum: 40795519a47428ee01b9cbc65b5672f838c2f9e178a47ea92716f5a608dbb965507380ef10679d8007bb2fd98c9c60b2a5eac59e600965d05c87cbaa642eb1c1
+  checksum: 1b25bffc2f7a772bda52425b498a0333c6748007485b17c0d004e28742f3418b74fa77464fd5e89a89f068e5cf5691e88655b9f0cccde31df0bad474681e4400
   languageName: node
   linkType: hard
 
@@ -2460,7 +2460,7 @@ __metadata:
   dependencies:
     "@graphql-codegen/cli": "npm:5.0.0"
     "@graphql-codegen/client-preset": "npm:4.1.0"
-    "@slashnephy/eslint-config": "npm:2.3.3"
+    "@slashnephy/eslint-config": "npm:2.3.5"
     "@slashnephy/prettier-config": "npm:1.0.73"
     "@types/node": "npm:20.11.0"
     concurrently: "npm:8.2.2"
