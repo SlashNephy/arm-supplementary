@@ -7937,7 +7937,7 @@ export const annict: ArmEntry[] = [
   // [2006-AUTUMN] OVA: 機動戦士ガンダムSEED C.E.73 STARGAZER
   // https://annict.com/works/2651
   { annict_id: 2651, mal_id: 1215, syobocal_tid: 950 },
-  // [2004-SUMMER] OVA: 機動戦士ガンダムSEED スペシャルエディション完結編 鳴動の宇宙
+  // [2004-AUTUMN] OVA: 機動戦士ガンダムSEED スペシャルエディション完結編 鳴動の宇宙
   // https://annict.com/works/2652
   { annict_id: 2652, mal_id: 2269 },
   // [2010-WINTER] OVA: 機動戦士ガンダムUC（ユニコーン）
