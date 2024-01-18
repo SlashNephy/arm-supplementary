@@ -29941,7 +29941,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10483, mal_id: 53787, syobocal_tid: 6719 },
   // [1999-SPRING] TV: ムーぽん
   // https://annict.com/works/10484
-  { annict_id: 10484 },
+  { annict_id: 10484, mal_id: 57825 },
   // [1999-SPRING] TV: ハコいりせがれ
   // https://annict.com/works/10485
   { annict_id: 10485 },
@@ -35749,10 +35749,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 12423, mal_id: 57160 },
   // [null-null] TV: 魔神創造伝ワタル
   // https://annict.com/works/12424
-  { annict_id: 12424 },
+  { annict_id: 12424, mal_id: 57827 },
   // [2025-null] TV: 神椿市建設中。
   // https://annict.com/works/12425
-  { annict_id: 12425 },
+  { annict_id: 12425, mal_id: 57820 },
   // [2024-SPRING] TV: 刀剣乱舞 廻 -虚伝 燃ゆる本能寺-
   // https://annict.com/works/12426
   { annict_id: 12426, mal_id: 51859 },
@@ -35827,5 +35827,8 @@ export const annict: ArmEntry[] = [
   { annict_id: 12449, mal_id: 16007 },
   // [2025-null] TV: 笑顔のたえない職場です。
   // https://annict.com/works/12450
-  { annict_id: 12450 },
+  { annict_id: 12450, mal_id: 57859 },
+  // [2024-null] OTHER: 〈物語〉シリーズ オフ&モンスターシーズン
+  // https://annict.com/works/12451
+  { annict_id: 12451, mal_id: 57864 },
 ]
