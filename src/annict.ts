@@ -33233,7 +33233,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: デブとラブと過ちと！
   // https://annict.com/works/11583
   { annict_id: 11583, mal_id: 57189 },
-  // [null-null] TV: かつて魔法少女と悪は敵対していた。
+  // [2024-SUMMER] TV: かつて魔法少女と悪は敵対していた。
   // https://annict.com/works/11584
   { annict_id: 11584, mal_id: 57217 },
   // [2024-SUMMER] TV: 神之塔 -Tower of God- 第2期
