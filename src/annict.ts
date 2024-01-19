@@ -35831,4 +35831,10 @@ export const annict: ArmEntry[] = [
   // [2024-null] OTHER: 〈物語〉シリーズ オフ&モンスターシーズン
   // https://annict.com/works/12451
   { annict_id: 12451, mal_id: 57864 },
+  // [2020-SUMMER] WEB: ハズビン・ホテル(パイロット版)
+  // https://annict.com/works/12452
+  { annict_id: 12452 },
+  // [2024-WINTER] WEB: ハズビン・ホテルへようこそ
+  // https://annict.com/works/12453
+  { annict_id: 12453 },
 ]
