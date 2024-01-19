@@ -19589,9 +19589,6 @@ export const annict: ArmEntry[] = [
   // [2020-WINTER] TV: ソマリと森の神様
   // https://annict.com/works/6605
   { annict_id: 6605, mal_id: 39575, syobocal_tid: 5551 },
-  // [2023-null] MOVIE: 劇場アニメ「テンカウント」
-  // https://annict.com/works/6606
-  { annict_id: 6606, mal_id: 37616 },
   // [2020-WINTER] MOVIE: メイドインアビス 深き魂の黎明
   // https://annict.com/works/6607
   { annict_id: 6607, mal_id: 36862 },
@@ -35837,4 +35834,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] WEB: ハズビン・ホテルへようこそ
   // https://annict.com/works/12453
   { annict_id: 12453 },
+  // [2024-WINTER] WEB: こうしす！EE LITE
+  // https://annict.com/works/12454
+  { annict_id: 12454 },
 ]
