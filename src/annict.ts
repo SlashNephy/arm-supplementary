@@ -35837,4 +35837,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] WEB: こうしす！EE LITE
   // https://annict.com/works/12454
   { annict_id: 12454 },
+  // [2024-null] TV: 魔王軍最強の魔術師は人間だった
+  // https://annict.com/works/12455
+  { annict_id: 12455, mal_id: 57876 },
 ]
