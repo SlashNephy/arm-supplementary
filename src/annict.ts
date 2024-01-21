@@ -35840,4 +35840,10 @@ export const annict: ArmEntry[] = [
   // [2024-null] TV: 魔王軍最強の魔術師は人間だった
   // https://annict.com/works/12455
   { annict_id: 12455, mal_id: 57876 },
+  // [2024-null] TV: ハズレ枠の【状態異常スキル】で最強になった俺がすべてを蹂躙するまで
+  // https://annict.com/works/12456
+  { annict_id: 12456, mal_id: 57892 },
+  // [2024-null] TV: ひとりぼっちの異世界攻略
+  // https://annict.com/works/12457
+  { annict_id: 12457, mal_id: 57891 },
 ]
