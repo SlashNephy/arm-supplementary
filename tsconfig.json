@@ -9,6 +9,6 @@
     "skipLibCheck": true,
     "useUnknownInCatchVariables": true,
     "allowImportingTsExtensions": true,
-    "noEmit": true
-  }
+    "noEmit": true,
+  },
 }
