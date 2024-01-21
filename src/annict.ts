@@ -22183,7 +22183,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 7668 },
   // [2021-AUTUMN] MOVIE: 劇場版 ソードアート・オンライン プログレッシブ 星なき夜のアリア
   // https://annict.com/works/7669
-  { annict_id: 7669, mal_id: 42916 },
+  { annict_id: 7669, mal_id: 42916, syobocal_tid: 6071 },
   // [2020-SUMMER] TV: おちゃめなシモン (第2シリーズ)
   // https://annict.com/works/7670
   { annict_id: 7670, syobocal_tid: 5771 },
@@ -25876,7 +25876,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9060, mal_id: 50265, syobocal_tid: 6309 },
   // [2022-AUTUMN] MOVIE: 劇場版 ソードアート・オンライン -プログレッシブ- 冥き夕闇のスケルツォ
   // https://annict.com/works/9061
-  { annict_id: 9061, mal_id: 50275 },
+  { annict_id: 9061, mal_id: 50275, syobocal_tid: 6505 },
   // [2022-WINTER] TV: オンエアできない！
   // https://annict.com/works/9062
   { annict_id: 9062, mal_id: 50285, syobocal_tid: 6221 },
