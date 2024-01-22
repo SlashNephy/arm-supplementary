@@ -35852,4 +35852,7 @@ export const annict: ArmEntry[] = [
   // [2020-WINTER] WEB: マウスどうぶつえん名作劇場
   // https://annict.com/works/12459
   { annict_id: 12459 },
+  // [2024-WINTER] MOVIE: FLY！／フライ！
+  // https://annict.com/works/12460
+  { annict_id: 12460 },
 ]
