@@ -35849,4 +35849,7 @@ export const annict: ArmEntry[] = [
   // [2016-SUMMER] WEB: マウスどうぶつえん
   // https://annict.com/works/12458
   { annict_id: 12458, mal_id: 54129 },
+  // [2020-WINTER] WEB: マウスどうぶつえん名作劇場
+  // https://annict.com/works/12459
+  { annict_id: 12459 },
 ]
