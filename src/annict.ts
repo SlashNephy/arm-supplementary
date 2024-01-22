@@ -32108,7 +32108,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: クズ悪役の自己救済システム
   // https://annict.com/works/11208
   { annict_id: 11208, mal_id: 38990, syobocal_tid: 6876 },
-  // [2024-null] TV: ただいま、おかえり
+  // [2024-SPRING] TV: ただいま、おかえり
   // https://annict.com/works/11209
   { annict_id: 11209, mal_id: 56768 },
   // [2023-SUMMER] WEB: シャンフロ ミニ
@@ -32423,7 +32423,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] WEB: 魔法が解けて シーズン5
   // https://annict.com/works/11313
   { annict_id: 11313 },
-  // [2024-null] TV: Lv2からチートだった元勇者候補のまったり異世界ライフ
+  // [2024-SPRING] TV: Lv2からチートだった元勇者候補のまったり異世界ライフ
   // https://annict.com/works/11314
   { annict_id: 11314, mal_id: 56923 },
   // [2024-SUMMER] MOVIE: めくらやなぎと眠る女
@@ -35855,4 +35855,10 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] MOVIE: FLY！／フライ！
   // https://annict.com/works/12460
   { annict_id: 12460 },
+  // [null-null] TV: 父は英雄、母は精霊、娘の私は転生者。
+  // https://annict.com/works/12461
+  { annict_id: 12461, mal_id: 57888 },
+  // [null-null] TV: 盾の勇者の成り上がり Season4
+  // https://annict.com/works/12462
+  { annict_id: 12462, mal_id: 57907 },
 ]
