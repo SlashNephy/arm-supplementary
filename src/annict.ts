@@ -35846,4 +35846,7 @@ export const annict: ArmEntry[] = [
   // [2024-null] TV: ひとりぼっちの異世界攻略
   // https://annict.com/works/12457
   { annict_id: 12457, mal_id: 57891 },
+  // [2016-SUMMER] WEB: マウスどうぶつえん
+  // https://annict.com/works/12458
+  { annict_id: 12458, mal_id: 54129 },
 ]
