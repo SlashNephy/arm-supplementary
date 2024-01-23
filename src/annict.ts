@@ -35861,4 +35861,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 盾の勇者の成り上がり Season4
   // https://annict.com/works/12462
   { annict_id: 12462, mal_id: 57907 },
+  // [2024-null] MOVIE: 『PUI PUI モルカー』CGアニメーション映画
+  // https://annict.com/works/12463
+  { annict_id: 12463 },
 ]
