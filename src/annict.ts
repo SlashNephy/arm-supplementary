@@ -7940,7 +7940,7 @@ export const annict: ArmEntry[] = [
   // [2004-AUTUMN] OVA: 機動戦士ガンダムSEED スペシャルエディション完結編 鳴動の宇宙
   // https://annict.com/works/2652
   { annict_id: 2652, mal_id: 2269 },
-  // [2010-WINTER] OVA: 機動戦士ガンダムUC（ユニコーン）
+  // [2010-WINTER] OVA: 機動戦士ガンダムUC
   // https://annict.com/works/2653
   { annict_id: 2653, mal_id: 6336, syobocal_tid: 2130 },
   // [1996-WINTER] OVA: 機動戦士ガンダム 第08MS小隊
@@ -35866,5 +35866,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 12463, mal_id: 57910 },
   // [2024-SUMMER] MOVIE: 数分間のエールを
   // https://annict.com/works/12464
-  { annict_id: 12464 },
+  { annict_id: 12464, mal_id: 57915 },
 ]
