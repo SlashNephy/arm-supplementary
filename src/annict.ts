@@ -35864,4 +35864,7 @@ export const annict: ArmEntry[] = [
   // [2024-null] MOVIE: 『PUI PUI モルカー』CGアニメーション映画
   // https://annict.com/works/12463
   { annict_id: 12463, mal_id: 57910 },
+  // [2024-SUMMER] MOVIE: 数分間のエールを
+  // https://annict.com/works/12464
+  { annict_id: 12464 },
 ]
