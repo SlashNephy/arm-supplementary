@@ -35873,4 +35873,7 @@ export const annict: ArmEntry[] = [
   // [1994-null] OVA: ドラえもん のび太と未来ノート
   // https://annict.com/works/12466
   { annict_id: 12466, mal_id: 16702 },
+  // [2024-WINTER] WEB: ちこまる
+  // https://annict.com/works/12467
+  { annict_id: 12467 },
 ]
