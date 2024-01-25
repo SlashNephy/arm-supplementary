@@ -35867,4 +35867,10 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] MOVIE: 数分間のエールを
   // https://annict.com/works/12464
   { annict_id: 12464, mal_id: 57915 },
+  // [1981-AUTUMN] TV: ドラえもん ケンちゃんの冒険
+  // https://annict.com/works/12465
+  { annict_id: 12465 },
+  // [1994-null] OVA: ドラえもん のび太と未来ノート
+  // https://annict.com/works/12466
+  { annict_id: 12466, mal_id: 16702 },
 ]
