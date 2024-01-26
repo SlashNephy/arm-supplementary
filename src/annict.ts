@@ -34022,7 +34022,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: カッラフルなエッッブリデイ
   // https://annict.com/works/11847
   { annict_id: 11847, syobocal_tid: 6891 },
-  // [2024-SPRING] TV: プリティーシリーズ 新作TVアニメーション
+  // [2024-SPRING] TV: ひみつのアイプリ
   // https://annict.com/works/11848
   { annict_id: 11848 },
   // [2024-null] OTHER: 機動警察パトレイバーEZY
