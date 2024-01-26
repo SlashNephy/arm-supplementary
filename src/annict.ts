@@ -35876,4 +35876,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] WEB: ちこまる
   // https://annict.com/works/12467
   { annict_id: 12467 },
+  // [2024-SUMMER] TV: 真夜中ぱんチ
+  // https://annict.com/works/12468
+  { annict_id: 12468, mal_id: 57947 },
 ]
