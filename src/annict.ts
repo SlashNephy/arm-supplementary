@@ -11609,7 +11609,7 @@ export const annict: ArmEntry[] = [
   // [1986-WINTER] OVA: 炎トリッパー
   // https://annict.com/works/3881
   { annict_id: 3881, mal_id: 2973 },
-  // [1989-WINTER] MOVIE: 劇場版ファイブスター物語
+  // [1989-WINTER] MOVIE: ファイブスター物語
   // https://annict.com/works/3882
   { annict_id: 3882, mal_id: 2042, syobocal_tid: 1582 },
   // [1989-WINTER] MOVIE: 宇宙皇子 地上編
@@ -35879,4 +35879,13 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] TV: 真夜中ぱんチ
   // https://annict.com/works/12468
   { annict_id: 12468, mal_id: 57947 },
+  // [2024-null] TV: パーティーから追放されたその治癒師、実は最強につき
+  // https://annict.com/works/12469
+  { annict_id: 12469, mal_id: 57944 },
+  // [2021-WINTER] OTHER: 多数欠 (ショートアニメ)
+  // https://annict.com/works/12470
+  { annict_id: 12470, mal_id: 42805 },
+  // [2024-null] TV: 多数欠
+  // https://annict.com/works/12471
+  { annict_id: 12471, mal_id: 57945 },
 ]
