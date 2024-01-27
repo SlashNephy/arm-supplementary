@@ -35890,7 +35890,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12471, mal_id: 57945 },
   // [2024-SPRING] TV: 龍族 -The Blazing Dawn-
   // https://annict.com/works/12472
-  { annict_id: 12472 },
+  { annict_id: 12472, mal_id: 44408 },
   // [null-null] MOVIE: 楽園追放 心のレゾナンス
   // https://annict.com/works/12473
   { annict_id: 12473 },
