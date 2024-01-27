@@ -35888,4 +35888,7 @@ export const annict: ArmEntry[] = [
   // [2024-null] TV: 多数欠
   // https://annict.com/works/12471
   { annict_id: 12471, mal_id: 57945 },
+  // [2024-SPRING] TV: 龍族 -The Blazing Dawn-
+  // https://annict.com/works/12472
+  { annict_id: 12472 },
 ]
