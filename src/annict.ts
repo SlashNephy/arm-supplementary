@@ -31271,7 +31271,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 華Doll* -Reinterpretation of Flowering-
   // https://annict.com/works/10929
   { annict_id: 10929, mal_id: 55710 },
-  // [2024-null] TV: 出来損ないと呼ばれた元英雄は、実家から追放されたので好き勝手に生きることにした
+  // [2024-SPRING] TV: 出来損ないと呼ばれた元英雄は、実家から追放されたので好き勝手に生きることにした
   // https://annict.com/works/10930
   { annict_id: 10930, mal_id: 55717 },
   // [2024-null] OTHER: 未ル
@@ -35875,7 +35875,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12466, mal_id: 16702 },
   // [2024-WINTER] WEB: ちこまる
   // https://annict.com/works/12467
-  { annict_id: 12467 },
+  { annict_id: 12467, mal_id: 57953 },
   // [2024-SUMMER] TV: 真夜中ぱんチ
   // https://annict.com/works/12468
   { annict_id: 12468, mal_id: 57947 },
@@ -35893,7 +35893,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12472, mal_id: 44408 },
   // [null-null] MOVIE: 楽園追放 心のレゾナンス
   // https://annict.com/works/12473
-  { annict_id: 12473 },
+  { annict_id: 12473, mal_id: 57961 },
   // [null-null] TV: ぬきたし THE ANIMATION
   // https://annict.com/works/12474
   { annict_id: 12474 },
