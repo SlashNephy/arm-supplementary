@@ -35894,4 +35894,7 @@ export const annict: ArmEntry[] = [
   // [null-null] MOVIE: 楽園追放 心のレゾナンス
   // https://annict.com/works/12473
   { annict_id: 12473 },
+  // [null-null] TV: ぬきたし THE ANIMATION
+  // https://annict.com/works/12474
+  { annict_id: 12474 },
 ]
