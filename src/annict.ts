@@ -35897,4 +35897,10 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: ぬきたし THE ANIMATION
   // https://annict.com/works/12474
   { annict_id: 12474 },
+  // [2018-AUTUMN] WEB: ぷれぷれぷれあです 〜クレマンティーヌ逃亡編〜
+  // https://annict.com/works/12475
+  { annict_id: 12475, mal_id: 38693 },
+  // [2022-SPRING] MOVIE: 鶏の墳丘
+  // https://annict.com/works/12476
+  { annict_id: 12476 },
 ]
