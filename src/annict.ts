@@ -19579,7 +19579,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6601, mal_id: 39576, syobocal_tid: 5738 },
   // [2019-AUTUMN] MOVIE: 僕のヒーローアカデミア THE MOVIE ヒーローズ：ライジング
   // https://annict.com/works/6602
-  { annict_id: 6602, mal_id: 39565 },
+  { annict_id: 6602, mal_id: 39565, syobocal_tid: 6081 },
   // [2020-SPRING] TV: 啄木鳥探偵處
   // https://annict.com/works/6603
   { annict_id: 6603, mal_id: 39582, syobocal_tid: 5606 },
@@ -35896,7 +35896,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12473, mal_id: 57961 },
   // [null-null] TV: ぬきたし THE ANIMATION
   // https://annict.com/works/12474
-  { annict_id: 12474 },
+  { annict_id: 12474, mal_id: 57969 },
   // [2018-AUTUMN] WEB: ぷれぷれぷれあです 〜クレマンティーヌ逃亡編〜
   // https://annict.com/works/12475
   { annict_id: 12475, mal_id: 38693 },
