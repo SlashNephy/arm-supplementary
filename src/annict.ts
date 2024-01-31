@@ -32711,7 +32711,7 @@ export const annict: ArmEntry[] = [
   // [2008-SPRING] TV: どーもくん(どーもTVシリーズ)
   // https://annict.com/works/11409
   { annict_id: 11409, mal_id: 8815 },
-  // [2024-null] TV: 魔王の俺が奴隷エルフを嫁にしたんだが、どう愛でればいい？
+  // [2024-SPRING] TV: 魔王の俺が奴隷エルフを嫁にしたんだが、どう愛でればいい？
   // https://annict.com/works/11410
   { annict_id: 11410, mal_id: 53434 },
   // [2024-SPRING] TV: クマーバ
