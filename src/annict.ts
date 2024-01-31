@@ -35903,4 +35903,7 @@ export const annict: ArmEntry[] = [
   // [2022-SPRING] MOVIE: 鶏の墳丘
   // https://annict.com/works/12476
   { annict_id: 12476 },
+  // [2024-WINTER] WEB: 『おでかけ子ザメ』×『千葉県 黒アヒージョ』SPコラボ
+  // https://annict.com/works/12477
+  { annict_id: 12477, mal_id: 57871 },
 ]
