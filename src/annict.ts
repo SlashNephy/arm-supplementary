@@ -35908,5 +35908,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 12477, mal_id: 57871 },
   // [null-null] TV: ゾンビのあふれた世界で俺だけが襲われない
   // https://annict.com/works/12478
-  { annict_id: 12478 },
+  { annict_id: 12478, mal_id: 57990 },
 ]
