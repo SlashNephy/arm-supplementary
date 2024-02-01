@@ -35906,4 +35906,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] WEB: 『おでかけ子ザメ』×『千葉県 黒アヒージョ』SPコラボ
   // https://annict.com/works/12477
   { annict_id: 12477, mal_id: 57871 },
+  // [null-null] TV: ゾンビのあふれた世界で俺だけが襲われない
+  // https://annict.com/works/12478
+  { annict_id: 12478 },
 ]
