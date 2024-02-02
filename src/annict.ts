@@ -35909,4 +35909,34 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: ゾンビのあふれた世界で俺だけが襲われない
   // https://annict.com/works/12478
   { annict_id: 12478, mal_id: 57990 },
+  // [1996-SUMMER] TV: クワック・パック
+  // https://annict.com/works/12479
+  { annict_id: 12479 },
+  // [2000-SPRING] TV: ミッキーマウス・ワークス
+  // https://annict.com/works/12480
+  { annict_id: 12480 },
+  // [2003-SPRING] OVA: ミッキーの悪いやつには負けないぞ!
+  // https://annict.com/works/12481
+  { annict_id: 12481 },
+  // [2012-SPRING] TV: ミニーのリボンショー
+  // https://annict.com/works/12482
+  { annict_id: 12482 },
+  // [2013-AUTUMN] TV: ミッキーマウス!
+  // https://annict.com/works/12483
+  { annict_id: 12483 },
+  // [2017-AUTUMN] TV: ドナルド劇場: ミッキーマウス！クリスマス・スペシャル
+  // https://annict.com/works/12484
+  { annict_id: 12484 },
+  // [2017-AUTUMN] TV: 世にも恐ろしいサプライズ ミッキーマウス！ ハロウィーン びっくりストーリー
+  // https://annict.com/works/12485
+  { annict_id: 12485 },
+  // [2018-WINTER] TV: ダックテイルズ(2017年)
+  // https://annict.com/works/12486
+  { annict_id: 12486 },
+  // [2019-SPRING] WEB: 三人の騎士の伝説
+  // https://annict.com/works/12487
+  { annict_id: 12487 },
+  // [2020-SPRING] TV: ミッキーマウス ミックス・アドベンチャー
+  // https://annict.com/works/12488
+  { annict_id: 12488 },
 ]
