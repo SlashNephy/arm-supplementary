@@ -35954,4 +35954,13 @@ export const annict: ArmEntry[] = [
   // [2022-SPRING] WEB: チップとデールの大作戦 レスキュー・レンジャーズ(2022年)
   // https://annict.com/works/12493
   { annict_id: 12493 },
+  // [2003-SPRING] TV: 時空冒険記ゼントリックス
+  // https://annict.com/works/12494
+  { annict_id: 12494, mal_id: 5129 },
+  // [2022-SUMMER] WEB: ちいちゃい！魔王さま！！
+  // https://annict.com/works/12495
+  { annict_id: 12495, mal_id: 52970 },
+  // [2023-SUMMER] WEB: ちいちゃい！魔王さま！！（2nd Season）
+  // https://annict.com/works/12496
+  { annict_id: 12496 },
 ]
