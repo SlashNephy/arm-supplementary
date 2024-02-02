@@ -35951,4 +35951,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] WEB: ミッキーマウスのワンダフルワールド：蒸気船シリー
   // https://annict.com/works/12492
   { annict_id: 12492 },
+  // [2022-SPRING] WEB: チップとデールの大作戦 レスキュー・レンジャーズ(2022年)
+  // https://annict.com/works/12493
+  { annict_id: 12493 },
 ]
