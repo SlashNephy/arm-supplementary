@@ -35948,4 +35948,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] WEB: ミッキーマウスのワンダフル・オータム
   // https://annict.com/works/12491
   { annict_id: 12491 },
+  // [2023-SUMMER] WEB: ミッキーマウスのワンダフルワールド：蒸気船シリー
+  // https://annict.com/works/12492
+  { annict_id: 12492 },
 ]
