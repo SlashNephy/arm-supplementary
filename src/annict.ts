@@ -35939,4 +35939,13 @@ export const annict: ArmEntry[] = [
   // [2020-SPRING] TV: ミッキーマウス ミックス・アドベンチャー
   // https://annict.com/works/12488
   { annict_id: 12488 },
+  // [2022-WINTER] TV: ミッキーマウス ファンハウス
+  // https://annict.com/works/12489
+  { annict_id: 12489 },
+  // [2022-SUMMER] WEB: ミッキーマウスのワンダフル・サマー
+  // https://annict.com/works/12490
+  { annict_id: 12490 },
+  // [2022-AUTUMN] WEB: ミッキーマウスのワンダフル・オータム
+  // https://annict.com/works/12491
+  { annict_id: 12491 },
 ]
