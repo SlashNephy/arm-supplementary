@@ -18178,7 +18178,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6096, mal_id: 37303 },
   // [2018-SUMMER] MOVIE: ちいさな英雄-カニとタマゴと透明人間-
   // https://annict.com/works/6097
-  { annict_id: 6097 },
+  { annict_id: 6097, mal_id: 37623 },
   // [2018-SUMMER] MOVIE: K SEVEN STORIES Episode 3「R:B ～BLAZE～」
   // https://annict.com/works/6098
   { annict_id: 6098, mal_id: 37304 },
@@ -35963,4 +35963,10 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] WEB: ちいちゃい！魔王さま！！（2nd Season）
   // https://annict.com/works/12496
   { annict_id: 12496 },
+  // [2003-WINTER] OVA: ちょびっツ「日比谷・琴子 語る」
+  // https://annict.com/works/12497
+  { annict_id: 12497, mal_id: 1311 },
+  // [2003-WINTER] OVA: ちびっツ「すもも・琴子 届ける」
+  // https://annict.com/works/12498
+  { annict_id: 12498, mal_id: 596 },
 ]
