@@ -36041,4 +36041,37 @@ export const annict: ArmEntry[] = [
   // [2017-WINTER] TV: 電脳ムシオヤジ
   // https://annict.com/works/12523
   { annict_id: 12523 },
+  // [2017-WINTER] TV: マイロ・マーフィーの法則
+  // https://annict.com/works/12524
+  { annict_id: 12524 },
+  // [2018-SPRING] TV: ベイマックス ザ・シリーズ
+  // https://annict.com/works/12525
+  { annict_id: 12525 },
+  // [2018-AUTUMN] TV: ビッグシティ・グリーン
+  // https://annict.com/works/12526
+  { annict_id: 12526 },
+  // [2019-WINTER] TV: おしゃれにナンシー・クランシー
+  // https://annict.com/works/12527
+  { annict_id: 12527 },
+  // [2019-SUMMER] TV: ふしぎの国 アンフィビア
+  // https://annict.com/works/12528
+  { annict_id: 12528 },
+  // [2022-SUMMER] TV: アリスとふしぎのくにのベーカリー
+  // https://annict.com/works/12529
+  { annict_id: 12529 },
+  // [2023-SUMMER] TV: チビバース ストーリー
+  // https://annict.com/works/12530
+  { annict_id: 12530 },
+  // [2023-WINTER] TV: ハムスターとグレーテル
+  // https://annict.com/works/12531
+  { annict_id: 12531 },
+  // [2023-SPRING] TV: ファイヤーバディ
+  // https://annict.com/works/12532
+  { annict_id: 12532 },
+  // [2023-SPRING] TV: ムーンガール&デビル・ダイナソー
+  // https://annict.com/works/12533
+  { annict_id: 12533 },
+  // [2023-AUTUMN] TV: キフ
+  // https://annict.com/works/12534
+  { annict_id: 12534 },
 ]
