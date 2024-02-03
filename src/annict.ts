@@ -36032,4 +36032,10 @@ export const annict: ArmEntry[] = [
   // [2015-SUMMER] TV: 出張ヒーローZERO
   // https://annict.com/works/12520
   { annict_id: 12520 },
+  // [2016-WINTER] TV: ピクルスとピーナッツ
+  // https://annict.com/works/12521
+  { annict_id: 12521 },
+  // [2016-SPRING] TV: ディセンダント キケンな世界
+  // https://annict.com/works/12522
+  { annict_id: 12522 },
 ]
