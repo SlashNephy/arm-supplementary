@@ -31700,9 +31700,9 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] MOVIE: 大室家 dear sisters
   // https://annict.com/works/11072
   { annict_id: 11072, mal_id: 56175 },
-  // [2024-null] MOVIE: 大室家 dear friends
+  // [2024-SPRING] MOVIE: 大室家 dear friends
   // https://annict.com/works/11073
-  { annict_id: 11073 },
+  { annict_id: 11073, mal_id: 57993 },
   // [2024-WINTER] TV: 即死チートが最強すぎて、異世界のやつらがまるで相手にならないんですが。
   // https://annict.com/works/11074
   { annict_id: 11074, mal_id: 53730, syobocal_tid: 6901 },
