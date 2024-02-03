@@ -35969,4 +35969,16 @@ export const annict: ArmEntry[] = [
   // [2003-WINTER] OVA: ちびっツ「すもも・琴子 届ける」
   // https://annict.com/works/12498
   { annict_id: 12498, mal_id: 596 },
+  // [2007-WINTER] TV: マイティ・ダックス
+  // https://annict.com/works/12500
+  { annict_id: 12500 },
+  // [1999-SPRING] TV: ダグ
+  // https://annict.com/works/12501
+  { annict_id: 12501 },
+  // [2005-WINTER] TV: ジャングル・カブス
+  // https://annict.com/works/12502
+  { annict_id: 12502 },
+  // [2003-AUTUMN] TV: かわうそファミリー
+  // https://annict.com/works/12503
+  { annict_id: 12503 },
 ]
