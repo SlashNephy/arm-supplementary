@@ -35993,4 +35993,25 @@ export const annict: ArmEntry[] = [
   // [2005-AUTUMN] TV: アメリカン・ドラゴン
   // https://annict.com/works/12507
   { annict_id: 12507 },
+  // [2006-WINTER] TV: ブンブン・マギー
+  // https://annict.com/works/12508
+  { annict_id: 12508 },
+  // [2007-SUMMER] TV: イン・ヤン・ヨー!
+  // https://annict.com/works/12509
+  { annict_id: 12509 },
+  // [2007-WINTER] TV: ザ・リプレイス 大人とりかえ作戦
+  // https://annict.com/works/12510
+  { annict_id: 12510 },
+  // [2009-SPRING] TV: きんきゅうしゅつどう隊 OSO
+  // https://annict.com/works/12511
+  { annict_id: 12511 },
+  // [2010-SPRING] TV: キック ザ・びっくりボーイ
+  // https://annict.com/works/12512
+  { annict_id: 12512 },
+  // [2011-WINTER] TV: スイチュー! フレンズ
+  // https://annict.com/works/12513
+  { annict_id: 12513 },
+  // [2011-SUMMER] TV: ジェイクとネバーランドのかいぞくたち
+  // https://annict.com/works/12514
+  { annict_id: 12514 },
 ]
