@@ -36038,4 +36038,7 @@ export const annict: ArmEntry[] = [
   // [2016-SPRING] TV: ディセンダント キケンな世界
   // https://annict.com/works/12522
   { annict_id: 12522 },
+  // [2017-WINTER] TV: 電脳ムシオヤジ
+  // https://annict.com/works/12523
+  { annict_id: 12523 },
 ]
