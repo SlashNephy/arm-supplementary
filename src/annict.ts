@@ -35981,4 +35981,16 @@ export const annict: ArmEntry[] = [
   // [2003-AUTUMN] TV: かわうそファミリー
   // https://annict.com/works/12503
   { annict_id: 12503 },
+  // [2005-AUTUMN] TV: 学園パトロール フィルモア
+  // https://annict.com/works/12504
+  { annict_id: 12504 },
+  // [2004-AUTUMN] TV: バーバリアン・デイブ
+  // https://annict.com/works/12505
+  { annict_id: 12505 },
+  // [2006-SPRING] TV: ブランディ アンド Mr.ウィスカーズ
+  // https://annict.com/works/12506
+  { annict_id: 12506 },
+  // [2005-AUTUMN] TV: アメリカン・ドラゴン
+  // https://annict.com/works/12507
+  { annict_id: 12507 },
 ]
