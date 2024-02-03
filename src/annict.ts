@@ -36014,4 +36014,22 @@ export const annict: ArmEntry[] = [
   // [2011-SUMMER] TV: ジェイクとネバーランドのかいぞくたち
   // https://annict.com/works/12514
   { annict_id: 12514 },
+  // [2012-AUTUMN] TV: モーターシティ
+  // https://annict.com/works/12515
+  { annict_id: 12515 },
+  // [2012-AUTUMN] TV: 怪奇ゾーン グラビティフォールズ
+  // https://annict.com/works/12516
+  { annict_id: 12516 },
+  // [2013-SPRING] TV: 学園NINJAランディ
+  // https://annict.com/works/12517
+  { annict_id: 12517 },
+  // [2014-WINTER] TV: なんだかんだワンダー
+  // https://annict.com/works/12518
+  { annict_id: 12518 },
+  // [2014-SUMMER] TV: ハイ・ホー7D
+  // https://annict.com/works/12519
+  { annict_id: 12519 },
+  // [2015-SUMMER] TV: 出張ヒーローZERO
+  // https://annict.com/works/12520
+  { annict_id: 12520 },
 ]
