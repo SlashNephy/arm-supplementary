@@ -36074,4 +36074,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: キフ
   // https://annict.com/works/12534
   { annict_id: 12534 },
+  // [2019-SUMMER] TV: 101匹わんちゃんストリート
+  // https://annict.com/works/12535
+  { annict_id: 12535 },
 ]
