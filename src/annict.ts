@@ -36079,5 +36079,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 12535 },
   // [2024-WINTER] WEB: 遊戯王カードゲーム25周年特別映像「Yu-Gi-Oh! CARD GAME THE CHRONICLES」
   // https://annict.com/works/12536
-  { annict_id: 12536 },
+  { annict_id: 12536, mal_id: 58018 },
 ]
