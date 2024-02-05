@@ -29195,7 +29195,7 @@ export const annict: ArmEntry[] = [
   // [2022-SUMMER] WEB: 聖闘士星矢: Knights of the Zodiac バトル・サンクチュアリ
   // https://annict.com/works/10234
   { annict_id: 10234, mal_id: 52273, syobocal_tid: 6609 },
-  // [2024-null] TV: 2.5次元の誘惑
+  // [2024-SUMMER] TV: 2.5次元の誘惑
   // https://annict.com/works/10235
   { annict_id: 10235, mal_id: 53802 },
   // [2023-SUMMER] MOVIE: しん次元！クレヨンしんちゃんTHE MOVIE 超能力大決戦 ～とべとべ手巻き寿司～
@@ -29527,7 +29527,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10345 },
   // [2022-AUTUMN] WEB: 英雄王、武を極めるため転生す ～そして、世界最強の見習い騎士♀～ ミニアニメ
   // https://annict.com/works/10346
-  { annict_id: 10346, mal_id: 43727 },
+  { annict_id: 10346, mal_id: 53619 },
   // [2020-AUTUMN] WEB: 英雄王、武を極めるため転生す ミニアニメ
   // https://annict.com/works/10347
   { annict_id: 10347, mal_id: 53619 },
