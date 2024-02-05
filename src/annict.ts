@@ -36128,4 +36128,10 @@ export const annict: ArmEntry[] = [
   // [1956-SUMMER] MOVIE: 黒いきこりと白いきこり
   // https://annict.com/works/12552
   { annict_id: 12552, mal_id: 7532 },
+  // [1957-AUTUMN] MOVIE: ふくすけ
+  // https://annict.com/works/12553
+  { annict_id: 12553, mal_id: 29923 },
+  // [1958-SPRING] MOVIE: 夢見童子
+  // https://annict.com/works/12554
+  { annict_id: 12554, mal_id: 29812 },
 ]
