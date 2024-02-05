@@ -25988,7 +25988,7 @@ export const annict: ArmEntry[] = [
   // [2022-WINTER] WEB: 全力！ プラウドファミリー
   // https://annict.com/works/9098
   { annict_id: 9098 },
-  // [2022-null] WEB: ズートピア+ (原題)
+  // [2022-AUTUMN] WEB: ズートピア+
   // https://annict.com/works/9099
   { annict_id: 9099 },
   // [2023-null] WEB: ティアナ (原題)
@@ -36143,4 +36143,10 @@ export const annict: ArmEntry[] = [
   // [2019-SPRING] MOVIE: 河鍋暁斎画 新富座妖怪引幕
   // https://annict.com/works/12557
   { annict_id: 12557 },
+  // [2013-AUTUMN] WEB: "オズワルド・ザ・ラッキー・ラビット"グリーティングカード
+  // https://annict.com/works/12558
+  { annict_id: 12558 },
+  // [2024-WINTER] WEB: セリア先生のドキドキインタビュールーム
+  // https://annict.com/works/12559
+  { annict_id: 12559 },
 ]
