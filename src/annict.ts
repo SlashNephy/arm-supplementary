@@ -23078,7 +23078,7 @@ export const annict: ArmEntry[] = [
   // [1987-WINTER] MOVIE: メロディ・タイム
   // https://annict.com/works/8030
   { annict_id: 8030 },
-  // [null-null] MOVIE: イカボードとトード氏
+  // [1949-AUTUMN] MOVIE: イカボードとトード氏
   // https://annict.com/works/8031
   { annict_id: 8031 },
   // [1952-WINTER] MOVIE: シンデレラ
