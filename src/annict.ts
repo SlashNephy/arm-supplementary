@@ -28637,7 +28637,7 @@ export const annict: ArmEntry[] = [
   // [2004-WINTER] MOVIE: ASTRO BOY 鉄腕アトム特別編 輝ける地球（ほし）〜あなたは青く、美しい…〜
   // https://annict.com/works/10047
   { annict_id: 10047, mal_id: 17963 },
-  // [1970-WINTER] MOVIE: アタックNo.1(映画)
+  // [1970-WINTER] MOVIE: アタックNo.1(富士見学園の新星)
   // https://annict.com/works/10048
   { annict_id: 10048, mal_id: 9163 },
   // [1970-SUMMER] MOVIE: アタックNo.1 涙の回転レシーブ
@@ -36083,4 +36083,37 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] WEB: マイセルフ
   // https://annict.com/works/12537
   { annict_id: 12537 },
+  // [1969-WINTER] MOVIE: 怪物くん(劇場版)
+  // https://annict.com/works/12538
+  { annict_id: 12538 },
+  // [1948-SPRING] MOVIE: ガリバー旅行記
+  // https://annict.com/works/12539
+  { annict_id: 12539 },
+  // [1917-SPRING] MOVIE: 塙凹内名刀之巻(なまくら刀)
+  // https://annict.com/works/12540
+  { annict_id: 12540, mal_id: 6654 },
+  // [2014-WINTER] MOVIE: LEGO ムービー
+  // https://annict.com/works/12541
+  { annict_id: 12541 },
+  // [2017-SPRING] MOVIE: レゴバットマン ザ・ムービー
+  // https://annict.com/works/12542
+  { annict_id: 12542 },
+  // [2017-SUMMER] MOVIE: レゴニンジャゴー ザ・ムービー
+  // https://annict.com/works/12543
+  { annict_id: 12543 },
+  // [2019-WINTER] MOVIE: レゴ ムービー 2
+  // https://annict.com/works/12544
+  { annict_id: 12544 },
+  // [1969-SUMMER] MOVIE: 巨人の星(血ぞめの決勝戦)
+  // https://annict.com/works/12545
+  { annict_id: 12545, mal_id: 17441 },
+  // [1969-AUTUMN] MOVIE: 巨人の星 行け行け飛雄馬
+  // https://annict.com/works/12546
+  { annict_id: 12546, mal_id: 17443 },
+  // [1970-WINTER] MOVIE: 巨人の星 大リーグボール
+  // https://annict.com/works/12547
+  { annict_id: 12547, mal_id: 17445 },
+  // [1970-SUMMER] MOVIE: 巨人の星 宿命の対決
+  // https://annict.com/works/12548
+  { annict_id: 12548, mal_id: 17447 },
 ]
