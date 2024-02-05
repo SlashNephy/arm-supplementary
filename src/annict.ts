@@ -36140,4 +36140,7 @@ export const annict: ArmEntry[] = [
   // [2017-SPRING] OVA: 手塚キャラ動かしてみました
   // https://annict.com/works/12556
   { annict_id: 12556, mal_id: 50727 },
+  // [2019-SPRING] MOVIE: 河鍋暁斎画 新富座妖怪引幕
+  // https://annict.com/works/12557
+  { annict_id: 12557 },
 ]
