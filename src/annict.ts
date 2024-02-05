@@ -36125,4 +36125,7 @@ export const annict: ArmEntry[] = [
   // [1954-SPRING] MOVIE: かっぱ川太郎
   // https://annict.com/works/12551
   { annict_id: 12551, mal_id: 23639 },
+  // [1956-SUMMER] MOVIE: 黒いきこりと白いきこり
+  // https://annict.com/works/12552
+  { annict_id: 12552, mal_id: 7532 },
 ]
