@@ -36116,4 +36116,13 @@ export const annict: ArmEntry[] = [
   // [1970-SUMMER] MOVIE: 巨人の星 宿命の対決
   // https://annict.com/works/12548
   { annict_id: 12548, mal_id: 17447 },
+  // [1933-null] MOVIE: のらくろ少尉～日曜日の怪事件～
+  // https://annict.com/works/12549
+  { annict_id: 12549, mal_id: 6850 },
+  // [1935-SUMMER] MOVIE: 海の水はなぜからい
+  // https://annict.com/works/12550
+  { annict_id: 12550, mal_id: 6835 },
+  // [1954-SPRING] MOVIE: かっぱ川太郎
+  // https://annict.com/works/12551
+  { annict_id: 12551, mal_id: 23639 },
 ]
