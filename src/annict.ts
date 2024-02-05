@@ -36134,4 +36134,10 @@ export const annict: ArmEntry[] = [
   // [1958-SPRING] MOVIE: 夢見童子
   // https://annict.com/works/12554
   { annict_id: 12554, mal_id: 29812 },
+  // [1972-null] MOVIE: 生きているってすばらしい！
+  // https://annict.com/works/12555
+  { annict_id: 12555, mal_id: 29814 },
+  // [2017-SPRING] OVA: 手塚キャラ動かしてみました
+  // https://annict.com/works/12556
+  { annict_id: 12556, mal_id: 50727 },
 ]
