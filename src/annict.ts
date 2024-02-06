@@ -23594,7 +23594,7 @@ export const annict: ArmEntry[] = [
   // [2021-SUMMER] TV: ヴァニタスの手記
   // https://annict.com/works/8202
   { annict_id: 8202, mal_id: 48580, syobocal_tid: 6043 },
-  // [2020-null] WEB: ショート・サーキット
+  // [2020-SPRING] WEB: ショート・サーキット
   // https://annict.com/works/8203
   { annict_id: 8203 },
   // [2006-AUTUMN] OVA: リトル・マーメイドII Return to The Sea
