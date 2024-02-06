@@ -30806,7 +30806,7 @@ export const annict: ArmEntry[] = [
   // [2013-SPRING] OVA: タイムトラベル メーター
   // https://annict.com/works/10774
   { annict_id: 10774 },
-  // [2013-WINTER] TV: マックイーンのしゃっくり
+  // [2013-WINTER] TV: マックィーンのしゃっくり
   // https://annict.com/works/10775
   { annict_id: 10775 },
   // [2013-WINTER] TV: レッドと小さな友達
@@ -36149,4 +36149,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] WEB: セリア先生のドキドキインタビュールーム
   // https://annict.com/works/12559
   { annict_id: 12559 },
+  // [2016-SPRING] WEB: 田中くんは今日もけだるげ
+  // https://annict.com/works/12560
+  { annict_id: 12560, mal_id: 33004 },
 ]
