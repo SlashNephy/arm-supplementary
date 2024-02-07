@@ -36155,4 +36155,10 @@ export const annict: ArmEntry[] = [
   // [2006-SPRING] TV: リセス 〜ぼくらの夏休みを守れ!〜
   // https://annict.com/works/12561
   { annict_id: 12561 },
+  // [1996-AUTUMN] MOVIE: ヴィンセント
+  // https://annict.com/works/12562
+  { annict_id: 12562 },
+  // [1978-AUTUMN] MOVIE: ロバと少年
+  // https://annict.com/works/12563
+  { annict_id: 12563 },
 ]
