@@ -35755,7 +35755,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12426, mal_id: 51859 },
   // [null-null] OTHER: わんぱく！刀剣乱舞
   // https://annict.com/works/12427
-  { annict_id: 12427 },
+  { annict_id: 12427, mal_id: 57821 },
   // [null-null] MOVIE: ヤマトよ永遠に REBEL3199 第2章
   // https://annict.com/works/12428
   { annict_id: 12428 },
