@@ -34462,7 +34462,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11993 },
   // [2024-WINTER] TV: 炎上撲滅！魔法少女アイ子
   // https://annict.com/works/11994
-  { annict_id: 11994, syobocal_tid: 6965 },
+  { annict_id: 11994, mal_id: 57950, syobocal_tid: 6965 },
   // [2024-WINTER] TV: 明治撃剣－1874－
   // https://annict.com/works/11996
   { annict_id: 11996, mal_id: 57502, syobocal_tid: 6948 },
@@ -36166,7 +36166,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12564 },
   // [2024-SUMMER] TV: 杖と剣のウィストリア
   // https://annict.com/works/12565
-  { annict_id: 12565 },
+  { annict_id: 12565, mal_id: 58059 },
   // [null-null] MOVIE: メイクアガール
   // https://annict.com/works/12566
   { annict_id: 12566, mal_id: 54740 },
