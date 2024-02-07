@@ -36161,4 +36161,7 @@ export const annict: ArmEntry[] = [
   // [1978-AUTUMN] MOVIE: ロバと少年
   // https://annict.com/works/12563
   { annict_id: 12563 },
+  // [2005-AUTUMN] MOVIE: ティム・バートンのコープスブライド
+  // https://annict.com/works/12564
+  { annict_id: 12564 },
 ]
