@@ -27704,7 +27704,7 @@ export const annict: ArmEntry[] = [
   // [2022-SUMMER] MOVIE: 映画デリシャスパーティ♡プリキュア 夢みる♡お子さまランチ！
   // https://annict.com/works/9735
   { annict_id: 9735, mal_id: 50963 },
-  // [2024-null] TV: 異世界失格
+  // [2024-SUMMER] TV: 異世界失格
   // https://annict.com/works/9736
   { annict_id: 9736, mal_id: 52367 },
   // [2022-AUTUMN] TV: ある朝、ダミーヘッドマイクになっていた俺クンの人生
@@ -36167,4 +36167,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] TV: 杖と剣のウィストリア
   // https://annict.com/works/12565
   { annict_id: 12565 },
+  // [null-null] MOVIE: メイクアガール
+  // https://annict.com/works/12566
+  { annict_id: 12566, mal_id: 54740 },
 ]
