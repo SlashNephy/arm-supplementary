@@ -36164,4 +36164,7 @@ export const annict: ArmEntry[] = [
   // [2005-AUTUMN] MOVIE: ティム・バートンのコープスブライド
   // https://annict.com/works/12564
   { annict_id: 12564 },
+  // [2024-SUMMER] TV: 杖と剣のウィストリア
+  // https://annict.com/works/12565
+  { annict_id: 12565 },
 ]
