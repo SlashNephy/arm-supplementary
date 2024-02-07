@@ -36152,4 +36152,7 @@ export const annict: ArmEntry[] = [
   // [2016-SPRING] WEB: 田中くんは今日もけだるげ
   // https://annict.com/works/12560
   { annict_id: 12560, mal_id: 33004 },
+  // [2006-SPRING] TV: リセス 〜ぼくらの夏休みを守れ!〜
+  // https://annict.com/works/12561
+  { annict_id: 12561 },
 ]
