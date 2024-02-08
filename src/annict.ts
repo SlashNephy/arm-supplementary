@@ -36170,4 +36170,7 @@ export const annict: ArmEntry[] = [
   // [null-null] MOVIE: メイクアガール
   // https://annict.com/works/12566
   { annict_id: 12566, mal_id: 54740 },
+  // [1983-WINTER] MOVIE: プーさんとイーヨーのいち日
+  // https://annict.com/works/12567
+  { annict_id: 12567 },
 ]
