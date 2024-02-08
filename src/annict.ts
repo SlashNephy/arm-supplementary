@@ -25790,7 +25790,7 @@ export const annict: ArmEntry[] = [
   // [2020-AUTUMN] WEB: アークナイツ 1周年記念アニメ「Holy Knight Light」
   // https://annict.com/works/9032
   { annict_id: 9032, mal_id: 45574 },
-  // [2021-AUTUMN] TV: 空色ユーティリティ
+  // [2021-AUTUMN] TV: 空色ユーティリティ（ショートアニメ）
   // https://annict.com/works/9033
   { annict_id: 9033, mal_id: 50209, syobocal_tid: 6198 },
   // [2020-WINTER] OVA: ぬるぺた OVA 『ドキッ♥ ぬるぬるぺたぺた！ 水着だらけのお姉ちゃん大会！』
@@ -36176,4 +36176,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] WEB: かいじゅうステップ 未来予報
   // https://annict.com/works/12568
   { annict_id: 12568 },
+  // [null-null] TV: 空色ユーティリティ
+  // https://annict.com/works/12569
+  { annict_id: 12569, mal_id: 58066 },
 ]
