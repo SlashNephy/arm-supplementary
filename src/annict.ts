@@ -36173,4 +36173,7 @@ export const annict: ArmEntry[] = [
   // [1983-WINTER] MOVIE: プーさんとイーヨーのいち日
   // https://annict.com/works/12567
   { annict_id: 12567 },
+  // [2023-AUTUMN] WEB: かいじゅうステップ 未来予報
+  // https://annict.com/works/12568
+  { annict_id: 12568 },
 ]
