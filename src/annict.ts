@@ -30346,7 +30346,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10619, mal_id: 54837, syobocal_tid: 6899 },
   // [2024-SPRING] TV: 夜のクラゲは泳げない
   // https://annict.com/works/10620
-  { annict_id: 10620, mal_id: 54839 },
+  { annict_id: 10620, mal_id: 54839, syobocal_tid: 6980 },
   // [2023-SUMMER] TV: シュガーアップル・フェアリーテイル 第2クール
   // https://annict.com/works/10621
   { annict_id: 10621, mal_id: 54842, syobocal_tid: 6739 },
@@ -35168,7 +35168,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 鴨乃橋ロンの禁断推理 2nd Season
   // https://annict.com/works/12231
   { annict_id: 12231, mal_id: 57635 },
-  // [null-null] TV: シンカリオン チェンジ ザ ワールド
+  // [2024-SPRING] TV: シンカリオン チェンジ ザ ワールド
   // https://annict.com/works/12232
   { annict_id: 12232, mal_id: 57798 },
   // [1957-SPRING] MOVIE: こねこのらくがき
