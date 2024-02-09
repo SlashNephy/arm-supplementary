@@ -36179,4 +36179,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 空色ユーティリティ
   // https://annict.com/works/12569
   { annict_id: 12569, mal_id: 58066 },
+  // [2024-WINTER] WEB: ポケモンスペシャルアニメ「ただいま」
+  // https://annict.com/works/12570
+  { annict_id: 12570 },
 ]
