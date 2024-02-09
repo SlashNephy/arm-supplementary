@@ -30227,7 +30227,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: 暴食のベルセルク
   // https://annict.com/works/10580
   { annict_id: 10580, mal_id: 53439, syobocal_tid: 6847 },
-  // [2024-null] TV: キン肉マン 完璧超人始祖編
+  // [2024-SUMMER] TV: キン肉マン 完璧超人始祖編
   // https://annict.com/works/10581
   { annict_id: 10581, mal_id: 54730 },
   // [2006-SPRING] OVA: 山古志村のマリと三匹の子犬
