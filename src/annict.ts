@@ -36182,4 +36182,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] WEB: ポケモンスペシャルアニメ「ただいま」
   // https://annict.com/works/12570
   { annict_id: 12570 },
+  // [2024-SPRING] TV: 喧嘩独学
+  // https://annict.com/works/12571
+  { annict_id: 12571 },
 ]
