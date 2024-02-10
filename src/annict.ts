@@ -36188,4 +36188,13 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: ニートくノ一となぜか同棲はじめました
   // https://annict.com/works/12572
   { annict_id: 12572 },
+  // [2004-SPRING] OVA: ストラトス・フォー CODE:X-1/X-2
+  // https://annict.com/works/12573
+  { annict_id: 12573, mal_id: 422 },
+  // [2006-SUMMER] OVA: ストラトス・フォー アドヴァンス 完結編
+  // https://annict.com/works/12574
+  { annict_id: 12574, mal_id: 1584 },
+  // [2023-AUTUMN] WEB: BLUE EYE SAMURAI/ブルーアイ・サムライ
+  // https://annict.com/works/12575
+  { annict_id: 12575 },
 ]
