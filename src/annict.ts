@@ -30338,7 +30338,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: スペシャルキッド・ファクトリー
   // https://annict.com/works/10617
   { annict_id: 10617, mal_id: 54833 },
-  // [2024-SPRING] TV: この世界は不完全すぎる
+  // [2024-SUMMER] TV: この世界は不完全すぎる
   // https://annict.com/works/10618
   { annict_id: 10618, mal_id: 54835 },
   // [2024-WINTER] TV: 悪役令嬢レベル99～私は裏ボスですが魔王ではありません～
