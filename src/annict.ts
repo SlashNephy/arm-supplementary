@@ -36184,10 +36184,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 12570 },
   // [2024-SPRING] TV: 喧嘩独学
   // https://annict.com/works/12571
-  { annict_id: 12571 },
+  { annict_id: 12571, mal_id: 58080 },
   // [null-null] TV: ニートくノ一となぜか同棲はじめました
   // https://annict.com/works/12572
-  { annict_id: 12572 },
+  { annict_id: 12572, mal_id: 58082 },
   // [2004-SPRING] OVA: ストラトス・フォー CODE:X-1/X-2
   // https://annict.com/works/12573
   { annict_id: 12573, mal_id: 422 },
