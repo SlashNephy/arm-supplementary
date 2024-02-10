@@ -36185,4 +36185,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: 喧嘩独学
   // https://annict.com/works/12571
   { annict_id: 12571 },
+  // [null-null] TV: ニートくノ一となぜか同棲はじめました
+  // https://annict.com/works/12572
+  { annict_id: 12572 },
 ]
