@@ -28835,7 +28835,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: SHY
   // https://annict.com/works/10114
   { annict_id: 10114, mal_id: 53237, syobocal_tid: 6832 },
-  // [2024-null] TV: ラブライブ！スーパースター!! 3期
+  // [2024-AUTUMN] TV: ラブライブ！スーパースター!! 3期
   // https://annict.com/works/10115
   { annict_id: 10115, mal_id: 53287 },
   // [2023-WINTER] TV: ジョジョの奇妙な冒険 ストーンオーシャン 第3期
