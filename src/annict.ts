@@ -36200,4 +36200,10 @@ export const annict: ArmEntry[] = [
   // [1990-AUTUMN] OVA: 悟空の著作権入門
   // https://annict.com/works/12576
   { annict_id: 12576 },
+  // [2014-WINTER] MOVIE: BUDDHA2 手塚治虫のブッダ -終わりなき旅-
+  // https://annict.com/works/12577
+  { annict_id: 12577, mal_id: 20969 },
+  // [2009-AUTUMN] MOVIE: ATOM
+  // https://annict.com/works/12578
+  { annict_id: 12578 },
 ]
