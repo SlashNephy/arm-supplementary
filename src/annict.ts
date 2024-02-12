@@ -36197,4 +36197,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] WEB: BLUE EYE SAMURAI/ブルーアイ・サムライ
   // https://annict.com/works/12575
   { annict_id: 12575 },
+  // [1990-AUTUMN] OVA: 悟空の著作権入門
+  // https://annict.com/works/12576
+  { annict_id: 12576 },
 ]
