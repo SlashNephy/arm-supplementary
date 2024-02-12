@@ -30497,7 +30497,7 @@ export const annict: ArmEntry[] = [
   // [2001-SUMMER] MOVIE: 鉄腕アトム～地球最後の日～
   // https://annict.com/works/10671
   { annict_id: 10671, mal_id: 17961 },
-  // [1999-SUMMER] MOVIE: 鉄腕アトム 青騎士の巻
+  // [1999-SUMMER] MOVIE: 鉄腕アトム／新撰組
   // https://annict.com/works/10672
   { annict_id: 10672, mal_id: 17965 },
   // [2006-AUTUMN] OVA: メーターと恐怖の火の玉
@@ -36206,4 +36206,19 @@ export const annict: ArmEntry[] = [
   // [2009-AUTUMN] MOVIE: ATOM
   // https://annict.com/works/12578
   { annict_id: 12578 },
+  // [1994-SPRING] MOVIE: オサムとムサシ
+  // https://annict.com/works/12579
+  { annict_id: 12579, mal_id: 19731 },
+  // [2000-WINTER] MOVIE: 海のトリトン(2000年)
+  // https://annict.com/works/12580
+  { annict_id: 12580 },
+  // [2004-SUMMER] MOVIE: 火の鳥 羽衣編
+  // https://annict.com/works/12581
+  { annict_id: 12581, mal_id: 23659 },
+  // [2000-WINTER] MOVIE: ジャングル大帝／本能寺の変
+  // https://annict.com/works/12582
+  { annict_id: 12582, mal_id: 18533 },
+  // [2013-SPRING] MOVIE: ガロン
+  // https://annict.com/works/12583
+  { annict_id: 12583, mal_id: 30362 },
 ]
