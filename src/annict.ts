@@ -36227,4 +36227,10 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] WEB: ジブリパーク ゆっくりきて下さい。動く城編
   // https://annict.com/works/12585
   { annict_id: 12585 },
+  // [2024-SPRING] MOVIE: ルックバック
+  // https://annict.com/works/12586
+  { annict_id: 12586, mal_id: 58125 },
+  // [2024-SPRING] TV: SHIBUYA♡HACHI
+  // https://annict.com/works/12587
+  { annict_id: 12587 },
 ]
