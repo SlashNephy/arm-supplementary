@@ -17477,7 +17477,7 @@ export const annict: ArmEntry[] = [
   // [2018-WINTER] OVA: ゆるキャン△ 映像特典
   // https://annict.com/works/5861
   { annict_id: 5861, mal_id: 37341 },
-  // [2018-SUMMER] OVA: ヴァイオレット・エヴァーガーデン Extra Episode「きっと"愛"を知る日が来るのだろう」
+  // [2018-SUMMER] OVA: ヴァイオレット・エヴァーガーデン Extra Episode
   // https://annict.com/works/5862
   { annict_id: 5862, mal_id: 37095 },
   // [2014-AUTUMN] OVA: ダイヤのA OAD
@@ -36224,4 +36224,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] MOVIE: 銀魂オンシアター2D 一国傾城篇
   // https://annict.com/works/12584
   { annict_id: 12584 },
+  // [2024-WINTER] WEB: ジブリパーク ゆっくりきて下さい。動く城編
+  // https://annict.com/works/12585
+  { annict_id: 12585 },
 ]
