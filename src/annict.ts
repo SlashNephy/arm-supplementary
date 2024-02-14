@@ -36239,4 +36239,10 @@ export const annict: ArmEntry[] = [
   // [2007-WINTER] MOVIE: 春のめざめ
   // https://annict.com/works/12589
   { annict_id: 12589 },
+  // [1971-null] MOVIE: チコタン ぼくのおよめさん
+  // https://annict.com/works/12590
+  { annict_id: 12590, mal_id: 29585 },
+  // [1961-null] MOVIE: プラス50000年
+  // https://annict.com/works/12591
+  { annict_id: 12591, mal_id: 29898 },
 ]
