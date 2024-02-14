@@ -31376,7 +31376,7 @@ export const annict: ArmEntry[] = [
   // [null-null] MOVIE: 映画 ラブライブ！虹ヶ咲学園スクールアイドル同好会 完結編 第3章
   // https://annict.com/works/10964
   { annict_id: 10964 },
-  // [2024-null] TV: 女神のカフェテラス 第2期
+  // [2024-SUMMER] TV: 女神のカフェテラス 第2期
   // https://annict.com/works/10965
   { annict_id: 10965, mal_id: 55749 },
   // [2023-SUMMER] TV: 和田淳監督特集
