@@ -29504,7 +29504,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] MOVIE: 劇場版 SPY×FAMILY CODE: White
   // https://annict.com/works/10338
   { annict_id: 10338, mal_id: 53888 },
-  // [2024-null] TV: 声優ラジオのウラオモテ
+  // [2024-SPRING] TV: 声優ラジオのウラオモテ
   // https://annict.com/works/10339
   { annict_id: 10339, mal_id: 53912 },
   // [null-null] TV: 地縛少年花子くん 第2期
@@ -31442,7 +31442,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: NEW PANTY AND STOCKING
   // https://annict.com/works/10986
   { annict_id: 10986, mal_id: 52293 },
-  // [null-null] WEB: 村井の恋
+  // [2024-AUTUMN] WEB: 村井の恋
   // https://annict.com/works/10987
   { annict_id: 10987, mal_id: 52080 },
   // [null-null] TV: リビルドワールド
@@ -36233,4 +36233,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: SHIBUYA♡HACHI
   // https://annict.com/works/12587
   { annict_id: 12587 },
+  // [null-null] TV: 紫雲寺家の子供たち
+  // https://annict.com/works/12588
+  { annict_id: 12588, mal_id: 58131 },
 ]
