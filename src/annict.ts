@@ -36281,4 +36281,10 @@ export const annict: ArmEntry[] = [
   // [1947-SUMMER] MOVIE: ムクの木の話
   // https://annict.com/works/12603
   { annict_id: 12603, mal_id: 29895 },
+  // [2009-SUMMER] TV: 読売新聞 企業CM ふうせんガムすけ編
+  // https://annict.com/works/12604
+  { annict_id: 12604 },
+  // [1948-WINTER] MOVIE: トラちゃんと花嫁
+  // https://annict.com/works/12605
+  { annict_id: 12605, mal_id: 12603 },
 ]
