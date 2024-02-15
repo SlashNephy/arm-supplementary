@@ -36263,4 +36263,7 @@ export const annict: ArmEntry[] = [
   // [2007-AUTUMN] MOVIE: ザ・シンプソンズ MOVIE
   // https://annict.com/works/12597
   { annict_id: 12597 },
+  // [2024-SPRING] TV: シャドウバースF アーク編
+  // https://annict.com/works/12598
+  { annict_id: 12598, mal_id: 57614 },
 ]
