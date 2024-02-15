@@ -36275,4 +36275,10 @@ export const annict: ArmEntry[] = [
   // [2022-SUMMER] MOVIE: ザ・クロッシング
   // https://annict.com/works/12601
   { annict_id: 12601 },
+  // [1977-SUMMER] MOVIE: 野ばら
+  // https://annict.com/works/12602
+  { annict_id: 12602, mal_id: 29900 },
+  // [1947-SUMMER] MOVIE: ムクの木の話
+  // https://annict.com/works/12603
+  { annict_id: 12603, mal_id: 29895 },
 ]
