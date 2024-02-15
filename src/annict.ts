@@ -36272,4 +36272,7 @@ export const annict: ArmEntry[] = [
   // [2008-WINTER] OVA: 灼眼のシャナたんII
   // https://annict.com/works/12600
   { annict_id: 12600, mal_id: 3956 },
+  // [2022-SUMMER] MOVIE: ザ・クロッシング
+  // https://annict.com/works/12601
+  { annict_id: 12601 },
 ]
