@@ -36257,4 +36257,7 @@ export const annict: ArmEntry[] = [
   // [1947-SUMMER] MOVIE: すて猫トラちゃん
   // https://annict.com/works/12595
   { annict_id: 12595, mal_id: 5662 },
+  // [1969-SUMMER] TV: 巨人の星対鉄腕アトム
+  // https://annict.com/works/12596
+  { annict_id: 12596, mal_id: 48850 },
 ]
