@@ -36260,4 +36260,7 @@ export const annict: ArmEntry[] = [
   // [1969-SUMMER] TV: 巨人の星対鉄腕アトム
   // https://annict.com/works/12596
   { annict_id: 12596, mal_id: 48850 },
+  // [2007-AUTUMN] MOVIE: ザ・シンプソンズ MOVIE
+  // https://annict.com/works/12597
+  { annict_id: 12597 },
 ]
