@@ -8273,7 +8273,7 @@ export const annict: ArmEntry[] = [
   // [2006-AUTUMN] OVA: 灼眼のシャナSP「恋と温泉の校外学習!」
   // https://annict.com/works/2764
   { annict_id: 2764, mal_id: 1531, syobocal_tid: 2317 },
-  // [2006-WINTER] OVA: しゃくがんのシャナたん
+  // [2006-WINTER] OVA: 灼眼のシャナたん
   // https://annict.com/works/2765
   { annict_id: 2765, mal_id: 1066 },
   // [2000-AUTUMN] OVA: 真ゲッターロボ対ネオゲッターロボ
@@ -36266,4 +36266,10 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: シャドウバースF アーク編
   // https://annict.com/works/12598
   { annict_id: 12598, mal_id: 57614 },
+  // [2007-SUMMER] OVA: 灼眼のシャナたん@劇場版Ver
+  // https://annict.com/works/12599
+  { annict_id: 12599, mal_id: 3221 },
+  // [2008-WINTER] OVA: 灼眼のシャナたんII
+  // https://annict.com/works/12600
+  { annict_id: 12600, mal_id: 3956 },
 ]
