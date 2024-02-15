@@ -36287,4 +36287,7 @@ export const annict: ArmEntry[] = [
   // [1948-WINTER] MOVIE: トラちゃんと花嫁
   // https://annict.com/works/12605
   { annict_id: 12605, mal_id: 12603 },
+  // [1950-null] MOVIE: トラちゃんのカンカン虫
+  // https://annict.com/works/12606
+  { annict_id: 12606, mal_id: 10743 },
 ]
