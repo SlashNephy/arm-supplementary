@@ -36248,4 +36248,13 @@ export const annict: ArmEntry[] = [
   // [2003-SPRING] MOVIE: 岸辺のふたり
   // https://annict.com/works/12592
   { annict_id: 12592 },
+  // [1927-AUTUMN] MOVIE: 蛸の骨
+  // https://annict.com/works/12593
+  { annict_id: 12593, mal_id: 35492 },
+  // [1933-AUTUMN] MOVIE: お猿の大漁
+  // https://annict.com/works/12594
+  { annict_id: 12594, mal_id: 23267 },
+  // [1947-SUMMER] MOVIE: すて猫トラちゃん
+  // https://annict.com/works/12595
+  { annict_id: 12595, mal_id: 5662 },
 ]
