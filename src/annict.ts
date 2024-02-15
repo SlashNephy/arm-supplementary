@@ -24065,7 +24065,7 @@ export const annict: ArmEntry[] = [
   // [2022-SPRING] TV: このヒーラー、めんどくさい
   // https://annict.com/works/8359
   { annict_id: 8359, mal_id: 48742, syobocal_tid: 6290 },
-  // [1951-null] MOVIE: バッタ君町に行く
+  // [1951-WINTER] MOVIE: バッタ君町に行く
   // https://annict.com/works/8360
   { annict_id: 8360 },
   // [2012-null] MOVIE: 夜のとばりの物語
@@ -31631,13 +31631,13 @@ export const annict: ArmEntry[] = [
   // [1996-SUMMER] TV: YAWARA! Special ずっと君のことが…。
   // https://annict.com/works/11049
   { annict_id: 11049, mal_id: 2009 },
-  // [1933-null] MOVIE: のらくろ二等兵 教練の巻
+  // [1933-SPRING] MOVIE: のらくろ二等兵 教練の巻
   // https://annict.com/works/11050
   { annict_id: 11050, mal_id: 5871 },
-  // [1933-null] MOVIE: のらくろ二等兵 演習の巻
+  // [1933-SPRING] MOVIE: のらくろ二等兵 演習の巻
   // https://annict.com/works/11051
   { annict_id: 11051, mal_id: 4395 },
-  // [1934-null] MOVIE: のらくろ伍長 軍旗祭の巻
+  // [1934-WINTER] MOVIE: のらくろ伍長 軍旗祭の巻
   // https://annict.com/works/11052
   { annict_id: 11052, mal_id: 4394 },
   // [1935-null] MOVIE: のらくろ一等兵
@@ -36245,4 +36245,7 @@ export const annict: ArmEntry[] = [
   // [1961-null] MOVIE: プラス50000年
   // https://annict.com/works/12591
   { annict_id: 12591, mal_id: 29898 },
+  // [2003-SPRING] MOVIE: 岸辺のふたり
+  // https://annict.com/works/12592
+  { annict_id: 12592 },
 ]
