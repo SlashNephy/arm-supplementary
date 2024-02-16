@@ -36299,4 +36299,7 @@ export const annict: ArmEntry[] = [
   // [1932-null] MOVIE: ニヤゴダンス
   // https://annict.com/works/12609
   { annict_id: 12609, mal_id: 35747 },
+  // [2024-WINTER] WEB: ど根性ガエルやねん
+  // https://annict.com/works/12611
+  { annict_id: 12611 },
 ]
