@@ -36296,4 +36296,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] MOVIE: 映画おしりたんてい なんでもかいけつ倶楽部 対 かいとうU
   // https://annict.com/works/12608
   { annict_id: 12608 },
+  // [1932-null] MOVIE: ニヤゴダンス
+  // https://annict.com/works/12609
+  { annict_id: 12609, mal_id: 35747 },
 ]
