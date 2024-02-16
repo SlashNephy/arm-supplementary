@@ -36302,4 +36302,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] WEB: ど根性ガエルやねん
   // https://annict.com/works/12611
   { annict_id: 12611 },
+  // [1926-null] MOVIE: 煙り草物語
+  // https://annict.com/works/12612
+  { annict_id: 12612, mal_id: 28691 },
 ]
