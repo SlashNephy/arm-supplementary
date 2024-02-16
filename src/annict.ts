@@ -35539,7 +35539,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12354, mal_id: 22097 },
   // [2023-AUTUMN] TV: Fate/Grand Order 藤丸立香はわからない 大忘年おたのしみ会2023
   // https://annict.com/works/12355
-  { annict_id: 12355 },
+  { annict_id: 12355, mal_id: 57691 },
   // [2017-SUMMER] MOVIE: 映画 ふうせんいぬティニー なんだかふしぎなきょうりゅうのくに!
   // https://annict.com/works/12356
   { annict_id: 12356, mal_id: 34756 },
@@ -36290,4 +36290,10 @@ export const annict: ArmEntry[] = [
   // [1950-null] MOVIE: トラちゃんのカンカン虫
   // https://annict.com/works/12606
   { annict_id: 12606, mal_id: 10743 },
+  // [2024-WINTER] MOVIE: 映画おしりたんてい さらば愛しき相棒(おしり)よ
+  // https://annict.com/works/12607
+  { annict_id: 12607, mal_id: 57590 },
+  // [2024-WINTER] MOVIE: 映画おしりたんてい なんでもかいけつ倶楽部 対 かいとうU
+  // https://annict.com/works/12608
+  { annict_id: 12608 },
 ]
