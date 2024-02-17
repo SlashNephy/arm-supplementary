@@ -36308,4 +36308,7 @@ export const annict: ArmEntry[] = [
   // [1946-null] MOVIE: 蜘蛛の糸
   // https://annict.com/works/12613
   { annict_id: 12613, mal_id: 28053 },
+  // [1931-SPRING] MOVIE: 春の唄
+  // https://annict.com/works/12614
+  { annict_id: 12614, mal_id: 5868 },
 ]
