@@ -6263,7 +6263,7 @@ export const annict: ArmEntry[] = [
   // [1982-SPRING] TV: 魔境伝説アクロバンチ
   // https://annict.com/works/2091
   { annict_id: 2091, mal_id: 3880 },
-  // [1974-SPRING] TV: 魔女ッ子メグちゃん
+  // [1974-SPRING] TV: 魔女っ子メグちゃん
   // https://annict.com/works/2092
   { annict_id: 2092 },
   // [2003-SPRING] TV: 魔探偵ロキ RAGNAROK
@@ -12056,7 +12056,7 @@ export const annict: ArmEntry[] = [
   // [1978-WINTER] TV: 魔女っ子チックル
   // https://annict.com/works/4032
   { annict_id: 4032, mal_id: 3881 },
-  // [1974-WINTER] TV: 魔女っ子メグちゃん
+  // [1974-SPRING] TV: 魔女っ子メグちゃん
   // https://annict.com/works/4033
   { annict_id: 4033, mal_id: 3388 },
   // [1973-SPRING] TV: 荒野の少年イサム
@@ -36326,4 +36326,10 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 「科学漫画サバイバル」シリーズ
   // https://annict.com/works/12619
   { annict_id: 12619, mal_id: 58137 },
+  // [2024-WINTER] TV: オオクニヌシとスクナビコナ
+  // https://annict.com/works/12620
+  { annict_id: 12620 },
+  // [2024-WINTER] TV: MOON
+  // https://annict.com/works/12621
+  { annict_id: 12621 },
 ]
