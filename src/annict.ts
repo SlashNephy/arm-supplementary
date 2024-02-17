@@ -36311,4 +36311,10 @@ export const annict: ArmEntry[] = [
   // [1931-SPRING] MOVIE: 春の唄
   // https://annict.com/works/12614
   { annict_id: 12614, mal_id: 5868 },
+  // [1974-SUMMER] MOVIE: 魔女っ子メグちゃん (劇場版)
+  // https://annict.com/works/12615
+  { annict_id: 12615 },
+  // [1975-SPRING] MOVIE: 魔女っ子メグちゃん 月よりの使者
+  // https://annict.com/works/12616
+  { annict_id: 12616 },
 ]
