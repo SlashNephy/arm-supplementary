@@ -36317,4 +36317,13 @@ export const annict: ArmEntry[] = [
   // [1975-SPRING] MOVIE: 魔女っ子メグちゃん 月よりの使者
   // https://annict.com/works/12616
   { annict_id: 12616 },
+  // [null-null] TV: 転生悪女の黒歴史
+  // https://annict.com/works/12617
+  { annict_id: 12617, mal_id: 58146 },
+  // [2019-WINTER] WEB: 「科学漫画サバイバル」シリーズ（パイロットムービー）
+  // https://annict.com/works/12618
+  { annict_id: 12618, mal_id: 39618 },
+  // [null-null] TV: 「科学漫画サバイバル」シリーズ
+  // https://annict.com/works/12619
+  { annict_id: 12619, mal_id: 58137 },
 ]
