@@ -36335,4 +36335,13 @@ export const annict: ArmEntry[] = [
   // [1930-WINTER] MOVIE: おい等のスキー
   // https://annict.com/works/12622
   { annict_id: 12622, mal_id: 23759 },
+  // [1924-null] MOVIE: 教育お伽漫画 兎と亀
+  // https://annict.com/works/12623
+  { annict_id: 12623, mal_id: 7494 },
+  // [1928-null] MOVIE: 大力太郎の無茶修行
+  // https://annict.com/works/12624
+  { annict_id: 12624, mal_id: 4462 },
+  // [1928-null] MOVIE: お伽噺 日本一 桃太郎
+  // https://annict.com/works/12625
+  { annict_id: 12625, mal_id: 5632 },
 ]

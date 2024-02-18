@@ -38,17 +38,17 @@ export const fetchArmEntries = async (): Promise<ArmEntry[]> => {
 
 ## Statistics
 
-Currently, arm-supplementary has 38020 entries (+7226).
+Currently, arm-supplementary has 38023 entries (+7229).
 
 | Service                                     | arm-supplementary | arm / anime-offline-database |
 | :------------------------------------------ | :---------------: | :--------------------------: |
-| [Annict](https://annict.com)                |   12111 (+205)    |            11906             |
-| [AniList](https://anilist.co)               |   21809 (+2225)   |            19584             |
-| [MyAnimeList](https://myanimelist.net)      |   26763 (+547)    |            26216             |
+| [Annict](https://annict.com)                |   12114 (+208)    |            11906             |
+| [AniList](https://anilist.co)               |   21812 (+2228)   |            19584             |
+| [MyAnimeList](https://myanimelist.net)      |   26766 (+550)    |            26216             |
 | [しょぼいカレンダー](https://cal.syoboi.jp) |    5828 (+30)     |             5798             |
-| [AniDB](https://anidb.net)                  |   13341 (+150)    |            13191             |
-| [Anime-Planet](https://anime-planet.com)    |   23675 (+159)    |            23516             |
-| [aniSearch](https://anisearch.com)          |   18559 (+163)    |            18396             |
-| [Kitsu](https://kitsu.io)                   |   20165 (+171)    |            19994             |
+| [AniDB](https://anidb.net)                  |   13344 (+153)    |            13191             |
+| [Anime-Planet](https://anime-planet.com)    |   23678 (+162)    |            23516             |
+| [aniSearch](https://anisearch.com)          |   18562 (+166)    |            18396             |
+| [Kitsu](https://kitsu.io)                   |   20168 (+174)    |            19994             |
 | [LiveChart.me](https://livechart.me)        |   11244 (+142)    |            11102             |
-| [Anime Notifier](https://notify.moe)        |   16289 (+162)    |            16127             |
+| [Anime Notifier](https://notify.moe)        |   16292 (+165)    |            16127             |
