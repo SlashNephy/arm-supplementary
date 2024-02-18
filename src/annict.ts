@@ -36332,4 +36332,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] TV: MOON
   // https://annict.com/works/12621
   { annict_id: 12621 },
+  // [1930-WINTER] MOVIE: おい等のスキー
+  // https://annict.com/works/12622
+  { annict_id: 12622, mal_id: 23759 },
 ]
