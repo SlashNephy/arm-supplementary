@@ -30236,7 +30236,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] TV: うちの会社の小さい先輩の話
   // https://annict.com/works/10583
   { annict_id: 10583, mal_id: 53379, syobocal_tid: 6733 },
-  // [2024-SPRING] TV: 時々ボソッとロシア語でデレる隣のアーリャさん
+  // [2024-SUMMER] TV: 時々ボソッとロシア語でデレる隣のアーリャさん
   // https://annict.com/works/10584
   { annict_id: 10584, mal_id: 54744 },
   // [2023-AUTUMN] TV: Dr.STONE NEW WORLD 第2クール
@@ -36344,4 +36344,7 @@ export const annict: ArmEntry[] = [
   // [1928-null] MOVIE: お伽噺 日本一 桃太郎
   // https://annict.com/works/12625
   { annict_id: 12625, mal_id: 5632 },
+  // [1966-AUTUMN] TV: リボンの騎士（パイロット）
+  // https://annict.com/works/12626
+  { annict_id: 12626, mal_id: 22241 },
 ]
