@@ -36353,4 +36353,7 @@ export const annict: ArmEntry[] = [
   // [2012-WINTER] OVA: 灼眼のシャナたんIII -FINAL-
   // https://annict.com/works/12628
   { annict_id: 12628, mal_id: 12823 },
+  // [2007-SPRING] OVA: たねきゃら劇場
+  // https://annict.com/works/12629
+  { annict_id: 12629, mal_id: 2743 },
 ]
