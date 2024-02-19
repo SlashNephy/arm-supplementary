@@ -36347,4 +36347,10 @@ export const annict: ArmEntry[] = [
   // [1966-AUTUMN] TV: リボンの騎士（パイロット）
   // https://annict.com/works/12626
   { annict_id: 12626, mal_id: 22241 },
+  // [2009-AUTUMN] OVA: 灼眼のシャナたんS
+  // https://annict.com/works/12627
+  { annict_id: 12627, mal_id: 7375 },
+  // [2012-WINTER] OVA: 灼眼のシャナたんIII -FINAL-
+  // https://annict.com/works/12628
+  { annict_id: 12628, mal_id: 12823 },
 ]
