@@ -36356,4 +36356,7 @@ export const annict: ArmEntry[] = [
   // [2007-SPRING] OVA: たねきゃら劇場
   // https://annict.com/works/12629
   { annict_id: 12629, mal_id: 2743 },
+  // [1968-AUTUMN] MOVIE: 九尾の狐と飛丸 (殺生石)
+  // https://annict.com/works/12630
+  { annict_id: 12630, mal_id: 17673 },
 ]
