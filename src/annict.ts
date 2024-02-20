@@ -18848,7 +18848,7 @@ export const annict: ArmEntry[] = [
   // [2019-SUMMER] TV: 女子高生の無駄づかい
   // https://annict.com/works/6322
   { annict_id: 6322, mal_id: 38619, syobocal_tid: 5348 },
-  // [2021-null] OTHER: 魔法使いになれなかった女の子の話。
+  // [2024-AUTUMN] TV: 魔法使いになれなかった女の子の話。
   // https://annict.com/works/6323
   { annict_id: 6323, mal_id: 38585 },
   // [2018-AUTUMN] WEB: せいぜいがんばれ！魔法少女くるみ (第2期)
@@ -19451,7 +19451,7 @@ export const annict: ArmEntry[] = [
   // [2020-SPRING] TV: グレイプニル
   // https://annict.com/works/6527
   { annict_id: 6527, mal_id: 39463, syobocal_tid: 5636 },
-  // [2022-null] OTHER: メビウス・ダスト
+  // [null-null] OTHER: メビウス・ダスト
   // https://annict.com/works/6528
   { annict_id: 6528, mal_id: 39473 },
   // [2019-SUMMER] TV: ソウナンですか？
@@ -31489,7 +31489,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11001 },
   // [2024-SPRING] TV: 無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール
   // https://annict.com/works/11002
-  { annict_id: 11002, mal_id: 55888 },
+  { annict_id: 11002, mal_id: 55888, syobocal_tid: 6982 },
   // [2023-AUTUMN] TV: 僕らの雨いろプロトコル
   // https://annict.com/works/11003
   { annict_id: 11003, mal_id: 55894, syobocal_tid: 6865 },
@@ -36362,4 +36362,10 @@ export const annict: ArmEntry[] = [
   // [null-null] WEB: ポケモンコンシェルジュ 新エピソード
   // https://annict.com/works/12631
   { annict_id: 12631 },
+  // [2024-null] TV: 嘆きの亡霊は引退したい
+  // https://annict.com/works/12632
+  { annict_id: 12632, mal_id: 58172 },
+  // [2024-WINTER] WEB: 「僕の心のヤバイやつ」×「Re:ゼロから始める異世界生活」 ミニドラマ
+  // https://annict.com/works/12633
+  { annict_id: 12633 },
 ]
