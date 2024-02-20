@@ -36368,4 +36368,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] WEB: 「僕の心のヤバイやつ」×「Re:ゼロから始める異世界生活」 ミニドラマ
   // https://annict.com/works/12633
   { annict_id: 12633 },
+  // [2006-WINTER] OVA: チビキャラもしも劇場
+  // https://annict.com/works/12634
+  { annict_id: 12634, mal_id: 35297 },
 ]
