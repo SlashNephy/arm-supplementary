@@ -29177,9 +29177,9 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] MOVIE: ドラえもん のび太と空の理想郷
   // https://annict.com/works/10228
   { annict_id: 10228, mal_id: 52318 },
-  // [2024-null] TV: 戦隊大失格
+  // [2024-SPRING] TV: 戦隊大失格
   // https://annict.com/works/10229
-  { annict_id: 10229, mal_id: 53770 },
+  { annict_id: 10229, mal_id: 53770, syobocal_tid: 6988 },
   // [2022-AUTUMN] TV: すとぷりのHere!We!GO!!
   // https://annict.com/works/10230
   { annict_id: 10230 },
@@ -36359,4 +36359,7 @@ export const annict: ArmEntry[] = [
   // [1968-AUTUMN] MOVIE: 九尾の狐と飛丸 (殺生石)
   // https://annict.com/works/12630
   { annict_id: 12630, mal_id: 17673 },
+  // [null-null] WEB: ポケモンコンシェルジュ 新エピソード
+  // https://annict.com/works/12631
+  { annict_id: 12631 },
 ]
