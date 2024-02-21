@@ -36371,4 +36371,7 @@ export const annict: ArmEntry[] = [
   // [2006-WINTER] OVA: チビキャラもしも劇場
   // https://annict.com/works/12634
   { annict_id: 12634, mal_id: 35297 },
+  // [1985-SUMMER] MOVIE: 魔法のプリンセス ミンキーモモVS魔法の天使 クリィミーマミ 劇場の大決戦
+  // https://annict.com/works/12635
+  { annict_id: 12635, mal_id: 8972 },
 ]
