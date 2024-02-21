@@ -36344,7 +36344,7 @@ export const annict: ArmEntry[] = [
   // [1928-null] MOVIE: お伽噺 日本一 桃太郎
   // https://annict.com/works/12625
   { annict_id: 12625, mal_id: 5632 },
-  // [1966-AUTUMN] TV: リボンの騎士（パイロット）
+  // [1966-AUTUMN] OTHER: リボンの騎士（パイロット）
   // https://annict.com/works/12626
   { annict_id: 12626, mal_id: 22241 },
   // [2009-AUTUMN] OVA: 灼眼のシャナたんS
