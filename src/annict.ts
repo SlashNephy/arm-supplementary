@@ -34024,7 +34024,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11847, syobocal_tid: 6891 },
   // [2024-SPRING] TV: ひみつのアイプリ
   // https://annict.com/works/11848
-  { annict_id: 11848 },
+  { annict_id: 11848, mal_id: 57946 },
   // [2024-null] OTHER: 機動警察パトレイバーEZY
   // https://annict.com/works/11849
   { annict_id: 11849 },
