@@ -36374,4 +36374,7 @@ export const annict: ArmEntry[] = [
   // [1985-SUMMER] MOVIE: 魔法のプリンセス ミンキーモモVS魔法の天使 クリィミーマミ 劇場の大決戦
   // https://annict.com/works/12635
   { annict_id: 12635, mal_id: 8972 },
+  // [1987-SPRING] OTHER: ブレイブファイヤーS0・9
+  // https://annict.com/works/12636
+  { annict_id: 12636, mal_id: 10044 },
 ]
