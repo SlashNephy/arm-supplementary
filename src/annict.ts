@@ -36380,4 +36380,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] WEB: 今は将来に入りますか。
   // https://annict.com/works/12637
   { annict_id: 12637, mal_id: 58141 },
+  // [2024-SPRING] TV: 1時間でわかる転スラ
+  // https://annict.com/works/12638
+  { annict_id: 12638 },
 ]
