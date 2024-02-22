@@ -33020,7 +33020,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] WEB: 名探偵ピカチュウ ～華麗なるモーニングルーティン～
   // https://annict.com/works/11513
   { annict_id: 11513, mal_id: 57003 },
-  // [2024-null] OTHER: ポンコツクエスト～魔王と派遣の魔物たち～ シーズン8
+  // [2024-SPRING] TV: ポンコツクエスト～魔王と派遣の魔物たち～ シーズン8
   // https://annict.com/works/11514
   { annict_id: 11514 },
   // [null-null] OTHER: 銀河英雄伝説 Die Neue These 続編
@@ -36383,4 +36383,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: 1時間でわかる転スラ
   // https://annict.com/works/12638
   { annict_id: 12638 },
+  // [2024-SUMMER] MOVIE: 化け猫あんずちゃん
+  // https://annict.com/works/12639
+  { annict_id: 12639, mal_id: 54603 },
 ]
