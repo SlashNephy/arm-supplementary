@@ -25400,7 +25400,7 @@ export const annict: ArmEntry[] = [
   // [2021-AUTUMN] WEB: 極主夫道 Part 2
   // https://annict.com/works/8870
   { annict_id: 8870, mal_id: 48707, syobocal_tid: 6335 },
-  // [null-null] OTHER: 鬼人幻燈抄
+  // [2024-SUMMER] TV: 鬼人幻燈抄
   // https://annict.com/works/8871
   { annict_id: 8871, mal_id: 49778 },
   // [2021-SUMMER] WEB: ゲンガーになっちゃった！？
