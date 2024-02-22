@@ -36386,4 +36386,13 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] MOVIE: 化け猫あんずちゃん
   // https://annict.com/works/12639
   { annict_id: 12639, mal_id: 54603 },
+  // [2024-SUMMER] MOVIE: 映画 クレヨンしんちゃん オラたちの恐竜日記
+  // https://annict.com/works/12640
+  { annict_id: 12640, mal_id: 57499 },
+  // [2025-null] TV: ニャイト・オブ・ザ・リビングキャット
+  // https://annict.com/works/12641
+  { annict_id: 12641, mal_id: 58197 },
+  // [2024-AUTUMN] MOVIE: 劇場版 忍たま乱太郎 ドクタケ忍者隊最強の軍師
+  // https://annict.com/works/12642
+  { annict_id: 12642 },
 ]
