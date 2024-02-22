@@ -33056,7 +33056,7 @@ export const annict: ArmEntry[] = [
   // [2024-null] TV: 菜なれ花なれ
   // https://annict.com/works/11525
   { annict_id: 11525, mal_id: 57099 },
-  // [2024-null] TV: THE NEW GATE
+  // [2024-SPRING] TV: THE NEW GATE
   // https://annict.com/works/11526
   { annict_id: 11526, mal_id: 57100 },
   // [2024-AUTUMN] TV: 放課後少年花子くん 続編
