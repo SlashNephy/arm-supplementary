@@ -18671,7 +18671,7 @@ export const annict: ArmEntry[] = [
   // [2021-null] TV: レスキューアカデミア
   // https://annict.com/works/6261
   { annict_id: 6261, mal_id: 34348 },
-  // [null-null] MOVIE: トップをねらえ3
+  // [null-null] OTHER: トップをねらえ3
   // https://annict.com/works/6262
   { annict_id: 6262 },
   // [2022-null] MOVIE: 蒼きウル
