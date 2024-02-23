@@ -36398,4 +36398,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] TV: パンテオンの鳥
   // https://annict.com/works/12643
   { annict_id: 12643 },
+  // [1986-SUMMER] OVA: カリフォルニア・クライシス 追撃の銃火
+  // https://annict.com/works/12644
+  { annict_id: 12644, mal_id: 3127 },
 ]
