@@ -31607,7 +31607,7 @@ export const annict: ArmEntry[] = [
   // [null-null] WEB: Project BULLET／BULLET
   // https://annict.com/works/11041
   { annict_id: 11041, mal_id: 53722 },
-  // [null-null] TV: NieR:Automata Ver1.1a 第2クール
+  // [2024-null] TV: NieR:Automata Ver1.1a 第2クール
   // https://annict.com/works/11042
   { annict_id: 11042, mal_id: 56063 },
   // [2024-null] TV: なぜ僕の世界を誰も覚えていないのか？
@@ -36328,7 +36328,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12619, mal_id: 58137 },
   // [2024-WINTER] TV: オオクニヌシとスクナビコナ
   // https://annict.com/works/12620
-  { annict_id: 12620 },
+  { annict_id: 12620, mal_id: 58006 },
   // [2024-WINTER] TV: MOON
   // https://annict.com/works/12621
   { annict_id: 12621 },
@@ -36401,4 +36401,7 @@ export const annict: ArmEntry[] = [
   // [1986-SUMMER] OVA: カリフォルニア・クライシス 追撃の銃火
   // https://annict.com/works/12644
   { annict_id: 12644, mal_id: 3127 },
+  // [2014-SUMMER] TV: 電人アロー（パイロットフィルム）
+  // https://annict.com/works/12645
+  { annict_id: 12645 },
 ]
