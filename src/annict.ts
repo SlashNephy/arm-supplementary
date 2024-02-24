@@ -36404,4 +36404,7 @@ export const annict: ArmEntry[] = [
   // [2014-SUMMER] TV: 電人アロー（パイロットフィルム）
   // https://annict.com/works/12645
   { annict_id: 12645 },
+  // [null-null] TV: Übel Blatt〜ユーベルブラット〜
+  // https://annict.com/works/12646
+  { annict_id: 12646, mal_id: 58216 },
 ]
