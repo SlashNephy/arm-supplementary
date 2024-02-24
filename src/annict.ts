@@ -36394,7 +36394,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12641, mal_id: 58197 },
   // [2024-AUTUMN] MOVIE: 劇場版 忍たま乱太郎 ドクタケ忍者隊最強の軍師
   // https://annict.com/works/12642
-  { annict_id: 12642 },
+  { annict_id: 12642, mal_id: 58201 },
   // [2024-WINTER] TV: パンテオンの鳥
   // https://annict.com/works/12643
   { annict_id: 12643 },

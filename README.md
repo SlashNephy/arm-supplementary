@@ -44,7 +44,7 @@ Currently, arm-supplementary has 38031 entries (+7184).
 | :------------------------------------------ | :---------------: | :--------------------------: |
 | [Annict](https://annict.com)                |   12133 (+181)    |            11952             |
 | [AniList](https://anilist.co)               |   21809 (+2196)   |            19613             |
-| [MyAnimeList](https://myanimelist.net)      |   26778 (+513)    |            26265             |
+| [MyAnimeList](https://myanimelist.net)      |   26779 (+514)    |            26265             |
 | [しょぼいカレンダー](https://cal.syoboi.jp) |    5831 (+31)     |             5800             |
 | [AniDB](https://anidb.net)                  |   13332 (+141)    |            13191             |
 | [Anime-Planet](https://anime-planet.com)    |   23663 (+147)    |            23516             |
