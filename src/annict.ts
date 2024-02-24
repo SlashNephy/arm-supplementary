@@ -36331,7 +36331,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12620, mal_id: 58006 },
   // [2024-WINTER] TV: MOON
   // https://annict.com/works/12621
-  { annict_id: 12621 },
+  { annict_id: 12621, mal_id: 58006 },
   // [1930-WINTER] MOVIE: おい等のスキー
   // https://annict.com/works/12622
   { annict_id: 12622, mal_id: 23759 },
@@ -36397,7 +36397,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12642, mal_id: 58201 },
   // [2024-WINTER] TV: パンテオンの鳥
   // https://annict.com/works/12643
-  { annict_id: 12643 },
+  { annict_id: 12643, mal_id: 58006 },
   // [1986-SUMMER] OVA: カリフォルニア・クライシス 追撃の銃火
   // https://annict.com/works/12644
   { annict_id: 12644, mal_id: 3127 },
