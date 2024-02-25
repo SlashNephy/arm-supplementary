@@ -36416,4 +36416,10 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 夜は猫といっしょ 3期
   // https://annict.com/works/12649
   { annict_id: 12649, mal_id: 58199 },
+  // [1971-AUTUMN] OTHER: 青いトリトン（パイロット）
+  // https://annict.com/works/12650
+  { annict_id: 12650 },
+  // [1968-WINTER] OTHER: どろろ（パイロット）
+  // https://annict.com/works/12651
+  { annict_id: 12651 },
 ]
