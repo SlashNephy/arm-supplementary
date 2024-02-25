@@ -36401,10 +36401,19 @@ export const annict: ArmEntry[] = [
   // [1986-SUMMER] OVA: カリフォルニア・クライシス 追撃の銃火
   // https://annict.com/works/12644
   { annict_id: 12644, mal_id: 3127 },
-  // [2014-SUMMER] TV: 電人アロー（パイロットフィルム）
+  // [1965-null] TV: 電人アロー（パイロットフィルム）
   // https://annict.com/works/12645
   { annict_id: 12645 },
   // [null-null] TV: Übel Blatt〜ユーベルブラット〜
   // https://annict.com/works/12646
   { annict_id: 12646, mal_id: 58216 },
+  // [2000-SPRING] TV: ボブとはたらくブーブーズ
+  // https://annict.com/works/12647
+  { annict_id: 12647 },
+  // [2009-SUMMER] TV: チャギントン
+  // https://annict.com/works/12648
+  { annict_id: 12648 },
+  // [null-null] OTHER: 夜は猫といっしょ 3期
+  // https://annict.com/works/12649
+  { annict_id: 12649, mal_id: 58199 },
 ]
