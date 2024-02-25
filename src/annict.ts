@@ -36401,7 +36401,7 @@ export const annict: ArmEntry[] = [
   // [1986-SUMMER] OVA: カリフォルニア・クライシス 追撃の銃火
   // https://annict.com/works/12644
   { annict_id: 12644, mal_id: 3127 },
-  // [1965-null] TV: 電人アロー（パイロットフィルム）
+  // [1965-null] OTHER: 電人アロー（パイロットフィルム）
   // https://annict.com/works/12645
   { annict_id: 12645 },
   // [null-null] TV: Übel Blatt〜ユーベルブラット〜
