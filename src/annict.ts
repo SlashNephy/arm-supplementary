@@ -36425,4 +36425,10 @@ export const annict: ArmEntry[] = [
   // [2004-AUTUMN] OVA: 天才少年ジミー・ニュートロン
   // https://annict.com/works/12652
   { annict_id: 12652 },
+  // [1987-AUTUMN] OVA: デビルマン 誕生編
+  // https://annict.com/works/12653
+  { annict_id: 12653, mal_id: 2354 },
+  // [1990-WINTER] OVA: デビルマン 妖鳥死麗濡編
+  // https://annict.com/works/12654
+  { annict_id: 12654, mal_id: 2355 },
 ]
