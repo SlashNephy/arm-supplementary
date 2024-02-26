@@ -36422,4 +36422,7 @@ export const annict: ArmEntry[] = [
   // [1968-WINTER] OTHER: どろろ（パイロット）
   // https://annict.com/works/12651
   { annict_id: 12651 },
+  // [2004-AUTUMN] OVA: 天才少年ジミー・ニュートロン
+  // https://annict.com/works/12652
+  { annict_id: 12652 },
 ]
