@@ -30458,7 +30458,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: クズ悪役の自己救済システム（字幕版）
   // https://annict.com/works/10658
   { annict_id: 10658, mal_id: 38990 },
-  // [2024-null] TV: 新米オッサン冒険者、最強パーティに死ぬほど鍛えられて無敵になる。
+  // [2024-SUMMER] TV: 新米オッサン冒険者、最強パーティに死ぬほど鍛えられて無敵になる。
   // https://annict.com/works/10659
   { annict_id: 10659, mal_id: 54913 },
   // [2023-SPRING] TV: おじゃる丸 (第26シリーズ)
@@ -36431,4 +36431,7 @@ export const annict: ArmEntry[] = [
   // [1990-WINTER] OVA: デビルマン 妖鳥死麗濡編
   // https://annict.com/works/12654
   { annict_id: 12654, mal_id: 2355 },
+  // [null-null] OTHER: ティラノがやってくる！
+  // https://annict.com/works/12655
+  { annict_id: 12655 },
 ]
