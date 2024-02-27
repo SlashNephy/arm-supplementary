@@ -36581,4 +36581,10 @@ export const annict: ArmEntry[] = [
   // [2015-SUMMER] OVA: ブルー2 トロピカル・アドベンチャー
   // https://annict.com/works/12704
   { annict_id: 12704 },
+  // [2019-SPRING] OVA: フェルディナンド
+  // https://annict.com/works/12705
+  { annict_id: 12705 },
+  // [2011-SUMMER] MOVIE: イースターラビットのキャンディ工場
+  // https://annict.com/works/12706
+  { annict_id: 12706 },
 ]
