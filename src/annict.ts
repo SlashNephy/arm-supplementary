@@ -36473,4 +36473,10 @@ export const annict: ArmEntry[] = [
   // [2018-SPRING] TV: バービー イルカのマジック
   // https://annict.com/works/12668
   { annict_id: 12668 },
+  // [2021-WINTER] TV: バービー・プリンセス・アドベンチャー
+  // https://annict.com/works/12669
+  { annict_id: 12669 },
+  // [2021-AUTUMN] TV: バービービッグシティ ビッグドリーム
+  // https://annict.com/works/12670
+  { annict_id: 12670 },
 ]
