@@ -36572,4 +36572,13 @@ export const annict: ArmEntry[] = [
   // [2008-SUMMER] MOVIE: ホートン/ふしぎな世界のダレダーレ
   // https://annict.com/works/12701
   { annict_id: 12701 },
+  // [2011-AUTUMN] OVA: ブルー 初めての空へ
+  // https://annict.com/works/12702
+  { annict_id: 12702 },
+  // [2014-AUTUMN] MOVIE: メアリーと秘密の王国
+  // https://annict.com/works/12703
+  { annict_id: 12703 },
+  // [2015-SUMMER] OVA: ブルー2 トロピカル・アドベンチャー
+  // https://annict.com/works/12704
+  { annict_id: 12704 },
 ]
