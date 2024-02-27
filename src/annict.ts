@@ -30640,7 +30640,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10718, mal_id: 769 },
   // [2024-SPRING] TV: ガールズバンドクライ
   // https://annict.com/works/10719
-  { annict_id: 10719, mal_id: 55102 },
+  { annict_id: 10719, mal_id: 55102, syobocal_tid: 6995 },
   // [2024-SPRING] TV: バーテンダー 神のグラス
   // https://annict.com/works/10720
   { annict_id: 10720, mal_id: 53407 },
