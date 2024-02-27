@@ -36500,4 +36500,76 @@ export const annict: ArmEntry[] = [
   // [1993-SPRING] MOVIE: 天国から来たわんちゃん
   // https://annict.com/works/12677
   { annict_id: 12677 },
+  // [1992-null] OVA: 子猫になった少年
+  // https://annict.com/works/12678
+  { annict_id: 12678 },
+  // [1994-AUTUMN] MOVIE: おやゆび姫 サンベリーナ
+  // https://annict.com/works/12679
+  { annict_id: 12679 },
+  // [1995-AUTUMN] OVA: セントラルパークの妖精
+  // https://annict.com/works/12680
+  { annict_id: 12680 },
+  // [1996-SUMMER] MOVIE: ペンギン物語〜きらきら石のゆくえ〜
+  // https://annict.com/works/12681
+  { annict_id: 12681 },
+  // [1980-null] OVA: バンジョー いたずら子猫の大冒険
+  // https://annict.com/works/12682
+  { annict_id: 12682 },
+  // [1998-AUTUMN] MOVIE: アンツ
+  // https://annict.com/works/12683
+  { annict_id: 12683 },
+  // [1999-SUMMER] MOVIE: プリンス・オブ・エジプト
+  // https://annict.com/works/12684
+  { annict_id: 12684 },
+  // [2001-SPRING] MOVIE: エル・ドラド 黄金の都
+  // https://annict.com/works/12685
+  { annict_id: 12685 },
+  // [2003-SPRING] MOVIE: スピリット: スタリオン・オブ・ザ・シマロン
+  // https://annict.com/works/12686
+  { annict_id: 12686 },
+  // [2005-SUMMER] OVA: シンドバッド 7つの海の伝説
+  // https://annict.com/works/12687
+  { annict_id: 12687 },
+  // [2005-WINTER] MOVIE: シャーク・テイル
+  // https://annict.com/works/12688
+  { annict_id: 12688 },
+  // [2006-SUMMER] MOVIE: 森のリトル・ギャング
+  // https://annict.com/works/12689
+  { annict_id: 12689 },
+  // [2008-WINTER] OVA: マウス・タウン ロディとリタの大冒険
+  // https://annict.com/works/12690
+  { annict_id: 12690 },
+  // [2008-WINTER] MOVIE: ビー・ムービー
+  // https://annict.com/works/12691
+  { annict_id: 12691 },
+  // [2013-AUTUMN] OVA: ガーディアンズ 伝説の勇者たち
+  // https://annict.com/works/12692
+  { annict_id: 12692 },
+  // [2014-SPRING] OVA: ターボ
+  // https://annict.com/works/12693
+  { annict_id: 12693 },
+  // [2015-AUTUMN] OVA: 天才犬ピーボ博士のタイムトラベル
+  // https://annict.com/works/12694
+  { annict_id: 12694 },
+  // [2016-SUMMER] OVA:  ホーム 宇宙人ブーヴのゆかいな大冒険
+  // https://annict.com/works/12695
+  { annict_id: 12695 },
+  // [2017-SUMMER] OVA: トロールズ
+  // https://annict.com/works/12696
+  { annict_id: 12696 },
+  // [2018-SPRING] OVA: スーパーヒーロー・パンツマン
+  // https://annict.com/works/12697
+  { annict_id: 12697 },
+  // [2020-SPRING] OVA: スノーベイビー
+  // https://annict.com/works/12698
+  { annict_id: 12698 },
+  // [2020-AUTUMN] MOVIE: トロールズ ミュージック★パワー
+  // https://annict.com/works/12699
+  { annict_id: 12699 },
+  // [2021-AUTUMN] OVA: スピリット 未知への冒険
+  // https://annict.com/works/12700
+  { annict_id: 12700 },
+  // [2008-SUMMER] MOVIE: ホートン/ふしぎな世界のダレダーレ
+  // https://annict.com/works/12701
+  { annict_id: 12701 },
 ]
