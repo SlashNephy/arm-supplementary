@@ -36587,4 +36587,7 @@ export const annict: ArmEntry[] = [
   // [2011-SUMMER] MOVIE: イースターラビットのキャンディ工場
   // https://annict.com/works/12706
   { annict_id: 12706 },
+  // [2024-WINTER] WEB: ラーメンを食べている時だけなぜか脳内で会話できる２人
+  // https://annict.com/works/12707
+  { annict_id: 12707, mal_id: 57909 },
 ]
