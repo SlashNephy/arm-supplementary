@@ -36479,4 +36479,25 @@ export const annict: ArmEntry[] = [
   // [2021-AUTUMN] TV: バービービッグシティ ビッグドリーム
   // https://annict.com/works/12670
   { annict_id: 12670 },
+  // [1998-SUMMER] MOVIE: アナスタシア
+  // https://annict.com/works/12671
+  { annict_id: 12671 },
+  // [1999-AUTUMN] OVA: バルトーク・ザ・マジシャン
+  // https://annict.com/works/12672
+  { annict_id: 12672 },
+  // [2000-SUMMER] MOVIE: タイタンA.E.
+  // https://annict.com/works/12673
+  { annict_id: 12673 },
+  // [1994-SUMMER] MOVIE: 不思議の森の妖精たち
+  // https://annict.com/works/12674
+  { annict_id: 12674 },
+  // [1987-SUMMER] MOVIE: アメリカ物語
+  // https://annict.com/works/12675
+  { annict_id: 12675 },
+  // [1989-WINTER] MOVIE: リトルフットの大冒険 〜謎の恐竜大陸〜
+  // https://annict.com/works/12676
+  { annict_id: 12676 },
+  // [1993-SPRING] MOVIE: 天国から来たわんちゃん
+  // https://annict.com/works/12677
+  { annict_id: 12677 },
 ]
