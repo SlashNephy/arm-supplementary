@@ -36434,4 +36434,43 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: ティラノがやってくる！
   // https://annict.com/works/12655
   { annict_id: 12655 },
+  // [2001-AUTUMN] OVA: バービーのくるみ割り人形
+  // https://annict.com/works/12656
+  { annict_id: 12656 },
+  // [2002-AUTUMN] OVA: バービーのラプンツェル 魔法の絵ふでの物語
+  // https://annict.com/works/12657
+  { annict_id: 12657 },
+  // [2003-AUTUMN] OVA: バービーの白鳥の湖
+  // https://annict.com/works/12658
+  { annict_id: 12658 },
+  // [2004-AUTUMN] OVA: バービーの王女と村娘
+  // https://annict.com/works/12659
+  { annict_id: 12659 },
+  // [2007-SUMMER] TV: バービーとペガサスの魔法
+  // https://annict.com/works/12660
+  { annict_id: 12660 },
+  // [2008-SUMMER] TV: バービーと妖精の国フェアリートピア
+  // https://annict.com/works/12661
+  { annict_id: 12661 },
+  // [2008-AUTUMN] TV: バービーと人魚の国マーメディア
+  // https://annict.com/works/12662
+  { annict_id: 12662 },
+  // [2012-AUTUMN] OVA: バービー プリンセス&ポップスター
+  // https://annict.com/works/12663
+  { annict_id: 12663 },
+  // [2015-WINTER] TV: バービーのフェアリー・プリンセス
+  // https://annict.com/works/12664
+  { annict_id: 12664 },
+  // [2015-SPRING] TV: バービーと伝説の馬
+  // https://annict.com/works/12665
+  { annict_id: 12665 },
+  // [2015-SUMMER] TV: バービーと魔法のバレエシューズ
+  // https://annict.com/works/12666
+  { annict_id: 12666 },
+  // [2015-AUTUMN] TV: バービーのマーメード・プリンセス
+  // https://annict.com/works/12667
+  { annict_id: 12667 },
+  // [2018-SPRING] TV: バービー イルカのマジック
+  // https://annict.com/works/12668
+  { annict_id: 12668 },
 ]
