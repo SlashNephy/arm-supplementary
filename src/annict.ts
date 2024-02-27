@@ -23426,10 +23426,10 @@ export const annict: ArmEntry[] = [
   // [2021-AUTUMN] MOVIE: ARIA The BENEDIZIONE
   // https://annict.com/works/8146
   { annict_id: 8146, mal_id: 48411 },
-  // [2023-WINTER] TV: 魔王学院の不適合者Ⅱ ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～ part1
+  // [2023-WINTER] TV: 魔王学院の不適合者Ⅱ ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～
   // https://annict.com/works/8147
   { annict_id: 8147, mal_id: 48417, syobocal_tid: 6567 },
-  // [2024-null] TV: 魔王学院の不適合者Ⅱ ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～ 2ndクール
+  // [2024-SPRING] TV: 魔王学院の不適合者Ⅱ ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～ 2ndクール
   // https://annict.com/works/8148
   { annict_id: 8148, mal_id: 48418 },
   // [2022-WINTER] TV: 錆喰いビスコ
