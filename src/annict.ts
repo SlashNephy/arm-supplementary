@@ -36611,4 +36611,10 @@ export const annict: ArmEntry[] = [
   // [1930-SPRING] MOVIE: 猿正宗
   // https://annict.com/works/12714
   { annict_id: 12714, mal_id: 4391 },
+  // [1930-AUTUMN] MOVIE: 村祭
+  // https://annict.com/works/12715
+  { annict_id: 12715, mal_id: 6769 },
+  // [1930-SPRING] MOVIE: 煙突屋ペロー
+  // https://annict.com/works/12716
+  { annict_id: 12716, mal_id: 15137 },
 ]
