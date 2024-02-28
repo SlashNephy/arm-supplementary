@@ -36593,4 +36593,10 @@ export const annict: ArmEntry[] = [
   // [2016-SUMMER] MOVIE: ソーセージ・パーティー
   // https://annict.com/works/12708
   { annict_id: 12708 },
+  // [1929-null] MOVIE: 一寸法師ノ出世
+  // https://annict.com/works/12709
+  { annict_id: 12709, mal_id: 3930 },
+  // [1931-WINTER] MOVIE: 国歌 君が代
+  // https://annict.com/works/12710
+  { annict_id: 12710, mal_id: 4393 },
 ]
