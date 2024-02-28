@@ -36605,4 +36605,10 @@ export const annict: ArmEntry[] = [
   // [1929-SPRING] MOVIE: 太郎さんの汽車
   // https://annict.com/works/12712
   { annict_id: 12712, mal_id: 5873 },
+  // [1930-WINTER] MOVIE: 漫画 かうもり
+  // https://annict.com/works/12713
+  { annict_id: 12713, mal_id: 5631 },
+  // [1930-SPRING] MOVIE: 猿正宗
+  // https://annict.com/works/12714
+  { annict_id: 12714, mal_id: 4391 },
 ]
