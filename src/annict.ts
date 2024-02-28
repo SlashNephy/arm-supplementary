@@ -36617,4 +36617,7 @@ export const annict: ArmEntry[] = [
   // [1930-SPRING] MOVIE: 煙突屋ペロー
   // https://annict.com/works/12716
   { annict_id: 12716, mal_id: 15137 },
+  // [1986-SUMMER] OVA: ルーツ・サーチ 食心物体X
+  // https://annict.com/works/12717
+  { annict_id: 12717, mal_id: 2250 },
 ]
