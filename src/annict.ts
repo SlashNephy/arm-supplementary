@@ -36602,4 +36602,7 @@ export const annict: ArmEntry[] = [
   // [1929-AUTUMN] MOVIE: 漫画 瘤取り
   // https://annict.com/works/12711
   { annict_id: 12711, mal_id: 5875 },
+  // [1929-SPRING] MOVIE: 太郎さんの汽車
+  // https://annict.com/works/12712
+  { annict_id: 12712, mal_id: 5873 },
 ]
