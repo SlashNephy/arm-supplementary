@@ -36641,4 +36641,10 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] MOVIE: ミニオンの月世界
   // https://annict.com/works/12724
   { annict_id: 12724 },
+  // [null-null] TV: どうせ、恋してしまうんだ。
+  // https://annict.com/works/12725
+  { annict_id: 12725, mal_id: 58259 },
+  // [2025-null] TV: ババンババンバンバンパイア
+  // https://annict.com/works/12726
+  { annict_id: 12726, mal_id: 58265 },
 ]
