@@ -36620,4 +36620,13 @@ export const annict: ArmEntry[] = [
   // [1986-SUMMER] OVA: ルーツ・サーチ 食心物体X
   // https://annict.com/works/12717
   { annict_id: 12717, mal_id: 2250 },
+  // [1999-SUMMER] OVA: とっとこハム太郎 アニメでちゅ!
+  // https://annict.com/works/12718
+  { annict_id: 12718, mal_id: 36145 },
+  // [2006-SPRING] TV: とっとこハム太郎 は〜い!
+  // https://annict.com/works/12719
+  { annict_id: 12719, mal_id: 13679 },
+  // [2012-SPRING] TV: とっとこハム太郎(2012年)
+  // https://annict.com/works/12720
+  { annict_id: 12720 },
 ]
