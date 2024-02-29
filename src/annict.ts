@@ -36638,4 +36638,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] MOVIE: 怪盗グルーのミニオン超変身
   // https://annict.com/works/12723
   { annict_id: 12723 },
+  // [2024-WINTER] MOVIE: ミニオンの月世界
+  // https://annict.com/works/12724
+  { annict_id: 12724 },
 ]
