@@ -36629,4 +36629,10 @@ export const annict: ArmEntry[] = [
   // [2012-SPRING] TV: とっとこハム太郎(2012年)
   // https://annict.com/works/12720
   { annict_id: 12720 },
+  // [1931-null] MOVIE: 浦島太郎
+  // https://annict.com/works/12721
+  { annict_id: 12721, mal_id: 5813 },
+  // [1999-null] OVA: なんちゃってバンパイヤン
+  // https://annict.com/works/12722
+  { annict_id: 12722, mal_id: 4420 },
 ]
