@@ -36653,4 +36653,7 @@ export const annict: ArmEntry[] = [
   // [1931-null] MOVIE: 動物相撲大会
   // https://annict.com/works/12728
   { annict_id: 12728, mal_id: 5812 },
+  // [1931-AUTUMN] MOVIE: 空の桃太郎
+  // https://annict.com/works/12729
+  { annict_id: 12729, mal_id: 4390 },
 ]
