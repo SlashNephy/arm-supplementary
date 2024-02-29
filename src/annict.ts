@@ -3164,7 +3164,7 @@ export const annict: ArmEntry[] = [
   // [2006-AUTUMN] TV: スーパーロボット大戦OG ディバイン・ウォーズ
   // https://annict.com/works/1056
   { annict_id: 1056, mal_id: 1603, syobocal_tid: 1045 },
-  // [1965-WINTER] TV: スーパー・ジェッター
+  // [1965-WINTER] TV: スーパージェッター
   // https://annict.com/works/1057
   { annict_id: 1057, mal_id: 16159 },
   // [2003-SUMMER] TV: 住めば都のコスモス荘 すっとこ大戦ドッコイダー
