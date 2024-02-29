@@ -36647,4 +36647,10 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: ババンババンバンバンパイア
   // https://annict.com/works/12726
   { annict_id: 12726, mal_id: 58265 },
+  // [1930-WINTER] MOVIE: おい等の野球
+  // https://annict.com/works/12727
+  { annict_id: 12727, mal_id: 5826 },
+  // [1931-null] MOVIE: 動物相撲大会
+  // https://annict.com/works/12728
+  { annict_id: 12728, mal_id: 5812 },
 ]
