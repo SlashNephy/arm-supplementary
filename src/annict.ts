@@ -25135,7 +25135,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 8780, mal_id: 49469 },
   // [2024-SPRING] TV: この素晴らしい世界に祝福を！ 3
   // https://annict.com/works/8781
-  { annict_id: 8781, mal_id: 49458 },
+  { annict_id: 8781, mal_id: 49458, syobocal_tid: 6998 },
   // [2022-SPRING] TV: サマータイムレンダ
   // https://annict.com/works/8782
   { annict_id: 8782, mal_id: 47194, syobocal_tid: 6315 },
@@ -27805,7 +27805,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9769, mal_id: 52608, syobocal_tid: 6660 },
   // [2024-SPRING] TV: 怪獣8号
   // https://annict.com/works/9770
-  { annict_id: 9770, mal_id: 52588 },
+  { annict_id: 9770, mal_id: 52588, syobocal_tid: 7001 },
   // [1990-AUTUMN] TV: きかんしゃトーマス 第1シーズン
   // https://annict.com/works/9771
   { annict_id: 9771 },
@@ -29789,7 +29789,7 @@ export const annict: ArmEntry[] = [
   // [2022-WINTER] WEB: アイドルマスター ミリオンライブ！アニメプロローグイメージMV「セブンカウント」
   // https://annict.com/works/10433
   { annict_id: 10433, mal_id: 51842 },
-  // [2024-null] TV: VTuberなんだが配信切り忘れたら伝説になってた
+  // [2024-SUMMER] TV: VTuberなんだが配信切り忘れたら伝説になってた
   // https://annict.com/works/10434
   { annict_id: 10434, mal_id: 54284 },
   // [2023-SPRING] TV: 六道の悪女たち
@@ -30221,7 +30221,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] TV: 魔法少女にあこがれて
   // https://annict.com/works/10578
   { annict_id: 10578, mal_id: 54722, syobocal_tid: 6897 },
-  // [null-null] OTHER: 妻、小学生になる。
+  // [2024-null] TV: 妻、小学生になる。
   // https://annict.com/works/10579
   { annict_id: 10579, mal_id: 54726 },
   // [2023-AUTUMN] TV: 暴食のベルセルク
@@ -31999,7 +31999,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11171, mal_id: 56685 },
   // [2024-SPRING] TV: Re:Monster
   // https://annict.com/works/11172
-  { annict_id: 11172 },
+  { annict_id: 11172, mal_id: 56690 },
   // [2024-WINTER] TV: 月刊モー想科学
   // https://annict.com/works/11173
   { annict_id: 11173, mal_id: 56691, syobocal_tid: 6925 },
@@ -34024,7 +34024,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11847, syobocal_tid: 6891 },
   // [2024-SPRING] TV: ひみつのアイプリ
   // https://annict.com/works/11848
-  { annict_id: 11848, mal_id: 57946 },
+  { annict_id: 11848, mal_id: 57946, syobocal_tid: 6989 },
   // [2024-null] OTHER: 機動警察パトレイバーEZY
   // https://annict.com/works/11849
   { annict_id: 11849 },
