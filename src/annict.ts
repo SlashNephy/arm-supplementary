@@ -36665,4 +36665,13 @@ export const annict: ArmEntry[] = [
   // [1932-WINTER] MOVIE: 海の桃太郎
   // https://annict.com/works/12732
   { annict_id: 12732, mal_id: 5661 },
+  // [1932-AUTUMN] MOVIE: 大当り空の円タク
+  // https://annict.com/works/12733
+  { annict_id: 12733, mal_id: 4392 },
+  // [1932-null] MOVIE: ダン吉島のオリムピック大会
+  // https://annict.com/works/12734
+  { annict_id: 12734, mal_id: 5814 },
+  // [1932-null] MOVIE: 動物村のスポーツデー
+  // https://annict.com/works/12735
+  { annict_id: 12735, mal_id: 5872 },
 ]
