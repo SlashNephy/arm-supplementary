@@ -36680,4 +36680,7 @@ export const annict: ArmEntry[] = [
   // [1933-WINTER] MOVIE: 雲雀の宿替
   // https://annict.com/works/12737
   { annict_id: 12737, mal_id: 5870 },
+  // [null-null] TV: ハニーレモンソーダ
+  // https://annict.com/works/12738
+  { annict_id: 12738, mal_id: 58271 },
 ]
