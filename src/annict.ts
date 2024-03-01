@@ -36662,4 +36662,7 @@ export const annict: ArmEntry[] = [
   // [1931-null] MOVIE: 鼠の留守番
   // https://annict.com/works/12731
   { annict_id: 12731, mal_id: 5811 },
+  // [1932-WINTER] MOVIE: 海の桃太郎
+  // https://annict.com/works/12732
+  { annict_id: 12732, mal_id: 5661 },
 ]
