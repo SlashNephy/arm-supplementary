@@ -21005,7 +21005,7 @@ export const annict: ArmEntry[] = [
   // [2020-AUTUMN] TV: 『ヒプノシスマイク -Division Rap Battle-』Rhyme Anima
   // https://annict.com/works/7177
   { annict_id: 7177, mal_id: 40803, syobocal_tid: 5765 },
-  // [2012-WINTER] OTHER: お願い！アインツベルン相談室
+  // [2012-WINTER] OVA: お願い！アインツベルン相談室
   // https://annict.com/works/7178
   { annict_id: 7178, mal_id: 13263 },
   // [2021-WINTER] MOVIE: 劇場版 生徒会役員共2
@@ -23648,7 +23648,7 @@ export const annict: ArmEntry[] = [
   // [1960-SUMMER] MOVIE: 西遊記 (1960)
   // https://annict.com/works/8220
   { annict_id: 8220, mal_id: 4481 },
-  // [1959-null] MOVIE: 少年猿飛佐助
+  // [1959-AUTUMN] MOVIE: 少年猿飛佐助
   // https://annict.com/works/8221
   { annict_id: 8221, mal_id: 4948 },
   // [1965-WINTER] MOVIE: ガリバーの宇宙旅行
