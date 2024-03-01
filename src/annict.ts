@@ -36677,4 +36677,7 @@ export const annict: ArmEntry[] = [
   // [1933-null] MOVIE: 三公と蛸~百万両珍騒動~
   // https://annict.com/works/12736
   { annict_id: 12736, mal_id: 5874 },
+  // [1933-WINTER] MOVIE: 雲雀の宿替
+  // https://annict.com/works/12737
+  { annict_id: 12737, mal_id: 5870 },
 ]
