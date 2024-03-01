@@ -36692,4 +36692,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: とーがね！クロニクル
   // https://annict.com/works/12741
   { annict_id: 12741 },
+  // [2024-AUTUMN] WEB: Duel Masters LOST～追憶の水晶～
+  // https://annict.com/works/12742
+  { annict_id: 12742, mal_id: 58275 },
 ]
