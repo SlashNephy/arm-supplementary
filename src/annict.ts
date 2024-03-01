@@ -31723,7 +31723,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11079, mal_id: 56196 },
   // [2024-SPRING] TV: じいさんばあさん若返る
   // https://annict.com/works/11080
-  { annict_id: 11080, mal_id: 56230 },
+  { annict_id: 11080, mal_id: 56230, syobocal_tid: 6999 },
   // [2024-null] TV: 歴史に残る悪女になるぞ
   // https://annict.com/works/11081
   { annict_id: 11081, mal_id: 56228 },
@@ -36686,4 +36686,10 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] TV: 僕の妻は感情がない
   // https://annict.com/works/12739
   { annict_id: 12739, mal_id: 58272 },
+  // [2022-SPRING] TV: とーがね！おまつり部
+  // https://annict.com/works/12740
+  { annict_id: 12740 },
+  // [2024-SPRING] TV: とーがね！クロニクル
+  // https://annict.com/works/12741
+  { annict_id: 12741 },
 ]
