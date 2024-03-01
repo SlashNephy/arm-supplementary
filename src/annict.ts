@@ -31733,7 +31733,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] WEB: 『彼女、お借りします』×『てんぷる』コラボミニアニメ
   // https://annict.com/works/11083
   { annict_id: 11083, mal_id: 56172 },
-  // [null-null] TV: ダンジョンの中のひと
+  // [2024-SUMMER] TV: ダンジョンの中のひと
   // https://annict.com/works/11084
   { annict_id: 11084, mal_id: 56348 },
   // [2023-SUMMER] WEB: ChroNoiR Episode.0
@@ -33884,7 +33884,7 @@ export const annict: ArmEntry[] = [
   // [2024-null] TV: 異世界ゆるり紀行 ～子育てしながら冒険者します～
   // https://annict.com/works/11801
   { annict_id: 11801, mal_id: 57380 },
-  // [null-null] TV: 星降る王国のニナ
+  // [2024-AUTUMN] TV: 星降る王国のニナ
   // https://annict.com/works/11802
   { annict_id: 11802, mal_id: 57362 },
   // [1984-WINTER] MOVIE: 綿の国星
@@ -36683,4 +36683,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: ハニーレモンソーダ
   // https://annict.com/works/12738
   { annict_id: 12738, mal_id: 58271 },
+  // [2024-SUMMER] TV: 僕の妻は感情がない
+  // https://annict.com/works/12739
+  { annict_id: 12739, mal_id: 58272 },
 ]
