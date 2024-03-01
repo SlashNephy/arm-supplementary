@@ -14717,7 +14717,7 @@ export const annict: ArmEntry[] = [
   // [2016-AUTUMN] MOVIE: きんいろモザイク Pretty Days
   // https://annict.com/works/4932
   { annict_id: 4932, mal_id: 33034, syobocal_tid: 5589 },
-  // [2016-AUTUMN] MOVIE: ゼーガペイン ADP
+  // [2016-AUTUMN] MOVIE: ゼーガペインADP
   // https://annict.com/works/4933
   { annict_id: 4933, mal_id: 33048, syobocal_tid: 4356 },
   // [2016-AUTUMN] MOVIE: 艦隊これくしょん -艦これ- 劇場版
@@ -31796,7 +31796,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: まついぬ
   // https://annict.com/works/11104
   { annict_id: 11104, mal_id: 56487, syobocal_tid: 6823 },
-  // [null-null] OTHER: ゼーガペイン オルタモーダ編
+  // [2024-SUMMER] MOVIE: ゼーガペインSTA
   // https://annict.com/works/11105
   { annict_id: 11105, mal_id: 56488 },
   // [2024-null] WEB: 君に届け 3RD SEASON
