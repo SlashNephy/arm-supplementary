@@ -36674,4 +36674,7 @@ export const annict: ArmEntry[] = [
   // [1932-null] MOVIE: 動物村のスポーツデー
   // https://annict.com/works/12735
   { annict_id: 12735, mal_id: 5872 },
+  // [1933-null] MOVIE: 三公と蛸~百万両珍騒動~
+  // https://annict.com/works/12736
+  { annict_id: 12736, mal_id: 5874 },
 ]
