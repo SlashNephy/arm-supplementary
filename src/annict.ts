@@ -36656,4 +36656,10 @@ export const annict: ArmEntry[] = [
   // [1931-AUTUMN] MOVIE: 空の桃太郎
   // https://annict.com/works/12729
   { annict_id: 12729, mal_id: 4390 },
+  // [1931-null] MOVIE: 蝶のさいなん
+  // https://annict.com/works/12730
+  { annict_id: 12730, mal_id: 5869 },
+  // [1931-null] MOVIE: 鼠の留守番
+  // https://annict.com/works/12731
+  { annict_id: 12731, mal_id: 5811 },
 ]
