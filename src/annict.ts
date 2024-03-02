@@ -36695,4 +36695,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: Duel Masters LOST～追憶の水晶～
   // https://annict.com/works/12742
   { annict_id: 12742, mal_id: 58275 },
+  // [1933-null] MOVIE: 證城寺の狸囃子
+  // https://annict.com/works/12743
+  { annict_id: 12743, mal_id: 7071 },
 ]
