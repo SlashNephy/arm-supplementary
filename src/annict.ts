@@ -36698,4 +36698,10 @@ export const annict: ArmEntry[] = [
   // [1933-null] MOVIE: 證城寺の狸囃子
   // https://annict.com/works/12743
   { annict_id: 12743, mal_id: 7071 },
+  // [1934-null] MOVIE: 凸坊の自動車旅行 月世界の巻
+  // https://annict.com/works/12744
+  { annict_id: 12744, mal_id: 6838 },
+  // [1934-WINTER] MOVIE: お猿の三吉 突撃隊
+  // https://annict.com/works/12745
+  { annict_id: 12745, mal_id: 4397 },
 ]
