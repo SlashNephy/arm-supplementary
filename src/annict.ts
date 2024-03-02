@@ -36704,4 +36704,7 @@ export const annict: ArmEntry[] = [
   // [1934-WINTER] MOVIE: お猿の三吉 突撃隊
   // https://annict.com/works/12745
   { annict_id: 12745, mal_id: 4397 },
+  // [1942-null] MOVIE: お猿の三吉 防空戦
+  // https://annict.com/works/12746
+  { annict_id: 12746, mal_id: 6844 },
 ]
