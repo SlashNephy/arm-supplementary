@@ -36710,4 +36710,13 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: アイドルマスター シャイニーカラーズ 2nd season
   // https://annict.com/works/12747
   { annict_id: 12747 },
+  // [2024-SUMMER] MOVIE: アイドルマスター シャイニーカラーズ 2nd season 劇場先行上映 第1章
+  // https://annict.com/works/12748
+  { annict_id: 12748 },
+  // [2024-SUMMER] MOVIE: アイドルマスター シャイニーカラーズ 2nd season 劇場先行上映 第2章
+  // https://annict.com/works/12749
+  { annict_id: 12749 },
+  // [2024-SUMMER] MOVIE: アイドルマスター シャイニーカラーズ 2nd season 劇場先行上映 第3章
+  // https://annict.com/works/12750
+  { annict_id: 12750 },
 ]
