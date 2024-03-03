@@ -33065,7 +33065,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 無職の英雄 別にスキルなんか要らなかったんだが
   // https://annict.com/works/11528
   { annict_id: 11528, mal_id: 56854 },
-  // [2024-null] WEB: ULTRAMAN: RISING
+  // [2024-SPRING] WEB: ULTRAMAN: RISING
   // https://annict.com/works/11529
   { annict_id: 11529 },
   // [2023-AUTUMN] WEB: ぼくのデーモン
