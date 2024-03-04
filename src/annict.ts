@@ -19831,7 +19831,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6687, mal_id: 39893, syobocal_tid: 6127 },
   // [2024-SPRING] TV: 響け！ユーフォニアム3
   // https://annict.com/works/6688
-  { annict_id: 6688, mal_id: 39894 },
+  { annict_id: 6688, mal_id: 39894, syobocal_tid: 6979 },
   // [2019-SPRING] WEB: ベイブレードバースト ガチ
   // https://annict.com/works/6689
   { annict_id: 6689, mal_id: 39282 },
@@ -28999,7 +28999,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10168, mal_id: 7060 },
   // [2024-SPRING] TV: 終末トレインどこへいく？
   // https://annict.com/works/10169
-  { annict_id: 10169, mal_id: 53356 },
+  { annict_id: 10169, mal_id: 53356, syobocal_tid: 7005 },
   // [2016-AUTUMN] WEB: イナズマイレブン アウターコード
   // https://annict.com/works/10170
   { annict_id: 10170, mal_id: 34178 },
@@ -29020,7 +29020,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10175 },
   // [2024-SPRING] TV: 転生したらスライムだった件 第3期
   // https://annict.com/works/10176
-  { annict_id: 10176, mal_id: 53580 },
+  { annict_id: 10176, mal_id: 53580, syobocal_tid: 7000 },
   // [2023-SPRING] TV: THE MARGINAL SERVICE
   // https://annict.com/works/10177
   { annict_id: 10177, mal_id: 53587, syobocal_tid: 6693 },
@@ -29206,7 +29206,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10237, mal_id: 53833, syobocal_tid: 6853 },
   // [2024-SPRING] TV: Unnamed Memory
   // https://annict.com/works/10238
-  { annict_id: 10238, mal_id: 53835 },
+  { annict_id: 10238, mal_id: 53835, syobocal_tid: 7009 },
   // [2017-SUMMER] WEB: ソニックトゥーン
   // https://annict.com/works/10239
   { annict_id: 10239 },
