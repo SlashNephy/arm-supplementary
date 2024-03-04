@@ -23431,7 +23431,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 8147, mal_id: 48417, syobocal_tid: 6567 },
   // [2024-SPRING] TV: 魔王学院の不適合者Ⅱ ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～ 2ndクール
   // https://annict.com/works/8148
-  { annict_id: 8148, mal_id: 48418 },
+  { annict_id: 8148, mal_id: 48418, syobocal_tid: 7003 },
   // [2022-WINTER] TV: 錆喰いビスコ
   // https://annict.com/works/8149
   { annict_id: 8149, mal_id: 48414, syobocal_tid: 6219 },
@@ -26455,7 +26455,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9285, mal_id: 50864, syobocal_tid: 6562 },
   // [2024-SPRING] TV: 神は遊戯に飢えている。
   // https://annict.com/works/9286
-  { annict_id: 9286, mal_id: 50869 },
+  { annict_id: 9286, mal_id: 50869, syobocal_tid: 7006 },
   // [2024-WINTER] MOVIE: BLOODY ESCAPE -地獄の逃走劇-
   // https://annict.com/works/9287
   { annict_id: 9287, mal_id: 50863 },
@@ -29269,7 +29269,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10258, mal_id: 53913 },
   // [2024-SPRING] TV: 夜桜さんちの大作戦
   // https://annict.com/works/10259
-  { annict_id: 10259, mal_id: 53865 },
+  { annict_id: 10259, mal_id: 53865, syobocal_tid: 7004 },
   // [2023-AUTUMN] TV: 鴨乃橋ロンの禁断推理
   // https://annict.com/works/10260
   { annict_id: 10260, mal_id: 53879, syobocal_tid: 6840 },
@@ -29668,7 +29668,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10392, mal_id: 54216, syobocal_tid: 6652 },
   // [2024-SPRING] TV: 怪異と乙女と神隠し
   // https://annict.com/works/10393
-  { annict_id: 10393, mal_id: 54199 },
+  { annict_id: 10393, mal_id: 54199, syobocal_tid: 7010 },
   // [2006-AUTUMN] TV: ウサハナ 夢見るバレリーナ
   // https://annict.com/works/10394
   { annict_id: 10394, mal_id: 6522 },
