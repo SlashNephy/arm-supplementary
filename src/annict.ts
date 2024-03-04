@@ -30451,7 +30451,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10655, mal_id: 1162 },
   // [2024-SPRING] TV: WIND BREAKER
   // https://annict.com/works/10656
-  { annict_id: 10656, mal_id: 54900 },
+  { annict_id: 10656, mal_id: 54900, syobocal_tid: 6990 },
   // [2022-AUTUMN] TV: キャッチ！ティニピン
   // https://annict.com/works/10657
   { annict_id: 10657, mal_id: 48343, syobocal_tid: 6699 },
@@ -30856,7 +30856,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10790, mal_id: 52079, syobocal_tid: 6759 },
   // [2024-SPRING] TV: 転生貴族、鑑定スキルで成り上がる
   // https://annict.com/works/10791
-  { annict_id: 10791, mal_id: 55265 },
+  { annict_id: 10791, mal_id: 55265, syobocal_tid: 6983 },
   // [2023-AUTUMN] WEB: ガンダムビルドメタバース
   // https://annict.com/works/10792
   { annict_id: 10792, mal_id: 54902 },
@@ -31273,7 +31273,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10929, mal_id: 55710 },
   // [2024-SPRING] TV: 出来損ないと呼ばれた元英雄は、実家から追放されたので好き勝手に生きることにした
   // https://annict.com/works/10930
-  { annict_id: 10930, mal_id: 55717 },
+  { annict_id: 10930, mal_id: 55717, syobocal_tid: 7008 },
   // [2024-null] OTHER: 未ル
   // https://annict.com/works/10931
   { annict_id: 10931, mal_id: 55727 },
@@ -31474,7 +31474,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10996, syobocal_tid: 6727 },
   // [2024-SPRING] TV: 変人のサラダボウル
   // https://annict.com/works/10997
-  { annict_id: 10997, mal_id: 55877 },
+  { annict_id: 10997, mal_id: 55877, syobocal_tid: 7007 },
   // [2023-AUTUMN] MOVIE: 映画 すみっコぐらし ツギハギ工場のふしぎなコ
   // https://annict.com/works/10998
   { annict_id: 10998, mal_id: 53936 },
