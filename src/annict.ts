@@ -20746,7 +20746,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 7058, mal_id: 35416 },
   // [2019-AUTUMN] MOVIE: 幸福路のチー
   // https://annict.com/works/7059
-  { annict_id: 7059 },
+  { annict_id: 7059, mal_id: 51992 },
   // [2019-SUMMER] WEB: アンダン ～時を超える者～
   // https://annict.com/works/7060
   { annict_id: 7060 },
@@ -23804,7 +23804,7 @@ export const annict: ArmEntry[] = [
   // [null-null] WEB: ブラック・イズ・ベルツァ
   // https://annict.com/works/8272
   { annict_id: 8272 },
-  // [2020-null] WEB: ミッドナイト・ゴスペル
+  // [2020-SPRING] WEB: ミッドナイト・ゴスペル
   // https://annict.com/works/8273
   { annict_id: 8273 },
   // [2021-WINTER] WEB: キッド・コズミック
