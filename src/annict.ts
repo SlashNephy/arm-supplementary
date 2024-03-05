@@ -36719,4 +36719,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] MOVIE: アイドルマスター シャイニーカラーズ 2nd season 劇場先行上映 第3章
   // https://annict.com/works/12750
   { annict_id: 12750 },
+  // [1929-WINTER] MOVIE: バーン・ダンス
+  // https://annict.com/works/12751
+  { annict_id: 12751 },
 ]
