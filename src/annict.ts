@@ -36674,7 +36674,7 @@ export const annict: ArmEntry[] = [
   // [1932-null] MOVIE: 動物村のスポーツデー
   // https://annict.com/works/12735
   { annict_id: 12735, mal_id: 5872 },
-  // [1933-null] MOVIE: 三公と蛸~百万両珍騒動~
+  // [1933-null] MOVIE: 三公と蛸～百万両珍騒動～
   // https://annict.com/works/12736
   { annict_id: 12736, mal_id: 5874 },
   // [1933-WINTER] MOVIE: 雲雀の宿替
@@ -36728,4 +36728,13 @@ export const annict: ArmEntry[] = [
   // [2008-WINTER] TV: 豆しば
   // https://annict.com/works/12753
   { annict_id: 12753 },
+  // [1935-SPRING] MOVIE: 一寸法師～ちび助物語～
+  // https://annict.com/works/12754
+  { annict_id: 12754, mal_id: 6836 },
+  // [1935-WINTER] MOVIE: ターチャンの海底旅行
+  // https://annict.com/works/12755
+  { annict_id: 12755, mal_id: 6834 },
+  // [1935-AUTUMN] MOVIE: 忍術火の玉小僧～江戸の巻～
+  // https://annict.com/works/12756
+  { annict_id: 12756, mal_id: 6833 },
 ]
