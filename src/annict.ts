@@ -20972,7 +20972,7 @@ export const annict: ArmEntry[] = [
   // [2019-AUTUMN] WEB: 通霊姫
   // https://annict.com/works/7166
   { annict_id: 7166 },
-  // [2015-AUTUMN] OTHER: Fate/stay night [Unlimited Blade Works] [sunny day]
+  // [2015-AUTUMN] OVA: Fate/stay night [Unlimited Blade Works] [sunny day]
   // https://annict.com/works/7167
   { annict_id: 7167, mal_id: 31389 },
   // [1990-AUTUMN] TV: 八百八町表裏 化粧師
