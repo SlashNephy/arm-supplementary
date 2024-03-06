@@ -36725,4 +36725,7 @@ export const annict: ArmEntry[] = [
   // [1934-SPRING] MOVIE: 天狗退治
   // https://annict.com/works/12752
   { annict_id: 12752, mal_id: 6837 },
+  // [2008-WINTER] TV: 豆しば
+  // https://annict.com/works/12753
+  { annict_id: 12753 },
 ]
