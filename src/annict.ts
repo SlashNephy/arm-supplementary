@@ -29506,7 +29506,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10338, mal_id: 53888 },
   // [2024-SPRING] TV: 声優ラジオのウラオモテ
   // https://annict.com/works/10339
-  { annict_id: 10339, mal_id: 53912 },
+  { annict_id: 10339, mal_id: 53912, syobocal_tid: 7011 },
   // [null-null] TV: 地縛少年花子くん 第2期
   // https://annict.com/works/10340
   { annict_id: 10340, mal_id: 53924 },
@@ -32668,7 +32668,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11394 },
   // [2024-SPRING] TV: 烏は主を選ばない
   // https://annict.com/works/11395
-  { annict_id: 11395, mal_id: 56980 },
+  { annict_id: 11395, mal_id: 56980, syobocal_tid: 7013 },
   // [2008-WINTER] TV: attacked kuma3
   // https://annict.com/works/11396
   { annict_id: 11396 },
@@ -36737,4 +36737,13 @@ export const annict: ArmEntry[] = [
   // [1935-AUTUMN] MOVIE: 忍術火の玉小僧～江戸の巻～
   // https://annict.com/works/12756
   { annict_id: 12756, mal_id: 6833 },
+  // [1935-null] MOVIE: 證城寺の狸囃子 塙團右衛門
+  // https://annict.com/works/12757
+  { annict_id: 12757, mal_id: 6832 },
+  // [1935-null] MOVIE: 日の丸旗之助～化物屋敷の巻～
+  // https://annict.com/works/12758
+  { annict_id: 12758, mal_id: 6831 },
+  // [1935-null] MOVIE: 日の丸旗之助～稲妻組討伐の巻～
+  // https://annict.com/works/12759
+  { annict_id: 12759, mal_id: 6830 },
 ]
