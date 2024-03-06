@@ -36722,4 +36722,7 @@ export const annict: ArmEntry[] = [
   // [1929-WINTER] MOVIE: バーン・ダンス
   // https://annict.com/works/12751
   { annict_id: 12751 },
+  // [1934-SPRING] MOVIE: 天狗退治
+  // https://annict.com/works/12752
+  { annict_id: 12752, mal_id: 6837 },
 ]
