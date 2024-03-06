@@ -31382,7 +31382,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] TV: 和田淳監督特集
   // https://annict.com/works/10966
   { annict_id: 10966 },
-  // [2024-null] MOVIE: i☆Ris the Movie -Full Energy!!-
+  // [2024-SPRING] MOVIE: i☆Ris the Movie -Full Energy!!-
   // https://annict.com/works/10967
   { annict_id: 10967, mal_id: 53534 },
   // [2023-SUMMER] TV: シルバニアファミリー フレアのゴー・フォー・ドリーム！
