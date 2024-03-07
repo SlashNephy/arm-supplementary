@@ -36752,4 +36752,7 @@ export const annict: ArmEntry[] = [
   // [1936-null] MOVIE: お猿の艦隊
   // https://annict.com/works/12761
   { annict_id: 12761, mal_id: 4396 },
+  // [1936-null] MOVIE: お日様と蛙
+  // https://annict.com/works/12762
+  { annict_id: 12762, mal_id: 6828 },
 ]
