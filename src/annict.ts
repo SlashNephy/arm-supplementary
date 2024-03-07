@@ -36746,4 +36746,10 @@ export const annict: ArmEntry[] = [
   // [1935-null] MOVIE: 日の丸旗之助～稲妻組討伐の巻～
   // https://annict.com/works/12759
   { annict_id: 12759, mal_id: 6830 },
+  // [1936-SPRING] MOVIE: 居酒屋の一夜
+  // https://annict.com/works/12760
+  { annict_id: 12760, mal_id: 6829 },
+  // [1936-null] MOVIE: お猿の艦隊
+  // https://annict.com/works/12761
+  { annict_id: 12761, mal_id: 4396 },
 ]
