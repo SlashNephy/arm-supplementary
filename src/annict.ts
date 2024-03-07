@@ -31637,7 +31637,7 @@ export const annict: ArmEntry[] = [
   // [1933-SPRING] MOVIE: のらくろ二等兵 演習の巻
   // https://annict.com/works/11051
   { annict_id: 11051, mal_id: 4395 },
-  // [1934-WINTER] MOVIE: のらくろ伍長 軍旗祭の巻
+  // [1934-WINTER] MOVIE: のらくろ伍長
   // https://annict.com/works/11052
   { annict_id: 11052, mal_id: 4394 },
   // [1935-null] MOVIE: のらくろ一等兵
