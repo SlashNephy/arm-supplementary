@@ -36761,4 +36761,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] WEB: うじには物語がある
   // https://annict.com/works/12764
   { annict_id: 12764 },
+  // [2024-AUTUMN] MOVIE: ロボット・ドリームズ
+  // https://annict.com/works/12765
+  { annict_id: 12765 },
 ]
