@@ -14573,7 +14573,7 @@ export const annict: ArmEntry[] = [
   // [2016-AUTUMN] TV: 学園ハンサム
   // https://annict.com/works/4882
   { annict_id: 4882, mal_id: 33392, syobocal_tid: 4341 },
-  // [2016-AUTUMN] TV: 機動戦士ガンダム 鉄血のオルフェンズ (第2期)
+  // [2016-AUTUMN] TV: 機動戦士ガンダム 鉄血のオルフェンズ 第2期
   // https://annict.com/works/4883
   { annict_id: 4883, mal_id: 33051, syobocal_tid: 4311 },
   // [2016-AUTUMN] TV: 12歳。～ちっちゃなムネのトキメキ～ セカンドシーズン
