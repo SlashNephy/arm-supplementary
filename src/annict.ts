@@ -36758,4 +36758,7 @@ export const annict: ArmEntry[] = [
   // [1928-SUMMER] MOVIE: ギャロッピン・ガウチョ
   // https://annict.com/works/12763
   { annict_id: 12763 },
+  // [2024-WINTER] WEB: うじには物語がある
+  // https://annict.com/works/12764
+  { annict_id: 12764 },
 ]
