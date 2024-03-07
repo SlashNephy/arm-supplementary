@@ -36755,4 +36755,7 @@ export const annict: ArmEntry[] = [
   // [1936-null] MOVIE: お日様と蛙
   // https://annict.com/works/12762
   { annict_id: 12762, mal_id: 6828 },
+  // [1928-SUMMER] MOVIE: ギャロッピン・ガウチョ
+  // https://annict.com/works/12763
+  { annict_id: 12763 },
 ]
