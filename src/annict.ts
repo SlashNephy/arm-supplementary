@@ -36779,4 +36779,7 @@ export const annict: ArmEntry[] = [
   // [1936-null] MOVIE: マー坊の大競争
   // https://annict.com/works/12770
   { annict_id: 12770, mal_id: 6840 },
+  // [1928-SPRING] MOVIE: プレーン・クレイジー
+  // https://annict.com/works/12771
+  { annict_id: 12771 },
 ]
