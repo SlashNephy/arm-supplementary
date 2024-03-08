@@ -30115,7 +30115,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10542, mal_id: 54595, syobocal_tid: 6833 },
   // [2024-SPRING] TV: HIGHSPEED Étoile
   // https://annict.com/works/10543
-  { annict_id: 10543, mal_id: 52405 },
+  { annict_id: 10543, mal_id: 52405, syobocal_tid: 7019 },
   // [2024-WINTER] TV: 休日のわるものさん
   // https://annict.com/works/10544
   { annict_id: 10544, mal_id: 54617, syobocal_tid: 6939 },
