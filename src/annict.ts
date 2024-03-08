@@ -36770,4 +36770,10 @@ export const annict: ArmEntry[] = [
   // [1936-null] MOVIE: 雀のお宿
   // https://annict.com/works/12767
   { annict_id: 12767, mal_id: 6827 },
+  // [1936-null] MOVIE: 古寺のおばけ騒動
+  // https://annict.com/works/12768
+  { annict_id: 12768, mal_id: 5838 },
+  // [1936-null] MOVIE: 日の丸太郎 武者修行の巻
+  // https://annict.com/works/12769
+  { annict_id: 12769, mal_id: 6839 },
 ]
