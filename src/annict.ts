@@ -36776,7 +36776,7 @@ export const annict: ArmEntry[] = [
   // [1936-null] MOVIE: 日の丸太郎 武者修行の巻
   // https://annict.com/works/12769
   { annict_id: 12769, mal_id: 6839 },
-  // [1936-null] MOVIE: マー坊の大競走
+  // [1936-null] MOVIE: マー坊の大競争
   // https://annict.com/works/12770
   { annict_id: 12770, mal_id: 6840 },
 ]
