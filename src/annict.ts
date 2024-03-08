@@ -36767,4 +36767,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: ちびゴジラの逆襲 続編
   // https://annict.com/works/12766
   { annict_id: 12766 },
+  // [1936-null] MOVIE: 雀のお宿
+  // https://annict.com/works/12767
+  { annict_id: 12767, mal_id: 6827 },
 ]
