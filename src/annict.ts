@@ -36764,4 +36764,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] MOVIE: ロボット・ドリームズ
   // https://annict.com/works/12765
   { annict_id: 12765 },
+  // [2024-SPRING] TV: ちびゴジラの逆襲 続編
+  // https://annict.com/works/12766
+  { annict_id: 12766 },
 ]
