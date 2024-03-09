@@ -36788,4 +36788,7 @@ export const annict: ArmEntry[] = [
   // [2006-SUMMER] MOVIE: おさるのジョージ (映画)
   // https://annict.com/works/12773
   { annict_id: 12773 },
+  // [1990-SUMMER] OVA: 魔動王グランゾート ノン・ストップ・ラビ
+  // https://annict.com/works/12774
+  { annict_id: 12774, mal_id: 30873 },
 ]
