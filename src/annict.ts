@@ -36785,4 +36785,7 @@ export const annict: ArmEntry[] = [
   // [2007-SUMMER] TV: おさるのジョージ
   // https://annict.com/works/12772
   { annict_id: 12772 },
+  // [2006-SUMMER] MOVIE: おさるのジョージ (映画)
+  // https://annict.com/works/12773
+  { annict_id: 12773 },
 ]
