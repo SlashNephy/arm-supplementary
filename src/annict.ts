@@ -36782,4 +36782,7 @@ export const annict: ArmEntry[] = [
   // [1928-SPRING] MOVIE: プレーン・クレイジー
   // https://annict.com/works/12771
   { annict_id: 12771 },
+  // [2007-SUMMER] TV: おさるのジョージ
+  // https://annict.com/works/12772
+  { annict_id: 12772 },
 ]
