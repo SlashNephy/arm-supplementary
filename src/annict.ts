@@ -26372,7 +26372,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: MFゴースト
   // https://annict.com/works/9258
   { annict_id: 9258, mal_id: 50695, syobocal_tid: 6809 },
-  // [null-null] TV: スライム倒して300年、知らないうちにレベルMAXになってました 第2期
+  // [2025-null] TV: スライム倒して300年、知らないうちにレベルMAXになってました 〜そのに〜
   // https://annict.com/works/9259
   { annict_id: 9259, mal_id: 50738 },
   // [2023-WINTER] TV: お隣の天使様にいつの間にか駄目人間にされていた件
@@ -36797,4 +36797,7 @@ export const annict: ArmEntry[] = [
   // [2024-null] TV: 天穂のサクナヒメ
   // https://annict.com/works/12776
   { annict_id: 12776 },
+  // [1929-SUMMER] MOVIE: 骸骨の踊り
+  // https://annict.com/works/12777
+  { annict_id: 12777 },
 ]
