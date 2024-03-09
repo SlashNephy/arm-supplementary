@@ -32993,7 +32993,7 @@ export const annict: ArmEntry[] = [
   // [2009-AUTUMN] TV: 忍者玉丸 東海道五十三次
   // https://annict.com/works/11503
   { annict_id: 11503, mal_id: 35108 },
-  // [null-null] TV: ダンジョンに出会いを求めるのは間違っているだろうかⅤ
+  // [2024-AUTUMN] TV: ダンジョンに出会いを求めるのは間違っているだろうかⅤ
   // https://annict.com/works/11504
   { annict_id: 11504, mal_id: 57066 },
   // [2015-SUMMER] OTHER: ゼーガペイン PROJECT RESURRECTION 8.3.1.2015
@@ -36766,7 +36766,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12765 },
   // [2024-SPRING] TV: ちびゴジラの逆襲 続編
   // https://annict.com/works/12766
-  { annict_id: 12766 },
+  { annict_id: 12766, mal_id: 58351 },
   // [1936-null] MOVIE: 雀のお宿
   // https://annict.com/works/12767
   { annict_id: 12767, mal_id: 6827 },
@@ -36796,7 +36796,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12775 },
   // [2024-null] TV: 天穂のサクナヒメ
   // https://annict.com/works/12776
-  { annict_id: 12776 },
+  { annict_id: 12776, mal_id: 58357 },
   // [1929-SUMMER] MOVIE: 骸骨の踊り
   // https://annict.com/works/12777
   { annict_id: 12777 },
