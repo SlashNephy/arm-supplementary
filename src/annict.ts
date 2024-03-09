@@ -36791,4 +36791,7 @@ export const annict: ArmEntry[] = [
   // [1990-SUMMER] OVA: 魔動王グランゾート ノン・ストップ・ラビ
   // https://annict.com/works/12774
   { annict_id: 12774, mal_id: 30873 },
+  // [1991-WINTER] OVA: 魔動王グランゾート 魔動コレクション
+  // https://annict.com/works/12775
+  { annict_id: 12775 },
 ]
