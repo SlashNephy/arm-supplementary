@@ -36800,4 +36800,13 @@ export const annict: ArmEntry[] = [
   // [1929-SUMMER] MOVIE: 骸骨の踊り
   // https://annict.com/works/12777
   { annict_id: 12777 },
+  // [1929-SPRING] MOVIE: ネコの居ぬ間のタップダンス
+  // https://annict.com/works/12778
+  { annict_id: 12778 },
+  // [1929-WINTER] MOVIE: ミッキーのオペラ見学
+  // https://annict.com/works/12779
+  { annict_id: 12779 },
+  // [null-null] TV: 一瞬で治療していたのに役立たずと追放された天才治癒師、闇ヒーラーとして楽しく生きる
+  // https://annict.com/works/12780
+  { annict_id: 12780 },
 ]
