@@ -36821,4 +36821,7 @@ export const annict: ArmEntry[] = [
   // [1935-null] MOVIE: 海底の暴君
   // https://annict.com/works/12784
   { annict_id: 12784, mal_id: 6851 },
+  // [1939-null] MOVIE: 泳げや泳げ
+  // https://annict.com/works/12785
+  { annict_id: 12785, mal_id: 6842 },
 ]
