@@ -36812,4 +36812,13 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: 鬼滅の刃 刀鍛冶の里編 特別編集版
   // https://annict.com/works/12781
   { annict_id: 12781 },
+  // [1938-AUTUMN] MOVIE: マー坊の木下藤吉郎
+  // https://annict.com/works/12782
+  { annict_id: 12782, mal_id: 6841 },
+  // [1934-null] MOVIE: 冒険ダン吉 漂流の巻
+  // https://annict.com/works/12783
+  { annict_id: 12783, mal_id: 6849 },
+  // [1935-null] MOVIE: 海底の暴君
+  // https://annict.com/works/12784
+  { annict_id: 12784, mal_id: 6851 },
 ]
