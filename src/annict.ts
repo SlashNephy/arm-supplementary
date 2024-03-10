@@ -31228,7 +31228,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10914, mal_id: 14835 },
   // [2024-SPRING] TV: 花野井くんと恋の病
   // https://annict.com/works/10915
-  { annict_id: 10915, mal_id: 55597 },
+  { annict_id: 10915, mal_id: 55597, syobocal_tid: 7018 },
   // [2023-SUMMER] TV: 女体化した僕を騎士様達がねらってます 2nd
   // https://annict.com/works/10916
   { annict_id: 10916, syobocal_tid: 6769 },
@@ -32110,7 +32110,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11208, mal_id: 38990, syobocal_tid: 6876 },
   // [2024-SPRING] TV: ただいま、おかえり
   // https://annict.com/works/11209
-  { annict_id: 11209, mal_id: 56768 },
+  { annict_id: 11209, mal_id: 56768, syobocal_tid: 7022 },
   // [2023-SUMMER] WEB: シャンフロ ミニ
   // https://annict.com/works/11210
   { annict_id: 11210, mal_id: 56791 },
@@ -32425,7 +32425,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11313 },
   // [2024-SPRING] TV: Lv2からチートだった元勇者候補のまったり異世界ライフ
   // https://annict.com/works/11314
-  { annict_id: 11314, mal_id: 56923 },
+  { annict_id: 11314, mal_id: 56923, syobocal_tid: 7002 },
   // [2024-SUMMER] MOVIE: めくらやなぎと眠る女
   // https://annict.com/works/11315
   { annict_id: 11315 },
@@ -32845,7 +32845,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11453, mal_id: 57077 },
   // [2024-SPRING] TV: ヴァンパイア男子寮
   // https://annict.com/works/11454
-  { annict_id: 11454, mal_id: 57031 },
+  { annict_id: 11454, mal_id: 57031, syobocal_tid: 7021 },
   // [2023-SPRING] TV: 烈火澆愁（字幕版）
   // https://annict.com/works/11455
   { annict_id: 11455, mal_id: 44064 },
@@ -33058,7 +33058,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11525, mal_id: 57099 },
   // [2024-SPRING] TV: THE NEW GATE
   // https://annict.com/works/11526
-  { annict_id: 11526, mal_id: 57100 },
+  { annict_id: 11526, mal_id: 57100, syobocal_tid: 7023 },
   // [2024-AUTUMN] TV: 放課後少年花子くん 続編
   // https://annict.com/works/11527
   { annict_id: 11527, mal_id: 57102 },
@@ -35170,7 +35170,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12231, mal_id: 57635 },
   // [2024-SPRING] TV: シンカリオン チェンジ ザ ワールド
   // https://annict.com/works/12232
-  { annict_id: 12232, mal_id: 57798 },
+  { annict_id: 12232, mal_id: 57798, syobocal_tid: 7015 },
   // [1957-SPRING] MOVIE: こねこのらくがき
   // https://annict.com/works/12233
   { annict_id: 12233, mal_id: 6993 },
