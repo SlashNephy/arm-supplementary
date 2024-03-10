@@ -36824,4 +36824,7 @@ export const annict: ArmEntry[] = [
   // [1939-null] MOVIE: 泳げや泳げ
   // https://annict.com/works/12785
   { annict_id: 12785, mal_id: 6842 },
+  // [1960-null] MOVIE: 猿の牙
+  // https://annict.com/works/12786
+  { annict_id: 12786 },
 ]
