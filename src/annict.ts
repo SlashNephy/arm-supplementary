@@ -26686,7 +26686,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9394, mal_id: 50916 },
   // [2024-SPRING] TV: 狼と香辛料 merchant meets the wise wolf
   // https://annict.com/works/9395
-  { annict_id: 9395, mal_id: 51122 },
+  { annict_id: 9395, mal_id: 51122, syobocal_tid: 7033 },
   // [null-null] TV: グリザイア：ファントムトリガー THE ANIMATION (TVシリーズ)
   // https://annict.com/works/9396
   { annict_id: 9396, mal_id: 51119 },
@@ -29785,7 +29785,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10431, mal_id: 54301, syobocal_tid: 6807 },
   // [2024-SPRING] TV: ブルーアーカイブ The Animation
   // https://annict.com/works/10432
-  { annict_id: 10432, mal_id: 54309 },
+  { annict_id: 10432, mal_id: 54309, syobocal_tid: 7032 },
   // [2022-WINTER] WEB: アイドルマスター ミリオンライブ！アニメプロローグイメージMV「セブンカウント」
   // https://annict.com/works/10433
   { annict_id: 10433, mal_id: 51842 },
@@ -36851,4 +36851,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] TV: 下の階には澪がいる
   // https://annict.com/works/12794
   { annict_id: 12794, mal_id: 54846 },
+  // [2024-SPRING] TV: 時光代理人 -LINK CLICK- 第1期総集編特番
+  // https://annict.com/works/12795
+  { annict_id: 12795 },
 ]
