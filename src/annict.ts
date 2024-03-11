@@ -36830,4 +36830,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: よふかしのうた 第2期
   // https://annict.com/works/12787
   { annict_id: 12787 },
+  // [2024-AUTUMN] TV: ねこに転生したおじさん
+  // https://annict.com/works/12788
+  { annict_id: 12788 },
 ]
