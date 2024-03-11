@@ -36833,4 +36833,16 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: ねこに転生したおじさん
   // https://annict.com/works/12788
   { annict_id: 12788 },
+  // [2024-WINTER] MOVIE: POP POP CITY
+  // https://annict.com/works/12789
+  { annict_id: 12789 },
+  // [2024-WINTER] MOVIE: BRIDGE -My Little Friends-
+  // https://annict.com/works/12790
+  { annict_id: 12790 },
+  // [2024-WINTER] MOVIE: KICKS AND PUNK
+  // https://annict.com/works/12791
+  { annict_id: 12791 },
+  // [2024-WINTER] MOVIE: エフェメール
+  // https://annict.com/works/12792
+  { annict_id: 12792 },
 ]
