@@ -36827,4 +36827,7 @@ export const annict: ArmEntry[] = [
   // [1960-null] MOVIE: 猿の牙
   // https://annict.com/works/12786
   { annict_id: 12786 },
+  // [null-null] TV: よふかしのうた 第2期
+  // https://annict.com/works/12787
+  { annict_id: 12787 },
 ]
