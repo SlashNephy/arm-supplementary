@@ -30356,7 +30356,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] TV: ホリミヤ -piece-
   // https://annict.com/works/10623
   { annict_id: 10623, mal_id: 54856, syobocal_tid: 6749 },
-  // [2024-null] TV: 先輩はおとこのこ
+  // [2024-SUMMER] TV: 先輩はおとこのこ
   // https://annict.com/works/10624
   { annict_id: 10624, mal_id: 54855 },
   // [2023-SPRING] WEB: ヤキトリ
@@ -34850,7 +34850,7 @@ export const annict: ArmEntry[] = [
   // [2024-null] TV: MFゴースト 2nd Season
   // https://annict.com/works/12124
   { annict_id: 12124, mal_id: 57559 },
-  // [2024-null] TV: るろうに剣心 -明治剣客浪漫譚- 京都動乱
+  // [2024-AUTUMN] TV: るろうに剣心 -明治剣客浪漫譚- 京都動乱
   // https://annict.com/works/12125
   { annict_id: 12125, mal_id: 57554 },
   // [2009-WINTER] OVA: ABUNAI SISTERS -KOKO & MIKA-
@@ -36680,7 +36680,7 @@ export const annict: ArmEntry[] = [
   // [1933-WINTER] MOVIE: 雲雀の宿替
   // https://annict.com/works/12737
   { annict_id: 12737, mal_id: 5870 },
-  // [null-null] TV: ハニーレモンソーダ
+  // [2025-WINTER] TV: ハニーレモンソーダ
   // https://annict.com/works/12738
   { annict_id: 12738, mal_id: 58271 },
   // [2024-SUMMER] TV: 僕の妻は感情がない
@@ -36829,7 +36829,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12786 },
   // [null-null] TV: よふかしのうた 第2期
   // https://annict.com/works/12787
-  { annict_id: 12787 },
+  { annict_id: 12787, mal_id: 58390 },
   // [2024-AUTUMN] TV: ねこに転生したおじさん
   // https://annict.com/works/12788
   { annict_id: 12788, mal_id: 58395 },
@@ -36845,4 +36845,10 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] MOVIE: エフェメール
   // https://annict.com/works/12792
   { annict_id: 12792 },
+  // [2024-AUTUMN] TV: カミエラビ 完結編
+  // https://annict.com/works/12793
+  { annict_id: 12793, mal_id: 56967 },
+  // [2024-SUMMER] TV: 下の階には澪がいる
+  // https://annict.com/works/12794
+  { annict_id: 12794, mal_id: 54846 },
 ]
