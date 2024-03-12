@@ -25430,7 +25430,7 @@ export const annict: ArmEntry[] = [
   // [2022-SUMMER] TV: シャドーハウス 2nd Season
   // https://annict.com/works/8880
   { annict_id: 8880, mal_id: 49782, syobocal_tid: 6379 },
-  // [null-null] TV: FAIRY TAIL 100 YEARS QUEST
+  // [2024-SUMMER] TV: FAIRY TAIL 100年クエスト
   // https://annict.com/works/8881
   { annict_id: 8881, mal_id: 49785 },
   // [2021-AUTUMN] TV: カードファイト!! ヴァンガード overDress Season2
@@ -31724,7 +31724,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: じいさんばあさん若返る
   // https://annict.com/works/11080
   { annict_id: 11080, mal_id: 56230, syobocal_tid: 6999 },
-  // [2024-null] TV: 歴史に残る悪女になるぞ
+  // [2024-AUTUMN] TV: 歴史に残る悪女になるぞ
   // https://annict.com/works/11081
   { annict_id: 11081, mal_id: 56228 },
   // [2024-WINTER] TV: 戦国妖狐
@@ -32230,7 +32230,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11248, mal_id: 656 },
   // [2024-SPRING] TV: ワンルーム、日当たり普通、天使つき。
   // https://annict.com/works/11249
-  { annict_id: 11249, mal_id: 56838 },
+  { annict_id: 11249, mal_id: 56838, syobocal_tid: 7039 },
   // [null-null] TV: 合コンに行ったら女がいなかった話
   // https://annict.com/works/11250
   { annict_id: 11250, mal_id: 56843 },
