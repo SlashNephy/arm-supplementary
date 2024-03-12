@@ -36854,4 +36854,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: 時光代理人 -LINK CLICK- 第1期総集編特番
   // https://annict.com/works/12795
   { annict_id: 12795 },
+  // [1929-SPRING] MOVIE: 裏庭の戦い
+  // https://annict.com/works/12796
+  { annict_id: 12796 },
 ]
