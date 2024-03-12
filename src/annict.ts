@@ -36857,4 +36857,10 @@ export const annict: ArmEntry[] = [
   // [1929-SPRING] MOVIE: 裏庭の戦い
   // https://annict.com/works/12796
   { annict_id: 12796 },
+  // [2019-WINTER] WEB: ちびっこバス タヨ
+  // https://annict.com/works/12797
+  { annict_id: 12797, mal_id: 38070 },
+  // [2024-WINTER] WEB: たまごっち ショートアニメ
+  // https://annict.com/works/12798
+  { annict_id: 12798 },
 ]
