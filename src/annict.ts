@@ -36866,4 +36866,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] TV: しかのこのこのここしたんたん
   // https://annict.com/works/12799
   { annict_id: 12799, mal_id: 58426 },
+  // [2024-SPRING] TV: 当て馬キャラのくせして、スパダリ王子に寵愛されています。
+  // https://annict.com/works/12800
+  { annict_id: 12800, mal_id: 57789 },
 ]
