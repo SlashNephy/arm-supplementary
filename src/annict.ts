@@ -36863,4 +36863,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] WEB: たまごっち ショートアニメ
   // https://annict.com/works/12798
   { annict_id: 12798 },
+  // [2024-SUMMER] TV: しかのこのこのここしたんたん
+  // https://annict.com/works/12799
+  { annict_id: 12799, mal_id: 58426 },
 ]
