@@ -31571,7 +31571,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: ユア・フォルマ
   // https://annict.com/works/11029
   { annict_id: 11029, mal_id: 55995 },
-  // [null-null] OTHER: ギルドの受付嬢ですが、残業は嫌なのでボスをソロ討伐しようと思います
+  // [2024-null] TV: ギルドの受付嬢ですが、残業は嫌なのでボスをソロ討伐しようと思います
   // https://annict.com/works/11030
   { annict_id: 11030, mal_id: 55997 },
   // [2024-SUMMER] TV: 恋は双子で割り切れない
@@ -32713,7 +32713,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11409, mal_id: 8815 },
   // [2024-SPRING] TV: 魔王の俺が奴隷エルフを嫁にしたんだが、どう愛でればいい？
   // https://annict.com/works/11410
-  { annict_id: 11410, mal_id: 53434 },
+  { annict_id: 11410, mal_id: 53434, syobocal_tid: 7047 },
   // [2024-SPRING] TV: クマーバ
   // https://annict.com/works/11411
   { annict_id: 11411 },
@@ -34874,7 +34874,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] MOVIE: ムーミンパパの思い出
   // https://annict.com/works/12132
   { annict_id: 12132 },
-  // [null-null] TV: SHY 第2期
+  // [2024-SUMMER] TV: SHY 第2期
   // https://annict.com/works/12133
   { annict_id: 12133, mal_id: 57567 },
   // [2024-WINTER] TV: 闇芝居 (12期)
@@ -35837,7 +35837,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] WEB: こうしす！EE LITE
   // https://annict.com/works/12454
   { annict_id: 12454 },
-  // [2024-null] TV: 魔王軍最強の魔術師は人間だった
+  // [2024-SUMMER] TV: 魔王軍最強の魔術師は人間だった
   // https://annict.com/works/12455
   { annict_id: 12455, mal_id: 57876 },
   // [2024-null] TV: ハズレ枠の【状態異常スキル】で最強になった俺がすべてを蹂躙するまで
