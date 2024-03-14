@@ -36869,4 +36869,10 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: 当て馬キャラのくせして、スパダリ王子に寵愛されています。
   // https://annict.com/works/12800
   { annict_id: 12800, mal_id: 57789 },
+  // [2023-SPRING] TV: スター・ウォーズ:ヤング・ジェダイ・アドベンチャー
+  // https://annict.com/works/12801
+  { annict_id: 12801 },
+  // [2023-WINTER] WEB: スター・ウォーズ:ヤング・ジェダイ・アドベンチャー ショーツ
+  // https://annict.com/works/12802
+  { annict_id: 12802 },
 ]
