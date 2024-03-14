@@ -20476,7 +20476,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6936, mal_id: 40358, syobocal_tid: 5633 },
   // [2021-AUTUMN] MOVIE: 宇宙戦艦ヤマト2205 新たなる旅立ち 前章 -TAKE OFF-
   // https://annict.com/works/6937
-  { annict_id: 6937, mal_id: 40389 },
+  { annict_id: 6937, mal_id: 40389, syobocal_tid: 6241 },
   // [2020-WINTER] OVA: 人形アニメ ハイキュー!!
   // https://annict.com/works/6938
   { annict_id: 6938, mal_id: 40372 },
@@ -25021,7 +25021,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 8742, mal_id: 49297 },
   // [2022-WINTER] MOVIE: 宇宙戦艦ヤマト2205 新たなる旅立ち 後章 -STASHA-
   // https://annict.com/works/8743
-  { annict_id: 8743 },
+  { annict_id: 8743, syobocal_tid: 6241 },
   // [2020-AUTUMN] WEB: トランスフォーマー: ウォー・フォー・サイバトロン: アースライズ
   // https://annict.com/works/8744
   { annict_id: 8744 },
@@ -31457,7 +31457,7 @@ export const annict: ArmEntry[] = [
   // [null-null] WEB: 機動戦士ガンダム 復讐のレクイエム
   // https://annict.com/works/10991
   { annict_id: 10991, mal_id: 55845 },
-  // [2024-null] TV: 異世界スーサイド・スクワッド
+  // [2024-SUMMER] TV: 異世界スーサイド・スクワッド
   // https://annict.com/works/10992
   { annict_id: 10992, mal_id: 55848 },
   // [2024-SPRING] TV: 黒執事 -寄宿学校編-
@@ -35438,7 +35438,7 @@ export const annict: ArmEntry[] = [
   // [2014-SPRING] TV: 野良スコ
   // https://annict.com/works/12321
   { annict_id: 12321, mal_id: 31019 },
-  // [null-null] OTHER: 日本へようこそエルフさん。
+  // [null-null] TV: 日本へようこそエルフさん。
   // https://annict.com/works/12322
   { annict_id: 12322, mal_id: 57648 },
   // [null-null] TV: 呪術廻戦 死滅回游
