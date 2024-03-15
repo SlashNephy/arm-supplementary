@@ -36881,4 +36881,7 @@ export const annict: ArmEntry[] = [
   // [1988-null] MOVIE: 不射之射
   // https://annict.com/works/12804
   { annict_id: 12804, mal_id: 7477 },
+  // [2013-SPRING] OVA: キャプテン・スパーキー対空飛ぶ円盤
+  // https://annict.com/works/12805
+  { annict_id: 12805 },
 ]
