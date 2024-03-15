@@ -36878,4 +36878,7 @@ export const annict: ArmEntry[] = [
   // [2024-null] TV: さようなら竜生、こんにちは人生
   // https://annict.com/works/12803
   { annict_id: 12803, mal_id: 58445 },
+  // [1988-null] MOVIE: 不射之射
+  // https://annict.com/works/12804
+  { annict_id: 12804, mal_id: 7477 },
 ]
