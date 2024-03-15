@@ -36887,4 +36887,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 報われなかった村人A、貴族に拾われて溺愛される上に、実は持っていた伝説級の神スキルも覚醒した
   // https://annict.com/works/12806
   { annict_id: 12806, mal_id: 57005 },
+  // [null-null] OTHER: 没落予定の貴族だけど、暇だったから魔法を極めてみた
+  // https://annict.com/works/12807
+  { annict_id: 12807, mal_id: 58437 },
 ]
