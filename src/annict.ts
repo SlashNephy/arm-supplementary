@@ -33395,7 +33395,7 @@ export const annict: ArmEntry[] = [
   // [1994-AUTUMN] MOVIE: おさわが!スーパーベビー
   // https://annict.com/works/11638
   { annict_id: 11638 },
-  // [1997-SUMMER] MOVIE: キューティーハニーF(映画)
+  // [1997-SUMMER] MOVIE: 劇場版キューティーハニーF
   // https://annict.com/works/11639
   { annict_id: 11639, mal_id: 6496 },
   // [1997-WINTER] MOVIE: 花より男子(映画)
