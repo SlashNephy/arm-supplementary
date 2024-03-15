@@ -36875,4 +36875,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] WEB: スター・ウォーズ:ヤング・ジェダイ・アドベンチャー ショーツ
   // https://annict.com/works/12802
   { annict_id: 12802 },
+  // [2024-null] TV: さようなら竜生、こんにちは人生
+  // https://annict.com/works/12803
+  { annict_id: 12803, mal_id: 58445 },
 ]
