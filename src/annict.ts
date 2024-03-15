@@ -36884,4 +36884,7 @@ export const annict: ArmEntry[] = [
   // [2013-SPRING] OVA: キャプテン・スパーキー対空飛ぶ円盤
   // https://annict.com/works/12805
   { annict_id: 12805 },
+  // [null-null] OTHER: 報われなかった村人A、貴族に拾われて溺愛される上に、実は持っていた伝説級の神スキルも覚醒した
+  // https://annict.com/works/12806
+  { annict_id: 12806, mal_id: 57005 },
 ]
