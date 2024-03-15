@@ -29072,7 +29072,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: デッドマウント・デスプレイ
   // https://annict.com/works/10193
   { annict_id: 10193, mal_id: 53613, syobocal_tid: 6689 },
-  // [2024-null] TV: ばいばい、アース
+  // [2024-SUMMER] TV: ばいばい、アース
   // https://annict.com/works/10194
   { annict_id: 10194, mal_id: 53626 },
   // [2019-WINTER] MOVIE: 映画 コラショの海底わくわく大冒険！
