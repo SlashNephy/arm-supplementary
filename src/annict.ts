@@ -30388,7 +30388,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10633, mal_id: 54858, syobocal_tid: 6819 },
   // [2024-SPRING] TV: 僕のヒーローアカデミア (第7期)
   // https://annict.com/works/10634
-  { annict_id: 10634, mal_id: 54789 },
+  { annict_id: 10634, mal_id: 54789, syobocal_tid: 7049 },
   // [null-null] TV: TRIGUN STAMPEDE シリーズ完結編
   // https://annict.com/works/10635
   { annict_id: 10635, mal_id: 54863 },
@@ -36184,7 +36184,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12570 },
   // [2024-SPRING] TV: 喧嘩独学
   // https://annict.com/works/12571
-  { annict_id: 12571, mal_id: 58080 },
+  { annict_id: 12571, mal_id: 58080, syobocal_tid: 7043 },
   // [null-null] TV: ニートくノ一となぜか同棲はじめました
   // https://annict.com/works/12572
   { annict_id: 12572, mal_id: 58082 },
@@ -36265,7 +36265,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12597 },
   // [2024-SPRING] TV: シャドウバースF アーク編
   // https://annict.com/works/12598
-  { annict_id: 12598, mal_id: 57614 },
+  { annict_id: 12598, mal_id: 57614, syobocal_tid: 7037 },
   // [2007-SUMMER] OVA: 灼眼のシャナたん@劇場版Ver
   // https://annict.com/works/12599
   { annict_id: 12599, mal_id: 3221 },
