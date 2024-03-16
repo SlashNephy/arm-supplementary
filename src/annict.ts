@@ -31462,7 +31462,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10992, mal_id: 55848 },
   // [2024-SPRING] TV: 黒執事 -寄宿学校編-
   // https://annict.com/works/10993
-  { annict_id: 10993, mal_id: 55855 },
+  { annict_id: 10993, mal_id: 55855, syobocal_tid: 7038 },
   // [2023-AUTUMN] WEB: ポケモンコンシェルジュ
   // https://annict.com/works/10994
   { annict_id: 10994, mal_id: 54633 },
@@ -31561,7 +31561,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11025, mal_id: 34292 },
   // [2024-SPRING] TV: 魔法科高校の劣等生 第3シーズン
   // https://annict.com/works/11026
-  { annict_id: 11026, mal_id: 50713 },
+  { annict_id: 11026, mal_id: 50713, syobocal_tid: 7028 },
   // [2024-null] TV: ソードアート・オンライン オルタナティブ ガンゲイル・オンラインII
   // https://annict.com/works/11027
   { annict_id: 11027, mal_id: 55994 },
@@ -31618,7 +31618,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11044, mal_id: 50571, syobocal_tid: 6818 },
   // [2024-SPRING] TV: となりの妖怪さん
   // https://annict.com/works/11045
-  { annict_id: 11045, mal_id: 51461 },
+  { annict_id: 11045, mal_id: 51461, syobocal_tid: 7031 },
   // [2022-AUTUMN] WEB: ドラゴン王子 シーズン4
   // https://annict.com/works/11046
   { annict_id: 11046 },
@@ -31690,7 +31690,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11068, mal_id: 40073 },
   // [2024-SPRING] TV: 忘却バッテリー
   // https://annict.com/works/11069
-  { annict_id: 11069, mal_id: 56165 },
+  { annict_id: 11069, mal_id: 56165, syobocal_tid: 7042 },
   // [2012-SUMMER] OVA: 喜安浩平の世界
   // https://annict.com/works/11070
   { annict_id: 11070, mal_id: 56235 },
