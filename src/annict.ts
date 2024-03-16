@@ -36890,4 +36890,13 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 没落予定の貴族だけど、暇だったから魔法を極めてみた
   // https://annict.com/works/12807
   { annict_id: 12807, mal_id: 58437 },
+  // [1929-SPRING] MOVIE: ミッキーの畑仕事
+  // https://annict.com/works/12808
+  { annict_id: 12808 },
+  // [1929-SUMMER] MOVIE: カーニバル・キッド
+  // https://annict.com/works/12809
+  { annict_id: 12809 },
+  // [1929-SUMMER] MOVIE: ミッキーのフォーリーズ
+  // https://annict.com/works/12810
+  { annict_id: 12810 },
 ]
