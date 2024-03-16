@@ -35752,7 +35752,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12425, mal_id: 57820 },
   // [2024-SPRING] TV: 刀剣乱舞 廻 -虚伝 燃ゆる本能寺-
   // https://annict.com/works/12426
-  { annict_id: 12426, mal_id: 51859 },
+  { annict_id: 12426, mal_id: 51859, syobocal_tid: 7024 },
   // [null-null] OTHER: わんぱく！刀剣乱舞
   // https://annict.com/works/12427
   { annict_id: 12427, mal_id: 57821 },
