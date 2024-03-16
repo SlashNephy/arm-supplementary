@@ -30376,7 +30376,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10629, mal_id: 54852, syobocal_tid: 6854 },
   // [2024-SPRING] TV: リンカイ！
   // https://annict.com/works/10630
-  { annict_id: 10630, mal_id: 54859 },
+  { annict_id: 10630, mal_id: 54859, syobocal_tid: 7035 },
   // [2024-null] TV: 魔王2099
   // https://annict.com/works/10631
   { annict_id: 10631, mal_id: 54853 },
@@ -30622,7 +30622,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10712 },
   // [2024-SPRING] TV: オーイ! とんぼ
   // https://annict.com/works/10713
-  { annict_id: 10713, mal_id: 55194 },
+  { annict_id: 10713, mal_id: 55194, syobocal_tid: 7029 },
   // [2024-null] TV: 甘神さんちの縁結び
   // https://annict.com/works/10714
   { annict_id: 10714, mal_id: 55071 },
@@ -30643,7 +30643,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10719, mal_id: 55102, syobocal_tid: 6995 },
   // [2024-SPRING] TV: バーテンダー 神のグラス
   // https://annict.com/works/10720
-  { annict_id: 10720, mal_id: 53407 },
+  { annict_id: 10720, mal_id: 53407, syobocal_tid: 7025 },
   // [2023-SPRING] TV: BabyBus －ベビーバス－ (地上波)
   // https://annict.com/works/10721
   { annict_id: 10721 },
@@ -31255,7 +31255,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10923, mal_id: 53494, syobocal_tid: 6861 },
   // [2024-SPRING] TV: 鬼滅の刃 柱稽古編
   // https://annict.com/works/10924
-  { annict_id: 10924, mal_id: 55701 },
+  { annict_id: 10924, mal_id: 55701, syobocal_tid: 7048 },
   // [2024-AUTUMN] MOVIE: 劇場版 僕とロボコ
   // https://annict.com/works/10925
   { annict_id: 10925, mal_id: 55709 },
