@@ -36899,4 +36899,7 @@ export const annict: ArmEntry[] = [
   // [1929-SUMMER] MOVIE: ミッキーのフォーリーズ
   // https://annict.com/works/12810
   { annict_id: 12810 },
+  // [2024-SPRING] MOVIE: 好きでも嫌いなあまのじゃく
+  // https://annict.com/works/12811
+  { annict_id: 12811, mal_id: 58449 },
 ]
