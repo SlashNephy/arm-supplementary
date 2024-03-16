@@ -27565,7 +27565,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9688, mal_id: 51781 },
   // [2023-SUMMER] MOVIE: 特別編 響け！ユーフォニアム～アンサンブルコンテスト～
   // https://annict.com/works/9689
-  { annict_id: 9689, mal_id: 51995 },
+  { annict_id: 9689, mal_id: 51995, syobocal_tid: 7050 },
   // [2022-SUMMER] OVA: フットサルボーイズ!!!!! 新規制作ショートアニメ
   // https://annict.com/works/9690
   { annict_id: 9690, mal_id: 52551 },
@@ -35369,7 +35369,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] MOVIE: 劇場版 ウマ娘 プリティーダービー 新時代の扉
   // https://annict.com/works/12298
   { annict_id: 12298, mal_id: 57647 },
-  // [2024-null] TV: モブから始まる探索英雄譚
+  // [2024-SUMMER] TV: モブから始まる探索英雄譚
   // https://annict.com/works/12299
   { annict_id: 12299, mal_id: 57646 },
   // [1999-SUMMER] OVA: 同級生2 Special 卒業生
