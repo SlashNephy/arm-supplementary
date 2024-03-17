@@ -34700,7 +34700,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] MOVIE: きかんしゃトーマス 大冒険！ルックアウトマウンテンとひみつのトンネル
   // https://annict.com/works/12074
   { annict_id: 12074 },
-  // [2024-null] TV: 負けヒロインが多すぎる！
+  // [2024-SUMMER] TV: 負けヒロインが多すぎる！
   // https://annict.com/works/12075
   { annict_id: 12075, mal_id: 57524 },
   // [2024-WINTER] TV: 最強王図鑑 ～The Ultimate Battles～
@@ -36917,4 +36917,7 @@ export const annict: ArmEntry[] = [
   // [1942-null] MOVIE: 動物村の大騒動
   // https://annict.com/works/12816
   { annict_id: 12816, mal_id: 6848 },
+  // [2024-SPRING] TV: ARNOLD & PUPPETS
+  // https://annict.com/works/12817
+  { annict_id: 12817 },
 ]
