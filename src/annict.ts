@@ -36905,4 +36905,16 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] MOVIE: わんだふるぷりきゅあ！ざ・むーびー！
   // https://annict.com/works/12812
   { annict_id: 12812 },
+  // [1941-WINTER] MOVIE: カンガルーの誕生日
+  // https://annict.com/works/12813
+  { annict_id: 12813, mal_id: 6843 },
+  // [1948-null] MOVIE: 熊に喰われぬ男
+  // https://annict.com/works/12814
+  { annict_id: 12814, mal_id: 6846 },
+  // [1950-null] MOVIE: ガリヴァー奮闘記
+  // https://annict.com/works/12815
+  { annict_id: 12815, mal_id: 6847 },
+  // [1942-null] MOVIE: 動物村の大騒動
+  // https://annict.com/works/12816
+  { annict_id: 12816, mal_id: 6848 },
 ]
