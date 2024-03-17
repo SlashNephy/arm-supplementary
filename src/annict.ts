@@ -36902,4 +36902,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] MOVIE: 好きでも嫌いなあまのじゃく
   // https://annict.com/works/12811
   { annict_id: 12811, mal_id: 58449 },
+  // [2024-SUMMER] MOVIE: わんだふるぷりきゅあ！ざ・むーびー！
+  // https://annict.com/works/12812
+  { annict_id: 12812 },
 ]
