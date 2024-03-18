@@ -36923,4 +36923,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: Sランクモンスターの《ベヒーモス》だけど、猫と間違われてエルフ娘の騎士として暮らしてます
   // https://annict.com/works/12818
   { annict_id: 12818 },
+  // [2024-WINTER] WEB: 転生したらスライムだった件 閑話：ディアブロ日記
+  // https://annict.com/works/12819
+  { annict_id: 12819 },
 ]
