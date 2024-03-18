@@ -31451,7 +31451,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 沖縄で好きになった子が方言すぎてツラすぎる
   // https://annict.com/works/10989
   { annict_id: 10989, mal_id: 55842 },
-  // [null-null] TV: 黄昏アウトフォーカス
+  // [2024-SUMMER] TV: 黄昏アウトフォーカス
   // https://annict.com/works/10990
   { annict_id: 10990, mal_id: 55844 },
   // [null-null] WEB: 機動戦士ガンダム 復讐のレクイエム
@@ -36920,4 +36920,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: ARNOLD & PUPPETS
   // https://annict.com/works/12817
   { annict_id: 12817 },
+  // [null-null] TV: Sランクモンスターの《ベヒーモス》だけど、猫と間違われてエルフ娘の騎士として暮らしてます
+  // https://annict.com/works/12818
+  { annict_id: 12818 },
 ]
