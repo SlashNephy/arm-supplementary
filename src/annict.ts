@@ -36904,7 +36904,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12811, mal_id: 58449 },
   // [2024-SUMMER] MOVIE: わんだふるぷりきゅあ！ざ・むーびー！
   // https://annict.com/works/12812
-  { annict_id: 12812 },
+  { annict_id: 12812, mal_id: 58462 },
   // [1941-WINTER] MOVIE: カンガルーの誕生日
   // https://annict.com/works/12813
   { annict_id: 12813, mal_id: 6843 },
