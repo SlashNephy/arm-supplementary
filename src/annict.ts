@@ -31610,7 +31610,7 @@ export const annict: ArmEntry[] = [
   // [2024-null] TV: NieR:Automata Ver1.1a 第2クール
   // https://annict.com/works/11042
   { annict_id: 11042, mal_id: 56063 },
-  // [2024-null] TV: なぜ僕の世界を誰も覚えていないのか？
+  // [2024-SUMMER] TV: なぜ僕の世界を誰も覚えていないのか？
   // https://annict.com/works/11043
   { annict_id: 11043, mal_id: 56062 },
   // [2023-AUTUMN] TV: 攻略うぉんてっど！～異世界救います！？～
@@ -36922,11 +36922,14 @@ export const annict: ArmEntry[] = [
   { annict_id: 12817 },
   // [null-null] TV: Sランクモンスターの《ベヒーモス》だけど、猫と間違われてエルフ娘の騎士として暮らしてます
   // https://annict.com/works/12818
-  { annict_id: 12818 },
+  { annict_id: 12818, mal_id: 58473 },
   // [2024-WINTER] WEB: 転生したらスライムだった件 閑話：ディアブロ日記
   // https://annict.com/works/12819
   { annict_id: 12819 },
   // [2009-SUMMER] OVA: ハガレン4コマ劇場
   // https://annict.com/works/12820
   { annict_id: 12820, mal_id: 7902 },
+  // [2024-WINTER] WEB: MFゴースト BATTLE DIGEST
+  // https://annict.com/works/12821
+  { annict_id: 12821 },
 ]
