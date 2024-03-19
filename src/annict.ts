@@ -20125,7 +20125,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6787, mal_id: 37393, syobocal_tid: 5417 },
   // [2009-SUMMER] OVA: OVA 鋼の錬金術師 FULLMETAL ALCHEMIST
   // https://annict.com/works/6788
-  { annict_id: 6788 },
+  { annict_id: 6788, mal_id: 6421 },
   // [2019-SUMMER] TV: おしりたんてい (第3シリーズ)
   // https://annict.com/works/6789
   { annict_id: 6789, syobocal_tid: 5387 },
@@ -36926,4 +36926,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] WEB: 転生したらスライムだった件 閑話：ディアブロ日記
   // https://annict.com/works/12819
   { annict_id: 12819 },
+  // [2009-SUMMER] OVA: ハガレン4コマ劇場
+  // https://annict.com/works/12820
+  { annict_id: 12820, mal_id: 7902 },
 ]
