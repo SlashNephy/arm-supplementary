@@ -35741,7 +35741,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] TV: 小市民シリーズ
   // https://annict.com/works/12422
   { annict_id: 12422, mal_id: 57810 },
-  // [2024-SPRING] WEB: SAND LAND: THE SERIES
+  // [2024-WINTER] WEB: SAND LAND: THE SERIES
   // https://annict.com/works/12423
   { annict_id: 12423, mal_id: 57160 },
   // [null-null] TV: 魔神創造伝ワタル
@@ -36932,4 +36932,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] WEB: MFゴースト BATTLE DIGEST
   // https://annict.com/works/12821
   { annict_id: 12821 },
+  // [2024-WINTER] WEB: かえってきた！しんでゅありてぃ科学講座
+  // https://annict.com/works/12822
+  { annict_id: 12822 },
 ]
