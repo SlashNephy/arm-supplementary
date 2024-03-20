@@ -32888,7 +32888,7 @@ export const annict: ArmEntry[] = [
   // [1993-AUTUMN] MOVIE: 映画「ぼのぼの」
   // https://annict.com/works/11468
   { annict_id: 11468, mal_id: 8416 },
-  // [null-null] TV: 俺は全てを【パリイ】する ～逆勘違いの世界最強は冒険者になりたい～
+  // [2024-SUMMER] TV: 俺は全てを【パリイ】する ～逆勘違いの世界最強は冒険者になりたい～
   // https://annict.com/works/11469
   { annict_id: 11469, mal_id: 57058 },
   // [2024-WINTER] TV: 天官賜福 貮
@@ -36941,4 +36941,7 @@ export const annict: ArmEntry[] = [
   // [1933-SPRING] MOVIE: 三匹の子ぶた
   // https://annict.com/works/12824
   { annict_id: 12824 },
+  // [null-null] TV: 異修羅 第2期
+  // https://annict.com/works/12825
+  { annict_id: 12825, mal_id: 58484 },
 ]
