@@ -36935,4 +36935,10 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] WEB: かえってきた！しんでゅありてぃ科学講座
   // https://annict.com/works/12822
   { annict_id: 12822 },
+  // [1932-SUMMER] MOVIE: 花と木
+  // https://annict.com/works/12823
+  { annict_id: 12823 },
+  // [1933-SPRING] MOVIE: 三匹の子ぶた
+  // https://annict.com/works/12824
+  { annict_id: 12824 },
 ]
