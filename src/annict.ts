@@ -32716,7 +32716,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11410, mal_id: 53434, syobocal_tid: 7047 },
   // [2024-SPRING] TV: クマーバ
   // https://annict.com/works/11411
-  { annict_id: 11411 },
+  { annict_id: 11411, mal_id: 58463 },
   // [2023-AUTUMN] WEB: 道産子あるある！教えて、冬木さん！
   // https://annict.com/works/11412
   { annict_id: 11412 },
