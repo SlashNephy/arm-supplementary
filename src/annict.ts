@@ -31709,7 +31709,7 @@ export const annict: ArmEntry[] = [
   // [2024-null] TV: デリコズ・ナーサリー
   // https://annict.com/works/11075
   { annict_id: 11075, mal_id: 56179 },
-  // [2024-SUMMER] MOVIE: 劇場版 モノノ怪
+  // [2024-SUMMER] MOVIE: 劇場版 モノノ怪 唐傘
   // https://annict.com/works/11076
   { annict_id: 11076, mal_id: 52107 },
   // [null-null] MOVIE: Fate/kaleid liner プリズマ☆イリヤ Licht 続編
@@ -35081,7 +35081,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] TV: 忍ばない！クリプトニンジャ咲耶 弐ノ巻
   // https://annict.com/works/12202
   { annict_id: 12202, mal_id: 57605, syobocal_tid: 6812 },
-  // [2024-null] TV: 君は冥土様。
+  // [2024-AUTUMN] TV: 君は冥土様。
   // https://annict.com/works/12203
   { annict_id: 12203, mal_id: 57611 },
   // [null-null] TV: 帰還者の魔法は特別です 第2期
@@ -36947,4 +36947,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] MOVIE: がんばっていきまっしょい
   // https://annict.com/works/12826
   { annict_id: 12826, mal_id: 58491 },
+  // [null-null] TV: mono
+  // https://annict.com/works/12827
+  { annict_id: 12827 },
 ]
