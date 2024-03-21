@@ -36944,4 +36944,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 異修羅 第2期
   // https://annict.com/works/12825
   { annict_id: 12825, mal_id: 58484 },
+  // [2024-AUTUMN] MOVIE: がんばっていきまっしょい
+  // https://annict.com/works/12826
+  { annict_id: 12826 },
 ]
