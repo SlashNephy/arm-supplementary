@@ -36946,5 +36946,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 12825, mal_id: 58484 },
   // [2024-AUTUMN] MOVIE: がんばっていきまっしょい
   // https://annict.com/works/12826
-  { annict_id: 12826 },
+  { annict_id: 12826, mal_id: 58491 },
 ]
