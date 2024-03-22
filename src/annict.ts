@@ -36953,4 +36953,25 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] OVA: ガールズ＆パンツァーOVA「タイチョウ・ウォー！」
   // https://annict.com/works/12828
   { annict_id: 12828 },
+  // [2024-SUMMER] MOVIE: KING OF PRISM新作映画
+  // https://annict.com/works/12829
+  { annict_id: 12829 },
+  // [null-null] TV: 全修。
+  // https://annict.com/works/12830
+  { annict_id: 12830 },
+  // [2023-WINTER] WEB: 天体観測
+  // https://annict.com/works/12831
+  { annict_id: 12831, mal_id: 54009 },
+  // [2023-WINTER] WEB: 秘密のはなの庭
+  // https://annict.com/works/12832
+  { annict_id: 12832, mal_id: 54725 },
+  // [2023-WINTER] WEB: ネコと和解せな
+  // https://annict.com/works/12833
+  { annict_id: 12833, mal_id: 54809 },
+  // [2023-WINTER] WEB: でたらめな世界のメロドラマ
+  // https://annict.com/works/12834
+  { annict_id: 12834, mal_id: 54810 },
+  // [2023-WINTER] WEB: COLORs
+  // https://annict.com/works/12835
+  { annict_id: 12835, mal_id: 54005 },
 ]
