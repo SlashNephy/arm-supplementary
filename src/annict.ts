@@ -36950,4 +36950,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: mono
   // https://annict.com/works/12827
   { annict_id: 12827 },
+  // [2024-WINTER] OVA: ガールズ＆パンツァーOVA「タイチョウ・ウォー！」
+  // https://annict.com/works/12828
+  { annict_id: 12828 },
 ]
