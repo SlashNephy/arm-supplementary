@@ -31507,7 +31507,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11007 },
   // [2024-SPRING] TV: ザ・ファブル
   // https://annict.com/works/11008
-  { annict_id: 11008, mal_id: 55911 },
+  { annict_id: 11008, mal_id: 55911, syobocal_tid: 7030 },
   // [2023-SUMMER] WEB: 逆異世界転生エージェント エーコさん
   // https://annict.com/works/11009
   { annict_id: 11009, mal_id: 55757 },
@@ -31999,7 +31999,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11171, mal_id: 56685 },
   // [2024-SPRING] TV: Re:Monster
   // https://annict.com/works/11172
-  { annict_id: 11172, mal_id: 56690 },
+  { annict_id: 11172, mal_id: 56690, syobocal_tid: 7026 },
   // [2024-WINTER] TV: 月刊モー想科学
   // https://annict.com/works/11173
   { annict_id: 11173, mal_id: 56691, syobocal_tid: 6925 },
@@ -32053,7 +32053,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11189 },
   // [2024-SPRING] TV: 死神坊ちゃんと黒メイド 第3期
   // https://annict.com/works/11190
-  { annict_id: 11190, mal_id: 56738 },
+  { annict_id: 11190, mal_id: 56738, syobocal_tid: 7034 },
   // [2024-WINTER] TV: SYNDUALITY Noir 第2クール
   // https://annict.com/works/11191
   { annict_id: 11191, mal_id: 56731, syobocal_tid: 6920 },
@@ -32074,7 +32074,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11196, mal_id: 56733 },
   // [2024-SPRING] TV: 時光代理人 -LINK CLICK- 第2期
   // https://annict.com/works/11197
-  { annict_id: 11197, mal_id: 49413 },
+  { annict_id: 11197, mal_id: 49413, syobocal_tid: 7036 },
   // [2024-WINTER] TV: 百妖譜
   // https://annict.com/works/11198
   { annict_id: 11198, mal_id: 41224, syobocal_tid: 6924 },
@@ -33961,7 +33961,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11826 },
   // [2024-SPRING] TV: アストロノオト
   // https://annict.com/works/11827
-  { annict_id: 11827, mal_id: 57391 },
+  { annict_id: 11827, mal_id: 57391, syobocal_tid: 7027 },
   // [2011-SPRING] OTHER: 笛を吹くお医者さん
   // https://annict.com/works/11828
   { annict_id: 11828 },
@@ -35890,7 +35890,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12471, mal_id: 57945 },
   // [2024-SPRING] TV: 龍族 -The Blazing Dawn-
   // https://annict.com/works/12472
-  { annict_id: 12472, mal_id: 44408 },
+  { annict_id: 12472, mal_id: 44408, syobocal_tid: 7056 },
   // [null-null] MOVIE: 楽園追放 心のレゾナンス
   // https://annict.com/works/12473
   { annict_id: 12473, mal_id: 57961 },
@@ -36868,7 +36868,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12799, mal_id: 58426 },
   // [2024-SPRING] TV: 当て馬キャラのくせして、スパダリ王子に寵愛されています。
   // https://annict.com/works/12800
-  { annict_id: 12800, mal_id: 57789 },
+  { annict_id: 12800, mal_id: 57789, syobocal_tid: 7054 },
   // [2023-SPRING] TV: スター・ウォーズ:ヤング・ジェダイ・アドベンチャー
   // https://annict.com/works/12801
   { annict_id: 12801 },
@@ -36980,4 +36980,10 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] WEB: グリム組曲
   // https://annict.com/works/12837
   { annict_id: 12837, mal_id: 49210 },
+  // [2024-null] OTHER: ロクローの大ぼうけん
+  // https://annict.com/works/12838
+  { annict_id: 12838 },
+  // [2023-WINTER] WEB: あんさんぶるスターズ!! 追憶セレクション 「チェックメイト」
+  // https://annict.com/works/12839
+  { annict_id: 12839 },
 ]
