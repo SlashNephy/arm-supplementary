@@ -36986,4 +36986,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] WEB: あんさんぶるスターズ!! 追憶セレクション 「チェックメイト」
   // https://annict.com/works/12839
   { annict_id: 12839 },
+  // [2025-null] TV: 薬屋のひとりごと 第2期
+  // https://annict.com/works/12840
+  { annict_id: 12840 },
 ]
