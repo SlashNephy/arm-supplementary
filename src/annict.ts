@@ -29546,7 +29546,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 乙女ゲー世界はモブに厳しい世界です 第2期
   // https://annict.com/works/10352
   { annict_id: 10352, mal_id: 54000 },
-  // [null-null] OTHER: Turkey!
+  // [2025-null] TV: Turkey!
   // https://annict.com/works/10353
   { annict_id: 10353 },
   // [2023-WINTER] TV: Call Star -ボクは本当にダメな星？-
