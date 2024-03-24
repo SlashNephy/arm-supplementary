@@ -30365,7 +30365,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] WEB: 大奥
   // https://annict.com/works/10626
   { annict_id: 10626, mal_id: 54850 },
-  // [null-null] TV: Re:ゼロから始める異世界生活 3rd season
+  // [2024-AUTUMN] TV: Re:ゼロから始める異世界生活 3rd season
   // https://annict.com/works/10627
   { annict_id: 10627, mal_id: 54857 },
   // [2023-AUTUMN] MOVIE: 攻殻機動隊 SAC_2045 最後の人間
