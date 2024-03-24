@@ -36989,4 +36989,7 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: 薬屋のひとりごと 第2期
   // https://annict.com/works/12840
   { annict_id: 12840, mal_id: 58514 },
+  // [2024-SPRING] MOVIE: 劇場用再編集版 ウマ娘 プリティーダービー ROAD TO THE TOP
+  // https://annict.com/works/12841
+  { annict_id: 12841 },
 ]
