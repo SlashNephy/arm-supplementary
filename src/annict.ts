@@ -36976,7 +36976,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12835, mal_id: 54005 },
   // [null-null] TV: 魔都精兵のスレイブ 第2期
   // https://annict.com/works/12836
-  { annict_id: 12836 },
+  { annict_id: 12836, mal_id: 58505 },
   // [2024-SPRING] WEB: グリム組曲
   // https://annict.com/works/12837
   { annict_id: 12837, mal_id: 49210 },
@@ -36988,5 +36988,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 12839 },
   // [2025-null] TV: 薬屋のひとりごと 第2期
   // https://annict.com/works/12840
-  { annict_id: 12840 },
+  { annict_id: 12840, mal_id: 58514 },
 ]
