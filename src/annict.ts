@@ -30257,7 +30257,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] TV: ライザのアトリエ ～常闇の女王と秘密の隠れ家～
   // https://annict.com/works/10590
   { annict_id: 10590, mal_id: 54760, syobocal_tid: 6713 },
-  // [2024-null] TV: 逃げ上手の若君
+  // [2024-SUMMER] TV: 逃げ上手の若君
   // https://annict.com/works/10591
   { annict_id: 10591, mal_id: 54724 },
   // [2021-AUTUMN] WEB: 洒落どる パイロットフィルム
@@ -32407,7 +32407,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11307, mal_id: 56907 },
   // [2024-SUMMER] MOVIE: 劇場総集編ぼっち・ざ・ろっく！ Re:Re:
   // https://annict.com/works/11308
-  { annict_id: 11308 },
+  { annict_id: 11308, mal_id: 55357 },
   // [2018-SUMMER] WEB: 魔法が解けて
   // https://annict.com/works/11309
   { annict_id: 11309 },
