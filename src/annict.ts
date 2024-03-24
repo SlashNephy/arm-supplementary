@@ -31409,7 +31409,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: 絆のアリル セカンドシーズン
   // https://annict.com/works/10975
   { annict_id: 10975, mal_id: 55775, syobocal_tid: 6814 },
-  // [2024-null] TV: 【推しの子】 第2期
+  // [2024-SUMMER] TV: 【推しの子】 第2期
   // https://annict.com/works/10976
   { annict_id: 10976, mal_id: 55791 },
   // [2023-SUMMER] TV: ななし怪談 (2023)
