@@ -23585,7 +23585,7 @@ export const annict: ArmEntry[] = [
   // [2020-SUMMER] WEB: ゼニメーション
   // https://annict.com/works/8199
   { annict_id: 8199 },
-  // [2021-AUTUMN] TV: 無職転生 ～異世界行ったら本気だす～  第2部
+  // [2021-AUTUMN] TV: 無職転生 ～異世界行ったら本気だす～ 第2クール
   // https://annict.com/works/8200
   { annict_id: 8200, mal_id: 45576, syobocal_tid: 6113 },
   // [2021-AUTUMN] TV: ワールドトリガー 3rdシーズン
@@ -26687,7 +26687,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: 狼と香辛料 merchant meets the wise wolf
   // https://annict.com/works/9395
   { annict_id: 9395, mal_id: 51122, syobocal_tid: 7033 },
-  // [null-null] TV: グリザイア：ファントムトリガー THE ANIMATION (TVシリーズ)
+  // [2024-null] TV: グリザイア：ファントムトリガー
   // https://annict.com/works/9396
   { annict_id: 9396, mal_id: 51119 },
   // [2022-AUTUMN] TV: 農民関連のスキルばっか上げてたら何故か強くなった。
@@ -31589,7 +31589,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 錆喰いビスコ 第2期
   // https://annict.com/works/11035
   { annict_id: 11035, mal_id: 56008 },
-  // [null-null] OTHER: 勇者刑に処す 懲罰勇者9004隊刑務記録
+  // [null-null] TV: 勇者刑に処す 懲罰勇者9004隊刑務記録
   // https://annict.com/works/11036
   { annict_id: 11036, mal_id: 56009 },
   // [2024-WINTER] TV: 百千さん家のあやかし王子
@@ -31706,7 +31706,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] TV: 即死チートが最強すぎて、異世界のやつらがまるで相手にならないんですが。
   // https://annict.com/works/11074
   { annict_id: 11074, mal_id: 53730, syobocal_tid: 6901 },
-  // [2024-null] TV: デリコズ・ナーサリー
+  // [2024-SUMMER] TV: デリコズ・ナーサリー
   // https://annict.com/works/11075
   { annict_id: 11075, mal_id: 56179 },
   // [2024-SUMMER] MOVIE: 劇場版 モノノ怪 唐傘
@@ -31775,7 +31775,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: 放課後少年花子くん
   // https://annict.com/works/11097
   { annict_id: 11097, mal_id: 56425, syobocal_tid: 6829 },
-  // [2024-null] TV: ハイガクラ
+  // [2024-AUTUMN] TV: ハイガクラ
   // https://annict.com/works/11098
   { annict_id: 11098, mal_id: 56420 },
   // [2023-AUTUMN] TV: しーくれっとみっしょん～潜入捜査官は絶対に負けない！～
@@ -32231,7 +32231,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: ワンルーム、日当たり普通、天使つき。
   // https://annict.com/works/11249
   { annict_id: 11249, mal_id: 56838, syobocal_tid: 7039 },
-  // [null-null] TV: 合コンに行ったら女がいなかった話
+  // [2024-AUTUMN] TV: 合コンに行ったら女がいなかった話
   // https://annict.com/works/11250
   { annict_id: 11250, mal_id: 56843 },
   // [2002-SUMMER] MOVIE: 劇場版サルゲッチュ 黄金のピポヘル・ウッキーバトル
@@ -34868,7 +34868,7 @@ export const annict: ArmEntry[] = [
   // [2012-AUTUMN] WEB: NEXT A-Class
   // https://annict.com/works/12130
   { annict_id: 12130, mal_id: 16331 },
-  // [null-null] TV: 百姓貴族 (2期)
+  // [2024-AUTUMN] TV: 百姓貴族 2nd Season
   // https://annict.com/works/12131
   { annict_id: 12131, mal_id: 57562 },
   // [2023-AUTUMN] MOVIE: ムーミンパパの思い出
@@ -36992,4 +36992,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] MOVIE: 劇場用再編集版 ウマ娘 プリティーダービー ROAD TO THE TOP
   // https://annict.com/works/12841
   { annict_id: 12841 },
+  // [2002-null] WEB: CATMAN
+  // https://annict.com/works/12842
+  { annict_id: 12842, mal_id: 4419 },
 ]
