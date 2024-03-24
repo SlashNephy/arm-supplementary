@@ -25616,7 +25616,7 @@ export const annict: ArmEntry[] = [
   // [2021-AUTUMN] OVA: RWBY VOLUME 7
   // https://annict.com/works/8974
   { annict_id: 8974 },
-  // [2024-null] TV: キミと僕の最後の戦場、あるいは世界が始まる聖戦 season II
+  // [2024-SUMMER] TV: キミと僕の最後の戦場、あるいは世界が始まる聖戦 season II
   // https://annict.com/works/8975
   { annict_id: 8975, mal_id: 49981 },
   // [1995-SUMMER] MOVIE: On Your Mark
@@ -28724,9 +28724,9 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: 経験済みなキミと、経験ゼロなオレが、お付き合いする話。
   // https://annict.com/works/10077
   { annict_id: 10077, mal_id: 52990, syobocal_tid: 6864 },
-  // [null-null] TV: ありふれた職業で世界最強 3rd season
+  // [2024-AUTUMN] TV: ありふれた職業で世界最強 season 3
   // https://annict.com/works/10078
-  { annict_id: 10078 },
+  { annict_id: 10078, mal_id: 52995 },
   // [2023-AUTUMN] TV: 葬送のフリーレン
   // https://annict.com/works/10079
   { annict_id: 10079, mal_id: 52991, syobocal_tid: 6776 },
@@ -31424,7 +31424,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] TV: マッシュル-MASHLE- 神覚者候補選抜試験編
   // https://annict.com/works/10980
   { annict_id: 10980, mal_id: 55813, syobocal_tid: 6944 },
-  // [null-null] TV: 夏目友人帳 漆
+  // [2024-AUTUMN] TV: 夏目友人帳 漆
   // https://annict.com/works/10981
   { annict_id: 10981, mal_id: 55823 },
   // [null-null] TV: 地獄楽 第二期
@@ -31883,7 +31883,7 @@ export const annict: ArmEntry[] = [
   // [2001-SUMMER] TV: 筋肉番付 金剛くんの大冒険!
   // https://annict.com/works/11133
   { annict_id: 11133, mal_id: 10360 },
-  // [null-null] TV: トリリオンゲーム
+  // [2024-AUTUMN] TV: トリリオンゲーム
   // https://annict.com/works/11134
   { annict_id: 11134, mal_id: 56662 },
   // [2001-AUTUMN] TV: くるくるアミー
@@ -33236,7 +33236,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] TV: 神之塔 -Tower of God- 第2期
   // https://annict.com/works/11585
   { annict_id: 11585, mal_id: 52635 },
-  // [null-null] TV: アオのハコ
+  // [2024-AUTUMN] TV: アオのハコ
   // https://annict.com/works/11586
   { annict_id: 11586, mal_id: 57181 },
   // [2023-AUTUMN] WEB: ラプソディ
@@ -36176,7 +36176,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] WEB: かいじゅうステップ 未来予報
   // https://annict.com/works/12568
   { annict_id: 12568 },
-  // [null-null] TV: 空色ユーティリティ
+  // [2025-null] TV: 空色ユーティリティ
   // https://annict.com/works/12569
   { annict_id: 12569, mal_id: 58066 },
   // [2024-WINTER] WEB: ポケモンスペシャルアニメ「ただいま」
@@ -37007,4 +37007,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: 七つの大罪 黙示録の四騎士 第2期
   // https://annict.com/works/12846
   { annict_id: 12846, mal_id: 58511 },
+  // [null-null] TV: 結婚指輪物語 第2期
+  // https://annict.com/works/12847
+  { annict_id: 12847, mal_id: 58515 },
 ]
