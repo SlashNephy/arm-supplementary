@@ -28778,7 +28778,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] TV: アニメ ボス・ベイビー シーズン2
   // https://annict.com/works/10095
   { annict_id: 10095, syobocal_tid: 6496 },
-  // [2024-null] TV: ATRI -My Dear Moments-
+  // [2024-SUMMER] TV: ATRI -My Dear Moments-
   // https://annict.com/works/10096
   { annict_id: 10096, mal_id: 53128 },
   // [2023-SUMMER] TV: Fate/strange Fake -Whispers of Dawn-
@@ -31562,7 +31562,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: 魔法科高校の劣等生 第3シーズン
   // https://annict.com/works/11026
   { annict_id: 11026, mal_id: 50713, syobocal_tid: 7028 },
-  // [2024-null] TV: ソードアート・オンライン オルタナティブ ガンゲイル・オンラインII
+  // [2024-AUTUMN] TV: ソードアート・オンライン オルタナティブ ガンゲイル・オンラインII
   // https://annict.com/works/11027
   { annict_id: 11027, mal_id: 55994 },
   // [null-null] TV: 男女の友情は成立する？（いや、しないっ!!）
