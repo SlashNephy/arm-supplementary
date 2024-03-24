@@ -29548,7 +29548,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10352, mal_id: 54000 },
   // [2025-null] TV: Turkey!
   // https://annict.com/works/10353
-  { annict_id: 10353 },
+  { annict_id: 10353, mal_id: 54028 },
   // [2023-WINTER] TV: Call Star -ボクは本当にダメな星？-
   // https://annict.com/works/10354
   { annict_id: 10354, syobocal_tid: 6553 },
@@ -30377,7 +30377,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: リンカイ！
   // https://annict.com/works/10630
   { annict_id: 10630, mal_id: 54859, syobocal_tid: 7035 },
-  // [2024-null] TV: 魔王2099
+  // [2024-AUTUMN] TV: 魔王2099
   // https://annict.com/works/10631
   { annict_id: 10631, mal_id: 54853 },
   // [2023-WINTER] TV: さみしいあなた
@@ -31855,7 +31855,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11123, mal_id: 56646 },
   // [2024-WINTER] TV: 貼りまわれ！こいぬ
   // https://annict.com/works/11124
-  { annict_id: 11124, syobocal_tid: 6950 },
+  { annict_id: 11124, mal_id: 57012, syobocal_tid: 6950 },
   // [2011-WINTER] OVA: ああっ女神さまっ(OAD)
   // https://annict.com/works/11125
   { annict_id: 11125, mal_id: 9611 },
@@ -36995,4 +36995,16 @@ export const annict: ArmEntry[] = [
   // [2002-null] WEB: CATMAN
   // https://annict.com/works/12842
   { annict_id: 12842, mal_id: 4419 },
+  // [2002-null] WEB: CATMAN series II
+  // https://annict.com/works/12843
+  { annict_id: 12843, mal_id: 4418 },
+  // [2007-AUTUMN] WEB: CATMAN series III
+  // https://annict.com/works/12844
+  { annict_id: 12844, mal_id: 4383 },
+  // [2024-SUMMER] TV: 貼りまわれ！こいぬ 第2期
+  // https://annict.com/works/12845
+  { annict_id: 12845, mal_id: 58506 },
+  // [2024-AUTUMN] TV: 七つの大罪 黙示録の四騎士 第2期
+  // https://annict.com/works/12846
+  { annict_id: 12846, mal_id: 58511 },
 ]
