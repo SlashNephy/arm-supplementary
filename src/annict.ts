@@ -37021,5 +37021,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 12850, mal_id: 58522 },
   // [null-null] TV: 姫様“拷問”の時間です 第2期
   // https://annict.com/works/12851
-  { annict_id: 12851 },
+  { annict_id: 12851, mal_id: 58524 },
 ]
