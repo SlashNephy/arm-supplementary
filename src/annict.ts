@@ -31577,7 +31577,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] TV: 恋は双子で割り切れない
   // https://annict.com/works/11031
   { annict_id: 11031, mal_id: 55996 },
-  // [2024-null] TV: メカウデ
+  // [2024-AUTUMN] TV: メカウデ
   // https://annict.com/works/11032
   { annict_id: 11032, mal_id: 53033 },
   // [2022-SPRING] WEB: ミニ豆ちゃん シーズン3
@@ -35879,7 +35879,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] TV: 真夜中ぱんチ
   // https://annict.com/works/12468
   { annict_id: 12468, mal_id: 57947 },
-  // [2024-null] TV: パーティーから追放されたその治癒師、実は最強につき
+  // [2024-AUTUMN] TV: パーティーから追放されたその治癒師、実は最強につき
   // https://annict.com/works/12469
   { annict_id: 12469, mal_id: 57944 },
   // [2021-WINTER] OTHER: 多数欠 (ショートアニメ)
@@ -37016,4 +37016,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 佐々木とピーちゃん シーズン2
   // https://annict.com/works/12849
   { annict_id: 12849, mal_id: 58518 },
+  // [2024-SUMMER] MOVIE: 劇場版すとぷり はじまりの物語～Strawberry School Festival!!!～
+  // https://annict.com/works/12850
+  { annict_id: 12850, mal_id: 58522 },
 ]
