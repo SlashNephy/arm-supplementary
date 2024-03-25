@@ -24320,7 +24320,7 @@ export const annict: ArmEntry[] = [
   // [2022-SUMMER] TV: オーバーロードⅣ
   // https://annict.com/works/8476
   { annict_id: 8476, mal_id: 48895, syobocal_tid: 6391 },
-  // [2024-null] MOVIE: 劇場版 オーバーロード 聖王国編
+  // [2024-AUTUMN] MOVIE: 劇場版 オーバーロード 聖王国編
   // https://annict.com/works/8477
   { annict_id: 8477, mal_id: 48896 },
   // [2022-SPRING] TV: ラブライブ！虹ヶ咲学園スクールアイドル同好会 (第2期)
@@ -35165,7 +35165,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] MOVIE: パウ・パトロール ザ・マイティ・ムービー
   // https://annict.com/works/12230
   { annict_id: 12230 },
-  // [null-null] TV: 鴨乃橋ロンの禁断推理 2nd Season
+  // [2024-AUTUMN] TV: 鴨乃橋ロンの禁断推理 2nd Season
   // https://annict.com/works/12231
   { annict_id: 12231, mal_id: 57635 },
   // [2024-SPRING] TV: シンカリオン チェンジ ザ ワールド
@@ -35792,7 +35792,7 @@ export const annict: ArmEntry[] = [
   // [2002-SUMMER] TV: 楽しいダックタウン
   // https://annict.com/works/12439
   { annict_id: 12439 },
-  // [2024-null] TV: エルフさんは痩せられない。
+  // [2024-SUMMER] TV: エルフさんは痩せられない。
   // https://annict.com/works/12440
   { annict_id: 12440, mal_id: 57845 },
   // [2014-WINTER] WEB: 超合金ハローキティ オリジナルフラッシュアニメ
@@ -37019,4 +37019,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] MOVIE: 劇場版すとぷり はじまりの物語～Strawberry School Festival!!!～
   // https://annict.com/works/12850
   { annict_id: 12850, mal_id: 58522 },
+  // [null-null] TV: 姫様“拷問”の時間です 第2期
+  // https://annict.com/works/12851
+  { annict_id: 12851 },
 ]
