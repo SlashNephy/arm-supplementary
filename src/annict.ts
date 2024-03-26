@@ -31787,7 +31787,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: 万聖街 TVスペシャル
   // https://annict.com/works/11101
   { annict_id: 11101 },
-  // [2024-null] TV: 魔導具師ダリヤはうつむかない
+  // [2024-SUMMER] TV: 魔導具師ダリヤはうつむかない
   // https://annict.com/works/11102
   { annict_id: 11102, mal_id: 56449 },
   // [2024-SPRING] MOVIE: デッドデッドデーモンズデデデデデストラクション 後章
@@ -37025,4 +37025,10 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: あげおとティム
   // https://annict.com/works/12852
   { annict_id: 12852 },
+  // [2024-null] TV: Thunderbolt Fantasy 東離劍遊紀 4
+  // https://annict.com/works/12853
+  { annict_id: 12853 },
+  // [2025-null] MOVIE: Thunderbolt Fantasy 東離劍遊紀 最終章
+  // https://annict.com/works/12854
+  { annict_id: 12854 },
 ]
