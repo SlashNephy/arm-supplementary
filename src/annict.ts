@@ -37037,4 +37037,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] TV: 現代誤訳
   // https://annict.com/works/12856
   { annict_id: 12856 },
+  // [2024-WINTER] WEB: The Spider Within: A Spider-Verse Story
+  // https://annict.com/works/12857
+  { annict_id: 12857 },
 ]
