@@ -26684,7 +26684,7 @@ export const annict: ArmEntry[] = [
   // [2022-WINTER] OVA: ありふれた職業で世界最強 2nd season TV未放送エピソード「ありふれた寄り道で世界最強」
   // https://annict.com/works/9394
   { annict_id: 9394, mal_id: 50916 },
-  // [2024-SPRING] TV: 狼と香辛料 merchant meets the wise wolf
+  // [2024-SPRING] TV: 狼と香辛料 MERCHANT MEETS THE WISE WOLF
   // https://annict.com/works/9395
   { annict_id: 9395, mal_id: 51122, syobocal_tid: 7033 },
   // [2024-null] TV: グリザイア：ファントムトリガー
@@ -27652,7 +27652,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9717, mal_id: 52198, syobocal_tid: 6679 },
   // [2024-SPRING] TV: デート・ア・ライブⅤ
   // https://annict.com/works/9718
-  { annict_id: 9718, mal_id: 52196 },
+  { annict_id: 9718, mal_id: 52196, syobocal_tid: 7017 },
   // [2023-SPRING] TV: マイホームヒーロー
   // https://annict.com/works/9719
   { annict_id: 9719, mal_id: 52092, syobocal_tid: 6670 },
@@ -28966,7 +28966,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10157, mal_id: 10361 },
   // [2024-SPRING] TV: 転生したら第七王子だったので、気ままに魔術を極めます
   // https://annict.com/works/10158
-  { annict_id: 10158, mal_id: 53516 },
+  { annict_id: 10158, mal_id: 53516, syobocal_tid: 7016 },
   // [2012-SPRING] TV: 仮面ライダーフォーゼ×クレヨンしんちゃん
   // https://annict.com/works/10159
   { annict_id: 10159, mal_id: 14095 },
@@ -35168,7 +35168,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: 鴨乃橋ロンの禁断推理 2nd Season
   // https://annict.com/works/12231
   { annict_id: 12231, mal_id: 57635 },
-  // [2024-SPRING] TV: シンカリオン チェンジ ザ ワールド
+  // [2024-SPRING] TV: 新幹線変形ロボ シンカリオン チェンジ ザ ワールド
   // https://annict.com/works/12232
   { annict_id: 12232, mal_id: 57798, syobocal_tid: 7015 },
   // [1957-SPRING] MOVIE: こねこのらくがき
@@ -36919,7 +36919,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12816, mal_id: 6848 },
   // [2024-SPRING] TV: ARNOLD & PUPPETS
   // https://annict.com/works/12817
-  { annict_id: 12817 },
+  { annict_id: 12817, syobocal_tid: 7060 },
   // [null-null] TV: Sランクモンスターの《ベヒーモス》だけど、猫と間違われてエルフ娘の騎士として暮らしてます
   // https://annict.com/works/12818
   { annict_id: 12818, mal_id: 58473 },
@@ -37043,4 +37043,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] WEB: 範馬刃牙VSケンガンアシュラ
   // https://annict.com/works/12858
   { annict_id: 12858, mal_id: 58510 },
+  // [2024-null] MOVIE: 30歳まで童貞だと魔法使いになれるらしい 特別編集版
+  // https://annict.com/works/12859
+  { annict_id: 12859, mal_id: 58549 },
 ]
