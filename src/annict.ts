@@ -36167,7 +36167,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] TV: 杖と剣のウィストリア
   // https://annict.com/works/12565
   { annict_id: 12565, mal_id: 58059 },
-  // [null-null] MOVIE: メイクアガール
+  // [2025-null] MOVIE: メイクアガール
   // https://annict.com/works/12566
   { annict_id: 12566, mal_id: 54740 },
   // [1983-WINTER] MOVIE: プーさんとイーヨーのいち日
@@ -37040,4 +37040,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] WEB: The Spider Within: A Spider-Verse Story
   // https://annict.com/works/12857
   { annict_id: 12857 },
+  // [2024-SPRING] WEB: 範馬刃牙VSケンガンアシュラ
+  // https://annict.com/works/12858
+  { annict_id: 12858, mal_id: 58510 },
 ]
