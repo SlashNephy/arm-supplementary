@@ -30461,7 +30461,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] TV: 新米オッサン冒険者、最強パーティに死ぬほど鍛えられて無敵になる。
   // https://annict.com/works/10659
   { annict_id: 10659, mal_id: 54913 },
-  // [2023-SPRING] TV: おじゃる丸 (第26シリーズ)
+  // [2023-SPRING] TV: おじゃる丸（第26シリーズ）
   // https://annict.com/works/10660
   { annict_id: 10660, mal_id: 4459 },
   // [2023-SUMMER] MOVIE: 五等分の花嫁∽
@@ -37046,4 +37046,7 @@ export const annict: ArmEntry[] = [
   // [2024-null] MOVIE: 30歳まで童貞だと魔法使いになれるらしい 特別編集版
   // https://annict.com/works/12859
   { annict_id: 12859, mal_id: 58549 },
+  // [2024-SPRING] TV: おじゃる丸（第27シリーズ）
+  // https://annict.com/works/12860
+  { annict_id: 12860 },
 ]
