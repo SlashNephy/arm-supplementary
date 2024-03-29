@@ -37049,4 +37049,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: おじゃる丸（第27シリーズ）
   // https://annict.com/works/12860
   { annict_id: 12860 },
+  // [2024-SUMMER] TV: 湖池屋SDGs劇場 サスとテナ シーズン5
+  // https://annict.com/works/12861
+  { annict_id: 12861 },
 ]
