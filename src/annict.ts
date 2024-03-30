@@ -17638,7 +17638,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5914, mal_id: 8800 },
   // [2010-SUMMER] OVA: ソ・ラ・ノ・ヲ・ト 番外編 第13話「空の音・夢ノ彼方」
   // https://annict.com/works/5915
-  { annict_id: 5915 },
+  { annict_id: 5915, mal_id: 8197 },
   // [2010-SPRING] OVA: GA 芸術科アートデザインクラス OVA「青空が描きたい」
   // https://annict.com/works/5916
   { annict_id: 5916 },
