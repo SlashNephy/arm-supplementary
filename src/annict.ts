@@ -8213,7 +8213,7 @@ export const annict: ArmEntry[] = [
   // [1992-SUMMER] OVA: ジャイアントロボ THE ANIMATION -地球が静止する日
   // https://annict.com/works/2743
   { annict_id: 2743, mal_id: 2321, syobocal_tid: 2918 },
-  // [1995-WINTER] OVA: ジャイアント・ロボ THE ANIMATION 外伝 鉄腕 GinRei EPISODE:23〜禁断の果実を奪還せよ極楽大作戦!!
+  // [1995-WINTER] OVA: ジャイアント・ロボ THE ANIMATION 外伝 鉄腕 GinRei
   // https://annict.com/works/2744
   { annict_id: 2744 },
   // [1985-SUMMER] OVA: ジャスティ
@@ -32435,7 +32435,7 @@ export const annict: ArmEntry[] = [
   // [1987-AUTUMN] OVA: 夢幻戦士ヴァリス
   // https://annict.com/works/11317
   { annict_id: 11317, mal_id: 22943 },
-  // [1994-WINTER] OVA: ジャイアント・ロボ THE ANIMATION 外伝 素足のGinRei EPISODE:1〜盗まれた戦闘チャイナを探せ大作戦!!
+  // [1994-WINTER] OVA: ジャイアント・ロボ THE ANIMATION 外伝 素足のGinRei
   // https://annict.com/works/11318
   { annict_id: 11318, mal_id: 2322 },
   // [1995-SUMMER] OVA: ジャイアント・ロボ THE ANIMATION 外伝 青い瞳の銀鈴 GinRei With blue eyes
