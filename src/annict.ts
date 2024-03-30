@@ -37058,4 +37058,7 @@ export const annict: ArmEntry[] = [
   // [2010-null] OVA: ソ・ラ・ノ・ヲ・ト 番外編 第7.5話「饗宴・砦ノ戦争」
   // https://annict.com/works/12863
   { annict_id: 12863, mal_id: 8197 },
+  // [null-null] TV: 俺だけレベルアップな件 Season 2 -Arise from the Shadow-
+  // https://annict.com/works/12864
+  { annict_id: 12864, mal_id: 58567 },
 ]
