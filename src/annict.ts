@@ -23759,19 +23759,19 @@ export const annict: ArmEntry[] = [
   // [2003-SUMMER] OVA: アトランティス 帝国最後の謎
   // https://annict.com/works/8257
   { annict_id: 8257 },
-  // [2001-null] OVA: 少年科學倶楽部
+  // [2001-WINTER] OVA: 少年科學倶楽部
   // https://annict.com/works/8258
   { annict_id: 8258 },
   // [1992-SPRING] OVA: チャイナさんの憂鬱
   // https://annict.com/works/8259
   { annict_id: 8259 },
-  // [2001-null] OVA: チャイナさんの縮小
+  // [2001-WINTER] OVA: チャイナさんの縮小
   // https://annict.com/works/8260
   { annict_id: 8260 },
-  // [2001-null] OVA: チャイナさんの惑星
+  // [2001-SUMMER] OVA: チャイナさんの惑星
   // https://annict.com/works/8261
   { annict_id: 8261 },
-  // [2004-null] OVA: チャイナさんの盃
+  // [2004-WINTER] OVA: チャイナさんの盃
   // https://annict.com/works/8262
   { annict_id: 8262 },
   // [1985-SUMMER] TV: 悪魔島のプリンス 三つ目がとおる
