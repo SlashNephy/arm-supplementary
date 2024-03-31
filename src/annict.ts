@@ -36764,9 +36764,9 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] MOVIE: ロボット・ドリームズ
   // https://annict.com/works/12765
   { annict_id: 12765 },
-  // [2024-SPRING] TV: ちびゴジラの逆襲 続編
+  // [2024-SPRING] TV: ちびゴジラの逆襲 (2期)
   // https://annict.com/works/12766
-  { annict_id: 12766, mal_id: 58351 },
+  { annict_id: 12766, mal_id: 58351, syobocal_tid: 7063 },
   // [1936-null] MOVIE: 雀のお宿
   // https://annict.com/works/12767
   { annict_id: 12767, mal_id: 6827 },
