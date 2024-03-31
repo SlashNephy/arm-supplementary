@@ -12011,7 +12011,7 @@ export const annict: ArmEntry[] = [
   // [2013-SPRING] TV: LINE TOWN
   // https://annict.com/works/4017
   { annict_id: 4017, mal_id: 18155, syobocal_tid: 2972 },
-  // [2013-SPRING] TV: デュエル・マスターズ ビクトリーＶ3
+  // [2013-SPRING] TV: デュエル・マスターズ ビクトリーV3
   // https://annict.com/works/4018
   { annict_id: 4018, mal_id: 21999, syobocal_tid: 2988 },
   // [2013-SPRING] TV: イナズマイレブンGO ギャラクシー
@@ -15575,7 +15575,7 @@ export const annict: ArmEntry[] = [
   // [2017-SPRING] TV: アバローのプリンセス エレナ
   // https://annict.com/works/5220
   { annict_id: 5220, syobocal_tid: 4527 },
-  // [2017-SPRING] TV: デュエル・マスターズ (新シリーズ)
+  // [2017-SPRING] TV: デュエル・マスターズ (2017)
   // https://annict.com/works/5221
   { annict_id: 5221, mal_id: 34905, syobocal_tid: 4537 },
   // [2017-SPRING] TV: 僧侶と交わる色欲の夜に…
