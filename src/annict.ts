@@ -37063,8 +37063,8 @@ export const annict: ArmEntry[] = [
   { annict_id: 12864, mal_id: 58567 },
   // [null-null] TV: 刃牙道
   // https://annict.com/works/12865
-  { annict_id: 12865 },
+  { annict_id: 12865, mal_id: 58573 },
   // [2024-AUTUMN] TV: シャングリラ・フロンティア〜クソゲーハンター、神ゲーに挑まんとす〜 2nd season
   // https://annict.com/works/12866
-  { annict_id: 12866 },
+  { annict_id: 12866, mal_id: 58572 },
 ]
