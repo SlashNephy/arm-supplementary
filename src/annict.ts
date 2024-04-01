@@ -37070,4 +37070,7 @@ export const annict: ArmEntry[] = [
   // [2021-WINTER] WEB: ギャビーのドールハウス
   // https://annict.com/works/12867
   { annict_id: 12867, syobocal_tid: 7055 },
+  // [null-null] OTHER: ケロロ軍曹 新プロジェクト
+  // https://annict.com/works/12868
+  { annict_id: 12868 },
 ]
