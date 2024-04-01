@@ -30470,7 +30470,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: カードキャプターさくら クリアカード編 続編
   // https://annict.com/works/10662
   { annict_id: 10662, mal_id: 54916 },
-  // [2024-SPRING] OTHER: 新・やらないか
+  // [2024-SPRING] OVA: 新・やらないか
   // https://annict.com/works/10663
   { annict_id: 10663, mal_id: 54907 },
   // [2023-AUTUMN] TV: 東京リベンジャーズ 天竺編
