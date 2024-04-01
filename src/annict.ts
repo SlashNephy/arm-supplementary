@@ -37067,4 +37067,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: シャングリラ・フロンティア〜クソゲーハンター、神ゲーに挑まんとす〜 2nd season
   // https://annict.com/works/12866
   { annict_id: 12866, mal_id: 58572 },
+  // [2021-WINTER] WEB: ギャビーのドールハウス
+  // https://annict.com/works/12867
+  { annict_id: 12867, syobocal_tid: 7055 },
 ]
