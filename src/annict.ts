@@ -37073,4 +37073,10 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: ケロロ軍曹 新プロジェクト
   // https://annict.com/works/12868
   { annict_id: 12868 },
+  // [1941-null] MOVIE: アリチャン
+  // https://annict.com/works/12869
+  { annict_id: 12869, mal_id: 28245 },
+  // [1925-null] MOVIE: 教育線画 姨捨山
+  // https://annict.com/works/12870
+  { annict_id: 12870, mal_id: 27573 },
 ]
