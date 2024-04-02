@@ -37079,4 +37079,7 @@ export const annict: ArmEntry[] = [
   // [1925-null] MOVIE: 教育線画 姨捨山
   // https://annict.com/works/12870
   { annict_id: 12870, mal_id: 27573 },
+  // [1925-null] MOVIE: 線畫 つぼ
+  // https://annict.com/works/12871
+  { annict_id: 12871, mal_id: 34969 },
 ]
