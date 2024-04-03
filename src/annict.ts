@@ -31727,7 +31727,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: 歴史に残る悪女になるぞ
   // https://annict.com/works/11081
   { annict_id: 11081, mal_id: 56228 },
-  // [2024-WINTER] TV: 戦国妖狐
+  // [2024-WINTER] TV: 戦国妖狐 世直し姉弟編
   // https://annict.com/works/11082
   { annict_id: 11082, mal_id: 56242, syobocal_tid: 6923 },
   // [2023-SUMMER] WEB: 『彼女、お借りします』×『てんぷる』コラボミニアニメ
@@ -37097,4 +37097,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 天久鷹央の推理カルテ
   // https://annict.com/works/12877
   { annict_id: 12877, mal_id: 58600 },
+  // [2024-SUMMER] TV: 戦国妖狐 千魔混沌編
+  // https://annict.com/works/12878
+  { annict_id: 12878, mal_id: 58488 },
 ]
