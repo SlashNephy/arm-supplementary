@@ -37100,4 +37100,10 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] TV: 戦国妖狐 千魔混沌編
   // https://annict.com/works/12878
   { annict_id: 12878, mal_id: 58488 },
+  // [2024-WINTER] WEB: 百千家の日常
+  // https://annict.com/works/12879
+  { annict_id: 12879 },
+  // [2018-AUTUMN] WEB: ベイビーアイラブユーだぜ
+  // https://annict.com/works/12880
+  { annict_id: 12880, mal_id: 38824 },
 ]
