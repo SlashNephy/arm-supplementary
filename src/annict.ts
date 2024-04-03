@@ -37082,4 +37082,13 @@ export const annict: ArmEntry[] = [
   // [1925-null] MOVIE: 線畫 つぼ
   // https://annict.com/works/12871
   { annict_id: 12871, mal_id: 34969 },
+  // [2019-SPRING] WEB: CHRONICLE 「宇宙」予告編アニメ
+  // https://annict.com/works/12873
+  { annict_id: 12873, mal_id: 42317 },
+  // [2022-SPRING] WEB: 一番近くて遠い星
+  // https://annict.com/works/12874
+  { annict_id: 12874, mal_id: 48177 },
+  // [2022-AUTUMN] WEB: ふたり分の証明
+  // https://annict.com/works/12875
+  { annict_id: 12875, mal_id: 53933 },
 ]
