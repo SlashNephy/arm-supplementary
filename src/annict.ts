@@ -37091,4 +37091,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] WEB: ふたり分の証明
   // https://annict.com/works/12875
   { annict_id: 12875, mal_id: 53933 },
+  // [2021-SUMMER] WEB: アイドルマスターシリーズ コンセプトムービー2021『VOY@GER』
+  // https://annict.com/works/12876
+  { annict_id: 12876, mal_id: 49661 },
 ]
