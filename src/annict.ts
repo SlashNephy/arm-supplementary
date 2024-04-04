@@ -37106,4 +37106,7 @@ export const annict: ArmEntry[] = [
   // [2018-AUTUMN] WEB: ベイビーアイラブユーだぜ
   // https://annict.com/works/12880
   { annict_id: 12880, mal_id: 38824 },
+  // [2014-SUMMER] MOVIE: 女生徒(2014年)
+  // https://annict.com/works/12881
+  { annict_id: 12881, mal_id: 54193 },
 ]
