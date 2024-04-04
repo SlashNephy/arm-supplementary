@@ -24860,7 +24860,7 @@ export const annict: ArmEntry[] = [
   // [2016-AUTUMN] TV: Fate Project 大晦日TVスペシャル ～First & Next Order～『ぐだぐだオーダー』
   // https://annict.com/works/8657
   { annict_id: 8657, mal_id: 40469, syobocal_tid: 5892 },
-  // [2018-null] OVA: 押絵ト旅スル男
+  // [2018-SUMMER] OVA: 押絵ト旅スル男
   // https://annict.com/works/8658
   { annict_id: 8658, mal_id: 37365 },
   // [2023-SUMMER] MOVIE: アリスとテレスのまぼろし工場
@@ -37109,4 +37109,7 @@ export const annict: ArmEntry[] = [
   // [2014-SUMMER] MOVIE: 女生徒(2014年)
   // https://annict.com/works/12881
   { annict_id: 12881, mal_id: 54193 },
+  // [2017-SUMMER] WEB: 逢魔ヶパレヱド
+  // https://annict.com/works/12882
+  { annict_id: 12882, mal_id: 54194 },
 ]
