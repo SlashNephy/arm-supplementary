@@ -31799,7 +31799,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] MOVIE: ゼーガペインSTA
   // https://annict.com/works/11105
   { annict_id: 11105, mal_id: 56488 },
-  // [2024-null] WEB: 君に届け 3RD SEASON
+  // [2024-SUMMER] WEB: 君に届け 3RD SEASON
   // https://annict.com/works/11106
   { annict_id: 11106, mal_id: 56538 },
   // [2023-AUTUMN] MOVIE: 銀魂オンシアター2D バラガキ篇
