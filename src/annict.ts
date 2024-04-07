@@ -37115,4 +37115,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 神統記(テオゴニア)
   // https://annict.com/works/12883
   { annict_id: 12883, mal_id: 58614 },
+  // [2024-SPRING] WEB: 夜桜さんちのミニ作戦
+  // https://annict.com/works/12884
+  { annict_id: 12884 },
 ]
