@@ -27479,7 +27479,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 炎炎ノ消防隊 参ノ章
   // https://annict.com/works/9660
   { annict_id: 9660, mal_id: 51818 },
-  // [2022-SUMMER] OTHER: ROLY POLY PEOPLES
+  // [2022-SUMMER] WEB: ROLY POLY PEOPLES
   // https://annict.com/works/9661
   { annict_id: 9661, mal_id: 52421 },
   // [2020-SUMMER] WEB: 仮面ライダーゼロワン ショートアニメ EVERYONE'S DAILY LIFE
@@ -36232,7 +36232,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12586, mal_id: 58125 },
   // [2024-SPRING] TV: SHIBUYA♡HACHI
   // https://annict.com/works/12587
-  { annict_id: 12587 },
+  { annict_id: 12587, mal_id: 58447, syobocal_tid: 7067 },
   // [null-null] TV: 紫雲寺家の子供たち
   // https://annict.com/works/12588
   { annict_id: 12588, mal_id: 58131 },
@@ -37118,4 +37118,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] WEB: 夜桜さんちのミニ作戦
   // https://annict.com/works/12884
   { annict_id: 12884 },
+  // [2024-SPRING] TV: ROLY POLY PEOPLES (TV放送)
+  // https://annict.com/works/12885
+  { annict_id: 12885, mal_id: 52421, syobocal_tid: 7059 },
 ]
