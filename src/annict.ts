@@ -32191,7 +32191,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11235, mal_id: 56566, syobocal_tid: 6862 },
   // [2023-AUTUMN] TV: おしりたんてい (第8シリーズ)
   // https://annict.com/works/11236
-  { annict_id: 11236, syobocal_tid: 6871 },
+  { annict_id: 11236, syobocal_tid: 7064 },
   // [2023-WINTER] WEB: シナモンアニメだもん
   // https://annict.com/works/11237
   { annict_id: 11237 },
@@ -33199,7 +33199,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11572, mal_id: 1761 },
   // [2024-null] WEB: 聖闘士星矢: Knights of the Zodiac バトル・サンクチュアリ Part 2
   // https://annict.com/works/11573
-  { annict_id: 11573 },
+  { annict_id: 11573, syobocal_tid: 7062 },
   // [2015-AUTUMN] WEB: マイリトルポニー: エクエストリア・ガールズ
   // https://annict.com/works/11574
   { annict_id: 11574 },
