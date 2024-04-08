@@ -37121,4 +37121,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: ROLY POLY PEOPLES (TV放送)
   // https://annict.com/works/12885
   { annict_id: 12885, mal_id: 52421, syobocal_tid: 7059 },
+  // [2013-SPRING] WEB: ぷちっとがるがんてぃあ
+  // https://annict.com/works/12886
+  { annict_id: 12886 },
 ]
