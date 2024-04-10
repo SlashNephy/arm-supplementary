@@ -37124,4 +37124,7 @@ export const annict: ArmEntry[] = [
   // [2013-SPRING] WEB: ぷちっとがるがんてぃあ
   // https://annict.com/works/12886
   { annict_id: 12886 },
+  // [2012-AUTUMN] OVA: ガールズ＆パンツァー 不肖・秋山優花里の戦車講座
+  // https://annict.com/works/12887
+  { annict_id: 12887, mal_id: 18343 },
 ]
