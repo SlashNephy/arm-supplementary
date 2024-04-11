@@ -37136,4 +37136,10 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] MOVIE: コードギアス 奪還のロゼ 最終幕
   // https://annict.com/works/12890
   { annict_id: 12890 },
+  // [1999-WINTER] MOVIE: ガンドレス
+  // https://annict.com/works/12891
+  { annict_id: 12891, mal_id: 1160 },
+  // [2000-SPRING] MOVIE: ガンドレス 完全版
+  // https://annict.com/works/12892
+  { annict_id: 12892 },
 ]
