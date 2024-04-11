@@ -22502,7 +22502,7 @@ export const annict: ArmEntry[] = [
   // [2016-SUMMER] MOVIE: キングスグレイブ ファイナルファンタジーXV
   // https://annict.com/works/7808
   { annict_id: 7808, mal_id: 33082 },
-  // [2024-SPRING] MOVIE: コードギアス 奪還のロゼ
+  // [2024-SPRING] MOVIE: コードギアス 奪還のロゼ 第一幕
   // https://annict.com/works/7809
   { annict_id: 7809, mal_id: 56835 },
   // [2021-SPRING] TV: ミュークルドリーミー みっくす！
@@ -37127,4 +37127,13 @@ export const annict: ArmEntry[] = [
   // [2012-AUTUMN] OVA: ガールズ＆パンツァー 不肖・秋山優花里の戦車講座
   // https://annict.com/works/12887
   { annict_id: 12887, mal_id: 18343 },
+  // [2024-SPRING] MOVIE: コードギアス 奪還のロゼ 第二幕
+  // https://annict.com/works/12888
+  { annict_id: 12888 },
+  // [2024-SUMMER] MOVIE: コードギアス 奪還のロゼ 第三幕
+  // https://annict.com/works/12889
+  { annict_id: 12889 },
+  // [2024-SUMMER] MOVIE: コードギアス 奪還のロゼ 最終幕
+  // https://annict.com/works/12890
+  { annict_id: 12890 },
 ]
