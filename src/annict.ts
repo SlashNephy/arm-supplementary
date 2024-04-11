@@ -37142,4 +37142,7 @@ export const annict: ArmEntry[] = [
   // [2000-SPRING] MOVIE: ガンドレス 完全版
   // https://annict.com/works/12892
   { annict_id: 12892 },
+  // [2024-SPRING] OVA: ゆるキャン△ SEASON3 映像特典
+  // https://annict.com/works/12893
+  { annict_id: 12893 },
 ]
