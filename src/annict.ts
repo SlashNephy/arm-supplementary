@@ -37148,4 +37148,7 @@ export const annict: ArmEntry[] = [
   // [2016-SUMMER] WEB: イタダキノサキ
   // https://annict.com/works/12894
   { annict_id: 12894 },
+  // [null-null] MOVIE: リンダはチキンがたべたい！
+  // https://annict.com/works/12895
+  { annict_id: 12895 },
 ]
