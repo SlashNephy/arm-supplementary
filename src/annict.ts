@@ -37151,4 +37151,7 @@ export const annict: ArmEntry[] = [
   // [null-null] MOVIE: リンダはチキンがたべたい！
   // https://annict.com/works/12895
   { annict_id: 12895 },
+  // [2018-WINTER] WEB: 駅メモ！ショートアニメ「横手編」
+  // https://annict.com/works/12896
+  { annict_id: 12896 },
 ]
