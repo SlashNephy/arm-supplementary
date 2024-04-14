@@ -20207,7 +20207,7 @@ export const annict: ArmEntry[] = [
   // [2020-WINTER] TV: 織田シナモン信長
   // https://annict.com/works/6815
   { annict_id: 6815, mal_id: 40136, syobocal_tid: 5533 },
-  // [2019-SUMMER] OTHER: 少女☆寸劇 オールスタァライト
+  // [2019-SUMMER] WEB: 少女☆寸劇 オールスタァライト
   // https://annict.com/works/6816
   { annict_id: 6816, mal_id: 39643 },
   // [2021-SPRING] TV: ゾンビランドサガ リベンジ
@@ -31649,7 +31649,7 @@ export const annict: ArmEntry[] = [
   // [1938-null] MOVIE: のらくろ虎退治
   // https://annict.com/works/11055
   { annict_id: 11055 },
-  // [null-null] TV: UniteUp! 第2期
+  // [2025-WINTER] TV: UniteUp! -Uni:Birth-
   // https://annict.com/works/11056
   { annict_id: 11056, mal_id: 56135 },
   // [2023-AUTUMN] WEB: グッド・ナイト・ワールド
