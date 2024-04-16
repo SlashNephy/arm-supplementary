@@ -20777,13 +20777,13 @@ export const annict: ArmEntry[] = [
   // [2007-SUMMER] OVA: ぽてまよ オリジナルアニメ
   // https://annict.com/works/7069
   { annict_id: 7069, mal_id: 3292 },
-  // [1986-null] OVA: うる星やつら アイム・THE・終ちゃん
+  // [1986-SUMMER] OVA: うる星やつら アイム・THE・終ちゃん
   // https://annict.com/works/7070
   { annict_id: 7070 },
-  // [1987-null] OVA: うる星やつら 夢の仕掛人、因幡くん登場！ラムの未来はどうなるっちゃ!?
+  // [1987-SUMMER] OVA: うる星やつら 夢の仕掛人、因幡くん登場！ラムの未来はどうなるっちゃ!?
   // https://annict.com/works/7071
   { annict_id: 7071 },
-  // [1988-null] OVA: うる星やつら 怒れシャーベット
+  // [1988-SUMMER] OVA: うる星やつら 怒れシャーベット
   // https://annict.com/works/7072
   { annict_id: 7072 },
   // [1988-null] OVA: うる星やつら 渚のフィアンセ
@@ -20792,7 +20792,7 @@ export const annict: ArmEntry[] = [
   // [1989-null] OVA: うる星やつら 電気仕掛けの御庭番
   // https://annict.com/works/7074
   { annict_id: 7074 },
-  // [1989-null] OVA: うる星やつら 月に吠える
+  // [1989-SUMMER] OVA: うる星やつら 月に吠える
   // https://annict.com/works/7075
   { annict_id: 7075 },
   // [1989-null] OVA: うる星やつら ヤギさんとチーズ
