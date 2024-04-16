@@ -20786,7 +20786,7 @@ export const annict: ArmEntry[] = [
   // [1988-SUMMER] OVA: うる星やつら 怒れシャーベット
   // https://annict.com/works/7072
   { annict_id: 7072 },
-  // [1988-null] OVA: うる星やつら 渚のフィアンセ
+  // [1988-SUMMER] OVA: うる星やつら 渚のフィアンセ
   // https://annict.com/works/7073
   { annict_id: 7073 },
   // [1989-null] OVA: うる星やつら 電気仕掛けの御庭番
@@ -20795,16 +20795,16 @@ export const annict: ArmEntry[] = [
   // [1989-SUMMER] OVA: うる星やつら 月に吠える
   // https://annict.com/works/7075
   { annict_id: 7075 },
-  // [1989-null] OVA: うる星やつら ヤギさんとチーズ
+  // [1989-AUTUMN] OVA: うる星やつら ヤギさんとチーズ
   // https://annict.com/works/7076
   { annict_id: 7076 },
-  // [1989-null] OVA: うる星やつら ハートをつかめ
+  // [1989-SUMMER] OVA: うる星やつら ハートをつかめ
   // https://annict.com/works/7077
   { annict_id: 7077 },
   // [1991-null] OVA: うる星やつら 乙女ばしかの恐怖
   // https://annict.com/works/7078
   { annict_id: 7078 },
-  // [1991-null] OVA: うる星やつら 霊魂とデート
+  // [1991-SPRING] OVA: うる星やつら 霊魂とデート
   // https://annict.com/works/7079
   { annict_id: 7079 },
   // [2008-SUMMER] OVA: It's a Rumic World うる星やつら〜ザ・障害物水泳大会
@@ -37117,7 +37117,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12883, mal_id: 58614 },
   // [2024-SPRING] WEB: 夜桜さんちのミニ作戦
   // https://annict.com/works/12884
-  { annict_id: 12884 },
+  { annict_id: 12884, mal_id: 58644 },
   // [2024-SPRING] TV: ROLY POLY PEOPLES (TV放送)
   // https://annict.com/works/12885
   { annict_id: 12885, mal_id: 52421, syobocal_tid: 7059 },
