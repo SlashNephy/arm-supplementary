@@ -20780,7 +20780,7 @@ export const annict: ArmEntry[] = [
   // [1986-SUMMER] OVA: うる星やつら アイム・THE・終ちゃん
   // https://annict.com/works/7070
   { annict_id: 7070 },
-  // [1987-SUMMER] OVA: うる星やつら 夢の仕掛人、因幡くん登場！ラムの未来はどうなるっちゃ!?
+  // [1987-SUMMER] OVA: うる星やつら'87 夢の仕掛人、因幡くん登場！ラムの未来はどうなるっちゃ!?
   // https://annict.com/works/7071
   { annict_id: 7071 },
   // [1988-SUMMER] OVA: うる星やつら 怒れシャーベット
@@ -20789,7 +20789,7 @@ export const annict: ArmEntry[] = [
   // [1988-SUMMER] OVA: うる星やつら 渚のフィアンセ
   // https://annict.com/works/7073
   { annict_id: 7073 },
-  // [1989-null] OVA: うる星やつら 電気仕掛けの御庭番
+  // [1988-SUMMER] OVA: うる星やつら 電気仕掛けの御庭番
   // https://annict.com/works/7074
   { annict_id: 7074 },
   // [1989-SUMMER] OVA: うる星やつら 月に吠える
@@ -20801,7 +20801,7 @@ export const annict: ArmEntry[] = [
   // [1989-SUMMER] OVA: うる星やつら ハートをつかめ
   // https://annict.com/works/7077
   { annict_id: 7077 },
-  // [1991-null] OVA: うる星やつら 乙女ばしかの恐怖
+  // [1991-SPRING] OVA: うる星やつら 乙女ばしかの恐怖
   // https://annict.com/works/7078
   { annict_id: 7078 },
   // [1991-SPRING] OVA: うる星やつら 霊魂とデート
