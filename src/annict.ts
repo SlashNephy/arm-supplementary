@@ -36223,7 +36223,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12583, mal_id: 30362 },
   // [2024-SPRING] MOVIE: 銀魂オンシアター2D 一国傾城篇
   // https://annict.com/works/12584
-  { annict_id: 12584 },
+  { annict_id: 12584, mal_id: 58091 },
   // [2024-WINTER] WEB: ジブリパーク ゆっくりきて下さい。動く城編
   // https://annict.com/works/12585
   { annict_id: 12585 },
