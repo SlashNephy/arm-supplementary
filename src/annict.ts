@@ -37157,4 +37157,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] WEB: 原神ショートアニメ「燼中歌」
   // https://annict.com/works/12897
   { annict_id: 12897 },
+  // [2023-SPRING] MOVIE: シナぷしゅ THE MOVIE ぷしゅほっぺにゅうワールド
+  // https://annict.com/works/12898
+  { annict_id: 12898, mal_id: 55846 },
 ]
