@@ -35074,7 +35074,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12198, mal_id: 3227, syobocal_tid: 1299 },
   // [2024-WINTER] WEB: 放送室の着ぐるみガール
   // https://annict.com/works/12200
-  { annict_id: 12200 },
+  { annict_id: 12200, mal_id: 58648 },
   // [2024-WINTER] WEB: チェリまほミニ劇場
   // https://annict.com/works/12201
   { annict_id: 12201 },
@@ -37156,8 +37156,11 @@ export const annict: ArmEntry[] = [
   { annict_id: 12896 },
   // [2024-SPRING] WEB: 原神ショートアニメ「燼中歌」
   // https://annict.com/works/12897
-  { annict_id: 12897 },
+  { annict_id: 12897, mal_id: 58689 },
   // [2023-SPRING] MOVIE: シナぷしゅ THE MOVIE ぷしゅほっぺにゅうワールド
   // https://annict.com/works/12898
   { annict_id: 12898, mal_id: 55846 },
+  // [2024-SPRING] MOVIE: ユニコーン・ウォーズ
+  // https://annict.com/works/12899
+  { annict_id: 12899 },
 ]
