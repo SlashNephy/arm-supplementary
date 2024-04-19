@@ -37163,4 +37163,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] MOVIE: ユニコーン・ウォーズ
   // https://annict.com/works/12899
   { annict_id: 12899 },
+  // [2024-SPRING] OVA: アイドルマスター ミリオンライブ！ The Backstage　～あの日 灯った大切な想い～／～空があるから～
+  // https://annict.com/works/12900
+  { annict_id: 12900 },
 ]
