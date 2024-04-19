@@ -20798,7 +20798,7 @@ export const annict: ArmEntry[] = [
   // [1989-AUTUMN] OVA: うる星やつら ヤギさんとチーズ
   // https://annict.com/works/7076
   { annict_id: 7076 },
-  // [1989-SUMMER] OVA: うる星やつら ハートをつかめ
+  // [1989-AUTUMN] OVA: うる星やつら ハートをつかめ
   // https://annict.com/works/7077
   { annict_id: 7077 },
   // [1991-SPRING] OVA: うる星やつら 乙女ばしかの恐怖
