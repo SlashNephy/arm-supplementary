@@ -37169,4 +37169,7 @@ export const annict: ArmEntry[] = [
   // [2021-SUMMER] OTHER: The Fourth Wall
   // https://annict.com/works/12901
   { annict_id: 12901 },
+  // [2005-null] MOVIE: TOKYOファンタジア
+  // https://annict.com/works/12902
+  { annict_id: 12902, mal_id: 29780 },
 ]
