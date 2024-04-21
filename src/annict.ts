@@ -25979,7 +25979,7 @@ export const annict: ArmEntry[] = [
   // [2021-AUTUMN] WEB: フランメルズの大冒険
   // https://annict.com/works/9095
   { annict_id: 9095 },
-  // [null-null] WEB: ホワット・イフ…？ シーズン2
+  // [2023-AUTUMN] WEB: ホワット・イフ…？ シーズン2
   // https://annict.com/works/9096
   { annict_id: 9096 },
   // [2022-SPRING] WEB: ベイマックス！
