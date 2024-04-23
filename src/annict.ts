@@ -37175,4 +37175,10 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: 最凶の支援職【話術士】である俺は世界最強クランを従える
   // https://annict.com/works/12903
   { annict_id: 12903, mal_id: 58714 },
+  // [null-null] OTHER: 忍者と殺し屋のふたりぐらし
+  // https://annict.com/works/12904
+  { annict_id: 12904, mal_id: 58725 },
+  // [2024-SPRING] WEB: 餓狼伝: The Way of the Lone Wolf
+  // https://annict.com/works/12905
+  { annict_id: 12905 },
 ]
