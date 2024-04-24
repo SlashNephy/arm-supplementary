@@ -33089,7 +33089,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] TV: 悶えてよ、アダムくん
   // https://annict.com/works/11536
   { annict_id: 11536, syobocal_tid: 6945 },
-  // [null-null] OTHER: 魔法使いの約束
+  // [null-null] TV: 魔法使いの約束
   // https://annict.com/works/11537
   { annict_id: 11537, mal_id: 57152 },
   // [null-null] TV: 孕むまで乱れいけ～身代わり花嫁と軍服の猛愛
@@ -37180,7 +37180,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12904, mal_id: 58725 },
   // [2024-SPRING] WEB: 餓狼伝: The Way of the Lone Wolf
   // https://annict.com/works/12905
-  { annict_id: 12905 },
+  { annict_id: 12905, mal_id: 58717 },
   // [2024-SPRING] WEB: わんわんトレインどこへいく？
   // https://annict.com/works/12906
   { annict_id: 12906 },
