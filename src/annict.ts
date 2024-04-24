@@ -35560,7 +35560,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12361, mal_id: 37364 },
   // [2024-SPRING] WEB: じゃんたま カン！！
   // https://annict.com/works/12362
-  { annict_id: 12362, mal_id: 57753 },
+  { annict_id: 12362, mal_id: 57753, syobocal_tid: 7072 },
   // [2024-null] MOVIE: 劇場版 BanG Dream! It's MyGO!!!!! 前編 : 春の陽だまり、迷い猫
   // https://annict.com/works/12363
   { annict_id: 12363, mal_id: 57754 },
