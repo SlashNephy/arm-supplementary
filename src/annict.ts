@@ -33022,7 +33022,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11513, mal_id: 57003 },
   // [2024-SPRING] TV: ポンコツクエスト～魔王と派遣の魔物たち～ シーズン8
   // https://annict.com/works/11514
-  { annict_id: 11514 },
+  { annict_id: 11514, mal_id: 31667 },
   // [null-null] OTHER: 銀河英雄伝説 Die Neue These 続編
   // https://annict.com/works/11515
   { annict_id: 11515, mal_id: 57071 },
