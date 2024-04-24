@@ -37181,4 +37181,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] WEB: 餓狼伝: The Way of the Lone Wolf
   // https://annict.com/works/12905
   { annict_id: 12905 },
+  // [2024-SPRING] WEB: わんわんトレインどこへいく？
+  // https://annict.com/works/12906
+  { annict_id: 12906 },
 ]
