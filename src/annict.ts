@@ -36953,7 +36953,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] OVA: ガールズ＆パンツァーOVA「タイチョウ・ウォー！」
   // https://annict.com/works/12828
   { annict_id: 12828 },
-  // [2024-SUMMER] MOVIE: KING OF PRISM新作映画
+  // [2024-SUMMER] MOVIE: KING OF PRISM -Dramatic PRISM.1-
   // https://annict.com/works/12829
   { annict_id: 12829 },
   // [null-null] TV: 全修。
