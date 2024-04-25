@@ -29828,7 +29828,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] TV: AYAKA ーあやかー
   // https://annict.com/works/10446
   { annict_id: 10446, mal_id: 53428, syobocal_tid: 6748 },
-  // [2024-null] TV: アクロトリップ
+  // [2024-AUTUMN] TV: アクロトリップ
   // https://annict.com/works/10447
   { annict_id: 10447, mal_id: 53723 },
   // [2022-AUTUMN] WEB: 小林さんのツンデレ講座
