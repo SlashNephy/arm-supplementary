@@ -37184,4 +37184,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] WEB: わんわんトレインどこへいく？
   // https://annict.com/works/12906
   { annict_id: 12906 },
+  // [2025-WINTER] TV: もめんたりー・リリィ
+  // https://annict.com/works/12907
+  { annict_id: 12907 },
 ]
