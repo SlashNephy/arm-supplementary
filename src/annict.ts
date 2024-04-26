@@ -37190,4 +37190,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] WEB: 「雀魂」５周年記念ムービー『かわらないもの』
   // https://annict.com/works/12908
   { annict_id: 12908 },
+  // [2024-SPRING] WEB: selector loth WIXOSS
+  // https://annict.com/works/12909
+  { annict_id: 12909 },
 ]
