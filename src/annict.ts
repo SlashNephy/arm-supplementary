@@ -37196,4 +37196,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: アークナイツ【焔燼曙明/RISE FROM EMBER】
   // https://annict.com/works/12910
   { annict_id: 12910 },
+  // [2024-SPRING] TV: まぁるい彼女と残念な彼氏
+  // https://annict.com/works/12911
+  { annict_id: 12911 },
 ]
