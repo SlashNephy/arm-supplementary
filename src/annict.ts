@@ -37183,7 +37183,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12905, mal_id: 58717 },
   // [2024-SPRING] WEB: わんわんトレインどこへいく？
   // https://annict.com/works/12906
-  { annict_id: 12906 },
+  { annict_id: 12906, mal_id: 58746 },
   // [2025-WINTER] TV: もめんたりー・リリィ
   // https://annict.com/works/12907
   { annict_id: 12907, mal_id: 58739 },
@@ -37195,7 +37195,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12909 },
   // [null-null] TV: アークナイツ【焔燼曙明/RISE FROM EMBER】
   // https://annict.com/works/12910
-  { annict_id: 12910 },
+  { annict_id: 12910, mal_id: 58749 },
   // [2024-SPRING] TV: まぁるい彼女と残念な彼氏
   // https://annict.com/works/12911
   { annict_id: 12911 },
