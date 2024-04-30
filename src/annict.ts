@@ -37202,4 +37202,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 五等分の花嫁＊
   // https://annict.com/works/12912
   { annict_id: 12912, mal_id: 58755 },
+  // [2009-AUTUMN] WEB: フミコの告白
+  // https://annict.com/works/12913
+  { annict_id: 12913, mal_id: 8187 },
 ]
