@@ -31715,7 +31715,7 @@ export const annict: ArmEntry[] = [
   // [null-null] MOVIE: Fate/kaleid liner プリズマ☆イリヤ Licht 続編
   // https://annict.com/works/11077
   { annict_id: 11077, mal_id: 49703 },
-  // [2024-null] TV: グレンダイザーU
+  // [2024-SUMMER] TV: グレンダイザーU
   // https://annict.com/works/11078
   { annict_id: 11078, mal_id: 56189 },
   // [2024-SUMMER] MOVIE: 僕のヒーローアカデミア THE MOVIE ユアネクスト
