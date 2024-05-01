@@ -37072,7 +37072,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12867, syobocal_tid: 7055 },
   // [null-null] OTHER: ケロロ軍曹 新プロジェクト
   // https://annict.com/works/12868
-  { annict_id: 12868 },
+  { annict_id: 12868, mal_id: 58773 },
   // [1941-null] MOVIE: アリチャン
   // https://annict.com/works/12869
   { annict_id: 12869, mal_id: 28245 },
@@ -37211,4 +37211,7 @@ export const annict: ArmEntry[] = [
   // [2019-WINTER] WEB: 豊島区×アニメイト「池袋PRアニメ」
   // https://annict.com/works/12915
   { annict_id: 12915, mal_id: 38783 },
+  // [2018-AUTUMN] WEB: 「東アジア文化都市2019豊島」プロモーション映像
+  // https://annict.com/works/12916
+  { annict_id: 12916, mal_id: 38674 },
 ]
