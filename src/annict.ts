@@ -37153,7 +37153,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12895 },
   // [2018-WINTER] WEB: 駅メモ！ショートアニメ「横手編」
   // https://annict.com/works/12896
-  { annict_id: 12896 },
+  { annict_id: 12896, mal_id: 36973 },
   // [2024-SPRING] WEB: 原神ショートアニメ「燼中歌」
   // https://annict.com/works/12897
   { annict_id: 12897, mal_id: 58689 },
