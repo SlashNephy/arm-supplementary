@@ -27074,7 +27074,7 @@ export const annict: ArmEntry[] = [
   // [2022-SPRING] OVA: 勇者、辞めます 新作アニメーション「研修旅行は目的を見失うな」
   // https://annict.com/works/9525
   { annict_id: 9525, mal_id: 51562 },
-  // [2024-SUMMER] MOVIE: 「ツキウタ。」 劇場版 『RABBITS KINGDOM THE MOVIE』
+  // [2024-SPRING] MOVIE: 「ツキウタ。」 劇場版 『RABBITS KINGDOM THE MOVIE』
   // https://annict.com/works/9526
   { annict_id: 9526, mal_id: 51539 },
   // [2022-SPRING] WEB: さむらいラビット: ザ・ウサギ・クロニクル
@@ -31442,7 +31442,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: NEW PANTY AND STOCKING
   // https://annict.com/works/10986
   { annict_id: 10986, mal_id: 52293 },
-  // [2024-AUTUMN] WEB: 村井の恋
+  // [2024-AUTUMN] TV: 村井の恋
   // https://annict.com/works/10987
   { annict_id: 10987, mal_id: 52080 },
   // [null-null] TV: リビルドワールド
