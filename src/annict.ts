@@ -37205,4 +37205,7 @@ export const annict: ArmEntry[] = [
   // [2009-AUTUMN] WEB: フミコの告白
   // https://annict.com/works/12913
   { annict_id: 12913, mal_id: 8187 },
+  // [2024-SPRING] WEB: 〈物語〉シリーズ特別総集編「ココカラ始メル物語」
+  // https://annict.com/works/12914
+  { annict_id: 12914 },
 ]
