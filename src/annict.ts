@@ -37208,4 +37208,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] WEB: 〈物語〉シリーズ特別総集編「ココカラ始メル物語」
   // https://annict.com/works/12914
   { annict_id: 12914 },
+  // [2019-WINTER] WEB: 豊島区×アニメイト「池袋PRアニメ」
+  // https://annict.com/works/12915
+  { annict_id: 12915, mal_id: 38783 },
 ]
