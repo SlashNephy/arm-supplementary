@@ -37214,4 +37214,7 @@ export const annict: ArmEntry[] = [
   // [2018-AUTUMN] WEB: 「東アジア文化都市2019豊島」プロモーション映像
   // https://annict.com/works/12916
   { annict_id: 12916, mal_id: 38674 },
+  // [2025-AUTUMN] TV: かくりよの宿飯 第2期
+  // https://annict.com/works/12917
+  { annict_id: 12917, mal_id: 58772 },
 ]
