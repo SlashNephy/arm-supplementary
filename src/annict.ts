@@ -37223,7 +37223,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] OVA: サケトロノオト 未公開エピソード
   // https://annict.com/works/12919
   { annict_id: 12919 },
-  // [2024-AUTUMN] OTHER: お買いものパンダ！
+  // [2024-AUTUMN] TV: お買いものパンダ！
   // https://annict.com/works/12920
   { annict_id: 12920 },
 ]
