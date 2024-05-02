@@ -37217,4 +37217,13 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] TV: かくりよの宿飯 第2期
   // https://annict.com/works/12917
   { annict_id: 12917, mal_id: 58772 },
+  // [2024-SPRING] WEB: サケトロノオト
+  // https://annict.com/works/12918
+  { annict_id: 12918 },
+  // [2024-SUMMER] OVA: サケトロノオト 未公開エピソード
+  // https://annict.com/works/12919
+  { annict_id: 12919 },
+  // [2024-AUTUMN] OTHER: お買いものパンダ！
+  // https://annict.com/works/12920
+  { annict_id: 12920 },
 ]
