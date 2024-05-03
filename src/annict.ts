@@ -35825,7 +35825,7 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: 笑顔のたえない職場です。
   // https://annict.com/works/12450
   { annict_id: 12450, mal_id: 57859 },
-  // [2024-null] OTHER: 〈物語〉シリーズ オフ&モンスターシーズン
+  // [2024-SUMMER] WEB: 〈物語〉シリーズ オフ&モンスターシーズン
   // https://annict.com/works/12451
   { annict_id: 12451, mal_id: 57864 },
   // [2020-SUMMER] WEB: ハズビン・ホテル(パイロット版)
