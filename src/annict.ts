@@ -12958,7 +12958,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 4334, mal_id: 19489, syobocal_tid: 4449 },
   // [2013-WINTER] MOVIE: 劇場版リトルウィッチアカデミア
   // https://annict.com/works/4335
-  { annict_id: 4335, mal_id: 14349 },
+  { annict_id: 4335, mal_id: 14349, syobocal_tid: 2963 },
   // [2015-SUMMER] TV: ケイオスドラゴン 赤竜戦役
   // https://annict.com/works/4336
   { annict_id: 4336, mal_id: 30091, syobocal_tid: 3808 },
