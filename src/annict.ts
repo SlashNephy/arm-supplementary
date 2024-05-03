@@ -37229,4 +37229,7 @@ export const annict: ArmEntry[] = [
   // [1960-WINTER] TV: 新しい動画 3つのはなし
   // https://annict.com/works/12921
   { annict_id: 12921, mal_id: 8774 },
+  // [2024-SUMMER] WEB: T・Pぼん シーズン2
+  // https://annict.com/works/12922
+  { annict_id: 12922 },
 ]
