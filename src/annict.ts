@@ -37232,4 +37232,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] WEB: T・Pぼん シーズン2
   // https://annict.com/works/12922
   { annict_id: 12922 },
+  // [null-null] TV: 違国日記
+  // https://annict.com/works/12923
+  { annict_id: 12923, mal_id: 58788 },
 ]
