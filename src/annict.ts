@@ -37235,4 +37235,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 違国日記
   // https://annict.com/works/12923
   { annict_id: 12923, mal_id: 58788 },
+  // [2019-AUTUMN] OTHER: 大須のぶーちゃん
+  // https://annict.com/works/12924
+  { annict_id: 12924 },
 ]
