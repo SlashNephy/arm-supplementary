@@ -37244,4 +37244,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] MOVIE: ギレルモ・デル・トロのピノッキオ
   // https://annict.com/works/12926
   { annict_id: 12926 },
+  // [2025-null] TV: 桃源暗鬼
+  // https://annict.com/works/12927
+  { annict_id: 12927, mal_id: 58811 },
 ]
