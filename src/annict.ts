@@ -37247,4 +37247,10 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: 桃源暗鬼
   // https://annict.com/works/12927
   { annict_id: 12927, mal_id: 58811 },
+  // [2022-SPRING] WEB: 大槌カイ物語 -Voyage 航海-
+  // https://annict.com/works/12928
+  { annict_id: 12928 },
+  // [2024-SPRING] WEB: 大槌超神楽ダイハンマー
+  // https://annict.com/works/12929
+  { annict_id: 12929 },
 ]
