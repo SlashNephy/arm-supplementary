@@ -37238,4 +37238,7 @@ export const annict: ArmEntry[] = [
   // [2019-AUTUMN] OTHER: 大須のぶーちゃん
   // https://annict.com/works/12924
   { annict_id: 12924 },
+  // [1926-null] MOVIE: 馬具田城の盗賊
+  // https://annict.com/works/12925
+  { annict_id: 12925, mal_id: 28041 },
 ]
