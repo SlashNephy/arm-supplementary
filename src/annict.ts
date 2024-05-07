@@ -37241,4 +37241,7 @@ export const annict: ArmEntry[] = [
   // [1926-null] MOVIE: 馬具田城の盗賊
   // https://annict.com/works/12925
   { annict_id: 12925, mal_id: 28041 },
+  // [2022-AUTUMN] MOVIE: ギレルモ・デル・トロのピノッキオ
+  // https://annict.com/works/12926
+  { annict_id: 12926 },
 ]
