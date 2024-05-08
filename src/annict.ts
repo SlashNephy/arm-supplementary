@@ -33083,7 +33083,7 @@ export const annict: ArmEntry[] = [
   // [2022-SUMMER] WEB: ジュラシック・ワールド/サバイバル・キャンプ シーズン5
   // https://annict.com/works/11534
   { annict_id: 11534 },
-  // [2024-null] WEB: ジュラシック･ワールド/サバイバル・ミッション
+  // [2024-SPRING] WEB: ジュラシック･ワールド/サバイバル・ミッション
   // https://annict.com/works/11535
   { annict_id: 11535 },
   // [2024-WINTER] TV: 悶えてよ、アダムくん
