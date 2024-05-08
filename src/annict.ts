@@ -37253,4 +37253,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] WEB: 大槌超神楽ダイハンマー
   // https://annict.com/works/12929
   { annict_id: 12929 },
+  // [null-null] TV: YAIBA
+  // https://annict.com/works/12930
+  { annict_id: 12930, mal_id: 58812 },
 ]
