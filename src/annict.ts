@@ -8693,7 +8693,7 @@ export const annict: ArmEntry[] = [
   // [1987-SPRING] OVA: 2001夜物語
   // https://annict.com/works/2906
   { annict_id: 2906, mal_id: 1662 },
-  // [1988-WINTER] OVA: New Story of Aura Battler DUNBINE (聖戦士ダンバイン)
+  // [1988-WINTER] OVA: New Story of Aura Battler DUNBINE
   // https://annict.com/works/2907
   { annict_id: 2907, mal_id: 5372, syobocal_tid: 4084 },
   // [1996-WINTER] OVA: Ninja者
@@ -37256,4 +37256,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: YAIBA
   // https://annict.com/works/12930
   { annict_id: 12930, mal_id: 58812 },
+  // [2024-SPRING] WEB: AURA BATTLER DUNBINE SIDE L
+  // https://annict.com/works/12931
+  { annict_id: 12931 },
 ]
