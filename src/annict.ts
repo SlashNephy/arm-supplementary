@@ -37259,4 +37259,10 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] WEB: AURA BATTLER DUNBINE SIDE L
   // https://annict.com/works/12931
   { annict_id: 12931 },
+  // [2025-WINTER] TV: いずれ最強の錬金術師？
+  // https://annict.com/works/12932
+  { annict_id: 12932, mal_id: 58822 },
+  // [null-null] OTHER: 淡島百景
+  // https://annict.com/works/12933
+  { annict_id: 12933, mal_id: 58820 },
 ]
