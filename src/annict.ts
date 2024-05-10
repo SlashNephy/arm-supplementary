@@ -37298,4 +37298,7 @@ export const annict: ArmEntry[] = [
   // [1930-SPRING] MOVIE: ミッキーのダンス・パーティー
   // https://annict.com/works/12944
   { annict_id: 12944 },
+  // [2018-null] WEB: 海ノ民話のまちプロジェクトアニメーション
+  // https://annict.com/works/12945
+  { annict_id: 12945 },
 ]
