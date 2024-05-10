@@ -37265,4 +37265,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 淡島百景
   // https://annict.com/works/12933
   { annict_id: 12933, mal_id: 58820 },
+  // [1930-WINTER] MOVIE: ミッキーのバイオリニスト
+  // https://annict.com/works/12934
+  { annict_id: 12934 },
 ]
