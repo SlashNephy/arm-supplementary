@@ -37268,4 +37268,34 @@ export const annict: ArmEntry[] = [
   // [1930-WINTER] MOVIE: ミッキーのバイオリニスト
   // https://annict.com/works/12934
   { annict_id: 12934 },
+  // [null-null] OTHER: おでかけ子ザメ 新シリーズ
+  // https://annict.com/works/12935
+  { annict_id: 12935 },
+  // [1929-AUTUMN] MOVIE: ミッキーの汽車旅行
+  // https://annict.com/works/12936
+  { annict_id: 12936 },
+  // [1929-AUTUMN] MOVIE: ミッキーの浮かれ音楽団
+  // https://annict.com/works/12937
+  { annict_id: 12937 },
+  // [1929-AUTUMN] MOVIE: ミッキーのジャングル・リズム
+  // https://annict.com/works/12938
+  { annict_id: 12938 },
+  // [1929-AUTUMN] MOVIE: お化け屋敷
+  // https://annict.com/works/12939
+  { annict_id: 12939 },
+  // [1929-AUTUMN] MOVIE: ミッキーの海山越えて
+  // https://annict.com/works/12940
+  { annict_id: 12940 },
+  // [1930-SPRING] MOVIE: 名指揮者ミッキー
+  // https://annict.com/works/12941
+  { annict_id: 12941 },
+  // [1930-SPRING] MOVIE: カクタス・キッド
+  // https://annict.com/works/12942
+  { annict_id: 12942 },
+  // [1930-SPRING] MOVIE: ミッキーの消防夫
+  // https://annict.com/works/12943
+  { annict_id: 12943 },
+  // [1930-SPRING] MOVIE: ミッキーのダンス・パーティー
+  // https://annict.com/works/12944
+  { annict_id: 12944 },
 ]
