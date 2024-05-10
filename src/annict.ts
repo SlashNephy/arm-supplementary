@@ -37225,7 +37225,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12919 },
   // [2024-AUTUMN] TV: お買いものパンダ！
   // https://annict.com/works/12920
-  { annict_id: 12920 },
+  { annict_id: 12920, mal_id: 58827 },
   // [1960-WINTER] TV: 新しい動画 3つのはなし
   // https://annict.com/works/12921
   { annict_id: 12921, mal_id: 8774 },
