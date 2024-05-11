@@ -37301,4 +37301,7 @@ export const annict: ArmEntry[] = [
   // [2018-null] WEB: 海ノ民話のまちプロジェクトアニメーション
   // https://annict.com/works/12945
   { annict_id: 12945 },
+  // [2015-WINTER] MOVIE: 劇場版 ムーミン谷の彗星 パペット・アニメーション
+  // https://annict.com/works/12946
+  { annict_id: 12946 },
 ]
