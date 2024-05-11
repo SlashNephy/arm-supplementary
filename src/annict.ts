@@ -37270,7 +37270,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12934 },
   // [null-null] OTHER: おでかけ子ザメ 新シリーズ
   // https://annict.com/works/12935
-  { annict_id: 12935 },
+  { annict_id: 12935, mal_id: 58837 },
   // [1929-AUTUMN] MOVIE: ミッキーの汽車旅行
   // https://annict.com/works/12936
   { annict_id: 12936 },
