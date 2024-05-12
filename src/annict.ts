@@ -37310,4 +37310,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] WEB: スター・ウォーズ テイルズ・オブ・エンパイア
   // https://annict.com/works/12948
   { annict_id: 12948 },
+  // [2024-WINTER] WEB: スター・ウォーズ バッド・バッチ ファイナルシーズン
+  // https://annict.com/works/12949
+  { annict_id: 12949 },
 ]
