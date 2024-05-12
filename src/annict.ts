@@ -37307,4 +37307,7 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: かくして!! マキナさん！
   // https://annict.com/works/12947
   { annict_id: 12947, mal_id: 58833 },
+  // [2024-SPRING] WEB: スター・ウォーズ テイルズ・オブ・エンパイア
+  // https://annict.com/works/12948
+  { annict_id: 12948 },
 ]
