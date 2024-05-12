@@ -33089,7 +33089,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] TV: 悶えてよ、アダムくん
   // https://annict.com/works/11536
   { annict_id: 11536, syobocal_tid: 6945 },
-  // [null-null] TV: 魔法使いの約束
+  // [2025-WINTER] TV: 魔法使いの約束
   // https://annict.com/works/11537
   { annict_id: 11537, mal_id: 57152 },
   // [null-null] TV: 孕むまで乱れいけ～身代わり花嫁と軍服の猛愛
@@ -37304,4 +37304,7 @@ export const annict: ArmEntry[] = [
   // [2015-WINTER] MOVIE: 劇場版 ムーミン谷の彗星 パペット・アニメーション
   // https://annict.com/works/12946
   { annict_id: 12946 },
+  // [2025-null] TV: かくして!! マキナさん！
+  // https://annict.com/works/12947
+  { annict_id: 12947, mal_id: 58833 },
 ]
