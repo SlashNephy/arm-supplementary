@@ -37345,10 +37345,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 12959 },
   // [null-null] TV: 黒岩メダカに私の可愛いが通じない
   // https://annict.com/works/12960
-  { annict_id: 12960 },
+  { annict_id: 12960, mal_id: 58853 },
   // [2024-AUTUMN] TV: きのこいぬ
   // https://annict.com/works/12961
-  { annict_id: 12961 },
+  { annict_id: 12961, mal_id: 58854 },
   // [1930-SUMMER] MOVIE: 真夜中のおもちゃ屋
   // https://annict.com/works/12962
   { annict_id: 12962 },
