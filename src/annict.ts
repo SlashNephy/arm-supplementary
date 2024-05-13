@@ -37295,7 +37295,7 @@ export const annict: ArmEntry[] = [
   // [1930-SPRING] MOVIE: ミッキーの消防夫
   // https://annict.com/works/12943
   { annict_id: 12943 },
-  // [1930-SPRING] MOVIE: ミッキーのダンス・パーティー
+  // [1930-SUMMER] MOVIE: ミッキーのダンス・パーティー
   // https://annict.com/works/12944
   { annict_id: 12944 },
   // [2018-null] WEB: 海ノ民話のまちプロジェクトアニメーション
@@ -37349,4 +37349,13 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: きのこいぬ
   // https://annict.com/works/12961
   { annict_id: 12961 },
+  // [1930-SUMMER] MOVIE: 真夜中のおもちゃ屋
+  // https://annict.com/works/12962
+  { annict_id: 12962 },
+  // [1930-SUMMER] MOVIE: ミッキーの陽気な囚人
+  // https://annict.com/works/12963
+  { annict_id: 12963 },
+  // [1930-SUMMER] MOVIE: モンキーメロディー
+  // https://annict.com/works/12964
+  { annict_id: 12964 },
 ]
