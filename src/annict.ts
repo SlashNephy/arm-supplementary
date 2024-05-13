@@ -37313,4 +37313,34 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] WEB: スター・ウォーズ バッド・バッチ ファイナルシーズン
   // https://annict.com/works/12949
   { annict_id: 12949 },
+  // [1929-SUMMER] MOVIE: おそろしい闘牛士
+  // https://annict.com/works/12950
+  { annict_id: 12950 },
+  // [1929-AUTUMN] MOVIE: 春
+  // https://annict.com/works/12951
+  { annict_id: 12951 },
+  // [1929-AUTUMN] MOVIE: 地獄の悪魔退治
+  // https://annict.com/works/12952
+  { annict_id: 12952 },
+  // [1929-AUTUMN] MOVIE: 森の小人
+  // https://annict.com/works/12953
+  { annict_id: 12953 },
+  // [1930-WINTER] MOVIE: 夏
+  // https://annict.com/works/12954
+  { annict_id: 12954 },
+  // [1930-WINTER] MOVIE: 秋
+  // https://annict.com/works/12955
+  { annict_id: 12955 },
+  // [1930-WINTER] MOVIE: 人喰い族の踊り
+  // https://annict.com/works/12956
+  { annict_id: 12956 },
+  // [1930-SPRING] MOVIE: 夜
+  // https://annict.com/works/12957
+  { annict_id: 12957 },
+  // [1930-SPRING] MOVIE: 海底のファンタジー
+  // https://annict.com/works/12958
+  { annict_id: 12958 },
+  // [1930-SPRING] MOVIE: 北極の道化者
+  // https://annict.com/works/12959
+  { annict_id: 12959 },
 ]
