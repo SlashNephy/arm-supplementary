@@ -37358,4 +37358,7 @@ export const annict: ArmEntry[] = [
   // [1930-SUMMER] MOVIE: モンキーメロディー
   // https://annict.com/works/12964
   { annict_id: 12964 },
+  // [2024-SPRING] WEB: 転生したらおまけアニメだったので、気ままに舞台裏を極めます
+  // https://annict.com/works/12965
+  { annict_id: 12965 },
 ]
