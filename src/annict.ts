@@ -37295,7 +37295,7 @@ export const annict: ArmEntry[] = [
   // [1930-SPRING] MOVIE: ミッキーの消防夫
   // https://annict.com/works/12943
   { annict_id: 12943 },
-  // [1930-SUMMER] MOVIE: ミッキーのダンス・パーティー
+  // [1930-SUMMER] MOVIE: ミッキーのダンス・パーティー(1930年)
   // https://annict.com/works/12944
   { annict_id: 12944 },
   // [2018-null] WEB: 海ノ民話のまちプロジェクトアニメーション
@@ -37361,4 +37361,28 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] WEB: 転生したらおまけアニメだったので、気ままに舞台裏を極めます
   // https://annict.com/works/12965
   { annict_id: 12965 },
+  // [1930-AUTUMN] MOVIE: ミッキーのゴリラ騒動
+  // https://annict.com/works/12966
+  { annict_id: 12966 },
+  // [1930-AUTUMN] MOVIE: ミッキーのピクニック
+  // https://annict.com/works/12967
+  { annict_id: 12967 },
+  // [1930-AUTUMN] MOVIE: 冬の夜
+  // https://annict.com/works/12968
+  { annict_id: 12968 },
+  // [1930-AUTUMN] MOVIE: ミッキーの幌馬車時代
+  // https://annict.com/works/12969
+  { annict_id: 12969 },
+  // [1930-AUTUMN] MOVIE: 森の妖精(1930年)
+  // https://annict.com/works/12970
+  { annict_id: 12970 },
+  // [1931-WINTER] MOVIE: ミッキーのバースデー・パーティー
+  // https://annict.com/works/12971
+  { annict_id: 12971 },
+  // [1931-WINTER] MOVIE: 共同作戦異常なし
+  // https://annict.com/works/12972
+  { annict_id: 12972 },
+  // [1931-WINTER] MOVIE: タクシードライバー
+  // https://annict.com/works/12973
+  { annict_id: 12973 },
 ]
