@@ -35735,9 +35735,9 @@ export const annict: ArmEntry[] = [
   // [2024-null] TV: 凍牌〜裏レート麻雀闘牌録〜
   // https://annict.com/works/12420
   { annict_id: 12420, mal_id: 57796 },
-  // [null-null] WEB: あたしンち 新作アニメ
+  // [2024-SPRING] WEB: あたしンちNEXT
   // https://annict.com/works/12421
-  { annict_id: 12421 },
+  { annict_id: 12421, mal_id: 57822 },
   // [2024-SUMMER] TV: 小市民シリーズ
   // https://annict.com/works/12422
   { annict_id: 12422, mal_id: 57810 },
@@ -37388,4 +37388,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 花ざかりの君たちへ
   // https://annict.com/works/12974
   { annict_id: 12974, mal_id: 58861 },
+  // [2024-SPRING] WEB: HIGHSPEED Étoile コラボミニアニメ
+  // https://annict.com/works/12975
+  { annict_id: 12975 },
 ]
