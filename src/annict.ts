@@ -37391,4 +37391,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] WEB: HIGHSPEED Étoile コラボミニアニメ
   // https://annict.com/works/12975
   { annict_id: 12975 },
+  // [2024-SPRING] WEB: 「魔法少女ホロウィッチ！」アニメーションPV
+  // https://annict.com/works/12976
+  { annict_id: 12976, mal_id: 58866 },
 ]
