@@ -31127,7 +31127,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] WEB: おでかけ子ザメ
   // https://annict.com/works/10881
   { annict_id: 10881, mal_id: 55463, syobocal_tid: 6781 },
-  // [null-null] OTHER: ざつ旅 -That's Journey-
+  // [2025-null] TV: ざつ旅 -That's Journey-
   // https://annict.com/works/10882
   { annict_id: 10882, mal_id: 55514 },
   // [2023-SUMMER] MOVIE: マスターオブスキル For the GLORY
