@@ -35581,7 +35581,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12368, mal_id: 8214 },
   // [1987-AUTUMN] TV: キテレツ大百科(スペシャル)
   // https://annict.com/works/12369
-  { annict_id: 12369 },
+  { annict_id: 12369, mal_id: 58850 },
   // [1988-WINTER] TV: '88サイエンスアニメスペシャル 超・電・導ものがたり
   // https://annict.com/works/12370
   { annict_id: 12370 },
