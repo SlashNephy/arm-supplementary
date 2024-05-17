@@ -37394,4 +37394,43 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] WEB: 「魔法少女ホロウィッチ！」アニメーションPV
   // https://annict.com/works/12976
   { annict_id: 12976, mal_id: 58866 },
+  // [1931-SPRING] MOVIE: ミッキーの無人島漂流
+  // https://annict.com/works/12977
+  { annict_id: 12977 },
+  // [1931-SPRING] MOVIE: 童話行進曲
+  // https://annict.com/works/12978
+  { annict_id: 12978 },
+  // [1931-SPRING] MOVIE: ミッキーの大鹿狩り
+  // https://annict.com/works/12979
+  { annict_id: 12979 },
+  // [1931-SPRING] MOVIE: 桃源の夢
+  // https://annict.com/works/12980
+  { annict_id: 12980 },
+  // [1931-SPRING] MOVIE: ミッキーの楽器配達
+  // https://annict.com/works/12981
+  { annict_id: 12981 },
+  // [1931-SPRING] MOVIE: カワウソ物語
+  // https://annict.com/works/12982
+  { annict_id: 12982 },
+  // [1931-SUMMER] MOVIE: ミッキーの恋人訪問
+  // https://annict.com/works/12983
+  { annict_id: 12983 },
+  // [1931-SUMMER] MOVIE: 恐怖の一夜
+  // https://annict.com/works/12984
+  { annict_id: 12984 },
+  // [1931-SUMMER] MOVIE: ミッキーとミニーの音楽隊
+  // https://annict.com/works/12985
+  { annict_id: 12985 },
+  // [1931-SUMMER] MOVIE: エジプトの夢
+  // https://annict.com/works/12986
+  { annict_id: 12986 },
+  // [1931-SUMMER] MOVIE: ミッキーの釣り名人
+  // https://annict.com/works/12987
+  { annict_id: 12987 },
+  // [1931-SUMMER] MOVIE: 夜の時計店
+  // https://annict.com/works/12988
+  { annict_id: 12988 },
+  // [2000-AUTUMN] OVA: ヨセフ物語 ～夢の力～
+  // https://annict.com/works/12989
+  { annict_id: 12989 },
 ]
