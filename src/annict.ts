@@ -37448,4 +37448,7 @@ export const annict: ArmEntry[] = [
   // [1927-AUTUMN] MOVIE: オール・ウェット
   // https://annict.com/works/12994
   { annict_id: 12994 },
+  // [1927-AUTUMN] MOVIE: ジ・オーシャン・ホップ
+  // https://annict.com/works/12995
+  { annict_id: 12995 },
 ]
