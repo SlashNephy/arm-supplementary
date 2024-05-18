@@ -37433,4 +37433,13 @@ export const annict: ArmEntry[] = [
   // [2000-AUTUMN] OVA: ヨセフ物語 ～夢の力～
   // https://annict.com/works/12989
   { annict_id: 12989 },
+  // [1927-SUMMER] MOVIE: トロリー・トラブルズ
+  // https://annict.com/works/12990
+  { annict_id: 12990 },
+  // [1927-SUMMER] MOVIE: オー、ティーチャー
+  // https://annict.com/works/12991
+  { annict_id: 12991 },
+  // [1927-AUTUMN] MOVIE: ザ・メカニカル・カウ
+  // https://annict.com/works/12992
+  { annict_id: 12992 },
 ]
