@@ -37454,4 +37454,7 @@ export const annict: ArmEntry[] = [
   // [1927-AUTUMN] MOVIE: Empty Socks（原題）
   // https://annict.com/works/12996
   { annict_id: 12996 },
+  // [null-null] TV: ダイヤのA act II 続編
+  // https://annict.com/works/12997
+  { annict_id: 12997 },
 ]
