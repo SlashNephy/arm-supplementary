@@ -37442,4 +37442,10 @@ export const annict: ArmEntry[] = [
   // [1927-AUTUMN] MOVIE: ザ・メカニカル・カウ
   // https://annict.com/works/12992
   { annict_id: 12992 },
+  // [1927-AUTUMN] MOVIE: グレイト・ガンズ
+  // https://annict.com/works/12993
+  { annict_id: 12993 },
+  // [1927-AUTUMN] MOVIE: オール・ウェット
+  // https://annict.com/works/12994
+  { annict_id: 12994 },
 ]
