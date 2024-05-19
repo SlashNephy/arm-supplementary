@@ -15827,7 +15827,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: ほえよ！0011
   // https://annict.com/works/5306
   { annict_id: 5306 },
-  // [null-null] TV: まんがオールスター おもしろオリンピック
+  // [1979-SUMMER] TV: まんがオールスター おもしろオリンピック
   // https://annict.com/works/5307
   { annict_id: 5307 },
   // [null-null] TV: クマゴローの宇宙猛レース
@@ -37457,4 +37457,37 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: ダイヤのA act II 続編
   // https://annict.com/works/12997
   { annict_id: 12997 },
+  // [1931-AUTUMN] MOVIE: クモとハエ
+  // https://annict.com/works/12998
+  { annict_id: 12998 },
+  // [1931-AUTUMN] MOVIE: ミッキーのアナウンサー
+  // https://annict.com/works/12999
+  { annict_id: 12999 },
+  // [1931-AUTUMN] MOVIE: キツネ狩り
+  // https://annict.com/works/13000
+  { annict_id: 13000 },
+  // [1931-AUTUMN] MOVIE: ミッキーの浜辺騒動
+  // https://annict.com/works/13001
+  { annict_id: 13001 },
+  // [1931-AUTUMN] MOVIE: ミッキーの植木屋
+  // https://annict.com/works/13002
+  { annict_id: 13002 },
+  // [1931-AUTUMN] MOVIE: ミッキーの子沢山
+  // https://annict.com/works/13003
+  { annict_id: 13003 },
+  // [1931-AUTUMN] MOVIE: みにくいあひるの子(1931年)
+  // https://annict.com/works/13004
+  { annict_id: 13004 },
+  // [1932-WINTER] MOVIE: バードショップ狂騒曲
+  // https://annict.com/works/13005
+  { annict_id: 13005 },
+  // [1932-WINTER] MOVIE: ミッキーの鴨猟
+  // https://annict.com/works/13006
+  { annict_id: 13006 },
+  // [1932-WINTER] MOVIE: ミッキーの御用聞き
+  // https://annict.com/works/13007
+  { annict_id: 13007 },
+  // [1932-WINTER] MOVIE: ミッキーのシャボン玉騒動
+  // https://annict.com/works/13008
+  { annict_id: 13008 },
 ]
