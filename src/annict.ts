@@ -37463,7 +37463,7 @@ export const annict: ArmEntry[] = [
   // [1931-AUTUMN] MOVIE: ミッキーのアナウンサー
   // https://annict.com/works/12999
   { annict_id: 12999 },
-  // [1931-AUTUMN] MOVIE: キツネ狩り
+  // [1931-AUTUMN] MOVIE: キツネ狩り(1931年)
   // https://annict.com/works/13000
   { annict_id: 13000 },
   // [1931-AUTUMN] MOVIE: ミッキーの浜辺騒動
