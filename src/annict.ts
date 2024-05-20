@@ -37493,4 +37493,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: Ninja Skooler
   // https://annict.com/works/13009
   { annict_id: 13009 },
+  // [null-null] OTHER: さよならララ
+  // https://annict.com/works/13010
+  { annict_id: 13010 },
 ]
