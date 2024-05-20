@@ -37456,7 +37456,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12996 },
   // [null-null] TV: ダイヤのA act II 続編
   // https://annict.com/works/12997
-  { annict_id: 12997 },
+  { annict_id: 12997, mal_id: 58877 },
   // [1931-AUTUMN] MOVIE: クモとハエ
   // https://annict.com/works/12998
   { annict_id: 12998 },
