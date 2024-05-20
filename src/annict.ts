@@ -37490,4 +37490,7 @@ export const annict: ArmEntry[] = [
   // [1932-WINTER] MOVIE: ミッキーのシャボン玉騒動
   // https://annict.com/works/13008
   { annict_id: 13008 },
+  // [null-null] OTHER: Ninja Skooler
+  // https://annict.com/works/13009
+  { annict_id: 13009 },
 ]
