@@ -37532,4 +37532,7 @@ export const annict: ArmEntry[] = [
   // [1932-SUMMER] MOVIE: ミッキーのフーピー・パーティー
   // https://annict.com/works/13022
   { annict_id: 13022 },
+  // [2024-SUMMER] MOVIE: 刀剣乱舞 廻 -々伝 近し侍らうものら-
+  // https://annict.com/works/13023
+  { annict_id: 13023 },
 ]
