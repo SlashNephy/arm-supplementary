@@ -37535,4 +37535,16 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] MOVIE: 刀剣乱舞 廻 -々伝 近し侍らうものら-
   // https://annict.com/works/13023
   { annict_id: 13023 },
+  // [2003-null] MOVIE: デスティーノ
+  // https://annict.com/works/13024
+  { annict_id: 13024 },
+  // [1988-null] MOVIE: ロジャー・ラビット
+  // https://annict.com/works/13025
+  { annict_id: 13025 },
+  // [2019-SUMMER] WEB: グラサン泥ボーヒカキン
+  // https://annict.com/works/13026
+  { annict_id: 13026 },
+  // [2003-AUTUMN] MOVIE: 連句アニメーション「冬の日」
+  // https://annict.com/works/13027
+  { annict_id: 13027 },
 ]
