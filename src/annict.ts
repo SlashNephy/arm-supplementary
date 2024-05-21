@@ -37502,4 +37502,34 @@ export const annict: ArmEntry[] = [
   // [1928-WINTER] MOVIE: ネックンネック
   // https://annict.com/works/13012
   { annict_id: 13012 },
+  // [1932-SPRING] MOVIE: ミッキーのオリンピック
+  // https://annict.com/works/13013
+  { annict_id: 13013 },
+  // [1932-SPRING] MOVIE: ミッキー一座
+  // https://annict.com/works/13014
+  { annict_id: 13014 },
+  // [1932-SUMMER] MOVIE: クマとハチ
+  // https://annict.com/works/13015
+  { annict_id: 13015 },
+  // [1932-SUMMER] MOVIE: ミッキーの陽気な農夫
+  // https://annict.com/works/13016
+  { annict_id: 13016 },
+  // [1932-SUMMER] MOVIE: ミッキーのアラビア探検
+  // https://annict.com/works/13017
+  { annict_id: 13017 },
+  // [1932-SUMMER] MOVIE: ワンちゃん放浪記
+  // https://annict.com/works/13018
+  { annict_id: 13018 },
+  // [1932-SUMMER] MOVIE: ミッキーの子煩悩
+  // https://annict.com/works/13019
+  { annict_id: 13019 },
+  // [1932-SUMMER] MOVIE: ミッキーのトレーダーホーン
+  // https://annict.com/works/13020
+  { annict_id: 13020 },
+  // [1932-SUMMER] MOVIE: 海の王ネプチューン
+  // https://annict.com/works/13021
+  { annict_id: 13021 },
+  // [1932-SUMMER] MOVIE: ミッキーのフーピー・パーティー
+  // https://annict.com/works/13022
+  { annict_id: 13022 },
 ]
