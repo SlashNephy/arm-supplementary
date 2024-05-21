@@ -37499,4 +37499,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: こうしす！EE 総集編映画版 ～こちら京姫鉄道広報部システム課～
   // https://annict.com/works/13011
   { annict_id: 13011 },
+  // [1928-WINTER] MOVIE: ネックンネック
+  // https://annict.com/works/13012
+  { annict_id: 13012 },
 ]
