@@ -37550,4 +37550,28 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: ダーウィン事変
   // https://annict.com/works/13028
   { annict_id: 13028, mal_id: 58886 },
+  // [1932-AUTUMN] MOVIE: 昆虫救助隊
+  // https://annict.com/works/13029
+  { annict_id: 13029 },
+  // [1932-AUTUMN] MOVIE: ミッキーのタッチダウン
+  // https://annict.com/works/13030
+  { annict_id: 13030 },
+  // [1932-AUTUMN] MOVIE: ミッキーの黄金の街は大騒ぎ
+  // https://annict.com/works/13031
+  { annict_id: 13031 },
+  // [1932-AUTUMN] MOVIE: ミッキーのカナリア騒動
+  // https://annict.com/works/13032
+  { annict_id: 13032 },
+  // [1932-AUTUMN] MOVIE: ミッキーのアカデミー候補者パレード
+  // https://annict.com/works/13033
+  { annict_id: 13033 },
+  // [1932-AUTUMN] MOVIE: 魔法使いの森
+  // https://annict.com/works/13034
+  { annict_id: 13034 },
+  // [1932-AUTUMN] MOVIE: サンタのオモチャ工房
+  // https://annict.com/works/13035
+  { annict_id: 13035 },
+  // [1932-AUTUMN] MOVIE: ミッキーの街の哀話
+  // https://annict.com/works/13036
+  { annict_id: 13036 },
 ]
