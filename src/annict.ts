@@ -37534,7 +37534,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13022 },
   // [2024-SUMMER] MOVIE: 刀剣乱舞 廻 -々伝 近し侍らうものら-
   // https://annict.com/works/13023
-  { annict_id: 13023 },
+  { annict_id: 13023, mal_id: 58894 },
   // [2003-AUTUMN] MOVIE: デスティーノ
   // https://annict.com/works/13024
   { annict_id: 13024 },
