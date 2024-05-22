@@ -37589,4 +37589,7 @@ export const annict: ArmEntry[] = [
   // [1933-WINTER] MOVIE: ミッキーの脱線芝居
   // https://annict.com/works/13041
   { annict_id: 13041 },
+  // [2024-SPRING] WEB: ガールズフィスト!!!! GT
+  // https://annict.com/works/13042
+  { annict_id: 13042 },
 ]
