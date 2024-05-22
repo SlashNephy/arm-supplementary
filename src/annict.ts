@@ -37574,4 +37574,19 @@ export const annict: ArmEntry[] = [
   // [1932-AUTUMN] MOVIE: ミッキーの街の哀話
   // https://annict.com/works/13036
   { annict_id: 13036 },
+  // [1933-WINTER] MOVIE: ミッキーの摩天楼狂笑曲
+  // https://annict.com/works/13037
+  { annict_id: 13037 },
+  // [1933-WINTER] MOVIE: ミッキーのお化け屋敷
+  // https://annict.com/works/13038
+  { annict_id: 13038 },
+  // [1933-WINTER] MOVIE: ミッキーの愛犬プルート
+  // https://annict.com/works/13039
+  { annict_id: 13039 },
+  // [1933-WINTER] MOVIE: 小鳥の冒険
+  // https://annict.com/works/13040
+  { annict_id: 13040 },
+  // [1933-WINTER] MOVIE: ミッキーの脱線芝居
+  // https://annict.com/works/13041
+  { annict_id: 13041 },
 ]
