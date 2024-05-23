@@ -3923,7 +3923,7 @@ export const annict: ArmEntry[] = [
   // [1977-SPRING] TV: 超電磁マシーン ボルテスV
   // https://annict.com/works/1309
   { annict_id: 1309, mal_id: 1069, syobocal_tid: 3651 },
-  // [1976-SPRING] TV: 超電磁ロボ　コン・バトラーＶ
+  // [1976-SPRING] TV: 超電磁ロボ コン・バトラーＶ
   // https://annict.com/works/1310
   { annict_id: 1310, mal_id: 1068, syobocal_tid: 3482 },
   // [1997-AUTUMN] TV: 超魔神英雄伝ワタル
