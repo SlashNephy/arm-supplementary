@@ -35804,7 +35804,7 @@ export const annict: ArmEntry[] = [
   // [2020-WINTER] WEB: 超合金 ガンダム★ハローキティ ショートアニメーション
   // https://annict.com/works/12443
   { annict_id: 12443 },
-  // [null-null] TV: よあそびぐらしっ！
+  // [2024-SUMMER] TV: よあそびぐらしっ！
   // https://annict.com/works/12444
   { annict_id: 12444 },
   // [2006-SPRING] MOVIE: 立喰師列伝
