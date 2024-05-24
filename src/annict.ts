@@ -31640,10 +31640,10 @@ export const annict: ArmEntry[] = [
   // [1934-WINTER] MOVIE: のらくろ伍長
   // https://annict.com/works/11052
   { annict_id: 11052, mal_id: 4394 },
-  // [1935-null] MOVIE: のらくろ一等兵
+  // [1938-null] MOVIE: のらくろ一等兵
   // https://annict.com/works/11053
   { annict_id: 11053, mal_id: 30019 },
-  // [1935-null] MOVIE: のらくろ二等兵
+  // [1937-null] MOVIE: のらくろ二等兵
   // https://annict.com/works/11054
   { annict_id: 11054, mal_id: 30018 },
   // [1938-null] MOVIE: のらくろ虎退治
