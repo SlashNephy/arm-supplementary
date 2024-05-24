@@ -37592,4 +37592,10 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] WEB: ガールズフィスト!!!! GT
   // https://annict.com/works/13042
   { annict_id: 13042 },
+  // [1928-WINTER] MOVIE: The Ol' Swimmin' Hole（原題）
+  // https://annict.com/works/13043
+  { annict_id: 13043 },
+  // [1928-WINTER] MOVIE: アフリカ・ビフォア・ダーク
+  // https://annict.com/works/13044
+  { annict_id: 13044 },
 ]
