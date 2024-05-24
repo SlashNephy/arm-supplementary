@@ -28739,7 +28739,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: カノジョも彼女 Season 2
   // https://annict.com/works/10082
   { annict_id: 10082, mal_id: 53040, syobocal_tid: 6822 },
-  // [null-null] OTHER: 『原神』アニメ
+  // [null-null] OTHER: 原神
   // https://annict.com/works/10083
   { annict_id: 10083 },
   // [2022-AUTUMN] TV: おばけずかん！
@@ -37604,4 +37604,13 @@ export const annict: ArmEntry[] = [
   // [2025-null] MOVIE: ひゃくえむ。
   // https://annict.com/works/13046
   { annict_id: 13046, mal_id: 58919 },
+  // [null-null] OTHER: 光が死んだ夏
+  // https://annict.com/works/13047
+  { annict_id: 13047, mal_id: 58913 },
+  // [null-null] MOVIE: ホウセンカ
+  // https://annict.com/works/13048
+  { annict_id: 13048, mal_id: 58915 },
+  // [2024-SPRING] WEB: 原神ショートアニメ「いつかその道へ」
+  // https://annict.com/works/13049
+  { annict_id: 13049 },
 ]
