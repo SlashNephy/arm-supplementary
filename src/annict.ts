@@ -37613,4 +37613,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] WEB: 原神ショートアニメ「いつかその道へ」
   // https://annict.com/works/13049
   { annict_id: 13049 },
+  // [2024-SUMMER] WEB: エグミレガシー
+  // https://annict.com/works/13050
+  { annict_id: 13050 },
 ]
