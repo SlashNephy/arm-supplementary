@@ -37616,4 +37616,10 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] WEB: エグミレガシー
   // https://annict.com/works/13050
   { annict_id: 13050 },
+  // [2026-null] TV: 攻殻機動隊（仮）
+  // https://annict.com/works/13051
+  { annict_id: 13051 },
+  // [2026-null] TV: 攻殻機動隊 新作TVアニメ
+  // https://annict.com/works/13052
+  { annict_id: 13052 },
 ]
