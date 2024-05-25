@@ -37622,4 +37622,7 @@ export const annict: ArmEntry[] = [
   // [2026-null] TV: 攻殻機動隊 新作TVアニメ
   // https://annict.com/works/13052
   { annict_id: 13052 },
+  // [2024-SPRING] WEB: コードギアス 奪還のロゼ
+  // https://annict.com/works/13053
+  { annict_id: 13053 },
 ]
