@@ -36794,7 +36794,7 @@ export const annict: ArmEntry[] = [
   // [1991-WINTER] OVA: 魔動王グランゾート 魔動コレクション
   // https://annict.com/works/12775
   { annict_id: 12775 },
-  // [2024-null] TV: 天穂のサクナヒメ
+  // [2024-SUMMER] TV: 天穂のサクナヒメ
   // https://annict.com/works/12776
   { annict_id: 12776, mal_id: 58357 },
   // [1929-SUMMER] MOVIE: 骸骨の踊り
