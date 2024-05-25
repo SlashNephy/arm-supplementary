@@ -3890,7 +3890,7 @@ export const annict: ArmEntry[] = [
   // [1999-WINTER] TV: 超生命体トランスフォーマー ビーストウォーズネオ
   // https://annict.com/works/1298
   { annict_id: 1298, mal_id: 6511, syobocal_tid: 228 },
-  // [1999-AUTUMN] TV: 超生命体トランスフォーマー ビーストウォーズメタルス
+  // [1999-AUTUMN] TV: ビーストウォーズメタルス 超生命体トランスフォーマー
   // https://annict.com/works/1299
   { annict_id: 1299, syobocal_tid: 229 },
   // [2004-AUTUMN] TV: 超生命体トランスフォーマー ビーストウォーズリターンズ
