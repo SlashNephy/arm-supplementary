@@ -37615,7 +37615,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 13049 },
   // [2024-SUMMER] WEB: エグミレガシー
   // https://annict.com/works/13050
-  { annict_id: 13050 },
+  { annict_id: 13050, mal_id: 58926 },
+  // [2026-SPRING] MOVIE: 「スーパーマリオ」新作アニメ
+  // https://annict.com/works/13051
+  { annict_id: 13051 },
   // [2026-null] TV: 攻殻機動隊 新作TVアニメ
   // https://annict.com/works/13052
   { annict_id: 13052 },
