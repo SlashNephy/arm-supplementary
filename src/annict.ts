@@ -37640,4 +37640,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] WEB: X-MEN '97
   // https://annict.com/works/13058
   { annict_id: 13058 },
+  // [null-null] OTHER: 「マッシュル-MASHLE-」続編
+  // https://annict.com/works/13059
+  { annict_id: 13059 },
 ]
