@@ -5369,7 +5369,7 @@ export const annict: ArmEntry[] = [
   // [1998-SPRING] TV: ビーストウォーズII　超生命体トランスフォーマー
   // https://annict.com/works/1792
   { annict_id: 1792, syobocal_tid: 227 },
-  // [1997-AUTUMN] TV: ビーストウォーズ　超生命体トランスフォーマー
+  // [1997-AUTUMN] TV: ビーストウォーズ 超生命体トランスフォーマー
   // https://annict.com/works/1793
   { annict_id: 1793, syobocal_tid: 226 },
   // [2013-WINTER] TV: ビーストサーガ
