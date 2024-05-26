@@ -37625,4 +37625,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] WEB: コードギアス 奪還のロゼ
   // https://annict.com/works/13053
   { annict_id: 13053 },
+  // [1961-SPRING] TV: インスタントヒストリー
+  // https://annict.com/works/13054
+  { annict_id: 13054, mal_id: 14211 },
 ]
