@@ -37643,4 +37643,34 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 「マッシュル-MASHLE-」続編
   // https://annict.com/works/13059
   { annict_id: 13059 },
+  // [1933-SPRING] MOVIE: ノアの箱船(1933年)
+  // https://annict.com/works/13060
+  { annict_id: 13060 },
+  // [1933-SPRING] MOVIE: ミッキーの騎士道
+  // https://annict.com/works/13061
+  { annict_id: 13061 },
+  // [1933-SPRING] MOVIE: ミッキーの空の英雄
+  // https://annict.com/works/13062
+  { annict_id: 13062 },
+  // [1933-SPRING] MOVIE: ミッキーの人造人間
+  // https://annict.com/works/13063
+  { annict_id: 13063 },
+  // [1933-SUMMER] MOVIE: ミッキーの名優オンパレード
+  // https://annict.com/works/13064
+  { annict_id: 13064 },
+  // [1933-SUMMER] MOVIE: おとぎ王国
+  // https://annict.com/works/13065
+  { annict_id: 13065 },
+  // [1933-SUMMER] MOVIE: 子守歌
+  // https://annict.com/works/13066
+  { annict_id: 13066 },
+  // [1933-SUMMER] MOVIE: ミッキーの日曜日
+  // https://annict.com/works/13067
+  { annict_id: 13067 },
+  // [1933-SUMMER] MOVIE: ハーメルンの笛吹き
+  // https://annict.com/works/13068
+  { annict_id: 13068 },
+  // [1933-SUMMER] MOVIE: ミッキーの障害物競走
+  // https://annict.com/works/13069
+  { annict_id: 13069 },
 ]
