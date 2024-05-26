@@ -31378,7 +31378,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10964 },
   // [2024-SUMMER] TV: 女神のカフェテラス 第2期
   // https://annict.com/works/10965
-  { annict_id: 10965, mal_id: 55749 },
+  { annict_id: 10965, mal_id: 55749, syobocal_tid: 7088 },
   // [2023-SUMMER] TV: 和田淳監督特集
   // https://annict.com/works/10966
   { annict_id: 10966 },
@@ -32890,7 +32890,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11468, mal_id: 8416 },
   // [2024-SUMMER] TV: 俺は全てを【パリイ】する ～逆勘違いの世界最強は冒険者になりたい～
   // https://annict.com/works/11469
-  { annict_id: 11469, mal_id: 57058 },
+  { annict_id: 11469, mal_id: 57058, syobocal_tid: 7089 },
   // [2024-WINTER] TV: 天官賜福 貮
   // https://annict.com/works/11470
   { annict_id: 11470, mal_id: 50399, syobocal_tid: 6912 },
@@ -33232,7 +33232,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11583, mal_id: 57189 },
   // [2024-SUMMER] TV: かつて魔法少女と悪は敵対していた。
   // https://annict.com/works/11584
-  { annict_id: 11584, mal_id: 57217 },
+  { annict_id: 11584, mal_id: 57217, syobocal_tid: 7086 },
   // [2024-SUMMER] TV: 神之塔 -Tower of God- 第2期
   // https://annict.com/works/11585
   { annict_id: 11585, mal_id: 52635 },
@@ -35371,7 +35371,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12298, mal_id: 57647 },
   // [2024-SUMMER] TV: モブから始まる探索英雄譚
   // https://annict.com/works/12299
-  { annict_id: 12299, mal_id: 57646 },
+  { annict_id: 12299, mal_id: 57646, syobocal_tid: 7083 },
   // [1999-SUMMER] OVA: 同級生2 Special 卒業生
   // https://annict.com/works/12300
   { annict_id: 12300, mal_id: 5647 },
@@ -36865,7 +36865,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12798 },
   // [2024-SUMMER] TV: しかのこのこのここしたんたん
   // https://annict.com/works/12799
-  { annict_id: 12799, mal_id: 58426 },
+  { annict_id: 12799, mal_id: 58426, syobocal_tid: 7087 },
   // [2024-SPRING] TV: 当て馬キャラのくせして、スパダリ王子に寵愛されています。
   // https://annict.com/works/12800
   { annict_id: 12800, mal_id: 57789, syobocal_tid: 7054 },
@@ -37198,7 +37198,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12910, mal_id: 58749 },
   // [2024-SPRING] TV: まぁるい彼女と残念な彼氏
   // https://annict.com/works/12911
-  { annict_id: 12911 },
+  { annict_id: 12911, syobocal_tid: 7085 },
   // [null-null] OTHER: 五等分の花嫁＊
   // https://annict.com/works/12912
   { annict_id: 12912, mal_id: 58755 },
@@ -37628,4 +37628,13 @@ export const annict: ArmEntry[] = [
   // [1961-SPRING] TV: インスタントヒストリー
   // https://annict.com/works/13054
   { annict_id: 13054, mal_id: 14211 },
+  // [2009-SUMMER] MOVIE: 穴-The Ten Hole Stories-
+  // https://annict.com/works/13055
+  { annict_id: 13055, mal_id: 30407 },
+  // [2013-null] MOVIE: tokyo未完成
+  // https://annict.com/works/13056
+  { annict_id: 13056, mal_id: 40673 },
+  // [2017-SUMMER] MOVIE: 九爺一助☆新畫帖
+  // https://annict.com/works/13057
+  { annict_id: 13057, mal_id: 55347 },
 ]
