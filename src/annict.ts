@@ -37637,4 +37637,7 @@ export const annict: ArmEntry[] = [
   // [2017-SUMMER] MOVIE: 九爺一助☆新畫帖
   // https://annict.com/works/13057
   { annict_id: 13057, mal_id: 55347 },
+  // [2024-WINTER] WEB: X-MEN '97
+  // https://annict.com/works/13058
+  { annict_id: 13058 },
 ]
