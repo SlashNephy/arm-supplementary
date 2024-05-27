@@ -31259,7 +31259,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] MOVIE: 劇場版 僕とロボコ
   // https://annict.com/works/10925
   { annict_id: 10925, mal_id: 55709 },
-  // [null-null] OTHER: うたごえはミルフィーユ
+  // [2025-null] TV: うたごえはミルフィーユ
   // https://annict.com/works/10926
   { annict_id: 10926, mal_id: 55689 },
   // [1980-SUMMER] MOVIE: 11ぴきのねこ
