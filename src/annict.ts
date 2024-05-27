@@ -30200,7 +30200,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: キボウノチカラ～オトナプリキュア ‘23～
   // https://annict.com/works/10571
   { annict_id: 10571, mal_id: 54716, syobocal_tid: 6800 },
-  // [2024-null] TV: 魔法つかいプリキュア！2
+  // [2025-WINTER] TV: 魔法つかいプリキュア！！～MIRAI DAYS～
   // https://annict.com/works/10572
   { annict_id: 10572, mal_id: 54717 },
   // [2023-WINTER] WEB: ぷちクールドジ男子のひとコマ
