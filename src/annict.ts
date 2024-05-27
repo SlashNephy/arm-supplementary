@@ -37675,7 +37675,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13069 },
   // [2025-WINTER] TV: SAKAMOTO DAYS
   // https://annict.com/works/13070
-  { annict_id: 13070 },
+  { annict_id: 13070, mal_id: 58939 },
   // [2024-SPRING] TV: Nyaaaanvy（ニャンビー）
   // https://annict.com/works/13071
   { annict_id: 13071, mal_id: 58935 },
