@@ -37673,4 +37673,10 @@ export const annict: ArmEntry[] = [
   // [1933-SUMMER] MOVIE: ミッキーの障害物競走
   // https://annict.com/works/13069
   { annict_id: 13069 },
+  // [2025-WINTER] TV: SAKAMOTO DAYS
+  // https://annict.com/works/13070
+  { annict_id: 13070 },
+  // [2024-SPRING] TV: Nyaaaanvy（ニャンビー）
+  // https://annict.com/works/13071
+  { annict_id: 13071, mal_id: 58935 },
 ]
