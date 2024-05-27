@@ -32018,7 +32018,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] WEB: ガメラVS子ザメラ
   // https://annict.com/works/11178
   { annict_id: 11178, mal_id: 56702 },
-  // [2024-WINTER] OVA: わたしの幸せな結婚 第十三話 『わたしの幸せなかたち』
+  // [2024-WINTER] OVA: わたしの幸せな結婚 OVA
   // https://annict.com/works/11179
   { annict_id: 11179, mal_id: 55889 },
   // [null-null] TV: わたしの幸せな結婚 第二期
