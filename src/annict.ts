@@ -31411,7 +31411,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10975, mal_id: 55775, syobocal_tid: 6814 },
   // [2024-SUMMER] TV: 【推しの子】 第2期
   // https://annict.com/works/10976
-  { annict_id: 10976, mal_id: 55791 },
+  { annict_id: 10976, mal_id: 55791, syobocal_tid: 7092 },
   // [2023-SUMMER] TV: ななし怪談 (2023)
   // https://annict.com/works/10977
   { annict_id: 10977, mal_id: 56105 },
@@ -31735,7 +31735,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11083, mal_id: 56172 },
   // [2024-SUMMER] TV: ダンジョンの中のひと
   // https://annict.com/works/11084
-  { annict_id: 11084, mal_id: 56348 },
+  { annict_id: 11084, mal_id: 56348, syobocal_tid: 7094 },
   // [2023-SUMMER] WEB: ChroNoiR Episode.0
   // https://annict.com/works/11085
   { annict_id: 11085, mal_id: 56111 },
@@ -36796,7 +36796,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12775 },
   // [2024-SUMMER] TV: 天穂のサクナヒメ
   // https://annict.com/works/12776
-  { annict_id: 12776, mal_id: 58357 },
+  { annict_id: 12776, mal_id: 58357, syobocal_tid: 7093 },
   // [1929-SUMMER] MOVIE: 骸骨の踊り
   // https://annict.com/works/12777
   { annict_id: 12777 },
