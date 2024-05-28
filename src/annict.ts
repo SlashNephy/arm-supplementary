@@ -31607,7 +31607,7 @@ export const annict: ArmEntry[] = [
   // [null-null] WEB: Project BULLET／BULLET
   // https://annict.com/works/11041
   { annict_id: 11041, mal_id: 53722 },
-  // [2024-null] TV: NieR:Automata Ver1.1a 第2クール
+  // [2024-SUMMER] TV: NieR:Automata Ver1.1a 第2クール
   // https://annict.com/works/11042
   { annict_id: 11042, mal_id: 56063 },
   // [2024-SUMMER] TV: なぜ僕の世界を誰も覚えていないのか？
@@ -35732,7 +35732,7 @@ export const annict: ArmEntry[] = [
   // [2011-AUTUMN] TV: のらのらの〜ら
   // https://annict.com/works/12419
   { annict_id: 12419 },
-  // [2024-null] TV: 凍牌〜裏レート麻雀闘牌録〜
+  // [2024-AUTUMN] TV: 凍牌〜裏レート麻雀闘牌録〜
   // https://annict.com/works/12420
   { annict_id: 12420, mal_id: 57796 },
   // [2024-SPRING] WEB: あたしンちNEXT
@@ -35885,7 +35885,7 @@ export const annict: ArmEntry[] = [
   // [2021-WINTER] OTHER: 多数欠 (ショートアニメ)
   // https://annict.com/works/12470
   { annict_id: 12470, mal_id: 42805 },
-  // [2024-null] TV: 多数欠
+  // [2024-SUMMER] TV: 多数欠
   // https://annict.com/works/12471
   { annict_id: 12471, mal_id: 57945 },
   // [2024-SPRING] TV: 龍族 -The Blazing Dawn-
