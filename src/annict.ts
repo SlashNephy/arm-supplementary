@@ -37679,4 +37679,31 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: Nyaaaanvy（ニャンビー）
   // https://annict.com/works/13071
   { annict_id: 13071, mal_id: 58935 },
+  // [1933-AUTUMN] MOVIE: ミッキーのキングコング退治
+  // https://annict.com/works/13072
+  { annict_id: 13072 },
+  // [1933-AUTUMN] MOVIE: ミッキーの巨人征服
+  // https://annict.com/works/13073
+  { annict_id: 13073 },
+  // [1933-AUTUMN] MOVIE: サンタのプレゼント
+  // https://annict.com/works/13074
+  { annict_id: 13074 },
+  // [1934-WINTER] MOVIE: 真夜中の舞踏会
+  // https://annict.com/works/13075
+  { annict_id: 13075 },
+  // [1934-WINTER] MOVIE: ミッキーの海賊退治
+  // https://annict.com/works/13076
+  { annict_id: 13076 },
+  // [1934-WINTER] MOVIE: アリとキリギリス
+  // https://annict.com/works/13077
+  { annict_id: 13077 },
+  // [1934-WINTER] MOVIE: ミッキーのキャンプ騒動
+  // https://annict.com/works/13078
+  { annict_id: 13078 },
+  // [1934-WINTER] MOVIE: プルートの大暴れ
+  // https://annict.com/works/13079
+  { annict_id: 13079 },
+  // [1934-WINTER] MOVIE: 楽しい復活祭
+  // https://annict.com/works/13080
+  { annict_id: 13080 },
 ]
