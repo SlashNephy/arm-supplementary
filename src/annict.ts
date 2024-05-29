@@ -32855,7 +32855,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] WEB: 「ぷれぷれぷれあです」×「かげじつ！」 コラボアニメ
   // https://annict.com/works/11457
   { annict_id: 11457, mal_id: 57034 },
-  // [null-null] TV: 妃教育から逃げたい私
+  // [2025-null] TV: 妃教育から逃げたい私
   // https://annict.com/works/11458
   { annict_id: 11458, mal_id: 57050 },
   // [2015-SUMMER] WEB: HAPPY FOREST
