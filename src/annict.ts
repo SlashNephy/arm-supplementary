@@ -37733,4 +37733,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 9-nine-
   // https://annict.com/works/13089
   { annict_id: 13089 },
+  // [2024-WINTER] WEB: シャム猫あずきさんは世界の中心
+  // https://annict.com/works/13090
+  { annict_id: 13090 },
 ]
