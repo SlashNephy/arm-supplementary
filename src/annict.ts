@@ -37730,4 +37730,7 @@ export const annict: ArmEntry[] = [
   // [1934-SUMMER] MOVIE: パパになったミッキー
   // https://annict.com/works/13088
   { annict_id: 13088 },
+  // [null-null] TV: 9-nine-
+  // https://annict.com/works/13089
+  { annict_id: 13089 },
 ]
