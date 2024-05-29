@@ -6500,10 +6500,10 @@ export const annict: ArmEntry[] = [
   // [2008-WINTER] TV: Mnemosyune -ムネモシュネの娘たち-
   // https://annict.com/works/2170
   { annict_id: 2170, mal_id: 3342, syobocal_tid: 1318 },
-  // [2007-WINTER] TV: MOONLIGHT MILES 1stシーズン ～Lift off～
+  // [2007-WINTER] TV: MOONLIGHT MILE 1stシーズン ～Lift off～
   // https://annict.com/works/2171
   { annict_id: 2171, mal_id: 1941, syobocal_tid: 1097 },
-  // [2007-SUMMER] TV: MOONLIGHT MILES 2ndシーズン ～Touch down～
+  // [2007-SUMMER] TV: MOONLIGHT MILE 2ndシーズン ～Touch down～
   // https://annict.com/works/2172
   { annict_id: 2172, mal_id: 2929, syobocal_tid: 1216 },
   // [1993-SUMMER] TV: ムカムカパラダイス
