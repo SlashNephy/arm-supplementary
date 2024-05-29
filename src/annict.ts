@@ -37706,4 +37706,28 @@ export const annict: ArmEntry[] = [
   // [1934-WINTER] MOVIE: 楽しい復活祭
   // https://annict.com/works/13080
   { annict_id: 13080 },
+  // [1934-SPRING] MOVIE: 赤ずきんちゃん
+  // https://annict.com/works/13081
+  { annict_id: 13081 },
+  // [1934-SPRING] MOVIE: ミッキーのガリバー旅行記
+  // https://annict.com/works/13082
+  { annict_id: 13082 },
+  // [1934-SPRING] MOVIE: かしこいメンドリ
+  // https://annict.com/works/13083
+  { annict_id: 13083 },
+  // [1934-SPRING] MOVIE: ミッキーの道路工事
+  // https://annict.com/works/13084
+  { annict_id: 13084 },
+  // [1934-SUMMER] MOVIE: 空飛ぶネズミ
+  // https://annict.com/works/13085
+  { annict_id: 13085 },
+  // [1934-SUMMER] MOVIE: ミッキーの芝居見物(1934年)
+  // https://annict.com/works/13086
+  { annict_id: 13086 },
+  // [1934-SUMMER] MOVIE: フグとペンギン
+  // https://annict.com/works/13087
+  { annict_id: 13087 },
+  // [1934-SUMMER] MOVIE: パパになったミッキー
+  // https://annict.com/works/13088
+  { annict_id: 13088 },
 ]
