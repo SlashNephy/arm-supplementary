@@ -18850,7 +18850,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6322, mal_id: 38619, syobocal_tid: 5348 },
   // [2024-AUTUMN] TV: 魔法使いになれなかった女の子の話。
   // https://annict.com/works/6323
-  { annict_id: 6323, mal_id: 38585 },
+  { annict_id: 6323, mal_id: 58173 },
   // [2018-AUTUMN] WEB: せいぜいがんばれ！魔法少女くるみ (第2期)
   // https://annict.com/works/6324
   { annict_id: 6324, mal_id: 38175 },
@@ -36875,7 +36875,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] WEB: スター・ウォーズ:ヤング・ジェダイ・アドベンチャー ショーツ
   // https://annict.com/works/12802
   { annict_id: 12802 },
-  // [2024-null] TV: さようなら竜生、こんにちは人生
+  // [2024-AUTUMN] TV: さようなら竜生、こんにちは人生
   // https://annict.com/works/12803
   { annict_id: 12803, mal_id: 58445 },
   // [1988-null] MOVIE: 不射之射
