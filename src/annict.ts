@@ -24035,7 +24035,7 @@ export const annict: ArmEntry[] = [
   // [1991-WINTER] MOVIE: うしろの正面だあれ
   // https://annict.com/works/8349
   { annict_id: 8349, mal_id: 2753 },
-  // [1991-null] MOVIE: とべ! くじらのピーク
+  // [1991-SPRING] MOVIE: とべ! くじらのピーク
   // https://annict.com/works/8350
   { annict_id: 8350, mal_id: 2314 },
   // [1995-WINTER] OVA: 戦ー少女イクセリオン
