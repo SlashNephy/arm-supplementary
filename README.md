@@ -38,17 +38,17 @@ export const fetchArmEntries = async (): Promise<ArmEntry[]> => {
 
 ## Statistics
 
-Currently, arm-supplementary has 38621 entries (+7209).
+Currently, arm-supplementary has 38636 entries (+7152).
 
 | Service                                     | arm-supplementary | arm / anime-offline-database |
 | :------------------------------------------ | :---------------: | :--------------------------: |
-| [Annict](https://annict.com)                |   12578 (+240)    |            12338             |
-| [AniList](https://anilist.co)               |   22070 (+2161)   |            19909             |
-| [MyAnimeList](https://myanimelist.net)      |   27092 (+494)    |            26598             |
-| [しょぼいカレンダー](https://cal.syoboi.jp) |    5930 (+48)     |             5882             |
-| [AniDB](https://anidb.net)                  |   13331 (+140)    |            13191             |
-| [Anime-Planet](https://anime-planet.com)    |   23664 (+148)    |            23516             |
-| [aniSearch](https://anisearch.com)          |   18548 (+152)    |            18396             |
-| [Kitsu](https://kitsu.io)                   |   20156 (+162)    |            19994             |
-| [LiveChart.me](https://livechart.me)        |   11242 (+140)    |            11102             |
-| [Anime Notifier](https://notify.moe)        |   16280 (+153)    |            16127             |
+| [Annict](https://annict.com)                |   12578 (+188)    |            12390             |
+| [AniList](https://anilist.co)               |   22078 (+2158)   |            19920             |
+| [MyAnimeList](https://myanimelist.net)      |   27121 (+476)    |            26645             |
+| [しょぼいカレンダー](https://cal.syoboi.jp) |    5926 (+39)     |             5887             |
+| [AniDB](https://anidb.net)                  |   13330 (+139)    |            13191             |
+| [Anime-Planet](https://anime-planet.com)    |   23663 (+147)    |            23516             |
+| [aniSearch](https://anisearch.com)          |   18544 (+148)    |            18396             |
+| [Kitsu](https://kitsu.io)                   |   20152 (+158)    |            19994             |
+| [LiveChart.me](https://livechart.me)        |   11241 (+139)    |            11102             |
+| [Anime Notifier](https://notify.moe)        |   16278 (+151)    |            16127             |
