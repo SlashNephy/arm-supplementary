@@ -1730,7 +1730,7 @@ export const annict: ArmEntry[] = [
   // [1989-AUTUMN] TV: 機動警察パトレイバー ON TELEVISION
   // https://annict.com/works/576
   { annict_id: 576, mal_id: 1288, syobocal_tid: 896 },
-  // [2005-SPRING] TV: 機獣創世紀 ゾイドジェネシス
+  // [2005-SPRING] TV: ゾイドジェネシス
   // https://annict.com/works/577
   { annict_id: 577, mal_id: 712, syobocal_tid: 622 },
   // [1983-AUTUMN] TV: 機甲創世記モスピーダ
@@ -3452,7 +3452,7 @@ export const annict: ArmEntry[] = [
   // [1999-SUMMER] TV: ゾイド-ZOIDS-
   // https://annict.com/works/1152
   { annict_id: 1152, mal_id: 763, syobocal_tid: 3948 },
-  // [2004-AUTUMN] TV: ZOIDS FUZORS
+  // [2004-AUTUMN] TV: ゾイドフューザーズ
   // https://annict.com/works/1153
   { annict_id: 1153, mal_id: 1746, syobocal_tid: 489 },
   // [2001-WINTER] TV: ZOIDS 新世紀/ZERO
@@ -30229,7 +30229,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10580, mal_id: 53439, syobocal_tid: 6847 },
   // [2024-SUMMER] TV: キン肉マン 完璧超人始祖編
   // https://annict.com/works/10581
-  { annict_id: 10581, mal_id: 54730 },
+  { annict_id: 10581, mal_id: 54730, syobocal_tid: 7096 },
   // [2006-SPRING] OVA: 山古志村のマリと三匹の子犬
   // https://annict.com/works/10582
   { annict_id: 10582, mal_id: 30985 },
