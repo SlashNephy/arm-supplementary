@@ -37736,4 +37736,28 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] WEB: シャム猫あずきさんは世界の中心
   // https://annict.com/works/13090
   { annict_id: 13090 },
+  // [1934-AUTUMN] MOVIE: 春の女神
+  // https://annict.com/works/13091
+  { annict_id: 13091 },
+  // [1934-AUTUMN] MOVIE: ミッキーの犬泥棒
+  // https://annict.com/works/13092
+  { annict_id: 13092 },
+  // [1934-AUTUMN] MOVIE: ミッキーの二挺拳銃
+  // https://annict.com/works/13093
+  { annict_id: 13093 },
+  // [1935-WINTER] MOVIE: うさぎとかめ
+  // https://annict.com/works/13094
+  { annict_id: 13094 },
+  // [1935-WINTER] MOVIE: ミッキーの漂流記
+  // https://annict.com/works/13095
+  { annict_id: 13095 },
+  // [1935-WINTER] MOVIE: ミッキーの大演奏会
+  // https://annict.com/works/13096
+  { annict_id: 13096 },
+  // [1935-WINTER] MOVIE: ミッキーの自動車修理
+  // https://annict.com/works/13097
+  { annict_id: 13097 },
+  // [1935-WINTER] MOVIE: 黄金の王様
+  // https://annict.com/works/13098
+  { annict_id: 13098 },
 ]
