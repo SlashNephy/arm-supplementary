@@ -37760,4 +37760,31 @@ export const annict: ArmEntry[] = [
   // [1935-WINTER] MOVIE: 黄金の王様
   // https://annict.com/works/13098
   { annict_id: 13098 },
+  // [1935-SPRING] MOVIE: ミッキーとカンガルー
+  // https://annict.com/works/13099
+  { annict_id: 13099 },
+  // [1935-SPRING] MOVIE: 小猫の武勇伝
+  // https://annict.com/works/13100
+  { annict_id: 13100 },
+  // [1935-SPRING] MOVIE: 蓮池の赤ん坊たち
+  // https://annict.com/works/13101
+  { annict_id: 13101 },
+  // [1935-SPRING] MOVIE: クッキーのカーニバル
+  // https://annict.com/works/13102
+  { annict_id: 13102 },
+  // [1935-SPRING] MOVIE: 誰がコック・ロビンを殺したか
+  // https://annict.com/works/13103
+  { annict_id: 13103 },
+  // [1935-SUMMER] MOVIE: ミッキーの害虫退治
+  // https://annict.com/works/13104
+  { annict_id: 13104 },
+  // [1935-SUMMER] MOVIE: ミッキーの消防隊
+  // https://annict.com/works/13105
+  { annict_id: 13105 },
+  // [1935-SUMMER] MOVIE: プルートの化け猫裁判
+  // https://annict.com/works/13106
+  { annict_id: 13106 },
+  // [1935-SUMMER] MOVIE: ミッキーのアイス・スケート
+  // https://annict.com/works/13107
+  { annict_id: 13107 },
 ]
