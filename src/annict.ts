@@ -31792,7 +31792,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11102, mal_id: 56449 },
   // [2024-SPRING] MOVIE: デッドデッドデーモンズデデデデデストラクション 後章
   // https://annict.com/works/11103
-  { annict_id: 11103 },
+  { annict_id: 11103, mal_id: 51358 },
   // [2023-AUTUMN] TV: まついぬ
   // https://annict.com/works/11104
   { annict_id: 11104, mal_id: 56487, syobocal_tid: 6823 },
