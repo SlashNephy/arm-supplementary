@@ -33881,7 +33881,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] MOVIE: 名探偵コナン 100万ドルの五稜星
   // https://annict.com/works/11800
   { annict_id: 11800, mal_id: 56785 },
-  // [2024-null] TV: 異世界ゆるり紀行 ～子育てしながら冒険者します～
+  // [2024-SUMMER] TV: 異世界ゆるり紀行 ～子育てしながら冒険者します～
   // https://annict.com/works/11801
   { annict_id: 11801, mal_id: 57380 },
   // [2024-AUTUMN] TV: 星降る王国のニナ
