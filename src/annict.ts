@@ -37790,4 +37790,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: ニンジャバットマン対ヤクザリーグ
   // https://annict.com/works/13108
   { annict_id: 13108, mal_id: 58964 },
+  // [2012-WINTER] WEB: HATOYA
+  // https://annict.com/works/13109
+  { annict_id: 13109, mal_id: 36670 },
 ]
