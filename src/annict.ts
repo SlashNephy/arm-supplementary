@@ -37796,4 +37796,7 @@ export const annict: ArmEntry[] = [
   // [2007-null] OTHER: 赤ずきんと健康
   // https://annict.com/works/13110
   { annict_id: 13110, mal_id: 30446 },
+  // [2011-AUTUMN] WEB: YADOKARI
+  // https://annict.com/works/13111
+  { annict_id: 13111, mal_id: 36669 },
 ]
