@@ -37793,4 +37793,7 @@ export const annict: ArmEntry[] = [
   // [2012-WINTER] WEB: HATOYA
   // https://annict.com/works/13109
   { annict_id: 13109, mal_id: 36670 },
+  // [2007-null] OTHER: 赤ずきんと健康
+  // https://annict.com/works/13110
+  { annict_id: 13110, mal_id: 30446 },
 ]
