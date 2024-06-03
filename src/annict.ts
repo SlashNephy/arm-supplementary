@@ -37799,4 +37799,31 @@ export const annict: ArmEntry[] = [
   // [2011-AUTUMN] WEB: YADOKARI
   // https://annict.com/works/13111
   { annict_id: 13111, mal_id: 36669 },
+  // [2022-SUMMER] WEB: MyGO!!!!!メンバーの日常
+  // https://annict.com/works/13112
+  { annict_id: 13112, mal_id: 56903 },
+  // [1935-AUTUMN] MOVIE: 音楽の国
+  // https://annict.com/works/13113
+  { annict_id: 13113 },
+  // [1935-AUTUMN] MOVIE: 三匹の親なし子ねこ
+  // https://annict.com/works/13114
+  { annict_id: 13114 },
+  // [1935-AUTUMN] MOVIE: 踊るニワトリ
+  // https://annict.com/works/13115
+  { annict_id: 13115 },
+  // [1935-AUTUMN] MOVIE: 捨てられた人形
+  // https://annict.com/works/13116
+  { annict_id: 13116 },
+  // [1936-WINTER] MOVIE: ミッキーのポロゲーム
+  // https://annict.com/works/13117
+  { annict_id: 13117 },
+  // [1936-WINTER] MOVIE: ドナルドダックの遠足騒動
+  // https://annict.com/works/13118
+  { annict_id: 13118 },
+  // [1936-WINTER] MOVIE: ミッキーのグランドオペラ
+  // https://annict.com/works/13119
+  { annict_id: 13119 },
+  // [1936-WINTER] MOVIE: 子ぞうのエルマー
+  // https://annict.com/works/13120
+  { annict_id: 13120 },
 ]
