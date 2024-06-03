@@ -37787,7 +37787,7 @@ export const annict: ArmEntry[] = [
   // [1935-SUMMER] MOVIE: ミッキーのアイス・スケート
   // https://annict.com/works/13107
   { annict_id: 13107 },
-  // [null-null] OTHER: ニンジャバットマン対ヤクザリーグ
+  // [null-null] MOVIE: ニンジャバットマン対ヤクザリーグ
   // https://annict.com/works/13108
   { annict_id: 13108, mal_id: 58964 },
   // [2012-WINTER] WEB: HATOYA
