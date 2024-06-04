@@ -37826,4 +37826,31 @@ export const annict: ArmEntry[] = [
   // [1936-WINTER] MOVIE: 子ぞうのエルマー
   // https://annict.com/works/13120
   { annict_id: 13120 },
+  // [1936-SPRING] MOVIE: オオカミは笑う
+  // https://annict.com/works/13121
+  { annict_id: 13121 },
+  // [1936-SPRING] MOVIE: ミッキーの夢物語
+  // https://annict.com/works/13122
+  { annict_id: 13122 },
+  // [1936-SPRING] MOVIE: ミッキーのライバル大騒動
+  // https://annict.com/works/13123
+  { annict_id: 13123 },
+  // [1936-SPRING] MOVIE: ミッキーの引越し大騒動
+  // https://annict.com/works/13124
+  { annict_id: 13124 },
+  // [1936-SUMMER] MOVIE: ミッキーの山登り
+  // https://annict.com/works/13125
+  { annict_id: 13125 },
+  // [1936-SUMMER] MOVIE: ミッキーマウスのがんばれサーカス
+  // https://annict.com/works/13126
+  { annict_id: 13126 },
+  // [1936-SUMMER] MOVIE: ウサギとカメと花火合戦
+  // https://annict.com/works/13127
+  { annict_id: 13127 },
+  // [1936-SUMMER] MOVIE: ドナルドの磁石騒動
+  // https://annict.com/works/13128
+  { annict_id: 13128 },
+  // [1936-SUMMER] MOVIE: ネズミ三銃士
+  // https://annict.com/works/13129
+  { annict_id: 13129 },
 ]
