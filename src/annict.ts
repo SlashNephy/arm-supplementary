@@ -37877,4 +37877,13 @@ export const annict: ArmEntry[] = [
   // [1937-WINTER] MOVIE: 森の音楽会
   // https://annict.com/works/13137
   { annict_id: 13137 },
+  // [2021-SPRING] TV: マーシャとくま
+  // https://annict.com/works/13138
+  { annict_id: 13138 },
+  // [2019-AUTUMN] WEB: チビ列車ティティポ
+  // https://annict.com/works/13139
+  { annict_id: 13139 },
+  // [2024-SUMMER] TV: 0歳児スタートダッシュ物語
+  // https://annict.com/works/13140
+  { annict_id: 13140, mal_id: 58985 },
 ]
