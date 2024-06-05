@@ -37853,4 +37853,28 @@ export const annict: ArmEntry[] = [
   // [1936-SUMMER] MOVIE: ネズミ三銃士
   // https://annict.com/works/13129
   { annict_id: 13129 },
+  // [1936-AUTUMN] MOVIE: いたずら子象
+  // https://annict.com/works/13130
+  { annict_id: 13130 },
+  // [1936-AUTUMN] MOVIE: 田舎のネズミ
+  // https://annict.com/works/13131
+  { annict_id: 13131 },
+  // [1936-AUTUMN] MOVIE: プルートはお母さん
+  // https://annict.com/works/13132
+  { annict_id: 13132 },
+  // [1936-AUTUMN] MOVIE: いたずら子猫
+  // https://annict.com/works/13133
+  { annict_id: 13133 },
+  // [1937-WINTER] MOVIE: ミッキーの不思議な薬
+  // https://annict.com/works/13134
+  { annict_id: 13134 },
+  // [1937-WINTER] MOVIE: ドナルドのメキシカン・ドライブ
+  // https://annict.com/works/13135
+  { annict_id: 13135 },
+  // [1937-WINTER] MOVIE: ミッキーの魔術師
+  // https://annict.com/works/13136
+  { annict_id: 13136 },
+  // [1937-WINTER] MOVIE: 森の音楽会
+  // https://annict.com/works/13137
+  { annict_id: 13137 },
 ]
