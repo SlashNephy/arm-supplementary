@@ -37901,4 +37901,7 @@ export const annict: ArmEntry[] = [
   // [1937-SUMMER] MOVIE: ミッキーのハワイ旅行
   // https://annict.com/works/13145
   { annict_id: 13145 },
+  // [null-null] TV: おそ松さん (第4期)
+  // https://annict.com/works/13146
+  { annict_id: 13146 },
 ]
