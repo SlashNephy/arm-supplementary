@@ -37886,4 +37886,19 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] TV: 0歳児スタートダッシュ物語
   // https://annict.com/works/13140
   { annict_id: 13140, mal_id: 58985 },
+  // [1937-SPRING] MOVIE: ミッキーのアマチュア合戦
+  // https://annict.com/works/13141
+  { annict_id: 13141 },
+  // [1937-SPRING] MOVIE: ミッキーの猛獣狩り
+  // https://annict.com/works/13142
+  { annict_id: 13142 },
+  // [1937-SPRING] MOVIE: 小さなインディアン ハイアワサ
+  // https://annict.com/works/13143
+  { annict_id: 13143 },
+  // [1937-SPRING] MOVIE: ドナルドの博物館見学
+  // https://annict.com/works/13144
+  { annict_id: 13144 },
+  // [1937-SUMMER] MOVIE: ミッキーのハワイ旅行
+  // https://annict.com/works/13145
+  { annict_id: 13145 },
 ]
