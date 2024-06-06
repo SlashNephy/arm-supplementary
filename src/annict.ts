@@ -37882,7 +37882,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13138 },
   // [2019-AUTUMN] WEB: チビ列車ティティポ
   // https://annict.com/works/13139
-  { annict_id: 13139 },
+  { annict_id: 13139, mal_id: 38075 },
   // [2024-SUMMER] TV: 0歳児スタートダッシュ物語
   // https://annict.com/works/13140
   { annict_id: 13140, mal_id: 58985 },
@@ -37903,11 +37903,17 @@ export const annict: ArmEntry[] = [
   { annict_id: 13145 },
   // [null-null] TV: おそ松さん (第4期)
   // https://annict.com/works/13146
-  { annict_id: 13146 },
+  { annict_id: 13146, mal_id: 58996 },
   // [1992-SPRING] TV: ガーフィールドと仲間たち
   // https://annict.com/works/13147
   { annict_id: 13147 },
   // [2024-SUMMER] MOVIE: ねこのガーフィールド
   // https://annict.com/works/13148
   { annict_id: 13148 },
+  // [2024-AUTUMN] MOVIE: モアナと伝説の海2
+  // https://annict.com/works/13149
+  { annict_id: 13149 },
+  // [2024-SUMMER] MOVIE: Re:ゼロから始める異世界生活 3rd season 劇場型悪意
+  // https://annict.com/works/13150
+  { annict_id: 13150 },
 ]
