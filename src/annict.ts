@@ -37904,4 +37904,10 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: おそ松さん (第4期)
   // https://annict.com/works/13146
   { annict_id: 13146 },
+  // [1992-SPRING] TV: ガーフィールドと仲間たち
+  // https://annict.com/works/13147
+  { annict_id: 13147 },
+  // [2024-SUMMER] MOVIE: ねこのガーフィールド
+  // https://annict.com/works/13148
+  { annict_id: 13148 },
 ]
