@@ -27706,7 +27706,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9735, mal_id: 50963 },
   // [2024-SUMMER] TV: 異世界失格
   // https://annict.com/works/9736
-  { annict_id: 9736, mal_id: 52367 },
+  { annict_id: 9736, mal_id: 52367, syobocal_tid: 7109 },
   // [2022-AUTUMN] TV: ある朝、ダミーヘッドマイクになっていた俺クンの人生
   // https://annict.com/works/9737
   { annict_id: 9737, mal_id: 52381, syobocal_tid: 6479 },
@@ -29791,7 +29791,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10433, mal_id: 51842 },
   // [2024-SUMMER] TV: VTuberなんだが配信切り忘れたら伝説になってた
   // https://annict.com/works/10434
-  { annict_id: 10434, mal_id: 54284 },
+  { annict_id: 10434, mal_id: 54284, syobocal_tid: 7111 },
   // [2023-SPRING] TV: 六道の悪女たち
   // https://annict.com/works/10435
   { annict_id: 10435, mal_id: 54259, syobocal_tid: 6658 },
@@ -31459,7 +31459,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10991, mal_id: 55845 },
   // [2024-SUMMER] TV: 異世界スーサイド・スクワッド
   // https://annict.com/works/10992
-  { annict_id: 10992, mal_id: 55848 },
+  { annict_id: 10992, mal_id: 55848, syobocal_tid: 7105 },
   // [2024-SPRING] TV: 黒執事 -寄宿学校編-
   // https://annict.com/works/10993
   { annict_id: 10993, mal_id: 55855, syobocal_tid: 7038 },
@@ -31612,7 +31612,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11042, mal_id: 56063 },
   // [2024-SUMMER] TV: なぜ僕の世界を誰も覚えていないのか？
   // https://annict.com/works/11043
-  { annict_id: 11043, mal_id: 56062 },
+  { annict_id: 11043, mal_id: 56062, syobocal_tid: 7104 },
   // [2023-AUTUMN] TV: 攻略うぉんてっど！～異世界救います！？～
   // https://annict.com/works/11044
   { annict_id: 11044, mal_id: 50571, syobocal_tid: 6818 },
@@ -35839,7 +35839,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12454 },
   // [2024-SUMMER] TV: 魔王軍最強の魔術師は人間だった
   // https://annict.com/works/12455
-  { annict_id: 12455, mal_id: 57876 },
+  { annict_id: 12455, mal_id: 57876, syobocal_tid: 7106 },
   // [2024-SUMMER] TV: ハズレ枠の【状態異常スキル】で最強になった俺がすべてを蹂躙するまで
   // https://annict.com/works/12456
   { annict_id: 12456, mal_id: 57892 },
