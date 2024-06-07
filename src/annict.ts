@@ -25400,7 +25400,7 @@ export const annict: ArmEntry[] = [
   // [2021-AUTUMN] WEB: 極主夫道 Part 2
   // https://annict.com/works/8870
   { annict_id: 8870, mal_id: 48707, syobocal_tid: 6335 },
-  // [2024-SUMMER] TV: 鬼人幻燈抄
+  // [2025-null] TV: 鬼人幻燈抄
   // https://annict.com/works/8871
   { annict_id: 8871, mal_id: 49778 },
   // [2021-SUMMER] WEB: ゲンガーになっちゃった！？
@@ -35794,7 +35794,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12439 },
   // [2024-SUMMER] TV: エルフさんは痩せられない。
   // https://annict.com/works/12440
-  { annict_id: 12440, mal_id: 57845 },
+  { annict_id: 12440, mal_id: 57845, syobocal_tid: 7107 },
   // [2014-WINTER] WEB: 超合金ハローキティ オリジナルフラッシュアニメ
   // https://annict.com/works/12441
   { annict_id: 12441 },
@@ -37940,4 +37940,7 @@ export const annict: ArmEntry[] = [
   // [1938-WINTER] MOVIE: ドナルドの腕白時代
   // https://annict.com/works/13158
   { annict_id: 13158 },
+  // [null-null] TV: 外れスキル《木の実マスター》 ～スキルの実（食べたら死ぬ）を無限に食べられるようになった件について～
+  // https://annict.com/works/13159
+  { annict_id: 13159, mal_id: 59002 },
 ]
