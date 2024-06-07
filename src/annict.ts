@@ -37916,4 +37916,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] MOVIE: Re:ゼロから始める異世界生活 3rd season 劇場型悪意
   // https://annict.com/works/13150
   { annict_id: 13150 },
+  // [1937-AUTUMN] MOVIE: ミッキーの大時計
+  // https://annict.com/works/13151
+  { annict_id: 13151 },
 ]
