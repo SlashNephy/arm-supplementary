@@ -31576,7 +31576,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11030, mal_id: 55997 },
   // [2024-SUMMER] TV: 恋は双子で割り切れない
   // https://annict.com/works/11031
-  { annict_id: 11031, mal_id: 55996 },
+  { annict_id: 11031, mal_id: 55996, syobocal_tid: 7112 },
   // [2024-AUTUMN] TV: メカウデ
   // https://annict.com/works/11032
   { annict_id: 11032, mal_id: 53033 },
@@ -35827,7 +35827,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12450, mal_id: 57859 },
   // [2024-SUMMER] WEB: 〈物語〉シリーズ オフ&モンスターシーズン
   // https://annict.com/works/12451
-  { annict_id: 12451, mal_id: 57864 },
+  { annict_id: 12451, mal_id: 57864, syobocal_tid: 7110 },
   // [2020-SUMMER] WEB: ハズビン・ホテル(パイロット版)
   // https://annict.com/works/12452
   { annict_id: 12452 },
