@@ -37919,4 +37919,25 @@ export const annict: ArmEntry[] = [
   // [1937-AUTUMN] MOVIE: ミッキーの大時計
   // https://annict.com/works/13151
   { annict_id: 13151 },
+  // [1937-AUTUMN] MOVIE: 風車小屋のシンフォニー
+  // https://annict.com/works/13152
+  { annict_id: 13152 },
+  // [1937-AUTUMN] MOVIE: プルートの五ツ子
+  // https://annict.com/works/13153
+  { annict_id: 13153 },
+  // [1937-AUTUMN] MOVIE: ドナルドの駅長さん
+  // https://annict.com/works/13154
+  { annict_id: 13154 },
+  // [1937-AUTUMN] MOVIE: ミッキーのお化け退治
+  // https://annict.com/works/13155
+  { annict_id: 13155 },
+  // [1938-WINTER] MOVIE: ドナルドの昼寝
+  // https://annict.com/works/13156
+  { annict_id: 13156 },
+  // [1938-WINTER] MOVIE: ミッキーの造船技師
+  // https://annict.com/works/13157
+  { annict_id: 13157 },
+  // [1938-WINTER] MOVIE: ドナルドの腕白時代
+  // https://annict.com/works/13158
+  { annict_id: 13158 },
 ]
