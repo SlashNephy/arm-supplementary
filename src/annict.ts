@@ -37955,4 +37955,7 @@ export const annict: ArmEntry[] = [
   // [1938-SPRING] MOVIE: 子どもの夢
   // https://annict.com/works/13163
   { annict_id: 13163 },
+  // [1938-SPRING] MOVIE: ドナルドの南極探険
+  // https://annict.com/works/13164
+  { annict_id: 13164 },
 ]
