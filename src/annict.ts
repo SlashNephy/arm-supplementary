@@ -35144,7 +35144,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: にじよん あにめーしょん2
   // https://annict.com/works/12223
   { annict_id: 12223, mal_id: 57623, syobocal_tid: 6994 },
-  // [null-null] TV: 君のことが大大大大大好きな100人の彼女 第2期
+  // [2025-WINTER] TV: 君のことが大大大大大好きな100人の彼女 第2期
   // https://annict.com/works/12224
   { annict_id: 12224, mal_id: 57616 },
   // [1985-AUTUMN] OVA: こちら葛飾区亀有公園前派出所(ジャンプスペシャルアニメ版)
