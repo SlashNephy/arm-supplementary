@@ -37952,4 +37952,7 @@ export const annict: ArmEntry[] = [
   // [1938-SPRING] MOVIE: ミッキーの移動住宅
   // https://annict.com/works/13162
   { annict_id: 13162 },
+  // [1938-SPRING] MOVIE: 子どもの夢
+  // https://annict.com/works/13163
+  { annict_id: 13163 },
 ]
