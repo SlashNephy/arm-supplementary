@@ -37949,4 +37949,7 @@ export const annict: ArmEntry[] = [
   // [1938-SPRING] MOVIE: ドナルドの腕白教育
   // https://annict.com/works/13161
   { annict_id: 13161 },
+  // [1938-SPRING] MOVIE: ミッキーの移動住宅
+  // https://annict.com/works/13162
+  { annict_id: 13162 },
 ]
