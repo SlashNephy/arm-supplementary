@@ -37958,4 +37958,7 @@ export const annict: ArmEntry[] = [
   // [1938-SPRING] MOVIE: ドナルドの南極探険
   // https://annict.com/works/13164
   { annict_id: 13164 },
+  // [1938-SUMMER] MOVIE: ドナルドの少年団長
+  // https://annict.com/works/13165
+  { annict_id: 13165 },
 ]
