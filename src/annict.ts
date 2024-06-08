@@ -31717,7 +31717,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11077, mal_id: 49703 },
   // [2024-SUMMER] TV: グレンダイザーU
   // https://annict.com/works/11078
-  { annict_id: 11078, mal_id: 56189 },
+  { annict_id: 11078, mal_id: 56189, syobocal_tid: 7115 },
   // [2024-SUMMER] MOVIE: 僕のヒーローアカデミア THE MOVIE ユアネクスト
   // https://annict.com/works/11079
   { annict_id: 11079, mal_id: 56196 },
