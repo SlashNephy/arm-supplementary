@@ -37943,4 +37943,10 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 外れスキル《木の実マスター》 ～スキルの実（食べたら死ぬ）を無限に食べられるようになった件について～
   // https://annict.com/works/13159
   { annict_id: 13159, mal_id: 59002 },
+  // [1938-SPRING] MOVIE: モスの消防隊
+  // https://annict.com/works/13160
+  { annict_id: 13160 },
+  // [1938-SPRING] MOVIE: ドナルドの腕白教育
+  // https://annict.com/works/13161
+  { annict_id: 13161 },
 ]
