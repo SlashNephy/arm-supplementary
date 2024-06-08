@@ -37961,4 +37961,10 @@ export const annict: ArmEntry[] = [
   // [1938-SUMMER] MOVIE: ドナルドの少年団長
   // https://annict.com/works/13165
   { annict_id: 13165 },
+  // [1938-SUMMER] MOVIE: ドナルドのキツネ狩り
+  // https://annict.com/works/13166
+  { annict_id: 13166 },
+  // [1938-SUMMER] MOVIE: ミッキーの捕鯨船
+  // https://annict.com/works/13167
+  { annict_id: 13167 },
 ]
