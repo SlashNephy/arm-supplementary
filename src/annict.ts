@@ -36685,7 +36685,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12738, mal_id: 58271 },
   // [2024-SUMMER] TV: 僕の妻は感情がない
   // https://annict.com/works/12739
-  { annict_id: 12739, mal_id: 58272 },
+  { annict_id: 12739, mal_id: 58272, syobocal_tid: 7101 },
   // [2022-SPRING] TV: とーがね！おまつり部
   // https://annict.com/works/12740
   { annict_id: 12740 },
