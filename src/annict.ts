@@ -37973,4 +37973,34 @@ export const annict: ArmEntry[] = [
   // [1938-SUMMER] MOVIE: ミッキーの巨人退治
   // https://annict.com/works/13169
   { annict_id: 13169 },
+  // [1938-AUTUMN] MOVIE: 田園交響楽
+  // https://annict.com/works/13170
+  { annict_id: 13170 },
+  // [1938-AUTUMN] MOVIE: ドナルドのゴルフデー
+  // https://annict.com/works/13171
+  { annict_id: 13171 },
+  // [1938-AUTUMN] MOVIE: 牡牛のフェルディナンド
+  // https://annict.com/works/13172
+  { annict_id: 13172 },
+  // [1938-AUTUMN] MOVIE: 人魚の踊り
+  // https://annict.com/works/13173
+  { annict_id: 13173 },
+  // [1938-AUTUMN] MOVIE: ハリウッドのマザー・グース
+  // https://annict.com/works/13174
+  { annict_id: 13174 },
+  // [1939-WINTER] MOVIE: ドナルドのラッキーな一日
+  // https://annict.com/works/13175
+  { annict_id: 13175 },
+  // [1939-WINTER] MOVIE: ミッキーの愛犬
+  // https://annict.com/works/13176
+  { annict_id: 13176 },
+  // [1939-WINTER] MOVIE: ミッキーのビックリパーティー
+  // https://annict.com/works/13177
+  { annict_id: 13177 },
+  // [1939-WINTER] MOVIE: 働き子ぶた
+  // https://annict.com/works/13178
+  { annict_id: 13178 },
+  // [1939-WINTER] MOVIE: グーフィーの釣天狗
+  // https://annict.com/works/13179
+  { annict_id: 13179 },
 ]
