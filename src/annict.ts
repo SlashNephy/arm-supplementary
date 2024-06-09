@@ -38003,4 +38003,7 @@ export const annict: ArmEntry[] = [
   // [1939-WINTER] MOVIE: グーフィーの釣天狗
   // https://annict.com/works/13179
   { annict_id: 13179 },
+  // [null-null] TV: SPY×FAMILY Season 3
+  // https://annict.com/works/13180
+  { annict_id: 13180 },
 ]
