@@ -38030,4 +38030,13 @@ export const annict: ArmEntry[] = [
   // [1939-SUMMER] MOVIE: ドナルドのサインマニア
   // https://annict.com/works/13188
   { annict_id: 13188 },
+  // [1939-AUTUMN] MOVIE: ドナルドのポリスマン
+  // https://annict.com/works/13189
+  { annict_id: 13189 },
+  // [1939-AUTUMN] MOVIE: ミッキーのスタンダード・パレード
+  // https://annict.com/works/13190
+  { annict_id: 13190 },
+  // [1940-WINTER] MOVIE: ドナルドの仕事は楽し
+  // https://annict.com/works/13191
+  { annict_id: 13191 },
 ]
