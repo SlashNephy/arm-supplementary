@@ -28780,7 +28780,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10095, syobocal_tid: 6496 },
   // [2024-SUMMER] TV: ATRI -My Dear Moments-
   // https://annict.com/works/10096
-  { annict_id: 10096, mal_id: 53128 },
+  { annict_id: 10096, mal_id: 53128, syobocal_tid: 7116 },
   // [2023-SUMMER] TV: Fate/strange Fake -Whispers of Dawn-
   // https://annict.com/works/10097
   { annict_id: 10097, mal_id: 53127 },
@@ -31453,7 +31453,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10989, mal_id: 55842 },
   // [2024-SUMMER] TV: 黄昏アウトフォーカス
   // https://annict.com/works/10990
-  { annict_id: 10990, mal_id: 55844 },
+  { annict_id: 10990, mal_id: 55844, syobocal_tid: 7114 },
   // [null-null] WEB: 機動戦士ガンダム 復讐のレクイエム
   // https://annict.com/works/10991
   { annict_id: 10991, mal_id: 55845 },
