@@ -36728,7 +36728,7 @@ export const annict: ArmEntry[] = [
   // [2008-WINTER] TV: 豆しば
   // https://annict.com/works/12753
   { annict_id: 12753 },
-  // [1935-SPRING] MOVIE: 一寸法師～ちび助物語～
+  // [1935-SPRING] MOVIE: 一寸法師 ちび助物語
   // https://annict.com/works/12754
   { annict_id: 12754, mal_id: 6836 },
   // [1935-WINTER] MOVIE: ターチャンの海底旅行
