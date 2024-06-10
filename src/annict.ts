@@ -38006,4 +38006,28 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: SPY×FAMILY Season 3
   // https://annict.com/works/13180
   { annict_id: 13180 },
+  // [1939-SPRING] MOVIE: みにくいあひるの子(1939年)
+  // https://annict.com/works/13181
+  { annict_id: 13181 },
+  // [1939-SPRING] MOVIE: ドナルドのアイス・ホッケー
+  // https://annict.com/works/13182
+  { annict_id: 13182 },
+  // [1939-SPRING] MOVIE: 食いしん坊がやってきた
+  // https://annict.com/works/13183
+  { annict_id: 13183 },
+  // [1939-SPRING] MOVIE: ドナルドの海水浴
+  // https://annict.com/works/13184
+  { annict_id: 13184 },
+  // [1939-SPRING] MOVIE: ドナルドの海洋団
+  // https://annict.com/works/13185
+  { annict_id: 13185 },
+  // [1939-SUMMER] MOVIE: ミッキーの猟は楽し
+  // https://annict.com/works/13186
+  { annict_id: 13186 },
+  // [1939-SUMMER] MOVIE: ドナルドのペンギン
+  // https://annict.com/works/13187
+  { annict_id: 13187 },
+  // [1939-SUMMER] MOVIE: ドナルドのサインマニア
+  // https://annict.com/works/13188
+  { annict_id: 13188 },
 ]
