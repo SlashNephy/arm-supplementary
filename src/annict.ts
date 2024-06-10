@@ -30683,7 +30683,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] MOVIE: 駒田蒸留所へようこそ
   // https://annict.com/works/10733
   { annict_id: 10733, mal_id: 55149 },
-  // [2024-null] TV: やり直し令嬢は竜帝陛下を攻略中
+  // [2024-AUTUMN] TV: やり直し令嬢は竜帝陛下を攻略中
   // https://annict.com/works/10734
   { annict_id: 10734, mal_id: 55150 },
   // [2023-AUTUMN] TV: 柚木さんちの四兄弟。
@@ -38039,4 +38039,7 @@ export const annict: ArmEntry[] = [
   // [1940-WINTER] MOVIE: ドナルドの仕事は楽し
   // https://annict.com/works/13191
   { annict_id: 13191 },
+  // [2024-SPRING] WEB: ドナルドのD.I.Y.
+  // https://annict.com/works/13192
+  { annict_id: 13192 },
 ]
