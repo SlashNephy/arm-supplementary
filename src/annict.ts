@@ -38069,4 +38069,7 @@ export const annict: ArmEntry[] = [
   // [1940-SUMMER] MOVIE: ドナルドの摩天楼
   // https://annict.com/works/13201
   { annict_id: 13201 },
+  // [1955-null] MOVIE: 線と色の即興詩
+  // https://annict.com/works/13202
+  { annict_id: 13202 },
 ]
