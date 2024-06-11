@@ -38042,4 +38042,19 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] WEB: ドナルドのD.I.Y.
   // https://annict.com/works/13192
   { annict_id: 13192 },
+  // [1940-SPRING] MOVIE: ドナルドの洗濯機
+  // https://annict.com/works/13193
+  { annict_id: 13193 },
+  // [1940-SPRING] MOVIE: ミッキーの船長さん
+  // https://annict.com/works/13194
+  { annict_id: 13194 },
+  // [1940-SPRING] MOVIE: ドナルドとヤギ
+  // https://annict.com/works/13195
+  { annict_id: 13195 },
+  // [1940-SPRING] MOVIE: ドナルドのダンス大好き
+  // https://annict.com/works/13196
+  { annict_id: 13196 },
+  // [1940-SPRING] MOVIE: プルートの鏡騒動
+  // https://annict.com/works/13197
+  { annict_id: 13197 },
 ]
