@@ -38087,4 +38087,7 @@ export const annict: ArmEntry[] = [
   // [1908-SUMMER] MOVIE: ファンタスマゴリー
   // https://annict.com/works/13207
   { annict_id: 13207 },
+  // [null-null] OTHER: 多聞くん今どっち!?
+  // https://annict.com/works/13208
+  { annict_id: 13208 },
 ]
