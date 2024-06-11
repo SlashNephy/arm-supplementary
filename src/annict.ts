@@ -33055,7 +33055,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11524 },
   // [2024-SUMMER] TV: 菜なれ花なれ
   // https://annict.com/works/11525
-  { annict_id: 11525, mal_id: 57099 },
+  { annict_id: 11525, mal_id: 57099, syobocal_tid: 7118 },
   // [2024-SPRING] TV: THE NEW GATE
   // https://annict.com/works/11526
   { annict_id: 11526, mal_id: 57100, syobocal_tid: 7023 },
@@ -38072,4 +38072,13 @@ export const annict: ArmEntry[] = [
   // [1955-null] MOVIE: 線と色の即興詩
   // https://annict.com/works/13202
   { annict_id: 13202 },
+  // [1958-null] MOVIE: つぐみ 小鳥のファンタジー
+  // https://annict.com/works/13203
+  { annict_id: 13203 },
+  // [1942-null] MOVIE: めんどりの踊り
+  // https://annict.com/works/13204
+  { annict_id: 13204 },
+  // [1940-null] MOVIE: ループ(1940年)
+  // https://annict.com/works/13205
+  { annict_id: 13205 },
 ]
