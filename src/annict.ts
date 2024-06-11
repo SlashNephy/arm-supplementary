@@ -38081,4 +38081,10 @@ export const annict: ArmEntry[] = [
   // [1940-null] MOVIE: ループ(1940年)
   // https://annict.com/works/13205
   { annict_id: 13205 },
+  // [1906-SPRING] MOVIE: 愉快な百面相
+  // https://annict.com/works/13206
+  { annict_id: 13206 },
+  // [1908-SUMMER] MOVIE: ファンタスマゴリー
+  // https://annict.com/works/13207
+  { annict_id: 13207 },
 ]
