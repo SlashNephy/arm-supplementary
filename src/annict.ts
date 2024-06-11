@@ -38057,4 +38057,16 @@ export const annict: ArmEntry[] = [
   // [1940-SPRING] MOVIE: プルートの鏡騒動
   // https://annict.com/works/13197
   { annict_id: 13197 },
+  // [1940-SUMMER] MOVIE: ドナルドのモーターボート
+  // https://annict.com/works/13198
+  { annict_id: 13198 },
+  // [1940-SUMMER] MOVIE: ドナルドの夏休み
+  // https://annict.com/works/13199
+  { annict_id: 13199 },
+  // [1940-SUMMER] MOVIE: プルートの魔法のランプ
+  // https://annict.com/works/13200
+  { annict_id: 13200 },
+  // [1940-SUMMER] MOVIE: ドナルドの摩天楼
+  // https://annict.com/works/13201
+  { annict_id: 13201 },
 ]
