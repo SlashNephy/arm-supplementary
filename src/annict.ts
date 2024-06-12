@@ -36671,7 +36671,7 @@ export const annict: ArmEntry[] = [
   // [1932-null] MOVIE: ダン吉島のオリムピック大会
   // https://annict.com/works/12734
   { annict_id: 12734, mal_id: 5814 },
-  // [1932-null] MOVIE: 動物村のスポーツデー
+  // [1932-null] MOVIE: 体育デー(動物村のスポーツデー)
   // https://annict.com/works/12735
   { annict_id: 12735, mal_id: 5872 },
   // [1933-null] MOVIE: 三公と蛸～百万両珍騒動～
@@ -38090,4 +38090,31 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 多聞くん今どっち!?
   // https://annict.com/works/13208
   { annict_id: 13208, mal_id: 59047 },
+  // [1940-AUTUMN] MOVIE: ミッキーのドキドキ汽車旅行
+  // https://annict.com/works/13209
+  { annict_id: 13209 },
+  // [1940-AUTUMN] MOVIE: グーフィーのグライダー教室
+  // https://annict.com/works/13210
+  { annict_id: 13210 },
+  // [1940-AUTUMN] MOVIE: ドナルドの消防隊長
+  // https://annict.com/works/13211
+  { annict_id: 13211 },
+  // [1940-AUTUMN] MOVIE: プルートの台所騒動
+  // https://annict.com/works/13212
+  { annict_id: 13212 },
+  // [1941-WINTER] MOVIE: ドナルドと山男
+  // https://annict.com/works/13213
+  { annict_id: 13213 },
+  // [1941-WINTER] MOVIE: プルートの遊び友達
+  // https://annict.com/works/13214
+  { annict_id: 13214 },
+  // [1941-WINTER] MOVIE: ミッキーのつむじ風
+  // https://annict.com/works/13215
+  { annict_id: 13215 },
+  // [1941-WINTER] MOVIE: ドナルドの卵騒動
+  // https://annict.com/works/13216
+  { annict_id: 13216 },
+  // [1941-WINTER] MOVIE: プルートの泣き虫
+  // https://annict.com/works/13217
+  { annict_id: 13217 },
 ]
