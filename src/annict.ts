@@ -33233,7 +33233,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] TV: かつて魔法少女と悪は敵対していた。
   // https://annict.com/works/11584
   { annict_id: 11584, mal_id: 57217, syobocal_tid: 7086 },
-  // [2024-SUMMER] TV: 神之塔 -Tower of God- 第2期
+  // [2024-SUMMER] TV: 神之塔 -Tower of God- 王子の帰還
   // https://annict.com/works/11585
   { annict_id: 11585, mal_id: 52635 },
   // [2024-AUTUMN] TV: アオのハコ
@@ -38087,7 +38087,7 @@ export const annict: ArmEntry[] = [
   // [1908-SUMMER] MOVIE: ファンタスマゴリー
   // https://annict.com/works/13207
   { annict_id: 13207 },
-  // [null-null] OTHER: 多聞くん今どっち!?
+  // [null-null] TV: 多聞くん今どっち！？
   // https://annict.com/works/13208
   { annict_id: 13208, mal_id: 59047 },
   // [1940-AUTUMN] MOVIE: ミッキーのドキドキ汽車旅行
@@ -38117,4 +38117,7 @@ export const annict: ArmEntry[] = [
   // [1941-WINTER] MOVIE: プルートの泣き虫
   // https://annict.com/works/13217
   { annict_id: 13217 },
+  // [2025-null] TV: 花は咲く、修羅の如く
+  // https://annict.com/works/13218
+  { annict_id: 13218, mal_id: 59055 },
 ]
