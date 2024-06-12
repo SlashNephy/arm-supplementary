@@ -30086,7 +30086,7 @@ export const annict: ArmEntry[] = [
   // [2013-SPRING] OVA: ジョージとAJ
   // https://annict.com/works/10533
   { annict_id: 10533 },
-  // [2010-SPRING] OVA: ダグの特別な1日
+  // [2010-SPRING] OVA: ダグの特別な一日
   // https://annict.com/works/10534
   { annict_id: 10534 },
   // [2009-AUTUMN] MOVIE: 晴れ ときどき くもり
@@ -30788,10 +30788,10 @@ export const annict: ArmEntry[] = [
   // [2011-SPRING] OVA: UFM 未確認飛行メーター
   // https://annict.com/works/10768
   { annict_id: 10768 },
-  // [2011-SPRING] OVA: モンスタートラック メーター
+  // [2011-SPRING] OVA: モンスター・トラック メーター
   // https://annict.com/works/10769
   { annict_id: 10769 },
-  // [2011-SPRING] OVA: ヘヴィ メタル メーター
+  // [2011-SPRING] OVA: ヘビー・メタル メーター
   // https://annict.com/works/10770
   { annict_id: 10770 },
   // [2011-SPRING] OVA: ムーン メーター
