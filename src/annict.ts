@@ -30544,7 +30544,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10686, mal_id: 54959, syobocal_tid: 6716 },
   // [2024-SUMMER] TV: 疑似ハーレム
   // https://annict.com/works/10687
-  { annict_id: 10687, mal_id: 54968 },
+  { annict_id: 10687, mal_id: 54968, syobocal_tid: 7120 },
   // [2022-SUMMER] WEB: Obey Me! The Anime Season 2
   // https://annict.com/works/10688
   { annict_id: 10688, mal_id: 52045 },
@@ -34874,7 +34874,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] MOVIE: ムーミンパパの思い出
   // https://annict.com/works/12132
   { annict_id: 12132 },
-  // [2024-SUMMER] TV: SHY 第2期
+  // [2024-SUMMER] TV: SHY 東京奪還編
   // https://annict.com/works/12133
   { annict_id: 12133, mal_id: 57567 },
   // [2024-WINTER] TV: 闇芝居 (12期)
@@ -38120,4 +38120,7 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: 花は咲く、修羅の如く
   // https://annict.com/works/13218
   { annict_id: 13218, mal_id: 59055 },
+  // [2024-SUMMER] MOVIE: インサイド・ヘッド2
+  // https://annict.com/works/13219
+  { annict_id: 13219 },
 ]
