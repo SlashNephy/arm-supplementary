@@ -38089,5 +38089,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 13207 },
   // [null-null] OTHER: 多聞くん今どっち!?
   // https://annict.com/works/13208
-  { annict_id: 13208 },
+  { annict_id: 13208, mal_id: 59047 },
 ]
