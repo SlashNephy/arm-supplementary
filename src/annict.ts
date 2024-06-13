@@ -36323,7 +36323,7 @@ export const annict: ArmEntry[] = [
   // [2019-WINTER] WEB: 「科学漫画サバイバル」シリーズ（パイロットムービー）
   // https://annict.com/works/12618
   { annict_id: 12618, mal_id: 39618 },
-  // [null-null] TV: 「科学漫画サバイバル」シリーズ
+  // [2024-AUTUMN] TV: 科学×冒険サバイバル！
   // https://annict.com/works/12619
   { annict_id: 12619, mal_id: 58137 },
   // [2024-WINTER] TV: オオクニヌシとスクナビコナ
@@ -38162,4 +38162,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: ダンジョン飯 第2期
   // https://annict.com/works/13233
   { annict_id: 13233, mal_id: 59068 },
+  // [2025-null] TV: ガチアクタ
+  // https://annict.com/works/13234
+  { annict_id: 13234, mal_id: 59062 },
 ]
