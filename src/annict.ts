@@ -38123,4 +38123,34 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] MOVIE: インサイド・ヘッド2
   // https://annict.com/works/13219
   { annict_id: 13219 },
+  // [2024-SUMMER] TV: 未来の黒幕系悪役令嬢モリアーティーの異世界完全犯罪白書
+  // https://annict.com/works/13220
+  { annict_id: 13220 },
+  // [1941-SPRING] MOVIE: グーフィーのトランク騒動
+  // https://annict.com/works/13221
+  { annict_id: 13221 },
+  // [1941-SPRING] MOVIE: ドナルドのゲーム、ゲーム、ゲーム
+  // https://annict.com/works/13222
+  { annict_id: 13222 },
+  // [1941-SPRING] MOVIE: ミッキーのゴルフ
+  // https://annict.com/works/13224
+  { annict_id: 13224 },
+  // [1941-SPRING] MOVIE: リラクタント・ドラゴン
+  // https://annict.com/works/13225
+  { annict_id: 13225 },
+  // [1941-SPRING] MOVIE: ミッキーの青春手帳
+  // https://annict.com/works/13226
+  { annict_id: 13226 },
+  // [1941-SUMMER] MOVIE: ドナルドのめざまし時計
+  // https://annict.com/works/13227
+  { annict_id: 13227 },
+  // [1941-SUMMER] MOVIE: ドナルドのずる休み
+  // https://annict.com/works/13228
+  { annict_id: 13228 },
+  // [1941-SUMMER] MOVIE: ミッキーの芝居見物(1941年)
+  // https://annict.com/works/13229
+  { annict_id: 13229 },
+  // [1941-SUMMER] MOVIE: ドナルドの牧場
+  // https://annict.com/works/13230
+  { annict_id: 13230 },
 ]
