@@ -38159,4 +38159,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] WEB: Welcome to WcDonald's
   // https://annict.com/works/13232
   { annict_id: 13232 },
+  // [null-null] TV: ダンジョン飯 第2期
+  // https://annict.com/works/13233
+  { annict_id: 13233, mal_id: 59068 },
 ]
