@@ -38153,4 +38153,10 @@ export const annict: ArmEntry[] = [
   // [1941-SUMMER] MOVIE: ドナルドの牧場
   // https://annict.com/works/13230
   { annict_id: 13230 },
+  // [1946-null] MOVIE: 魔法のペン
+  // https://annict.com/works/13231
+  { annict_id: 13231, mal_id: 7524 },
+  // [2024-WINTER] WEB: Welcome to WcDonald's
+  // https://annict.com/works/13232
+  { annict_id: 13232 },
 ]
