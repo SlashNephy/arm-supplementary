@@ -38194,5 +38194,8 @@ export const annict: ArmEntry[] = [
   { annict_id: 13243 },
   // [null-null] TV: GUILTY GEAR STRIVE: DUAL RULERS
   // https://annict.com/works/13244
-  { annict_id: 13244 },
+  { annict_id: 13244, mal_id: 59070 },
+  // [2015-WINTER] OVA: OVA快盗天使ツインエンジェル ～キュンキュン☆ときめきパラダイス！！～
+  // https://annict.com/works/13245
+  { annict_id: 13245, mal_id: 27997 },
 ]
