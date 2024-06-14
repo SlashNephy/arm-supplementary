@@ -38198,4 +38198,7 @@ export const annict: ArmEntry[] = [
   // [2015-WINTER] OVA: OVA快盗天使ツインエンジェル ～キュンキュン☆ときめきパラダイス！！～
   // https://annict.com/works/13245
   { annict_id: 13245, mal_id: 27997 },
+  // [2025-null] TV: プリンセッション・オーケストラ
+  // https://annict.com/works/13246
+  { annict_id: 13246 },
 ]
