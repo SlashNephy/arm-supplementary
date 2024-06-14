@@ -38192,4 +38192,7 @@ export const annict: ArmEntry[] = [
   // [1942-WINTER] MOVIE: ミッキーのオーケストラ
   // https://annict.com/works/13243
   { annict_id: 13243 },
+  // [null-null] TV: GUILTY GEAR STRIVE: DUAL RULERS
+  // https://annict.com/works/13244
+  { annict_id: 13244 },
 ]
