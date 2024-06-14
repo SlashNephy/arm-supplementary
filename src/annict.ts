@@ -30623,7 +30623,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: オーイ! とんぼ
   // https://annict.com/works/10713
   { annict_id: 10713, mal_id: 55194, syobocal_tid: 7029 },
-  // [2024-null] TV: 甘神さんちの縁結び
+  // [2024-AUTUMN] TV: 甘神さんちの縁結び
   // https://annict.com/works/10714
   { annict_id: 10714, mal_id: 55071 },
   // [2012-SPRING] TV: リトル・チャロ東北編
@@ -31789,7 +31789,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11101 },
   // [2024-SUMMER] TV: 魔導具師ダリヤはうつむかない
   // https://annict.com/works/11102
-  { annict_id: 11102, mal_id: 56449 },
+  { annict_id: 11102, mal_id: 56449, syobocal_tid: 7125 },
   // [2024-SPRING] MOVIE: デッドデッドデーモンズデデデデデストラクション 後章
   // https://annict.com/works/11103
   { annict_id: 11103, mal_id: 51358 },
