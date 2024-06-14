@@ -38201,4 +38201,7 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: プリンセッション・オーケストラ
   // https://annict.com/works/13246
   { annict_id: 13246, mal_id: 59078 },
+  // [2024-SPRING] WEB: 現代誤訳 ～序幕～
+  // https://annict.com/works/13247
+  { annict_id: 13247 },
 ]
