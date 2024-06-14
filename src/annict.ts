@@ -38200,5 +38200,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 13245, mal_id: 27997 },
   // [2025-null] TV: プリンセッション・オーケストラ
   // https://annict.com/works/13246
-  { annict_id: 13246 },
+  { annict_id: 13246, mal_id: 59078 },
 ]
