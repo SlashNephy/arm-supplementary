@@ -38165,4 +38165,31 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: ガチアクタ
   // https://annict.com/works/13234
   { annict_id: 13234, mal_id: 59062 },
+  // [1941-AUTUMN] MOVIE: プルートのなやみ
+  // https://annict.com/works/13235
+  { annict_id: 13235 },
+  // [1941-AUTUMN] MOVIE: ドナルドのカメラ大好き
+  // https://annict.com/works/13236
+  { annict_id: 13236 },
+  // [1941-AUTUMN] MOVIE: グーフィーのスキー教室
+  // https://annict.com/works/13237
+  { annict_id: 13237 },
+  // [1941-AUTUMN] MOVIE: ドナルドのお料理
+  // https://annict.com/works/13238
+  { annict_id: 13238 },
+  // [1941-AUTUMN] MOVIE: グーフィーのボクシング教室
+  // https://annict.com/works/13239
+  { annict_id: 13239 },
+  // [1942-WINTER] MOVIE: ドナルドのかじ屋
+  // https://annict.com/works/13240
+  { annict_id: 13240 },
+  // [1942-WINTER] MOVIE: ミッキーの誕生日
+  // https://annict.com/works/13241
+  { annict_id: 13241 },
+  // [1942-WINTER] MOVIE: プルートのわんぱく坊や
+  // https://annict.com/works/13242
+  { annict_id: 13242 },
+  // [1942-WINTER] MOVIE: ミッキーのオーケストラ
+  // https://annict.com/works/13243
+  { annict_id: 13243 },
 ]
