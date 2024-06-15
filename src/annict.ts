@@ -38246,4 +38246,16 @@ export const annict: ArmEntry[] = [
   // [1942-AUTUMN] MOVIE: グーフィーの釣り教室
   // https://annict.com/works/13261
   { annict_id: 13261 },
+  // [1942-AUTUMN] MOVIE: ドナルドのベルボーイ
+  // https://annict.com/works/13262
+  { annict_id: 13262 },
+  // [1943-WINTER] MOVIE: ぼろぼろタイヤ
+  // https://annict.com/works/13263
+  { annict_id: 13263 },
+  // [1943-WINTER] MOVIE: プルートの南米旅行
+  // https://annict.com/works/13264
+  { annict_id: 13264 },
+  // [1943-WINTER] MOVIE: ドナルドのボロ飛行機
+  // https://annict.com/works/13265
+  { annict_id: 13265 },
 ]
