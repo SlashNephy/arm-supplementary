@@ -38204,4 +38204,31 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] WEB: 現代誤訳 ～序幕～
   // https://annict.com/works/13247
   { annict_id: 13247 },
+  // [1942-SPRING] MOVIE: ドナルドの雪合戦
+  // https://annict.com/works/13248
+  { annict_id: 13248 },
+  // [1942-SPRING] MOVIE: ドナルドの入隊
+  // https://annict.com/works/13249
+  { annict_id: 13249 },
+  // [1942-SPRING] MOVIE: アーミー・マスコット
+  // https://annict.com/works/13250
+  { annict_id: 13250 },
+  // [1942-SPRING] MOVIE: ドナルドの野菜畑
+  // https://annict.com/works/13251
+  { annict_id: 13251 },
+  // [1942-SUMMER] MOVIE: プルートとえさどろぼう
+  // https://annict.com/works/13252
+  { annict_id: 13252 },
+  // [1942-SUMMER] MOVIE: ドナルドのゴールド大好き
+  // https://annict.com/works/13253
+  { annict_id: 13253 },
+  // [1942-SUMMER] MOVIE: プルートとブル公
+  // https://annict.com/works/13254
+  { annict_id: 13254 },
+  // [1942-SUMMER] MOVIE: グーフィーの野球教室
+  // https://annict.com/works/13255
+  { annict_id: 13255 },
+  // [1942-SUMMER] MOVIE: ドナルドの透明人間
+  // https://annict.com/works/13256
+  { annict_id: 13256 },
 ]
