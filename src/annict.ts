@@ -38231,4 +38231,19 @@ export const annict: ArmEntry[] = [
   // [1942-SUMMER] MOVIE: ドナルドの透明人間
   // https://annict.com/works/13256
   { annict_id: 13256 },
+  // [1942-AUTUMN] MOVIE: グーフィーのオリンピック教室
+  // https://annict.com/works/13257
+  { annict_id: 13257 },
+  // [1942-AUTUMN] MOVIE: グーフィーの水泳教室
+  // https://annict.com/works/13258
+  { annict_id: 13258 },
+  // [1942-AUTUMN] MOVIE: ドナルドのパイロット
+  // https://annict.com/works/13259
+  { annict_id: 13259 },
+  // [1942-AUTUMN] MOVIE: プルートの動物園
+  // https://annict.com/works/13260
+  { annict_id: 13260 },
+  // [1942-AUTUMN] MOVIE: グーフィーの釣り教室
+  // https://annict.com/works/13261
+  { annict_id: 13261 },
 ]
