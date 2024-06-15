@@ -25618,7 +25618,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 8974 },
   // [2024-SUMMER] TV: キミと僕の最後の戦場、あるいは世界が始まる聖戦 season II
   // https://annict.com/works/8975
-  { annict_id: 8975, mal_id: 49981 },
+  { annict_id: 8975, mal_id: 49981, syobocal_tid: 7113 },
   // [1995-SUMMER] MOVIE: On Your Mark
   // https://annict.com/works/8976
   { annict_id: 8976, mal_id: 1047 },
