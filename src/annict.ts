@@ -38258,4 +38258,7 @@ export const annict: ArmEntry[] = [
   // [1943-WINTER] MOVIE: ドナルドのボロ飛行機
   // https://annict.com/works/13265
   { annict_id: 13265 },
+  // [2002-SUMMER] OVA: LEGEND OF BASARA 新橋劇場「新橋の一番長い一日」
+  // https://annict.com/works/13266
+  { annict_id: 13266, mal_id: 23597 },
 ]
