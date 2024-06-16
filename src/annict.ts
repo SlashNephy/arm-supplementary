@@ -38306,4 +38306,16 @@ export const annict: ArmEntry[] = [
   // [1929-AUTUMN] MOVIE: Noah's Lark（原題）
   // https://annict.com/works/13281
   { annict_id: 13281 },
+  // [1930-WINTER] MOVIE: Radio Riot（原題）
+  // https://annict.com/works/13282
+  { annict_id: 13282 },
+  // [1930-WINTER] MOVIE: ホット・ドッグ
+  // https://annict.com/works/13283
+  { annict_id: 13283 },
+  // [1930-SPRING] MOVIE: Fire Bugs（原題）
+  // https://annict.com/works/13284
+  { annict_id: 13284 },
+  // [1930-SUMMER] MOVIE: Wise Flies（原題）
+  // https://annict.com/works/13285
+  { annict_id: 13285 },
 ]
