@@ -38318,4 +38318,7 @@ export const annict: ArmEntry[] = [
   // [1930-SUMMER] MOVIE: Wise Flies（原題）
   // https://annict.com/works/13285
   { annict_id: 13285 },
+  // [null-null] TV: 東京リベンジャーズ 続編
+  // https://annict.com/works/13286
+  { annict_id: 13286 },
 ]
