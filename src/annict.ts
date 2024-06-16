@@ -38264,4 +38264,40 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] WEB: 『Page of Lambda』オープニングアニメーション
   // https://annict.com/works/13267
   { annict_id: 13267 },
+  // [1943-SPRING] MOVIE: プルートの二等兵
+  // https://annict.com/works/13268
+  { annict_id: 13268 },
+  // [1943-SPRING] MOVIE: ドナルドの軍隊行進
+  // https://annict.com/works/13269
+  { annict_id: 13269 },
+  // [1943-SUMMER] MOVIE: グーフィーのすてきな乗り物
+  // https://annict.com/works/13270
+  { annict_id: 13270 },
+  // [1943-SUMMER] MOVIE: フィガロとクレオ
+  // https://annict.com/works/13271
+  { annict_id: 13271 },
+  // [1943-AUTUMN] MOVIE: ドナルドの新兵さん
+  // https://annict.com/works/13272
+  { annict_id: 13272 },
+  // [1943-AUTUMN] MOVIE: ドナルドの空の監視員
+  // https://annict.com/works/13273
+  { annict_id: 13273 },
+  // [1943-AUTUMN] MOVIE: きつねとヒヨコ
+  // https://annict.com/works/13274
+  { annict_id: 13274 },
+  // [1944-WINTER] MOVIE: ペリカンとしぎ
+  // https://annict.com/works/13275
+  { annict_id: 13275 },
+  // [1944-WINTER] MOVIE: グーフィーの船乗り教室
+  // https://annict.com/works/13276
+  { annict_id: 13276 },
+  // [1944-WINTER] MOVIE: ドナルドのトロンボーン騒動
+  // https://annict.com/works/13277
+  { annict_id: 13277 },
+  // [1944-WINTER] MOVIE: グーフィーのゴルフ教室
+  // https://annict.com/works/13278
+  { annict_id: 13278 },
+  // [1944-WINTER] MOVIE: ドナルドとゴリラ
+  // https://annict.com/works/13279
+  { annict_id: 13279 },
 ]
