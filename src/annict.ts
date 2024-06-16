@@ -38261,7 +38261,7 @@ export const annict: ArmEntry[] = [
   // [2002-SUMMER] OVA: LEGEND OF BASARA 新橋劇場「新橋の一番長い一日」
   // https://annict.com/works/13266
   { annict_id: 13266, mal_id: 23597 },
-  // [2024-SUMMER] WEB: 『Page of Lambda』オープニングアニメーション
+  // [2024-SPRING] WEB: 『Page of Lambda』オープニングアニメーション
   // https://annict.com/works/13267
   { annict_id: 13267 },
   // [1943-SPRING] MOVIE: プルートの二等兵
@@ -38300,4 +38300,10 @@ export const annict: ArmEntry[] = [
   // [1944-WINTER] MOVIE: ドナルドとゴリラ
   // https://annict.com/works/13279
   { annict_id: 13279 },
+  // [1930-SUMMER] MOVIE: ビン坊の料理人
+  // https://annict.com/works/13280
+  { annict_id: 13280 },
+  // [1929-AUTUMN] MOVIE: Noah's Lark（原題）
+  // https://annict.com/works/13281
+  { annict_id: 13281 },
 ]
