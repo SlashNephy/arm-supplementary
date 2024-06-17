@@ -38321,4 +38321,10 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 東京リベンジャーズ 続編
   // https://annict.com/works/13286
   { annict_id: 13286 },
+  // [2017-WINTER] WEB: ピーポくんアニメーション
+  // https://annict.com/works/13287
+  { annict_id: 13287 },
+  // [2013-WINTER] WEB: 東京都水道局広報アニメ
+  // https://annict.com/works/13288
+  { annict_id: 13288 },
 ]
