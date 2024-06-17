@@ -38320,7 +38320,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13285 },
   // [null-null] TV: 東京リベンジャーズ 続編
   // https://annict.com/works/13286
-  { annict_id: 13286 },
+  { annict_id: 13286, mal_id: 59088 },
   // [2017-WINTER] WEB: ピーポくんアニメーション
   // https://annict.com/works/13287
   { annict_id: 13287 },
@@ -38363,4 +38363,7 @@ export const annict: ArmEntry[] = [
   // [1945-WINTER] MOVIE: ドナルドの催眠術
   // https://annict.com/works/13300
   { annict_id: 13300 },
+  // [null-null] TV: 転生したら第七王子だったので、気ままに魔術を極めます 2期
+  // https://annict.com/works/13301
+  { annict_id: 13301 },
 ]
