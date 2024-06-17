@@ -38327,4 +38327,40 @@ export const annict: ArmEntry[] = [
   // [2013-WINTER] WEB: 東京都水道局広報アニメ
   // https://annict.com/works/13288
   { annict_id: 13288 },
+  // [1991-null] OVA: 玉川兄弟
+  // https://annict.com/works/13289
+  { annict_id: 13289, mal_id: 36326 },
+  // [1944-SPRING] MOVIE: ドナルドとコンドル親子
+  // https://annict.com/works/13290
+  { annict_id: 13290 },
+  // [1944-SPRING] MOVIE: ドナルドのコマンド部隊
+  // https://annict.com/works/13291
+  { annict_id: 13291 },
+  // [1944-SPRING] MOVIE: プルートの春や春
+  // https://annict.com/works/13292
+  { annict_id: 13292 },
+  // [1944-SUMMER] MOVIE: ドナルドのプラスチック時代
+  // https://annict.com/works/13293
+  { annict_id: 13293 },
+  // [1944-SUMMER] MOVIE: グーフィーのアメリカンフットボール
+  // https://annict.com/works/13294
+  { annict_id: 13294 },
+  // [1944-SUMMER] MOVIE: プルートの仲直り
+  // https://annict.com/works/13295
+  { annict_id: 13295 },
+  // [1944-AUTUMN] MOVIE: ドナルドのゴルフ日記
+  // https://annict.com/works/13296
+  { annict_id: 13296 },
+  // [1945-WINTER] MOVIE: グーフィーの虎退治
+  // https://annict.com/works/13297
+  { annict_id: 13297 },
+  // [1945-WINTER] MOVIE: ドナルドのモダン・タイムズ
+  // https://annict.com/works/13298
+  { annict_id: 13298 },
+  // [1945-WINTER] MOVIE: 犬の見張り番
+  // https://annict.com/works/13299
+  { annict_id: 13299 },
+  // [1945-WINTER] MOVIE: ドナルドの催眠術
+  // https://annict.com/works/13300
+  { annict_id: 13300 },
 ]
