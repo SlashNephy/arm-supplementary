@@ -38263,7 +38263,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13266, mal_id: 23597 },
   // [2024-SPRING] WEB: 『Page of Lambda』オープニングアニメーション
   // https://annict.com/works/13267
-  { annict_id: 13267 },
+  { annict_id: 13267, mal_id: 59097 },
   // [1943-SPRING] MOVIE: プルートの二等兵
   // https://annict.com/works/13268
   { annict_id: 13268 },
@@ -38365,8 +38365,11 @@ export const annict: ArmEntry[] = [
   { annict_id: 13300 },
   // [null-null] TV: 転生したら第七王子だったので、気ままに魔術を極めます 2期
   // https://annict.com/works/13301
-  { annict_id: 13301 },
+  { annict_id: 13301, mal_id: 59095 },
   // [1940-SUMMER] MOVIE: ザ・ボランティア・ワーカー
   // https://annict.com/works/13302
   { annict_id: 13302 },
+  // [null-null] OTHER: 童話リベンジャーズ
+  // https://annict.com/works/13303
+  { annict_id: 13303, mal_id: 59091 },
 ]
