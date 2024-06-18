@@ -38372,4 +38372,16 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 童話リベンジャーズ
   // https://annict.com/works/13303
   { annict_id: 13303, mal_id: 59091 },
+  // [1945-SPRING] MOVIE: グーフィーの猛獣狩り
+  // https://annict.com/works/13304
+  { annict_id: 13304 },
+  // [1945-SPRING] MOVIE: ドナルドの罪の償い
+  // https://annict.com/works/13305
+  { annict_id: 13305 },
+  // [1945-SUMMER] MOVIE: グーフィーの幌馬車隊西へ
+  // https://annict.com/works/13306
+  { annict_id: 13306 },
+  // [1945-SUMMER] MOVIE: プルートの武勇伝
+  // https://annict.com/works/13307
+  { annict_id: 13307 },
 ]
