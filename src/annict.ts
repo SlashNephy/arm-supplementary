@@ -23405,7 +23405,7 @@ export const annict: ArmEntry[] = [
   // [2022-SPRING] TV: RPG不動産
   // https://annict.com/works/8139
   { annict_id: 8139, mal_id: 48363, syobocal_tid: 6307 },
-  // [null-null] WEB: ターミネーター
+  // [2024-SUMMER] WEB: ターミネーター0
   // https://annict.com/works/8140
   { annict_id: 8140 },
   // [2010-SUMMER] MOVIE: 赤毛のアン グリーンゲーブルズへの道
