@@ -38384,4 +38384,28 @@ export const annict: ArmEntry[] = [
   // [1945-SUMMER] MOVIE: プルートの武勇伝
   // https://annict.com/works/13307
   { annict_id: 13307 },
+  // [1945-SUMMER] MOVIE: ドナルドの恐怖の一夜
+  // https://annict.com/works/13308
+  { annict_id: 13308 },
+  // [1945-SUMMER] MOVIE: プルートとコヨーテ岩の伝説
+  // https://annict.com/works/13309
+  { annict_id: 13309 },
+  // [1945-SUMMER] MOVIE: ドナルドの漂流記
+  // https://annict.com/works/13310
+  { annict_id: 13310 },
+  // [1945-SUMMER] MOVIE: グーフィーのアイスホッケー
+  // https://annict.com/works/13311
+  { annict_id: 13311 },
+  // [1945-AUTUMN] MOVIE: 気みじかドナルド
+  // https://annict.com/works/13312
+  { annict_id: 13312 },
+  // [1945-AUTUMN] MOVIE: プルートの番人
+  // https://annict.com/works/13313
+  { annict_id: 13313 },
+  // [1945-AUTUMN] MOVIE: ドナルドの森林警備隊
+  // https://annict.com/works/13314
+  { annict_id: 13314 },
+  // [1946-WINTER] MOVIE: グーフィーの黒騎士
+  // https://annict.com/works/13315
+  { annict_id: 13315 },
 ]
