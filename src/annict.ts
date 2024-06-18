@@ -25901,7 +25901,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] TV: 悪役令嬢なのでラスボスを飼ってみました
   // https://annict.com/works/9069
   { annict_id: 9069, mal_id: 49979, syobocal_tid: 6447 },
-  // [2024-null] TV: 精霊幻想記 第2期
+  // [2024-AUTUMN] TV: 精霊幻想記2
   // https://annict.com/works/9070
   { annict_id: 9070, mal_id: 50306 },
   // [2021-AUTUMN] WEB: バトルスピリッツ ミラージュ
