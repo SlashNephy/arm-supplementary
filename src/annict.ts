@@ -38408,4 +38408,7 @@ export const annict: ArmEntry[] = [
   // [1946-WINTER] MOVIE: グーフィーの黒騎士
   // https://annict.com/works/13315
   { annict_id: 13315 },
+  // [1926-null] MOVIE: 切紙細工 西遊記 孫悟空物語
+  // https://annict.com/works/13316
+  { annict_id: 13316, mal_id: 7496 },
 ]
