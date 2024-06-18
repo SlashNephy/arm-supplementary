@@ -38366,4 +38366,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 転生したら第七王子だったので、気ままに魔術を極めます 2期
   // https://annict.com/works/13301
   { annict_id: 13301 },
+  // [1940-SUMMER] MOVIE: ザ・ボランティア・ワーカー
+  // https://annict.com/works/13302
+  { annict_id: 13302 },
 ]
