@@ -38450,4 +38450,7 @@ export const annict: ArmEntry[] = [
   // [1947-WINTER] MOVIE: プルートの救助犬
   // https://annict.com/works/13329
   { annict_id: 13329 },
+  // [2024-SUMMER] WEB: こねこのチー ポンポンらー夏休み
+  // https://annict.com/works/13330
+  { annict_id: 13330, mal_id: 58196 },
 ]
