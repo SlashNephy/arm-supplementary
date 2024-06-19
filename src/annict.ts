@@ -38411,4 +38411,43 @@ export const annict: ArmEntry[] = [
   // [1926-null] MOVIE: 切紙細工 西遊記 孫悟空物語
   // https://annict.com/works/13316
   { annict_id: 13316, mal_id: 7496 },
+  // [1946-SPRING] MOVIE: プルートのかわいい弟
+  // https://annict.com/works/13317
+  { annict_id: 13317 },
+  // [1946-SPRING] MOVIE: プルートの牛乳屋
+  // https://annict.com/works/13318
+  { annict_id: 13318 },
+  // [1946-SPRING] MOVIE: リスの山小屋合戦
+  // https://annict.com/works/13319
+  { annict_id: 13319 },
+  // [1946-SPRING] MOVIE: ドナルドのそっくりさん
+  // https://annict.com/works/13320
+  { annict_id: 13320 },
+  // [1946-SUMMER] MOVIE: プルートの名探偵
+  // https://annict.com/works/13321
+  { annict_id: 13321 },
+  // [1946-SUMMER] MOVIE: ドナルドのペンキ塗り
+  // https://annict.com/works/13322
+  { annict_id: 13322 },
+  // [1946-SUMMER] MOVIE: ドナルドの命びろい
+  // https://annict.com/works/13323
+  { annict_id: 13323 },
+  // [1946-SUMMER] MOVIE: ドナルドの灯台守
+  // https://annict.com/works/13324
+  { annict_id: 13324 },
+  // [1946-AUTUMN] MOVIE: 子ねこのフィガロ
+  // https://annict.com/works/13325
+  { annict_id: 13325 },
+  // [1946-AUTUMN] MOVIE: グーフィーのターザン
+  // https://annict.com/works/13326
+  { annict_id: 13326 },
+  // [1946-AUTUMN] MOVIE: グーフィーのバスケットボール
+  // https://annict.com/works/13327
+  { annict_id: 13327 },
+  // [1947-WINTER] MOVIE: プルートの引っ越し騒動
+  // https://annict.com/works/13328
+  { annict_id: 13328 },
+  // [1947-WINTER] MOVIE: プルートの救助犬
+  // https://annict.com/works/13329
+  { annict_id: 13329 },
 ]
