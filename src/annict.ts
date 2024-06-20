@@ -31865,7 +31865,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: 青のミブロ
   // https://annict.com/works/11127
   { annict_id: 11127, mal_id: 56647 },
-  // [1998-SPRING] TV: 新YAT安心!宇宙旅行
+  // [1998-SPRING] TV: 新YAT安心！宇宙旅行
   // https://annict.com/works/11128
   { annict_id: 11128, mal_id: 1892 },
   // [1996-SUMMER] OVA: 影技 -SHADOW SKILL-(OVA2期)
