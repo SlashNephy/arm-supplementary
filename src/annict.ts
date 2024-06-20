@@ -38480,4 +38480,7 @@ export const annict: ArmEntry[] = [
   // [1947-SUMMER] MOVIE: ドナルドの自動車旅行
   // https://annict.com/works/13339
   { annict_id: 13339 },
+  // [1947-AUTUMN] MOVIE: ミッキーのダンスパーティー
+  // https://annict.com/works/13340
+  { annict_id: 13340 },
 ]
