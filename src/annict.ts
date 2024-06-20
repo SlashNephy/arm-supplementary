@@ -30221,7 +30221,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] TV: 魔法少女にあこがれて
   // https://annict.com/works/10578
   { annict_id: 10578, mal_id: 54722, syobocal_tid: 6897 },
-  // [2024-null] TV: 妻、小学生になる。
+  // [2024-AUTUMN] TV: 妻、小学生になる。
   // https://annict.com/works/10579
   { annict_id: 10579, mal_id: 54726 },
   // [2023-AUTUMN] TV: 暴食のベルセルク
