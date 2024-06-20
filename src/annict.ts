@@ -38483,4 +38483,10 @@ export const annict: ArmEntry[] = [
   // [1947-AUTUMN] MOVIE: ミッキーのダンスパーティー
   // https://annict.com/works/13340
   { annict_id: 13340 },
+  // [1947-AUTUMN] MOVIE: グーフィーのかも猟
+  // https://annict.com/works/13341
+  { annict_id: 13341 },
+  // [1947-AUTUMN] MOVIE: プルートの郵便犬
+  // https://annict.com/works/13342
+  { annict_id: 13342 },
 ]
