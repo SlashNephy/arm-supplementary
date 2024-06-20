@@ -38453,4 +38453,31 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] WEB: こねこのチー ポンポンらー夏休み
   // https://annict.com/works/13330
   { annict_id: 13330, mal_id: 58196 },
+  // [1947-SPRING] MOVIE: ドナルドの射的屋
+  // https://annict.com/works/13331
+  { annict_id: 13331 },
+  // [1947-SPRING] MOVIE: ドナルドの夢の中
+  // https://annict.com/works/13332
+  { annict_id: 13332 },
+  // [1947-SPRING] MOVIE: フィガロとフランキー
+  // https://annict.com/works/13333
+  { annict_id: 13333 },
+  // [1947-SPRING] MOVIE: ジャングルのおどけ者
+  // https://annict.com/works/13334
+  { annict_id: 13334 },
+  // [1947-SUMMER] MOVIE: ドナルドのジレンマ
+  // https://annict.com/works/13335
+  { annict_id: 13335 },
+  // [1947-SUMMER] MOVIE: ドナルドとグーフィーの炎熱旅行
+  // https://annict.com/works/13336
+  { annict_id: 13336 },
+  // [1947-SUMMER] MOVIE: ドナルドの昆虫採集
+  // https://annict.com/works/13337
+  { annict_id: 13337 },
+  // [1929-null] MOVIE: 漫画 二つの世界
+  // https://annict.com/works/13338
+  { annict_id: 13338, mal_id: 35408 },
+  // [1947-SUMMER] MOVIE: ドナルドの自動車旅行
+  // https://annict.com/works/13339
+  { annict_id: 13339 },
 ]
