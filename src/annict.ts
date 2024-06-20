@@ -38489,4 +38489,31 @@ export const annict: ArmEntry[] = [
   // [1947-AUTUMN] MOVIE: プルートの郵便犬
   // https://annict.com/works/13342
   { annict_id: 13342 },
+  // [1947-AUTUMN] MOVIE: リスの住宅難
+  // https://annict.com/works/13343
+  { annict_id: 13343 },
+  // [1947-AUTUMN] MOVIE: プルートは歌がお好き
+  // https://annict.com/works/13344
+  { annict_id: 13344 },
+  // [1948-WINTER] MOVIE: グーフィーのダービー教室
+  // https://annict.com/works/13345
+  { annict_id: 13345 },
+  // [1948-WINTER] MOVIE: グーフィーの大仕事
+  // https://annict.com/works/13346
+  { annict_id: 13346 },
+  // [1948-WINTER] MOVIE: ドナルドの“もう、眠らせて”
+  // https://annict.com/works/13347
+  { annict_id: 13347 },
+  // [1948-WINTER] MOVIE: ミッキーの大探検
+  // https://annict.com/works/13348
+  { annict_id: 13348 },
+  // [1942-WINTER] MOVIE: Stop That Tank!（原題）
+  // https://annict.com/works/13349
+  { annict_id: 13349 },
+  // [1934-SPRING] MOVIE: The Hot Choc-late Soldiers（原題）
+  // https://annict.com/works/13350
+  { annict_id: 13350 },
+  // [1943-WINTER] MOVIE: 総統の顔
+  // https://annict.com/works/13351
+  { annict_id: 13351 },
 ]
