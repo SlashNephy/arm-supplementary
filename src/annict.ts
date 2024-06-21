@@ -38582,4 +38582,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] WEB: 【崩壊：スターレイル】ショートアニメ「太平迎新歳」
   // https://annict.com/works/13373
   { annict_id: 13373 },
+  // [2024-SPRING] OVA: にじよん あにめーしょん2 新作アニメーション
+  // https://annict.com/works/13374
+  { annict_id: 13374, mal_id: 58623 },
 ]
