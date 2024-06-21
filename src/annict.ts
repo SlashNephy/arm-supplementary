@@ -38549,4 +38549,10 @@ export const annict: ArmEntry[] = [
   // [1948-AUTUMN] MOVIE: ドナルドのスープ騒動
   // https://annict.com/works/13362
   { annict_id: 13362 },
+  // [1948-AUTUMN] MOVIE: リスの朝ごはん
+  // https://annict.com/works/13363
+  { annict_id: 13363 },
+  // [1948-AUTUMN] MOVIE: ミッキーとあざらし
+  // https://annict.com/works/13364
+  { annict_id: 13364 },
 ]
