@@ -38561,4 +38561,10 @@ export const annict: ArmEntry[] = [
   // [1949-WINTER] MOVIE: プルートのサボテン騒動
   // https://annict.com/works/13366
   { annict_id: 13366 },
+  // [1949-WINTER] MOVIE: ドナルドの誕生日
+  // https://annict.com/works/13367
+  { annict_id: 13367 },
+  // [1949-WINTER] MOVIE: プルートのびっくり小包
+  // https://annict.com/works/13368
+  { annict_id: 13368 },
 ]
