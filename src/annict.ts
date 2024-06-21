@@ -38567,4 +38567,10 @@ export const annict: ArmEntry[] = [
   // [1949-WINTER] MOVIE: プルートのびっくり小包
   // https://annict.com/works/13368
   { annict_id: 13368 },
+  // [2023-SPRING] WEB: 『崩壊：スターレイル』ショートアニメ「飛光」
+  // https://annict.com/works/13369
+  { annict_id: 13369 },
+  // [2023-SUMMER] WEB: 『崩壊：スターレイル』ショートアニメ「玄黄」
+  // https://annict.com/works/13370
+  { annict_id: 13370 },
 ]
