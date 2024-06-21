@@ -38516,4 +38516,10 @@ export const annict: ArmEntry[] = [
   // [1943-WINTER] MOVIE: 総統の顔
   // https://annict.com/works/13351
   { annict_id: 13351 },
+  // [2024-SPRING] WEB: 『鳴潮』ショートアニメ「今昔」
+  // https://annict.com/works/13352
+  { annict_id: 13352 },
+  // [null-null] OTHER: FARMAGIA
+  // https://annict.com/works/13353
+  { annict_id: 13353, mal_id: 59113 },
 ]
