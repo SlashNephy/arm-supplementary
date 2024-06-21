@@ -38543,4 +38543,10 @@ export const annict: ArmEntry[] = [
   // [1948-SUMMER] MOVIE: みつばちの総攻撃
   // https://annict.com/works/13360
   { annict_id: 13360 },
+  // [1948-SUMMER] MOVIE: プルートと小鳥の坊や
+  // https://annict.com/works/13361
+  { annict_id: 13361 },
+  // [1948-AUTUMN] MOVIE: ドナルドのスープ騒動
+  // https://annict.com/works/13362
+  { annict_id: 13362 },
 ]
