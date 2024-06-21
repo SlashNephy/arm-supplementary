@@ -38555,4 +38555,10 @@ export const annict: ArmEntry[] = [
   // [1948-AUTUMN] MOVIE: ミッキーとあざらし
   // https://annict.com/works/13364
   { annict_id: 13364 },
+  // [1948-AUTUMN] MOVIE: ドナルドとアリの王国
+  // https://annict.com/works/13365
+  { annict_id: 13365 },
+  // [1949-WINTER] MOVIE: プルートのサボテン騒動
+  // https://annict.com/works/13366
+  { annict_id: 13366 },
 ]
