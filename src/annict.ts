@@ -38585,4 +38585,10 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] OVA: にじよん あにめーしょん2 新作アニメーション
   // https://annict.com/works/13374
   { annict_id: 13374, mal_id: 58623 },
+  // [2024-SPRING] TV: 鷹の爪外伝「秘密厩舎 馬の蹄 ダービーコンクエスト」
+  // https://annict.com/works/13375
+  { annict_id: 13375, syobocal_tid: 7079 },
+  // [2024-WINTER] WEB: UR賃貸住宅×耐え子の日常 くらしのカレッジ
+  // https://annict.com/works/13376
+  { annict_id: 13376 },
 ]
