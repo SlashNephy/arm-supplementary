@@ -38569,8 +38569,17 @@ export const annict: ArmEntry[] = [
   { annict_id: 13368 },
   // [2023-SPRING] WEB: 『崩壊：スターレイル』ショートアニメ「飛光」
   // https://annict.com/works/13369
-  { annict_id: 13369 },
+  { annict_id: 13369, mal_id: 55303 },
   // [2023-SUMMER] WEB: 『崩壊：スターレイル』ショートアニメ「玄黄」
   // https://annict.com/works/13370
-  { annict_id: 13370 },
+  { annict_id: 13370, mal_id: 56471 },
+  // [2024-WINTER] WEB: 【崩壊：スターレイル】ショートアニメ「永劫の輪舞」
+  // https://annict.com/works/13371
+  { annict_id: 13371 },
+  // [2024-SPRING] WEB: 【崩壊：スターレイル】ショートアニメ「グラモスの余燼」
+  // https://annict.com/works/13372
+  { annict_id: 13372, mal_id: 59077 },
+  // [2024-WINTER] WEB: 【崩壊：スターレイル】ショートアニメ「太平迎新歳」
+  // https://annict.com/works/13373
+  { annict_id: 13373 },
 ]
