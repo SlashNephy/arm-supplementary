@@ -38522,4 +38522,25 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: FARMAGIA
   // https://annict.com/works/13353
   { annict_id: 13353, mal_id: 59113 },
+  // [1948-SPRING] MOVIE: ドナルドダックの育児日記
+  // https://annict.com/works/13354
+  { annict_id: 13354 },
+  // [1948-SPRING] MOVIE: プルートの骨どろぼう
+  // https://annict.com/works/13355
+  { annict_id: 13355 },
+  // [1948-SPRING] MOVIE: ドナルドの夢の声
+  // https://annict.com/works/13356
+  { annict_id: 13356 },
+  // [1948-SUMMER] MOVIE: プルートのおつかい
+  // https://annict.com/works/13357
+  { annict_id: 13357 },
+  // [1948-SUMMER] MOVIE: ドナルドの裁判ざた
+  // https://annict.com/works/13358
+  { annict_id: 13358 },
+  // [1948-SUMMER] MOVIE: プルートの睡眠不足
+  // https://annict.com/works/13359
+  { annict_id: 13359 },
+  // [1948-SUMMER] MOVIE: みつばちの総攻撃
+  // https://annict.com/works/13360
+  { annict_id: 13360 },
 ]
