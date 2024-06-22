@@ -38609,7 +38609,7 @@ export const annict: ArmEntry[] = [
   // [1949-SUMMER] MOVIE: グーフィーのテニス教室
   // https://annict.com/works/13382
   { annict_id: 13382 },
-  // [1949-SUMMER] MOVIE: リスの食料難
+  // [1949-SUMMER] MOVIE: リスの食糧難
   // https://annict.com/works/13383
   { annict_id: 13383 },
   // [1949-SUMMER] MOVIE: グーフィーの体操教室
@@ -38624,4 +38624,22 @@ export const annict: ArmEntry[] = [
   // [1949-AUTUMN] MOVIE: ドナルドのワールドシリーズ
   // https://annict.com/works/13387
   { annict_id: 13387 },
+  // [1949-AUTUMN] MOVIE: リスのオモチャ合戦
+  // https://annict.com/works/13388
+  { annict_id: 13388 },
+  // [1950-WINTER] MOVIE: プルートの恋の季節
+  // https://annict.com/works/13389
+  { annict_id: 13389 },
+  // [1950-WINTER] MOVIE: ドナルドのライオン騒動
+  // https://annict.com/works/13390
+  { annict_id: 13390 },
+  // [1950-WINTER] MOVIE: プルートとモグラ
+  // https://annict.com/works/13391
+  { annict_id: 13391 },
+  // [1950-WINTER] MOVIE: 勇敢な機関士
+  // https://annict.com/works/13392
+  { annict_id: 13392 },
+  // [1950-WINTER] MOVIE: ドナルドはデイジーに首ったけ
+  // https://annict.com/works/13393
+  { annict_id: 13393 },
 ]
