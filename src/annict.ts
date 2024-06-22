@@ -38591,4 +38591,37 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] WEB: UR賃貸住宅×耐え子の日常 くらしのカレッジ
   // https://annict.com/works/13376
   { annict_id: 13376 },
+  // [1949-SPRING] MOVIE: ドナルドの難破船
+  // https://annict.com/works/13377
+  { annict_id: 13377 },
+  // [1949-SPRING] MOVIE: プルートのありがた迷惑
+  // https://annict.com/works/13378
+  { annict_id: 13378 },
+  // [1949-SPRING] MOVIE: リスの冬仕度
+  // https://annict.com/works/13379
+  { annict_id: 13379 },
+  // [1949-SPRING] MOVIE: プルートの風船ガム
+  // https://annict.com/works/13380
+  { annict_id: 13380 },
+  // [1949-SUMMER] MOVIE: がんばれ！みつばち
+  // https://annict.com/works/13381
+  { annict_id: 13381 },
+  // [1949-SUMMER] MOVIE: グーフィーのテニス教室
+  // https://annict.com/works/13382
+  { annict_id: 13382 },
+  // [1949-SUMMER] MOVIE: リスの食料難
+  // https://annict.com/works/13383
+  { annict_id: 13383 },
+  // [1949-SUMMER] MOVIE: グーフィーの体操教室
+  // https://annict.com/works/13384
+  { annict_id: 13384 },
+  // [1949-AUTUMN] MOVIE: あこがれのお隣
+  // https://annict.com/works/13385
+  { annict_id: 13385 },
+  // [1949-AUTUMN] MOVIE: プルートのひつじ番
+  // https://annict.com/works/13386
+  { annict_id: 13386 },
+  // [1949-AUTUMN] MOVIE: ドナルドのワールドシリーズ
+  // https://annict.com/works/13387
+  { annict_id: 13387 },
 ]
