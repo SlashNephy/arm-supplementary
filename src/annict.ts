@@ -38648,4 +38648,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] WEB: 崩壊3rd公式スペシャルアニメ「大ピンチ！聖フレイヤ号スペシャル事件」
   // https://annict.com/works/13395
   { annict_id: 13395, mal_id: 58079 },
+  // [2018-AUTUMN] MOVIE: 猫企画
+  // https://annict.com/works/13396
+  { annict_id: 13396, mal_id: 37827 },
 ]
