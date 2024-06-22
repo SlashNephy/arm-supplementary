@@ -36835,16 +36835,16 @@ export const annict: ArmEntry[] = [
   { annict_id: 12788, mal_id: 58395 },
   // [2024-WINTER] MOVIE: POP POP CITY
   // https://annict.com/works/12789
-  { annict_id: 12789 },
+  { annict_id: 12789, mal_id: 58318 },
   // [2024-WINTER] MOVIE: BRIDGE -My Little Friends-
   // https://annict.com/works/12790
-  { annict_id: 12790 },
+  { annict_id: 12790, mal_id: 58319 },
   // [2024-WINTER] MOVIE: KICKS AND PUNK
   // https://annict.com/works/12791
-  { annict_id: 12791 },
+  { annict_id: 12791, mal_id: 58320 },
   // [2024-WINTER] MOVIE: エフェメール
   // https://annict.com/works/12792
-  { annict_id: 12792 },
+  { annict_id: 12792, mal_id: 58321 },
   // [2024-AUTUMN] TV: カミエラビ 完結編
   // https://annict.com/works/12793
   { annict_id: 12793, mal_id: 56967 },
