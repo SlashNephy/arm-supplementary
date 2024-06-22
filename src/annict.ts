@@ -35341,7 +35341,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12288, mal_id: 30378 },
   // [2022-SUMMER] TV: 吉田勝子のさりとて暮らしのSDGs
   // https://annict.com/works/12289
-  { annict_id: 12289 },
+  { annict_id: 12289, syobocal_tid: 6453 },
   // [2020-AUTUMN] WEB: 発明王 ニバン・センジ
   // https://annict.com/works/12290
   { annict_id: 12290 },
@@ -37612,7 +37612,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13048, mal_id: 58915 },
   // [2024-SPRING] WEB: 原神ショートアニメ「いつかその道へ」
   // https://annict.com/works/13049
-  { annict_id: 13049 },
+  { annict_id: 13049, mal_id: 58930 },
   // [2024-SUMMER] WEB: エグミレガシー
   // https://annict.com/works/13050
   { annict_id: 13050, mal_id: 58926 },
@@ -38642,4 +38642,10 @@ export const annict: ArmEntry[] = [
   // [1950-WINTER] MOVIE: ドナルドはデイジーに首ったけ
   // https://annict.com/works/13393
   { annict_id: 13393 },
+  // [2022-WINTER] WEB: 崩壊3rd 公式スペシャルムービー「冬の思い出」
+  // https://annict.com/works/13394
+  { annict_id: 13394, mal_id: 52771 },
+  // [2024-WINTER] WEB: 崩壊3rd公式スペシャルアニメ「大ピンチ！聖フレイヤ号スペシャル事件」
+  // https://annict.com/works/13395
+  { annict_id: 13395, mal_id: 58079 },
 ]
