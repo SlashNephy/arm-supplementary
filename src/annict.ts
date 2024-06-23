@@ -38656,7 +38656,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13397, mal_id: 54143, syobocal_tid: 7131 },
   // [1963-null] MOVIE: 牧笛
   // https://annict.com/works/13398
-  { annict_id: 13398 },
+  { annict_id: 13398, mal_id: 30886 },
   // [2022-SUMMER] WEB: 子猫の配達員うーにゃん
   // https://annict.com/works/13399
   { annict_id: 13399, mal_id: 54330 },
