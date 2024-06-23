@@ -38660,4 +38660,7 @@ export const annict: ArmEntry[] = [
   // [2022-SUMMER] WEB: 子猫の配達員うーにゃん
   // https://annict.com/works/13399
   { annict_id: 13399, mal_id: 54330 },
+  // [2016-WINTER] WEB: ありんこヘポーふたりのひみつきちー
+  // https://annict.com/works/13400
+  { annict_id: 13400, mal_id: 56195 },
 ]
