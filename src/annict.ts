@@ -38507,10 +38507,10 @@ export const annict: ArmEntry[] = [
   // [1948-WINTER] MOVIE: ミッキーの大探検
   // https://annict.com/works/13348
   { annict_id: 13348 },
-  // [1942-WINTER] MOVIE: Stop That Tank!（原題）
+  // [1942-WINTER] MOVIE: Stop That Tank!
   // https://annict.com/works/13349
   { annict_id: 13349 },
-  // [1934-SPRING] MOVIE: The Hot Choc-late Soldiers（原題）
+  // [1934-SPRING] MOVIE: The Hot Choc-late Soldiers
   // https://annict.com/works/13350
   { annict_id: 13350 },
   // [1943-WINTER] MOVIE: 総統の顔
