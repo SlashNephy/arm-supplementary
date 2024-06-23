@@ -25432,7 +25432,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 8880, mal_id: 49782, syobocal_tid: 6379 },
   // [2024-SUMMER] TV: FAIRY TAIL 100年クエスト
   // https://annict.com/works/8881
-  { annict_id: 8881, mal_id: 49785 },
+  { annict_id: 8881, mal_id: 49785, syobocal_tid: 7132 },
   // [2021-AUTUMN] TV: カードファイト!! ヴァンガード overDress Season2
   // https://annict.com/works/8882
   { annict_id: 8882, mal_id: 48862, syobocal_tid: 6139 },
@@ -29074,7 +29074,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10193, mal_id: 53613, syobocal_tid: 6689 },
   // [2024-SUMMER] TV: ばいばい、アース
   // https://annict.com/works/10194
-  { annict_id: 10194, mal_id: 53626 },
+  { annict_id: 10194, mal_id: 53626, syobocal_tid: 7144 },
   // [2019-WINTER] MOVIE: 映画 コラショの海底わくわく大冒険！
   // https://annict.com/works/10195
   { annict_id: 10195, mal_id: 38743 },
@@ -31609,7 +31609,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11041, mal_id: 53722 },
   // [2024-SUMMER] TV: NieR:Automata Ver1.1a 第2クール
   // https://annict.com/works/11042
-  { annict_id: 11042, mal_id: 56063 },
+  { annict_id: 11042, mal_id: 56063, syobocal_tid: 7129 },
   // [2024-SUMMER] TV: なぜ僕の世界を誰も覚えていないのか？
   // https://annict.com/works/11043
   { annict_id: 11043, mal_id: 56062, syobocal_tid: 7104 },
@@ -33235,7 +33235,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11584, mal_id: 57217, syobocal_tid: 7086 },
   // [2024-SUMMER] TV: 神之塔 -Tower of God- 王子の帰還
   // https://annict.com/works/11585
-  { annict_id: 11585, mal_id: 52635 },
+  { annict_id: 11585, mal_id: 52635, syobocal_tid: 7133 },
   // [2024-AUTUMN] TV: アオのハコ
   // https://annict.com/works/11586
   { annict_id: 11586, mal_id: 57181 },
@@ -35842,7 +35842,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12455, mal_id: 57876, syobocal_tid: 7106 },
   // [2024-SUMMER] TV: ハズレ枠の【状態異常スキル】で最強になった俺がすべてを蹂躙するまで
   // https://annict.com/works/12456
-  { annict_id: 12456, mal_id: 57892 },
+  { annict_id: 12456, mal_id: 57892, syobocal_tid: 7141 },
   // [2024-AUTUMN] TV: ひとりぼっちの異世界攻略
   // https://annict.com/works/12457
   { annict_id: 12457, mal_id: 57891 },
@@ -35887,7 +35887,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12470, mal_id: 42805 },
   // [2024-SUMMER] TV: 多数欠
   // https://annict.com/works/12471
-  { annict_id: 12471, mal_id: 57945 },
+  { annict_id: 12471, mal_id: 57945, syobocal_tid: 7142 },
   // [2024-SPRING] TV: 龍族 -The Blazing Dawn-
   // https://annict.com/works/12472
   { annict_id: 12472, mal_id: 44408, syobocal_tid: 7056 },
@@ -36166,7 +36166,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12564 },
   // [2024-SUMMER] TV: 杖と剣のウィストリア
   // https://annict.com/works/12565
-  { annict_id: 12565, mal_id: 58059 },
+  { annict_id: 12565, mal_id: 58059, syobocal_tid: 7140 },
   // [2025-null] MOVIE: メイクアガール
   // https://annict.com/works/12566
   { annict_id: 12566, mal_id: 54740 },
@@ -36850,7 +36850,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12793, mal_id: 56967 },
   // [2024-SUMMER] TV: 下の階には澪がいる
   // https://annict.com/works/12794
-  { annict_id: 12794, mal_id: 54846 },
+  { annict_id: 12794, mal_id: 54846, syobocal_tid: 7136 },
   // [2024-SPRING] TV: 時光代理人 -LINK CLICK- 第1期総集編特番
   // https://annict.com/works/12795
   { annict_id: 12795 },
@@ -37036,7 +37036,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12855, mal_id: 58531 },
   // [2024-SUMMER] TV: 現代誤訳
   // https://annict.com/works/12856
-  { annict_id: 12856 },
+  { annict_id: 12856, syobocal_tid: 7135 },
   // [2024-WINTER] WEB: The Spider Within: A Spider-Verse Story
   // https://annict.com/works/12857
   { annict_id: 12857 },
@@ -37099,7 +37099,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12877, mal_id: 58600 },
   // [2024-SUMMER] TV: 戦国妖狐 千魔混沌編
   // https://annict.com/works/12878
-  { annict_id: 12878, mal_id: 58488 },
+  { annict_id: 12878, mal_id: 58488, syobocal_tid: 7137 },
   // [2024-WINTER] WEB: 百千家の日常
   // https://annict.com/works/12879
   { annict_id: 12879 },
@@ -37615,7 +37615,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13049, mal_id: 58930 },
   // [2024-SUMMER] WEB: エグミレガシー
   // https://annict.com/works/13050
-  { annict_id: 13050, mal_id: 58926 },
+  { annict_id: 13050, mal_id: 58926, syobocal_tid: 7134 },
   // [2026-SPRING] MOVIE: 「スーパーマリオ」新作アニメ
   // https://annict.com/works/13051
   { annict_id: 13051 },
@@ -38125,7 +38125,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13219 },
   // [2024-SUMMER] TV: 未来の黒幕系悪役令嬢モリアーティーの異世界完全犯罪白書
   // https://annict.com/works/13220
-  { annict_id: 13220 },
+  { annict_id: 13220, syobocal_tid: 7130 },
   // [1941-SPRING] MOVIE: グーフィーのトランク騒動
   // https://annict.com/works/13221
   { annict_id: 13221 },
@@ -38651,4 +38651,7 @@ export const annict: ArmEntry[] = [
   // [2018-AUTUMN] MOVIE: 猫企画
   // https://annict.com/works/13396
   { annict_id: 13396, mal_id: 37827 },
+  // [2024-SUMMER] TV: カードファイト!! ヴァンガード Divinez Season2
+  // https://annict.com/works/13397
+  { annict_id: 13397, mal_id: 54143, syobocal_tid: 7131 },
 ]
