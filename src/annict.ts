@@ -38675,4 +38675,22 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] WEB: ラニーちゃんとたんじょうびやさん
   // https://annict.com/works/13404
   { annict_id: 13404 },
+  // [2008-SPRING] TV: 星新一 ショートショート
+  // https://annict.com/works/13405
+  { annict_id: 13405, mal_id: 8191 },
+  // [2008-SUMMER] MOVIE: 東京オンリーピック
+  // https://annict.com/works/13406
+  { annict_id: 13406, mal_id: 33533 },
+  // [2013-SPRING] WEB: キュッパのアニメ
+  // https://annict.com/works/13407
+  { annict_id: 13407, mal_id: 33528 },
+  // [2019-WINTER] TV: 勇気の花がひらくとき やなせたかしとアンパンマンの物語
+  // https://annict.com/works/13408
+  { annict_id: 13408, mal_id: 39109 },
+  // [1950-SPRING] MOVIE: プルートのサーカス大好き
+  // https://annict.com/works/13409
+  { annict_id: 13409 },
+  // [1950-SPRING] MOVIE: リスのいたずら合戦
+  // https://annict.com/works/13410
+  { annict_id: 13410 },
 ]
