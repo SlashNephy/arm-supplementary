@@ -38654,4 +38654,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] TV: カードファイト!! ヴァンガード Divinez Season2
   // https://annict.com/works/13397
   { annict_id: 13397, mal_id: 54143, syobocal_tid: 7131 },
+  // [1963-null] MOVIE: 牧笛
+  // https://annict.com/works/13398
+  { annict_id: 13398 },
 ]
