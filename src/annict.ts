@@ -36980,9 +36980,9 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] WEB: グリム組曲
   // https://annict.com/works/12837
   { annict_id: 12837, mal_id: 49210 },
-  // [2024-null] OTHER: ロクローの大ぼうけん
+  // [2024-SPRING] WEB: ロクローの大ぼうけん
   // https://annict.com/works/12838
-  { annict_id: 12838 },
+  { annict_id: 12838, mal_id: 58608 },
   // [2023-WINTER] WEB: あんさんぶるスターズ!! 追憶セレクション 「チェックメイト」
   // https://annict.com/works/12839
   { annict_id: 12839 },
@@ -38005,7 +38005,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13179 },
   // [null-null] TV: SPY×FAMILY Season 3
   // https://annict.com/works/13180
-  { annict_id: 13180 },
+  { annict_id: 13180, mal_id: 59027 },
   // [1939-SPRING] MOVIE: みにくいあひるの子(1939年)
   // https://annict.com/works/13181
   { annict_id: 13181 },
