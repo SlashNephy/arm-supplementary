@@ -30208,7 +30208,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10573 },
   // [2023-WINTER] TV: それしか ないわけ ないでしょう
   // https://annict.com/works/10574
-  { annict_id: 10574, syobocal_tid: 6687 },
+  { annict_id: 10574, mal_id: 54659, syobocal_tid: 6687 },
   // [2024-WINTER] TV: SHAMAN KING FLOWERS
   // https://annict.com/works/10575
   { annict_id: 10575, mal_id: 51673, syobocal_tid: 6921 },
@@ -38657,4 +38657,7 @@ export const annict: ArmEntry[] = [
   // [1963-null] MOVIE: 牧笛
   // https://annict.com/works/13398
   { annict_id: 13398 },
+  // [2022-SUMMER] WEB: 子猫の配達員うーにゃん
+  // https://annict.com/works/13399
+  { annict_id: 13399, mal_id: 54330 },
 ]
