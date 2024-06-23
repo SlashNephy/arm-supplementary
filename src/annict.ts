@@ -38744,4 +38744,7 @@ export const annict: ArmEntry[] = [
   // [1951-WINTER] MOVIE: グーフィーの素人大工
   // https://annict.com/works/13427
   { annict_id: 13427 },
+  // [null-null] TV: 異世界黙示録マイノグーラ～破滅の文明で始める世界征服～
+  // https://annict.com/works/13428
+  { annict_id: 13428 },
 ]
