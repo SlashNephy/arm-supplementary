@@ -37700,7 +37700,7 @@ export const annict: ArmEntry[] = [
   // [1934-WINTER] MOVIE: ミッキーのキャンプ騒動
   // https://annict.com/works/13078
   { annict_id: 13078 },
-  // [1934-WINTER] MOVIE: プルートの大暴れ
+  // [1934-WINTER] MOVIE: プルートの大暴れ(1934年)
   // https://annict.com/works/13079
   { annict_id: 13079 },
   // [1934-WINTER] MOVIE: 楽しい復活祭
@@ -38693,4 +38693,55 @@ export const annict: ArmEntry[] = [
   // [1950-SPRING] MOVIE: リスのいたずら合戦
   // https://annict.com/works/13410
   { annict_id: 13410 },
+  // [1950-SPRING] MOVIE: プルートの大暴れ(1950年)
+  // https://annict.com/works/13411
+  { annict_id: 13411 },
+  // [1950-SPRING] MOVIE: プルートの猫騒動
+  // https://annict.com/works/13412
+  { annict_id: 13412 },
+  // [1950-SPRING] MOVIE: グーフィーの自動車大好き
+  // https://annict.com/works/13413
+  { annict_id: 13413 },
+  // [1950-SUMMER] MOVIE: プルートと山犬
+  // https://annict.com/works/13414
+  { annict_id: 13414 },
+  // [1950-SUMMER] MOVIE: リスの手袋騒動
+  // https://annict.com/works/13415
+  { annict_id: 13415 },
+  // [1950-SUMMER] MOVIE: ドナルドとライオン
+  // https://annict.com/works/13416
+  { annict_id: 13416 },
+  // [1950-SUMMER] MOVIE: 番犬プルート
+  // https://annict.com/works/13417
+  { annict_id: 13417 },
+  // [1950-AUTUMN] MOVIE: ドナルドといたずらばち
+  // https://annict.com/works/13418
+  { annict_id: 13418 },
+  // [1950-AUTUMN] MOVIE: グーフィーのカメラマン
+  // https://annict.com/works/13419
+  { annict_id: 13419 },
+  // [1950-AUTUMN] MOVIE: 小さな大鹿
+  // https://annict.com/works/13420
+  { annict_id: 13420 },
+  // [1950-AUTUMN] MOVIE: リスのコールタール騒動
+  // https://annict.com/works/13421
+  { annict_id: 13421 },
+  // [1951-WINTER] MOVIE: グーフィーの昼寝騒動
+  // https://annict.com/works/13422
+  { annict_id: 13422 },
+  // [1951-WINTER] MOVIE: リスとヒヨコ
+  // https://annict.com/works/13423
+  { annict_id: 13423 },
+  // [1951-WINTER] MOVIE: プルートの"お家が逃げる"
+  // https://annict.com/works/13424
+  { annict_id: 13424 },
+  // [1951-WINTER] MOVIE: ドナルドのじゃじゃ馬ならし
+  // https://annict.com/works/13425
+  { annict_id: 13425 },
+  // [1951-WINTER] MOVIE: リスの雪かき
+  // https://annict.com/works/13426
+  { annict_id: 13426 },
+  // [1951-WINTER] MOVIE: グーフィーの素人大工
+  // https://annict.com/works/13427
+  { annict_id: 13427 },
 ]
