@@ -30259,7 +30259,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10590, mal_id: 54760, syobocal_tid: 6713 },
   // [2024-SUMMER] TV: 逃げ上手の若君
   // https://annict.com/works/10591
-  { annict_id: 10591, mal_id: 54724 },
+  { annict_id: 10591, mal_id: 54724, syobocal_tid: 7125 },
   // [2021-AUTUMN] WEB: 洒落どる パイロットフィルム
   // https://annict.com/works/10592
   { annict_id: 10592, mal_id: 50136 },
@@ -31708,7 +31708,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11074, mal_id: 53730, syobocal_tid: 6901 },
   // [2024-SUMMER] TV: デリコズ・ナーサリー
   // https://annict.com/works/11075
-  { annict_id: 11075, mal_id: 56179 },
+  { annict_id: 11075, mal_id: 56179, syobocal_tid: 7128 },
   // [2024-SUMMER] MOVIE: 劇場版 モノノ怪 唐傘
   // https://annict.com/works/11076
   { annict_id: 11076, mal_id: 52107 },
@@ -35740,7 +35740,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12421, mal_id: 57822 },
   // [2024-SUMMER] TV: 小市民シリーズ
   // https://annict.com/works/12422
-  { annict_id: 12422, mal_id: 57810 },
+  { annict_id: 12422, mal_id: 57810, syobocal_tid: 7122 },
   // [2024-WINTER] WEB: SAND LAND: THE SERIES
   // https://annict.com/works/12423
   { annict_id: 12423, mal_id: 57160 },
@@ -35878,7 +35878,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12467, mal_id: 57953 },
   // [2024-SUMMER] TV: 真夜中ぱんチ
   // https://annict.com/works/12468
-  { annict_id: 12468, mal_id: 57947 },
+  { annict_id: 12468, mal_id: 57947, syobocal_tid: 7098 },
   // [2024-AUTUMN] TV: パーティーから追放されたその治癒師、実は最強につき
   // https://annict.com/works/12469
   { annict_id: 12469, mal_id: 57944 },
