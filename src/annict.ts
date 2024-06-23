@@ -38666,4 +38666,13 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] MOVIE: ハコフグとみなまたの海
   // https://annict.com/works/13401
   { annict_id: 13401, mal_id: 58308 },
+  // [2020-WINTER] MOVIE: みえない、わざわい
+  // https://annict.com/works/13402
+  { annict_id: 13402 },
+  // [2024-WINTER] WEB: はりねずみのルーチカ
+  // https://annict.com/works/13403
+  { annict_id: 13403, mal_id: 58844 },
+  // [2024-SPRING] WEB: ラニーちゃんとたんじょうびやさん
+  // https://annict.com/works/13404
+  { annict_id: 13404 },
 ]
