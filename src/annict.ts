@@ -38663,4 +38663,7 @@ export const annict: ArmEntry[] = [
   // [2016-WINTER] WEB: ありんこヘポーふたりのひみつきちー
   // https://annict.com/works/13400
   { annict_id: 13400, mal_id: 56195 },
+  // [2024-WINTER] MOVIE: ハコフグとみなまたの海
+  // https://annict.com/works/13401
+  { annict_id: 13401, mal_id: 58308 },
 ]
