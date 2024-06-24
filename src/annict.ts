@@ -38746,5 +38746,56 @@ export const annict: ArmEntry[] = [
   { annict_id: 13427 },
   // [null-null] TV: 異世界黙示録マイノグーラ～破滅の文明で始める世界征服～
   // https://annict.com/works/13428
-  { annict_id: 13428 },
+  { annict_id: 13428, mal_id: 59130 },
+  // [2024-SUMMER] TV: NINJA KAMUI
+  // https://annict.com/works/13429
+  { annict_id: 13429 },
+  // [2024-AUTUMN] TV: 転生貴族、鑑定スキルで成り上がる 第2期
+  // https://annict.com/works/13430
+  { annict_id: 13430, mal_id: 59131 },
+  // [1942-WINTER] MOVIE: 新しい精神
+  // https://annict.com/works/13431
+  { annict_id: 13431 },
+  // [1943-WINTER] MOVIE: 43年の精神
+  // https://annict.com/works/13432
+  { annict_id: 13432 },
+  // [1951-SPRING] MOVIE: グーフィーのかぜひき
+  // https://annict.com/works/13433
+  { annict_id: 13433 },
+  // [1951-SPRING] MOVIE: プルートのユートピア
+  // https://annict.com/works/13434
+  { annict_id: 13434 },
+  // [1951-SPRING] MOVIE: リスのテストパイロット
+  // https://annict.com/works/13435
+  { annict_id: 13435 },
+  // [1951-SPRING] MOVIE: ダイエットは明日から
+  // https://annict.com/works/13436
+  { annict_id: 13436 },
+  // [1951-SUMMER] MOVIE: ドナルドの大当たり
+  // https://annict.com/works/13437
+  { annict_id: 13437 },
+  // [1951-SUMMER] MOVIE: ミッキーの"あらいぐまを探せ"
+  // https://annict.com/works/13438
+  { annict_id: 13438 },
+  // [1951-SUMMER] MOVIE: 一攫千金の夢
+  // https://annict.com/works/13439
+  { annict_id: 13439 },
+  // [1951-SUMMER] MOVIE: プルートのテレビ料理
+  // https://annict.com/works/13440
+  { annict_id: 13440 },
+  // [1951-AUTUMN] MOVIE: グーフィーのお父さん
+  // https://annict.com/works/13441
+  { annict_id: 13441 },
+  // [1951-AUTUMN] MOVIE: リスの汽車ごっこ
+  // https://annict.com/works/13442
+  { annict_id: 13442 },
+  // [1951-AUTUMN] MOVIE: グーフィーの禁煙
+  // https://annict.com/works/13443
+  { annict_id: 13443 },
+  // [1951-AUTUMN] MOVIE: ドナルドの蜂蜜泥棒
+  // https://annict.com/works/13444
+  { annict_id: 13444 },
+  // [1952-WINTER] MOVIE: グーフィーのライオン狩り
+  // https://annict.com/works/13445
+  { annict_id: 13445 },
 ]
