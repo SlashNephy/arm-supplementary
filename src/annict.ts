@@ -38798,4 +38798,10 @@ export const annict: ArmEntry[] = [
   // [1952-WINTER] MOVIE: グーフィーのライオン狩り
   // https://annict.com/works/13445
   { annict_id: 13445 },
+  // [1952-WINTER] MOVIE: ドナルドのリンゴ園
+  // https://annict.com/works/13446
+  { annict_id: 13446 },
+  // [1952-WINTER] MOVIE: 優しいライオン ランバート
+  // https://annict.com/works/13447
+  { annict_id: 13447 },
 ]
