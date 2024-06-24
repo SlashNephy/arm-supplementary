@@ -36644,7 +36644,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: どうせ、恋してしまうんだ。
   // https://annict.com/works/12725
   { annict_id: 12725, mal_id: 58259 },
-  // [2025-null] TV: ババンババンバンバンパイア
+  // [2025-WINTER] TV: ババンババンバンバンパイア
   // https://annict.com/works/12726
   { annict_id: 12726, mal_id: 58265 },
   // [1930-WINTER] MOVIE: おい等の野球
@@ -38810,4 +38810,10 @@ export const annict: ArmEntry[] = [
   // [1952-WINTER] MOVIE: リス君は歌姫がお好き
   // https://annict.com/works/13449
   { annict_id: 13449 },
+  // [null-null] TV: クラスの大嫌いな女子と結婚することになった。
+  // https://annict.com/works/13450
+  { annict_id: 13450, mal_id: 59135 },
+  // [null-null] TV: 月が導く異世界道中 第三幕
+  // https://annict.com/works/13451
+  { annict_id: 13451 },
 ]
