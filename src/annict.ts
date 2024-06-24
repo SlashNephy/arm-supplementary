@@ -38815,5 +38815,8 @@ export const annict: ArmEntry[] = [
   { annict_id: 13450, mal_id: 59135 },
   // [null-null] TV: 月が導く異世界道中 第三幕
   // https://annict.com/works/13451
-  { annict_id: 13451 },
+  { annict_id: 13451, mal_id: 59139 },
+  // [2025-WINTER] TV: 誰ソ彼ホテル
+  // https://annict.com/works/13452
+  { annict_id: 13452, mal_id: 59136 },
 ]
