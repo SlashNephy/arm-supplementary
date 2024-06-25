@@ -38819,4 +38819,43 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] TV: 誰ソ彼ホテル
   // https://annict.com/works/13452
   { annict_id: 13452, mal_id: 59136 },
+  // [1952-SPRING] MOVIE: グーフィーの番犬
+  // https://annict.com/works/13453
+  { annict_id: 13453 },
+  // [1952-SPRING] MOVIE: ドナルドの共同経営
+  // https://annict.com/works/13454
+  { annict_id: 13454 },
+  // [1952-SPRING] MOVIE: グーフィーの二挺拳銃
+  // https://annict.com/works/13455
+  { annict_id: 13455 },
+  // [1952-SPRING] MOVIE: 小型クーペのスージー
+  // https://annict.com/works/13456
+  { annict_id: 13456 },
+  // [1952-SPRING] MOVIE: グーフィーの先生はお人好し
+  // https://annict.com/works/13457
+  { annict_id: 13457 },
+  // [1952-SUMMER] MOVIE: ドナルドのアリ騒動
+  // https://annict.com/works/13458
+  { annict_id: 13458 },
+  // [1952-SUMMER] MOVIE: 小さな家
+  // https://annict.com/works/13459
+  { annict_id: 13459 },
+  // [1952-SUMMER] MOVIE: プルートの誕生祝
+  // https://annict.com/works/13460
+  { annict_id: 13460 },
+  // [1952-AUTUMN] MOVIE: ドナルドの魔法使い
+  // https://annict.com/works/13461
+  { annict_id: 13461 },
+  // [1952-AUTUMN] MOVIE: グーフィーのバケーション
+  // https://annict.com/works/13462
+  { annict_id: 13462 },
+  // [1952-AUTUMN] MOVIE: プルートのクリスマス・ツリー
+  // https://annict.com/works/13463
+  { annict_id: 13463 },
+  // [1952-AUTUMN] MOVIE: グーフィーの探偵教室
+  // https://annict.com/works/13464
+  { annict_id: 13464 },
+  // [1953-WINTER] MOVIE: グーフィーのノイローゼ
+  // https://annict.com/works/13465
+  { annict_id: 13465 },
 ]
