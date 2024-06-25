@@ -34328,7 +34328,7 @@ export const annict: ArmEntry[] = [
   // [2008-SUMMER] OVA: バットマン ゴッサムナイト
   // https://annict.com/works/11949
   { annict_id: 11949, mal_id: 4094 },
-  // [2024-SPRING] WEB: ライジングインパクト
+  // [2024-SPRING] WEB: ライジングインパクト シーズン1
   // https://annict.com/works/11950
   { annict_id: 11950, mal_id: 57487 },
   // [2021-SUMMER] MOVIE: クラユカバ 序章
@@ -38858,4 +38858,7 @@ export const annict: ArmEntry[] = [
   // [1953-WINTER] MOVIE: グーフィーのノイローゼ
   // https://annict.com/works/13465
   { annict_id: 13465 },
+  // [2024-SUMMER] WEB: ライジングインパクト シーズン2
+  // https://annict.com/works/13466
+  { annict_id: 13466, mal_id: 57487 },
 ]
