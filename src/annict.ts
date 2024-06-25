@@ -12377,7 +12377,7 @@ export const annict: ArmEntry[] = [
   // [2014-SUMMER] TV: 目玉焼きの黄身 いつつぶす？
   // https://annict.com/works/4139
   { annict_id: 4139, mal_id: 24275, syobocal_tid: 3485 },
-  // [2014-SPRING] MOVIE: アルモニ
+  // [2014-WINTER] MOVIE: アルモニ
   // https://annict.com/works/4140
   { annict_id: 4140, mal_id: 20903, syobocal_tid: 3358 },
   // [2014-AUTUMN] TV: トリニティセブン
