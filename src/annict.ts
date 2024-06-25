@@ -38828,7 +38828,7 @@ export const annict: ArmEntry[] = [
   // [1952-SPRING] MOVIE: グーフィーの二挺拳銃
   // https://annict.com/works/13455
   { annict_id: 13455 },
-  // [1952-SPRING] MOVIE: 小型クーペのスージー
+  // [1952-SPRING] MOVIE: 青い自動車
   // https://annict.com/works/13456
   { annict_id: 13456 },
   // [1952-SPRING] MOVIE: グーフィーの先生はお人好し
