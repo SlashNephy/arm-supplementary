@@ -38867,4 +38867,7 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: 不遇職【鑑定士】が実は最強だった
   // https://annict.com/works/13468
   { annict_id: 13468 },
+  // [2025-WINTER] TV: Unnamed Memory Act.2
+  // https://annict.com/works/13469
+  { annict_id: 13469 },
 ]
