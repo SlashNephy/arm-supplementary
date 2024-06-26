@@ -38894,7 +38894,7 @@ export const annict: ArmEntry[] = [
   // [1953-AUTUMN] MOVIE: フットボール
   // https://annict.com/works/13477
   { annict_id: 13477 },
-  // [1953-AUTUMN] MOVIE: プカドン交響曲
+  // [1953-AUTUMN] MOVIE: プカドン交響楽
   // https://annict.com/works/13478
   { annict_id: 13478 },
   // [1953-AUTUMN] MOVIE: フランクリン物語
