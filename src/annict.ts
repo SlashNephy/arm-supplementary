@@ -38915,4 +38915,16 @@ export const annict: ArmEntry[] = [
   // [1954-WINTER] MOVIE: ドナルドの日記帳
   // https://annict.com/works/13484
   { annict_id: 13484 },
+  // [1953-AUTUMN] MOVIE: クマの命びろい
+  // https://annict.com/works/13485
+  { annict_id: 13485 },
+  // [2015-WINTER] MOVIE: ナッツジョブ サーリー＆バディのピーナッツ大作戦！
+  // https://annict.com/works/13486
+  { annict_id: 13486 },
+  // [2020-WINTER] OVA: ナッツジョブ リバティパーク奪還作戦!!
+  // https://annict.com/works/13487
+  { annict_id: 13487 },
+  // [2018-AUTUMN] WEB: ノーム・アローン
+  // https://annict.com/works/13488
+  { annict_id: 13488 },
 ]
