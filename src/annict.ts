@@ -38927,4 +38927,7 @@ export const annict: ArmEntry[] = [
   // [2018-AUTUMN] WEB: ノーム・アローン
   // https://annict.com/works/13488
   { annict_id: 13488 },
+  // [2024-SPRING] MOVIE: ラーメン赤猫 劇場先行上映
+  // https://annict.com/works/13489
+  { annict_id: 13489 },
 ]
