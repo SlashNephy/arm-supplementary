@@ -38930,4 +38930,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] MOVIE: ラーメン赤猫 劇場先行上映
   // https://annict.com/works/13489
   { annict_id: 13489 },
+  // [2024-SPRING] WEB: ケロロ、選挙へ行こう！であります
+  // https://annict.com/works/13490
+  { annict_id: 13490 },
 ]
