@@ -38870,4 +38870,49 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] TV: Unnamed Memory Act.2
   // https://annict.com/works/13469
   { annict_id: 13469 },
+  // [1953-SPRING] MOVIE: ミッキーの魚釣り
+  // https://annict.com/works/13470
+  { annict_id: 13470 },
+  // [1953-SPRING] MOVIE: グーフィーの闘牛士
+  // https://annict.com/works/13471
+  { annict_id: 13471 },
+  // [1953-SPRING] MOVIE: メロディ
+  // https://annict.com/works/13472
+  { annict_id: 13472 },
+  // [1953-SPRING] MOVIE: ドナルドの魔法の泉
+  // https://annict.com/works/13473
+  { annict_id: 13473 },
+  // [1953-SPRING] MOVIE: グーフィーのマイホームパパ
+  // https://annict.com/works/13474
+  { annict_id: 13474 },
+  // [1953-SUMMER] MOVIE: グーフィーのダンス教室
+  // https://annict.com/works/13475
+  { annict_id: 13475 },
+  // [1953-SUMMER] MOVIE: ドナルドの決闘
+  // https://annict.com/works/13476
+  { annict_id: 13476 },
+  // [1953-AUTUMN] MOVIE: フットボール
+  // https://annict.com/works/13477
+  { annict_id: 13477 },
+  // [1953-AUTUMN] MOVIE: プカドン交響曲
+  // https://annict.com/works/13478
+  { annict_id: 13478 },
+  // [1953-AUTUMN] MOVIE: フランクリン物語
+  // https://annict.com/works/13479
+  { annict_id: 13479 },
+  // [1953-AUTUMN] MOVIE: リスのピーナッツ
+  // https://annict.com/works/13480
+  { annict_id: 13480 },
+  // [1953-AUTUMN] MOVIE: グーフィーの催眠法
+  // https://annict.com/works/13481
+  { annict_id: 13481 },
+  // [1953-AUTUMN] MOVIE: ドナルドのボクシング・チャンプ
+  // https://annict.com/works/13482
+  { annict_id: 13482 },
+  // [1954-WINTER] MOVIE: ドナルドの危機一髪
+  // https://annict.com/works/13483
+  { annict_id: 13483 },
+  // [1954-WINTER] MOVIE: ドナルドの日記帳
+  // https://annict.com/works/13484
+  { annict_id: 13484 },
 ]
