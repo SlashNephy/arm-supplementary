@@ -38933,4 +38933,31 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] WEB: ケロロ、選挙へ行こう！であります
   // https://annict.com/works/13490
   { annict_id: 13490 },
+  // [1954-SPRING] MOVIE: リスの大手柄
+  // https://annict.com/works/13491
+  { annict_id: 13491 },
+  // [1954-SPRING] MOVIE: ブタはブタ
+  // https://annict.com/works/13492
+  { annict_id: 13492 },
+  // [1954-SUMMER] MOVIE: 子リスの怪獣退治
+  // https://annict.com/works/13493
+  { annict_id: 13493 },
+  // [1954-SUMMER] MOVIE: ドナルドと腹ペコグマ
+  // https://annict.com/works/13494
+  { annict_id: 13494 },
+  // [1954-AUTUMN] MOVIE: ライオン都へ行く
+  // https://annict.com/works/13495
+  { annict_id: 13495 },
+  // [1954-AUTUMN] MOVIE: ドナルドのピーナッツ売り
+  // https://annict.com/works/13496
+  { annict_id: 13496 },
+  // [1954-AUTUMN] MOVIE: ドナルドのグランドキャニオン旅行
+  // https://annict.com/works/13497
+  { annict_id: 13497 },
+  // [1955-WINTER] MOVIE: ドナルドの狩りはつらいよ
+  // https://annict.com/works/13498
+  { annict_id: 13498 },
+  // [1955-SUMMER] MOVIE: クマの冬ごもり
+  // https://annict.com/works/13499
+  { annict_id: 13499 },
 ]
