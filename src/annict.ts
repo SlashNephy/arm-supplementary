@@ -38990,4 +38990,7 @@ export const annict: ArmEntry[] = [
   // [1928-SPRING] MOVIE: かわいそうなパパ
   // https://annict.com/works/13509
   { annict_id: 13509 },
+  // [2024-AUTUMN] TV: 殿と犬
+  // https://annict.com/works/13510
+  { annict_id: 13510 },
 ]
