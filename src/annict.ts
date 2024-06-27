@@ -38966,4 +38966,7 @@ export const annict: ArmEntry[] = [
   // [1955-SUMMER] MOVIE: リスの大逆襲
   // https://annict.com/works/13501
   { annict_id: 13501 },
+  // [1956-WINTER] MOVIE: リスの船長
+  // https://annict.com/works/13502
+  { annict_id: 13502 },
 ]
