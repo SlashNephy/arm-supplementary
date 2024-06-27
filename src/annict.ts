@@ -38972,4 +38972,22 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] MOVIE: それいけ！アンパンマン ばいきんまんとえほんのルルン
   // https://annict.com/works/13503
   { annict_id: 13503, mal_id: 59146 },
+  // [1928-WINTER] MOVIE: ライバル・ロメオズ
+  // https://annict.com/works/13504
+  { annict_id: 13504 },
+  // [1928-WINTER] MOVIE: ブライト・ライツ
+  // https://annict.com/works/13505
+  { annict_id: 13505 },
+  // [1928-SPRING] MOVIE: オジー・オブ・ザ・マウンテッド
+  // https://annict.com/works/13506
+  { annict_id: 13506 },
+  // [1928-SPRING] MOVIE: Hungry Hoboes（原題）
+  // https://annict.com/works/13507
+  { annict_id: 13507 },
+  // [1928-SPRING] MOVIE: オー、ホワット・ア・ナイト
+  // https://annict.com/works/13508
+  { annict_id: 13508 },
+  // [1928-SPRING] MOVIE: かわいそうなパパ
+  // https://annict.com/works/13509
+  { annict_id: 13509 },
 ]
