@@ -38863,13 +38863,13 @@ export const annict: ArmEntry[] = [
   { annict_id: 13466, mal_id: 57487 },
   // [null-null] TV: らんま1/2 完全新作的アニメ
   // https://annict.com/works/13467
-  { annict_id: 13467 },
+  { annict_id: 13467, mal_id: 59145 },
   // [2025-null] TV: 不遇職【鑑定士】が実は最強だった
   // https://annict.com/works/13468
-  { annict_id: 13468 },
+  { annict_id: 13468, mal_id: 59144 },
   // [2025-WINTER] TV: Unnamed Memory Act.2
   // https://annict.com/works/13469
-  { annict_id: 13469 },
+  { annict_id: 13469, mal_id: 59142 },
   // [1953-SPRING] MOVIE: ミッキーの魚釣り
   // https://annict.com/works/13470
   { annict_id: 13470 },
@@ -38995,5 +38995,8 @@ export const annict: ArmEntry[] = [
   { annict_id: 13510 },
   // [null-null] TV: ばっどがーる
   // https://annict.com/works/13511
-  { annict_id: 13511 },
+  { annict_id: 13511, mal_id: 59161 },
+  // [2025-null] TV: WIND BREAKER Season 2
+  // https://annict.com/works/13512
+  { annict_id: 13512, mal_id: 59160 },
 ]
