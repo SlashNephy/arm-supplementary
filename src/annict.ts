@@ -38969,4 +38969,7 @@ export const annict: ArmEntry[] = [
   // [1956-WINTER] MOVIE: リスの船長
   // https://annict.com/works/13502
   { annict_id: 13502 },
+  // [2024-SPRING] MOVIE: それいけ！アンパンマン ばいきんまんとえほんのルルン
+  // https://annict.com/works/13503
+  { annict_id: 13503, mal_id: 59146 },
 ]
