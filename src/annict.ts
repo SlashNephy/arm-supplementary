@@ -38960,4 +38960,10 @@ export const annict: ArmEntry[] = [
   // [1955-SUMMER] MOVIE: クマの冬ごもり
   // https://annict.com/works/13499
   { annict_id: 13499 },
+  // [1955-SUMMER] MOVIE: クマとみつばち
+  // https://annict.com/works/13500
+  { annict_id: 13500 },
+  // [1955-SUMMER] MOVIE: リスの大逆襲
+  // https://annict.com/works/13501
+  { annict_id: 13501 },
 ]
