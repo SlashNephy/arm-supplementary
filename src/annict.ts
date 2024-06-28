@@ -20411,7 +20411,7 @@ export const annict: ArmEntry[] = [
   // [2020-AUTUMN] MOVIE: WAVE!!～サーフィンやっぺ!!～ 第1章
   // https://annict.com/works/6915
   { annict_id: 6915, mal_id: 40267 },
-  // [2019-AUTUMN] WEB: ケンガンアシュラ Part2
+  // [2019-AUTUMN] WEB: ケンガンアシュラ Part.2
   // https://annict.com/works/6916
   { annict_id: 6916, mal_id: 40269 },
   // [2019-AUTUMN] TV: XL上司。
@@ -32489,7 +32489,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 齢5000年の草食ドラゴン、いわれなき邪竜認定 2期
   // https://annict.com/works/11335
   { annict_id: 11335 },
-  // [null-null] TV: 来世は他人がいい
+  // [2024-AUTUMN] TV: 来世は他人がいい
   // https://annict.com/works/11336
   { annict_id: 11336, mal_id: 56964 },
   // [2012-AUTUMN] TV: 紙兎ロペ 〜笑う朝には福来たるってマジっすか!?
@@ -36887,7 +36887,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 報われなかった村人A、貴族に拾われて溺愛される上に、実は持っていた伝説級の神スキルも覚醒した
   // https://annict.com/works/12806
   { annict_id: 12806, mal_id: 57005 },
-  // [null-null] OTHER: 没落予定の貴族だけど、暇だったから魔法を極めてみた
+  // [2025-WINTER] TV: 没落予定の貴族だけど、暇だったから魔法を極めてみた
   // https://annict.com/works/12807
   { annict_id: 12807, mal_id: 58437 },
   // [1929-SPRING] MOVIE: ミッキーの畑仕事
@@ -39065,4 +39065,7 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: ある魔女が死ぬまで
   // https://annict.com/works/13534
   { annict_id: 13534, mal_id: 59169 },
+  // [null-null] MOVIE: 劇場版 魔法科高校の劣等生 四葉継承編
+  // https://annict.com/works/13535
+  { annict_id: 13535 },
 ]
