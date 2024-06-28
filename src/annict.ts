@@ -38999,4 +38999,58 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: WIND BREAKER Season 2
   // https://annict.com/works/13512
   { annict_id: 13512, mal_id: 59160 },
+  // [2024-SPRING] WEB: 伊右衛門の車窓にて
+  // https://annict.com/works/13513
+  { annict_id: 13513 },
+  // [1956-SPRING] MOVIE: クマの魚釣り
+  // https://annict.com/works/13514
+  { annict_id: 13514 },
+  // [1956-SUMMER] MOVIE: ドナルドの災難～家庭篇
+  // https://annict.com/works/13515
+  { annict_id: 13515 },
+  // [1956-SUMMER] MOVIE: ジャック・オールド・マック
+  // https://annict.com/works/13516
+  { annict_id: 13516 },
+  // [1956-SUMMER] MOVIE: クマさんの大掃除
+  // https://annict.com/works/13517
+  { annict_id: 13517 },
+  // [1956-AUTUMN] MOVIE: 坊やはカウボーイ
+  // https://annict.com/works/13518
+  { annict_id: 13518 },
+  // [1957-SPRING] MOVIE: 交通戦争裁判
+  // https://annict.com/works/13519
+  { annict_id: 13519 },
+  // [1957-SUMMER] MOVIE: マザー・グースの歌
+  // https://annict.com/works/13520
+  { annict_id: 13520 },
+  // [1958-SUMMER] MOVIE: ポール・バニヤン巨人伝説
+  // https://annict.com/works/13521
+  { annict_id: 13521 },
+  // [1959-SPRING] MOVIE: ドナルドのさんすうマジック
+  // https://annict.com/works/13522
+  { annict_id: 13522 },
+  // [1959-SUMMER] MOVIE: ドナルドの災難～仕事篇
+  // https://annict.com/works/13523
+  { annict_id: 13523 },
+  // [1959-AUTUMN] MOVIE: ノアの箱船(1959年)
+  // https://annict.com/works/13524
+  { annict_id: 13524 },
+  // [1960-WINTER] MOVIE: 豆象の冒険
+  // https://annict.com/works/13525
+  { annict_id: 13525 },
+  // [1961-WINTER] MOVIE: グーフィーの水上スキー
+  // https://annict.com/works/13526
+  { annict_id: 13526 },
+  // [1961-WINTER] MOVIE: ウインドワゴン・スミスの伝説
+  // https://annict.com/works/13527
+  { annict_id: 13527 },
+  // [1961-SPRING] MOVIE: ドナルドの不作法教室
+  // https://annict.com/works/13528
+  { annict_id: 13528 },
+  // [1961-SPRING] MOVIE: ドナルドの物理教室
+  // https://annict.com/works/13529
+  { annict_id: 13529 },
+  // [1962-AUTUMN] MOVIE: ポピュラーソング・シンポジウム
+  // https://annict.com/works/13530
+  { annict_id: 13530 },
 ]
