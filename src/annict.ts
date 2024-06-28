@@ -38992,7 +38992,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13509 },
   // [2024-AUTUMN] TV: 殿と犬
   // https://annict.com/works/13510
-  { annict_id: 13510 },
+  { annict_id: 13510, mal_id: 57924 },
   // [null-null] TV: ばっどがーる
   // https://annict.com/works/13511
   { annict_id: 13511, mal_id: 59161 },
