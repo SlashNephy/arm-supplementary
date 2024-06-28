@@ -39053,4 +39053,13 @@ export const annict: ArmEntry[] = [
   // [1962-AUTUMN] MOVIE: ポピュラーソング・シンポジウム
   // https://annict.com/works/13530
   { annict_id: 13530 },
+  // [2018-AUTUMN] WEB: ショート・アニメ「ハン・ソロ」
+  // https://annict.com/works/13531
+  { annict_id: 13531, mal_id: 38545 },
+  // [2002-AUTUMN] TV: PUCCA Funny Love
+  // https://annict.com/works/13532
+  { annict_id: 13532, mal_id: 4069 },
+  // [2006-SUMMER] TV: プッカ
+  // https://annict.com/works/13533
+  { annict_id: 13533, mal_id: 6609 },
 ]
