@@ -39062,4 +39062,7 @@ export const annict: ArmEntry[] = [
   // [2006-SUMMER] TV: プッカ
   // https://annict.com/works/13533
   { annict_id: 13533, mal_id: 6609 },
+  // [2025-null] TV: ある魔女が死ぬまで
+  // https://annict.com/works/13534
+  { annict_id: 13534, mal_id: 59169 },
 ]
