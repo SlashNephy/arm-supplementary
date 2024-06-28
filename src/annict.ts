@@ -39068,4 +39068,7 @@ export const annict: ArmEntry[] = [
   // [null-null] MOVIE: 劇場版 魔法科高校の劣等生 四葉継承編
   // https://annict.com/works/13535
   { annict_id: 13535 },
+  // [2024-SUMMER] WEB: ケンガンアシュラ Season2 Part.2
+  // https://annict.com/works/13536
+  { annict_id: 13536, mal_id: 56704 },
 ]
