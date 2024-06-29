@@ -38507,10 +38507,10 @@ export const annict: ArmEntry[] = [
   // [1948-WINTER] MOVIE: ミッキーの大探検
   // https://annict.com/works/13348
   { annict_id: 13348 },
-  // [1942-WINTER] MOVIE: Stop That Tank!
+  // [1942-WINTER] MOVIE: Stop That Tank!（原題）
   // https://annict.com/works/13349
   { annict_id: 13349 },
-  // [1934-SPRING] MOVIE: The Hot Choc-late Soldiers
+  // [1934-SPRING] MOVIE: The Hot Choc-late Soldiers（原題）
   // https://annict.com/works/13350
   { annict_id: 13350 },
   // [1943-WINTER] MOVIE: 総統の顔
@@ -39067,7 +39067,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13534, mal_id: 59169 },
   // [null-null] MOVIE: 劇場版 魔法科高校の劣等生 四葉継承編
   // https://annict.com/works/13535
-  { annict_id: 13535 },
+  { annict_id: 13535, mal_id: 59174 },
   // [2024-SUMMER] WEB: ケンガンアシュラ Season2 Part.2
   // https://annict.com/works/13536
   { annict_id: 13536, mal_id: 56704 },
@@ -39116,4 +39116,10 @@ export const annict: ArmEntry[] = [
   // [1928-SUMMER] MOVIE: スカイ・スクラッパーズ
   // https://annict.com/works/13551
   { annict_id: 13551 },
+  // [null-null] TV: 怪獣8号 続編
+  // https://annict.com/works/13552
+  { annict_id: 13552 },
+  // [2024-AUTUMN] TV: オーイ! とんぼ 第2期
+  // https://annict.com/works/13553
+  { annict_id: 13553, mal_id: 59175 },
 ]
