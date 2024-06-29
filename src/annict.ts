@@ -39074,4 +39074,31 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: ぴえろ魔法少女シリーズ最新作
   // https://annict.com/works/13537
   { annict_id: 13537 },
+  // [1923-AUTUMN] OTHER: アリスの不思議の国
+  // https://annict.com/works/13538
+  { annict_id: 13538 },
+  // [1924-SPRING] MOVIE: アリスズ・ワイルド・ウエスト・ショー
+  // https://annict.com/works/13539
+  { annict_id: 13539 },
+  // [1924-AUTUMN] MOVIE: アリス・ゲッツ・イン・ダッチ
+  // https://annict.com/works/13540
+  { annict_id: 13540 },
+  // [1925-WINTER] MOVIE: アリス・ゲッツ・スタング
+  // https://annict.com/works/13541
+  { annict_id: 13541 },
+  // [1925-SPRING] MOVIE: アリスズ・エッグ・プラント
+  // https://annict.com/works/13542
+  { annict_id: 13542 },
+  // [1925-AUTUMN] MOVIE: アリス・イン・ザ・ジャングル
+  // https://annict.com/works/13543
+  { annict_id: 13543 },
+  // [1926-WINTER] MOVIE: アリスズ・バルーン・レース
+  // https://annict.com/works/13544
+  { annict_id: 13544 },
+  // [1926-WINTER] MOVIE: アリスズ・ミステリアス・ミステリー
+  // https://annict.com/works/13545
+  { annict_id: 13545 },
+  // [1926-AUTUMN] MOVIE: アリス・イン・ザ・ウーリー・ウエスト
+  // https://annict.com/works/13546
+  { annict_id: 13546 },
 ]
