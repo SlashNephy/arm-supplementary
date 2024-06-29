@@ -23870,13 +23870,13 @@ export const annict: ArmEntry[] = [
   // [1983-SPRING] MOVIE: ゴルゴ13 劇場版
   // https://annict.com/works/8294
   { annict_id: 8294, mal_id: 1760 },
-  // [1991-null] MOVIE: ドラゴンクエスト ダイの大冒険 (1991)
+  // [1991-SUMMER] MOVIE: 劇場版 ドラゴンクエスト ダイの大冒険
   // https://annict.com/works/8295
   { annict_id: 8295, mal_id: 7435 },
-  // [1992-null] MOVIE: ドラゴンクエスト ダイの大冒険 起ちあがれ！！ アバンの使徒
+  // [1992-WINTER] MOVIE: ドラゴンクエスト ダイの大冒険 起ちあがれ！！ アバンの使徒
   // https://annict.com/works/8296
   { annict_id: 8296, mal_id: 7436 },
-  // [1992-null] MOVIE: ドラゴンクエスト ダイの大冒険 ぶちやぶれ！！ 新生6大将軍
+  // [1992-SUMMER] MOVIE: ドラゴンクエスト ダイの大冒険 ぶちやぶれ！！ 新生6大将軍
   // https://annict.com/works/8297
   { annict_id: 8297, mal_id: 7364 },
   // [1966-SUMMER] MOVIE: サイボーグ009 (1966)
