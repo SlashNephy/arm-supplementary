@@ -26327,7 +26327,7 @@ export const annict: ArmEntry[] = [
   // [2022-SPRING] TV: かぎなど シーズン2
   // https://annict.com/works/9243
   { annict_id: 9243, mal_id: 50685, syobocal_tid: 6348 },
-  // [null-null] OTHER: Summer Pockets
+  // [2025-null] TV: Summer Pockets
   // https://annict.com/works/9244
   { annict_id: 9244, mal_id: 50694 },
   // [2022-SPRING] TV: 境界戦機 第二部
@@ -39071,4 +39071,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] WEB: ケンガンアシュラ Season2 Part.2
   // https://annict.com/works/13536
   { annict_id: 13536, mal_id: 56704 },
+  // [null-null] TV: ぴえろ魔法少女シリーズ最新作
+  // https://annict.com/works/13537
+  { annict_id: 13537 },
 ]
