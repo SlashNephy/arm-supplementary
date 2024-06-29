@@ -39073,7 +39073,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13536, mal_id: 56704 },
   // [null-null] TV: ぴえろ魔法少女シリーズ最新作
   // https://annict.com/works/13537
-  { annict_id: 13537 },
+  { annict_id: 13537, mal_id: 59176 },
   // [1923-AUTUMN] OTHER: アリスの不思議の国
   // https://annict.com/works/13538
   { annict_id: 13538 },
