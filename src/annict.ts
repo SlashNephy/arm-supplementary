@@ -39118,7 +39118,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13551 },
   // [null-null] TV: 怪獣8号 続編
   // https://annict.com/works/13552
-  { annict_id: 13552 },
+  { annict_id: 13552, mal_id: 59177 },
   // [2024-AUTUMN] TV: オーイ! とんぼ 第2期
   // https://annict.com/works/13553
   { annict_id: 13553, mal_id: 59175 },
