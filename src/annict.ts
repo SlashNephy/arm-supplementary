@@ -39110,4 +39110,10 @@ export const annict: ArmEntry[] = [
   // [1928-SPRING] MOVIE: ザ・フォックス・チェイス
   // https://annict.com/works/13549
   { annict_id: 13549 },
+  // [1928-SUMMER] MOVIE: トール・ティンバー
+  // https://annict.com/works/13550
+  { annict_id: 13550 },
+  // [1928-SUMMER] MOVIE: スカイ・スクラッパーズ
+  // https://annict.com/works/13551
+  { annict_id: 13551 },
 ]
