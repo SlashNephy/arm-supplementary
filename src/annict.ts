@@ -39101,4 +39101,13 @@ export const annict: ArmEntry[] = [
   // [1926-AUTUMN] MOVIE: アリス・イン・ザ・ウーリー・ウエスト
   // https://annict.com/works/13546
   { annict_id: 13546 },
+  // [1927-SUMMER] MOVIE: アリス・ザ・ホエーラー
+  // https://annict.com/works/13547
+  { annict_id: 13547 },
+  // [1928-SPRING] MOVIE: セイジブラッシュ・サディ
+  // https://annict.com/works/13548
+  { annict_id: 13548 },
+  // [1928-SPRING] MOVIE: ザ・フォックス・チェイス
+  // https://annict.com/works/13549
+  { annict_id: 13549 },
 ]
