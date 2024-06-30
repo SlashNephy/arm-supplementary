@@ -39149,4 +39149,37 @@ export const annict: ArmEntry[] = [
   // [2017-AUTUMN] TV: バンピリーナとバンパイアかぞく
   // https://annict.com/works/13562
   { annict_id: 13562 },
+  // [2019-WINTER] TV: LEGO スター・ウォーズ／オールスターズ
+  // https://annict.com/works/13563
+  { annict_id: 13563 },
+  // [2020-SPRING] WEB: アバローのプリンセス エレナ ショーツ
+  // https://annict.com/works/13564
+  { annict_id: 13564 },
+  // [2017-AUTUMN] TV: マーベル アントマン
+  // https://annict.com/works/13565
+  { annict_id: 13565 },
+  // [2016-WINTER] TV: おとぎのもりのゴールディとベア
+  // https://annict.com/works/13566
+  { annict_id: 13566 },
+  // [2017-SUMMER] TV: マーベル ロケットとグルート
+  // https://annict.com/works/13567
+  { annict_id: 13567 },
+  // [2015-SUMMER] TV: マイルズのトゥモローランドだいさくせん
+  // https://annict.com/works/13568
+  { annict_id: 13568 },
+  // [1928-SUMMER] MOVIE: Sleigh Bells（原題）
+  // https://annict.com/works/13569
+  { annict_id: 13569 },
+  // [2018-SUMMER] TV: マペット・ベビー
+  // https://annict.com/works/13570
+  { annict_id: 13570 },
+  // [1928-SUMMER] MOVIE: High Up（原題）
+  // https://annict.com/works/13571
+  { annict_id: 13571 },
+  // [2019-WINTER] TV: マペット・ベビー みてみて！きいて！
+  // https://annict.com/works/13572
+  { annict_id: 13572 },
+  // [2017-AUTUMN] TV: スター・ウォーズ／フォース・オブ・デスティニー
+  // https://annict.com/works/13573
+  { annict_id: 13573 },
 ]
