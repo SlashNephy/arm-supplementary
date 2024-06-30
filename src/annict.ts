@@ -39125,4 +39125,19 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] MOVIE: 風都探偵 仮面ライダースカルの肖像
   // https://annict.com/works/13554
   { annict_id: 13554 },
+  // [2012-SUMMER] TV: ドックはおもちゃドクター
+  // https://annict.com/works/13555
+  { annict_id: 13555 },
+  // [2012-SUMMER] TV: ムークのせかいりょこう
+  // https://annict.com/works/13556
+  { annict_id: 13556 },
+  // [2014-WINTER] TV: せいぶのねこキャリー
+  // https://annict.com/works/13557
+  { annict_id: 13557 },
+  // [2019-SUMMER] WEB: スター・ウォーズ ロール・アウト
+  // https://annict.com/works/13558
+  { annict_id: 13558 },
+  // [2019-AUTUMN] TV: レーシング・スポーツ・ネットワーク
+  // https://annict.com/works/13559
+  { annict_id: 13559 },
 ]
