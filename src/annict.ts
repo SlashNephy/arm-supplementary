@@ -39140,4 +39140,7 @@ export const annict: ArmEntry[] = [
   // [2019-AUTUMN] TV: レーシング・スポーツ・ネットワーク
   // https://annict.com/works/13559
   { annict_id: 13559 },
+  // [2020-SPRING] WEB: オラフとおうちじかん
+  // https://annict.com/works/13560
+  { annict_id: 13560 },
 ]
