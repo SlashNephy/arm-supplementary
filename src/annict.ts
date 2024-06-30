@@ -39205,8 +39205,11 @@ export const annict: ArmEntry[] = [
   { annict_id: 13580, mal_id: 59189 },
   // [null-null] MOVIE: 劇場版 鬼滅の刃 無限城編 第一部
   // https://annict.com/works/13581
-  { annict_id: 13581 },
+  { annict_id: 13581, mal_id: 59192 },
   // [null-null] TV: 無職転生Ⅲ ～異世界行ったら本気だす～
   // https://annict.com/works/13582
-  { annict_id: 13582 },
+  { annict_id: 13582, mal_id: 59193 },
+  // [null-null] MOVIE: 劇場総集編 幻日のヨハネ -SUNSHINE in the MIRROR-
+  // https://annict.com/works/13583
+  { annict_id: 13583, mal_id: 59190 },
 ]
