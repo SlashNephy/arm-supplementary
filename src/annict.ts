@@ -39143,4 +39143,10 @@ export const annict: ArmEntry[] = [
   // [2020-SPRING] WEB: オラフとおうちじかん
   // https://annict.com/works/13560
   { annict_id: 13560 },
+  // [2017-SUMMER] TV: パグ・パグ・アドベンチャー
+  // https://annict.com/works/13561
+  { annict_id: 13561 },
+  // [2017-AUTUMN] TV: バンピリーナとバンパイアかぞく
+  // https://annict.com/works/13562
+  { annict_id: 13562 },
 ]
