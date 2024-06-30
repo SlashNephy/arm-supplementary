@@ -39185,4 +39185,13 @@ export const annict: ArmEntry[] = [
   // [2014-SPRING] TV: マーベル ハルク：スマッシュ・ヒーローズ
   // https://annict.com/works/13574
   { annict_id: 13574 },
+  // [2019-AUTUMN] TV: トッツ とべ！ あかちゃん おとどけたい
+  // https://annict.com/works/13575
+  { annict_id: 13575 },
+  // [2013-SUMMER] TV: ヘンリー・ハグルモンスター
+  // https://annict.com/works/13576
+  { annict_id: 13576 },
+  // [2016-SPRING] OVA: スター・ウォーズ 反乱者たち ショーツ
+  // https://annict.com/works/13577
+  { annict_id: 13577 },
 ]
