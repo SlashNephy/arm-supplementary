@@ -38749,7 +38749,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13428, mal_id: 59130 },
   // [2024-SUMMER] TV: NINJA KAMUI
   // https://annict.com/works/13429
-  { annict_id: 13429, syobocal_tid: 7150 },
+  { annict_id: 13429, mal_id: 56285, syobocal_tid: 7150 },
   // [2024-AUTUMN] TV: 転生貴族、鑑定スキルで成り上がる 第2期
   // https://annict.com/works/13430
   { annict_id: 13430, mal_id: 59131 },
@@ -39194,4 +39194,10 @@ export const annict: ArmEntry[] = [
   // [2016-SPRING] OVA: スター・ウォーズ 反乱者たち ショーツ
   // https://annict.com/works/13577
   { annict_id: 13577 },
+  // [1924-WINTER] MOVIE: Alice's Day at Sea（原題）
+  // https://annict.com/works/13578
+  { annict_id: 13578 },
+  // [1924-SPRING] MOVIE: Alice's Spooky Adventure（原題）
+  // https://annict.com/works/13579
+  { annict_id: 13579 },
 ]
