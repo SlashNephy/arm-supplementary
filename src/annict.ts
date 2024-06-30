@@ -39182,4 +39182,7 @@ export const annict: ArmEntry[] = [
   // [2017-AUTUMN] TV: スター・ウォーズ／フォース・オブ・デスティニー
   // https://annict.com/works/13573
   { annict_id: 13573 },
+  // [2014-SPRING] TV: マーベル ハルク：スマッシュ・ヒーローズ
+  // https://annict.com/works/13574
+  { annict_id: 13574 },
 ]
