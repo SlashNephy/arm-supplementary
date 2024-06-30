@@ -39122,4 +39122,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: オーイ! とんぼ 第2期
   // https://annict.com/works/13553
   { annict_id: 13553, mal_id: 59175 },
+  // [2024-AUTUMN] MOVIE: 風都探偵 仮面ライダースカルの肖像
+  // https://annict.com/works/13554
+  { annict_id: 13554 },
 ]
