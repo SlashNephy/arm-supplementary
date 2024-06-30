@@ -35806,7 +35806,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12443 },
   // [2024-SUMMER] TV: よあそびぐらしっ！
   // https://annict.com/works/12444
-  { annict_id: 12444 },
+  { annict_id: 12444, syobocal_tid: 7146 },
   // [2006-SPRING] MOVIE: 立喰師列伝
   // https://annict.com/works/12445
   { annict_id: 12445, mal_id: 2388 },
@@ -38749,7 +38749,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13428, mal_id: 59130 },
   // [2024-SUMMER] TV: NINJA KAMUI
   // https://annict.com/works/13429
-  { annict_id: 13429 },
+  { annict_id: 13429, syobocal_tid: 7150 },
   // [2024-AUTUMN] TV: 転生貴族、鑑定スキルで成り上がる 第2期
   // https://annict.com/works/13430
   { annict_id: 13430, mal_id: 59131 },
