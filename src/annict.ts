@@ -38981,7 +38981,7 @@ export const annict: ArmEntry[] = [
   // [1928-SPRING] MOVIE: オジー・オブ・ザ・マウンテッド
   // https://annict.com/works/13506
   { annict_id: 13506 },
-  // [1928-SPRING] MOVIE: Hungry Hoboes（原題）
+  // [1928-SPRING] MOVIE: Hungry Hobos（原題）
   // https://annict.com/works/13507
   { annict_id: 13507 },
   // [1928-SPRING] MOVIE: オー、ホワット・ア・ナイト
