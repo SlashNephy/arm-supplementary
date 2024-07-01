@@ -39215,4 +39215,7 @@ export const annict: ArmEntry[] = [
   // [1923-null] MOVIE: 口腔衛生
   // https://annict.com/works/13584
   { annict_id: 13584, mal_id: 58828 },
+  // [2024-SPRING] OVA: 響け！ユーフォニアム3 Extra Episode
+  // https://annict.com/works/13585
+  { annict_id: 13585, mal_id: 58856 },
 ]
