@@ -28712,7 +28712,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] TV: 実は俺、最強でした？
   // https://annict.com/works/10073
   { annict_id: 10073, mal_id: 52969, syobocal_tid: 6754 },
-  // [null-null] MOVIE: 劇場版 ベルサイユのばら
+  // [2025-WINTER] MOVIE: 劇場版 ベルサイユのばら
   // https://annict.com/works/10074
   { annict_id: 10074 },
   // [2023-SPRING] TV: 女神のカフェテラス
