@@ -39221,4 +39221,7 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: クラシック★スターズ
   // https://annict.com/works/13586
   { annict_id: 13586, mal_id: 59199 },
+  // [2024-SUMMER] WEB: 直江くんは痩せさせたい。
+  // https://annict.com/works/13587
+  { annict_id: 13587 },
 ]
