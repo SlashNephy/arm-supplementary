@@ -39236,4 +39236,7 @@ export const annict: ArmEntry[] = [
   // [1951-AUTUMN] MOVIE: 南部の唄
   // https://annict.com/works/13591
   { annict_id: 13591 },
+  // [null-null] OTHER: 魔法騎士レイアース 新アニメ化プロジェクト
+  // https://annict.com/works/13592
+  { annict_id: 13592 },
 ]
