@@ -39230,4 +39230,7 @@ export const annict: ArmEntry[] = [
   // [1922-SUMMER] MOVIE: 赤ずきん
   // https://annict.com/works/13589
   { annict_id: 13589 },
+  // [1922-SUMMER] MOVIE: ブレーメンの音楽隊
+  // https://annict.com/works/13590
+  { annict_id: 13590 },
 ]
