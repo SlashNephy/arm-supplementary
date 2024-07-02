@@ -39224,4 +39224,10 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] WEB: 直江くんは痩せさせたい。
   // https://annict.com/works/13587
   { annict_id: 13587 },
+  // [1921-WINTER] MOVIE: ニューマン劇場のお笑い漫画
+  // https://annict.com/works/13588
+  { annict_id: 13588 },
+  // [1922-SUMMER] MOVIE: 赤ずきん
+  // https://annict.com/works/13589
+  { annict_id: 13589 },
 ]
