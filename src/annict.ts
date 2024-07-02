@@ -37148,7 +37148,7 @@ export const annict: ArmEntry[] = [
   // [2016-SUMMER] WEB: イタダキノサキ
   // https://annict.com/works/12894
   { annict_id: 12894 },
-  // [null-null] MOVIE: リンダはチキンがたべたい！
+  // [2024-SPRING] MOVIE: リンダはチキンがたべたい！
   // https://annict.com/works/12895
   { annict_id: 12895 },
   // [2018-WINTER] WEB: 駅メモ！ショートアニメ「横手編」
@@ -39238,5 +39238,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 13591 },
   // [null-null] OTHER: 魔法騎士レイアース 新アニメ化プロジェクト
   // https://annict.com/works/13592
-  { annict_id: 13592 },
+  { annict_id: 13592, mal_id: 59204 },
 ]
