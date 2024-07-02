@@ -36176,7 +36176,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] WEB: かいじゅうステップ 未来予報
   // https://annict.com/works/12568
   { annict_id: 12568 },
-  // [2025-null] TV: 空色ユーティリティ
+  // [2025-WINTER] TV: 空色ユーティリティ
   // https://annict.com/works/12569
   { annict_id: 12569, mal_id: 58066 },
   // [2024-WINTER] WEB: ポケモンスペシャルアニメ「ただいま」
