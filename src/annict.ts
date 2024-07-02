@@ -39239,4 +39239,10 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 魔法騎士レイアース 新アニメ化プロジェクト
   // https://annict.com/works/13592
   { annict_id: 13592, mal_id: 59204 },
+  // [null-null] TV: クレバテス-魔獣の王と赤子と屍の勇者-
+  // https://annict.com/works/13593
+  { annict_id: 13593, mal_id: 59205 },
+  // [2024-SUMMER] TV: 24分でわかる「戦国妖狐 世直し姉弟編」
+  // https://annict.com/works/13594
+  { annict_id: 13594 },
 ]
