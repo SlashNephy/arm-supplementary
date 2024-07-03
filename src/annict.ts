@@ -39266,4 +39266,7 @@ export const annict: ArmEntry[] = [
   // [1922-null] MOVIE: シンデレラ(Aschenputtel)
   // https://annict.com/works/13601
   { annict_id: 13601 },
+  // [1924-SPRING] MOVIE: Alice's Fishy Story（原題）
+  // https://annict.com/works/13602
+  { annict_id: 13602 },
 ]
