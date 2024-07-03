@@ -39260,4 +39260,10 @@ export const annict: ArmEntry[] = [
   // [1922-AUTUMN] MOVIE: 長靴をはいた猫(1922年)
   // https://annict.com/works/13599
   { annict_id: 13599 },
+  // [1922-AUTUMN] MOVIE: シンデレラ(1922年)
+  // https://annict.com/works/13600
+  { annict_id: 13600 },
+  // [1922-null] MOVIE: シンデレラ(Aschenputtel)
+  // https://annict.com/works/13601
+  { annict_id: 13601 },
 ]
