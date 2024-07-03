@@ -39272,4 +39272,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] MOVIE: ファーストライン
   // https://annict.com/works/13603
   { annict_id: 13603 },
+  // [null-null] TV: 帝乃三姉妹は案外、チョロい。
+  // https://annict.com/works/13604
+  { annict_id: 13604, mal_id: 59207 },
 ]
