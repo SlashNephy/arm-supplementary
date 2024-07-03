@@ -39269,4 +39269,7 @@ export const annict: ArmEntry[] = [
   // [1924-SPRING] MOVIE: Alice's Fishy Story（原題）
   // https://annict.com/works/13602
   { annict_id: 13602 },
+  // [2024-SPRING] MOVIE: ファーストライン
+  // https://annict.com/works/13603
+  { annict_id: 13603 },
 ]
