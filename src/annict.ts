@@ -39248,7 +39248,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] WEB: 本山製作所創業100周年記念特別アニメーション
   // https://annict.com/works/13595
   { annict_id: 13595 },
-  // [1922-SUMMER] MOVIE: ジャックと豆の木 (1922)
+  // [1922-SUMMER] MOVIE: ジャックと豆の木(1922年)
   // https://annict.com/works/13596
   { annict_id: 13596 },
   // [1922-SUMMER] MOVIE: Jack the Giant Killer（原題）
@@ -39257,4 +39257,7 @@ export const annict: ArmEntry[] = [
   // [1922-AUTUMN] MOVIE: 三匹のクマ
   // https://annict.com/works/13598
   { annict_id: 13598 },
+  // [1922-AUTUMN] MOVIE: 長靴をはいた猫(1922年)
+  // https://annict.com/works/13599
+  { annict_id: 13599 },
 ]
