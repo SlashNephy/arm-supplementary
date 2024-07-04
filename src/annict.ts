@@ -34706,7 +34706,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] TV: 最強王図鑑 ～The Ultimate Battles～
   // https://annict.com/works/12076
   { annict_id: 12076, mal_id: 57538 },
-  // [2024-null] TV: 妖怪学校の先生はじめました！
+  // [2024-AUTUMN] TV: 妖怪学校の先生はじめました！
   // https://annict.com/works/12077
   { annict_id: 12077, mal_id: 57533 },
   // [null-null] OTHER: 理想のヒモ生活
@@ -37112,7 +37112,7 @@ export const annict: ArmEntry[] = [
   // [2017-SUMMER] WEB: 逢魔ヶパレヱド
   // https://annict.com/works/12882
   { annict_id: 12882, mal_id: 54194 },
-  // [null-null] TV: 神統記(テオゴニア)
+  // [2025-null] TV: 神統記(テオゴニア)
   // https://annict.com/works/12883
   { annict_id: 12883, mal_id: 58614 },
   // [2024-SPRING] WEB: 夜桜さんちのミニ作戦
