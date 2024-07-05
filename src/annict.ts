@@ -30389,7 +30389,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: 僕のヒーローアカデミア (第7期)
   // https://annict.com/works/10634
   { annict_id: 10634, mal_id: 54789, syobocal_tid: 7049 },
-  // [null-null] TV: TRIGUN STAMPEDE シリーズ完結編
+  // [null-null] TV: TRIGUN STARGAZE
   // https://annict.com/works/10635
   { annict_id: 10635, mal_id: 54863 },
   // [2024-AUTUMN] TV: ブルーロック 第2期
@@ -39275,4 +39275,10 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 帝乃三姉妹は案外、チョロい。
   // https://annict.com/works/13604
   { annict_id: 13604, mal_id: 59207 },
+  // [2023-SUMMER] WEB: ギーツエクストラ ギーツあにめ あなざーぐらんぷり
+  // https://annict.com/works/13605
+  { annict_id: 13605, mal_id: 56206 },
+  // [2024-SPRING] WEB: ガッチャードショートアニメ ガッチャニメ 富良洲高校七不思議をガッチャせよ！
+  // https://annict.com/works/13606
+  { annict_id: 13606, mal_id: 58753 },
 ]
