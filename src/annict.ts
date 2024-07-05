@@ -7367,7 +7367,7 @@ export const annict: ArmEntry[] = [
   // [2010-SPRING] TV: WORKING!!
   // https://annict.com/works/2459
   { annict_id: 2459, mal_id: 6956, syobocal_tid: 1885 },
-  // [2011-AUTUMN] TV: WORKING´!!
+  // [2011-AUTUMN] TV: WORKING'!!
   // https://annict.com/works/2460
   { annict_id: 2460, mal_id: 10521, syobocal_tid: 2249 },
   // [2002-SPRING] TV: わがまま☆フェアリー ミルモでポン！
@@ -26654,7 +26654,7 @@ export const annict: ArmEntry[] = [
   // [2022-WINTER] WEB: ラビッツ インベージョン 〜ドキドキ火星ミッション〜
   // https://annict.com/works/9352
   { annict_id: 9352 },
-  // [2022-SUMMER] TV: ようこそ実力至上主義の教室へ 2nd season
+  // [2022-SUMMER] TV: ようこそ実力至上主義の教室へ 2nd Season
   // https://annict.com/works/9385
   { annict_id: 9385, mal_id: 51096, syobocal_tid: 6369 },
   // [2022-AUTUMN] TV: 忍の一時
@@ -26738,7 +26738,7 @@ export const annict: ArmEntry[] = [
   // [1993-AUTUMN] MOVIE: 銀河英雄伝説 外伝 新たなる戦いの序曲
   // https://annict.com/works/9412
   { annict_id: 9412, mal_id: 3016, syobocal_tid: 1056 },
-  // [2024-WINTER] TV: ようこそ実力至上主義の教室へ 3rd season
+  // [2024-WINTER] TV: ようこそ実力至上主義の教室へ 3rd Season
   // https://annict.com/works/9413
   { annict_id: 9413, mal_id: 51180, syobocal_tid: 6888 },
   // [2023-WINTER] TV: HIGH CARD
