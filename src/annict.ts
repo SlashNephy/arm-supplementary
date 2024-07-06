@@ -25130,7 +25130,7 @@ export const annict: ArmEntry[] = [
   // [2021-AUTUMN] TV: メガトン級ムサシ
   // https://annict.com/works/8779
   { annict_id: 8779, mal_id: 33737, syobocal_tid: 6140 },
-  // [2024-null] WEB: BEASTARS FINAL SEASON
+  // [2024-AUTUMN] WEB: BEASTARS FINAL SEASON Part1
   // https://annict.com/works/8780
   { annict_id: 8780, mal_id: 49469 },
   // [2024-SPRING] TV: この素晴らしい世界に祝福を！ 3
@@ -38192,7 +38192,7 @@ export const annict: ArmEntry[] = [
   // [1942-WINTER] MOVIE: ミッキーのオーケストラ
   // https://annict.com/works/13243
   { annict_id: 13243 },
-  // [null-null] TV: GUILTY GEAR STRIVE: DUAL RULERS
+  // [2025-null] TV: GUILTY GEAR STRIVE: DUAL RULERS
   // https://annict.com/works/13244
   { annict_id: 13244, mal_id: 59070 },
   // [2015-WINTER] OVA: OVA快盗天使ツインエンジェル ～キュンキュン☆ときめきパラダイス！！～
