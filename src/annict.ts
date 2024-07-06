@@ -37003,7 +37003,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12844, mal_id: 4383 },
   // [2024-SUMMER] TV: 貼りまわれ！こいぬ 第2期
   // https://annict.com/works/12845
-  { annict_id: 12845, mal_id: 58506 },
+  { annict_id: 12845, mal_id: 58506, syobocal_tid: 7152 },
   // [2024-AUTUMN] TV: 七つの大罪 黙示録の四騎士 第2期
   // https://annict.com/works/12846
   { annict_id: 12846, mal_id: 58511 },
