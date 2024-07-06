@@ -39281,4 +39281,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] WEB: ガッチャードショートアニメ ガッチャニメ 富良洲高校七不思議をガッチャせよ！
   // https://annict.com/works/13606
   { annict_id: 13606, mal_id: 58753 },
+  // [1924-SUMMER] MOVIE: Alice and the Dog Catcher（原題）
+  // https://annict.com/works/13607
+  { annict_id: 13607 },
 ]
