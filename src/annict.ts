@@ -39290,4 +39290,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] WEB: ペンぺとピンピSeason2
   // https://annict.com/works/13609
   { annict_id: 13609, mal_id: 57103 },
+  // [2025-WINTER] TV: 青の祓魔師 終夜篇
+  // https://annict.com/works/13610
+  { annict_id: 13610 },
 ]
