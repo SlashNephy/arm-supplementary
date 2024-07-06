@@ -30548,7 +30548,7 @@ export const annict: ArmEntry[] = [
   // [2022-SUMMER] WEB: Obey Me! The Anime Season 2
   // https://annict.com/works/10688
   { annict_id: 10688, mal_id: 52045 },
-  // [2024-null] TV: 結婚するって、本当ですか
+  // [2024-AUTUMN] TV: 結婚するって、本当ですか
   // https://annict.com/works/10689
   { annict_id: 10689, mal_id: 54982 },
   // [2023-SPRING] MOVIE: 劇場版 Collar×Malice -deep cover- 前編
@@ -36404,7 +36404,7 @@ export const annict: ArmEntry[] = [
   // [1965-null] OTHER: 電人アロー（パイロットフィルム）
   // https://annict.com/works/12645
   { annict_id: 12645 },
-  // [null-null] TV: Übel Blatt〜ユーベルブラット〜
+  // [2025-WINTER] TV: Übel Blatt〜ユーベルブラット〜
   // https://annict.com/works/12646
   { annict_id: 12646, mal_id: 58216 },
   // [2000-SPRING] TV: ボブとはたらくブーブーズ
