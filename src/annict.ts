@@ -39293,4 +39293,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] TV: 青の祓魔師 終夜篇
   // https://annict.com/works/13610
   { annict_id: 13610 },
+  // [2015-AUTUMN] OVA: まじかるすいーと プリズム・ナナ
+  // https://annict.com/works/13611
+  { annict_id: 13611, mal_id: 15407 },
 ]
