@@ -39284,4 +39284,10 @@ export const annict: ArmEntry[] = [
   // [1924-SUMMER] MOVIE: Alice and the Dog Catcher（原題）
   // https://annict.com/works/13607
   { annict_id: 13607 },
+  // [2022-AUTUMN] WEB: ペンぺとピンピ
+  // https://annict.com/works/13608
+  { annict_id: 13608, mal_id: 53220 },
+  // [2023-AUTUMN] WEB: ペンぺとピンピSeason2
+  // https://annict.com/works/13609
+  { annict_id: 13609, mal_id: 57103 },
 ]
