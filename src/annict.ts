@@ -27476,7 +27476,7 @@ export const annict: ArmEntry[] = [
   // [2022-SUMMER] TV: 最近雇ったメイドが怪しい
   // https://annict.com/works/9659
   { annict_id: 9659, mal_id: 51837, syobocal_tid: 6409 },
-  // [null-null] TV: 炎炎ノ消防隊 参ノ章
+  // [2025-SPRING] TV: 炎炎ノ消防隊 参ノ章
   // https://annict.com/works/9660
   { annict_id: 9660, mal_id: 51818 },
   // [2022-SUMMER] WEB: ROLY POLY PEOPLES
@@ -39307,8 +39307,11 @@ export const annict: ArmEntry[] = [
   { annict_id: 13614 },
   // [2025-null] TV: 黒執事 -緑の魔女編-
   // https://annict.com/works/13615
-  { annict_id: 13615 },
+  { annict_id: 13615, mal_id: 59228 },
   // [null-null] TV: みなみけ TVアニメ新シリーズ
   // https://annict.com/works/13616
   { annict_id: 13616 },
+  // [2026-WINTER] TV: 炎炎ノ消防隊 参ノ章 第2クール
+  // https://annict.com/works/13617
+  { annict_id: 13617, mal_id: 59229 },
 ]
