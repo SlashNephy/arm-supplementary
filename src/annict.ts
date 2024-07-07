@@ -39302,4 +39302,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OVA: まじかるすいーとプリズム・ナナ THE ANIMATION メダルの国のハロウィン 〜ノリコと妖精〜
   // https://annict.com/works/13613
   { annict_id: 13613 },
+  // [null-null] TV: 全知的な読者の視点から
+  // https://annict.com/works/13614
+  { annict_id: 13614 },
 ]
