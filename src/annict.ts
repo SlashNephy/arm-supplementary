@@ -39308,4 +39308,7 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: 黒執事 -緑の魔女編-
   // https://annict.com/works/13615
   { annict_id: 13615 },
+  // [null-null] TV: みなみけ TVアニメ新シリーズ
+  // https://annict.com/works/13616
+  { annict_id: 13616 },
 ]
