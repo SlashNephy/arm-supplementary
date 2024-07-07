@@ -24320,7 +24320,7 @@ export const annict: ArmEntry[] = [
   // [2022-SUMMER] TV: オーバーロードⅣ
   // https://annict.com/works/8476
   { annict_id: 8476, mal_id: 48895, syobocal_tid: 6391 },
-  // [2024-AUTUMN] MOVIE: 劇場版 オーバーロード 聖王国編
+  // [2024-SUMMER] MOVIE: 劇場版 オーバーロード 聖王国編
   // https://annict.com/works/8477
   { annict_id: 8477, mal_id: 48896 },
   // [2022-SPRING] TV: ラブライブ！虹ヶ咲学園スクールアイドル同好会 (第2期)
@@ -39292,7 +39292,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13609, mal_id: 57103 },
   // [2025-WINTER] TV: 青の祓魔師 終夜篇
   // https://annict.com/works/13610
-  { annict_id: 13610 },
+  { annict_id: 13610, mal_id: 59226 },
   // [2015-AUTUMN] OVA: まじかるすいーとプリズム・ナナ THE ANIMATION 夢叶えたい!?希望のアドバンス(前編)
   // https://annict.com/works/13611
   { annict_id: 13611, mal_id: 15407 },
@@ -39304,7 +39304,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13613 },
   // [null-null] TV: 全知的な読者の視点から
   // https://annict.com/works/13614
-  { annict_id: 13614 },
+  { annict_id: 13614, mal_id: 59230 },
   // [2025-null] TV: 黒執事 -緑の魔女編-
   // https://annict.com/works/13615
   { annict_id: 13615, mal_id: 59228 },
