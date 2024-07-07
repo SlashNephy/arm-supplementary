@@ -32114,7 +32114,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] WEB: シャンフロ ミニ
   // https://annict.com/works/11210
   { annict_id: 11210, mal_id: 56791 },
-  // [2024-null] TV: BLEACH 千年血戦篇-相剋譚-
+  // [2024-AUTUMN] TV: BLEACH 千年血戦篇-相剋譚-
   // https://annict.com/works/11211
   { annict_id: 11211, mal_id: 56784 },
   // [2021-AUTUMN] WEB: うさまるマート
@@ -39293,7 +39293,13 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] TV: 青の祓魔師 終夜篇
   // https://annict.com/works/13610
   { annict_id: 13610 },
-  // [2015-AUTUMN] OVA: まじかるすいーと プリズム・ナナ
+  // [2015-AUTUMN] OVA: まじかるすいーとプリズム・ナナ THE ANIMATION 夢叶えたい!?希望のアドバンス(前編)
   // https://annict.com/works/13611
   { annict_id: 13611, mal_id: 15407 },
+  // [2016-SPRING] OVA: まじかるすいーとプリズム・ナナ THE ANIMATION 星空編
+  // https://annict.com/works/13612
+  { annict_id: 13612 },
+  // [null-null] OVA: まじかるすいーとプリズム・ナナ THE ANIMATION メダルの国のハロウィン 〜ノリコと妖精〜
+  // https://annict.com/works/13613
+  { annict_id: 13613 },
 ]
