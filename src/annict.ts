@@ -39305,4 +39305,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 全知的な読者の視点から
   // https://annict.com/works/13614
   { annict_id: 13614 },
+  // [2025-null] TV: 黒執事 -緑の魔女編-
+  // https://annict.com/works/13615
+  { annict_id: 13615 },
 ]
