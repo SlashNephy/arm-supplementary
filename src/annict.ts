@@ -31763,7 +31763,7 @@ export const annict: ArmEntry[] = [
   // [1977-WINTER] MOVIE: 草原の子テングリ
   // https://annict.com/works/11093
   { annict_id: 11093, mal_id: 11561 },
-  // [2024-null] TV: 魔王様、リトライ！R
+  // [2024-AUTUMN] TV: 魔王様、リトライ！R
   // https://annict.com/works/11094
   { annict_id: 11094, mal_id: 56400 },
   // [2023-AUTUMN] WEB: スコット・ピルグリム テイクス・オフ
@@ -39326,4 +39326,10 @@ export const annict: ArmEntry[] = [
   // [1924-AUTUMN] MOVIE: Alice the Piper（原題）
   // https://annict.com/works/13621
   { annict_id: 13621 },
+  // [1925-WINTER] MOVIE: アリスとカニバルズ
+  // https://annict.com/works/13622
+  { annict_id: 13622 },
+  // [1925-WINTER] MOVIE: アリスと闘牛士
+  // https://annict.com/works/13623
+  { annict_id: 13623 },
 ]
