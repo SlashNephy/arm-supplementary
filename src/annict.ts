@@ -39344,4 +39344,7 @@ export const annict: ArmEntry[] = [
   // [1925-SUMMER] MOVIE: Alice Wins the Derby（原題）
   // https://annict.com/works/13627
   { annict_id: 13627 },
+  // [2024-AUTUMN] TV: リリカルセレクション
+  // https://annict.com/works/13628
+  { annict_id: 13628 },
 ]
