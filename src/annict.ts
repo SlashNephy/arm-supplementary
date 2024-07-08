@@ -39338,4 +39338,10 @@ export const annict: ArmEntry[] = [
   // [1925-SPRING] MOVIE: Alice Loses Out（原題）
   // https://annict.com/works/13625
   { annict_id: 13625 },
+  // [1925-SPRING] MOVIE: Alice Gets Stage Struck（原題）
+  // https://annict.com/works/13626
+  { annict_id: 13626 },
+  // [1925-SUMMER] MOVIE: Alice Wins the Derby（原題）
+  // https://annict.com/works/13627
+  { annict_id: 13627 },
 ]
