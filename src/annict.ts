@@ -30460,7 +30460,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10658, mal_id: 38990 },
   // [2024-SUMMER] TV: 新米オッサン冒険者、最強パーティに死ぬほど鍛えられて無敵になる。
   // https://annict.com/works/10659
-  { annict_id: 10659, mal_id: 54913 },
+  { annict_id: 10659, mal_id: 54913, syobocal_tid: 7100 },
   // [2023-SPRING] TV: おじゃる丸（第26シリーズ）
   // https://annict.com/works/10660
   { annict_id: 10660, mal_id: 4459 },
