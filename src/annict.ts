@@ -39332,4 +39332,10 @@ export const annict: ArmEntry[] = [
   // [1925-WINTER] MOVIE: アリスと闘牛士
   // https://annict.com/works/13623
   { annict_id: 13623 },
+  // [1925-WINTER] MOVIE: Alice Solves the Puzzle（原題）
+  // https://annict.com/works/13624
+  { annict_id: 13624 },
+  // [1925-SPRING] MOVIE: Alice Loses Out（原題）
+  // https://annict.com/works/13625
+  { annict_id: 13625 },
 ]
