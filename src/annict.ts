@@ -37051,7 +37051,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12860 },
   // [2024-SUMMER] TV: 湖池屋SDGs劇場 サスとテナ シーズン5
   // https://annict.com/works/12861
-  { annict_id: 12861 },
+  { annict_id: 12861, syobocal_tid: 7154 },
   // [2024-SPRING] WEB: スナックバス江 第13話
   // https://annict.com/works/12862
   { annict_id: 12862 },
@@ -37885,7 +37885,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13139, mal_id: 38075 },
   // [2024-SUMMER] TV: 0歳児スタートダッシュ物語
   // https://annict.com/works/13140
-  { annict_id: 13140, mal_id: 58985 },
+  { annict_id: 13140, mal_id: 58985, syobocal_tid: 7155 },
   // [1937-SPRING] MOVIE: ミッキーのアマチュア合戦
   // https://annict.com/works/13141
   { annict_id: 13141 },
