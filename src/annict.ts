@@ -39314,4 +39314,16 @@ export const annict: ArmEntry[] = [
   // [2026-WINTER] TV: 炎炎ノ消防隊 参ノ章 第2クール
   // https://annict.com/works/13617
   { annict_id: 13617, mal_id: 59229 },
+  // [1924-SUMMER] MOVIE: アリスの平和の使者
+  // https://annict.com/works/13618
+  { annict_id: 13618 },
+  // [1924-AUTUMN] MOVIE: Alice Hunting in Africa（原題）
+  // https://annict.com/works/13619
+  { annict_id: 13619 },
+  // [1924-AUTUMN] MOVIE: Alice and the Three Bears（原題）
+  // https://annict.com/works/13620
+  { annict_id: 13620 },
+  // [1924-AUTUMN] MOVIE: Alice the Piper（原題）
+  // https://annict.com/works/13621
+  { annict_id: 13621 },
 ]
