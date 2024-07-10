@@ -39347,4 +39347,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: リリカルセレクション
   // https://annict.com/works/13628
   { annict_id: 13628 },
+  // [2025-null] TV: マジック・メイカー ～異世界魔法の作り方～
+  // https://annict.com/works/13629
+  { annict_id: 13629, mal_id: 59265 },
 ]
