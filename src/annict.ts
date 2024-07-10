@@ -39350,4 +39350,10 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: マジック・メイカー ～異世界魔法の作り方～
   // https://annict.com/works/13629
   { annict_id: 13629, mal_id: 59265 },
+  // [null-null] TV: SANDA
+  // https://annict.com/works/13630
+  { annict_id: 13630, mal_id: 59267 },
+  // [null-null] TV: 渡り鳥とカタツムリ
+  // https://annict.com/works/13631
+  { annict_id: 13631, mal_id: 59266 },
 ]
