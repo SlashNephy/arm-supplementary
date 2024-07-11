@@ -34667,7 +34667,7 @@ export const annict: ArmEntry[] = [
   // [1991-SUMMER] OVA: 哭きの竜 飛竜之章
   // https://annict.com/works/12063
   { annict_id: 12063, mal_id: 36662 },
-  // [null-null] TV: ぷにるはかわいいスライム
+  // [2024-AUTUMN] TV: ぷにるはかわいいスライム
   // https://annict.com/works/12064
   { annict_id: 12064, mal_id: 57517 },
   // [1989-AUTUMN] OVA: 魔狩人 デーモンハンター
