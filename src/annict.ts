@@ -36955,7 +36955,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12828 },
   // [2024-SUMMER] MOVIE: KING OF PRISM -Dramatic PRISM.1-
   // https://annict.com/works/12829
-  { annict_id: 12829 },
+  { annict_id: 12829, mal_id: 59275 },
   // [null-null] TV: 全修。
   // https://annict.com/works/12830
   { annict_id: 12830, mal_id: 58502 },
@@ -37343,7 +37343,7 @@ export const annict: ArmEntry[] = [
   // [1930-SPRING] MOVIE: 北極の道化者
   // https://annict.com/works/12959
   { annict_id: 12959 },
-  // [null-null] TV: 黒岩メダカに私の可愛いが通じない
+  // [2025-null] TV: 黒岩メダカに私の可愛いが通じない
   // https://annict.com/works/12960
   { annict_id: 12960, mal_id: 58853 },
   // [2024-AUTUMN] TV: きのこいぬ
@@ -39356,4 +39356,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 渡り鳥とカタツムリ
   // https://annict.com/works/13631
   { annict_id: 13631, mal_id: 59266 },
+  // [null-null] TV: 「1分間だけ挿れてもいいよ…」シェアハウスの秘密ルール。
+  // https://annict.com/works/13632
+  { annict_id: 13632 },
 ]
