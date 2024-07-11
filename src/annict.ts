@@ -39359,4 +39359,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 「1分間だけ挿れてもいいよ…」シェアハウスの秘密ルール。
   // https://annict.com/works/13632
   { annict_id: 13632 },
+  // [2025-null] TV: 彼女、お借りします 第4期
+  // https://annict.com/works/13633
+  { annict_id: 13633 },
 ]
