@@ -32486,9 +32486,9 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] WEB: ツイヤバ
   // https://annict.com/works/11334
   { annict_id: 11334, mal_id: 56948 },
-  // [null-null] TV: 齢5000年の草食ドラゴン、いわれなき邪竜認定 2期
+  // [2024-AUTUMN] TV: 齢5000年の草食ドラゴン、いわれなき邪竜認定 season2
   // https://annict.com/works/11335
-  { annict_id: 11335 },
+  { annict_id: 11335, mal_id: 58779 },
   // [2024-AUTUMN] TV: 来世は他人がいい
   // https://annict.com/works/11336
   { annict_id: 11336, mal_id: 56964 },
@@ -39361,5 +39361,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 13632 },
   // [2025-null] TV: 彼女、お借りします 第4期
   // https://annict.com/works/13633
-  { annict_id: 13633 },
+  { annict_id: 13633, mal_id: 59277 },
 ]
