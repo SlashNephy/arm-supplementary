@@ -39371,4 +39371,7 @@ export const annict: ArmEntry[] = [
   // [1925-SUMMER] MOVIE: アリスの中国は大騒ぎ
   // https://annict.com/works/13636
   { annict_id: 13636 },
+  // [2005-AUTUMN] OVA: イレギュラーハンターX The day of Σ
+  // https://annict.com/works/13637
+  { annict_id: 13637 },
 ]
