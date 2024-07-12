@@ -39368,4 +39368,7 @@ export const annict: ArmEntry[] = [
   // [1925-SUMMER] MOVIE: アリスと快速列車
   // https://annict.com/works/13635
   { annict_id: 13635 },
+  // [1925-SUMMER] MOVIE: アリスの中国は大騒ぎ
+  // https://annict.com/works/13636
+  { annict_id: 13636 },
 ]
