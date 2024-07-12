@@ -39362,4 +39362,10 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: 彼女、お借りします 第4期
   // https://annict.com/works/13633
   { annict_id: 13633, mal_id: 59277 },
+  // [1925-SUMMER] MOVIE: Alice Picks the Champ（原題）
+  // https://annict.com/works/13634
+  { annict_id: 13634 },
+  // [1925-SUMMER] MOVIE: アリスと快速列車
+  // https://annict.com/works/13635
+  { annict_id: 13635 },
 ]
