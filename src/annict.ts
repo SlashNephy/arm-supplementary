@@ -39377,4 +39377,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: ぷにるんず ぷに2
   // https://annict.com/works/13638
   { annict_id: 13638 },
+  // [null-null] OTHER: まぁるい彼女と残念な彼氏 続編
+  // https://annict.com/works/13639
+  { annict_id: 13639 },
 ]
