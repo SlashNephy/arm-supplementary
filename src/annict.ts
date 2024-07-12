@@ -39374,4 +39374,7 @@ export const annict: ArmEntry[] = [
   // [2005-AUTUMN] OVA: イレギュラーハンターX The day of Σ
   // https://annict.com/works/13637
   { annict_id: 13637 },
+  // [2024-AUTUMN] TV: ぷにるんず ぷに2
+  // https://annict.com/works/13638
+  { annict_id: 13638 },
 ]
