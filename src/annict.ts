@@ -37198,7 +37198,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12910, mal_id: 58749 },
   // [2024-SPRING] TV: まぁるい彼女と残念な彼氏
   // https://annict.com/works/12911
-  { annict_id: 12911, syobocal_tid: 7085 },
+  { annict_id: 12911, mal_id: 59049, syobocal_tid: 7085 },
   // [null-null] OTHER: 五等分の花嫁＊
   // https://annict.com/works/12912
   { annict_id: 12912, mal_id: 58755 },
@@ -39377,7 +39377,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: ぷにるんず ぷに2
   // https://annict.com/works/13638
   { annict_id: 13638 },
-  // [null-null] OTHER: まぁるい彼女と残念な彼氏 続編
+  // [null-null] TV: まぁるい彼女と残念な彼氏 続編
   // https://annict.com/works/13639
   { annict_id: 13639 },
 ]
