@@ -39380,4 +39380,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: まぁるい彼女と残念な彼氏 続編
   // https://annict.com/works/13639
   { annict_id: 13639 },
+  // [2024-SUMMER] TV: JOCHUM
+  // https://annict.com/works/13640
+  { annict_id: 13640 },
 ]
