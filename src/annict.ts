@@ -39386,4 +39386,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] TV: 闇芝居 (13期)
   // https://annict.com/works/13641
   { annict_id: 13641, mal_id: 59010, syobocal_tid: 7157 },
+  // [2017-SUMMER] MOVIE: 劇場版 響け！ユーフォニアム～フォトセッションへようこそ
+  // https://annict.com/works/13642
+  { annict_id: 13642 },
 ]
