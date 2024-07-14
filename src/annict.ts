@@ -39389,4 +39389,7 @@ export const annict: ArmEntry[] = [
   // [2017-SUMMER] MOVIE: 劇場版 響け！ユーフォニアム～フォトセッションへようこそ
   // https://annict.com/works/13642
   { annict_id: 13642 },
+  // [1972-SPRING] TV: アニメ・ドキュメント ミュンヘンへの道
+  // https://annict.com/works/13643
+  { annict_id: 13643, mal_id: 20237 },
 ]
