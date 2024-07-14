@@ -38,17 +38,17 @@ export const fetchArmEntries = async (): Promise<ArmEntry[]> => {
 
 ## Statistics
 
-Currently, arm-supplementary has 39256 entries (+7180).
+Currently, arm-supplementary has 39304 entries (+7167).
 
 | Service                                     | arm-supplementary | arm / anime-offline-database |
 | :------------------------------------------ | :---------------: | :--------------------------: |
-| [Annict](https://annict.com)                |   13115 (+214)    |            12901             |
-| [AniList](https://anilist.co)               |   22291 (+2152)   |            20139             |
-| [MyAnimeList](https://myanimelist.net)      |   27289 (+486)    |            26803             |
-| [しょぼいカレンダー](https://cal.syoboi.jp) |    5982 (+41)     |             5941             |
-| [AniDB](https://anidb.net)                  |   13332 (+141)    |            13191             |
-| [Anime-Planet](https://anime-planet.com)    |   23665 (+149)    |            23516             |
+| [Annict](https://annict.com)                |   13132 (+197)    |            12935             |
+| [AniList](https://anilist.co)               |   22305 (+2154)   |            20151             |
+| [MyAnimeList](https://myanimelist.net)      |   27327 (+493)    |            26834             |
+| [しょぼいカレンダー](https://cal.syoboi.jp) |    5978 (+35)     |             5943             |
+| [AniDB](https://anidb.net)                  |   13333 (+142)    |            13191             |
+| [Anime-Planet](https://anime-planet.com)    |   23667 (+151)    |            23516             |
 | [aniSearch](https://anisearch.com)          |   18547 (+151)    |            18396             |
-| [Kitsu](https://kitsu.io)                   |   20153 (+159)    |            19994             |
+| [Kitsu](https://kitsu.io)                   |   20154 (+160)    |            19994             |
 | [LiveChart.me](https://livechart.me)        |   11243 (+141)    |            11102             |
 | [Anime Notifier](https://notify.moe)        |   16281 (+154)    |            16127             |
