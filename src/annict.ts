@@ -39382,7 +39382,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13639 },
   // [2024-SUMMER] TV: JOCHUM
   // https://annict.com/works/13640
-  { annict_id: 13640 },
+  { annict_id: 13640, mal_id: 58944 },
   // [2024-SUMMER] TV: 闇芝居 (13期)
   // https://annict.com/works/13641
   { annict_id: 13641, mal_id: 59010, syobocal_tid: 7157 },
