@@ -39392,4 +39392,7 @@ export const annict: ArmEntry[] = [
   // [1972-SPRING] TV: アニメ・ドキュメント ミュンヘンへの道
   // https://annict.com/works/13643
   { annict_id: 13643, mal_id: 20237 },
+  // [1966-null] OTHER: フータくん
+  // https://annict.com/works/13644
+  { annict_id: 13644, mal_id: 51661 },
 ]
