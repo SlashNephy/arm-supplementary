@@ -39395,4 +39395,7 @@ export const annict: ArmEntry[] = [
   // [1966-null] OTHER: フータくん
   // https://annict.com/works/13644
   { annict_id: 13644, mal_id: 51661 },
+  // [2022-AUTUMN] MOVIE: ハンクの肉球大決戦
+  // https://annict.com/works/13645
+  { annict_id: 13645 },
 ]
