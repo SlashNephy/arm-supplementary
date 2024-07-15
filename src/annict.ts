@@ -18686,7 +18686,7 @@ export const annict: ArmEntry[] = [
   // [2019-SUMMER] OVA: ご注文はうさぎですか？？  ～Sing For You～
   // https://annict.com/works/6266
   { annict_id: 6266, mal_id: 38333 },
-  // [2020-AUTUMN] TV: ご注文はうさぎですか？BLOOM
+  // [2020-AUTUMN] TV: ご注文はうさぎですか？ BLOOM
   // https://annict.com/works/6267
   { annict_id: 6267, mal_id: 38337, syobocal_tid: 5739 },
   // [2019-SPRING] TV: ポプテピピック 新作テレビスペシャル
