@@ -37199,7 +37199,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: まぁるい彼女と残念な彼氏
   // https://annict.com/works/12911
   { annict_id: 12911, mal_id: 59049, syobocal_tid: 7085 },
-  // [null-null] OTHER: 五等分の花嫁＊
+  // [2024-SUMMER] MOVIE: 五等分の花嫁＊
   // https://annict.com/works/12912
   { annict_id: 12912, mal_id: 58755 },
   // [2009-AUTUMN] WEB: フミコの告白
