@@ -21830,7 +21830,7 @@ export const annict: ArmEntry[] = [
   // [2021-SUMMER] MOVIE: Fate/kaleid liner プリズマ☆イリヤ Licht 名前の無い少女
   // https://annict.com/works/7519
   { annict_id: 7519, mal_id: 42030 },
-  // [2015-WINTER] TV: 新トムとジェリー ショー
+  // [2014-SUMMER] TV: 新トムとジェリー ショー
   // https://annict.com/works/7520
   { annict_id: 7520, syobocal_tid: 4183 },
   // [2019-SUMMER] TV: トムとジェリー ショー2
