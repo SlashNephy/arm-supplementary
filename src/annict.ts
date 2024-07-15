@@ -39398,4 +39398,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] MOVIE: ハンクの肉球大決戦
   // https://annict.com/works/13645
   { annict_id: 13645 },
+  // [2024-AUTUMN] MOVIE: 映画 ギヴン 海へ
+  // https://annict.com/works/13646
+  { annict_id: 13646, mal_id: 58222 },
 ]
