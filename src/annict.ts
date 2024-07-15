@@ -17150,7 +17150,7 @@ export const annict: ArmEntry[] = [
   // [2019-WINTER] MOVIE: 劇場版 ダンジョンに出会いを求めるのは間違っているだろうか  ─ オリオンの矢 ─
   // https://annict.com/works/5751
   { annict_id: 5751, mal_id: 37348 },
-  // [2019-SUMMER] TV: ダンジョンに出会いを求めるのは間違っているだろうか II
+  // [2019-SUMMER] TV: ダンジョンに出会いを求めるのは間違っているだろうかⅡ
   // https://annict.com/works/5752
   { annict_id: 5752, mal_id: 37347, syobocal_tid: 5343 },
   // [2018-SPRING] TV: 立花館To Lieあんぐる
@@ -17510,7 +17510,7 @@ export const annict: ArmEntry[] = [
   // [2016-SPRING] OVA: 亜人 OAD
   // https://annict.com/works/5872
   { annict_id: 5872, mal_id: 32015 },
-  // [2018-SUMMER] TV: オーバーロードIII
+  // [2018-SUMMER] TV: オーバーロードⅢ
   // https://annict.com/works/5873
   { annict_id: 5873, mal_id: 37675, syobocal_tid: 4998 },
   // [2011-WINTER] OVA: みつどもえ 特別編「OPPAI IPPAI ママ元気」
@@ -20552,10 +20552,10 @@ export const annict: ArmEntry[] = [
   // [2020-AUTUMN] MOVIE: 劇場版 鬼滅の刃 無限列車編
   // https://annict.com/works/6962
   { annict_id: 6962, mal_id: 40456, syobocal_tid: 6111 },
-  // [2020-WINTER] OVA: ダンジョンに出会いを求めるのは間違っているだろうか II OVA
+  // [2020-WINTER] OVA: ダンジョンに出会いを求めるのは間違っているだろうかⅡ OVA
   // https://annict.com/works/6963
   { annict_id: 6963, mal_id: 40453 },
-  // [2020-AUTUMN] TV: ダンジョンに出会いを求めるのは間違っているだろうか III
+  // [2020-AUTUMN] TV: ダンジョンに出会いを求めるのは間違っているだろうかⅢ
   // https://annict.com/works/6964
   { annict_id: 6964, mal_id: 40454, syobocal_tid: 5751 },
   // [2019-AUTUMN] WEB: OBSOLETE
@@ -22628,7 +22628,7 @@ export const annict: ArmEntry[] = [
   // [2021-SPRING] WEB: 異界探偵トレセ
   // https://annict.com/works/7850
   { annict_id: 7850 },
-  // [2022-SUMMER] MOVIE: 劇場版 ツルネ ―はじまりの一射―
+  // [2022-SUMMER] MOVIE: 劇場版ツルネ －はじまりの一射－
   // https://annict.com/works/7851
   { annict_id: 7851, mal_id: 43556 },
   // [2021-SUMMER] TV: 月が導く異世界道中
@@ -22700,7 +22700,7 @@ export const annict: ArmEntry[] = [
   // [2021-SUMMER] TV: 100万の命の上に俺は立っている 第2シーズン
   // https://annict.com/works/7874
   { annict_id: 7874, mal_id: 44881, syobocal_tid: 6044 },
-  // [2021-SPRING] OVA: ダンジョンに出会いを求めるのは間違っているだろうか III OVA「オラリオに温泉を求めるのは間違っているだろうか 〜おふろの神様フォーエバー〜」
+  // [2021-SPRING] OVA: ダンジョンに出会いを求めるのは間違っているだろうかⅢ OVA「オラリオに温泉を求めるのは間違っているだろうか 〜おふろの神様フォーエバー〜」
   // https://annict.com/works/7875
   { annict_id: 7875, mal_id: 44983 },
   // [2021-SUMMER] OVA: トニカクカワイイ OVA ～SNS～
@@ -22793,7 +22793,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 友達の妹が俺にだけウザい
   // https://annict.com/works/7905
   { annict_id: 7905, mal_id: 47158 },
-  // [2022-SUMMER] TV: ダンジョンに出会いを求めるのは間違っているだろうか IV 新章 迷宮篇
+  // [2022-SUMMER] TV: ダンジョンに出会いを求めるのは間違っているだろうかⅣ 新章 迷宮篇
   // https://annict.com/works/7906
   { annict_id: 7906, mal_id: 47164, syobocal_tid: 6397 },
   // [2022-SPRING] TV: 処刑少女の生きる道
@@ -27995,7 +27995,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: 異世界でチート能力を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～
   // https://annict.com/works/9833
   { annict_id: 9833, mal_id: 52830, syobocal_tid: 6662 },
-  // [2023-WINTER] TV: ツルネ ―つながりの一射―
+  // [2023-WINTER] TV: ツルネ －つながりの一射－
   // https://annict.com/works/9834
   { annict_id: 9834, mal_id: 52826, syobocal_tid: 6549 },
   // [1963-AUTUMN] TV: 鉄人28号(1963年)
@@ -28811,7 +28811,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] TV: 湖池屋SDGs劇場 サスとテナ シーズン3
   // https://annict.com/works/10106
   { annict_id: 10106 },
-  // [2023-WINTER] TV: ダンジョンに出会いを求めるのは間違っているだろうか IV 深章 厄災篇
+  // [2023-WINTER] TV: ダンジョンに出会いを求めるのは間違っているだろうかⅣ 深章 厄災篇
   // https://annict.com/works/10107
   { annict_id: 10107, mal_id: 53111, syobocal_tid: 6535 },
   // [2023-WINTER] TV: REVENGER
@@ -31409,7 +31409,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: 絆のアリル セカンドシーズン
   // https://annict.com/works/10975
   { annict_id: 10975, mal_id: 55775, syobocal_tid: 6814 },
-  // [2024-SUMMER] TV: 【推しの子】 第2期
+  // [2024-SUMMER] TV: 【推しの子】第2期
   // https://annict.com/works/10976
   { annict_id: 10976, mal_id: 55791, syobocal_tid: 7092 },
   // [2023-SUMMER] TV: ななし怪談 (2023)
