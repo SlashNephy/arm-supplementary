@@ -39443,4 +39443,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] WEB: 真夜中ぱんチ ショートドラマ
   // https://annict.com/works/13660
   { annict_id: 13660 },
+  // [2022-WINTER] WEB: ビッパ、キミにきめた！
+  // https://annict.com/works/13661
+  { annict_id: 13661 },
 ]
