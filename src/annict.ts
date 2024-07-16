@@ -39449,4 +39449,7 @@ export const annict: ArmEntry[] = [
   // [2012-SPRING] WEB: 『ポケットモンスターブラック２・ホワイト２』紹介スペシャルムービー
   // https://annict.com/works/13662
   { annict_id: 13662, mal_id: 14123 },
+  // [2014-AUTUMN] WEB: 『ポケットモンスター オメガルビー・アルファサファイア』 メガスペシャルアニメーション
+  // https://annict.com/works/13663
+  { annict_id: 13663, mal_id: 28431 },
 ]
