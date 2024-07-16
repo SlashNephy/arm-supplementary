@@ -39458,4 +39458,10 @@ export const annict: ArmEntry[] = [
   // [2019-SPRING] WEB: 『ポケモンマスターズ』トレーナー大集結スペシャルアニメーション
   // https://annict.com/works/13665
   { annict_id: 13665, mal_id: 40143 },
+  // [2020-SUMMER] WEB: GOTCHA！
+  // https://annict.com/works/13666
+  { annict_id: 13666, mal_id: 42984 },
+  // [2022-WINTER] WEB: It'll be fine!
+  // https://annict.com/works/13667
+  { annict_id: 13667, mal_id: 50815 },
 ]
