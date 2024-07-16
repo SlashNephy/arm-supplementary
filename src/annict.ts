@@ -39413,4 +39413,31 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] WEB: 真夜中ぱんチ ショートアニメ
   // https://annict.com/works/13650
   { annict_id: 13650 },
+  // [1925-SUMMER] MOVIE: Alice the Jail Bird（原題）
+  // https://annict.com/works/13651
+  { annict_id: 13651 },
+  // [1925-AUTUMN] MOVIE: Alice Plays Cupid（原題）
+  // https://annict.com/works/13652
+  { annict_id: 13652 },
+  // [1925-AUTUMN] MOVIE: アリスの家を守ろう
+  // https://annict.com/works/13653
+  { annict_id: 13653 },
+  // [1926-WINTER] MOVIE: アリスの農場は大騒ぎ
+  // https://annict.com/works/13654
+  { annict_id: 13654 },
+  // [1926-WINTER] MOVIE: アリスと捨て猫
+  // https://annict.com/works/13655
+  { annict_id: 13655 },
+  // [1926-WINTER] MOVIE: Alice's Little Parade（原題）
+  // https://annict.com/works/13656
+  { annict_id: 13656 },
+  // [1926-SUMMER] MOVIE: Alice Charms the Fish（原題）
+  // https://annict.com/works/13657
+  { annict_id: 13657 },
+  // [1926-SUMMER] MOVIE: Alice's Monkey Business（原題）
+  // https://annict.com/works/13658
+  { annict_id: 13658 },
+  // [1926-AUTUMN] MOVIE: Alice the Fire Fighter（原題）
+  // https://annict.com/works/13659
+  { annict_id: 13659 },
 ]
