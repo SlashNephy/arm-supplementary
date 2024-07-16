@@ -39410,7 +39410,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] WEB: Turning the Tera Tide
   // https://annict.com/works/13649
   { annict_id: 13649 },
-  // [2024-SUMMER] WEB: 真夜中ぱんチ ショートアニメ
+  // [2024-SUMMER] WEB: 真夜中ぱんチ YouTubeオリジナルショートアニメ
   // https://annict.com/works/13650
   { annict_id: 13650 },
   // [1925-SUMMER] MOVIE: Alice the Jail Bird（原題）
@@ -39440,4 +39440,7 @@ export const annict: ArmEntry[] = [
   // [1926-AUTUMN] MOVIE: Alice the Fire Fighter（原題）
   // https://annict.com/works/13659
   { annict_id: 13659 },
+  // [2024-SUMMER] WEB: 真夜中ぱんチ ショートドラマ
+  // https://annict.com/works/13660
+  { annict_id: 13660 },
 ]
