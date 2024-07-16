@@ -39455,4 +39455,7 @@ export const annict: ArmEntry[] = [
   // [2012-AUTUMN] WEB: 『ポケモン不思議のダンジョン ～マグナゲートと∞迷宮（むげんだいめいきゅう）～』 スペシャルショートムービー
   // https://annict.com/works/13664
   { annict_id: 13664, mal_id: 31911 },
+  // [2019-SPRING] WEB: 『ポケモンマスターズ』トレーナー大集結スペシャルアニメーション
+  // https://annict.com/works/13665
+  { annict_id: 13665, mal_id: 40143 },
 ]
