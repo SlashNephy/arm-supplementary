@@ -39452,4 +39452,7 @@ export const annict: ArmEntry[] = [
   // [2014-AUTUMN] WEB: 『ポケットモンスター オメガルビー・アルファサファイア』 メガスペシャルアニメーション
   // https://annict.com/works/13663
   { annict_id: 13663, mal_id: 28431 },
+  // [2012-AUTUMN] WEB: 『ポケモン不思議のダンジョン ～マグナゲートと∞迷宮（むげんだいめいきゅう）～』 スペシャルショートムービー
+  // https://annict.com/works/13664
+  { annict_id: 13664, mal_id: 31911 },
 ]
