@@ -39446,4 +39446,7 @@ export const annict: ArmEntry[] = [
   // [2022-WINTER] WEB: ビッパ、キミにきめた！
   // https://annict.com/works/13661
   { annict_id: 13661 },
+  // [2012-SPRING] WEB: 『ポケットモンスターブラック２・ホワイト２』紹介スペシャルムービー
+  // https://annict.com/works/13662
+  { annict_id: 13662, mal_id: 14123 },
 ]
