@@ -39401,4 +39401,16 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] MOVIE: 映画 ギヴン 海へ
   // https://annict.com/works/13646
   { annict_id: 13646, mal_id: 58222 },
+  // [2023-SPRING] WEB: マルジャナイ島のシカクなポケモン!?
+  // https://annict.com/works/13647
+  { annict_id: 13647 },
+  // [2023-SUMMER] WEB: ポケモンWCS2023記念アニメ「PATH TO THE PEAK 頂へのきずな」
+  // https://annict.com/works/13648
+  { annict_id: 13648 },
+  // [2024-SUMMER] WEB: Turning the Tera Tide
+  // https://annict.com/works/13649
+  { annict_id: 13649 },
+  // [2024-SUMMER] WEB: 真夜中ぱんチ ショートアニメ
+  // https://annict.com/works/13650
+  { annict_id: 13650 },
 ]
