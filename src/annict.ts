@@ -38861,7 +38861,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] WEB: ライジングインパクト シーズン2
   // https://annict.com/works/13466
   { annict_id: 13466, mal_id: 57487 },
-  // [null-null] TV: らんま1/2 完全新作的アニメ
+  // [2024-AUTUMN] TV: らんま1/2 (2024)
   // https://annict.com/works/13467
   { annict_id: 13467, mal_id: 59145 },
   // [2025-null] TV: 不遇職【鑑定士】が実は最強だった
