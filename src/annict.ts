@@ -39464,4 +39464,7 @@ export const annict: ArmEntry[] = [
   // [2022-WINTER] WEB: It'll be fine!
   // https://annict.com/works/13667
   { annict_id: 13667, mal_id: 50815 },
+  // [2023-SUMMER] WEB: 止まらないワタシ、ススメ！
+  // https://annict.com/works/13668
+  { annict_id: 13668 },
 ]
