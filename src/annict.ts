@@ -7865,9 +7865,9 @@ export const annict: ArmEntry[] = [
   // [1994-AUTUMN] OVA: KEY THE METAL IDOL
   // https://annict.com/works/2627
   { annict_id: 2627, mal_id: 1457, syobocal_tid: 419 },
-  // [2008-AUTUMN] OVA: kiss×sis（OVA）
+  // [2008-AUTUMN] OVA: kiss×sis（OAD）
   // https://annict.com/works/2628
-  { annict_id: 2628, mal_id: 5042 },
+  { annict_id: 2628, mal_id: 5042, syobocal_tid: 5669 },
   // [1996-SUMMER] OVA: KI・ME・RA
   // https://annict.com/works/2629
   { annict_id: 2629, mal_id: 2592 },
