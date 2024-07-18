@@ -39470,4 +39470,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 白豚貴族ですが前世の記憶が生えたのでひよこな弟育てます
   // https://annict.com/works/13669
   { annict_id: 13669, mal_id: 59322 },
+  // [2023-WINTER] WEB: パディントンのぼうけん セカンドシーズン
+  // https://annict.com/works/13670
+  { annict_id: 13670 },
 ]
