@@ -39467,4 +39467,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] WEB: 止まらないワタシ、ススメ！
   // https://annict.com/works/13668
   { annict_id: 13668 },
+  // [null-null] TV: 白豚貴族ですが前世の記憶が生えたのでひよこな弟育てます
+  // https://annict.com/works/13669
+  { annict_id: 13669, mal_id: 59322 },
 ]
