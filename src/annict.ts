@@ -39491,4 +39491,10 @@ export const annict: ArmEntry[] = [
   // [1989-WINTER] TV: まんがはじめて面白塾
   // https://annict.com/works/13676
   { annict_id: 13676, mal_id: 10138 },
+  // [2021-SUMMER] MOVIE: 地下城の魔物
+  // https://annict.com/works/13677
+  { annict_id: 13677, mal_id: 53794 },
+  // [1981-AUTUMN] MOVIE: シュンマオ物語 タオタオ
+  // https://annict.com/works/13678
+  { annict_id: 13678, mal_id: 24603 },
 ]
