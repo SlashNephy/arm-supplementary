@@ -31448,7 +31448,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: リビルドワールド
   // https://annict.com/works/10988
   { annict_id: 10988, mal_id: 55843 },
-  // [null-null] TV: 沖縄で好きになった子が方言すぎてツラすぎる
+  // [2025-WINTER] TV: 沖縄で好きになった子が方言すぎてツラすぎる
   // https://annict.com/works/10989
   { annict_id: 10989, mal_id: 55842 },
   // [2024-SUMMER] TV: 黄昏アウトフォーカス
