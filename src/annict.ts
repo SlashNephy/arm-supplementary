@@ -39479,4 +39479,16 @@ export const annict: ArmEntry[] = [
   // [2001-WINTER] TV: 21世紀まんがはじめて物語
   // https://annict.com/works/13672
   { annict_id: 13672, mal_id: 10139 },
+  // [1984-SPRING] TV: まんがどうして物語
+  // https://annict.com/works/13673
+  { annict_id: 13673, mal_id: 10136 },
+  // [1986-SPRING] TV: まんがなるほど物語
+  // https://annict.com/works/13674
+  { annict_id: 13674, mal_id: 10137 },
+  // [1988-SPRING] TV: 新まんがなるほど物語
+  // https://annict.com/works/13675
+  { annict_id: 13675, mal_id: 37714 },
+  // [1989-WINTER] TV: まんがはじめて面白塾
+  // https://annict.com/works/13676
+  { annict_id: 13676, mal_id: 10138 },
 ]
