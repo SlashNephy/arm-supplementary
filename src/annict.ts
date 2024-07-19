@@ -39473,4 +39473,10 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] WEB: パディントンのぼうけん セカンドシーズン
   // https://annict.com/works/13670
   { annict_id: 13670 },
+  // [1978-SPRING] TV: まんがはじめて物語
+  // https://annict.com/works/13671
+  { annict_id: 13671, mal_id: 10135 },
+  // [2001-WINTER] TV: 21世紀まんがはじめて物語
+  // https://annict.com/works/13672
+  { annict_id: 13672, mal_id: 10139 },
 ]
