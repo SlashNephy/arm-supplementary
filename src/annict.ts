@@ -39497,4 +39497,7 @@ export const annict: ArmEntry[] = [
   // [1981-AUTUMN] MOVIE: シュンマオ物語 タオタオ
   // https://annict.com/works/13678
   { annict_id: 13678, mal_id: 24603 },
+  // [1926-AUTUMN] MOVIE: Alice Cuts the Ice（原題）
+  // https://annict.com/works/13679
+  { annict_id: 13679 },
 ]
