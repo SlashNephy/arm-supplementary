@@ -39509,4 +39509,7 @@ export const annict: ArmEntry[] = [
   // [1926-AUTUMN] MOVIE: Alice's Brown Derby（原題）
   // https://annict.com/works/13682
   { annict_id: 13682 },
+  // [1926-AUTUMN] MOVIE: Alice the LumberJack（原題）
+  // https://annict.com/works/13683
+  { annict_id: 13683 },
 ]
