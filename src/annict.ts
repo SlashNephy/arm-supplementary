@@ -39512,4 +39512,7 @@ export const annict: ArmEntry[] = [
   // [1926-AUTUMN] MOVIE: Alice the LumberJack（原題）
   // https://annict.com/works/13683
   { annict_id: 13683 },
+  // [1927-WINTER] MOVIE: Alice the Golf Bug（原題）
+  // https://annict.com/works/13684
+  { annict_id: 13684 },
 ]
