@@ -39500,4 +39500,13 @@ export const annict: ArmEntry[] = [
   // [1926-AUTUMN] MOVIE: Alice Cuts the Ice（原題）
   // https://annict.com/works/13679
   { annict_id: 13679 },
+  // [1926-AUTUMN] MOVIE: Alice Helps the Romance（原題）
+  // https://annict.com/works/13680
+  { annict_id: 13680 },
+  // [1926-AUTUMN] MOVIE: Alice's Spanish Guitar（原題）
+  // https://annict.com/works/13681
+  { annict_id: 13681 },
+  // [1926-AUTUMN] MOVIE: Alice's Brown Derby（原題）
+  // https://annict.com/works/13682
+  { annict_id: 13682 },
 ]
