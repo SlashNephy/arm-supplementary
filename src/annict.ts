@@ -39518,4 +39518,7 @@ export const annict: ArmEntry[] = [
   // [1927-WINTER] MOVIE: Alice Foils the Pirates（原題）
   // https://annict.com/works/13685
   { annict_id: 13685 },
+  // [1927-WINTER] MOVIE: Alice at the Carnival（原題）
+  // https://annict.com/works/13686
+  { annict_id: 13686 },
 ]
