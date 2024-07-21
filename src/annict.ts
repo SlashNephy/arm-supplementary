@@ -39524,4 +39524,7 @@ export const annict: ArmEntry[] = [
   // [1927-WINTER] MOVIE: Alice at the Rodeo（原題）
   // https://annict.com/works/13687
   { annict_id: 13687 },
+  // [2025-null] TV: 地獄先生ぬ～べ～ (2025)
+  // https://annict.com/works/13688
+  { annict_id: 13688 },
 ]
