@@ -32926,7 +32926,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11480, mal_id: 5810 },
   // [2009-WINTER] TV: 京浜家族
   // https://annict.com/works/11481
-  { annict_id: 11481 },
+  { annict_id: 11481, mal_id: 59325 },
   // [2009-WINTER] TV: KAWASAKI Frontale×天体戦士サンレッド
   // https://annict.com/works/11482
   { annict_id: 11482, mal_id: 8316 },
@@ -39526,7 +39526,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13687 },
   // [2025-null] TV: 地獄先生ぬ～べ～ (2025)
   // https://annict.com/works/13688
-  { annict_id: 13688 },
+  { annict_id: 13688, mal_id: 59342 },
   // [1927-WINTER] MOVIE: Alice the Collegiate（原題）
   // https://annict.com/works/13689
   { annict_id: 13689 },
@@ -39536,4 +39536,7 @@ export const annict: ArmEntry[] = [
   // [1927-SPRING] MOVIE: Alice's Auto Race（原題）
   // https://annict.com/works/13691
   { annict_id: 13691 },
+  // [2025-null] TV: サラリーマンが異世界に行ったら四天王になった話
+  // https://annict.com/works/13692
+  { annict_id: 13692 },
 ]
