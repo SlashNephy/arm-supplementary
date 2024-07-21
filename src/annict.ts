@@ -39527,4 +39527,13 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: 地獄先生ぬ～べ～ (2025)
   // https://annict.com/works/13688
   { annict_id: 13688 },
+  // [1927-WINTER] MOVIE: Alice the Collegiate（原題）
+  // https://annict.com/works/13689
+  { annict_id: 13689 },
+  // [1927-WINTER] MOVIE: Alice in the Alps（原題）
+  // https://annict.com/works/13690
+  { annict_id: 13690 },
+  // [1927-SPRING] MOVIE: Alice's Auto Race（原題）
+  // https://annict.com/works/13691
+  { annict_id: 13691 },
 ]
