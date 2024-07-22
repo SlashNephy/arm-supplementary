@@ -39587,4 +39587,7 @@ export const annict: ArmEntry[] = [
   // [1927-SUMMER] MOVIE: Alice in the Big League（原題）
   // https://annict.com/works/13708
   { annict_id: 13708 },
+  // [2025-null] TV: ロックは淑女の嗜みでして
+  // https://annict.com/works/13709
+  { annict_id: 13709 },
 ]
