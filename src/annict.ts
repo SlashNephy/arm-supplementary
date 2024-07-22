@@ -39554,4 +39554,10 @@ export const annict: ArmEntry[] = [
   // [2016-null] MOVIE: G9+1のナントカ天国
   // https://annict.com/works/13697
   { annict_id: 13697, mal_id: 40674 },
+  // [2011-null] MOVIE: tokyo SOS
+  // https://annict.com/works/13698
+  { annict_id: 13698, mal_id: 30408 },
+  // [1977-null] MOVIE: コーヒー・ブレイク
+  // https://annict.com/works/13699
+  { annict_id: 13699, mal_id: 29629 },
 ]
