@@ -39584,4 +39584,7 @@ export const annict: ArmEntry[] = [
   // [1927-SUMMER] MOVIE: Alice the Beach Nut（原題）
   // https://annict.com/works/13707
   { annict_id: 13707 },
+  // [1927-SUMMER] MOVIE: Alice in the Big League（原題）
+  // https://annict.com/works/13708
+  { annict_id: 13708 },
 ]
