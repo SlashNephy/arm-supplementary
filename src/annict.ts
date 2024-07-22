@@ -39560,4 +39560,28 @@ export const annict: ArmEntry[] = [
   // [1977-null] MOVIE: コーヒー・ブレイク
   // https://annict.com/works/13699
   { annict_id: 13699, mal_id: 29629 },
+  // [1927-SPRING] MOVIE: Alice's Circus Daze（原題）
+  // https://annict.com/works/13700
+  { annict_id: 13700 },
+  // [1927-SPRING] MOVIE: Alice's Knaughty Knight（原題）
+  // https://annict.com/works/13701
+  { annict_id: 13701 },
+  // [1927-SPRING] MOVIE: Alice's Three Bad Eggs（原題）
+  // https://annict.com/works/13702
+  { annict_id: 13702 },
+  // [1927-SPRING] MOVIE: Alice's Picnic（原題）
+  // https://annict.com/works/13703
+  { annict_id: 13703 },
+  // [1927-SPRING] MOVIE: Alice's Channel Swim（原題）
+  // https://annict.com/works/13704
+  { annict_id: 13704 },
+  // [1927-SPRING] MOVIE: Alice in the Klondike（原題）
+  // https://annict.com/works/13705
+  { annict_id: 13705 },
+  // [1927-SUMMER] MOVIE: Alice's Medicine Show（原題）
+  // https://annict.com/works/13706
+  { annict_id: 13706 },
+  // [1927-SUMMER] MOVIE: Alice the Beach Nut（原題）
+  // https://annict.com/works/13707
+  { annict_id: 13707 },
 ]
