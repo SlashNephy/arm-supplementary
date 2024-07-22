@@ -39590,4 +39590,7 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: ロックは淑女の嗜みでして
   // https://annict.com/works/13709
   { annict_id: 13709 },
+  // [null-null] TV: この会社に好きな人がいます
+  // https://annict.com/works/13710
+  { annict_id: 13710 },
 ]
