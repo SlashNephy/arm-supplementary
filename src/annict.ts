@@ -39539,4 +39539,13 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: サラリーマンが異世界に行ったら四天王になった話
   // https://annict.com/works/13692
   { annict_id: 13692 },
+  // [1973-null] OTHER: まるまるボンちゃん パイロットフィルム
+  // https://annict.com/works/13693
+  { annict_id: 13693 },
+  // [1976-SUMMER] MOVIE: ひょうたん
+  // https://annict.com/works/13694
+  { annict_id: 13694, mal_id: 29671 },
+  // [1967-null] MOVIE: 幻影都市
+  // https://annict.com/works/13695
+  { annict_id: 13695, mal_id: 29665 },
 ]
