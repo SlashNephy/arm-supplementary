@@ -39548,4 +39548,10 @@ export const annict: ArmEntry[] = [
   // [1967-null] MOVIE: 幻影都市
   // https://annict.com/works/13695
   { annict_id: 13695, mal_id: 29665 },
+  // [1971-null] MOVIE: 点
+  // https://annict.com/works/13696
+  { annict_id: 13696, mal_id: 29669 },
+  // [2016-null] MOVIE: G9+1のナントカ天国
+  // https://annict.com/works/13697
+  { annict_id: 13697, mal_id: 40674 },
 ]
