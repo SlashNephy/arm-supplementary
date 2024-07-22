@@ -39538,7 +39538,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13691 },
   // [2025-null] TV: サラリーマンが異世界に行ったら四天王になった話
   // https://annict.com/works/13692
-  { annict_id: 13692 },
+  { annict_id: 13692, mal_id: 59349 },
   // [1973-null] OTHER: まるまるボンちゃん パイロットフィルム
   // https://annict.com/works/13693
   { annict_id: 13693 },
