@@ -39593,4 +39593,22 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: この会社に好きな人がいます
   // https://annict.com/works/13710
   { annict_id: 13710 },
+  // [1930-SUMMER] MOVIE: 脱線水兵エロ行脚
+  // https://annict.com/works/13711
+  { annict_id: 13711 },
+  // [1930-SUMMER] MOVIE: お化オン・パレード
+  // https://annict.com/works/13712
+  { annict_id: 13712 },
+  // [1930-AUTUMN] MOVIE: 珍芸大会
+  // https://annict.com/works/13713
+  { annict_id: 13713 },
+  // [1930-AUTUMN] MOVIE: 摩天楼建築
+  // https://annict.com/works/13714
+  { annict_id: 13714 },
+  // [1930-AUTUMN] MOVIE: ビン坊の火星探検
+  // https://annict.com/works/13715
+  { annict_id: 13715 },
+  // [1930-AUTUMN] MOVIE: ベティの恐怖の夜
+  // https://annict.com/works/13716
+  { annict_id: 13716 },
 ]
