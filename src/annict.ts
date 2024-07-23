@@ -39412,7 +39412,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13649 },
   // [2024-SUMMER] WEB: 真夜中ぱんチ YouTubeオリジナルショートアニメ
   // https://annict.com/works/13650
-  { annict_id: 13650 },
+  { annict_id: 13650, mal_id: 59363 },
   // [1925-SUMMER] MOVIE: Alice the Jail Bird（原題）
   // https://annict.com/works/13651
   { annict_id: 13651 },
@@ -39611,4 +39611,7 @@ export const annict: ArmEntry[] = [
   // [1930-AUTUMN] MOVIE: ベティの恐怖の夜
   // https://annict.com/works/13716
   { annict_id: 13716 },
+  // [2024-SUMMER] WEB: 「菜なれ花なれ」×「真夜中ぱんチ」　コラボ動画
+  // https://annict.com/works/13717
+  { annict_id: 13717 },
 ]
