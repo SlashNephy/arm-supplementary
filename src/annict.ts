@@ -38309,13 +38309,13 @@ export const annict: ArmEntry[] = [
   // [1930-WINTER] MOVIE: 動物園のラジオ
   // https://annict.com/works/13282
   { annict_id: 13282 },
-  // [1930-WINTER] MOVIE: ホット・ドッグ
+  // [1930-WINTER] MOVIE: ハッドッグ
   // https://annict.com/works/13283
   { annict_id: 13283 },
   // [1930-SPRING] MOVIE: ピアノ火事
   // https://annict.com/works/13284
   { annict_id: 13284 },
-  // [1930-SUMMER] MOVIE: Wise Flies（原題）
+  // [1930-SUMMER] MOVIE: エロぐも
   // https://annict.com/works/13285
   { annict_id: 13285 },
   // [null-null] TV: 東京リベンジャーズ 続編
