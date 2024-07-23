@@ -39589,10 +39589,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 13708 },
   // [2025-null] TV: ロックは淑女の嗜みでして
   // https://annict.com/works/13709
-  { annict_id: 13709 },
+  { annict_id: 13709, mal_id: 59360 },
   // [null-null] TV: この会社に好きな人がいます
   // https://annict.com/works/13710
-  { annict_id: 13710 },
+  { annict_id: 13710, mal_id: 59361 },
   // [1930-SUMMER] MOVIE: 脱線水兵エロ行脚
   // https://annict.com/works/13711
   { annict_id: 13711 },
