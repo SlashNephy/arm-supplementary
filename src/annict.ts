@@ -39620,7 +39620,7 @@ export const annict: ArmEntry[] = [
   // [2020-AUTUMN] WEB: サンリオキャラクターズ スーパーキュートアドベンチャーズ
   // https://annict.com/works/13719
   { annict_id: 13719 },
-  // [null-null] OTHER: 「リコリス・リコイル」オリジナルショートムービー
+  // [null-null] OTHER: リコリス・リコイル オリジナルショートムービー
   // https://annict.com/works/13720
   { annict_id: 13720, mal_id: 59369 },
 ]
