@@ -39611,10 +39611,16 @@ export const annict: ArmEntry[] = [
   // [1930-AUTUMN] MOVIE: ベティの恐怖の夜
   // https://annict.com/works/13716
   { annict_id: 13716 },
-  // [2024-SUMMER] WEB: 「菜なれ花なれ」×「真夜中ぱんチ」　コラボ動画
+  // [2024-SUMMER] WEB: 「菜なれ花なれ」×「真夜中ぱんチ」 コラボ動画
   // https://annict.com/works/13717
   { annict_id: 13717 },
   // [2025-null] MOVIE: LOCA!
   // https://annict.com/works/13718
   { annict_id: 13718 },
+  // [2020-AUTUMN] WEB: サンリオキャラクターズ スーパーキュートアドベンチャーズ
+  // https://annict.com/works/13719
+  { annict_id: 13719 },
+  // [null-null] OTHER: 「リコリス・リコイル」オリジナルショートムービー
+  // https://annict.com/works/13720
+  { annict_id: 13720, mal_id: 59369 },
 ]
