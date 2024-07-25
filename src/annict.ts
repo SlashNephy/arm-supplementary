@@ -33095,9 +33095,6 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 孕むまで乱れいけ～身代わり花嫁と軍服の猛愛
   // https://annict.com/works/11538
   { annict_id: 11538 },
-  // [null-null] WEB: Terminator: The Anime Series
-  // https://annict.com/works/11539
-  { annict_id: 11539 },
   // [1981-SUMMER] MOVIE: Dr.スランプ アラレちゃん ハロー!不思議島
   // https://annict.com/works/11540
   { annict_id: 11540, mal_id: 7666 },
