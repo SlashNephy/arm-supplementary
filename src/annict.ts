@@ -39623,4 +39623,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: リコリス・リコイル オリジナルショートムービー
   // https://annict.com/works/13720
   { annict_id: 13720, mal_id: 59369 },
+  // [2024-SUMMER] TV: おはよう！うんこ先生
+  // https://annict.com/works/13721
+  { annict_id: 13721 },
 ]
