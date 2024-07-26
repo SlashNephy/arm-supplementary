@@ -31454,7 +31454,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] TV: 黄昏アウトフォーカス
   // https://annict.com/works/10990
   { annict_id: 10990, mal_id: 55844, syobocal_tid: 7114 },
-  // [null-null] WEB: 機動戦士ガンダム 復讐のレクイエム
+  // [2024-AUTUMN] WEB: 機動戦士ガンダム 復讐のレクイエム
   // https://annict.com/works/10991
   { annict_id: 10991, mal_id: 55845 },
   // [2024-SUMMER] TV: 異世界スーサイド・スクワッド
