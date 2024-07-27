@@ -39626,7 +39626,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: ニワトリ・ファイター
   // https://annict.com/works/13722
   { annict_id: 13722, mal_id: 59393 },
-  // [null-null] TV: カッコウの許嫁 第2期
+  // [2025-null] TV: カッコウの許嫁 第2期
   // https://annict.com/works/13723
   { annict_id: 13723, mal_id: 59402 },
   // [1986-SUMMER] OVA: ワンス・アポン・ア・マウス
