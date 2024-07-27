@@ -39629,7 +39629,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: カッコウの許嫁 第2期
   // https://annict.com/works/13723
   { annict_id: 13723, mal_id: 59402 },
-  // [1986-SUMMER] MOVIE: ワンス・アポン・ア・マウス
+  // [1986-SUMMER] OVA: ワンス・アポン・ア・マウス
   // https://annict.com/works/13724
   { annict_id: 13724 },
 ]
