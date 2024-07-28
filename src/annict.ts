@@ -39632,4 +39632,10 @@ export const annict: ArmEntry[] = [
   // [1986-SUMMER] OVA: ワンス・アポン・ア・マウス
   // https://annict.com/works/13724
   { annict_id: 13724 },
+  // [2025-WINTER] MOVIE: 美男高校地球防衛部ETERNAL LOVE！
+  // https://annict.com/works/13725
+  { annict_id: 13725, mal_id: 59406 },
+  // [null-null] MOVIE: 劇場版モノノ怪 火鼠
+  // https://annict.com/works/13726
+  { annict_id: 13726, mal_id: 59408 },
 ]
