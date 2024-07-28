@@ -29507,7 +29507,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: 声優ラジオのウラオモテ
   // https://annict.com/works/10339
   { annict_id: 10339, mal_id: 53912, syobocal_tid: 7011 },
-  // [null-null] TV: 地縛少年花子くん 第2期
+  // [2025-WINTER] TV: 地縛少年花子くん 第2期
   // https://annict.com/works/10340
   { annict_id: 10340, mal_id: 53924 },
   // [2023-WINTER] MOVIE: 鬼滅の刃 上弦集結、そして刀鍛冶の里へ
@@ -39635,7 +39635,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] MOVIE: 美男高校地球防衛部ETERNAL LOVE！
   // https://annict.com/works/13725
   { annict_id: 13725, mal_id: 59406 },
-  // [null-null] MOVIE: 劇場版モノノ怪 火鼠
+  // [2025-WINTER] MOVIE: 劇場版 モノノ怪 火鼠
   // https://annict.com/works/13726
   { annict_id: 13726, mal_id: 59408 },
 ]
