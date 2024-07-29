@@ -39638,4 +39638,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] MOVIE: 劇場版 モノノ怪 火鼠
   // https://annict.com/works/13726
   { annict_id: 13726, mal_id: 59408 },
+  // [2025-WINTER] MOVIE: 劇場版プロジェクトセカイ 壊れたセカイと歌えないミク
+  // https://annict.com/works/13727
+  { annict_id: 13727 },
 ]
