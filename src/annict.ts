@@ -39643,5 +39643,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 13727, mal_id: 59419 },
   // [2025-null] TV: ずたぼろ令嬢は姉の元婚約者に溺愛される
   // https://annict.com/works/13728
-  { annict_id: 13728 },
+  { annict_id: 13728, mal_id: 59421 },
 ]
