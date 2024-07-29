@@ -39640,5 +39640,8 @@ export const annict: ArmEntry[] = [
   { annict_id: 13726, mal_id: 59408 },
   // [2025-WINTER] MOVIE: 劇場版プロジェクトセカイ 壊れたセカイと歌えないミク
   // https://annict.com/works/13727
-  { annict_id: 13727 },
+  { annict_id: 13727, mal_id: 59419 },
+  // [2025-null] TV: ずたぼろ令嬢は姉の元婚約者に溺愛される
+  // https://annict.com/works/13728
+  { annict_id: 13728 },
 ]
