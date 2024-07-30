@@ -39656,4 +39656,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 勇者パーティーを追放された白魔導師、Sランク冒険者に拾われる ～この白魔導師が規格外すぎる～
   // https://annict.com/works/13732
   { annict_id: 13732, mal_id: 59424 },
+  // [2024-AUTUMN] TV: ネガポジアングラー
+  // https://annict.com/works/13733
+  { annict_id: 13733, mal_id: 59425 },
 ]
