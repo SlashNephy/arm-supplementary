@@ -39644,4 +39644,7 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: ずたぼろ令嬢は姉の元婚約者に溺愛される
   // https://annict.com/works/13728
   { annict_id: 13728, mal_id: 59421 },
+  // [2013-WINTER] MOVIE: 劇場版ミッフィー どうぶつえんで宝さがし
+  // https://annict.com/works/13729
+  { annict_id: 13729 },
 ]
