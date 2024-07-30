@@ -39659,4 +39659,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: ネガポジアングラー
   // https://annict.com/works/13733
   { annict_id: 13733, mal_id: 59425 },
+  // [null-null] OTHER: セーラーゾンビ
+  // https://annict.com/works/13734
+  { annict_id: 13734, mal_id: 59420 },
 ]
