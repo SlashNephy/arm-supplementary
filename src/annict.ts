@@ -39647,4 +39647,7 @@ export const annict: ArmEntry[] = [
   // [2013-WINTER] MOVIE: 劇場版ミッフィー どうぶつえんで宝さがし
   // https://annict.com/works/13729
   { annict_id: 13729 },
+  // [2024-SUMMER] MOVIE: Fate/Grand Order Explore Movie 2024
+  // https://annict.com/works/13730
+  { annict_id: 13730 },
 ]
