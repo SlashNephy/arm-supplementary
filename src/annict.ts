@@ -39662,4 +39662,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: セーラーゾンビ
   // https://annict.com/works/13734
   { annict_id: 13734, mal_id: 59420 },
+  // [2025-WINTER] TV: アンデッドアンラック 1時間スペシャル
+  // https://annict.com/works/13735
+  { annict_id: 13735 },
 ]
