@@ -37265,7 +37265,7 @@ export const annict: ArmEntry[] = [
   // [1930-WINTER] MOVIE: ミッキーのバイオリニスト
   // https://annict.com/works/12934
   { annict_id: 12934 },
-  // [null-null] OTHER: おでかけ子ザメ 新シリーズ
+  // [null-null] MOVIE: 映画『おでかけ子ザメ』
   // https://annict.com/works/12935
   { annict_id: 12935, mal_id: 58837 },
   // [1929-AUTUMN] MOVIE: ミッキーの汽車旅行
