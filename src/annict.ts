@@ -39674,4 +39674,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] TV: 片田舎のおっさん、剣聖になる
   // https://annict.com/works/13738
   { annict_id: 13738, mal_id: 59452 },
+  // [2023-AUTUMN] WEB: 10分くらいで振り返る『君に届け』
+  // https://annict.com/works/13739
+  { annict_id: 13739 },
 ]
