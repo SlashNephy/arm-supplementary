@@ -35549,7 +35549,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: セイバーとバーサーカーの日本列島くいだおれの旅
   // https://annict.com/works/12359
   { annict_id: 12359 },
-  // [null-null] TV: 悪役令嬢転生おじさん
+  // [2025-WINTER] TV: 悪役令嬢転生おじさん
   // https://annict.com/works/12360
   { annict_id: 12360, mal_id: 57719 },
   // [2018-SUMMER] OVA: 血界戦線 & BEYOND OAD
@@ -39665,4 +39665,13 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] TV: アンデッドアンラック 1時間スペシャル
   // https://annict.com/works/13735
   { annict_id: 13735, mal_id: 59435 },
+  // [2024-SUMMER] WEB: 『魔女のふろーらいふ』アニメーションPV
+  // https://annict.com/works/13736
+  { annict_id: 13736 },
+  // [null-null] TV: リィンカーネーションの花弁
+  // https://annict.com/works/13737
+  { annict_id: 13737, mal_id: 59443 },
+  // [2025-SPRING] TV: 片田舎のおっさん、剣聖になる
+  // https://annict.com/works/13738
+  { annict_id: 13738, mal_id: 59452 },
 ]
