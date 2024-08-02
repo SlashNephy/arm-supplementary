@@ -39677,4 +39677,10 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] WEB: 10分くらいで振り返る『君に届け』
   // https://annict.com/works/13739
   { annict_id: 13739 },
+  // [1962-SUMMER] MOVIE: おとぎの世界旅行
+  // https://annict.com/works/13740
+  { annict_id: 13740, mal_id: 17675 },
+  // [1980-null] MOVIE: The Bubble
+  // https://annict.com/works/13741
+  { annict_id: 13741 },
 ]
