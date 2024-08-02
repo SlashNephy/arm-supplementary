@@ -37022,7 +37022,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: あげおとティム
   // https://annict.com/works/12852
   { annict_id: 12852, mal_id: 58603 },
-  // [2024-null] TV: Thunderbolt Fantasy 東離劍遊紀 4
+  // [2024-AUTUMN] TV: Thunderbolt Fantasy 東離劍遊紀 4
   // https://annict.com/works/12853
   { annict_id: 12853 },
   // [2025-null] MOVIE: Thunderbolt Fantasy 東離劍遊紀 最終章
