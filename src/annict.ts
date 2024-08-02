@@ -36164,7 +36164,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] TV: 杖と剣のウィストリア
   // https://annict.com/works/12565
   { annict_id: 12565, mal_id: 58059, syobocal_tid: 7140 },
-  // [2025-null] MOVIE: メイクアガール
+  // [2025-WINTER] MOVIE: メイクアガール
   // https://annict.com/works/12566
   { annict_id: 12566, mal_id: 54740 },
   // [1983-WINTER] MOVIE: プーさんとイーヨーのいち日
