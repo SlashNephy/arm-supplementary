@@ -17138,7 +17138,7 @@ export const annict: ArmEntry[] = [
   // [2018-WINTER] MOVIE: 劇場版Infini-T Force／ガッチャマン さらば友よ
   // https://annict.com/works/5747
   { annict_id: 5747, mal_id: 36197, syobocal_tid: 5213 },
-  // [1966-AUTUMN] TV: 新ジャングル大帝 進めレオ！
+  // [1966-AUTUMN] TV: ジャングル大帝 進めレオ！
   // https://annict.com/works/5748
   { annict_id: 5748, mal_id: 2565 },
   // [1982-SPRING] TV: 手塚治虫のドン・ドラキュラ
@@ -39683,4 +39683,13 @@ export const annict: ArmEntry[] = [
   // [1980-null] MOVIE: The Bubble
   // https://annict.com/works/13741
   { annict_id: 13741 },
+  // [null-null] TV: 履いてください、鷹峰さん
+  // https://annict.com/works/13742
+  { annict_id: 13742, mal_id: 59457 },
+  // [null-null] WEB: Duel Masters LOST ～月下の死神～
+  // https://annict.com/works/13743
+  { annict_id: 13743, mal_id: 59458 },
+  // [null-null] OTHER: サイレント・ウィッチ 沈黙の魔女の隠しごと
+  // https://annict.com/works/13744
+  { annict_id: 13744, mal_id: 59459 },
 ]
