@@ -31571,7 +31571,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: ユア・フォルマ
   // https://annict.com/works/11029
   { annict_id: 11029, mal_id: 55995 },
-  // [2024-null] TV: ギルドの受付嬢ですが、残業は嫌なのでボスをソロ討伐しようと思います
+  // [2025-WINTER] TV: ギルドの受付嬢ですが、残業は嫌なのでボスをソロ討伐しようと思います
   // https://annict.com/works/11030
   { annict_id: 11030, mal_id: 55997 },
   // [2024-SUMMER] TV: 恋は双子で割り切れない
@@ -34031,7 +34031,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] WEB: オズワルド・ザ・ラッキーラビット(2022)
   // https://annict.com/works/11851
   { annict_id: 11851 },
-  // [null-null] OTHER: 青春ブタ野郎シリーズ 《大学生編》
+  // [2025-null] TV: 青春ブタ野郎はサンタクロースの夢を見ない
   // https://annict.com/works/11852
   { annict_id: 11852, mal_id: 57433 },
   // [2023-AUTUMN] WEB: 『ストリートファイター6』×『劇場版 SPY×FAMILY CODE: White』スペシャルコラボアニメ
