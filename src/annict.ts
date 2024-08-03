@@ -39647,7 +39647,7 @@ export const annict: ArmEntry[] = [
   // [2013-WINTER] MOVIE: 劇場版ミッフィー どうぶつえんで宝さがし
   // https://annict.com/works/13729
   { annict_id: 13729 },
-  // [2024-SUMMER] MOVIE: Fate/Grand Order Explore Movie 2024
+  // [2024-SUMMER] WEB: Fate/Grand Order Explore Movie 2024
   // https://annict.com/works/13730
   { annict_id: 13730 },
   // [null-null] OTHER: Dark Machine
@@ -39667,7 +39667,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13735, mal_id: 59435 },
   // [2024-SUMMER] WEB: 『魔女のふろーらいふ』アニメーションPV
   // https://annict.com/works/13736
-  { annict_id: 13736 },
+  { annict_id: 13736, mal_id: 59463 },
   // [null-null] TV: リィンカーネーションの花弁
   // https://annict.com/works/13737
   { annict_id: 13737, mal_id: 59443 },
@@ -39692,4 +39692,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: サイレント・ウィッチ 沈黙の魔女の隠しごと
   // https://annict.com/works/13744
   { annict_id: 13744, mal_id: 59459 },
+  // [2024-SUMMER] WEB: Fate/Grand Order 藤丸立香はわからない Season2
+  // https://annict.com/works/13745
+  { annict_id: 13745 },
 ]
