@@ -39694,5 +39694,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 13744, mal_id: 59459 },
   // [2024-SUMMER] WEB: Fate/Grand Order 藤丸立香はわからない Season2
   // https://annict.com/works/13745
-  { annict_id: 13745 },
+  { annict_id: 13745, mal_id: 59465 },
 ]
