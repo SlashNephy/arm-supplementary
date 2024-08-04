@@ -35858,7 +35858,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 盾の勇者の成り上がり Season4
   // https://annict.com/works/12462
   { annict_id: 12462, mal_id: 57907 },
-  // [2024-null] MOVIE: PUI PUI モルカー ザ・ムービー MOLMAX
+  // [2024-AUTUMN] MOVIE: PUI PUI モルカー ザ・ムービー MOLMAX
   // https://annict.com/works/12463
   { annict_id: 12463, mal_id: 57910 },
   // [2024-SPRING] MOVIE: 数分間のエールを
