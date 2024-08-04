@@ -39698,4 +39698,10 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 阿波連さんははかれない season2
   // https://annict.com/works/13746
   { annict_id: 13746, mal_id: 59466 },
+  // [null-null] TV: 治癒魔法の間違った使い方 第2期
+  // https://annict.com/works/13747
+  { annict_id: 13747, mal_id: 59467 },
+  // [2009-SUMMER] OVA: 限定少女。
+  // https://annict.com/works/13748
+  { annict_id: 13748, mal_id: 6882 },
 ]
