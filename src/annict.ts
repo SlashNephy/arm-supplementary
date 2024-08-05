@@ -39713,4 +39713,10 @@ export const annict: ArmEntry[] = [
   // [2025-null] MOVIE: 保科の休日
   // https://annict.com/works/13751
   { annict_id: 13751 },
+  // [null-null] TV: 機械じかけのマリー
+  // https://annict.com/works/13752
+  { annict_id: 13752, mal_id: 59484 },
+  // [2024-AUTUMN] TV: SHIBUYA♡HACHI 第2クール
+  // https://annict.com/works/13753
+  { annict_id: 13753, mal_id: 59485 },
 ]
