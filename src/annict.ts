@@ -39704,4 +39704,7 @@ export const annict: ArmEntry[] = [
   // [2009-SUMMER] OVA: 限定少女。
   // https://annict.com/works/13748
   { annict_id: 13748, mal_id: 6882 },
+  // [2025-null] MOVIE: 星つなぎのエリオ
+  // https://annict.com/works/13749
+  { annict_id: 13749 },
 ]
