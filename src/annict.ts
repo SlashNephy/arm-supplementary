@@ -39113,7 +39113,7 @@ export const annict: ArmEntry[] = [
   // [1928-SUMMER] MOVIE: スカイ・スクラッパーズ
   // https://annict.com/works/13551
   { annict_id: 13551 },
-  // [null-null] TV: 怪獣8号 続編
+  // [2025-null] TV: 怪獣8号 第2期
   // https://annict.com/works/13552
   { annict_id: 13552, mal_id: 59177 },
   // [2024-AUTUMN] TV: オーイ! とんぼ 第2期
@@ -39707,4 +39707,10 @@ export const annict: ArmEntry[] = [
   // [2025-null] MOVIE: 星つなぎのエリオ
   // https://annict.com/works/13749
   { annict_id: 13749 },
+  // [2025-null] MOVIE: 怪獣8号 第1期総集編
+  // https://annict.com/works/13750
+  { annict_id: 13750 },
+  // [2025-null] MOVIE: 保科の休日
+  // https://annict.com/works/13751
+  { annict_id: 13751 },
 ]
