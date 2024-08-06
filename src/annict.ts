@@ -38857,7 +38857,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13465 },
   // [2024-SUMMER] WEB: ライジングインパクト シーズン2
   // https://annict.com/works/13466
-  { annict_id: 13466, mal_id: 57487 },
+  { annict_id: 13466, mal_id: 59497 },
   // [2024-AUTUMN] TV: らんま1/2 (2024)
   // https://annict.com/works/13467
   { annict_id: 13467, mal_id: 59145 },
@@ -39709,10 +39709,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 13749 },
   // [2025-null] MOVIE: 怪獣8号 第1期総集編
   // https://annict.com/works/13750
-  { annict_id: 13750 },
+  { annict_id: 13750, mal_id: 59489 },
   // [2025-null] MOVIE: 保科の休日
   // https://annict.com/works/13751
-  { annict_id: 13751 },
+  { annict_id: 13751, mal_id: 59490 },
   // [null-null] TV: 機械じかけのマリー
   // https://annict.com/works/13752
   { annict_id: 13752, mal_id: 59484 },
@@ -39725,4 +39725,13 @@ export const annict: ArmEntry[] = [
   // [2004-SPRING] TV: ダック・ドジャース
   // https://annict.com/works/13755
   { annict_id: 13755 },
+  // [1931-WINTER] MOVIE: スペードのエース
+  // https://annict.com/works/13756
+  { annict_id: 13756 },
+  // [1931-WINTER] MOVIE: 森の痴人
+  // https://annict.com/works/13757
+  { annict_id: 13757 },
+  // [1931-WINTER] MOVIE: 先生泣かせ
+  // https://annict.com/works/13758
+  { annict_id: 13758 },
 ]
