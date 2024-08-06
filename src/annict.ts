@@ -39719,4 +39719,10 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: SHIBUYA♡HACHI 第2クール
   // https://annict.com/works/13753
   { annict_id: 13753, mal_id: 59485 },
+  // [2001-WINTER] OVA: トゥイーティーのフライング・アドベンチャー 80日間世界一周大冒険
+  // https://annict.com/works/13754
+  { annict_id: 13754 },
+  // [2004-SPRING] TV: ダック・ドジャース
+  // https://annict.com/works/13755
+  { annict_id: 13755 },
 ]
