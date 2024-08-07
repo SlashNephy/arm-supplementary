@@ -39734,4 +39734,10 @@ export const annict: ArmEntry[] = [
   // [1931-WINTER] MOVIE: 先生泣かせ
   // https://annict.com/works/13758
   { annict_id: 13758 },
+  // [2024-SUMMER] TV: 監禁区域レベルX
+  // https://annict.com/works/13759
+  { annict_id: 13759 },
+  // [2024-AUTUMN] TV: アサティール2 未来の昔ばなし
+  // https://annict.com/works/13760
+  { annict_id: 13760, mal_id: 59499 },
 ]
