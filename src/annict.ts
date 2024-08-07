@@ -36230,7 +36230,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: SHIBUYA♡HACHI
   // https://annict.com/works/12587
   { annict_id: 12587, mal_id: 58447, syobocal_tid: 7067 },
-  // [null-null] TV: 紫雲寺家の子供たち
+  // [2025-null] TV: 紫雲寺家の子供たち
   // https://annict.com/works/12588
   { annict_id: 12588, mal_id: 58131 },
   // [2007-WINTER] MOVIE: 春のめざめ
