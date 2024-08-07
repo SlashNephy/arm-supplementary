@@ -38122,7 +38122,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13219 },
   // [2024-SUMMER] TV: 未来の黒幕系悪役令嬢モリアーティーの異世界完全犯罪白書
   // https://annict.com/works/13220
-  { annict_id: 13220, syobocal_tid: 7130 },
+  { annict_id: 13220, mal_id: 59148, syobocal_tid: 7130 },
   // [1941-SPRING] MOVIE: グーフィーのトランク騒動
   // https://annict.com/works/13221
   { annict_id: 13221 },
@@ -39736,7 +39736,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13758 },
   // [2024-SUMMER] TV: 監禁区域レベルX
   // https://annict.com/works/13759
-  { annict_id: 13759 },
+  { annict_id: 13759, mal_id: 59505 },
   // [2024-AUTUMN] TV: アサティール2 未来の昔ばなし
   // https://annict.com/works/13760
   { annict_id: 13760, mal_id: 59499 },
