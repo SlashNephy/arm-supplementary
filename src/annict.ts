@@ -39740,4 +39740,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: アサティール2 未来の昔ばなし
   // https://annict.com/works/13760
   { annict_id: 13760, mal_id: 59499 },
+  // [2025-WINTER] TV: 戦隊レッド 異世界で冒険者になる
+  // https://annict.com/works/13761
+  { annict_id: 13761, mal_id: 59514 },
 ]
