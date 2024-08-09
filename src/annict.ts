@@ -39743,7 +39743,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] TV: 戦隊レッド 異世界で冒険者になる
   // https://annict.com/works/13761
   { annict_id: 13761, mal_id: 59514 },
-  // [1966-SPRING] OTHER: 孫悟空が始まるよー 黄風大王の巻
+  // [1966-SPRING] MOVIE: 孫悟空が始まるよー 黄風大王の巻
   // https://annict.com/works/13762
   { annict_id: 13762, mal_id: 23815 },
 ]
