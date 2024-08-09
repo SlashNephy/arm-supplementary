@@ -39749,4 +39749,7 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: 千歳くんはラムネ瓶のなか
   // https://annict.com/works/13763
   { annict_id: 13763, mal_id: 59517 },
+  // [2024-AUTUMN] WEB: 少女革命計画
+  // https://annict.com/works/13764
+  { annict_id: 13764 },
 ]
