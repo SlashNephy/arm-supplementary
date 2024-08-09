@@ -34844,7 +34844,7 @@ export const annict: ArmEntry[] = [
   // [null-null] WEB: THE ONE PIECE
   // https://annict.com/works/12123
   { annict_id: 12123, mal_id: 57557 },
-  // [2024-null] TV: MFゴースト 2nd Season
+  // [2024-AUTUMN] TV: MFゴースト 2nd Season
   // https://annict.com/works/12124
   { annict_id: 12124, mal_id: 57559 },
   // [2024-AUTUMN] TV: るろうに剣心 -明治剣客浪漫譚- 京都動乱
@@ -39748,5 +39748,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 13762, mal_id: 23815 },
   // [2025-null] TV: 千歳くんはラムネ瓶のなか
   // https://annict.com/works/13763
-  { annict_id: 13763 },
+  { annict_id: 13763, mal_id: 59517 },
 ]
