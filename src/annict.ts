@@ -39752,4 +39752,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: 少女革命計画
   // https://annict.com/works/13764
   { annict_id: 13764 },
+  // [2024-SUMMER] WEB: バットマン: マントの戦士
+  // https://annict.com/works/13765
+  { annict_id: 13765 },
 ]
