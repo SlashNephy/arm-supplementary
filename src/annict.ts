@@ -32993,7 +32993,7 @@ export const annict: ArmEntry[] = [
   // [2009-AUTUMN] TV: 忍者玉丸 東海道五十三次
   // https://annict.com/works/11503
   { annict_id: 11503, mal_id: 35108 },
-  // [2024-AUTUMN] TV: ダンジョンに出会いを求めるのは間違っているだろうかⅤ
+  // [2024-AUTUMN] TV: ダンジョンに出会いを求めるのは間違っているだろうかⅤ 豊穣の女神篇
   // https://annict.com/works/11504
   { annict_id: 11504, mal_id: 57066 },
   // [2015-SUMMER] OTHER: ゼーガペイン PROJECT RESURRECTION 8.3.1.2015
