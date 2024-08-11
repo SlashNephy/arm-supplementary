@@ -39758,4 +39758,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] MOVIE: 最強王図鑑～The Ultimate Battles～ スペシャル上映 魂の叫び！
   // https://annict.com/works/13766
   { annict_id: 13766 },
+  // [2025-SPRING] MOVIE: たべっ子どうぶつ THE MOVIE
+  // https://annict.com/works/13767
+  { annict_id: 13767 },
 ]
