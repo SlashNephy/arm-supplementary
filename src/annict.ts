@@ -35042,7 +35042,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: 鷹の爪外伝 秘密厩舎 馬の蹄 ～グランプリ～
   // https://annict.com/works/12189
   { annict_id: 12189, syobocal_tid: 6890 },
-  // [null-null] TV: Dr.STONE SCIENCE FUTURE
+  // [2025-null] TV: Dr.STONE SCIENCE FUTURE
   // https://annict.com/works/12190
   { annict_id: 12190, mal_id: 57592 },
   // [2016-SUMMER] WEB: 練馬区PRアニメ『アニメで練馬区PR大作戦?!』
