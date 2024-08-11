@@ -39755,4 +39755,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] WEB: バットマン: マントの戦士
   // https://annict.com/works/13765
   { annict_id: 13765 },
+  // [2024-SUMMER] MOVIE: 最強王図鑑～The Ultimate Battles～ スペシャル上映 魂の叫び！
+  // https://annict.com/works/13766
+  { annict_id: 13766 },
 ]
