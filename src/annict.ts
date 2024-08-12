@@ -32258,7 +32258,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] TV: 最強タンクの迷宮攻略～体力9999のレアスキル持ちタンク、勇者パーティーを追放される～
   // https://annict.com/works/11258
   { annict_id: 11258, mal_id: 56845, syobocal_tid: 6911 },
-  // [2024-null] TV: ハミダシクリエイティブ
+  // [2024-AUTUMN] TV: ハミダシクリエイティブ
   // https://annict.com/works/11259
   { annict_id: 11259, mal_id: 56461 },
   // [1966-AUTUMN] TV: グリンチのクリスマス
