@@ -39761,4 +39761,10 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] MOVIE: たべっ子どうぶつ THE MOVIE
   // https://annict.com/works/13767
   { annict_id: 13767 },
+  // [2006-SPRING] OVA: 大魔法峠「ぷにえの里帰り」
+  // https://annict.com/works/13768
+  { annict_id: 13768, mal_id: 1841 },
+  // [2011-SPRING] OVA: 俺たちに翼はない番外編『肌色率九割増』
+  // https://annict.com/works/13769
+  { annict_id: 13769, mal_id: 10547 },
 ]
