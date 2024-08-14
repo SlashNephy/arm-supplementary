@@ -39779,4 +39779,7 @@ export const annict: ArmEntry[] = [
   // [2025-null] MOVIE: ズートピア2（原題）
   // https://annict.com/works/13773
   { annict_id: 13773 },
+  // [2024-SUMMER] TV: 笑うレッドリスト
+  // https://annict.com/works/13774
+  { annict_id: 13774 },
 ]
