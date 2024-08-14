@@ -39782,4 +39782,10 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] TV: 笑うレッドリスト
   // https://annict.com/works/13774
   { annict_id: 13774 },
+  // [2024-WINTER] WEB: イワジュ
+  // https://annict.com/works/13775
+  { annict_id: 13775 },
+  // [2024-WINTER] TV: いっしょにあそぼう！くまのプーさん
+  // https://annict.com/works/13776
+  { annict_id: 13776 },
 ]
