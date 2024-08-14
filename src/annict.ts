@@ -39788,4 +39788,10 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] TV: いっしょにあそぼう！くまのプーさん
   // https://annict.com/works/13776
   { annict_id: 13776 },
+  // [2016-WINTER] OVA: 灰と幻想のグリムガル OVA 第2.5話
+  // https://annict.com/works/13777
+  { annict_id: 13777, mal_id: 32561 },
+  // [2014-WINTER] OVA: 境界の彼方 ミニ劇場
+  // https://annict.com/works/13778
+  { annict_id: 13778, mal_id: 20909 },
 ]
