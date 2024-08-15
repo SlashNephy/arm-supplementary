@@ -39773,7 +39773,7 @@ export const annict: ArmEntry[] = [
   // [null-null] MOVIE: インクレディブルズ3（原題）
   // https://annict.com/works/13771
   { annict_id: 13771 },
-  // [2025-null] WEB: 夢の製作スタジオ（仮題)
+  // [2025-null] WEB: 夢の製作スタジオ（仮題）
   // https://annict.com/works/13772
   { annict_id: 13772 },
   // [2025-null] MOVIE: ズートピア2（原題）
