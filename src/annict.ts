@@ -39736,7 +39736,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13758 },
   // [2024-SUMMER] TV: 監禁区域レベルX
   // https://annict.com/works/13759
-  { annict_id: 13759, mal_id: 59505 },
+  { annict_id: 13759, mal_id: 59505, syobocal_tid: 7171 },
   // [2024-AUTUMN] TV: アサティール2 未来の昔ばなし
   // https://annict.com/works/13760
   { annict_id: 13760, mal_id: 59499 },
