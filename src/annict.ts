@@ -39794,4 +39794,10 @@ export const annict: ArmEntry[] = [
   // [2014-WINTER] OVA: 境界の彼方 ミニ劇場
   // https://annict.com/works/13778
   { annict_id: 13778, mal_id: 20909 },
+  // [2026-null] MOVIE: トイ・ストーリー5
+  // https://annict.com/works/13779
+  { annict_id: 13779 },
+  // [2027-null] MOVIE: アナと雪の女王３（原題）
+  // https://annict.com/works/13780
+  { annict_id: 13780 },
 ]
