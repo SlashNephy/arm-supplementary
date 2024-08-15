@@ -39800,4 +39800,10 @@ export const annict: ArmEntry[] = [
   // [2027-null] MOVIE: アナと雪の女王３（原題）
   // https://annict.com/works/13780
   { annict_id: 13780 },
+  // [2022-SUMMER] WEB: アイ･アム･グルート シーズン1
+  // https://annict.com/works/13781
+  { annict_id: 13781 },
+  // [2023-SUMMER] WEB: アイ･アム･グルート シーズン2
+  // https://annict.com/works/13782
+  { annict_id: 13782 },
 ]
