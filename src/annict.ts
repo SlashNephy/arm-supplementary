@@ -39812,4 +39812,7 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: アラフォー男の異世界通販
   // https://annict.com/works/13784
   { annict_id: 13784, mal_id: 59561 },
+  // [2017-SUMMER] WEB: マーベル スパイダーマン ショーツ
+  // https://annict.com/works/13785
+  { annict_id: 13785 },
 ]
