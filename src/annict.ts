@@ -37034,7 +37034,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] TV: 現代誤訳
   // https://annict.com/works/12856
   { annict_id: 12856, syobocal_tid: 7135 },
-  // [2024-WINTER] WEB: The Spider Within: A Spider-Verse Story
+  // [2024-WINTER] WEB: ザ･スパイダー･ウィズイン
   // https://annict.com/works/12857
   { annict_id: 12857 },
   // [2024-SPRING] WEB: 範馬刃牙VSケンガンアシュラ
@@ -39809,4 +39809,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: ガンバレ！中村くん！！
   // https://annict.com/works/13783
   { annict_id: 13783, mal_id: 59551 },
+  // [2025-null] TV: アラフォー男の異世界通販
+  // https://annict.com/works/13784
+  { annict_id: 13784, mal_id: 59561 },
 ]
