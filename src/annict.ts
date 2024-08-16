@@ -18710,7 +18710,7 @@ export const annict: ArmEntry[] = [
   // [2018-SUMMER] TV: ミラキュラス レディバグ＆シャノワール
   // https://annict.com/works/6274
   { annict_id: 6274, syobocal_tid: 5021 },
-  // [2018-AUTUMN] TV: マーベル スパイダーマン (第2シーズン)
+  // [2018-AUTUMN] TV: マーベル スパイダーマン シーズン2
   // https://annict.com/works/6275
   { annict_id: 6275, syobocal_tid: 5091 },
   // [2018-AUTUMN] TV: おとなの防具屋さん
@@ -19256,10 +19256,10 @@ export const annict: ArmEntry[] = [
   // [2019-WINTER] TV: カワウソラボ
   // https://annict.com/works/6459
   { annict_id: 6459, mal_id: 39007, syobocal_tid: 5218 },
-  // [2012-SUMMER] TV: アルティメット・スパイダーマン（シーズン1）
+  // [2012-SUMMER] TV: アルティメット・スパイダーマン シーズン1
   // https://annict.com/works/6460
   { annict_id: 6460 },
-  // [2013-SPRING] TV: アルティメット・スパイダーマン（シーズン2）
+  // [2013-SPRING] TV: アルティメット・スパイダーマン シーズン2
   // https://annict.com/works/6461
   { annict_id: 6461 },
   // [2020-WINTER] TV: 虚構推理
@@ -23855,7 +23855,7 @@ export const annict: ArmEntry[] = [
   // [2017-AUTUMN] MOVIE: COCOLORS
   // https://annict.com/works/8289
   { annict_id: 8289, mal_id: 34167 },
-  // [2013-null] OVA: アイアンマン：ライズ・オブ・テクノヴォア
+  // [2013-SPRING] OVA: アイアンマン：ライズ・オブ・テクノヴォア
   // https://annict.com/works/8290
   { annict_id: 8290, mal_id: 15847 },
   // [2010-null] MOVIE: おまえうまそうだな (2010)
