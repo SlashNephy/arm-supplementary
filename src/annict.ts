@@ -37126,13 +37126,13 @@ export const annict: ArmEntry[] = [
   { annict_id: 12887, mal_id: 18343 },
   // [2024-SPRING] MOVIE: コードギアス 奪還のロゼ 第二幕
   // https://annict.com/works/12888
-  { annict_id: 12888 },
+  { annict_id: 12888, mal_id: 56835 },
   // [2024-SUMMER] MOVIE: コードギアス 奪還のロゼ 第三幕
   // https://annict.com/works/12889
-  { annict_id: 12889 },
+  { annict_id: 12889, mal_id: 56835 },
   // [2024-SUMMER] MOVIE: コードギアス 奪還のロゼ 最終幕
   // https://annict.com/works/12890
-  { annict_id: 12890 },
+  { annict_id: 12890, mal_id: 56835 },
   // [1999-WINTER] MOVIE: ガンドレス
   // https://annict.com/works/12891
   { annict_id: 12891, mal_id: 1160 },
@@ -37621,7 +37621,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13052 },
   // [2024-SPRING] WEB: コードギアス 奪還のロゼ
   // https://annict.com/works/13053
-  { annict_id: 13053 },
+  { annict_id: 13053, mal_id: 56835 },
   // [1961-SPRING] TV: インスタントヒストリー
   // https://annict.com/works/13054
   { annict_id: 13054, mal_id: 14211 },
