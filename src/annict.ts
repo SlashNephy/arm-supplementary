@@ -39815,4 +39815,16 @@ export const annict: ArmEntry[] = [
   // [2017-SUMMER] WEB: マーベル スパイダーマン ショーツ
   // https://annict.com/works/13785
   { annict_id: 13785 },
+  // [2022-SUMMER] WEB: 【原神】2周年ストップモーション・アニメーション-「旅で出会った宝物」
+  // https://annict.com/works/13786
+  { annict_id: 13786 },
+  // [2023-WINTER] WEB: 【原神】海灯祭ストップモーション・アニメーション-「佳節を祝して」
+  // https://annict.com/works/13787
+  { annict_id: 13787 },
+  // [2024-WINTER] WEB: 【原神】ストップモーション・アニメーション「瑞獣祥伝」
+  // https://annict.com/works/13788
+  { annict_id: 13788 },
+  // [2024-SUMMER] WEB: 【原神】ストップモーション・アニメーション-「ナタの部族」
+  // https://annict.com/works/13789
+  { annict_id: 13789 },
 ]
