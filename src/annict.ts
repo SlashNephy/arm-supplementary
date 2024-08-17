@@ -22352,7 +22352,7 @@ export const annict: ArmEntry[] = [
   // [2022-SPRING] TV: かぐや様は告らせたい-ウルトラロマンティック-
   // https://annict.com/works/7725
   { annict_id: 7725, mal_id: 43608, syobocal_tid: 6320 },
-  // [2021-SPRING] OVA: かぐや様は告らせたい〜天才たちの恋愛頭脳戦〜 OVA 「かぐや様ダークネスvolume 1／かぐや様ダークネスvolume 2／かぐや様は食べさせたい」
+  // [2021-SPRING] OVA: かぐや様は告らせたい〜天才たちの恋愛頭脳戦〜 OVA
   // https://annict.com/works/7726
   { annict_id: 7726, mal_id: 43609 },
   // [2020-AUTUMN] WEB: クソゲーって言うな！
