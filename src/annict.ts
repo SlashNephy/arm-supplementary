@@ -12581,7 +12581,7 @@ export const annict: ArmEntry[] = [
   // [2014-AUTUMN] TV: ログ・ホライズン 第2シリーズ
   // https://annict.com/works/4208
   { annict_id: 4208, mal_id: 23321, syobocal_tid: 3550 },
-  // [2014-AUTUMN] MOVIE: 劇場版「進撃の巨人」
+  // [2014-AUTUMN] MOVIE: 劇場版 進撃の巨人
   // https://annict.com/works/4209
   { annict_id: 4209 },
   // [2015-SUMMER] TV: Fate/kaleid liner プリズマ☆イリヤ ツヴァイ ヘルツ！
@@ -16658,7 +16658,7 @@ export const annict: ArmEntry[] = [
   // [2018-WINTER] MOVIE: 新妹魔王の契約者 DEPARTURES
   // https://annict.com/works/5585
   { annict_id: 5585, mal_id: 36688, syobocal_tid: 5127 },
-  // [2018-WINTER] MOVIE: 劇場版「進撃の巨人」Season2～覚醒の咆哮～
+  // [2018-WINTER] MOVIE: 劇場版 進撃の巨人 Season2 ～覚醒の咆哮～
   // https://annict.com/works/5586
   { annict_id: 5586, mal_id: 36702, syobocal_tid: 5019 },
   // [2018-SPRING] TV: 異世界居酒屋～古都アイテーリアの居酒屋のぶ～
@@ -39827,4 +39827,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] WEB: 【原神】ストップモーション・アニメーション-「ナタの部族」
   // https://annict.com/works/13789
   { annict_id: 13789 },
+  // [2024-AUTUMN] WEB: 劇場版 進撃の巨人 完結編 THE LAST ATTACK
+  // https://annict.com/works/13790
+  { annict_id: 13790 },
 ]
