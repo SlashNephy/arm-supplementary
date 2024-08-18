@@ -39836,4 +39836,13 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] TV: ウィッチウォッチ
   // https://annict.com/works/13792
   { annict_id: 13792 },
+  // [2024-WINTER] MOVIE: シロッコと風の王国
+  // https://annict.com/works/13793
+  { annict_id: 13793 },
+  // [2024-WINTER] MOVIE: ストーム
+  // https://annict.com/works/13794
+  { annict_id: 13794 },
+  // [2023-AUTUMN] MOVIE: トニーとシェリーと魔法の光
+  // https://annict.com/works/13795
+  { annict_id: 13795 },
 ]
