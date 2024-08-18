@@ -39829,5 +39829,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 13789 },
   // [2024-AUTUMN] WEB: 劇場版 進撃の巨人 完結編 THE LAST ATTACK
   // https://annict.com/works/13790
-  { annict_id: 13790 },
+  { annict_id: 13790, mal_id: 59571 },
 ]
