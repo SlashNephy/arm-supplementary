@@ -30392,7 +30392,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: TRIGUN STARGAZE
   // https://annict.com/works/10635
   { annict_id: 10635, mal_id: 54863 },
-  // [2024-AUTUMN] TV: ブルーロック 第2期
+  // [2024-AUTUMN] TV: ブルーロック VS. U-20 JAPAN
   // https://annict.com/works/10636
   { annict_id: 10636, mal_id: 54865 },
   // [2024-SPRING] MOVIE: 劇場版ブルーロック -EPISODE 凪-
