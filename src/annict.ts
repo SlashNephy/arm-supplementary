@@ -39830,4 +39830,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: 劇場版 進撃の巨人 完結編 THE LAST ATTACK
   // https://annict.com/works/13790
   { annict_id: 13790, mal_id: 59571 },
+  // [1998-WINTER] MOVIE: この星の上に
+  // https://annict.com/works/13791
+  { annict_id: 13791, mal_id: 37482 },
 ]
