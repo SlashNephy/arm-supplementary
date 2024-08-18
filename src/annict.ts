@@ -39833,4 +39833,7 @@ export const annict: ArmEntry[] = [
   // [1998-WINTER] MOVIE: この星の上に
   // https://annict.com/works/13791
   { annict_id: 13791, mal_id: 37482 },
+  // [2025-SPRING] TV: ウィッチウォッチ
+  // https://annict.com/works/13792
+  { annict_id: 13792 },
 ]
