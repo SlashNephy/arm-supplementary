@@ -39827,7 +39827,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] WEB: 【原神】ストップモーション・アニメーション-「ナタの部族」
   // https://annict.com/works/13789
   { annict_id: 13789 },
-  // [2024-AUTUMN] WEB: 劇場版 進撃の巨人 完結編 THE LAST ATTACK
+  // [2024-AUTUMN] MOVIE: 劇場版 進撃の巨人 完結編 THE LAST ATTACK
   // https://annict.com/works/13790
   { annict_id: 13790, mal_id: 59571 },
   // [1998-WINTER] MOVIE: この星の上に
