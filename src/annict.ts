@@ -25919,7 +25919,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: トニカクカワイイ 第2期
   // https://annict.com/works/9075
   { annict_id: 9075, mal_id: 50307, syobocal_tid: 6669 },
-  // [2022-AUTUMN] WEB: トニカクカワイイ 〜制服〜
+  // [2022-AUTUMN] WEB: トニカクカワイイ ～制服～
   // https://annict.com/works/9076
   { annict_id: 9076, mal_id: 51533 },
   // [2023-WINTER] TV: 文豪ストレイドッグス (第4期)
