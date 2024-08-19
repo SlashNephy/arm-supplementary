@@ -39845,4 +39845,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] MOVIE: トニーとシェリーと魔法の光
   // https://annict.com/works/13795
   { annict_id: 13795 },
+  // [2017-WINTER] WEB: UPO/ユーピーオー
+  // https://annict.com/works/13796
+  { annict_id: 13796, mal_id: 56445 },
 ]
