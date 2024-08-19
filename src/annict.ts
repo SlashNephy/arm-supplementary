@@ -39848,4 +39848,7 @@ export const annict: ArmEntry[] = [
   // [2017-WINTER] WEB: UPO/ユーピーオー
   // https://annict.com/works/13796
   { annict_id: 13796, mal_id: 56445 },
+  // [2022-AUTUMN] TV: C団地
+  // https://annict.com/works/13797
+  { annict_id: 13797, mal_id: 51306 },
 ]
