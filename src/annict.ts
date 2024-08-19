@@ -39854,4 +39854,7 @@ export const annict: ArmEntry[] = [
   // [2015-SUMMER] WEB: 「モンスター娘のいる日常」 ほぼ毎日◯◯！生っぽい動画 〜実録！モン娘の60日〜
   // https://annict.com/works/13798
   { annict_id: 13798, mal_id: 31121 },
+  // [2020-AUTUMN] WEB: PUPARIA
+  // https://annict.com/works/13799
+  { annict_id: 13799, mal_id: 44059 },
 ]
