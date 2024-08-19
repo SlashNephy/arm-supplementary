@@ -37040,7 +37040,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] WEB: 範馬刃牙VSケンガンアシュラ
   // https://annict.com/works/12858
   { annict_id: 12858, mal_id: 58510 },
-  // [2024-null] MOVIE: 30歳まで童貞だと魔法使いになれるらしい 特別編集版
+  // [2024-AUTUMN] MOVIE: 30歳まで童貞だと魔法使いになれるらしい 特別編集版
   // https://annict.com/works/12859
   { annict_id: 12859, mal_id: 58549 },
   // [2024-SPRING] TV: おじゃる丸（第27シリーズ）
