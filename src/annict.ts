@@ -22703,7 +22703,7 @@ export const annict: ArmEntry[] = [
   // [2021-SPRING] OVA: ダンジョンに出会いを求めるのは間違っているだろうかⅢ OVA「オラリオに温泉を求めるのは間違っているだろうか 〜おふろの神様フォーエバー〜」
   // https://annict.com/works/7875
   { annict_id: 7875, mal_id: 44983 },
-  // [2021-SUMMER] OVA: トニカクカワイイ OVA ～SNS～
+  // [2021-SUMMER] OVA: トニカクカワイイ ～SNS～
   // https://annict.com/works/7876
   { annict_id: 7876, mal_id: 44931 },
   // [2021-SPRING] WEB: 終末のワルキューレ
