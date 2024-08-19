@@ -39851,4 +39851,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] TV: C団地
   // https://annict.com/works/13797
   { annict_id: 13797, mal_id: 51306 },
+  // [2015-SUMMER] WEB: 「モンスター娘のいる日常」 ほぼ毎日◯◯！生っぽい動画 〜実録！モン娘の60日〜
+  // https://annict.com/works/13798
+  { annict_id: 13798, mal_id: 31121 },
 ]
