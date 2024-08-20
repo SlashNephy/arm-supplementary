@@ -39872,7 +39872,7 @@ export const annict: ArmEntry[] = [
   // [2014-SUMMER] WEB: へんたい！
   // https://annict.com/works/13804
   { annict_id: 13804 },
-  // [2005-WINTER] OVA: 魔法先生ネギま！麻帆良学園中等部２－Ａ：ホームルーム
+  // [2005-WINTER] OVA: 魔法先生ネギま！麻帆良学園中等部2-A：ホームルーム
   // https://annict.com/works/13805
   { annict_id: 13805 },
   // [2009-AUTUMN] OVA: プリンセスラバー！ピクチャードラマ
