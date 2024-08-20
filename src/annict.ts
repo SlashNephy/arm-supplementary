@@ -39857,4 +39857,13 @@ export const annict: ArmEntry[] = [
   // [2020-AUTUMN] WEB: PUPARIA
   // https://annict.com/works/13799
   { annict_id: 13799, mal_id: 44059 },
+  // [2009-AUTUMN] WEB: バカとテストと召喚獣 クリスマス特別映像
+  // https://annict.com/works/13800
+  { annict_id: 13800, mal_id: 7805 },
+  // [2010-SPRING] OVA: バカとテストと召喚獣 第1期 映像特典
+  // https://annict.com/works/13801
+  { annict_id: 13801, mal_id: 7870 },
+  // [2011-SUMMER] OVA: バカとテストと召喚獣SPINOUT! それが僕らの日常。遠征中
+  // https://annict.com/works/13802
+  { annict_id: 13802, mal_id: 10834 },
 ]
