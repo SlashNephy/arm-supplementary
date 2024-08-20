@@ -39866,4 +39866,10 @@ export const annict: ArmEntry[] = [
   // [2011-SUMMER] OVA: バカとテストと召喚獣SPINOUT! それが僕らの日常。遠征中
   // https://annict.com/works/13802
   { annict_id: 13802, mal_id: 10834 },
+  // [2011-AUTUMN] WEB: 因果日記
+  // https://annict.com/works/13803
+  { annict_id: 13803, mal_id: 12411 },
+  // [2014-SUMMER] WEB: へんたい！
+  // https://annict.com/works/13804
+  { annict_id: 13804 },
 ]
