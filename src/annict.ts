@@ -39884,4 +39884,7 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: ワンダンス
   // https://annict.com/works/13808
   { annict_id: 13808, mal_id: 59623 },
+  // [2025-null] TV: 雨と君と
+  // https://annict.com/works/13809
+  { annict_id: 13809, mal_id: 59619 },
 ]
