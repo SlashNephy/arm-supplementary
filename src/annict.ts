@@ -36359,7 +36359,7 @@ export const annict: ArmEntry[] = [
   // [null-null] WEB: ポケモンコンシェルジュ 新エピソード
   // https://annict.com/works/12631
   { annict_id: 12631 },
-  // [2024-null] TV: 嘆きの亡霊は引退したい
+  // [2024-AUTUMN] TV: 嘆きの亡霊は引退したい
   // https://annict.com/works/12632
   { annict_id: 12632, mal_id: 58172 },
   // [2024-WINTER] WEB: 「僕の心のヤバイやつ」×「Re:ゼロから始める異世界生活」 ミニドラマ
