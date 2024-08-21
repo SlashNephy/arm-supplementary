@@ -39835,7 +39835,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13791, mal_id: 37482 },
   // [2025-SPRING] TV: ウィッチウォッチ
   // https://annict.com/works/13792
-  { annict_id: 13792 },
+  { annict_id: 13792, mal_id: 59597 },
   // [2024-WINTER] MOVIE: シロッコと風の王国
   // https://annict.com/works/13793
   { annict_id: 13793 },
@@ -39881,4 +39881,7 @@ export const annict: ArmEntry[] = [
   // [2009-AUTUMN] OVA: プリンセスラバー！マジカル騎士マリアちゃん特別予告
   // https://annict.com/works/13807
   { annict_id: 13807 },
+  // [2025-null] TV: ワンダンス
+  // https://annict.com/works/13808
+  { annict_id: 13808, mal_id: 59623 },
 ]
