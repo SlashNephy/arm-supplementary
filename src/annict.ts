@@ -39896,4 +39896,19 @@ export const annict: ArmEntry[] = [
   // [2022-SUMMER] WEB: リッチマウンテン富山
   // https://annict.com/works/13812
   { annict_id: 13812, mal_id: 59627 },
+  // [1943-WINTER] MOVIE: 死への教育
+  // https://annict.com/works/13813
+  { annict_id: 13813 },
+  // [1943-SUMMER] MOVIE: 動機と感情
+  // https://annict.com/works/13814
+  { annict_id: 13814 },
+  // [1954-SPRING] MOVIE: ケイシーの野球チーム
+  // https://annict.com/works/13815
+  { annict_id: 13815 },
+  // [1967-WINTER] MOVIE: スクルージ・マクダックとお金
+  // https://annict.com/works/13816
+  { annict_id: 13816 },
+  // [1969-AUTUMN] MOVIE: トリはタフなり
+  // https://annict.com/works/13817
+  { annict_id: 13817 },
 ]
