@@ -32303,7 +32303,7 @@ export const annict: ArmEntry[] = [
   // [2001-WINTER] TV: フューチュラマ シーズン3
   // https://annict.com/works/11273
   { annict_id: 11273 },
-  // [2023-AUTUMN] WEB: 葬送のフリーレン ミニアニメ 「●●の魔法」
+  // [2023-AUTUMN] WEB: 葬送のフリーレン 〜●●の魔法〜
   // https://annict.com/works/11274
   { annict_id: 11274, mal_id: 56885 },
   // [2002-WINTER] TV: フューチュラマ シーズン4
