@@ -39887,4 +39887,7 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: 雨と君と
   // https://annict.com/works/13809
   { annict_id: 13809, mal_id: 59619 },
+  // [2023-WINTER] WEB: 齢5000年の草食ドラゴン、いわれなき邪竜認定 ちょこっと
+  // https://annict.com/works/13810
+  { annict_id: 13810, mal_id: 54684 },
 ]
