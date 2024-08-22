@@ -35794,13 +35794,13 @@ export const annict: ArmEntry[] = [
   { annict_id: 12440, mal_id: 57845, syobocal_tid: 7107 },
   // [2014-WINTER] WEB: 超合金ハローキティ オリジナルフラッシュアニメ
   // https://annict.com/works/12441
-  { annict_id: 12441 },
+  { annict_id: 12441, mal_id: 51432 },
   // [2016-WINTER] WEB: マジンガーZ×ハローキティ×超合金 オリジナルショートアニメ
   // https://annict.com/works/12442
-  { annict_id: 12442 },
+  { annict_id: 12442, mal_id: 51431 },
   // [2020-WINTER] WEB: 超合金 ガンダム★ハローキティ ショートアニメーション
   // https://annict.com/works/12443
-  { annict_id: 12443 },
+  { annict_id: 12443, mal_id: 59572 },
   // [2024-SUMMER] TV: よあそびぐらしっ！
   // https://annict.com/works/12444
   { annict_id: 12444, syobocal_tid: 7146 },
