@@ -38711,7 +38711,7 @@ export const annict: ArmEntry[] = [
   // [1950-SUMMER] MOVIE: 番犬プルート
   // https://annict.com/works/13417
   { annict_id: 13417 },
-  // [1950-AUTUMN] MOVIE: ドナルドといたずらばち
+  // [1950-AUTUMN] MOVIE: ドナルドのいたずらばち
   // https://annict.com/works/13418
   { annict_id: 13418 },
   // [1950-AUTUMN] MOVIE: グーフィーのカメラマン
