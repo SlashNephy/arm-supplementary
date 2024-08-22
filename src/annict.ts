@@ -39890,4 +39890,10 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] WEB: 齢5000年の草食ドラゴン、いわれなき邪竜認定 ちょこっと
   // https://annict.com/works/13810
   { annict_id: 13810, mal_id: 54684 },
+  // [2025-null] TV: まったく最近の探偵ときたら
+  // https://annict.com/works/13811
+  { annict_id: 13811 },
+  // [2022-SUMMER] WEB: リッチマウンテン富山
+  // https://annict.com/works/13812
+  { annict_id: 13812, mal_id: 59627 },
 ]
