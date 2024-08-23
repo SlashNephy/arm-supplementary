@@ -8162,7 +8162,7 @@ export const annict: ArmEntry[] = [
   // [2003-SUMMER] OVA: サブマリン707R
   // https://annict.com/works/2726
   { annict_id: 2726, mal_id: 1582, syobocal_tid: 561 },
-  // [1996-SPRING] OVA: サンチュクアリ
+  // [1996-SPRING] OVA: サンクチュアリ
   // https://annict.com/works/2727
   { annict_id: 2727, mal_id: 2698 },
   // [1990-AUTUMN] OVA: サーキットの狼ⅱ　モデナの剣
@@ -34823,9 +34823,6 @@ export const annict: ArmEntry[] = [
   // [2010-SPRING] TV: こひつじのティミー
   // https://annict.com/works/12116
   { annict_id: 12116 },
-  // [1996-SPRING] OVA: サンクチュアリ
-  // https://annict.com/works/12117
-  { annict_id: 12117, mal_id: 2698 },
   // [1988-SPRING] OVA: 赤い光弾ジリオン 歌姫夜曲
   // https://annict.com/works/12118
   { annict_id: 12118, mal_id: 2689 },
