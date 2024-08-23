@@ -36944,7 +36944,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: mono
   // https://annict.com/works/12827
   { annict_id: 12827, mal_id: 58492 },
-  // [2024-WINTER] OVA: ガールズ＆パンツァーOVA「タイチョウ・ウォー！」
+  // [2024-WINTER] OVA: ガールズ＆パンツァー OVA タイチョウ･ウォー！
   // https://annict.com/works/12828
   { annict_id: 12828 },
   // [2024-SUMMER] MOVIE: KING OF PRISM -Dramatic PRISM.1-
@@ -39914,4 +39914,10 @@ export const annict: ArmEntry[] = [
   // [2018-WINTER] OVA: 黒桜の部屋
   // https://annict.com/works/13819
   { annict_id: 13819 },
+  // [2025-null] TV: ウマ娘 シンデレラグレイ
+  // https://annict.com/works/13820
+  { annict_id: 13820 },
+  // [1969-SPRING] OTHER: ルパン三世 パイロット･フィルム
+  // https://annict.com/works/13821
+  { annict_id: 13821 },
 ]
