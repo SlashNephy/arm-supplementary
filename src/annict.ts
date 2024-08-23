@@ -7571,7 +7571,7 @@ export const annict: ArmEntry[] = [
   // [1998-AUTUMN] OVA: 青の6号
   // https://annict.com/works/2527
   { annict_id: 2527, mal_id: 1051, syobocal_tid: 1104 },
-  // [1999-WINTER] OVA: 青山剛昌短編集 (名探偵コナン)
+  // [1999-WINTER] OVA: 青山剛昌短編集
   // https://annict.com/works/2528
   { annict_id: 2528, mal_id: 5578 },
   // [1994-AUTUMN] OVA: 青空少女隊 801 TTS
@@ -7946,7 +7946,7 @@ export const annict: ArmEntry[] = [
   // [1996-WINTER] OVA: 機動戦士ガンダム 第08MS小隊
   // https://annict.com/works/2654
   { annict_id: 2654, mal_id: 81, syobocal_tid: 845 },
-  // [1999-SUMMER] OVA: 機動戦士ガンダム 第08MS小隊 ラスト・リゾート
+  // [1999-SUMMER] OVA: 機動戦士ガンダム 第08MS小隊 ラスト･リゾート
   // https://annict.com/works/2655
   { annict_id: 2655 },
   // [1988-SPRING] OVA: 機動警察パトレイバー アーリーデイズ
@@ -22049,7 +22049,7 @@ export const annict: ArmEntry[] = [
   // [2021-SPRING] TV: ましろのおと
   // https://annict.com/works/7624
   { annict_id: 7624, mal_id: 42590, syobocal_tid: 5932 },
-  // [2020-SUMMER] OVA: 僕のヒーローアカデミア オリジナルエピソード「生き残れ！決死のサバイバル訓練」
+  // [2020-SUMMER] OVA: 僕のヒーローアカデミア 生き残れ！決死のサバイバル訓練
   // https://annict.com/works/7625
   { annict_id: 7625, mal_id: 42603 },
   // [2020-AUTUMN] TV: 土下座で頼んでみた
@@ -26006,7 +26006,7 @@ export const annict: ArmEntry[] = [
   // [2021-AUTUMN] WEB: 太鼓の達人 アニメば～じょん！
   // https://annict.com/works/9104
   { annict_id: 9104 },
-  // [2022-WINTER] OVA: 無職転生 ～異世界行ったら本気だす～ テレビ未放送エピソード「エリスのゴブリン討伐」
+  // [2022-WINTER] OVA: 無職転生 ～異世界行ったら本気だす～ OVA
   // https://annict.com/works/9105
   { annict_id: 9105, mal_id: 50360 },
   // [2022-SUMMER] TV: シュート！Goal to the Future
@@ -27557,7 +27557,7 @@ export const annict: ArmEntry[] = [
   // [2022-SUMMER] OVA: ありふれた職業で世界最強 OVA「幻の冒険と奇跡の邂逅」
   // https://annict.com/works/9686
   { annict_id: 9686, mal_id: 51473 },
-  // [2019-WINTER] OVA: 僕のヒーローアカデミア「『ALL MIGHT：RISING』THE ANIMATION」
+  // [2019-WINTER] OVA: 僕のヒーローアカデミア 『ALL MIGHT：RISING』THE ANIMATION
   // https://annict.com/works/9687
   { annict_id: 9687, mal_id: 38699 },
   // [2022-SUMMER] WEB: 僕のヒーローアカデミア 新作オリジナルエピソード「HLB／笑え！地獄のように」
@@ -31718,7 +31718,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] TV: グレンダイザーU
   // https://annict.com/works/11078
   { annict_id: 11078, mal_id: 56189, syobocal_tid: 7115 },
-  // [2024-SUMMER] MOVIE: 僕のヒーローアカデミア THE MOVIE ユアネクスト
+  // [2024-SUMMER] MOVIE: 僕のヒーローアカデミア THE MOVIE ユア ネクスト
   // https://annict.com/works/11079
   { annict_id: 11079, mal_id: 56196 },
   // [2024-SPRING] TV: じいさんばあさん若返る
@@ -31994,7 +31994,7 @@ export const annict: ArmEntry[] = [
   // [2017-WINTER] WEB: トレインヒーロー 本日もスピン・アウト！ インドネシア編
   // https://annict.com/works/11170
   { annict_id: 11170, mal_id: 54805 },
-  // [2023-AUTUMN] OVA: 僕のヒーローアカデミア 新作オリジナルエピソード「雄英ヒーローズ・バトル」
+  // [2023-AUTUMN] OVA: 僕のヒーローアカデミア 雄英ヒーローズ・バトル
   // https://annict.com/works/11171
   { annict_id: 11171, mal_id: 56685 },
   // [2024-SPRING] TV: Re:Monster
@@ -39911,4 +39911,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] MOVIE: 鬼太郎誕生 ゲゲゲの謎 真生版
   // https://annict.com/works/13818
   { annict_id: 13818 },
+  // [2018-WINTER] OVA: 黒桜の部屋
+  // https://annict.com/works/13819
+  { annict_id: 13819 },
 ]
