@@ -39911,4 +39911,7 @@ export const annict: ArmEntry[] = [
   // [1969-AUTUMN] MOVIE: トリはタフなり
   // https://annict.com/works/13817
   { annict_id: 13817 },
+  // [2024-AUTUMN] MOVIE: 鬼太郎誕生 ゲゲゲの謎 真生版
+  // https://annict.com/works/13818
+  { annict_id: 13818 },
 ]
