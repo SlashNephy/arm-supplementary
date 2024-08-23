@@ -31274,7 +31274,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: 出来損ないと呼ばれた元英雄は、実家から追放されたので好き勝手に生きることにした
   // https://annict.com/works/10930
   { annict_id: 10930, mal_id: 55717, syobocal_tid: 7008 },
-  // [2024-null] OTHER: 未ル
+  // [2025-SPRING] TV: 未ル わたしのみらい
   // https://annict.com/works/10931
   { annict_id: 10931, mal_id: 55727 },
   // [2023-SUMMER] MOVIE: カールじいさんのデート
