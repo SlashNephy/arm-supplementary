@@ -19472,7 +19472,7 @@ export const annict: ArmEntry[] = [
   // [2019-SPRING] MOVIE: パンドラとアクビ
   // https://annict.com/works/6534
   { annict_id: 6534, mal_id: 39249 },
-  // [2019-SPRING] OVA: Fate/kaleid liner プリズマ☆イリヤ プリズマ☆ファンタズム
+  // [2019-SPRING] MOVIE: Fate/kaleid liner プリズマ☆イリヤ プリズマ☆ファンタズム
   // https://annict.com/works/6535
   { annict_id: 6535, mal_id: 38897 },
   // [2019-AUTUMN] TV: ラディアン 第2シリーズ
@@ -21137,7 +21137,7 @@ export const annict: ArmEntry[] = [
   // [2020-WINTER] OVA: 厨病激発ボーイ OVA(第12話)
   // https://annict.com/works/7222
   { annict_id: 7222, mal_id: 40465 },
-  // [2013-SUMMER] OTHER: Fate/kaleid liner プリズマ☆イリヤ ショートアニメ
+  // [2013-SUMMER] OVA: Fate/kaleid liner プリズマ☆イリヤ ショートアニメ
   // https://annict.com/works/7223
   { annict_id: 7223, mal_id: 19109 },
   // [2021-WINTER] TV: BEASTARS 第2期
@@ -21173,13 +21173,13 @@ export const annict: ArmEntry[] = [
   // [2020-SUMMER] TV: ソードアート・オンライン アリシゼーション War of Underworld ‐THE LAST SEASON‐
   // https://annict.com/works/7234
   { annict_id: 7234, mal_id: 40540, syobocal_tid: 5603 },
-  // [2014-SUMMER] OTHER: Fate/kaleid liner プリズマ☆イリヤ ツヴァイ！ ショートアニメ
+  // [2014-SUMMER] OVA: Fate/kaleid liner プリズマ☆イリヤ ツヴァイ！ ショートアニメ
   // https://annict.com/works/7235
   { annict_id: 7235, mal_id: 25011 },
-  // [2015-SUMMER] OTHER: Fate/kaleid liner プリズマ☆イリヤ ツヴァイ ヘルツ！ ショートアニメ
+  // [2015-SUMMER] OVA: Fate/kaleid liner プリズマ☆イリヤ ツヴァイ ヘルツ！ ショートアニメ
   // https://annict.com/works/7236
   { annict_id: 7236, mal_id: 31056 },
-  // [2016-SUMMER] OTHER: Fate/kaleid liner プリズマ☆イリヤ ドライ！ ショートアニメ
+  // [2016-SUMMER] OVA: Fate/kaleid liner プリズマ☆イリヤ ドライ！ ショートアニメ
   // https://annict.com/works/7237
   { annict_id: 7237, mal_id: 33456 },
   // [2019-AUTUMN] WEB: ランウェイで笑って ミニアニメ
