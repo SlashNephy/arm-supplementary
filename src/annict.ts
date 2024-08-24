@@ -39923,4 +39923,22 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] WEB: 『精霊幻想記』リーゼロッテのわくわくまじかる商会
   // https://annict.com/works/13822
   { annict_id: 13822, mal_id: 59629 },
+  // [1926-null] MOVIE: 映画演説 政治の倫理化 後藤新平 1926
+  // https://annict.com/works/13823
+  { annict_id: 13823, mal_id: 35366 },
+  // [1926-null] MOVIE: 病毒の伝播
+  // https://annict.com/works/13824
+  { annict_id: 13824, mal_id: 34992 },
+  // [1927-WINTER] MOVIE: みかん舩
+  // https://annict.com/works/13825
+  { annict_id: 13825, mal_id: 7497 },
+  // [1927-SPRING] MOVIE: 猿蟹合戰
+  // https://annict.com/works/13826
+  { annict_id: 13826, mal_id: 35391 },
+  // [1928-null] MOVIE: 漫畫 魚の國
+  // https://annict.com/works/13827
+  { annict_id: 13827, mal_id: 34958 },
+  // [1928-SUMMER] MOVIE: 漫画 花咲爺
+  // https://annict.com/works/13828
+  { annict_id: 13828, mal_id: 30086 },
 ]
