@@ -39889,7 +39889,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13810, mal_id: 54684 },
   // [2025-null] TV: まったく最近の探偵ときたら
   // https://annict.com/works/13811
-  { annict_id: 13811 },
+  { annict_id: 13811, mal_id: 59632 },
   // [2022-SUMMER] WEB: リッチマウンテン富山
   // https://annict.com/works/13812
   { annict_id: 13812, mal_id: 59627 },
@@ -39916,8 +39916,11 @@ export const annict: ArmEntry[] = [
   { annict_id: 13819 },
   // [2025-null] TV: ウマ娘 シンデレラグレイ
   // https://annict.com/works/13820
-  { annict_id: 13820 },
+  { annict_id: 13820, mal_id: 59636 },
   // [1969-SPRING] OTHER: ルパン三世 パイロット･フィルム
   // https://annict.com/works/13821
   { annict_id: 13821 },
+  // [2024-SUMMER] WEB: 『精霊幻想記』リーゼロッテのわくわくまじかる商会
+  // https://annict.com/works/13822
+  { annict_id: 13822, mal_id: 59629 },
 ]
