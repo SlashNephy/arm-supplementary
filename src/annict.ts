@@ -39920,7 +39920,7 @@ export const annict: ArmEntry[] = [
   // [1969-SPRING] OTHER: ルパン三世 パイロット･フィルム
   // https://annict.com/works/13821
   { annict_id: 13821 },
-  // [2024-SUMMER] WEB: 『精霊幻想記』リーゼロッテのわくわくまじかる商会
+  // [2024-SUMMER] WEB: リーゼロッテのわくわくまじかる商会
   // https://annict.com/works/13822
   { annict_id: 13822, mal_id: 59629 },
   // [1926-null] MOVIE: 映画演説 政治の倫理化 後藤新平 1926
@@ -39941,4 +39941,7 @@ export const annict: ArmEntry[] = [
   // [1928-SUMMER] MOVIE: 漫画 花咲爺
   // https://annict.com/works/13828
   { annict_id: 13828, mal_id: 30086 },
+  // [null-null] TV: 野生のラスボスが現れた！
+  // https://annict.com/works/13829
+  { annict_id: 13829, mal_id: 59644 },
 ]
