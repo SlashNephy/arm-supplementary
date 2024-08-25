@@ -18152,7 +18152,7 @@ export const annict: ArmEntry[] = [
   // [2017-AUTUMN] WEB: いたずら魔女と眠らない街
   // https://annict.com/works/6088
   { annict_id: 6088, mal_id: 36861 },
-  // [2019-SPRING] TV: 鬼滅の刃
+  // [2019-SPRING] TV: 鬼滅の刃 竈門炭治郎 立志編
   // https://annict.com/works/6089
   { annict_id: 6089, mal_id: 38000, syobocal_tid: 5253 },
   // [2013-AUTUMN] MOVIE: 劇場版 HUNTER×HUNTER -The LAST MISSION-
@@ -26672,7 +26672,7 @@ export const annict: ArmEntry[] = [
   // [1985-SPRING] MOVIE: 戦国魔神ゴーショーグン Goshogun IN 時の異邦人
   // https://annict.com/works/9390
   { annict_id: 9390, mal_id: 2511 },
-  // [2022-WINTER] WEB: ゲーム『ウマ娘 プリティーダービー』1st Anniversary Special Animation
+  // [2022-WINTER] WEB: ウマ娘 プリティーダービー 1st Anniversary Special Animation
   // https://annict.com/works/9391
   { annict_id: 9391, mal_id: 51225 },
   // [2023-WINTER] TV: NieR:Automata Ver1.1a
@@ -27560,7 +27560,7 @@ export const annict: ArmEntry[] = [
   // [2019-WINTER] OVA: 僕のヒーローアカデミア 『ALL MIGHT：RISING』THE ANIMATION
   // https://annict.com/works/9687
   { annict_id: 9687, mal_id: 38699 },
-  // [2022-SUMMER] WEB: 僕のヒーローアカデミア 新作オリジナルエピソード「HLB／笑え！地獄のように」
+  // [2022-SUMMER] WEB: 僕のヒーローアカデミア HLB/笑え！地獄のように
   // https://annict.com/works/9688
   { annict_id: 9688, mal_id: 51781 },
   // [2023-SUMMER] MOVIE: 特別編 響け！ユーフォニアム～アンサンブルコンテスト～
@@ -39913,13 +39913,13 @@ export const annict: ArmEntry[] = [
   { annict_id: 13818 },
   // [2018-WINTER] OVA: 黒桜の部屋
   // https://annict.com/works/13819
-  { annict_id: 13819 },
+  { annict_id: 13819, mal_id: 36833 },
   // [2025-null] TV: ウマ娘 シンデレラグレイ
   // https://annict.com/works/13820
   { annict_id: 13820, mal_id: 59636 },
   // [1969-SPRING] OTHER: ルパン三世 パイロット･フィルム
   // https://annict.com/works/13821
-  { annict_id: 13821 },
+  { annict_id: 13821, mal_id: 5225 },
   // [2024-SUMMER] WEB: リーゼロッテのわくわくまじかる商会
   // https://annict.com/works/13822
   { annict_id: 13822, mal_id: 59629 },
@@ -39944,4 +39944,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 野生のラスボスが現れた！
   // https://annict.com/works/13829
   { annict_id: 13829, mal_id: 59644 },
+  // [2024-AUTUMN] MOVIE: ロード・オブ・ザ・リング／ローハンの戦い
+  // https://annict.com/works/13830
+  { annict_id: 13830 },
 ]
