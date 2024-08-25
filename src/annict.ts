@@ -39929,7 +39929,7 @@ export const annict: ArmEntry[] = [
   // [1926-null] MOVIE: 病毒の伝播
   // https://annict.com/works/13824
   { annict_id: 13824, mal_id: 34992 },
-  // [1927-WINTER] MOVIE: みかん舩
+  // [1927-WINTER] MOVIE: みかん船
   // https://annict.com/works/13825
   { annict_id: 13825, mal_id: 7497 },
   // [1927-SPRING] MOVIE: 猿蟹合戰
