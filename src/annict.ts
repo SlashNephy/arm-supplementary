@@ -39950,4 +39950,7 @@ export const annict: ArmEntry[] = [
   // [2025-null] MOVIE: 劇場版総集編 呪術廻戦 懐玉・玉折
   // https://annict.com/works/13831
   { annict_id: 13831 },
+  // [2004-WINTER] MOVIE: ONE PIECE めざせ！海賊野球王
+  // https://annict.com/works/13832
+  { annict_id: 13832, mal_id: 2490 },
 ]
