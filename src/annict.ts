@@ -39947,4 +39947,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] MOVIE: ロード・オブ・ザ・リング／ローハンの戦い
   // https://annict.com/works/13830
   { annict_id: 13830 },
+  // [2025-null] MOVIE: 劇場版総集編 呪術廻戦 懐玉・玉折
+  // https://annict.com/works/13831
+  { annict_id: 13831 },
 ]
