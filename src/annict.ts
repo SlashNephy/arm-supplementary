@@ -39953,4 +39953,7 @@ export const annict: ArmEntry[] = [
   // [2004-WINTER] MOVIE: ONE PIECE めざせ！海賊野球王
   // https://annict.com/works/13832
   { annict_id: 13832, mal_id: 2490 },
+  // [2024-SUMMER] MOVIE: 機動戦士ガンダムSEED FREEDOM 特別版
+  // https://annict.com/works/13833
+  { annict_id: 13833 },
 ]
