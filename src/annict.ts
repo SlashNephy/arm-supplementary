@@ -39956,4 +39956,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] MOVIE: 機動戦士ガンダムSEED FREEDOM 特別版
   // https://annict.com/works/13833
   { annict_id: 13833 },
+  // [2024-AUTUMN] WEB: ばなにゃ あらうんど ざ わーるど
+  // https://annict.com/works/13834
+  { annict_id: 13834 },
 ]
