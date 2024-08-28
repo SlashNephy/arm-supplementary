@@ -1942,7 +1942,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 646, mal_id: 297, syobocal_tid: 487 },
   // [1974-SUMMER] TV: グレートマジンガー
   // https://annict.com/works/647
-  { annict_id: 647, mal_id: 5658 },
+  { annict_id: 647, mal_id: 5658, syobocal_tid: 7173 },
   // [1976-SUMMER] TV: グロイザーX
   // https://annict.com/works/648
   { annict_id: 648, mal_id: 5131 },
@@ -39964,5 +39964,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 13835, mal_id: 59649 },
   // [2025-null] TV: アポカリプスホテル
   // https://annict.com/works/13836
-  { annict_id: 13836 },
+  { annict_id: 13836, mal_id: 59675 },
 ]
