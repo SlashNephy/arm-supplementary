@@ -39958,7 +39958,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13833 },
   // [2024-AUTUMN] WEB: ばなにゃ あらうんど ざ わーるど
   // https://annict.com/works/13834
-  { annict_id: 13834 },
+  { annict_id: 13834, mal_id: 59666 },
   // [2024-SUMMER] TV: ななし怪談 第3期
   // https://annict.com/works/13835
   { annict_id: 13835, mal_id: 59649 },
