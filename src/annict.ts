@@ -27131,7 +27131,7 @@ export const annict: ArmEntry[] = [
   // [2013-AUTUMN] OVA: 世界でいちばん強くなりたい！TV未放送完全オリジナルショートムービー
   // https://annict.com/works/9544
   { annict_id: 9544, mal_id: 21009 },
-  // [2014-SPRING] OVA: とある科学の超電磁砲S OFFICIAL VISUAL BOOK特典「大事なことはぜんぶ銭湯に教わった」
+  // [2014-SPRING] OVA: とある科学の超電磁砲S OVA
   // https://annict.com/works/9545
   { annict_id: 9545, mal_id: 22759 },
   // [2006-WINTER] OVA: 舞-乙HiME 特典アニメ
@@ -39980,4 +39980,7 @@ export const annict: ArmEntry[] = [
   // [1999-WINTER] OVA: Rusty Nail
   // https://annict.com/works/13841
   { annict_id: 13841 },
+  // [null-null] OTHER: トランスフォーマー 40周年記念映像
+  // https://annict.com/works/13842
+  { annict_id: 13842 },
 ]
