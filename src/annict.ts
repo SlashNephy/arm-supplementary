@@ -35738,7 +35738,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] WEB: SAND LAND: THE SERIES
   // https://annict.com/works/12423
   { annict_id: 12423, mal_id: 57160 },
-  // [null-null] TV: 魔神創造伝ワタル
+  // [2025-WINTER] TV: 魔神創造伝ワタル
   // https://annict.com/works/12424
   { annict_id: 12424, mal_id: 57827 },
   // [2025-null] TV: 神椿市建設中。
@@ -39965,4 +39965,16 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: アポカリプスホテル
   // https://annict.com/works/13836
   { annict_id: 13836, mal_id: 59675 },
+  // [1997-SPRING] TV: トッド･マクファーレンのスポーン シーズン1
+  // https://annict.com/works/13837
+  { annict_id: 13837 },
+  // [1998-WINTER] TV: トッド･マクファーレンのスポーン シーズン2
+  // https://annict.com/works/13838
+  { annict_id: 13838 },
+  // [1999-WINTER] TV: トッド･マクファーレンのスポーン シーズン3
+  // https://annict.com/works/13839
+  { annict_id: 13839 },
+  // [2024-AUTUMN] TV: 百妖譜 第2期
+  // https://annict.com/works/13840
+  { annict_id: 13840, mal_id: 44067 },
 ]
