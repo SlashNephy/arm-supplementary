@@ -8270,7 +8270,7 @@ export const annict: ArmEntry[] = [
   // [2009-AUTUMN] OVA: 灼眼のシャナS
   // https://annict.com/works/2763
   { annict_id: 2763, mal_id: 6572, syobocal_tid: 2318 },
-  // [2006-AUTUMN] OVA: 灼眼のシャナSP「恋と温泉の校外学習!」
+  // [2006-AUTUMN] OVA: 灼眼のシャナSP
   // https://annict.com/works/2764
   { annict_id: 2764, mal_id: 1531, syobocal_tid: 2317 },
   // [2006-WINTER] OVA: 灼眼のシャナたん
