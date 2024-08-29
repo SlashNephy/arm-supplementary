@@ -39977,4 +39977,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: 百妖譜 第2期
   // https://annict.com/works/13840
   { annict_id: 13840, mal_id: 44067 },
+  // [1999-WINTER] OVA: Rusty Nail
+  // https://annict.com/works/13841
+  { annict_id: 13841 },
 ]
