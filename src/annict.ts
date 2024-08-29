@@ -32342,7 +32342,7 @@ export const annict: ArmEntry[] = [
   // [2004-SUMMER] TV: スパイダーマン(1994年)
   // https://annict.com/works/11286
   { annict_id: 11286, syobocal_tid: 439 },
-  // [2005-AUTUMN] TV: スパイダーマン・アンリミテッド
+  // [1999-AUTUMN] TV: スパイダーマン・アンリミテッド
   // https://annict.com/works/11287
   { annict_id: 11287 },
   // [2004-SPRING] TV: スパイダーマン 新アニメシリーズ
