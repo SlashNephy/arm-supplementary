@@ -17435,7 +17435,7 @@ export const annict: ArmEntry[] = [
   // [2016-SPRING] OVA: 血界戦線 OVA 王様のレストランの王様
   // https://annict.com/works/5846
   { annict_id: 5846, mal_id: 32574 },
-  // [2017-SUMMER] OVA: この素晴らしい世界に祝福を！2 OVA「この素晴らしい芸術に祝福を！」
+  // [2017-SUMMER] OVA: この素晴らしい世界に祝福を！2 OVA
   // https://annict.com/works/5847
   { annict_id: 5847, mal_id: 34626 },
   // [2015-WINTER] OVA: Free! -Eternal Summer- Extra Fr「禁断のオールハード！」
