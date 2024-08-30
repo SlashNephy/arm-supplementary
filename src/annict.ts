@@ -39203,7 +39203,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 無職転生Ⅲ ～異世界行ったら本気だす～
   // https://annict.com/works/13582
   { annict_id: 13582, mal_id: 59193 },
-  // [null-null] MOVIE: 劇場総集編 幻日のヨハネ -SUNSHINE in the MIRROR-
+  // [2024-AUTUMN] MOVIE: 劇場総集編 幻日のヨハネ -SUNSHINE in the MIRROR-
   // https://annict.com/works/13583
   { annict_id: 13583, mal_id: 59190 },
   // [1923-null] MOVIE: 口腔衛生
