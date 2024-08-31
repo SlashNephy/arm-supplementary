@@ -39979,7 +39979,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13840, mal_id: 44067 },
   // [1999-WINTER] OVA: Rusty Nail
   // https://annict.com/works/13841
-  { annict_id: 13841 },
+  { annict_id: 13841, mal_id: 28715 },
   // [null-null] OTHER: トランスフォーマー 40周年記念映像
   // https://annict.com/works/13842
   { annict_id: 13842 },
