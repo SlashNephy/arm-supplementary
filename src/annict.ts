@@ -39989,4 +39989,7 @@ export const annict: ArmEntry[] = [
   // [2015-SPRING] MOVIE: バットマン VS. ロビン
   // https://annict.com/works/13844
   { annict_id: 13844 },
+  // [2011-SPRING] MOVIE: メアリー＆マックス
+  // https://annict.com/works/13845
+  { annict_id: 13845 },
 ]
