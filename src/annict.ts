@@ -14999,7 +14999,7 @@ export const annict: ArmEntry[] = [
   // [2014-SPRING] TV: 猫ピッチャー
   // https://annict.com/works/5027
   { annict_id: 5027, mal_id: 23737 },
-  // [2016-AUTUMN] MOVIE: 好きになるその瞬間を。〜告白実行委員会〜
+  // [2016-AUTUMN] MOVIE: 好きになるその瞬間を。～告白実行委員会～
   // https://annict.com/works/5028
   { annict_id: 5028, mal_id: 33036 },
   // [2010-SPRING] TV: メタルファイトベイブレード 爆
