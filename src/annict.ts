@@ -39994,5 +39994,17 @@ export const annict: ArmEntry[] = [
   { annict_id: 13845 },
   // [null-null] TV: ようこそ実力至上主義の教室へ 4th Season 2年生編1学期
   // https://annict.com/works/13846
-  { annict_id: 13846 },
+  { annict_id: 13846, mal_id: 59708 },
+  // [2024-AUTUMN] MOVIE: 映画イナズマイレブン総集編 伝説のキックオフ
+  // https://annict.com/works/13847
+  { annict_id: 13847 },
+  // [2024-AUTUMN] MOVIE: 劇場版イナズマイレブン 新たなる英雄たちの序章
+  // https://annict.com/works/13848
+  { annict_id: 13848 },
+  // [null-null] OTHER: ゲーセン少女と異文化交流
+  // https://annict.com/works/13849
+  { annict_id: 13849, mal_id: 59689 },
+  // [null-null] TV: 死亡遊戯で飯を食う。
+  // https://annict.com/works/13850
+  { annict_id: 13850, mal_id: 59711 },
 ]
