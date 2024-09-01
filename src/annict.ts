@@ -39992,4 +39992,7 @@ export const annict: ArmEntry[] = [
   // [2011-SPRING] MOVIE: メアリー＆マックス
   // https://annict.com/works/13845
   { annict_id: 13845 },
+  // [null-null] TV: ようこそ実力至上主義の教室へ 4th Season 2年生編1学期
+  // https://annict.com/works/13846
+  { annict_id: 13846 },
 ]
