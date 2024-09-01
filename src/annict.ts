@@ -40007,4 +40007,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 死亡遊戯で飯を食う。
   // https://annict.com/works/13850
   { annict_id: 13850, mal_id: 59711 },
+  // [2011-AUTUMN] MOVIE: タンタンの冒険/ユニコーン号の秘密
+  // https://annict.com/works/13851
+  { annict_id: 13851 },
 ]
