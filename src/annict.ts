@@ -39997,10 +39997,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 13846, mal_id: 59708 },
   // [2024-AUTUMN] MOVIE: 映画イナズマイレブン総集編 伝説のキックオフ
   // https://annict.com/works/13847
-  { annict_id: 13847 },
+  { annict_id: 13847, mal_id: 59709 },
   // [2024-AUTUMN] MOVIE: 劇場版イナズマイレブン 新たなる英雄たちの序章
   // https://annict.com/works/13848
-  { annict_id: 13848 },
+  { annict_id: 13848, mal_id: 59710 },
   // [null-null] OTHER: ゲーセン少女と異文化交流
   // https://annict.com/works/13849
   { annict_id: 13849, mal_id: 59689 },
