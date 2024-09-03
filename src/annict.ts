@@ -40010,4 +40010,7 @@ export const annict: ArmEntry[] = [
   // [2011-AUTUMN] MOVIE: タンタンの冒険/ユニコーン号の秘密
   // https://annict.com/works/13851
   { annict_id: 13851 },
+  // [2009-SUMMER] OVA: 機動戦士ガンダム戦記 アバンタイトル
+  // https://annict.com/works/13853
+  { annict_id: 13853 },
 ]
