@@ -37247,7 +37247,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] WEB: 大槌超神楽ダイハンマー
   // https://annict.com/works/12929
   { annict_id: 12929 },
-  // [null-null] TV: YAIBA
+  // [null-null] TV: 真･侍伝 YAIBA
   // https://annict.com/works/12930
   { annict_id: 12930, mal_id: 58812 },
   // [2024-SPRING] WEB: AURA BATTLER DUNBINE SIDE L
