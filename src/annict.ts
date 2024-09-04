@@ -40013,4 +40013,7 @@ export const annict: ArmEntry[] = [
   // [2009-SUMMER] OVA: 機動戦士ガンダム戦記 アバンタイトル
   // https://annict.com/works/13853
   { annict_id: 13853 },
+  // [1955-null] MOVIE: おんぶおばけ
+  // https://annict.com/works/13854
+  { annict_id: 13854, mal_id: 7531 },
 ]
