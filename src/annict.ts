@@ -38669,7 +38669,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] WEB: ラニーちゃんとたんじょうびやさん
   // https://annict.com/works/13404
   { annict_id: 13404 },
-  // [2008-SPRING] TV: 星新一 ショートショート
+  // [2008-WINTER] TV: 星新一 ショートショート
   // https://annict.com/works/13405
   { annict_id: 13405, mal_id: 8191 },
   // [2008-SUMMER] MOVIE: 東京オンリーピック
@@ -40037,4 +40037,10 @@ export const annict: ArmEntry[] = [
   // [1931-SUMMER] MOVIE: ビン坊の結社加盟
   // https://annict.com/works/13861
   { annict_id: 13861 },
+  // [2003-SUMMER] WEB: なつみSTEP!
+  // https://annict.com/works/13862
+  { annict_id: 13862 },
+  // [2010-WINTER] TV: 星新一 ショートショート 新春スペシャル
+  // https://annict.com/works/13863
+  { annict_id: 13863 },
 ]
