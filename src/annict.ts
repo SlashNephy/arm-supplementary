@@ -40016,4 +40016,25 @@ export const annict: ArmEntry[] = [
   // [1955-null] MOVIE: おんぶおばけ
   // https://annict.com/works/13854
   { annict_id: 13854, mal_id: 7531 },
+  // [1931-WINTER] MOVIE: ビン坊の闘牛士
+  // https://annict.com/works/13855
+  { annict_id: 13855 },
+  // [1931-SPRING] MOVIE: ビン坊の列車強盗
+  // https://annict.com/works/13856
+  { annict_id: 13856 },
+  // [1931-SPRING] MOVIE: ビン坊の郵便屋
+  // https://annict.com/works/13857
+  { annict_id: 13857 },
+  // [1931-SPRING] MOVIE: ビン坊の海底探検
+  // https://annict.com/works/13858
+  { annict_id: 13858 },
+  // [1931-SPRING] MOVIE: ビン坊の寄席見物
+  // https://annict.com/works/13859
+  { annict_id: 13859 },
+  // [1931-SPRING] MOVIE: ビン坊の迷探偵
+  // https://annict.com/works/13860
+  { annict_id: 13860 },
+  // [1931-SUMMER] MOVIE: ビン坊の結社加盟
+  // https://annict.com/works/13861
+  { annict_id: 13861 },
 ]
