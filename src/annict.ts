@@ -40073,4 +40073,7 @@ export const annict: ArmEntry[] = [
   // [1963-null] TV: アニメーションミュージカル 新説おとぎばなし
   // https://annict.com/works/13873
   { annict_id: 13873 },
+  // [2024-SUMMER] WEB: LEGO ピクサー：ブリックトゥーンズ
+  // https://annict.com/works/13874
+  { annict_id: 13874 },
 ]
