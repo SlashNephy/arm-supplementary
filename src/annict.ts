@@ -40043,4 +40043,31 @@ export const annict: ArmEntry[] = [
   // [2010-WINTER] TV: 星新一 ショートショート 新春スペシャル
   // https://annict.com/works/13863
   { annict_id: 13863 },
+  // [2007-AUTUMN] TV: 星新一 ショートショート パイロット版
+  // https://annict.com/works/13864
+  { annict_id: 13864 },
+  // [2002-WINTER] WEB: 鉄路ゆかば‐ミチユカバ‐ 義勇装甲列車隊
+  // https://annict.com/works/13865
+  { annict_id: 13865 },
+  // [2003-SUMMER] WEB: 戦雲の高層都市
+  // https://annict.com/works/13866
+  { annict_id: 13866 },
+  // [2004-WINTER] WEB: 装脚戦車の憂鬱
+  // https://annict.com/works/13867
+  { annict_id: 13867 },
+  // [2004-SUMMER] WEB: オーニソプター
+  // https://annict.com/works/13868
+  { annict_id: 13868 },
+  // [2004-AUTUMN] WEB: ウシガエル
+  // https://annict.com/works/13869
+  { annict_id: 13869 },
+  // [2005-SUMMER] WEB: 春陽とわたし
+  // https://annict.com/works/13870
+  { annict_id: 13870 },
+  // [2005-SUMMER] WEB: 通勤大戦争
+  // https://annict.com/works/13871
+  { annict_id: 13871 },
+  // [1962-SUMMER] MOVIE: もぐらのモトロ
+  // https://annict.com/works/13872
+  { annict_id: 13872, mal_id: 23005 },
 ]
