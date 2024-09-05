@@ -40130,4 +40130,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: 大正偽りブラヰダル～身代わり花嫁と軍服の猛愛
   // https://annict.com/works/13892
   { annict_id: 13892 },
+  // [2024-SUMMER] WEB: アクロトリップ ミニ劇場
+  // https://annict.com/works/13893
+  { annict_id: 13893 },
 ]
