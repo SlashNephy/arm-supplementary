@@ -40124,4 +40124,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] TV: Aランクパーティを離脱した俺は、元教え子たちと迷宮深部を目指す。
   // https://annict.com/works/13890
   { annict_id: 13890, mal_id: 59730 },
+  // [2025-SPRING] TV: 前橋ウィッチーズ
+  // https://annict.com/works/13891
+  { annict_id: 13891 },
 ]
