@@ -40126,7 +40126,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13890, mal_id: 59730 },
   // [2025-SPRING] TV: 前橋ウィッチーズ
   // https://annict.com/works/13891
-  { annict_id: 13891 },
+  { annict_id: 13891, mal_id: 59744 },
   // [2024-AUTUMN] TV: 大正偽りブラヰダル～身代わり花嫁と軍服の猛愛
   // https://annict.com/works/13892
   { annict_id: 13892 },
