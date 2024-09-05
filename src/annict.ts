@@ -26762,7 +26762,7 @@ export const annict: ArmEntry[] = [
   // [2022-SUMMER] TV: 金装のヴェルメイユ ～崖っぷち魔術師は最強の厄災と魔法世界を突き進む～
   // https://annict.com/works/9420
   { annict_id: 9420, mal_id: 51213, syobocal_tid: 6366 },
-  // [2010-SUMMER] OVA: 四畳半神話大系 TV未放映エピソード
+  // [2010-SUMMER] OVA: 四畳半神話大系 OVA
   // https://annict.com/works/9421
   { annict_id: 9421, mal_id: 8985 },
   // [2022-SPRING] MOVIE: とんがり頭のごん太 ―2つの名前を生きた福島被災犬の物語―
