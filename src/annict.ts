@@ -40120,5 +40120,8 @@ export const annict: ArmEntry[] = [
   { annict_id: 13888 },
   // [null-null] TV: 追放された転生重騎士はゲーム知識で無双する
   // https://annict.com/works/13889
-  { annict_id: 13889 },
+  { annict_id: 13889, mal_id: 59741 },
+  // [2025-WINTER] TV: Aランクパーティを離脱した俺は、元教え子たちと迷宮深部を目指す。
+  // https://annict.com/works/13890
+  { annict_id: 13890, mal_id: 59730 },
 ]
