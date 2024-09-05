@@ -40085,4 +40085,40 @@ export const annict: ArmEntry[] = [
   // [1972-WINTER] TV: スヌーピーとかぼちゃ大王
   // https://annict.com/works/13877
   { annict_id: 13877 },
+  // [1972-WINTER] TV: スヌーピー、恋はつらいね
+  // https://annict.com/works/13878
+  { annict_id: 13878 },
+  // [1972-WINTER] TV: いたずらスヌーピー
+  // https://annict.com/works/13879
+  { annict_id: 13879 },
+  // [1972-WINTER] TV: スヌーピーの夏休み
+  // https://annict.com/works/13880
+  { annict_id: 13880 },
+  // [1975-AUTUMN] TV: スヌーピー 恋のかけひき
+  // https://annict.com/works/13881
+  { annict_id: 13881 },
+  // [1975-AUTUMN] TV: スヌーピーの選挙活動
+  // https://annict.com/works/13882
+  { annict_id: 13882 },
+  // [1924-null] MOVIE: のろまな爺
+  // https://annict.com/works/13883
+  { annict_id: 13883, mal_id: 28689 },
+  // [1976-WINTER] TV: スヌーピーの感謝祭
+  // https://annict.com/works/13884
+  { annict_id: 13884 },
+  // [1975-SUMMER] TV: スヌーピーは名探偵
+  // https://annict.com/works/13885
+  { annict_id: 13885 },
+  // [1976-WINTER] TV: スヌーピーのイースター
+  // https://annict.com/works/13886
+  { annict_id: 13886 },
+  // [1976-WINTER] TV: スヌーピーのバレンタイン
+  // https://annict.com/works/13887
+  { annict_id: 13887 },
+  // [1975-AUTUMN] TV: スヌーピー 恋はおあずけ
+  // https://annict.com/works/13888
+  { annict_id: 13888 },
+  // [null-null] TV: 追放された転生重騎士はゲーム知識で無双する
+  // https://annict.com/works/13889
+  { annict_id: 13889 },
 ]
