@@ -40076,4 +40076,13 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] WEB: LEGO ピクサー：ブリックトゥーンズ
   // https://annict.com/works/13874
   { annict_id: 13874 },
+  // [1971-AUTUMN] TV: スヌーピーのメリークリスマス
+  // https://annict.com/works/13875
+  { annict_id: 13875 },
+  // [1972-WINTER] TV: スヌーピーとオールスター
+  // https://annict.com/works/13876
+  { annict_id: 13876 },
+  // [1972-WINTER] TV: スヌーピーとかぼちゃ大王
+  // https://annict.com/works/13877
+  { annict_id: 13877 },
 ]
