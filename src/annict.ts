@@ -40196,4 +40196,7 @@ export const annict: ArmEntry[] = [
   // [1925-null] MOVIE: ノンキナトウサン 竜宮参り
   // https://annict.com/works/13914
   { annict_id: 13914, mal_id: 7495 },
+  // [1925-null] MOVIE: 勤倹貯蓄 塩原多助
+  // https://annict.com/works/13915
+  { annict_id: 13915, mal_id: 29555 },
 ]
