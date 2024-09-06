@@ -40181,4 +40181,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] WEB: 【崩壊：スターレイル】ショートアニメ「悠々自適」
   // https://annict.com/works/13909
   { annict_id: 13909 },
+  // [null-null] MOVIE: 活動写真
+  // https://annict.com/works/13910
+  { annict_id: 13910, mal_id: 33187 },
 ]
