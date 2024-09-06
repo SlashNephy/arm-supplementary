@@ -40175,4 +40175,10 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: ちょっとだけ愛が重いダークエルフが異世界から追いかけてきた
   // https://annict.com/works/13907
   { annict_id: 13907, mal_id: 59745 },
+  // [2024-SUMMER] WEB: PIHOTEK(ピヒュッティ) 北極を風と歩く
+  // https://annict.com/works/13908
+  { annict_id: 13908 },
+  // [2024-SUMMER] WEB: 【崩壊：スターレイル】ショートアニメ「悠々自適」
+  // https://annict.com/works/13909
+  { annict_id: 13909 },
 ]
