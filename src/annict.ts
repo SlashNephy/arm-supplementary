@@ -40184,4 +40184,13 @@ export const annict: ArmEntry[] = [
   // [null-null] MOVIE: 活動写真
   // https://annict.com/works/13910
   { annict_id: 13910, mal_id: 33187 },
+  // [null-null] MOVIE: 浦島太郎（仮）
+  // https://annict.com/works/13911
+  { annict_id: 13911 },
+  // [1922-null] OTHER: カテイ石鹸
+  // https://annict.com/works/13912
+  { annict_id: 13912, mal_id: 58829 },
+  // [1926-null] MOVIE: 山崎街道
+  // https://annict.com/works/13913
+  { annict_id: 13913 },
 ]
