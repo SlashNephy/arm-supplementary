@@ -33092,9 +33092,9 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] TV: 魔法使いの約束
   // https://annict.com/works/11537
   { annict_id: 11537, mal_id: 57152 },
-  // [null-null] TV: 孕むまで乱れいけ～身代わり花嫁と軍服の猛愛
+  // [2024-AUTUMN] TV: 大正偽りブラヰダル～身代わり花嫁と軍服の猛愛
   // https://annict.com/works/11538
-  { annict_id: 11538 },
+  { annict_id: 11538, mal_id: 59698 },
   // [1981-SUMMER] MOVIE: Dr.スランプ アラレちゃん ハロー!不思議島
   // https://annict.com/works/11540
   { annict_id: 11540, mal_id: 7666 },
@@ -38984,7 +38984,7 @@ export const annict: ArmEntry[] = [
   // [1928-SPRING] MOVIE: かわいそうなパパ
   // https://annict.com/works/13509
   { annict_id: 13509 },
-  // [2024-AUTUMN] TV: 殿と犬
+  // [2024-AUTUMN] TV: 殿と犬～わんわん！～
   // https://annict.com/works/13510
   { annict_id: 13510, mal_id: 57924 },
   // [null-null] TV: ばっどがーる
@@ -40127,9 +40127,6 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] TV: 前橋ウィッチーズ
   // https://annict.com/works/13891
   { annict_id: 13891, mal_id: 59744 },
-  // [2024-AUTUMN] TV: 大正偽りブラヰダル～身代わり花嫁と軍服の猛愛
-  // https://annict.com/works/13892
-  { annict_id: 13892 },
   // [2024-SUMMER] WEB: アクロトリップ ミニ劇場
   // https://annict.com/works/13893
   { annict_id: 13893 },
@@ -40199,4 +40196,22 @@ export const annict: ArmEntry[] = [
   // [1925-null] MOVIE: 勤倹貯蓄 塩原多助
   // https://annict.com/works/13915
   { annict_id: 13915, mal_id: 29555 },
+  // [2024-AUTUMN] TV: 殿と犬～ぽてぽて！～
+  // https://annict.com/works/13916
+  { annict_id: 13916, mal_id: 57924 },
+  // [2024-AUTUMN] TV: 殿と犬～くんくん！～
+  // https://annict.com/works/13917
+  { annict_id: 13917, mal_id: 57924 },
+  // [2024-AUTUMN] TV: 殿と犬～もふもふ！～
+  // https://annict.com/works/13918
+  { annict_id: 13918, mal_id: 57924 },
+  // [2024-AUTUMN] MOVIE: 銀魂オンシアター2D 金魂篇
+  // https://annict.com/works/13919
+  { annict_id: 13919, mal_id: 59688 },
+  // [2024-SPRING] TV: ニャンちゅうズ
+  // https://annict.com/works/13920
+  { annict_id: 13920 },
+  // [null-null] MOVIE: 火災予防［仮題］
+  // https://annict.com/works/13921
+  { annict_id: 13921, mal_id: 51804 },
 ]
