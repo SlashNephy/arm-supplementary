@@ -40190,7 +40190,10 @@ export const annict: ArmEntry[] = [
   // [1922-null] OTHER: カテイ石鹸
   // https://annict.com/works/13912
   { annict_id: 13912, mal_id: 58829 },
-  // [1926-null] MOVIE: 山崎街道
+  // [1926-null] MOVIE: 漫画 山崎街道
   // https://annict.com/works/13913
   { annict_id: 13913 },
+  // [1925-null] MOVIE: ノンキナトウサン 竜宮参り
+  // https://annict.com/works/13914
+  { annict_id: 13914, mal_id: 7495 },
 ]
