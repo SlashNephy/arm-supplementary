@@ -40139,4 +40139,40 @@ export const annict: ArmEntry[] = [
   // [1925-null] MOVIE: 蟹満寺縁起
   // https://annict.com/works/13895
   { annict_id: 13895, mal_id: 29551 },
+  // [1977-SPRING] TV: スヌーピーのモトクロス大会
+  // https://annict.com/works/13896
+  { annict_id: 13896 },
+  // [1977-SPRING] TV: スヌーピーの木をうえよう
+  // https://annict.com/works/13897
+  { annict_id: 13897 },
+  // [1978-WINTER] TV: スヌーピーとパーティクイーン
+  // https://annict.com/works/13898
+  { annict_id: 13898 },
+  // [1978-WINTER] TV: スヌーピーのこわい夢
+  // https://annict.com/works/13899
+  { annict_id: 13899 },
+  // [1981-WINTER] TV: スヌーピーのスポーツ大会
+  // https://annict.com/works/13900
+  { annict_id: 13900 },
+  // [1981-WINTER] TV: スヌーピーのスケートレッスン
+  // https://annict.com/works/13901
+  { annict_id: 13901 },
+  // [1981-SPRING] TV: スヌーピーのサーカス
+  // https://annict.com/works/13902
+  { annict_id: 13902 },
+  // [1982-SUMMER] TV: スヌーピーのマジックショー
+  // https://annict.com/works/13903
+  { annict_id: 13903 },
+  // [1982-SUMMER] TV: スヌーピー、あの子をさがして！
+  // https://annict.com/works/13904
+  { annict_id: 13904 },
+  // [1985-SPRING] TV: スヌーピーとチャーリー・ブラウン(1982年)
+  // https://annict.com/works/13905
+  { annict_id: 13905 },
+  // [1987-SUMMER] TV: 大冒険ダヨ！チャーリーブラウン
+  // https://annict.com/works/13906
+  { annict_id: 13906 },
+  // [2025-null] TV: ちょっとだけ愛が重いダークエルフが異世界から追いかけてきた
+  // https://annict.com/works/13907
+  { annict_id: 13907, mal_id: 59745 },
 ]
