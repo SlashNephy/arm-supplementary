@@ -38858,7 +38858,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: らんま1/2 (2024)
   // https://annict.com/works/13467
   { annict_id: 13467, mal_id: 59145 },
-  // [2025-null] TV: 不遇職【鑑定士】が実は最強だった
+  // [2025-WINTER] TV: 不遇職【鑑定士】が実は最強だった
   // https://annict.com/works/13468
   { annict_id: 13468, mal_id: 59144 },
   // [2025-WINTER] TV: Unnamed Memory Act.2
@@ -40256,4 +40256,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: ぬいストーリー2
   // https://annict.com/works/13935
   { annict_id: 13935 },
+  // [2024-AUTUMN] TV: とーがね！おまつり部＜再編集版＞
+  // https://annict.com/works/13936
+  { annict_id: 13936 },
 ]
