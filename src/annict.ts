@@ -40214,4 +40214,43 @@ export const annict: ArmEntry[] = [
   // [null-null] MOVIE: 火災予防［仮題］
   // https://annict.com/works/13921
   { annict_id: 13921, mal_id: 51804 },
+  // [1997-SUMMER] TV: スヌーピーのサ・ヨ・ナ・ラ
+  // https://annict.com/works/13922
+  { annict_id: 13922 },
+  // [1997-SUMMER] TV: ぼくたちのフランス旅行
+  // https://annict.com/works/13923
+  { annict_id: 13923 },
+  // [1997-SUMMER] TV: スヌーピーのフラッシュビーグル
+  // https://annict.com/works/13924
+  { annict_id: 13924 },
+  // [1997-SPRING] TV: スヌーピー、結婚するの？
+  // https://annict.com/works/13925
+  { annict_id: 13925 },
+  // [2010-SUMMER] OVA: きみはいい人、チャーリーブラウン
+  // https://annict.com/works/13926
+  { annict_id: 13926 },
+  // [1997-SUMMER] TV: スヌーピーのハッピー・ニュー・イヤー
+  // https://annict.com/works/13927
+  { annict_id: 13927 },
+  // [1997-SPRING] OVA: PEANUTSで英語を学ぼう SNOOPY THE MUSICAL
+  // https://annict.com/works/13928
+  { annict_id: 13928 },
+  // [1997-SUMMER] TV: スヌーピーはお医者さん？ チャーリー・ブラウンなぜなんだい？
+  // https://annict.com/works/13929
+  { annict_id: 13929 },
+  // [1997-WINTER] TV: スヌーピー誕生
+  // https://annict.com/works/13930
+  { annict_id: 13930 },
+  // [1997-SPRING] TV: スヌーピーの野球ゲーム
+  // https://annict.com/works/13931
+  { annict_id: 13931 },
+  // [1997-SUMMER] TV: スヌーピーとチャーリー・ブラウンのクリスマス・ストーリー
+  // https://annict.com/works/13932
+  { annict_id: 13932 },
+  // [1999-SUMMER] OVA: お誕生日おめでとう
+  // https://annict.com/works/13933
+  { annict_id: 13933 },
+  // [1996-AUTUMN] TV: チャーリー・ブラウンとスヌーピー(TVシリーズ)
+  // https://annict.com/works/13934
+  { annict_id: 13934 },
 ]
