@@ -27670,7 +27670,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9723, mal_id: 52214, syobocal_tid: 6734 },
   // [2024-AUTUMN] TV: チ。 ―地球の運動について―
   // https://annict.com/works/9724
-  { annict_id: 9724, mal_id: 52215 },
+  { annict_id: 9724, mal_id: 52215, syobocal_tid: 7198 },
   // [1989-AUTUMN] OVA: アッセンブル・インサート
   // https://annict.com/works/9725
   { annict_id: 9725, mal_id: 2414 },
@@ -28726,7 +28726,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10077, mal_id: 52990, syobocal_tid: 6864 },
   // [2024-AUTUMN] TV: ありふれた職業で世界最強 season 3
   // https://annict.com/works/10078
-  { annict_id: 10078, mal_id: 52995 },
+  { annict_id: 10078, mal_id: 52995, syobocal_tid: 7185 },
   // [2023-AUTUMN] TV: 葬送のフリーレン
   // https://annict.com/works/10079
   { annict_id: 10079, mal_id: 52991, syobocal_tid: 6776 },
@@ -29830,7 +29830,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10446, mal_id: 53428, syobocal_tid: 6748 },
   // [2024-AUTUMN] TV: アクロトリップ
   // https://annict.com/works/10447
-  { annict_id: 10447, mal_id: 53723 },
+  { annict_id: 10447, mal_id: 53723, syobocal_tid: 7187 },
   // [2022-AUTUMN] WEB: 小林さんのツンデレ講座
   // https://annict.com/works/10448
   { annict_id: 10448, mal_id: 53958 },
@@ -30394,7 +30394,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10635, mal_id: 54863 },
   // [2024-AUTUMN] TV: ブルーロック VS. U-20 JAPAN
   // https://annict.com/works/10636
-  { annict_id: 10636, mal_id: 54865 },
+  { annict_id: 10636, mal_id: 54865, syobocal_tid: 7189 },
   // [2024-SPRING] MOVIE: 劇場版ブルーロック -EPISODE 凪-
   // https://annict.com/works/10637
   { annict_id: 10637, mal_id: 54866 },
@@ -30625,7 +30625,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10713, mal_id: 55194, syobocal_tid: 7029 },
   // [2024-AUTUMN] TV: 甘神さんちの縁結び
   // https://annict.com/works/10714
-  { annict_id: 10714, mal_id: 55071 },
+  { annict_id: 10714, mal_id: 55071, syobocal_tid: 7196 },
   // [2012-SPRING] TV: リトル・チャロ東北編
   // https://annict.com/works/10715
   { annict_id: 10715, mal_id: 13465 },
@@ -31426,7 +31426,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10980, mal_id: 55813, syobocal_tid: 6944 },
   // [2024-AUTUMN] TV: 夏目友人帳 漆
   // https://annict.com/works/10981
-  { annict_id: 10981, mal_id: 55823 },
+  { annict_id: 10981, mal_id: 55823, syobocal_tid: 7192 },
   // [null-null] TV: 地獄楽 第二期
   // https://annict.com/works/10982
   { annict_id: 10982, mal_id: 55825 },
@@ -31444,7 +31444,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10986, mal_id: 52293 },
   // [2024-AUTUMN] TV: 村井の恋
   // https://annict.com/works/10987
-  { annict_id: 10987, mal_id: 52080 },
+  { annict_id: 10987, mal_id: 52080, syobocal_tid: 7190 },
   // [null-null] TV: リビルドワールド
   // https://annict.com/works/10988
   { annict_id: 10988, mal_id: 55843 },
@@ -31564,7 +31564,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11026, mal_id: 50713, syobocal_tid: 7028 },
   // [2024-AUTUMN] TV: ソードアート・オンライン オルタナティブ ガンゲイル・オンラインII
   // https://annict.com/works/11027
-  { annict_id: 11027, mal_id: 55994 },
+  { annict_id: 11027, mal_id: 55994, syobocal_tid: 7182 },
   // [2025-null] TV: 男女の友情は成立する？（いや、しないっ!!）
   // https://annict.com/works/11028
   { annict_id: 11028, mal_id: 52709 },
@@ -32233,7 +32233,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11249, mal_id: 56838, syobocal_tid: 7039 },
   // [2024-AUTUMN] TV: 合コンに行ったら女がいなかった話
   // https://annict.com/works/11250
-  { annict_id: 11250, mal_id: 56843 },
+  { annict_id: 11250, mal_id: 56843, syobocal_tid: 7176 },
   // [2002-SUMMER] MOVIE: 劇場版サルゲッチュ 黄金のピポヘル・ウッキーバトル
   // https://annict.com/works/11251
   { annict_id: 11251, mal_id: 31052 },
@@ -32260,7 +32260,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11258, mal_id: 56845, syobocal_tid: 6911 },
   // [2024-AUTUMN] TV: ハミダシクリエイティブ
   // https://annict.com/works/11259
-  { annict_id: 11259, mal_id: 56461 },
+  { annict_id: 11259, mal_id: 56461, syobocal_tid: 7186 },
   // [1966-AUTUMN] TV: グリンチのクリスマス
   // https://annict.com/works/11260
   { annict_id: 11260 },
@@ -32995,7 +32995,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11503, mal_id: 35108 },
   // [2024-AUTUMN] TV: ダンジョンに出会いを求めるのは間違っているだろうかⅤ 豊穣の女神篇
   // https://annict.com/works/11504
-  { annict_id: 11504, mal_id: 57066 },
+  { annict_id: 11504, mal_id: 57066, syobocal_tid: 7183 },
   // [2015-SUMMER] OTHER: ゼーガペイン PROJECT RESURRECTION 8.3.1.2015
   // https://annict.com/works/11506
   { annict_id: 11506 },
@@ -33790,7 +33790,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11770, mal_id: 5693 },
   // [2024-AUTUMN] TV: ダンダダン
   // https://annict.com/works/11771
-  { annict_id: 11771, mal_id: 57334 },
+  { annict_id: 11771, mal_id: 57334, syobocal_tid: 7188 },
   // [1985-AUTUMN] OVA: 吸血鬼ハンター"D"
   // https://annict.com/works/11772
   { annict_id: 11772, mal_id: 732 },
@@ -33859,7 +33859,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11793, mal_id: 1736 },
   // [2024-AUTUMN] TV: 株式会社マジルミエ
   // https://annict.com/works/11794
-  { annict_id: 11794, mal_id: 57360 },
+  { annict_id: 11794, mal_id: 57360, syobocal_tid: 7181 },
   // [1928-AUTUMN] MOVIE: 蒸気船ウィリー
   // https://annict.com/works/11795
   { annict_id: 11795 },
@@ -33883,7 +33883,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11801, mal_id: 57380, syobocal_tid: 7108 },
   // [2024-AUTUMN] TV: 星降る王国のニナ
   // https://annict.com/works/11802
-  { annict_id: 11802, mal_id: 57362 },
+  { annict_id: 11802, mal_id: 57362, syobocal_tid: 7197 },
   // [1984-WINTER] MOVIE: 綿の国星
   // https://annict.com/works/11803
   { annict_id: 11803, mal_id: 1207, syobocal_tid: 2888 },
@@ -34666,7 +34666,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12063, mal_id: 36662 },
   // [2024-AUTUMN] TV: ぷにるはかわいいスライム
   // https://annict.com/works/12064
-  { annict_id: 12064, mal_id: 57517 },
+  { annict_id: 12064, mal_id: 57517, syobocal_tid: 7184 },
   // [1989-AUTUMN] OVA: 魔狩人 デーモンハンター
   // https://annict.com/works/12065
   { annict_id: 12065, mal_id: 6184 },
@@ -34864,7 +34864,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12130, mal_id: 16331 },
   // [2024-AUTUMN] TV: 百姓貴族 2nd Season
   // https://annict.com/works/12131
-  { annict_id: 12131, mal_id: 57562 },
+  { annict_id: 12131, mal_id: 57562, syobocal_tid: 7194 },
   // [2023-AUTUMN] MOVIE: ムーミンパパの思い出
   // https://annict.com/works/12132
   { annict_id: 12132 },
@@ -35077,7 +35077,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12202, mal_id: 57605, syobocal_tid: 6812 },
   // [2024-AUTUMN] TV: 君は冥土様。
   // https://annict.com/works/12203
-  { annict_id: 12203, mal_id: 57611 },
+  { annict_id: 12203, mal_id: 57611, syobocal_tid: 7177 },
   // [null-null] TV: 帰還者の魔法は特別です 第2期
   // https://annict.com/works/12204
   { annict_id: 12204, mal_id: 57612 },
@@ -35161,7 +35161,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12230 },
   // [2024-AUTUMN] TV: 鴨乃橋ロンの禁断推理 2nd Season
   // https://annict.com/works/12231
-  { annict_id: 12231, mal_id: 57635 },
+  { annict_id: 12231, mal_id: 57635, syobocal_tid: 7191 },
   // [2024-SPRING] TV: 新幹線変形ロボ シンカリオン チェンジ ザ ワールド
   // https://annict.com/works/12232
   { annict_id: 12232, mal_id: 57798, syobocal_tid: 7015 },
@@ -35839,7 +35839,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12456, mal_id: 57892, syobocal_tid: 7141 },
   // [2024-AUTUMN] TV: ひとりぼっちの異世界攻略
   // https://annict.com/works/12457
-  { annict_id: 12457, mal_id: 57891 },
+  { annict_id: 12457, mal_id: 57891, syobocal_tid: 7179 },
   // [2016-SUMMER] WEB: マウスどうぶつえん
   // https://annict.com/works/12458
   { annict_id: 12458, mal_id: 54129 },
@@ -36871,7 +36871,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12802 },
   // [2024-AUTUMN] TV: さようなら竜生、こんにちは人生
   // https://annict.com/works/12803
-  { annict_id: 12803, mal_id: 58445 },
+  { annict_id: 12803, mal_id: 58445, syobocal_tid: 7199 },
   // [1988-null] MOVIE: 不射之射
   // https://annict.com/works/12804
   { annict_id: 12804, mal_id: 7477 },
@@ -37060,7 +37060,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12865, mal_id: 58573 },
   // [2024-AUTUMN] TV: シャングリラ・フロンティア〜クソゲーハンター、神ゲーに挑まんとす〜 2nd season
   // https://annict.com/works/12866
-  { annict_id: 12866, mal_id: 58572 },
+  { annict_id: 12866, mal_id: 58572, syobocal_tid: 7180 },
   // [2021-WINTER] WEB: ギャビーのドールハウス
   // https://annict.com/works/12867
   { annict_id: 12867, syobocal_tid: 7055 },
@@ -40253,4 +40253,7 @@ export const annict: ArmEntry[] = [
   // [1996-AUTUMN] TV: チャーリー・ブラウンとスヌーピー(TVシリーズ)
   // https://annict.com/works/13934
   { annict_id: 13934 },
+  // [2024-AUTUMN] WEB: ぬいストーリー2
+  // https://annict.com/works/13935
+  { annict_id: 13935 },
 ]
