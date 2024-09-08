@@ -40259,4 +40259,40 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: とーがね！おまつり部＜再編集版＞
   // https://annict.com/works/13936
   { annict_id: 13936 },
+  // [2011-WINTER] OVA: 恋するスヌーピー
+  // https://annict.com/works/13937
+  { annict_id: 13937 },
+  // [2010-SUMMER] OVA: スヌーピーのクリスマス・テイルズ
+  // https://annict.com/works/13938
+  { annict_id: 13938 },
+  // [2022-WINTER] WEB: トレード候補はルーシーだね、チャーリー・ブラウン
+  // https://annict.com/works/13939
+  { annict_id: 13939 },
+  // [2009-AUTUMN] OVA: スヌーピーのクリスマス・プレゼント
+  // https://annict.com/works/13940
+  { annict_id: 13940 },
+  // [2009-WINTER] OVA: スヌーピーのいじめっ子と勝負
+  // https://annict.com/works/13941
+  { annict_id: 13941 },
+  // [2011-SUMMER] OVA: HAPPINESS IS：スヌーピーと幸せのブランケット
+  // https://annict.com/works/13942
+  { annict_id: 13942 },
+  // [2014-SUMMER] OVA: スヌーピーと学ぼう！アメリカの歴史
+  // https://annict.com/works/13943
+  { annict_id: 13943 },
+  // [2019-AUTUMN] WEB: スヌーピー 宇宙への道：生命を探して
+  // https://annict.com/works/13944
+  { annict_id: 13944 },
+  // [2021-AUTUMN] WEB: スヌーピー 宇宙への道：生命を探して シーズン2
+  // https://annict.com/works/13945
+  { annict_id: 13945 },
+  // [2021-AUTUMN] WEB: スヌーピー プレゼンツ：蛍の光
+  // https://annict.com/works/13946
+  { annict_id: 13946 },
+  // [2022-SPRING] WEB: スヌーピー プレゼンツ：それは小さなことだけど
+  // https://annict.com/works/13947
+  { annict_id: 13947 },
+  // [2022-SPRING] WEB: スヌーピー プレゼンツ：ママ大好き(パパも)
+  // https://annict.com/works/13948
+  { annict_id: 13948 },
 ]
