@@ -40295,4 +40295,10 @@ export const annict: ArmEntry[] = [
   // [2022-SPRING] WEB: スヌーピー プレゼンツ：ママ大好き(パパも)
   // https://annict.com/works/13948
   { annict_id: 13948 },
+  // [2022-SUMMER] WEB: スヌーピー プレゼンツ：ようこそ！ルーシーの学校へ
+  // https://annict.com/works/13949
+  { annict_id: 13949 },
+  // [2023-SUMMER] WEB: スヌーピー プレゼンツ：マーシー、あなたは特別
+  // https://annict.com/works/13950
+  { annict_id: 13950 },
 ]
