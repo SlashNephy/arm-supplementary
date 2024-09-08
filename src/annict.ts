@@ -40307,4 +40307,7 @@ export const annict: ArmEntry[] = [
   // [1972-SUMMER] MOVIE: スヌーピーとチャーリー(映画)
   // https://annict.com/works/13952
   { annict_id: 13952 },
+  // [1973-SUMMER] MOVIE: スヌーピーの大冒険
+  // https://annict.com/works/13953
+  { annict_id: 13953 },
 ]
