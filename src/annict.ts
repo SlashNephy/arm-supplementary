@@ -40301,4 +40301,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] WEB: スヌーピー プレゼンツ：マーシー、あなたは特別
   // https://annict.com/works/13950
   { annict_id: 13950 },
+  // [2024-WINTER] WEB: スヌーピー プレゼンツ：おかえり、フランクリン
+  // https://annict.com/works/13951
+  { annict_id: 13951 },
 ]
