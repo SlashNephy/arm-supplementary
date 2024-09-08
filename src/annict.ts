@@ -40310,4 +40310,10 @@ export const annict: ArmEntry[] = [
   // [1973-SUMMER] MOVIE: スヌーピーの大冒険
   // https://annict.com/works/13953
   { annict_id: 13953 },
+  // [1977-SUMMER] MOVIE: がんばれ！スヌーピー
+  // https://annict.com/works/13954
+  { annict_id: 13954 },
+  // [1999-SUMMER] OVA: スヌーピーとチャーリー／ヨーロッパの旅
+  // https://annict.com/works/13955
+  { annict_id: 13955 },
 ]
