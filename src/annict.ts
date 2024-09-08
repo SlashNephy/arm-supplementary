@@ -36985,7 +36985,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12840, mal_id: 58514 },
   // [2024-SPRING] MOVIE: 劇場用再編集版 ウマ娘 プリティーダービー ROAD TO THE TOP
   // https://annict.com/works/12841
-  { annict_id: 12841 },
+  { annict_id: 12841, mal_id: 58517 },
   // [2002-null] WEB: CATMAN
   // https://annict.com/works/12842
   { annict_id: 12842, mal_id: 4419 },
