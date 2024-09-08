@@ -40274,7 +40274,7 @@ export const annict: ArmEntry[] = [
   // [2009-WINTER] OVA: スヌーピーのいじめっ子と勝負
   // https://annict.com/works/13941
   { annict_id: 13941 },
-  // [2011-SUMMER] OVA: HAPPINESS IS：スヌーピーと幸せのブランケット
+  // [2011-SUMMER] OVA: Happiness is: スヌーピーと幸せのブランケット
   // https://annict.com/works/13942
   { annict_id: 13942 },
   // [2014-SUMMER] OVA: スヌーピーと学ぼう！アメリカの歴史
