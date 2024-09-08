@@ -40304,4 +40304,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] WEB: スヌーピー プレゼンツ：おかえり、フランクリン
   // https://annict.com/works/13951
   { annict_id: 13951 },
+  // [1972-SUMMER] MOVIE: スヌーピーとチャーリー(映画)
+  // https://annict.com/works/13952
+  { annict_id: 13952 },
 ]
