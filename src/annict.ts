@@ -25349,7 +25349,7 @@ export const annict: ArmEntry[] = [
   // [2021-SUMMER] TV: 鬼滅の刃 竈門炭治郎 立志編 特別編集版
   // https://annict.com/works/8853
   { annict_id: 8853 },
-  // [2021-SUMMER] OTHER: ドラえもん＆Fキャラオールスターズ すこしふしぎ超特急(エクスプレス)
+  // [2021-SUMMER] MOVIE: ドラえもん＆Fキャラオールスターズ すこしふしぎ超特急(エクスプレス)
   // https://annict.com/works/8854
   { annict_id: 8854 },
   // [2022-WINTER] TV: 平家物語
