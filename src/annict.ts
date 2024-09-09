@@ -40316,4 +40316,7 @@ export const annict: ArmEntry[] = [
   // [1999-SUMMER] OVA: スヌーピーとチャーリー／ヨーロッパの旅
   // https://annict.com/works/13955
   { annict_id: 13955 },
+  // [2011-AUTUMN] OTHER: 藤子・F・不二雄ミュージアム 短編アニメ
+  // https://annict.com/works/13956
+  { annict_id: 13956 },
 ]
