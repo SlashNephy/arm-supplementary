@@ -30685,7 +30685,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10733, mal_id: 55149 },
   // [2024-AUTUMN] TV: やり直し令嬢は竜帝陛下を攻略中
   // https://annict.com/works/10734
-  { annict_id: 10734, mal_id: 55150 },
+  { annict_id: 10734, mal_id: 55150, syobocal_tid: 7202 },
   // [2023-AUTUMN] TV: 柚木さんちの四兄弟。
   // https://annict.com/works/10735
   { annict_id: 10735, mal_id: 55153, syobocal_tid: 6796 },
@@ -39584,7 +39584,7 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: ロックは淑女の嗜みでして
   // https://annict.com/works/13709
   { annict_id: 13709, mal_id: 59360 },
-  // [null-null] TV: この会社に好きな人がいます
+  // [2025-WINTER] TV: この会社に好きな人がいます
   // https://annict.com/works/13710
   { annict_id: 13710, mal_id: 59361 },
   // [1930-SUMMER] MOVIE: 脱線水兵エロ行脚
