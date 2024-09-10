@@ -40322,4 +40322,10 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: ロメリア戦記
   // https://annict.com/works/13957
   { annict_id: 13957 },
+  // [null-null] MOVIE: 千鳥の曲
+  // https://annict.com/works/13958
+  { annict_id: 13958, mal_id: 51802 },
+  // [null-null] MOVIE: チャップリンとクーガン［仮題］
+  // https://annict.com/works/13959
+  { annict_id: 13959, mal_id: 51803 },
 ]
