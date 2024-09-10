@@ -40328,4 +40328,7 @@ export const annict: ArmEntry[] = [
   // [null-null] MOVIE: チャップリンとクーガン［仮題］
   // https://annict.com/works/13959
   { annict_id: 13959, mal_id: 51803 },
+  // [null-null] MOVIE: 軟尖集
+  // https://annict.com/works/13960
+  { annict_id: 13960 },
 ]
