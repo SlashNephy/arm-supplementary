@@ -36935,7 +36935,7 @@ export const annict: ArmEntry[] = [
   // [1933-SPRING] MOVIE: 三匹の子ぶた
   // https://annict.com/works/12824
   { annict_id: 12824 },
-  // [null-null] TV: 異修羅 第2期
+  // [2025-WINTER] TV: 異修羅 第2期
   // https://annict.com/works/12825
   { annict_id: 12825, mal_id: 58484 },
   // [2024-AUTUMN] MOVIE: がんばっていきまっしょい
