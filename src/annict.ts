@@ -40328,4 +40328,10 @@ export const annict: ArmEntry[] = [
   // [null-null] MOVIE: 軟尖集
   // https://annict.com/works/13960
   { annict_id: 13960 },
+  // [1980-WINTER] MOVIE: アニマリンピックス
+  // https://annict.com/works/13961
+  { annict_id: 13961 },
+  // [1965-SPRING] MOVIE: 死んだ時間
+  // https://annict.com/works/13962
+  { annict_id: 13962 },
 ]
