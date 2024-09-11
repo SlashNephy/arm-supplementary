@@ -40334,4 +40334,10 @@ export const annict: ArmEntry[] = [
   // [1965-SPRING] MOVIE: 死んだ時間
   // https://annict.com/works/13962
   { annict_id: 13962 },
+  // [2000-AUTUMN] WEB: あずまんがWeb大王
+  // https://annict.com/works/13963
+  { annict_id: 13963, mal_id: 1593 },
+  // [1930-AUTUMN] MOVIE: ちょん切れ蛇
+  // https://annict.com/works/13964
+  { annict_id: 13964 },
 ]
