@@ -30223,7 +30223,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10578, mal_id: 54722, syobocal_tid: 6897 },
   // [2024-AUTUMN] TV: 妻、小学生になる。
   // https://annict.com/works/10579
-  { annict_id: 10579, mal_id: 54726 },
+  { annict_id: 10579, mal_id: 54726, syobocal_tid: 7205 },
   // [2023-AUTUMN] TV: 暴食のベルセルク
   // https://annict.com/works/10580
   { annict_id: 10580, mal_id: 53439, syobocal_tid: 6847 },
@@ -31726,7 +31726,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11080, mal_id: 56230, syobocal_tid: 6999 },
   // [2024-AUTUMN] TV: 歴史に残る悪女になるぞ
   // https://annict.com/works/11081
-  { annict_id: 11081, mal_id: 56228 },
+  { annict_id: 11081, mal_id: 56228, syobocal_tid: 7204 },
   // [2024-WINTER] TV: 戦国妖狐 世直し姉弟編
   // https://annict.com/works/11082
   { annict_id: 11082, mal_id: 56242, syobocal_tid: 6923 },
@@ -31765,7 +31765,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11093, mal_id: 11561 },
   // [2024-AUTUMN] TV: 魔王様、リトライ！R
   // https://annict.com/works/11094
-  { annict_id: 11094, mal_id: 56400 },
+  { annict_id: 11094, mal_id: 56400, syobocal_tid: 7206 },
   // [2023-AUTUMN] WEB: スコット・ピルグリム テイクス・オフ
   // https://annict.com/works/11095
   { annict_id: 11095 },
@@ -33235,7 +33235,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11585, mal_id: 52635, syobocal_tid: 7133 },
   // [2024-AUTUMN] TV: アオのハコ
   // https://annict.com/works/11586
-  { annict_id: 11586, mal_id: 57181 },
+  { annict_id: 11586, mal_id: 57181, syobocal_tid: 7201 },
   // [2023-AUTUMN] WEB: ラプソディ
   // https://annict.com/works/11587
   { annict_id: 11587 },
@@ -34705,7 +34705,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12076, mal_id: 57538 },
   // [2024-AUTUMN] TV: 妖怪学校の先生はじめました！
   // https://annict.com/works/12077
-  { annict_id: 12077, mal_id: 57533 },
+  { annict_id: 12077, mal_id: 57533, syobocal_tid: 7207 },
   // [null-null] OTHER: 理想のヒモ生活
   // https://annict.com/works/12078
   { annict_id: 12078, mal_id: 57528 },
@@ -34843,7 +34843,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12123, mal_id: 57557 },
   // [2024-AUTUMN] TV: MFゴースト 2nd Season
   // https://annict.com/works/12124
-  { annict_id: 12124, mal_id: 57559 },
+  { annict_id: 12124, mal_id: 57559, syobocal_tid: 7200 },
   // [2024-AUTUMN] TV: るろうに剣心 -明治剣客浪漫譚- 京都動乱
   // https://annict.com/works/12125
   { annict_id: 12125, mal_id: 57554 },
@@ -38746,7 +38746,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13429, mal_id: 56285, syobocal_tid: 7150 },
   // [2024-AUTUMN] TV: 転生貴族、鑑定スキルで成り上がる 第2期
   // https://annict.com/works/13430
-  { annict_id: 13430, mal_id: 59131 },
+  { annict_id: 13430, mal_id: 59131, syobocal_tid: 7203 },
   // [1942-WINTER] MOVIE: 新しい精神
   // https://annict.com/works/13431
   { annict_id: 13431 },
