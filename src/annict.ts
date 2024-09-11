@@ -38111,7 +38111,7 @@ export const annict: ArmEntry[] = [
   // [1941-WINTER] MOVIE: プルートの泣き虫
   // https://annict.com/works/13217
   { annict_id: 13217 },
-  // [2025-null] TV: 花は咲く、修羅の如く
+  // [2025-WINTER] TV: 花は咲く、修羅の如く
   // https://annict.com/works/13218
   { annict_id: 13218, mal_id: 59055 },
   // [2024-SUMMER] MOVIE: インサイド・ヘッド2
