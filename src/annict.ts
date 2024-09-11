@@ -40070,7 +40070,7 @@ export const annict: ArmEntry[] = [
   // [1962-SUMMER] MOVIE: もぐらのモトロ
   // https://annict.com/works/13872
   { annict_id: 13872, mal_id: 23005 },
-  // [1963-null] TV: アニメーションミュージカル 新説おとぎばなし
+  // [1963-WINTER] TV: アニメーション ミュージカル 「新説おとぎばなし」
   // https://annict.com/works/13873
   { annict_id: 13873 },
   // [2024-SUMMER] WEB: LEGO ピクサー：ブリックトゥーンズ
