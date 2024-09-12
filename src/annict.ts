@@ -40346,4 +40346,7 @@ export const annict: ArmEntry[] = [
   // [2013-SPRING] TV: 銀魂×豆しば
   // https://annict.com/works/13966
   { annict_id: 13966 },
+  // [null-null] MOVIE: サルカニ合戦
+  // https://annict.com/works/13967
+  { annict_id: 13967, mal_id: 30059 },
 ]
