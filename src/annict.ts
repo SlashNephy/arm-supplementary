@@ -40352,4 +40352,7 @@ export const annict: ArmEntry[] = [
   // [1948-null] MOVIE: きつねとサーカス
   // https://annict.com/works/13968
   { annict_id: 13968, mal_id: 24363 },
+  // [2024-AUTUMN] WEB: 『おそ松さん』超ショートアニメ
+  // https://annict.com/works/13969
+  { annict_id: 13969 },
 ]
