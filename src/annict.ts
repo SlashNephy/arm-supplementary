@@ -40361,4 +40361,7 @@ export const annict: ArmEntry[] = [
   // [1992-AUTUMN] MOVIE: 翔ちゃん空をとぶ
   // https://annict.com/works/13971
   { annict_id: 13971 },
+  // [2024-AUTUMN] OVA: エルフさんは痩せられない。 TV未放送オリジナルエピソード
+  // https://annict.com/works/13972
+  { annict_id: 13972 },
 ]
