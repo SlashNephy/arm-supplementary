@@ -19145,7 +19145,7 @@ export const annict: ArmEntry[] = [
   // [2020-WINTER] TV: 魔術士オーフェンはぐれ旅
   // https://annict.com/works/6422
   { annict_id: 6422, mal_id: 37576, syobocal_tid: 5520 },
-  // [2018-AUTUMN] OVA: STEINS;GATE 0 未放送話「結晶多形のヴァレンティヌス」
+  // [2018-AUTUMN] OVA: STEINS;GATE 0 OVA
   // https://annict.com/works/6423
   { annict_id: 6423, mal_id: 37492 },
   // [2018-AUTUMN] WEB: 悪魔城ドラキュラ －キャッスルヴァニア－ シーズン2
