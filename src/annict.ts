@@ -40355,7 +40355,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] WEB: 『おそ松さん』超ショートアニメ
   // https://annict.com/works/13969
   { annict_id: 13969 },
-  // [2024-SUMMER] WEB: トランスフォーマー40周年記念　スペシャルムービー
+  // [2024-SUMMER] WEB: トランスフォーマー40周年記念 スペシャルムービー
   // https://annict.com/works/13970
   { annict_id: 13970, mal_id: 59807 },
 ]
