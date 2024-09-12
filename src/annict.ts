@@ -40358,4 +40358,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] WEB: トランスフォーマー40周年記念 スペシャルムービー
   // https://annict.com/works/13970
   { annict_id: 13970, mal_id: 59807 },
+  // [1992-AUTUMN] MOVIE: 翔ちゃん空をとぶ
+  // https://annict.com/works/13971
+  { annict_id: 13971 },
 ]
