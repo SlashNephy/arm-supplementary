@@ -36728,7 +36728,7 @@ export const annict: ArmEntry[] = [
   // [1935-WINTER] MOVIE: ターチャンの海底旅行
   // https://annict.com/works/12755
   { annict_id: 12755, mal_id: 6834 },
-  // [1935-AUTUMN] MOVIE: 忍術火の玉小僧～江戸の巻～
+  // [1935-AUTUMN] MOVIE: 忍術火の玉小僧 江戸の巻
   // https://annict.com/works/12756
   { annict_id: 12756, mal_id: 6833 },
   // [1935-null] MOVIE: 證城寺の狸囃子 塙團右衛門
