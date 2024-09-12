@@ -40340,4 +40340,10 @@ export const annict: ArmEntry[] = [
   // [1930-AUTUMN] MOVIE: ちょん切れ蛇
   // https://annict.com/works/13964
   { annict_id: 13964 },
+  // [2017-SPRING] TV: 豆司波
+  // https://annict.com/works/13965
+  { annict_id: 13965 },
+  // [2013-SPRING] TV: 銀魂×豆しば
+  // https://annict.com/works/13966
+  { annict_id: 13966 },
 ]
