@@ -40349,4 +40349,7 @@ export const annict: ArmEntry[] = [
   // [null-null] MOVIE: サルカニ合戦
   // https://annict.com/works/13967
   { annict_id: 13967, mal_id: 30059 },
+  // [1948-null] MOVIE: きつねとサーカス
+  // https://annict.com/works/13968
+  { annict_id: 13968, mal_id: 24363 },
 ]
