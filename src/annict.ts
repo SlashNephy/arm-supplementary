@@ -40370,4 +40370,7 @@ export const annict: ArmEntry[] = [
   // [1974-null] MOVIE: しあわせの王子
   // https://annict.com/works/13974
   { annict_id: 13974 },
+  // [1956-null] MOVIE: ビールむかしむかし
+  // https://annict.com/works/13975
+  { annict_id: 13975, mal_id: 29897 },
 ]
