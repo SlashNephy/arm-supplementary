@@ -40373,4 +40373,7 @@ export const annict: ArmEntry[] = [
   // [1956-null] MOVIE: ビールむかしむかし
   // https://annict.com/works/13975
   { annict_id: 13975, mal_id: 29897 },
+  // [2025-WINTER] MOVIE: 映画おしりたんてい スター・アンド・ムーン
+  // https://annict.com/works/13976
+  { annict_id: 13976 },
 ]
