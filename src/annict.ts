@@ -40382,4 +40382,7 @@ export const annict: ArmEntry[] = [
   // [null-null] MOVIE: ガールズバンドクライ 劇場版総集編 後編
   // https://annict.com/works/13978
   { annict_id: 13978 },
+  // [2025-null] TV: 瑠璃の宝石
+  // https://annict.com/works/13979
+  { annict_id: 13979, mal_id: 59791 },
 ]
