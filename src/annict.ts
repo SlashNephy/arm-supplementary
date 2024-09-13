@@ -40376,10 +40376,10 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] MOVIE: 映画おしりたんてい スター・アンド・ムーン
   // https://annict.com/works/13976
   { annict_id: 13976 },
-  // [null-null] MOVIE: 『ガールズバンドクライ』劇場版総集編 前編
+  // [null-null] MOVIE: ガールズバンドクライ 劇場版総集編 前編
   // https://annict.com/works/13977
   { annict_id: 13977 },
-  // [null-null] MOVIE: 『ガールズバンドクライ』劇場版総集編 後編
+  // [null-null] MOVIE: ガールズバンドクライ 劇場版総集編 後編
   // https://annict.com/works/13978
   { annict_id: 13978 },
 ]
