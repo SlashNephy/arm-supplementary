@@ -40382,4 +40382,7 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: 瑠璃の宝石
   // https://annict.com/works/13979
   { annict_id: 13979, mal_id: 59791 },
+  // [2024-AUTUMN] TV: クマーバ シーズン2
+  // https://annict.com/works/13980
+  { annict_id: 13980 },
 ]
