@@ -25349,7 +25349,7 @@ export const annict: ArmEntry[] = [
   // [2021-SUMMER] TV: 鬼滅の刃 竈門炭治郎 立志編 特別編集版
   // https://annict.com/works/8853
   { annict_id: 8853 },
-  // [2021-SUMMER] MOVIE: ドラえもん&Fキャラオールスターズ「すこし不思議超特急 (エクスプレス)」
+  // [2021-SUMMER] OTHER: ドラえもん&Fキャラオールスターズ「すこし不思議超特急 (エクスプレス)」
   // https://annict.com/works/8854
   { annict_id: 8854 },
   // [2022-WINTER] TV: 平家物語
@@ -32491,7 +32491,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11335, mal_id: 58779 },
   // [2024-AUTUMN] TV: 来世は他人がいい
   // https://annict.com/works/11336
-  { annict_id: 11336, mal_id: 56964 },
+  { annict_id: 11336, mal_id: 56964, syobocal_tid: 7212 },
   // [2012-AUTUMN] TV: 紙兎ロペ 〜笑う朝には福来たるってマジっすか!?
   // https://annict.com/works/11337
   { annict_id: 11337, mal_id: 13817 },
@@ -35875,7 +35875,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12468, mal_id: 57947, syobocal_tid: 7098 },
   // [2024-AUTUMN] TV: パーティーから追放されたその治癒師、実は最強につき
   // https://annict.com/works/12469
-  { annict_id: 12469, mal_id: 57944 },
+  { annict_id: 12469, mal_id: 57944, syobocal_tid: 7215 },
   // [2021-WINTER] OTHER: 多数欠 (ショートアニメ)
   // https://annict.com/works/12470
   { annict_id: 12470, mal_id: 42805 },
@@ -37006,7 +37006,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12847, mal_id: 58515 },
   // [2024-AUTUMN] TV: 青の祓魔師 雪ノ果篇
   // https://annict.com/works/12848
-  { annict_id: 12848, mal_id: 58516 },
+  { annict_id: 12848, mal_id: 58516, syobocal_tid: 7211 },
   // [null-null] TV: 佐々木とピーちゃん シーズン2
   // https://annict.com/works/12849
   { annict_id: 12849, mal_id: 58518 },
@@ -37168,7 +37168,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12902, mal_id: 29780 },
   // [2024-AUTUMN] TV: 最凶の支援職【話術士】である俺は世界最強クランを従える
   // https://annict.com/works/12903
-  { annict_id: 12903, mal_id: 58714 },
+  { annict_id: 12903, mal_id: 58714, syobocal_tid: 7216 },
   // [null-null] OTHER: 忍者と殺し屋のふたりぐらし
   // https://annict.com/works/12904
   { annict_id: 12904, mal_id: 58725 },
@@ -37342,7 +37342,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12960, mal_id: 58853 },
   // [2024-AUTUMN] TV: きのこいぬ
   // https://annict.com/works/12961
-  { annict_id: 12961, mal_id: 58854 },
+  { annict_id: 12961, mal_id: 58854, syobocal_tid: 7209 },
   // [1930-SUMMER] MOVIE: 真夜中のおもちゃ屋
   // https://annict.com/works/12962
   { annict_id: 12962 },
@@ -39115,7 +39115,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13552, mal_id: 59177 },
   // [2024-AUTUMN] TV: オーイ! とんぼ 第2期
   // https://annict.com/works/13553
-  { annict_id: 13553, mal_id: 59175 },
+  { annict_id: 13553, mal_id: 59175, syobocal_tid: 7217 },
   // [2024-AUTUMN] MOVIE: 風都探偵 仮面ライダースカルの肖像
   // https://annict.com/works/13554
   { annict_id: 13554 },
@@ -39655,7 +39655,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13732, mal_id: 59424 },
   // [2024-AUTUMN] TV: ネガポジアングラー
   // https://annict.com/works/13733
-  { annict_id: 13733, mal_id: 59425 },
+  { annict_id: 13733, mal_id: 59425, syobocal_tid: 7210 },
   // [null-null] OTHER: セーラーゾンビ
   // https://annict.com/works/13734
   { annict_id: 13734, mal_id: 59420 },
