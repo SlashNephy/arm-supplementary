@@ -40433,7 +40433,7 @@ export const annict: ArmEntry[] = [
   // [2007-SPRING] MOVIE: 十人十色のアニメーション
   // https://annict.com/works/13996
   { annict_id: 13996 },
-  // [2024-SUMMER] MOVIE: As Time Goes By~時の過ぎゆくままに
+  // [2024-SUMMER] MOVIE: As Time Goes By～時の過ぎゆくままに
   // https://annict.com/works/13997
   { annict_id: 13997 },
 ]
