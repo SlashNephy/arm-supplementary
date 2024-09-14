@@ -25349,7 +25349,7 @@ export const annict: ArmEntry[] = [
   // [2021-SUMMER] TV: 鬼滅の刃 竈門炭治郎 立志編 特別編集版
   // https://annict.com/works/8853
   { annict_id: 8853 },
-  // [2021-SUMMER] MOVIE: ドラえもん＆Fキャラオールスターズ すこしふしぎ超特急(エクスプレス)
+  // [2021-SUMMER] MOVIE: ドラえもん&Fキャラオールスターズ「すこし不思議超特急 (エクスプレス)」
   // https://annict.com/works/8854
   { annict_id: 8854 },
   // [2022-WINTER] TV: 平家物語
@@ -40385,4 +40385,40 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: クマーバ シーズン2
   // https://annict.com/works/13980
   { annict_id: 13980 },
+  // [2011-AUTUMN] OTHER: 真夜中のミュージアム / どたばたオーケストラ
+  // https://annict.com/works/13981
+  { annict_id: 13981 },
+  // [2011-SUMMER] OTHER: Fキャラオールスターズ大集合「ドラえもん&パーマン 危機一髪!?」
+  // https://annict.com/works/13982
+  { annict_id: 13982 },
+  // [2012-AUTUMN] OTHER: 21エモン&ドラえもん「ようこそ!ホテルつづれ屋へ」
+  // https://annict.com/works/13983
+  { annict_id: 13983 },
+  // [2013-SUMMER] OTHER: すすめロボケット&ドラえもん「決戦!雲の上の竜巻城」
+  // https://annict.com/works/13984
+  { annict_id: 13984 },
+  // [2014-SUMMER] OTHER: ドラえもん&チンプイ「エリ様 愛のプレゼント大作戦」
+  // https://annict.com/works/13985
+  { annict_id: 13985 },
+  // [2015-SUMMER] OTHER: キテレツ大百科&ドラえもん「コロ助のはじめてのおつかい」
+  // https://annict.com/works/13986
+  { annict_id: 13986 },
+  // [2016-SUMMER] OTHER: ポコニャン&ドラえもん「ポンポコニャンでここほれニャンニャン!?」
+  // https://annict.com/works/13987
+  { annict_id: 13987 },
+  // [2017-SUMMER] OTHER: ウメ星デンカ&ドラえもん「パンパロパンのスッパッパ!」
+  // https://annict.com/works/13988
+  { annict_id: 13988 },
+  // [2019-WINTER] OTHER: ドラえもん&Fキャラオールスターズ「月面レースで大ピンチ!?」
+  // https://annict.com/works/13989
+  { annict_id: 13989 },
+  // [2020-WINTER] OTHER: ドラえもん誕生 / セイカイはのび太?
+  // https://annict.com/works/13990
+  { annict_id: 13990 },
+  // [2023-WINTER] OTHER: ドラえもん&SF短編「宇宙 (そら) からのオトシダマ」
+  // https://annict.com/works/13991
+  { annict_id: 13991 },
+  // [2024-WINTER] OTHER: ドラえもん&Fキャラオールスターズ「ゆめの町、Fランド」
+  // https://annict.com/works/13992
+  { annict_id: 13992 },
 ]
