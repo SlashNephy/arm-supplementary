@@ -39980,9 +39980,6 @@ export const annict: ArmEntry[] = [
   // [1999-WINTER] OVA: Rusty Nail
   // https://annict.com/works/13841
   { annict_id: 13841, mal_id: 28715 },
-  // [null-null] OTHER: トランスフォーマー 40周年記念映像
-  // https://annict.com/works/13842
-  { annict_id: 13842 },
   // [2019-WINTER] MOVIE: バットマン vs ミュータント･タートルズ
   // https://annict.com/works/13843
   { annict_id: 13843 },
