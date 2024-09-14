@@ -40384,7 +40384,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13979, mal_id: 59791 },
   // [2024-AUTUMN] TV: クマーバ シーズン2
   // https://annict.com/works/13980
-  { annict_id: 13980 },
+  { annict_id: 13980, mal_id: 59123 },
   // [2011-AUTUMN] OTHER: 真夜中のミュージアム / どたばたオーケストラ
   // https://annict.com/works/13981
   { annict_id: 13981 },
@@ -40421,4 +40421,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] OTHER: ドラえもん&Fキャラオールスターズ「ゆめの町、Fランド」
   // https://annict.com/works/13992
   { annict_id: 13992 },
+  // [2025-SPRING] TV: 小市民シリーズ 第2期
+  // https://annict.com/works/13993
+  { annict_id: 13993 },
 ]
