@@ -40424,4 +40424,16 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] TV: 小市民シリーズ 第2期
   // https://annict.com/works/13993
   { annict_id: 13993 },
+  // [2019-null] MOVIE: ･･･を待ちながら
+  // https://annict.com/works/13994
+  { annict_id: 13994 },
+  // [2023-null] MOVIE: switch / on
+  // https://annict.com/works/13995
+  { annict_id: 13995 },
+  // [2007-SPRING] MOVIE: 十人十色のアニメーション
+  // https://annict.com/works/13996
+  { annict_id: 13996 },
+  // [2024-SUMMER] MOVIE: As Time Goes By~時の過ぎゆくままに
+  // https://annict.com/works/13997
+  { annict_id: 13997 },
 ]
