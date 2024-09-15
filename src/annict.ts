@@ -18845,9 +18845,9 @@ export const annict: ArmEntry[] = [
   // [2019-SUMMER] TV: 女子高生の無駄づかい
   // https://annict.com/works/6322
   { annict_id: 6322, mal_id: 38619, syobocal_tid: 5348 },
-  // [2024-AUTUMN] TV: 魔法使いになれなかった女の子の話。
+  // [2024-AUTUMN] TV: 魔法使いになれなかった女の子の話
   // https://annict.com/works/6323
-  { annict_id: 6323, mal_id: 58173 },
+  { annict_id: 6323, mal_id: 58173, syobocal_tid: 7219 },
   // [2018-AUTUMN] WEB: せいぜいがんばれ！魔法少女くるみ (第2期)
   // https://annict.com/works/6324
   { annict_id: 6324, mal_id: 38175 },
@@ -40439,4 +40439,7 @@ export const annict: ArmEntry[] = [
   // [2019-AUTUMN] OVA: 飛び出せ一方さん ハチャメチャ快進撃
   // https://annict.com/works/13999
   { annict_id: 13999 },
+  // [null-null] OTHER: 霧尾ファンクラブ
+  // https://annict.com/works/14000
+  { annict_id: 14000 },
 ]
