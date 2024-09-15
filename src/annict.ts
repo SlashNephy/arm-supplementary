@@ -6263,9 +6263,6 @@ export const annict: ArmEntry[] = [
   // [1982-SPRING] TV: 魔境伝説アクロバンチ
   // https://annict.com/works/2091
   { annict_id: 2091, mal_id: 3880 },
-  // [1974-SPRING] TV: 魔女っ子メグちゃん
-  // https://annict.com/works/2092
-  { annict_id: 2092 },
   // [2003-SPRING] TV: 魔探偵ロキ RAGNAROK
   // https://annict.com/works/2093
   { annict_id: 2093, mal_id: 335, syobocal_tid: 16 },
@@ -26366,7 +26363,7 @@ export const annict: ArmEntry[] = [
   // [2021-WINTER] WEB: あなたから聴く物語
   // https://annict.com/works/9256
   { annict_id: 9256 },
-  // [1975-AUTUMN] TV: わんぱく大昔クムクム
+  // [1975-AUTUMN] TV: まんが・わんぱく大昔クムクム
   // https://annict.com/works/9257
   { annict_id: 9257, mal_id: 8240 },
   // [2023-AUTUMN] TV: MFゴースト
@@ -40436,4 +40433,10 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] MOVIE: As Time Goes By～時の過ぎゆくままに
   // https://annict.com/works/13997
   { annict_id: 13997 },
+  // [null-null] OVA: この素晴らしい世界に祝福を！3 新作OVA
+  // https://annict.com/works/13998
+  { annict_id: 13998 },
+  // [2019-AUTUMN] OVA: 飛び出せ一方さん ハチャメチャ快進撃
+  // https://annict.com/works/13999
+  { annict_id: 13999 },
 ]
