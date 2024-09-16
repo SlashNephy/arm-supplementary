@@ -24212,7 +24212,7 @@ export const annict: ArmEntry[] = [
   // [2021-SPRING] TV: 猫ジョッキー
   // https://annict.com/works/8409
   { annict_id: 8409, mal_id: 48790, syobocal_tid: 6011 },
-  // [2025-AUTUMN] MOVIE: 劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉
+  // [2025-WINTER] MOVIE: 劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉
   // https://annict.com/works/8410
   { annict_id: 8410, mal_id: 48820 },
   // [2022-SPRING] MOVIE: 劇場版 Free!-the Final Stroke- 後編
@@ -25900,7 +25900,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9069, mal_id: 49979, syobocal_tid: 6447 },
   // [2024-AUTUMN] TV: 精霊幻想記2
   // https://annict.com/works/9070
-  { annict_id: 9070, mal_id: 50306 },
+  { annict_id: 9070, mal_id: 50306, syobocal_tid: 7221 },
   // [2021-AUTUMN] WEB: バトルスピリッツ ミラージュ
   // https://annict.com/works/9071
   { annict_id: 9071, mal_id: 48810 },
@@ -30376,7 +30376,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10630, mal_id: 54859, syobocal_tid: 7035 },
   // [2024-AUTUMN] TV: 魔王2099
   // https://annict.com/works/10631
-  { annict_id: 10631, mal_id: 54853 },
+  { annict_id: 10631, mal_id: 54853, syobocal_tid: 7220 },
   // [2023-WINTER] TV: さみしいあなた
   // https://annict.com/works/10632
   { annict_id: 10632, syobocal_tid: 6615 },
@@ -36355,7 +36355,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12631 },
   // [2024-AUTUMN] TV: 嘆きの亡霊は引退したい
   // https://annict.com/works/12632
-  { annict_id: 12632, mal_id: 58172 },
+  { annict_id: 12632, mal_id: 58172, syobocal_tid: 7218 },
   // [2024-WINTER] WEB: 「僕の心のヤバイやつ」×「Re:ゼロから始める異世界生活」 ミニドラマ
   // https://annict.com/works/12633
   { annict_id: 12633 },
