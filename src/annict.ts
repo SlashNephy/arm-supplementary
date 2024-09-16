@@ -40445,10 +40445,22 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: 薫る花は凛と咲く
   // https://annict.com/works/14001
   { annict_id: 14001, mal_id: 59845 },
-  // [2025-SUMMER] MOVIE: ヴァージン・パンク「Clockwork Girl」
+  // [2025-SUMMER] MOVIE: ヴァージン・パンク Clockwork Girl
   // https://annict.com/works/14002
   { annict_id: 14002, mal_id: 59848 },
   // [2025-null] TV: ばいばい、アース 第2シーズン
   // https://annict.com/works/14003
   { annict_id: 14003, mal_id: 59819 },
+  // [2024-AUTUMN] MOVIE: 俺だけレベルアップな件 -ReAwakening-
+  // https://annict.com/works/14004
+  { annict_id: 14004, mal_id: 59841 },
+  // [2025-WINTER] OVA: アルドノア・ゼロ EP24.5：雨の断章 -The Penultimate Truth-
+  // https://annict.com/works/14005
+  { annict_id: 14005, mal_id: 59843 },
+  // [2025-null] TV: 最後にひとつだけお願いしてもよろしいでしょうか
+  // https://annict.com/works/14006
+  { annict_id: 14006, mal_id: 59846 },
+  // [null-null] OTHER: DARK MOON　-黒の月: 月の祭壇- Original By DARK MOON : THE BLOOD ALTAR WITH ENHYPEN
+  // https://annict.com/works/14007
+  { annict_id: 14007 },
 ]
