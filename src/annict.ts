@@ -37085,7 +37085,7 @@ export const annict: ArmEntry[] = [
   // [2021-SUMMER] WEB: アイドルマスターシリーズ コンセプトムービー2021『VOY@GER』
   // https://annict.com/works/12876
   { annict_id: 12876, mal_id: 49661 },
-  // [null-null] TV: 天久鷹央の推理カルテ
+  // [2025-WINTER] TV: 天久鷹央の推理カルテ
   // https://annict.com/works/12877
   { annict_id: 12877, mal_id: 58600 },
   // [2024-SUMMER] TV: 戦国妖狐 千魔混沌編
@@ -40475,4 +40475,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: アンバーとまなぼうせいかつあんぜん
   // https://annict.com/works/14011
   { annict_id: 14011 },
+  // [2011-SPRING] OVA: アマガミSS 新作ショートアニメーション集DVD
+  // https://annict.com/works/14012
+  { annict_id: 14012, mal_id: 9117 },
 ]
