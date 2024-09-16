@@ -30406,7 +30406,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10640, mal_id: 53720 },
   // [2025-null] TV: TO BE HERO X
   // https://annict.com/works/10641
-  { annict_id: 10641 },
+  { annict_id: 10641, mal_id: 53447 },
   // [2022-AUTUMN] WEB: 外見至上主義
   // https://annict.com/works/10642
   { annict_id: 10642, mal_id: 53149 },
