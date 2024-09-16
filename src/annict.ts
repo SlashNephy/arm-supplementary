@@ -38801,7 +38801,7 @@ export const annict: ArmEntry[] = [
   // [1952-WINTER] MOVIE: リス君は歌姫がお好き
   // https://annict.com/works/13449
   { annict_id: 13449 },
-  // [null-null] TV: クラスの大嫌いな女子と結婚することになった。
+  // [2025-WINTER] TV: クラスの大嫌いな女子と結婚することになった。
   // https://annict.com/works/13450
   { annict_id: 13450, mal_id: 59135 },
   // [null-null] TV: 月が導く異世界道中 第三幕
@@ -40463,4 +40463,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: DARK MOON　-黒の月: 月の祭壇- Original By DARK MOON : THE BLOOD ALTAR WITH ENHYPEN
   // https://annict.com/works/14007
   { annict_id: 14007 },
+  // [1958-WINTER] MOVIE: こぐまのコロちゃん
+  // https://annict.com/works/14008
+  { annict_id: 14008 },
 ]
