@@ -30404,7 +30404,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] WEB: 火の鳥 エデンの宙
   // https://annict.com/works/10640
   { annict_id: 10640, mal_id: 53720 },
-  // [null-null] OTHER: TO BE HERO X
+  // [2025-null] TV: TO BE HERO X
   // https://annict.com/works/10641
   { annict_id: 10641 },
   // [2022-AUTUMN] WEB: 外見至上主義
@@ -39263,7 +39263,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] MOVIE: ファーストライン
   // https://annict.com/works/13603
   { annict_id: 13603 },
-  // [null-null] TV: 帝乃三姉妹は案外、チョロい。
+  // [2025-null] TV: 帝乃三姉妹は案外、チョロい。
   // https://annict.com/works/13604
   { annict_id: 13604, mal_id: 59207 },
   // [2023-SUMMER] WEB: ギーツエクストラ ギーツあにめ あなざーぐらんぷり
@@ -40348,7 +40348,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13968, mal_id: 24363 },
   // [2024-SUMMER] WEB: 『おそ松さん』超ショートアニメ
   // https://annict.com/works/13969
-  { annict_id: 13969 },
+  { annict_id: 13969, mal_id: 59790 },
   // [2024-SUMMER] WEB: トランスフォーマー40周年記念 スペシャルムービー
   // https://annict.com/works/13970
   { annict_id: 13970, mal_id: 59807 },
@@ -40357,7 +40357,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13971 },
   // [2024-AUTUMN] OVA: エルフさんは痩せられない。 TV未放送オリジナルエピソード
   // https://annict.com/works/13972
-  { annict_id: 13972 },
+  { annict_id: 13972, mal_id: 59820 },
   // [null-null] MOVIE: 紅ばら・白ばら
   // https://annict.com/works/13973
   { annict_id: 13973 },
@@ -40372,10 +40372,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 13976 },
   // [null-null] MOVIE: ガールズバンドクライ 劇場版総集編 前編
   // https://annict.com/works/13977
-  { annict_id: 13977 },
+  { annict_id: 13977, mal_id: 59817 },
   // [null-null] MOVIE: ガールズバンドクライ 劇場版総集編 後編
   // https://annict.com/works/13978
-  { annict_id: 13978 },
+  { annict_id: 13978, mal_id: 59817 },
   // [2025-null] TV: 瑠璃の宝石
   // https://annict.com/works/13979
   { annict_id: 13979, mal_id: 59791 },
@@ -40420,7 +40420,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13992 },
   // [2025-SPRING] TV: 小市民シリーズ 第2期
   // https://annict.com/works/13993
-  { annict_id: 13993 },
+  { annict_id: 13993, mal_id: 59828 },
   // [2019-null] MOVIE: ･･･を待ちながら
   // https://annict.com/works/13994
   { annict_id: 13994 },
@@ -40435,11 +40435,17 @@ export const annict: ArmEntry[] = [
   { annict_id: 13997 },
   // [null-null] OVA: この素晴らしい世界に祝福を！3 新作OVA
   // https://annict.com/works/13998
-  { annict_id: 13998 },
+  { annict_id: 13998, mal_id: 59833 },
   // [2019-AUTUMN] OVA: 飛び出せ一方さん ハチャメチャ快進撃
   // https://annict.com/works/13999
   { annict_id: 13999 },
   // [null-null] OTHER: 霧尾ファンクラブ
   // https://annict.com/works/14000
-  { annict_id: 14000 },
+  { annict_id: 14000, mal_id: 59835 },
+  // [2025-null] TV: 薫る花は凛と咲く
+  // https://annict.com/works/14001
+  { annict_id: 14001, mal_id: 59845 },
+  // [2025-SUMMER] MOVIE: ヴァージン・パンク「Clockwork Girl」
+  // https://annict.com/works/14002
+  { annict_id: 14002, mal_id: 59848 },
 ]
