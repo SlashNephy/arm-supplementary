@@ -40466,4 +40466,13 @@ export const annict: ArmEntry[] = [
   // [1958-WINTER] MOVIE: こぐまのコロちゃん
   // https://annict.com/works/14008
   { annict_id: 14008 },
+  // [null-null] TV: ポリーとまなぼうこうつうあんぜん
+  // https://annict.com/works/14009
+  { annict_id: 14009 },
+  // [null-null] TV: ロイとまなぼうしょうぼうあんぜん
+  // https://annict.com/works/14010
+  { annict_id: 14010 },
+  // [null-null] TV: アンバーとまなぼうせいかつあんぜん
+  // https://annict.com/works/14011
+  { annict_id: 14011 },
 ]
