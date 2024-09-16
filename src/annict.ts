@@ -40438,7 +40438,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13998, mal_id: 59833 },
   // [2019-AUTUMN] OVA: 飛び出せ一方さん ハチャメチャ快進撃
   // https://annict.com/works/13999
-  { annict_id: 13999 },
+  { annict_id: 13999, mal_id: 40280 },
   // [null-null] OTHER: 霧尾ファンクラブ
   // https://annict.com/works/14000
   { annict_id: 14000, mal_id: 59835 },
@@ -40462,7 +40462,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14006, mal_id: 59846 },
   // [null-null] OTHER: DARK MOON　-黒の月: 月の祭壇- Original By DARK MOON : THE BLOOD ALTAR WITH ENHYPEN
   // https://annict.com/works/14007
-  { annict_id: 14007 },
+  { annict_id: 14007, mal_id: 59853 },
   // [1958-WINTER] MOVIE: こぐまのコロちゃん
   // https://annict.com/works/14008
   { annict_id: 14008 },
