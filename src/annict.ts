@@ -35860,7 +35860,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12464, mal_id: 57915 },
   // [1981-AUTUMN] TV: ドラえもん ケンちゃんの冒険
   // https://annict.com/works/12465
-  { annict_id: 12465 },
+  { annict_id: 12465, mal_id: 59829 },
   // [1994-null] OVA: ドラえもん のび太と未来ノート
   // https://annict.com/works/12466
   { annict_id: 12466, mal_id: 16702 },
@@ -40448,4 +40448,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] MOVIE: ヴァージン・パンク「Clockwork Girl」
   // https://annict.com/works/14002
   { annict_id: 14002, mal_id: 59848 },
+  // [2025-null] TV: ばいばい、アース 第2シーズン
+  // https://annict.com/works/14003
+  { annict_id: 14003, mal_id: 59819 },
 ]
