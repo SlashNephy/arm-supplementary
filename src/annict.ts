@@ -40481,4 +40481,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] MOVIE: ドンキホーテ幻の花を求めて
   // https://annict.com/works/14013
   { annict_id: 14013 },
+  // [2024-SUMMER] TV: るろうに剣心 -明治剣客浪漫譚- 序幕東京 総集編
+  // https://annict.com/works/14014
+  { annict_id: 14014 },
 ]
