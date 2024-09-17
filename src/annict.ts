@@ -40493,4 +40493,10 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] MOVIE: トランスフォーマー/ONE
   // https://annict.com/works/14017
   { annict_id: 14017 },
+  // [2024-SUMMER] TV: 5億年ボタン【公式】～菅原そうたのショートショート～ 第13話
+  // https://annict.com/works/14018
+  { annict_id: 14018 },
+  // [2025-null] TV: 忍ばない！クリプトニンジャ咲耶 第3期
+  // https://annict.com/works/14019
+  { annict_id: 14019, mal_id: 59865 },
 ]
