@@ -40478,4 +40478,7 @@ export const annict: ArmEntry[] = [
   // [2011-SPRING] OVA: アマガミSS 新作ショートアニメーション集DVD
   // https://annict.com/works/14012
   { annict_id: 14012, mal_id: 9117 },
+  // [2024-SPRING] MOVIE: ドンキホーテ幻の花を求めて
+  // https://annict.com/works/14013
+  { annict_id: 14013 },
 ]
