@@ -31433,7 +31433,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] MOVIE: 機動戦士ガンダムSEED FREEDOM
   // https://annict.com/works/10984
   { annict_id: 10984, mal_id: 49073 },
-  // [null-null] TV: Fate/strange Fake
+  // [2024-AUTUMN] TV: Fate/strange Fake
   // https://annict.com/works/10985
   { annict_id: 10985, mal_id: 55830 },
   // [null-null] OTHER: New PANTY&STOCKING with GARTERBELT
@@ -36938,7 +36938,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] MOVIE: がんばっていきまっしょい
   // https://annict.com/works/12826
   { annict_id: 12826, mal_id: 58491 },
-  // [null-null] TV: mono
+  // [2025-null] TV: mono
   // https://annict.com/works/12827
   { annict_id: 12827, mal_id: 58492 },
   // [2024-WINTER] OVA: ガールズ＆パンツァー OVA タイチョウ･ウォー！
