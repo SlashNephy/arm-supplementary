@@ -7295,7 +7295,7 @@ export const annict: ArmEntry[] = [
   // [2008-AUTUMN] TV: ロザリオとバンパイア CAPU2
   // https://annict.com/works/2436
   { annict_id: 2436, mal_id: 4214, syobocal_tid: 1481 },
-  // [1998-SPRING] TV: ロストユニバース
+  // [1998-SPRING] TV: ロスト・ユニバース
   // https://annict.com/works/2437
   { annict_id: 2437, mal_id: 1184, syobocal_tid: 264 },
   // [2002-WINTER] TV: ロックマンエグゼ
