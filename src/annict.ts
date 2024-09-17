@@ -40484,4 +40484,13 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] TV: るろうに剣心 -明治剣客浪漫譚- 序幕東京 総集編
   // https://annict.com/works/14014
   { annict_id: 14014 },
+  // [2024-SUMMER] TV: 5分でわかる ラブライブ！スーパースター!!
+  // https://annict.com/works/14015
+  { annict_id: 14015 },
+  // [2024-SUMMER] TV: 10分でわかる ラブライブ！スーパースター!!
+  // https://annict.com/works/14016
+  { annict_id: 14016 },
+  // [2024-SUMMER] MOVIE: トランスフォーマー/ONE
+  // https://annict.com/works/14017
+  { annict_id: 14017 },
 ]
