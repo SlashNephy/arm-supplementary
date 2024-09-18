@@ -30305,7 +30305,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] TV: メタリックルージュ
   // https://annict.com/works/10607
   { annict_id: 10607, mal_id: 54794, syobocal_tid: 6904 },
-  // [2023-AUTUMN] TV: カミエラビ
+  // [2023-AUTUMN] TV: カミエラビ GOD.app
   // https://annict.com/works/10608
   { annict_id: 10608, mal_id: 54798, syobocal_tid: 6846 },
   // [2023-WINTER] WEB: バイオ名作劇場　ふしぎの村のレオン
@@ -36836,7 +36836,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] MOVIE: エフェメール
   // https://annict.com/works/12792
   { annict_id: 12792, mal_id: 58321 },
-  // [2024-AUTUMN] TV: カミエラビ 完結編
+  // [2024-AUTUMN] TV: カミエラビ GOD.app 完結編
   // https://annict.com/works/12793
   { annict_id: 12793, mal_id: 56967 },
   // [2024-SUMMER] TV: 下の階には澪がいる
