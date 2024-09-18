@@ -40499,4 +40499,13 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: 忍ばない！クリプトニンジャ咲耶 第3期
   // https://annict.com/works/14019
   { annict_id: 14019, mal_id: 59865 },
+  // [1987-SUMMER] OVA: ぷッつんメイクLOVE
+  // https://annict.com/works/14020
+  { annict_id: 14020, mal_id: 9542 },
+  // [1988-WINTER] OVA: マドンナ 炎のティーチャー
+  // https://annict.com/works/14021
+  { annict_id: 14021, mal_id: 3482 },
+  // [1989-SPRING] OVA: マドンナ2 愛と青春のキック・オフ
+  // https://annict.com/works/14022
+  { annict_id: 14022, mal_id: 3482 },
 ]
