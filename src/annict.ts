@@ -40517,4 +40517,7 @@ export const annict: ArmEntry[] = [
   // [1976-null] MOVIE: The Crabs
   // https://annict.com/works/14025
   { annict_id: 14025 },
+  // [1979-null] MOVIE: Kikos
+  // https://annict.com/works/14026
+  { annict_id: 14026 },
 ]
