@@ -40511,4 +40511,10 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 時々ボソッとロシア語でデレる隣のアーリャさん Season 2
   // https://annict.com/works/14023
   { annict_id: 14023, mal_id: 59873 },
+  // [1987-null] MOVIE: The Lesson
+  // https://annict.com/works/14024
+  { annict_id: 14024 },
+  // [1976-null] MOVIE: The Crabs
+  // https://annict.com/works/14025
+  { annict_id: 14025 },
 ]
