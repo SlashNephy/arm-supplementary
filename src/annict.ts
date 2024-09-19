@@ -35725,7 +35725,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12419 },
   // [2024-AUTUMN] TV: 凍牌〜裏レート麻雀闘牌録〜
   // https://annict.com/works/12420
-  { annict_id: 12420, mal_id: 57796 },
+  { annict_id: 12420, mal_id: 57796, syobocal_tid: 7223 },
   // [2024-SPRING] WEB: あたしンちNEXT
   // https://annict.com/works/12421
   { annict_id: 12421, mal_id: 57822 },
