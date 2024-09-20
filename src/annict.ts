@@ -3560,7 +3560,7 @@ export const annict: ArmEntry[] = [
   // [2007-SPRING] TV: DARKER THAN BLACK 黒の契約者
   // https://annict.com/works/1188
   { annict_id: 1188, mal_id: 2025, syobocal_tid: 1099 },
-  // [2007-SPRING] TV: Devil May Cry
+  // [2007-SPRING] TV: デビルメイクライ
   // https://annict.com/works/1189
   { annict_id: 1189, mal_id: 1726, syobocal_tid: 1051 },
   // [2004-AUTUMN] TV: tactics
@@ -40529,4 +40529,19 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: マーダーミステリー・オブ・ザ・デッド
   // https://annict.com/works/14029
   { annict_id: 14029, mal_id: 59892 },
+  // [2025-SPRING] WEB: Devil May Cry
+  // https://annict.com/works/14030
+  { annict_id: 14030 },
+  // [2024-AUTUMN] WEB: トゥームレイダー: レジェンド・オブ・ララ・クロフト
+  // https://annict.com/works/14031
+  { annict_id: 14031 },
+  // [null-null] WEB: サイバーパンク2077 新アニメプロジェクト
+  // https://annict.com/works/14032
+  { annict_id: 14032 },
+  // [null-null] WEB: スプリンターセル デスウォッチ
+  // https://annict.com/works/14033
+  { annict_id: 14033 },
+  // [2025-WINTER] WEB: ウィッチャー 深海のセイレーン
+  // https://annict.com/works/14034
+  { annict_id: 14034 },
 ]
