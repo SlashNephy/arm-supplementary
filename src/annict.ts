@@ -40523,4 +40523,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] MOVIE: 機動警察パトレイバーEZY パイロットフィルム
   // https://annict.com/works/14027
   { annict_id: 14027 },
+  // [2010-AUTUMN] OVA: JE T'AIME
+  // https://annict.com/works/14028
+  { annict_id: 14028 },
 ]
