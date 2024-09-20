@@ -26477,7 +26477,7 @@ export const annict: ArmEntry[] = [
   // [2008-SPRING] OVA: 名探偵コナン MAGIC FILE
   // https://annict.com/works/9294
   { annict_id: 9294 },
-  // [2012-SPRING] OVA: 名探偵コナン BONUS FILE 「ファンタジスタの花」
+  // [2012-SPRING] OVA: 名探偵コナン BONUS FILE
   // https://annict.com/works/9295
   { annict_id: 9295 },
   // [2022-WINTER] WEB: アングリーバード: クレイジー・サマーキャンプ
