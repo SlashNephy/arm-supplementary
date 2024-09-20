@@ -34019,7 +34019,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: ひみつのアイプリ
   // https://annict.com/works/11848
   { annict_id: 11848, mal_id: 57946, syobocal_tid: 6989 },
-  // [2024-null] OTHER: 機動警察パトレイバーEZY
+  // [2026-null] OTHER: 機動警察パトレイバーEZY
   // https://annict.com/works/11849
   { annict_id: 11849 },
   // [2023-SUMMER] WEB: めちゃるGEAR MECHA MECHA NA MISSION
@@ -40520,4 +40520,7 @@ export const annict: ArmEntry[] = [
   // [1979-null] MOVIE: Kikos
   // https://annict.com/works/14026
   { annict_id: 14026 },
+  // [2024-SUMMER] MOVIE: 機動警察パトレイバーEZY パイロットフィルム
+  // https://annict.com/works/14027
+  { annict_id: 14027 },
 ]
