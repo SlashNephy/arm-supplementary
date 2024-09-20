@@ -40526,4 +40526,7 @@ export const annict: ArmEntry[] = [
   // [2010-AUTUMN] OVA: JE T'AIME
   // https://annict.com/works/14028
   { annict_id: 14028 },
+  // [2024-AUTUMN] TV: マーダーミステリー・オブ・ザ・デッド
+  // https://annict.com/works/14029
+  { annict_id: 14029 },
 ]
