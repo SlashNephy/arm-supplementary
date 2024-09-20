@@ -39368,7 +39368,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: ぷにるんず ぷに2
   // https://annict.com/works/13638
   { annict_id: 13638 },
-  // [null-null] TV: まぁるい彼女と残念な彼氏 続編
+  // [2024-AUTUMN] TV: まぁるい彼女と残念な彼氏 2期
   // https://annict.com/works/13639
   { annict_id: 13639 },
   // [2024-SUMMER] TV: JOCHUM
@@ -40528,5 +40528,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 14028 },
   // [2024-AUTUMN] TV: マーダーミステリー・オブ・ザ・デッド
   // https://annict.com/works/14029
-  { annict_id: 14029 },
+  { annict_id: 14029, mal_id: 59892 },
 ]
