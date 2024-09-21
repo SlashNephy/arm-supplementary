@@ -40544,4 +40544,16 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] WEB: ウィッチャー 深海のセイレーン
   // https://annict.com/works/14034
   { annict_id: 14034 },
+  // [1964-SUMMER] MOVIE: エイトマン ロボット007 光線銃レーザー
+  // https://annict.com/works/14035
+  { annict_id: 14035 },
+  // [1964-SUMMER] MOVIE: 鉄人28号 ミラクル魔術団 海底基地
+  // https://annict.com/works/14036
+  { annict_id: 14036 },
+  // [1964-SUMMER] MOVIE: 狼少年ケン サーカスから来た仲間
+  // https://annict.com/works/14037
+  { annict_id: 14037 },
+  // [1964-SUMMER] MOVIE: 少年忍者風のフジ丸 謎のアラビヤ人形
+  // https://annict.com/works/14038
+  { annict_id: 14038 },
 ]
