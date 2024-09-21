@@ -40562,4 +40562,10 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: CITY THE ANIMATION
   // https://annict.com/works/14040
   { annict_id: 14040, mal_id: 59898 },
+  // [2007-AUTUMN] OVA: がくえんゆーとぴあ まなびストレート！第6.5話「夏だ！まなびだ！強化合宿だ！」
+  // https://annict.com/works/14041
+  { annict_id: 14041, mal_id: 3219 },
+  // [2024-SUMMER] WEB: ソーセージ･パーティー ～理想郷 フードトピア～
+  // https://annict.com/works/14042
+  { annict_id: 14042 },
 ]
