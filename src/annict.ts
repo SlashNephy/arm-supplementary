@@ -40556,4 +40556,10 @@ export const annict: ArmEntry[] = [
   // [1964-SUMMER] MOVIE: 少年忍者風のフジ丸 謎のアラビヤ人形
   // https://annict.com/works/14038
   { annict_id: 14038 },
+  // [2025-null] MOVIE: 小林さんちのメイドラゴン さみしがりやの竜
+  // https://annict.com/works/14039
+  { annict_id: 14039 },
+  // [2025-null] TV: CITY THE ANIMATION
+  // https://annict.com/works/14040
+  { annict_id: 14040 },
 ]
