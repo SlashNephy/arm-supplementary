@@ -40568,4 +40568,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] WEB: ソーセージ･パーティー ～理想郷 フードトピア～
   // https://annict.com/works/14042
   { annict_id: 14042 },
+  // [2012-SPRING] OVA: アマガミSS+ plus エクストラ・エピソード+ plus
+  // https://annict.com/works/14043
+  { annict_id: 14043, mal_id: 12669 },
 ]
