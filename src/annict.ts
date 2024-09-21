@@ -40558,8 +40558,8 @@ export const annict: ArmEntry[] = [
   { annict_id: 14038 },
   // [2025-null] MOVIE: 小林さんちのメイドラゴン さみしがりやの竜
   // https://annict.com/works/14039
-  { annict_id: 14039 },
+  { annict_id: 14039, mal_id: 59897 },
   // [2025-null] TV: CITY THE ANIMATION
   // https://annict.com/works/14040
-  { annict_id: 14040 },
+  { annict_id: 14040, mal_id: 59898 },
 ]
