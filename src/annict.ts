@@ -30364,7 +30364,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10626, mal_id: 54850 },
   // [2024-AUTUMN] TV: Re:ゼロから始める異世界生活 3rd season 襲撃編
   // https://annict.com/works/10627
-  { annict_id: 10627, mal_id: 54857 },
+  { annict_id: 10627, mal_id: 54857, syobocal_tid: 7236 },
   // [2023-AUTUMN] MOVIE: 攻殻機動隊 SAC_2045 最後の人間
   // https://annict.com/works/10628
   { annict_id: 10628, mal_id: 54860 },
@@ -31576,7 +31576,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11031, mal_id: 55996, syobocal_tid: 7112 },
   // [2024-AUTUMN] TV: メカウデ
   // https://annict.com/works/11032
-  { annict_id: 11032, mal_id: 53033 },
+  { annict_id: 11032, mal_id: 53033, syobocal_tid: 7226 },
   // [2022-SPRING] WEB: ミニ豆ちゃん シーズン3
   // https://annict.com/works/11033
   { annict_id: 11033, mal_id: 41509 },
@@ -31774,7 +31774,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11097, mal_id: 56425, syobocal_tid: 6829 },
   // [2024-AUTUMN] TV: ハイガクラ
   // https://annict.com/works/11098
-  { annict_id: 11098, mal_id: 56420 },
+  { annict_id: 11098, mal_id: 56420, syobocal_tid: 7227 },
   // [2023-AUTUMN] TV: しーくれっとみっしょん～潜入捜査官は絶対に負けない！～
   // https://annict.com/works/11099
   { annict_id: 11099, mal_id: 56497, syobocal_tid: 6843 },
@@ -31882,7 +31882,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11133, mal_id: 10360 },
   // [2024-AUTUMN] TV: トリリオンゲーム
   // https://annict.com/works/11134
-  { annict_id: 11134, mal_id: 56662 },
+  { annict_id: 11134, mal_id: 56662, syobocal_tid: 7225 },
   // [2001-AUTUMN] TV: くるくるアミー
   // https://annict.com/works/11135
   { annict_id: 11135 },
@@ -32113,7 +32113,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11210, mal_id: 56791 },
   // [2024-AUTUMN] TV: BLEACH 千年血戦篇-相剋譚-
   // https://annict.com/works/11211
-  { annict_id: 11211, mal_id: 56784 },
+  { annict_id: 11211, mal_id: 56784, syobocal_tid: 7224 },
   // [2021-AUTUMN] WEB: うさまるマート
   // https://annict.com/works/11212
   { annict_id: 11212 },
@@ -36316,7 +36316,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12618, mal_id: 39618 },
   // [2024-AUTUMN] TV: 科学×冒険サバイバル！
   // https://annict.com/works/12619
-  { annict_id: 12619, mal_id: 58137 },
+  { annict_id: 12619, mal_id: 58137, syobocal_tid: 7228 },
   // [2024-WINTER] TV: オオクニヌシとスクナビコナ
   // https://annict.com/works/12620
   { annict_id: 12620, mal_id: 58006, syobocal_tid: 6984 },
@@ -36838,7 +36838,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12792, mal_id: 58321 },
   // [2024-AUTUMN] TV: カミエラビ GOD.app 完結編
   // https://annict.com/works/12793
-  { annict_id: 12793, mal_id: 56967 },
+  { annict_id: 12793, mal_id: 56967, syobocal_tid: 7231 },
   // [2024-SUMMER] TV: 下の階には澪がいる
   // https://annict.com/works/12794
   { annict_id: 12794, mal_id: 54846, syobocal_tid: 7136 },
@@ -38983,7 +38983,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13509 },
   // [2024-AUTUMN] TV: 殿と犬～わんわん！～
   // https://annict.com/works/13510
-  { annict_id: 13510, mal_id: 57924 },
+  { annict_id: 13510, mal_id: 57924, syobocal_tid: 7232 },
   // [null-null] TV: ばっどがーる
   // https://annict.com/works/13511
   { annict_id: 13511, mal_id: 59161 },
@@ -39973,7 +39973,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13839 },
   // [2024-AUTUMN] TV: 百妖譜 第2期
   // https://annict.com/works/13840
-  { annict_id: 13840, mal_id: 44067 },
+  { annict_id: 13840, mal_id: 44067, syobocal_tid: 7229 },
   // [1999-WINTER] OVA: Rusty Nail
   // https://annict.com/works/13841
   { annict_id: 13841, mal_id: 28715 },
@@ -40192,13 +40192,13 @@ export const annict: ArmEntry[] = [
   { annict_id: 13915, mal_id: 29555 },
   // [2024-AUTUMN] TV: 殿と犬～ぽてぽて！～
   // https://annict.com/works/13916
-  { annict_id: 13916, mal_id: 57924 },
+  { annict_id: 13916, mal_id: 57924, syobocal_tid: 7233 },
   // [2024-AUTUMN] TV: 殿と犬～くんくん！～
   // https://annict.com/works/13917
-  { annict_id: 13917, mal_id: 57924 },
+  { annict_id: 13917, mal_id: 57924, syobocal_tid: 7234 },
   // [2024-AUTUMN] TV: 殿と犬～もふもふ！～
   // https://annict.com/works/13918
-  { annict_id: 13918, mal_id: 57924 },
+  { annict_id: 13918, mal_id: 57924, syobocal_tid: 7235 },
   // [2024-AUTUMN] MOVIE: 銀魂オンシアター2D 金魂篇
   // https://annict.com/works/13919
   { annict_id: 13919, mal_id: 59688 },
