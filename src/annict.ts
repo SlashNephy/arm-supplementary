@@ -40571,4 +40571,10 @@ export const annict: ArmEntry[] = [
   // [2012-SPRING] OVA: アマガミSS+ plus エクストラ・エピソード+ plus
   // https://annict.com/works/14043
   { annict_id: 14043, mal_id: 12669 },
+  // [2024-AUTUMN] TV: モブ皇帝～平凡をむさぼる僕が多元宇宙の支配者に選ばれたので、世界を救ってみた～
+  // https://annict.com/works/14044
+  { annict_id: 14044 },
+  // [2024-AUTUMN] TV: 時空の隙
+  // https://annict.com/works/14045
+  { annict_id: 14045 },
 ]
