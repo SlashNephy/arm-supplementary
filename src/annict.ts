@@ -40577,4 +40577,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: 時空の隙
   // https://annict.com/works/14045
   { annict_id: 14045 },
+  // [1989-AUTUMN] OVA: 青春夫婦物語 恋子の毎日
+  // https://annict.com/works/14046
+  { annict_id: 14046, mal_id: 10045 },
 ]
