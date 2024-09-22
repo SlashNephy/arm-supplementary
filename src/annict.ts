@@ -31253,7 +31253,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: 鬼滅の刃 柱稽古編
   // https://annict.com/works/10924
   { annict_id: 10924, mal_id: 55701, syobocal_tid: 7048 },
-  // [2024-AUTUMN] MOVIE: 劇場版 僕とロボコ
+  // [2025-SPRING] MOVIE: 劇場版 僕とロボコ
   // https://annict.com/works/10925
   { annict_id: 10925, mal_id: 55709 },
   // [2025-null] TV: うたごえはミルフィーユ
@@ -40580,4 +40580,7 @@ export const annict: ArmEntry[] = [
   // [1989-AUTUMN] OVA: 青春夫婦物語 恋子の毎日
   // https://annict.com/works/14046
   { annict_id: 14046, mal_id: 10045 },
+  // [2025-WINTER] TV: キン肉マン 完璧超人始祖編 Season 2
+  // https://annict.com/works/14047
+  { annict_id: 14047 },
 ]
