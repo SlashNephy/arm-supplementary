@@ -32018,7 +32018,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] OVA: わたしの幸せな結婚 OVA
   // https://annict.com/works/11179
   { annict_id: 11179, mal_id: 55889 },
-  // [null-null] TV: わたしの幸せな結婚 第二期
+  // [2025-WINTER] TV: わたしの幸せな結婚 第二期
   // https://annict.com/works/11180
   { annict_id: 11180, mal_id: 56701 },
   // [2023-AUTUMN] WEB: 鬼武者
