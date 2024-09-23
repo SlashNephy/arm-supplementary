@@ -40583,4 +40583,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] TV: キン肉マン 完璧超人始祖編 Season 2
   // https://annict.com/works/14047
   { annict_id: 14047, mal_id: 59914 },
+  // [null-null] TV: 狼と香辛料 MERCHANT MEETS THE WISE WOLF 2期
+  // https://annict.com/works/14048
+  { annict_id: 14048 },
 ]
