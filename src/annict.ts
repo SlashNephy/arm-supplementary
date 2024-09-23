@@ -12344,7 +12344,7 @@ export const annict: ArmEntry[] = [
   // [2014-SUMMER] MOVIE: 宇宙兄弟#0
   // https://annict.com/works/4129
   { annict_id: 4129, mal_id: 22583, syobocal_tid: 4830 },
-  // [2014-SUMMER] OVA: ガールズ&パンツァー OVA「これが本当のアンツィオ戦です!」
+  // [2014-SUMMER] OVA: ガールズ&パンツァー OVA これが本当のアンツィオ戦です!
   // https://annict.com/works/4130
   { annict_id: 4130, mal_id: 18619 },
   // [2014-AUTUMN] OVA: ストライクウィッチーズ Operation Victory Arrow
@@ -25802,10 +25802,10 @@ export const annict: ArmEntry[] = [
   // [2019-WINTER] OVA: 俺が好きなのは妹だけど妹じゃない 新規短編アニメーション
   // https://annict.com/works/9037
   { annict_id: 9037, mal_id: 39397 },
-  // [2020-WINTER] OVA: ガールズ&パンツァー OVA 「タイヤキ・ウォー！」
+  // [2020-WINTER] OVA: ガールズ&パンツァー OVA タイヤキ・ウォー！
   // https://annict.com/works/9038
   { annict_id: 9038, mal_id: 40656 },
-  // [2021-AUTUMN] OVA: ガールズ＆パンツァーOVA「ダイコン・ウォー！」
+  // [2021-AUTUMN] OVA: ガールズ＆パンツァーOVA ダイコン・ウォー！
   // https://annict.com/works/9039
   { annict_id: 9039, mal_id: 49690 },
   // [2022-SPRING] TV: もっと！まじめにふまじめ かいけつゾロリ 第3シリーズ
