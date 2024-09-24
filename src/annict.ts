@@ -23927,7 +23927,7 @@ export const annict: ArmEntry[] = [
   // [2017-SPRING] MOVIE: バイオハザード: ヴェンデッタ
   // https://annict.com/works/8314
   { annict_id: 8314, mal_id: 31853 },
-  // [1996-SUMMER] OTHER: バットマン / マスク・オブ・ファンタズム
+  // [1996-SUMMER] OVA: バットマン / マスク・オブ・ファンタズム
   // https://annict.com/works/8315
   { annict_id: 8315 },
   // [2020-SUMMER] WEB: ジュラシック・ワールド/サバイバル・キャンプ
