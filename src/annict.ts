@@ -40585,5 +40585,14 @@ export const annict: ArmEntry[] = [
   { annict_id: 14047, mal_id: 59914 },
   // [null-null] TV: 狼と香辛料 MERCHANT MEETS THE WISE WOLF 2期
   // https://annict.com/works/14048
-  { annict_id: 14048 },
+  { annict_id: 14048, mal_id: 59928 },
+  // [2025-null] TV: ゴリラの神から加護された令嬢は王立騎士団で可愛がられる
+  // https://annict.com/works/14051
+  { annict_id: 14051, mal_id: 59935 },
+  // [1994-SUMMER] OVA: 幽☆遊☆白書 映像白書～暗黒武術会の章～
+  // https://annict.com/works/14052
+  { annict_id: 14052, mal_id: 2125 },
+  // [1995-AUTUMN] OVA: 幽☆遊☆白書 映像白書Ⅱ
+  // https://annict.com/works/14053
+  { annict_id: 14053, mal_id: 2126 },
 ]
