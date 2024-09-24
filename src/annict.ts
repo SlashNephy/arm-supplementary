@@ -39335,7 +39335,7 @@ export const annict: ArmEntry[] = [
   // [1925-SUMMER] MOVIE: Alice Wins the Derby（原題）
   // https://annict.com/works/13627
   { annict_id: 13627 },
-  // [2024-AUTUMN] TV: リリカルセレクション
+  // [2024-AUTUMN] TV: 魔法少女リリカルなのは 20周年記念セレクション
   // https://annict.com/works/13628
   { annict_id: 13628 },
   // [2025-null] TV: マジック・メイカー ～異世界魔法の作り方～
