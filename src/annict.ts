@@ -40595,4 +40595,7 @@ export const annict: ArmEntry[] = [
   // [1995-AUTUMN] OVA: 幽☆遊☆白書 映像白書Ⅱ
   // https://annict.com/works/14053
   { annict_id: 14053, mal_id: 2126 },
+  // [2023-SPRING] TV: BASTIONS
+  // https://annict.com/works/14054
+  { annict_id: 14054, mal_id: 55305 },
 ]
