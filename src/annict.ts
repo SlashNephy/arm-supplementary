@@ -34271,7 +34271,7 @@ export const annict: ArmEntry[] = [
   // [1987-AUTUMN] OVA: X電車で行こう
   // https://annict.com/works/11932
   { annict_id: 11932, mal_id: 1973 },
-  // [1988-SUMMER] OVA: 風の又三郎(OVA)
+  // [1988-SUMMER] OVA: 風の又三郎(1988年)
   // https://annict.com/works/11933
   { annict_id: 11933, mal_id: 12141 },
   // [1988-SUMMER] OVA: どんぐりと山猫
