@@ -40607,4 +40607,7 @@ export const annict: ArmEntry[] = [
   // [1978-null] MOVIE: 火事と子馬
   // https://annict.com/works/14057
   { annict_id: 14057, mal_id: 39156 },
+  // [1988-null] MOVIE: 羽ばたけ ピータン
+  // https://annict.com/works/14058
+  { annict_id: 14058, mal_id: 39161 },
 ]
