@@ -39775,7 +39775,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13773 },
   // [2024-SUMMER] TV: 笑うレッドリスト
   // https://annict.com/works/13774
-  { annict_id: 13774 },
+  { annict_id: 13774, mal_id: 59752 },
   // [2024-WINTER] WEB: イワジュ
   // https://annict.com/works/13775
   { annict_id: 13775 },
