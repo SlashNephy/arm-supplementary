@@ -40598,4 +40598,13 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: BASTIONS
   // https://annict.com/works/14054
   { annict_id: 14054, mal_id: 55305 },
+  // [1972-null] MOVIE: 動物村の消防士
+  // https://annict.com/works/14055
+  { annict_id: 14055, mal_id: 39408 },
+  // [1981-null] MOVIE: わんわん火事だ わん
+  // https://annict.com/works/14056
+  { annict_id: 14056, mal_id: 39152 },
+  // [1978-null] MOVIE: 火事と子馬
+  // https://annict.com/works/14057
+  { annict_id: 14057, mal_id: 39156 },
 ]
