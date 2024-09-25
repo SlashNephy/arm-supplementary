@@ -40613,4 +40613,7 @@ export const annict: ArmEntry[] = [
   // [1982-null] MOVIE: チロの木大きくなぁれ
   // https://annict.com/works/14059
   { annict_id: 14059, mal_id: 39409 },
+  // [1985-null] MOVIE: 火事のあくる日
+  // https://annict.com/works/14060
+  { annict_id: 14060, mal_id: 39406 },
 ]
