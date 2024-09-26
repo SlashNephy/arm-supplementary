@@ -40616,4 +40616,7 @@ export const annict: ArmEntry[] = [
   // [1985-null] MOVIE: 火事のあくる日
   // https://annict.com/works/14060
   { annict_id: 14060, mal_id: 39406 },
+  // [2025-WINTER] MOVIE: 映画 先輩はおとこのこ あめのち晴れ
+  // https://annict.com/works/14061
+  { annict_id: 14061 },
 ]
