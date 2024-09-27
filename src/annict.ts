@@ -36916,7 +36916,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12818, mal_id: 58473 },
   // [2024-WINTER] WEB: 転生したらスライムだった件 閑話：ディアブロ日記
   // https://annict.com/works/12819
-  { annict_id: 12819 },
+  { annict_id: 12819, mal_id: 58592 },
   // [2009-SUMMER] OVA: ハガレン4コマ劇場
   // https://annict.com/works/12820
   { annict_id: 12820, mal_id: 7902 },
