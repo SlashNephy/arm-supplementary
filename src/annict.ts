@@ -26684,7 +26684,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: 狼と香辛料 MERCHANT MEETS THE WISE WOLF
   // https://annict.com/works/9395
   { annict_id: 9395, mal_id: 51122, syobocal_tid: 7033 },
-  // [2024-null] TV: グリザイア：ファントムトリガー
+  // [2025-WINTER] TV: グリザイア：ファントムトリガー
   // https://annict.com/works/9396
   { annict_id: 9396, mal_id: 51119 },
   // [2022-AUTUMN] TV: 農民関連のスキルばっか上げてたら何故か強くなった。
@@ -40618,8 +40618,11 @@ export const annict: ArmEntry[] = [
   { annict_id: 14060, mal_id: 39406 },
   // [2025-WINTER] MOVIE: 映画 先輩はおとこのこ あめのち晴れ
   // https://annict.com/works/14061
-  { annict_id: 14061 },
+  { annict_id: 14061, mal_id: 59957 },
   // [2024-SUMMER] WEB: ひみつどうし
   // https://annict.com/works/14062
   { annict_id: 14062 },
+  // [2025-null] TV: 傷だらけ聖女より報復をこめて
+  // https://annict.com/works/14063
+  { annict_id: 14063, mal_id: 59961 },
 ]
