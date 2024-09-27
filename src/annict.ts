@@ -40619,4 +40619,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] MOVIE: 映画 先輩はおとこのこ あめのち晴れ
   // https://annict.com/works/14061
   { annict_id: 14061 },
+  // [2024-SUMMER] WEB: ひみつどうし
+  // https://annict.com/works/14062
+  { annict_id: 14062 },
 ]
