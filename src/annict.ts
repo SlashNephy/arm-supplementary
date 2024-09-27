@@ -30547,7 +30547,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10688, mal_id: 52045 },
   // [2024-AUTUMN] TV: 結婚するって、本当ですか
   // https://annict.com/works/10689
-  { annict_id: 10689, mal_id: 54982 },
+  { annict_id: 10689, mal_id: 54982, syobocal_tid: 7241 },
   // [2023-SPRING] MOVIE: 劇場版 Collar×Malice -deep cover- 前編
   // https://annict.com/works/10690
   { annict_id: 10690, mal_id: 39905 },
@@ -31216,7 +31216,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10911 },
   // [2024-AUTUMN] TV: 新テニスの王子様 U-17 WORLD CUP SEMIFINAL
   // https://annict.com/works/10912
-  { annict_id: 10912, mal_id: 55570 },
+  { annict_id: 10912, mal_id: 55570, syobocal_tid: 7237 },
   // [1990-SPRING] OVA: 聖ミカエラ学園漂流記
   // https://annict.com/works/10913
   { annict_id: 10913, mal_id: 2239 },
@@ -34843,7 +34843,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12124, mal_id: 57559, syobocal_tid: 7200 },
   // [2024-AUTUMN] TV: るろうに剣心 -明治剣客浪漫譚- 京都動乱
   // https://annict.com/works/12125
-  { annict_id: 12125, mal_id: 57554 },
+  { annict_id: 12125, mal_id: 57554, syobocal_tid: 7240 },
   // [2009-WINTER] OVA: ABUNAI SISTERS -KOKO & MIKA-
   // https://annict.com/works/12126
   { annict_id: 12126, mal_id: 5877 },
@@ -38852,9 +38852,9 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] WEB: ライジングインパクト シーズン2
   // https://annict.com/works/13466
   { annict_id: 13466, mal_id: 59497 },
-  // [2024-AUTUMN] TV: らんま1/2 (2024)
+  // [2024-AUTUMN] TV: らんま1/2(2024)
   // https://annict.com/works/13467
-  { annict_id: 13467, mal_id: 59145 },
+  { annict_id: 13467, mal_id: 59145, syobocal_tid: 7239 },
   // [2025-WINTER] TV: 不遇職【鑑定士】が実は最強だった
   // https://annict.com/works/13468
   { annict_id: 13468, mal_id: 59144 },
