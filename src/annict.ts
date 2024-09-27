@@ -8021,7 +8021,7 @@ export const annict: ArmEntry[] = [
   // [1995-AUTUMN] OVA: 腐った教師の方程式
   // https://annict.com/works/2680
   { annict_id: 2680, mal_id: 1909 },
-  // [1992-SPRING] OVA: KO世紀 ビースト三獣士
+  // [1992-SPRING] OVA: KO世紀ビースト三獣士
   // https://annict.com/works/2681
   { annict_id: 2681, mal_id: 602 },
   // [2009-AUTUMN] OVA: けものとチャット
@@ -40625,4 +40625,7 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: 傷だらけ聖女より報復をこめて
   // https://annict.com/works/14063
   { annict_id: 14063, mal_id: 59961 },
+  // [1993-SPRING] OVA: KO世紀ビースト三獣士II
+  // https://annict.com/works/14064
+  { annict_id: 14064 },
 ]
