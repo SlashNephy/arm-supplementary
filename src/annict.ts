@@ -40358,7 +40358,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] OVA: エルフさんは痩せられない。 TV未放送オリジナルエピソード
   // https://annict.com/works/13972
   { annict_id: 13972, mal_id: 59820 },
-  // [null-null] MOVIE: 紅ばら・白ばら
+  // [1976-null] MOVIE: 紅ばら・白ばら
   // https://annict.com/works/13973
   { annict_id: 13973 },
   // [1974-null] MOVIE: しあわせの王子
