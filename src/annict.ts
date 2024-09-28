@@ -40630,10 +40630,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 14064 },
   // [null-null] MOVIE: 転生したらスライムだった件 劇場版第2弾
   // https://annict.com/works/14065
-  { annict_id: 14065 },
+  { annict_id: 14065, mal_id: 59971 },
   // [null-null] TV: 転生したらスライムだった件 第4期
   // https://annict.com/works/14066
-  { annict_id: 14066 },
+  { annict_id: 14066, mal_id: 59970 },
   // [1981-null] MOVIE: りゅうの目のなみだ
   // https://annict.com/works/14067
   { annict_id: 14067, mal_id: 34225 },
