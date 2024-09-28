@@ -40634,4 +40634,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 転生したらスライムだった件 第4期
   // https://annict.com/works/14066
   { annict_id: 14066 },
+  // [1981-null] MOVIE: りゅうの目のなみだ
+  // https://annict.com/works/14067
+  { annict_id: 14067, mal_id: 34225 },
 ]
