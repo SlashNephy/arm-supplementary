@@ -40637,4 +40637,7 @@ export const annict: ArmEntry[] = [
   // [1981-null] MOVIE: りゅうの目のなみだ
   // https://annict.com/works/14067
   { annict_id: 14067, mal_id: 34225 },
+  // [null-null] TV: 葬送のフリーレン TVアニメ第2期
+  // https://annict.com/works/14068
+  { annict_id: 14068 },
 ]
