@@ -40643,4 +40643,7 @@ export const annict: ArmEntry[] = [
   // [2016-SUMMER] MOVIE: ちえりとチェリー
   // https://annict.com/works/14069
   { annict_id: 14069, mal_id: 31236 },
+  // [2024-AUTUMN] TV: キラキラ キャッチ！ティニピン
+  // https://annict.com/works/14070
+  { annict_id: 14070 },
 ]
