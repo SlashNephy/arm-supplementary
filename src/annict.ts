@@ -40645,5 +40645,8 @@ export const annict: ArmEntry[] = [
   { annict_id: 14069, mal_id: 31236 },
   // [2024-AUTUMN] TV: キラキラ キャッチ！ティニピン
   // https://annict.com/works/14070
-  { annict_id: 14070 },
+  { annict_id: 14070, mal_id: 55659 },
+  // [1960-null] MOVIE: かがみ
+  // https://annict.com/works/14071
+  { annict_id: 14071, mal_id: 29870 },
 ]
