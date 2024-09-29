@@ -36700,7 +36700,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12746, mal_id: 6844 },
   // [2024-AUTUMN] TV: アイドルマスター シャイニーカラーズ 2nd season
   // https://annict.com/works/12747
-  { annict_id: 12747, mal_id: 58302 },
+  { annict_id: 12747, mal_id: 58302, syobocal_tid: 7193 },
   // [2024-SUMMER] MOVIE: アイドルマスター シャイニーカラーズ 2nd season 劇場先行上映 第1章
   // https://annict.com/works/12748
   { annict_id: 12748 },
@@ -40658,10 +40658,16 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 杖と剣のウィストリア 第2期
   // https://annict.com/works/14074
   { annict_id: 14074, mal_id: 59983 },
-  // [null-null] MOVIE: 僕の心のヤバイやつ 劇場版
+  // [null-null] MOVIE: 劇場版 僕の心のヤバイやつ
   // https://annict.com/works/14075
   { annict_id: 14075, mal_id: 59985 },
   // [2024-AUTUMN] OVA: デッドデッドデーモンズデデデデデストラクション(アニメシリーズ版)
   // https://annict.com/works/14076
   { annict_id: 14076, mal_id: 58883 },
+  // [2024-SUMMER] WEB: 『Pokémon Sleep』おねむりストーリー ピッピ
+  // https://annict.com/works/14077
+  { annict_id: 14077 },
+  // [2024-SUMMER] WEB: ポケモンたちと秋の月
+  // https://annict.com/works/14078
+  { annict_id: 14078, mal_id: 59875 },
 ]
