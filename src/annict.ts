@@ -40651,5 +40651,17 @@ export const annict: ArmEntry[] = [
   { annict_id: 14071, mal_id: 29870 },
   // [null-null] TV: ぐらんぶる Season 2
   // https://annict.com/works/14072
-  { annict_id: 14072 },
+  { annict_id: 14072, mal_id: 59986 },
+  // [2024-SUMMER] WEB: ソードアート・オンライン オルタナティブ ガンゲイル･オンライン 12.5話「GALA」
+  // https://annict.com/works/14073
+  { annict_id: 14073, mal_id: 59968 },
+  // [null-null] TV: 杖と剣のウィストリア 第2期
+  // https://annict.com/works/14074
+  { annict_id: 14074, mal_id: 59983 },
+  // [null-null] MOVIE: 僕の心のヤバイやつ 劇場版
+  // https://annict.com/works/14075
+  { annict_id: 14075, mal_id: 59985 },
+  // [2024-AUTUMN] OVA: デッドデッドデーモンズデデデデデストラクション(アニメシリーズ版)
+  // https://annict.com/works/14076
+  { annict_id: 14076, mal_id: 58883 },
 ]
