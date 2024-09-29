@@ -32386,7 +32386,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11301, mal_id: 54029 },
   // [2024-AUTUMN] TV: ドラゴンボールDAIMA
   // https://annict.com/works/11302
-  { annict_id: 11302, mal_id: 56894 },
+  { annict_id: 11302, mal_id: 56894, syobocal_tid: 7246 },
   // [2023-SPRING] TV: フューチュラマ シーズン8 パート1
   // https://annict.com/works/11303
   { annict_id: 11303 },
@@ -36997,7 +36997,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12845, mal_id: 58506, syobocal_tid: 7152 },
   // [2024-AUTUMN] TV: 七つの大罪 黙示録の四騎士 第2期
   // https://annict.com/works/12846
-  { annict_id: 12846, mal_id: 58511 },
+  { annict_id: 12846, mal_id: 58511, syobocal_tid: 7247 },
   // [null-null] TV: 結婚指輪物語 第2期
   // https://annict.com/works/12847
   { annict_id: 12847, mal_id: 58515 },
@@ -39367,7 +39367,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13637 },
   // [2024-AUTUMN] TV: ぷにるんず ぷに2
   // https://annict.com/works/13638
-  { annict_id: 13638 },
+  { annict_id: 13638, syobocal_tid: 7244 },
   // [2024-AUTUMN] TV: まぁるい彼女と残念な彼氏 2期
   // https://annict.com/works/13639
   { annict_id: 13639 },
