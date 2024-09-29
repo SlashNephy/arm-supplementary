@@ -40670,4 +40670,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] WEB: ポケモンたちと秋の月
   // https://annict.com/works/14078
   { annict_id: 14078, mal_id: 59875 },
+  // [2024-SUMMER] WEB: POKÉTOON(2024)
+  // https://annict.com/works/14079
+  { annict_id: 14079, mal_id: 59944 },
 ]
