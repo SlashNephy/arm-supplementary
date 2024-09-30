@@ -24458,7 +24458,7 @@ export const annict: ArmEntry[] = [
   // [2022-WINTER] TV: 異世界美少女受肉おじさんと
   // https://annict.com/works/8523
   { annict_id: 8523, mal_id: 48997, syobocal_tid: 6220 },
-  // [1990-null] MOVIE: ターザン (1990年の映画)
+  // [1990-null] MOVIE: ターザン (1990年)
   // https://annict.com/works/8524
   { annict_id: 8524, mal_id: 30341 },
   // [1982-SPRING] TV: 白い牙 ホワイトファング物語
