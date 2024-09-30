@@ -40679,4 +40679,7 @@ export const annict: ArmEntry[] = [
   // [1989-WINTER] MOVIE: ガンダーラ
   // https://annict.com/works/14081
   { annict_id: 14081 },
+  // [2024-SUMMER] TV: 囀り響く金糸雀の羽
+  // https://annict.com/works/14082
+  { annict_id: 14082 },
 ]
