@@ -40673,4 +40673,10 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] WEB: POKÉTOON(2024)
   // https://annict.com/works/14079
   { annict_id: 14079, mal_id: 59944 },
+  // [1987-null] MOVIE: ワン・フォはいかにして助けられたか
+  // https://annict.com/works/14080
+  { annict_id: 14080 },
+  // [1989-WINTER] MOVIE: ガンダーラ
+  // https://annict.com/works/14081
+  { annict_id: 14081 },
 ]
