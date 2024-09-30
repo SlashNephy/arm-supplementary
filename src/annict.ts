@@ -40682,4 +40682,10 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] TV: 囀り響く金糸雀の羽
   // https://annict.com/works/14082
   { annict_id: 14082 },
+  // [2024-SUMMER] TV: ぶうかの物語
+  // https://annict.com/works/14083
+  { annict_id: 14083 },
+  // [2024-SUMMER] TV: 指くえ
+  // https://annict.com/works/14084
+  { annict_id: 14084 },
 ]
