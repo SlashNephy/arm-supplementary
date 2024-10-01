@@ -32485,7 +32485,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11334, mal_id: 56948 },
   // [2024-AUTUMN] TV: 齢5000年の草食ドラゴン、いわれなき邪竜認定 season2
   // https://annict.com/works/11335
-  { annict_id: 11335, mal_id: 58779 },
+  { annict_id: 11335, mal_id: 58779, syobocal_tid: 7252 },
   // [2024-AUTUMN] TV: 来世は他人がいい
   // https://annict.com/works/11336
   { annict_id: 11336, mal_id: 56964, syobocal_tid: 7212 },
@@ -36596,7 +36596,7 @@ export const annict: ArmEntry[] = [
   // [1929-SPRING] MOVIE: 太郎さんの汽車
   // https://annict.com/works/12712
   { annict_id: 12712, mal_id: 5873 },
-  // [1930-WINTER] MOVIE: かうもり
+  // [1930-WINTER] MOVIE: 漫画 かうもり
   // https://annict.com/works/12713
   { annict_id: 12713, mal_id: 5631 },
   // [1930-SPRING] MOVIE: 猿正宗
