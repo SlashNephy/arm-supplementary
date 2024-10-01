@@ -40252,7 +40252,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13935 },
   // [2024-AUTUMN] TV: とーがね！おまつり部＜再編集版＞
   // https://annict.com/works/13936
-  { annict_id: 13936 },
+  { annict_id: 13936, syobocal_tid: 7255 },
   // [2011-WINTER] OVA: 恋するスヌーピー
   // https://annict.com/works/13937
   { annict_id: 13937 },
