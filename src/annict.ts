@@ -36323,7 +36323,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] TV: MOON
   // https://annict.com/works/12621
   { annict_id: 12621, mal_id: 58006, syobocal_tid: 6992 },
-  // [1930-WINTER] MOVIE: おい等のスキー
+  // [1930-WINTER] MOVIE: 漫画 おい等のスキー
   // https://annict.com/works/12622
   { annict_id: 12622, mal_id: 23759 },
   // [1924-null] MOVIE: 教育お伽漫画 兎と亀
@@ -40697,4 +40697,10 @@ export const annict: ArmEntry[] = [
   // [2018-SUMMER] WEB: ようこそジャパリパーク
   // https://annict.com/works/14087
   { annict_id: 14087, mal_id: 37980 },
+  // [2024-AUTUMN] WEB: Re:ゼロから始める休憩時間 3rd season
+  // https://annict.com/works/14088
+  { annict_id: 14088 },
+  // [2025-null] TV: 中禅寺先生物怪講義録 先生が謎を解いてしまうから。
+  // https://annict.com/works/14089
+  { annict_id: 14089, mal_id: 60009 },
 ]
