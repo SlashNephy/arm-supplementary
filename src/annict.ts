@@ -23411,7 +23411,7 @@ export const annict: ArmEntry[] = [
   // [2019-SUMMER] OVA: とつくにの少女 (短編)
   // https://annict.com/works/8142
   { annict_id: 8142, mal_id: 39495 },
-  // [2022-WINTER] OVA: とつくにの少女 (長編)
+  // [2022-WINTER] OVA: とつくにの少女
   // https://annict.com/works/8143
   { annict_id: 8143, mal_id: 48405 },
   // [2021-SUMMER] TV: RE-MAIN
@@ -33058,7 +33058,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11526, mal_id: 57100, syobocal_tid: 7023 },
   // [2024-AUTUMN] TV: 放課後少年花子くん 続編
   // https://annict.com/works/11527
-  { annict_id: 11527, mal_id: 57102 },
+  { annict_id: 11527, mal_id: 57102, syobocal_tid: 7254 },
   // [null-null] TV: 無職の英雄 別にスキルなんか要らなかったんだが
   // https://annict.com/works/11528
   { annict_id: 11528, mal_id: 56854 },
@@ -36638,13 +36638,13 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] TV: ババンババンバンバンパイア
   // https://annict.com/works/12726
   { annict_id: 12726, mal_id: 58265 },
-  // [1930-WINTER] MOVIE: おい等の野球
+  // [1930-WINTER] MOVIE: 漫画 おい等の野球
   // https://annict.com/works/12727
   { annict_id: 12727, mal_id: 5826 },
   // [1931-null] MOVIE: 動物相撲大会
   // https://annict.com/works/12728
   { annict_id: 12728, mal_id: 5812 },
-  // [1931-AUTUMN] MOVIE: 空の桃太郎
+  // [1931-AUTUMN] MOVIE: 漫画 空の桃太郎
   // https://annict.com/works/12729
   { annict_id: 12729, mal_id: 4390 },
   // [1931-null] MOVIE: 蝶のさいなん
@@ -37018,7 +37018,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12852, mal_id: 58603 },
   // [2024-AUTUMN] TV: Thunderbolt Fantasy 東離劍遊紀 4
   // https://annict.com/works/12853
-  { annict_id: 12853 },
+  { annict_id: 12853, syobocal_tid: 7208 },
   // [2025-null] MOVIE: Thunderbolt Fantasy 東離劍遊紀 最終章
   // https://annict.com/works/12854
   { annict_id: 12854 },
