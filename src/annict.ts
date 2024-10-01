@@ -40694,4 +40694,7 @@ export const annict: ArmEntry[] = [
   // [1928-SUMMER] MOVIE: 動物オリムピック大會
   // https://annict.com/works/14086
   { annict_id: 14086, mal_id: 7498 },
+  // [2018-SUMMER] WEB: ようこそジャパリパーク
+  // https://annict.com/works/14087
+  { annict_id: 14087, mal_id: 37980 },
 ]
