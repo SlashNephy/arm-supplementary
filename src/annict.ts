@@ -40688,4 +40688,10 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] TV: 指くえ
   // https://annict.com/works/14084
   { annict_id: 14084 },
+  // [1928-null] MOVIE: 御国の為に
+  // https://annict.com/works/14085
+  { annict_id: 14085, mal_id: 29557 },
+  // [1928-SUMMER] MOVIE: 動物オリムピック大會
+  // https://annict.com/works/14086
+  { annict_id: 14086, mal_id: 7498 },
 ]
