@@ -40730,4 +40730,13 @@ export const annict: ArmEntry[] = [
   // [1933-WINTER] MOVIE: 蛙三勇士
   // https://annict.com/works/14098
   { annict_id: 14098, mal_id: 28051 },
+  // [2019-SPRING] WEB: プロメア SIDE ガロ
+  // https://annict.com/works/14099
+  { annict_id: 14099, mal_id: 39991 },
+  // [2019-SPRING] WEB: プロメア SIDE リオ
+  // https://annict.com/works/14100
+  { annict_id: 14100, mal_id: 40313 },
+  // [2019-SUMMER] WEB: 銀魂 ～モンスターストライク編～
+  // https://annict.com/works/14101
+  { annict_id: 14101, mal_id: 40323 },
 ]
