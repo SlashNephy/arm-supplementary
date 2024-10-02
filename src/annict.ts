@@ -40721,4 +40721,13 @@ export const annict: ArmEntry[] = [
   // [1934-SPRING] MOVIE: オモチャ箱シリーズ第3話 絵本1936年
   // https://annict.com/works/14095
   { annict_id: 14095, mal_id: 6823 },
+  // [1930-SPRING] MOVIE: お関所
+  // https://annict.com/works/14096
+  { annict_id: 14096, mal_id: 35390 },
+  // [1931-null] MOVIE: 心の力
+  // https://annict.com/works/14097
+  { annict_id: 14097, mal_id: 28047 },
+  // [1933-WINTER] MOVIE: 蛙三勇士
+  // https://annict.com/works/14098
+  { annict_id: 14098, mal_id: 28051 },
 ]
