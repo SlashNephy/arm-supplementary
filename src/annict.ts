@@ -31861,7 +31861,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11126, mal_id: 56653 },
   // [2024-AUTUMN] TV: 青のミブロ
   // https://annict.com/works/11127
-  { annict_id: 11127, mal_id: 56647 },
+  { annict_id: 11127, mal_id: 56647, syobocal_tid: 7259 },
   // [1998-SPRING] TV: 新YAT安心！宇宙旅行
   // https://annict.com/works/11128
   { annict_id: 11128, mal_id: 1892 },
@@ -39115,7 +39115,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13553, mal_id: 59175, syobocal_tid: 7217 },
   // [2024-AUTUMN] MOVIE: 風都探偵 仮面ライダースカルの肖像
   // https://annict.com/works/13554
-  { annict_id: 13554 },
+  { annict_id: 13554, mal_id: 59186 },
   // [2012-SUMMER] TV: ドックはおもちゃドクター
   // https://annict.com/works/13555
   { annict_id: 13555 },
@@ -40645,7 +40645,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14069, mal_id: 31236 },
   // [2024-AUTUMN] TV: キラキラ キャッチ！ティニピン
   // https://annict.com/works/14070
-  { annict_id: 14070, mal_id: 55659 },
+  { annict_id: 14070, mal_id: 55659, syobocal_tid: 7257 },
   // [1960-null] MOVIE: かがみ
   // https://annict.com/works/14071
   { annict_id: 14071, mal_id: 29870 },
