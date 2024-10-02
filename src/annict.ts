@@ -40706,4 +40706,19 @@ export const annict: ArmEntry[] = [
   // [1928-SUMMER] MOVIE: 文福茶釜
   // https://annict.com/works/14090
   { annict_id: 14090, mal_id: 24881 },
+  // [1928-AUTUMN] MOVIE: 孫悟空
+  // https://annict.com/works/14091
+  { annict_id: 14091 },
+  // [1929-WINTER] MOVIE: こがねの花
+  // https://annict.com/works/14092
+  { annict_id: 14092, mal_id: 28045 },
+  // [1933-null] MOVIE: 特急艦隊
+  // https://annict.com/works/14093
+  { annict_id: 14093 },
+  // [1933-null] MOVIE: 黒猫萬歳
+  // https://annict.com/works/14094
+  { annict_id: 14094 },
+  // [1934-SPRING] MOVIE: オモチャ箱シリーズ第3話 絵本1936年
+  // https://annict.com/works/14095
+  { annict_id: 14095, mal_id: 6823 },
 ]
