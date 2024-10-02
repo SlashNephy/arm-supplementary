@@ -40703,4 +40703,7 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: 中禅寺先生物怪講義録 先生が謎を解いてしまうから。
   // https://annict.com/works/14089
   { annict_id: 14089, mal_id: 60009 },
+  // [1928-SUMMER] MOVIE: 文福茶釜
+  // https://annict.com/works/14090
+  { annict_id: 14090, mal_id: 24881 },
 ]
