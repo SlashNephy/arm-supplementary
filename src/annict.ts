@@ -40699,7 +40699,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14087, mal_id: 37980 },
   // [2024-AUTUMN] WEB: Re:ゼロから始める休憩時間 3rd season
   // https://annict.com/works/14088
-  { annict_id: 14088 },
+  { annict_id: 14088, mal_id: 60012 },
   // [2025-null] TV: 中禅寺先生物怪講義録 先生が謎を解いてしまうから。
   // https://annict.com/works/14089
   { annict_id: 14089, mal_id: 60009 },
