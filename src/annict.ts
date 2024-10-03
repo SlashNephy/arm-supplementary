@@ -40754,4 +40754,7 @@ export const annict: ArmEntry[] = [
   // [1933-SPRING] MOVIE: 力と女の世の中
   // https://annict.com/works/14106
   { annict_id: 14106, mal_id: 7354 },
+  // [2024-AUTUMN] MOVIE: も～っと煌めく！KING OF PRISM -Dramatic PRISM.1-
+  // https://annict.com/works/14107
+  { annict_id: 14107 },
 ]
