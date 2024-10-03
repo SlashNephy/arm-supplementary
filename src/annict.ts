@@ -40739,4 +40739,13 @@ export const annict: ArmEntry[] = [
   // [2019-SUMMER] WEB: 銀魂 ～モンスターストライク編～
   // https://annict.com/works/14101
   { annict_id: 14101, mal_id: 40323 },
+  // [2020-SPRING] WEB: 絶望粉砕少女∞アミダ
+  // https://annict.com/works/14102
+  { annict_id: 14102, mal_id: 42156 },
+  // [2023-AUTUMN] WEB: マサムネ -使命の赤き刃-
+  // https://annict.com/works/14103
+  { annict_id: 14103, mal_id: 57883 },
+  // [2011-SUMMER] MOVIE: 663114
+  // https://annict.com/works/14104
+  { annict_id: 14104, mal_id: 13971 },
 ]
