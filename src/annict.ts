@@ -33091,7 +33091,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11537, mal_id: 57152 },
   // [2024-AUTUMN] TV: 大正偽りブラヰダル～身代わり花嫁と軍服の猛愛
   // https://annict.com/works/11538
-  { annict_id: 11538, mal_id: 59698 },
+  { annict_id: 11538, mal_id: 59698, syobocal_tid: 7249 },
   // [1981-SUMMER] MOVIE: Dr.スランプ アラレちゃん ハロー!不思議島
   // https://annict.com/works/11540
   { annict_id: 11540, mal_id: 7666 },
