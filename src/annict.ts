@@ -40757,4 +40757,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] MOVIE: も～っと煌めく！KING OF PRISM -Dramatic PRISM.1-
   // https://annict.com/works/14107
   { annict_id: 14107 },
+  // [1933-SPRING] MOVIE: 漫画 紙芝居 いたづら狸の卷
+  // https://annict.com/works/14108
+  { annict_id: 14108, mal_id: 35399 },
 ]
