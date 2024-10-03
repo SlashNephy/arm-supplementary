@@ -40748,4 +40748,10 @@ export const annict: ArmEntry[] = [
   // [2011-SUMMER] MOVIE: 663114
   // https://annict.com/works/14104
   { annict_id: 14104, mal_id: 13971 },
+  // [1931-null] MOVIE: 難船ス物語 第壱篇 猿ヶ嶋
+  // https://annict.com/works/14105
+  { annict_id: 14105, mal_id: 28695 },
+  // [1933-SPRING] MOVIE: 力と女の世の中
+  // https://annict.com/works/14106
+  { annict_id: 14106, mal_id: 7354 },
 ]
