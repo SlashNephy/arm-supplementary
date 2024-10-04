@@ -36587,7 +36587,7 @@ export const annict: ArmEntry[] = [
   // [1929-null] MOVIE: 一寸法師ノ出世
   // https://annict.com/works/12709
   { annict_id: 12709, mal_id: 3930 },
-  // [1931-WINTER] MOVIE: 国歌 君が代
+  // [1931-WINTER] MOVIE: 國歌 君が代
   // https://annict.com/works/12710
   { annict_id: 12710, mal_id: 4393 },
   // [1929-AUTUMN] MOVIE: 漫画 瘤取り
