@@ -40787,4 +40787,7 @@ export const annict: ArmEntry[] = [
   // [1931-null] MOVIE: 難船ス物語 第弐篇 海賊船
   // https://annict.com/works/14117
   { annict_id: 14117, mal_id: 49255 },
+  // [2024-AUTUMN] WEB: ブルーロック あでぃしょなる・たいむ！ (2期)
+  // https://annict.com/works/14118
+  { annict_id: 14118 },
 ]
