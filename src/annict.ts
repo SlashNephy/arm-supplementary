@@ -40790,4 +40790,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: ブルーロック あでぃしょなる・たいむ！ (2期)
   // https://annict.com/works/14118
   { annict_id: 14118 },
+  // [2025-SPRING] OVA: 百姓貴族 2nd Season 未放送エピソード
+  // https://annict.com/works/14119
+  { annict_id: 14119 },
 ]
