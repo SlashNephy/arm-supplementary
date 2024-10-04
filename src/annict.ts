@@ -35728,7 +35728,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12420, mal_id: 57796, syobocal_tid: 7223 },
   // [2024-SPRING] WEB: あたしンちNEXT
   // https://annict.com/works/12421
-  { annict_id: 12421, mal_id: 57822 },
+  { annict_id: 12421, mal_id: 57822, syobocal_tid: 7262 },
   // [2024-SUMMER] TV: 小市民シリーズ
   // https://annict.com/works/12422
   { annict_id: 12422, mal_id: 57810, syobocal_tid: 7122 },
@@ -39712,7 +39712,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13752, mal_id: 59484 },
   // [2024-AUTUMN] TV: SHIBUYA♡HACHI 第2クール
   // https://annict.com/works/13753
-  { annict_id: 13753, mal_id: 59485 },
+  { annict_id: 13753, mal_id: 59485, syobocal_tid: 7261 },
   // [2001-WINTER] OVA: トゥイーティーのフライング・アドベンチャー 80日間世界一周大冒険
   // https://annict.com/works/13754
   { annict_id: 13754 },
