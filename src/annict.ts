@@ -40748,7 +40748,7 @@ export const annict: ArmEntry[] = [
   // [2011-SUMMER] MOVIE: 663114
   // https://annict.com/works/14104
   { annict_id: 14104, mal_id: 13971 },
-  // [1931-null] MOVIE: 難船ス物語 第壱篇 猿ヶ嶋
+  // [1930-null] MOVIE: 難船ス物語 第壱篇 猿ヶ嶋
   // https://annict.com/works/14105
   { annict_id: 14105, mal_id: 28695 },
   // [1933-SPRING] MOVIE: 力と女の世の中
@@ -40781,4 +40781,10 @@ export const annict: ArmEntry[] = [
   // [1999-SUMMER] OVA: スライム冒険記 ～海だ、イエー～
   // https://annict.com/works/14115
   { annict_id: 14115, mal_id: 8664 },
+  // [2024-AUTUMN] WEB: マルちゃんZUBAAAN！×幽遊白書 コラボムービー
+  // https://annict.com/works/14116
+  { annict_id: 14116 },
+  // [1931-null] MOVIE: 難船ス物語 第弐篇 海賊船
+  // https://annict.com/works/14117
+  { annict_id: 14117, mal_id: 49255 },
 ]
