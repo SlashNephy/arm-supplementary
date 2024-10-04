@@ -40760,4 +40760,25 @@ export const annict: ArmEntry[] = [
   // [1933-SPRING] MOVIE: 漫画 紙芝居 いたづら狸の卷
   // https://annict.com/works/14108
   { annict_id: 14108, mal_id: 35399 },
+  // [2025-null] TV: 姫騎士は蛮族の嫁
+  // https://annict.com/works/14109
+  { annict_id: 14109, mal_id: 60028 },
+  // [1994-SUMMER] OVA: GO!GO!ACKMAN
+  // https://annict.com/works/14110
+  { annict_id: 14110, mal_id: 6413 },
+  // [1995-SUMMER] OVA: スライム冒険記
+  // https://annict.com/works/14111
+  { annict_id: 14111, mal_id: 60018 },
+  // [1996-SUMMER] OVA: 時空冒険 ぬうまもんじゃ〜
+  // https://annict.com/works/14112
+  { annict_id: 14112, mal_id: 1751 },
+  // [1997-SUMMER] OVA: 貯金戦士キャッシュマン
+  // https://annict.com/works/14113
+  { annict_id: 14113, mal_id: 6484 },
+  // [1998-SUMMER] OVA: スライム冒険記 ウルフくん がんばるの巻
+  // https://annict.com/works/14114
+  { annict_id: 14114, mal_id: 60019 },
+  // [1999-SUMMER] OVA: スライム冒険記 ～海だ、イエー～
+  // https://annict.com/works/14115
+  { annict_id: 14115, mal_id: 8664 },
 ]
