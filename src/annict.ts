@@ -40811,4 +40811,7 @@ export const annict: ArmEntry[] = [
   // [1931-null] MOVIE: 漫画 見世物見物
   // https://annict.com/works/14125
   { annict_id: 14125, mal_id: 35395 },
+  // [null-null] TV: 魔法少女にあこがれて 第2期
+  // https://annict.com/works/14126
+  { annict_id: 14126 },
 ]
