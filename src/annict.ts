@@ -40814,4 +40814,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 魔法少女にあこがれて 第2期
   // https://annict.com/works/14126
   { annict_id: 14126, mal_id: 60046 },
+  // [2024-SPRING] MOVIE: 劇場版ブルーロック -EPISODE 凪- あでぃしょなる・たいむ！
+  // https://annict.com/works/14127
+  { annict_id: 14127 },
 ]
