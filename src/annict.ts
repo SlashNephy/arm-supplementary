@@ -40493,9 +40493,9 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] MOVIE: トランスフォーマー/ONE
   // https://annict.com/works/14017
   { annict_id: 14017 },
-  // [2024-SUMMER] TV: 5億年ボタン【公式】～菅原そうたのショートショート～ 第13話
+  // [2024-SUMMER] TV: 5億年ボタン【公式】～菅原そうたのショートショート～(TVスペシャル)
   // https://annict.com/works/14018
-  { annict_id: 14018 },
+  { annict_id: 14018, mal_id: 60029 },
   // [2025-null] TV: 忍ばない！クリプトニンジャ咲耶 第3期
   // https://annict.com/works/14019
   { annict_id: 14019, mal_id: 59865 },
@@ -40793,4 +40793,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] OVA: 百姓貴族 2nd Season 未放送エピソード
   // https://annict.com/works/14119
   { annict_id: 14119 },
+  // [2024-AUTUMN] TV: 神之塔 -Tower of God- 工房戦
+  // https://annict.com/works/14120
+  { annict_id: 14120, mal_id: 59989 },
 ]
