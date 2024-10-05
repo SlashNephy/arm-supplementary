@@ -40795,5 +40795,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 14119 },
   // [2024-AUTUMN] TV: 神之塔 -Tower of God- 工房戦
   // https://annict.com/works/14120
-  { annict_id: 14120, mal_id: 59989 },
+  { annict_id: 14120, mal_id: 59989, syobocal_tid: 7250 },
 ]
