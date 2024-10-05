@@ -39337,7 +39337,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13627 },
   // [2024-AUTUMN] TV: 魔法少女リリカルなのは 20周年記念セレクション
   // https://annict.com/works/13628
-  { annict_id: 13628 },
+  { annict_id: 13628, syobocal_tid: 7263 },
   // [2025-null] TV: マジック・メイカー ～異世界魔法の作り方～
   // https://annict.com/works/13629
   { annict_id: 13629, mal_id: 59265 },
@@ -39733,7 +39733,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13759, mal_id: 59505, syobocal_tid: 7171 },
   // [2024-AUTUMN] TV: アサティール2 未来の昔ばなし
   // https://annict.com/works/13760
-  { annict_id: 13760, mal_id: 59499 },
+  { annict_id: 13760, mal_id: 59499, syobocal_tid: 7264 },
   // [2025-WINTER] TV: 戦隊レッド 異世界で冒険者になる
   // https://annict.com/works/13761
   { annict_id: 13761, mal_id: 59514 },
@@ -40796,4 +40796,19 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: 神之塔 -Tower of God- 工房戦
   // https://annict.com/works/14120
   { annict_id: 14120, mal_id: 59989, syobocal_tid: 7250 },
+  // [1930-null] MOVIE: 漫画 驢馬
+  // https://annict.com/works/14121
+  { annict_id: 14121, mal_id: 34982 },
+  // [1931-null] MOVIE: 電信 電鈴 電話
+  // https://annict.com/works/14122
+  { annict_id: 14122, mal_id: 35409 },
+  // [1931-SPRING] MOVIE: 漫画レビュー 春
+  // https://annict.com/works/14123
+  { annict_id: 14123, mal_id: 35403 },
+  // [1931-null] MOVIE: 漫画 狼は狼だ
+  // https://annict.com/works/14124
+  { annict_id: 14124, mal_id: 34957 },
+  // [1931-null] MOVIE: 漫画 見世物見物
+  // https://annict.com/works/14125
+  { annict_id: 14125, mal_id: 35395 },
 ]
