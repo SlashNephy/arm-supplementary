@@ -40813,5 +40813,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 14125, mal_id: 35395 },
   // [null-null] TV: 魔法少女にあこがれて 第2期
   // https://annict.com/works/14126
-  { annict_id: 14126 },
+  { annict_id: 14126, mal_id: 60046 },
 ]
