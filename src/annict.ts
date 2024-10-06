@@ -40832,4 +40832,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 逃げ上手の若君 第二期
   // https://annict.com/works/14132
   { annict_id: 14132, mal_id: 60059 },
+  // [2018-SUMMER] OTHER: メカウデ パイロットエピソード
+  // https://annict.com/works/14133
+  { annict_id: 14133, mal_id: 37760 },
 ]
