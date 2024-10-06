@@ -40829,4 +40829,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 庵野秀明監督版｢宇宙戦艦ヤマト｣
   // https://annict.com/works/14131
   { annict_id: 14131 },
+  // [null-null] TV: 逃げ上手の若君 第二期
+  // https://annict.com/works/14132
+  { annict_id: 14132, mal_id: 60059 },
 ]
