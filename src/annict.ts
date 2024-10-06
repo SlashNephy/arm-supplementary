@@ -39367,7 +39367,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13637 },
   // [2024-AUTUMN] TV: ぷにるんず ぷに2
   // https://annict.com/works/13638
-  { annict_id: 13638, syobocal_tid: 7244 },
+  { annict_id: 13638, mal_id: 59512, syobocal_tid: 7244 },
   // [2024-AUTUMN] TV: まぁるい彼女と残念な彼氏 2期
   // https://annict.com/works/13639
   { annict_id: 13639 },
