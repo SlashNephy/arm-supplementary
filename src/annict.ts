@@ -40817,4 +40817,13 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] MOVIE: 劇場版ブルーロック -EPISODE 凪- あでぃしょなる・たいむ！
   // https://annict.com/works/14127
   { annict_id: 14127 },
+  // [2024-AUTUMN] WEB: リモート☆ホスト petit
+  // https://annict.com/works/14128
+  { annict_id: 14128 },
+  // [null-null] TV: 夜桜さんちの大作戦 第2期
+  // https://annict.com/works/14129
+  { annict_id: 14129 },
+  // [null-null] TV: 【推しの子】第3期
+  // https://annict.com/works/14130
+  { annict_id: 14130 },
 ]
