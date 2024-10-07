@@ -40838,4 +40838,7 @@ export const annict: ArmEntry[] = [
   // [2012-SUMMER] MOVIE: よりぬき銀魂さんオンシアター2D
   // https://annict.com/works/14134
   { annict_id: 14134, mal_id: 21899 },
+  // [2024-AUTUMN] WEB: 教師のK
+  // https://annict.com/works/14135
+  { annict_id: 14135 },
 ]
