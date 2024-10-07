@@ -40835,4 +40835,7 @@ export const annict: ArmEntry[] = [
   // [2018-SUMMER] OTHER: メカウデ パイロットエピソード
   // https://annict.com/works/14133
   { annict_id: 14133, mal_id: 37760 },
+  // [2012-SUMMER] MOVIE: よりぬき銀魂さんオンシアター2D
+  // https://annict.com/works/14134
+  { annict_id: 14134, mal_id: 21899 },
 ]
