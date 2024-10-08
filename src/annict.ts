@@ -40840,5 +40840,8 @@ export const annict: ArmEntry[] = [
   { annict_id: 14134, mal_id: 21899 },
   // [2024-AUTUMN] WEB: 教師のK
   // https://annict.com/works/14135
-  { annict_id: 14135 },
+  { annict_id: 14135, mal_id: 60067 },
+  // [1980-SUMMER] MOVIE: ウォーターシップ・ダウンのうさぎたち
+  // https://annict.com/works/14136
+  { annict_id: 14136 },
 ]
