@@ -37334,7 +37334,7 @@ export const annict: ArmEntry[] = [
   // [1930-SPRING] MOVIE: 北極の道化者
   // https://annict.com/works/12959
   { annict_id: 12959 },
-  // [2025-null] TV: 黒岩メダカに私の可愛いが通じない
+  // [2025-WINTER] TV: 黒岩メダカに私の可愛いが通じない
   // https://annict.com/works/12960
   { annict_id: 12960, mal_id: 58853 },
   // [2024-AUTUMN] TV: きのこいぬ
