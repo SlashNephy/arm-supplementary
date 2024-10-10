@@ -40573,10 +40573,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 14043, mal_id: 12669 },
   // [2024-AUTUMN] WEB: モブ皇帝～平凡をむさぼる僕が多元宇宙の支配者に選ばれたので、世界を救ってみた～
   // https://annict.com/works/14044
-  { annict_id: 14044, mal_id: 50431 },
+  { annict_id: 14044, mal_id: 50431, syobocal_tid: 7265 },
   // [2024-AUTUMN] WEB: 時空の隙
   // https://annict.com/works/14045
-  { annict_id: 14045, mal_id: 50443 },
+  { annict_id: 14045, mal_id: 50443, syobocal_tid: 7266 },
   // [1989-AUTUMN] OVA: 青春夫婦物語 恋子の毎日
   // https://annict.com/works/14046
   { annict_id: 14046, mal_id: 10045 },
