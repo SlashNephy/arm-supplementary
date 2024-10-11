@@ -25031,7 +25031,7 @@ export const annict: ArmEntry[] = [
   // [2021-SUMMER] TV: Fate/Grand Order -絶対魔獣戦線バビロニア- 総集編
   // https://annict.com/works/8747
   { annict_id: 8747, mal_id: 40761 },
-  // [null-null] OVA: SK∞ エスケーエイト OVA
+  // [2025-WINTER] OVA: SK∞ エスケーエイト EXTRA PART
   // https://annict.com/works/8748
   { annict_id: 8748, mal_id: 49363 },
   // [2022-SUMMER] MOVIE: RE:cycle of the PENGUINDRUM［後編］僕は君を愛してる
@@ -40850,4 +40850,7 @@ export const annict: ArmEntry[] = [
   // [1978-WINTER] MOVIE: 新・巨人の星(1978年)
   // https://annict.com/works/14138
   { annict_id: 14138 },
+  // [2025-null] TV: 九龍ジェネリックロマンス
+  // https://annict.com/works/14139
+  { annict_id: 14139, mal_id: 60083 },
 ]
