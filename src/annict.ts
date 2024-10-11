@@ -1661,7 +1661,7 @@ export const annict: ArmEntry[] = [
   // [1968-WINTER] TV: 巨人の星
   // https://annict.com/works/553
   { annict_id: 553, mal_id: 5834, syobocal_tid: 5591 },
-  // [2002-AUTUMN] TV: 巨人の星【特別篇】　猛虎 花形満
+  // [2002-AUTUMN] TV: 巨人の星【特別篇】猛虎 花形満
   // https://annict.com/works/554
   { annict_id: 554, mal_id: 51085, syobocal_tid: 2851 },
   // [2013-SUMMER] TV: 帰宅部活動記録
@@ -32531,7 +32531,7 @@ export const annict: ArmEntry[] = [
   // [2007-SPRING] TV: コロコロアニマル
   // https://annict.com/works/11350
   { annict_id: 11350, mal_id: 29745 },
-  // [2007-SPRING] TV: 巨人の星【特別篇】 父 一徹
+  // [2007-SPRING] TV: 巨人の星【特別篇】父 一徹
   // https://annict.com/works/11351
   { annict_id: 11351, syobocal_tid: 5129 },
   // [2007-SPRING] TV: 優しさと感動のこだま
@@ -40844,4 +40844,10 @@ export const annict: ArmEntry[] = [
   // [1980-SUMMER] MOVIE: ウォーターシップ・ダウンのうさぎたち
   // https://annict.com/works/14136
   { annict_id: 14136 },
+  // [1977-AUTUMN] MOVIE: 新・巨人の星(1977年)
+  // https://annict.com/works/14137
+  { annict_id: 14137 },
+  // [1978-WINTER] MOVIE: 新・巨人の星(1978年)
+  // https://annict.com/works/14138
+  { annict_id: 14138 },
 ]
