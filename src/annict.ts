@@ -25994,7 +25994,7 @@ export const annict: ArmEntry[] = [
   // [2022-SUMMER] WEB: カーズ・オン・ザ・ロード
   // https://annict.com/works/9101
   { annict_id: 9101 },
-  // [2024-AUTUMN] WEB: ウィン or ルーズ
+  // [2025-WINTER] WEB: ウィン or ルーズ
   // https://annict.com/works/9102
   { annict_id: 9102 },
   // [2021-AUTUMN] WEB: グレッグのダメ日記
@@ -39767,7 +39767,7 @@ export const annict: ArmEntry[] = [
   // [null-null] MOVIE: インクレディブルズ3（原題）
   // https://annict.com/works/13771
   { annict_id: 13771 },
-  // [2025-null] WEB: 夢の製作スタジオ（仮題）
+  // [2024-AUTUMN] WEB: 『インサイド・ヘッド』の世界より：ライリーの夢の製作スタジオ
   // https://annict.com/works/13772
   { annict_id: 13772 },
   // [2025-null] MOVIE: ズートピア2（原題）
