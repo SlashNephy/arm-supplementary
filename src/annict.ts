@@ -40865,4 +40865,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: 女神降臨
   // https://annict.com/works/14143
   { annict_id: 14143 },
+  // [2025-WINTER] MOVIE: SK∞ エスケーエイト EXTRA PART スペシャル版
+  // https://annict.com/works/14144
+  { annict_id: 14144 },
 ]
