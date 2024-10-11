@@ -10408,7 +10408,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3480, syobocal_tid: 2197 },
   // [2012-WINTER] MOVIE: ドットハック セカイの向こうに
   // https://annict.com/works/3481
-  { annict_id: 3481, syobocal_tid: 2419 },
+  { annict_id: 3481, mal_id: 11375, syobocal_tid: 2419 },
   // [2003-WINTER] MOVIE: ドラえもん のび太とふしぎ風使い
   // https://annict.com/works/3482
   { annict_id: 3482, mal_id: 2393 },
@@ -40853,4 +40853,16 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: 九龍ジェネリックロマンス
   // https://annict.com/works/14139
   { annict_id: 14139, mal_id: 60083 },
+  // [2025-SPRING] TV: かいじゅうせかいせいふく
+  // https://annict.com/works/14140
+  { annict_id: 14140, mal_id: 60070 },
+  // [null-null] TV: 穏やか貴族の休暇のすすめ。
+  // https://annict.com/works/14141
+  { annict_id: 14141, mal_id: 60071 },
+  // [1990-SUMMER] MOVIE: キムの十字架
+  // https://annict.com/works/14142
+  { annict_id: 14142, mal_id: 19941 },
+  // [2024-AUTUMN] WEB: 女神降臨
+  // https://annict.com/works/14143
+  { annict_id: 14143 },
 ]
