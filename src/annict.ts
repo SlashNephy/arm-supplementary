@@ -40868,4 +40868,10 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] MOVIE: SK∞ エスケーエイト EXTRA PART スペシャル版
   // https://annict.com/works/14144
   { annict_id: 14144 },
+  // [2024-AUTUMN] WEB: 駅メモ！ ルナのマスターレポート 岡山編
+  // https://annict.com/works/14145
+  { annict_id: 14145 },
+  // [2024-WINTER] WEB: ショコラカタブラ
+  // https://annict.com/works/14146
+  { annict_id: 14146, mal_id: 57949 },
 ]
