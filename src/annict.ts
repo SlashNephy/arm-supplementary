@@ -40934,4 +40934,13 @@ export const annict: ArmEntry[] = [
   // [1987-WINTER] OVA: ボディジャック 楽しい幽体離脱
   // https://annict.com/works/14166
   { annict_id: 14166, mal_id: 4149 },
+  // [1989-AUTUMN] OVA: 冒険してもいい頃
+  // https://annict.com/works/14167
+  { annict_id: 14167, mal_id: 5648 },
+  // [1996-SPRING] OVA: ザ・ハード BOUNTY HUNTER
+  // https://annict.com/works/14168
+  { annict_id: 14168, mal_id: 4522 },
+  // [2017-SPRING] WEB: BOY's LOVE Nitro+CHiRAL
+  // https://annict.com/works/14169
+  { annict_id: 14169, mal_id: 35328 },
 ]
