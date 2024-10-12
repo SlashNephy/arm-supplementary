@@ -19768,7 +19768,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6667, mal_id: 38011, syobocal_tid: 5371 },
   // [1988-WINTER] OVA: エースをねらえ！2
   // https://annict.com/works/6668
-  { annict_id: 6668 },
+  { annict_id: 6668, mal_id: 314 },
   // [2019-SPRING] WEB: 荒野のコトブキ飛行隊外伝 大空のハルカゼ飛行隊
   // https://annict.com/works/6669
   { annict_id: 6669, mal_id: 39589 },
@@ -30829,7 +30829,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10782, mal_id: 55225 },
   // [2023-SPRING] TV: 鷹の爪外伝「秘密厩舎 馬の蹄」
   // https://annict.com/works/10783
-  { annict_id: 10783, syobocal_tid: 6710 },
+  { annict_id: 10783, mal_id: 60091, syobocal_tid: 6710 },
   // [2023-SUMMER] TV: 闇芝居 (11期)
   // https://annict.com/works/10784
   { annict_id: 10784, mal_id: 55166, syobocal_tid: 6766 },
@@ -35035,7 +35035,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12188, mal_id: 25915 },
   // [2023-AUTUMN] TV: 鷹の爪外伝 秘密厩舎 馬の蹄 ～グランプリ～
   // https://annict.com/works/12189
-  { annict_id: 12189, syobocal_tid: 6890 },
+  { annict_id: 12189, mal_id: 60092, syobocal_tid: 6890 },
   // [2025-null] TV: Dr.STONE SCIENCE FUTURE
   // https://annict.com/works/12190
   { annict_id: 12190, mal_id: 57592 },
@@ -38578,7 +38578,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13374, mal_id: 58623 },
   // [2024-SPRING] TV: 鷹の爪外伝「秘密厩舎 馬の蹄 ダービーコンクエスト」
   // https://annict.com/works/13375
-  { annict_id: 13375, syobocal_tid: 7079 },
+  { annict_id: 13375, mal_id: 60093, syobocal_tid: 7079 },
   // [2024-WINTER] WEB: UR賃貸住宅×耐え子の日常 くらしのカレッジ
   // https://annict.com/works/13376
   { annict_id: 13376 },
@@ -40249,7 +40249,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13934 },
   // [2024-AUTUMN] WEB: ぬいストーリー2
   // https://annict.com/works/13935
-  { annict_id: 13935 },
+  { annict_id: 13935, mal_id: 60080 },
   // [2024-AUTUMN] TV: とーがね！おまつり部＜再編集版＞
   // https://annict.com/works/13936
   { annict_id: 13936, syobocal_tid: 7255 },
@@ -40876,5 +40876,17 @@ export const annict: ArmEntry[] = [
   { annict_id: 14146, mal_id: 57949 },
   // [null-null] OTHER: 監禁区域レベルX 続編
   // https://annict.com/works/14147
-  { annict_id: 14147 },
+  { annict_id: 14147, mal_id: 60094 },
+  // [2025-null] TV: 僕のヒーローアカデミア FINAL SEASON
+  // https://annict.com/works/14148
+  { annict_id: 14148 },
+  // [2010-SPRING] OVA: 11eyes 第13話「桃色幻夢譚 〜ró zsaszí n é jszaka」
+  // https://annict.com/works/14149
+  { annict_id: 14149, mal_id: 7739 },
+  // [2001-AUTUMN] OVA: 魔法遊戯(3D版)
+  // https://annict.com/works/14150
+  { annict_id: 14150, mal_id: 2278 },
+  // [1995-AUTUMN] MOVIE: 5等になりたい。
+  // https://annict.com/works/14151
+  { annict_id: 14151, mal_id: 8120 },
 ]
