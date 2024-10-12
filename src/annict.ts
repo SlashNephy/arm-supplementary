@@ -5368,7 +5368,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1791, mal_id: 8521 },
   // [1998-SPRING] TV: ビーストウォーズII　超生命体トランスフォーマー
   // https://annict.com/works/1792
-  { annict_id: 1792, syobocal_tid: 227 },
+  { annict_id: 1792, mal_id: 5070, syobocal_tid: 227 },
   // [1997-AUTUMN] TV: ビーストウォーズ 超生命体トランスフォーマー
   // https://annict.com/works/1793
   { annict_id: 1793, syobocal_tid: 226 },
@@ -8938,7 +8938,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2989, mal_id: 7059, syobocal_tid: 2187 },
   // [1987-SPRING] OVA: ブラックマジック M-66
   // https://annict.com/works/2990
-  { annict_id: 2990, syobocal_tid: 2971 },
+  { annict_id: 2990, mal_id: 1270, syobocal_tid: 2971 },
   // [1994-WINTER] OVA: プラスチックリトル
   // https://annict.com/works/2991
   { annict_id: 2991, mal_id: 2332 },
@@ -13963,7 +13963,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 4679, mal_id: 31338, syobocal_tid: 4085 },
   // [2016-SPRING] TV: ビッグオーダー
   // https://annict.com/works/4680
-  { annict_id: 4680, mal_id: 30137, syobocal_tid: 4121 },
+  { annict_id: 4680, mal_id: 31904, syobocal_tid: 4121 },
   // [2016-SPRING] TV: ふらいんぐうぃっち
   // https://annict.com/works/4681
   { annict_id: 4681, mal_id: 31376, syobocal_tid: 4094 },
@@ -40528,7 +40528,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14028 },
   // [2024-AUTUMN] TV: マーダーミステリー・オブ・ザ・デッド
   // https://annict.com/works/14029
-  { annict_id: 14029, mal_id: 59892 },
+  { annict_id: 14029, mal_id: 59892, syobocal_tid: 7267 },
   // [2025-SPRING] WEB: Devil May Cry
   // https://annict.com/works/14030
   { annict_id: 14030 },
@@ -40907,4 +40907,31 @@ export const annict: ArmEntry[] = [
   // [2006-SUMMER] WEB: あゆまゆ劇場
   // https://annict.com/works/14157
   { annict_id: 14157, mal_id: 1856 },
+  // [1998-AUTUMN] MOVIE: ビーストウォーズII 超生命体トランスフォーマー ライオコンボイ危機一髪!
+  // https://annict.com/works/14158
+  { annict_id: 14158, mal_id: 5289 },
+  // [2016-AUTUMN] OVA: ブラッククローバー(ジャンプスペシャルアニメフェスタ2016)
+  // https://annict.com/works/14159
+  { annict_id: 14159, mal_id: 33950 },
+  // [2018-WINTER] OVA: プチット・クローバー あどばんす
+  // https://annict.com/works/14160
+  { annict_id: 14160, mal_id: 39864 },
+  // [2018-AUTUMN] OVA: ブラッククローバー オール魔法騎士感謝祭
+  // https://annict.com/works/14161
+  { annict_id: 14161, mal_id: 38768 },
+  // [2012-WINTER] MOVIE: blossom
+  // https://annict.com/works/14162
+  { annict_id: 14162, mal_id: 13253 },
+  // [2001-SUMMER] MOVIE: BLUE REMAINS -ブルーリメイン-
+  // https://annict.com/works/14163
+  { annict_id: 14163, mal_id: 4733 },
+  // [1996-SPRING] OVA: BLUE SEED Ver.1.5
+  // https://annict.com/works/14164
+  { annict_id: 14164, mal_id: 3952 },
+  // [2020-WINTER] WEB: BLUE - l i n e・s t e p・b r u s h -
+  // https://annict.com/works/14165
+  { annict_id: 14165, mal_id: 41339 },
+  // [1987-WINTER] OVA: ボディジャック 楽しい幽体離脱
+  // https://annict.com/works/14166
+  { annict_id: 14166, mal_id: 4149 },
 ]
