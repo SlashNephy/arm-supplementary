@@ -9377,7 +9377,7 @@ export const annict: ArmEntry[] = [
   // [1992-SUMMER] MOVIE: アルスラーン戦記Ⅱ
   // https://annict.com/works/3136
   { annict_id: 3136, mal_id: 1762 },
-  // [2013-WINTER] MOVIE: アルヴ・レズル
+  // [2013-WINTER] MOVIE: アルヴ・レズル -機械仕掛けの妖精たち-
   // https://annict.com/works/3137
   { annict_id: 3137, mal_id: 13863 },
   // [1995-SUMMER] MOVIE: アンネの日記
@@ -40879,7 +40879,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14147, mal_id: 60094 },
   // [2025-null] TV: 僕のヒーローアカデミア FINAL SEASON
   // https://annict.com/works/14148
-  { annict_id: 14148 },
+  { annict_id: 14148, mal_id: 60098 },
   // [2010-SPRING] OVA: 11eyes 第13話「桃色幻夢譚 〜ró zsaszí n é jszaka」
   // https://annict.com/works/14149
   { annict_id: 14149, mal_id: 7739 },
@@ -40889,4 +40889,22 @@ export const annict: ArmEntry[] = [
   // [1995-AUTUMN] MOVIE: 5等になりたい。
   // https://annict.com/works/14151
   { annict_id: 14151, mal_id: 8120 },
+  // [1998-SPRING] OVA: AIKa Special TRIAL
+  // https://annict.com/works/14152
+  { annict_id: 14152, mal_id: 4718 },
+  // [2001-SPRING] WEB: あじむ ～海岸物語～
+  // https://annict.com/works/14153
+  { annict_id: 14153, mal_id: 1734 },
+  // [1993-WINTER] OVA: あなたが振り返るとき
+  // https://annict.com/works/14154
+  { annict_id: 14154, mal_id: 19923 },
+  // [2022-SPRING] WEB: アンチヒーロージェネレーションズ
+  // https://annict.com/works/14155
+  { annict_id: 14155, mal_id: 51765 },
+  // [1996-SPRING] MOVIE: APO APOワールド ジャイアント馬場90分一本勝負
+  // https://annict.com/works/14156
+  { annict_id: 14156, mal_id: 22851 },
+  // [2006-SUMMER] WEB: あゆまゆ劇場
+  // https://annict.com/works/14157
+  { annict_id: 14157, mal_id: 1856 },
 ]
