@@ -26369,7 +26369,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: MFゴースト
   // https://annict.com/works/9258
   { annict_id: 9258, mal_id: 50695, syobocal_tid: 6809 },
-  // [2025-null] TV: スライム倒して300年、知らないうちにレベルMAXになってました 〜そのに〜
+  // [2025-SPRING] TV: スライム倒して300年、知らないうちにレベルMAXになってました 〜そのに〜
   // https://annict.com/works/9259
   { annict_id: 9259, mal_id: 50738 },
   // [2023-WINTER] TV: お隣の天使様にいつの間にか駄目人間にされていた件
@@ -38987,7 +38987,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: ばっどがーる
   // https://annict.com/works/13511
   { annict_id: 13511, mal_id: 59161 },
-  // [2025-null] TV: WIND BREAKER Season 2
+  // [2025-SPRING] TV: WIND BREAKER Season 2
   // https://annict.com/works/13512
   { annict_id: 13512, mal_id: 59160 },
   // [2024-SPRING] WEB: 伊右衛門の車窓にて
@@ -41009,4 +41009,10 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: シャンフロ劇場 (2nd season)
   // https://annict.com/works/14191
   { annict_id: 14191 },
+  // [2024-AUTUMN] TV: ONE PIECE 魚人島編 SPECIAL EDITED VERSION
+  // https://annict.com/works/14192
+  { annict_id: 14192 },
+  // [2024-AUTUMN] TV: ONE PIECE FAN LETTER
+  // https://annict.com/works/14193
+  { annict_id: 14193 },
 ]
