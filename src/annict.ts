@@ -7984,7 +7984,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2667, mal_id: 1556, syobocal_tid: 1530 },
   // [2007-AUTUMN] OVA: CLAMP IN WONDERLAND 1＆2 1989～2006
   // https://annict.com/works/2668
-  { annict_id: 2668 },
+  { annict_id: 2668, mal_id: 2274 },
   // [2004-AUTUMN] OVA: くじびきアンバランス
   // https://annict.com/works/2669
   { annict_id: 2669, mal_id: 669, syobocal_tid: 775 },
@@ -22567,7 +22567,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 7830 },
   // [2020-AUTUMN] WEB: CONNECTED...
   // https://annict.com/works/7831
-  { annict_id: 7831 },
+  { annict_id: 7831, mal_id: 44429 },
   // [2021-AUTUMN] TV: さんかく窓の外側は夜
   // https://annict.com/works/7832
   { annict_id: 7832, mal_id: 44387, syobocal_tid: 6108 },
@@ -40982,4 +40982,25 @@ export const annict: ArmEntry[] = [
   // [2000-AUTUMN] OVA: 超人ロック ミラーリング
   // https://annict.com/works/14182
   { annict_id: 14182, mal_id: 4967 },
+  // [2010-AUTUMN] WEB: 中間戦士 Mr.中
+  // https://annict.com/works/14183
+  { annict_id: 14183, mal_id: 51901 },
+  // [2016-AUTUMN] WEB: 中古ビデオ屋の女店員 Ｘ
+  // https://annict.com/works/14184
+  { annict_id: 14184, mal_id: 34409 },
+  // [2021-SUMMER] WEB: COLOURS
+  // https://annict.com/works/14185
+  { annict_id: 14185, mal_id: 49490 },
+  // [2007-null] OVA: コルボッコロ(自主製作版)
+  // https://annict.com/works/14186
+  { annict_id: 14186, mal_id: 11735 },
+  // [2003-AUTUMN] OVA: こみっくパーティー 番外編
+  // https://annict.com/works/14187
+  { annict_id: 14187, mal_id: 5147 },
+  // [1986-WINTER] OVA: COOL COOL BYE クール・クール・バイ
+  // https://annict.com/works/14188
+  { annict_id: 14188, mal_id: 9356 },
+  // [1994-SUMMER] OVA: コズミック・ファンタジー〜銀河女豹の罠〜
+  // https://annict.com/works/14189
+  { annict_id: 14189, mal_id: 5990 },
 ]
