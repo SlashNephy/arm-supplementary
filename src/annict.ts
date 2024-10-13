@@ -40979,4 +40979,7 @@ export const annict: ArmEntry[] = [
   // [2008-AUTUMN] MOVIE: ちょ～短編 プリキュアオールスターズ GoGoドリームライブ！
   // https://annict.com/works/14181
   { annict_id: 14181, mal_id: 10549 },
+  // [2000-AUTUMN] OVA: 超人ロック ミラーリング
+  // https://annict.com/works/14182
+  { annict_id: 14182, mal_id: 4967 },
 ]
