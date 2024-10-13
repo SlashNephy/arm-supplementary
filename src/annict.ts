@@ -10292,9 +10292,9 @@ export const annict: ArmEntry[] = [
   // [2007-WINTER] MOVIE: ちびケロ ケロボールの秘密!?
   // https://annict.com/works/3442
   { annict_id: 3442, mal_id: 5449 },
-  // [2009-WINTER] MOVIE: チョコレート・アンダーグラウンド
+  // [2009-WINTER] MOVIE: チョコレート・アンダーグラウンド～ぼくらのチョコレート戦争～
   // https://annict.com/works/3443
-  { annict_id: 3443, mal_id: 3962, syobocal_tid: 1432 },
+  { annict_id: 3443, mal_id: 5238, syobocal_tid: 2759 },
   // [2006-WINTER] MOVIE: 超劇場版ケロロ軍曹
   // https://annict.com/works/3444
   { annict_id: 3444, mal_id: 2407 },
@@ -40949,4 +40949,34 @@ export const annict: ArmEntry[] = [
   // [2014-WINTER] WEB: By Your Side
   // https://annict.com/works/14171
   { annict_id: 14171, mal_id: 23365 },
+  // [1988-AUTUMN] OVA: チョーク色のピープル
+  // https://annict.com/works/14172
+  { annict_id: 14172, mal_id: 18071 },
+  // [2010-AUTUMN] MOVIE: チェブラーシカ
+  // https://annict.com/works/14173
+  { annict_id: 14173, mal_id: 9340 },
+  // [1930-AUTUMN] MOVIE: 手風琴ジョー
+  // https://annict.com/works/14174
+  { annict_id: 14174 },
+  // [2010-SPRING] OVA: チーズスイートホーム チーとコッチ、出会う。
+  // https://annict.com/works/14175
+  { annict_id: 14175, mal_id: 7972 },
+  // [1981-AUTUMN] TV: 小さなラブレター まり子とねむの木の子供たち
+  // https://annict.com/works/14176
+  { annict_id: 14176, mal_id: 19177 },
+  // [2011-AUTUMN] MOVIE: ちきゅうをみつめて
+  // https://annict.com/works/14177
+  { annict_id: 14177, mal_id: 30634 },
+  // [1930-WINTER] MOVIE: お目出度騒ぎ
+  // https://annict.com/works/14178
+  { annict_id: 14178 },
+  // [2008-SPRING] WEB: チョコレート・アンダーグラウンド(Web)
+  // https://annict.com/works/14179
+  { annict_id: 14179, mal_id: 3962, syobocal_tid: 1432 },
+  // [1931-SUMMER] MOVIE: ビン坊の引越し屋
+  // https://annict.com/works/14180
+  { annict_id: 14180 },
+  // [2008-AUTUMN] MOVIE: ちょ～短編 プリキュアオールスターズ GoGoドリームライブ！
+  // https://annict.com/works/14181
+  { annict_id: 14181, mal_id: 10549 },
 ]
