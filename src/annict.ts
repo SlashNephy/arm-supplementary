@@ -17495,13 +17495,13 @@ export const annict: ArmEntry[] = [
   // [2017-SUMMER] MOVIE: ハイキュー!! コンセプトの戦い
   // https://annict.com/works/5868
   { annict_id: 5868, mal_id: 35111 },
-  // [2014-AUTUMN] OVA: ハイキュー!! OVA「リエーフ見参！」
+  // [2014-AUTUMN] OVA: ハイキュー!! OAD「リエーフ見参！」
   // https://annict.com/works/5869
   { annict_id: 5869, mal_id: 25303 },
-  // [2015-AUTUMN] OVA: ハイキュー!! セカンドシーズン OVA「VS"赤点"」
+  // [2015-AUTUMN] OVA: ハイキュー!! セカンドシーズン OAD「VS"赤点"」
   // https://annict.com/works/5870
   { annict_id: 5870, mal_id: 35806 },
-  // [2017-SUMMER] OVA: ハイキュー!! 烏野高校 VS 白鳥沢学園高校 OVA「特集!春高バレーに賭けた青春」
+  // [2017-SUMMER] OVA: ハイキュー!! 烏野高校 VS 白鳥沢学園高校 OAD「特集!春高バレーに賭けた青春」
   // https://annict.com/works/5871
   { annict_id: 5871, mal_id: 35321 },
   // [2016-SPRING] OVA: 亜人 OAD
@@ -41015,4 +41015,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: ONE PIECE FAN LETTER
   // https://annict.com/works/14193
   { annict_id: 14193 },
+  // [1995-WINTER] OVA: ぼくの地球を守って ミュージック・イメージ・ビデオ〜金色の時流れて
+  // https://annict.com/works/14194
+  { annict_id: 14194, mal_id: 10036 },
 ]
