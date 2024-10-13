@@ -41006,4 +41006,7 @@ export const annict: ArmEntry[] = [
   // [2021-WINTER] WEB: With All Our Hearts
   // https://annict.com/works/14190
   { annict_id: 14190, mal_id: 45643 },
+  // [2024-AUTUMN] WEB: シャンフロ劇場 (2nd season)
+  // https://annict.com/works/14191
+  { annict_id: 14191 },
 ]
