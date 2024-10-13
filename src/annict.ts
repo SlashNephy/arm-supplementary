@@ -41003,4 +41003,7 @@ export const annict: ArmEntry[] = [
   // [1994-SUMMER] OVA: コズミック・ファンタジー〜銀河女豹の罠〜
   // https://annict.com/works/14189
   { annict_id: 14189, mal_id: 5990 },
+  // [2021-WINTER] WEB: With All Our Hearts
+  // https://annict.com/works/14190
+  { annict_id: 14190, mal_id: 45643 },
 ]
