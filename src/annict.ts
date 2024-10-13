@@ -40943,4 +40943,10 @@ export const annict: ArmEntry[] = [
   // [2017-SPRING] WEB: BOY's LOVE Nitro+CHiRAL
   // https://annict.com/works/14169
   { annict_id: 14169, mal_id: 35328 },
+  // [2013-WINTER] WEB: Psychedelic Afternoon
+  // https://annict.com/works/14170
+  { annict_id: 14170, mal_id: 25549 },
+  // [2014-WINTER] WEB: By Your Side
+  // https://annict.com/works/14171
+  { annict_id: 14171, mal_id: 23365 },
 ]
