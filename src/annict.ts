@@ -41018,4 +41018,7 @@ export const annict: ArmEntry[] = [
   // [1995-WINTER] OVA: ぼくの地球を守って ミュージック・イメージ・ビデオ〜金色の時流れて
   // https://annict.com/works/14194
   { annict_id: 14194, mal_id: 10036 },
+  // [1995-WINTER] OVA: ぼくの地球を守って 総集編完全版～亜梨子から、輪くんへ～
+  // https://annict.com/works/14195
+  { annict_id: 14195, mal_id: 7366 },
 ]
