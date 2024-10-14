@@ -8555,7 +8555,7 @@ export const annict: ArmEntry[] = [
   // [1988-WINTER] OVA: 悪魔の花嫁～蘭の組曲
   // https://annict.com/works/2860
   { annict_id: 2860, mal_id: 5918 },
-  // [1994-SPRING] OVA: 臀撃おしおき娘ゴータマン
+  // [1994-SPRING] OVA: 臀撃おしおき娘ゴータマン〜ゴータマン誕生篇
   // https://annict.com/works/2861
   { annict_id: 2861, mal_id: 5025 },
   // [1996-WINTER] OVA: 転校生
@@ -41102,4 +41102,40 @@ export const annict: ArmEntry[] = [
   // [2017-SUMMER] WEB: アイマリンプロジェクト 「DEEP BLUE SONG」
   // https://annict.com/works/14222
   { annict_id: 14222, mal_id: 39314 },
+  // [2022-SUMMER] MOVIE: わたしだけのお子さまランチ
+  // https://annict.com/works/14223
+  { annict_id: 14223, mal_id: 53196 },
+  // [1994-AUTUMN] OVA: 臀撃おしおき娘ゴータマンR〜愛と悲しみのファイナルバトル
+  // https://annict.com/works/14224
+  { annict_id: 14224, mal_id: 5549 },
+  // [2018-SPRING] WEB: デスティニーチャイルド
+  // https://annict.com/works/14225
+  { annict_id: 14225, mal_id: 41480 },
+  // [2002-SUMMER] OVA: デ・ジ・キャラット くちからバズーカ
+  // https://annict.com/works/14226
+  { annict_id: 14226, mal_id: 1753 },
+  // [2003-AUTUMN] WEB: どっちもメイド
+  // https://annict.com/works/14227
+  { annict_id: 14227, mal_id: 30663 },
+  // [1994-SPRING] MOVIE: 土俵の鬼たち
+  // https://annict.com/works/14228
+  { annict_id: 14228, mal_id: 17665 },
+  // [2002-WINTER] OVA: 毒・天使のしっぽ
+  // https://annict.com/works/14229
+  { annict_id: 14229, mal_id: 2485 },
+  // [1989-AUTUMN] OVA: 独身アパートどくだみ荘
+  // https://annict.com/works/14230
+  { annict_id: 14230, mal_id: 9499 },
+  // [2013-AUTUMN] WEB: ダブルサークル
+  // https://annict.com/works/14231
+  { annict_id: 14231, mal_id: 21335 },
+  // [1991-SPRING] OVA: Dr.タイフーン
+  // https://annict.com/works/14232
+  { annict_id: 14232, mal_id: 17307 },
+  // [2012-WINTER] MOVIE: ドラゴンエイジ -ブラッドメイジの聖戦-
+  // https://annict.com/works/14233
+  { annict_id: 14233, mal_id: 11705 },
+  // [1991-WINTER] OVA: ドラゴン・フィスト
+  // https://annict.com/works/14234
+  { annict_id: 14234, mal_id: 21179 },
 ]
