@@ -41021,4 +41021,16 @@ export const annict: ArmEntry[] = [
   // [1995-WINTER] OVA: ぼくの地球を守って 総集編完全版～亜梨子から、輪くんへ～
   // https://annict.com/works/14195
   { annict_id: 14195, mal_id: 7366 },
+  // [1931-SUMMER] MOVIE: ビン坊の子守り
+  // https://annict.com/works/14196
+  { annict_id: 14196 },
+  // [1931-AUTUMN] MOVIE: ビン坊のヴァイオリン狂
+  // https://annict.com/works/14197
+  { annict_id: 14197 },
+  // [1931-AUTUMN] MOVIE: ベティの仮装舞踏会
+  // https://annict.com/works/14198
+  { annict_id: 14198 },
+  // [1931-AUTUMN] MOVIE: ビン坊の天界征服
+  // https://annict.com/works/14199
+  { annict_id: 14199 },
 ]
