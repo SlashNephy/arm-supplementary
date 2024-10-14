@@ -41033,4 +41033,73 @@ export const annict: ArmEntry[] = [
   // [1931-AUTUMN] MOVIE: ビン坊の天界征服
   // https://annict.com/works/14199
   { annict_id: 14199 },
+  // [2004-SPRING] OVA: 大YAMATO零号
+  // https://annict.com/works/14200
+  { annict_id: 14200, mal_id: 7122 },
+  // [1983-SUMMER] MOVIE: 少年とさくら
+  // https://annict.com/works/14201
+  { annict_id: 14201, mal_id: 31321 },
+  // [1983-SUMMER] MOVIE: お月さまと王女
+  // https://annict.com/works/14202
+  { annict_id: 14202, mal_id: 23515 },
+  // [1983-SUMMER] MOVIE: 青い海と少年
+  // https://annict.com/works/14203
+  { annict_id: 14203, mal_id: 24869 },
+  // [1985-AUTUMN] MOVIE: 雪国の王子さま
+  // https://annict.com/works/14204
+  { annict_id: 14204, mal_id: 23345 },
+  // [1992-SPRING] OVA: シカとカンタ
+  // https://annict.com/works/14205
+  { annict_id: 14205, mal_id: 30447 },
+  // [1992-WINTER] OVA: 太平洋にかける虹
+  // https://annict.com/works/14206
+  { annict_id: 14206, mal_id: 18629 },
+  // [1994-SUMMER] OVA: ヒロシマへの旅
+  // https://annict.com/works/14207
+  { annict_id: 14207, mal_id: 23303 },
+  // [1996-SUMMER] MOVIE: 二人の王子さま
+  // https://annict.com/works/14208
+  { annict_id: 14208, mal_id: 23343 },
+  // [1998-AUTUMN] OVA: ぼくたちのピース・リバー
+  // https://annict.com/works/14209
+  { annict_id: 14209, mal_id: 18731 },
+  // [1999-SUMMER] OVA: ヒマラヤの光の王国
+  // https://annict.com/works/14210
+  { annict_id: 14210, mal_id: 22327 },
+  // [2000-WINTER] OVA: サンゴの海と王子
+  // https://annict.com/works/14211
+  { annict_id: 14211, mal_id: 10077 },
+  // [2000-SUMMER] OVA: 大草原と白馬
+  // https://annict.com/works/14212
+  { annict_id: 14212, mal_id: 22329 },
+  // [2001-WINTER] OVA: さばくの国の王女さま
+  // https://annict.com/works/14213
+  { annict_id: 14213, mal_id: 23707 },
+  // [2002-WINTER] OVA: さばくの宝の城
+  // https://annict.com/works/14214
+  { annict_id: 14214, mal_id: 17427 },
+  // [2003-SPRING] OVA: アレクサンドロスの決断
+  // https://annict.com/works/14215
+  { annict_id: 14215, mal_id: 10112 },
+  // [2004-WINTER] OVA: 花と少年
+  // https://annict.com/works/14216
+  { annict_id: 14216, mal_id: 23709 },
+  // [2005-WINTER] OVA: あの山に登ろうよ
+  // https://annict.com/works/14217
+  { annict_id: 14217, mal_id: 18821 },
+  // [2005-SUMMER] OVA: 輝け!友情のVサイン
+  // https://annict.com/works/14218
+  { annict_id: 14218, mal_id: 18475 },
+  // [2010-WINTER] OVA: 革命の若き空
+  // https://annict.com/works/14219
+  { annict_id: 14219, mal_id: 23711 },
+  // [2012-SUMMER] OVA: ダンタリアンの書架第十五話 荊姫
+  // https://annict.com/works/14220
+  { annict_id: 14220, mal_id: 12879 },
+  // [2017-SUMMER] WEB: アイマリンプロジェクト 「DEEP BLUE TOWNへおいでよ」
+  // https://annict.com/works/14221
+  { annict_id: 14221, mal_id: 39313 },
+  // [2017-SUMMER] WEB: アイマリンプロジェクト 「DEEP BLUE SONG」
+  // https://annict.com/works/14222
+  { annict_id: 14222, mal_id: 39314 },
 ]
