@@ -36823,7 +36823,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12787, mal_id: 58390 },
   // [2024-AUTUMN] TV: ねこに転生したおじさん
   // https://annict.com/works/12788
-  { annict_id: 12788, mal_id: 58395 },
+  { annict_id: 12788, mal_id: 58395, syobocal_tid: 7270 },
   // [2024-WINTER] MOVIE: POP POP CITY
   // https://annict.com/works/12789
   { annict_id: 12789, mal_id: 58318 },
