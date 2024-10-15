@@ -22762,7 +22762,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 7895, mal_id: 45658 },
   // [2021-WINTER] TV: ざんねんないきもの事典 (第3シリーズ)
   // https://annict.com/works/7896
-  { annict_id: 7896, syobocal_tid: 5913 },
+  { annict_id: 7896, mal_id: 52052, syobocal_tid: 5913 },
   // [2021-SUMMER] MOVIE: 劇場版 七つの大罪 光に呪われし者たち
   // https://annict.com/works/7897
   { annict_id: 7897, mal_id: 46420 },
@@ -26572,7 +26572,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9325 },
   // [2022-WINTER] TV: ざんねんないきもの事典 (第4シリーズ)
   // https://annict.com/works/9326
-  { annict_id: 9326, syobocal_tid: 6271 },
+  { annict_id: 9326, mal_id: 52053, syobocal_tid: 6271 },
   // [2023-SUMMER] TV: 呪術廻戦 懐玉・玉折／渋谷事変
   // https://annict.com/works/9327
   { annict_id: 9327, mal_id: 51009, syobocal_tid: 6724 },
@@ -27232,7 +27232,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9578, mal_id: 51678, syobocal_tid: 6556 },
   // [2022-AUTUMN] MOVIE: 映画かいけつゾロリ ラララ♪スターたんじょう
   // https://annict.com/works/9579
-  { annict_id: 9579 },
+  { annict_id: 9579, mal_id: 53391 },
   // [2022-AUTUMN] TV: クールドジ男子
   // https://annict.com/works/9580
   { annict_id: 9580, mal_id: 51680, syobocal_tid: 6469 },
@@ -41156,4 +41156,7 @@ export const annict: ArmEntry[] = [
   // [1932-SUMMER] MOVIE: あひるの子
   // https://annict.com/works/14240
   { annict_id: 14240, mal_id: 35410 },
+  // [1998-AUTUMN] OVA: エフィカス この想いを君に…
+  // https://annict.com/works/14241
+  { annict_id: 14241, mal_id: 16257 },
 ]
