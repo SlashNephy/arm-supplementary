@@ -41138,4 +41138,19 @@ export const annict: ArmEntry[] = [
   // [1991-WINTER] OVA: ドラゴン・フィスト
   // https://annict.com/works/14234
   { annict_id: 14234, mal_id: 21179 },
+  // [1931-null] MOVIE: 五一ぢいさん
+  // https://annict.com/works/14235
+  { annict_id: 14235, mal_id: 35749 },
+  // [1931-null] MOVIE: 漫画 あめやたぬき
+  // https://annict.com/works/14236
+  { annict_id: 14236, mal_id: 35388 },
+  // [1932-null] MOVIE: FELIXノ迷探偵
+  // https://annict.com/works/14237
+  { annict_id: 14237, mal_id: 35404 },
+  // [1932-null] MOVIE: ? 三角のリズム トランプの爭
+  // https://annict.com/works/14238
+  { annict_id: 14238, mal_id: 35405 },
+  // [1932-SPRING] MOVIE: 漫画 豚平と猿吉
+  // https://annict.com/works/14239
+  { annict_id: 14239, mal_id: 35386 },
 ]
