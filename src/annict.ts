@@ -29836,13 +29836,13 @@ export const annict: ArmEntry[] = [
   { annict_id: 10449 },
   // [2017-WINTER] WEB: エウレカセブンAO 特別編 ロード・ドント・ スロー・ミー・ダウン
   // https://annict.com/works/10450
-  { annict_id: 10450 },
+  { annict_id: 10450, mal_id: 34776 },
   // [2012-AUTUMN] WEB: エウレカセブンAO ショートアニメ 新たなり深き青
   // https://annict.com/works/10451
-  { annict_id: 10451 },
+  { annict_id: 10451, mal_id: 15979 },
   // [2012-SUMMER] OVA: エウレカセブンAO OVA -ユングフラウの花々たち-
   // https://annict.com/works/10452
-  { annict_id: 10452 },
+  { annict_id: 10452, mal_id: 14875 },
   // [1989-SPRING] OVA: クレオパトラD.C.
   // https://annict.com/works/10453
   { annict_id: 10453, mal_id: 2754 },
@@ -41159,4 +41159,10 @@ export const annict: ArmEntry[] = [
   // [1998-AUTUMN] OVA: エフィカス この想いを君に…
   // https://annict.com/works/14241
   { annict_id: 14241, mal_id: 16257 },
+  // [1993-AUTUMN] OVA: 代紋TAKE2
+  // https://annict.com/works/14242
+  { annict_id: 14242, mal_id: 9837 },
+  // [2016-AUTUMN] WEB: アイドロップス
+  // https://annict.com/works/14243
+  { annict_id: 14243, mal_id: 34140 },
 ]
