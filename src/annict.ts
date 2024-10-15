@@ -41153,4 +41153,7 @@ export const annict: ArmEntry[] = [
   // [1932-SPRING] MOVIE: 漫画 豚平と猿吉
   // https://annict.com/works/14239
   { annict_id: 14239, mal_id: 35386 },
+  // [1932-SUMMER] MOVIE: あひるの子
+  // https://annict.com/works/14240
+  { annict_id: 14240, mal_id: 35410 },
 ]
