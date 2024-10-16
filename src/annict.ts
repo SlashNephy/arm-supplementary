@@ -15706,7 +15706,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5265, mal_id: 33654, syobocal_tid: 4642 },
   // [2017-SUMMER] TV: 森の妖精キノコの娘
   // https://annict.com/works/5266
-  { annict_id: 5266 },
+  { annict_id: 5266, mal_id: 34223 },
   // [2017-AUTUMN] TV: アニメガタリズ
   // https://annict.com/works/5267
   { annict_id: 5267, mal_id: 35427, syobocal_tid: 4713 },
@@ -22879,7 +22879,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 7934 },
   // [2019-AUTUMN] WEB: from North Field
   // https://annict.com/works/7935
-  { annict_id: 7935 },
+  { annict_id: 7935, mal_id: 53893 },
   // [2021-SPRING] TV: iiiあいすくりん
   // https://annict.com/works/7936
   { annict_id: 7936, mal_id: 44848, syobocal_tid: 5960 },
@@ -41195,4 +41195,31 @@ export const annict: ArmEntry[] = [
   // [1998-SUMMER] TV: ザ・シンプソンズ シーズン10
   // https://annict.com/works/14253
   { annict_id: 14253 },
+  // [2009-AUTUMN] OVA: ファイト一発! 充電ちゃん!! 秘湯 樹段天空温泉
+  // https://annict.com/works/14254
+  { annict_id: 14254, mal_id: 7744 },
+  // [2007-SUMMER] OVA: FLAG Director's Edition 一千万のクフラの記録
+  // https://annict.com/works/14255
+  { annict_id: 14255, mal_id: 5136 },
+  // [2014-SPRING] WEB: Master of Torque シーズン1
+  // https://annict.com/works/14256
+  { annict_id: 14256, mal_id: 23387 },
+  // [2015-WINTER] WEB: Master of Torque シーズン2
+  // https://annict.com/works/14257
+  { annict_id: 14257, mal_id: 25393 },
+  // [2015-AUTUMN] WEB: Four Seasons 楓花と七波
+  // https://annict.com/works/14258
+  { annict_id: 14258, mal_id: 32058 },
+  // [2016-SPRING] WEB: Master of Torque シーズン3
+  // https://annict.com/works/14259
+  { annict_id: 14259, mal_id: 32059 },
+  // [2016-AUTUMN] WEB: Master of Torque Epilogue
+  // https://annict.com/works/14260
+  { annict_id: 14260, mal_id: 34625 },
+  // [1991-WINTER] OVA: フォックスウッドものがたり
+  // https://annict.com/works/14261
+  { annict_id: 14261, mal_id: 23967 },
+  // [1990-SUMMER] OVA: ふくやま劇場 なつのひみつ
+  // https://annict.com/works/14262
+  { annict_id: 14262, mal_id: 23975 },
 ]
