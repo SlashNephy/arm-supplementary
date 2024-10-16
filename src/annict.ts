@@ -41222,4 +41222,10 @@ export const annict: ArmEntry[] = [
   // [1990-SUMMER] OVA: ふくやま劇場 なつのひみつ
   // https://annict.com/works/14262
   { annict_id: 14262, mal_id: 23975 },
+  // [2005-SPRING] OVA: 春を抱いていた
+  // https://annict.com/works/14263
+  { annict_id: 14263, mal_id: 747 },
+  // [2007-WINTER] OVA: 冬の蝉
+  // https://annict.com/works/14264
+  { annict_id: 14264, mal_id: 2238 },
 ]
