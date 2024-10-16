@@ -41165,4 +41165,7 @@ export const annict: ArmEntry[] = [
   // [2016-AUTUMN] WEB: アイドロップス
   // https://annict.com/works/14243
   { annict_id: 14243, mal_id: 34140 },
+  // [1992-AUTUMN] TV: ザ・シンプソンズ シーズン1
+  // https://annict.com/works/14244
+  { annict_id: 14244 },
 ]
