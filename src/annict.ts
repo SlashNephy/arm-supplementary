@@ -41165,7 +41165,34 @@ export const annict: ArmEntry[] = [
   // [2016-AUTUMN] WEB: アイドロップス
   // https://annict.com/works/14243
   { annict_id: 14243, mal_id: 34140 },
-  // [1992-AUTUMN] TV: ザ・シンプソンズ シーズン1
+  // [1989-AUTUMN] TV: ザ・シンプソンズ シーズン1
   // https://annict.com/works/14244
   { annict_id: 14244 },
+  // [1990-AUTUMN] TV: ザ・シンプソンズ シーズン2
+  // https://annict.com/works/14245
+  { annict_id: 14245 },
+  // [1991-SUMMER] TV: ザ・シンプソンズ シーズン3
+  // https://annict.com/works/14246
+  { annict_id: 14246 },
+  // [1992-SUMMER] TV: ザ・シンプソンズ シーズン4
+  // https://annict.com/works/14247
+  { annict_id: 14247 },
+  // [1993-SUMMER] TV: ザ・シンプソンズ シーズン5
+  // https://annict.com/works/14248
+  { annict_id: 14248 },
+  // [1994-SUMMER] TV: ザ・シンプソンズ シーズン6
+  // https://annict.com/works/14249
+  { annict_id: 14249 },
+  // [1995-SUMMER] TV: ザ・シンプソンズ シーズン7
+  // https://annict.com/works/14250
+  { annict_id: 14250 },
+  // [1996-AUTUMN] TV: ザ・シンプソンズ シーズン8
+  // https://annict.com/works/14251
+  { annict_id: 14251 },
+  // [1997-SUMMER] TV: ザ・シンプソンズ シーズン9
+  // https://annict.com/works/14252
+  { annict_id: 14252 },
+  // [1998-SUMMER] TV: ザ・シンプソンズ シーズン10
+  // https://annict.com/works/14253
+  { annict_id: 14253 },
 ]
