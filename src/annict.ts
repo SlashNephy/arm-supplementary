@@ -41318,4 +41318,10 @@ export const annict: ArmEntry[] = [
   // [2004-SPRING] OVA: グローランサー ～新たなる伝説～
   // https://annict.com/works/14294
   { annict_id: 14294, mal_id: 1933 },
+  // [null-null] TV: カラオケ行こ！
+  // https://annict.com/works/14295
+  { annict_id: 14295, mal_id: 60131 },
+  // [null-null] TV: 夢中さ、きみに。
+  // https://annict.com/works/14296
+  { annict_id: 14296, mal_id: 60130 },
 ]
