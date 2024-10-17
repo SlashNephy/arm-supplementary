@@ -41324,4 +41324,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 夢中さ、きみに。
   // https://annict.com/works/14296
   { annict_id: 14296, mal_id: 60130 },
+  // [2024-SUMMER] WEB: レゾナンス：無限号列車 ショートアニメ「車掌の一日」
+  // https://annict.com/works/14297
+  { annict_id: 14297 },
 ]
