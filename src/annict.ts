@@ -23395,7 +23395,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 8136, mal_id: 46650 },
   // [2021-AUTUMN] MOVIE: 劇場版オトッペ パパ・ドント・クライ
   // https://annict.com/works/8137
-  { annict_id: 8137 },
+  { annict_id: 8137, mal_id: 49434 },
   // [2022-AUTUMN] TV: 陰の実力者になりたくて！
   // https://annict.com/works/8138
   { annict_id: 8138, mal_id: 48316, syobocal_tid: 6452 },
