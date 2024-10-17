@@ -12073,7 +12073,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 4038, mal_id: 1347 },
   // [2010-AUTUMN] OVA: グラール騎士団
   // https://annict.com/works/4039
-  { annict_id: 4039 },
+  { annict_id: 4039, mal_id: 13993 },
   // [2013-AUTUMN] OVA: 夜桜四重奏 〜ツキニナク〜
   // https://annict.com/works/4040
   { annict_id: 4040, mal_id: 18499 },
@@ -14489,9 +14489,9 @@ export const annict: ArmEntry[] = [
   // [2016-SUMMER] MOVIE: ねむれ思い子 空のしとねに
   // https://annict.com/works/4855
   { annict_id: 4855, mal_id: 30473 },
-  // [2016-SUMMER] TV: ぐらＰ＆ろで夫
+  // [2016-SUMMER] TV: ぐらP&ろで夫II
   // https://annict.com/works/4856
-  { annict_id: 4856, mal_id: 27521, syobocal_tid: 4243 },
+  { annict_id: 4856, mal_id: 33290, syobocal_tid: 4243 },
   // [2016-SUMMER] TV: 銀河機攻隊 マジェスティックプリンス (マジェスティックアワー)
   // https://annict.com/works/4857
   { annict_id: 4857, mal_id: 33024 },
@@ -17563,7 +17563,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5890, mal_id: 32215 },
   // [2012-SUMMER] OVA: ギルティクラウン ロストクリスマス
   // https://annict.com/works/5891
-  { annict_id: 5891 },
+  { annict_id: 5891, mal_id: 13411 },
   // [2012-WINTER] OVA: マケン姫っ！ 特盛編「夏だ！ 水着だ！ 合宿だ！」
   // https://annict.com/works/5892
   { annict_id: 5892 },
@@ -21319,7 +21319,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 7316, mal_id: 37145 },
   // [1993-SPRING] OVA: 銃夢
   // https://annict.com/works/7317
-  { annict_id: 7317 },
+  { annict_id: 7317, mal_id: 1016 },
   // [2003-SUMMER] OVA: URDA
   // https://annict.com/works/7318
   { annict_id: 7318 },
@@ -30592,7 +30592,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10703, mal_id: 53488, syobocal_tid: 6895 },
   // [2022-AUTUMN] MOVIE: ガディガルズ
   // https://annict.com/works/10704
-  { annict_id: 10704 },
+  { annict_id: 10704, mal_id: 56828 },
   // [2023-WINTER] MOVIE: きかんしゃトーマス めざせ！夢のチャンピオンカップ
   // https://annict.com/works/10705
   { annict_id: 10705 },
@@ -41246,4 +41246,76 @@ export const annict: ArmEntry[] = [
   // [2008-SUMMER] OVA: がんばれ！メメ子ちゃん
   // https://annict.com/works/14270
   { annict_id: 14270, mal_id: 38354 },
+  // [2006-SUMMER] OVA: 現代畸聞録 怪異物語
+  // https://annict.com/works/14271
+  { annict_id: 14271, mal_id: 6271 },
+  // [2007-SUMMER] OVA: H・P・ラヴクラフトのダニッチ・ホラー その他の物語
+  // https://annict.com/works/14272
+  { annict_id: 14272, mal_id: 3906 },
+  // [2007-SPRING] OVA: 赤色エレジー
+  // https://annict.com/works/14273
+  { annict_id: 14273, mal_id: 6268 },
+  // [2007-WINTER] OVA: 鳥の歌
+  // https://annict.com/works/14274
+  { annict_id: 14274, mal_id: 5819 },
+  // [2007-WINTER] OVA: エコエコアザラク
+  // https://annict.com/works/14275
+  { annict_id: 14275, mal_id: 6267 },
+  // [2006-SUMMER] OVA: Highway Jenny
+  // https://annict.com/works/14276
+  { annict_id: 14276, mal_id: 6181 },
+  // [2006-SUMMER] OVA: Fantascope ～tylostoma～
+  // https://annict.com/works/14277
+  { annict_id: 14277, mal_id: 5802 },
+  // [2006-SUMMER] OVA: 葉祥明美術館 LINE
+  // https://annict.com/works/14278
+  { annict_id: 14278, mal_id: 6183 },
+  // [2006-SUMMER] OVA: 女生徒
+  // https://annict.com/works/14279
+  { annict_id: 14279, mal_id: 6266 },
+  // [2006-SUMMER] OVA: つゆのひとしずく ～植田正治の写真世界を彷徨う～
+  // https://annict.com/works/14280
+  { annict_id: 14280, mal_id: 6273 },
+  // [2006-SUMMER] OVA: 猫町
+  // https://annict.com/works/14281
+  { annict_id: 14281, mal_id: 6270 },
+  // [2006-SUMMER] OVA: 舞姫
+  // https://annict.com/works/14282
+  { annict_id: 14282, mal_id: 6182 },
+  // [2006-SUMMER] OVA: ざくろ屋敷 バルザック「人間喜劇」より
+  // https://annict.com/works/14283
+  { annict_id: 14283, mal_id: 6272 },
+  // [2001-SUMMER] OVA: ジェネレーション・オブ・カオス プロローグ
+  // https://annict.com/works/14284
+  { annict_id: 14284, mal_id: 2776 },
+  // [2002-SPRING] OVA: ジェネレーション・オブ・カオス・ネクスト～誓いのペンダント～
+  // https://annict.com/works/14285
+  { annict_id: 14285, mal_id: 2777 },
+  // [2003-SPRING] OVA: GENERATION OF CHAOS III 時の封印
+  // https://annict.com/works/14286
+  { annict_id: 14286, mal_id: 2778 },
+  // [1985-SUMMER] OVA: 機甲創世記モスピーダ LOVE , LIVE , ALIVE
+  // https://annict.com/works/14287
+  { annict_id: 14287, mal_id: 3671 },
+  // [1993-SPRING] OVA: 銀河の魚～URSA minor BLUE～
+  // https://annict.com/works/14288
+  { annict_id: 14288, mal_id: 3518 },
+  // [1996-AUTUMN] OVA: 銀河帝国の滅亡・外伝 蒼き狼たちの伝説R
+  // https://annict.com/works/14289
+  { annict_id: 14289, mal_id: 977 },
+  // [1981-SUMMER] MOVIE: グリックの冒険
+  // https://annict.com/works/14290
+  { annict_id: 14290, mal_id: 7252 },
+  // [2018-SPRING] WEB: GOD EATER レゾなんとか劇場
+  // https://annict.com/works/14291
+  { annict_id: 14291, mal_id: 37265 },
+  // [2014-AUTUMN] TV: ぐらP&ろで夫
+  // https://annict.com/works/14292
+  { annict_id: 14292, mal_id: 27521, syobocal_tid: 3578 },
+  // [1985-WINTER] OVA: GREED
+  // https://annict.com/works/14293
+  { annict_id: 14293, mal_id: 5934 },
+  // [2004-SPRING] OVA: グローランサー ～新たなる伝説～
+  // https://annict.com/works/14294
+  { annict_id: 14294, mal_id: 1933 },
 ]
