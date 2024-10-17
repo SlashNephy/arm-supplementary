@@ -17650,7 +17650,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5919, mal_id: 34244 },
   // [2014-SUMMER] MOVIE: 劇場版gdgd妖精sっていう映画はどうかな…?
   // https://annict.com/works/5920
-  { annict_id: 5920 },
+  { annict_id: 5920, mal_id: 24071 },
   // [2013-SPRING] TV: ガラスの仮面ですがZ
   // https://annict.com/works/5921
   { annict_id: 5921, mal_id: 27621, syobocal_tid: 2999 },
@@ -18059,9 +18059,9 @@ export const annict: ArmEntry[] = [
   // [2012-WINTER] MOVIE: ぷかぷかジュジュ
   // https://annict.com/works/6056
   { annict_id: 6056, mal_id: 13173, syobocal_tid: 2462 },
-  // [2018-SPRING] WEB: 外環開通スペシャルムービー
+  // [2018-SPRING] WEB: 外環開通スペシャルムービー GAIKAN CHIBA
   // https://annict.com/works/6057
-  { annict_id: 6057 },
+  { annict_id: 6057, mal_id: 37906 },
   // [2017-AUTUMN] WEB: ありがとう20年、そしてこれからも
   // https://annict.com/works/6058
   { annict_id: 6058 },
@@ -41231,4 +41231,19 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] MOVIE: 野生の島のロズ
   // https://annict.com/works/14265
   { annict_id: 14265 },
+  // [2006-SUMMER] OVA: G-九
+  // https://annict.com/works/14266
+  { annict_id: 14266, mal_id: 5785 },
+  // [2015-SUMMER] OVA: 学園ハンサム The Animation
+  // https://annict.com/works/14267
+  { annict_id: 14267, mal_id: 30531 },
+  // [1997-SPRING] OVA: ゲーム天国
+  // https://annict.com/works/14268
+  { annict_id: 14268, mal_id: 10852 },
+  // [2019-SPRING] WEB: がんばれ！隠れ汗プロジェクト
+  // https://annict.com/works/14269
+  { annict_id: 14269, mal_id: 39840 },
+  // [2008-SUMMER] OVA: がんばれ！メメ子ちゃん
+  // https://annict.com/works/14270
+  { annict_id: 14270, mal_id: 38354 },
 ]
