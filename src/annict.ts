@@ -30269,7 +30269,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] MOVIE: 窓ぎわのトットちゃん
   // https://annict.com/works/10595
   { annict_id: 10595, mal_id: 54764 },
-  // [null-null] TV: 想星のアクエリオン Myth of Emotions
+  // [2025-WINTER] TV: 想星のアクエリオン Myth of Emotions
   // https://annict.com/works/10596
   { annict_id: 10596, mal_id: 54769 },
   // [2023-SPRING] TV: おしりたんてい (第7シリーズ)
