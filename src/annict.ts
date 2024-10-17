@@ -41228,4 +41228,7 @@ export const annict: ArmEntry[] = [
   // [2007-WINTER] OVA: 冬の蝉
   // https://annict.com/works/14264
   { annict_id: 14264, mal_id: 2238 },
+  // [2025-WINTER] MOVIE: 野生の島のロズ
+  // https://annict.com/works/14265
+  { annict_id: 14265 },
 ]
