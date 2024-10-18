@@ -37931,7 +37931,7 @@ export const annict: ArmEntry[] = [
   // [1938-WINTER] MOVIE: ドナルドの腕白時代
   // https://annict.com/works/13158
   { annict_id: 13158 },
-  // [null-null] TV: 外れスキル《木の実マスター》 ～スキルの実（食べたら死ぬ）を無限に食べられるようになった件について～
+  // [2025-WINTER] TV: 外れスキル《木の実マスター》 ～スキルの実（食べたら死ぬ）を無限に食べられるようになった件について～
   // https://annict.com/works/13159
   { annict_id: 13159, mal_id: 59002 },
   // [1938-SPRING] MOVIE: モスの消防隊
@@ -41327,4 +41327,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] WEB: レゾナンス：無限号列車 ショートアニメ「車掌の一日」
   // https://annict.com/works/14297
   { annict_id: 14297 },
+  // [2024-AUTUMN] TV: おじゃる丸 コラボスペシャル 「ヘイアンチョウまったりホリデイ」
+  // https://annict.com/works/14298
+  { annict_id: 14298 },
 ]
