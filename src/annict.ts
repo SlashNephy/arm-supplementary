@@ -39338,7 +39338,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: 魔法少女リリカルなのは 20周年記念セレクション
   // https://annict.com/works/13628
   { annict_id: 13628, syobocal_tid: 7263 },
-  // [2025-null] TV: マジック・メイカー ～異世界魔法の作り方～
+  // [2025-WINTER] TV: マジック・メイカー ～異世界魔法の作り方～
   // https://annict.com/works/13629
   { annict_id: 13629, mal_id: 59265 },
   // [null-null] TV: SANDA
