@@ -35036,7 +35036,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: 鷹の爪外伝 秘密厩舎 馬の蹄 ～グランプリ～
   // https://annict.com/works/12189
   { annict_id: 12189, mal_id: 60092, syobocal_tid: 6890 },
-  // [2025-null] TV: Dr.STONE SCIENCE FUTURE
+  // [2025-WINTER] TV: Dr.STONE SCIENCE FUTURE
   // https://annict.com/works/12190
   { annict_id: 12190, mal_id: 57592 },
   // [2016-SUMMER] WEB: 練馬区PRアニメ『アニメで練馬区PR大作戦?!』
@@ -41330,4 +41330,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: おじゃる丸 コラボスペシャル 「ヘイアンチョウまったりホリデイ」
   // https://annict.com/works/14298
   { annict_id: 14298 },
+  // [2025-SPRING] TV: 勘違いの工房主～英雄パーティの元雑用係が、実は戦闘以外がSSSランクだったというよくある話～
+  // https://annict.com/works/14299
+  { annict_id: 14299, mal_id: 60140 },
 ]
