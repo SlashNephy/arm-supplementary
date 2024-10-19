@@ -21968,7 +21968,7 @@ export const annict: ArmEntry[] = [
   // [2021-WINTER] WEB: 銀魂 THE SEMI-FINAL
   // https://annict.com/works/7598
   { annict_id: 7598, mal_id: 44087 },
-  // [2020-SUMMER] WEB: Re:ゼロから始める休憩時間 2nd Season
+  // [2020-SUMMER] WEB: Re:ゼロから始める休憩時間 2nd season
   // https://annict.com/works/7599
   { annict_id: 7599, mal_id: 42364 },
   // [2021-SUMMER] TV: TSUKIPRO THE ANIMATION 2
@@ -22745,7 +22745,7 @@ export const annict: ArmEntry[] = [
   // [2021-WINTER] TV: キンタマーニドッグ
   // https://annict.com/works/7890
   { annict_id: 7890, syobocal_tid: 5911 },
-  // [2021-WINTER] WEB: Re:ゼロから始める休憩時間 2nd Season 第2クール
+  // [2021-WINTER] WEB: Re:ゼロから始める休憩時間 2nd season 第2クール
   // https://annict.com/works/7891
   { annict_id: 7891, mal_id: 42364 },
   // [2021-SPRING] TV: 新幹線変形ロボ シンカリオンZ THE ANIMATION
@@ -36947,7 +36947,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] MOVIE: KING OF PRISM -Dramatic PRISM.1-
   // https://annict.com/works/12829
   { annict_id: 12829, mal_id: 59275 },
-  // [null-null] TV: 全修。
+  // [2025-WINTER] TV: 全修。
   // https://annict.com/works/12830
   { annict_id: 12830, mal_id: 58502 },
   // [2023-WINTER] WEB: 天体観測
@@ -39800,7 +39800,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] WEB: アイ･アム･グルート シーズン2
   // https://annict.com/works/13782
   { annict_id: 13782 },
-  // [null-null] TV: ガンバレ！中村くん！！
+  // [2025-null] TV: ガンバレ！中村くん！！
   // https://annict.com/works/13783
   { annict_id: 13783, mal_id: 59551 },
   // [2025-null] TV: アラフォー男の異世界通販
@@ -41333,4 +41333,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] TV: 勘違いの工房主～英雄パーティの元雑用係が、実は戦闘以外がSSSランクだったというよくある話～
   // https://annict.com/works/14299
   { annict_id: 14299, mal_id: 60140 },
+  // [2025-null] TV: LAZARUS ラザロ
+  // https://annict.com/works/14300
+  { annict_id: 14300, mal_id: 56038 },
 ]
