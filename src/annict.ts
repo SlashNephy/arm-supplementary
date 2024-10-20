@@ -41336,4 +41336,10 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: LAZARUS ラザロ
   // https://annict.com/works/14300
   { annict_id: 14300, mal_id: 56038 },
+  // [2023-WINTER] WEB: ヴォクス・マキナの伝説 シーズン2
+  // https://annict.com/works/14301
+  { annict_id: 14301 },
+  // [2024-AUTUMN] WEB: ヴォクス・マキナの伝説 シーズン3
+  // https://annict.com/works/14302
+  { annict_id: 14302 },
 ]
