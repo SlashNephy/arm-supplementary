@@ -41345,7 +41345,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: 『ソニック × シャドウ ジェネレーションズ』 闇の序章
   // https://annict.com/works/14303
   { annict_id: 14303 },
-  // [2025-null] TV: 最強の王様、二度目の人生は何をする?
+  // [2025-null] TV: 最強の王様、二度目の人生は何をする？
   // https://annict.com/works/14304
   { annict_id: 14304, mal_id: 60146 },
   // [null-null] OTHER: リラックマ
