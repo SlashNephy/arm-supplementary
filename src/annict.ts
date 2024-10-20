@@ -31367,7 +31367,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] MOVIE: 映画 ラブライブ！虹ヶ咲学園スクールアイドル同好会 完結編 第1章
   // https://annict.com/works/10962
   { annict_id: 10962, mal_id: 55748 },
-  // [null-null] MOVIE: 映画 ラブライブ！虹ヶ咲学園スクールアイドル同好会 完結編 第2章
+  // [2025-WINTER] MOVIE: 映画 ラブライブ！虹ヶ咲学園スクールアイドル同好会 完結編 第2章
   // https://annict.com/works/10963
   { annict_id: 10963 },
   // [null-null] MOVIE: 映画 ラブライブ！虹ヶ咲学園スクールアイドル同好会 完結編 第3章
@@ -39527,7 +39527,7 @@ export const annict: ArmEntry[] = [
   // [1927-SPRING] MOVIE: Alice's Auto Race（原題）
   // https://annict.com/works/13691
   { annict_id: 13691 },
-  // [2025-null] TV: サラリーマンが異世界に行ったら四天王になった話
+  // [2025-WINTER] TV: サラリーマンが異世界に行ったら四天王になった話
   // https://annict.com/works/13692
   { annict_id: 13692, mal_id: 59349 },
   // [1973-null] OTHER: まるまるボンちゃん パイロットフィルム
@@ -41350,5 +41350,17 @@ export const annict: ArmEntry[] = [
   { annict_id: 14304, mal_id: 60146 },
   // [null-null] OTHER: リラックマ
   // https://annict.com/works/14305
-  { annict_id: 14305 },
+  { annict_id: 14305, mal_id: 60153 },
+  // [2025-SPRING] TV: 俺は星間国家の悪徳領主！
+  // https://annict.com/works/14306
+  { annict_id: 14306, mal_id: 60154 },
+  // [2025-null] TV: 完璧すぎて可愛げがないと婚約破棄された聖女は隣国に売られる
+  // https://annict.com/works/14307
+  { annict_id: 14307, mal_id: 60157 },
+  // [null-null] OTHER: ブレイド＆バスタード
+  // https://annict.com/works/14308
+  { annict_id: 14308, mal_id: 60152 },
+  // [null-null] OTHER: エリスの聖杯
+  // https://annict.com/works/14309
+  { annict_id: 14309, mal_id: 60151 },
 ]
