@@ -41426,4 +41426,10 @@ export const annict: ArmEntry[] = [
   // [2002-AUTUMN] TV: ザ・シンプソンズ シーズン14
   // https://annict.com/works/14330
   { annict_id: 14330 },
+  // [2003-AUTUMN] TV: ザ・シンプソンズ シーズン15
+  // https://annict.com/works/14331
+  { annict_id: 14331 },
+  // [2004-AUTUMN] TV: ザ・シンプソンズ シーズン16
+  // https://annict.com/works/14332
+  { annict_id: 14332 },
 ]
