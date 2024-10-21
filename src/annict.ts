@@ -41384,4 +41384,7 @@ export const annict: ArmEntry[] = [
   // [2005-SPRING] OVA: ハルヲ
   // https://annict.com/works/14316
   { annict_id: 14316, mal_id: 6000 },
+  // [1981-SPRING] TV: ヘレン・ケラー物語 愛と光の天使
+  // https://annict.com/works/14317
+  { annict_id: 14317, mal_id: 6728 },
 ]
