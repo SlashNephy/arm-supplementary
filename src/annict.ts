@@ -41434,5 +41434,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 14332 },
   // [2025-null] TV: 私を喰べたい、ひとでなし
   // https://annict.com/works/14333
-  { annict_id: 14333 },
+  { annict_id: 14333, mal_id: 60168 },
 ]
