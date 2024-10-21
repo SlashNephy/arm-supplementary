@@ -21565,7 +21565,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 7398, mal_id: 41488, syobocal_tid: 5934 },
   // [2020-SUMMER] MOVIE: 特別上映版 はたらく細胞!! 最強の敵、再び。体の中は“腸”大騒ぎ！
   // https://annict.com/works/7399
-  { annict_id: 7399 },
+  { annict_id: 7399, mal_id: 42387 },
   // [2020-AUTUMN] TV: ひぐらしのなく頃に業
   // https://annict.com/works/7400
   { annict_id: 7400, mal_id: 41006, syobocal_tid: 5757 },
@@ -21886,7 +21886,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 7538, mal_id: 1961, syobocal_tid: 1163 },
   // [2020-SUMMER] TV: 八月のシンデレラナイン Re:fine
   // https://annict.com/works/7539
-  { annict_id: 7539, syobocal_tid: 5695 },
+  { annict_id: 7539, mal_id: 49913, syobocal_tid: 5695 },
   // [2020-SPRING] TV: ステイングベイビーズ
   // https://annict.com/works/7540
   { annict_id: 7540, syobocal_tid: 5696 },
@@ -41366,4 +41366,22 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] TV: 悪食令嬢と狂血公爵 ～その魔物、私が美味しくいただきます!～
   // https://annict.com/works/14310
   { annict_id: 14310, mal_id: 60162 },
+  // [2003-SUMMER] OVA: ぼくたちピチューブラザーズ・パーティはおおさわぎ!のまき
+  // https://annict.com/works/14311
+  { annict_id: 14311, mal_id: 6877 },
+  // [1998-WINTER] OVA: GUNばれ!ゲーム天国
+  // https://annict.com/works/14312
+  { annict_id: 14312, mal_id: 18521 },
+  // [2013-SUMMER] WEB: 白菜アニメ
+  // https://annict.com/works/14313
+  { annict_id: 14313, mal_id: 19495 },
+  // [1988-SUMMER] MOVIE: はれときどきぶた(映画)
+  // https://annict.com/works/14314
+  { annict_id: 14314, mal_id: 24877 },
+  // [2006-SPRING] OVA: はるのあしおと The Movie 桜鈴奪還
+  // https://annict.com/works/14315
+  { annict_id: 14315, mal_id: 1621 },
+  // [2005-SPRING] OVA: ハルヲ
+  // https://annict.com/works/14316
+  { annict_id: 14316, mal_id: 6000 },
 ]
