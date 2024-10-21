@@ -41414,4 +41414,7 @@ export const annict: ArmEntry[] = [
   // [2008-AUTUMN] MOVIE: ICE＜劇場版＞
   // https://annict.com/works/14326
   { annict_id: 14326, mal_id: 9053 },
+  // [1999-SUMMER] TV: ザ・シンプソンズ シーズン11
+  // https://annict.com/works/14327
+  { annict_id: 14327 },
 ]
