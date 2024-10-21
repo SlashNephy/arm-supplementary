@@ -21889,7 +21889,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 7539, mal_id: 49913, syobocal_tid: 5695 },
   // [2020-SPRING] TV: ステイングベイビーズ
   // https://annict.com/works/7540
-  { annict_id: 7540, syobocal_tid: 5696 },
+  { annict_id: 7540, mal_id: 42145, syobocal_tid: 5696 },
   // [2021-WINTER] TV: Re:ゼロから始める異世界生活 2nd season 第2部
   // https://annict.com/works/7541
   { annict_id: 7541, mal_id: 42203, syobocal_tid: 5857 },
@@ -26320,7 +26320,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9241 },
   // [2021-AUTUMN] TV: へんたつ大晦日特別版
   // https://annict.com/works/9242
-  { annict_id: 9242, syobocal_tid: 5574 },
+  { annict_id: 9242, mal_id: 50691, syobocal_tid: 5574 },
   // [2022-SPRING] TV: かぎなど シーズン2
   // https://annict.com/works/9243
   { annict_id: 9243, mal_id: 50685, syobocal_tid: 6348 },
@@ -41390,4 +41390,28 @@ export const annict: ArmEntry[] = [
   // [1986-AUTUMN] OVA: ヘル・ターゲット
   // https://annict.com/works/14318
   { annict_id: 14318, mal_id: 11411 },
+  // [1993-null] OVA: へんてこなボランティア
+  // https://annict.com/works/14319
+  { annict_id: 14319, mal_id: 28353 },
+  // [1987-null] OVA: ベロ出しチョンマ
+  // https://annict.com/works/14320
+  { annict_id: 14320, mal_id: 30984 },
+  // [2010-WINTER] OVA: ボクとガク あの夏のものがたり
+  // https://annict.com/works/14321
+  { annict_id: 14321, mal_id: 26101 },
+  // [1992-WINTER] OVA: はいすくーる仁義
+  // https://annict.com/works/14322
+  { annict_id: 14322, mal_id: 24089 },
+  // [1991-SUMMER] MOVIE: ハックルベリィの冒険(映画)
+  // https://annict.com/works/14323
+  { annict_id: 14323, mal_id: 19957 },
+  // [2009-AUTUMN] OVA: ヒャッコエクストラ
+  // https://annict.com/works/14324
+  { annict_id: 14324, mal_id: 6958 },
+  // [2007-SPRING] OVA: ICE
+  // https://annict.com/works/14325
+  { annict_id: 14325, mal_id: 2169 },
+  // [2008-AUTUMN] MOVIE: ICE＜劇場版＞
+  // https://annict.com/works/14326
+  { annict_id: 14326, mal_id: 9053 },
 ]
