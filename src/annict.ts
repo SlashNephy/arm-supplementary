@@ -41432,4 +41432,7 @@ export const annict: ArmEntry[] = [
   // [2004-AUTUMN] TV: ザ・シンプソンズ シーズン16
   // https://annict.com/works/14332
   { annict_id: 14332 },
+  // [2025-null] TV: 私を喰べたい、ひとでなし
+  // https://annict.com/works/14333
+  { annict_id: 14333 },
 ]
