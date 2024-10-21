@@ -41363,4 +41363,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: エリスの聖杯
   // https://annict.com/works/14309
   { annict_id: 14309, mal_id: 60151 },
+  // [2025-SPRING] TV: 悪食令嬢と狂血公爵 ～その魔物、私が美味しくいただきます!～
+  // https://annict.com/works/14310
+  { annict_id: 14310, mal_id: 60162 },
 ]
