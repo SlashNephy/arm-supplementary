@@ -41471,4 +41471,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: Tokyo Override
   // https://annict.com/works/14345
   { annict_id: 14345 },
+  // [2022-AUTUMN] WEB: モダンラブ・東京〜さまざまな愛の形〜 第7話「彼が奏でるふたりの調べ」
+  // https://annict.com/works/14346
+  { annict_id: 14346, mal_id: 53585 },
 ]
