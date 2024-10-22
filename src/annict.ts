@@ -36977,7 +36977,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] WEB: あんさんぶるスターズ!! 追憶セレクション 「チェックメイト」
   // https://annict.com/works/12839
   { annict_id: 12839 },
-  // [2025-null] TV: 薬屋のひとりごと 第2期
+  // [2025-WINTER] TV: 薬屋のひとりごと 第2期
   // https://annict.com/works/12840
   { annict_id: 12840, mal_id: 58514 },
   // [2024-SPRING] MOVIE: 劇場用再編集版 ウマ娘 プリティーダービー ROAD TO THE TOP
@@ -41363,7 +41363,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: エリスの聖杯
   // https://annict.com/works/14309
   { annict_id: 14309, mal_id: 60151 },
-  // [2025-SPRING] TV: 悪食令嬢と狂血公爵 ～その魔物、私が美味しくいただきます!～
+  // [2025-SPRING] TV: 悪食令嬢と狂血公爵 ～その魔物、私が美味しくいただきます！～
   // https://annict.com/works/14310
   { annict_id: 14310, mal_id: 60162 },
   // [2003-SUMMER] OVA: ぼくたちピチューブラザーズ・パーティはおおさわぎ!のまき
@@ -41468,4 +41468,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: たまアニメーション
   // https://annict.com/works/14344
   { annict_id: 14344 },
+  // [2024-AUTUMN] WEB: Tokyo Override
+  // https://annict.com/works/14345
+  { annict_id: 14345 },
 ]
