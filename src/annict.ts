@@ -41435,4 +41435,34 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: 私を喰べたい、ひとでなし
   // https://annict.com/works/14333
   { annict_id: 14333, mal_id: 60168 },
+  // [1996-SPRING] OVA: アイドル・ファイト スーチーパイII
+  // https://annict.com/works/14334
+  { annict_id: 14334, mal_id: 3816 },
+  // [2013-AUTUMN] OVA: IS＜インフィニット・ストラトス＞2 第1話「一夏の想いで」(ロング・バケーションEDITION)
+  // https://annict.com/works/14335
+  { annict_id: 14335, mal_id: 20045 },
+  // [2021-WINTER] OVA: 頭文字D BATTLE STAGE 3
+  // https://annict.com/works/14336
+  { annict_id: 14336, mal_id: 47410 },
+  // [2011-SUMMER] WEB: 印ストール
+  // https://annict.com/works/14337
+  { annict_id: 14337, mal_id: 11043 },
+  // [1999-SUMMER] OVA: 犬木加奈子絶叫コレクション 学校がこわい！
+  // https://annict.com/works/14338
+  { annict_id: 14338, mal_id: 8920 },
+  // [2019-WINTER] OVA: IT'S MY LIFE
+  // https://annict.com/works/14339
+  { annict_id: 14339, mal_id: 37286 },
+  // [1986-SUMMER] MOVIE: 愛しのベティ 魔物語
+  // https://annict.com/works/14340
+  { annict_id: 14340, mal_id: 9496 },
+  // [1996-WINTER] OVA: いつかのメイン 雷少年・天太参上!
+  // https://annict.com/works/14341
+  { annict_id: 14341, mal_id: 23353 },
+  // [2011-AUTUMN] OVA: いつか天魔の黒ウサギ 第13話「心移りの登校日～すくーる・あてんだんす・でぃ～」
+  // https://annict.com/works/14342
+  { annict_id: 14342, mal_id: 10934 },
+  // [1991-SUMMER] OVA: IZUMO
+  // https://annict.com/works/14343
+  { annict_id: 14343, mal_id: 5876 },
 ]
