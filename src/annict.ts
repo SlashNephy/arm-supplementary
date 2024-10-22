@@ -36853,7 +36853,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12797, mal_id: 38070 },
   // [2024-WINTER] WEB: たまごっち ショートアニメ
   // https://annict.com/works/12798
-  { annict_id: 12798 },
+  { annict_id: 12798, mal_id: 58436 },
   // [2024-SUMMER] TV: しかのこのこのここしたんたん
   // https://annict.com/works/12799
   { annict_id: 12799, mal_id: 58426, syobocal_tid: 7087 },
@@ -41465,4 +41465,7 @@ export const annict: ArmEntry[] = [
   // [1991-SUMMER] OVA: IZUMO
   // https://annict.com/works/14343
   { annict_id: 14343, mal_id: 5876 },
+  // [2024-AUTUMN] WEB: たまアニメーション
+  // https://annict.com/works/14344
+  { annict_id: 14344 },
 ]
