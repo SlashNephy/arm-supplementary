@@ -40525,7 +40525,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14027 },
   // [2010-AUTUMN] OVA: JE T'AIME
   // https://annict.com/works/14028
-  { annict_id: 14028 },
+  { annict_id: 14028, mal_id: 9001 },
   // [2024-AUTUMN] TV: マーダーミステリー・オブ・ザ・デッド
   // https://annict.com/works/14029
   { annict_id: 14029, mal_id: 59892, syobocal_tid: 7267 },
@@ -41477,4 +41477,7 @@ export const annict: ArmEntry[] = [
   // [2010-AUTUMN] MOVIE: 009 THE REOPENING
   // https://annict.com/works/14347
   { annict_id: 14347, mal_id: 9629 },
+  // [2017-SPRING] WEB: 人力戦艦！？汐風澤風
+  // https://annict.com/works/14348
+  { annict_id: 14348, mal_id: 35586 },
 ]
