@@ -36911,7 +36911,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: ARNOLD & PUPPETS
   // https://annict.com/works/12817
   { annict_id: 12817, syobocal_tid: 7060 },
-  // [2025-null] TV: Sランクモンスターの《ベヒーモス》だけど、猫と間違われてエルフ娘の騎士として暮らしてます
+  // [2025-WINTER] TV: Sランクモンスターの《ベヒーモス》だけど、猫と間違われてエルフ娘の騎士として暮らしてます
   // https://annict.com/works/12818
   { annict_id: 12818, mal_id: 58473 },
   // [2024-WINTER] WEB: 転生したらスライムだった件 閑話：ディアブロ日記
