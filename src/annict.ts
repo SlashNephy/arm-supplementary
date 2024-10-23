@@ -41480,4 +41480,10 @@ export const annict: ArmEntry[] = [
   // [2017-SPRING] WEB: 人力戦艦！？汐風澤風
   // https://annict.com/works/14348
   { annict_id: 14348, mal_id: 35586 },
+  // [1992-SPRING] OVA: JOKER マージナル・シティ
+  // https://annict.com/works/14349
+  { annict_id: 14349, mal_id: 3661 },
+  // [2010-SUMMER] WEB: 女子高生信長ちゃん!!
+  // https://annict.com/works/14350
+  { annict_id: 14350, mal_id: 20835 },
 ]
