@@ -24011,7 +24011,7 @@ export const annict: ArmEntry[] = [
   // [2021-SUMMER] MOVIE: アーヤと魔女
   // https://annict.com/works/8342
   { annict_id: 8342 },
-  // [2004-null] MOVIE: ベルヴィル・ランデブー
+  // [2004-AUTUMN] MOVIE: ベルヴィル・ランデブー
   // https://annict.com/works/8343
   { annict_id: 8343, syobocal_tid: 2626 },
   // [2011-WINTER] MOVIE: イリュージョニスト
@@ -41474,4 +41474,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] WEB: モダンラブ・東京〜さまざまな愛の形〜 第7話「彼が奏でるふたりの調べ」
   // https://annict.com/works/14346
   { annict_id: 14346, mal_id: 53585 },
+  // [2010-AUTUMN] MOVIE: 009 THE REOPENING
+  // https://annict.com/works/14347
+  { annict_id: 14347, mal_id: 9629 },
 ]
