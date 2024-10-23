@@ -31196,9 +31196,9 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: 忍ばない！クリプトニンジャ咲耶
   // https://annict.com/works/10905
   { annict_id: 10905, mal_id: 56505, syobocal_tid: 6812 },
-  // [2012-null] OVA: ジャスティーン
+  // [2011-AUTUMN] OVA: ジャスティーン
   // https://annict.com/works/10906
-  { annict_id: 10906 },
+  { annict_id: 10906, mal_id: 11767 },
   // [2002-SUMMER] OTHER: プロモーションアニメ「アニメ店長」
   // https://annict.com/works/10907
   { annict_id: 10907, mal_id: 3080 },
@@ -41486,4 +41486,10 @@ export const annict: ArmEntry[] = [
   // [2010-SUMMER] WEB: 女子高生信長ちゃん!!
   // https://annict.com/works/14350
   { annict_id: 14350, mal_id: 20835 },
+  // [2014-AUTUMN] OVA: 十三支演義 〜偃月三国伝〜 外伝 幽州幻夜
+  // https://annict.com/works/14351
+  { annict_id: 14351, mal_id: 22295 },
+  // [1996-SUMMER] OVA: ふしぎ遊戯スペシャル～渡瀬由宇セレクション～
+  // https://annict.com/works/14352
+  { annict_id: 14352, mal_id: 27567 },
 ]
