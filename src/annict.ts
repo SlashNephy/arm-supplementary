@@ -41570,4 +41570,7 @@ export const annict: ArmEntry[] = [
   // [2018-AUTUMN] WEB: きみの待つ未来（ばしょ）へ
   // https://annict.com/works/14377
   { annict_id: 14377, mal_id: 38678 },
+  // [2020-AUTUMN] TV: 禁男女子
+  // https://annict.com/works/14378
+  { annict_id: 14378, mal_id: 45596 },
 ]
