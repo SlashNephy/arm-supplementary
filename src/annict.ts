@@ -41576,4 +41576,16 @@ export const annict: ArmEntry[] = [
   // [2003-AUTUMN] OVA: キングダム・オブ・カオス 〜ボーン・トゥー・キル〜
   // https://annict.com/works/14379
   { annict_id: 14379, mal_id: 3267 },
+  // [2008-AUTUMN] TV: キスダムR -ENGAGE planet- 余塵節「輪転 メグリアヒ」
+  // https://annict.com/works/14380
+  { annict_id: 14380, mal_id: 12689 },
+  // [2011-SUMMER] OVA: キスダム -ENGAGE planet- 間奏節「人片 オモカゲ」
+  // https://annict.com/works/14381
+  { annict_id: 14381, mal_id: 11505 },
+  // [2000-SPRING] OVA: 北へ。Pure Session
+  // https://annict.com/works/14382
+  { annict_id: 14382, mal_id: 18643 },
+  // [2004-SUMMER] OVA: 北へ。 ～Diamond Dust Drops～ 第13話「〜芬蘭〜旭川〜北野スオミ」
+  // https://annict.com/works/14383
+  { annict_id: 14383, mal_id: 7571 },
 ]
