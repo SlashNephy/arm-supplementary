@@ -40586,6 +40586,9 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 狼と香辛料 MERCHANT MEETS THE WISE WOLF 2期
   // https://annict.com/works/14048
   { annict_id: 14048, mal_id: 59928 },
+  // [2021-WINTER] WEB: ギャビーのドールハウス
+  // https://annict.com/works/14050
+  { annict_id: 14050 },
   // [2025-null] TV: ゴリラの神から加護された令嬢は王立騎士団で可愛がられる
   // https://annict.com/works/14051
   { annict_id: 14051, mal_id: 59935 },
