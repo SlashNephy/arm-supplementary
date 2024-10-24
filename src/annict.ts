@@ -41495,4 +41495,31 @@ export const annict: ArmEntry[] = [
   // [1996-SUMMER] OVA: ふしぎ遊戯スペシャル～渡瀬由宇セレクション～
   // https://annict.com/works/14352
   { annict_id: 14352, mal_id: 27567 },
+  // [2021-SUMMER] WEB: ギャビーのドールハウス シーズン2
+  // https://annict.com/works/14353
+  { annict_id: 14353 },
+  // [2021-AUTUMN] WEB: ギャビーのドールハウス シーズン3
+  // https://annict.com/works/14354
+  { annict_id: 14354 },
+  // [2022-WINTER] WEB: ギャビーのドールハウス シーズン4
+  // https://annict.com/works/14355
+  { annict_id: 14355 },
+  // [2022-SUMMER] WEB: ギャビーのドールハウス シーズン5
+  // https://annict.com/works/14356
+  { annict_id: 14356 },
+  // [2022-AUTUMN] WEB: ギャビーのドールハウス シーズン6
+  // https://annict.com/works/14357
+  { annict_id: 14357 },
+  // [2023-WINTER] WEB: ギャビーのドールハウス シーズン7
+  // https://annict.com/works/14358
+  { annict_id: 14358 },
+  // [2023-SUMMER] WEB: ギャビーのドールハウス シーズン8
+  // https://annict.com/works/14359
+  { annict_id: 14359 },
+  // [2024-WINTER] WEB: ギャビーのドールハウス シーズン9
+  // https://annict.com/works/14360
+  { annict_id: 14360 },
+  // [2024-SUMMER] WEB: ギャビーのドールハウス シーズン10
+  // https://annict.com/works/14361
+  { annict_id: 14361 },
 ]
