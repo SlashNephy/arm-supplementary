@@ -41014,7 +41014,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14192, mal_id: 60108 },
   // [2024-AUTUMN] TV: ONE PIECE FAN LETTER
   // https://annict.com/works/14193
-  { annict_id: 14193 },
+  { annict_id: 14193, mal_id: 60022 },
   // [1995-WINTER] OVA: ぼくの地球を守って ミュージック・イメージ・ビデオ〜金色の時流れて
   // https://annict.com/works/14194
   { annict_id: 14194, mal_id: 10036 },
