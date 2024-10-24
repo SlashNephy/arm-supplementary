@@ -41573,4 +41573,7 @@ export const annict: ArmEntry[] = [
   // [2020-AUTUMN] TV: 禁男女子
   // https://annict.com/works/14378
   { annict_id: 14378, mal_id: 45596 },
+  // [2003-AUTUMN] OVA: キングダム・オブ・カオス 〜ボーン・トゥー・キル〜
+  // https://annict.com/works/14379
+  { annict_id: 14379, mal_id: 3267 },
 ]
