@@ -9634,7 +9634,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3221, mal_id: 2054 },
   // [2007-SPRING] MOVIE: Kiddy Grade 劇場版三部作
   // https://annict.com/works/3222
-  { annict_id: 3222 },
+  { annict_id: 3222, mal_id: 2176 },
   // [null-null] MOVIE: KISS AND CRY
   // https://annict.com/works/3223
   { annict_id: 3223 },
@@ -41537,4 +41537,37 @@ export const annict: ArmEntry[] = [
   // [2015-AUTUMN] WEB: カレバカ～吾輩ノ彼ハ馬鹿でR～
   // https://annict.com/works/14366
   { annict_id: 14366, mal_id: 31865 },
+  // [2022-SPRING] MOVIE: 勝連おもろそうし
+  // https://annict.com/works/14367
+  { annict_id: 14367, mal_id: 53215 },
+  // [1987-AUTUMN] OVA: かってにシロクマ
+  // https://annict.com/works/14368
+  { annict_id: 14368, mal_id: 9832 },
+  // [2016-SUMMER] MOVIE: 風のように
+  // https://annict.com/works/14369
+  { annict_id: 14369, mal_id: 32832 },
+  // [2012-WINTER] MOVIE: かっぱのすりばち
+  // https://annict.com/works/14370
+  { annict_id: 14370, mal_id: 29491 },
+  // [1991-SUMMER] OVA: けっこう仮面
+  // https://annict.com/works/14371
+  { annict_id: 14371, mal_id: 2525 },
+  // [1987-AUTUMN] OVA: ケンタウロスの伝説
+  // https://annict.com/works/14372
+  { annict_id: 14372, mal_id: 17339 },
+  // [2007-SPRING] OVA: キディ・グレイド2 パイロット映像
+  // https://annict.com/works/14373
+  { annict_id: 14373, mal_id: 5859 },
+  // [2016-WINTER] OVA: 機動戦士ガンダム0083 STARDUST MEMORY「宇宙の蜉蝣2」
+  // https://annict.com/works/14374
+  { annict_id: 14374, mal_id: 32898 },
+  // [2005-AUTUMN] OVA: 機動戦士ガンダムSEED DESTINY FINAL PLUS〜選ばれた未来〜
+  // https://annict.com/works/14375
+  { annict_id: 14375, mal_id: 1241 },
+  // [1990-WINTER] OVA: 気ままにアイドル
+  // https://annict.com/works/14376
+  { annict_id: 14376, mal_id: 21749 },
+  // [2018-AUTUMN] WEB: きみの待つ未来（ばしょ）へ
+  // https://annict.com/works/14377
+  { annict_id: 14377, mal_id: 38678 },
 ]
