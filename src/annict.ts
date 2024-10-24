@@ -14792,7 +14792,7 @@ export const annict: ArmEntry[] = [
   // [2017-WINTER] MOVIE: LUPIN THE IIIRD 血煙の石川五ェ門
   // https://annict.com/works/4959
   { annict_id: 4959, mal_id: 34021, syobocal_tid: 5804 },
-  // [2017-SPRING] TV: 拡張少女系トライナリー
+  // [2017-SPRING] WEB: 拡張少女系トライナリー
   // https://annict.com/works/4960
   { annict_id: 4960, mal_id: 34006, syobocal_tid: 4572 },
   // [2016-SUMMER] MOVIE: レッドタートル ある島の物語
@@ -17854,7 +17854,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5987, mal_id: 31867 },
   // [2018-SUMMER] OVA: からかい上手の高木さん OVA
   // https://annict.com/works/5988
-  { annict_id: 5988 },
+  { annict_id: 5988, mal_id: 37621 },
   // [2016-SUMMER] OVA: ジョーカー・ゲーム 新作アニメーション「黒猫ヨルの冒険」
   // https://annict.com/works/5989
   { annict_id: 5989, mal_id: 33129 },
@@ -41522,4 +41522,19 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] WEB: ギャビーのドールハウス シーズン10
   // https://annict.com/works/14361
   { annict_id: 14361 },
+  // [2008-AUTUMN] OVA: 仮面のメイドガイ ご奉仕特別編 あの夏、いちばん豊かな乳。
+  // https://annict.com/works/14362
+  { annict_id: 14362, mal_id: 5045 },
+  // [2022-WINTER] WEB: 『神河：輝ける世界』アニメーショントレーラー
+  // https://annict.com/works/14363
+  { annict_id: 14363, mal_id: 51043 },
+  // [2023-SUMMER] WEB: 『エルドレインの森』アニメトレーラー
+  // https://annict.com/works/14364
+  { annict_id: 14364, mal_id: 56558 },
+  // [2015-SUMMER] WEB: 彼女が漢字を好きな理由。
+  // https://annict.com/works/14365
+  { annict_id: 14365, mal_id: 31618 },
+  // [2015-AUTUMN] WEB: カレバカ～吾輩ノ彼ハ馬鹿でR～
+  // https://annict.com/works/14366
+  { annict_id: 14366, mal_id: 31865 },
 ]
