@@ -41561,7 +41561,7 @@ export const annict: ArmEntry[] = [
   // [2016-WINTER] OVA: 機動戦士ガンダム0083 STARDUST MEMORY「宇宙の蜉蝣2」
   // https://annict.com/works/14374
   { annict_id: 14374, mal_id: 32898 },
-  // [2005-AUTUMN] OVA: 機動戦士ガンダムSEED DESTINY FINAL PLUS〜選ばれた未来〜
+  // [2005-AUTUMN] TV: 機動戦士ガンダムSEED DESTINY FINAL PLUS〜選ばれた未来〜
   // https://annict.com/works/14375
   { annict_id: 14375, mal_id: 1241 },
   // [1990-WINTER] OVA: 気ままにアイドル
