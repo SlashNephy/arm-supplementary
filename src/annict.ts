@@ -41597,4 +41597,7 @@ export const annict: ArmEntry[] = [
   // [2016-AUTUMN] WEB: Disney ufufy（ウフフィ）ショートムービー
   // https://annict.com/works/14386
   { annict_id: 14386 },
+  // [2014-SUMMER] OTHER: 夏恋戦機
+  // https://annict.com/works/14387
+  { annict_id: 14387, mal_id: 27503 },
 ]
