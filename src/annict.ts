@@ -41626,5 +41626,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 14395, mal_id: 60186 },
   // [null-null] OTHER: 花仙子-之魔法香対論
   // https://annict.com/works/14396
-  { annict_id: 14396 },
+  { annict_id: 14396, mal_id: 56234 },
 ]
