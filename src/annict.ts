@@ -41588,4 +41588,7 @@ export const annict: ArmEntry[] = [
   // [2004-SUMMER] OVA: 北へ。 ～Diamond Dust Drops～ 第13話「〜芬蘭〜旭川〜北野スオミ」
   // https://annict.com/works/14383
   { annict_id: 14383, mal_id: 7571 },
+  // [2009-SUMMER] OVA: となりの801ちゃんR
+  // https://annict.com/works/14384
+  { annict_id: 14384, mal_id: 6641 },
 ]
