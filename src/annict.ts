@@ -18046,7 +18046,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6051, mal_id: 20961, syobocal_tid: 3366 },
   // [2014-WINTER] MOVIE: 黒の栖-クロノス-
   // https://annict.com/works/6052
-  { annict_id: 6052 },
+  { annict_id: 6052, mal_id: 20889 },
   // [2012-WINTER] MOVIE: BUTA
   // https://annict.com/works/6053
   { annict_id: 6053, mal_id: 13169, syobocal_tid: 2460 },
@@ -41600,4 +41600,28 @@ export const annict: ArmEntry[] = [
   // [2014-SUMMER] OTHER: 夏恋戦機
   // https://annict.com/works/14387
   { annict_id: 14387, mal_id: 27503 },
+  // [1995-SPRING] OVA: 黄龍の耳 美那の章
+  // https://annict.com/works/14388
+  { annict_id: 14388, mal_id: 2737 },
+  // [2010-AUTUMN] OVA: こわれかけのオルゴール 番外編
+  // https://annict.com/works/14389
+  { annict_id: 14389, mal_id: 10122 },
+  // [1998-AUTUMN] MOVIE: クジラの跳躍 Glassy Ocean
+  // https://annict.com/works/14390
+  { annict_id: 14390, mal_id: 1204 },
+  // [2021-AUTUMN] WEB: 雲の上はいつも、晴れ
+  // https://annict.com/works/14391
+  { annict_id: 14391, mal_id: 50845 },
+  // [1990-SPRING] MOVIE: クロがいた夏
+  // https://annict.com/works/14392
+  { annict_id: 14392, mal_id: 3866 },
+  // [2013-WINTER] OVA: 黒と金の開かない鍵。
+  // https://annict.com/works/14393
+  { annict_id: 14393, mal_id: 16023 },
+  // [2013-WINTER] WEB: クロカン
+  // https://annict.com/works/14394
+  { annict_id: 14394, mal_id: 29603 },
+  // [null-null] OTHER: ぶいすぽっ！長編アニメーションプロジェクト
+  // https://annict.com/works/14395
+  { annict_id: 14395, mal_id: 60186 },
 ]
