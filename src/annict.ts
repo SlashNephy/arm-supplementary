@@ -41591,4 +41591,10 @@ export const annict: ArmEntry[] = [
   // [2009-SUMMER] OVA: となりの801ちゃんR
   // https://annict.com/works/14384
   { annict_id: 14384, mal_id: 6641 },
+  // [2017-SPRING] WEB: ツムツムでやってみた！
+  // https://annict.com/works/14385
+  { annict_id: 14385 },
+  // [2016-AUTUMN] WEB: Disney ufufy（ウフフィ）ショートムービー
+  // https://annict.com/works/14386
+  { annict_id: 14386 },
 ]
