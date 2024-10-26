@@ -11278,7 +11278,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3771, mal_id: 6675, syobocal_tid: 2603 },
   // [2009-AUTUMN] MOVIE: レイトン教授と永遠の歌姫 THE ETERNAL DIVA
   // https://annict.com/works/3772
-  { annict_id: 3772, syobocal_tid: 2068 },
+  { annict_id: 3772, mal_id: 6172, syobocal_tid: 2068 },
   // [2012-SUMMER] MOVIE: ROAD TO NINJA -NARUTO THE MOVIE-
   // https://annict.com/works/3773
   { annict_id: 3773, mal_id: 13667, syobocal_tid: 2646 },
@@ -41627,4 +41627,19 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 花仙子-之魔法香対論
   // https://annict.com/works/14396
   { annict_id: 14396, mal_id: 56234 },
+  // [1996-SPRING] OVA: ランドロック
+  // https://annict.com/works/14397
+  { annict_id: 14397, mal_id: 2078 },
+  // [2003-SPRING] OVA: ランジェリー戦士パピヨンローゼ
+  // https://annict.com/works/14398
+  { annict_id: 14398, mal_id: 1995 },
+  // [1990-SPRING] MOVIE: リトルポーラベア しろくまくん、どこへ?
+  // https://annict.com/works/14399
+  { annict_id: 14399, mal_id: 25027 },
+  // [1991-AUTUMN] OVA: リトルポーラベア しろくまくん、ふねにのる
+  // https://annict.com/works/14400
+  { annict_id: 14400, mal_id: 25029 },
+  // [2013-AUTUMN] OVA: ラブライブ! School idol project「Music S.T.A.R.T!!」スペシャルOVA
+  // https://annict.com/works/14401
+  { annict_id: 14401, mal_id: 20745 },
 ]
