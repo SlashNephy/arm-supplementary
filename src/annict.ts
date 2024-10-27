@@ -41642,4 +41642,7 @@ export const annict: ArmEntry[] = [
   // [2013-AUTUMN] OVA: ラブライブ! School idol project「Music S.T.A.R.T!!」スペシャルOVA
   // https://annict.com/works/14401
   { annict_id: 14401, mal_id: 20745 },
+  // [1967-SPRING] MOVIE: ミトン
+  // https://annict.com/works/14402
+  { annict_id: 14402 },
 ]
