@@ -41645,4 +41645,7 @@ export const annict: ArmEntry[] = [
   // [1967-SPRING] MOVIE: ミトン
   // https://annict.com/works/14402
   { annict_id: 14402 },
+  // [1969-SUMMER] TV: 宇宙忍者ゴームズ
+  // https://annict.com/works/14403
+  { annict_id: 14403 },
 ]
