@@ -41693,4 +41693,25 @@ export const annict: ArmEntry[] = [
   // [2010-SPRING] WEB: 六畳間の侵略者!? プロモーションムービー
   // https://annict.com/works/14418
   { annict_id: 14418, mal_id: 26019 },
+  // [2005-WINTER] TV: アバター 伝説の少年アン シーズン1(水の巻)
+  // https://annict.com/works/14419
+  { annict_id: 14419 },
+  // [2006-WINTER] TV: アバター 伝説の少年アン シーズン2(土の巻)
+  // https://annict.com/works/14420
+  { annict_id: 14420 },
+  // [2007-SUMMER] TV: アバター 伝説の少年アン シーズン3(火の巻)
+  // https://annict.com/works/14421
+  { annict_id: 14421 },
+  // [2012-SPRING] TV: レジェンド・オブ・コーラ シーズン1
+  // https://annict.com/works/14422
+  { annict_id: 14422 },
+  // [2013-SUMMER] TV: レジェンド・オブ・コーラ シーズン2
+  // https://annict.com/works/14423
+  { annict_id: 14423 },
+  // [2014-SPRING] TV: レジェンド・オブ・コーラ シーズン3
+  // https://annict.com/works/14424
+  { annict_id: 14424 },
+  // [2014-AUTUMN] TV: レジェンド・オブ・コーラ シーズン4
+  // https://annict.com/works/14425
+  { annict_id: 14425 },
 ]
