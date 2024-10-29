@@ -41648,4 +41648,19 @@ export const annict: ArmEntry[] = [
   // [1969-SUMMER] TV: 宇宙忍者ゴームズ
   // https://annict.com/works/14403
   { annict_id: 14403 },
+  // [1985-WINTER] OVA: 魔法の天使クリィミーマミ ラブリーセレナーデ
+  // https://annict.com/works/14404
+  { annict_id: 14404, mal_id: 4126 },
+  // [1986-WINTER] OVA: クリィミーマミ ソングスペシャル2 カーテンコール
+  // https://annict.com/works/14405
+  { annict_id: 14405, mal_id: 4129 },
+  // [2013-AUTUMN] MOVIE: 十五少年漂流記 海賊島DE！大冒険
+  // https://annict.com/works/14406
+  { annict_id: 14406, mal_id: 21021 },
+  // [2007-AUTUMN] OVA: 魔法少女隊アルス THE ADVENTURE
+  // https://annict.com/works/14407
+  { annict_id: 14407, mal_id: 3991 },
+  // [2012-SPRING] WEB: 魔法使いなら味噌を喰え！
+  // https://annict.com/works/14408
+  { annict_id: 14408, mal_id: 14479 },
 ]
