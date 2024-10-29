@@ -12271,7 +12271,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 4104, mal_id: 23151, syobocal_tid: 3453 },
   // [2014-SUMMER] TV: 六畳間の侵略者!?
   // https://annict.com/works/4105
-  { annict_id: 4105, mal_id: 26019, syobocal_tid: 3454 },
+  { annict_id: 4105, mal_id: 22865, syobocal_tid: 3454 },
   // [2014-SUMMER] TV: 戦国BASARA Judge End
   // https://annict.com/works/4106
   { annict_id: 4106, mal_id: 23201, syobocal_tid: 3456 },
@@ -17566,7 +17566,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5891, mal_id: 13411 },
   // [2012-WINTER] OVA: マケン姫っ！ 特盛編「夏だ！ 水着だ！ 合宿だ！」
   // https://annict.com/works/5892
-  { annict_id: 5892 },
+  { annict_id: 5892, mal_id: 11209 },
   // [2013-AUTUMN] OVA: 黒子のバスケ OVA「バカじゃ勝てないのよ！」
   // https://annict.com/works/5893
   { annict_id: 5893, mal_id: 19669 },
@@ -25207,7 +25207,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 8805, mal_id: 49523 },
   // [2022-WINTER] MOVIE: 魔神英雄伝ワタル 七魂の龍神丸 -再会-
   // https://annict.com/works/8806
-  { annict_id: 8806 },
+  { annict_id: 8806, mal_id: 57828 },
   // [1974-SPRING] TV: 柔道讃歌
   // https://annict.com/works/8807
   { annict_id: 8807, mal_id: 11857 },
@@ -29504,7 +29504,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: 声優ラジオのウラオモテ
   // https://annict.com/works/10339
   { annict_id: 10339, mal_id: 53912, syobocal_tid: 7011 },
-  // [2025-WINTER] TV: 地縛少年花子くん 第2期
+  // [2025-WINTER] TV: 地縛少年花子くん2
   // https://annict.com/works/10340
   { annict_id: 10340, mal_id: 53924 },
   // [2023-WINTER] MOVIE: 鬼滅の刃 上弦集結、そして刀鍛冶の里へ
@@ -41663,4 +41663,34 @@ export const annict: ArmEntry[] = [
   // [2012-SPRING] WEB: 魔法使いなら味噌を喰え！
   // https://annict.com/works/14408
   { annict_id: 14408, mal_id: 14479 },
+  // [2019-WINTER] WEB: 『魔法使いの嫁 学院篇』PV
+  // https://annict.com/works/14409
+  { annict_id: 14409, mal_id: 40134 },
+  // [1992-SPRING] OVA: プレリュードめぞん一刻 めぐる春の桜のように
+  // https://annict.com/works/14410
+  { annict_id: 14410, mal_id: 3484 },
+  // [1986-SUMMER] OVA: 魔女でもステディ
+  // https://annict.com/works/14411
+  { annict_id: 14411, mal_id: 8889 },
+  // [2011-AUTUMN] OVA: ドキドキッ！マケン姫っ！秘密の訓練
+  // https://annict.com/works/14412
+  { annict_id: 14412, mal_id: 12449 },
+  // [2014-WINTER] OVA: マケン姫っ！通 P～私事♡
+  // https://annict.com/works/14413
+  { annict_id: 14413, mal_id: 23989 },
+  // [1990-SPRING] MOVIE: まっ黒なおべんとう
+  // https://annict.com/works/14414
+  { annict_id: 14414, mal_id: 20229 },
+  // [2001-SPRING] OVA: Malice@Doll
+  // https://annict.com/works/14415
+  { annict_id: 14415, mal_id: 2261 },
+  // [2020-WINTER] WEB: MAN WITH A MISSION THE ANIMATION -伝説のライブを開催セヨ-
+  // https://annict.com/works/14416
+  { annict_id: 14416, mal_id: 41477 },
+  // [2001-SPRING] OVA: めだかの学校
+  // https://annict.com/works/14417
+  { annict_id: 14417, mal_id: 9519 },
+  // [2010-SPRING] WEB: 六畳間の侵略者!? プロモーションムービー
+  // https://annict.com/works/14418
+  { annict_id: 14418, mal_id: 26019 },
 ]
