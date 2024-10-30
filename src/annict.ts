@@ -41720,4 +41720,22 @@ export const annict: ArmEntry[] = [
   // [1919-null] MOVIE: Das Ornament des verliebten Herzens（原題）
   // https://annict.com/works/14427
   { annict_id: 14427 },
+  // [1932-null] MOVIE: 汽車の發達
+  // https://annict.com/works/14428
+  { annict_id: 14428 },
+  // [1932-null] MOVIE: 兄弟こぐま
+  // https://annict.com/works/14429
+  { annict_id: 14429, mal_id: 34955 },
+  // [1932-null] MOVIE: 漫画の列国陸軍
+  // https://annict.com/works/14430
+  { annict_id: 14430, mal_id: 35398 },
+  // [1933-null] MOVIE: 百年後の或る日
+  // https://annict.com/works/14431
+  { annict_id: 14431, mal_id: 35401 },
+  // [1933-null] MOVIE: まんが劇 與七郎の敬禮
+  // https://annict.com/works/14432
+  { annict_id: 14432, mal_id: 34954 },
+  // [1933-null] MOVIE: 結核豫防
+  // https://annict.com/works/14433
+  { annict_id: 14433, mal_id: 35387 },
 ]
