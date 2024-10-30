@@ -41852,4 +41852,13 @@ export const annict: ArmEntry[] = [
   // [1968-AUTUMN] MOVIE: 馬鹿馬鹿馬鹿な世界
   // https://annict.com/works/14471
   { annict_id: 14471, mal_id: 29777 },
+  // [2025-WINTER] WEB: ウォレスとグルミット 仕返しなんてコワくない!
+  // https://annict.com/works/14472
+  { annict_id: 14472 },
+  // [1968-AUTUMN] MOVIE: 創世記
+  // https://annict.com/works/14473
+  { annict_id: 14473, mal_id: 3473 },
+  // [1984-SPRING] MOVIE: ジャンピング
+  // https://annict.com/works/14474
+  { annict_id: 14474, mal_id: 2211 },
 ]
