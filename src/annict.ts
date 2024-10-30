@@ -11947,7 +11947,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3994, mal_id: 21273, syobocal_tid: 3324 },
   // [2014-SPRING] TV: 蟲師 続章
   // https://annict.com/works/3995
-  { annict_id: 3995, mal_id: 24687, syobocal_tid: 3327 },
+  { annict_id: 3995, mal_id: 21939, syobocal_tid: 3327 },
   // [2014-SPRING] TV: ラブライブ！ School idol project (第2期)
   // https://annict.com/works/3996
   { annict_id: 3996, mal_id: 19111, syobocal_tid: 3331 },
@@ -13876,7 +13876,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 4650, mal_id: 32282, syobocal_tid: 4215 },
   // [2014-SUMMER] OVA: 常住戦陣!!ムシブギョー
   // https://annict.com/works/4651
-  { annict_id: 4651 },
+  { annict_id: 4651, mal_id: 24171 },
   // [2016-WINTER] TV: 彼女と彼女の猫 -Everything Flows-
   // https://annict.com/works/4652
   { annict_id: 4652, mal_id: 32491, syobocal_tid: 4080 },
@@ -15469,7 +15469,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5185, mal_id: 34901, syobocal_tid: 4539 },
   // [2017-SPRING] WEB: モンスターストライク セカンドシーズン
   // https://annict.com/works/5186
-  { annict_id: 5186 },
+  { annict_id: 5186, mal_id: 34670 },
   // [2017-SPRING] TV: 遊☆戯☆王VRAINS
   // https://annict.com/works/5187
   { annict_id: 5187, mal_id: 34866, syobocal_tid: 4592 },
@@ -18139,7 +18139,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6084, mal_id: 37965, syobocal_tid: 5088 },
   // [2017-AUTUMN] WEB: モンスターストライク 消えゆく宇宙編
   // https://annict.com/works/6085
-  { annict_id: 6085 },
+  { annict_id: 6085, mal_id: 36246 },
   // [2016-AUTUMN] MOVIE: モンスターストライク THE MOVIE はじまりの場所へ
   // https://annict.com/works/6086
   { annict_id: 6086, mal_id: 33724 },
@@ -32083,7 +32083,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11200, mal_id: 56758 },
   // [2014-WINTER] TV: 蟲師 特別篇「日蝕む翳」
   // https://annict.com/works/11201
-  { annict_id: 11201 },
+  { annict_id: 11201, mal_id: 21329 },
   // [2004-SPRING] TV: 超ぽじてぃぶ! ファイターズ
   // https://annict.com/works/11202
   { annict_id: 11202, syobocal_tid: 679 },
@@ -41804,4 +41804,25 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] WEB: もっふんといっしょ
   // https://annict.com/works/14455
   { annict_id: 14455, mal_id: 55572 },
+  // [1994-WINTER] OVA: モルダイバー(Go Go!! ドールちゃん/PROJECT F)
+  // https://annict.com/works/14456
+  { annict_id: 14456, mal_id: 41822 },
+  // [1988-WINTER] MOVIE: 森の伝説 PART-1
+  // https://annict.com/works/14457
+  { annict_id: 14457, mal_id: 2456 },
+  // [2014-SUMMER] MOVIE: 森の伝説 第二楽章
+  // https://annict.com/works/14458
+  { annict_id: 14458, mal_id: 32041 },
+  // [2015-SUMMER] WEB: 森のおんがくだん
+  // https://annict.com/works/14459
+  { annict_id: 14459, mal_id: 31369 },
+  // [1987-WINTER] OVA: 夢幻紳士 冒険活劇編
+  // https://annict.com/works/14460
+  { annict_id: 14460, mal_id: 8162 },
+  // [2014-SUMMER] OVA: 無邪気の楽園
+  // https://annict.com/works/14461
+  { annict_id: 14461, mal_id: 23423 },
+  // [2012-AUTUMN] TV: 流れ星レンズ(TV)
+  // https://annict.com/works/14462
+  { annict_id: 14462, mal_id: 15717 },
 ]
