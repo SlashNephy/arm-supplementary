@@ -25988,7 +25988,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] WEB: ズートピア+
   // https://annict.com/works/9099
   { annict_id: 9099 },
-  // [2023-null] WEB: ティアナ (原題)
+  // [2023-null] WEB: ティアナ（原題）
   // https://annict.com/works/9100
   { annict_id: 9100 },
   // [2022-SUMMER] WEB: カーズ・オン・ザ・ロード
@@ -41717,4 +41717,7 @@ export const annict: ArmEntry[] = [
   // [1931-AUTUMN] MOVIE: 三匹の小熊さん
   // https://annict.com/works/14426
   { annict_id: 14426, mal_id: 29559 },
+  // [1919-null] MOVIE: Das Ornament des verliebten Herzens（原題）
+  // https://annict.com/works/14427
+  { annict_id: 14427 },
 ]
