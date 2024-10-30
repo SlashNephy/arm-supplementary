@@ -41825,4 +41825,31 @@ export const annict: ArmEntry[] = [
   // [2012-AUTUMN] TV: 流れ星レンズ(TV)
   // https://annict.com/works/14462
   { annict_id: 14462, mal_id: 15717 },
+  // [2009-SPRING] TV: 富山観光アニメプロジェクト 泣かせる空に会いたい
+  // https://annict.com/works/14463
+  { annict_id: 14463, mal_id: 10511 },
+  // [1988-SUMMER] OVA: ナマケモノが見てた
+  // https://annict.com/works/14464
+  { annict_id: 14464, mal_id: 19817 },
+  // [1962-AUTUMN] MOVIE: ある街角の物語
+  // https://annict.com/works/14465
+  { annict_id: 14465, mal_id: 1497 },
+  // [1962-AUTUMN] MOVIE: おす
+  // https://annict.com/works/14466
+  { annict_id: 14466, mal_id: 1982 },
+  // [1964-SUMMER] MOVIE: めもりい
+  // https://annict.com/works/14467
+  { annict_id: 14467, mal_id: 1984 },
+  // [1964-SUMMER] MOVIE: 人魚
+  // https://annict.com/works/14468
+  { annict_id: 14468, mal_id: 2047 },
+  // [1965-AUTUMN] MOVIE: しずく
+  // https://annict.com/works/14469
+  { annict_id: 14469, mal_id: 1989 },
+  // [1966-AUTUMN] MOVIE: 展覧会の絵
+  // https://annict.com/works/14470
+  { annict_id: 14470, mal_id: 3472 },
+  // [1968-AUTUMN] MOVIE: 馬鹿馬鹿馬鹿な世界
+  // https://annict.com/works/14471
+  { annict_id: 14471, mal_id: 29777 },
 ]
