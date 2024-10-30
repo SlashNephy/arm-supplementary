@@ -41714,4 +41714,7 @@ export const annict: ArmEntry[] = [
   // [2014-AUTUMN] TV: レジェンド・オブ・コーラ シーズン4
   // https://annict.com/works/14425
   { annict_id: 14425 },
+  // [1931-AUTUMN] MOVIE: 三匹の小熊さん
+  // https://annict.com/works/14426
+  { annict_id: 14426, mal_id: 29559 },
 ]
