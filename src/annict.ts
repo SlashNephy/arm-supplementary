@@ -41738,4 +41738,13 @@ export const annict: ArmEntry[] = [
   // [1933-null] MOVIE: 結核豫防
   // https://annict.com/works/14433
   { annict_id: 14433, mal_id: 35387 },
+  // [1934-null] MOVIE: ワニザメトシロウサギ
+  // https://annict.com/works/14434
+  { annict_id: 14434 },
+  // [1934-SUMMER] MOVIE: ポン助の春
+  // https://annict.com/works/14435
+  { annict_id: 14435, mal_id: 23089 },
+  // [1934-SPRING] MOVIE: 元禄恋模様 三吉とおさよ
+  // https://annict.com/works/14436
+  { annict_id: 14436, mal_id: 23265 },
 ]
