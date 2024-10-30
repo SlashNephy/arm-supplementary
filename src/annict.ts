@@ -32852,7 +32852,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] WEB: 「ぷれぷれぷれあです」×「かげじつ！」 コラボアニメ
   // https://annict.com/works/11457
   { annict_id: 11457, mal_id: 57034 },
-  // [2025-null] TV: 妃教育から逃げたい私
+  // [2025-WINTER] TV: 妃教育から逃げたい私
   // https://annict.com/works/11458
   { annict_id: 11458, mal_id: 57050 },
   // [2015-SUMMER] WEB: HAPPY FOREST
@@ -41747,4 +41747,7 @@ export const annict: ArmEntry[] = [
   // [1934-SPRING] MOVIE: 元禄恋模様 三吉とおさよ
   // https://annict.com/works/14436
   { annict_id: 14436, mal_id: 23265 },
+  // [1943-SUMMER] MOVIE: 空軍力の勝利
+  // https://annict.com/works/14437
+  { annict_id: 14437 },
 ]
