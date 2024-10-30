@@ -41861,4 +41861,19 @@ export const annict: ArmEntry[] = [
   // [1984-SPRING] MOVIE: ジャンピング
   // https://annict.com/works/14474
   { annict_id: 14474, mal_id: 2211 },
+  // [1985-SUMMER] MOVIE: おんぼろフィルム
+  // https://annict.com/works/14475
+  { annict_id: 14475, mal_id: 2550 },
+  // [1987-SUMMER] MOVIE: プッシュ
+  // https://annict.com/works/14476
+  { annict_id: 14476, mal_id: 3474 },
+  // [1987-SUMMER] MOVIE: 村正
+  // https://annict.com/works/14477
+  { annict_id: 14477, mal_id: 3475 },
+  // [1988-SPRING] MOVIE: 自画像
+  // https://annict.com/works/14478
+  { annict_id: 14478, mal_id: 4966 },
+  // [1965-AUTUMN] MOVIE: たばこと灰
+  // https://annict.com/works/14479
+  { annict_id: 14479, mal_id: 12295 },
 ]
