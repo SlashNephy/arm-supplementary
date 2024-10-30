@@ -27769,13 +27769,13 @@ export const annict: ArmEntry[] = [
   { annict_id: 9758, mal_id: 49599, syobocal_tid: 6424 },
   // [1993-WINTER] MOVIE: SDガンダム外伝 聖機兵物語
   // https://annict.com/works/9759
-  { annict_id: 9759 },
+  { annict_id: 9759, mal_id: 9098 },
   // [1993-WINTER] MOVIE: SDコマンド戦記 ガンダムフォース スーパーGアームズ ファイナルフォーミュラーVSノウムギャザー
   // https://annict.com/works/9760
-  { annict_id: 9760 },
+  { annict_id: 9760, mal_id: 9098 },
   // [1993-WINTER] MOVIE: SD戦国伝 天下泰平編
   // https://annict.com/works/9761
-  { annict_id: 9761 },
+  { annict_id: 9761, mal_id: 9098 },
   // [2003-SPRING] MOVIE: インターステラ5555：THE 5TORY OF THE 5ECRET 5TAR 5YSTEM
   // https://annict.com/works/9762
   { annict_id: 9762, mal_id: 731 },
@@ -41777,4 +41777,31 @@ export const annict: ArmEntry[] = [
   // [1987-WINTER] OVA: みんなあげちゃう♡
   // https://annict.com/works/14446
   { annict_id: 14446, mal_id: 4688 },
+  // [2024-AUTUMN] OVA: 魔法科高校の劣等生 古都内乱編１ 特典映像
+  // https://annict.com/works/14447
+  { annict_id: 14447 },
+  // [2024-SUMMER] WEB: 未来からやってきた森
+  // https://annict.com/works/14448
+  { annict_id: 14448, mal_id: 60203 },
+  // [1991-WINTER] OVA: タックンくらしのTAXノート
+  // https://annict.com/works/14449
+  { annict_id: 14449, mal_id: 60204 },
+  // [null-null] OTHER: 異世界剣王生存記
+  // https://annict.com/works/14450
+  { annict_id: 14450, mal_id: 60214 },
+  // [1991-AUTUMN] OVA: ミラクル・サイキッカー セイザン
+  // https://annict.com/works/14451
+  { annict_id: 14451, mal_id: 16021 },
+  // [2016-WINTER] WEB: みらいへの手紙～この道の途中から～
+  // https://annict.com/works/14452
+  { annict_id: 14452, mal_id: 35047 },
+  // [2017-AUTUMN] WEB: 未来光子 播磨サクラ NEX-Ray
+  // https://annict.com/works/14453
+  { annict_id: 14453, mal_id: 39056 },
+  // [2010-AUTUMN] OVA: 未来日記 パイロットアニメ
+  // https://annict.com/works/14454
+  { annict_id: 14454, mal_id: 8460 },
+  // [2023-SPRING] WEB: もっふんといっしょ
+  // https://annict.com/works/14455
+  { annict_id: 14455, mal_id: 55572 },
 ]
