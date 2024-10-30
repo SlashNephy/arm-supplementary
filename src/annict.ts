@@ -18559,22 +18559,22 @@ export const annict: ArmEntry[] = [
   { annict_id: 6224 },
   // [1983-AUTUMN] OVA: ライオンブックス「緑の猫」
   // https://annict.com/works/6225
-  { annict_id: 6225 },
+  { annict_id: 6225, mal_id: 11799 },
   // [1983-AUTUMN] OVA: ライオンブックス「雨ふり小僧」
   // https://annict.com/works/6226
-  { annict_id: 6226 },
+  { annict_id: 6226, mal_id: 6462 },
   // [1985-SPRING] OVA: ライオンブックス「るんは風の中」
   // https://annict.com/works/6227
-  { annict_id: 6227 },
+  { annict_id: 6227, mal_id: 14247 },
   // [1986-SUMMER] OVA: ライオンブックス「山太郎かえる」
   // https://annict.com/works/6228
-  { annict_id: 6228 },
+  { annict_id: 6228, mal_id: 11537 },
   // [1991-AUTUMN] OVA: ライオンブックス「安達が原」
   // https://annict.com/works/6229
-  { annict_id: 6229 },
+  { annict_id: 6229, mal_id: 8181 },
   // [1993-SUMMER] OVA: ライオンブックス「悪右衛門」
   // https://annict.com/works/6230
-  { annict_id: 6230 },
+  { annict_id: 6230, mal_id: 14231 },
   // [2018-AUTUMN] TV: アイドルマスター SideM 理由あってMini!
   // https://annict.com/works/6231
   { annict_id: 6231, mal_id: 38203, syobocal_tid: 5045 },
@@ -41750,4 +41750,31 @@ export const annict: ArmEntry[] = [
   // [1943-SUMMER] MOVIE: 空軍力の勝利
   // https://annict.com/works/14437
   { annict_id: 14437 },
+  // [2011-SUMMER] MOVIE: 緑子 MIDORI-KO
+  // https://annict.com/works/14438
+  { annict_id: 14438, mal_id: 9990 },
+  // [1990-SPRING] MOVIE: 緑山高校 甲子園編(映画)
+  // https://annict.com/works/14439
+  { annict_id: 14439, mal_id: 8522 },
+  // [2022-WINTER] WEB: ミコノート 第"０"話 -前日譚-
+  // https://annict.com/works/14440
+  { annict_id: 14440, mal_id: 51238 },
+  // [1987-AUTUMN] OVA: ミルクハウス・ドリーミング 愛の四季
+  // https://annict.com/works/14441
+  { annict_id: 14441, mal_id: 19597 },
+  // [2013-SPRING] TV: みにヴぁん
+  // https://annict.com/works/14442
+  { annict_id: 14442, mal_id: 18391, syobocal_tid: 2987 },
+  // [2013-SUMMER] OVA: みにヴぁん(OVA)
+  // https://annict.com/works/14443
+  { annict_id: 14443, mal_id: 20999 },
+  // [2015-AUTUMN] TV: みにヴぁん(第2期)
+  // https://annict.com/works/14444
+  { annict_id: 14444, mal_id: 31410, syobocal_tid: 3925 },
+  // [1989-AUTUMN] OVA: ミニ四ソルジャーRin!
+  // https://annict.com/works/14445
+  { annict_id: 14445, mal_id: 18275 },
+  // [1987-WINTER] OVA: みんなあげちゃう♡
+  // https://annict.com/works/14446
+  { annict_id: 14446, mal_id: 4688 },
 ]
