@@ -41945,4 +41945,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] TV: ザ・シンプソンズ シーズン36
   // https://annict.com/works/14502
   { annict_id: 14502 },
+  // [2022-AUTUMN] WEB: ザ・シンプソンズとボチェッリズのフェリス・ナヴィダ
+  // https://annict.com/works/14503
+  { annict_id: 14503 },
 ]
