@@ -15815,13 +15815,13 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: ブッチのムキムキ大作戦
   // https://annict.com/works/5303
   { annict_id: 5303 },
-  // [1978-AUTUMN] TV: 宇宙わんぱく隊
+  // [1969-SUMMER] TV: 宇宙わんぱく隊
   // https://annict.com/works/5304
   { annict_id: 5304 },
-  // [null-null] TV: 珍犬探偵ダイナマット
+  // [1978-SPRING] TV: 珍犬探偵ダイナマット
   // https://annict.com/works/5305
   { annict_id: 5305 },
-  // [null-null] TV: ほえよ！0011
+  // [1977-SUMMER] TV: ほえよ！0011
   // https://annict.com/works/5306
   { annict_id: 5306 },
   // [1979-SUMMER] TV: まんがオールスター おもしろオリンピック
