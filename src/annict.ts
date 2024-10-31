@@ -3290,7 +3290,7 @@ export const annict: ArmEntry[] = [
   // [2010-SUMMER] TV: 世紀末オカルト学院
   // https://annict.com/works/1098
   { annict_id: 1098, mal_id: 6974, syobocal_tid: 1966 },
-  // [1999-AUTUMN] TV: 世紀末伝説～ワンダフル・タツノコランド
+  // [1999-AUTUMN] TV: 世紀末伝説 ワンダフル タツノコランド
   // https://annict.com/works/1099
   { annict_id: 1099, mal_id: 51144 },
   // [1963-SUMMER] TV: 仙人部落
@@ -15125,7 +15125,7 @@ export const annict: ArmEntry[] = [
   // [2017-SPRING] TV: Re:CREATORS (レクリエイターズ)
   // https://annict.com/works/5070
   { annict_id: 5070, mal_id: 34561, syobocal_tid: 4528 },
-  // [2017-WINTER] TV: ナンバカ (第2期)
+  // [2017-WINTER] WEB: ナンバカ (第2期)
   // https://annict.com/works/5071
   { annict_id: 5071, mal_id: 34414, syobocal_tid: 4460 },
   // [2017-SPRING] TV: アトム ザ・ビギニング
@@ -41948,4 +41948,13 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] WEB: ザ・シンプソンズとボチェッリズのフェリス・ナヴィダ
   // https://annict.com/works/14503
   { annict_id: 14503 },
+  // [1992-AUTUMN] OVA: なんぼのもんじゃい！ ヤンキー愚連隊
+  // https://annict.com/works/14504
+  { annict_id: 14504, mal_id: 19783 },
+  // [2018-SPRING] WEB: 何色の何
+  // https://annict.com/works/14505
+  { annict_id: 14505, mal_id: 37881 },
+  // [2009-AUTUMN] OVA: Needless+ -聖リリィ学園の秘密-
+  // https://annict.com/works/14506
+  { annict_id: 14506, mal_id: 7322 },
 ]
