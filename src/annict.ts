@@ -41921,4 +41921,7 @@ export const annict: ArmEntry[] = [
   // [2016-SUMMER] TV: ザ・シンプソンズ シーズン28
   // https://annict.com/works/14494
   { annict_id: 14494 },
+  // [2017-AUTUMN] TV: ザ・シンプソンズ シーズン29
+  // https://annict.com/works/14495
+  { annict_id: 14495 },
 ]
