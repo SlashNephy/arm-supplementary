@@ -41885,4 +41885,40 @@ export const annict: ArmEntry[] = [
   // [1978-SUMMER] TV: Godzilla (1978年)
   // https://annict.com/works/14482
   { annict_id: 14482 },
+  // [2005-SUMMER] TV: ザ・シンプソンズ シーズン17
+  // https://annict.com/works/14483
+  { annict_id: 14483 },
+  // [2006-SUMMER] TV: ザ・シンプソンズ シーズン18
+  // https://annict.com/works/14484
+  { annict_id: 14484 },
+  // [2007-SUMMER] TV: ザ・シンプソンズ シーズン19
+  // https://annict.com/works/14485
+  { annict_id: 14485 },
+  // [2008-SUMMER] TV: ザ・シンプソンズ シーズン20
+  // https://annict.com/works/14486
+  { annict_id: 14486 },
+  // [2009-SUMMER] TV: ザ・シンプソンズ シーズン21
+  // https://annict.com/works/14487
+  { annict_id: 14487 },
+  // [2010-SUMMER] TV: ザ・シンプソンズ シーズン22
+  // https://annict.com/works/14488
+  { annict_id: 14488 },
+  // [2011-SUMMER] TV: ザ・シンプソンズ シーズン23
+  // https://annict.com/works/14489
+  { annict_id: 14489 },
+  // [2012-SUMMER] TV: ザ・シンプソンズ シーズン24
+  // https://annict.com/works/14490
+  { annict_id: 14490 },
+  // [2013-SUMMER] TV: ザ・シンプソンズ シーズン25
+  // https://annict.com/works/14491
+  { annict_id: 14491 },
+  // [2014-SUMMER] TV: ザ・シンプソンズ シーズン26
+  // https://annict.com/works/14492
+  { annict_id: 14492 },
+  // [2015-SUMMER] TV: ザ・シンプソンズ シーズン27
+  // https://annict.com/works/14493
+  { annict_id: 14493 },
+  // [2016-SUMMER] TV: ザ・シンプソンズ シーズン28
+  // https://annict.com/works/14494
+  { annict_id: 14494 },
 ]
