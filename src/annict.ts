@@ -41927,4 +41927,10 @@ export const annict: ArmEntry[] = [
   // [2018-SUMMER] TV: ザ・シンプソンズ シーズン30
   // https://annict.com/works/14496
   { annict_id: 14496 },
+  // [2019-SUMMER] TV: ザ・シンプソンズ シーズン31
+  // https://annict.com/works/14497
+  { annict_id: 14497 },
+  // [2020-SUMMER] TV: ザ・シンプソンズ シーズン32
+  // https://annict.com/works/14498
+  { annict_id: 14498 },
 ]
