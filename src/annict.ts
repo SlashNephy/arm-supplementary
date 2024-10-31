@@ -41882,4 +41882,7 @@ export const annict: ArmEntry[] = [
   // [1968-null] MOVIE: 二匹のサンマ（カラー版）
   // https://annict.com/works/14481
   { annict_id: 14481, mal_id: 29701 },
+  // [1978-SUMMER] TV: Godzilla (1978年)
+  // https://annict.com/works/14482
+  { annict_id: 14482 },
 ]
