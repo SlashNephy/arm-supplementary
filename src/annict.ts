@@ -41876,4 +41876,7 @@ export const annict: ArmEntry[] = [
   // [1965-AUTUMN] MOVIE: たばこと灰
   // https://annict.com/works/14479
   { annict_id: 14479, mal_id: 12295 },
+  // [1960-AUTUMN] MOVIE: 二匹のサンマ（白黒版）
+  // https://annict.com/works/14480
+  { annict_id: 14480, mal_id: 7021 },
 ]
