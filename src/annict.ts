@@ -41957,4 +41957,7 @@ export const annict: ArmEntry[] = [
   // [2009-AUTUMN] OVA: Needless+ -聖リリィ学園の秘密-
   // https://annict.com/works/14506
   { annict_id: 14506, mal_id: 7322 },
+  // [2010-WINTER] WEB: neon THE ANIMATION
+  // https://annict.com/works/14507
+  { annict_id: 14507, mal_id: 17697 },
 ]
