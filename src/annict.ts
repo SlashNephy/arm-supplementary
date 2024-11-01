@@ -41981,4 +41981,7 @@ export const annict: ArmEntry[] = [
   // [1955-WINTER] MOVIE: やぶにらみの暴君
   // https://annict.com/works/14514
   { annict_id: 14514 },
+  // [1962-null] MOVIE: 人間動物園
+  // https://annict.com/works/14515
+  { annict_id: 14515, mal_id: 6953 },
 ]
