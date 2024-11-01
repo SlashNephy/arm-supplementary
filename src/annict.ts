@@ -41978,4 +41978,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 機動戦士ガンダムSEED FREEDOM ZERO
   // https://annict.com/works/14513
   { annict_id: 14513 },
+  // [1955-WINTER] MOVIE: やぶにらみの暴君
+  // https://annict.com/works/14514
+  { annict_id: 14514 },
 ]
