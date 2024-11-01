@@ -41972,4 +41972,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: カヤちゃんはコワくない
   // https://annict.com/works/14511
   { annict_id: 14511, mal_id: 60223 },
+  // [1995-SUMMER] MOVIE: アラビアンナイト
+  // https://annict.com/works/14512
+  { annict_id: 14512 },
 ]
