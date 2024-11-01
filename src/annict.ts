@@ -5291,7 +5291,7 @@ export const annict: ArmEntry[] = [
   // [2012-AUTUMN] TV: ひだまりスケッチ×ハニカム
   // https://annict.com/works/1766
   { annict_id: 1766, mal_id: 11239, syobocal_tid: 2679 },
-  // [2010-AUTUMN] TV: ひつじのショーン
+  // [2007-SPRING] TV: ひつじのショーン
   // https://annict.com/works/1767
   { annict_id: 1767 },
   // [2007-SPRING] TV: ひとひら
@@ -41960,4 +41960,7 @@ export const annict: ArmEntry[] = [
   // [2010-WINTER] WEB: neon THE ANIMATION
   // https://annict.com/works/14507
   { annict_id: 14507, mal_id: 17697 },
+  // [2016-AUTUMN] WEB: 逃猫ジュレ
+  // https://annict.com/works/14508
+  { annict_id: 14508, mal_id: 33914 },
 ]
