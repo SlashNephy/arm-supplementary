@@ -41975,4 +41975,7 @@ export const annict: ArmEntry[] = [
   // [1995-SUMMER] MOVIE: アラビアンナイト
   // https://annict.com/works/14512
   { annict_id: 14512 },
+  // [null-null] OTHER: 機動戦士ガンダムSEED FREEDOM ZERO
+  // https://annict.com/works/14513
+  { annict_id: 14513 },
 ]
