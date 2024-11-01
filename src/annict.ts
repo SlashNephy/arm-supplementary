@@ -17689,7 +17689,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5932, mal_id: 22057 },
   // [2014-AUTUMN] OVA: ニセコイ OVA
   // https://annict.com/works/5933
-  { annict_id: 5933 },
+  { annict_id: 5933, mal_id: 24227 },
   // [2013-AUTUMN] OVA: Wake Up, Girls! 出逢いの記録
   // https://annict.com/works/5934
   { annict_id: 5934, mal_id: 30445 },
@@ -22138,7 +22138,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 7654, mal_id: 42670, syobocal_tid: 6192 },
   // [2020-AUTUMN] MOVIE: 日本沈没2020 劇場編集版 -シズマヌキボウ-
   // https://annict.com/works/7655
-  { annict_id: 7655 },
+  { annict_id: 7655, mal_id: 44585 },
   // [2020-AUTUMN] TV: 大人にゃ恋の仕方がわからねぇ！
   // https://annict.com/works/7656
   { annict_id: 7656, mal_id: 42714, syobocal_tid: 5785 },
@@ -24250,7 +24250,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 8453, mal_id: 48633, syobocal_tid: 6715 },
   // [2021-SPRING] OTHER: Obey Me! スペシャルアニメ 「魔界大旅行」
   // https://annict.com/works/8454
-  { annict_id: 8454 },
+  { annict_id: 8454, mal_id: 49755 },
   // [2021-SUMMER] WEB: Obey Me!
   // https://annict.com/works/8455
   { annict_id: 8455, mal_id: 48641 },
@@ -41963,4 +41963,13 @@ export const annict: ArmEntry[] = [
   // [2016-AUTUMN] WEB: 逃猫ジュレ
   // https://annict.com/works/14508
   { annict_id: 14508, mal_id: 33914 },
+  // [2020-WINTER] WEB: ニンジャラ(Web)
+  // https://annict.com/works/14509
+  { annict_id: 14509, mal_id: 42658 },
+  // [2024-AUTUMN] WEB: ELEMON
+  // https://annict.com/works/14510
+  { annict_id: 14510, mal_id: 60221 },
+  // [null-null] TV: カヤちゃんはコワくない
+  // https://annict.com/works/14511
+  { annict_id: 14511, mal_id: 60223 },
 ]
