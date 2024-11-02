@@ -41977,11 +41977,14 @@ export const annict: ArmEntry[] = [
   { annict_id: 14512 },
   // [null-null] OTHER: 機動戦士ガンダムSEED FREEDOM ZERO
   // https://annict.com/works/14513
-  { annict_id: 14513 },
+  { annict_id: 14513, mal_id: 60230 },
   // [1955-WINTER] MOVIE: やぶにらみの暴君
   // https://annict.com/works/14514
   { annict_id: 14514 },
   // [1962-null] MOVIE: 人間動物園
   // https://annict.com/works/14515
   { annict_id: 14515, mal_id: 6953 },
+  // [null-null] OTHER: 異世界の沙汰は社畜次第
+  // https://annict.com/works/14516
+  { annict_id: 14516, mal_id: 60226 },
 ]
