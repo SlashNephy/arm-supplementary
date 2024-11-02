@@ -23098,10 +23098,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 8037, mal_id: 20703 },
   // [2002-null] OVA: おジャ魔女どれみの交通安全
   // https://annict.com/works/8038
-  { annict_id: 8038 },
+  { annict_id: 8038, mal_id: 12591 },
   // [2002-null] OVA: おジャ魔女どれみの自転車安全教室
   // https://annict.com/works/8039
-  { annict_id: 8039 },
+  { annict_id: 8039, mal_id: 12591 },
   // [2021-WINTER] MOVIE: ラーヤと龍の王国
   // https://annict.com/works/8040
   { annict_id: 8040 },
@@ -36922,7 +36922,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12820, mal_id: 7902 },
   // [2024-WINTER] WEB: MFゴースト BATTLE DIGEST
   // https://annict.com/works/12821
-  { annict_id: 12821 },
+  { annict_id: 12821, mal_id: 59019 },
   // [2024-WINTER] WEB: かえってきた！しんでゅありてぃ科学講座
   // https://annict.com/works/12822
   { annict_id: 12822 },
@@ -41987,4 +41987,10 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 異世界の沙汰は社畜次第
   // https://annict.com/works/14516
   { annict_id: 14516, mal_id: 60226 },
+  // [1992-SUMMER] OVA: おいら女蛮
+  // https://annict.com/works/14517
+  { annict_id: 14517, mal_id: 2790 },
+  // [1986-WINTER] OVA: 憶病なヴィーナス
+  // https://annict.com/works/14518
+  { annict_id: 14518, mal_id: 9826 },
 ]
