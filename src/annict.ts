@@ -41993,4 +41993,10 @@ export const annict: ArmEntry[] = [
   // [1986-WINTER] OVA: 憶病なヴィーナス
   // https://annict.com/works/14518
   { annict_id: 14518, mal_id: 9826 },
+  // [2000-AUTUMN] TV: ONE PIECE ルフィ落下！秘境・海のヘソの大冒険
+  // https://annict.com/works/14519
+  { annict_id: 14519, mal_id: 1094 },
+  // [2003-SPRING] TV: ONE PIECE 大海原にひらけ！でっかいでっカイ父の夢
+  // https://annict.com/works/14520
+  { annict_id: 14520, mal_id: 1237 },
 ]
