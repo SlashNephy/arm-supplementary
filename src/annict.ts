@@ -41014,7 +41014,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14191 },
   // [2024-AUTUMN] TV: ONE PIECE 魚人島編 SPECIAL EDITED VERSION
   // https://annict.com/works/14192
-  { annict_id: 14192, mal_id: 60108 },
+  { annict_id: 14192, mal_id: 60108, syobocal_tid: 7273 },
   // [2024-AUTUMN] TV: ONE PIECE FAN LETTER
   // https://annict.com/works/14193
   { annict_id: 14193, mal_id: 60022 },
