@@ -42005,4 +42005,7 @@ export const annict: ArmEntry[] = [
   // [2005-AUTUMN] TV: ONE PIECE 麦わらのルフィ親分捕物帖
   // https://annict.com/works/14522
   { annict_id: 14522, mal_id: 2020 },
+  // [2025-WINTER] MOVIE: Flow
+  // https://annict.com/works/14523
+  { annict_id: 14523 },
 ]
