@@ -11741,7 +11741,7 @@ export const annict: ArmEntry[] = [
   // [1987-WINTER] OVA: 学園特捜ヒカルオン
   // https://annict.com/works/3926
   { annict_id: 3926, mal_id: 1927 },
-  // [2010-WINTER] OVA: オレ様キングダム
+  // [2011-WINTER] OVA: オレ様キングダム
   // https://annict.com/works/3927
   { annict_id: 3927, mal_id: 9943 },
   // [2012-WINTER] OVA: ファインダーの標的
@@ -37228,7 +37228,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12923, mal_id: 58788 },
   // [2019-AUTUMN] OTHER: 大須のぶーちゃん
   // https://annict.com/works/12924
-  { annict_id: 12924 },
+  { annict_id: 12924, mal_id: 40482 },
   // [1926-null] MOVIE: 馬具田城の盗賊
   // https://annict.com/works/12925
   { annict_id: 12925, mal_id: 28041 },
@@ -42008,4 +42008,10 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] MOVIE: Flow
   // https://annict.com/works/14523
   { annict_id: 14523 },
+  // [2014-WINTER] OVA: 「おねがい☆ティーチャー」特別編～Experience～
+  // https://annict.com/works/14524
+  { annict_id: 14524, mal_id: 52863 },
+  // [2014-WINTER] OVA: 「おねがい☆ツインズ」特別編～Relations～
+  // https://annict.com/works/14525
+  { annict_id: 14525, mal_id: 52864 },
 ]
