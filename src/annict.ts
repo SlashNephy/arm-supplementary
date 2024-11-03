@@ -38360,7 +38360,7 @@ export const annict: ArmEntry[] = [
   // [1940-SUMMER] MOVIE: ザ・ボランティア・ワーカー
   // https://annict.com/works/13302
   { annict_id: 13302 },
-  // [null-null] WEB: 童話リベンジャーズ
+  // [2024-AUTUMN] WEB: 童話リベンジャーズ
   // https://annict.com/works/13303
   { annict_id: 13303, mal_id: 59091 },
   // [1945-SPRING] MOVIE: グーフィーの猛獣狩り
