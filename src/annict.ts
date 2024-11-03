@@ -41999,4 +41999,10 @@ export const annict: ArmEntry[] = [
   // [2003-SPRING] TV: ONE PIECE 大海原にひらけ！でっかいでっカイ父の夢
   // https://annict.com/works/14520
   { annict_id: 14520, mal_id: 1237 },
+  // [2003-AUTUMN] TV: ONE PIECE 守れ！最後の大舞台
+  // https://annict.com/works/14521
+  { annict_id: 14521, mal_id: 1238 },
+  // [2005-AUTUMN] TV: ONE PIECE 麦わらのルフィ親分捕物帖
+  // https://annict.com/works/14522
+  { annict_id: 14522, mal_id: 2020 },
 ]
