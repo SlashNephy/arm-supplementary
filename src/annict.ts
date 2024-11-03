@@ -42014,4 +42014,7 @@ export const annict: ArmEntry[] = [
   // [2014-WINTER] OVA: 「おねがい☆ツインズ」特別編～Relations～
   // https://annict.com/works/14525
   { annict_id: 14525, mal_id: 52864 },
+  // [1982-SUMMER] OVA: オズの魔法使い(映画)
+  // https://annict.com/works/14526
+  { annict_id: 14526, mal_id: 7876 },
 ]
