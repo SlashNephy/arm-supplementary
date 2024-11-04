@@ -42043,7 +42043,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14535, mal_id: 10466 },
   // [2006-SUMMER] OVA: pico ～ぼくの小さな夏物語～
   // https://annict.com/works/14536
-  { annict_id: 14536, mal_id: 1639 },
+  { annict_id: 14536 },
   // [2005-SUMMER] OVA: プレイヤーズ
   // https://annict.com/works/14537
   { annict_id: 14537, mal_id: 2455 },
