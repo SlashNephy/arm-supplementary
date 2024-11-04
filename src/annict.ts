@@ -42017,4 +42017,10 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] MOVIE: こまねこのかいがいりょこう
   // https://annict.com/works/14527
   { annict_id: 14527 },
+  // [2006-AUTUMN] MOVIE: こま撮りえいが こまねこ
+  // https://annict.com/works/14528
+  { annict_id: 14528, mal_id: 7547 },
+  // [2009-AUTUMN] MOVIE: こまねこのクリスマス ー迷子になったプレゼントー
+  // https://annict.com/works/14529
+  { annict_id: 14529, mal_id: 7461 },
 ]
