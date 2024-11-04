@@ -12124,7 +12124,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 4056, mal_id: 23133, syobocal_tid: 3365 },
   // [2014-SPRING] TV: ポケットモンスター XY特別編 最強メガシンカ ～Act I～
   // https://annict.com/works/4057
-  { annict_id: 4057, syobocal_tid: 3368 },
+  { annict_id: 4057, mal_id: 23301, syobocal_tid: 3368 },
   // [2014-SPRING] TV: GO‐GO たまごっち！
   // https://annict.com/works/4058
   { annict_id: 4058, mal_id: 23107, syobocal_tid: 3369 },
@@ -18721,7 +18721,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6279, mal_id: 38365, syobocal_tid: 5108 },
   // [2018-AUTUMN] TV: ピングー in ザ・シティ (第2シリーズ)
   // https://annict.com/works/6281
-  { annict_id: 6281, syobocal_tid: 5104 },
+  { annict_id: 6281, mal_id: 38262, syobocal_tid: 5104 },
   // [2019-AUTUMN] TV: 僕のヒーローアカデミア (第4期)
   // https://annict.com/works/6282
   { annict_id: 6282, mal_id: 38408, syobocal_tid: 5465 },
@@ -27193,10 +27193,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 9566, mal_id: 51653 },
   // [2022-SUMMER] MOVIE: アイカツ！ 10th STORY ～未来へのSTARWAY～ (2022)
   // https://annict.com/works/9567
-  { annict_id: 9567 },
+  { annict_id: 9567, mal_id: 52993 },
   // [2022-SUMMER] MOVIE: 劇場版 アイカツプラネット！
   // https://annict.com/works/9568
-  { annict_id: 9568 },
+  { annict_id: 9568, mal_id: 52992 },
   // [2016-AUTUMN] OVA: チア男子!! 映像特典OVA
   // https://annict.com/works/9569
   { annict_id: 9569, mal_id: 34548 },
@@ -33575,7 +33575,7 @@ export const annict: ArmEntry[] = [
   // [1984-WINTER] MOVIE: 忍者ハットリくん+パーマン 超能力ウォーズ
   // https://annict.com/works/11701
   { annict_id: 11701, mal_id: 29235 },
-  // [1985-WINTER] TV: 忍者ハットリくん+パーマン 忍者怪獣ジッポウVSミラクル卵
+  // [1985-WINTER] MOVIE: 忍者ハットリくん+パーマン 忍者怪獣ジッポウVSミラクル卵
   // https://annict.com/works/11702
   { annict_id: 11702, mal_id: 29233 },
   // [1985-WINTER] TV: 三国志(1985年)
@@ -42041,4 +42041,16 @@ export const annict: ArmEntry[] = [
   // [1991-WINTER] OVA: ファントム勇者伝説 ファントム強奪 vol.1 リターン・ザ・スカイ
   // https://annict.com/works/14535
   { annict_id: 14535, mal_id: 10466 },
+  // [2006-SUMMER] OVA: pico ～ぼくの小さな夏物語～
+  // https://annict.com/works/14536
+  { annict_id: 14536, mal_id: 1639 },
+  // [2005-SUMMER] OVA: プレイヤーズ
+  // https://annict.com/works/14537
+  { annict_id: 14537, mal_id: 2455 },
+  // [2011-SUMMER] MOVIE: プリキュアオールスターズDX the DANCE LIVE♥～ミラクルダンスステージへようこそ～
+  // https://annict.com/works/14538
+  { annict_id: 14538, mal_id: 11569 },
+  // [2007-AUTUMN] OVA: プリズム・アーク ぷりあーく!
+  // https://annict.com/works/14539
+  { annict_id: 14539, mal_id: 4566 },
 ]
