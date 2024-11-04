@@ -11546,9 +11546,6 @@ export const annict: ArmEntry[] = [
   // [1988-AUTUMN] MOVIE: 陽あたり良好! KA・SU・MI 夢の中に君がいた
   // https://annict.com/works/3861
   { annict_id: 3861, mal_id: 1552 },
-  // [1991-AUTUMN] OVA: 安達が原
-  // https://annict.com/works/3862
-  { annict_id: 3862, mal_id: 8181 },
   // [1986-AUTUMN] OVA: デルパワーX 爆発みらくる元気!!
   // https://annict.com/works/3863
   { annict_id: 3863, mal_id: 2058 },
@@ -42017,4 +42014,7 @@ export const annict: ArmEntry[] = [
   // [1982-SUMMER] OVA: オズの魔法使い(映画)
   // https://annict.com/works/14526
   { annict_id: 14526, mal_id: 7876 },
+  // [2024-AUTUMN] MOVIE: こまねこのかいがいりょこう
+  // https://annict.com/works/14527
+  { annict_id: 14527 },
 ]
