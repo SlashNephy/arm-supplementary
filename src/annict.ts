@@ -19336,7 +19336,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6489, mal_id: 2994 },
   // [1983-SPRING] TV: パーマン（1983）
   // https://annict.com/works/6490
-  { annict_id: 6490 },
+  { annict_id: 6490, mal_id: 11595 },
   // [2017-WINTER] OVA: 鬼平〜その男、長谷川平蔵〜
   // https://annict.com/works/6491
   { annict_id: 6491 },
@@ -19375,10 +19375,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 6502 },
   // [1984-AUTUMN] TV: パーマン「コピーワールドの謎」
   // https://annict.com/works/6503
-  { annict_id: 6503 },
+  { annict_id: 6503, mal_id: 30646 },
   // [1984-WINTER] TV: パーマン「バード星への道」
   // https://annict.com/works/6504
-  { annict_id: 6504 },
+  { annict_id: 6504, mal_id: 30646 },
   // [1970-AUTUMN] MOVIE: クレオパトラ
   // https://annict.com/works/6505
   { annict_id: 6505, mal_id: 2755 },
@@ -19810,7 +19810,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6682, mal_id: 39799, syobocal_tid: 5423 },
   // [2019-SPRING] OVA: PERSONA5 the Animation OVA
   // https://annict.com/works/6683
-  { annict_id: 6683 },
+  { annict_id: 6683, mal_id: 39591 },
   // [2018-SPRING] MOVIE: 劇場版 ひらがな男子 ～序～
   // https://annict.com/works/6684
   { annict_id: 6684, mal_id: 36749 },
@@ -42023,4 +42023,19 @@ export const annict: ArmEntry[] = [
   // [2009-AUTUMN] MOVIE: こまねこのクリスマス ー迷子になったプレゼントー
   // https://annict.com/works/14529
   { annict_id: 14529, mal_id: 7461 },
+  // [1986-SPRING] OVA: ペリカンロード クラブ・カルーチャ
+  // https://annict.com/works/14530
+  { annict_id: 14530, mal_id: 8324 },
+  // [1997-SUMMER] OVA: ペンダント
+  // https://annict.com/works/14531
+  { annict_id: 14531, mal_id: 4822 },
+  // [2018-SPRING] MOVIE: ピリオド オブ・ザ マウスマン
+  // https://annict.com/works/14532
+  { annict_id: 14532, mal_id: 51617 },
+  // [2012-SPRING] WEB: PES : Peace Eco Smile
+  // https://annict.com/works/14533
+  { annict_id: 14533, mal_id: 13427 },
+  // [2016-SPRING] MOVIE: ファントム オブ キル ―ZEROからの反逆―
+  // https://annict.com/works/14534
+  { annict_id: 14534, mal_id: 31927 },
 ]
