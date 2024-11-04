@@ -42053,4 +42053,22 @@ export const annict: ArmEntry[] = [
   // [2007-AUTUMN] OVA: プリズム・アーク ぷりあーく!
   // https://annict.com/works/14539
   { annict_id: 14539, mal_id: 4566 },
+  // [2010-SUMMER] OVA: プリズム☆ま～じカル PRISM Generations! まじかる☆ハイクオリティアニメ
+  // https://annict.com/works/14540
+  { annict_id: 14540, mal_id: 9506 },
+  // [1995-SUMMER] OVA: プライベート・アイ・ドル
+  // https://annict.com/works/14541
+  { annict_id: 14541, mal_id: 25983 },
+  // [1997-WINTER] OVA: 虹の少女隊プリズムナイツ
+  // https://annict.com/works/14542
+  { annict_id: 14542, mal_id: 54750 },
+  // [2016-SPRING] WEB: Promised Town
+  // https://annict.com/works/14543
+  { annict_id: 14543, mal_id: 33493 },
+  // [2013-WINTER] OVA: ぷちます！-プチ・アイドルマスター-「高槻ゴールド伝説すぺしゃる！！はるかさん祭り」
+  // https://annict.com/works/14544
+  { annict_id: 14544, mal_id: 18781 },
+  // [2014-WINTER] OVA: ぷちます!!-プチプチ・アイドルマスター-「ふゆ→こたつ←はる」
+  // https://annict.com/works/14545
+  { annict_id: 14545, mal_id: 23871 },
 ]
