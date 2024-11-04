@@ -15547,7 +15547,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5212, syobocal_tid: 4525 },
   // [2007-SUMMER] MOVIE: 映画 ピアノの森
   // https://annict.com/works/5213
-  { annict_id: 5213, syobocal_tid: 4417 },
+  { annict_id: 5213, mal_id: 2594, syobocal_tid: 4417 },
   // [2017-SPRING] TV: アイドルタイムプリパラ
   // https://annict.com/works/5214
   { annict_id: 5214, mal_id: 34787, syobocal_tid: 4541 },
@@ -42038,4 +42038,7 @@ export const annict: ArmEntry[] = [
   // [2016-SPRING] MOVIE: ファントム オブ キル ―ZEROからの反逆―
   // https://annict.com/works/14534
   { annict_id: 14534, mal_id: 31927 },
+  // [1991-WINTER] OVA: ファントム勇者伝説 ファントム強奪 vol.1 リターン・ザ・スカイ
+  // https://annict.com/works/14535
+  { annict_id: 14535, mal_id: 10466 },
 ]
