@@ -42068,4 +42068,7 @@ export const annict: ArmEntry[] = [
   // [2014-WINTER] OVA: ぷちます!!-プチプチ・アイドルマスター-「ふゆ→こたつ←はる」
   // https://annict.com/works/14545
   { annict_id: 14545, mal_id: 23871 },
+  // [2024-AUTUMN] TV: アドベンチャー・ウィズ・スーパーマン
+  // https://annict.com/works/14546
+  { annict_id: 14546 },
 ]
