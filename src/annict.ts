@@ -39575,7 +39575,7 @@ export const annict: ArmEntry[] = [
   // [1927-SUMMER] MOVIE: Alice in the Big League（原題）
   // https://annict.com/works/13708
   { annict_id: 13708 },
-  // [2025-null] TV: ロックは淑女の嗜みでして
+  // [2025-SPRING] TV: ロックは淑女の嗜みでして
   // https://annict.com/works/13709
   { annict_id: 13709, mal_id: 59360 },
   // [2025-WINTER] TV: この会社に好きな人がいます
@@ -42071,4 +42071,25 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: アドベンチャー・ウィズ・スーパーマン
   // https://annict.com/works/14546
   { annict_id: 14546 },
+  // [2022-null] WEB: ミッキーのクリスマスをすくえ
+  // https://annict.com/works/14547
+  { annict_id: 14547 },
+  // [2021-null] WEB: ミッキーとミニー クリスマスにねがいを
+  // https://annict.com/works/14548
+  { annict_id: 14548 },
+  // [2023-null] WEB: ミッキーのクリスマスのはなし
+  // https://annict.com/works/14549
+  { annict_id: 14549 },
+  // [2019-null] WEB: ミッキーとプルートの おかしなはなし
+  // https://annict.com/works/14550
+  { annict_id: 14550 },
+  // [2017-null] WEB: チップとデールの おかしなはなし シーズン1
+  // https://annict.com/works/14551
+  { annict_id: 14551 },
+  // [2018-null] WEB: チップとデールの おかしなはなし シーズン2
+  // https://annict.com/works/14552
+  { annict_id: 14552 },
+  // [2017-null] WEB: ダックテイルズ ショーツ
+  // https://annict.com/works/14553
+  { annict_id: 14553 },
 ]
