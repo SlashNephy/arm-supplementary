@@ -25436,7 +25436,7 @@ export const annict: ArmEntry[] = [
   // [2022-WINTER] WEB: 印西あるある物語
   // https://annict.com/works/8884
   { annict_id: 8884, mal_id: 49806 },
-  // [2021-null] TV: リクはよわくない ゆかいな仲間達
+  // [2021-SUMMER] TV: リクはよわくない ゆかいな仲間達
   // https://annict.com/works/8885
   { annict_id: 8885 },
   // [2012-SUMMER] MOVIE: モンスター・ホテル
@@ -42101,4 +42101,16 @@ export const annict: ArmEntry[] = [
   // [1990-AUTUMN] OVA: らんま1/2 熱闘歌合戦
   // https://annict.com/works/14556
   { annict_id: 14556, mal_id: 6713 },
+  // [2009-SPRING] OVA: ravex in TEZUKA WORLD
+  // https://annict.com/works/14557
+  { annict_id: 14557, mal_id: 6513 },
+  // [2002-WINTER] OVA: 零花～rayca
+  // https://annict.com/works/14558
+  { annict_id: 14558, mal_id: 3490 },
+  // [2010-SPRING] WEB: ロボと少女（仮）
+  // https://annict.com/works/14559
+  { annict_id: 14559, mal_id: 11661 },
+  // [2002-SUMMER] OVA: ロックマン 星に願いを
+  // https://annict.com/works/14560
+  { annict_id: 14560, mal_id: 1854 },
 ]
