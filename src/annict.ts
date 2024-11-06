@@ -42098,4 +42098,7 @@ export const annict: ArmEntry[] = [
   // [2021-WINTER] WEB: レインボーファインダー～ときめきは、すぐそばに。～
   // https://annict.com/works/14555
   { annict_id: 14555, mal_id: 48570 },
+  // [1990-AUTUMN] OVA: らんま1/2 熱闘歌合戦
+  // https://annict.com/works/14556
+  { annict_id: 14556, mal_id: 6713 },
 ]
