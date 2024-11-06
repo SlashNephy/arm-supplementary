@@ -25321,7 +25321,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 8845, mal_id: 49664, syobocal_tid: 6153 },
   // [2021-WINTER] WEB: 琉球タイムライン -未来少女と古の王-
   // https://annict.com/works/8846
-  { annict_id: 8846 },
+  { annict_id: 8846, mal_id: 53860 },
   // [2022-SPRING] TV: 群青のファンファーレ
   // https://annict.com/works/8847
   { annict_id: 8847, mal_id: 49691, syobocal_tid: 6306 },
@@ -28822,7 +28822,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10111, mal_id: 52815, syobocal_tid: 6464 },
   // [2022-WINTER] WEB: 琉球タイムライン2 -てだこのまち探訪-
   // https://annict.com/works/10112
-  { annict_id: 10112 },
+  { annict_id: 10112, mal_id: 53861 },
   // [2022-AUTUMN] TV: 羅小黒戦記 ぼくが選ぶ未来 TV放送版
   // https://annict.com/works/10113
   { annict_id: 10113, syobocal_tid: 6061 },
@@ -42113,4 +42113,7 @@ export const annict: ArmEntry[] = [
   // [2002-SUMMER] OVA: ロックマン 星に願いを
   // https://annict.com/works/14560
   { annict_id: 14560, mal_id: 1854 },
+  // [2014-WINTER] OVA: ロクの世界
+  // https://annict.com/works/14561
+  { annict_id: 14561, mal_id: 38049 },
 ]
