@@ -37213,7 +37213,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12919 },
   // [2024-AUTUMN] TV: お買いものパンダ！
   // https://annict.com/works/12920
-  { annict_id: 12920, mal_id: 58827 },
+  { annict_id: 12920, mal_id: 58827, syobocal_tid: 7274 },
   // [1960-WINTER] TV: 新しい動画 3つのはなし
   // https://annict.com/works/12921
   { annict_id: 12921, mal_id: 8774 },
@@ -42116,4 +42116,13 @@ export const annict: ArmEntry[] = [
   // [2014-WINTER] OVA: ロクの世界
   // https://annict.com/works/14561
   { annict_id: 14561, mal_id: 38049 },
+  // [null-null] TV: アルネの事件簿
+  // https://annict.com/works/14562
+  { annict_id: 14562, mal_id: 60255 },
+  // [null-null] OTHER: 矢野くんの普通の日々
+  // https://annict.com/works/14563
+  { annict_id: 14563, mal_id: 60254 },
+  // [null-null] TV: 異世界マンチキン ―HP1のままで最強最速ダンジョン攻略―
+  // https://annict.com/works/14564
+  { annict_id: 14564, mal_id: 60253 },
 ]
