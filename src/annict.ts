@@ -17548,7 +17548,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5886, mal_id: 10997, syobocal_tid: 2300 },
   // [2011-AUTUMN] OVA: R-15 #すぺしゃる「R15少年漂流記」
   // https://annict.com/works/5887
-  { annict_id: 5887 },
+  { annict_id: 5887, mal_id: 10933 },
   // [2012-WINTER] OVA: 森田さんは無口。 OAD
   // https://annict.com/works/5888
   { annict_id: 5888, mal_id: 12921 },
@@ -42089,7 +42089,13 @@ export const annict: ArmEntry[] = [
   // [2018-null] TV: チップとデールの おかしなはなし シーズン2
   // https://annict.com/works/14552
   { annict_id: 14552 },
-  // [2017-null] WEB: ダックテイルズ ショーツ
+  // [2017-null] TV: ダックテイルズ ショーツ
   // https://annict.com/works/14553
   { annict_id: 14553 },
+  // [2003-SUMMER] OVA: ラーゼフォン 間奏曲「彼女と彼女自身と」
+  // https://annict.com/works/14554
+  { annict_id: 14554, mal_id: 559 },
+  // [2021-WINTER] WEB: レインボーファインダー～ときめきは、すぐそばに。～
+  // https://annict.com/works/14555
+  { annict_id: 14555, mal_id: 48570 },
 ]
