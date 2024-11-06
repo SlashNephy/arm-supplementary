@@ -881,10 +881,10 @@ export const annict: ArmEntry[] = [
   // [1998-AUTUMN] TV: おじゃる丸（第1シリーズ）
   // https://annict.com/works/293
   { annict_id: 293, mal_id: 4459 },
-  // [1966-WINTER] TV: おそ松くん（1966）
+  // [1966-WINTER] TV: おそ松くん (1966年)
   // https://annict.com/works/294
   { annict_id: 294, mal_id: 9884 },
-  // [1988-WINTER] TV: おそ松くん (1988)
+  // [1988-WINTER] TV: おそ松くん (1988年)
   // https://annict.com/works/295
   { annict_id: 295, mal_id: 9883, syobocal_tid: 5037 },
   // [1991-WINTER] TV: おちゃめなふたご クレア学院物語
