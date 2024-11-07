@@ -21367,7 +21367,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 7333, mal_id: 41290 },
   // [2019-AUTUMN] WEB: 囀る鳥は羽ばたかない SNSミニアニメ「囀る動物はやるしかない！」
   // https://annict.com/works/7334
-  { annict_id: 7334 },
+  { annict_id: 7334, mal_id: 42913 },
   // [2021-WINTER] MOVIE: Tokyo 7th シスターズ -僕らは青空になる-
   // https://annict.com/works/7335
   { annict_id: 7335, mal_id: 41307 },
@@ -33188,9 +33188,9 @@ export const annict: ArmEntry[] = [
   // [1998-SPRING] OVA: ゴルゴ13〜QUEEN BEE〜
   // https://annict.com/works/11572
   { annict_id: 11572, mal_id: 1761 },
-  // [2024-null] WEB: 聖闘士星矢: Knights of the Zodiac バトル・サンクチュアリ Part 2
+  // [2024-SPRING] WEB: 聖闘士星矢: Knights of the Zodiac バトル・サンクチュアリ Part 2
   // https://annict.com/works/11573
-  { annict_id: 11573, syobocal_tid: 7062 },
+  { annict_id: 11573, mal_id: 53748, syobocal_tid: 7062 },
   // [2015-AUTUMN] WEB: マイリトルポニー: エクエストリア・ガールズ
   // https://annict.com/works/11574
   { annict_id: 11574 },
@@ -42131,4 +42131,37 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] WEB: エルマーのぼうけん
   // https://annict.com/works/14566
   { annict_id: 14566 },
+  // [1940-null] MOVIE: 点(1940年)
+  // https://annict.com/works/14567
+  { annict_id: 14567 },
+  // [1987-AUTUMN] TV: セントエルモ 光の来訪者
+  // https://annict.com/works/14568
+  { annict_id: 14568, mal_id: 8561 },
+  // [1994-AUTUMN] OVA: 埼玉暴走最前線 フラッグ! 死にものぐるいの青春!!
+  // https://annict.com/works/14569
+  { annict_id: 14569, mal_id: 23593 },
+  // [1988-SUMMER] MOVIE: 魁!!男塾(映画)
+  // https://annict.com/works/14570
+  { annict_id: 14570, mal_id: 4031 },
+  // [2022-SUMMER] TV: 炸裂！あまびえ姫。
+  // https://annict.com/works/14571
+  { annict_id: 14571, mal_id: 52337 },
+  // [2023-SPRING] TV: 炸裂！あまびえ姫。Season2
+  // https://annict.com/works/14572
+  { annict_id: 14572, mal_id: 54848 },
+  // [2024-WINTER] TV: 炸裂！あまびえ姫。Season3
+  // https://annict.com/works/14573
+  { annict_id: 14573, mal_id: 57881, syobocal_tid: 6968 },
+  // [2013-SUMMER] OVA: 参乗合体 トランスフォーマーGo!
+  // https://annict.com/works/14574
+  { annict_id: 14574, mal_id: 19171 },
+  // [2016-AUTUMN] MOVIE: 算法少女
+  // https://annict.com/works/14575
+  { annict_id: 14575, mal_id: 37878 },
+  // [1989-AUTUMN] OVA: WONDER "SAMMA" LAND サンタクロースつかまえた!
+  // https://annict.com/works/14576
+  { annict_id: 14576, mal_id: 29545 },
+  // [2021-WINTER] MOVIE: サンタ・カンパニー ～真夏のメリークリスマス～
+  // https://annict.com/works/14577
+  { annict_id: 14577, mal_id: 46491 },
 ]
