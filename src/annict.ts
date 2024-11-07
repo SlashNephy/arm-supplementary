@@ -42188,7 +42188,7 @@ export const annict: ArmEntry[] = [
   // [2010-SUMMER] WEB: 声優刑事
   // https://annict.com/works/14585
   { annict_id: 14585, mal_id: 18047 },
-  // [2021-WINTER] MOVIE: セカイが滅びる前にキミに会いたい
+  // [2021-WINTER] MOVIE: #セカイが滅びる前にキミに会いたい
   // https://annict.com/works/14586
   { annict_id: 14586, mal_id: 51466 },
 ]
