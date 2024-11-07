@@ -42164,4 +42164,25 @@ export const annict: ArmEntry[] = [
   // [2021-WINTER] MOVIE: サンタ・カンパニー ～真夏のメリークリスマス～
   // https://annict.com/works/14577
   { annict_id: 14577, mal_id: 46491 },
+  // [1992-AUTUMN] OVA: スクランブル・ウォーズ 突走れ!ゲノムトロフィーラリー
+  // https://annict.com/works/14578
+  { annict_id: 14578, mal_id: 2466 },
+  // [1989-SUMMER] OVA: いしいひさいちのナンダカンダ劇場
+  // https://annict.com/works/14579
+  { annict_id: 14579, mal_id: 28021 },
+  // [1989-AUTUMN] OVA: おがみ松吾郎
+  // https://annict.com/works/14580
+  { annict_id: 14580, mal_id: 19921 },
+  // [1989-SUMMER] OVA: 九鬼谷温泉艶笑騒動譚 まんだら屋の良太
+  // https://annict.com/works/14581
+  { annict_id: 14581, mal_id: 16994 },
+  // [1986-WINTER] OVA: ゲバゲバ笑タイム！
+  // https://annict.com/works/14582
+  { annict_id: 14582, mal_id: 21525 },
+  // [1985-SUMMER] OVA: ザ・チョコレートパニック・ピクチャーショー
+  // https://annict.com/works/14583
+  { annict_id: 14583, mal_id: 5622 },
+  // [1988-WINTER] OVA: ザナドゥ ドラゴンスレイヤー伝説
+  // https://annict.com/works/14584
+  { annict_id: 14584, mal_id: 5920 },
 ]
