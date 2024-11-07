@@ -42191,4 +42191,19 @@ export const annict: ArmEntry[] = [
   // [2021-WINTER] MOVIE: #セカイが滅びる前にキミに会いたい
   // https://annict.com/works/14586
   { annict_id: 14586, mal_id: 51466 },
+  // [1989-SPRING] OVA: 笑劇 新選組
+  // https://annict.com/works/14587
+  { annict_id: 14587, mal_id: 10369 },
+  // [1989-SUMMER] OVA: シンデレラ・エクスプレス
+  // https://annict.com/works/14588
+  { annict_id: 14588, mal_id: 6419 },
+  // [1986-AUTUMN] OVA: トゥインクルハート 銀河系までとどかない
+  // https://annict.com/works/14589
+  { annict_id: 14589, mal_id: 10355 },
+  // [1988-SUMMER] OVA: 遠山桜宇宙帖 奴の名はゴールド
+  // https://annict.com/works/14590
+  { annict_id: 14590, mal_id: 12399 },
+  // [1988-SUMMER] OVA: ドキドキ学園 決戦!! 妖奇大魔城
+  // https://annict.com/works/14591
+  { annict_id: 14591, mal_id: 19437 },
 ]
