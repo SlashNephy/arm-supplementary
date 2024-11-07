@@ -42125,4 +42125,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 異世界マンチキン ―HP1のままで最強最速ダンジョン攻略―
   // https://annict.com/works/14564
   { annict_id: 14564, mal_id: 60253 },
+  // [2025-SPRING] MOVIE: パフィンの小さな島
+  // https://annict.com/works/14565
+  { annict_id: 14565 },
 ]
