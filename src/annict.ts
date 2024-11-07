@@ -42128,4 +42128,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] MOVIE: パフィンの小さな島
   // https://annict.com/works/14565
   { annict_id: 14565 },
+  // [2022-AUTUMN] WEB: エルマーのぼうけん
+  // https://annict.com/works/14566
+  { annict_id: 14566 },
 ]
