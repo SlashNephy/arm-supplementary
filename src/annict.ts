@@ -42185,4 +42185,7 @@ export const annict: ArmEntry[] = [
   // [1988-WINTER] OVA: ザナドゥ ドラゴンスレイヤー伝説
   // https://annict.com/works/14584
   { annict_id: 14584, mal_id: 5920 },
+  // [2010-SUMMER] WEB: 声優刑事
+  // https://annict.com/works/14585
+  { annict_id: 14585, mal_id: 18047 },
 ]
