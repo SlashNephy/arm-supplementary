@@ -42206,4 +42206,13 @@ export const annict: ArmEntry[] = [
   // [1988-SUMMER] OVA: ドキドキ学園 決戦!! 妖奇大魔城
   // https://annict.com/works/14591
   { annict_id: 14591, mal_id: 19437 },
+  // [2022-WINTER] WEB: 関ヶ原合戦 岐路に立った垂井の武将たち
+  // https://annict.com/works/14592
+  { annict_id: 14592, mal_id: 51236 },
+  // [2009-SUMMER] OVA: ミニ戦国BASARA 長曾我部君と毛利君
+  // https://annict.com/works/14593
+  { annict_id: 14593, mal_id: 7857 },
+  // [2010-AUTUMN] OVA: ミニ戦国BASARA弐 月夜の片倉くん
+  // https://annict.com/works/14594
+  { annict_id: 14594, mal_id: 9630 },
 ]
