@@ -36794,7 +36794,7 @@ export const annict: ArmEntry[] = [
   // [1929-WINTER] MOVIE: ミッキーのオペラ見学
   // https://annict.com/works/12779
   { annict_id: 12779 },
-  // [null-null] TV: 一瞬で治療していたのに役立たずと追放された天才治癒師、闇ヒーラーとして楽しく生きる
+  // [2025-SPRING] TV: 一瞬で治療していたのに役立たずと追放された天才治癒師、闇ヒーラーとして楽しく生きる
   // https://annict.com/works/12780
   { annict_id: 12780, mal_id: 58359 },
   // [2024-SPRING] TV: 鬼滅の刃 刀鍛冶の里編 特別編集版
