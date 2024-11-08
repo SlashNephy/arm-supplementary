@@ -11881,7 +11881,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3973, mal_id: 22099, syobocal_tid: 3352 },
   // [2014-SPRING] TV: 史上最強の弟子ケンイチ 闇の襲撃
   // https://annict.com/works/3974
-  { annict_id: 3974, syobocal_tid: 3353 },
+  { annict_id: 3974, mal_id: 11813, syobocal_tid: 3353 },
   // [2014-SPRING] TV: 棺姫のチャイカ
   // https://annict.com/works/3975
   { annict_id: 3975, mal_id: 20853, syobocal_tid: 3319 },
