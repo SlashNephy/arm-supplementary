@@ -42245,4 +42245,10 @@ export const annict: ArmEntry[] = [
   // [2011-WINTER] TV: 島んちゅMiRiKa
   // https://annict.com/works/14604
   { annict_id: 14604, mal_id: 10407 },
+  // [2025-null] TV: ホテル・インヒューマンズ
+  // https://annict.com/works/14605
+  { annict_id: 14605, mal_id: 60260 },
+  // [1989-AUTUMN] OVA: のりピーちゃん
+  // https://annict.com/works/14606
+  { annict_id: 14606, mal_id: 33174 },
 ]
