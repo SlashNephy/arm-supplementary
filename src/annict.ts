@@ -39188,7 +39188,7 @@ export const annict: ArmEntry[] = [
   // [1924-SPRING] MOVIE: Alice's Spooky Adventure（原題）
   // https://annict.com/works/13579
   { annict_id: 13579 },
-  // [2025-null] TV: 戦隊大失格 2nd season
+  // [2025-SPRING] TV: 戦隊大失格 2nd season
   // https://annict.com/works/13580
   { annict_id: 13580, mal_id: 59189 },
   // [null-null] MOVIE: 劇場版 鬼滅の刃 無限城編 第一部
