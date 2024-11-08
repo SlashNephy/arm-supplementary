@@ -42242,4 +42242,7 @@ export const annict: ArmEntry[] = [
   // [1993-AUTUMN] OVA: しばいたろか
   // https://annict.com/works/14603
   { annict_id: 14603, mal_id: 18683 },
+  // [2011-WINTER] TV: 島んちゅMiRiKa
+  // https://annict.com/works/14604
+  { annict_id: 14604, mal_id: 10407 },
 ]
