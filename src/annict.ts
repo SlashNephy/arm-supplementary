@@ -42215,4 +42215,31 @@ export const annict: ArmEntry[] = [
   // [2010-AUTUMN] OVA: ミニ戦国BASARA弐 月夜の片倉くん
   // https://annict.com/works/14594
   { annict_id: 14594, mal_id: 9630 },
+  // [2009-SUMMER] OVA: 戦場のヴァルキュリア 戦ヴァル劇場
+  // https://annict.com/works/14595
+  { annict_id: 14595, mal_id: 7016 },
+  // [2002-SPRING] TV: ラーゼフォン 特別編集版「翼の記憶」
+  // https://annict.com/works/14596
+  { annict_id: 14596, mal_id: 5288 },
+  // [2010-WINTER] OVA: SEX PISTOLS
+  // https://annict.com/works/14597
+  { annict_id: 14597, mal_id: 5719 },
+  // [2012-WINTER] WEB: シャケちゃん
+  // https://annict.com/works/14598
+  { annict_id: 14598, mal_id: 38957 },
+  // [2002-AUTUMN] OVA: シャーマンキング 特別総集編
+  // https://annict.com/works/14599
+  { annict_id: 14599, mal_id: 3861 },
+  // [2004-WINTER] OVA: S.F.O.V シャーマン・ファイト・オブ・ヴォーカル 短編OVA
+  // https://annict.com/works/14600
+  { annict_id: 14600 },
+  // [2001-SUMMER] MOVIE: シェンムー・ザ・ムービー
+  // https://annict.com/works/14601
+  { annict_id: 14601, mal_id: 4524 },
+  // [1991-SUMMER] OVA: しあわせってなあに
+  // https://annict.com/works/14602
+  { annict_id: 14602, mal_id: 13441 },
+  // [1993-AUTUMN] OVA: しばいたろか
+  // https://annict.com/works/14603
+  { annict_id: 14603, mal_id: 18683 },
 ]
