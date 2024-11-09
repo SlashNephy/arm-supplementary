@@ -42263,4 +42263,7 @@ export const annict: ArmEntry[] = [
   // [2015-WINTER] WEB: 進研ゼミ高校講座「ターンオーバー」
   // https://annict.com/works/14610
   { annict_id: 14610, mal_id: 30358 },
+  // [1997-WINTER] OVA: 神秘の世界エルハザード2
+  // https://annict.com/works/14611
+  { annict_id: 14611, mal_id: 118 },
 ]
