@@ -17539,7 +17539,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5883 },
   // [2013-WINTER] OVA: SKET DANCE 第EX話「妹の悩みに悩む兄に悩む妹とその仲間達」
   // https://annict.com/works/5884
-  { annict_id: 5884 },
+  { annict_id: 5884, mal_id: 16395 },
   // [2011-SPRING] TV: フジログ シーズン1
   // https://annict.com/works/5885
   { annict_id: 5885, mal_id: 10533, syobocal_tid: 2179 },
@@ -30934,7 +30934,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10818 },
   // [2025-WINTER] TV: メダリスト
   // https://annict.com/works/10819
-  { annict_id: 10819, mal_id: 55318 },
+  { annict_id: 10819, mal_id: 55318, syobocal_tid: 7276 },
   // [1996-AUTUMN] OVA: ミッキーのアルバイトは危機一髪
   // https://annict.com/works/10820
   { annict_id: 10820 },
@@ -39367,7 +39367,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13638, mal_id: 59512, syobocal_tid: 7244 },
   // [2024-AUTUMN] TV: まぁるい彼女と残念な彼氏 2期
   // https://annict.com/works/13639
-  { annict_id: 13639 },
+  { annict_id: 13639, syobocal_tid: 7277 },
   // [2024-SUMMER] TV: JOCHUM
   // https://annict.com/works/13640
   { annict_id: 13640, mal_id: 58944 },
@@ -42269,4 +42269,25 @@ export const annict: ArmEntry[] = [
   // [2005-WINTER] TV: 戦国英雄伝説 新釈 眞田十勇士 The Animation プロローグ「上田城攻防」
   // https://annict.com/works/14612
   { annict_id: 14612, mal_id: 989 },
+  // [2005-SPRING] OVA: SHUFFLE!プロローグ
+  // https://annict.com/works/14613
+  { annict_id: 14613, mal_id: 7396 },
+  // [1990-AUTUMN] OVA: 修羅之介斬魔劍 死鎌紋の男
+  // https://annict.com/works/14614
+  { annict_id: 14614, mal_id: 1451 },
+  // [2024-WINTER] MOVIE: シノアリス 一番最後のモノガタリ
+  // https://annict.com/works/14615
+  { annict_id: 14615, mal_id: 59224 },
+  // [2009-SPRING] OVA: 宇宙をかける少女 ピクチャードラマ
+  // https://annict.com/works/14616
+  { annict_id: 14616, mal_id: 6437 },
+  // [1995-AUTUMN] OVA: それいけ!アンパンマン クリスマスだ!みんな集まれ
+  // https://annict.com/works/14617
+  { annict_id: 14617, mal_id: 58240 },
+  // [2011-SPRING] WEB: AGC38「それって♡だからね!」
+  // https://annict.com/works/14618
+  { annict_id: 14618, mal_id: 10859 },
+  // [1991-WINTER] OVA: 捜獣戦士サイキック・ウォーズ
+  // https://annict.com/works/14619
+  { annict_id: 14619, mal_id: 1345 },
 ]
