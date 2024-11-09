@@ -42290,4 +42290,7 @@ export const annict: ArmEntry[] = [
   // [1991-WINTER] OVA: 捜獣戦士サイキック・ウォーズ
   // https://annict.com/works/14619
   { annict_id: 14619, mal_id: 1345 },
+  // [null-null] TV: ゆるキャン△ SEASON４
+  // https://annict.com/works/14620
+  { annict_id: 14620 },
 ]
