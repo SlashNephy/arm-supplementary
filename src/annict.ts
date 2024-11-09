@@ -42292,7 +42292,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14619, mal_id: 1345 },
   // [null-null] TV: ゆるキャン△ SEASON４
   // https://annict.com/works/14620
-  { annict_id: 14620 },
+  { annict_id: 14620, mal_id: 60267 },
   // [2016-SPRING] WEB: 「ソウルワーカー」公式3Dアニメーション
   // https://annict.com/works/14621
   { annict_id: 14621, mal_id: 31402 },
