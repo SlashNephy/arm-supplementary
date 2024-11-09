@@ -21937,7 +21937,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 7588, mal_id: 42391, syobocal_tid: 5774 },
   // [2020-SUMMER] OTHER: バジャのスタジオ ～バジャのみた海～
   // https://annict.com/works/7589
-  { annict_id: 7589, syobocal_tid: 5733 },
+  { annict_id: 7589, mal_id: 39735, syobocal_tid: 5733 },
   // [2020-SUMMER] WEB: トランスフォーマー: ウォー・フォー・サイバトロン: シージ
   // https://annict.com/works/7590
   { annict_id: 7590 },
@@ -42293,4 +42293,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: ゆるキャン△ SEASON４
   // https://annict.com/works/14620
   { annict_id: 14620 },
+  // [2016-SPRING] WEB: 「ソウルワーカー」公式3Dアニメーション
+  // https://annict.com/works/14621
+  { annict_id: 14621, mal_id: 31402 },
 ]
