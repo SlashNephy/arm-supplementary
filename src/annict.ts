@@ -42305,4 +42305,16 @@ export const annict: ArmEntry[] = [
   // [1992-SUMMER] OVA: STAR DUST
   // https://annict.com/works/14624
   { annict_id: 14624, mal_id: 18703 },
+  // [2019-SPRING] MOVIE: バイオレンス・ボイジャー
+  // https://annict.com/works/14625
+  { annict_id: 14625 },
+  // [2013-SPRING] MOVIE: 燃える仏像人間
+  // https://annict.com/works/14626
+  { annict_id: 14626 },
+  // [1986-SPRING] OVA: バイオレンスジャック ハーレム・ボンバー
+  // https://annict.com/works/14627
+  { annict_id: 14627, mal_id: 1341 },
+  // [1990-AUTUMN] OVA: バイオレンスジャック ヘルスウインド編
+  // https://annict.com/works/14628
+  { annict_id: 14628, mal_id: 1343 },
 ]
