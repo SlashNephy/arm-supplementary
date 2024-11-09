@@ -18760,7 +18760,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6293, mal_id: 38476, syobocal_tid: 5517 },
   // [2017-SPRING] OVA: 装神少女まとい 第13話(OVA)「株式会社ナイツ・バスターズ」
   // https://annict.com/works/6294
-  { annict_id: 6294, mal_id: 33668 },
+  { annict_id: 6294, mal_id: 35458 },
   // [2017-AUTUMN] OVA: To LOVEる -とらぶる- OVA 「Multiplication ～前から後ろから～」
   // https://annict.com/works/6295
   { annict_id: 6295, mal_id: 35000 },
