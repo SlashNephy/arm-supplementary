@@ -20599,7 +20599,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6979, mal_id: 40367, syobocal_tid: 5479 },
   // [1985-AUTUMN] OVA: うる星やつら 了子の９月のお茶会
   // https://annict.com/works/6980
-  { annict_id: 6980 },
+  { annict_id: 6980, mal_id: 1919 },
   // [2019-SPRING] WEB: ラブ、デス&ロボット シリーズ1
   // https://annict.com/works/6981
   { annict_id: 6981 },
@@ -20773,34 +20773,34 @@ export const annict: ArmEntry[] = [
   { annict_id: 7069, mal_id: 3292 },
   // [1986-SUMMER] OVA: うる星やつら アイム・THE・終ちゃん
   // https://annict.com/works/7070
-  { annict_id: 7070 },
+  { annict_id: 7070, mal_id: 1919 },
   // [1987-SUMMER] OVA: うる星やつら'87 夢の仕掛人、因幡くん登場！ラムの未来はどうなるっちゃ!?
   // https://annict.com/works/7071
-  { annict_id: 7071 },
+  { annict_id: 7071, mal_id: 1919 },
   // [1988-SUMMER] OVA: うる星やつら 怒れシャーベット
   // https://annict.com/works/7072
-  { annict_id: 7072 },
+  { annict_id: 7072, mal_id: 1919 },
   // [1988-SUMMER] OVA: うる星やつら 渚のフィアンセ
   // https://annict.com/works/7073
-  { annict_id: 7073 },
+  { annict_id: 7073, mal_id: 1919 },
   // [1988-SUMMER] OVA: うる星やつら 電気仕掛けの御庭番
   // https://annict.com/works/7074
-  { annict_id: 7074 },
+  { annict_id: 7074, mal_id: 1919 },
   // [1989-SUMMER] OVA: うる星やつら 月に吠える
   // https://annict.com/works/7075
-  { annict_id: 7075 },
+  { annict_id: 7075, mal_id: 1919 },
   // [1989-AUTUMN] OVA: うる星やつら ヤギさんとチーズ
   // https://annict.com/works/7076
-  { annict_id: 7076 },
+  { annict_id: 7076, mal_id: 1919 },
   // [1989-AUTUMN] OVA: うる星やつら ハートをつかめ
   // https://annict.com/works/7077
-  { annict_id: 7077 },
+  { annict_id: 7077, mal_id: 1919 },
   // [1991-SPRING] OVA: うる星やつら 乙女ばしかの恐怖
   // https://annict.com/works/7078
-  { annict_id: 7078 },
+  { annict_id: 7078, mal_id: 1919 },
   // [1991-SPRING] OVA: うる星やつら 霊魂とデート
   // https://annict.com/works/7079
-  { annict_id: 7079 },
+  { annict_id: 7079, mal_id: 1919 },
   // [2008-SUMMER] OVA: It's a Rumic World うる星やつら〜ザ・障害物水泳大会
   // https://annict.com/works/7080
   { annict_id: 7080, mal_id: 6567 },
@@ -23755,19 +23755,19 @@ export const annict: ArmEntry[] = [
   { annict_id: 8257 },
   // [2001-WINTER] OVA: 少年科學倶楽部
   // https://annict.com/works/8258
-  { annict_id: 8258 },
+  { annict_id: 8258, mal_id: 2420 },
   // [1992-SPRING] OVA: チャイナさんの憂鬱
   // https://annict.com/works/8259
-  { annict_id: 8259 },
+  { annict_id: 8259, mal_id: 2419 },
   // [2001-WINTER] OVA: チャイナさんの縮小
   // https://annict.com/works/8260
-  { annict_id: 8260 },
+  { annict_id: 8260, mal_id: 6245 },
   // [2001-SUMMER] OVA: チャイナさんの惑星
   // https://annict.com/works/8261
-  { annict_id: 8261 },
+  { annict_id: 8261, mal_id: 6245 },
   // [2004-WINTER] OVA: チャイナさんの盃
   // https://annict.com/works/8262
-  { annict_id: 8262 },
+  { annict_id: 8262, mal_id: 6245 },
   // [1985-SUMMER] TV: 悪魔島のプリンス 三つ目がとおる
   // https://annict.com/works/8263
   { annict_id: 8263, mal_id: 19773 },
@@ -42296,4 +42296,13 @@ export const annict: ArmEntry[] = [
   // [2016-SPRING] WEB: 「ソウルワーカー」公式3Dアニメーション
   // https://annict.com/works/14621
   { annict_id: 14621, mal_id: 31402 },
+  // [1998-AUTUMN] OVA: スペクトラルフォース
+  // https://annict.com/works/14622
+  { annict_id: 14622, mal_id: 1585 },
+  // [2005-SPRING] OVA: スペクトラルフォース クロニクル ディバージェンス
+  // https://annict.com/works/14623
+  { annict_id: 14623, mal_id: 3695 },
+  // [1992-SUMMER] OVA: STAR DUST
+  // https://annict.com/works/14624
+  { annict_id: 14624, mal_id: 18703 },
 ]
