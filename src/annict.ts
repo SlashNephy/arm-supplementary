@@ -42266,4 +42266,7 @@ export const annict: ArmEntry[] = [
   // [1997-WINTER] OVA: 神秘の世界エルハザード2
   // https://annict.com/works/14611
   { annict_id: 14611, mal_id: 118 },
+  // [2005-WINTER] TV: 戦国英雄伝説 新釈 眞田十勇士 The Animation プロローグ「上田城攻防」
+  // https://annict.com/works/14612
+  { annict_id: 14612, mal_id: 989 },
 ]
