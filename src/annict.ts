@@ -42251,4 +42251,16 @@ export const annict: ArmEntry[] = [
   // [1989-AUTUMN] OVA: のりピーちゃん
   // https://annict.com/works/14606
   { annict_id: 14606, mal_id: 33174 },
+  // [1994-SPRING] OVA: 新・キューティーハニー
+  // https://annict.com/works/14607
+  { annict_id: 14607, mal_id: 2497 },
+  // [2008-WINTER] OVA: シャイナ・ダルク ～黒き月の王と蒼碧の月の姫君～ アニメミュージッククリップ
+  // https://annict.com/works/14608
+  { annict_id: 14608, mal_id: 3642 },
+  // [2012-SPRING] OVA: 進研ゼミ高校講座 高校デビュー大成功DVD
+  // https://annict.com/works/14609
+  { annict_id: 14609, mal_id: 26159 },
+  // [2015-WINTER] WEB: 進研ゼミ高校講座「ターンオーバー」
+  // https://annict.com/works/14610
+  { annict_id: 14610, mal_id: 30358 },
 ]
