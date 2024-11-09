@@ -13129,10 +13129,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 4394, syobocal_tid: 3692 },
   // [2015-WINTER] OVA: えくそだすっ！
   // https://annict.com/works/4395
-  { annict_id: 4395 },
+  { annict_id: 4395, mal_id: 28105 },
   // [2015-SPRING] OVA: 第三飛行少女隊
   // https://annict.com/works/4396
-  { annict_id: 4396 },
+  { annict_id: 4396, mal_id: 28105 },
   // [2015-SPRING] TV: ジュエルペット マジカルチェンジ
   // https://annict.com/works/4397
   { annict_id: 4397, mal_id: 30030, syobocal_tid: 3731 },
