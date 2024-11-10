@@ -42347,4 +42347,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 忘却バッテリー 第2期
   // https://annict.com/works/14638
   { annict_id: 14638, mal_id: 60275 },
+  // [2025-WINTER] MOVIE: 映画 『ヒプノシスマイク -Division Rap Battle-』
+  // https://annict.com/works/14639
+  { annict_id: 14639, mal_id: 60273 },
 ]
