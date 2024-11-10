@@ -42317,4 +42317,10 @@ export const annict: ArmEntry[] = [
   // [1990-AUTUMN] OVA: バイオレンスジャック ヘルスウインド編
   // https://annict.com/works/14628
   { annict_id: 14628, mal_id: 1343 },
+  // [1988-SUMMER] OVA: 秘伝忍法帳 雷王白獅子五番勝負 五重島の戦い
+  // https://annict.com/works/14629
+  { annict_id: 14629 },
+  // [1989-SPRING] OVA: 藤子不二雄Aのアニメ・ゴルフ・ルールブック
+  // https://annict.com/works/14630
+  { annict_id: 14630 },
 ]
