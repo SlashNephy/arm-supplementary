@@ -19147,7 +19147,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6424 },
   // [2018-AUTUMN] TV: シルバニアファミリー ミニストーリー シーズン2
   // https://annict.com/works/6425
-  { annict_id: 6425 },
+  { annict_id: 6425, mal_id: 38560 },
   // [2018-AUTUMN] OVA: あそびあそばせ OVA「コスプレ大会／大人の私へ」
   // https://annict.com/works/6426
   { annict_id: 6426, mal_id: 37996 },
@@ -20587,7 +20587,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6975 },
   // [2019-AUTUMN] TV: シルバニアファミリー ミニストーリー クローバー
   // https://annict.com/works/6976
-  { annict_id: 6976, syobocal_tid: 5474 },
+  { annict_id: 6976, mal_id: 40455, syobocal_tid: 5474 },
   // [2019-AUTUMN] MOVIE: 劇場版 新幹線変形ロボ シンカリオン 未来からきた神速のALFA-X
   // https://annict.com/works/6977
   { annict_id: 6977, mal_id: 39967, syobocal_tid: 5898 },
@@ -22360,7 +22360,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 7729, mal_id: 40211 },
   // [2020-AUTUMN] TV: シルバニアファミリー ミニストーリー ピオニー
   // https://annict.com/works/7730
-  { annict_id: 7730, syobocal_tid: 5823 },
+  { annict_id: 7730, mal_id: 52968, syobocal_tid: 5823 },
   // [2020-AUTUMN] TV: ゲボイデ＝ボイデ
   // https://annict.com/works/7731
   { annict_id: 7731, mal_id: 43350, syobocal_tid: 5824 },
@@ -26410,7 +26410,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9272, mal_id: 8403 },
   // [2012-SUMMER] MOVIE: スターシップ・トゥルーパーズ インベイジョン
   // https://annict.com/works/9273
-  { annict_id: 9273 },
+  { annict_id: 9273, mal_id: 14629 },
   // [2022-WINTER] WEB: 家をめぐる3つの物語
   // https://annict.com/works/9274
   { annict_id: 9274 },
@@ -42323,4 +42323,22 @@ export const annict: ArmEntry[] = [
   // [1989-SPRING] OVA: 藤子不二雄Aのアニメ・ゴルフ・ルールブック
   // https://annict.com/works/14630
   { annict_id: 14630 },
+  // [2011-WINTER] MOVIE: スターリーテイルズ ～星座は時をこえて～
+  // https://annict.com/works/14631
+  { annict_id: 14631, mal_id: 32563 },
+  // [2004-SPRING] OVA: ステディ×スタディ
+  // https://annict.com/works/14632
+  { annict_id: 14632, mal_id: 3497 },
+  // [1990-SPRING] OVA: スーパーリアル麻雀 ミキ・カスミ・ショーコのはじめまして
+  // https://annict.com/works/14633
+  { annict_id: 14633, mal_id: 17991 },
+  // [1990-AUTUMN] OVA: 麻雀バトルスクランブル 混乱的戦斗麻雀
+  // https://annict.com/works/14634
+  { annict_id: 14634, mal_id: 17989 },
+  // [2015-AUTUMN] WEB: スーパーショートコミックス
+  // https://annict.com/works/14635
+  { annict_id: 14635, mal_id: 30013 },
+  // [2010-SPRING] WEB: 進め！ガチムチ3兄弟
+  // https://annict.com/works/14636
+  { annict_id: 14636, mal_id: 8957 },
 ]
