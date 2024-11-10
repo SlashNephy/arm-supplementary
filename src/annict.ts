@@ -40526,7 +40526,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: マーダーミステリー・オブ・ザ・デッド
   // https://annict.com/works/14029
   { annict_id: 14029, mal_id: 59892, syobocal_tid: 7267 },
-  // [2025-SPRING] WEB: Devil May Cry
+  // [2025-SPRING] WEB: Devil May Cry  (Netflixオリジナル)
   // https://annict.com/works/14030
   { annict_id: 14030 },
   // [2024-AUTUMN] WEB: トゥームレイダー: レジェンド・オブ・ララ・クロフト
@@ -42350,4 +42350,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] MOVIE: 映画 『ヒプノシスマイク -Division Rap Battle-』
   // https://annict.com/works/14639
   { annict_id: 14639, mal_id: 60273 },
+  // [2025-null] WEB: リヴァイアサン
+  // https://annict.com/works/14640
+  { annict_id: 14640, mal_id: 59005 },
 ]
