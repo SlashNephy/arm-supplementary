@@ -42346,5 +42346,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 14637, mal_id: 8644 },
   // [null-null] TV: 忘却バッテリー 第2期
   // https://annict.com/works/14638
-  { annict_id: 14638 },
+  { annict_id: 14638, mal_id: 60275 },
 ]
