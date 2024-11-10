@@ -42341,4 +42341,7 @@ export const annict: ArmEntry[] = [
   // [2010-SPRING] WEB: 進め！ガチムチ3兄弟
   // https://annict.com/works/14636
   { annict_id: 14636, mal_id: 8957 },
+  // [2007-SPRING] TV: シルバニアファミリー(2007年)
+  // https://annict.com/works/14637
+  { annict_id: 14637, mal_id: 8644 },
 ]
