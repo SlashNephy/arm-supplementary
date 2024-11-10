@@ -24209,7 +24209,7 @@ export const annict: ArmEntry[] = [
   // [2021-SPRING] TV: 猫ジョッキー
   // https://annict.com/works/8409
   { annict_id: 8409, mal_id: 48790, syobocal_tid: 6011 },
-  // [2025-WINTER] MOVIE: 劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉
+  // [2025-AUTUMN] MOVIE: 劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉
   // https://annict.com/works/8410
   { annict_id: 8410, mal_id: 48820 },
   // [2022-SPRING] MOVIE: 劇場版 Free!-the Final Stroke- 後編
@@ -42344,4 +42344,7 @@ export const annict: ArmEntry[] = [
   // [2007-SPRING] TV: シルバニアファミリー(2007年)
   // https://annict.com/works/14637
   { annict_id: 14637, mal_id: 8644 },
+  // [null-null] TV: 忘却バッテリー 第2期
+  // https://annict.com/works/14638
+  { annict_id: 14638 },
 ]
