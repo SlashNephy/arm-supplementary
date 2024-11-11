@@ -42362,4 +42362,7 @@ export const annict: ArmEntry[] = [
   // [1932-WINTER] MOVIE: ビン坊の屑屋
   // https://annict.com/works/14643
   { annict_id: 14643 },
+  // [2018-SPRING] WEB: 食べちゃったっていいのにな!
+  // https://annict.com/works/14644
+  { annict_id: 14644, mal_id: 37409 },
 ]
