@@ -42353,4 +42353,7 @@ export const annict: ArmEntry[] = [
   // [2025-null] WEB: リヴァイアサン
   // https://annict.com/works/14640
   { annict_id: 14640, mal_id: 59005 },
+  // [1964-SPRING] MOVIE: 狼少年ケン 月夜の出来事
+  // https://annict.com/works/14641
+  { annict_id: 14641 },
 ]
