@@ -42356,4 +42356,10 @@ export const annict: ArmEntry[] = [
   // [1964-SPRING] MOVIE: 狼少年ケン 月夜の出来事
   // https://annict.com/works/14641
   { annict_id: 14641 },
+  // [1931-AUTUMN] MOVIE: ベティと狼
+  // https://annict.com/works/14642
+  { annict_id: 14642 },
+  // [1932-WINTER] MOVIE: ビン坊の屑屋
+  // https://annict.com/works/14643
+  { annict_id: 14643 },
 ]
