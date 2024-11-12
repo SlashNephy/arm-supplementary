@@ -42383,4 +42383,7 @@ export const annict: ArmEntry[] = [
   // [1994-SUMMER] OVA: 他人の関係
   // https://annict.com/works/14650
   { annict_id: 14650, mal_id: 4451 },
+  // [2025-null] TV: 全力ウサギ 第2期
+  // https://annict.com/works/14651
+  { annict_id: 14651, mal_id: 60280 },
 ]
