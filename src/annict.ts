@@ -22738,7 +22738,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 7888, syobocal_tid: 5905 },
   // [2021-WINTER] WEB: タイバン！
   // https://annict.com/works/7889
-  { annict_id: 7889 },
+  { annict_id: 7889, mal_id: 48645 },
   // [2021-WINTER] TV: キンタマーニドッグ
   // https://annict.com/works/7890
   { annict_id: 7890, syobocal_tid: 5911 },
@@ -42365,4 +42365,22 @@ export const annict: ArmEntry[] = [
   // [2018-SPRING] WEB: 食べちゃったっていいのにな!
   // https://annict.com/works/14644
   { annict_id: 14644, mal_id: 37409 },
+  // [1986-SPRING] MOVIE: 旅立ち〜亜美・終章〜
+  // https://annict.com/works/14645
+  { annict_id: 14645, mal_id: 5640 },
+  // [2009-AUTUMN] MOVIE: TAILENDERS
+  // https://annict.com/works/14646
+  { annict_id: 14646, mal_id: 6162 },
+  // [2012-WINTER] WEB: ているず おぶ 劇場
+  // https://annict.com/works/14647
+  { annict_id: 14647, mal_id: 12699 },
+  // [2018-SPRING] WEB: ているず おぶ HR
+  // https://annict.com/works/14648
+  { annict_id: 14648, mal_id: 38110 },
+  // [2018-SPRING] WEB: 大体5分くらいで分かるRPG『TALES OF パペット』
+  // https://annict.com/works/14649
+  { annict_id: 14649, mal_id: 38112 },
+  // [1994-SUMMER] OVA: 他人の関係
+  // https://annict.com/works/14650
+  { annict_id: 14650, mal_id: 4451 },
 ]
