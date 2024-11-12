@@ -37019,7 +37019,7 @@ export const annict: ArmEntry[] = [
   // [2025-null] MOVIE: Thunderbolt Fantasy 東離劍遊紀 最終章
   // https://annict.com/works/12854
   { annict_id: 12854 },
-  // [null-null] OTHER: HIGH CARD #25 THE FLOWERS BLOOM
+  // [2024-AUTUMN] WEB: HIGH CARD #25 THE FLOWERS BLOOM
   // https://annict.com/works/12855
   { annict_id: 12855, mal_id: 58531 },
   // [2024-SUMMER] TV: 現代誤訳
