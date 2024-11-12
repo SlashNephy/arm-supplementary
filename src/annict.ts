@@ -42386,4 +42386,7 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: 全力ウサギ 第2期
   // https://annict.com/works/14651
   { annict_id: 14651, mal_id: 60280 },
+  // [2025-WINTER] TV: カードファイト!! ヴァンガード Divinez デラックス編
+  // https://annict.com/works/14652
+  { annict_id: 14652, mal_id: 54144 },
 ]
