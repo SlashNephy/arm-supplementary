@@ -14827,7 +14827,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 4971, mal_id: 885 },
   // [2013-SPRING] MOVIE: キックハート
   // https://annict.com/works/4972
-  { annict_id: 4972 },
+  { annict_id: 4972, mal_id: 16149 },
   // [2016-SUMMER] TV: ダンガンロンパ３ –The End of 希望ヶ峰学園– 希望編
   // https://annict.com/works/4973
   { annict_id: 4973, mal_id: 34103 },
@@ -18152,7 +18152,7 @@ export const annict: ArmEntry[] = [
   // [2013-AUTUMN] MOVIE: 劇場版 HUNTER×HUNTER -The LAST MISSION-
   // https://annict.com/works/6090
   { annict_id: 6090, mal_id: 19951, syobocal_tid: 3659 },
-  // [2018-SUMMER] TV: ミッキーマウスとロードレーサーズ
+  // [2017-SPRING] TV: ミッキーマウスとロードレーサーズ
   // https://annict.com/works/6091
   { annict_id: 6091, syobocal_tid: 5004 },
   // [2018-SUMMER] TV: じょしおちっ！～2階から女の子が…降ってきた!?～
