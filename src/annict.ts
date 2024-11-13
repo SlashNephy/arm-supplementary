@@ -18949,7 +18949,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6358, mal_id: 38691, syobocal_tid: 5361 },
   // [2018-SPRING] OVA: アイドルマスター SideM 特別編「PASSION of the PASSION」
   // https://annict.com/works/6359
-  { annict_id: 6359 },
+  { annict_id: 6359, mal_id: 36529 },
   // [2018-AUTUMN] WEB: HERO MASK
   // https://annict.com/works/6360
   { annict_id: 6360, mal_id: 38628, syobocal_tid: 5718 },
@@ -30514,7 +30514,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10678 },
   // [2023-AUTUMN] OVA: アイドルマスター シンデレラガールズ U149 新作アニメ
   // https://annict.com/works/10679
-  { annict_id: 10679 },
+  { annict_id: 10679, mal_id: 55802 },
   // [2023-WINTER] WEB: NICO/AGONY
   // https://annict.com/works/10680
   { annict_id: 10680, mal_id: 55299 },
@@ -42416,4 +42416,10 @@ export const annict: ArmEntry[] = [
   // [2009-SUMMER] OVA: 鉄腕バーディーDECODE -THE CIPHER-
   // https://annict.com/works/14661
   { annict_id: 14661, mal_id: 6380 },
+  // [2012-WINTER] WEB: The Four Seasons
+  // https://annict.com/works/14662
+  { annict_id: 14662, mal_id: 13563 },
+  // [2017-WINTER] WEB: アイドルマスター ミリオンライブ！4周年記念PV
+  // https://annict.com/works/14663
+  { annict_id: 14663, mal_id: 35081 },
 ]
