@@ -14978,7 +14978,7 @@ export const annict: ArmEntry[] = [
   // [2013-WINTER] OVA: 緋色の欠片「突撃！隣のイケメンズ」
   // https://annict.com/works/5022
   { annict_id: 5022, mal_id: 16928 },
-  // [2004-AUTUMN] OVA: BLEACH「Memories in the Rain」
+  // [2004-AUTUMN] OVA: BLEACH Memories in the Rain
   // https://annict.com/works/5023
   { annict_id: 5023, mal_id: 762 },
   // [2010-AUTUMN] MOVIE: 劇場版 BLEACH 地獄篇
