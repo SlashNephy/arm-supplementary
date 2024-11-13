@@ -18394,7 +18394,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6170, mal_id: 37982, syobocal_tid: 5136 },
   // [2018-SUMMER] OVA: テニスの王子様 BEST GAMES!! 手塚 vs 跡部
   // https://annict.com/works/6171
-  { annict_id: 6171 },
+  { annict_id: 6171, mal_id: 36952 },
   // [2014-AUTUMN] OVA: 新テニスの王子様 OVA vs Genius10
   // https://annict.com/works/6172
   { annict_id: 6172, mal_id: 21755 },
@@ -19639,7 +19639,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6624, mal_id: 39506, syobocal_tid: 5454 },
   // [2019-SPRING] OVA: テニスの王子様 BEST GAMES!! 乾・海堂 vs 宍戸・鳳／大石・菊丸 vs 仁王・柳生
   // https://annict.com/works/6626
-  { annict_id: 6626 },
+  { annict_id: 6626, mal_id: 36952 },
   // [2019-WINTER] OVA: 千銃士 OVA「貴銃士たちのハッピーバースデイ！」
   // https://annict.com/works/6627
   { annict_id: 6627, mal_id: 38393 },
@@ -20209,7 +20209,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6817, mal_id: 40174, syobocal_tid: 5929 },
   // [2019-AUTUMN] OVA: テニスの王子様 BEST GAMES!! 不二 vs 切原
   // https://annict.com/works/6818
-  { annict_id: 6818 },
+  { annict_id: 6818, mal_id: 36952 },
   // [2019-AUTUMN] TV: ゾイドワイルド ZERO
   // https://annict.com/works/6819
   { annict_id: 6819, mal_id: 40166, syobocal_tid: 5448 },
@@ -42391,5 +42391,29 @@ export const annict: ArmEntry[] = [
   { annict_id: 14652, mal_id: 54144 },
   // [2025-SUMMER] TV: SAKAMOTO DAYS（第2クール）
   // https://annict.com/works/14653
-  { annict_id: 14653 },
+  { annict_id: 14653, mal_id: 60285 },
+  // [1982-SUMMER] MOVIE: テクノポリス21C
+  // https://annict.com/works/14654
+  { annict_id: 14654, mal_id: 5090 },
+  // [2018-SPRING] WEB: 天下統一恋の乱 ～出陣！雑賀4人衆～
+  // https://annict.com/works/14655
+  { annict_id: 14655, mal_id: 37280 },
+  // [2004-AUTUMN] OVA: 天空断罪スケルターヘブン
+  // https://annict.com/works/14656
+  { annict_id: 14656, mal_id: 3287 },
+  // [2007-SUMMER] OVA: 天保異聞 妖奇士 奇士神曲
+  // https://annict.com/works/14657
+  { annict_id: 14657, mal_id: 3248 },
+  // [1932-WINTER] MOVIE: 曲馬団のベティ
+  // https://annict.com/works/14658
+  { annict_id: 14658 },
+  // [1932-WINTER] MOVIE: The Robot（原題）
+  // https://annict.com/works/14659
+  { annict_id: 14659 },
+  // [1932-WINTER] MOVIE: ベティの家出
+  // https://annict.com/works/14660
+  { annict_id: 14660 },
+  // [2009-SUMMER] OVA: 鉄腕バーディーDECODE -THE CIPHER-
+  // https://annict.com/works/14661
+  { annict_id: 14661, mal_id: 6380 },
 ]
