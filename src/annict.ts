@@ -39674,7 +39674,7 @@ export const annict: ArmEntry[] = [
   // [1980-null] MOVIE: The Bubble
   // https://annict.com/works/13741
   { annict_id: 13741 },
-  // [null-null] TV: 履いてください、鷹峰さん
+  // [2025-SPRING] TV: 履いてください、鷹峰さん
   // https://annict.com/works/13742
   { annict_id: 13742, mal_id: 59457 },
   // [null-null] WEB: Duel Masters LOST ～月下の死神～
