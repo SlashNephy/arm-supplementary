@@ -42430,5 +42430,8 @@ export const annict: ArmEntry[] = [
   { annict_id: 14665 },
   // [2025-null] TV: ボールパークでつかまえて！
   // https://annict.com/works/14666
-  { annict_id: 14666 },
+  { annict_id: 14666, mal_id: 60293 },
+  // [null-null] OTHER: 天穂のサクナヒメ 続編
+  // https://annict.com/works/14667
+  { annict_id: 14667 },
 ]
