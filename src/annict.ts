@@ -36389,7 +36389,7 @@ export const annict: ArmEntry[] = [
   // [1986-SUMMER] OVA: カリフォルニア・クライシス 追撃の銃火
   // https://annict.com/works/12644
   { annict_id: 12644, mal_id: 3127 },
-  // [1965-null] OTHER: 電人アロー（パイロットフィルム）
+  // [1965-null] OTHER: 電人アロー (パイロットフィルム)
   // https://annict.com/works/12645
   { annict_id: 12645 },
   // [2025-WINTER] TV: Übel Blatt〜ユーベルブラット〜
@@ -42425,4 +42425,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: AURA BATTLER DUNBINE SIDE R
   // https://annict.com/works/14664
   { annict_id: 14664 },
+  // [2024-AUTUMN] WEB: 電人アロー (カラー版)
+  // https://annict.com/works/14665
+  { annict_id: 14665 },
 ]
