@@ -42428,4 +42428,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: 電人アロー (カラー版)
   // https://annict.com/works/14665
   { annict_id: 14665 },
+  // [2025-null] TV: ボールパークでつかまえて！
+  // https://annict.com/works/14666
+  { annict_id: 14666 },
 ]
