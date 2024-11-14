@@ -42433,5 +42433,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 14666, mal_id: 60293 },
   // [null-null] OTHER: 天穂のサクナヒメ 続編
   // https://annict.com/works/14667
-  { annict_id: 14667 },
+  { annict_id: 14667, mal_id: 60294 },
 ]
