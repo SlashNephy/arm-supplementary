@@ -23630,7 +23630,7 @@ export const annict: ArmEntry[] = [
   // [1963-AUTUMN] MOVIE: わんわん忠臣蔵
   // https://annict.com/works/8216
   { annict_id: 8216, mal_id: 9228 },
-  // [2006-null] MOVIE: スキャナー・ダークリー
+  // [2006-AUTUMN] MOVIE: スキャナー・ダークリー
   // https://annict.com/works/8217
   { annict_id: 8217 },
   // [2016-SPRING] TV: ヒックとドラゴン：新たな世界へ！
@@ -42434,4 +42434,13 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 天穂のサクナヒメ 続編
   // https://annict.com/works/14667
   { annict_id: 14667, mal_id: 60294 },
+  // [2012-SUMMER] MOVIE: なんて素敵な日
+  // https://annict.com/works/14668
+  { annict_id: 14668 },
+  // [2003-WINTER] MOVIE: ウェイキング・ライフ
+  // https://annict.com/works/14669
+  { annict_id: 14669 },
+  // [2016-WINTER] MOVIE: テキサスタワー
+  // https://annict.com/works/14670
+  { annict_id: 14670 },
 ]
