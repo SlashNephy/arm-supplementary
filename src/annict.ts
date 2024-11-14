@@ -42422,4 +42422,7 @@ export const annict: ArmEntry[] = [
   // [2017-WINTER] WEB: アイドルマスター ミリオンライブ！4周年記念PV
   // https://annict.com/works/14663
   { annict_id: 14663, mal_id: 35081 },
+  // [2024-AUTUMN] WEB: AURA BATTLER DUNBINE SIDE R
+  // https://annict.com/works/14664
+  { annict_id: 14664 },
 ]
