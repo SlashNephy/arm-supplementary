@@ -42452,4 +42452,22 @@ export const annict: ArmEntry[] = [
   // [1968-AUTUMN] TV: バンパイヤ
   // https://annict.com/works/14673
   { annict_id: 14673 },
+  // [2005-AUTUMN] WEB: The King of Fighters: Another Day
+  // https://annict.com/works/14674
+  { annict_id: 14674, mal_id: 825, syobocal_tid: 785 },
+  // [2022-WINTER] WEB: KOF XVスペシャルショートムービー
+  // https://annict.com/works/14675
+  { annict_id: 14675, mal_id: 48582 },
+  // [1990-WINTER] MOVIE: チスト みどりのおやゆび
+  // https://annict.com/works/14676
+  { annict_id: 14676, mal_id: 5895 },
+  // [1972-null] OTHER: ユキの太陽
+  // https://annict.com/works/14677
+  { annict_id: 14677, mal_id: 15021 },
+  // [2014-SUMMER] WEB: 鎌池和馬『とある魔術の禁書目録』10周年記念完全新作アニメーションPV
+  // https://annict.com/works/14678
+  { annict_id: 14678, mal_id: 27509 },
+  // [2022-SPRING] WEB: トミカヒーローズ ジョブレイバー 特装合体ロボ
+  // https://annict.com/works/14679
+  { annict_id: 14679, mal_id: 51682 },
 ]
