@@ -19729,7 +19729,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6655, mal_id: 2492 },
   // [1987-SPRING] MOVIE: タッチ3 君が通り過ぎたあとに
   // https://annict.com/works/6656
-  { annict_id: 6656 },
+  { annict_id: 6656, mal_id: 2493 },
   // [2019-SPRING] WEB: ちょこっとアニメ けものフレンズ3
   // https://annict.com/works/6657
   { annict_id: 6657, mal_id: 39653 },
@@ -42470,4 +42470,19 @@ export const annict: ArmEntry[] = [
   // [2022-SPRING] WEB: トミカヒーローズ ジョブレイバー 特装合体ロボ
   // https://annict.com/works/14679
   { annict_id: 14679, mal_id: 51682 },
+  // [2014-SUMMER] WEB: TOWN WORKERS ータウンワーカーズー
+  // https://annict.com/works/14680
+  { annict_id: 14680, mal_id: 34757 },
+  // [2003-SUMMER] OVA: とらいあんぐるハート～Sweet Songs Forever～
+  // https://annict.com/works/14681
+  { annict_id: 14681, mal_id: 176 },
+  // [2016-AUTUMN] OVA: トリック・オア・アリス
+  // https://annict.com/works/14682
+  { annict_id: 14682, mal_id: 21305 },
+  // [2016-AUTUMN] OVA: TRICKSTER -江戸川乱歩「少年探偵団」より- OVA EPISODE 00
+  // https://annict.com/works/14683
+  { annict_id: 14683, mal_id: 34197 },
+  // [1991-AUTUMN] OVA: 月がのぼるまでに
+  // https://annict.com/works/14684
+  { annict_id: 14684, mal_id: 12905 },
 ]
