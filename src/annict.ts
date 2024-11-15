@@ -42485,4 +42485,7 @@ export const annict: ArmEntry[] = [
   // [1991-AUTUMN] OVA: 月がのぼるまでに
   // https://annict.com/works/14684
   { annict_id: 14684, mal_id: 12905 },
+  // [null-null] TV: 雨夜の月
+  // https://annict.com/works/14685
+  { annict_id: 14685 },
 ]
