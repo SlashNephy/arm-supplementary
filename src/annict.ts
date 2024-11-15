@@ -42449,4 +42449,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 信じていた仲間達にダンジョン奥地で殺されかけたがギフト『無限ガチャ』でレベル9999の仲間達を手に入れて元パーティーメンバーと世界に復讐＆『ざまぁ！』します！
   // https://annict.com/works/14672
   { annict_id: 14672 },
+  // [1968-AUTUMN] TV: バンパイヤ
+  // https://annict.com/works/14673
+  { annict_id: 14673 },
 ]
