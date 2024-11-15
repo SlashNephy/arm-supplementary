@@ -8873,7 +8873,7 @@ export const annict: ArmEntry[] = [
   // [2010-SUMMER] OVA: BLACK LAGOON Roberta's Blood Trail
   // https://annict.com/works/2968
   { annict_id: 2968, mal_id: 4901, syobocal_tid: 1964 },
-  // [2005-AUTUMN] OVA: BLEACH「The Sealed Sword Frenzy」
+  // [2005-AUTUMN] OVA: BLEACH The Sealed Sword Frenzy
   // https://annict.com/works/2969
   { annict_id: 2969, mal_id: 834 },
   // [2002-AUTUMN] OVA: BLUE GENDER THE WARRIOR
@@ -38507,7 +38507,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] WEB: 『鳴潮』ショートアニメ「今昔」
   // https://annict.com/works/13352
   { annict_id: 13352 },
-  // [null-null] OTHER: FARMAGIA
+  // [2025-WINTER] TV: FARMAGIA
   // https://annict.com/works/13353
   { annict_id: 13353, mal_id: 59113 },
   // [1948-SPRING] MOVIE: ドナルドダックの育児日記
@@ -42443,4 +42443,7 @@ export const annict: ArmEntry[] = [
   // [2016-WINTER] MOVIE: テキサスタワー
   // https://annict.com/works/14670
   { annict_id: 14670 },
+  // [2024-AUTUMN] WEB: カズヒホとマリーのようこそキッチン。
+  // https://annict.com/works/14671
+  { annict_id: 14671, mal_id: 60295 },
 ]
