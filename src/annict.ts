@@ -42524,4 +42524,7 @@ export const annict: ArmEntry[] = [
   // [1990-null] OVA: 日本のおとぎばなし
   // https://annict.com/works/14697
   { annict_id: 14697, mal_id: 32716 },
+  // [2011-AUTUMN] OVA: 技の旅人
+  // https://annict.com/works/14698
+  { annict_id: 14698, mal_id: 10904 },
 ]
