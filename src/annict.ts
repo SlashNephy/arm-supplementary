@@ -42448,7 +42448,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14671, mal_id: 60295 },
   // [null-null] OTHER: 信じていた仲間達にダンジョン奥地で殺されかけたがギフト『無限ガチャ』でレベル9999の仲間達を手に入れて元パーティーメンバーと世界に復讐＆『ざまぁ！』します！
   // https://annict.com/works/14672
-  { annict_id: 14672 },
+  { annict_id: 14672, mal_id: 60303 },
   // [1968-AUTUMN] TV: バンパイヤ
   // https://annict.com/works/14673
   { annict_id: 14673 },
@@ -42487,5 +42487,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 14684, mal_id: 12905 },
   // [null-null] TV: 雨夜の月
   // https://annict.com/works/14685
-  { annict_id: 14685 },
+  { annict_id: 14685, mal_id: 60301 },
 ]
