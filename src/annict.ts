@@ -42491,4 +42491,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] WEB: 小さなジャムとゴブリンのオップ
   // https://annict.com/works/14686
   { annict_id: 14686 },
+  // [2025-SPRING] OVA: 夏目友人帳 漆 第十三話
+  // https://annict.com/works/14687
+  { annict_id: 14687, mal_id: 60302 },
 ]
