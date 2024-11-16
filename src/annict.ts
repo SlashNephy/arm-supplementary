@@ -42500,4 +42500,10 @@ export const annict: ArmEntry[] = [
   // [1998-SUMMER] OVA: 宇宙の騎士テッカマンブレード TWIN BLOOD
   // https://annict.com/works/14689
   { annict_id: 14689, mal_id: 2300 },
+  // [1998-SPRING] OVA: 宇宙の騎士テッカマンブレード MISSING LING
+  // https://annict.com/works/14690
+  { annict_id: 14690, mal_id: 2301 },
+  // [1998-SPRING] OVA: 宇宙の騎士テッカマンブレードII VIRGIN-MEMORY
+  // https://annict.com/works/14691
+  { annict_id: 14691, mal_id: 42343 },
 ]
