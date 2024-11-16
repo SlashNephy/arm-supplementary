@@ -42527,4 +42527,7 @@ export const annict: ArmEntry[] = [
   // [2011-AUTUMN] OVA: 技の旅人
   // https://annict.com/works/14698
   { annict_id: 14698, mal_id: 10904 },
+  // [1999-AUTUMN] OVA: ヴァイスクロイツ Verbrechen / Strafe
+  // https://annict.com/works/14699
+  { annict_id: 14699, mal_id: 1024 },
 ]
