@@ -42488,4 +42488,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 雨夜の月
   // https://annict.com/works/14685
   { annict_id: 14685, mal_id: 60301 },
+  // [2024-WINTER] WEB: 小さなジャムとゴブリンのオップ
+  // https://annict.com/works/14686
+  { annict_id: 14686 },
 ]
