@@ -27460,7 +27460,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9655, mal_id: 51815, syobocal_tid: 6565 },
   // [2022-SUMMER] TV: うたの☆プリンスさまっ♪ マジLOVEスターリッシュツアーズ ～旅の始まり～
   // https://annict.com/works/9656
-  { annict_id: 9656 },
+  { annict_id: 9656, mal_id: 52573 },
   // [2023-SPRING] TV: 私の百合はお仕事です！
   // https://annict.com/works/9657
   { annict_id: 9657, mal_id: 51817, syobocal_tid: 6623 },
@@ -42506,4 +42506,22 @@ export const annict: ArmEntry[] = [
   // [1998-SPRING] OVA: 宇宙の騎士テッカマンブレードII VIRGIN-MEMORY
   // https://annict.com/works/14691
   { annict_id: 14691, mal_id: 42343 },
+  // [2023-SPRING] WEB: うんたろう たびものがたり
+  // https://annict.com/works/14692
+  { annict_id: 14692, mal_id: 55138 },
+  // [1990-AUTUMN] OVA: ヴァンパイヤー戦争
+  // https://annict.com/works/14693
+  { annict_id: 14693, mal_id: 1765 },
+  // [2001-AUTUMN] TV: ヴァンドレッド 胎動篇
+  // https://annict.com/works/14694
+  { annict_id: 14694, mal_id: 1112 },
+  // [2002-SUMMER] TV: ヴァンドレッド 激闘篇
+  // https://annict.com/works/14695
+  { annict_id: 14695, mal_id: 1111 },
+  // [2007-SUMMER] MOVIE: ベクシル 2077日本鎖国
+  // https://annict.com/works/14696
+  { annict_id: 14696, mal_id: 2746 },
+  // [1990-null] OVA: 日本のおとぎばなし
+  // https://annict.com/works/14697
+  { annict_id: 14697, mal_id: 32716 },
 ]
