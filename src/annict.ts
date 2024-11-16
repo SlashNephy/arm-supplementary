@@ -42494,4 +42494,10 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] OVA: 夏目友人帳 漆 第十三話
   // https://annict.com/works/14687
   { annict_id: 14687, mal_id: 60302 },
+  // [1998-SPRING] OVA: 宇宙の騎士テッカマンブレード 燃えた時計
+  // https://annict.com/works/14688
+  { annict_id: 14688, mal_id: 2299 },
+  // [1998-SUMMER] OVA: 宇宙の騎士テッカマンブレード TWIN BLOOD
+  // https://annict.com/works/14689
+  { annict_id: 14689, mal_id: 2300 },
 ]
