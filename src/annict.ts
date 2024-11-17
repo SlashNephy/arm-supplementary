@@ -11332,7 +11332,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3789, mal_id: 461 },
   // [2005-SPRING] MOVIE: ワンダフルデイズ
   // https://annict.com/works/3790
-  { annict_id: 3790 },
+  { annict_id: 3790, mal_id: 548 },
   // [2010-SUMMER] WEB: あぐかる
   // https://annict.com/works/3791
   { annict_id: 3791, mal_id: 9689 },
@@ -20299,7 +20299,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6847 },
   // [2019-WINTER] WEB: ヤンキーハムスター2
   // https://annict.com/works/6848
-  { annict_id: 6848 },
+  { annict_id: 6848, mal_id: 49991 },
   // [2018-WINTER] WEB: 誘惑★オフィスLOVER2 (タテアニメ)
   // https://annict.com/works/6849
   { annict_id: 6849, mal_id: 36705 },
@@ -42530,4 +42530,46 @@ export const annict: ArmEntry[] = [
   // [1999-AUTUMN] OVA: ヴァイスクロイツ Verbrechen / Strafe
   // https://annict.com/works/14699
   { annict_id: 14699, mal_id: 1024 },
+  // [1988-SUMMER] OVA: ホワッツマイケル? 2
+  // https://annict.com/works/14700
+  { annict_id: 14700, mal_id: 12037 },
+  // [2002-AUTUMN] OVA: そよかぜのおくりもの -Wind Pleasurable Box- オリジナルアニメーション
+  // https://annict.com/works/14701
+  { annict_id: 14701, mal_id: 2015 },
+  // [2004-AUTUMN] OVA: Wind -a breath of heart- 未放映回
+  // https://annict.com/works/14702
+  { annict_id: 14702, mal_id: 2027 },
+  // [1997-AUTUMN] OVA: Wish アニメーションクリップ
+  // https://annict.com/works/14703
+  { annict_id: 14703, mal_id: 1958 },
+  // [1992-AUTUMN] OVA: ウルフガイ
+  // https://annict.com/works/14704
+  { annict_id: 14704, mal_id: 9526 },
+  // [1993-AUTUMN] OVA: X²－ダブルエックス－
+  // https://annict.com/works/14705
+  { annict_id: 14705, mal_id: 2729 },
+  // [1997-SPRING] OVA: 厄災仔寵
+  // https://annict.com/works/14706
+  { annict_id: 14706, mal_id: 2384 },
+  // [1988-AUTUMN] OVA: 闇のパープル・アイ
+  // https://annict.com/works/14707
+  { annict_id: 14707, mal_id: 9509 },
+  // [2018-AUTUMN] WEB: やさしいあくま
+  // https://annict.com/works/14708
+  { annict_id: 14708, mal_id: 38907 },
+  // [1993-AUTUMN] OVA: 横浜ばっくれ隊
+  // https://annict.com/works/14709
+  { annict_id: 14709, mal_id: 25815 },
+  // [1991-WINTER] OVA: 鎧伝サムライトルーパー MESSAGE
+  // https://annict.com/works/14710
+  { annict_id: 14710, mal_id: 1267 },
+  // [2024-SPRING] TV: ユーチューニャー 第2期
+  // https://annict.com/works/14711
+  { annict_id: 14711, mal_id: 58602 },
+  // [2016-SUMMER] MOVIE: 弱虫ペダル SPARE BIKE
+  // https://annict.com/works/14712
+  { annict_id: 14712, mal_id: 33302 },
+  // [2016-SUMMER] WEB: ちばペダル～弱虫ペダルと学ぶ自転車交通安全～
+  // https://annict.com/works/14713
+  { annict_id: 14713, mal_id: 33522 },
 ]
