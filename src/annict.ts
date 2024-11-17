@@ -6856,7 +6856,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2289, mal_id: 890, syobocal_tid: 2055 },
   // [2005-SPRING] TV: 勇者王ガオガイガーFINAL GRAND GLORIOUS GATHERING
   // https://annict.com/works/2290
-  { annict_id: 2290, syobocal_tid: 621 },
+  { annict_id: 2290, mal_id: 4416, syobocal_tid: 621 },
   // [1994-WINTER] TV: 勇者警察ジェイデッカー
   // https://annict.com/works/2291
   { annict_id: 2291, mal_id: 5075 },
@@ -20485,7 +20485,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6941, mal_id: 40178, syobocal_tid: 5462 },
   // [2019-SUMMER] WEB: ゼノンザード THE ANIMATION 第0話
   // https://annict.com/works/6942
-  { annict_id: 6942, syobocal_tid: 5411 },
+  { annict_id: 6942, mal_id: 40394, syobocal_tid: 5411 },
   // [2017-WINTER] MOVIE: 劇場版しまじろうのわお！ しまじろうとにじのオアシス
   // https://annict.com/works/6943
   { annict_id: 6943, mal_id: 34315 },
@@ -42572,4 +42572,19 @@ export const annict: ArmEntry[] = [
   // [2016-SUMMER] WEB: ちばペダル～弱虫ペダルと学ぶ自転車交通安全～
   // https://annict.com/works/14713
   { annict_id: 14713, mal_id: 33522 },
+  // [2018-SUMMER] MOVIE: 誘拐アンナ
+  // https://annict.com/works/14714
+  { annict_id: 14714, mal_id: 38017 },
+  // [1991-SUMMER] MOVIE: ZIGGY THE MOVIE それゆけ! R&R BAND
+  // https://annict.com/works/14715
+  { annict_id: 14715, mal_id: 11093 },
+  // [2007-AUTUMN] OVA: 象の背中 -旅立つ日-
+  // https://annict.com/works/14716
+  { annict_id: 14716, mal_id: 27405 },
+  // [2009-WINTER] OVA: 続・象の背中 -バトンタッチ-
+  // https://annict.com/works/14717
+  { annict_id: 14717, mal_id: 50746 },
+  // [2016-SPRING] WEB: ゾンミちゃん - ミートパイ オブ ザ デッド -
+  // https://annict.com/works/14718
+  { annict_id: 14718, mal_id: 32934 },
 ]
