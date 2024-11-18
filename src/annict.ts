@@ -42605,4 +42605,7 @@ export const annict: ArmEntry[] = [
   // [1977-AUTUMN] MOVIE: ピートとドラゴン
   // https://annict.com/works/14724
   { annict_id: 14724 },
+  // [2008-WINTER] MOVIE: 魔法にかけられて
+  // https://annict.com/works/14725
+  { annict_id: 14725 },
 ]
