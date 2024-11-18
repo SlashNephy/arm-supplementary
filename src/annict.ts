@@ -42590,4 +42590,19 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 魔入りました！入間くん 第4シリーズ
   // https://annict.com/works/14719
   { annict_id: 14719, mal_id: 60310 },
+  // [1951-SUMMER] MOVIE: わが心にかくも愛しき
+  // https://annict.com/works/14720
+  { annict_id: 14720 },
+  // [1965-AUTUMN] MOVIE: メリー・ポピンズ
+  // https://annict.com/works/14721
+  { annict_id: 14721 },
+  // [2023-AUTUMN] WEB: ワンダーハッチ -空飛ぶ竜の島-
+  // https://annict.com/works/14722
+  { annict_id: 14722 },
+  // [2019-WINTER] MOVIE: メリー・ポピンズ リターンズ
+  // https://annict.com/works/14723
+  { annict_id: 14723 },
+  // [1977-AUTUMN] MOVIE: ピートとドラゴン
+  // https://annict.com/works/14724
+  { annict_id: 14724 },
 ]
