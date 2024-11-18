@@ -42608,4 +42608,10 @@ export const annict: ArmEntry[] = [
   // [2008-WINTER] MOVIE: 魔法にかけられて
   // https://annict.com/works/14725
   { annict_id: 14725 },
+  // [2025-SUMMER] TV: 出禁のモグラ
+  // https://annict.com/works/14726
+  { annict_id: 14726, mal_id: 60315 },
+  // [null-null] TV: ブサメンガチファイター
+  // https://annict.com/works/14727
+  { annict_id: 14727, mal_id: 60316 },
 ]
