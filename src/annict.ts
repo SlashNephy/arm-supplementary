@@ -42614,4 +42614,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: ブサメンガチファイター
   // https://annict.com/works/14727
   { annict_id: 14727, mal_id: 60316 },
+  // [2022-AUTUMN] WEB: 魔法にかけられて2
+  // https://annict.com/works/14728
+  { annict_id: 14728 },
 ]
