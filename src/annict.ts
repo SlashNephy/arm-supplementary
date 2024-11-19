@@ -42623,4 +42623,10 @@ export const annict: ArmEntry[] = [
   // [2025-null] MOVIE: JUNK WORLD
   // https://annict.com/works/14730
   { annict_id: 14730, mal_id: 56640 },
+  // [2013-AUTUMN] MOVIE: JUNK HEAD 1
+  // https://annict.com/works/14731
+  { annict_id: 14731, mal_id: 49478 },
+  // [2003-WINTER] OTHER: こまねこ　はじめのいっぽ
+  // https://annict.com/works/14732
+  { annict_id: 14732 },
 ]
