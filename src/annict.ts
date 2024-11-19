@@ -42617,4 +42617,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] WEB: 魔法にかけられて2
   // https://annict.com/works/14728
   { annict_id: 14728 },
+  // [2024-AUTUMN] WEB: クリスマスはすぐそこに
+  // https://annict.com/works/14729
+  { annict_id: 14729 },
 ]
