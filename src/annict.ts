@@ -42631,5 +42631,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 14732 },
   // [2025-SUMMER] TV: わたしが恋人になれるわけないじゃん、ムリムリ!（※ムリじゃなかった!?）
   // https://annict.com/works/14733
-  { annict_id: 14733 },
+  { annict_id: 14733, mal_id: 60326 },
 ]
