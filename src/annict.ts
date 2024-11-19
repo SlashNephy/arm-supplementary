@@ -42629,4 +42629,7 @@ export const annict: ArmEntry[] = [
   // [2003-WINTER] OTHER: こまねこ　はじめのいっぽ
   // https://annict.com/works/14732
   { annict_id: 14732 },
+  // [2025-SUMMER] TV: わたしが恋人になれるわけないじゃん、ムリムリ!（※ムリじゃなかった!?）
+  // https://annict.com/works/14733
+  { annict_id: 14733 },
 ]
