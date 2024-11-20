@@ -42638,4 +42638,7 @@ export const annict: ArmEntry[] = [
   // [1985-null] MOVIE: 二度と目覚めぬ子守唄
   // https://annict.com/works/14735
   { annict_id: 14735, mal_id: 7273 },
+  // [2025-SPRING] TV: アン・シャーリー
+  // https://annict.com/works/14736
+  { annict_id: 14736, mal_id: 60334 },
 ]
