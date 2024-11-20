@@ -42635,4 +42635,7 @@ export const annict: ArmEntry[] = [
   // [1981-null] MOVIE: 限りなき楽園
   // https://annict.com/works/14734
   { annict_id: 14734, mal_id: 23569 },
+  // [1985-null] MOVIE: 二度と目覚めぬ子守唄
+  // https://annict.com/works/14735
+  { annict_id: 14735, mal_id: 7273 },
 ]
