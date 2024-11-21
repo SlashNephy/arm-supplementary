@@ -31598,7 +31598,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] WEB: MONSTERS 一百三情飛龍侍極
   // https://annict.com/works/11040
   { annict_id: 11040, mal_id: 56055 },
-  // [null-null] WEB: Project BULLET／BULLET
+  // [2025-SUMMER] WEB: BULLET/BULLET
   // https://annict.com/works/11041
   { annict_id: 11041, mal_id: 53722 },
   // [2024-SUMMER] TV: NieR:Automata Ver1.1a 第2クール
