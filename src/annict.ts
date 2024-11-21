@@ -42698,4 +42698,10 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] WEB: スター・ウォーズ：テイルズ・オブ・ジェダイ
   // https://annict.com/works/14755
   { annict_id: 14755 },
+  // [2016-SUMMER] OTHER: 石山寺デジタル縁起絵巻
+  // https://annict.com/works/14756
+  { annict_id: 14756, mal_id: 33982 },
+  // [1915-null] MOVIE: 恐竜とミッシングリンク
+  // https://annict.com/works/14757
+  { annict_id: 14757 },
 ]
