@@ -42719,4 +42719,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: シルバニアファミリー フレアのピース・オブ・シークレット
   // https://annict.com/works/14762
   { annict_id: 14762 },
+  // [null-null] OTHER: KING OF PRISM次回作
+  // https://annict.com/works/14763
+  { annict_id: 14763 },
 ]
