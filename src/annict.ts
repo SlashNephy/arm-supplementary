@@ -42647,7 +42647,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: 異世界QTTA『風の世界』篇
   // https://annict.com/works/14738
   { annict_id: 14738 },
-  // [2025-null] WEB: キャッツ❤︎アイ
+  // [2025-null] WEB: キャッツ♥アイ
   // https://annict.com/works/14739
   { annict_id: 14739, mal_id: 60347 },
   // [1995-SPRING] TV: ロボットパルタ
@@ -42671,4 +42671,31 @@ export const annict: ArmEntry[] = [
   // [null-null] WEB: ディズニー ツイステッドワンダーランド エピソード オブ オクタヴィネル
   // https://annict.com/works/14746
   { annict_id: 14746, mal_id: 60349 },
+  // [2024-SUMMER] WEB: スター・ウォーズ:ヤング・ジェダイ・アドベンチャー シーズン2
+  // https://annict.com/works/14747
+  { annict_id: 14747 },
+  // [2024-SUMMER] WEB: LEGO スター・ウォーズ／リビルド・ザ・ギャラクシー
+  // https://annict.com/works/14748
+  { annict_id: 14748 },
+  // [2011-AUTUMN] OVA: LEGO スター・ウォーズ パダワン・メナス
+  // https://annict.com/works/14749
+  { annict_id: 14749 },
+  // [2013-SPRING] OVA: LEGO スター・ウォーズ エンパイア・ストライクス・アウト
+  // https://annict.com/works/14750
+  { annict_id: 14750 },
+  // [2013-SPRING] TV: LEGO スター・ウォーズ:ヨーダ・クロニクル
+  // https://annict.com/works/14751
+  { annict_id: 14751 },
+  // [2016-SUMMER] TV:  LEGO スター・ウォーズ/たたかえ!レジスタンス
+  // https://annict.com/works/14752
+  { annict_id: 14752 },
+  // [2020-AUTUMN] WEB: LEGO スター・ウォーズ/ホリデー・スペシャル
+  // https://annict.com/works/14753
+  { annict_id: 14753 },
+  // [2022-SUMMER] WEB: LEGO スター・ウォーズ/サマー・バケーション
+  // https://annict.com/works/14754
+  { annict_id: 14754 },
+  // [2022-AUTUMN] WEB: スター・ウォーズ：テイルズ・オブ・ジェダイ
+  // https://annict.com/works/14755
+  { annict_id: 14755 },
 ]
