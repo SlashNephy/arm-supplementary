@@ -42704,4 +42704,13 @@ export const annict: ArmEntry[] = [
   // [1915-null] MOVIE: 恐竜とミッシングリンク
   // https://annict.com/works/14757
   { annict_id: 14757 },
+  // [1994-null] OVA: スター・ウォーズ ドロイドの大冒険
+  // https://annict.com/works/14758
+  { annict_id: 14758 },
+  // [1997-null] OVA: イウォーク物語
+  // https://annict.com/works/14759
+  { annict_id: 14759 },
+  // [2003-AUTUMN] TV: スター・ウォーズ クローン大戦
+  // https://annict.com/works/14760
+  { annict_id: 14760 },
 ]
