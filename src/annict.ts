@@ -25664,7 +25664,7 @@ export const annict: ArmEntry[] = [
   // [2022-SUMMER] TV: 新テニスの王子様 U-17 WORLD CUP
   // https://annict.com/works/8992
   { annict_id: 8992, mal_id: 50099, syobocal_tid: 6389 },
-  // [null-null] WEB: ディズニー ツイステッドワンダーランド
+  // [2025-AUTUMN] WEB: ディズニー ツイステッドワンダーランド エピソード オブ ハーツラビュル
   // https://annict.com/works/8993
   { annict_id: 8993, mal_id: 50139 },
   // [2021-AUTUMN] WEB: オラフが贈る物語
@@ -42656,4 +42656,19 @@ export const annict: ArmEntry[] = [
   // [1995-SPRING] TV: ニャッキ！
   // https://annict.com/works/14741
   { annict_id: 14741, mal_id: 7505 },
+  // [1996-SPRING] TV: ジャム・ザ・ハウスネイル
+  // https://annict.com/works/14742
+  { annict_id: 14742, mal_id: 29367 },
+  // [2009-AUTUMN] TV: エディ
+  // https://annict.com/works/14743
+  { annict_id: 14743, mal_id: 29431 },
+  // [2025-null] WEB: スター・ウォーズ: ビジョンズ Volume 3
+  // https://annict.com/works/14744
+  { annict_id: 14744, mal_id: 60336 },
+  // [null-null] WEB: ディズニー ツイステッドワンダーランド エピソード オブ サバナクロー
+  // https://annict.com/works/14745
+  { annict_id: 14745, mal_id: 60348 },
+  // [null-null] WEB: ディズニー ツイステッドワンダーランド エピソード オブ オクタヴィネル
+  // https://annict.com/works/14746
+  { annict_id: 14746, mal_id: 60349 },
 ]
