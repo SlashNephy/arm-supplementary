@@ -42713,4 +42713,10 @@ export const annict: ArmEntry[] = [
   // [2003-AUTUMN] TV: スター・ウォーズ クローン大戦
   // https://annict.com/works/14760
   { annict_id: 14760 },
+  // [2024-AUTUMN] MOVIE: 山中貞雄に捧げる漫画映画「鼠小僧次郎吉」
+  // https://annict.com/works/14761
+  { annict_id: 14761 },
+  // [2024-AUTUMN] TV: シルバニアファミリー フレアのピース・オブ・シークレット
+  // https://annict.com/works/14762
+  { annict_id: 14762 },
 ]
