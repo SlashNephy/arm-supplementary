@@ -32012,7 +32012,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] WEB: ガメラVS子ザメラ
   // https://annict.com/works/11178
   { annict_id: 11178, mal_id: 56702 },
-  // [2024-WINTER] OVA: わたしの幸せな結婚 OVA
+  // [2024-WINTER] OVA: わたしの幸せな結婚 第十三話 『わたしの幸せなかたち』
   // https://annict.com/works/11179
   { annict_id: 11179, mal_id: 55889 },
   // [2025-WINTER] TV: わたしの幸せな結婚 第二期
@@ -39698,10 +39698,10 @@ export const annict: ArmEntry[] = [
   // [2025-null] MOVIE: 星つなぎのエリオ
   // https://annict.com/works/13749
   { annict_id: 13749 },
-  // [2025-null] MOVIE: 怪獣8号 第1期総集編
+  // [2025-WINTER] MOVIE: 怪獣8号 第1期総集編
   // https://annict.com/works/13750
   { annict_id: 13750, mal_id: 59489 },
-  // [2025-null] MOVIE: 保科の休日
+  // [2025-WINTER] MOVIE: 保科の休日
   // https://annict.com/works/13751
   { annict_id: 13751, mal_id: 59490 },
   // [null-null] TV: 機械じかけのマリー
@@ -42722,4 +42722,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: KING OF PRISM次回作
   // https://annict.com/works/14763
   { annict_id: 14763 },
+  // [1959-SUMMER] TV: 進め！ラビット
+  // https://annict.com/works/14764
+  { annict_id: 14764 },
 ]
