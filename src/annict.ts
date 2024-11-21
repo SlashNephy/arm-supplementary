@@ -42650,4 +42650,10 @@ export const annict: ArmEntry[] = [
   // [2025-null] WEB: キャッツ❤︎アイ
   // https://annict.com/works/14739
   { annict_id: 14739, mal_id: 60347 },
+  // [1995-SPRING] TV: ロボットパルタ
+  // https://annict.com/works/14740
+  { annict_id: 14740, mal_id: 29375 },
+  // [1995-SPRING] TV: ニャッキ！
+  // https://annict.com/works/14741
+  { annict_id: 14741, mal_id: 7505 },
 ]
