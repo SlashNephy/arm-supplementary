@@ -42725,4 +42725,10 @@ export const annict: ArmEntry[] = [
   // [1959-SUMMER] TV: 進め！ラビット
   // https://annict.com/works/14764
   { annict_id: 14764 },
+  // [2024-SUMMER] TV: アリエル にんぎょのおはなし
+  // https://annict.com/works/14765
+  { annict_id: 14765 },
+  // [2024-SUMMER] TV: アリエル
+  // https://annict.com/works/14766
+  { annict_id: 14766 },
 ]
