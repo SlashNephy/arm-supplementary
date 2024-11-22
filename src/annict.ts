@@ -36401,7 +36401,7 @@ export const annict: ArmEntry[] = [
   // [2009-SUMMER] TV: チャギントン
   // https://annict.com/works/12648
   { annict_id: 12648 },
-  // [null-null] OTHER: 夜は猫といっしょ 3期
+  // [2024-AUTUMN] WEB: 夜は猫といっしょ 3期
   // https://annict.com/works/12649
   { annict_id: 12649, mal_id: 58199 },
   // [1971-AUTUMN] OTHER: 青いトリトン（パイロット）
