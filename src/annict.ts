@@ -42731,4 +42731,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] TV: アリエル
   // https://annict.com/works/14766
   { annict_id: 14766 },
+  // [2025-WINTER] OVA: アイドルマスター シャイニーカラーズ 2nd season 新規アニメーション映像 「SHHis」
+  // https://annict.com/works/14767
+  { annict_id: 14767, mal_id: 60045 },
 ]
