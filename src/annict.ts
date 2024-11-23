@@ -42734,4 +42734,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] OVA: アイドルマスター シャイニーカラーズ 2nd season 新規アニメーション映像 「SHHis」
   // https://annict.com/works/14767
   { annict_id: 14767, mal_id: 60045 },
+  // [2022-AUTUMN] OVA: アストロマン
+  // https://annict.com/works/14768
+  { annict_id: 14768, mal_id: 52518 },
 ]
