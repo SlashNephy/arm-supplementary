@@ -42739,8 +42739,11 @@ export const annict: ArmEntry[] = [
   { annict_id: 14768, mal_id: 52518 },
   // [2026-WINTER] TV: 正反対な君と僕
   // https://annict.com/works/14769
-  { annict_id: 14769 },
+  { annict_id: 14769, mal_id: 60371 },
   // [2024-AUTUMN] TV: Fate/strange Fake 第1話「英霊事件」
   // https://annict.com/works/14770
   { annict_id: 14770 },
+  // [1892-AUTUMN] MOVIE: 哀れなピエロ
+  // https://annict.com/works/14771
+  { annict_id: 14771 },
 ]
