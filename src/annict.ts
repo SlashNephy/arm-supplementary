@@ -31430,7 +31430,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] MOVIE: 機動戦士ガンダムSEED FREEDOM
   // https://annict.com/works/10984
   { annict_id: 10984, mal_id: 49073 },
-  // [2024-AUTUMN] TV: Fate/strange Fake
+  // [null-null] TV: Fate/strange Fake
   // https://annict.com/works/10985
   { annict_id: 10985, mal_id: 55830 },
   // [null-null] OTHER: New PANTY&STOCKING with GARTERBELT
@@ -39367,7 +39367,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13638, mal_id: 59512, syobocal_tid: 7244 },
   // [2024-AUTUMN] TV: まぁるい彼女と残念な彼氏 2期
   // https://annict.com/works/13639
-  { annict_id: 13639, syobocal_tid: 7277 },
+  { annict_id: 13639, mal_id: 60357, syobocal_tid: 7277 },
   // [2024-SUMMER] TV: JOCHUM
   // https://annict.com/works/13640
   { annict_id: 13640, mal_id: 58944 },
@@ -42737,4 +42737,10 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] OVA: アストロマン
   // https://annict.com/works/14768
   { annict_id: 14768, mal_id: 52518 },
+  // [2026-WINTER] TV: 正反対な君と僕
+  // https://annict.com/works/14769
+  { annict_id: 14769 },
+  // [2024-AUTUMN] TV: Fate/strange Fake 第1話「英霊事件」
+  // https://annict.com/works/14770
+  { annict_id: 14770 },
 ]
