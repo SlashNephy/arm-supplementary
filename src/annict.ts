@@ -37189,7 +37189,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12911, mal_id: 59049, syobocal_tid: 7085 },
   // [2024-SUMMER] MOVIE: 五等分の花嫁＊
   // https://annict.com/works/12912
-  { annict_id: 12912, mal_id: 58755 },
+  { annict_id: 12912, mal_id: 58755, syobocal_tid: 7281 },
   // [2009-AUTUMN] WEB: フミコの告白
   // https://annict.com/works/12913
   { annict_id: 12913, mal_id: 8187 },
