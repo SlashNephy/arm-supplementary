@@ -42746,4 +42746,10 @@ export const annict: ArmEntry[] = [
   // [1892-AUTUMN] MOVIE: 哀れなピエロ
   // https://annict.com/works/14771
   { annict_id: 14771 },
+  // [2024-AUTUMN] OTHER: 機動戦士ガンダム ALC ENCOUNTER
+  // https://annict.com/works/14772
+  { annict_id: 14772 },
+  // [2024-AUTUMN] WEB: エリアンと魔法の絆
+  // https://annict.com/works/14773
+  { annict_id: 14773 },
 ]
