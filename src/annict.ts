@@ -24830,7 +24830,7 @@ export const annict: ArmEntry[] = [
   // [2021-SUMMER] TV: 戦乙女の食卓Ⅱ
   // https://annict.com/works/8649
   { annict_id: 8649, mal_id: 42206, syobocal_tid: 6068 },
-  // [2021-SUMMER] WEB: しゃばけ
+  // [2021-SUMMER] WEB: 20周年記念スペシャルアニメ「しゃばけ」
   // https://annict.com/works/8650
   { annict_id: 8650, mal_id: 49284 },
   // [2021-AUTUMN] TV: ワッチャプリマジ！
@@ -42755,4 +42755,16 @@ export const annict: ArmEntry[] = [
   // [1894-AUTUMN] MOVIE: 脱衣小屋のまわりで
   // https://annict.com/works/14774
   { annict_id: 14774 },
+  // [2025-null] TV: しゃばけ
+  // https://annict.com/works/14775
+  { annict_id: 14775, mal_id: 60378 },
+  // [2025-null] TV: 謎解きはディナーのあとで
+  // https://annict.com/works/14776
+  { annict_id: 14776, mal_id: 60377 },
+  // [2023-AUTUMN] WEB: LEGO マーベル／アベンジャーズ コード・レッド
+  // https://annict.com/works/14777
+  { annict_id: 14777 },
+  // [2024-AUTUMN] WEB: LEGO マーベル／アベンジャーズ ミッション・デモリション
+  // https://annict.com/works/14778
+  { annict_id: 14778 },
 ]
