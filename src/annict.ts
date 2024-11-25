@@ -42752,4 +42752,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: エリアンと魔法の絆
   // https://annict.com/works/14773
   { annict_id: 14773 },
+  // [1894-AUTUMN] MOVIE: 脱衣小屋のまわりで
+  // https://annict.com/works/14774
+  { annict_id: 14774 },
 ]
