@@ -42767,4 +42767,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: LEGO マーベル／アベンジャーズ ミッション・デモリション
   // https://annict.com/works/14778
   { annict_id: 14778 },
+  // [null-null] OTHER: のら犬ペスの冒険
+  // https://annict.com/works/14779
+  { annict_id: 14779 },
 ]
