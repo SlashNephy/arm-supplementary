@@ -42770,4 +42770,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: のら犬ペスの冒険
   // https://annict.com/works/14779
   { annict_id: 14779 },
+  // [null-null] OTHER: SUE CAT パイロット版
+  // https://annict.com/works/14780
+  { annict_id: 14780 },
 ]
