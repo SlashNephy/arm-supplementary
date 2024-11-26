@@ -42776,4 +42776,7 @@ export const annict: ArmEntry[] = [
   // [1972-null] OTHER: スーパータロム
   // https://annict.com/works/14781
   { annict_id: 14781, mal_id: 30159 },
+  // [null-null] OTHER: デスマーチからはじまる異世界狂想曲 続編
+  // https://annict.com/works/14782
+  { annict_id: 14782 },
 ]
