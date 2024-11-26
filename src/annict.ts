@@ -42773,4 +42773,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: SUE CAT パイロット版
   // https://annict.com/works/14780
   { annict_id: 14780 },
+  // [1972-null] OTHER: スーパータロム
+  // https://annict.com/works/14781
+  { annict_id: 14781, mal_id: 30159 },
 ]
