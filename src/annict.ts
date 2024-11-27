@@ -42779,4 +42779,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: デスマーチからはじまる異世界狂想曲 続編
   // https://annict.com/works/14782
   { annict_id: 14782 },
+  // [null-null] OTHER: 透明少年探偵アキラ
+  // https://annict.com/works/14783
+  { annict_id: 14783, mal_id: 10812 },
 ]
