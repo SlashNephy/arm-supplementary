@@ -39644,7 +39644,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: Dark Machine
   // https://annict.com/works/13731
   { annict_id: 13731, mal_id: 59415 },
-  // [null-null] OTHER: 勇者パーティーを追放された白魔導師、Sランク冒険者に拾われる ～この白魔導師が規格外すぎる～
+  // [2025-null] TV: 勇者パーティーを追放された白魔導師、Sランク冒険者に拾われる ～この白魔導師が規格外すぎる～
   // https://annict.com/works/13732
   { annict_id: 13732, mal_id: 59424 },
   // [2024-AUTUMN] TV: ネガポジアングラー
@@ -42782,4 +42782,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 透明少年探偵アキラ
   // https://annict.com/works/14783
   { annict_id: 14783, mal_id: 10812 },
+  // [2025-null] TV: 透明男と人間女～そのうち夫婦になるふたり～
+  // https://annict.com/works/14784
+  { annict_id: 14784, mal_id: 60395 },
 ]
