@@ -41771,7 +41771,7 @@ export const annict: ArmEntry[] = [
   // [1987-WINTER] OVA: みんなあげちゃう♡
   // https://annict.com/works/14446
   { annict_id: 14446, mal_id: 4688 },
-  // [2024-AUTUMN] OVA: 魔法科高校の劣等生 古都内乱編１ 特典映像
+  // [2024-AUTUMN] OVA: 魔法科高校の劣等生 古都内乱編 OVA
   // https://annict.com/works/14447
   { annict_id: 14447 },
   // [2024-SUMMER] WEB: 未来からやってきた森
