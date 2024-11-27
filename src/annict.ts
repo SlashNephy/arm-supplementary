@@ -42785,4 +42785,7 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: 透明男と人間女～そのうち夫婦になるふたり～
   // https://annict.com/works/14784
   { annict_id: 14784, mal_id: 60395 },
+  // [2025-WINTER] TV: RINGING FATE
+  // https://annict.com/works/14785
+  { annict_id: 14785, mal_id: 57371 },
 ]
