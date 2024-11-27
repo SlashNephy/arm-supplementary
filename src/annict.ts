@@ -37592,7 +37592,7 @@ export const annict: ArmEntry[] = [
   // [2025-null] MOVIE: ひゃくえむ。
   // https://annict.com/works/13046
   { annict_id: 13046, mal_id: 58919 },
-  // [null-null] OTHER: 光が死んだ夏
+  // [2025-SUMMER] TV: 光が死んだ夏
   // https://annict.com/works/13047
   { annict_id: 13047, mal_id: 58913 },
   // [null-null] MOVIE: ホウセンカ
