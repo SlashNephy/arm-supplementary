@@ -36305,7 +36305,7 @@ export const annict: ArmEntry[] = [
   // [1975-SPRING] MOVIE: 魔女っ子メグちゃん 月よりの使者
   // https://annict.com/works/12616
   { annict_id: 12616 },
-  // [null-null] TV: 転生悪女の黒歴史
+  // [2025-null] TV: 転生悪女の黒歴史
   // https://annict.com/works/12617
   { annict_id: 12617, mal_id: 58146 },
   // [2019-WINTER] WEB: 「科学漫画サバイバル」シリーズ（パイロットムービー）
@@ -39227,7 +39227,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 魔法騎士レイアース 新アニメ化プロジェクト
   // https://annict.com/works/13592
   { annict_id: 13592, mal_id: 59204 },
-  // [null-null] TV: クレバテス-魔獣の王と赤子と屍の勇者-
+  // [2025-null] TV: クレバテス-魔獣の王と赤子と屍の勇者-
   // https://annict.com/works/13593
   { annict_id: 13593, mal_id: 59205 },
   // [2024-SUMMER] TV: 24分でわかる「戦国妖狐 世直し姉弟編」
