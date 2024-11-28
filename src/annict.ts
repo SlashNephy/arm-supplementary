@@ -42791,4 +42791,13 @@ export const annict: ArmEntry[] = [
   // [2008-AUTUMN] MOVIE: 動物農場
   // https://annict.com/works/14786
   { annict_id: 14786 },
+  // [null-null] OTHER: おこれ!!ノンクロ
+  // https://annict.com/works/14787
+  { annict_id: 14787, mal_id: 30158 },
+  // [null-null] OTHER: みにっこ剣士
+  // https://annict.com/works/14788
+  { annict_id: 14788 },
+  // [null-null] OTHER: とんち民話 がんばれ！彦一
+  // https://annict.com/works/14789
+  { annict_id: 14789 },
 ]
