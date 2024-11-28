@@ -6023,7 +6023,7 @@ export const annict: ArmEntry[] = [
   // [2001-AUTUMN] TV: 星のカービィ
   // https://annict.com/works/2010
   { annict_id: 2010, mal_id: 2390, syobocal_tid: 50 },
-  // [1978-SUMMER] TV: 星の王子さま プチ・フランス
+  // [1978-SUMMER] TV: 星の王子さま プチ・プランス
   // https://annict.com/works/2011
   { annict_id: 2011, mal_id: 3811 },
   // [2011-SPRING] TV: 星空へ架かる橋
@@ -42800,4 +42800,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: とんち民話 がんばれ！彦一
   // https://annict.com/works/14789
   { annict_id: 14789 },
+  // [null-null] OTHER: 星の王子さま
+  // https://annict.com/works/14790
+  { annict_id: 14790 },
 ]
