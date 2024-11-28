@@ -38,17 +38,17 @@ export const fetchArmEntries = async (): Promise<ArmEntry[]> => {
 
 ## Statistics
 
-Currently, arm-supplementary has 39928 entries (+7206).
+Currently, arm-supplementary has 39929 entries (+7207).
 
 | Service                                     | arm-supplementary | arm / anime-offline-database |
 | :------------------------------------------ | :---------------: | :--------------------------: |
-| [Annict](https://annict.com)                |   14267 (+262)    |            14005             |
-| [AniList](https://anilist.co)               |   22448 (+1770)   |            20678             |
-| [MyAnimeList](https://myanimelist.net)      |   28044 (+504)    |            27540             |
+| [Annict](https://annict.com)                |   14268 (+263)    |            14005             |
+| [AniList](https://anilist.co)               |   22449 (+1771)   |            20678             |
+| [MyAnimeList](https://myanimelist.net)      |   28055 (+515)    |            27540             |
 | [しょぼいカレンダー](https://cal.syoboi.jp) |    6092 (+37)     |             6055             |
-| [AniDB](https://anidb.net)                  |   13353 (+162)    |            13191             |
-| [Anime-Planet](https://anime-planet.com)    |   23699 (+183)    |            23516             |
-| [aniSearch](https://anisearch.com)          |   18568 (+172)    |            18396             |
+| [AniDB](https://anidb.net)                  |   13354 (+163)    |            13191             |
+| [Anime-Planet](https://anime-planet.com)    |   23700 (+184)    |            23516             |
+| [aniSearch](https://anisearch.com)          |   18569 (+173)    |            18396             |
 | [Kitsu](https://kitsu.io)                   |   20186 (+192)    |            19994             |
-| [LiveChart.me](https://livechart.me)        |   11264 (+162)    |            11102             |
+| [LiveChart.me](https://livechart.me)        |   11265 (+163)    |            11102             |
 | [Anime Notifier](https://notify.moe)        |   16308 (+181)    |            16127             |

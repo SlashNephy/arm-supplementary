@@ -19891,28 +19891,28 @@ export const annict: ArmEntry[] = [
   { annict_id: 6709, mal_id: 27571 },
   // [1996-AUTUMN] TV: それいけ！アンパンマン クリスマススペシャル アンパンマンとブラッククリスマス
   // https://annict.com/works/6710
-  { annict_id: 6710 },
+  { annict_id: 6710, mal_id: 60308 },
   // [1997-AUTUMN] TV: それいけ！アンパンマン クリスマススペシャル メレンゲシスターズのクリスマス
   // https://annict.com/works/6711
-  { annict_id: 6711 },
+  { annict_id: 6711, mal_id: 60309 },
   // [1998-AUTUMN] TV: それいけ！アンパンマン クリスマススペシャル ぼくらのクリスマスコンサート
   // https://annict.com/works/6712
-  { annict_id: 6712 },
+  { annict_id: 6712, mal_id: 60322 },
   // [1999-AUTUMN] TV: それいけ！アンパンマン クリスマススペシャル アンパンマンとメリークリスマス
   // https://annict.com/works/6713
   { annict_id: 6713 },
   // [2000-AUTUMN] TV: それいけ！アンパンマン クリスマススペシャル アンパンマンのクリスマスショー
   // https://annict.com/works/6714
-  { annict_id: 6714 },
+  { annict_id: 6714, mal_id: 60364 },
   // [2001-AUTUMN] TV: それいけ！アンパンマン クリスマススペシャル アンパンマンとちいさなサンタのクリスマス
   // https://annict.com/works/6715
-  { annict_id: 6715 },
+  { annict_id: 6715, mal_id: 60365 },
   // [2002-AUTUMN] TV: それいけ！アンパンマン クリスマススペシャル 勇気のほのおとクリスマス
   // https://annict.com/works/6716
   { annict_id: 6716, mal_id: 27493 },
   // [2003-AUTUMN] TV: それいけ！アンパンマン クリスマススペシャル ブラックサンタとすてきなプレゼント
   // https://annict.com/works/6717
-  { annict_id: 6717 },
+  { annict_id: 6717, mal_id: 60383 },
   // [2004-AUTUMN] TV: それいけ！アンパンマン クリスマススペシャル アンパンマンとクリスマスの星
   // https://annict.com/works/6718
   { annict_id: 6718, mal_id: 16988 },
@@ -19930,13 +19930,13 @@ export const annict: ArmEntry[] = [
   { annict_id: 6722, mal_id: 17004 },
   // [2009-AUTUMN] TV: それいけ！アンパンマン クリスマススペシャル がんばれクリームパンダ！クリスマスの冒険
   // https://annict.com/works/6723
-  { annict_id: 6723 },
+  { annict_id: 6723, mal_id: 60384 },
   // [2010-AUTUMN] TV: それいけ！アンパンマン クリスマススペシャル 赤鼻チャッピー 勇気のクリスマス
   // https://annict.com/works/6724
-  { annict_id: 6724 },
+  { annict_id: 6724, mal_id: 60392 },
   // [2011-AUTUMN] TV: それいけ！アンパンマン クリスマススペシャル アンパンマンとゴミラの城のクリスマス
   // https://annict.com/works/6725
-  { annict_id: 6725 },
+  { annict_id: 6725, mal_id: 60393 },
   // [2012-AUTUMN] TV: それいけ！アンパンマン クリスマススペシャル ドレミファ島のクリスマス
   // https://annict.com/works/6726
   { annict_id: 6726 },
@@ -24841,7 +24841,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 8652, mal_id: 11673 },
   // [2012-AUTUMN] MOVIE: アンパンマンが生まれた日
   // https://annict.com/works/8653
-  { annict_id: 8653 },
+  { annict_id: 8653, mal_id: 55516 },
   // [2014-WINTER] WEB: よくわかる魔法科！
   // https://annict.com/works/8654
   { annict_id: 8654, mal_id: 23341 },
@@ -26380,7 +26380,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9262, mal_id: 7601 },
   // [2022-SPRING] MOVIE: それいけ！アンパンマン ドロリンとバケ〜るカーニバル
   // https://annict.com/works/9263
-  { annict_id: 9263 },
+  { annict_id: 9263, mal_id: 52452 },
   // [2022-SUMMER] TV: てっぺんっ!!!!!!!!!!!!!!!
   // https://annict.com/works/9264
   { annict_id: 9264, mal_id: 50760, syobocal_tid: 6399 },
@@ -42803,4 +42803,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 星の王子さま
   // https://annict.com/works/14790
   { annict_id: 14790 },
+  // [2025-null] TV: 宇宙人ムームー
+  // https://annict.com/works/14791
+  { annict_id: 14791 },
 ]
