@@ -26150,7 +26150,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] TV: ゴールデンカムイ 第4期
   // https://annict.com/works/9186
   { annict_id: 9186, mal_id: 50528, syobocal_tid: 6441 },
-  // [2022-WINTER] OVA: 僕のヒーローアカデミア THE MOVIE ワールド ヒーローズ ミッション ≪旅立ち≫
+  // [2022-WINTER] OVA: 僕のヒーローアカデミア THE MOVIE ワールド ヒーローズ ミッション 《旅立ち》
   // https://annict.com/works/9187
   { annict_id: 9187, mal_id: 50532 },
   // [2021-null] WEB: ねこでよければ
@@ -31712,7 +31712,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] TV: グレンダイザーU
   // https://annict.com/works/11078
   { annict_id: 11078, mal_id: 56189, syobocal_tid: 7115 },
-  // [2024-SUMMER] MOVIE: 僕のヒーローアカデミア THE MOVIE ユア ネクスト
+  // [2024-SUMMER] MOVIE: 僕のヒーローアカデミア THE MOVIE ユアネクスト
   // https://annict.com/works/11079
   { annict_id: 11079, mal_id: 56196 },
   // [2024-SPRING] TV: じいさんばあさん若返る
@@ -42815,4 +42815,10 @@ export const annict: ArmEntry[] = [
   // [2004-AUTUMN] OVA: BIONICLE2 -メトロ・ヌイの伝説-
   // https://annict.com/works/14794
   { annict_id: 14794 },
+  // [2020-SUMMER] OVA: 僕のヒーローアカデミア THE MOVIE ヒーローズ・ライジング エピローグ・プラス《夢を現実に》
+  // https://annict.com/works/14795
+  { annict_id: 14795, mal_id: 43683 },
+  // [2025-WINTER] OVA: 僕のヒーローアカデミア THE MOVIE ユアネクスト 《A PIECE OF CAKE》
+  // https://annict.com/works/14796
+  { annict_id: 14796 },
 ]
