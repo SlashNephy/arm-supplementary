@@ -29156,7 +29156,7 @@ export const annict: ArmEntry[] = [
   // [2012-null] MOVIE: はちみつ色のユン
   // https://annict.com/works/10223
   { annict_id: 10223 },
-  // [2012-null] MOVIE: しわ
+  // [2013-SPRING] MOVIE: しわ
   // https://annict.com/works/10224
   { annict_id: 10224 },
   // [1997-null] MOVIE: どんぐりの家
@@ -42788,4 +42788,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] TV: RINGING FATE
   // https://annict.com/works/14785
   { annict_id: 14785, mal_id: 57371 },
+  // [2008-AUTUMN] MOVIE: 動物農場
+  // https://annict.com/works/14786
+  { annict_id: 14786 },
 ]
