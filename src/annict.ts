@@ -42805,5 +42805,8 @@ export const annict: ArmEntry[] = [
   { annict_id: 14790 },
   // [2025-null] TV: 宇宙人ムームー
   // https://annict.com/works/14791
-  { annict_id: 14791 },
+  { annict_id: 14791, mal_id: 60401 },
+  // [2024-AUTUMN] WEB: Google Chrome アニメ 「がんばれ！くろーむ 」
+  // https://annict.com/works/14792
+  { annict_id: 14792 },
 ]
