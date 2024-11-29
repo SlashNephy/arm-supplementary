@@ -42896,4 +42896,7 @@ export const annict: ArmEntry[] = [
   // [null-null] MOVIE: PUI PUI モルカー ザ・ムービー MOLMAX続編
   // https://annict.com/works/14821
   { annict_id: 14821, mal_id: 60411 },
+  // [2024-AUTUMN] WEB: KUROMI’S PRETTY JOURNEY 〜はちゃめちゃ！マルチバース大脱出！〜
+  // https://annict.com/works/14822
+  { annict_id: 14822, mal_id: 60185 },
 ]
