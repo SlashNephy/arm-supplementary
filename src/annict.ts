@@ -42821,7 +42821,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] OVA: 僕のヒーローアカデミア THE MOVIE ユアネクスト 《A PIECE OF CAKE》
   // https://annict.com/works/14796
   { annict_id: 14796 },
-  // [null-null] TV: キミとアイドルプリキュア♪
+  // [2025-null] TV: キミとアイドルプリキュア♪
   // https://annict.com/works/14797
   { annict_id: 14797 },
 ]
