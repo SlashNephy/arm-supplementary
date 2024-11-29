@@ -42895,5 +42895,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 14820, mal_id: 60408 },
   // [null-null] MOVIE: PUI PUI モルカー ザ・ムービー MOLMAX続編
   // https://annict.com/works/14821
-  { annict_id: 14821 },
+  { annict_id: 14821, mal_id: 60411 },
 ]
