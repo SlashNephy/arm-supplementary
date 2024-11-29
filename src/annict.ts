@@ -42823,8 +42823,35 @@ export const annict: ArmEntry[] = [
   { annict_id: 14796 },
   // [2025-null] TV: キミとアイドルプリキュア♪
   // https://annict.com/works/14797
-  { annict_id: 14797 },
+  { annict_id: 14797, mal_id: 60407 },
   // [1932-WINTER] MOVIE: ビン坊の海賊退治
   // https://annict.com/works/14798
   { annict_id: 14798 },
+  // [1932-WINTER] MOVIE: ビン坊の万事あべこべ
+  // https://annict.com/works/14799
+  { annict_id: 14799 },
+  // [2014-SUMMER] OVA: LEGO: ザ・アドベンチャー
+  // https://annict.com/works/14800
+  { annict_id: 14800 },
+  // [1932-SPRING] MOVIE: ビン坊の踊る摩天楼
+  // https://annict.com/works/14801
+  { annict_id: 14801 },
+  // [2014-AUTUMN] OVA: LEGO バットマン：ザ・ムービー <ヒーロー大集合>
+  // https://annict.com/works/14802
+  { annict_id: 14802 },
+  // [1932-SPRING] MOVIE: ベティの将棋合戦
+  // https://annict.com/works/14803
+  { annict_id: 14803 },
+  // [1932-SPRING] MOVIE: ビン坊の大猟
+  // https://annict.com/works/14804
+  { annict_id: 14804 },
+  // [1932-SPRING] MOVIE: Hide and Seek（原題）
+  // https://annict.com/works/14805
+  { annict_id: 14805 },
+  // [1932-SPRING] MOVIE: ベティの入場無料
+  // https://annict.com/works/14806
+  { annict_id: 14806 },
+  // [1932-SUMMER] MOVIE: ベティの旅興行
+  // https://annict.com/works/14807
+  { annict_id: 14807 },
 ]
