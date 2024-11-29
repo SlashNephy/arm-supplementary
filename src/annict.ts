@@ -42890,4 +42890,7 @@ export const annict: ArmEntry[] = [
   // [2019-WINTER] OVA: LEGO スーパー・ヒーローズ：アクアマン
   // https://annict.com/works/14819
   { annict_id: 14819 },
+  // [2025-null] MOVIE: LUPIN THE IIIRD THE MOVIE
+  // https://annict.com/works/14820
+  { annict_id: 14820, mal_id: 60408 },
 ]
