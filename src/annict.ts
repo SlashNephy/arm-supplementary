@@ -42824,4 +42824,7 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: キミとアイドルプリキュア♪
   // https://annict.com/works/14797
   { annict_id: 14797 },
+  // [1932-WINTER] MOVIE: ビン坊の海賊退治
+  // https://annict.com/works/14798
+  { annict_id: 14798 },
 ]
