@@ -39677,7 +39677,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] TV: 履いてください、鷹峰さん
   // https://annict.com/works/13742
   { annict_id: 13742, mal_id: 59457 },
-  // [null-null] WEB: Duel Masters LOST ～月下の死神～
+  // [2024-AUTUMN] WEB: Duel Masters LOST ～月下の死神～
   // https://annict.com/works/13743
   { annict_id: 13743, mal_id: 59458 },
   // [null-null] OTHER: サイレント・ウィッチ 沈黙の魔女の隠しごと
