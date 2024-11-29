@@ -42854,4 +42854,22 @@ export const annict: ArmEntry[] = [
   // [1932-SUMMER] MOVIE: ベティの旅興行
   // https://annict.com/works/14807
   { annict_id: 14807 },
+  // [2015-WINTER] OVA: LEGO スーパー・ヒーローズ：ジャスティス・リーグ＜クローンとの戦い＞
+  // https://annict.com/works/14808
+  { annict_id: 14808 },
+  // [2015-SUMMER] OVA: LEGO スーパー・ヒーローズ：ジャスティス・リーグ＜悪の軍団誕生＞
+  // https://annict.com/works/14809
+  { annict_id: 14809 },
+  // [2016-WINTER] OVA: LEGO スーパー・ヒーローズ：ジャスティス・リーグ＜地球を救え！＞
+  // https://annict.com/works/14810
+  { annict_id: 14810 },
+  // [2016-SUMMER] OVA: LEGO スーパー・ヒーローズ：ジャスティス・リーグ＜ゴッサム大脱出＞
+  // https://annict.com/works/14811
+  { annict_id: 14811 },
+  // [2016-WINTER] OVA: レゴフレンズ：ガールズ 4 ライフ
+  // https://annict.com/works/14812
+  { annict_id: 14812 },
+  // [2016-SUMMER] OVA: LEGO スクービー・ドゥー：モンスターズ・ハリウッド
+  // https://annict.com/works/14813
+  { annict_id: 14813 },
 ]
