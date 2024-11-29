@@ -32396,7 +32396,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 異世界でチート能力を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～ 新アニメ
   // https://annict.com/works/11306
   { annict_id: 11306, mal_id: 56906 },
-  // [null-null] OTHER: 公女殿下の家庭教師
+  // [2025-null] TV: 公女殿下の家庭教師
   // https://annict.com/works/11307
   { annict_id: 11307, mal_id: 56907 },
   // [2024-SUMMER] MOVIE: 劇場総集編ぼっち・ざ・ろっく！ Re:Re:
