@@ -42872,4 +42872,22 @@ export const annict: ArmEntry[] = [
   // [2016-SUMMER] OVA: LEGO スクービー・ドゥー：モンスターズ・ハリウッド
   // https://annict.com/works/14813
   { annict_id: 14813 },
+  // [2016-SUMMER] OVA: LEGO スター・ウォーズ／ニュー・ヨーダ・クロニクル
+  // https://annict.com/works/14814
+  { annict_id: 14814 },
+  // [2016-AUTUMN] OVA: LEGO ジュラシック・ワールド：インドミナス大脱走！
+  // https://annict.com/works/14815
+  { annict_id: 14815 },
+  // [2017-SUMMER] OVA: レゴ DCスーパーヒーロー・ガールズ：ブレイン・ドレイン
+  // https://annict.com/works/14816
+  { annict_id: 14816 },
+  // [2018-WINTER] OVA: LEGO スーパー・ヒーローズ：フラッシュ
+  // https://annict.com/works/14817
+  { annict_id: 14817 },
+  // [2019-WINTER] OVA: LEGO スーパーヒーロー・ガールズ：スーパーヴィラン・ハイスクール
+  // https://annict.com/works/14818
+  { annict_id: 14818 },
+  // [2019-WINTER] OVA: LEGO スーパー・ヒーローズ：アクアマン
+  // https://annict.com/works/14819
+  { annict_id: 14819 },
 ]
