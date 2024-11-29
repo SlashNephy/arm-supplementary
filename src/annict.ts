@@ -42893,4 +42893,7 @@ export const annict: ArmEntry[] = [
   // [2025-null] MOVIE: LUPIN THE IIIRD THE MOVIE
   // https://annict.com/works/14820
   { annict_id: 14820, mal_id: 60408 },
+  // [null-null] MOVIE: PUI PUI モルカー ザ・ムービー MOLMAX続編
+  // https://annict.com/works/14821
+  { annict_id: 14821 },
 ]
