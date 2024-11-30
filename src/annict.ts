@@ -42899,4 +42899,10 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: KUROMI’S PRETTY JOURNEY 〜はちゃめちゃ！マルチバース大脱出！〜
   // https://annict.com/works/14822
   { annict_id: 14822, mal_id: 60185 },
+  // [1972-null] MOVIE: 寄生虫の一夜
+  // https://annict.com/works/14823
+  { annict_id: 14823, mal_id: 7025 },
+  // [1974-null] MOVIE: POP
+  // https://annict.com/works/14824
+  { annict_id: 14824, mal_id: 7028 },
 ]
