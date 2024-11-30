@@ -40664,7 +40664,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] OVA: デッドデッドデーモンズデデデデデストラクション(アニメシリーズ版)
   // https://annict.com/works/14076
   { annict_id: 14076, mal_id: 58883 },
-  // [2024-SUMMER] WEB: 『Pokémon Sleep』おねむりストーリー ピッピ
+  // [2024-SUMMER] WEB: 『Pokémon Sleep』おねむりストーリー
   // https://annict.com/works/14077
   { annict_id: 14077 },
   // [2024-SUMMER] WEB: ポケモンたちと秋の月
