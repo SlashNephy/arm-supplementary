@@ -42905,4 +42905,7 @@ export const annict: ArmEntry[] = [
   // [1974-null] MOVIE: POP
   // https://annict.com/works/14824
   { annict_id: 14824, mal_id: 7028 },
+  // [2025-WINTER] TV: 闇芝居 十四期
+  // https://annict.com/works/14825
+  { annict_id: 14825, mal_id: 60410 },
 ]
