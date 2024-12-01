@@ -42908,4 +42908,19 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] TV: 闇芝居 十四期
   // https://annict.com/works/14825
   { annict_id: 14825, mal_id: 60410 },
+  // [2019-SUMMER] WEB: TALES OF THE RAYS Everlasting Destiny
+  // https://annict.com/works/14826
+  { annict_id: 14826, mal_id: 39067 },
+  // [2007-SPRING] OVA: テイルズ オブ シンフォニア THE ANIMATION クラトス先生のプライベートレッスン
+  // https://annict.com/works/14827
+  { annict_id: 14827, mal_id: 3954 },
+  // [2008-SUMMER] OVA: テイルズ オブ シンフォニア THE ANIMATION 帰ってきたクラトス先生のプライベートレッスン
+  // https://annict.com/works/14828
+  { annict_id: 14828, mal_id: 8908 },
+  // [2010-WINTER] OVA: テイルズ オブ シンフォニア THE ANIMATION テセアラ編 新作おまけアニメ
+  // https://annict.com/works/14829
+  { annict_id: 14829, mal_id: 8909 },
+  // [2011-AUTUMN] OVA: テイルズ オブ シンフォニア THE ANIMATION 世界統合編 新作おまけアニメ
+  // https://annict.com/works/14830
+  { annict_id: 14830, mal_id: 12709 },
 ]
