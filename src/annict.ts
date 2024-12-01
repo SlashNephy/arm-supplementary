@@ -42917,10 +42917,10 @@ export const annict: ArmEntry[] = [
   // [2008-SUMMER] OVA: テイルズ オブ シンフォニア THE ANIMATION 帰ってきたクラトス先生のプライベートレッスン
   // https://annict.com/works/14828
   { annict_id: 14828, mal_id: 8908 },
-  // [2010-WINTER] OVA: テイルズ オブ シンフォニア THE ANIMATION テセアラ編 新作おまけアニメ
+  // [2010-WINTER] OVA: テイルズ オブ シンフォニア THE ANIMATION テセアラ編 おまけアニメ
   // https://annict.com/works/14829
   { annict_id: 14829, mal_id: 8909 },
-  // [2011-AUTUMN] OVA: テイルズ オブ シンフォニア THE ANIMATION 世界統合編 新作おまけアニメ
+  // [2011-AUTUMN] OVA: テイルズ オブ シンフォニア THE ANIMATION 世界統合編 おまけアニメ
   // https://annict.com/works/14830
   { annict_id: 14830, mal_id: 12709 },
 ]
