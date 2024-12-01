@@ -42932,4 +42932,7 @@ export const annict: ArmEntry[] = [
   // [1964-null] MOVIE: 殺人 MURDER！
   // https://annict.com/works/14833
   { annict_id: 14833, mal_id: 3743 },
+  // [1960-null] MOVIE: 切手の幻想
+  // https://annict.com/works/14834
+  { annict_id: 14834, mal_id: 7032 },
 ]
