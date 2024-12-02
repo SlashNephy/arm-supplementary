@@ -42950,4 +42950,16 @@ export const annict: ArmEntry[] = [
   // [1937-null] MOVIE: 色彩漫画の出來る迄
   // https://annict.com/works/14839
   { annict_id: 14839 },
+  // [2020-AUTUMN] TV: それいけ！アンパンマン クリスマススペシャル サンタさんをすくえ! 氷の城のクリスマス
+  // https://annict.com/works/14840
+  { annict_id: 14840 },
+  // [2021-AUTUMN] TV: それいけ！アンパンマン クリスマススペシャル てつの星のアイアンクリスマス
+  // https://annict.com/works/14841
+  { annict_id: 14841 },
+  // [2022-AUTUMN] TV: それいけ！アンパンマン クリスマススペシャル ちびっこサンタのニコニコクリスマス
+  // https://annict.com/works/14842
+  { annict_id: 14842 },
+  // [2023-AUTUMN] TV: それいけ！アンパンマン クリスマススペシャル あかちゃんまんとばいきんサンタ
+  // https://annict.com/works/14843
+  { annict_id: 14843 },
 ]
