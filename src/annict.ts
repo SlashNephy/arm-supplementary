@@ -26879,7 +26879,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] WEB: ケンガンアシュラ Season2
   // https://annict.com/works/9461
   { annict_id: 9461, mal_id: 51369 },
-  // [2002-AUTUMN] MOVIE: 空想の空飛ぶ機械達
+  // [2002-AUTUMN] MOVIE: 空想の空とぶ機械達
   // https://annict.com/works/9462
   { annict_id: 9462, mal_id: 19401 },
   // [2022-SUMMER] TV: オリエント 第2クール「淡路島激闘編」
