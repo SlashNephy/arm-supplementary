@@ -31567,7 +31567,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11029, mal_id: 55995 },
   // [2025-WINTER] TV: ギルドの受付嬢ですが、残業は嫌なのでボスをソロ討伐しようと思います
   // https://annict.com/works/11030
-  { annict_id: 11030, mal_id: 55997 },
+  { annict_id: 11030, mal_id: 55997, syobocal_tid: 7297 },
   // [2024-SUMMER] TV: 恋は双子で割り切れない
   // https://annict.com/works/11031
   { annict_id: 11031, mal_id: 55996, syobocal_tid: 7112 },
@@ -32851,7 +32851,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11457, mal_id: 57034 },
   // [2025-WINTER] TV: 妃教育から逃げたい私
   // https://annict.com/works/11458
-  { annict_id: 11458, mal_id: 57050 },
+  { annict_id: 11458, mal_id: 57050, syobocal_tid: 7285 },
   // [2015-SUMMER] WEB: HAPPY FOREST
   // https://annict.com/works/11459
   { annict_id: 11459, mal_id: 36097 },
@@ -35134,7 +35134,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12223, mal_id: 57623, syobocal_tid: 6994 },
   // [2025-WINTER] TV: 君のことが大大大大大好きな100人の彼女 第2期
   // https://annict.com/works/12224
-  { annict_id: 12224, mal_id: 57616 },
+  { annict_id: 12224, mal_id: 57616, syobocal_tid: 7288 },
   // [1985-AUTUMN] OVA: こちら葛飾区亀有公園前派出所(ジャンプスペシャルアニメ版)
   // https://annict.com/works/12225
   { annict_id: 12225, mal_id: 3546 },
@@ -35428,7 +35428,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12321, mal_id: 31019 },
   // [2025-WINTER] TV: 日本へようこそエルフさん。
   // https://annict.com/works/12322
-  { annict_id: 12322, mal_id: 57648 },
+  { annict_id: 12322, mal_id: 57648, syobocal_tid: 7283 },
   // [null-null] TV: 呪術廻戦 死滅回游
   // https://annict.com/works/12323
   { annict_id: 12323, mal_id: 57658 },
@@ -35542,7 +35542,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12359 },
   // [2025-WINTER] TV: 悪役令嬢転生おじさん
   // https://annict.com/works/12360
-  { annict_id: 12360, mal_id: 57719 },
+  { annict_id: 12360, mal_id: 57719, syobocal_tid: 7293 },
   // [2018-SUMMER] OVA: 血界戦線 & BEYOND OAD
   // https://annict.com/works/12361
   { annict_id: 12361, mal_id: 37364 },
@@ -36175,7 +36175,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12571, mal_id: 58080, syobocal_tid: 7043 },
   // [2025-WINTER] TV: ニートくノ一となぜか同棲はじめました
   // https://annict.com/works/12572
-  { annict_id: 12572, mal_id: 58082 },
+  { annict_id: 12572, mal_id: 58082, syobocal_tid: 7290 },
   // [2004-SPRING] OVA: ストラトス・フォー CODE:X-1/X-2
   // https://annict.com/works/12573
   { annict_id: 12573, mal_id: 422 },
@@ -36394,7 +36394,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12645 },
   // [2025-WINTER] TV: Übel Blatt〜ユーベルブラット〜
   // https://annict.com/works/12646
-  { annict_id: 12646, mal_id: 58216 },
+  { annict_id: 12646, mal_id: 58216, syobocal_tid: 7298 },
   // [2000-SPRING] TV: ボブとはたらくブーブーズ
   // https://annict.com/works/12647
   { annict_id: 12647 },
@@ -36631,7 +36631,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12724 },
   // [2025-WINTER] TV: どうせ、恋してしまうんだ。
   // https://annict.com/works/12725
-  { annict_id: 12725, mal_id: 58259 },
+  { annict_id: 12725, mal_id: 58259, syobocal_tid: 7294 },
   // [2025-WINTER] TV: ババンババンバンバンパイア
   // https://annict.com/works/12726
   { annict_id: 12726, mal_id: 58265 },
@@ -36976,7 +36976,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12839 },
   // [2025-WINTER] TV: 薬屋のひとりごと 第2期
   // https://annict.com/works/12840
-  { annict_id: 12840, mal_id: 58514 },
+  { annict_id: 12840, mal_id: 58514, syobocal_tid: 7296 },
   // [2024-SPRING] MOVIE: 劇場用再編集版 ウマ娘 プリティーダービー ROAD TO THE TOP
   // https://annict.com/works/12841
   { annict_id: 12841, mal_id: 58517 },
@@ -37084,7 +37084,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12876, mal_id: 49661 },
   // [2025-WINTER] TV: 天久鷹央の推理カルテ
   // https://annict.com/works/12877
-  { annict_id: 12877, mal_id: 58600 },
+  { annict_id: 12877, mal_id: 58600, syobocal_tid: 7284 },
   // [2024-SUMMER] TV: 戦国妖狐 千魔混沌編
   // https://annict.com/works/12878
   { annict_id: 12878, mal_id: 58488, syobocal_tid: 7137 },
@@ -37663,7 +37663,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13069 },
   // [2025-WINTER] TV: SAKAMOTO DAYS
   // https://annict.com/works/13070
-  { annict_id: 13070, mal_id: 58939 },
+  { annict_id: 13070, mal_id: 58939, syobocal_tid: 7287 },
   // [2024-SPRING] TV: Nyaaaanvy（ニャンビー）
   // https://annict.com/works/13071
   { annict_id: 13071, mal_id: 58935 },
@@ -37930,7 +37930,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13158 },
   // [2025-WINTER] TV: 外れスキル《木の実マスター》 ～スキルの実（食べたら死ぬ）を無限に食べられるようになった件について～
   // https://annict.com/works/13159
-  { annict_id: 13159, mal_id: 59002 },
+  { annict_id: 13159, mal_id: 59002, syobocal_tid: 7291 },
   // [1938-SPRING] MOVIE: モスの消防隊
   // https://annict.com/works/13160
   { annict_id: 13160 },
@@ -38509,7 +38509,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13352 },
   // [2025-WINTER] TV: FARMAGIA
   // https://annict.com/works/13353
-  { annict_id: 13353, mal_id: 59113 },
+  { annict_id: 13353, mal_id: 59113, syobocal_tid: 7295 },
   // [1948-SPRING] MOVIE: ドナルドダックの育児日記
   // https://annict.com/works/13354
   { annict_id: 13354 },
@@ -38800,7 +38800,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13449 },
   // [2025-WINTER] TV: クラスの大嫌いな女子と結婚することになった。
   // https://annict.com/works/13450
-  { annict_id: 13450, mal_id: 59135 },
+  { annict_id: 13450, mal_id: 59135, syobocal_tid: 7289 },
   // [null-null] TV: 月が導く異世界道中 第三幕
   // https://annict.com/works/13451
   { annict_id: 13451, mal_id: 59139 },
@@ -39337,7 +39337,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13628, syobocal_tid: 7263 },
   // [2025-WINTER] TV: マジック・メイカー ～異世界魔法の作り方～
   // https://annict.com/works/13629
-  { annict_id: 13629, mal_id: 59265 },
+  { annict_id: 13629, mal_id: 59265, syobocal_tid: 7286 },
   // [null-null] TV: SANDA
   // https://annict.com/works/13630
   { annict_id: 13630, mal_id: 59267 },
@@ -42787,7 +42787,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14784, mal_id: 60395 },
   // [2025-WINTER] TV: RINGING FATE
   // https://annict.com/works/14785
-  { annict_id: 14785, mal_id: 57371 },
+  { annict_id: 14785, mal_id: 57371, syobocal_tid: 7292 },
   // [2008-AUTUMN] MOVIE: 動物農場
   // https://annict.com/works/14786
   { annict_id: 14786 },
