@@ -42935,4 +42935,19 @@ export const annict: ArmEntry[] = [
   // [1960-null] MOVIE: 切手の幻想
   // https://annict.com/works/14834
   { annict_id: 14834, mal_id: 7032 },
+  // [1934-null] MOVIE: 漫画 紙芝居 金太郎の卷
+  // https://annict.com/works/14835
+  { annict_id: 14835, mal_id: 35400 },
+  // [1935-null] MOVIE: AN EXPRESSION(表現)
+  // https://annict.com/works/14836
+  { annict_id: 14836, mal_id: 35402 },
+  // [1934-null] MOVIE: RHYTHM(リズム)
+  // https://annict.com/works/14837
+  { annict_id: 14837, mal_id: 35407 },
+  // [1935-null] MOVIE: PROPAGATE(開花)
+  // https://annict.com/works/14838
+  { annict_id: 14838, mal_id: 35406 },
+  // [1937-null] MOVIE: 色彩漫画の出來る迄
+  // https://annict.com/works/14839
+  { annict_id: 14839 },
 ]
