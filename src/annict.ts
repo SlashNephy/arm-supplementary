@@ -42962,4 +42962,19 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: それいけ！アンパンマン クリスマススペシャル あかちゃんまんとばいきんサンタ
   // https://annict.com/works/14843
   { annict_id: 14843 },
+  // [1935-null] MOVIE: いなばの国の兎さん
+  // https://annict.com/works/14844
+  { annict_id: 14844, mal_id: 35389 },
+  // [1936-null] MOVIE: おいらの非常時
+  // https://annict.com/works/14845
+  { annict_id: 14845, mal_id: 35394 },
+  // [1939-null] MOVIE: マングワ 新猿蟹合戰
+  // https://annict.com/works/14846
+  { annict_id: 14846, mal_id: 30045 },
+  // [1940-null] MOVIE: あひる陸戰隊
+  // https://annict.com/works/14847
+  { annict_id: 14847, mal_id: 28241 },
+  // [1941-null] MOVIE: なまけぎつね
+  // https://annict.com/works/14848
+  { annict_id: 14848, mal_id: 34993 },
 ]
