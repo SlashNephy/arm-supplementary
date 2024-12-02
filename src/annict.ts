@@ -19900,7 +19900,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6712, mal_id: 60322 },
   // [1999-AUTUMN] TV: それいけ！アンパンマン クリスマススペシャル アンパンマンとメリークリスマス
   // https://annict.com/works/6713
-  { annict_id: 6713 },
+  { annict_id: 6713, mal_id: 60323 },
   // [2000-AUTUMN] TV: それいけ！アンパンマン クリスマススペシャル アンパンマンのクリスマスショー
   // https://annict.com/works/6714
   { annict_id: 6714, mal_id: 60364 },
@@ -19939,16 +19939,16 @@ export const annict: ArmEntry[] = [
   { annict_id: 6725, mal_id: 60393 },
   // [2012-AUTUMN] TV: それいけ！アンパンマン クリスマススペシャル ドレミファ島のクリスマス
   // https://annict.com/works/6726
-  { annict_id: 6726 },
+  { annict_id: 6726, mal_id: 60404 },
   // [2013-AUTUMN] TV: それいけ！アンパンマン クリスマススペシャル かがやけ！ブリキッドのクリスマスツリー
   // https://annict.com/works/6727
-  { annict_id: 6727 },
+  { annict_id: 6727, mal_id: 60405 },
   // [2014-AUTUMN] TV: それいけ！アンパンマン クリスマススペシャル 	アンパンマンとサンタさんへの手紙
   // https://annict.com/works/6728
-  { annict_id: 6728 },
+  { annict_id: 6728, mal_id: 60422 },
   // [2015-AUTUMN] TV: それいけ！アンパンマン クリスマススペシャル 	ばいきんまんとすてきなクリスマスケーキ
   // https://annict.com/works/6729
-  { annict_id: 6729 },
+  { annict_id: 6729, mal_id: 60423 },
   // [2016-AUTUMN] TV: それいけ！アンパンマン クリスマススペシャル 	ポッポちゃんのきらきらクリスマス
   // https://annict.com/works/6730
   { annict_id: 6730 },
