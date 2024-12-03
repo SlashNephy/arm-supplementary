@@ -42977,4 +42977,7 @@ export const annict: ArmEntry[] = [
   // [1941-null] MOVIE: なまけぎつね
   // https://annict.com/works/14848
   { annict_id: 14848, mal_id: 34993 },
+  // [2024-AUTUMN] WEB: UZUMAKI: Animated TV Series
+  // https://annict.com/works/14849
+  { annict_id: 14849, mal_id: 40333 },
 ]
