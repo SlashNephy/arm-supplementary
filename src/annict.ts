@@ -37180,7 +37180,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12908 },
   // [2024-SPRING] WEB: selector loth WIXOSS
   // https://annict.com/works/12909
-  { annict_id: 12909 },
+  { annict_id: 12909, mal_id: 58816 },
   // [null-null] TV: アークナイツ【焔燼曙明/RISE FROM EMBER】
   // https://annict.com/works/12910
   { annict_id: 12910, mal_id: 58749 },
