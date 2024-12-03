@@ -30196,7 +30196,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10571, mal_id: 54716, syobocal_tid: 6800 },
   // [2025-WINTER] TV: 魔法つかいプリキュア！！～MIRAI DAYS～
   // https://annict.com/works/10572
-  { annict_id: 10572, mal_id: 54717 },
+  { annict_id: 10572, mal_id: 54717, syobocal_tid: 7299 },
   // [2023-WINTER] WEB: ぷちクールドジ男子のひとコマ
   // https://annict.com/works/10573
   { annict_id: 10573 },
