@@ -26726,7 +26726,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] TV: 無職転生Ⅱ ～異世界行ったら本気だす～
   // https://annict.com/works/9410
   { annict_id: 9410, mal_id: 51179, syobocal_tid: 6721 },
-  // [1992-AUTUMN] OVA: 銀河英雄伝説外伝 黄金の翼
+  // [1992-AUTUMN] OVA: 銀河英雄伝説 外伝 黄金の翼
   // https://annict.com/works/9411
   { annict_id: 9411, mal_id: 3015, syobocal_tid: 1899 },
   // [1993-AUTUMN] MOVIE: 銀河英雄伝説 外伝 新たなる戦いの序曲
@@ -40661,7 +40661,7 @@ export const annict: ArmEntry[] = [
   // [null-null] MOVIE: 劇場版 僕の心のヤバイやつ
   // https://annict.com/works/14075
   { annict_id: 14075, mal_id: 59985 },
-  // [2024-AUTUMN] OVA: デッドデッドデーモンズデデデデデストラクション(アニメシリーズ版)
+  // [2024-AUTUMN] OVA: デッドデッドデーモンズデデデデデストラクション アニメシリーズ
   // https://annict.com/works/14076
   { annict_id: 14076, mal_id: 58883 },
   // [2024-SUMMER] WEB: 『Pokémon Sleep』おねむりストーリー
@@ -42982,7 +42982,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14849, mal_id: 40333 },
   // [2025-SPRING] MOVIE: 名探偵コナン 隻眼の残像
   // https://annict.com/works/14850
-  { annict_id: 14850 },
+  { annict_id: 14850, mal_id: 60445 },
   // [2025-SPRING] TV: 増田こうすけ劇場 ギャグマンガ日和GO
   // https://annict.com/works/14851
   { annict_id: 14851 },
