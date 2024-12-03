@@ -19951,10 +19951,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 6729, mal_id: 60423 },
   // [2016-AUTUMN] TV: それいけ！アンパンマン クリスマススペシャル 	ポッポちゃんのきらきらクリスマス
   // https://annict.com/works/6730
-  { annict_id: 6730 },
+  { annict_id: 6730, mal_id: 60430 },
   // [2017-AUTUMN] TV: それいけ！アンパンマン クリスマススペシャル コキンちゃんとクリスマスのおくりもの
   // https://annict.com/works/6731
-  { annict_id: 6731 },
+  { annict_id: 6731, mal_id: 60431 },
   // [2018-AUTUMN] TV: それいけ！アンパンマン クリスマススペシャル アンパンマンとはじめてのクリスマスナイト
   // https://annict.com/works/6732
   { annict_id: 6732 },
@@ -27358,7 +27358,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9621, mal_id: 4459 },
   // [2022-SPRING] TV: 忍たま乱太郎 30年SP「100%勇気!ドクタケ出城をやっつけろの段」
   // https://annict.com/works/9622
-  { annict_id: 9622 },
+  { annict_id: 9622, mal_id: 58280 },
   // [2022-AUTUMN] TV: ヒューマンバグ大学 -不死学部不幸学科-
   // https://annict.com/works/9623
   { annict_id: 9623, mal_id: 53012, syobocal_tid: 6470 },
