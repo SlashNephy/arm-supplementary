@@ -41555,7 +41555,7 @@ export const annict: ArmEntry[] = [
   // [2007-SPRING] OVA: キディ・グレイド2 パイロット映像
   // https://annict.com/works/14373
   { annict_id: 14373, mal_id: 5859 },
-  // [2016-WINTER] OVA: 機動戦士ガンダム0083 STARDUST MEMORY「宇宙の蜉蝣2」
+  // [2016-WINTER] OVA: 機動戦士ガンダム0083 STARDUST MEMORY 宇宙の蜉蝣2
   // https://annict.com/works/14374
   { annict_id: 14374, mal_id: 32898 },
   // [1990-WINTER] OVA: 気ままにアイドル
@@ -42988,11 +42988,11 @@ export const annict: ArmEntry[] = [
   { annict_id: 14851 },
   // [null-null] TV: よわよわ先生
   // https://annict.com/works/14852
-  { annict_id: 14852 },
-  // [null-null] TV: 機動戦士 Gundam GQuuuuuuX
+  { annict_id: 14852, mal_id: 60444 },
+  // [null-null] TV: 機動戦士Gundam GQuuuuuuX
   // https://annict.com/works/14853
   { annict_id: 14853, mal_id: 60449 },
-  // [2025-WINTER] MOVIE: 機動戦士 Gundam GQuuuuuuX -Beginning-
+  // [2025-WINTER] MOVIE: 機動戦士Gundam GQuuuuuuX -Beginning-
   // https://annict.com/works/14854
   { annict_id: 14854 },
 ]
