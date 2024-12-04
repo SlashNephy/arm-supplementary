@@ -42989,4 +42989,10 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: よわよわ先生
   // https://annict.com/works/14852
   { annict_id: 14852 },
+  // [null-null] TV: 機動戦士 Gundam GQuuuuuuX
+  // https://annict.com/works/14853
+  { annict_id: 14853, mal_id: 60449 },
+  // [2025-WINTER] MOVIE: 機動戦士 Gundam GQuuuuuuX -Beginning-
+  // https://annict.com/works/14854
+  { annict_id: 14854 },
 ]
