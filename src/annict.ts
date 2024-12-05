@@ -28187,10 +28187,10 @@ export const annict: ArmEntry[] = [
   // [1975-SPRING] TV: ラ・セーヌの星
   // https://annict.com/works/9899
   { annict_id: 9899, mal_id: 3054 },
-  // [1975-SPRING] TV: ドン・チャック物語(第1期)
+  // [1975-SPRING] TV: ドン・チャック物語
   // https://annict.com/works/9900
   { annict_id: 9900, mal_id: 2575 },
-  // [1976-SPRING] TV: ドン・チャック物語(第2期)
+  // [1976-SPRING] TV: 新ドン・チャック物語
   // https://annict.com/works/9901
   { annict_id: 9901, mal_id: 23393 },
   // [1975-AUTUMN] TV: 草原の少女ローラ
