@@ -43007,4 +43007,10 @@ export const annict: ArmEntry[] = [
   // [1944-AUTUMN] MOVIE: フクちゃんの潜水艦
   // https://annict.com/works/14858
   { annict_id: 14858, mal_id: 7523 },
+  // [1935-WINTER] MOVIE: 茶釜音頭
+  // https://annict.com/works/14859
+  { annict_id: 14859, mal_id: 17076 },
+  // [1946-null] MOVIE: 桜（春の幻想）
+  // https://annict.com/works/14860
+  { annict_id: 14860, mal_id: 15455 },
 ]
