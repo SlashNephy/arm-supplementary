@@ -35734,7 +35734,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12423, mal_id: 57160 },
   // [2025-WINTER] TV: 魔神創造伝ワタル
   // https://annict.com/works/12424
-  { annict_id: 12424, mal_id: 57827 },
+  { annict_id: 12424, mal_id: 57827, syobocal_tid: 7301 },
   // [2025-null] TV: 神椿市建設中。
   // https://annict.com/works/12425
   { annict_id: 12425, mal_id: 57820 },
@@ -36403,7 +36403,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12648 },
   // [2024-AUTUMN] WEB: 夜は猫といっしょ 3期
   // https://annict.com/works/12649
-  { annict_id: 12649, mal_id: 58199 },
+  { annict_id: 12649, mal_id: 58199, syobocal_tid: 7300 },
   // [1971-AUTUMN] OTHER: 青いトリトン（パイロット）
   // https://annict.com/works/12650
   { annict_id: 12650 },
@@ -38107,7 +38107,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13217 },
   // [2025-WINTER] TV: 花は咲く、修羅の如く
   // https://annict.com/works/13218
-  { annict_id: 13218, mal_id: 59055 },
+  { annict_id: 13218, mal_id: 59055, syobocal_tid: 7303 },
   // [2024-SUMMER] MOVIE: インサイド・ヘッド2
   // https://annict.com/works/13219
   { annict_id: 13219 },
@@ -40579,7 +40579,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14046, mal_id: 10045 },
   // [2025-WINTER] TV: キン肉マン 完璧超人始祖編 Season 2
   // https://annict.com/works/14047
-  { annict_id: 14047, mal_id: 59914 },
+  { annict_id: 14047, mal_id: 59914, syobocal_tid: 7302 },
   // [null-null] TV: 狼と香辛料 MERCHANT MEETS THE WISE WOLF 2期
   // https://annict.com/works/14048
   { annict_id: 14048, mal_id: 59928 },
