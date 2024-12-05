@@ -43016,4 +43016,7 @@ export const annict: ArmEntry[] = [
   // [2003-WINTER] MOVIE: SUPERFLAT MONOGRAM
   // https://annict.com/works/14861
   { annict_id: 14861, mal_id: 2290 },
+  // [2009-SPRING] MOVIE: SUPERFLAT FIRST LOVE
+  // https://annict.com/works/14862
+  { annict_id: 14862, mal_id: 6607 },
 ]
