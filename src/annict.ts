@@ -43013,4 +43013,7 @@ export const annict: ArmEntry[] = [
   // [1946-null] MOVIE: 桜（春の幻想）
   // https://annict.com/works/14860
   { annict_id: 14860, mal_id: 15455 },
+  // [2003-WINTER] MOVIE: SUPERFLAT MONOGRAM
+  // https://annict.com/works/14861
+  { annict_id: 14861, mal_id: 2290 },
 ]
