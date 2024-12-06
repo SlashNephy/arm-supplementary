@@ -26683,7 +26683,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9395, mal_id: 51122, syobocal_tid: 7033 },
   // [2025-WINTER] TV: グリザイア：ファントムトリガー
   // https://annict.com/works/9396
-  { annict_id: 9396, mal_id: 51119 },
+  { annict_id: 9396, mal_id: 51119, syobocal_tid: 7304 },
   // [2022-AUTUMN] TV: 農民関連のスキルばっか上げてたら何故か強くなった。
   // https://annict.com/works/9397
   { annict_id: 9397, mal_id: 51128, syobocal_tid: 6457 },
