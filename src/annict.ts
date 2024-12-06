@@ -43034,4 +43034,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: ミニっと！かいじゅう８号
   // https://annict.com/works/14867
   { annict_id: 14867 },
+  // [2025-WINTER] TV: 猫になりたい田万川くん
+  // https://annict.com/works/14868
+  { annict_id: 14868 },
 ]
