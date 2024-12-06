@@ -31364,7 +31364,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] MOVIE: 映画 ラブライブ！虹ヶ咲学園スクールアイドル同好会 完結編 第1章
   // https://annict.com/works/10962
   { annict_id: 10962, mal_id: 55748 },
-  // [2025-WINTER] MOVIE: 映画 ラブライブ！虹ヶ咲学園スクールアイドル同好会 完結編 第2章
+  // [2025-AUTUMN] MOVIE: 映画 ラブライブ！虹ヶ咲学園スクールアイドル同好会 完結編 第2章
   // https://annict.com/works/10963
   { annict_id: 10963, mal_id: 60159 },
   // [null-null] MOVIE: 映画 ラブライブ！虹ヶ咲学園スクールアイドル同好会 完結編 第3章
