@@ -36946,7 +36946,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12829, mal_id: 59275 },
   // [2025-WINTER] TV: 全修。
   // https://annict.com/works/12830
-  { annict_id: 12830, mal_id: 58502 },
+  { annict_id: 12830, mal_id: 58502, syobocal_tid: 7307 },
   // [2023-WINTER] WEB: 天体観測
   // https://annict.com/works/12831
   { annict_id: 12831, mal_id: 54009 },
