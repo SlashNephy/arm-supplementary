@@ -19957,7 +19957,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6731, mal_id: 60431 },
   // [2018-AUTUMN] TV: それいけ！アンパンマン クリスマススペシャル アンパンマンとはじめてのクリスマスナイト
   // https://annict.com/works/6732
-  { annict_id: 6732 },
+  { annict_id: 6732, mal_id: 60438 },
   // [1990-SUMMER] TV: それいけ！アンパンマン みなみの海をすくえ！
   // https://annict.com/works/6733
   { annict_id: 6733, mal_id: 21291 },
@@ -21226,7 +21226,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 7253, mal_id: 40881 },
   // [2019-AUTUMN] TV: それいけ！アンパンマン クリスマススペシャル サンタになったちびおおかみくん
   // https://annict.com/works/7254
-  { annict_id: 7254 },
+  { annict_id: 7254, mal_id: 60439 },
   // [2021-SPRING] MOVIE: それいけ！アンパンマン ふわふわフワリーと雲の国
   // https://annict.com/works/7255
   { annict_id: 7255, mal_id: 41028 },
@@ -43031,4 +43031,7 @@ export const annict: ArmEntry[] = [
   // [1942-null] MOVIE: 協力防空戦
   // https://annict.com/works/14866
   { annict_id: 14866, mal_id: 28067 },
+  // [2024-AUTUMN] WEB: ミニっと！かいじゅう８号
+  // https://annict.com/works/14867
+  { annict_id: 14867 },
 ]
