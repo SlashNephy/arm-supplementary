@@ -43022,4 +43022,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～
   // https://annict.com/works/14863
   { annict_id: 14863, mal_id: 60460 },
+  // [1978-null] MOVIE: ピカドン
+  // https://annict.com/works/14864
+  { annict_id: 14864, mal_id: 7117 },
 ]
