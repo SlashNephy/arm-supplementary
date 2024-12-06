@@ -34061,7 +34061,7 @@ export const annict: ArmEntry[] = [
   // [1987-AUTUMN] OVA: Good Morning アルテア
   // https://annict.com/works/11863
   { annict_id: 11863, mal_id: 2482 },
-  // [null-null] TV: 本好きの下剋上 司書になるためには手段を選んでいられません 領主の養女
+  // [2026-null] TV: 本好きの下剋上 司書になるためには手段を選んでいられません 領主の養女
   // https://annict.com/works/11864
   { annict_id: 11864, mal_id: 57466 },
   // [1966-SUMMER] MOVIE: 長編漫画映画 ジャングル大帝
@@ -39992,7 +39992,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] MOVIE: 劇場版イナズマイレブン 新たなる英雄たちの序章
   // https://annict.com/works/13848
   { annict_id: 13848, mal_id: 59710 },
-  // [null-null] OTHER: ゲーセン少女と異文化交流
+  // [2025-SUMMER] TV: ゲーセン少女と異文化交流
   // https://annict.com/works/13849
   { annict_id: 13849, mal_id: 59689 },
   // [null-null] TV: 死亡遊戯で飯を食う。
