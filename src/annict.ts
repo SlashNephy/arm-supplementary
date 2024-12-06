@@ -37249,7 +37249,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12931 },
   // [2025-WINTER] TV: いずれ最強の錬金術師？
   // https://annict.com/works/12932
-  { annict_id: 12932, mal_id: 58822 },
+  { annict_id: 12932, mal_id: 58822, syobocal_tid: 7305 },
   // [null-null] OTHER: 淡島百景
   // https://annict.com/works/12933
   { annict_id: 12933, mal_id: 58820 },
@@ -39526,7 +39526,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13691 },
   // [2025-WINTER] TV: サラリーマンが異世界に行ったら四天王になった話
   // https://annict.com/works/13692
-  { annict_id: 13692, mal_id: 59349 },
+  { annict_id: 13692, mal_id: 59349, syobocal_tid: 7306 },
   // [1973-null] OTHER: まるまるボンちゃん パイロットフィルム
   // https://annict.com/works/13693
   { annict_id: 13693 },
