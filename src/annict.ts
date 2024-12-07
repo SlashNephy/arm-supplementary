@@ -32017,7 +32017,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11179, mal_id: 55889 },
   // [2025-WINTER] TV: わたしの幸せな結婚 第二期
   // https://annict.com/works/11180
-  { annict_id: 11180, mal_id: 56701 },
+  { annict_id: 11180, mal_id: 56701, syobocal_tid: 7308 },
   // [2023-AUTUMN] WEB: 鬼武者
   // https://annict.com/works/11181
   { annict_id: 11181, mal_id: 53150 },
