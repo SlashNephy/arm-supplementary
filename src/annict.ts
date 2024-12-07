@@ -43040,4 +43040,13 @@ export const annict: ArmEntry[] = [
   // [2017-SUMMER] WEB: THE KING OF FIGHTERS： DESTINY
   // https://annict.com/works/14869
   { annict_id: 14869, mal_id: 35204 },
+  // [2024-AUTUMN] TV: そろ谷のけいばっち
+  // https://annict.com/works/14870
+  { annict_id: 14870, syobocal_tid: 7282 },
+  // [2024-AUTUMN] WEB: 『モアナと伝説の海２』3Dショートアニメ「ビヨンド ～越えてゆこう～」編
+  // https://annict.com/works/14871
+  { annict_id: 14871 },
+  // [2024-AUTUMN] WEB: 『モアナと伝説の海２』3Dショートアニメ「帰ってきた、本当のわたしに」編
+  // https://annict.com/works/14872
+  { annict_id: 14872 },
 ]
