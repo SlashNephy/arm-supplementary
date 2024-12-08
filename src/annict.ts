@@ -39293,7 +39293,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 全知的な読者の視点から
   // https://annict.com/works/13614
   { annict_id: 13614, mal_id: 59230 },
-  // [2025-null] TV: 黒執事 -緑の魔女編-
+  // [2025-SPRING] TV: 黒執事 -緑の魔女編-
   // https://annict.com/works/13615
   { annict_id: 13615, mal_id: 59228 },
   // [null-null] TV: みなみけ TVアニメ新シリーズ
