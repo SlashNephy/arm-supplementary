@@ -43049,4 +43049,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: 『モアナと伝説の海２』3Dショートアニメ「帰ってきた、本当のわたしに」編
   // https://annict.com/works/14872
   { annict_id: 14872 },
+  // [2025-WINTER] MOVIE: ドラえもん のび太の絵世界物語
+  // https://annict.com/works/14873
+  { annict_id: 14873, mal_id: 59980 },
 ]
