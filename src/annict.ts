@@ -33085,7 +33085,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11536, syobocal_tid: 6945 },
   // [2025-WINTER] TV: 魔法使いの約束
   // https://annict.com/works/11537
-  { annict_id: 11537, mal_id: 57152 },
+  { annict_id: 11537, mal_id: 57152, syobocal_tid: 7310 },
   // [2024-AUTUMN] TV: 大正偽りブラヰダル～身代わり花嫁と軍服の猛愛
   // https://annict.com/works/11538
   { annict_id: 11538, mal_id: 59698, syobocal_tid: 7249 },
@@ -36634,7 +36634,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12725, mal_id: 58259, syobocal_tid: 7294 },
   // [2025-WINTER] TV: ババンババンバンバンパイア
   // https://annict.com/works/12726
-  { annict_id: 12726, mal_id: 58265 },
+  { annict_id: 12726, mal_id: 58265, syobocal_tid: 7311 },
   // [1930-WINTER] MOVIE: 漫画 おい等の野球
   // https://annict.com/works/12727
   { annict_id: 12727, mal_id: 5826 },
@@ -43060,5 +43060,8 @@ export const annict: ArmEntry[] = [
   { annict_id: 14875, mal_id: 42667 },
   // [null-null] TV: タコピーの原罪
   // https://annict.com/works/14876
-  { annict_id: 14876 },
+  { annict_id: 14876, mal_id: 60489 },
+  // [2025-SPRING] TV: この恋で鼻血を止めて
+  // https://annict.com/works/14877
+  { annict_id: 14877, mal_id: 59012 },
 ]
