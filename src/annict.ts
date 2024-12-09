@@ -43025,7 +43025,7 @@ export const annict: ArmEntry[] = [
   // [1978-null] MOVIE: ピカドン
   // https://annict.com/works/14864
   { annict_id: 14864, mal_id: 7117 },
-  // [1938-null] MOVIE: テク助物語(日の丸旗之助 山賊退治)
+  // [1938-null] MOVIE: テク助物語
   // https://annict.com/works/14865
   { annict_id: 14865, mal_id: 30012 },
   // [1942-null] MOVIE: 協力防空戦
