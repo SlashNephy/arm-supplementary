@@ -42758,7 +42758,7 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: しゃばけ
   // https://annict.com/works/14775
   { annict_id: 14775, mal_id: 60378 },
-  // [2025-null] TV: 謎解きはディナーのあとで
+  // [2025-SPRING] TV: 謎解きはディナーのあとで
   // https://annict.com/works/14776
   { annict_id: 14776, mal_id: 60377 },
   // [2023-AUTUMN] WEB: LEGO マーベル／アベンジャーズ コード・レッド
