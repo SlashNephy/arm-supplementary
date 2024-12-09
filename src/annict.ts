@@ -16685,7 +16685,7 @@ export const annict: ArmEntry[] = [
   // [2019-WINTER] OVA: エロマンガ先生 OVA
   // https://annict.com/works/5596
   { annict_id: 5596, mal_id: 36792 },
-  // [null-null] WEB: ぴったらず
+  // [2014-WINTER] WEB: ぴったらず
   // https://annict.com/works/5597
   { annict_id: 5597, mal_id: 42540 },
   // [2018-WINTER] TV: gdメン
@@ -30401,7 +30401,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] WEB: 火の鳥 エデンの宙
   // https://annict.com/works/10640
   { annict_id: 10640, mal_id: 53720 },
-  // [2025-null] TV: TO BE HERO X
+  // [2025-SPRING] TV: TO BE HERO X
   // https://annict.com/works/10641
   { annict_id: 10641, mal_id: 53447 },
   // [2022-AUTUMN] WEB: 外見至上主義
@@ -43052,4 +43052,13 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] MOVIE: ドラえもん のび太の絵世界物語
   // https://annict.com/works/14873
   { annict_id: 14873, mal_id: 59980 },
+  // [2021-WINTER] MOVIE: ケンダマスター拳
+  // https://annict.com/works/14874
+  { annict_id: 14874, mal_id: 51635 },
+  // [2020-WINTER] MOVIE: マウスマン～愛の塊～
+  // https://annict.com/works/14875
+  { annict_id: 14875, mal_id: 42667 },
+  // [null-null] TV: タコピーの原罪
+  // https://annict.com/works/14876
+  { annict_id: 14876 },
 ]
