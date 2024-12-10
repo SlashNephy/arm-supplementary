@@ -39344,7 +39344,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 渡り鳥とカタツムリ
   // https://annict.com/works/13631
   { annict_id: 13631, mal_id: 59266 },
-  // [null-null] TV: 「1分間だけ挿れてもいいよ…」シェアハウスの秘密ルール。
+  // [2025-WINTER] TV: 「1分間だけ触れてもいいよ…」シェアハウスの秘密ルール｡
   // https://annict.com/works/13632
   { annict_id: 13632 },
   // [2025-null] TV: 彼女、お借りします 第4期
