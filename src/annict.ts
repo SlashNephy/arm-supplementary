@@ -26452,7 +26452,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9286, mal_id: 50869, syobocal_tid: 7006 },
   // [2024-WINTER] MOVIE: BLOODY ESCAPE -地獄の逃走劇-
   // https://annict.com/works/9287
-  { annict_id: 9287, mal_id: 50863 },
+  { annict_id: 9287, mal_id: 54793 },
   // [2023-SPRING] TV: アリス・ギア・アイギス Expansion
   // https://annict.com/works/9288
   { annict_id: 9288, mal_id: 50871, syobocal_tid: 6688 },
