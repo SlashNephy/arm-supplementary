@@ -31559,7 +31559,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: ソードアート・オンライン オルタナティブ ガンゲイル・オンラインII
   // https://annict.com/works/11027
   { annict_id: 11027, mal_id: 55994, syobocal_tid: 7182 },
-  // [2025-null] TV: 男女の友情は成立する？（いや、しないっ!!）
+  // [2025-SPRING] TV: 男女の友情は成立する？（いや、しないっ!!）
   // https://annict.com/works/11028
   { annict_id: 11028, mal_id: 52709 },
   // [null-null] TV: ユア・フォルマ
