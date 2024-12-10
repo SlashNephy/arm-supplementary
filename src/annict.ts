@@ -36670,7 +36670,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12737, mal_id: 5870 },
   // [2025-WINTER] TV: ハニーレモンソーダ
   // https://annict.com/works/12738
-  { annict_id: 12738, mal_id: 58271 },
+  { annict_id: 12738, mal_id: 58271, syobocal_tid: 7312 },
   // [2024-SUMMER] TV: 僕の妻は感情がない
   // https://annict.com/works/12739
   { annict_id: 12739, mal_id: 58272, syobocal_tid: 7101 },
