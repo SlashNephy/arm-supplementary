@@ -39800,7 +39800,7 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: ガンバレ！中村くん！！
   // https://annict.com/works/13783
   { annict_id: 13783, mal_id: 59551 },
-  // [2025-null] TV: アラフォー男の異世界通販
+  // [2025-WINTER] TV: アラフォー男の異世界通販
   // https://annict.com/works/13784
   { annict_id: 13784, mal_id: 59561 },
   // [2017-SUMMER] WEB: マーベル スパイダーマン ショーツ
