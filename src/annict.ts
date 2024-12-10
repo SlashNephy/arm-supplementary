@@ -42952,10 +42952,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 14839 },
   // [2020-AUTUMN] TV: それいけ！アンパンマン クリスマススペシャル サンタさんをすくえ! 氷の城のクリスマス
   // https://annict.com/works/14840
-  { annict_id: 14840 },
+  { annict_id: 14840, mal_id: 60471 },
   // [2021-AUTUMN] TV: それいけ！アンパンマン クリスマススペシャル てつの星のアイアンクリスマス
   // https://annict.com/works/14841
-  { annict_id: 14841 },
+  { annict_id: 14841, mal_id: 60472 },
   // [2022-AUTUMN] TV: それいけ！アンパンマン クリスマススペシャル ちびっこサンタのニコニコクリスマス
   // https://annict.com/works/14842
   { annict_id: 14842 },
@@ -43064,4 +43064,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] TV: この恋で鼻血を止めて
   // https://annict.com/works/14877
   { annict_id: 14877, mal_id: 59012 },
+  // [2017-SUMMER] TV: ハローキティとあそぼう！まなぼう！
+  // https://annict.com/works/14878
+  { annict_id: 14878, mal_id: 60485 },
 ]
