@@ -43082,4 +43082,10 @@ export const annict: ArmEntry[] = [
   // [1956-SPRING] MOVIE: 幽霊船
   // https://annict.com/works/14883
   { annict_id: 14883, mal_id: 11447 },
+  // [1952-AUTUMN] MOVIE: くじら（1952年）
+  // https://annict.com/works/14884
+  { annict_id: 14884, mal_id: 7528 },
+  // [1927-null] MOVIE: くじら（1927年）
+  // https://annict.com/works/14885
+  { annict_id: 14885, mal_id: 30176 },
 ]
