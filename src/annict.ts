@@ -37174,7 +37174,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12906, mal_id: 58746 },
   // [2025-WINTER] TV: もめんたりー・リリィ
   // https://annict.com/works/12907
-  { annict_id: 12907, mal_id: 58739 },
+  { annict_id: 12907, mal_id: 58739, syobocal_tid: 7313 },
   // [2024-SPRING] WEB: 「雀魂」５周年記念ムービー『かわらないもの』
   // https://annict.com/works/12908
   { annict_id: 12908 },
@@ -37333,7 +37333,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12959 },
   // [2025-WINTER] TV: 黒岩メダカに私の可愛いが通じない
   // https://annict.com/works/12960
-  { annict_id: 12960, mal_id: 58853 },
+  { annict_id: 12960, mal_id: 58853, syobocal_tid: 7317 },
   // [2024-AUTUMN] TV: きのこいぬ
   // https://annict.com/works/12961
   { annict_id: 12961, mal_id: 58854, syobocal_tid: 7209 },
@@ -38806,7 +38806,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13451, mal_id: 59139 },
   // [2025-WINTER] TV: 誰ソ彼ホテル
   // https://annict.com/works/13452
-  { annict_id: 13452, mal_id: 59136 },
+  { annict_id: 13452, mal_id: 59136, syobocal_tid: 7316 },
   // [1952-SPRING] MOVIE: グーフィーの番犬
   // https://annict.com/works/13453
   { annict_id: 13453 },
@@ -39580,7 +39580,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13709, mal_id: 59360 },
   // [2025-WINTER] TV: この会社に好きな人がいます
   // https://annict.com/works/13710
-  { annict_id: 13710, mal_id: 59361 },
+  { annict_id: 13710, mal_id: 59361, syobocal_tid: 7315 },
   // [1930-SUMMER] MOVIE: 脱線水兵エロ行脚
   // https://annict.com/works/13711
   { annict_id: 13711 },
@@ -39802,7 +39802,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13783, mal_id: 59551 },
   // [2025-WINTER] TV: アラフォー男の異世界通販
   // https://annict.com/works/13784
-  { annict_id: 13784, mal_id: 59561 },
+  { annict_id: 13784, mal_id: 59561, syobocal_tid: 7314 },
   // [2017-SUMMER] WEB: マーベル スパイダーマン ショーツ
   // https://annict.com/works/13785
   { annict_id: 13785 },
@@ -43067,4 +43067,13 @@ export const annict: ArmEntry[] = [
   // [2017-SUMMER] TV: ハローキティとあそぼう！まなぼう！
   // https://annict.com/works/14878
   { annict_id: 14878, mal_id: 60485 },
+  // [1968-null] MOVIE: 花折り
+  // https://annict.com/works/14879
+  { annict_id: 14879, mal_id: 7255 },
+  // [1970-null] MOVIE: 犬儒戯画
+  // https://annict.com/works/14880
+  { annict_id: 14880, mal_id: 7259 },
+  // [1972-null] MOVIE: 鬼
+  // https://annict.com/works/14881
+  { annict_id: 14881, mal_id: 7171 },
 ]
