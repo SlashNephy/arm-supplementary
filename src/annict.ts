@@ -43088,4 +43088,28 @@ export const annict: ArmEntry[] = [
   // [1927-null] MOVIE: くじら（1927年）
   // https://annict.com/works/14885
   { annict_id: 14885, mal_id: 30176 },
+  // [1974-WINTER] MOVIE: 詩人の生涯
+  // https://annict.com/works/14886
+  { annict_id: 14886, mal_id: 7257 },
+  // [1976-null] MOVIE: 道成寺
+  // https://annict.com/works/14887
+  { annict_id: 14887, mal_id: 6680 },
+  // [1979-AUTUMN] MOVIE: 火宅
+  // https://annict.com/works/14888
+  { annict_id: 14888, mal_id: 7170 },
+  // [1988-null] MOVIE: セルフポートレート
+  // https://annict.com/works/14889
+  { annict_id: 14889, mal_id: 8647 },
+  // [1991-null] MOVIE: 注文の多い料理店（1991年）
+  // https://annict.com/works/14890
+  { annict_id: 14890, mal_id: 4095 },
+  // [1996-null] MOVIE: 李白
+  // https://annict.com/works/14891
+  { annict_id: 14891 },
+  // [1981-AUTUMN] MOVIE: 蓮如とその母
+  // https://annict.com/works/14892
+  { annict_id: 14892, mal_id: 7473 },
+  // [2005-SUMMER] MOVIE: 死者の書
+  // https://annict.com/works/14893
+  { annict_id: 14893, mal_id: 7510 },
 ]
