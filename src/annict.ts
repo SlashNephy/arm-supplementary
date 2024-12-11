@@ -43076,4 +43076,10 @@ export const annict: ArmEntry[] = [
   // [1972-null] MOVIE: 鬼
   // https://annict.com/works/14881
   { annict_id: 14881, mal_id: 7171 },
+  // [1973-null] MOVIE: 旅
+  // https://annict.com/works/14882
+  { annict_id: 14882, mal_id: 7258 },
+  // [1956-SPRING] MOVIE: 幽霊船
+  // https://annict.com/works/14883
+  { annict_id: 14883, mal_id: 11447 },
 ]
