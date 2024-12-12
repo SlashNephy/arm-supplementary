@@ -40430,7 +40430,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] MOVIE: As Time Goes By～時の過ぎゆくままに
   // https://annict.com/works/13997
   { annict_id: 13997 },
-  // [null-null] OVA: この素晴らしい世界に祝福を！3 新作OVA
+  // [2025-null] OVA: この素晴らしい世界に祝福を！３ーBONUS STAGEー
   // https://annict.com/works/13998
   { annict_id: 13998, mal_id: 59833 },
   // [2019-AUTUMN] OVA: 飛び出せ一方さん ハチャメチャ快進撃
