@@ -40430,7 +40430,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] MOVIE: As Time Goes By～時の過ぎゆくままに
   // https://annict.com/works/13997
   { annict_id: 13997 },
-  // [2025-null] OVA: この素晴らしい世界に祝福を！３ーBONUS STAGEー
+  // [2025-SPRING] OVA: この素晴らしい世界に祝福を！３ーBONUS STAGEー
   // https://annict.com/works/13998
   { annict_id: 13998, mal_id: 59833 },
   // [2019-AUTUMN] OVA: 飛び出せ一方さん ハチャメチャ快進撃
@@ -42958,10 +42958,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 14841, mal_id: 60472 },
   // [2022-AUTUMN] TV: それいけ！アンパンマン クリスマススペシャル ちびっこサンタのニコニコクリスマス
   // https://annict.com/works/14842
-  { annict_id: 14842 },
+  { annict_id: 14842, mal_id: 60491 },
   // [2023-AUTUMN] TV: それいけ！アンパンマン クリスマススペシャル あかちゃんまんとばいきんサンタ
   // https://annict.com/works/14843
-  { annict_id: 14843 },
+  { annict_id: 14843, mal_id: 60492 },
   // [1935-null] MOVIE: いなばの国の兎さん
   // https://annict.com/works/14844
   { annict_id: 14844, mal_id: 35389 },
@@ -43045,10 +43045,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 14870, syobocal_tid: 7282 },
   // [2024-AUTUMN] WEB: 『モアナと伝説の海２』3Dショートアニメ「ビヨンド ～越えてゆこう～」編
   // https://annict.com/works/14871
-  { annict_id: 14871 },
+  { annict_id: 14871, mal_id: 60490 },
   // [2024-AUTUMN] WEB: 『モアナと伝説の海２』3Dショートアニメ「帰ってきた、本当のわたしに」編
   // https://annict.com/works/14872
-  { annict_id: 14872 },
+  { annict_id: 14872, mal_id: 60490 },
   // [2025-WINTER] MOVIE: ドラえもん のび太の絵世界物語
   // https://annict.com/works/14873
   { annict_id: 14873, mal_id: 59980 },
@@ -43112,4 +43112,7 @@ export const annict: ArmEntry[] = [
   // [2005-SUMMER] MOVIE: 死者の書
   // https://annict.com/works/14893
   { annict_id: 14893, mal_id: 7510 },
+  // [2025-null] TV: ネクロノミ子のコズミックホラーショウ
+  // https://annict.com/works/14894
+  { annict_id: 14894 },
 ]
