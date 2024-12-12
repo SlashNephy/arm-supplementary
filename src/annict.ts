@@ -43031,7 +43031,7 @@ export const annict: ArmEntry[] = [
   // [1942-null] MOVIE: 協力防空戦
   // https://annict.com/works/14866
   { annict_id: 14866, mal_id: 28067 },
-  // [2024-AUTUMN] WEB: ミニっと！かいじゅう８号
+  // [2024-AUTUMN] WEB: ミニっと！かいじゅう8号
   // https://annict.com/works/14867
   { annict_id: 14867 },
   // [2025-WINTER] TV: 猫になりたい田万川くん
