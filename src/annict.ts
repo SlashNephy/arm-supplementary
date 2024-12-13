@@ -27542,7 +27542,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] TV: PUI PUI モルカー DRIVING SCHOOL
   // https://annict.com/works/9683
   { annict_id: 9683, mal_id: 51986, syobocal_tid: 6524 },
-  // [2022-AUTUMN] WEB: ONI ~ 神々山のオナリ
+  // [2022-AUTUMN] WEB: ONI ~ 神々山のおなり
   // https://annict.com/works/9684
   { annict_id: 9684, mal_id: 53432 },
   // [2022-SUMMER] TV: BanG Dream! Morfonication
@@ -40586,7 +40586,7 @@ export const annict: ArmEntry[] = [
   // [2021-WINTER] WEB: ギャビーのドールハウス
   // https://annict.com/works/14050
   { annict_id: 14050 },
-  // [2025-null] TV: ゴリラの神から加護された令嬢は王立騎士団で可愛がられる
+  // [2025-SPRING] TV: ゴリラの神から加護された令嬢は王立騎士団で可愛がられる
   // https://annict.com/works/14051
   { annict_id: 14051, mal_id: 59935 },
   // [1994-SUMMER] OVA: 幽☆遊☆白書 映像白書～暗黒武術会の章～
@@ -43130,4 +43130,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: どこでもマキバオー
   // https://annict.com/works/14899
   { annict_id: 14899 },
+  // [2025-null] TV: フードコートで、また明日。
+  // https://annict.com/works/14900
+  { annict_id: 14900, mal_id: 60508 },
 ]
