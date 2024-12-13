@@ -43121,4 +43121,7 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: あらいぐま カルカル団
   // https://annict.com/works/14896
   { annict_id: 14896, mal_id: 60506 },
+  // [2025-SPRING] OTHER: ツインズひなひま
+  // https://annict.com/works/14897
+  { annict_id: 14897 },
 ]
