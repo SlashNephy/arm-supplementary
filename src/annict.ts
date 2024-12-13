@@ -43124,4 +43124,10 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] OTHER: ツインズひなひま
   // https://annict.com/works/14897
   { annict_id: 14897 },
+  // [2024-AUTUMN] WEB: アルプスの老人 ハイジのおじいさん
+  // https://annict.com/works/14898
+  { annict_id: 14898 },
+  // [2024-AUTUMN] WEB: どこでもマキバオー
+  // https://annict.com/works/14899
+  { annict_id: 14899 },
 ]
