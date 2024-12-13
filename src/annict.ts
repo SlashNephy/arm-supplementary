@@ -20347,7 +20347,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6863, mal_id: 32892 },
   // [2006-SPRING] TV: 秘密結社 鷹の爪
   // https://annict.com/works/6864
-  { annict_id: 6864, mal_id: 4737 },
+  { annict_id: 6864, mal_id: 4737, syobocal_tid: 892 },
   // [2012-WINTER] TV: 秘密結社 鷹の爪外伝 むかしの吉田くん
   // https://annict.com/works/6865
   { annict_id: 6865, mal_id: 13207, syobocal_tid: 2437 },
@@ -21664,7 +21664,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 7433, mal_id: 13501 },
   // [2006-SPRING] TV: 古墳ギャルのコフィー (TVシリーズ)
   // https://annict.com/works/7434
-  { annict_id: 7434, mal_id: 13503 },
+  { annict_id: 7434, mal_id: 13503, syobocal_tid: 892 },
   // [2009-AUTUMN] TV: 古墳ギャルのコフィー キャンパスライフ
   // https://annict.com/works/7435
   { annict_id: 7435, mal_id: 13505 },
