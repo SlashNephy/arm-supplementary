@@ -43138,5 +43138,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 14901, mal_id: 60509 },
   // [null-null] TV: 2.5次元の誘惑 第2期
   // https://annict.com/works/14902
-  { annict_id: 14902 },
+  { annict_id: 14902, mal_id: 60510 },
 ]
