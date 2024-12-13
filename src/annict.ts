@@ -27974,7 +27974,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: SK∞ エスケーエイト 第2期
   // https://annict.com/works/9828
   { annict_id: 9828, mal_id: 52750 },
-  // [null-null] TV: ワンパンマン (第3期)
+  // [2025-null] TV: ワンパンマン (第3期)
   // https://annict.com/works/9829
   { annict_id: 9829, mal_id: 52807 },
   // [2006-SPRING] TV: サルゲッチュ 〜オンエアー〜
@@ -35035,7 +35035,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12189, mal_id: 60092, syobocal_tid: 6890 },
   // [2025-WINTER] TV: Dr.STONE SCIENCE FUTURE
   // https://annict.com/works/12190
-  { annict_id: 12190, mal_id: 57592 },
+  { annict_id: 12190, mal_id: 57592, syobocal_tid: 7321 },
   // [2016-SUMMER] WEB: 練馬区PRアニメ『アニメで練馬区PR大作戦?!』
   // https://annict.com/works/12191
   { annict_id: 12191 },
@@ -36910,7 +36910,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12817, syobocal_tid: 7060 },
   // [2025-WINTER] TV: Sランクモンスターの《ベヒーモス》だけど、猫と間違われてエルフ娘の騎士として暮らしてます
   // https://annict.com/works/12818
-  { annict_id: 12818, mal_id: 58473 },
+  { annict_id: 12818, mal_id: 58473, syobocal_tid: 7318 },
   // [2024-WINTER] WEB: 転生したらスライムだった件 閑話：ディアブロ日記
   // https://annict.com/works/12819
   { annict_id: 12819, mal_id: 58592 },
@@ -38857,7 +38857,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13468, mal_id: 59144 },
   // [2025-WINTER] TV: Unnamed Memory Act.2
   // https://annict.com/works/13469
-  { annict_id: 13469, mal_id: 59142 },
+  { annict_id: 13469, mal_id: 59142, syobocal_tid: 7319 },
   // [1953-SPRING] MOVIE: ミッキーの魚釣り
   // https://annict.com/works/13470
   { annict_id: 13470 },
@@ -39733,7 +39733,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13760, mal_id: 59499, syobocal_tid: 7264 },
   // [2025-WINTER] TV: 戦隊レッド 異世界で冒険者になる
   // https://annict.com/works/13761
-  { annict_id: 13761, mal_id: 59514 },
+  { annict_id: 13761, mal_id: 59514, syobocal_tid: 7320 },
   // [1966-SPRING] MOVIE: 孫悟空が始まるよー 黄風大王の巻
   // https://annict.com/works/13762
   { annict_id: 13762, mal_id: 23815 },
@@ -43133,4 +43133,10 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: フードコートで、また明日。
   // https://annict.com/works/14900
   { annict_id: 14900, mal_id: 60508 },
+  // [null-null] OTHER: シャンピニオンの魔女
+  // https://annict.com/works/14901
+  { annict_id: 14901, mal_id: 60509 },
+  // [null-null] TV: 2.5次元の誘惑 第2期
+  // https://annict.com/works/14902
+  { annict_id: 14902 },
 ]
