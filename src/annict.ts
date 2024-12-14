@@ -17188,7 +17188,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5765, mal_id: 36894 },
   // [2016-WINTER] TV: 忍たま乱太郎の宇宙大冒険 with コズミックフロント☆NEXT 第2シーズン
   // https://annict.com/works/5766
-  { annict_id: 5766 },
+  { annict_id: 5766, syobocal_tid: 4405 },
   // [2017-SUMMER] MOVIE: くまのがっこう パティシエ・ジャッキーとおひさまのスイーツ
   // https://annict.com/works/5767
   { annict_id: 5767, mal_id: 34755, syobocal_tid: 5184 },
@@ -43160,7 +43160,7 @@ export const annict: ArmEntry[] = [
   // [2015-null] MOVIE: 名探偵コナン ―探偵たちの星月夜―
   // https://annict.com/works/14909
   { annict_id: 14909, mal_id: 53976 },
-  // [2020-null] MOVIE: 名探偵コナン 灼熱の銀河鉄道
+  // [2020-WINTER] MOVIE: 名探偵コナン 灼熱の銀河鉄道
   // https://annict.com/works/14910
   { annict_id: 14910, mal_id: 42476 },
   // [2013-null] MOVIE: しまじろうとたんじょうびのおほしさま
@@ -43172,4 +43172,22 @@ export const annict: ArmEntry[] = [
   // [2019-null] MOVIE: しまじろうとながれぼしのねがいごと
   // https://annict.com/works/14913
   { annict_id: 14913, mal_id: 53987 },
+  // [2018-WINTER] MOVIE: クレヨンしんちゃん 星空と学校の七不思議だゾ！
+  // https://annict.com/works/14914
+  { annict_id: 14914, mal_id: 53970 },
+  // [2022-SPRING] MOVIE: クレヨンしんちゃん 宇宙からの来訪者 カスカベ大パニック
+  // https://annict.com/works/14915
+  { annict_id: 14915, mal_id: 53971 },
+  // [2017-AUTUMN] TV: 忍たま乱太郎の宇宙大冒険 with コズミックフロント☆NEXT 第3シーズン
+  // https://annict.com/works/14916
+  { annict_id: 14916, syobocal_tid: 4808 },
+  // [2019-WINTER] TV: 忍たま乱太郎の宇宙大冒険 with コズミックフロント☆NEXT 第4シーズン
+  // https://annict.com/works/14917
+  { annict_id: 14917, syobocal_tid: 5238 },
+  // [2023-AUTUMN] MOVIE: ゲゲゲの鬼太郎 河童のテラフォーミング
+  // https://annict.com/works/14918
+  { annict_id: 14918, mal_id: 57107 },
+  // [2024-WINTER] MOVIE: すみっコぐらし ひろい宇宙とオーロラのひかり
+  // https://annict.com/works/14919
+  { annict_id: 14919 },
 ]
