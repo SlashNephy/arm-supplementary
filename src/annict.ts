@@ -31444,7 +31444,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10988, mal_id: 55843 },
   // [2025-WINTER] TV: 沖縄で好きになった子が方言すぎてツラすぎる
   // https://annict.com/works/10989
-  { annict_id: 10989, mal_id: 55842 },
+  { annict_id: 10989, mal_id: 55842, syobocal_tid: 7324 },
   // [2024-SUMMER] TV: 黄昏アウトフォーカス
   // https://annict.com/works/10990
   { annict_id: 10990, mal_id: 55844, syobocal_tid: 7114 },
@@ -36877,7 +36877,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12806, mal_id: 57005 },
   // [2025-WINTER] TV: 没落予定の貴族だけど、暇だったから魔法を極めてみた
   // https://annict.com/works/12807
-  { annict_id: 12807, mal_id: 58437 },
+  { annict_id: 12807, mal_id: 58437, syobocal_tid: 7325 },
   // [1929-SPRING] MOVIE: ミッキーの畑仕事
   // https://annict.com/works/12808
   { annict_id: 12808 },
