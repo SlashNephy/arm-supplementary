@@ -43145,4 +43145,25 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: 魔神創造伝ワタル オリジナルショートアニメ
   // https://annict.com/works/14904
   { annict_id: 14904 },
+  // [2006-null] MOVIE: まじめにふまじめ かいけつゾロリ 宇宙たんけん大さくせん ちきゅうをめざせ!編
+  // https://annict.com/works/14905
+  { annict_id: 14905, mal_id: 53990 },
+  // [2006-null] MOVIE: まじめにふまじめ かいけつゾロリ 宇宙たんけん大さくせん おうごんの星をさがせ!編
+  // https://annict.com/works/14906
+  { annict_id: 14906, mal_id: 53989 },
+  // [2010-null] MOVIE: 月の魔法とサンゴの海 ～カルオカ’ヒナの大冒険～
+  // https://annict.com/works/14907
+  { annict_id: 14907 },
+  // [2012-null] MOVIE: 名探偵コナン ～星影の魔術師～
+  // https://annict.com/works/14908
+  { annict_id: 14908, mal_id: 36760 },
+  // [2015-null] MOVIE: 名探偵コナン ―探偵たちの星月夜―
+  // https://annict.com/works/14909
+  { annict_id: 14909, mal_id: 53976 },
+  // [2020-null] MOVIE: 名探偵コナン 灼熱の銀河鉄道
+  // https://annict.com/works/14910
+  { annict_id: 14910, mal_id: 42476 },
+  // [2013-null] MOVIE: しまじろうとたんじょうびのおほしさま
+  // https://annict.com/works/14911
+  { annict_id: 14911, mal_id: 36759 },
 ]
