@@ -43166,4 +43166,10 @@ export const annict: ArmEntry[] = [
   // [2013-null] MOVIE: しまじろうとたんじょうびのおほしさま
   // https://annict.com/works/14911
   { annict_id: 14911, mal_id: 36759 },
+  // [2015-null] MOVIE: しまじろうとおつきさまのひみつ
+  // https://annict.com/works/14912
+  { annict_id: 14912, mal_id: 53984 },
+  // [2019-null] MOVIE: しまじろうとながれぼしのねがいごと
+  // https://annict.com/works/14913
+  { annict_id: 14913, mal_id: 53987 },
 ]
