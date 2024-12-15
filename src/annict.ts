@@ -43190,4 +43190,16 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] MOVIE: すみっコぐらし ひろい宇宙とオーロラのひかり
   // https://annict.com/works/14919
   { annict_id: 14919 },
+  // [2009-null] MOVIE: ハッピークリスマス キャンドルマンの素敵な魔法
+  // https://annict.com/works/14920
+  { annict_id: 14920 },
+  // [2011-null] MOVIE: パンゲア恐竜物語
+  // https://annict.com/works/14921
+  { annict_id: 14921 },
+  // [2014-null] MOVIE: 星の王子さま ～Le Petit Prince～
+  // https://annict.com/works/14922
+  { annict_id: 14922, mal_id: 54010 },
+  // [2016-null] MOVIE: くまのがっこう ～ジャッキーのおほしさま～
+  // https://annict.com/works/14923
+  { annict_id: 14923, mal_id: 54011 },
 ]
