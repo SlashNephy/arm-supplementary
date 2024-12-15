@@ -17186,7 +17186,7 @@ export const annict: ArmEntry[] = [
   // [2017-AUTUMN] TV: イナズマデリバリー シーズン2
   // https://annict.com/works/5765
   { annict_id: 5765, mal_id: 36894 },
-  // [2016-WINTER] TV: 忍たま乱太郎の宇宙大冒険 with コズミックフロント☆NEXT 第2シーズン
+  // [2016-AUTUMN] TV: 忍たま乱太郎の宇宙大冒険 with コズミックフロント☆NEXT 第2シーズン
   // https://annict.com/works/5766
   { annict_id: 5766, syobocal_tid: 4405 },
   // [2017-SUMMER] MOVIE: くまのがっこう パティシエ・ジャッキーとおひさまのスイーツ
@@ -43202,4 +43202,10 @@ export const annict: ArmEntry[] = [
   // [2016-null] MOVIE: くまのがっこう ～ジャッキーのおほしさま～
   // https://annict.com/works/14923
   { annict_id: 14923, mal_id: 54011 },
+  // [2017-null] MOVIE: 地球はぐるぐるメリーゴーランド
+  // https://annict.com/works/14924
+  { annict_id: 14924, mal_id: 36818 },
+  // [2016-SUMMER] OVA: ロビンソン・クルーソー
+  // https://annict.com/works/14925
+  { annict_id: 14925 },
 ]
