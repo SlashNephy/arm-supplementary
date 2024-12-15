@@ -43217,4 +43217,13 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: お買いものパンダ！ 配信限定エピソード
   // https://annict.com/works/14928
   { annict_id: 14928 },
+  // [null-null] TV: 骸骨騎士様、只今異世界へお出掛け中Ⅱ
+  // https://annict.com/works/14929
+  { annict_id: 14929, mal_id: 60522 },
+  // [2025-null] TV: 追放者食堂へようこそ！
+  // https://annict.com/works/14930
+  { annict_id: 14930, mal_id: 60523 },
+  // [null-null] TV: 望まぬ不死の冒険者 第2期
+  // https://annict.com/works/14931
+  { annict_id: 14931, mal_id: 60525 },
 ]
