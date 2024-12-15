@@ -43214,4 +43214,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: ゼンレスゾーンゼロ 星見雅ショートアニメ「英雄の旅路」
   // https://annict.com/works/14927
   { annict_id: 14927 },
+  // [2024-AUTUMN] WEB: お買いものパンダ！ 配信限定エピソード
+  // https://annict.com/works/14928
+  { annict_id: 14928 },
 ]
