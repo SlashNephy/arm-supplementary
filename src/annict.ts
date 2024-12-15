@@ -43208,4 +43208,10 @@ export const annict: ArmEntry[] = [
   // [2016-SUMMER] OVA: ロビンソン・クルーソー
   // https://annict.com/works/14925
   { annict_id: 14925 },
+  // [2024-SUMMER] WEB: ゼンレスゾーンゼロ ジェーンショートアニメ「震える真夜中」
+  // https://annict.com/works/14926
+  { annict_id: 14926 },
+  // [2024-AUTUMN] WEB: ゼンレスゾーンゼロ 星見雅ショートアニメ「英雄の旅路」
+  // https://annict.com/works/14927
+  { annict_id: 14927 },
 ]
