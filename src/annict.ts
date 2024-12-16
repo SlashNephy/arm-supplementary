@@ -43241,4 +43241,10 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] MOVIE: BanG Dream! Ave Mujica 劇場先行上映
   // https://annict.com/works/14936
   { annict_id: 14936 },
+  // [2025-WINTER] MOVIE: ヨウゼン
+  // https://annict.com/works/14937
+  { annict_id: 14937, mal_id: 51334 },
+  // [2025-WINTER] TV: ミニミニ minini
+  // https://annict.com/works/14938
+  { annict_id: 14938 },
 ]
