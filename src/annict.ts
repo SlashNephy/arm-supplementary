@@ -43234,5 +43234,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 14933 },
   // [2025-null] TV: 不器用な先輩。
   // https://annict.com/works/14934
-  { annict_id: 14934 },
+  { annict_id: 14934, mal_id: 60531 },
 ]
