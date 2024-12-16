@@ -43226,4 +43226,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 望まぬ不死の冒険者 第2期
   // https://annict.com/works/14931
   { annict_id: 14931, mal_id: 60525 },
+  // [2024-AUTUMN] WEB: 伊右衛門の車窓にて 新作
+  // https://annict.com/works/14932
+  { annict_id: 14932 },
 ]
