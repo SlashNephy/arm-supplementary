@@ -41354,7 +41354,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] TV: 俺は星間国家の悪徳領主！
   // https://annict.com/works/14306
   { annict_id: 14306, mal_id: 60154 },
-  // [2025-null] TV: 完璧すぎて可愛げがないと婚約破棄された聖女は隣国に売られる
+  // [2025-SPRING] TV: 完璧すぎて可愛げがないと婚約破棄された聖女は隣国に売られる
   // https://annict.com/works/14307
   { annict_id: 14307, mal_id: 60157 },
   // [null-null] OTHER: ブレイド＆バスタード
