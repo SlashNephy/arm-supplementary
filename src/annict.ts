@@ -30268,7 +30268,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10595, mal_id: 54764 },
   // [2025-WINTER] TV: 想星のアクエリオン Myth of Emotions
   // https://annict.com/works/10596
-  { annict_id: 10596, mal_id: 54769 },
+  { annict_id: 10596, mal_id: 54769, syobocal_tid: 7326 },
   // [2023-SPRING] TV: おしりたんてい (第7シリーズ)
   // https://annict.com/works/10597
   { annict_id: 10597, syobocal_tid: 6681 },
@@ -31645,7 +31645,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11055 },
   // [2025-WINTER] TV: UniteUp! -Uni:Birth-
   // https://annict.com/works/11056
-  { annict_id: 11056, mal_id: 56135 },
+  { annict_id: 11056, mal_id: 56135, syobocal_tid: 7327 },
   // [2023-AUTUMN] WEB: グッド・ナイト・ワールド
   // https://annict.com/works/11057
   { annict_id: 11057, mal_id: 56146 },
@@ -40114,7 +40114,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13889, mal_id: 59741 },
   // [2025-WINTER] TV: Aランクパーティを離脱した俺は、元教え子たちと迷宮深部を目指す。
   // https://annict.com/works/13890
-  { annict_id: 13890, mal_id: 59730 },
+  { annict_id: 13890, mal_id: 59730, syobocal_tid: 7328 },
   // [2025-SPRING] TV: 前橋ウィッチーズ
   // https://annict.com/works/13891
   { annict_id: 13891, mal_id: 59744 },
