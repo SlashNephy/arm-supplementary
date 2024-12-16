@@ -32831,7 +32831,7 @@ export const annict: ArmEntry[] = [
   // [2008-SUMMER] TV: Little Village People
   // https://annict.com/works/11451
   { annict_id: 11451 },
-  // [null-null] TV: とんでもスキルで異世界放浪メシ 第2期
+  // [2025-null] TV: とんでもスキルで異世界放浪メシ 第2期
   // https://annict.com/works/11452
   { annict_id: 11452, mal_id: 57025 },
   // [2023-AUTUMN] TV: ととのえ！サクマくん by &sauna
@@ -36166,7 +36166,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12568 },
   // [2025-WINTER] TV: 空色ユーティリティ
   // https://annict.com/works/12569
-  { annict_id: 12569, mal_id: 58066 },
+  { annict_id: 12569, mal_id: 58066, syobocal_tid: 7329 },
   // [2024-WINTER] WEB: ポケモンスペシャルアニメ「ただいま」
   // https://annict.com/works/12570
   { annict_id: 12570 },
@@ -43235,4 +43235,10 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: 不器用な先輩。
   // https://annict.com/works/14934
   { annict_id: 14934, mal_id: 60531 },
+  // [2025-WINTER] TV: 聖女なのに国を追い出されたので、崩壊寸前の隣国へ来ました
+  // https://annict.com/works/14935
+  { annict_id: 14935 },
+  // [2024-AUTUMN] MOVIE: BanG Dream! Ave Mujica 劇場先行上映
+  // https://annict.com/works/14936
+  { annict_id: 14936 },
 ]
