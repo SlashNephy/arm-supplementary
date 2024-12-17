@@ -31562,7 +31562,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] TV: 男女の友情は成立する？（いや、しないっ!!）
   // https://annict.com/works/11028
   { annict_id: 11028, mal_id: 52709 },
-  // [null-null] TV: ユア・フォルマ
+  // [2025-SPRING] TV: ユア・フォルマ
   // https://annict.com/works/11029
   { annict_id: 11029, mal_id: 55995 },
   // [2025-WINTER] TV: ギルドの受付嬢ですが、残業は嫌なのでボスをソロ討伐しようと思います
