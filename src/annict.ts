@@ -22430,7 +22430,7 @@ export const annict: ArmEntry[] = [
   // [2021-SPRING] WEB: ヘタリア World★Stars (第7期)
   // https://annict.com/works/7754
   { annict_id: 7754, mal_id: 43591, syobocal_tid: 6001 },
-  // [2021-WINTER] OVA: ヲタクに恋は難しい OAD 第2話「トモダチの距離」
+  // [2021-WINTER] OVA: ヲタクに恋は難しい OAD2「トモダチの距離」
   // https://annict.com/works/7755
   { annict_id: 7755, mal_id: 38349 },
   // [2021-SUMMER] OVA: アリス・ギア・アイギス 〜ドキッ！アクトレスだらけのマーメイドグランプリ♡〜
@@ -24908,7 +24908,7 @@ export const annict: ArmEntry[] = [
   // [2021-AUTUMN] TV: 逆転世界ノ電池少女
   // https://annict.com/works/8675
   { annict_id: 8675, mal_id: 48644, syobocal_tid: 6147 },
-  // [2021-AUTUMN] OVA: ヲタクに恋は難しい 11巻特装版付属​OAD「社員旅行と願い事」
+  // [2021-AUTUMN] OVA: ヲタクに恋は難しい OAD3「社員旅行と願い事」
   // https://annict.com/works/8676
   { annict_id: 8676, mal_id: 38349 },
   // [2022-SPRING] TV: 社畜さんは幼女幽霊に癒されたい。
@@ -43259,4 +43259,7 @@ export const annict: ArmEntry[] = [
   // [2004-AUTUMN] OVA: インクレディブル・ハルク(1996年)
   // https://annict.com/works/14942
   { annict_id: 14942 },
+  // [2025-SPRING] TV: コウペンちゃん
+  // https://annict.com/works/14943
+  { annict_id: 14943, mal_id: 60534 },
 ]
