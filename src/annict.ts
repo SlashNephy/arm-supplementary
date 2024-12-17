@@ -30815,7 +30815,7 @@ export const annict: ArmEntry[] = [
   // [2018-SUMMER] WEB: #コンパス 短編アニメ
   // https://annict.com/works/10779
   { annict_id: 10779, mal_id: 38603 },
-  // [2025-SPRING] OTHER: #コンパス2.0 戦闘摂理解析システム
+  // [2025-SPRING] TV: #コンパス2.0 戦闘摂理解析システム
   // https://annict.com/works/10780
   { annict_id: 10780, mal_id: 53762 },
   // [2023-AUTUMN] TV: 邪神ちゃんドロップキック【世紀末編】
@@ -43262,4 +43262,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] TV: コウペンちゃん
   // https://annict.com/works/14943
   { annict_id: 14943, mal_id: 60534 },
+  // [2025-SPRING] TV: えぶりでいホスト
+  // https://annict.com/works/14944
+  { annict_id: 14944 },
 ]
