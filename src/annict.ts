@@ -30815,7 +30815,7 @@ export const annict: ArmEntry[] = [
   // [2018-SUMMER] WEB: #コンパス 短編アニメ
   // https://annict.com/works/10779
   { annict_id: 10779, mal_id: 38603 },
-  // [2025-null] OTHER: #コンパス2.0 戦闘摂理解析システム
+  // [2025-SPRING] OTHER: #コンパス2.0 戦闘摂理解析システム
   // https://annict.com/works/10780
   { annict_id: 10780, mal_id: 53762 },
   // [2023-AUTUMN] TV: 邪神ちゃんドロップキック【世紀末編】
