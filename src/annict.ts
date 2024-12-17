@@ -43250,4 +43250,13 @@ export const annict: ArmEntry[] = [
   // [1957-null] MOVIE: かっぱのぱあ太郎
   // https://annict.com/works/14939
   { annict_id: 14939 },
+  // [1976-SPRING] TV: マーベル・スーパーヒーローズ
+  // https://annict.com/works/14940
+  { annict_id: 14940 },
+  // [1990-null] OVA: 超人ハルク(1982年)
+  // https://annict.com/works/14941
+  { annict_id: 14941 },
+  // [2004-AUTUMN] OVA: インクレディブル・ハルク(1996年)
+  // https://annict.com/works/14942
+  { annict_id: 14942 },
 ]
