@@ -40850,7 +40850,7 @@ export const annict: ArmEntry[] = [
   // [1978-WINTER] MOVIE: 新・巨人の星(1978年)
   // https://annict.com/works/14138
   { annict_id: 14138 },
-  // [2025-null] TV: 九龍ジェネリックロマンス
+  // [2025-SPRING] TV: 九龍ジェネリックロマンス
   // https://annict.com/works/14139
   { annict_id: 14139, mal_id: 60083 },
   // [2025-SPRING] TV: かいじゅうせかいせいふく
