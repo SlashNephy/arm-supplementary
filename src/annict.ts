@@ -18988,7 +18988,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6371, mal_id: 38731, syobocal_tid: 5274 },
   // [2018-AUTUMN] TV: おしりたんてい (第2シリーズ)
   // https://annict.com/works/6372
-  { annict_id: 6372, syobocal_tid: 5130 },
+  { annict_id: 6372, mal_id: 41776, syobocal_tid: 5130 },
   // [2019-SPRING] TV: 川柳少女
   // https://annict.com/works/6373
   { annict_id: 6373, mal_id: 38787, syobocal_tid: 5246 },
@@ -20122,7 +20122,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6788, mal_id: 6421 },
   // [2019-SUMMER] TV: おしりたんてい (第3シリーズ)
   // https://annict.com/works/6789
-  { annict_id: 6789, syobocal_tid: 5387 },
+  { annict_id: 6789, mal_id: 41777, syobocal_tid: 5387 },
   // [2020-SUMMER] MOVIE: ドラえもん のび太の新恐竜
   // https://annict.com/works/6790
   { annict_id: 6790, mal_id: 40044 },
@@ -21478,7 +21478,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 7370, syobocal_tid: 5597 },
   // [2020-SPRING] TV: おしりたんてい (第4シリーズ)
   // https://annict.com/works/7371
-  { annict_id: 7371, syobocal_tid: 5604 },
+  { annict_id: 7371, mal_id: 41778, syobocal_tid: 5604 },
   // [2020-SPRING] TV: あの世のすべては、おばけぐみっ！
   // https://annict.com/works/7372
   { annict_id: 7372, mal_id: 41440 },
@@ -23044,7 +23044,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 8020, mal_id: 53652, syobocal_tid: 5962 },
   // [2021-SPRING] TV: おしりたんてい (第5シリーズ)
   // https://annict.com/works/8021
-  { annict_id: 8021, syobocal_tid: 5964 },
+  { annict_id: 8021, mal_id: 48486, syobocal_tid: 5964 },
   // [2009-AUTUMN] MOVIE: くもりときどきミートボール
   // https://annict.com/works/8022
   { annict_id: 8022 },
@@ -24292,7 +24292,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 8468, mal_id: 48780 },
   // [2021-SUMMER] MOVIE: 映画おしりたんてい スフーレ島のひみつ
   // https://annict.com/works/8469
-  { annict_id: 8469 },
+  { annict_id: 8469, mal_id: 48784 },
   // [2021-SUMMER] TV: 天官賜福
   // https://annict.com/works/8470
   { annict_id: 8470, mal_id: 40730, syobocal_tid: 6075 },
@@ -26233,7 +26233,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9213, mal_id: 49942 },
   // [2022-WINTER] MOVIE: 映画おしりたんてい シリアーティ
   // https://annict.com/works/9214
-  { annict_id: 9214 },
+  { annict_id: 9214, mal_id: 54346 },
   // [2021-AUTUMN] OVA: Fate/Grand Carnival [2nd Season]
   // https://annict.com/works/9215
   { annict_id: 9215 },
@@ -27043,7 +27043,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9516, mal_id: 51536, syobocal_tid: 6624 },
   // [2022-SPRING] TV: おしりたんてい (第6シリーズ)
   // https://annict.com/works/9517
-  { annict_id: 9517, syobocal_tid: 6345 },
+  { annict_id: 9517, mal_id: 50799, syobocal_tid: 6345 },
   // [2022-WINTER] WEB: 虚構推理 ミニアニメ Season2
   // https://annict.com/works/9518
   { annict_id: 9518, mal_id: 51542 },
@@ -30172,7 +30172,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10563, mal_id: 54703 },
   // [2023-WINTER] TV: おしりたんてい コズミックフロント
   // https://annict.com/works/10564
-  { annict_id: 10564, syobocal_tid: 6663 },
+  { annict_id: 10564, mal_id: 59784, syobocal_tid: 6663 },
   // [2023-WINTER] TV: 夜廻り猫
   // https://annict.com/works/10565
   { annict_id: 10565, mal_id: 53655, syobocal_tid: 6664 },
@@ -30271,7 +30271,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10596, mal_id: 54769, syobocal_tid: 7326 },
   // [2023-SPRING] TV: おしりたんてい (第7シリーズ)
   // https://annict.com/works/10597
-  { annict_id: 10597, syobocal_tid: 6681 },
+  { annict_id: 10597, mal_id: 53514, syobocal_tid: 6681 },
   // [2023-WINTER] WEB: 667通のラブレター
   // https://annict.com/works/10598
   { annict_id: 10598 },
@@ -32185,7 +32185,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11235, mal_id: 56566, syobocal_tid: 6862 },
   // [2023-AUTUMN] TV: おしりたんてい (第8シリーズ)
   // https://annict.com/works/11236
-  { annict_id: 11236, syobocal_tid: 7064 },
+  { annict_id: 11236, mal_id: 58630, syobocal_tid: 7064 },
   // [2023-WINTER] WEB: シナモンアニメだもん
   // https://annict.com/works/11237
   { annict_id: 11237 },
@@ -43271,4 +43271,10 @@ export const annict: ArmEntry[] = [
   // [2016-AUTUMN] OVA: ハルク：モンスターズ・ワールド
   // https://annict.com/works/14946
   { annict_id: 14946 },
+  // [2017-SUMMER] WEB: おしりたんてい 「みなとまちの トゥクトゥクチェイス」
+  // https://annict.com/works/14947
+  { annict_id: 14947, mal_id: 36969 },
+  // [2025-SPRING] TV: おしりたんてい (第9シリーズ)
+  // https://annict.com/works/14948
+  { annict_id: 14948, mal_id: 58631 },
 ]
