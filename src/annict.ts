@@ -43277,4 +43277,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] TV: おしりたんてい (第9シリーズ)
   // https://annict.com/works/14948
   { annict_id: 14948, mal_id: 58631 },
+  // [2025-SPRING] MOVIE: 劇場版 うたの☆プリンスさまっ♪ TABOO NIGHT XXXX
+  // https://annict.com/works/14949
+  { annict_id: 14949, mal_id: 57622 },
 ]
