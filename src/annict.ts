@@ -43264,7 +43264,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14943, mal_id: 60534 },
   // [2025-SPRING] TV: えぶりでいホスト
   // https://annict.com/works/14944
-  { annict_id: 14944 },
+  { annict_id: 14944, mal_id: 60535 },
   // [2024-AUTUMN] WEB: 120秒でわかるグリザイア：ファントムトリガー
   // https://annict.com/works/14945
   { annict_id: 14945 },
