@@ -36931,7 +36931,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12824 },
   // [2025-WINTER] TV: 異修羅 第2期
   // https://annict.com/works/12825
-  { annict_id: 12825, mal_id: 58484 },
+  { annict_id: 12825, mal_id: 58484, syobocal_tid: 7331 },
   // [2024-AUTUMN] MOVIE: がんばっていきまっしょい
   // https://annict.com/works/12826
   { annict_id: 12826, mal_id: 58491 },
@@ -38854,7 +38854,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13467, mal_id: 59145, syobocal_tid: 7239 },
   // [2025-WINTER] TV: 不遇職【鑑定士】が実は最強だった
   // https://annict.com/works/13468
-  { annict_id: 13468, mal_id: 59144 },
+  { annict_id: 13468, mal_id: 59144, syobocal_tid: 7332 },
   // [2025-WINTER] TV: Unnamed Memory Act.2
   // https://annict.com/works/13469
   { annict_id: 13469, mal_id: 59142, syobocal_tid: 7319 },
@@ -42388,7 +42388,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14651, mal_id: 60280 },
   // [2025-WINTER] TV: カードファイト!! ヴァンガード Divinez デラックス編
   // https://annict.com/works/14652
-  { annict_id: 14652, mal_id: 54144 },
+  { annict_id: 14652, mal_id: 54144, syobocal_tid: 7330 },
   // [2025-SUMMER] TV: SAKAMOTO DAYS（第2クール）
   // https://annict.com/works/14653
   { annict_id: 14653, mal_id: 60285 },
