@@ -38186,7 +38186,7 @@ export const annict: ArmEntry[] = [
   // [2015-WINTER] OVA: OVA快盗天使ツインエンジェル ～キュンキュン☆ときめきパラダイス！！～
   // https://annict.com/works/13245
   { annict_id: 13245, mal_id: 27997 },
-  // [2025-null] TV: プリンセッション・オーケストラ
+  // [2025-SPRING] TV: プリンセッション・オーケストラ
   // https://annict.com/works/13246
   { annict_id: 13246, mal_id: 59078 },
   // [2024-SPRING] WEB: 現代誤訳 ～序幕～
@@ -43268,4 +43268,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: 120秒でわかるグリザイア：ファントムトリガー
   // https://annict.com/works/14945
   { annict_id: 14945 },
+  // [2016-AUTUMN] OVA: ハルク：モンスターズ・ワールド
+  // https://annict.com/works/14946
+  { annict_id: 14946 },
 ]
