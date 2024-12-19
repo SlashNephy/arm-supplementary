@@ -43280,4 +43280,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] MOVIE: 劇場版 うたの☆プリンスさまっ♪ TABOO NIGHT XXXX
   // https://annict.com/works/14949
   { annict_id: 14949, mal_id: 57622 },
+  // [2025-SPRING] MOVIE: 怪盗クイーンの優雅な休暇(バカンス)
+  // https://annict.com/works/14950
+  { annict_id: 14950 },
 ]
