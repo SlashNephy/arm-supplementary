@@ -43327,5 +43327,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 14964, mal_id: 59621 },
   // [2025-SUMMER] TV: ダンダダン 第2期
   // https://annict.com/works/14965
-  { annict_id: 14965 },
+  { annict_id: 14965, mal_id: 60543 },
 ]
