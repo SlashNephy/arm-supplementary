@@ -43283,4 +43283,43 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] MOVIE: 怪盗クイーンの優雅な休暇(バカンス)
   // https://annict.com/works/14950
   { annict_id: 14950 },
+  // [2024-AUTUMN] WEB: パンの赤ちゃん
+  // https://annict.com/works/14951
+  { annict_id: 14951 },
+  // [2024-AUTUMN] WEB: 「なんでやねん」シリーズ
+  // https://annict.com/works/14952
+  { annict_id: 14952 },
+  // [2024-AUTUMN] WEB: 「ポンポとポコポ」シリーズ
+  // https://annict.com/works/14953
+  { annict_id: 14953 },
+  // [2024-AUTUMN] WEB: 「頭のいい子を育てるプチ」シリーズ
+  // https://annict.com/works/14954
+  { annict_id: 14954 },
+  // [2024-AUTUMN] WEB: まねっこシェフ ふわふわ!スクランブルエッグ
+  // https://annict.com/works/14955
+  { annict_id: 14955 },
+  // [2024-AUTUMN] WEB: うみのおと
+  // https://annict.com/works/14956
+  { annict_id: 14956 },
+  // [2024-AUTUMN] WEB: まじょねこマーニャ まほうのゆびわ
+  // https://annict.com/works/14957
+  { annict_id: 14957 },
+  // [2024-AUTUMN] WEB: しば犬こたのしっぽっぽ
+  // https://annict.com/works/14958
+  { annict_id: 14958 },
+  // [2024-AUTUMN] WEB: りんごりんごりんごりんごりんごりんご
+  // https://annict.com/works/14959
+  { annict_id: 14959 },
+  // [2024-AUTUMN] WEB: うそ
+  // https://annict.com/works/14960
+  { annict_id: 14960 },
+  // [2024-AUTUMN] WEB: きみのこころをつよくするえほん
+  // https://annict.com/works/14961
+  { annict_id: 14961 },
+  // [2024-AUTUMN] WEB: 虹の森のミミっち
+  // https://annict.com/works/14962
+  { annict_id: 14962 },
+  // [2025-WINTER] WEB: モンポケ
+  // https://annict.com/works/14963
+  { annict_id: 14963, mal_id: 60537 },
 ]
