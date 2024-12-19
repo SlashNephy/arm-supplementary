@@ -43282,7 +43282,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14949, mal_id: 57622 },
   // [2025-SPRING] MOVIE: 怪盗クイーンの優雅な休暇(バカンス)
   // https://annict.com/works/14950
-  { annict_id: 14950 },
+  { annict_id: 14950, mal_id: 54705 },
   // [2024-AUTUMN] WEB: パンの赤ちゃん
   // https://annict.com/works/14951
   { annict_id: 14951 },
@@ -43322,4 +43322,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] WEB: モンポケ
   // https://annict.com/works/14963
   { annict_id: 14963, mal_id: 60537 },
+  // [2024-AUTUMN] WEB: ポケモン動画図鑑
+  // https://annict.com/works/14964
+  { annict_id: 14964, mal_id: 59621 },
 ]
