@@ -43328,7 +43328,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] TV: ダンダダン 第2期
   // https://annict.com/works/14965
   { annict_id: 14965, mal_id: 60543 },
-  // [1994-null] TV: ロックマン USA
+  // [1994-SUMMER] TV: ロックマン USA
   // https://annict.com/works/14966
   { annict_id: 14966 },
 ]
