@@ -26321,7 +26321,7 @@ export const annict: ArmEntry[] = [
   // [2022-SPRING] TV: かぎなど シーズン2
   // https://annict.com/works/9243
   { annict_id: 9243, mal_id: 50685, syobocal_tid: 6348 },
-  // [2025-null] TV: Summer Pockets
+  // [2025-SPRING] TV: Summer Pockets
   // https://annict.com/works/9244
   { annict_id: 9244, mal_id: 50694 },
   // [2022-SPRING] TV: 境界戦機 第二部
