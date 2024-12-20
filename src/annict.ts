@@ -39632,7 +39632,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] MOVIE: 劇場版プロジェクトセカイ 壊れたセカイと歌えないミク
   // https://annict.com/works/13727
   { annict_id: 13727, mal_id: 59419 },
-  // [2025-null] TV: ずたぼろ令嬢は姉の元婚約者に溺愛される
+  // [2025-SUMMER] TV: ずたぼろ令嬢は姉の元婚約者に溺愛される
   // https://annict.com/works/13728
   { annict_id: 13728, mal_id: 59421 },
   // [2013-WINTER] MOVIE: 劇場版ミッフィー どうぶつえんで宝さがし
@@ -40160,7 +40160,7 @@ export const annict: ArmEntry[] = [
   // [1987-SUMMER] TV: 大冒険ダヨ！チャーリーブラウン
   // https://annict.com/works/13906
   { annict_id: 13906 },
-  // [2025-null] TV: ちょっとだけ愛が重いダークエルフが異世界から追いかけてきた
+  // [2025-SPRING] TV: ちょっとだけ愛が重いダークエルフが異世界から追いかけてきた
   // https://annict.com/works/13907
   { annict_id: 13907, mal_id: 59745 },
   // [2024-SUMMER] WEB: PIHOTEK(ピヒュッティ) 北極を風と歩く
@@ -43337,4 +43337,10 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 百姓貴族 3rd Season
   // https://annict.com/works/14968
   { annict_id: 14968 },
+  // [null-null] TV: 株式会社マジルミエ 第2期
+  // https://annict.com/works/14969
+  { annict_id: 14969 },
+  // [null-null] TV: アルカナディア
+  // https://annict.com/works/14970
+  { annict_id: 14970 },
 ]
