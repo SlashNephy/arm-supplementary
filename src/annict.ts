@@ -43336,11 +43336,11 @@ export const annict: ArmEntry[] = [
   { annict_id: 14967, mal_id: 60548 },
   // [null-null] TV: 百姓貴族 3rd Season
   // https://annict.com/works/14968
-  { annict_id: 14968 },
+  { annict_id: 14968, mal_id: 60551 },
   // [null-null] TV: 株式会社マジルミエ 第2期
   // https://annict.com/works/14969
-  { annict_id: 14969 },
+  { annict_id: 14969, mal_id: 60552 },
   // [null-null] TV: アルカナディア
   // https://annict.com/works/14970
-  { annict_id: 14970 },
+  { annict_id: 14970, mal_id: 60549 },
 ]
