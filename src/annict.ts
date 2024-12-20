@@ -43331,4 +43331,10 @@ export const annict: ArmEntry[] = [
   // [1994-SUMMER] TV: ロックマン USA
   // https://annict.com/works/14966
   { annict_id: 14966 },
+  // [null-null] TV: スキップとローファー 第2期
+  // https://annict.com/works/14967
+  { annict_id: 14967, mal_id: 60548 },
+  // [null-null] TV: 百姓貴族 3rd Season
+  // https://annict.com/works/14968
+  { annict_id: 14968 },
 ]
