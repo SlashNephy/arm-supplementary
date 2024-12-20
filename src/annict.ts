@@ -28745,7 +28745,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] TV: チキップダンサーズ 第2期
   // https://annict.com/works/10086
   { annict_id: 10086, syobocal_tid: 6465 },
-  // [null-null] OTHER: その着せ替え人形は恋をする 続編
+  // [2025-null] TV: その着せ替え人形は恋をする 続編
   // https://annict.com/works/10087
   { annict_id: 10087, mal_id: 53065 },
   // [2023-WINTER] TV: にじよん あにめーしょん
