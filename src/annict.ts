@@ -31421,7 +31421,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: 夏目友人帳 漆
   // https://annict.com/works/10981
   { annict_id: 10981, mal_id: 55823, syobocal_tid: 7192 },
-  // [null-null] TV: 地獄楽 第二期
+  // [2026-WINTER] TV: 地獄楽 第二期
   // https://annict.com/works/10982
   { annict_id: 10982, mal_id: 55825 },
   // [2015-WINTER] OVA: 昭和元禄落語心中 OAD
@@ -37991,7 +37991,7 @@ export const annict: ArmEntry[] = [
   // [1939-WINTER] MOVIE: グーフィーの釣天狗
   // https://annict.com/works/13179
   { annict_id: 13179 },
-  // [null-null] TV: SPY×FAMILY Season 3
+  // [2025-AUTUMN] TV: SPY×FAMILY Season 3
   // https://annict.com/works/13180
   { annict_id: 13180, mal_id: 59027 },
   // [1939-SPRING] MOVIE: みにくいあひるの子(1939年)
