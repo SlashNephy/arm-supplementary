@@ -43352,4 +43352,13 @@ export const annict: ArmEntry[] = [
   // [1965-SPRING] MOVIE: ドナルド・ダックの防火訓練
   // https://annict.com/works/14973
   { annict_id: 14973 },
+  // [null-null] TV: ラーメン赤猫 第2期
+  // https://annict.com/works/14974
+  { annict_id: 14974 },
+  // [2025-SPRING] TV: 遊☆戯☆王デュエルモンスターズGX 20th Remaster
+  // https://annict.com/works/14975
+  { annict_id: 14975 },
+  // [2025-SPRING] WEB: Yu-Gi-Oh! CARD GAME THE CHRONICLES
+  // https://annict.com/works/14976
+  { annict_id: 14976 },
 ]
