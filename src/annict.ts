@@ -43343,4 +43343,10 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: アルカナディア
   // https://annict.com/works/14970
   { annict_id: 14970, mal_id: 60549 },
+  // [2024-AUTUMN] WEB: 『モアナと伝説の海２』3Dショートアニメ「できるさ！ チーフー！」編
+  // https://annict.com/works/14971
+  { annict_id: 14971 },
+  // [2024-AUTUMN] WEB: 『モアナと伝説の海２』3Dショートアニメ「迷え！」編
+  // https://annict.com/works/14972
+  { annict_id: 14972 },
 ]
