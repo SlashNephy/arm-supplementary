@@ -43367,4 +43367,19 @@ export const annict: ArmEntry[] = [
   // [1911-SPRING] MOVIE: リトル・ニモ
   // https://annict.com/works/14978
   { annict_id: 14978 },
+  // [1918-SUMMER] MOVIE: ルシタニア号の沈没
+  // https://annict.com/works/14979
+  { annict_id: 14979 },
+  // [1912-WINTER] MOVIE: 蚊はいかにして行動するか
+  // https://annict.com/works/14980
+  { annict_id: 14980 },
+  // [1921-SUMMER] MOVIE: チーズトーストの悪夢：ペット
+  // https://annict.com/works/14981
+  { annict_id: 14981 },
+  // [1921-SUMMER] MOVIE: チーズトーストの悪夢：虫の大道芸
+  // https://annict.com/works/14982
+  { annict_id: 14982 },
+  // [1921-SUMMER] MOVIE: チーズトーストの悪夢：空飛ぶ家
+  // https://annict.com/works/14983
+  { annict_id: 14983 },
 ]
