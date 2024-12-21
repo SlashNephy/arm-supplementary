@@ -43385,4 +43385,19 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] MOVIE: マーズ・エクスプレス
   // https://annict.com/works/14984
   { annict_id: 14984 },
+  // [2025-SPRING] TV: SHIBUYA♡HACHI 第2期
+  // https://annict.com/works/14985
+  { annict_id: 14985 },
+  // [1921-null] MOVIE: ガーティの旅
+  // https://annict.com/works/14986
+  { annict_id: 14986 },
+  // [null-null] TV: らんま1/2 第2期
+  // https://annict.com/works/14987
+  { annict_id: 14987 },
+  // [1921-null] MOVIE: フリップのサーカス
+  // https://annict.com/works/14988
+  { annict_id: 14988 },
+  // [1921-null] MOVIE: ケンタウロス
+  // https://annict.com/works/14989
+  { annict_id: 14989 },
 ]
