@@ -43349,4 +43349,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: 『モアナと伝説の海２』3Dショートアニメ「迷え！」編
   // https://annict.com/works/14972
   { annict_id: 14972 },
+  // [1965-SPRING] MOVIE: ドナルド・ダックの防火訓練
+  // https://annict.com/works/14973
+  { annict_id: 14973 },
 ]
