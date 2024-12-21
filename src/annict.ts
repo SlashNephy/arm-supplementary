@@ -43354,7 +43354,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14973 },
   // [null-null] TV: ラーメン赤猫 第2期
   // https://annict.com/works/14974
-  { annict_id: 14974 },
+  { annict_id: 14974, mal_id: 60555 },
   // [2025-SPRING] TV: 遊☆戯☆王デュエルモンスターズGX 20th Remaster
   // https://annict.com/works/14975
   { annict_id: 14975 },
