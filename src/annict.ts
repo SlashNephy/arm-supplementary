@@ -43361,4 +43361,10 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] WEB: Yu-Gi-Oh! CARD GAME THE CHRONICLES
   // https://annict.com/works/14976
   { annict_id: 14976 },
+  // [1914-SUMMER] MOVIE: 恐竜ガーティ
+  // https://annict.com/works/14977
+  { annict_id: 14977 },
+  // [1911-SPRING] MOVIE: リトル・ニモ
+  // https://annict.com/works/14978
+  { annict_id: 14978 },
 ]
