@@ -37256,7 +37256,7 @@ export const annict: ArmEntry[] = [
   // [1930-WINTER] MOVIE: ミッキーのバイオリニスト
   // https://annict.com/works/12934
   { annict_id: 12934 },
-  // [null-null] MOVIE: 映画 おでかけ子ザメ
+  // [2025-SUMMER] MOVIE: 映画 おでかけ子ザメ とかいのおともだち
   // https://annict.com/works/12935
   { annict_id: 12935, mal_id: 58837 },
   // [1929-AUTUMN] MOVIE: ミッキーの汽車旅行
@@ -43382,4 +43382,7 @@ export const annict: ArmEntry[] = [
   // [1921-SUMMER] MOVIE: チーズトーストの悪夢：空飛ぶ家
   // https://annict.com/works/14983
   { annict_id: 14983 },
+  // [2024-WINTER] MOVIE: マーズ・エクスプレス
+  // https://annict.com/works/14984
+  { annict_id: 14984 },
 ]
