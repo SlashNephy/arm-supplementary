@@ -40877,7 +40877,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 監禁区域レベルX 2期
   // https://annict.com/works/14147
   { annict_id: 14147, mal_id: 60094 },
-  // [2025-null] TV: 僕のヒーローアカデミア FINAL SEASON
+  // [2025-AUTUMN] TV: 僕のヒーローアカデミア FINAL SEASON
   // https://annict.com/works/14148
   { annict_id: 14148, mal_id: 60098 },
   // [2010-SPRING] OVA: 11eyes 第13話「桃色幻夢譚 〜ró zsaszí n é jszaka」
@@ -43400,4 +43400,10 @@ export const annict: ArmEntry[] = [
   // [1921-null] MOVIE: ケンタウロス
   // https://annict.com/works/14989
   { annict_id: 14989 },
+  // [2025-SPRING] TV: ヴィジランテ -僕のヒーローアカデミア ILLEGALS-
+  // https://annict.com/works/14990
+  { annict_id: 14990 },
+  // [1980-null] OTHER: リトル・ニモ パイロットフィルム（月岡貞夫版）
+  // https://annict.com/works/14991
+  { annict_id: 14991, mal_id: 49117 },
 ]
