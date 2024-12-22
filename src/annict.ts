@@ -34829,7 +34829,7 @@ export const annict: ArmEntry[] = [
   // [1998-SUMMER] OVA: ONE PIECE 倒せ!海賊ギャンザック
   // https://annict.com/works/12121
   { annict_id: 12121, mal_id: 466 },
-  // [null-null] MOVIE: 劇場版 チェンソーマン レゼ篇
+  // [2025-null] MOVIE: 劇場版 チェンソーマン レゼ篇
   // https://annict.com/works/12122
   { annict_id: 12122, mal_id: 57555 },
   // [null-null] WEB: THE ONE PIECE
@@ -43406,4 +43406,7 @@ export const annict: ArmEntry[] = [
   // [1980-null] OTHER: リトル・ニモ パイロットフィルム（月岡貞夫版）
   // https://annict.com/works/14991
   { annict_id: 14991, mal_id: 49117 },
+  // [1984-null] OTHER: リトル・ニモ パイロットフィルム（近藤喜文・友永和秀版）
+  // https://annict.com/works/14992
+  { annict_id: 14992, mal_id: 13789 },
 ]

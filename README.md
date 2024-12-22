@@ -38,17 +38,17 @@ export const fetchArmEntries = async (): Promise<ArmEntry[]> => {
 
 ## Statistics
 
-Currently, arm-supplementary has 40172 entries (+7194).
+Currently, arm-supplementary has 40173 entries (+7195).
 
 | Service                                     | arm-supplementary | arm / anime-offline-database |
 | :------------------------------------------ | :---------------: | :--------------------------: |
-| [Annict](https://annict.com)                |   14468 (+252)    |            14216             |
-| [AniList](https://anilist.co)               |   22548 (+1781)   |            20767             |
-| [MyAnimeList](https://myanimelist.net)      |   28184 (+506)    |            27678             |
+| [Annict](https://annict.com)                |   14469 (+253)    |            14216             |
+| [AniList](https://anilist.co)               |   22549 (+1782)   |            20767             |
+| [MyAnimeList](https://myanimelist.net)      |   28185 (+507)    |            27678             |
 | [しょぼいカレンダー](https://cal.syoboi.jp) |    6147 (+39)     |             6108             |
 | [AniDB](https://anidb.net)                  |   13360 (+169)    |            13191             |
-| [Anime-Planet](https://anime-planet.com)    |   23702 (+186)    |            23516             |
-| [aniSearch](https://anisearch.com)          |   18575 (+179)    |            18396             |
-| [Kitsu](https://kitsu.io)                   |   20180 (+186)    |            19994             |
+| [Anime-Planet](https://anime-planet.com)    |   23703 (+187)    |            23516             |
+| [aniSearch](https://anisearch.com)          |   18576 (+180)    |            18396             |
+| [Kitsu](https://kitsu.io)                   |   20181 (+187)    |            19994             |
 | [LiveChart.me](https://livechart.me)        |   11276 (+174)    |            11102             |
-| [Anime Notifier](https://notify.moe)        |   16310 (+183)    |            16127             |
+| [Anime Notifier](https://notify.moe)        |   16311 (+184)    |            16127             |
