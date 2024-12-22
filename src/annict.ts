@@ -43426,11 +43426,17 @@ export const annict: ArmEntry[] = [
   { annict_id: 14997, mal_id: 51655 },
   // [null-null] TV: 転生貴族、鑑定スキルで成り上がる 第3期
   // https://annict.com/works/14998
-  { annict_id: 14998 },
+  { annict_id: 14998, mal_id: 60601 },
   // [2024-WINTER] MOVIE: インベンター
   // https://annict.com/works/14999
   { annict_id: 14999 },
   // [null-null] TV: ぷにるはかわいいスライム 第2期
   // https://annict.com/works/15000
-  { annict_id: 15000 },
+  { annict_id: 15000, mal_id: 60603 },
+  // [1933-AUTUMN] MOVIE: 動絵狐狸達引
+  // https://annict.com/works/15001
+  { annict_id: 15001, mal_id: 3929 },
+  // [null-null] TV: MFゴースト 3rd Season
+  // https://annict.com/works/15002
+  { annict_id: 15002, mal_id: 60602 },
 ]
