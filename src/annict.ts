@@ -43421,4 +43421,7 @@ export const annict: ArmEntry[] = [
   // [2021-SUMMER] OVA: 進撃の巨人 ちみキャラ劇場 4コマ!調査兵団ファイナル
   // https://annict.com/works/14996
   { annict_id: 14996, mal_id: 49627 },
+  // [2020-WINTER] TV: 猫のくらちゃん～じょうざんみゃおうお～
+  // https://annict.com/works/14997
+  { annict_id: 14997, mal_id: 51655 },
 ]
