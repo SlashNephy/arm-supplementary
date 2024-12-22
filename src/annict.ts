@@ -31253,7 +31253,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] MOVIE: 劇場版 僕とロボコ
   // https://annict.com/works/10925
   { annict_id: 10925, mal_id: 55709 },
-  // [2025-null] TV: うたごえはミルフィーユ
+  // [2025-SUMMER] TV: うたごえはミルフィーユ
   // https://annict.com/works/10926
   { annict_id: 10926, mal_id: 55689 },
   // [1980-SUMMER] MOVIE: 11ぴきのねこ
@@ -39104,7 +39104,7 @@ export const annict: ArmEntry[] = [
   // [1928-SUMMER] MOVIE: スカイ・スクラッパーズ
   // https://annict.com/works/13551
   { annict_id: 13551 },
-  // [2025-null] TV: 怪獣8号 第2期
+  // [2025-SUMMER] TV: 怪獣8号 第2期
   // https://annict.com/works/13552
   { annict_id: 13552, mal_id: 59177 },
   // [2024-AUTUMN] TV: オーイ! とんぼ 第2期
@@ -39280,7 +39280,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13609, mal_id: 57103 },
   // [2025-WINTER] TV: 青の祓魔師 終夜篇
   // https://annict.com/works/13610
-  { annict_id: 13610, mal_id: 59226 },
+  { annict_id: 13610, mal_id: 59226, syobocal_tid: 7334 },
   // [2015-AUTUMN] OVA: まじかるすいーとプリズム・ナナ THE ANIMATION 夢叶えたい!?希望のアドバンス(前編)
   // https://annict.com/works/13611
   { annict_id: 13611, mal_id: 15407 },
@@ -43424,4 +43424,13 @@ export const annict: ArmEntry[] = [
   // [2020-WINTER] TV: 猫のくらちゃん～じょうざんみゃおうお～
   // https://annict.com/works/14997
   { annict_id: 14997, mal_id: 51655 },
+  // [null-null] TV: 転生貴族、鑑定スキルで成り上がる 第3期
+  // https://annict.com/works/14998
+  { annict_id: 14998 },
+  // [2024-WINTER] MOVIE: インベンター
+  // https://annict.com/works/14999
+  { annict_id: 14999 },
+  // [null-null] TV: ぷにるはかわいいスライム 第2期
+  // https://annict.com/works/15000
+  { annict_id: 15000 },
 ]
