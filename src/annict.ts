@@ -12577,7 +12577,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 4208, mal_id: 23321, syobocal_tid: 3550 },
   // [2014-AUTUMN] MOVIE: 劇場版 進撃の巨人
   // https://annict.com/works/4209
-  { annict_id: 4209 },
+  { annict_id: 4209, mal_id: 23775 },
   // [2015-SUMMER] TV: Fate/kaleid liner プリズマ☆イリヤ ツヴァイ ヘルツ！
   // https://annict.com/works/4210
   { annict_id: 4210, mal_id: 27525, syobocal_tid: 3835 },
@@ -39686,7 +39686,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] WEB: Fate/Grand Order 藤丸立香はわからない Season2
   // https://annict.com/works/13745
   { annict_id: 13745, mal_id: 59465 },
-  // [null-null] TV: 阿波連さんははかれない season2
+  // [2025-SPRING] TV: 阿波連さんははかれない season2
   // https://annict.com/works/13746
   { annict_id: 13746, mal_id: 59466 },
   // [null-null] TV: 治癒魔法の間違った使い方 第2期
