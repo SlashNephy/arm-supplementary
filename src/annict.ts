@@ -43393,7 +43393,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14986 },
   // [null-null] TV: らんま1/2 第2期
   // https://annict.com/works/14987
-  { annict_id: 14987 },
+  { annict_id: 14987, mal_id: 60564 },
   // [1921-null] MOVIE: フリップのサーカス
   // https://annict.com/works/14988
   { annict_id: 14988 },
@@ -43402,11 +43402,23 @@ export const annict: ArmEntry[] = [
   { annict_id: 14989 },
   // [2025-SPRING] TV: ヴィジランテ -僕のヒーローアカデミア ILLEGALS-
   // https://annict.com/works/14990
-  { annict_id: 14990 },
+  { annict_id: 14990, mal_id: 60593 },
   // [1980-null] OTHER: リトル・ニモ パイロットフィルム（月岡貞夫版）
   // https://annict.com/works/14991
   { annict_id: 14991, mal_id: 49117 },
   // [1984-null] OTHER: リトル・ニモ パイロットフィルム（近藤喜文・友永和秀版）
   // https://annict.com/works/14992
   { annict_id: 14992, mal_id: 13789 },
+  // [1987-null] OTHER: リトル・ニモ パイロットフィルム（出崎統・杉野昭夫版）
+  // https://annict.com/works/14993
+  { annict_id: 14993, mal_id: 20463 },
+  // [2013-SUMMER] OVA: 進撃の巨人 ちみキャラ劇場 とんでけ！訓練兵団
+  // https://annict.com/works/14994
+  { annict_id: 14994, mal_id: 19391 },
+  // [2018-AUTUMN] OVA: 進撃の巨人 ちみキャラ劇場 4コマ!調査兵団リヴァイ班
+  // https://annict.com/works/14995
+  { annict_id: 14995, mal_id: 39477 },
+  // [2021-SUMMER] OVA: 進撃の巨人 ちみキャラ劇場 4コマ!調査兵団ファイナル
+  // https://annict.com/works/14996
+  { annict_id: 14996, mal_id: 49627 },
 ]
