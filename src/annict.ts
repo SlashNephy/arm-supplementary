@@ -17749,7 +17749,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5953, mal_id: 28285 },
   // [2015-SUMMER] OVA: 天体のメソッド OVA「ある少女の休日」
   // https://annict.com/works/5954
-  { annict_id: 5954 },
+  { annict_id: 5954, mal_id: 30919 },
   // [2015-SUMMER] OVA: 七つの大罪 OVA「英雄たちの戯れ 〜番外編集〜」
   // https://annict.com/works/5955
   { annict_id: 5955, mal_id: 30347 },
