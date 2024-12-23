@@ -43445,4 +43445,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] TV: とーがね！クロニクル＜再編集版＞
   // https://annict.com/works/15004
   { annict_id: 15004 },
+  // [2025-null] TV: クマーバ シーズン3
+  // https://annict.com/works/15005
+  { annict_id: 15005 },
 ]
