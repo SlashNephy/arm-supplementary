@@ -31121,7 +31121,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] WEB: おでかけ子ザメ
   // https://annict.com/works/10881
   { annict_id: 10881, mal_id: 55463, syobocal_tid: 6781 },
-  // [2025-null] TV: ざつ旅 -That's Journey-
+  // [2025-SPRING] TV: ざつ旅 -That's Journey-
   // https://annict.com/works/10882
   { annict_id: 10882, mal_id: 55514 },
   // [2023-SUMMER] MOVIE: マスターオブスキル For the GLORY
@@ -43439,4 +43439,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: MFゴースト 3rd Season
   // https://annict.com/works/15002
   { annict_id: 15002, mal_id: 60602 },
+  // [2025-AUTUMN] MOVIE: 果てしなきスカーレット
+  // https://annict.com/works/15003
+  { annict_id: 15003, mal_id: 60610 },
 ]
