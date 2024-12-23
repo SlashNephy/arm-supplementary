@@ -37048,7 +37048,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12863, mal_id: 8197 },
   // [2025-WINTER] TV: 俺だけレベルアップな件 Season 2 -Arise from the Shadow-
   // https://annict.com/works/12864
-  { annict_id: 12864, mal_id: 58567 },
+  { annict_id: 12864, mal_id: 58567, syobocal_tid: 7335 },
   // [null-null] TV: 刃牙道
   // https://annict.com/works/12865
   { annict_id: 12865, mal_id: 58573 },
@@ -40445,7 +40445,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] MOVIE: ヴァージン・パンク Clockwork Girl
   // https://annict.com/works/14002
   { annict_id: 14002, mal_id: 59848 },
-  // [2025-null] TV: ばいばい、アース 第2シーズン
+  // [2025-SPRING] TV: ばいばい、アース 第2シーズン
   // https://annict.com/works/14003
   { annict_id: 14003, mal_id: 59819 },
   // [2024-AUTUMN] MOVIE: 俺だけレベルアップな件 -ReAwakening-
@@ -43442,4 +43442,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] MOVIE: 果てしなきスカーレット
   // https://annict.com/works/15003
   { annict_id: 15003, mal_id: 60610 },
+  // [2025-WINTER] TV: とーがね！クロニクル＜再編集版＞
+  // https://annict.com/works/15004
+  { annict_id: 15004 },
 ]
