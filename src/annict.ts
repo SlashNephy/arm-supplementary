@@ -39346,7 +39346,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13631, mal_id: 59266 },
   // [2025-WINTER] TV: 「1分間だけ触れてもいいよ…」シェアハウスの秘密ルール｡
   // https://annict.com/works/13632
-  { annict_id: 13632 },
+  { annict_id: 13632, syobocal_tid: 7336 },
   // [2025-null] TV: 彼女、お借りします 第4期
   // https://annict.com/works/13633
   { annict_id: 13633, mal_id: 59277 },
