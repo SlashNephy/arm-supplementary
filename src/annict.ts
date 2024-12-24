@@ -39338,7 +39338,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] TV: マジック・メイカー ～異世界魔法の作り方～
   // https://annict.com/works/13629
   { annict_id: 13629, mal_id: 59265, syobocal_tid: 7286 },
-  // [null-null] TV: SANDA
+  // [2025-AUTUMN] TV: SANDA
   // https://annict.com/works/13630
   { annict_id: 13630, mal_id: 59267 },
   // [null-null] TV: 渡り鳥とカタツムリ
