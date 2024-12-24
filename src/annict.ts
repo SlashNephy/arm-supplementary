@@ -31433,7 +31433,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: Fate/strange Fake
   // https://annict.com/works/10985
   { annict_id: 10985, mal_id: 55830 },
-  // [null-null] OTHER: New PANTY&STOCKING with GARTERBELT
+  // [2025-null] TV: New PANTY & STOCKING with GARTERBELT
   // https://annict.com/works/10986
   { annict_id: 10986, mal_id: 52293 },
   // [2024-AUTUMN] TV: 村井の恋
