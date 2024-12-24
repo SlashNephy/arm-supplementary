@@ -40792,7 +40792,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14118 },
   // [2025-SPRING] OVA: 百姓貴族 2nd Season 未放送エピソード
   // https://annict.com/works/14119
-  { annict_id: 14119 },
+  { annict_id: 14119, mal_id: 60595 },
   // [2024-AUTUMN] TV: 神之塔 -Tower of God- 工房戦
   // https://annict.com/works/14120
   { annict_id: 14120, mal_id: 59989, syobocal_tid: 7250 },
@@ -43387,7 +43387,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14984 },
   // [2025-SPRING] TV: SHIBUYA♡HACHI 第2期
   // https://annict.com/works/14985
-  { annict_id: 14985 },
+  { annict_id: 14985, mal_id: 60612 },
   // [1921-null] MOVIE: ガーティの旅
   // https://annict.com/works/14986
   { annict_id: 14986 },
