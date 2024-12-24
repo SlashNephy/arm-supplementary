@@ -40366,7 +40366,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13975, mal_id: 29897 },
   // [2025-WINTER] MOVIE: 映画おしりたんてい スター・アンド・ムーン
   // https://annict.com/works/13976
-  { annict_id: 13976 },
+  { annict_id: 13976, mal_id: 60613 },
   // [null-null] MOVIE: ガールズバンドクライ 劇場版総集編 前編
   // https://annict.com/works/13977
   { annict_id: 13977, mal_id: 59817 },
@@ -43448,4 +43448,16 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: クマーバ シーズン3
   // https://annict.com/works/15005
   { annict_id: 15005 },
+  // [null-null] TV: 嘆きの亡霊は引退したい 第2クール
+  // https://annict.com/works/15006
+  { annict_id: 15006, mal_id: 60619 },
+  // [null-null] TV: やたらやらしい深見くん
+  // https://annict.com/works/15007
+  { annict_id: 15007 },
+  // [null-null] TV: ギルティホール～教え子しか指名できない店～
+  // https://annict.com/works/15008
+  { annict_id: 15008 },
+  // [null-null] TV: デキちゃうまで婚
+  // https://annict.com/works/15009
+  { annict_id: 15009 },
 ]
