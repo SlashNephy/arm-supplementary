@@ -43460,4 +43460,10 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: デキちゃうまで婚
   // https://annict.com/works/15009
   { annict_id: 15009 },
+  // [2019-SUMMER] OVA: トムとジェリー 夢のチョコレート工場
+  // https://annict.com/works/15010
+  { annict_id: 15010 },
+  // [2025-SPRING] TV: 最強王図鑑 ～The Ultimate Tournament～ 新シリーズ
+  // https://annict.com/works/15011
+  { annict_id: 15011, mal_id: 60596 },
 ]
