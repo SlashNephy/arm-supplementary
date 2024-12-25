@@ -37016,7 +37016,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: Thunderbolt Fantasy 東離劍遊紀 4
   // https://annict.com/works/12853
   { annict_id: 12853, syobocal_tid: 7208 },
-  // [2025-null] MOVIE: Thunderbolt Fantasy 東離劍遊紀 最終章
+  // [2025-WINTER] MOVIE: Thunderbolt Fantasy 東離劍遊紀 最終章
   // https://annict.com/works/12854
   { annict_id: 12854 },
   // [2024-AUTUMN] WEB: HIGH CARD #25 THE FLOWERS BLOOM
@@ -42803,7 +42803,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 星の王子さま
   // https://annict.com/works/14790
   { annict_id: 14790 },
-  // [2025-null] TV: 宇宙人ムームー
+  // [2025-SPRING] TV: 宇宙人ムームー
   // https://annict.com/works/14791
   { annict_id: 14791, mal_id: 60401 },
   // [2024-AUTUMN] WEB: Google Chrome アニメ 「がんばれ！くろーむ 」
@@ -42947,9 +42947,9 @@ export const annict: ArmEntry[] = [
   // [1935-null] MOVIE: PROPAGATE(開花)
   // https://annict.com/works/14838
   { annict_id: 14838, mal_id: 35406 },
-  // [1937-null] MOVIE: 色彩漫画の出來る迄
+  // [1937-null] MOVIE: 色彩漫画の出來る迄（カツラ姫）
   // https://annict.com/works/14839
-  { annict_id: 14839 },
+  { annict_id: 14839, mal_id: 28419 },
   // [2020-AUTUMN] TV: それいけ！アンパンマン クリスマススペシャル サンタさんをすくえ! 氷の城のクリスマス
   // https://annict.com/works/14840
   { annict_id: 14840, mal_id: 60471 },
@@ -43472,4 +43472,7 @@ export const annict: ArmEntry[] = [
   // [1936-null] MOVIE: ちんころ平平玉手箱
   // https://annict.com/works/15013
   { annict_id: 15013, mal_id: 12803 },
+  // [1947-null] MOVIE: 雪の夜の夢
+  // https://annict.com/works/15014
+  { annict_id: 15014, mal_id: 28055 },
 ]
