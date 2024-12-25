@@ -43475,4 +43475,7 @@ export const annict: ArmEntry[] = [
   // [1947-null] MOVIE: 雪の夜の夢
   // https://annict.com/works/15014
   { annict_id: 15014, mal_id: 28055 },
+  // [1951-null] MOVIE: 聖書幻想譜 アダムとイブ
+  // https://annict.com/works/15015
+  { annict_id: 15015, mal_id: 28693 },
 ]
