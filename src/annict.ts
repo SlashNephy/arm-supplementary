@@ -43466,4 +43466,10 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] TV: 最強王図鑑 ～The Ultimate Tournament～ 新シリーズ
   // https://annict.com/works/15011
   { annict_id: 15011, mal_id: 60596 },
+  // [1933-AUTUMN] MOVIE: 沼の大将
+  // https://annict.com/works/15012
+  { annict_id: 15012, mal_id: 28049 },
+  // [1936-null] MOVIE: ちんころ平平玉手箱
+  // https://annict.com/works/15013
+  { annict_id: 15013, mal_id: 12803 },
 ]
