@@ -43481,4 +43481,7 @@ export const annict: ArmEntry[] = [
   // [1934-AUTUMN] MOVIE: 月の宮の王女様
   // https://annict.com/works/15016
   { annict_id: 15016, mal_id: 15139 },
+  // [1934-null] MOVIE: ガランドウの太鼓
+  // https://annict.com/works/15017
+  { annict_id: 15017, mal_id: 51801 },
 ]
