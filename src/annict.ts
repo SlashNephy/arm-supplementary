@@ -43490,4 +43490,10 @@ export const annict: ArmEntry[] = [
   // [1938-null] MOVIE: 蜘蛛と頼光
   // https://annict.com/works/15019
   { annict_id: 15019 },
+  // [1942-SUMMER] MOVIE: スパイ撃滅
+  // https://annict.com/works/15020
+  { annict_id: 15020, mal_id: 27575 },
+  // [1936-null] MOVIE: マー坊の東京オリンピック大会
+  // https://annict.com/works/15021
+  { annict_id: 15021 },
 ]
