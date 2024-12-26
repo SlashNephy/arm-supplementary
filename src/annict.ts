@@ -43487,4 +43487,7 @@ export const annict: ArmEntry[] = [
   // [1936-null] MOVIE: 鈎を失くした山彦
   // https://annict.com/works/15018
   { annict_id: 15018, mal_id: 51796 },
+  // [1938-null] MOVIE: 蜘蛛と頼光
+  // https://annict.com/works/15019
+  { annict_id: 15019 },
 ]
