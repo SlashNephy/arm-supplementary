@@ -43484,4 +43484,7 @@ export const annict: ArmEntry[] = [
   // [1934-null] MOVIE: ガランドウの太鼓
   // https://annict.com/works/15017
   { annict_id: 15017, mal_id: 51801 },
+  // [1936-null] MOVIE: 鈎を失くした山彦
+  // https://annict.com/works/15018
+  { annict_id: 15018, mal_id: 51796 },
 ]
