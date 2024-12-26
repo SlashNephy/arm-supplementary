@@ -43478,4 +43478,7 @@ export const annict: ArmEntry[] = [
   // [1951-null] MOVIE: 聖書幻想譜 アダムとイブ
   // https://annict.com/works/15015
   { annict_id: 15015, mal_id: 28693 },
+  // [1934-AUTUMN] MOVIE: 月の宮の王女様
+  // https://annict.com/works/15016
+  { annict_id: 15016, mal_id: 15139 },
 ]
