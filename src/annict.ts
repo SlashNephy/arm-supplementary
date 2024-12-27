@@ -43505,4 +43505,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: ユーチューニャー クリスマス特別編「クリスマスってみた」
   // https://annict.com/works/15024
   { annict_id: 15024, mal_id: 60623 },
+  // [1940-SPRING] MOVIE: お蝶夫人の幻想
+  // https://annict.com/works/15025
+  { annict_id: 15025, mal_id: 28143 },
 ]
