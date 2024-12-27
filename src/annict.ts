@@ -5386,7 +5386,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1797, mal_id: 3458 },
   // [1998-SPRING] TV: ピンカと海のお友達
   // https://annict.com/works/1798
-  { annict_id: 1798 },
+  { annict_id: 1798, mal_id: 60631 },
   // [1978-AUTUMN] TV: ピンク・レディー物語 栄光の天使たち
   // https://annict.com/works/1799
   { annict_id: 1799, mal_id: 17423 },
@@ -43496,4 +43496,13 @@ export const annict: ArmEntry[] = [
   // [1936-null] MOVIE: マー坊の東京オリンピック大会
   // https://annict.com/works/15021
   { annict_id: 15021 },
+  // [2022-WINTER] WEB: ミルキー☆ハイウェイ
+  // https://annict.com/works/15022
+  { annict_id: 15022, mal_id: 57925 },
+  // [2025-null] TV: ミルキー☆ハイウェイ(シリーズ)
+  // https://annict.com/works/15023
+  { annict_id: 15023 },
+  // [2024-AUTUMN] TV: ユーチューニャー クリスマス特別編「クリスマスってみた」
+  // https://annict.com/works/15024
+  { annict_id: 15024, mal_id: 60623 },
 ]
