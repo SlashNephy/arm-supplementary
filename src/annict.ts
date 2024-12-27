@@ -43508,4 +43508,7 @@ export const annict: ArmEntry[] = [
   // [1940-SPRING] MOVIE: お蝶夫人の幻想
   // https://annict.com/works/15025
   { annict_id: 15025, mal_id: 28143 },
+  // [1943-AUTUMN] MOVIE: マレー沖海戦
+  // https://annict.com/works/15026
+  { annict_id: 15026, mal_id: 29782 },
 ]
