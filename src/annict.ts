@@ -43523,4 +43523,7 @@ export const annict: ArmEntry[] = [
   // [1957-AUTUMN] MOVIE: ハヌマンの新しい冒険
   // https://annict.com/works/15030
   { annict_id: 15030 },
+  // [1959-AUTUMN] MOVIE: 熊と子供たち
+  // https://annict.com/works/15031
+  { annict_id: 15031 },
 ]
