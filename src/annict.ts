@@ -43526,7 +43526,7 @@ export const annict: ArmEntry[] = [
   // [1959-AUTUMN] MOVIE: 熊と子供たち
   // https://annict.com/works/15031
   { annict_id: 15031 },
-  // [2013-SUMMER] WEB: Bee and PuppyCat (ウェブパイロット版)
+  // [2013-SUMMER] WEB: Bee and PuppyCat (パイロット版)
   // https://annict.com/works/15032
   { annict_id: 15032 },
   // [2014-AUTUMN] WEB: Bee and PuppyCat
@@ -43535,4 +43535,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] WEB: ビーとパピーキャット
   // https://annict.com/works/15034
   { annict_id: 15034 },
+  // [null-null] TV: BLEACH 千年血戦篇-禍進譚-
+  // https://annict.com/works/15035
+  { annict_id: 15035 },
 ]
