@@ -43514,4 +43514,13 @@ export const annict: ArmEntry[] = [
   // [1940-SUMMER] MOVIE: キンタロー体育日記
   // https://annict.com/works/15027
   { annict_id: 15027, mal_id: 7501 },
+  // [1941-WINTER] MOVIE: 動物となり組
+  // https://annict.com/works/15028
+  { annict_id: 15028, mal_id: 28827 },
+  // [1954-null] MOVIE: シンテリヤ嬢の花婿
+  // https://annict.com/works/15029
+  { annict_id: 15029, mal_id: 28829 },
+  // [1957-AUTUMN] MOVIE: ハヌマンの新しい冒険
+  // https://annict.com/works/15030
+  { annict_id: 15030 },
 ]
