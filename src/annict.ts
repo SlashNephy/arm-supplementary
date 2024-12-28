@@ -43526,4 +43526,13 @@ export const annict: ArmEntry[] = [
   // [1959-AUTUMN] MOVIE: 熊と子供たち
   // https://annict.com/works/15031
   { annict_id: 15031 },
+  // [2013-SUMMER] WEB: Bee and PuppyCat (ウェブパイロット版)
+  // https://annict.com/works/15032
+  { annict_id: 15032 },
+  // [2014-AUTUMN] WEB: Bee and PuppyCat
+  // https://annict.com/works/15033
+  { annict_id: 15033 },
+  // [2022-AUTUMN] WEB: ビーとパピーキャット
+  // https://annict.com/works/15034
+  { annict_id: 15034 },
 ]
