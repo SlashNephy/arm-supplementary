@@ -43537,8 +43537,8 @@ export const annict: ArmEntry[] = [
   { annict_id: 15034 },
   // [null-null] TV: BLEACH 千年血戦篇-禍進譚-
   // https://annict.com/works/15035
-  { annict_id: 15035 },
+  { annict_id: 15035, mal_id: 60636 },
   // [null-null] TV: 魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance
   // https://annict.com/works/15036
-  { annict_id: 15036 },
+  { annict_id: 15036, mal_id: 60637 },
 ]
