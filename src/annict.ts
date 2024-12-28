@@ -43511,4 +43511,7 @@ export const annict: ArmEntry[] = [
   // [1943-AUTUMN] MOVIE: マレー沖海戦
   // https://annict.com/works/15026
   { annict_id: 15026, mal_id: 29782 },
+  // [1940-SUMMER] MOVIE: キンタロー体育日記
+  // https://annict.com/works/15027
+  { annict_id: 15027, mal_id: 7501 },
 ]
