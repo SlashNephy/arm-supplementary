@@ -36715,7 +36715,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12752, mal_id: 6837 },
   // [2008-WINTER] TV: 豆しば
   // https://annict.com/works/12753
-  { annict_id: 12753 },
+  { annict_id: 12753, mal_id: 7261 },
   // [1935-SPRING] MOVIE: 一寸法師 ちび助物語
   // https://annict.com/works/12754
   { annict_id: 12754, mal_id: 6836 },
@@ -40333,10 +40333,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 13964 },
   // [2017-SPRING] TV: 豆司波
   // https://annict.com/works/13965
-  { annict_id: 13965 },
+  { annict_id: 13965, mal_id: 35631 },
   // [2013-SPRING] TV: 銀魂×豆しば
   // https://annict.com/works/13966
-  { annict_id: 13966 },
+  { annict_id: 13966, mal_id: 19261 },
   // [null-null] MOVIE: サルカニ合戦
   // https://annict.com/works/13967
   { annict_id: 13967, mal_id: 30059 },
