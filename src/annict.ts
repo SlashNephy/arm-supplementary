@@ -43544,7 +43544,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: モンスターストライク エル 堕天の覚醒
   // https://annict.com/works/15037
   { annict_id: 15037 },
-  // [2014-AUTUMN] WEB: ブキガミ スぺシャルアニメ
+  // [2014-AUTUMN] WEB: ブキガミ スペシャルアニメ
   // https://annict.com/works/15038
   { annict_id: 15038 },
 ]
