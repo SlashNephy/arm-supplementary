@@ -42808,7 +42808,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14791, mal_id: 60401 },
   // [2024-AUTUMN] WEB: Google Chrome アニメ 「がんばれ！くろーむ 」
   // https://annict.com/works/14792
-  { annict_id: 14792 },
+  { annict_id: 14792, mal_id: 60632 },
   // [2003-AUTUMN] OVA: BIONICLE -マスク・オブ・ライト- ザ・ムービー
   // https://annict.com/works/14793
   { annict_id: 14793 },
