@@ -43550,4 +43550,10 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: 日々は過ぎれど飯うまし
   // https://annict.com/works/15039
   { annict_id: 15039 },
+  // [2025-WINTER] OVA: Fate/Grand Order 藤丸立香はわからない Season2 OVA
+  // https://annict.com/works/15040
+  { annict_id: 15040 },
+  // [2024-AUTUMN] TV: SFBC "Fake" Commercial Film
+  // https://annict.com/works/15041
+  { annict_id: 15041 },
 ]
