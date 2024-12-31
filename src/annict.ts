@@ -43547,4 +43547,7 @@ export const annict: ArmEntry[] = [
   // [2014-AUTUMN] WEB: ブキガミ スペシャルアニメ
   // https://annict.com/works/15038
   { annict_id: 15038 },
+  // [2025-null] TV: 日々は過ぎれど飯うまし
+  // https://annict.com/works/15039
+  { annict_id: 15039 },
 ]
