@@ -39941,7 +39941,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] MOVIE: ロード・オブ・ザ・リング／ローハンの戦い
   // https://annict.com/works/13830
   { annict_id: 13830 },
-  // [2025-null] MOVIE: 劇場版総集編 呪術廻戦 懐玉・玉折
+  // [2025-SPRING] MOVIE: 劇場版総集編 呪術廻戦 懐玉・玉折
   // https://annict.com/works/13831
   { annict_id: 13831, mal_id: 59654 },
   // [2004-WINTER] MOVIE: ONE PIECE めざせ！海賊野球王
@@ -43556,4 +43556,10 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: SFBC "Fake" Commercial Film
   // https://annict.com/works/15041
   { annict_id: 15041, mal_id: 60660 },
+  // [2025-SUMMER] TV: ふたりソロキャンプ
+  // https://annict.com/works/15042
+  { annict_id: 15042 },
+  // [1971-SUMMER] TV: 電子鳥人Uバード
+  // https://annict.com/works/15043
+  { annict_id: 15043 },
 ]
