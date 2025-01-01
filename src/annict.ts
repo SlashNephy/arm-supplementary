@@ -43565,4 +43565,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] MOVIE: 長篇アニメ映画 ザ☆ウルトラマン ウルトラの星へ!!
   // https://annict.com/works/15044
   { annict_id: 15044 },
+  // [1997-WINTER] OVA: ADVENTURE OF ULTRAMAN
+  // https://annict.com/works/15045
+  { annict_id: 15045 },
 ]
