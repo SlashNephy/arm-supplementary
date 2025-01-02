@@ -43232,7 +43232,7 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: 不器用な先輩。
   // https://annict.com/works/14934
   { annict_id: 14934, mal_id: 60531 },
-  // [2025-WINTER] TV: 聖女なのに国を追い出されたので、崩壊寸前の隣国へ来ました
+  // [2025-WINTER] TV: 聖女なのに国を追い出されたので、崩壊寸前の隣国へ来ました～力を解放したので国が平和になってきましたが元の国まで加護は届きませんよ～
   // https://annict.com/works/14935
   { annict_id: 14935 },
   // [2024-AUTUMN] MOVIE: BanG Dream! Ave Mujica 劇場先行上映
