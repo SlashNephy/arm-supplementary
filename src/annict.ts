@@ -42995,13 +42995,13 @@ export const annict: ArmEntry[] = [
   // [1939-SUMMER] MOVIE: べんけい対ウシワカ
   // https://annict.com/works/14855
   { annict_id: 14855, mal_id: 12561 },
-  // [1942-WINTER] MOVIE: フクちゃんの奇襲
+  // [1942-WINTER] MOVIE: フクちゃん奇襲
   // https://annict.com/works/14856
   { annict_id: 14856, mal_id: 23969 },
   // [1943-SUMMER] MOVIE: フクちゃんの増産部隊
   // https://annict.com/works/14857
   { annict_id: 14857, mal_id: 23971 },
-  // [1944-AUTUMN] MOVIE: フクちゃんの潜水艦
+  // [1944-AUTUMN] MOVIE: フクチャンの潜水艦
   // https://annict.com/works/14858
   { annict_id: 14858, mal_id: 7523 },
   // [1935-WINTER] MOVIE: 茶釜音頭
