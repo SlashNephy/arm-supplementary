@@ -26582,7 +26582,7 @@ export const annict: ArmEntry[] = [
   // [1997-WINTER] MOVIE: 劇場版 フランダースの犬
   // https://annict.com/works/9330
   { annict_id: 9330, mal_id: 2623 },
-  // [1984-SUMMER] MOVIE: キン肉マン (劇場版)
+  // [1984-SUMMER] MOVIE: キン肉マン 奪われたチャンピオンベルト
   // https://annict.com/works/9331
   { annict_id: 9331, mal_id: 3273, syobocal_tid: 2651 },
   // [1984-AUTUMN] MOVIE: キン肉マン 大暴れ！正義超人
