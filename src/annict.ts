@@ -39677,7 +39677,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: Duel Masters LOST ～月下の死神～
   // https://annict.com/works/13743
   { annict_id: 13743, mal_id: 59458 },
-  // [null-null] OTHER: サイレント・ウィッチ 沈黙の魔女の隠しごと
+  // [2025-null] TV: サイレント・ウィッチ 沈黙の魔女の隠しごと
   // https://annict.com/works/13744
   { annict_id: 13744, mal_id: 59459 },
   // [2024-SUMMER] WEB: Fate/Grand Order 藤丸立香はわからない Season2
