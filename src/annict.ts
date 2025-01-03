@@ -43565,4 +43565,25 @@ export const annict: ArmEntry[] = [
   // [1997-WINTER] OVA: ADVENTURE OF ULTRAMAN
   // https://annict.com/works/15045
   { annict_id: 15045 },
+  // [1928-SUMMER] MOVIE: Mississippi Mud（原題）
+  // https://annict.com/works/15046
+  { annict_id: 15046 },
+  // [1928-AUTUMN] MOVIE: Panicky Pancakes（原題）
+  // https://annict.com/works/15047
+  { annict_id: 15047 },
+  // [1928-AUTUMN] MOVIE: Fiery Firemen（原題）
+  // https://annict.com/works/15048
+  { annict_id: 15048 },
+  // [1928-AUTUMN] MOVIE: Rocks and Socks（原題）
+  // https://annict.com/works/15049
+  { annict_id: 15049 },
+  // [1928-AUTUMN] MOVIE: South Pole Flight（原題）
+  // https://annict.com/works/15050
+  { annict_id: 15050 },
+  // [1928-AUTUMN] MOVIE: Bull-Oney（原題）
+  // https://annict.com/works/15051
+  { annict_id: 15051 },
+  // [1935-SPRING] MOVIE: Springtime Serenade（原題）
+  // https://annict.com/works/15052
+  { annict_id: 15052 },
 ]
