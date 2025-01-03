@@ -42925,7 +42925,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14831, mal_id: 60427 },
   // [2025-WINTER] TV: 0歳児スタートダッシュ物語 シーズン2
   // https://annict.com/works/14832
-  { annict_id: 14832, mal_id: 60425 },
+  { annict_id: 14832, mal_id: 60425, syobocal_tid: 7340 },
   // [1964-null] MOVIE: 殺人 MURDER！
   // https://annict.com/works/14833
   { annict_id: 14833, mal_id: 3743 },
