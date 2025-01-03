@@ -43586,4 +43586,7 @@ export const annict: ArmEntry[] = [
   // [1935-SPRING] MOVIE: Springtime Serenade（原題）
   // https://annict.com/works/15052
   { annict_id: 15052 },
+  // [1928-AUTUMN] MOVIE: A Horse Tale（原題）
+  // https://annict.com/works/15053
+  { annict_id: 15053 },
 ]
