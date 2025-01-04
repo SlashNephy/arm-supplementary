@@ -42904,7 +42904,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14824, mal_id: 7028 },
   // [2025-WINTER] TV: 闇芝居 十四期
   // https://annict.com/works/14825
-  { annict_id: 14825, mal_id: 60410 },
+  { annict_id: 14825, mal_id: 60410, syobocal_tid: 7341 },
   // [2019-SUMMER] WEB: TALES OF THE RAYS Everlasting Destiny
   // https://annict.com/works/14826
   { annict_id: 14826, mal_id: 39067 },
