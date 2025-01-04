@@ -22784,7 +22784,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: ゴブリンスレイヤーⅡ
   // https://annict.com/works/7904
   { annict_id: 7904, mal_id: 47160, syobocal_tid: 6839 },
-  // [null-null] TV: 友達の妹が俺にだけウザい
+  // [2025-AUTUMN] TV: 友達の妹が俺にだけウザい
   // https://annict.com/works/7905
   { annict_id: 7905, mal_id: 47158 },
   // [2022-SUMMER] TV: ダンジョンに出会いを求めるのは間違っているだろうかⅣ 新章 迷宮篇
@@ -32279,7 +32279,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] WEB: 僕らの雨いろプロトコル ミニアニメ
   // https://annict.com/works/11268
   { annict_id: 11268 },
-  // [null-null] TV: お隣の天使様にいつの間にか駄目人間にされていた件 第2期
+  // [null-null] TV: お隣の天使様にいつの間にか駄目人間にされていた件2
   // https://annict.com/works/11269
   { annict_id: 11269, mal_id: 56876 },
   // [null-null] TV: 青のオーケストラ 第2期
@@ -43604,4 +43604,7 @@ export const annict: ArmEntry[] = [
   // [1935-SUMMER] MOVIE: Fox and the Rabbit（原題）
   // https://annict.com/works/15058
   { annict_id: 15058 },
+  // [null-null] TV: 貴族転生 ～恵まれた生まれから最強の力を得る～
+  // https://annict.com/works/15059
+  { annict_id: 15059, mal_id: 60692 },
 ]
