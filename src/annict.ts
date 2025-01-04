@@ -43589,4 +43589,19 @@ export const annict: ArmEntry[] = [
   // [1928-AUTUMN] MOVIE: A Horse Tale（原題）
   // https://annict.com/works/15053
   { annict_id: 15053 },
+  // [1934-AUTUMN] MOVIE: Jolly Little Elves（原題）
+  // https://annict.com/works/15054
+  { annict_id: 15054 },
+  // [1934-AUTUMN] MOVIE: Toyland Premiere（原題）
+  // https://annict.com/works/15055
+  { annict_id: 15055 },
+  // [1935-SPRING] MOVIE: Candyland（原題）
+  // https://annict.com/works/15056
+  { annict_id: 15056 },
+  // [1935-SPRING] MOVIE: Three Lazy Mice（原題）
+  // https://annict.com/works/15057
+  { annict_id: 15057 },
+  // [1935-SUMMER] MOVIE: Fox and the Rabbit（原題）
+  // https://annict.com/works/15058
+  { annict_id: 15058 },
 ]
