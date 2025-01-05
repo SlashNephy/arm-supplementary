@@ -43033,7 +43033,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14867 },
   // [2025-WINTER] TV: 猫になりたい田万川くん
   // https://annict.com/works/14868
-  { annict_id: 14868, syobocal_tid: 7337 },
+  { annict_id: 14868, mal_id: 60662, syobocal_tid: 7337 },
   // [2017-SUMMER] WEB: THE KING OF FIGHTERS： DESTINY
   // https://annict.com/works/14869
   { annict_id: 14869, mal_id: 35204 },
