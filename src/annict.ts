@@ -2401,7 +2401,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 800, mal_id: 567, syobocal_tid: 102 },
   // [2003-AUTUMN] TV: さいころボット コンボック
   // https://annict.com/works/801
-  { annict_id: 801 },
+  { annict_id: 801, mal_id: 3772 },
   // [2011-SPRING] TV: さきいか君
   // https://annict.com/works/802
   { annict_id: 802 },
@@ -4624,7 +4624,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1542, mal_id: 8891 },
   // [1998-AUTUMN] TV: 虹の戦記イリス
   // https://annict.com/works/1543
-  { annict_id: 1543 },
+  { annict_id: 1543, mal_id: 9106 },
   // [2006-SPRING] TV: 西の善き魔女 Astraea Testament
   // https://annict.com/works/1544
   { annict_id: 1544, mal_id: 942, syobocal_tid: 819 },
@@ -5902,7 +5902,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1969, mal_id: 10338 },
   // [2009-AUTUMN] TV: ぼく チロ！
   // https://annict.com/works/1970
-  { annict_id: 1970 },
+  { annict_id: 1970, mal_id: 38092 },
   // [2013-SPRING] TV: ぼくは王さま
   // https://annict.com/works/1971
   { annict_id: 1971, mal_id: 18191, syobocal_tid: 2964 },
@@ -43610,4 +43610,7 @@ export const annict: ArmEntry[] = [
   // [2001-SUMMER] MOVIE: ガンダム新体験‐0087‐グリーンダイバーズ
   // https://annict.com/works/15060
   { annict_id: 15060, mal_id: 8839 },
+  // [null-null] TV: フェルマーの料理
+  // https://annict.com/works/15061
+  { annict_id: 15061, mal_id: 60697 },
 ]
