@@ -43607,4 +43607,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 貴族転生 ～恵まれた生まれから最強の力を得る～
   // https://annict.com/works/15059
   { annict_id: 15059, mal_id: 60692 },
+  // [2001-SUMMER] MOVIE: ガンダム新体験‐0087‐グリーンダイバーズ
+  // https://annict.com/works/15060
+  { annict_id: 15060, mal_id: 8839 },
 ]
