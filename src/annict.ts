@@ -30472,7 +30472,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10665 },
   // [2023-AUTUMN] MOVIE: 劇場版 ポールプリンセス!!
   // https://annict.com/works/10666
-  { annict_id: 10666, mal_id: 54923 },
+  { annict_id: 10666, mal_id: 54923, syobocal_tid: 7338 },
   // [2023-AUTUMN] TV: 婚約破棄された令嬢を拾った俺が、イケナイことを教え込む
   // https://annict.com/works/10667
   { annict_id: 10667, mal_id: 52934, syobocal_tid: 6795 },
@@ -42820,7 +42820,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14796 },
   // [2025-WINTER] TV: キミとアイドルプリキュア♪
   // https://annict.com/works/14797
-  { annict_id: 14797, mal_id: 60407 },
+  { annict_id: 14797, mal_id: 60407, syobocal_tid: 7343 },
   // [1932-WINTER] MOVIE: ビン坊の海賊退治
   // https://annict.com/works/14798
   { annict_id: 14798 },
