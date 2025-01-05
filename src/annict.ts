@@ -29503,7 +29503,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10339, mal_id: 53912, syobocal_tid: 7011 },
   // [2025-WINTER] TV: 地縛少年花子くん2
   // https://annict.com/works/10340
-  { annict_id: 10340, mal_id: 53924 },
+  { annict_id: 10340, mal_id: 53924, syobocal_tid: 7342 },
   // [2023-WINTER] MOVIE: 鬼滅の刃 上弦集結、そして刀鍛冶の里へ
   // https://annict.com/works/10341
   { annict_id: 10341, mal_id: 54591 },
@@ -42818,7 +42818,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] OVA: 僕のヒーローアカデミア THE MOVIE ユアネクスト 《A PIECE OF CAKE》
   // https://annict.com/works/14796
   { annict_id: 14796 },
-  // [2025-null] TV: キミとアイドルプリキュア♪
+  // [2025-WINTER] TV: キミとアイドルプリキュア♪
   // https://annict.com/works/14797
   { annict_id: 14797, mal_id: 60407 },
   // [1932-WINTER] MOVIE: ビン坊の海賊退治
