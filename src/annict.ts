@@ -43613,7 +43613,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: フェルマーの料理
   // https://annict.com/works/15061
   { annict_id: 15061, mal_id: 60697 },
-  // [2014-null] MOVIE: ダイナミックヴィーナス
+  // [2014-SPRING] MOVIE: ダイナミックヴィーナス
   // https://annict.com/works/15062
   { annict_id: 15062, mal_id: 55625 },
 ]
