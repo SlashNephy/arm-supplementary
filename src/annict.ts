@@ -33043,7 +33043,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11523 },
   // [null-null] OTHER: 機動戦士ガンダム 鉄血のオルフェンズ ウルズハント
   // https://annict.com/works/11524
-  { annict_id: 11524 },
+  { annict_id: 11524, mal_id: 38982 },
   // [2024-SUMMER] TV: 菜なれ花なれ
   // https://annict.com/works/11525
   { annict_id: 11525, mal_id: 57099, syobocal_tid: 7118 },
