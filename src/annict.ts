@@ -1892,7 +1892,7 @@ export const annict: ArmEntry[] = [
   // [2009-SPRING] TV: クイーンズブレイド 流浪の戦士
   // https://annict.com/works/630
   { annict_id: 630, mal_id: 4719, syobocal_tid: 1585 },
-  // [2009-SUMMER] TV: クイーンズブレイド 玉座を継ぐ者
+  // [2009-AUTUMN] TV: クイーンズブレイド 玉座を継ぐ者
   // https://annict.com/works/631
   { annict_id: 631, mal_id: 6633, syobocal_tid: 1709 },
   // [2009-WINTER] TV: クッキンアイドル アイ！マイ！まいん！
