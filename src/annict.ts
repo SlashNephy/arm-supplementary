@@ -43616,4 +43616,7 @@ export const annict: ArmEntry[] = [
   // [2014-SPRING] MOVIE: ダイナミックヴィーナス
   // https://annict.com/works/15062
   { annict_id: 15062, mal_id: 55625 },
+  // [2025-WINTER] WEB: こいの湯♨️トーク
+  // https://annict.com/works/15063
+  { annict_id: 15063 },
 ]
