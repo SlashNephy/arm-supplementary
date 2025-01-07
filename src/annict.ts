@@ -37229,7 +37229,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] MOVIE: ギレルモ・デル・トロのピノッキオ
   // https://annict.com/works/12926
   { annict_id: 12926 },
-  // [2025-null] TV: 桃源暗鬼
+  // [2025-SUMMER] TV: 桃源暗鬼
   // https://annict.com/works/12927
   { annict_id: 12927, mal_id: 58811 },
   // [2022-SPRING] WEB: 大槌カイ物語 -Voyage 航海-
@@ -43619,4 +43619,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] WEB: こいの湯♨️トーク
   // https://annict.com/works/15063
   { annict_id: 15063 },
+  // [2027-null] OTHER: Ghost of Tsushima: Legends
+  // https://annict.com/works/15064
+  { annict_id: 15064, mal_id: 60714 },
 ]
