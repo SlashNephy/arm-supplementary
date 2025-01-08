@@ -36673,10 +36673,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 12739, mal_id: 58272, syobocal_tid: 7101 },
   // [2022-SPRING] TV: とーがね！おまつり部
   // https://annict.com/works/12740
-  { annict_id: 12740 },
+  { annict_id: 12740, syobocal_tid: 7255 },
   // [2024-SPRING] TV: とーがね！クロニクル
   // https://annict.com/works/12741
-  { annict_id: 12741 },
+  { annict_id: 12741, syobocal_tid: 7344 },
   // [2024-AUTUMN] WEB: Duel Masters LOST～追憶の水晶～
   // https://annict.com/works/12742
   { annict_id: 12742, mal_id: 58275 },
