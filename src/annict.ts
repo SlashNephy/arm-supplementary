@@ -43441,7 +43441,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15003, mal_id: 60610 },
   // [2025-WINTER] TV: とーがね！クロニクル＜再編集版＞
   // https://annict.com/works/15004
-  { annict_id: 15004 },
+  { annict_id: 15004, syobocal_tid: 7344 },
   // [2025-null] TV: クマーバ シーズン3
   // https://annict.com/works/15005
   { annict_id: 15005 },
@@ -43622,4 +43622,7 @@ export const annict: ArmEntry[] = [
   // [2027-null] OTHER: Ghost of Tsushima: Legends
   // https://annict.com/works/15064
   { annict_id: 15064, mal_id: 60714 },
+  // [2025-WINTER] WEB: 悪役令嬢転生おじさん ミニ
+  // https://annict.com/works/15065
+  { annict_id: 15065 },
 ]
