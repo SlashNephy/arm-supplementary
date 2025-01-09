@@ -43631,4 +43631,7 @@ export const annict: ArmEntry[] = [
   // [2014-SPRING] TV: ぐでたま
   // https://annict.com/works/15067
   { annict_id: 15067, mal_id: 23539 },
+  // [2025-WINTER] TV: メカアマト シーズン3
+  // https://annict.com/works/15068
+  { annict_id: 15068 },
 ]
