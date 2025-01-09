@@ -24847,7 +24847,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 8654, mal_id: 23341 },
   // [2021-WINTER] WEB: ぐでたまフリースタイル
   // https://annict.com/works/8655
-  { annict_id: 8655 },
+  { annict_id: 8655, mal_id: 50419 },
   // [2021-AUTUMN] TV: かぎなど
   // https://annict.com/works/8656
   { annict_id: 8656, mal_id: 48775, syobocal_tid: 6161 },
@@ -43625,4 +43625,10 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] WEB: 悪役令嬢転生おじさん ミニ
   // https://annict.com/works/15065
   { annict_id: 15065 },
+  // [2025-SUMMER] WEB: My Melody ＆ Kuromi
+  // https://annict.com/works/15066
+  { annict_id: 15066 },
+  // [2014-SPRING] TV: ぐでたま
+  // https://annict.com/works/15067
+  { annict_id: 15067, mal_id: 23539 },
 ]
