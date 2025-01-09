@@ -43640,4 +43640,7 @@ export const annict: ArmEntry[] = [
   // [1965-SUMMER] MOVIE: Goofy's Freeway Troubles（原題）
   // https://annict.com/works/15070
   { annict_id: 15070 },
+  // [1991-AUTUMN] OVA: 天空戦記シュラト　創世への暗闘
+  // https://annict.com/works/15071
+  { annict_id: 15071 },
 ]
