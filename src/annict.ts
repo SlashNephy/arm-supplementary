@@ -43634,4 +43634,10 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] TV: メカアマト シーズン3
   // https://annict.com/works/15068
   { annict_id: 15068 },
+  // [1965-WINTER] MOVIE: Freewayphobia #1（原題）
+  // https://annict.com/works/15069
+  { annict_id: 15069 },
+  // [1965-SUMMER] MOVIE: Goofy's Freeway Troubles（原題）
+  // https://annict.com/works/15070
+  { annict_id: 15070 },
 ]
