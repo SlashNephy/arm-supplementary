@@ -43649,4 +43649,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] TV: 水属性の魔法使い
   // https://annict.com/works/15073
   { annict_id: 15073, mal_id: 60732 },
+  // [2025-SUMMER] OVA: もめんたりー・リリィ 特別版
+  // https://annict.com/works/15074
+  { annict_id: 15074 },
 ]
