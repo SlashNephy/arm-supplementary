@@ -43642,5 +43642,11 @@ export const annict: ArmEntry[] = [
   { annict_id: 15070 },
   // [1991-AUTUMN] OVA: 天空戦記シュラト 創世への暗闘
   // https://annict.com/works/15071
-  { annict_id: 15071 },
+  { annict_id: 15071, mal_id: 2114 },
+  // [2025-WINTER] WEB: 【崩壊：スターレイル】ショートアニメ「マ ダ ム ヘ ル タ の 魔 法 キ ッ チ ン」
+  // https://annict.com/works/15072
+  { annict_id: 15072 },
+  // [2025-SUMMER] TV: 水属性の魔法使い
+  // https://annict.com/works/15073
+  { annict_id: 15073, mal_id: 60732 },
 ]
