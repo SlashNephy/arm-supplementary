@@ -43652,4 +43652,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] OVA: もめんたりー・リリィ 特別版
   // https://annict.com/works/15074
   { annict_id: 15074 },
+  // [1929-SPRING] MOVIE: アクメッド王子の冒険
+  // https://annict.com/works/15075
+  { annict_id: 15075 },
 ]
