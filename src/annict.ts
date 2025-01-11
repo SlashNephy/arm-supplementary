@@ -43664,4 +43664,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] WEB: スパイダーマン：フレンドリー・ネイバーフッド
   // https://annict.com/works/15078
   { annict_id: 15078 },
+  // [1981-SUMMER] TV: スパイダーマン(1981年)
+  // https://annict.com/works/15079
+  { annict_id: 15079 },
 ]
