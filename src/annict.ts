@@ -43676,4 +43676,10 @@ export const annict: ArmEntry[] = [
   // [2009-SUMMER] MOVIE: カニバル星人
   // https://annict.com/works/15082
   { annict_id: 15082, mal_id: 55607 },
+  // [2021-AUTUMN] WEB: 松戸市町会・自治会PRプロジェクト
+  // https://annict.com/works/15083
+  { annict_id: 15083 },
+  // [null-null] OTHER: インドアな千葉ニュー女子の私にすぐからんでくる木下男子がやたらウザイ
+  // https://annict.com/works/15084
+  { annict_id: 15084 },
 ]
