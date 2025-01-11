@@ -43655,4 +43655,10 @@ export const annict: ArmEntry[] = [
   // [1929-SPRING] MOVIE: アクメッド王子の冒険
   // https://annict.com/works/15075
   { annict_id: 15075 },
+  // [2011-AUTUMN] MOVIE: アーサー・クリスマスの大冒険
+  // https://annict.com/works/15076
+  { annict_id: 15076 },
+  // [2018-SUMMER] MOVIE: アーリーマン ダグと仲間のキックオフ!
+  // https://annict.com/works/15077
+  { annict_id: 15077 },
 ]
