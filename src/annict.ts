@@ -43691,4 +43691,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] MOVIE: 劇場版「遠井さん」
   // https://annict.com/works/15087
   { annict_id: 15087 },
+  // [2025-null] TV: ダンジョンに出会いを求めるのは間違っているだろうかⅤ 豊穣の女神篇 派閥大戦クライマックス
+  // https://annict.com/works/15088
+  { annict_id: 15088 },
 ]
