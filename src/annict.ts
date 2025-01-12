@@ -35642,7 +35642,7 @@ export const annict: ArmEntry[] = [
   // [1995-AUTUMN] TV: 孔子傳
   // https://annict.com/works/12394
   { annict_id: 12394, mal_id: 23615 },
-  // [null-null] WEB: ドロヘドロ 続編
+  // [2025-null] WEB: ドロヘドロ 続編
   // https://annict.com/works/12395
   { annict_id: 12395, mal_id: 57779 },
   // [2023-AUTUMN] WEB: 365日の明日
@@ -43682,7 +43682,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: インドアな千葉ニュー女子の私にすぐからんでくる木下男子がやたらウザイ
   // https://annict.com/works/15084
   { annict_id: 15084 },
-  // [2023-null] TV: 魔寄せ宮女、孤高の祓魔師に拾われました
+  // [2023-AUTUMN] TV: 魔寄せ宮女、孤高の祓魔師に拾われました
   // https://annict.com/works/15085
   { annict_id: 15085 },
   // [2013-AUTUMN] OVA: なめこ家の一族
