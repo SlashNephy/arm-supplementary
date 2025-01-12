@@ -41464,7 +41464,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14343, mal_id: 5876 },
   // [2024-AUTUMN] WEB: たまアニメーション
   // https://annict.com/works/14344
-  { annict_id: 14344 },
+  { annict_id: 14344, mal_id: 60733 },
   // [2024-AUTUMN] WEB: Tokyo Override
   // https://annict.com/works/14345
   { annict_id: 14345 },
@@ -43618,7 +43618,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15062, mal_id: 55625 },
   // [2025-WINTER] WEB: こいの湯♨️トーク
   // https://annict.com/works/15063
-  { annict_id: 15063 },
+  { annict_id: 15063, mal_id: 60729 },
   // [2027-null] OTHER: Ghost of Tsushima: Legends
   // https://annict.com/works/15064
   { annict_id: 15064, mal_id: 60714 },
@@ -43685,4 +43685,7 @@ export const annict: ArmEntry[] = [
   // [2023-null] TV: 魔寄せ宮女、孤高の祓魔師に拾われました
   // https://annict.com/works/15085
   { annict_id: 15085 },
+  // [2013-AUTUMN] OVA: なめこ家の一族
+  // https://annict.com/works/15086
+  { annict_id: 15086, mal_id: 20539 },
 ]
