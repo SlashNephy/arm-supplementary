@@ -43682,4 +43682,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: インドアな千葉ニュー女子の私にすぐからんでくる木下男子がやたらウザイ
   // https://annict.com/works/15084
   { annict_id: 15084 },
+  // [2023-null] TV: 魔寄せ宮女、孤高の祓魔師に拾われました
+  // https://annict.com/works/15085
+  { annict_id: 15085 },
 ]
