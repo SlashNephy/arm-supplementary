@@ -43688,4 +43688,7 @@ export const annict: ArmEntry[] = [
   // [2013-AUTUMN] OVA: なめこ家の一族
   // https://annict.com/works/15086
   { annict_id: 15086, mal_id: 20539 },
+  // [2025-SUMMER] MOVIE: 劇場版「遠井さん」
+  // https://annict.com/works/15087
+  { annict_id: 15087 },
 ]
