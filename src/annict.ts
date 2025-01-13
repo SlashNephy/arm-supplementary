@@ -43697,4 +43697,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB:  ホワット・イフ…？ シーズン3
   // https://annict.com/works/15090
   { annict_id: 15090 },
+  // [2024-AUTUMN] WEB: 日清のどん兵衛「裏どん兵衛わかんないよ！ 篇」
+  // https://annict.com/works/15091
+  { annict_id: 15091 },
 ]
