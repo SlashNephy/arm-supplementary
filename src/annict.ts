@@ -43694,4 +43694,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] WEB: 猫猫のひとりごと 第2期
   // https://annict.com/works/15089
   { annict_id: 15089 },
+  // [2024-AUTUMN] WEB:  ホワット・イフ…？ シーズン3
+  // https://annict.com/works/15090
+  { annict_id: 15090 },
 ]
