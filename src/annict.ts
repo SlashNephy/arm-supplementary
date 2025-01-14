@@ -43715,4 +43715,7 @@ export const annict: ArmEntry[] = [
   // [1935-SPRING] MOVIE: The Kids in the Shoe（原題）
   // https://annict.com/works/15096
   { annict_id: 15096 },
+  // [2008-AUTUMN] OVA: 夢想夏郷
+  // https://annict.com/works/15097
+  { annict_id: 15097, mal_id: 9874 },
 ]
