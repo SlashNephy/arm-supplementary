@@ -43712,4 +43712,7 @@ export const annict: ArmEntry[] = [
   // [1935-WINTER] MOVIE: The Song of the Birds（原題）
   // https://annict.com/works/15095
   { annict_id: 15095 },
+  // [1935-SPRING] MOVIE: The Kids in the Shoe（原題）
+  // https://annict.com/works/15096
+  { annict_id: 15096 },
 ]
