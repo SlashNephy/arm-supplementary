@@ -43700,4 +43700,16 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: 日清のどん兵衛「裏どん兵衛わかんないよ！ 篇」
   // https://annict.com/works/15091
   { annict_id: 15091 },
+  // [1934-SUMMER] MOVIE: ベティのシンデレラ
+  // https://annict.com/works/15092
+  { annict_id: 15092 },
+  // [1934-AUTUMN] MOVIE: 丘の風車小屋
+  // https://annict.com/works/15093
+  { annict_id: 15093 },
+  // [1935-WINTER] MOVIE: An Elephant Never Forgets（原題）
+  // https://annict.com/works/15094
+  { annict_id: 15094 },
+  // [1935-WINTER] MOVIE: The Song of the Birds（原題）
+  // https://annict.com/works/15095
+  { annict_id: 15095 },
 ]
