@@ -43727,4 +43727,25 @@ export const annict: ArmEntry[] = [
   // [1967-SUMMER] MOVIE: The Fly
   // https://annict.com/works/15100
   { annict_id: 15100 },
+  // [1929-WINTER] MOVIE: Yanky Clippers（原題）
+  // https://annict.com/works/15101
+  { annict_id: 15101 },
+  // [1929-WINTER] MOVIE: Hen Fruit（原題）
+  // https://annict.com/works/15102
+  { annict_id: 15102 },
+  // [1929-WINTER] MOVIE: Sick Cylinders（原題）
+  // https://annict.com/works/15103
+  { annict_id: 15103 },
+  // [1929-WINTER] MOVIE: Hold 'Em Ozzie（原題）
+  // https://annict.com/works/15104
+  { annict_id: 15104 },
+  // [1929-WINTER] MOVIE: The Suicide Sheik（原題）
+  // https://annict.com/works/15105
+  { annict_id: 15105 },
+  // [1929-SPRING] MOVIE: Alpine Antics（原題）
+  // https://annict.com/works/15106
+  { annict_id: 15106 },
+  // [1929-SPRING] MOVIE: The Lumberjack（原題）
+  // https://annict.com/works/15107
+  { annict_id: 15107 },
 ]
