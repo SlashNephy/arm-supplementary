@@ -43718,4 +43718,13 @@ export const annict: ArmEntry[] = [
   // [2008-AUTUMN] OVA: 夢想夏郷
   // https://annict.com/works/15097
   { annict_id: 15097, mal_id: 9874 },
+  // [1928-AUTUMN] MOVIE: Farmyard Follies（原題）
+  // https://annict.com/works/15098
+  { annict_id: 15098 },
+  // [1929-WINTER] MOVIE: Homeless Homer（原題）
+  // https://annict.com/works/15099
+  { annict_id: 15099 },
+  // [1967-SUMMER] MOVIE: The Fly
+  // https://annict.com/works/15100
+  { annict_id: 15100 },
 ]
