@@ -37097,7 +37097,7 @@ export const annict: ArmEntry[] = [
   // [2017-SUMMER] WEB: 逢魔ヶパレヱド
   // https://annict.com/works/12882
   { annict_id: 12882, mal_id: 54194 },
-  // [2025-null] TV: 神統記(テオゴニア)
+  // [2025-SPRING] TV: 神統記(テオゴニア)
   // https://annict.com/works/12883
   { annict_id: 12883, mal_id: 58614 },
   // [2024-SPRING] WEB: 夜桜さんちのミニ作戦
