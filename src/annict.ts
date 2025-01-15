@@ -43754,4 +43754,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] TV: キミと越えて恋になる
   // https://annict.com/works/15109
   { annict_id: 15109, mal_id: 60765 },
+  // [2005-SPRING] OTHER: ハローキティのスタンプヴィレッジ
+  // https://annict.com/works/15110
+  { annict_id: 15110 },
 ]
