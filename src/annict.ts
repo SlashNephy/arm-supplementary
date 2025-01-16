@@ -24263,7 +24263,7 @@ export const annict: ArmEntry[] = [
   // [2021-AUTUMN] TV: テスラノート
   // https://annict.com/works/8459
   { annict_id: 8459, mal_id: 48680, syobocal_tid: 6144 },
-  // [null-null] OTHER: ペリリュー 楽園のゲルニカ
+  // [2025-AUTUMN] MOVIE: ペリリュー -楽園のゲルニカ-
   // https://annict.com/works/8460
   { annict_id: 8460, mal_id: 48701 },
   // [2022-SPRING] TV: ダンス・ダンス・ダンスール
@@ -39764,7 +39764,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: 『インサイド・ヘッド』の世界より：ライリーの夢の製作スタジオ
   // https://annict.com/works/13772
   { annict_id: 13772 },
-  // [2025-null] MOVIE: ズートピア2（原題）
+  // [2025-AUTUMN] MOVIE: ズートピア2
   // https://annict.com/works/13773
   { annict_id: 13773 },
   // [2024-SUMMER] TV: 笑うレッドリスト
