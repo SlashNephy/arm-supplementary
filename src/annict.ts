@@ -39050,7 +39050,7 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: ある魔女が死ぬまで
   // https://annict.com/works/13534
   { annict_id: 13534, mal_id: 59169 },
-  // [null-null] MOVIE: 劇場版 魔法科高校の劣等生 四葉継承編
+  // [2026-WINTER] MOVIE: 劇場版 魔法科高校の劣等生 四葉継承編
   // https://annict.com/works/13535
   { annict_id: 13535, mal_id: 59174 },
   // [2024-SUMMER] WEB: ケンガンアシュラ Season2 Part.2
