@@ -43756,5 +43756,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 15109, mal_id: 60765 },
   // [2005-SPRING] OTHER: ハローキティのスタンプヴィレッジ
   // https://annict.com/works/15110
-  { annict_id: 15110 },
+  { annict_id: 15110, mal_id: 9770 },
 ]
