@@ -43763,4 +43763,7 @@ export const annict: ArmEntry[] = [
   // [1960-AUTUMN] TV: 早射ちマック
   // https://annict.com/works/15112
   { annict_id: 15112 },
+  // [2024-AUTUMN] WEB: JOCHUM FODオリジナルエピソード
+  // https://annict.com/works/15113
+  { annict_id: 15113 },
 ]
