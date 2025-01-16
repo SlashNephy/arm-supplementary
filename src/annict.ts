@@ -43757,4 +43757,10 @@ export const annict: ArmEntry[] = [
   // [2005-SPRING] OTHER: ハローキティのスタンプヴィレッジ
   // https://annict.com/works/15110
   { annict_id: 15110, mal_id: 9770 },
+  // [1960-SUMMER] TV: フィリックス・ザ・キャット
+  // https://annict.com/works/15111
+  { annict_id: 15111 },
+  // [1960-AUTUMN] TV: 早射ちマック
+  // https://annict.com/works/15112
+  { annict_id: 15112 },
 ]
