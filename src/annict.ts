@@ -36932,7 +36932,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] MOVIE: がんばっていきまっしょい
   // https://annict.com/works/12826
   { annict_id: 12826, mal_id: 58491 },
-  // [2025-null] TV: mono
+  // [2025-SPRING] TV: mono
   // https://annict.com/works/12827
   { annict_id: 12827, mal_id: 58492 },
   // [2024-WINTER] OVA: ガールズ＆パンツァー OVA タイチョウ･ウォー！
