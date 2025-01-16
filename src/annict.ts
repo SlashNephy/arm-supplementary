@@ -43766,4 +43766,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: JOCHUM FODオリジナルエピソード
   // https://annict.com/works/15113
   { annict_id: 15113 },
+  // [2025-AUTUMN] MOVIE: 映画キミとアイドルプリキュア♪（仮）
+  // https://annict.com/works/15114
+  { annict_id: 15114 },
 ]
