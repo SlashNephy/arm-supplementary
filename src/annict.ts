@@ -43772,4 +43772,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] MOVIE: 不思議の国でアリスと -Dive in Wonderland-
   // https://annict.com/works/15115
   { annict_id: 15115, mal_id: 60778 },
+  // [2025-null] MOVIE: ChaO
+  // https://annict.com/works/15116
+  { annict_id: 15116, mal_id: 60774 },
 ]
