@@ -43778,4 +43778,10 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: アルマちゃんは家族になりたい
   // https://annict.com/works/15117
   { annict_id: 15117, mal_id: 60781 },
+  // [2002-null] MOVIE: Bathtime in Clerkenwell
+  // https://annict.com/works/15118
+  { annict_id: 15118 },
+  // [2005-SPRING] MOVIE: Return I will To Old Brazil
+  // https://annict.com/works/15119
+  { annict_id: 15119 },
 ]
