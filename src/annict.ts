@@ -39203,7 +39203,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] OVA: 響け！ユーフォニアム3 Extra Episode
   // https://annict.com/works/13585
   { annict_id: 13585, mal_id: 58856 },
-  // [2025-null] TV: クラシック★スターズ
+  // [2025-SPRING] TV: クラシック★スターズ
   // https://annict.com/works/13586
   { annict_id: 13586, mal_id: 59199 },
   // [2024-SUMMER] WEB: 直江くんは痩せさせたい。
