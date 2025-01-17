@@ -43768,7 +43768,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15113 },
   // [2025-AUTUMN] MOVIE: 映画キミとアイドルプリキュア♪（仮）
   // https://annict.com/works/15114
-  { annict_id: 15114 },
+  { annict_id: 15114, mal_id: 60773 },
   // [2025-SUMMER] MOVIE: 不思議の国でアリスと -Dive in Wonderland-
   // https://annict.com/works/15115
   { annict_id: 15115, mal_id: 60778 },
