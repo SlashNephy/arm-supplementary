@@ -39605,7 +39605,7 @@ export const annict: ArmEntry[] = [
   // [2020-AUTUMN] WEB: サンリオキャラクターズ スーパーキュートアドベンチャーズ
   // https://annict.com/works/13719
   { annict_id: 13719 },
-  // [null-null] OTHER: リコリス・リコイル オリジナルショートムービー
+  // [null-null] OTHER: リコリス・リコイル Friends are thieves of time.
   // https://annict.com/works/13720
   { annict_id: 13720, mal_id: 59369 },
   // [2024-SUMMER] TV: おはよう！うんこ先生
@@ -43784,4 +43784,7 @@ export const annict: ArmEntry[] = [
   // [2005-SPRING] MOVIE: Return I will To Old Brazil
   // https://annict.com/works/15119
   { annict_id: 15119 },
+  // [2024-AUTUMN] TV: ぽちゃーズ
+  // https://annict.com/works/15120
+  { annict_id: 15120, mal_id: 59732 },
 ]
