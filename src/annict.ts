@@ -43814,4 +43814,10 @@ export const annict: ArmEntry[] = [
   // [2021-SUMMER] WEB: アニメで言葉があふれだす。Netflix特別アニメーション
   // https://annict.com/works/15129
   { annict_id: 15129 },
+  // [2021-AUTUMN] WEB: アイダ設計企業CM 「アニメ・アイ」篇
+  // https://annict.com/works/15130
+  { annict_id: 15130 },
+  // [2024-SPRING] TV: 神戸須磨シーワールド TVCM 「すべてのいのちは、こんなに大きい。」篇
+  // https://annict.com/works/15131
+  { annict_id: 15131 },
 ]
