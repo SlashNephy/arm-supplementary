@@ -43804,13 +43804,13 @@ export const annict: ArmEntry[] = [
   { annict_id: 15125 },
   // [2014-SPRING] WEB: マルコメ 料亭の味
   // https://annict.com/works/15126
-  { annict_id: 15126 },
+  { annict_id: 15126, mal_id: 30088 },
   // [2016-WINTER] WEB: マクドナルド CM 「未来のワタシ篇」
   // https://annict.com/works/15127
-  { annict_id: 15127 },
+  { annict_id: 15127, mal_id: 32959 },
   // [2022-WINTER] WEB: dアニメストアCM「好きに全振ろう」篇
   // https://annict.com/works/15128
-  { annict_id: 15128 },
+  { annict_id: 15128, mal_id: 53275 },
   // [2021-SUMMER] WEB: アニメで言葉があふれだす。Netflix特別アニメーション
   // https://annict.com/works/15129
   { annict_id: 15129 },
