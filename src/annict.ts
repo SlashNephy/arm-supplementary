@@ -43811,4 +43811,7 @@ export const annict: ArmEntry[] = [
   // [2022-WINTER] WEB: dアニメストアCM「好きに全振ろう」篇
   // https://annict.com/works/15128
   { annict_id: 15128 },
+  // [2021-SUMMER] WEB: アニメで言葉があふれだす。Netflix特別アニメーション
+  // https://annict.com/works/15129
+  { annict_id: 15129 },
 ]
