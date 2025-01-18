@@ -43793,4 +43793,22 @@ export const annict: ArmEntry[] = [
   // [2004-SUMMER] OVA: トランスフォーマー ロボットマスターズ
   // https://annict.com/works/15122
   { annict_id: 15122, mal_id: 7862 },
+  // [2024-WINTER] TV: 日産セレナxサザエさん
+  // https://annict.com/works/15123
+  { annict_id: 15123 },
+  // [2024-WINTER] WEB: 三ツ矢サイダー アニメCM「クリスマスのおつかい」編
+  // https://annict.com/works/15124
+  { annict_id: 15124 },
+  // [2024-WINTER] WEB: プチッと鍋 コーラス部アニメ篇
+  // https://annict.com/works/15125
+  { annict_id: 15125 },
+  // [2014-SPRING] WEB: マルコメ 料亭の味
+  // https://annict.com/works/15126
+  { annict_id: 15126 },
+  // [2016-WINTER] WEB: マクドナルド CM 「未来のワタシ篇」
+  // https://annict.com/works/15127
+  { annict_id: 15127 },
+  // [2022-WINTER] WEB: dアニメストアCM「好きに全振ろう」篇
+  // https://annict.com/works/15128
+  { annict_id: 15128 },
 ]
