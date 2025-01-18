@@ -43820,7 +43820,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: 神戸須磨シーワールド TVCM 「すべてのいのちは、こんなに大きい。」篇
   // https://annict.com/works/15131
   { annict_id: 15131 },
-  // [2012-null] TV: 教えて！トライさん
+  // [2012-SPRING] TV: 「アルプスの少女ハイジ」×トライさん　広告
   // https://annict.com/works/15132
   { annict_id: 15132 },
   // [2025-WINTER] WEB: ズバーン研究会活動記録
