@@ -43787,4 +43787,10 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: ぽちゃーズ
   // https://annict.com/works/15120
   { annict_id: 15120, mal_id: 59732 },
+  // [2019-WINTER] WEB: バンブルビー 初めての地球生活
+  // https://annict.com/works/15121
+  { annict_id: 15121, mal_id: 39711 },
+  // [2004-SUMMER] OVA: トランスフォーマー ロボットマスターズ
+  // https://annict.com/works/15122
+  { annict_id: 15122, mal_id: 7862 },
 ]
