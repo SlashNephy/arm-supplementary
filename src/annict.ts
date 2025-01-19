@@ -43829,4 +43829,16 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: SWEETS MATE / スイーツメイト
   // https://annict.com/works/15134
   { annict_id: 15134 },
+  // [2013-AUTUMN] WEB: Control Bear short animation film [ WONDER GARDEN ]
+  // https://annict.com/works/15135
+  { annict_id: 15135, mal_id: 20965 },
+  // [2015-WINTER] WEB: なめこ市場PV
+  // https://annict.com/works/15136
+  { annict_id: 15136 },
+  // [2015-AUTUMN] WEB: パズル＆ドラゴンズ CM 1「転校生篇」
+  // https://annict.com/works/15137
+  { annict_id: 15137, mal_id: 31846 },
+  // [2016-WINTER] WEB: パズル＆ドラゴンズ CM2 「冬の青春篇」
+  // https://annict.com/works/15138
+  { annict_id: 15138, mal_id: 31846 },
 ]
