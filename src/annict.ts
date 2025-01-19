@@ -43835,7 +43835,7 @@ export const annict: ArmEntry[] = [
   // [2015-WINTER] WEB: なめこ市場PV
   // https://annict.com/works/15136
   { annict_id: 15136 },
-  // [2015-AUTUMN] WEB: パズル＆ドラゴンズ CM 1「転校生篇」
+  // [2015-AUTUMN] WEB: パズル＆ドラゴンズ CM1「転校生篇」
   // https://annict.com/works/15137
   { annict_id: 15137, mal_id: 31846 },
   // [2016-WINTER] WEB: パズル＆ドラゴンズ CM2 「冬の青春篇」
