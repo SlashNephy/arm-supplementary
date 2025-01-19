@@ -43841,4 +43841,7 @@ export const annict: ArmEntry[] = [
   // [2016-WINTER] WEB: パズル＆ドラゴンズ CM2 「冬の青春篇」
   // https://annict.com/works/15138
   { annict_id: 15138, mal_id: 31846 },
+  // [2022-SUMMER] WEB: 可愛いたぬきも楽じゃない
+  // https://annict.com/works/15139
+  { annict_id: 15139 },
 ]
