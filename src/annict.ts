@@ -43826,4 +43826,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] WEB: ズバーン研究会活動記録
   // https://annict.com/works/15133
   { annict_id: 15133 },
+  // [2024-AUTUMN] WEB: SWEETS MATE / スイーツメイト
+  // https://annict.com/works/15134
+  { annict_id: 15134 },
 ]
