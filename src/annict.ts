@@ -43850,4 +43850,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] WEB: いつかの私より
   // https://annict.com/works/15141
   { annict_id: 15141 },
+  // [2024-SPRING] WEB: スヌーピーのハッピーキャンプ
+  // https://annict.com/works/15142
+  { annict_id: 15142 },
 ]
