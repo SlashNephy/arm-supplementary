@@ -43844,4 +43844,7 @@ export const annict: ArmEntry[] = [
   // [2022-SUMMER] WEB: 可愛いたぬきも楽じゃない
   // https://annict.com/works/15139
   { annict_id: 15139 },
+  // [2025-WINTER] WEB: パルデア再発見
+  // https://annict.com/works/15140
+  { annict_id: 15140 },
 ]
