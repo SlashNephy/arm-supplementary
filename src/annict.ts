@@ -35738,7 +35738,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: 刀剣乱舞 廻 -虚伝 燃ゆる本能寺-
   // https://annict.com/works/12426
   { annict_id: 12426, mal_id: 51859, syobocal_tid: 7024 },
-  // [null-null] OTHER: わんぱく！刀剣乱舞
+  // [2026-null] TV: わんぱく！刀剣乱舞
   // https://annict.com/works/12427
   { annict_id: 12427, mal_id: 57821 },
   // [null-null] MOVIE: ヤマトよ永遠に REBEL3199 第2章
@@ -39872,7 +39872,7 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: ワンダンス
   // https://annict.com/works/13808
   { annict_id: 13808, mal_id: 59623 },
-  // [2025-null] TV: 雨と君と
+  // [2025-SUMMER] TV: 雨と君と
   // https://annict.com/works/13809
   { annict_id: 13809, mal_id: 59619 },
   // [2023-WINTER] WEB: 齢5000年の草食ドラゴン、いわれなき邪竜認定 ちょこっと
