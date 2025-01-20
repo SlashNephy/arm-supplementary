@@ -39388,7 +39388,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13646, mal_id: 58222 },
   // [2023-SPRING] WEB: マルジャナイ島のシカクなポケモン!?
   // https://annict.com/works/13647
-  { annict_id: 13647 },
+  { annict_id: 13647, mal_id: 54648 },
   // [2023-SUMMER] WEB: ポケモンWCS2023記念アニメ「PATH TO THE PEAK 頂へのきずな」
   // https://annict.com/works/13648
   { annict_id: 13648 },
