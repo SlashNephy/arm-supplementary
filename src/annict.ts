@@ -43847,4 +43847,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] WEB: パルデア再発見
   // https://annict.com/works/15140
   { annict_id: 15140 },
+  // [2025-WINTER] WEB: いつかの私より
+  // https://annict.com/works/15141
+  { annict_id: 15141 },
 ]
