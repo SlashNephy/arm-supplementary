@@ -25991,7 +25991,7 @@ export const annict: ArmEntry[] = [
   // [2022-SUMMER] WEB: カーズ・オン・ザ・ロード
   // https://annict.com/works/9101
   { annict_id: 9101 },
-  // [2025-WINTER] WEB: ウィン or ルーズ
+  // [2025-WINTER] WEB: ウィン OR ルーズ
   // https://annict.com/works/9102
   { annict_id: 9102 },
   // [2021-AUTUMN] WEB: グレッグのダメ日記
