@@ -43871,4 +43871,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] TV: くまのプーさんといっしょ(2023)
   // https://annict.com/works/15148
   { annict_id: 15148 },
+  // [2024-AUTUMN] WEB: ARK：アニメーションシリーズ
+  // https://annict.com/works/15149
+  { annict_id: 15149 },
 ]
