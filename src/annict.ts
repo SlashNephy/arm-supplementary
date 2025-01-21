@@ -43856,4 +43856,19 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] TV: トミカヒーローズ ジョブレイバー 特装合体ロボ 新作
   // https://annict.com/works/15143
   { annict_id: 15143 },
+  // [2020-SUMMER] TV: ブルーイ
+  // https://annict.com/works/15144
+  { annict_id: 15144 },
+  // [2024-SUMMER] WEB: ブルーイ ミニストーリー
+  // https://annict.com/works/15145
+  { annict_id: 15145 },
+  // [2023-AUTUMN] TV: パップストラクション
+  // https://annict.com/works/15146
+  { annict_id: 15146 },
+  // [2023-SUMMER] TV: スーパーキティ
+  // https://annict.com/works/15147
+  { annict_id: 15147 },
+  // [2023-SUMMER] TV: くまのプーさんといっしょ(2023)
+  // https://annict.com/works/15148
+  { annict_id: 15148 },
 ]
