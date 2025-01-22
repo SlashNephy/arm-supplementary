@@ -20012,7 +20012,7 @@ export const annict: ArmEntry[] = [
   // [2019-SPRING] WEB: LINEノベル イメージムービー「未来想像記」
   // https://annict.com/works/6752
   { annict_id: 6752, mal_id: 39734 },
-  // [2019-SPRING] OTHER: LINEノベル オリジナルアニメーションPV ラノベ編
+  // [2019-SPRING] WEB: LINEノベル オリジナルアニメーションPV ラノベ編
   // https://annict.com/works/6753
   { annict_id: 6753, mal_id: 39734 },
   // [2017-SUMMER] WEB: 劇場版アニメ 夢が覚めるまで 予告編
