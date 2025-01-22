@@ -38177,7 +38177,7 @@ export const annict: ArmEntry[] = [
   // [1942-WINTER] MOVIE: ミッキーのオーケストラ
   // https://annict.com/works/13243
   { annict_id: 13243 },
-  // [2025-null] TV: GUILTY GEAR STRIVE: DUAL RULERS
+  // [2025-SPRING] TV: GUILTY GEAR STRIVE: DUAL RULERS
   // https://annict.com/works/13244
   { annict_id: 13244, mal_id: 59070 },
   // [2015-WINTER] OVA: OVA快盗天使ツインエンジェル ～キュンキュン☆ときめきパラダイス！！～
