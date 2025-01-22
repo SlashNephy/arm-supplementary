@@ -43880,4 +43880,13 @@ export const annict: ArmEntry[] = [
   // [2019-SPRING] OVA: レイン・オブ・ザ・スーパーメン
   // https://annict.com/works/15151
   { annict_id: 15151 },
+  // [null-null] TV: 樋屋奇応丸CM『強精剤』
+  // https://annict.com/works/15152
+  { annict_id: 15152 },
+  // [null-null] TV: 樋屋奇応丸CM『野球アニメ』
+  // https://annict.com/works/15153
+  { annict_id: 15153 },
+  // [null-null] TV: 樋屋奇応丸の樋屋製薬CM『原始時代アニメ』
+  // https://annict.com/works/15154
+  { annict_id: 15154 },
 ]
