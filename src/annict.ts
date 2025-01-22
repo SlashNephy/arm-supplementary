@@ -43874,4 +43874,10 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: ARK：アニメーションシリーズ
   // https://annict.com/works/15149
   { annict_id: 15149 },
+  // [2019-SPRING] OVA: デス・オブ・スーパーマン
+  // https://annict.com/works/15150
+  { annict_id: 15150 },
+  // [2019-SPRING] OVA: レイン・オブ・ザ・スーパーメン
+  // https://annict.com/works/15151
+  { annict_id: 15151 },
 ]
