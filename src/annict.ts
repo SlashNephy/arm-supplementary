@@ -43889,4 +43889,10 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 樋屋奇応丸の樋屋製薬CM『原始時代アニメ』
   // https://annict.com/works/15154
   { annict_id: 15154 },
+  // [null-null] TV: 樋屋奇応丸の樋屋製薬CM『画面半分アニメ』
+  // https://annict.com/works/15155
+  { annict_id: 15155 },
+  // [null-null] TV: 樋屋奇応丸CM『画面半分アニメ』
+  // https://annict.com/works/15156
+  { annict_id: 15156 },
 ]
