@@ -20009,13 +20009,13 @@ export const annict: ArmEntry[] = [
   // [2019-AUTUMN] MOVIE: 映画 妖怪学園Y 猫はHEROになれるか
   // https://annict.com/works/6751
   { annict_id: 6751, mal_id: 39529 },
-  // [2019-SPRING] OTHER: LINEノベル イメージムービー「未来想像記」
+  // [2019-SPRING] WEB: LINEノベル イメージムービー「未来想像記」
   // https://annict.com/works/6752
   { annict_id: 6752, mal_id: 39734 },
   // [2019-SPRING] OTHER: LINEノベル オリジナルアニメーションPV ラノベ編
   // https://annict.com/works/6753
   { annict_id: 6753, mal_id: 39734 },
-  // [2017-SUMMER] OTHER: 劇場版アニメ 夢が覚めるまで 予告編
+  // [2017-SUMMER] WEB: 劇場版アニメ 夢が覚めるまで 予告編
   // https://annict.com/works/6754
   { annict_id: 6754, mal_id: 35932 },
   // [2018-AUTUMN] WEB: ROAD TO YOU -星降る丘の約束-
@@ -43895,4 +43895,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 樋屋奇応丸CM『画面半分アニメ』
   // https://annict.com/works/15156
   { annict_id: 15156 },
+  // [2025-WINTER] WEB: Re:ゼロから始める休憩時間 3rd season 第2クール
+  // https://annict.com/works/15157
+  { annict_id: 15157 },
 ]
