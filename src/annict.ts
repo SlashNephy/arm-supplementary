@@ -40120,7 +40120,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13893 },
   // [2025-WINTER] TV: Re:ゼロから始める異世界生活 3rd season 反撃編
   // https://annict.com/works/13894
-  { annict_id: 13894 },
+  { annict_id: 13894, syobocal_tid: 7236 },
   // [1925-null] MOVIE: 蟹満寺縁起
   // https://annict.com/works/13895
   { annict_id: 13895, mal_id: 29551 },
