@@ -43357,7 +43357,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14975 },
   // [2025-SPRING] WEB: Yu-Gi-Oh! CARD GAME THE CHRONICLES
   // https://annict.com/works/14976
-  { annict_id: 14976 },
+  { annict_id: 14976, mal_id: 60651 },
   // [1914-SUMMER] MOVIE: 恐竜ガーティ
   // https://annict.com/works/14977
   { annict_id: 14977 },
@@ -43898,4 +43898,25 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] WEB: Re:ゼロから始める休憩時間 3rd season 第2クール
   // https://annict.com/works/15157
   { annict_id: 15157 },
+  // [2001-WINTER] TV: アサヒ飲料「旨茶」CM 渋滞編／会議編
+  // https://annict.com/works/15158
+  { annict_id: 15158, mal_id: 9777 },
+  // [2002-SUMMER] TV: ハウス食品「猫の恩返し」キャンペーンCM
+  // https://annict.com/works/15159
+  { annict_id: 15159 },
+  // [2003-WINTER] TV: りそな銀行CM「ひびきが丘物語」
+  // https://annict.com/works/15160
+  { annict_id: 15160 },
+  // [2003-SPRING] TV: ハウス食品「おうちで食べよう。」シリーズCM夏バージョン
+  // https://annict.com/works/15161
+  { annict_id: 15161 },
+  // [2004-WINTER] TV: ハウス食品「おうちで食べよう。」シリーズCM冬バージョン
+  // https://annict.com/works/15162
+  { annict_id: 15162 },
+  // [2004-SPRING] TV: 読売新聞CM「瓦版編」
+  // https://annict.com/works/15163
+  { annict_id: 15163 },
+  // [2005-WINTER] TV: 読売新聞CM「どれどれの引っ越し編」
+  // https://annict.com/works/15164
+  { annict_id: 15164 },
 ]
