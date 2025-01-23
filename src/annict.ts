@@ -36268,7 +36268,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12603, mal_id: 29895 },
   // [2009-SUMMER] TV: 読売新聞 企業CM ふうせんガムすけ編
   // https://annict.com/works/12604
-  { annict_id: 12604 },
+  { annict_id: 12604, mal_id: 25291 },
   // [1948-WINTER] MOVIE: トラちゃんと花嫁
   // https://annict.com/works/12605
   { annict_id: 12605, mal_id: 12603 },
@@ -43919,4 +43919,7 @@ export const annict: ArmEntry[] = [
   // [2005-WINTER] TV: 読売新聞CM「どれどれの引っ越し編」
   // https://annict.com/works/15164
   { annict_id: 15164 },
+  // [2025-SPRING] TV: ンめねこ
+  // https://annict.com/works/15165
+  { annict_id: 15165 },
 ]
