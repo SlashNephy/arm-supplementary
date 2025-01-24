@@ -39953,7 +39953,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] TV: ななし怪談 第3期
   // https://annict.com/works/13835
   { annict_id: 13835, mal_id: 59649 },
-  // [2025-null] TV: アポカリプスホテル
+  // [2025-SPRING] TV: アポカリプスホテル
   // https://annict.com/works/13836
   { annict_id: 13836, mal_id: 59675 },
   // [1997-SPRING] TV: トッド･マクファーレンのスポーン シーズン1
