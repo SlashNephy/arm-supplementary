@@ -41330,7 +41330,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] TV: 勘違いの工房主～英雄パーティの元雑用係が、実は戦闘以外がSSSランクだったというよくある話～
   // https://annict.com/works/14299
   { annict_id: 14299, mal_id: 60140 },
-  // [2025-null] TV: LAZARUS ラザロ
+  // [2025-SPRING] TV: LAZARUS ラザロ
   // https://annict.com/works/14300
   { annict_id: 14300, mal_id: 56038 },
   // [2023-WINTER] WEB: ヴォクス・マキナの伝説 シーズン2
