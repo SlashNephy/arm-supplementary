@@ -43922,4 +43922,10 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] TV: ンめねこ
   // https://annict.com/works/15165
   { annict_id: 15165 },
+  // [2025-SPRING] MOVIE: かたつむりのメモワール
+  // https://annict.com/works/15166
+  { annict_id: 15166 },
+  // [2025-WINTER] WEB: ねえねえ あのね
+  // https://annict.com/works/15167
+  { annict_id: 15167 },
 ]
