@@ -41360,7 +41360,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: エリスの聖杯
   // https://annict.com/works/14309
   { annict_id: 14309, mal_id: 60151 },
-  // [2025-SPRING] TV: 悪食令嬢と狂血公爵 ～その魔物、私が美味しくいただきます！～
+  // [2025-AUTUMN] TV: 悪食令嬢と狂血公爵 ～その魔物、私が美味しくいただきます！～
   // https://annict.com/works/14310
   { annict_id: 14310, mal_id: 60162 },
   // [2003-SUMMER] OVA: ぼくたちピチューブラザーズ・パーティはおおさわぎ!のまき
@@ -43928,4 +43928,16 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] WEB: ねえねえ あのね
   // https://annict.com/works/15167
   { annict_id: 15167 },
+  // [null-null] TV: 魔術師クノンは見えている
+  // https://annict.com/works/15168
+  { annict_id: 15168, mal_id: 60810 },
+  // [2025-WINTER] MOVIE: ストップモーション
+  // https://annict.com/works/15169
+  { annict_id: 15169 },
+  // [1997-SPRING] MOVIE: スペース・ジャム
+  // https://annict.com/works/15170
+  { annict_id: 15170 },
+  // [2021-SUMMER] MOVIE: スペース・プレイヤーズ
+  // https://annict.com/works/15171
+  { annict_id: 15171 },
 ]
