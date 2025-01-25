@@ -43952,4 +43952,7 @@ export const annict: ArmEntry[] = [
   // [1999-null] OVA: 100万円あったら、どうする？
   // https://annict.com/works/15175
   { annict_id: 15175, mal_id: 19071 },
+  // [2019-WINTER] WEB: シャイニングスター
+  // https://annict.com/works/15176
+  { annict_id: 15176, mal_id: 39918 },
 ]
