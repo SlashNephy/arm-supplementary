@@ -43940,4 +43940,16 @@ export const annict: ArmEntry[] = [
   // [2021-SUMMER] MOVIE: スペース・プレイヤーズ
   // https://annict.com/works/15171
   { annict_id: 15171 },
+  // [1993-null] OVA: お金は回る －くらしと金融－
+  // https://annict.com/works/15172
+  { annict_id: 15172, mal_id: 19069 },
+  // [1991-null] OVA: UFOにつかまった子供たち
+  // https://annict.com/works/15173
+  { annict_id: 15173, mal_id: 19059 },
+  // [1992-null] OVA: ホシガリ姫の冒険
+  // https://annict.com/works/15174
+  { annict_id: 15174, mal_id: 19073 },
+  // [1999-null] OVA: 100万円あったら、どうする？
+  // https://annict.com/works/15175
+  { annict_id: 15175, mal_id: 19071 },
 ]
