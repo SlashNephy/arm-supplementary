@@ -37174,7 +37174,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12907, mal_id: 58739, syobocal_tid: 7313 },
   // [2024-SPRING] WEB: 「雀魂」５周年記念ムービー『かわらないもの』
   // https://annict.com/works/12908
-  { annict_id: 12908 },
+  { annict_id: 12908, mal_id: 58792 },
   // [2024-SPRING] WEB: selector loth WIXOSS
   // https://annict.com/works/12909
   { annict_id: 12909, mal_id: 58816 },
