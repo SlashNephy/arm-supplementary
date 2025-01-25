@@ -43955,4 +43955,13 @@ export const annict: ArmEntry[] = [
   // [2019-WINTER] WEB: シャイニングスター
   // https://annict.com/works/15176
   { annict_id: 15176, mal_id: 39918 },
+  // [null-null] TV: アイドリッシュセブン 4期
+  // https://annict.com/works/15177
+  { annict_id: 15177 },
+  // [null-null] OTHER: アイドリッシュセブン 拮抗のクォーター
+  // https://annict.com/works/15178
+  { annict_id: 15178 },
+  // [null-null] MOVIE: アイドリッシュセブン 1期 劇場総集編
+  // https://annict.com/works/15179
+  { annict_id: 15179 },
 ]
