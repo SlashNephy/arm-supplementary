@@ -29269,7 +29269,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10260, mal_id: 53879, syobocal_tid: 6840 },
   // [2022-AUTUMN] WEB: 『城郭合体オシロボッツ』ショートアニメ
   // https://annict.com/works/10261
-  { annict_id: 10261 },
+  { annict_id: 10261, mal_id: 53883 },
   // [1996-WINTER] MOVIE: ハローキティのみんなの森をまもれ!
   // https://annict.com/works/10262
   { annict_id: 10262, mal_id: 18589 },
@@ -40027,7 +40027,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13861 },
   // [2003-SUMMER] WEB: なつみSTEP!
   // https://annict.com/works/13862
-  { annict_id: 13862 },
+  { annict_id: 13862, mal_id: 21891 },
   // [2010-WINTER] TV: 星新一 ショートショート 新春スペシャル
   // https://annict.com/works/13863
   { annict_id: 13863 },
@@ -43030,7 +43030,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14866, mal_id: 28067 },
   // [2024-AUTUMN] WEB: ミニっと！かいじゅう8号
   // https://annict.com/works/14867
-  { annict_id: 14867 },
+  { annict_id: 14867, mal_id: 60480 },
   // [2025-WINTER] TV: 猫になりたい田万川くん
   // https://annict.com/works/14868
   { annict_id: 14868, mal_id: 60662, syobocal_tid: 7337 },
