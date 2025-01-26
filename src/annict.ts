@@ -43957,11 +43957,11 @@ export const annict: ArmEntry[] = [
   { annict_id: 15176, mal_id: 39918 },
   // [null-null] TV: アイドリッシュセブン 4期
   // https://annict.com/works/15177
-  { annict_id: 15177 },
+  { annict_id: 15177, mal_id: 60829 },
   // [null-null] OTHER: アイドリッシュセブン 拮抗のクォーター
   // https://annict.com/works/15178
-  { annict_id: 15178 },
+  { annict_id: 15178, mal_id: 60830 },
   // [null-null] MOVIE: アイドリッシュセブン 1期 劇場総集編
   // https://annict.com/works/15179
-  { annict_id: 15179 },
+  { annict_id: 15179, mal_id: 60831 },
 ]
