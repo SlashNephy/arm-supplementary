@@ -43964,4 +43964,7 @@ export const annict: ArmEntry[] = [
   // [null-null] MOVIE: アイドリッシュセブン 1期 劇場総集編
   // https://annict.com/works/15179
   { annict_id: 15179, mal_id: 60831 },
+  // [null-null] WEB: BEAT＆MOTION
+  // https://annict.com/works/15180
+  { annict_id: 15180 },
 ]
