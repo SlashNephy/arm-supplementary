@@ -43967,4 +43967,7 @@ export const annict: ArmEntry[] = [
   // [null-null] WEB: BEAT＆MOTION
   // https://annict.com/works/15180
   { annict_id: 15180 },
+  // [2024-AUTUMN] WEB: リンカイ！ちびアニ
+  // https://annict.com/works/15181
+  { annict_id: 15181 },
 ]
