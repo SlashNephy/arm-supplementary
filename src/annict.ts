@@ -38978,7 +38978,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: 殿と犬～わんわん！～
   // https://annict.com/works/13510
   { annict_id: 13510, mal_id: 57924, syobocal_tid: 7232 },
-  // [null-null] TV: ばっどがーる
+  // [2025-SUMMER] TV: ばっどがーる
   // https://annict.com/works/13511
   { annict_id: 13511, mal_id: 59161 },
   // [2025-SPRING] TV: WIND BREAKER Season 2
@@ -43970,4 +43970,10 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: リンカイ！ちびアニ
   // https://annict.com/works/15181
   { annict_id: 15181 },
+  // [2023-SPRING] WEB: がまくんとかえるくん シーズン1
+  // https://annict.com/works/15182
+  { annict_id: 15182 },
+  // [2024-SPRING] WEB: がまくんとかえるくん シーズン2
+  // https://annict.com/works/15183
+  { annict_id: 15183 },
 ]
