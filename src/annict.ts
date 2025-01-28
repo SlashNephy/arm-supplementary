@@ -40871,7 +40871,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] WEB: ショコラカタブラ
   // https://annict.com/works/14146
   { annict_id: 14146, mal_id: 57949 },
-  // [null-null] TV: 監禁区域レベルX 2期
+  // [2025-WINTER] TV: 監禁区域レベルX 第2期
   // https://annict.com/works/14147
   { annict_id: 14147, mal_id: 60094 },
   // [2025-AUTUMN] TV: 僕のヒーローアカデミア FINAL SEASON
