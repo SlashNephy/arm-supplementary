@@ -35741,7 +35741,7 @@ export const annict: ArmEntry[] = [
   // [2026-null] TV: わんぱく！刀剣乱舞
   // https://annict.com/works/12427
   { annict_id: 12427, mal_id: 57821 },
-  // [null-null] MOVIE: ヤマトよ永遠に REBEL3199 第2章
+  // [2024-WINTER] MOVIE: ヤマトよ永遠に REBEL3199 第二章 赤日の出撃
   // https://annict.com/works/12428
   { annict_id: 12428 },
   // [null-null] MOVIE: ヤマトよ永遠に REBEL3199 第3章
