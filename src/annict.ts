@@ -44006,4 +44006,7 @@ export const annict: ArmEntry[] = [
   // [1998-AUTUMN] TV: キトとウーフル
   // https://annict.com/works/15193
   { annict_id: 15193 },
+  // [1997-AUTUMN] TV: ビーナッツ
+  // https://annict.com/works/15194
+  { annict_id: 15194, mal_id: 29351 },
 ]
