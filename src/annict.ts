@@ -43979,4 +43979,7 @@ export const annict: ArmEntry[] = [
   // [2001-null] OVA: 電動作戦ガッタイオー
   // https://annict.com/works/15184
   { annict_id: 15184 },
+  // [1979-SUMMER] MOVIE: 野球狂の詩 北の狼南の虎
+  // https://annict.com/works/15185
+  { annict_id: 15185, mal_id: 10563 },
 ]
