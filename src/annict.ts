@@ -35741,22 +35741,22 @@ export const annict: ArmEntry[] = [
   // [2026-null] TV: わんぱく！刀剣乱舞
   // https://annict.com/works/12427
   { annict_id: 12427, mal_id: 57821 },
-  // [2024-WINTER] MOVIE: ヤマトよ永遠に REBEL3199 第二章 赤日の出撃
+  // [2024-AUTUMN] MOVIE: ヤマトよ永遠に REBEL3199 第二章 赤日の出撃
   // https://annict.com/works/12428
   { annict_id: 12428 },
-  // [null-null] MOVIE: ヤマトよ永遠に REBEL3199 第3章
+  // [2025-SPRING] MOVIE: ヤマトよ永遠に REBEL3199 第三章 群青のアステロイド
   // https://annict.com/works/12429
   { annict_id: 12429 },
-  // [null-null] MOVIE: ヤマトよ永遠に REBEL3199 第4章
+  // [null-null] MOVIE: ヤマトよ永遠に REBEL3199 第四章
   // https://annict.com/works/12430
   { annict_id: 12430 },
-  // [null-null] MOVIE: ヤマトよ永遠に REBEL3199 第5章
+  // [null-null] MOVIE: ヤマトよ永遠に REBEL3199 第五章
   // https://annict.com/works/12431
   { annict_id: 12431 },
-  // [null-null] MOVIE: ヤマトよ永遠に REBEL3199 第6章
+  // [null-null] MOVIE: ヤマトよ永遠に REBEL3199 第六章
   // https://annict.com/works/12432
   { annict_id: 12432 },
-  // [null-null] MOVIE: ヤマトよ永遠に REBEL3199 第7章
+  // [null-null] MOVIE: ヤマトよ永遠に REBEL3199 第七章
   // https://annict.com/works/12433
   { annict_id: 12433 },
   // [2016-SUMMER] OVA: ナルトが火影になった日
