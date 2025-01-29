@@ -44012,4 +44012,10 @@ export const annict: ArmEntry[] = [
   // [2022-SUMMER] WEB: ラック〜幸運をさがす旅〜
   // https://annict.com/works/15195
   { annict_id: 15195 },
+  // [2023-AUTUMN] WEB: ビロードのうさぎ
+  // https://annict.com/works/15196
+  { annict_id: 15196 },
+  // [2021-AUTUMN] WEB: Blush ブラッシュ
+  // https://annict.com/works/15197
+  { annict_id: 15197 },
 ]
