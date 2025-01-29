@@ -38729,7 +38729,7 @@ export const annict: ArmEntry[] = [
   // [1951-WINTER] MOVIE: グーフィーの素人大工
   // https://annict.com/works/13427
   { annict_id: 13427 },
-  // [null-null] TV: 異世界黙示録マイノグーラ～破滅の文明で始める世界征服～
+  // [2025-null] TV: 異世界黙示録マイノグーラ ～破滅の文明で始める世界征服～
   // https://annict.com/works/13428
   { annict_id: 13428, mal_id: 59130 },
   // [2024-SUMMER] TV: NINJA KAMUI
@@ -43994,4 +43994,16 @@ export const annict: ArmEntry[] = [
   // [1963-WINTER] TV: 宇宙家族ジェットソン
   // https://annict.com/works/15189
   { annict_id: 15189 },
+  // [2025-WINTER] WEB: 色違いのアーボ
+  // https://annict.com/works/15190
+  { annict_id: 15190 },
+  // [1994-SPRING] TV: 大好き!ねんどママ
+  // https://annict.com/works/15191
+  { annict_id: 15191, mal_id: 29469 },
+  // [1995-SPRING] TV: ぶーばーがー
+  // https://annict.com/works/15192
+  { annict_id: 15192, mal_id: 29467 },
+  // [1998-AUTUMN] TV: キトとウーフル
+  // https://annict.com/works/15193
+  { annict_id: 15193 },
 ]
