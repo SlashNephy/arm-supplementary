@@ -43988,4 +43988,10 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] TV: ブルーイ(シーズン3)
   // https://annict.com/works/15187
   { annict_id: 15187 },
+  // [1962-SPRING] TV: 探偵スカット
+  // https://annict.com/works/15188
+  { annict_id: 15188 },
+  // [1963-WINTER] TV: 宇宙家族ジェットソン
+  // https://annict.com/works/15189
+  { annict_id: 15189 },
 ]
