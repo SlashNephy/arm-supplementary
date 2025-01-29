@@ -43982,4 +43982,10 @@ export const annict: ArmEntry[] = [
   // [1979-SUMMER] MOVIE: 野球狂の詩 北の狼南の虎
   // https://annict.com/works/15185
   { annict_id: 15185, mal_id: 10563 },
+  // [2021-SUMMER] TV: ブルーイ(シーズン2)
+  // https://annict.com/works/15186
+  { annict_id: 15186 },
+  // [2022-AUTUMN] TV: ブルーイ(シーズン3)
+  // https://annict.com/works/15187
+  { annict_id: 15187 },
 ]
