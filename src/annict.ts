@@ -43976,4 +43976,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] WEB: がまくんとかえるくん シーズン2
   // https://annict.com/works/15183
   { annict_id: 15183 },
+  // [2001-null] OVA: 電動作戦ガッタイオー
+  // https://annict.com/works/15184
+  { annict_id: 15184 },
 ]
