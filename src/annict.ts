@@ -28888,7 +28888,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10133, syobocal_tid: 1649 },
   // [2025-SUMMER] TV: 強くてニューサーガ
   // https://annict.com/works/10134
-  { annict_id: 10134 },
+  { annict_id: 10134, mal_id: 53397 },
   // [2024-SPRING] TV: ゆるキャン△ SEASON3
   // https://annict.com/works/10135
   { annict_id: 10135, mal_id: 53410, syobocal_tid: 6991 },
@@ -31259,7 +31259,7 @@ export const annict: ArmEntry[] = [
   // [1986-SUMMER] MOVIE: 11ぴきのねことあほうどり
   // https://annict.com/works/10928
   { annict_id: 10928, mal_id: 6072 },
-  // [2025-null] TV: 華Doll* -Reinterpretation of Flowering-
+  // [2025-SPRING] TV: 華Doll* -Reinterpretation of Flowering-
   // https://annict.com/works/10929
   { annict_id: 10929, mal_id: 55710 },
   // [2024-SPRING] TV: 出来損ないと呼ばれた元英雄は、実家から追放されたので好き勝手に生きることにした
@@ -44030,4 +44030,19 @@ export const annict: ArmEntry[] = [
   // [2003-AUTUMN] TV: ライオン・キングのティモンとプンバァ(シーズン3)
   // https://annict.com/works/15201
   { annict_id: 15201 },
+  // [1999-null] WEB: Happy Tree Friends シーズン1
+  // https://annict.com/works/15202
+  { annict_id: 15202 },
+  // [2002-null] WEB: Happy Tree Friends シーズン2
+  // https://annict.com/works/15203
+  { annict_id: 15203 },
+  // [2007-null] WEB: Happy Tree Friends シーズン3
+  // https://annict.com/works/15204
+  { annict_id: 15204 },
+  // [2013-null] WEB: Happy Tree Friends シーズン4
+  // https://annict.com/works/15205
+  { annict_id: 15205 },
+  // [2016-null] WEB: Happy Tree Friends Still Alive
+  // https://annict.com/works/15206
+  { annict_id: 15206 },
 ]
