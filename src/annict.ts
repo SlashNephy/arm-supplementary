@@ -44021,4 +44021,13 @@ export const annict: ArmEntry[] = [
   // [1963-AUTUMN] TV: ドラ猫大将
   // https://annict.com/works/15198
   { annict_id: 15198 },
+  // [2002-SPRING] TV: ローリー・ポーリー・オーリー
+  // https://annict.com/works/15199
+  { annict_id: 15199 },
+  // [2002-WINTER] TV: ライオン・キングのティモンとプンバァ(シーズン2)
+  // https://annict.com/works/15200
+  { annict_id: 15200 },
+  // [2003-AUTUMN] TV: ライオン・キングのティモンとプンバァ(シーズン3)
+  // https://annict.com/works/15201
+  { annict_id: 15201 },
 ]
