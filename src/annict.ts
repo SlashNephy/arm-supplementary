@@ -44018,4 +44018,7 @@ export const annict: ArmEntry[] = [
   // [2021-AUTUMN] WEB: Blush ブラッシュ
   // https://annict.com/works/15197
   { annict_id: 15197 },
+  // [1963-AUTUMN] TV: ドラ猫大将
+  // https://annict.com/works/15198
+  { annict_id: 15198 },
 ]
