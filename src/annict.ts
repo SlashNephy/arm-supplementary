@@ -28886,7 +28886,7 @@ export const annict: ArmEntry[] = [
   // [2009-SPRING] TV: リロ・アンド・スティッチ ザ・シリーズ
   // https://annict.com/works/10133
   { annict_id: 10133, syobocal_tid: 1649 },
-  // [2023-null] TV: 強くてニューサーガ
+  // [2025-SUMMER] TV: 強くてニューサーガ
   // https://annict.com/works/10134
   { annict_id: 10134 },
   // [2024-SPRING] TV: ゆるキャン△ SEASON3
