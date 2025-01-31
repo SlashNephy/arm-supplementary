@@ -25694,7 +25694,7 @@ export const annict: ArmEntry[] = [
   // [2020-SPRING] WEB: シーラとプリンセス戦士 シーズン5
   // https://annict.com/works/9002
   { annict_id: 9002 },
-  // [2025-null] MOVIE: 劇場版『ゾンビランドサガ ゆめぎんがパラダイス』
+  // [2025-null] MOVIE: 劇場版 ゾンビランドサガ ゆめぎんがパラダイス
   // https://annict.com/works/9003
   { annict_id: 9003, mal_id: 50159 },
   // [2022-SPRING] TV: キングダム 第4シリーズ
