@@ -39047,7 +39047,7 @@ export const annict: ArmEntry[] = [
   // [2006-SUMMER] TV: プッカ
   // https://annict.com/works/13533
   { annict_id: 13533, mal_id: 6609 },
-  // [2025-null] TV: ある魔女が死ぬまで
+  // [2025-SPRING] TV: ある魔女が死ぬまで
   // https://annict.com/works/13534
   { annict_id: 13534, mal_id: 59169 },
   // [2026-WINTER] MOVIE: 劇場版 魔法科高校の劣等生 四葉継承編
@@ -44072,4 +44072,7 @@ export const annict: ArmEntry[] = [
   // [1974-null] MOVIE: ザ★ファイヤーGメン
   // https://annict.com/works/15215
   { annict_id: 15215, mal_id: 38338 },
+  // [null-null] TV: 氷の城壁
+  // https://annict.com/works/15216
+  { annict_id: 15216, mal_id: 60852 },
 ]
