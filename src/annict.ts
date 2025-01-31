@@ -40873,7 +40873,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14146, mal_id: 57949 },
   // [2025-WINTER] TV: 監禁区域レベルX 第2期
   // https://annict.com/works/14147
-  { annict_id: 14147, mal_id: 60094 },
+  { annict_id: 14147, mal_id: 60094, syobocal_tid: 7351 },
   // [2025-AUTUMN] TV: 僕のヒーローアカデミア FINAL SEASON
   // https://annict.com/works/14148
   { annict_id: 14148, mal_id: 60098 },
@@ -42986,7 +42986,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: よわよわ先生
   // https://annict.com/works/14852
   { annict_id: 14852, mal_id: 60444 },
-  // [null-null] TV: 機動戦士Gundam GQuuuuuuX
+  // [2025-SPRING] TV: 機動戦士Gundam GQuuuuuuX
   // https://annict.com/works/14853
   { annict_id: 14853, mal_id: 60449 },
   // [2025-WINTER] MOVIE: 機動戦士Gundam GQuuuuuuX -Beginning-
