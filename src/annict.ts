@@ -44060,4 +44060,16 @@ export const annict: ArmEntry[] = [
   // [2022-WINTER] WEB: プラウドファミリー(2001年)
   // https://annict.com/works/15211
   { annict_id: 15211 },
+  // [2022-WINTER] WEB: プラウドファミリー(第2シリーズ)
+  // https://annict.com/works/15212
+  { annict_id: 15212 },
+  // [2022-SUMMER] WEB: プラウドファミリー ザ・ムービー
+  // https://annict.com/works/15213
+  { annict_id: 15213 },
+  // [2023-WINTER] WEB: 全力！ プラウドファミリー(シーズン2)
+  // https://annict.com/works/15214
+  { annict_id: 15214 },
+  // [1974-null] MOVIE: ザ★ファイヤーGメン
+  // https://annict.com/works/15215
+  { annict_id: 15215, mal_id: 38338 },
 ]
