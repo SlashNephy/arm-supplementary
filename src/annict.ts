@@ -44048,4 +44048,16 @@ export const annict: ArmEntry[] = [
   // [2006-SUMMER] TV: Happy Tree Friends TVシリーズ
   // https://annict.com/works/15207
   { annict_id: 15207 },
+  // [1964-SUMMER] TV: わんぱく三人組
+  // https://annict.com/works/15208
+  { annict_id: 15208 },
+  // [2021-SUMMER] TV: アルビン!&しまっピーズ
+  // https://annict.com/works/15209
+  { annict_id: 15209 },
+  // [1964-SUMMER] TV: バッキーとペピート
+  // https://annict.com/works/15210
+  { annict_id: 15210 },
+  // [2022-WINTER] WEB: プラウドファミリー(2001年)
+  // https://annict.com/works/15211
+  { annict_id: 15211 },
 ]
