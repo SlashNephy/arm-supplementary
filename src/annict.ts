@@ -44030,19 +44030,22 @@ export const annict: ArmEntry[] = [
   // [2003-AUTUMN] TV: ライオン・キングのティモンとプンバァ(シーズン3)
   // https://annict.com/works/15201
   { annict_id: 15201 },
-  // [1999-null] WEB: Happy Tree Friends シーズン1
+  // [1999-AUTUMN] WEB: Happy Tree Friends シーズン1
   // https://annict.com/works/15202
   { annict_id: 15202 },
-  // [2002-null] WEB: Happy Tree Friends シーズン2
+  // [2002-SUMMER] WEB: Happy Tree Friends シーズン2
   // https://annict.com/works/15203
   { annict_id: 15203 },
-  // [2007-null] WEB: Happy Tree Friends シーズン3
+  // [2007-AUTUMN] WEB: Happy Tree Friends シーズン3
   // https://annict.com/works/15204
   { annict_id: 15204 },
-  // [2013-null] WEB: Happy Tree Friends シーズン4
+  // [2013-SPRING] WEB: Happy Tree Friends シーズン4
   // https://annict.com/works/15205
   { annict_id: 15205 },
-  // [2016-null] WEB: Happy Tree Friends Still Alive
+  // [2016-AUTUMN] WEB: Happy Tree Friends Still Alive
   // https://annict.com/works/15206
   { annict_id: 15206 },
+  // [2006-SUMMER] TV: Happy Tree Friends TVシリーズ
+  // https://annict.com/works/15207
+  { annict_id: 15207 },
 ]
