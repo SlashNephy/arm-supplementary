@@ -38348,7 +38348,7 @@ export const annict: ArmEntry[] = [
   // [1945-WINTER] MOVIE: ドナルドの催眠術
   // https://annict.com/works/13300
   { annict_id: 13300 },
-  // [null-null] TV: 転生したら第七王子だったので、気ままに魔術を極めます 2期
+  // [2025-SUMMER] TV: 転生したら第七王子だったので、気ままに魔術を極めます 第2期
   // https://annict.com/works/13301
   { annict_id: 13301, mal_id: 59095 },
   // [1940-SUMMER] MOVIE: ザ・ボランティア・ワーカー
