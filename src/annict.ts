@@ -44108,4 +44108,7 @@ export const annict: ArmEntry[] = [
   // [2021-WINTER] TV: シュームの大冒険
   // https://annict.com/works/15227
   { annict_id: 15227 },
+  // [2025-SPRING] MOVIE: ファレル・ウィリアムス：ピース・バイ・ピース
+  // https://annict.com/works/15228
+  { annict_id: 15228 },
 ]
