@@ -44105,4 +44105,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] MOVIE: 映画クレヨンしんちゃん 超華麗！灼熱のカスカベダンサーズ
   // https://annict.com/works/15226
   { annict_id: 15226, mal_id: 60862 },
+  // [2021-WINTER] TV: シュームの大冒険
+  // https://annict.com/works/15227
+  { annict_id: 15227 },
 ]
