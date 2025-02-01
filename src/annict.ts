@@ -44084,4 +44084,13 @@ export const annict: ArmEntry[] = [
   // [2001-SUMMER] TV: スタンリー
   // https://annict.com/works/15219
   { annict_id: 15219 },
+  // [1999-SUMMER] TV: チックンタック
+  // https://annict.com/works/15220
+  { annict_id: 15220, mal_id: 29369 },
+  // [1996-SPRING] TV: ガラリンとゴロリン
+  // https://annict.com/works/15221
+  { annict_id: 15221, mal_id: 29503 },
+  // [1997-SUMMER] TV: レイン坊のアニメ箱
+  // https://annict.com/works/15222
+  { annict_id: 15222, mal_id: 29483 },
 ]
