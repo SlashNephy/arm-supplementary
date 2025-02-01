@@ -43996,7 +43996,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15189 },
   // [2025-WINTER] WEB: 色違いのアーボ
   // https://annict.com/works/15190
-  { annict_id: 15190 },
+  { annict_id: 15190, mal_id: 60848 },
   // [1994-SPRING] TV: 大好き!ねんどママ
   // https://annict.com/works/15191
   { annict_id: 15191, mal_id: 29469 },
@@ -44075,4 +44075,10 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 氷の城壁
   // https://annict.com/works/15216
   { annict_id: 15216, mal_id: 60852 },
+  // [1965-AUTUMN] TV: 少年シンドバッド
+  // https://annict.com/works/15217
+  { annict_id: 15217 },
+  // [1965-WINTER] TV: 科学少年J.Q
+  // https://annict.com/works/15218
+  { annict_id: 15218 },
 ]
