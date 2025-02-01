@@ -44093,4 +44093,16 @@ export const annict: ArmEntry[] = [
   // [1997-SUMMER] TV: レイン坊のアニメ箱
   // https://annict.com/works/15222
   { annict_id: 15222, mal_id: 29483 },
+  // [2025-AUTUMN] MOVIE: おしり前マン THE MOVIE(仮題)
+  // https://annict.com/works/15223
+  { annict_id: 15223 },
+  // [2025-SUMMER] OVA: ニートくノ一となぜか同棲はじめました TV未放送オリジナルエピソード 上
+  // https://annict.com/works/15224
+  { annict_id: 15224 },
+  // [2025-AUTUMN] OVA: ニートくノ一となぜか同棲はじめました TV未放送オリジナルエピソード 下
+  // https://annict.com/works/15225
+  { annict_id: 15225 },
+  // [2025-SUMMER] MOVIE: 映画クレヨンしんちゃん 超華麗！灼熱のカスカベダンサーズ
+  // https://annict.com/works/15226
+  { annict_id: 15226, mal_id: 60862 },
 ]
