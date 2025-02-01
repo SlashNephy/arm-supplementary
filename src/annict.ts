@@ -44081,4 +44081,7 @@ export const annict: ArmEntry[] = [
   // [1965-WINTER] TV: 科学少年J.Q
   // https://annict.com/works/15218
   { annict_id: 15218 },
+  // [2001-SUMMER] TV: スタンリー
+  // https://annict.com/works/15219
+  { annict_id: 15219 },
 ]
