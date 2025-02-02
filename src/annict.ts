@@ -44132,4 +44132,10 @@ export const annict: ArmEntry[] = [
   // [1966-SUMMER] TV: マジックおばさん
   // https://annict.com/works/15235
   { annict_id: 15235 },
+  // [1966-SUMMER] TV: かばのガバチョ
+  // https://annict.com/works/15236
+  { annict_id: 15236 },
+  // [1967-SPRING] TV: 宇宙怪人ゴースト
+  // https://annict.com/works/15237
+  { annict_id: 15237 },
 ]
