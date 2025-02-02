@@ -44150,4 +44150,13 @@ export const annict: ArmEntry[] = [
   // [2007-SUMMER] TV: キム・ポッシブル(シーズン4)
   // https://annict.com/works/15241
   { annict_id: 15241 },
+  // [2011-AUTUMN] MOVIE: ハーバーテイル
+  // https://annict.com/works/15242
+  { annict_id: 15242, mal_id: 28759 },
+  // [2014-WINTER] MOVIE: ブルーアイズ イン ハーバーテイル
+  // https://annict.com/works/15243
+  { annict_id: 15243, mal_id: 54671 },
+  // [2006-WINTER] MOVIE: ノラビッツミニッツ
+  // https://annict.com/works/15244
+  { annict_id: 15244, mal_id: 8205 },
 ]
