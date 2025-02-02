@@ -44111,4 +44111,16 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] MOVIE: ファレル・ウィリアムス：ピース・バイ・ピース
   // https://annict.com/works/15228
   { annict_id: 15228 },
+  // [1966-WINTER] TV: ゴリラのゴンちゃん
+  // https://annict.com/works/15229
+  { annict_id: 15229 },
+  // [1966-WINTER] TV: 怪力アント
+  // https://annict.com/works/15230
+  { annict_id: 15230 },
+  // [1966-WINTER] TV: パップちゃんとスイートおばさん
+  // https://annict.com/works/15231
+  { annict_id: 15231 },
+  // [1966-WINTER] TV: じゃじゃ熊一家
+  // https://annict.com/works/15232
+  { annict_id: 15232 },
 ]
