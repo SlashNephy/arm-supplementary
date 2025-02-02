@@ -44123,4 +44123,13 @@ export const annict: ArmEntry[] = [
   // [1966-WINTER] TV: じゃじゃ熊一家
   // https://annict.com/works/15232
   { annict_id: 15232 },
+  // [1966-SUMMER] TV: 秘密探偵クルクル
+  // https://annict.com/works/15233
+  { annict_id: 15233 },
+  // [1966-SUMMER] TV: タコのロクちゃん
+  // https://annict.com/works/15234
+  { annict_id: 15234 },
+  // [1966-SUMMER] TV: マジックおばさん
+  // https://annict.com/works/15235
+  { annict_id: 15235 },
 ]
