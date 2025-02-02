@@ -44138,4 +44138,16 @@ export const annict: ArmEntry[] = [
   // [1967-SPRING] TV: 宇宙怪人ゴースト
   // https://annict.com/works/15237
   { annict_id: 15237 },
+  // [2004-WINTER] TV: キム・ポッシブル(シーズン2)
+  // https://annict.com/works/15238
+  { annict_id: 15238 },
+  // [2006-WINTER] TV: キム・ポッシブル(シーズン3)
+  // https://annict.com/works/15239
+  { annict_id: 15239 },
+  // [2006-WINTER] TV: キム・ポッシブル ザ・ムービー ドラマチック・ナイト
+  // https://annict.com/works/15240
+  { annict_id: 15240 },
+  // [2007-SUMMER] TV: キム・ポッシブル(シーズン4)
+  // https://annict.com/works/15241
+  { annict_id: 15241 },
 ]
