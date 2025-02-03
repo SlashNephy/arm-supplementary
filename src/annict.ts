@@ -43115,7 +43115,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: 機動戦士ガンダム：銀灰の幻影
   // https://annict.com/works/14895
   { annict_id: 14895 },
-  // [2025-null] TV: あらいぐま カルカル団
+  // [2025-SPRING] TV: あらいぐま カルカル団
   // https://annict.com/works/14896
   { annict_id: 14896, mal_id: 60506 },
   // [2025-SPRING] OTHER: ツインズひなひま
