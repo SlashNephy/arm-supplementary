@@ -44159,4 +44159,7 @@ export const annict: ArmEntry[] = [
   // [2006-WINTER] MOVIE: ノラビッツミニッツ
   // https://annict.com/works/15244
   { annict_id: 15244, mal_id: 8205 },
+  // [2025-SPRING] MOVIE: ボサノヴァ～撃たれたピアニスト
+  // https://annict.com/works/15245
+  { annict_id: 15245 },
 ]
