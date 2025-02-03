@@ -15845,7 +15845,7 @@ export const annict: ArmEntry[] = [
   // [1971-SUMMER] TV: まんがファニー
   // https://annict.com/works/5314
   { annict_id: 5314 },
-  // [null-null] TV: スーパー6
+  // [1970-SPRING] TV: スーパー6
   // https://annict.com/works/5315
   { annict_id: 5315 },
   // [null-null] TV: ダドリー・ドゥ・ライト
@@ -44162,4 +44162,22 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] MOVIE: ボサノヴァ～撃たれたピアニスト
   // https://annict.com/works/15245
   { annict_id: 15245 },
+  // [2020-AUTUMN] WEB: 明日のアニメも、楽しみだ。Netflix特別アニメーション
+  // https://annict.com/works/15246
+  { annict_id: 15246 },
+  // [1969-SPRING] TV: ガリバーと小人たち
+  // https://annict.com/works/15247
+  { annict_id: 15247 },
+  // [1969-SUMMER] TV: スーパープレジデント
+  // https://annict.com/works/15248
+  { annict_id: 15248 },
+  // [1969-AUTUMN] TV: がんばれモビー
+  // https://annict.com/works/15249
+  { annict_id: 15249 },
+  // [1970-SPRING] TV: アストロ超人ジャンボ
+  // https://annict.com/works/15250
+  { annict_id: 15250 },
+  // [2004-SPRING] TV: ティーモ・シュプリーモ
+  // https://annict.com/works/15251
+  { annict_id: 15251 },
 ]
