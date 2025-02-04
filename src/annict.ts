@@ -44213,4 +44213,10 @@ export const annict: ArmEntry[] = [
   // [2015-AUTUMN] OVA: クロミニオン
   // https://annict.com/works/15262
   { annict_id: 15262 },
+  // [2015-AUTUMN] OVA: ライバル
+  // https://annict.com/works/15263
+  { annict_id: 15263 },
+  // [2015-AUTUMN] OVA: ピンキー・ネルソンの大冒険
+  // https://annict.com/works/15264
+  { annict_id: 15264 },
 ]
