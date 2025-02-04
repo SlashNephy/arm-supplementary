@@ -44195,4 +44195,10 @@ export const annict: ArmEntry[] = [
   // [2011-WINTER] OVA: みんなで模様替え
   // https://annict.com/works/15256
   { annict_id: 15256 },
+  // [2011-WINTER] OVA: ミニオンのお仕事
+  // https://annict.com/works/15257
+  { annict_id: 15257 },
+  // [2011-WINTER] OVA: バナナ
+  // https://annict.com/works/15258
+  { annict_id: 15258 },
 ]
