@@ -44240,4 +44240,7 @@ export const annict: ArmEntry[] = [
   // [2019-AUTUMN] OVA: スーパー・ギジェットのラブラブ救出作戦
   // https://annict.com/works/15271
   { annict_id: 15271 },
+  // [1949-SUMMER] MOVIE: きつねのホームラン王
+  // https://annict.com/works/15272
+  { annict_id: 15272, mal_id: 28035 },
 ]
