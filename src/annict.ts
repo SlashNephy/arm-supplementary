@@ -44201,4 +44201,16 @@ export const annict: ArmEntry[] = [
   // [2011-WINTER] OVA: バナナ
   // https://annict.com/works/15258
   { annict_id: 15258 },
+  // [2014-WINTER] OVA: ミニオンの子犬
+  // https://annict.com/works/15259
+  { annict_id: 15259 },
+  // [2014-WINTER] OVA: 郵便室危機一発
+  // https://annict.com/works/15260
+  { annict_id: 15260 },
+  // [2014-WINTER] OVA: アグネスの自転車
+  // https://annict.com/works/15261
+  { annict_id: 15261 },
+  // [2015-AUTUMN] OVA: クロミニオン
+  // https://annict.com/works/15262
+  { annict_id: 15262 },
 ]
