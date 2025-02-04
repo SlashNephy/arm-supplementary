@@ -29927,7 +29927,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] TV: AIの遺電子
   // https://annict.com/works/10483
   { annict_id: 10483, mal_id: 53787, syobocal_tid: 6719 },
-  // [1999-SPRING] TV: ムーぽん
+  // [1999-SPRING] TV: ムーぽん (第1期)
   // https://annict.com/works/10484
   { annict_id: 10484, mal_id: 57825 },
   // [1999-SPRING] TV: ハコいりせがれ
@@ -40625,7 +40625,7 @@ export const annict: ArmEntry[] = [
   // [1993-SPRING] OVA: KO世紀ビースト三獣士II
   // https://annict.com/works/14064
   { annict_id: 14064 },
-  // [null-null] MOVIE: 転生したらスライムだった件 劇場版第2弾
+  // [2026-WINTER] MOVIE: 劇場版 転生したらスライムだった件  蒼海の涙編
   // https://annict.com/works/14065
   { annict_id: 14065, mal_id: 59971 },
   // [null-null] TV: 転生したらスライムだった件 第4期
@@ -44180,4 +44180,19 @@ export const annict: ArmEntry[] = [
   // [2004-SPRING] TV: ティーモ・シュプリーモ
   // https://annict.com/works/15251
   { annict_id: 15251 },
+  // [2025-null] TV: ちゃんと吸えない吸血鬼ちゃん
+  // https://annict.com/works/15252
+  { annict_id: 15252 },
+  // [2000-SPRING] TV: ムーぽん (第2期)
+  // https://annict.com/works/15253
+  { annict_id: 15253, mal_id: 57826 },
+  // [2000-SPRING] TV: ムーぽん (第2期・短縮版)
+  // https://annict.com/works/15254
+  { annict_id: 15254 },
+  // [2019-AUTUMN] MOVIE: Thunderbolt Fantasy 西幽玹歌
+  // https://annict.com/works/15255
+  { annict_id: 15255 },
+  // [2011-WINTER] OVA: みんなで模様替え
+  // https://annict.com/works/15256
+  { annict_id: 15256 },
 ]
