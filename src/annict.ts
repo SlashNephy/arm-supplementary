@@ -44219,4 +44219,25 @@ export const annict: ArmEntry[] = [
   // [2015-AUTUMN] OVA: ピンキー・ネルソンの大冒険
   // https://annict.com/works/15264
   { annict_id: 15264 },
+  // [2016-SUMMER] MOVIE: ミニオンズ：アルバイト大作戦
+  // https://annict.com/works/15265
+  { annict_id: 15265 },
+  // [2017-AUTUMN] OVA: カイルの秘密の生活
+  // https://annict.com/works/15266
+  { annict_id: 15266 },
+  // [2018-AUTUMN] MOVIE: ミニオンのミニミニ脱走
+  // https://annict.com/works/15267
+  { annict_id: 15267 },
+  // [2019-SPRING] OVA: ミニオンのクリスマス大騒動
+  // https://annict.com/works/15268
+  { annict_id: 15268 },
+  // [2019-SPRING] OVA: ある冬の日のマックス
+  // https://annict.com/works/15269
+  { annict_id: 15269 },
+  // [2019-AUTUMN] OVA: ミニオンのキャンプで爆笑大バトル
+  // https://annict.com/works/15270
+  { annict_id: 15270 },
+  // [2019-AUTUMN] OVA: スーパー・ギジェットのラブラブ救出作戦
+  // https://annict.com/works/15271
+  { annict_id: 15271 },
 ]
