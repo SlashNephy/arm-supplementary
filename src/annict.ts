@@ -37370,7 +37370,7 @@ export const annict: ArmEntry[] = [
   // [1931-WINTER] MOVIE: タクシードライバー
   // https://annict.com/works/12973
   { annict_id: 12973 },
-  // [null-null] OTHER: 花ざかりの君たちへ
+  // [null-null] TV: 花ざかりの君たちへ
   // https://annict.com/works/12974
   { annict_id: 12974, mal_id: 58861 },
   // [2024-SPRING] WEB: HIGHSPEED Étoile コラボミニアニメ
