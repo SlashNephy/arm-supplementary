@@ -17426,7 +17426,7 @@ export const annict: ArmEntry[] = [
   // [1987-SUMMER] OVA: DEAD HEAT
   // https://annict.com/works/5845
   { annict_id: 5845, mal_id: 10780 },
-  // [2016-SPRING] OVA: 血界戦線 OVA 王様のレストランの王様
+  // [2016-SPRING] OVA: 血界戦線 OAD 王様のレストランの王様
   // https://annict.com/works/5846
   { annict_id: 5846, mal_id: 32574 },
   // [2017-SUMMER] OVA: この素晴らしい世界に祝福を！2 OVA
@@ -35540,7 +35540,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] TV: 悪役令嬢転生おじさん
   // https://annict.com/works/12360
   { annict_id: 12360, mal_id: 57719, syobocal_tid: 7293 },
-  // [2018-SUMMER] OVA: 血界戦線 & BEYOND OAD
+  // [2018-SUMMER] OVA: 血界戦線 & BEYOND OAD ザップ・レンフロ因果応報中!! / バッカーディオの雫
   // https://annict.com/works/12361
   { annict_id: 12361, mal_id: 37364 },
   // [2024-SPRING] WEB: じゃんたま カン！！
@@ -44182,7 +44182,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15251 },
   // [2025-null] TV: ちゃんと吸えない吸血鬼ちゃん
   // https://annict.com/works/15252
-  { annict_id: 15252 },
+  { annict_id: 15252, mal_id: 60933 },
   // [2000-SPRING] TV: ムーぽん (第2期)
   // https://annict.com/works/15253
   { annict_id: 15253, mal_id: 57826 },
