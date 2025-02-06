@@ -44276,4 +44276,19 @@ export const annict: ArmEntry[] = [
   // [1985-null] MOVIE: La prisonnière（原題）
   // https://annict.com/works/15283
   { annict_id: 15283 },
+  // [2025-WINTER] WEB: プリンセスコネクト！ 導きの初花　- Fiore Storia -
+  // https://annict.com/works/15284
+  { annict_id: 15284 },
+  // [null-null] OTHER: 目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい
+  // https://annict.com/works/15285
+  { annict_id: 15285, mal_id: 60948 },
+  // [1989-WINTER] MOVIE: ロボタン(映画)
+  // https://annict.com/works/15286
+  { annict_id: 15286 },
+  // [2025-WINTER] WEB: 京セラ発アニメPROJECT2025「誰かのために、なれと願う」
+  // https://annict.com/works/15287
+  { annict_id: 15287 },
+  // [2025-WINTER] WEB: 京セラ発オリジナルアニメ 総集編「誰かのために、なれと願う」
+  // https://annict.com/works/15288
+  { annict_id: 15288 },
 ]
