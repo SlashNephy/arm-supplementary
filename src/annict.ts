@@ -44291,4 +44291,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] WEB: 京セラ発オリジナルアニメ 総集編「誰かのために、なれと願う」
   // https://annict.com/works/15288
   { annict_id: 15288 },
+  // [2003-SPRING] TV: Catfish Blues（原題）
+  // https://annict.com/works/15289
+  { annict_id: 15289 },
 ]
