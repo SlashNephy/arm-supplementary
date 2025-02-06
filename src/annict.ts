@@ -44243,4 +44243,7 @@ export const annict: ArmEntry[] = [
   // [1949-SUMMER] MOVIE: きつねのホームラン王
   // https://annict.com/works/15272
   { annict_id: 15272, mal_id: 28035 },
+  // [1971-SPRING] TV: ロケット・ロビンフッド
+  // https://annict.com/works/15273
+  { annict_id: 15273 },
 ]
