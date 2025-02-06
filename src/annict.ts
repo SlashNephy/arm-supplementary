@@ -44294,4 +44294,7 @@ export const annict: ArmEntry[] = [
   // [2003-SPRING] TV: Catfish Blues（原題）
   // https://annict.com/works/15289
   { annict_id: 15289 },
+  // [1998-SUMMER] MOVIE: L'oeil du loup（原題）
+  // https://annict.com/works/15290
+  { annict_id: 15290 },
 ]
