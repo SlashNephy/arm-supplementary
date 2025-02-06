@@ -44255,4 +44255,10 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] WEB: カイリューとゆうびんやさん
   // https://annict.com/works/15276
   { annict_id: 15276 },
+  // [2025-WINTER] MOVIE: ハイパーボリア人
+  // https://annict.com/works/15277
+  { annict_id: 15277 },
+  // [2025-WINTER] MOVIE: 名前のノート
+  // https://annict.com/works/15278
+  { annict_id: 15278 },
 ]
