@@ -44261,4 +44261,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] MOVIE: 名前のノート
   // https://annict.com/works/15278
   { annict_id: 15278 },
+  // [2025-SPRING] MOVIE: それいけ！アンパンマン チャポンのヒーロー！
+  // https://annict.com/works/15279
+  { annict_id: 15279 },
 ]
