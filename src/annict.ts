@@ -44249,4 +44249,7 @@ export const annict: ArmEntry[] = [
   // [1971-WINTER] TV: スーパーマン新冒険
   // https://annict.com/works/15274
   { annict_id: 15274 },
+  // [1971-AUTUMN] TV: ドラドラ子猫とチャカチャカ娘
+  // https://annict.com/works/15275
+  { annict_id: 15275 },
 ]
