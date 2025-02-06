@@ -44246,4 +44246,7 @@ export const annict: ArmEntry[] = [
   // [1971-SPRING] TV: ロケット・ロビンフッド
   // https://annict.com/works/15273
   { annict_id: 15273 },
+  // [1971-WINTER] TV: スーパーマン新冒険
+  // https://annict.com/works/15274
+  { annict_id: 15274 },
 ]
