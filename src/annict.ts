@@ -44264,4 +44264,13 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] MOVIE: それいけ！アンパンマン チャポンのヒーロー！
   // https://annict.com/works/15279
   { annict_id: 15279 },
+  // [2003-AUTUMN] TV: ウィークエンダー
+  // https://annict.com/works/15280
+  { annict_id: 15280 },
+  // [2025-WINTER] MOVIE: アルドノア・ゼロ（Re+）
+  // https://annict.com/works/15281
+  { annict_id: 15281, mal_id: 60666 },
+  // [2025-WINTER] MOVIE: 親鸞 人生の目的
+  // https://annict.com/works/15282
+  { annict_id: 15282, mal_id: 59729 },
 ]
