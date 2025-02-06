@@ -44252,4 +44252,7 @@ export const annict: ArmEntry[] = [
   // [1971-AUTUMN] TV: ドラドラ子猫とチャカチャカ娘
   // https://annict.com/works/15275
   { annict_id: 15275 },
+  // [2025-WINTER] WEB: カイリューとゆうびんやさん
+  // https://annict.com/works/15276
+  { annict_id: 15276 },
 ]
