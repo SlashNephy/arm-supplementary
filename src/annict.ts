@@ -44273,4 +44273,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] MOVIE: 親鸞 人生の目的
   // https://annict.com/works/15282
   { annict_id: 15282, mal_id: 59729 },
+  // [1985-null] MOVIE: La prisonnière（原題）
+  // https://annict.com/works/15283
+  { annict_id: 15283 },
 ]
