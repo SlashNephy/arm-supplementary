@@ -44324,4 +44324,10 @@ export const annict: ArmEntry[] = [
   // [2018-AUTUMN] WEB: ラーバ・アイランド
   // https://annict.com/works/15299
   { annict_id: 15299, mal_id: 38446 },
+  // [2019-WINTER] WEB: ラーバ・アイランド(シーズン2)
+  // https://annict.com/works/15300
+  { annict_id: 15300, mal_id: 39431 },
+  // [2020-SUMMER] WEB: ザ・ラーバ・アイランド・ムービー
+  // https://annict.com/works/15301
+  { annict_id: 15301, mal_id: 51602 },
 ]
