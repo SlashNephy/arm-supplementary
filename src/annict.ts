@@ -29872,7 +29872,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10463, mal_id: 54362, syobocal_tid: 6821 },
   // [2014-SPRING] TV: ラーバ
   // https://annict.com/works/10464
-  { annict_id: 10464 },
+  { annict_id: 10464, mal_id: 31534 },
   // [2005-AUTUMN] TV: ハイ!ハイ! パフィー・アミユミ
   // https://annict.com/works/10465
   { annict_id: 10465, syobocal_tid: 620 },
@@ -44306,4 +44306,22 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] MOVIE: 骨
   // https://annict.com/works/15293
   { annict_id: 15293 },
+  // [2023-WINTER] TV: ボトスファミリー　ボクと猫たちが過ごすにぎやかで優しい時間。　前編
+  // https://annict.com/works/15294
+  { annict_id: 15294, mal_id: 53042 },
+  // [2023-WINTER] TV: ボトスファミリー　ボクと猫たちが過ごすにぎやかで優しい時間。　後編
+  // https://annict.com/works/15295
+  { annict_id: 15295, mal_id: 53043 },
+  // [2024-WINTER] TV: ボトスファミリー　シーズン2
+  // https://annict.com/works/15296
+  { annict_id: 15296, mal_id: 53044 },
+  // [2016-SUMMER] OVA: ラーバ(シーズン2)
+  // https://annict.com/works/15297
+  { annict_id: 15297, mal_id: 31673 },
+  // [2017-SPRING] OVA: ラーバ(シーズン3)
+  // https://annict.com/works/15298
+  { annict_id: 15298, mal_id: 31674 },
+  // [2018-AUTUMN] WEB: ラーバ・アイランド
+  // https://annict.com/works/15299
+  { annict_id: 15299, mal_id: 38446 },
 ]
