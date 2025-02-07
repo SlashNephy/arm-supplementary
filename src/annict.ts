@@ -44354,4 +44354,7 @@ export const annict: ArmEntry[] = [
   // [2006-AUTUMN] TV: リセス 〜ぼくらの新学期〜
   // https://annict.com/works/15309
   { annict_id: 15309 },
+  // [2025-WINTER] WEB: ひとりのよると赤緑
+  // https://annict.com/works/15310
+  { annict_id: 15310 },
 ]
