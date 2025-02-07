@@ -44297,4 +44297,7 @@ export const annict: ArmEntry[] = [
   // [1998-SUMMER] MOVIE: L'oeil du loup（原題）
   // https://annict.com/works/15290
   { annict_id: 15290 },
+  // [2025-WINTER] WEB: The Lost Tower
+  // https://annict.com/works/15291
+  { annict_id: 15291 },
 ]
