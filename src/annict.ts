@@ -42637,7 +42637,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14735, mal_id: 7273 },
   // [2025-SPRING] TV: アン・シャーリー
   // https://annict.com/works/14736
-  { annict_id: 14736, mal_id: 60334 },
+  { annict_id: 14736, mal_id: 60334, syobocal_tid: 7356 },
   // [2024-AUTUMN] WEB: 異世界QTTA『氷の世界』篇
   // https://annict.com/works/14737
   { annict_id: 14737 },
