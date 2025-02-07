@@ -40364,10 +40364,10 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] MOVIE: 映画おしりたんてい スター・アンド・ムーン
   // https://annict.com/works/13976
   { annict_id: 13976, mal_id: 60613 },
-  // [2025-null] MOVIE: ガールズバンドクライ 劇場版総集編 前編
+  // [2025-AUTUMN] MOVIE: 劇場版総集編『ガールズバンドクライ』青春狂走曲
   // https://annict.com/works/13977
   { annict_id: 13977, mal_id: 59817 },
-  // [2025-null] MOVIE: ガールズバンドクライ 劇場版総集編 後編
+  // [2025-AUTUMN] MOVIE: 劇場版総集編『ガールズバンドクライ』なぁ、未来。
   // https://annict.com/works/13978
   { annict_id: 13978, mal_id: 59817 },
   // [2025-null] TV: 瑠璃の宝石
