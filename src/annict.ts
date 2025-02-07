@@ -43921,7 +43921,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15164 },
   // [2025-SPRING] TV: ンめねこ
   // https://annict.com/works/15165
-  { annict_id: 15165 },
+  { annict_id: 15165, mal_id: 60947 },
   // [2025-SPRING] MOVIE: かたつむりのメモワール
   // https://annict.com/works/15166
   { annict_id: 15166 },
@@ -44330,4 +44330,28 @@ export const annict: ArmEntry[] = [
   // [2020-SUMMER] WEB: ザ・ラーバ・アイランド・ムービー
   // https://annict.com/works/15301
   { annict_id: 15301, mal_id: 51602 },
+  // [2024-SUMMER] WEB: インアプリ ぼくたちスマホのけいさつかん
+  // https://annict.com/works/15302
+  { annict_id: 15302, mal_id: 56902 },
+  // [1991-AUTUMN] OVA: ファーザー・クリスマス
+  // https://annict.com/works/15303
+  { annict_id: 15303 },
+  // [2022-SPRING] OVA: タイムトラベラー・ルーク
+  // https://annict.com/works/15304
+  { annict_id: 15304, mal_id: 48262 },
+  // [2000-SUMMER] TV: リセス 〜ぼくらの休み時間〜(シーズン2)
+  // https://annict.com/works/15305
+  { annict_id: 15305 },
+  // [2003-AUTUMN] TV: リセス 〜ぼくらの休み時間〜(シーズン3)
+  // https://annict.com/works/15306
+  { annict_id: 15306 },
+  // [2007-AUTUMN] TV: リセス 〜ぼくらの冬休み〜
+  // https://annict.com/works/15307
+  { annict_id: 15307 },
+  // [2021-AUTUMN] WEB: リセス 〜ぼくらのちびっこ大戦争〜
+  // https://annict.com/works/15308
+  { annict_id: 15308 },
+  // [2006-AUTUMN] TV: リセス 〜ぼくらの新学期〜
+  // https://annict.com/works/15309
+  { annict_id: 15309 },
 ]
