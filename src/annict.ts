@@ -40553,7 +40553,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] MOVIE: 小林さんちのメイドラゴン さみしがりやの竜
   // https://annict.com/works/14039
   { annict_id: 14039, mal_id: 59897 },
-  // [2025-null] TV: CITY THE ANIMATION
+  // [2025-SUMMER] TV: CITY THE ANIMATION
   // https://annict.com/works/14040
   { annict_id: 14040, mal_id: 59898 },
   // [2007-AUTUMN] OVA: がくえんゆーとぴあ まなびストレート！第6.5話「夏だ！まなびだ！強化合宿だ！」
@@ -44300,4 +44300,10 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] WEB: The Lost Tower
   // https://annict.com/works/15291
   { annict_id: 15291 },
+  // [2025-null] TV: 気絶勇者と暗殺姫
+  // https://annict.com/works/15292
+  { annict_id: 15292, mal_id: 60951 },
+  // [2023-SUMMER] MOVIE: 骨
+  // https://annict.com/works/15293
+  { annict_id: 15293 },
 ]
