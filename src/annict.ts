@@ -44360,4 +44360,10 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 正義を愛する者 月光仮面 (パイロットフィルム)
   // https://annict.com/works/15311
   { annict_id: 15311 },
+  // [2019-SPRING] WEB: 日本建設工業ご紹介CM「星のタービン」
+  // https://annict.com/works/15312
+  { annict_id: 15312 },
+  // [2021-WINTER] WEB: 日本建設工業ご紹介CM「俺たち！ボイラーズ」
+  // https://annict.com/works/15313
+  { annict_id: 15313 },
 ]
