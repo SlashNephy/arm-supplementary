@@ -44357,4 +44357,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] WEB: ひとりのよると赤緑
   // https://annict.com/works/15310
   { annict_id: 15310 },
+  // [null-null] OTHER: 正義を愛する者 月光仮面 (パイロットフィルム)
+  // https://annict.com/works/15311
+  { annict_id: 15311 },
 ]
