@@ -44366,4 +44366,7 @@ export const annict: ArmEntry[] = [
   // [2021-WINTER] WEB: 日本建設工業ご紹介CM「俺たち！ボイラーズ」
   // https://annict.com/works/15313
   { annict_id: 15313 },
+  // [2024-AUTUMN] MOVIE: あめだま
+  // https://annict.com/works/15314
+  { annict_id: 15314, mal_id: 60805 },
 ]
