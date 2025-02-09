@@ -44369,4 +44369,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] MOVIE: あめだま
   // https://annict.com/works/15314
   { annict_id: 15314, mal_id: 60805 },
+  // [1982-null] MOVIE: 疫病犬と呼ばれて
+  // https://annict.com/works/15315
+  { annict_id: 15315 },
 ]
