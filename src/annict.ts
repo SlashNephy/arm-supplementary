@@ -44384,4 +44384,10 @@ export const annict: ArmEntry[] = [
   // [1956-null] MOVIE: 瓜子姫とあまのじゃく
   // https://annict.com/works/15319
   { annict_id: 15319, mal_id: 29917 },
+  // [1949-SPRING] MOVIE: ポッポやさん のんき機関士
+  // https://annict.com/works/15320
+  { annict_id: 15320, mal_id: 23635 },
+  // [1948-AUTUMN] MOVIE: ポッポやさんののんき駅長
+  // https://annict.com/works/15321
+  { annict_id: 15321, mal_id: 23633 },
 ]
