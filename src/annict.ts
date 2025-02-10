@@ -44372,4 +44372,7 @@ export const annict: ArmEntry[] = [
   // [1982-null] MOVIE: 疫病犬と呼ばれて
   // https://annict.com/works/15315
   { annict_id: 15315 },
+  // [2025-WINTER] TV: はーい！ミャクミャクです
+  // https://annict.com/works/15316
+  { annict_id: 15316 },
 ]
