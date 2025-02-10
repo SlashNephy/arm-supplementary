@@ -28883,7 +28883,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: 天国大魔境
   // https://annict.com/works/10132
   { annict_id: 10132, mal_id: 53393, syobocal_tid: 6646 },
-  // [2009-SPRING] TV: リロ・アンド・スティッチ ザ・シリーズ
+  // [2004-SPRING] TV: リロ・アンド・スティッチ ザ・シリーズ
   // https://annict.com/works/10133
   { annict_id: 10133, syobocal_tid: 1649 },
   // [2025-SUMMER] TV: 強くてニューサーガ
@@ -44417,4 +44417,7 @@ export const annict: ArmEntry[] = [
   // [1970-null] TV: ゴー・ゴー・インディアン
   // https://annict.com/works/15330
   { annict_id: 15330 },
+  // [2005-AUTUMN] TV: リロ・アンド・スティッチ ザ・シリーズ(シーズン2)
+  // https://annict.com/works/15331
+  { annict_id: 15331 },
 ]
