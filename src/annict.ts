@@ -44393,4 +44393,19 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: 太陽よりも眩しい星
   // https://annict.com/works/15322
   { annict_id: 15322, mal_id: 60969 },
+  // [1960-SUMMER] TV: ゆかいなボゾ
+  // https://annict.com/works/15323
+  { annict_id: 15323 },
+  // [1961-SPRING] TV: わんわん保安官
+  // https://annict.com/works/15324
+  { annict_id: 15324 },
+  // [1961-SUMMER] TV: クラッチ・カーゴ
+  // https://annict.com/works/15325
+  { annict_id: 15325 },
+  // [1961-AUTUMN] TV: ロッキーとブルウィンクルの大冒険
+  // https://annict.com/works/15326
+  { annict_id: 15326 },
+  // [1963-SUMMER] TV: がんばれマグー
+  // https://annict.com/works/15327
+  { annict_id: 15327 },
 ]
