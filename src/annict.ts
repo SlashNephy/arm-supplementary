@@ -40439,7 +40439,7 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: 薫る花は凛と咲く
   // https://annict.com/works/14001
   { annict_id: 14001, mal_id: 59845 },
-  // [2025-SUMMER] MOVIE: ヴァージン・パンク Clockwork Girl
+  // [2025-SPRING] MOVIE: ヴァージン・パンク Clockwork Girl
   // https://annict.com/works/14002
   { annict_id: 14002, mal_id: 59848 },
   // [2025-SPRING] TV: ばいばい、アース 第2シーズン
