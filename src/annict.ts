@@ -39932,7 +39932,7 @@ export const annict: ArmEntry[] = [
   // [1928-SUMMER] MOVIE: 漫画 花咲爺
   // https://annict.com/works/13828
   { annict_id: 13828, mal_id: 30086 },
-  // [null-null] TV: 野生のラスボスが現れた！
+  // [2025-AUTUMN] TV: 野生のラスボスが現れた！
   // https://annict.com/works/13829
   { annict_id: 13829, mal_id: 59644 },
   // [2024-AUTUMN] MOVIE: ロード・オブ・ザ・リング／ローハンの戦い
