@@ -44408,4 +44408,7 @@ export const annict: ArmEntry[] = [
   // [1963-SUMMER] TV: がんばれマグー
   // https://annict.com/works/15327
   { annict_id: 15327 },
+  // [1963-AUTUMN] TV: マイティ・ハーキュリー
+  // https://annict.com/works/15328
+  { annict_id: 15328 },
 ]
