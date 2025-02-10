@@ -44374,7 +44374,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15315 },
   // [2025-WINTER] TV: はーい！ミャクミャクです
   // https://annict.com/works/15316
-  { annict_id: 15316 },
+  { annict_id: 15316, syobocal_tid: 7360 },
   // [1952-null] MOVIE: 団子兵衛捕物帖　開けーごまの巻
   // https://annict.com/works/15317
   { annict_id: 15317, mal_id: 28057 },
@@ -44390,4 +44390,7 @@ export const annict: ArmEntry[] = [
   // [1948-AUTUMN] MOVIE: ポッポやさんののんき駅長
   // https://annict.com/works/15321
   { annict_id: 15321, mal_id: 23633 },
+  // [2025-null] TV: 太陽よりも眩しい星
+  // https://annict.com/works/15322
+  { annict_id: 15322, mal_id: 60969 },
 ]
