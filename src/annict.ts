@@ -44414,4 +44414,7 @@ export const annict: ArmEntry[] = [
   // [1966-SPRING] TV: 遊星ぼうやドド
   // https://annict.com/works/15329
   { annict_id: 15329 },
+  // [1970-null] TV: ゴー・ゴー・インディアン
+  // https://annict.com/works/15330
+  { annict_id: 15330 },
 ]
