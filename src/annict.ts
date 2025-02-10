@@ -44381,4 +44381,7 @@ export const annict: ArmEntry[] = [
   // [1954-AUTUMN] MOVIE: 花と蝶
   // https://annict.com/works/15318
   { annict_id: 15318, mal_id: 28057 },
+  // [1956-null] MOVIE: 瓜子姫とあまのじゃく
+  // https://annict.com/works/15319
+  { annict_id: 15319, mal_id: 29917 },
 ]
