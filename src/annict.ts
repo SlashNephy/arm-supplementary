@@ -44375,4 +44375,10 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] TV: はーい！ミャクミャクです
   // https://annict.com/works/15316
   { annict_id: 15316 },
+  // [1952-null] MOVIE: 団子兵衛捕物帖　開けーごまの巻
+  // https://annict.com/works/15317
+  { annict_id: 15317, mal_id: 28057 },
+  // [1954-AUTUMN] MOVIE: 花と蝶
+  // https://annict.com/works/15318
+  { annict_id: 15318, mal_id: 28057 },
 ]
