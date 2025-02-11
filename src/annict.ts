@@ -39049,7 +39049,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13533, mal_id: 6609 },
   // [2025-SPRING] TV: ある魔女が死ぬまで
   // https://annict.com/works/13534
-  { annict_id: 13534, mal_id: 59169 },
+  { annict_id: 13534, mal_id: 59169, syobocal_tid: 7361 },
   // [2026-WINTER] MOVIE: 劇場版 魔法科高校の劣等生 四葉継承編
   // https://annict.com/works/13535
   { annict_id: 13535, mal_id: 59174 },
