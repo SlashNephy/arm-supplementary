@@ -44420,4 +44420,7 @@ export const annict: ArmEntry[] = [
   // [2005-AUTUMN] TV: リロ・アンド・スティッチ ザ・シリーズ(シーズン2)
   // https://annict.com/works/15331
   { annict_id: 15331 },
+  // [1971-null] TV: アボットとコステロ
+  // https://annict.com/works/15332
+  { annict_id: 15332 },
 ]
