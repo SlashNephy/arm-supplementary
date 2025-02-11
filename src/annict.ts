@@ -44435,4 +44435,22 @@ export const annict: ArmEntry[] = [
   // [2004-SPRING] TV: ジョジョ・サーカス
   // https://annict.com/works/15336
   { annict_id: 15336 },
+  // [2012-AUTUMN] OTHER: マチルダ先輩
+  // https://annict.com/works/15337
+  { annict_id: 15337 },
+  // [2013-WINTER] OTHER: マチルダ先輩2
+  // https://annict.com/works/15338
+  { annict_id: 15338 },
+  // [2015-null] OTHER: 3年3組彫刻クラス
+  // https://annict.com/works/15339
+  { annict_id: 15339 },
+  // [2016-WINTER] WEB: 確信
+  // https://annict.com/works/15340
+  { annict_id: 15340, mal_id: 36753 },
+  // [2016-SPRING] WEB: エンジェルは選挙権がお好き
+  // https://annict.com/works/15341
+  { annict_id: 15341 },
+  // [2016-AUTUMN] OTHER: ハコダテミュージカル
+  // https://annict.com/works/15342
+  { annict_id: 15342 },
 ]
