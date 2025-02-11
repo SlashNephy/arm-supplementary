@@ -44471,4 +44471,10 @@ export const annict: ArmEntry[] = [
   // [2015-WINTER] WEB: サラ毛ぷっちょ
   // https://annict.com/works/15348
   { annict_id: 15348, mal_id: 37337 },
+  // [2023-SUMMER] OTHER: 忍者とHOKUSAI不動産
+  // https://annict.com/works/15349
+  { annict_id: 15349 },
+  // [2022-SUMMER] OTHER: 忍者とゴールド・マキエ
+  // https://annict.com/works/15350
+  { annict_id: 15350 },
 ]
