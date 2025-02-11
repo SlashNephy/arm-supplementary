@@ -44423,4 +44423,13 @@ export const annict: ArmEntry[] = [
   // [1971-null] TV: アボットとコステロ
   // https://annict.com/works/15332
   { annict_id: 15332 },
+  // [1972-WINTER] TV: ドリトル先生航海記
+  // https://annict.com/works/15333
+  { annict_id: 15333 },
+  // [1972-SPRING] TV: ドボチョン一家の幽霊旅行
+  // https://annict.com/works/15334
+  { annict_id: 15334 },
+  // [1972-SPRING] TV: くまくんトリオ大脱走
+  // https://annict.com/works/15335
+  { annict_id: 15335 },
 ]
