@@ -44453,4 +44453,22 @@ export const annict: ArmEntry[] = [
   // [2016-AUTUMN] OTHER: ハコダテミュージカル
   // https://annict.com/works/15342
   { annict_id: 15342 },
+  // [2017-WINTER] WEB: ENJOYNARA
+  // https://annict.com/works/15343
+  { annict_id: 15343 },
+  // [2011-AUTUMN] OTHER: さようなら忍者A
+  // https://annict.com/works/15344
+  { annict_id: 15344 },
+  // [2012-SUMMER] TV: 小人ピザ
+  // https://annict.com/works/15345
+  { annict_id: 15345 },
+  // [2013-AUTUMN] WEB: Wanna Be A Tuna
+  // https://annict.com/works/15346
+  { annict_id: 15346, mal_id: 36672 },
+  // [2014-WINTER] WEB: 緑汁スペシャルムービー「レ・ミドリジル」
+  // https://annict.com/works/15347
+  { annict_id: 15347 },
+  // [2015-WINTER] WEB: サラ毛ぷっちょ
+  // https://annict.com/works/15348
+  { annict_id: 15348, mal_id: 37337 },
 ]
