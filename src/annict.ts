@@ -44263,7 +44263,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15278 },
   // [2025-SPRING] MOVIE: それいけ！アンパンマン チャポンのヒーロー！
   // https://annict.com/works/15279
-  { annict_id: 15279 },
+  { annict_id: 15279, mal_id: 60962 },
   // [2003-AUTUMN] TV: ウィークエンダー
   // https://annict.com/works/15280
   { annict_id: 15280 },
@@ -44432,4 +44432,7 @@ export const annict: ArmEntry[] = [
   // [1972-SPRING] TV: くまくんトリオ大脱走
   // https://annict.com/works/15335
   { annict_id: 15335 },
+  // [2004-SPRING] TV: ジョジョ・サーカス
+  // https://annict.com/works/15336
+  { annict_id: 15336 },
 ]
