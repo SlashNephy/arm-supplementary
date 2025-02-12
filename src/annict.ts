@@ -44480,4 +44480,10 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] WEB: 「空色ユーティリティ」×「BIRDIE WING」スペシャルコラボ ミニアニメ
   // https://annict.com/works/15351
   { annict_id: 15351, mal_id: 60984 },
+  // [1979-SPRING] TV: アニメーション紀行 マルコ･ポーロの冒険
+  // https://annict.com/works/15352
+  { annict_id: 15352, mal_id: 5935, syobocal_tid: 6668 },
+  // [2025-AUTUMN] TV: 科学×冒険サバイバル！ 第2シリーズ
+  // https://annict.com/works/15353
+  { annict_id: 15353 },
 ]
