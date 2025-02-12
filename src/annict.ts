@@ -32282,7 +32282,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: お隣の天使様にいつの間にか駄目人間にされていた件2
   // https://annict.com/works/11269
   { annict_id: 11269, mal_id: 56876 },
-  // [null-null] TV: 青のオーケストラ 第2期
+  // [2025-AUTUMN] TV: 青のオーケストラ 第2期
   // https://annict.com/works/11270
   { annict_id: 11270, mal_id: 56877 },
   // [2023-SUMMER] WEB: 不死身な僕の日常 シーズン3
@@ -44479,5 +44479,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 15350 },
   // [2025-WINTER] WEB: 「空色ユーティリティ」×「BIRDIE WING」スペシャルコラボ ミニアニメ
   // https://annict.com/works/15351
-  { annict_id: 15351 },
+  { annict_id: 15351, mal_id: 60984 },
 ]
