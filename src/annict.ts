@@ -25394,7 +25394,7 @@ export const annict: ArmEntry[] = [
   // [2021-AUTUMN] WEB: 極主夫道 Part 2
   // https://annict.com/works/8870
   { annict_id: 8870, mal_id: 48707, syobocal_tid: 6335 },
-  // [2025-null] TV: 鬼人幻燈抄
+  // [2025-SPRING] TV: 鬼人幻燈抄
   // https://annict.com/works/8871
   { annict_id: 8871, mal_id: 49778 },
   // [2021-SUMMER] WEB: ゲンガーになっちゃった！？
@@ -44254,7 +44254,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15275 },
   // [2025-WINTER] WEB: カイリューとゆうびんやさん
   // https://annict.com/works/15276
-  { annict_id: 15276 },
+  { annict_id: 15276, mal_id: 60946 },
   // [2025-WINTER] MOVIE: ハイパーボリア人
   // https://annict.com/works/15277
   { annict_id: 15277 },
@@ -44477,4 +44477,7 @@ export const annict: ArmEntry[] = [
   // [2022-SUMMER] OTHER: 忍者とゴールド・マキエ
   // https://annict.com/works/15350
   { annict_id: 15350 },
+  // [2025-WINTER] WEB: 「空色ユーティリティ」×「BIRDIE WING」スペシャルコラボ ミニアニメ
+  // https://annict.com/works/15351
+  { annict_id: 15351 },
 ]
