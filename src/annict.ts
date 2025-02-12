@@ -36166,7 +36166,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12569, mal_id: 58066, syobocal_tid: 7329 },
   // [2024-WINTER] WEB: ポケモンスペシャルアニメ「ただいま」
   // https://annict.com/works/12570
-  { annict_id: 12570 },
+  { annict_id: 12570, mal_id: 58012 },
   // [2024-SPRING] TV: 喧嘩独学
   // https://annict.com/works/12571
   { annict_id: 12571, mal_id: 58080, syobocal_tid: 7043 },
@@ -39394,7 +39394,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13648 },
   // [2024-SUMMER] WEB: Turning the Tera Tide
   // https://annict.com/works/13649
-  { annict_id: 13649 },
+  { annict_id: 13649, mal_id: 59357 },
   // [2024-SUMMER] WEB: 真夜中ぱんチ YouTubeオリジナルショートアニメ
   // https://annict.com/works/13650
   { annict_id: 13650, mal_id: 59363 },
