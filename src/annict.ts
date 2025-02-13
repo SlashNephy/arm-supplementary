@@ -44525,4 +44525,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] MOVIE: プリンセス・プリンシパル Crown Handler 第4章
   // https://annict.com/works/15366
   { annict_id: 15366, mal_id: 57093 },
+  // [2023-AUTUMN] OVA: プリンセス・プリンシパル Crown Handler OVA「Cost for Custom Cars」
+  // https://annict.com/works/15367
+  { annict_id: 15367, mal_id: 57167 },
 ]
