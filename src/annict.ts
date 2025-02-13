@@ -44516,4 +44516,7 @@ export const annict: ArmEntry[] = [
   // [2011-null] MOVIE: 父。母。
   // https://annict.com/works/15363
   { annict_id: 15363 },
+  // [2011-null] MOVIE: 箱舟
+  // https://annict.com/works/15364
+  { annict_id: 15364 },
 ]
