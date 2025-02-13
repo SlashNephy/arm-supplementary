@@ -44510,4 +44510,10 @@ export const annict: ArmEntry[] = [
   // [2008-null] MOVIE: チリ夜想曲
   // https://annict.com/works/15361
   { annict_id: 15361 },
+  // [2010-null] MOVIE: Weathervane（原題）
+  // https://annict.com/works/15362
+  { annict_id: 15362 },
+  // [2011-null] MOVIE: 父。母。
+  // https://annict.com/works/15363
+  { annict_id: 15363 },
 ]
