@@ -44498,4 +44498,7 @@ export const annict: ArmEntry[] = [
   // [1974-null] TV: まんがビル・コスビー
   // https://annict.com/works/15357
   { annict_id: 15357 },
+  // [2025-WINTER] WEB: ゲゲゲの携帯料金
+  // https://annict.com/works/15358
+  { annict_id: 15358 },
 ]
