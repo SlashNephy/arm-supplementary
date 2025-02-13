@@ -44501,4 +44501,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] WEB: ゲゲゲの携帯料金
   // https://annict.com/works/15358
   { annict_id: 15358 },
+  // [2007-null] MOVIE: ルシア
+  // https://annict.com/works/15359
+  { annict_id: 15359 },
 ]
