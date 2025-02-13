@@ -22976,7 +22976,7 @@ export const annict: ArmEntry[] = [
   // [2021-SPRING] TV: いたずらぐまのグル～ミ～
   // https://annict.com/works/7998
   { annict_id: 7998, mal_id: 45587, syobocal_tid: 6005 },
-  // [2021-AUTUMN] MOVIE: プリンセス・プリンシパル Crown Handler 第2章
+  // [2021-SUMMER] MOVIE: プリンセス・プリンシパル Crown Handler 第2章
   // https://annict.com/works/7999
   { annict_id: 7999, mal_id: 41140 },
   // [2021-AUTUMN] TV: 月とライカと吸血姫
@@ -25148,7 +25148,7 @@ export const annict: ArmEntry[] = [
   // [2021-SUMMER] TV: マギアレコード 魔法少女まどか☆マギカ外伝 1st SEASON総集編
   // https://annict.com/works/8787
   { annict_id: 8787, mal_id: 49290 },
-  // [2021-AUTUMN] OVA: プリンセス・プリンシパル Crown Handler OVA「BUSY EASY MONEY」
+  // [2021-SUMMER] OVA: プリンセス・プリンシパル Crown Handler OVA「BUSY EASY MONEY」
   // https://annict.com/works/8788
   { annict_id: 8788, mal_id: 49138 },
   // [2021-SUMMER] WEB: 白い砂のアクアトープ みに
@@ -44522,4 +44522,7 @@ export const annict: ArmEntry[] = [
   // [2012-null] MOVIE: 魔女と恋人
   // https://annict.com/works/15365
   { annict_id: 15365 },
+  // [2025-SPRING] MOVIE: プリンセス・プリンシパル Crown Handler 第4章
+  // https://annict.com/works/15366
+  { annict_id: 15366, mal_id: 57093 },
 ]
