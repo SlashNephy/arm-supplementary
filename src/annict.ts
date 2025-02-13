@@ -39610,7 +39610,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13720, mal_id: 59369 },
   // [2024-SUMMER] TV: おはよう！うんこ先生
   // https://annict.com/works/13721
-  { annict_id: 13721 },
+  { annict_id: 13721, mal_id: 59409 },
   // [null-null] TV: ニワトリ・ファイター
   // https://annict.com/works/13722
   { annict_id: 13722, mal_id: 59393 },
