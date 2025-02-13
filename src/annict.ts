@@ -44507,4 +44507,7 @@ export const annict: ArmEntry[] = [
   // [2008-null] MOVIE: ルイス
   // https://annict.com/works/15360
   { annict_id: 15360 },
+  // [2008-null] MOVIE: チリ夜想曲
+  // https://annict.com/works/15361
+  { annict_id: 15361 },
 ]
