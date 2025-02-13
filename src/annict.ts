@@ -44519,4 +44519,7 @@ export const annict: ArmEntry[] = [
   // [2011-null] MOVIE: 箱舟
   // https://annict.com/works/15364
   { annict_id: 15364 },
+  // [2012-null] MOVIE: 魔女と恋人
+  // https://annict.com/works/15365
+  { annict_id: 15365 },
 ]
