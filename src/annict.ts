@@ -44486,4 +44486,16 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] TV: 科学×冒険サバイバル！ 第2シリーズ
   // https://annict.com/works/15353
   { annict_id: 15353 },
+  // [2005-SUMMER] TV: みんなヒーロー! 〜ヒグリータウンのなかまたち〜
+  // https://annict.com/works/15354
+  { annict_id: 15354 },
+  // [2007-WINTER] TV: アメリカン・ドラゴン(シーズン2)
+  // https://annict.com/works/15355
+  { annict_id: 15355 },
+  // [1973-SUMMER] TV: ミクロ決死隊
+  // https://annict.com/works/15356
+  { annict_id: 15356 },
+  // [1974-null] TV: まんがビル・コスビー
+  // https://annict.com/works/15357
+  { annict_id: 15357 },
 ]
