@@ -31394,7 +31394,7 @@ export const annict: ArmEntry[] = [
   // [2007-SPRING] MOVIE: いぬかみっ！THE MOVIE 特命霊的捜査官・仮名史郎っ！
   // https://annict.com/works/10973
   { annict_id: 10973, mal_id: 2132 },
-  // [2025-SUMMER] TV: cocoon
+  // [2025-SUMMER] TV: cocoon ～ある夏の少女たちより～
   // https://annict.com/works/10974
   { annict_id: 10974, mal_id: 55779 },
   // [2023-AUTUMN] TV: 絆のアリル セカンドシーズン
