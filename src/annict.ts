@@ -31394,7 +31394,7 @@ export const annict: ArmEntry[] = [
   // [2007-SPRING] MOVIE: いぬかみっ！THE MOVIE 特命霊的捜査官・仮名史郎っ！
   // https://annict.com/works/10973
   { annict_id: 10973, mal_id: 2132 },
-  // [2025-SUMMER] TV: cocoon ～ある夏の少女たちより～
+  // [2025-WINTER] TV: cocoon ～ある夏の少女たちより～
   // https://annict.com/works/10974
   { annict_id: 10974, mal_id: 55779 },
   // [2023-AUTUMN] TV: 絆のアリル セカンドシーズン
@@ -44528,4 +44528,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] OVA: プリンセス・プリンシパル Crown Handler OVA「Cost for Custom Cars」
   // https://annict.com/works/15367
   { annict_id: 15367, mal_id: 57167 },
+  // [2018-SUMMER] WEB: W Professors
+  // https://annict.com/works/15368
+  { annict_id: 15368, mal_id: 54276 },
 ]
