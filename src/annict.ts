@@ -44531,4 +44531,34 @@ export const annict: ArmEntry[] = [
   // [2018-SUMMER] WEB: W Professors
   // https://annict.com/works/15368
   { annict_id: 15368, mal_id: 54276 },
+  // [2025-WINTER] WEB: ヤミカラスと真夜中のぼうけん
+  // https://annict.com/works/15369
+  { annict_id: 15369 },
+  // [1975-SPRING] TV: 行け行けバンバン恐竜天国
+  // https://annict.com/works/15370
+  { annict_id: 15370 },
+  // [1975-SPRING] TV: バットマン(1968年)
+  // https://annict.com/works/15371
+  { annict_id: 15371 },
+  // [2016-AUTUMN] WEB: バラバラルルル
+  // https://annict.com/works/15372
+  { annict_id: 15372 },
+  // [1987-WINTER] TV: 電光石火バットマン
+  // https://annict.com/works/15373
+  { annict_id: 15373 },
+  // [1976-AUTUMN] TV: 爆走バギー大レース
+  // https://annict.com/works/15374
+  { annict_id: 15374 },
+  // [1976-AUTUMN] TV: それ行け!わんニャン
+  // https://annict.com/works/15375
+  { annict_id: 15375 },
+  // [2015-SPRING] WEB: 奈良ならナラナラ！
+  // https://annict.com/works/15376
+  { annict_id: 15376 },
+  // [2014-SUMMER] WEB: 氷結®おとな名作劇場 ヒョー劇！
+  // https://annict.com/works/15377
+  { annict_id: 15377 },
+  // [2007-AUTUMN] TV: リトル・アインシュタイン(シーズン2)
+  // https://annict.com/works/15378
+  { annict_id: 15378 },
 ]
