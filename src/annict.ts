@@ -15833,7 +15833,7 @@ export const annict: ArmEntry[] = [
   // [1971-SUMMER] TV: かわいい魔女サブリナ
   // https://annict.com/works/5310
   { annict_id: 5310 },
-  // [null-null] TV: それゆけ珍探偵ハウンドキャッツ
+  // [1977-SPRING] TV: それゆけ珍探偵ハウンドキャッツ
   // https://annict.com/works/5311
   { annict_id: 5311 },
   // [1970-AUTUMN] TV: アーチーでなくちゃ！ (ゆかいなアーチー)
@@ -44561,4 +44561,16 @@ export const annict: ArmEntry[] = [
   // [2007-AUTUMN] TV: リトル・アインシュタイン(シーズン2)
   // https://annict.com/works/15378
   { annict_id: 15378 },
+  // [1961-null] MOVIE: あっちはこっち
+  // https://annict.com/works/15379
+  { annict_id: 15379, mal_id: 22419 },
+  // [1977-SPRING] TV: まんが宇宙大作戦
+  // https://annict.com/works/15380
+  { annict_id: 15380 },
+  // [1977-SUMMER] TV: ジャンボゴリラの大冒険
+  // https://annict.com/works/15381
+  { annict_id: 15381 },
+  // [1977-SUMMER] TV: スーパー刑事ボロンゴ
+  // https://annict.com/works/15382
+  { annict_id: 15382 },
 ]
