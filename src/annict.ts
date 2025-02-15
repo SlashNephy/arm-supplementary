@@ -44573,4 +44573,13 @@ export const annict: ArmEntry[] = [
   // [1977-SUMMER] TV: スーパー刑事ボロンゴ
   // https://annict.com/works/15382
   { annict_id: 15382 },
+  // [1963-null] MOVIE: ゼロの発見
+  // https://annict.com/works/15383
+  { annict_id: 15383, mal_id: 59273 },
+  // [1976-null] MOVIE: 株券のはたらき
+  // https://annict.com/works/15384
+  { annict_id: 15384 },
+  // [1983-null] MOVIE: 図形の発見 数学をきずいた人々
+  // https://annict.com/works/15385
+  { annict_id: 15385 },
 ]
