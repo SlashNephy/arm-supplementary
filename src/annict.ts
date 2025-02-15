@@ -44590,5 +44590,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 15387 },
   // [null-null] TV: ぼっち・ざ・ろっく！2期
   // https://annict.com/works/15388
-  { annict_id: 15388 },
+  { annict_id: 15388, mal_id: 61006 },
 ]
