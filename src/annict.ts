@@ -44588,4 +44588,7 @@ export const annict: ArmEntry[] = [
   // [1990-null] MOVIE: 福児と弓彦 －海を渡ってきた牛飼い少年－
   // https://annict.com/works/15387
   { annict_id: 15387 },
+  // [null-null] TV: ぼっち・ざ・ろっく！2期
+  // https://annict.com/works/15388
+  { annict_id: 15388 },
 ]
