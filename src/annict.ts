@@ -44582,4 +44582,10 @@ export const annict: ArmEntry[] = [
   // [1983-null] MOVIE: 図形の発見 数学をきずいた人々
   // https://annict.com/works/15385
   { annict_id: 15385 },
+  // [1962-null] MOVIE: たのしい文明史 鉄ものがたり
+  // https://annict.com/works/15386
+  { annict_id: 15386 },
+  // [1990-null] MOVIE: 福児と弓彦 －海を渡ってきた牛飼い少年－
+  // https://annict.com/works/15387
+  { annict_id: 15387 },
 ]
