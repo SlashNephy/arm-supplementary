@@ -39992,7 +39992,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] TV: ゲーセン少女と異文化交流
   // https://annict.com/works/13849
   { annict_id: 13849, mal_id: 59689 },
-  // [null-null] TV: 死亡遊戯で飯を食う。
+  // [2026-WINTER] TV: 死亡遊戯で飯を食う。
   // https://annict.com/works/13850
   { annict_id: 13850, mal_id: 59711 },
   // [2011-AUTUMN] MOVIE: タンタンの冒険/ユニコーン号の秘密
