@@ -44596,13 +44596,13 @@ export const annict: ArmEntry[] = [
   { annict_id: 15389 },
   // [null-null] TV: とある科学の超電磁砲 第4期
   // https://annict.com/works/15390
-  { annict_id: 15390 },
+  { annict_id: 15390, mal_id: 61012 },
   // [null-null] TV: とある暗部の少女共棲
   // https://annict.com/works/15391
-  { annict_id: 15391 },
+  { annict_id: 15391, mal_id: 61014 },
   // [null-null] TV: 姫騎士様のヒモ
   // https://annict.com/works/15392
-  { annict_id: 15392 },
+  { annict_id: 15392, mal_id: 61015 },
   // [null-null] TV: レプリカだって、恋をする。
   // https://annict.com/works/15393
   { annict_id: 15393 },
