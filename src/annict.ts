@@ -44591,4 +44591,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: ぼっち・ざ・ろっく！2期
   // https://annict.com/works/15388
   { annict_id: 15388, mal_id: 61006 },
+  // [1980-WINTER] MOVIE: 鉄腕アトム 地球防衛隊
+  // https://annict.com/works/15389
+  { annict_id: 15389 },
 ]
