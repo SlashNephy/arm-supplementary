@@ -44594,4 +44594,13 @@ export const annict: ArmEntry[] = [
   // [1980-WINTER] MOVIE: 鉄腕アトム 地球防衛隊
   // https://annict.com/works/15389
   { annict_id: 15389 },
+  // [null-null] TV: とある科学の超電磁砲 第4期
+  // https://annict.com/works/15390
+  { annict_id: 15390 },
+  // [null-null] TV: とある暗部の少女共棲
+  // https://annict.com/works/15391
+  { annict_id: 15391 },
+  // [null-null] TV: 姫騎士様のヒモ
+  // https://annict.com/works/15392
+  { annict_id: 15392 },
 ]
