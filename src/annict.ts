@@ -44636,4 +44636,7 @@ export const annict: ArmEntry[] = [
   // [1931-null] MOVIE: 漫画 お伽のお爺さん
   // https://annict.com/works/15403
   { annict_id: 15403 },
+  // [1931-SPRING] MOVIE: タヌ吉のお話
+  // https://annict.com/works/15404
+  { annict_id: 15404, mal_id: 35490 },
 ]
