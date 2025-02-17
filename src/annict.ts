@@ -36296,7 +36296,7 @@ export const annict: ArmEntry[] = [
   // [1931-SPRING] MOVIE: 春の唄
   // https://annict.com/works/12614
   { annict_id: 12614, mal_id: 5868 },
-  // [1974-SUMMER] MOVIE: 魔女っ子メグちゃん (劇場版)
+  // [1974-SUMMER] MOVIE: 魔女っ子メグちゃん(劇場版)
   // https://annict.com/works/12615
   { annict_id: 12615 },
   // [1975-SPRING] MOVIE: 魔女っ子メグちゃん 月よりの使者
@@ -44615,4 +44615,16 @@ export const annict: ArmEntry[] = [
   // [1924-null] MOVIE: 赤垣源蔵徳利の別れ
   // https://annict.com/works/15396
   { annict_id: 15396 },
+  // [1973-null] MOVIE: たすけあいの歴史 －生命保険のはじまり－
+  // https://annict.com/works/15397
+  { annict_id: 15397 },
+  // [2017-SUMMER] MOVIE: 絶対15秒アニメーション！
+  // https://annict.com/works/15398
+  { annict_id: 15398, mal_id: 36157 },
+  // [2013-SUMMER] MOVIE: ほぼ15秒アニメーション
+  // https://annict.com/works/15399
+  { annict_id: 15399, mal_id: 55348 },
+  // [2023-SUMMER] WEB: 無限∞15秒アニメーション
+  // https://annict.com/works/15400
+  { annict_id: 15400, mal_id: 56380 },
 ]
