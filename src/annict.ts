@@ -44606,4 +44606,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: レプリカだって、恋をする。
   // https://annict.com/works/15393
   { annict_id: 15393, mal_id: 61013 },
+  // [1993-null] OVA: 鉄腕アトムの交通安全
+  // https://annict.com/works/15394
+  { annict_id: 15394, mal_id: 39358 },
 ]
