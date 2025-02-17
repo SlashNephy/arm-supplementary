@@ -44605,5 +44605,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 15392, mal_id: 61015 },
   // [null-null] TV: レプリカだって、恋をする。
   // https://annict.com/works/15393
-  { annict_id: 15393 },
+  { annict_id: 15393, mal_id: 61013 },
 ]
