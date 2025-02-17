@@ -44609,4 +44609,7 @@ export const annict: ArmEntry[] = [
   // [1993-null] OVA: 鉄腕アトムの交通安全
   // https://annict.com/works/15394
   { annict_id: 15394, mal_id: 39358 },
+  // [2025-null] OTHER: 人妻の唇は缶チューハイの味がして
+  // https://annict.com/works/15395
+  { annict_id: 15395 },
 ]
