@@ -44627,4 +44627,10 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] WEB: 無限∞15秒アニメーション
   // https://annict.com/works/15400
   { annict_id: 15400, mal_id: 56380 },
+  // [1929-WINTER] MOVIE: 蛙は蛙
+  // https://annict.com/works/15401
+  { annict_id: 15401, mal_id: 35491 },
+  // [1930-null] MOVIE: スクリーンミュージック 国歌 君が代
+  // https://annict.com/works/15402
+  { annict_id: 15402 },
 ]
