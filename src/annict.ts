@@ -44612,4 +44612,7 @@ export const annict: ArmEntry[] = [
   // [2025-null] OTHER: 人妻の唇は缶チューハイの味がして
   // https://annict.com/works/15395
   { annict_id: 15395 },
+  // [1924-null] MOVIE: 赤垣源蔵徳利の別れ
+  // https://annict.com/works/15396
+  { annict_id: 15396 },
 ]
