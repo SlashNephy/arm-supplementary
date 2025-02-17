@@ -44633,4 +44633,7 @@ export const annict: ArmEntry[] = [
   // [1930-null] MOVIE: スクリーンミュージック 国歌 君が代
   // https://annict.com/works/15402
   { annict_id: 15402 },
+  // [1931-null] MOVIE: 漫画 お伽のお爺さん
+  // https://annict.com/works/15403
+  { annict_id: 15403 },
 ]
