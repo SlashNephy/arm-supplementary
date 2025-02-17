@@ -40700,7 +40700,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] TV: 中禅寺先生物怪講義録 先生が謎を解いてしまうから。
   // https://annict.com/works/14089
   { annict_id: 14089, mal_id: 60009 },
-  // [1928-SUMMER] MOVIE: 文福茶釜
+  // [1928-SUMMER] MOVIE: 漫画 文福茶釜
   // https://annict.com/works/14090
   { annict_id: 14090, mal_id: 24881 },
   // [1928-AUTUMN] MOVIE: 孫悟空
@@ -44611,7 +44611,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15394, mal_id: 39358 },
   // [2025-null] OTHER: 人妻の唇は缶チューハイの味がして
   // https://annict.com/works/15395
-  { annict_id: 15395 },
+  { annict_id: 15395, mal_id: 61023 },
   // [1924-null] MOVIE: 赤垣源蔵徳利の別れ
   // https://annict.com/works/15396
   { annict_id: 15396 },
