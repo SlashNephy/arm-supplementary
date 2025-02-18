@@ -44651,4 +44651,13 @@ export const annict: ArmEntry[] = [
   // [1979-WINTER] TV: アダムスのおばけ一家
   // https://annict.com/works/15408
   { annict_id: 15408 },
+  // [1932-null] MOVIE: ヴォルガの船唄 扇光楽
+  // https://annict.com/works/15409
+  { annict_id: 15409 },
+  // [1953-SPRING] MOVIE: 小人の電話
+  // https://annict.com/works/15410
+  { annict_id: 15410 },
+  // [1933-null] MOVIE: 旋律
+  // https://annict.com/works/15411
+  { annict_id: 15411 },
 ]
