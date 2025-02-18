@@ -44639,4 +44639,7 @@ export const annict: ArmEntry[] = [
   // [1931-SPRING] MOVIE: タヌ吉のお話
   // https://annict.com/works/15404
   { annict_id: 15404, mal_id: 35490 },
+  // [2025-AUTUMN] TV: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが
+  // https://annict.com/works/15405
+  { annict_id: 15405, mal_id: 61026 },
 ]
