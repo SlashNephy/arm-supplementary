@@ -15824,7 +15824,7 @@ export const annict: ArmEntry[] = [
   // [1979-SUMMER] TV: まんがオールスター おもしろオリンピック
   // https://annict.com/works/5307
   { annict_id: 5307 },
-  // [null-null] TV: クマゴローの宇宙猛レース
+  // [1978-SUMMER] TV: クマゴローの宇宙猛レース
   // https://annict.com/works/5308
   { annict_id: 5308 },
   // [2006-SUMMER] TV: ポパイの大冒険
@@ -44642,4 +44642,13 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] TV: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが
   // https://annict.com/works/15405
   { annict_id: 15405, mal_id: 61026 },
+  // [1978-WINTER] TV: わんぱくジョーズ
+  // https://annict.com/works/15406
+  { annict_id: 15406 },
+  // [1978-SUMMER] TV: おとぼけ探偵団の大冒険
+  // https://annict.com/works/15407
+  { annict_id: 15407 },
+  // [1979-WINTER] TV: アダムスのおばけ一家
+  // https://annict.com/works/15408
+  { annict_id: 15408 },
 ]
