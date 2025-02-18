@@ -44681,4 +44681,13 @@ export const annict: ArmEntry[] = [
   // [1947-null] MOVIE: 続々大漁（続く大漁）
   // https://annict.com/works/15418
   { annict_id: 15418 },
+  // [1949-AUTUMN] MOVIE: 王様のしっぽ
+  // https://annict.com/works/15419
+  { annict_id: 15419, mal_id: 7526 },
+  // [1949-null] MOVIE: アカ吉の智恵
+  // https://annict.com/works/15420
+  { annict_id: 15420 },
+  // [null-null] MOVIE: 正チャンの冒険
+  // https://annict.com/works/15421
+  { annict_id: 15421 },
 ]
