@@ -44660,4 +44660,25 @@ export const annict: ArmEntry[] = [
   // [1933-null] MOVIE: 旋律
   // https://annict.com/works/15411
   { annict_id: 15411 },
+  // [null-null] MOVIE: のらくろ二等兵（森紅作品）
+  // https://annict.com/works/15412
+  { annict_id: 15412 },
+  // [1934-null] MOVIE: 漫画 おい等の生命線
+  // https://annict.com/works/15413
+  { annict_id: 15413 },
+  // [1937-null] MOVIE: だんごの行方
+  // https://annict.com/works/15414
+  { annict_id: 15414 },
+  // [1939-null] MOVIE: 海の荒鷲
+  // https://annict.com/works/15415
+  { annict_id: 15415 },
+  // [1938-SPRING] MOVIE: 空の荒鷲
+  // https://annict.com/works/15416
+  { annict_id: 15416, mal_id: 31948 },
+  // [1942-null] MOVIE: 漫画 敵機来らば
+  // https://annict.com/works/15417
+  { annict_id: 15417 },
+  // [1947-null] MOVIE: 続々大漁（続く大漁）
+  // https://annict.com/works/15418
+  { annict_id: 15418 },
 ]
