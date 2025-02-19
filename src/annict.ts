@@ -44726,4 +44726,7 @@ export const annict: ArmEntry[] = [
   // [1960-null] MOVIE: ファッション
   // https://annict.com/works/15433
   { annict_id: 15433, mal_id: 7020 },
+  // [1963-null] MOVIE: 軌跡
+  // https://annict.com/works/15434
+  { annict_id: 15434, mal_id: 29633 },
 ]
