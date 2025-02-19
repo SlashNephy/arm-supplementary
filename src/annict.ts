@@ -44729,4 +44729,7 @@ export const annict: ArmEntry[] = [
   // [1963-null] MOVIE: 軌跡
   // https://annict.com/works/15434
   { annict_id: 15434, mal_id: 29633 },
+  // [2012-SUMMER] TV: おおかみこどもの雨と雪×ハウス食品 CM「一緒だと、あったかいね。」
+  // https://annict.com/works/15435
+  { annict_id: 15435, mal_id: 37418 },
 ]
