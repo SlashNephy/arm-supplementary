@@ -44750,7 +44750,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] TV: 明治安田 CM「MYリンクコーディネーター 亜希の成長」篇
   // https://annict.com/works/15441
   { annict_id: 15441 },
-  // [1956-null] MOVIE: 五匹の子猿たち
+  // [1956-SPRING] MOVIE: 五匹の子猿たち
   // https://annict.com/works/15442
   { annict_id: 15442, mal_id: 29918 },
   // [1958-null] MOVIE: こぶとり
