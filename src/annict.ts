@@ -39641,7 +39641,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: Dark Machine
   // https://annict.com/works/13731
   { annict_id: 13731, mal_id: 59415 },
-  // [2025-null] TV: 勇者パーティーを追放された白魔導師、Sランク冒険者に拾われる ～この白魔導師が規格外すぎる～
+  // [2025-SUMMER] TV: 勇者パーティーを追放された白魔導師、Sランク冒険者に拾われる ～この白魔導師が規格外すぎる～
   // https://annict.com/works/13732
   { annict_id: 13732, mal_id: 59424 },
   // [2024-AUTUMN] TV: ネガポジアングラー
@@ -44723,4 +44723,7 @@ export const annict: ArmEntry[] = [
   // [2022-WINTER] WEB: メタモンと！プリンのステージ
   // https://annict.com/works/15432
   { annict_id: 15432, mal_id: 51424 },
+  // [1960-null] MOVIE: ファッション
+  // https://annict.com/works/15433
+  { annict_id: 15433, mal_id: 7020 },
 ]
