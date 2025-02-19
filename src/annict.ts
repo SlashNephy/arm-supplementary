@@ -44708,4 +44708,10 @@ export const annict: ArmEntry[] = [
   // [2018-AUTUMN] MOVIE: スモールフット
   // https://annict.com/works/15427
   { annict_id: 15427 },
+  // [1965-AUTUMN] MOVIE: M.S.CHANDA
+  // https://annict.com/works/15428
+  { annict_id: 15428, mal_id: 29655 },
+  // [1961-null] MOVIE: 池田屋騒動
+  // https://annict.com/works/15429
+  { annict_id: 15429, mal_id: 29651 },
 ]
