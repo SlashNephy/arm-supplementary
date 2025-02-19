@@ -44693,4 +44693,13 @@ export const annict: ArmEntry[] = [
   // [1932-null] MOVIE: 文福茶釜
   // https://annict.com/works/15422
   { annict_id: 15422, mal_id: 61000 },
+  // [1979-SPRING] TV: ムクムクおやじとゴーゴー娘
+  // https://annict.com/works/15423
+  { annict_id: 15423 },
+  // [1977-SUMMER] TV: 爆走クルマくん
+  // https://annict.com/works/15424
+  { annict_id: 15424 },
+  // [1977-AUTUMN] TV: ビチ探偵の大冒険
+  // https://annict.com/works/15425
+  { annict_id: 15425 },
 ]
