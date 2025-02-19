@@ -44714,4 +44714,13 @@ export const annict: ArmEntry[] = [
   // [1961-null] MOVIE: 池田屋騒動
   // https://annict.com/works/15429
   { annict_id: 15429, mal_id: 29651 },
+  // [2022-WINTER] WEB: メタモンと！おやすみモクロー
+  // https://annict.com/works/15430
+  { annict_id: 15430, mal_id: 50840 },
+  // [2022-WINTER] WEB: メタモンと！ウパーとおかたづけ
+  // https://annict.com/works/15431
+  { annict_id: 15431, mal_id: 51150 },
+  // [2022-WINTER] WEB: メタモンと！プリンのステージ
+  // https://annict.com/works/15432
+  { annict_id: 15432, mal_id: 51424 },
 ]
