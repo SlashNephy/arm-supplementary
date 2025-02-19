@@ -44702,4 +44702,10 @@ export const annict: ArmEntry[] = [
   // [1977-AUTUMN] TV: ビチ探偵の大冒険
   // https://annict.com/works/15425
   { annict_id: 15425 },
+  // [2020-AUTUMN] OVA: 弱虫スクービーの大冒険
+  // https://annict.com/works/15426
+  { annict_id: 15426 },
+  // [2018-AUTUMN] MOVIE: スモールフット
+  // https://annict.com/works/15427
+  { annict_id: 15427 },
 ]
