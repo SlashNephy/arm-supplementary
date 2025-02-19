@@ -44765,4 +44765,7 @@ export const annict: ArmEntry[] = [
   // [1958-SPRING] MOVIE: ぶんぶくちゃがま
   // https://annict.com/works/15446
   { annict_id: 15446, mal_id: 29921 },
+  // [1957-SUMMER] MOVIE: ふしぎな太鼓
+  // https://annict.com/works/15447
+  { annict_id: 15447, mal_id: 29919 },
 ]
