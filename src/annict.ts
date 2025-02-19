@@ -44735,4 +44735,34 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] MOVIE: イヌとイタリア人、お断り！
   // https://annict.com/works/15436
   { annict_id: 15436 },
+  // [2015-SUMMER] TV: GREEN DA・KA・RA×バケモノの子 CM
+  // https://annict.com/works/15437
+  { annict_id: 15437, mal_id: 31108 },
+  // [2018-SUMMER] TV: GREEN DA・KA・RA×未来のミライ CM
+  // https://annict.com/works/15438
+  { annict_id: 15438, mal_id: 38028 },
+  // [2020-AUTUMN] WEB: 明治安田生命 CM「亜希のちかい」篇
+  // https://annict.com/works/15439
+  { annict_id: 15439 },
+  // [2023-AUTUMN] TV: 明治安田生命 CM「ＭＹリンクコーディネーター 亜希の手紙」篇
+  // https://annict.com/works/15440
+  { annict_id: 15440 },
+  // [2024-WINTER] TV: 明治安田 CM「MYリンクコーディネーター 亜希の成長」篇
+  // https://annict.com/works/15441
+  { annict_id: 15441 },
+  // [1956-null] MOVIE: 五匹の子猿たち
+  // https://annict.com/works/15442
+  { annict_id: 15442, mal_id: 29918 },
+  // [1958-null] MOVIE: こぶとり
+  // https://annict.com/works/15443
+  { annict_id: 15443 },
+  // [1956-AUTUMN] MOVIE: ちびくろ・さんぼのとらたいじ
+  // https://annict.com/works/15444
+  { annict_id: 15444, mal_id: 29947 },
+  // [1957-WINTER] MOVIE: ちびくろ・さんぼとふたごのおとうと
+  // https://annict.com/works/15445
+  { annict_id: 15445, mal_id: 29948 },
+  // [1958-SPRING] MOVIE: ぶんぶくちゃがま
+  // https://annict.com/works/15446
+  { annict_id: 15446, mal_id: 29921 },
 ]
