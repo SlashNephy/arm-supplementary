@@ -44768,4 +44768,28 @@ export const annict: ArmEntry[] = [
   // [1957-SUMMER] MOVIE: ふしぎな太鼓
   // https://annict.com/works/15447
   { annict_id: 15447, mal_id: 29919 },
+  // [1959-SUMMER] MOVIE: 王さまになったきつね
+  // https://annict.com/works/15448
+  { annict_id: 15448, mal_id: 29922 },
+  // [1992-null] MOVIE: 少年と子だぬき
+  // https://annict.com/works/15449
+  { annict_id: 15449 },
+  // [1958-SUMMER] MOVIE: ペンギンぼうや ルルとキキ
+  // https://annict.com/works/15450
+  { annict_id: 15450, mal_id: 53139 },
+  // [2016-AUTUMN] MOVIE: ちぇんくろ学園
+  // https://annict.com/works/15451
+  { annict_id: 15451, mal_id: 34762 },
+  // [2016-AUTUMN] WEB: くろにくるがーるず
+  // https://annict.com/works/15452
+  { annict_id: 15452, mal_id: 34764 },
+  // [2017-WINTER] TV: ちぇいん黒にくる!!
+  // https://annict.com/works/15453
+  { annict_id: 15453, mal_id: 34765 },
+  // [2017-SPRING] WEB: クイズ!! ID-0
+  // https://annict.com/works/15454
+  { annict_id: 15454 },
+  // [2017-SUMMER] TV: グルグルぷちあにめ劇場
+  // https://annict.com/works/15455
+  { annict_id: 15455, mal_id: 35909 },
 ]
