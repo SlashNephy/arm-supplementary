@@ -25991,7 +25991,7 @@ export const annict: ArmEntry[] = [
   // [2022-SUMMER] WEB: カーズ・オン・ザ・ロード
   // https://annict.com/works/9101
   { annict_id: 9101 },
-  // [2025-WINTER] WEB: ウィン OR ルーズ
+  // [2025-WINTER] WEB: ウィン or ルーズ
   // https://annict.com/works/9102
   { annict_id: 9102 },
   // [2021-AUTUMN] WEB: グレッグのダメ日記
@@ -44732,4 +44732,7 @@ export const annict: ArmEntry[] = [
   // [2012-SUMMER] TV: おおかみこどもの雨と雪×ハウス食品 CM「一緒だと、あったかいね。」
   // https://annict.com/works/15435
   { annict_id: 15435, mal_id: 37418 },
+  // [2022-AUTUMN] MOVIE: イヌとイタリア人、お断り！
+  // https://annict.com/works/15436
+  { annict_id: 15436 },
 ]
