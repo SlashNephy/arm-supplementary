@@ -44807,4 +44807,7 @@ export const annict: ArmEntry[] = [
   // [2019-AUTUMN] MOVIE: ナタ～魔童降臨～
   // https://annict.com/works/15460
   { annict_id: 15460 },
+  // [null-null] OTHER: 気になってる人が男じゃなかった
+  // https://annict.com/works/15461
+  { annict_id: 15461, mal_id: 61035 },
 ]
