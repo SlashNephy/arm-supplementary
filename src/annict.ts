@@ -43448,7 +43448,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 嘆きの亡霊は引退したい 第2クール
   // https://annict.com/works/15006
   { annict_id: 15006, mal_id: 60619 },
-  // [null-null] TV: やたらやらしい深見くん
+  // [2025-SPRING] TV: やたらやらしい深見くん
   // https://annict.com/works/15007
   { annict_id: 15007 },
   // [null-null] TV: ギルティホール～教え子しか指名できない店～
