@@ -44792,4 +44792,10 @@ export const annict: ArmEntry[] = [
   // [2017-SUMMER] TV: グルグルぷちあにめ劇場
   // https://annict.com/works/15455
   { annict_id: 15455, mal_id: 35909 },
+  // [2009-WINTER] OVA: 世にも奇妙な漫☆画太郎
+  // https://annict.com/works/15456
+  { annict_id: 15456, mal_id: 31317 },
+  // [2010-WINTER] OTHER: 魔法使い!?まなみ
+  // https://annict.com/works/15457
+  { annict_id: 15457 },
 ]
