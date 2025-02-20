@@ -44804,4 +44804,7 @@ export const annict: ArmEntry[] = [
   // [1964-null] MOVIE: 男と女と犬
   // https://annict.com/works/15459
   { annict_id: 15459, mal_id: 29635 },
+  // [2019-AUTUMN] MOVIE: ナタ～魔童降臨～
+  // https://annict.com/works/15460
+  { annict_id: 15460 },
 ]
