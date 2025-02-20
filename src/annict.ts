@@ -44816,4 +44816,13 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] WEB: キラキラ星野すちゃぁ
   // https://annict.com/works/15463
   { annict_id: 15463 },
+  // [1965-null] MOVIE: SAMURAI 侍
+  // https://annict.com/works/15464
+  { annict_id: 15464, mal_id: 29637 },
+  // [1963-null] MOVIE: 時間
+  // https://annict.com/works/15465
+  { annict_id: 15465, mal_id: 29645 },
+  // [1964-null] MOVIE: 潜水艦カシオペア
+  // https://annict.com/works/15466
+  { annict_id: 15466, mal_id: 29647 },
 ]
