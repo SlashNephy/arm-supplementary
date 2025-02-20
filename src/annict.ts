@@ -36346,7 +36346,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12630, mal_id: 17673 },
   // [null-null] WEB: ポケモンコンシェルジュ 新エピソード
   // https://annict.com/works/12631
-  { annict_id: 12631 },
+  { annict_id: 12631, mal_id: 58953 },
   // [2024-AUTUMN] TV: 嘆きの亡霊は引退したい
   // https://annict.com/works/12632
   { annict_id: 12632, mal_id: 58172, syobocal_tid: 7218 },
@@ -44798,4 +44798,10 @@ export const annict: ArmEntry[] = [
   // [2010-WINTER] OTHER: 魔法使い!?まなみ
   // https://annict.com/works/15457
   { annict_id: 15457 },
+  // [1967-null] MOVIE: 花
+  // https://annict.com/works/15458
+  { annict_id: 15458, mal_id: 29597 },
+  // [1964-null] MOVIE: 男と女と犬
+  // https://annict.com/works/15459
+  { annict_id: 15459, mal_id: 29635 },
 ]
