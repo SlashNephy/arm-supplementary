@@ -44828,4 +44828,7 @@ export const annict: ArmEntry[] = [
   // [1966-AUTUMN] MOVIE: 追跡
   // https://annict.com/works/15467
   { annict_id: 15467, mal_id: 29649 },
+  // [1963-null] MOVIE: 両人侍誉皮切
+  // https://annict.com/works/15468
+  { annict_id: 15468, mal_id: 29653 },
 ]
