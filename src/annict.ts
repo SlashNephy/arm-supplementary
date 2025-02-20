@@ -44825,4 +44825,7 @@ export const annict: ArmEntry[] = [
   // [1964-null] MOVIE: 潜水艦カシオペア
   // https://annict.com/works/15466
   { annict_id: 15466, mal_id: 29647 },
+  // [1966-AUTUMN] MOVIE: 追跡
+  // https://annict.com/works/15467
+  { annict_id: 15467, mal_id: 29649 },
 ]
