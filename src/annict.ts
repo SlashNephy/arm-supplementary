@@ -44834,4 +44834,10 @@ export const annict: ArmEntry[] = [
   // [1975-null] MOVIE: STONE
   // https://annict.com/works/15469
   { annict_id: 15469, mal_id: 29657 },
+  // [2024-SPRING] MOVIE: ブルー きみは大丈夫
+  // https://annict.com/works/15470
+  { annict_id: 15470 },
+  // [2024-WINTER] WEB: オリオンと暗闇
+  // https://annict.com/works/15471
+  { annict_id: 15471 },
 ]
