@@ -44831,4 +44831,7 @@ export const annict: ArmEntry[] = [
   // [1963-null] MOVIE: 両人侍誉皮切
   // https://annict.com/works/15468
   { annict_id: 15468, mal_id: 29653 },
+  // [1975-null] MOVIE: STONE
+  // https://annict.com/works/15469
+  { annict_id: 15469, mal_id: 29657 },
 ]
