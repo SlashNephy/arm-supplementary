@@ -44858,4 +44858,13 @@ export const annict: ArmEntry[] = [
   // [1997-null] OVA: ネバー・ギブ・アップ
   // https://annict.com/works/15477
   { annict_id: 15477 },
+  // [1968-null] MOVIE: かげ
+  // https://annict.com/works/15478
+  { annict_id: 15478, mal_id: 29677 },
+  // [1971-null] MOVIE: 鬼恋歌
+  // https://annict.com/works/15479
+  { annict_id: 15479, mal_id: 29679 },
+  // [1975-null] MOVIE: 驚き盤
+  // https://annict.com/works/15480
+  { annict_id: 15480, mal_id: 29681 },
 ]
