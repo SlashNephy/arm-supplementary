@@ -44867,4 +44867,19 @@ export const annict: ArmEntry[] = [
   // [1975-null] MOVIE: 驚き盤
   // https://annict.com/works/15480
   { annict_id: 15480, mal_id: 29681 },
+  // [null-null] TV: 猫と竜
+  // https://annict.com/works/15481
+  { annict_id: 15481, mal_id: 61048 },
+  // [2025-WINTER] MOVIE: ギャラクシーアパート☆コスモヒルズ
+  // https://annict.com/works/15482
+  { annict_id: 15482, mal_id: 61038 },
+  // [2025-WINTER] MOVIE: 星の子どもとはじまりの樹
+  // https://annict.com/works/15483
+  { annict_id: 15483, mal_id: 61039 },
+  // [2025-WINTER] MOVIE: TRUST
+  // https://annict.com/works/15484
+  { annict_id: 15484, mal_id: 61040 },
+  // [2025-WINTER] MOVIE: ダイブイン！
+  // https://annict.com/works/15485
+  { annict_id: 15485, mal_id: 61041 },
 ]
