@@ -44852,4 +44852,7 @@ export const annict: ArmEntry[] = [
   // [1968-null] MOVIE: 透明人間
   // https://annict.com/works/15475
   { annict_id: 15475, mal_id: 29667 },
+  // [1966-null] MOVIE: 月夜とめがね
+  // https://annict.com/works/15476
+  { annict_id: 15476, mal_id: 33691 },
 ]
