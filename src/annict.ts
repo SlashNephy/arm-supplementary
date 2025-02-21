@@ -44855,4 +44855,7 @@ export const annict: ArmEntry[] = [
   // [1966-null] MOVIE: 月夜とめがね
   // https://annict.com/works/15476
   { annict_id: 15476, mal_id: 33691 },
+  // [1997-null] OVA: ネバー・ギブ・アップ
+  // https://annict.com/works/15477
+  { annict_id: 15477 },
 ]
