@@ -44882,4 +44882,13 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] MOVIE: ダイブイン！
   // https://annict.com/works/15485
   { annict_id: 15485, mal_id: 61041 },
+  // [2018-SUMMER] WEB: 【萩の月CM】林静一アニメーション「夏」篇（2018年）
+  // https://annict.com/works/15486
+  { annict_id: 15486 },
+  // [2018-SUMMER] WEB: 【萩の月CM】林静一アニメーション「通年」篇（2018年）
+  // https://annict.com/works/15487
+  { annict_id: 15487 },
+  // [2019-WINTER] WEB: 【萩の月CM】林静一アニメーション「秋」篇（2018年）
+  // https://annict.com/works/15488
+  { annict_id: 15488 },
 ]
