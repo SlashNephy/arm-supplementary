@@ -44894,4 +44894,7 @@ export const annict: ArmEntry[] = [
   // [2019-WINTER] WEB: 【萩の月CM】林静一アニメーション「冬」篇（2018年）
   // https://annict.com/works/15489
   { annict_id: 15489 },
+  // [2019-WINTER] WEB: 【萩の月CM】林静一アニメーション「春」篇（2018年）
+  // https://annict.com/works/15490
+  { annict_id: 15490 },
 ]
