@@ -44897,4 +44897,19 @@ export const annict: ArmEntry[] = [
   // [2019-WINTER] WEB: 【萩の月CM】林静一アニメーション「春」篇（2018年）
   // https://annict.com/works/15490
   { annict_id: 15490 },
+  // [2023-AUTUMN] WEB: 【萩の月CM】林静一アニメーション「春」篇（2023年）
+  // https://annict.com/works/15491
+  { annict_id: 15491 },
+  // [2023-AUTUMN] WEB: 【萩の月CM】林静一アニメーション「通年」篇（2023年）
+  // https://annict.com/works/15492
+  { annict_id: 15492 },
+  // [2023-AUTUMN] WEB: 【萩の月CM】林静一アニメーション「夏」篇（2023年）
+  // https://annict.com/works/15493
+  { annict_id: 15493 },
+  // [2023-AUTUMN] WEB: 【萩の月CM】林静一アニメーション「秋」篇（2023年）
+  // https://annict.com/works/15494
+  { annict_id: 15494 },
+  // [2023-AUTUMN] WEB: 【萩の月CM】林静一アニメーション「冬」篇（2023年）
+  // https://annict.com/works/15495
+  { annict_id: 15495 },
 ]
