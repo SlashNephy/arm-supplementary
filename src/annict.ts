@@ -44840,4 +44840,16 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] WEB: オリオンと暗闇
   // https://annict.com/works/15471
   { annict_id: 15471 },
+  // [1977-SUMMER] MOVIE: カルマ
+  // https://annict.com/works/15472
+  { annict_id: 15472, mal_id: 29661 },
+  // [1970-null] MOVIE: 新・天地創造
+  // https://annict.com/works/15473
+  { annict_id: 15473, mal_id: 29673 },
+  // [1971-AUTUMN] MOVIE: 娑羅双樹の花の色
+  // https://annict.com/works/15474
+  { annict_id: 15474, mal_id: 29675 },
+  // [1968-null] MOVIE: 透明人間
+  // https://annict.com/works/15475
+  { annict_id: 15475, mal_id: 29667 },
 ]
