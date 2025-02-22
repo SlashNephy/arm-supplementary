@@ -36374,7 +36374,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] MOVIE: 映画 クレヨンしんちゃん オラたちの恐竜日記
   // https://annict.com/works/12640
   { annict_id: 12640, mal_id: 57499 },
-  // [2025-null] TV: ニャイト・オブ・ザ・リビングキャット
+  // [2025-SUMMER] TV: ニャイト・オブ・ザ・リビングキャット
   // https://annict.com/works/12641
   { annict_id: 12641, mal_id: 58197 },
   // [2024-AUTUMN] MOVIE: 劇場版 忍たま乱太郎 ドクタケ忍者隊最強の軍師
