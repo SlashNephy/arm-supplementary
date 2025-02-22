@@ -44918,4 +44918,7 @@ export const annict: ArmEntry[] = [
   // [1972-null] MOVIE: MADE IN JAPAN
   // https://annict.com/works/15497
   { annict_id: 15497, mal_id: 30673 },
+  // [2025-SPRING] MOVIE: 天才ねこモーリスとゆかいな仲間たち
+  // https://annict.com/works/15498
+  { annict_id: 15498 },
 ]
