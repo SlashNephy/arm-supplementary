@@ -44912,4 +44912,10 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] WEB: 【萩の月CM】林静一アニメーション「冬」篇（2023年）
   // https://annict.com/works/15495
   { annict_id: 15495 },
+  // [1971-null] MOVIE: いったい奴は何者だ
+  // https://annict.com/works/15496
+  { annict_id: 15496 },
+  // [1972-null] MOVIE: MADE IN JAPAN
+  // https://annict.com/works/15497
+  { annict_id: 15497, mal_id: 30673 },
 ]
