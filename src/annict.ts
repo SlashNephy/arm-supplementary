@@ -44921,4 +44921,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] MOVIE: 天才ねこモーリスとゆかいな仲間たち
   // https://annict.com/works/15498
   { annict_id: 15498 },
+  // [2025-WINTER] MOVIE: 神さまの貨物
+  // https://annict.com/works/15499
+  { annict_id: 15499 },
 ]
