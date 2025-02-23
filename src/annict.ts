@@ -44924,4 +44924,10 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] MOVIE: 神さまの貨物
   // https://annict.com/works/15499
   { annict_id: 15499 },
+  // [1980-SUMMER] TV: トムとジェリー大行進
+  // https://annict.com/works/15500
+  { annict_id: 15500 },
+  // [1980-WINTER] TV: スーパー007
+  // https://annict.com/works/15501
+  { annict_id: 15501 },
 ]
