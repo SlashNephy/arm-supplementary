@@ -42988,7 +42988,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14852, mal_id: 60444 },
   // [2025-SPRING] TV: 機動戦士Gundam GQuuuuuuX
   // https://annict.com/works/14853
-  { annict_id: 14853, mal_id: 60449 },
+  { annict_id: 14853, mal_id: 60449, syobocal_tid: 7364 },
   // [2025-WINTER] MOVIE: 機動戦士Gundam GQuuuuuuX -Beginning-
   // https://annict.com/works/14854
   { annict_id: 14854 },
@@ -43624,7 +43624,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15064, mal_id: 60714 },
   // [2025-WINTER] WEB: 悪役令嬢転生おじさん ミニ
   // https://annict.com/works/15065
-  { annict_id: 15065 },
+  { annict_id: 15065, mal_id: 61049 },
   // [2025-SUMMER] WEB: My Melody ＆ Kuromi
   // https://annict.com/works/15066
   { annict_id: 15066 },
