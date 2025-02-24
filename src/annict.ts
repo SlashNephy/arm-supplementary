@@ -40114,7 +40114,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13890, mal_id: 59730, syobocal_tid: 7328 },
   // [2025-SPRING] TV: 前橋ウィッチーズ
   // https://annict.com/works/13891
-  { annict_id: 13891, mal_id: 59744 },
+  { annict_id: 13891, mal_id: 59744, syobocal_tid: 7368 },
   // [2024-SUMMER] WEB: アクロトリップ ミニ劇場
   // https://annict.com/works/13893
   { annict_id: 13893 },
