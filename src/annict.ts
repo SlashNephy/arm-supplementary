@@ -21574,7 +21574,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 7402, mal_id: 41468, syobocal_tid: 6494 },
   // [2020-WINTER] OTHER: ありふれた職業で世界最強 プロローグ
   // https://annict.com/works/7403
-  { annict_id: 7403 },
+  { annict_id: 7403, mal_id: 46971 },
   // [2020-WINTER] WEB: アイドルマスター シンデレラガールズ劇場 Extra Stage
   // https://annict.com/works/7404
   { annict_id: 7404, mal_id: 41299 },
@@ -44930,4 +44930,7 @@ export const annict: ArmEntry[] = [
   // [1980-WINTER] TV: スーパー007
   // https://annict.com/works/15501
   { annict_id: 15501 },
+  // [null-null] TV: 忍者と極道
+  // https://annict.com/works/15502
+  { annict_id: 15502 },
 ]
