@@ -26368,7 +26368,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9258, mal_id: 50695, syobocal_tid: 6809 },
   // [2025-SPRING] TV: スライム倒して300年、知らないうちにレベルMAXになってました 〜そのに〜
   // https://annict.com/works/9259
-  { annict_id: 9259, mal_id: 50738 },
+  { annict_id: 9259, mal_id: 50738, syobocal_tid: 7366 },
   // [2023-WINTER] TV: お隣の天使様にいつの間にか駄目人間にされていた件
   // https://annict.com/works/9260
   { annict_id: 9260, mal_id: 50739, syobocal_tid: 6566 },
