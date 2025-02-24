@@ -44944,5 +44944,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 15505, mal_id: 61072 },
   // [null-null] TV: ウタヒメドリーム
   // https://annict.com/works/15506
-  { annict_id: 15506 },
+  { annict_id: 15506, mal_id: 61073 },
 ]
