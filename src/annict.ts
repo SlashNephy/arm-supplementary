@@ -44942,4 +44942,7 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: 終末ツーリング
   // https://annict.com/works/15505
   { annict_id: 15505, mal_id: 61072 },
+  // [null-null] TV: ウタヒメドリーム
+  // https://annict.com/works/15506
+  { annict_id: 15506 },
 ]
