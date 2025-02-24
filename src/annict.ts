@@ -37162,7 +37162,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12903, mal_id: 58714, syobocal_tid: 7216 },
   // [2025-SPRING] TV: 忍者と殺し屋のふたりぐらし
   // https://annict.com/works/12904
-  { annict_id: 12904, mal_id: 58725 },
+  { annict_id: 12904, mal_id: 58725, syobocal_tid: 7363 },
   // [2024-SPRING] WEB: 餓狼伝: The Way of the Lone Wolf
   // https://annict.com/works/12905
   { annict_id: 12905, mal_id: 58717 },
@@ -39823,7 +39823,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13791, mal_id: 37482 },
   // [2025-SPRING] TV: ウィッチウォッチ
   // https://annict.com/works/13792
-  { annict_id: 13792, mal_id: 59597 },
+  { annict_id: 13792, mal_id: 59597, syobocal_tid: 7367 },
   // [2024-WINTER] MOVIE: シロッコと風の王国
   // https://annict.com/works/13793
   { annict_id: 13793 },
