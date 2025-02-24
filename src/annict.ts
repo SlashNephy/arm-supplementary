@@ -44933,4 +44933,10 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 忍者と極道
   // https://annict.com/works/15502
   { annict_id: 15502 },
+  // [1985-SUMMER] OVA: マイティ・オーボッツ
+  // https://annict.com/works/15503
+  { annict_id: 15503, mal_id: 8130 },
+  // [1985-AUTUMN] TV: 小さな森の精 あいあむ!スマーフ
+  // https://annict.com/works/15504
+  { annict_id: 15504 },
 ]
