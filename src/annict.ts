@@ -35843,7 +35843,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 父は英雄、母は精霊、娘の私は転生者。
   // https://annict.com/works/12461
   { annict_id: 12461, mal_id: 57888 },
-  // [null-null] TV: 盾の勇者の成り上がり Season4
+  // [2025-SUMMER] TV: 盾の勇者の成り上がり Season4
   // https://annict.com/works/12462
   { annict_id: 12462, mal_id: 57907 },
   // [2024-AUTUMN] MOVIE: PUI PUI モルカー ザ・ムービー MOLMAX
