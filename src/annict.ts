@@ -4154,7 +4154,7 @@ export const annict: ArmEntry[] = [
   // [1989-SPRING] TV: 天空戦記シュラト
   // https://annict.com/works/1386
   { annict_id: 1386, mal_id: 2113 },
-  // [1989-AUTUMN] TV: 手塚治虫の新作アニメ　ジャングル大帝
+  // [1989-AUTUMN] TV: 手塚治虫の新作アニメ ジャングル大帝
   // https://annict.com/works/1387
   { annict_id: 1387, mal_id: 2556 },
   // [1997-SPRING] TV: 手塚治虫の旧約聖書物語
