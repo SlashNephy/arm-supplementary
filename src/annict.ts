@@ -44945,4 +44945,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: ウタヒメドリーム
   // https://annict.com/works/15506
   { annict_id: 15506, mal_id: 61073 },
+  // [1963-AUTUMN] TV: A Boy Named Charlie Brown(1963年)
+  // https://annict.com/works/15507
+  { annict_id: 15507 },
 ]
