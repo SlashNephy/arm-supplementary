@@ -44948,4 +44948,7 @@ export const annict: ArmEntry[] = [
   // [1963-AUTUMN] TV: A Boy Named Charlie Brown(1963年)
   // https://annict.com/works/15507
   { annict_id: 15507 },
+  // [1984-AUTUMN] MOVIE: S＝13
+  // https://annict.com/works/15508
+  { annict_id: 15508, mal_id: 42246 },
 ]
