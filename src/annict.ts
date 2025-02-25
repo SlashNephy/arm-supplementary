@@ -44951,4 +44951,10 @@ export const annict: ArmEntry[] = [
   // [1984-AUTUMN] MOVIE: S=13
   // https://annict.com/works/15508
   { annict_id: 15508, mal_id: 42246 },
+  // [2025-WINTER] WEB: ノモの国
+  // https://annict.com/works/15509
+  { annict_id: 15509 },
+  // [2025-SPRING] MOVIE: ドラゴン・ハート―霊界探訪記―
+  // https://annict.com/works/15510
+  { annict_id: 15510, mal_id: 61077 },
 ]
