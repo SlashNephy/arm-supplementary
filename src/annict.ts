@@ -39661,7 +39661,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13737, mal_id: 59443 },
   // [2025-SPRING] TV: 片田舎のおっさん、剣聖になる
   // https://annict.com/works/13738
-  { annict_id: 13738, mal_id: 59452 },
+  { annict_id: 13738, mal_id: 59452, syobocal_tid: 7371 },
   // [2023-AUTUMN] WEB: 10分くらいで振り返る『君に届け』
   // https://annict.com/works/13739
   { annict_id: 13739 },
@@ -41350,7 +41350,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14305, mal_id: 60153 },
   // [2025-SPRING] TV: 俺は星間国家の悪徳領主！
   // https://annict.com/works/14306
-  { annict_id: 14306, mal_id: 60154 },
+  { annict_id: 14306, mal_id: 60154, syobocal_tid: 7372 },
   // [2025-SPRING] TV: 完璧すぎて可愛げがないと婚約破棄された聖女は隣国に売られる
   // https://annict.com/works/14307
   { annict_id: 14307, mal_id: 60157 },
