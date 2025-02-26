@@ -44969,4 +44969,7 @@ export const annict: ArmEntry[] = [
   // [1997-SUMMER] MOVIE: 地球が動いた日
   // https://annict.com/works/15514
   { annict_id: 15514, mal_id: 2915 },
+  // [1989-SUMMER] TV: キャッツ&カンパニー
+  // https://annict.com/works/15515
+  { annict_id: 15515 },
 ]
