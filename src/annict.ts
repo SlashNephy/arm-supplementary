@@ -44957,4 +44957,13 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] MOVIE: ドラゴン・ハート―霊界探訪記―
   // https://annict.com/works/15510
   { annict_id: 15510, mal_id: 61077 },
+  // [1988-SPRING] TV: ピンクパンサー&サンズ
+  // https://annict.com/works/15511
+  { annict_id: 15511 },
+  // [1990-SPRING] OVA: 世界童話アニメ全集
+  // https://annict.com/works/15512
+  { annict_id: 15512, mal_id: 7216 },
+  // [1990-AUTUMN] TV: シャザム
+  // https://annict.com/works/15513
+  { annict_id: 15513 },
 ]
