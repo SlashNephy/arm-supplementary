@@ -30814,7 +30814,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10779, mal_id: 38603 },
   // [2025-SPRING] TV: #コンパス2.0 戦闘摂理解析システム
   // https://annict.com/works/10780
-  { annict_id: 10780, mal_id: 53762 },
+  { annict_id: 10780, mal_id: 53762, syobocal_tid: 7370 },
   // [2023-AUTUMN] TV: 邪神ちゃんドロップキック【世紀末編】
   // https://annict.com/works/10781
   { annict_id: 10781, mal_id: 55237, syobocal_tid: 6830 },
@@ -31261,7 +31261,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10928, mal_id: 6072 },
   // [2025-SPRING] TV: 華Doll* -Reinterpretation of Flowering-
   // https://annict.com/works/10929
-  { annict_id: 10929, mal_id: 55710 },
+  { annict_id: 10929, mal_id: 55710, syobocal_tid: 7369 },
   // [2024-SPRING] TV: 出来損ないと呼ばれた元英雄は、実家から追放されたので好き勝手に生きることにした
   // https://annict.com/works/10930
   { annict_id: 10930, mal_id: 55717, syobocal_tid: 7008 },
