@@ -44972,4 +44972,7 @@ export const annict: ArmEntry[] = [
   // [1989-SUMMER] TV: キャッツ&カンパニー
   // https://annict.com/works/15515
   { annict_id: 15515 },
+  // [2026-WINTER] TV: 火喰鳥 羽州ぼろ鳶組
+  // https://annict.com/works/15516
+  { annict_id: 15516, mal_id: 61084 },
 ]
