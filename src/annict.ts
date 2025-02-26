@@ -44966,4 +44966,7 @@ export const annict: ArmEntry[] = [
   // [1990-AUTUMN] TV: シャザム
   // https://annict.com/works/15513
   { annict_id: 15513 },
+  // [1997-SUMMER] MOVIE: 地球が動いた日
+  // https://annict.com/works/15514
+  { annict_id: 15514, mal_id: 2915 },
 ]
