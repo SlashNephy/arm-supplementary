@@ -44996,4 +44996,7 @@ export const annict: ArmEntry[] = [
   // [1965-SUMMER] MOVIE: 石のゲーム
   // https://annict.com/works/15523
   { annict_id: 15523 },
+  // [1964-SUMMER] MOVIE: シュヴァルツェヴァルト氏とエドガル氏の最後のトリック
+  // https://annict.com/works/15524
+  { annict_id: 15524 },
 ]
