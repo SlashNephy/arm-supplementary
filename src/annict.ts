@@ -36344,7 +36344,7 @@ export const annict: ArmEntry[] = [
   // [1968-AUTUMN] MOVIE: 九尾の狐と飛丸 (殺生石)
   // https://annict.com/works/12630
   { annict_id: 12630, mal_id: 17673 },
-  // [null-null] WEB: ポケモンコンシェルジュ 新エピソード
+  // [2025-SUMMER] WEB: ポケモンコンシェルジュ 新エピソード
   // https://annict.com/works/12631
   { annict_id: 12631, mal_id: 58953 },
   // [2024-AUTUMN] TV: 嘆きの亡霊は引退したい
@@ -36793,7 +36793,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12779 },
   // [2025-SPRING] TV: 一瞬で治療していたのに役立たずと追放された天才治癒師、闇ヒーラーとして楽しく生きる
   // https://annict.com/works/12780
-  { annict_id: 12780, mal_id: 58359 },
+  { annict_id: 12780, mal_id: 58359, syobocal_tid: 7373 },
   // [2024-SPRING] TV: 鬼滅の刃 刀鍛冶の里編 特別編集版
   // https://annict.com/works/12781
   { annict_id: 12781 },
