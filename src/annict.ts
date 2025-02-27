@@ -44978,4 +44978,22 @@ export const annict: ArmEntry[] = [
   // [1992-AUTUMN] TV: ピーターラビットとなかまたち
   // https://annict.com/works/15517
   { annict_id: 15517 },
+  // [2019-SUMMER] OVA: シンデレラ 秘密のプリンス
+  // https://annict.com/works/15518
+  { annict_id: 15518 },
+  // [2022-SPRING] OVA: シンデレラ 砂漠の女王と命の石
+  // https://annict.com/works/15519
+  { annict_id: 15519 },
+  // [2019-AUTUMN] OVA: スノーホワイト‐白雪姫とハナの大冒険‐
+  // https://annict.com/works/15520
+  { annict_id: 15520 },
+  // [2000-null] OVA: よいこのアニメ広場 日本むかし話
+  // https://annict.com/works/15521
+  { annict_id: 15521 },
+  // [2005-null] OVA: よいこのアニメ広場 世界めいさく童話
+  // https://annict.com/works/15522
+  { annict_id: 15522 },
+  // [1965-SUMMER] MOVIE: 石のゲーム
+  // https://annict.com/works/15523
+  { annict_id: 15523 },
 ]
