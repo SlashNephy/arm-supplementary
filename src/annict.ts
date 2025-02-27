@@ -35807,7 +35807,7 @@ export const annict: ArmEntry[] = [
   // [1959-WINTER] MOVIE: ひょうたんすずめ
   // https://annict.com/works/12449
   { annict_id: 12449, mal_id: 16007 },
-  // [2025-null] TV: 笑顔のたえない職場です。
+  // [2025-AUTUMN] TV: 笑顔のたえない職場です。
   // https://annict.com/works/12450
   { annict_id: 12450, mal_id: 57859 },
   // [2024-SUMMER] WEB: 〈物語〉シリーズ オフ&モンスターシーズン
