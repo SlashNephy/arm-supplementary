@@ -44999,4 +44999,7 @@ export const annict: ArmEntry[] = [
   // [1964-SUMMER] MOVIE: シュヴァルツェヴァルト氏とエドガル氏の最後のトリック
   // https://annict.com/works/15524
   { annict_id: 15524 },
+  // [1993-SPRING] TV: ピングー
+  // https://annict.com/works/15525
+  { annict_id: 15525 },
 ]
