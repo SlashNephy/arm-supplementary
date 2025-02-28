@@ -45010,7 +45010,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15527 },
   // [2025-SUMMER] TV: ブスに花束を。
   // https://annict.com/works/15528
-  { annict_id: 15528 },
+  { annict_id: 15528, mal_id: 53512 },
   // [2010-WINTER] TV: 森のレシオ
   // https://annict.com/works/15529
   { annict_id: 15529, mal_id: 29427 },
