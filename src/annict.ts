@@ -42242,7 +42242,7 @@ export const annict: ArmEntry[] = [
   // [2011-WINTER] TV: 島んちゅMiRiKa
   // https://annict.com/works/14604
   { annict_id: 14604, mal_id: 10407 },
-  // [2025-null] TV: ホテル・インヒューマンズ
+  // [2025-SUMMER] TV: ホテル・インヒューマンズ
   // https://annict.com/works/14605
   { annict_id: 14605, mal_id: 60260 },
   // [1989-AUTUMN] OVA: のりピーちゃん
@@ -42640,10 +42640,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 14736, mal_id: 60334, syobocal_tid: 7356 },
   // [2024-AUTUMN] WEB: 異世界QTTA『氷の世界』篇
   // https://annict.com/works/14737
-  { annict_id: 14737 },
+  { annict_id: 14737, mal_id: 61099 },
   // [2024-AUTUMN] WEB: 異世界QTTA『風の世界』篇
   // https://annict.com/works/14738
-  { annict_id: 14738 },
+  { annict_id: 14738, mal_id: 61099 },
   // [2025-null] WEB: キャッツ♥アイ
   // https://annict.com/works/14739
   { annict_id: 14739, mal_id: 60347 },
@@ -43825,7 +43825,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15132 },
   // [2025-WINTER] WEB: ズバーン研究会活動記録
   // https://annict.com/works/15133
-  { annict_id: 15133 },
+  { annict_id: 15133, mal_id: 61098 },
   // [2024-AUTUMN] WEB: SWEETS MATE / スイーツメイト
   // https://annict.com/works/15134
   { annict_id: 15134 },
@@ -44356,7 +44356,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15309 },
   // [2025-WINTER] WEB: ひとりのよると赤緑
   // https://annict.com/works/15310
-  { annict_id: 15310 },
+  { annict_id: 15310, mal_id: 61097 },
   // [null-null] OTHER: 正義を愛する者 月光仮面 (パイロットフィルム)
   // https://annict.com/works/15311
   { annict_id: 15311 },
@@ -45002,4 +45002,7 @@ export const annict: ArmEntry[] = [
   // [1993-SPRING] TV: ピングー
   // https://annict.com/works/15525
   { annict_id: 15525 },
+  // [1995-SPRING] TV: バイカーマイス
+  // https://annict.com/works/15526
+  { annict_id: 15526 },
 ]
