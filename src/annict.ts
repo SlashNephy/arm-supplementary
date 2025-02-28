@@ -43118,7 +43118,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] TV: あらいぐま カルカル団
   // https://annict.com/works/14896
   { annict_id: 14896, mal_id: 60506 },
-  // [2025-SPRING] OTHER: ツインズひなひま
+  // [2025-SPRING] TV: ツインズひなひま
   // https://annict.com/works/14897
   { annict_id: 14897 },
   // [2024-AUTUMN] WEB: アルプスの老人 ハイジのおじいさん
@@ -45005,4 +45005,7 @@ export const annict: ArmEntry[] = [
   // [1995-SPRING] TV: バイカーマイス
   // https://annict.com/works/15526
   { annict_id: 15526 },
+  // [2025-WINTER] WEB: MFゴースト 2nd Season BATTLE DIGEST
+  // https://annict.com/works/15527
+  { annict_id: 15527 },
 ]
