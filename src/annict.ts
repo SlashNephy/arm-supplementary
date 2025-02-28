@@ -45014,4 +45014,7 @@ export const annict: ArmEntry[] = [
   // [2010-WINTER] TV: 森のレシオ
   // https://annict.com/works/15529
   { annict_id: 15529, mal_id: 29427 },
+  // [2023-null] WEB: パディントンのぼうけん シーズン3
+  // https://annict.com/works/15530
+  { annict_id: 15530 },
 ]
