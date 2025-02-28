@@ -25396,7 +25396,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 8870, mal_id: 48707, syobocal_tid: 6335 },
   // [2025-SPRING] TV: 鬼人幻燈抄
   // https://annict.com/works/8871
-  { annict_id: 8871, mal_id: 49778 },
+  { annict_id: 8871, mal_id: 49778, syobocal_tid: 7375 },
   // [2021-SUMMER] WEB: ゲンガーになっちゃった！？
   // https://annict.com/works/8872
   { annict_id: 8872, mal_id: 42161 },
@@ -38179,7 +38179,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13243 },
   // [2025-SPRING] TV: GUILTY GEAR STRIVE: DUAL RULERS
   // https://annict.com/works/13244
-  { annict_id: 13244, mal_id: 59070 },
+  { annict_id: 13244, mal_id: 59070, syobocal_tid: 7376 },
   // [2015-WINTER] OVA: OVA快盗天使ツインエンジェル ～キュンキュン☆ときめきパラダイス！！～
   // https://annict.com/works/13245
   { annict_id: 13245, mal_id: 27997 },
@@ -42802,7 +42802,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14790 },
   // [2025-SPRING] TV: 宇宙人ムームー
   // https://annict.com/works/14791
-  { annict_id: 14791, mal_id: 60401 },
+  { annict_id: 14791, mal_id: 60401, syobocal_tid: 7374 },
   // [2024-AUTUMN] WEB: Google Chrome アニメ 「がんばれ！くろーむ 」
   // https://annict.com/works/14792
   { annict_id: 14792, mal_id: 60632 },
