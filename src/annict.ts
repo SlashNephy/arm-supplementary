@@ -42716,7 +42716,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: シルバニアファミリー フレアのピース・オブ・シークレット
   // https://annict.com/works/14762
   { annict_id: 14762 },
-  // [null-null] OTHER: KING OF PRISM次回作
+  // [2025-SPRING] MOVIE: KING OF PRISM-Your Endless Call- み～んなきらめけ！プリズム☆ツアーズ
   // https://annict.com/works/14763
   { annict_id: 14763 },
   // [1959-SUMMER] TV: 進め！ラビット
@@ -45008,4 +45008,10 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] WEB: MFゴースト 2nd Season BATTLE DIGEST
   // https://annict.com/works/15527
   { annict_id: 15527 },
+  // [2025-SUMMER] TV: ブスに花束を。
+  // https://annict.com/works/15528
+  { annict_id: 15528 },
+  // [2010-WINTER] TV: 森のレシオ
+  // https://annict.com/works/15529
+  { annict_id: 15529, mal_id: 29427 },
 ]
