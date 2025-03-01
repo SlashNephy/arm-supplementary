@@ -45044,9 +45044,9 @@ export const annict: ArmEntry[] = [
   // [2006-AUTUMN] MOVIE: ルナシー
   // https://annict.com/works/15539
   { annict_id: 15539 },
-  // [null-null] TV: ご注文はうさぎですか？ 新作アニメ
+  // [null-null] OTHER: ご注文はうさぎですか？ 新作アニメ
   // https://annict.com/works/15540
-  { annict_id: 15540 },
+  { annict_id: 15540, mal_id: 61115 },
   // [2011-SUMMER] MOVIE: サヴァイヴィング・ライフ ‐夢は第二の人生‐
   // https://annict.com/works/15541
   { annict_id: 15541 },
