@@ -45032,4 +45032,13 @@ export const annict: ArmEntry[] = [
   // [1989-SUMMER] MOVIE: アリス
   // https://annict.com/works/15535
   { annict_id: 15535 },
+  // [1996-SUMMER] MOVIE: ファウスト
+  // https://annict.com/works/15536
+  { annict_id: 15536 },
+  // [1997-SUMMER] MOVIE: 悦楽共犯者
+  // https://annict.com/works/15537
+  { annict_id: 15537 },
+  // [2001-AUTUMN] MOVIE: オテサーネク 妄想の子供
+  // https://annict.com/works/15538
+  { annict_id: 15538 },
 ]
