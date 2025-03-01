@@ -45052,7 +45052,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15541 },
   // [2025-SPRING] TV: ひみつのアイプリ リング編
   // https://annict.com/works/15542
-  { annict_id: 15542, mal_id: 61092 },
+  { annict_id: 15542, mal_id: 61092, syobocal_tid: 6989 },
   // [2025-null] TV: バンドリ！新作ミニアニメ
   // https://annict.com/works/15543
   { annict_id: 15543, mal_id: 61107 },
