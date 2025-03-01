@@ -45029,4 +45029,7 @@ export const annict: ArmEntry[] = [
   // [1996-SUMMER] OVA: トムとジェリーキッズ
   // https://annict.com/works/15534
   { annict_id: 15534 },
+  // [1989-SUMMER] MOVIE: アリス
+  // https://annict.com/works/15535
+  { annict_id: 15535 },
 ]
