@@ -42380,7 +42380,7 @@ export const annict: ArmEntry[] = [
   // [1994-SUMMER] OVA: 他人の関係
   // https://annict.com/works/14650
   { annict_id: 14650, mal_id: 4451 },
-  // [2025-null] TV: 全力ウサギ 第2期
+  // [2025-SPRING] TV: 全力ウサギ シーズン2
   // https://annict.com/works/14651
   { annict_id: 14651, mal_id: 60280 },
   // [2025-WINTER] TV: カードファイト!! ヴァンガード Divinez デラックス編
@@ -45062,4 +45062,10 @@ export const annict: ArmEntry[] = [
   // [2018-SUMMER] MOVIE: 蟲
   // https://annict.com/works/15545
   { annict_id: 15545 },
+  // [2025-SPRING] MOVIE: 鬼滅の刃 柱稽古編 特別編集版
+  // https://annict.com/works/15546
+  { annict_id: 15546 },
+  // [2025-SPRING] TV: GAMERA -Rebirth- 新編集版
+  // https://annict.com/works/15547
+  { annict_id: 15547 },
 ]
