@@ -45017,4 +45017,16 @@ export const annict: ArmEntry[] = [
   // [2023-null] WEB: パディントンのぼうけん シーズン3
   // https://annict.com/works/15530
   { annict_id: 15530 },
+  // [1996-AUTUMN] OVA: マスク・アニメーション
+  // https://annict.com/works/15531
+  { annict_id: 15531 },
+  // [1996-AUTUMN] TV: リブート
+  // https://annict.com/works/15532
+  { annict_id: 15532 },
+  // [1997-AUTUMN] TV: フィリックス(1997年)
+  // https://annict.com/works/15533
+  { annict_id: 15533 },
+  // [1996-SUMMER] OVA: トムとジェリーキッズ
+  // https://annict.com/works/15534
+  { annict_id: 15534 },
 ]
