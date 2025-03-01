@@ -45059,4 +45059,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] WEB: ガヴっとアニメ！ Sweety Days ～おかしな日常～
   // https://annict.com/works/15544
   { annict_id: 15544, mal_id: 61112 },
+  // [2018-SUMMER] MOVIE: 蟲
+  // https://annict.com/works/15545
+  { annict_id: 15545 },
 ]
