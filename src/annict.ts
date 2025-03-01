@@ -44587,7 +44587,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15386 },
   // [1990-null] MOVIE: 福児と弓彦 －海を渡ってきた牛飼い少年－
   // https://annict.com/works/15387
-  { annict_id: 15387 },
+  { annict_id: 15387, mal_id: 61111 },
   // [null-null] TV: ぼっち・ざ・ろっく！2期
   // https://annict.com/works/15388
   { annict_id: 15388, mal_id: 61006 },
@@ -45041,4 +45041,22 @@ export const annict: ArmEntry[] = [
   // [2001-AUTUMN] MOVIE: オテサーネク 妄想の子供
   // https://annict.com/works/15538
   { annict_id: 15538 },
+  // [2006-AUTUMN] MOVIE: ルナシー
+  // https://annict.com/works/15539
+  { annict_id: 15539 },
+  // [null-null] TV: ご注文はうさぎですか？ 新作アニメ
+  // https://annict.com/works/15540
+  { annict_id: 15540 },
+  // [2011-SUMMER] MOVIE: サヴァイヴィング・ライフ ‐夢は第二の人生‐
+  // https://annict.com/works/15541
+  { annict_id: 15541 },
+  // [2025-SPRING] TV: ひみつのアイプリ リング編
+  // https://annict.com/works/15542
+  { annict_id: 15542, mal_id: 61092 },
+  // [2025-null] TV: バンドリ！新作ミニアニメ
+  // https://annict.com/works/15543
+  { annict_id: 15543, mal_id: 61107 },
+  // [2025-WINTER] WEB: ガヴっとアニメ！ Sweety Days ～おかしな日常～
+  // https://annict.com/works/15544
+  { annict_id: 15544, mal_id: 61112 },
 ]
