@@ -38185,7 +38185,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13245, mal_id: 27997 },
   // [2025-SPRING] TV: プリンセッション・オーケストラ
   // https://annict.com/works/13246
-  { annict_id: 13246, mal_id: 59078 },
+  { annict_id: 13246, mal_id: 59078, syobocal_tid: 7378 },
   // [2024-SPRING] WEB: 現代誤訳 ～序幕～
   // https://annict.com/works/13247
   { annict_id: 13247 },
@@ -45052,7 +45052,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15541 },
   // [2025-SPRING] TV: ひみつのアイプリ リング編
   // https://annict.com/works/15542
-  { annict_id: 15542, mal_id: 61092, syobocal_tid: 6989 },
+  { annict_id: 15542, mal_id: 61092, syobocal_tid: 7379 },
   // [2025-null] TV: バンドリ！新作ミニアニメ
   // https://annict.com/works/15543
   { annict_id: 15543, mal_id: 61107 },
