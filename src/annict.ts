@@ -45098,4 +45098,25 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: きみが死ぬまで恋をしたい
   // https://annict.com/works/15557
   { annict_id: 15557, mal_id: 61126 },
+  // [null-null] TV: 勇者パーティを追い出された器用貧乏
+  // https://annict.com/works/15558
+  { annict_id: 15558, mal_id: 61128 },
+  // [null-null] MOVIE: 劇場版ハイキュー!! VS小さな巨人
+  // https://annict.com/works/15559
+  { annict_id: 15559, mal_id: 58967 },
+  // [null-null] TV: ハイキュー!! バケモノたちの行くところ
+  // https://annict.com/works/15560
+  { annict_id: 15560, mal_id: 61125 },
+  // [1968-SPRING] OTHER: ガムガムパンチ
+  // https://annict.com/works/15561
+  { annict_id: 15561 },
+  // [1967-SUMMER] OTHER: フライング・ベン
+  // https://annict.com/works/15562
+  { annict_id: 15562 },
+  // [1968-SPRING] OTHER: 0マン
+  // https://annict.com/works/15563
+  { annict_id: 15563 },
+  // [1968-SUMMER] OTHER: ノーマン
+  // https://annict.com/works/15564
+  { annict_id: 15564 },
 ]
