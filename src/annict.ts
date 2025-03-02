@@ -45083,4 +45083,7 @@ export const annict: ArmEntry[] = [
   // [1998-AUTUMN] TV: シルベスター&トゥイーティー ミステリー
   // https://annict.com/works/15552
   { annict_id: 15552 },
+  // [2011-null] MOVIE: 神殿
+  // https://annict.com/works/15553
+  { annict_id: 15553 },
 ]
