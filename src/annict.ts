@@ -44510,7 +44510,7 @@ export const annict: ArmEntry[] = [
   // [2008-null] MOVIE: チリ夜想曲
   // https://annict.com/works/15361
   { annict_id: 15361 },
-  // [2010-null] MOVIE: Weathervane（原題）
+  // [2010-null] MOVIE: 風見鶏
   // https://annict.com/works/15362
   { annict_id: 15362 },
   // [2011-null] MOVIE: 父。母。
@@ -45086,4 +45086,13 @@ export const annict: ArmEntry[] = [
   // [2011-null] MOVIE: 神殿
   // https://annict.com/works/15553
   { annict_id: 15553 },
+  // [2012-null] MOVIE: アンデス
+  // https://annict.com/works/15554
+  { annict_id: 15554 },
+  // [2019-AUTUMN] MOVIE: Strange Creatures
+  // https://annict.com/works/15555
+  { annict_id: 15555 },
+  // [2010-SUMMER] MOVIE: ちいさな部屋
+  // https://annict.com/works/15556
+  { annict_id: 15556 },
 ]
