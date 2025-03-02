@@ -45095,4 +45095,7 @@ export const annict: ArmEntry[] = [
   // [2010-SUMMER] MOVIE: ちいさな部屋
   // https://annict.com/works/15556
   { annict_id: 15556 },
+  // [null-null] TV: きみが死ぬまで恋をしたい
+  // https://annict.com/works/15557
+  { annict_id: 15557, mal_id: 61126 },
 ]
