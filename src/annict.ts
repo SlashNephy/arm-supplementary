@@ -26323,7 +26323,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9243, mal_id: 50685, syobocal_tid: 6348 },
   // [2025-SPRING] TV: Summer Pockets
   // https://annict.com/works/9244
-  { annict_id: 9244, mal_id: 50694 },
+  { annict_id: 9244, mal_id: 50694, syobocal_tid: 7381 },
   // [2022-SPRING] TV: 境界戦機 第二部
   // https://annict.com/works/9245
   { annict_id: 9245, mal_id: 50678, syobocal_tid: 6331 },
@@ -31120,7 +31120,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10881, mal_id: 55463, syobocal_tid: 6781 },
   // [2025-SPRING] TV: ざつ旅 -That's Journey-
   // https://annict.com/works/10882
-  { annict_id: 10882, mal_id: 55514 },
+  { annict_id: 10882, mal_id: 55514, syobocal_tid: 7380 },
   // [2023-SUMMER] MOVIE: マスターオブスキル For the GLORY
   // https://annict.com/works/10883
   { annict_id: 10883, mal_id: 40080 },
@@ -39955,7 +39955,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13835, mal_id: 59649 },
   // [2025-SPRING] TV: アポカリプスホテル
   // https://annict.com/works/13836
-  { annict_id: 13836, mal_id: 59675 },
+  { annict_id: 13836, mal_id: 59675, syobocal_tid: 7382 },
   // [1997-SPRING] TV: トッド･マクファーレンのスポーン シーズン1
   // https://annict.com/works/13837
   { annict_id: 13837 },
@@ -40699,7 +40699,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14088, mal_id: 60012 },
   // [2025-SPRING] TV: 中禅寺先生物怪講義録 先生が謎を解いてしまうから。
   // https://annict.com/works/14089
-  { annict_id: 14089, mal_id: 60009 },
+  { annict_id: 14089, mal_id: 60009, syobocal_tid: 7383 },
   // [1928-SUMMER] MOVIE: 漫画 文福茶釜
   // https://annict.com/works/14090
   { annict_id: 14090, mal_id: 24881 },
