@@ -45068,4 +45068,19 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] TV: GAMERA -Rebirth- 新編集版
   // https://annict.com/works/15547
   { annict_id: 15547 },
+  // [1997-AUTUMN] TV: デクスターズラボ
+  // https://annict.com/works/15548
+  { annict_id: 15548 },
+  // [1998-null] TV: オギー＆コックローチ
+  // https://annict.com/works/15549
+  { annict_id: 15549 },
+  // [1998-null] TV: タンタンの冒険
+  // https://annict.com/works/15550
+  { annict_id: 15550 },
+  // [1998-WINTER] TV: マドレーヌ
+  // https://annict.com/works/15551
+  { annict_id: 15551 },
+  // [1998-AUTUMN] TV: シルベスター&トゥイーティー ミステリー
+  // https://annict.com/works/15552
+  { annict_id: 15552 },
 ]
