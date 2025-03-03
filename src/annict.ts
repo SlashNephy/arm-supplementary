@@ -31558,7 +31558,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11027, mal_id: 55994, syobocal_tid: 7182 },
   // [2025-SPRING] TV: 男女の友情は成立する？（いや、しないっ!!）
   // https://annict.com/works/11028
-  { annict_id: 11028, mal_id: 52709 },
+  { annict_id: 11028, mal_id: 52709, syobocal_tid: 7384 },
   // [2025-SPRING] TV: ユア・フォルマ
   // https://annict.com/works/11029
   { annict_id: 11029, mal_id: 55995 },
@@ -39673,7 +39673,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13741 },
   // [2025-SPRING] TV: 履いてください、鷹峰さん
   // https://annict.com/works/13742
-  { annict_id: 13742, mal_id: 59457 },
+  { annict_id: 13742, mal_id: 59457, syobocal_tid: 7385 },
   // [2024-AUTUMN] WEB: Duel Masters LOST ～月下の死神～
   // https://annict.com/works/13743
   { annict_id: 13743, mal_id: 59458 },
@@ -41429,7 +41429,7 @@ export const annict: ArmEntry[] = [
   // [2004-AUTUMN] TV: ザ・シンプソンズ シーズン16
   // https://annict.com/works/14332
   { annict_id: 14332 },
-  // [2025-null] TV: 私を喰べたい、ひとでなし
+  // [2025-AUTUMN] TV: 私を喰べたい、ひとでなし
   // https://annict.com/works/14333
   { annict_id: 14333, mal_id: 60168 },
   // [1996-SPRING] OVA: アイドル・ファイト スーチーパイII
