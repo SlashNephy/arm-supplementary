@@ -45122,4 +45122,25 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: ジャイアントお嬢様
   // https://annict.com/works/15565
   { annict_id: 15565, mal_id: 61135 },
+  // [1998-AUTUMN] TV: ラグラッツ
+  // https://annict.com/works/15566
+  { annict_id: 15566 },
+  // [1998-AUTUMN] TV: レンとスティンピー
+  // https://annict.com/works/15567
+  { annict_id: 15567 },
+  // [1998-AUTUMN] TV: ロッコーのモダンライフ
+  // https://annict.com/works/15568
+  { annict_id: 15568 },
+  // [1998-AUTUMN] TV: ぎゃあ!!!リアル・モンスターズ
+  // https://annict.com/works/15569
+  { annict_id: 15569 },
+  // [1998-AUTUMN] TV: ヘイ・アーノルド!
+  // https://annict.com/works/15570
+  { annict_id: 15570 },
+  // [1998-AUTUMN] TV: アングリー・ビーバーズ
+  // https://annict.com/works/15571
+  { annict_id: 15571 },
+  // [2018-WINTER] MOVIE: ビルビー
+  // https://annict.com/works/15572
+  { annict_id: 15572 },
 ]
