@@ -22814,7 +22814,7 @@ export const annict: ArmEntry[] = [
   // [2021-SPRING] WEB: 天地創造デザイン部 特別編
   // https://annict.com/works/7914
   { annict_id: 7914, mal_id: 46587 },
-  // [null-null] OTHER: 対ありでした。 ～お嬢さまは格闘ゲームなんてしない～
+  // [2025-null] TV: 対ありでした。 ～お嬢さまは格闘ゲームなんてしない～
   // https://annict.com/works/7915
   { annict_id: 7915, mal_id: 46488 },
   // [2023-SPRING] TV: 贄姫と獣の王
