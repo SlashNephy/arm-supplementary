@@ -45115,8 +45115,11 @@ export const annict: ArmEntry[] = [
   { annict_id: 15562 },
   // [1968-SPRING] OTHER: 0マン
   // https://annict.com/works/15563
-  { annict_id: 15563 },
+  { annict_id: 15563, mal_id: 52399 },
   // [1968-SUMMER] OTHER: ノーマン
   // https://annict.com/works/15564
-  { annict_id: 15564 },
+  { annict_id: 15564, mal_id: 52397 },
+  // [null-null] TV: ジャイアントお嬢様
+  // https://annict.com/works/15565
+  { annict_id: 15565, mal_id: 61135 },
 ]
