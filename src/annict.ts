@@ -45173,4 +45173,7 @@ export const annict: ArmEntry[] = [
   // [1979-WINTER] TV: Happy Birthday, Charlie Brown（原題）
   // https://annict.com/works/15582
   { annict_id: 15582 },
+  // [2025-null] TV: さわらないで小手指くん
+  // https://annict.com/works/15583
+  { annict_id: 15583, mal_id: 61142 },
 ]
