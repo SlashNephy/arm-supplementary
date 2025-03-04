@@ -45143,4 +45143,10 @@ export const annict: ArmEntry[] = [
   // [2018-WINTER] MOVIE: ビルビー
   // https://annict.com/works/15572
   { annict_id: 15572 },
+  // [2025-SUMMER] MOVIE: アズワン／AS ONE
+  // https://annict.com/works/15573
+  { annict_id: 15573, mal_id: 61139 },
+  // [null-null] OTHER: 幻想水滸伝
+  // https://annict.com/works/15574
+  { annict_id: 15574, mal_id: 61140 },
 ]
