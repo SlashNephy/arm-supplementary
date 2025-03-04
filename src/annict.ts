@@ -39907,7 +39907,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13819, mal_id: 36833 },
   // [2025-SPRING] TV: ウマ娘 シンデレラグレイ
   // https://annict.com/works/13820
-  { annict_id: 13820, mal_id: 59636 },
+  { annict_id: 13820, mal_id: 59636, syobocal_tid: 7388 },
   // [1969-SPRING] OTHER: ルパン三世 パイロット･フィルム
   // https://annict.com/works/13821
   { annict_id: 13821, mal_id: 5225 },
