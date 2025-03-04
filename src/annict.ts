@@ -45176,4 +45176,10 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: さわらないで小手指くん
   // https://annict.com/works/15583
   { annict_id: 15583, mal_id: 61142 },
+  // [2012-AUTUMN] TV: 絶叫学級
+  // https://annict.com/works/15584
+  { annict_id: 15584, mal_id: 15891 },
+  // [2016-SPRING] TV: 絶叫学級 転生
+  // https://annict.com/works/15585
+  { annict_id: 15585, mal_id: 33103 },
 ]
