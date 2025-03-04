@@ -15851,7 +15851,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: ダドリー・ドゥ・ライト
   // https://annict.com/works/5316
   { annict_id: 5316 },
-  // [null-null] TV: スーパーチキン
+  // [1977-null] TV: スーパーチキン
   // https://annict.com/works/5317
   { annict_id: 5317 },
   // [null-null] TV: タキシードペンギン
@@ -45149,4 +45149,22 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 幻想水滸伝
   // https://annict.com/works/15574
   { annict_id: 15574, mal_id: 61140 },
+  // [1999-WINTER] TV: エド エッド エディ
+  // https://annict.com/works/15575
+  { annict_id: 15575 },
+  // [1999-WINTER] TV: カウ＆チキン
+  // https://annict.com/works/15576
+  { annict_id: 15576 },
+  // [1999-WINTER] TV: キャットドッグ
+  // https://annict.com/works/15577
+  { annict_id: 15577 },
+  // [1999-WINTER] TV: ワイルド・ソーンベリーズ
+  // https://annict.com/works/15578
+  { annict_id: 15578 },
+  // [1999-WINTER] TV: マジック・スクール・バス
+  // https://annict.com/works/15579
+  { annict_id: 15579 },
+  // [1999-SPRING] TV: くまのパディントン(1997年)
+  // https://annict.com/works/15580
+  { annict_id: 15580 },
 ]
