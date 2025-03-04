@@ -41329,7 +41329,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14298 },
   // [2025-SPRING] TV: 勘違いの工房主～英雄パーティの元雑用係が、実は戦闘以外がSSSランクだったというよくある話～
   // https://annict.com/works/14299
-  { annict_id: 14299, mal_id: 60140 },
+  { annict_id: 14299, mal_id: 60140, syobocal_tid: 7387 },
   // [2025-SPRING] TV: LAZARUS ラザロ
   // https://annict.com/works/14300
   { annict_id: 14300, mal_id: 56038 },
@@ -43120,7 +43120,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14896, mal_id: 60506 },
   // [2025-SPRING] TV: ツインズひなひま
   // https://annict.com/works/14897
-  { annict_id: 14897 },
+  { annict_id: 14897, mal_id: 60521, syobocal_tid: 7386 },
   // [2024-AUTUMN] WEB: アルプスの老人 ハイジのおじいさん
   // https://annict.com/works/14898
   { annict_id: 14898, mal_id: 61016 },
