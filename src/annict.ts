@@ -43118,7 +43118,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] TV: あらいぐま カルカル団
   // https://annict.com/works/14896
   { annict_id: 14896, mal_id: 60506 },
-  // [2025-SPRING] TV: ツインズひなひま
+  // [2025-WINTER] TV: ツインズひなひま
   // https://annict.com/works/14897
   { annict_id: 14897, mal_id: 60521, syobocal_tid: 7386 },
   // [2024-AUTUMN] WEB: アルプスの老人 ハイジのおじいさん
