@@ -45167,4 +45167,7 @@ export const annict: ArmEntry[] = [
   // [1999-SPRING] TV: くまのパディントン(1997年)
   // https://annict.com/works/15580
   { annict_id: 15580 },
+  // [1976-WINTER] TV: Happy Anniversary, Charlie Brown（原題）
+  // https://annict.com/works/15581
+  { annict_id: 15581 },
 ]
