@@ -23524,7 +23524,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 8180, mal_id: 48556, syobocal_tid: 6131 },
   // [2021-AUTUMN] MOVIE: 劇場版 呪術廻戦 0
   // https://annict.com/works/8181
-  { annict_id: 8181, mal_id: 48561 },
+  { annict_id: 8181, mal_id: 48561, syobocal_tid: 6184 },
   // [2021-AUTUMN] TV: ヴィジュアルプリズン
   // https://annict.com/works/8182
   { annict_id: 8182, mal_id: 48567, syobocal_tid: 6129 },
@@ -45206,4 +45206,10 @@ export const annict: ArmEntry[] = [
   // [2022-SPRING] WEB: MIMOCA×井上涼 アニメーション「ビフォアミモカ」
   // https://annict.com/works/15593
   { annict_id: 15593 },
+  // [2025-SPRING] TV: たまらないのは恋なのか
+  // https://annict.com/works/15594
+  { annict_id: 15594 },
+  // [null-null] MOVIE: 羅小黒戦記２
+  // https://annict.com/works/15595
+  { annict_id: 15595 },
 ]
