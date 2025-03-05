@@ -45197,4 +45197,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] OTHER: チンプイ エリさまのグッドラック
   // https://annict.com/works/15590
   { annict_id: 15590 },
+  // [null-null] OVA: アイドルマスター ミリオンライブ！ 新作エピソードOVA
+  // https://annict.com/works/15591
+  { annict_id: 15591 },
 ]
