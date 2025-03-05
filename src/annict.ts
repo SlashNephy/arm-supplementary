@@ -45185,4 +45185,10 @@ export const annict: ArmEntry[] = [
   // [1999-AUTUMN] TV: ジョニー・ブラボー
   // https://annict.com/works/15586
   { annict_id: 15586 },
+  // [1999-AUTUMN] TV: トゥーストゥーピッドドッグス
+  // https://annict.com/works/15587
+  { annict_id: 15587 },
+  // [2000-null] TV: スティーブン・スピルバーグのトゥーンシルバニア
+  // https://annict.com/works/15588
+  { annict_id: 15588 },
 ]
