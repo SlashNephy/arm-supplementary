@@ -45191,4 +45191,7 @@ export const annict: ArmEntry[] = [
   // [2000-null] TV: スティーブン・スピルバーグのトゥーンシルバニア
   // https://annict.com/works/15588
   { annict_id: 15588 },
+  // [2025-WINTER] MOVIE: 名探偵コナン 閃光の宇宙船
+  // https://annict.com/works/15589
+  { annict_id: 15589 },
 ]
