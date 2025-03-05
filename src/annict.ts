@@ -45194,4 +45194,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] MOVIE: 名探偵コナン 閃光の宇宙船
   // https://annict.com/works/15589
   { annict_id: 15589 },
+  // [2025-SPRING] OTHER: チンプイ エリさまのグッドラック
+  // https://annict.com/works/15590
+  { annict_id: 15590 },
 ]
