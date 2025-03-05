@@ -45182,4 +45182,7 @@ export const annict: ArmEntry[] = [
   // [2016-SPRING] TV: 絶叫学級 転生
   // https://annict.com/works/15585
   { annict_id: 15585, mal_id: 33103 },
+  // [1999-AUTUMN] TV: ジョニー・ブラボー
+  // https://annict.com/works/15586
+  { annict_id: 15586 },
 ]
