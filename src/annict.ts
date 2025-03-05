@@ -42757,7 +42757,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14775, mal_id: 60378 },
   // [2025-SPRING] TV: 謎解きはディナーのあとで
   // https://annict.com/works/14776
-  { annict_id: 14776, mal_id: 60377 },
+  { annict_id: 14776, mal_id: 60377, syobocal_tid: 7389 },
   // [2023-AUTUMN] WEB: LEGO マーベル／アベンジャーズ コード・レッド
   // https://annict.com/works/14777
   { annict_id: 14777 },
