@@ -45200,4 +45200,10 @@ export const annict: ArmEntry[] = [
   // [null-null] OVA: アイドルマスター ミリオンライブ！ 新作エピソードOVA
   // https://annict.com/works/15591
   { annict_id: 15591 },
+  // [2019-SPRING] WEB: 小野かっぱ
+  // https://annict.com/works/15592
+  { annict_id: 15592 },
+  // [2022-SPRING] WEB: MIMOCA×井上涼 アニメーション「ビフォアミモカ」
+  // https://annict.com/works/15593
+  { annict_id: 15593 },
 ]
