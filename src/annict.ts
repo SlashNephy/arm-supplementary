@@ -40585,7 +40585,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14050 },
   // [2025-SPRING] TV: ゴリラの神から加護された令嬢は王立騎士団で可愛がられる
   // https://annict.com/works/14051
-  { annict_id: 14051, mal_id: 59935 },
+  { annict_id: 14051, mal_id: 59935, syobocal_tid: 7392 },
   // [1994-SUMMER] OVA: 幽☆遊☆白書 映像白書～暗黒武術会の章～
   // https://annict.com/works/14052
   { annict_id: 14052, mal_id: 2125 },
@@ -40849,7 +40849,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14138 },
   // [2025-SPRING] TV: 九龍ジェネリックロマンス
   // https://annict.com/works/14139
-  { annict_id: 14139, mal_id: 60083 },
+  { annict_id: 14139, mal_id: 60083, syobocal_tid: 7391 },
   // [2025-SPRING] TV: かいじゅうせかいせいふく
   // https://annict.com/works/14140
   { annict_id: 14140, mal_id: 60070 },
@@ -45221,4 +45221,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] WEB: アニメ「鬼滅の刃」×「MLB Tokyo Series presented by Guggenheim」コラボレーションムービー
   // https://annict.com/works/15598
   { annict_id: 15598 },
+  // [2025-SPRING] WEB: ちょっとだけ愛が重いダークエルフが異世界から追いかけてきた ミニアニメ劇場
+  // https://annict.com/works/15599
+  { annict_id: 15599 },
 ]
