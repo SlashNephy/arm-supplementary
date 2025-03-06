@@ -45218,4 +45218,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] WEB: レッツロール！シナモロール
   // https://annict.com/works/15597
   { annict_id: 15597, mal_id: 61151 },
+  // [2025-WINTER] WEB: アニメ「鬼滅の刃」×「MLB Tokyo Series presented by Guggenheim」コラボレーションムービー
+  // https://annict.com/works/15598
+  { annict_id: 15598 },
 ]
