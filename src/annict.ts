@@ -39574,7 +39574,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13708 },
   // [2025-SPRING] TV: ロックは淑女の嗜みでして
   // https://annict.com/works/13709
-  { annict_id: 13709, mal_id: 59360 },
+  { annict_id: 13709, mal_id: 59360, syobocal_tid: 7390 },
   // [2025-WINTER] TV: この会社に好きな人がいます
   // https://annict.com/works/13710
   { annict_id: 13710, mal_id: 59361, syobocal_tid: 7315 },
@@ -45212,4 +45212,10 @@ export const annict: ArmEntry[] = [
   // [null-null] MOVIE: 羅小黒戦記２
   // https://annict.com/works/15595
   { annict_id: 15595 },
+  // [2025-SUMMER] TV: 陰陽廻天 Re:バース
+  // https://annict.com/works/15596
+  { annict_id: 15596, mal_id: 61150 },
+  // [2025-WINTER] WEB: レッツロール！シナモロール
+  // https://annict.com/works/15597
+  { annict_id: 15597, mal_id: 61151 },
 ]
