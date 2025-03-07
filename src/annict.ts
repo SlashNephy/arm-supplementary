@@ -41353,7 +41353,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14306, mal_id: 60154, syobocal_tid: 7372 },
   // [2025-SPRING] TV: 完璧すぎて可愛げがないと婚約破棄された聖女は隣国に売られる
   // https://annict.com/works/14307
-  { annict_id: 14307, mal_id: 60157 },
+  { annict_id: 14307, mal_id: 60157, syobocal_tid: 7393 },
   // [null-null] OTHER: ブレイド＆バスタード
   // https://annict.com/works/14308
   { annict_id: 14308, mal_id: 60152 },
