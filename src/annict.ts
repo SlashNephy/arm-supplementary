@@ -27569,7 +27569,7 @@ export const annict: ArmEntry[] = [
   // [2010-AUTUMN] MOVIE: メガマインド
   // https://annict.com/works/9692
   { annict_id: 9692 },
-  // [null-null] WEB: ムーンライズ
+  // [2025-SPRING] WEB: ムーンライズ
   // https://annict.com/works/9693
   { annict_id: 9693, mal_id: 38903 },
   // [2022-SPRING] WEB: よふかしのうた ミニ
@@ -39685,7 +39685,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13745, mal_id: 59465 },
   // [2025-SPRING] TV: 阿波連さんははかれない season2
   // https://annict.com/works/13746
-  { annict_id: 13746, mal_id: 59466 },
+  { annict_id: 13746, mal_id: 59466, syobocal_tid: 7399 },
   // [null-null] TV: 治癒魔法の間違った使い方 第2期
   // https://annict.com/works/13747
   { annict_id: 13747, mal_id: 59467 },
@@ -45248,4 +45248,22 @@ export const annict: ArmEntry[] = [
   // [2002-null] MOVIE: 頭山
   // https://annict.com/works/15607
   { annict_id: 15607, mal_id: 1370 },
+  // [2025-WINTER] MOVIE: アンジェロと不思議の森
+  // https://annict.com/works/15608
+  { annict_id: 15608 },
+  // [2025-WINTER] MOVIE: ペリカンブルー
+  // https://annict.com/works/15609
+  { annict_id: 15609 },
+  // [2025-WINTER] MOVIE: ボートインザガーデン
+  // https://annict.com/works/15610
+  { annict_id: 15610 },
+  // [2025-WINTER] MOVIE: クラリスの夢
+  // https://annict.com/works/15611
+  { annict_id: 15611 },
+  // [1994-SPRING] TV: パクシ
+  // https://annict.com/works/15612
+  { annict_id: 15612 },
+  // [1992-null] TV: カロとピヨブプト
+  // https://annict.com/works/15613
+  { annict_id: 15613 },
 ]
