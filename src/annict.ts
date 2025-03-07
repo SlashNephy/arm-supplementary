@@ -45230,4 +45230,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 東島丹三郎は仮面ライダーになりたい
   // https://annict.com/works/15601
   { annict_id: 15601 },
+  // [2025-SPRING] MOVIE: ナタ：魔童鬧海
+  // https://annict.com/works/15602
+  { annict_id: 15602, mal_id: 60544 },
 ]
