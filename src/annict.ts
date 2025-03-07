@@ -40381,7 +40381,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13981 },
   // [2011-SUMMER] OTHER: Fキャラオールスターズ大集合「ドラえもん&パーマン 危機一髪!?」
   // https://annict.com/works/13982
-  { annict_id: 13982 },
+  { annict_id: 13982, mal_id: 59844 },
   // [2012-AUTUMN] OTHER: 21エモン&ドラえもん「ようこそ!ホテルつづれ屋へ」
   // https://annict.com/works/13983
   { annict_id: 13983, mal_id: 59847 },
