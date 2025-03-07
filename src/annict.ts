@@ -45224,4 +45224,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] WEB: ちょっとだけ愛が重いダークエルフが異世界から追いかけてきた ミニアニメ劇場
   // https://annict.com/works/15599
   { annict_id: 15599 },
+  // [null-null] TV: 転生した大聖女は、聖女であることをひた隠す
+  // https://annict.com/works/15600
+  { annict_id: 15600, mal_id: 61153 },
 ]
