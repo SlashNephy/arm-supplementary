@@ -36220,7 +36220,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12587, mal_id: 58447, syobocal_tid: 7067 },
   // [2025-SPRING] TV: 紫雲寺家の子供たち
   // https://annict.com/works/12588
-  { annict_id: 12588, mal_id: 58131 },
+  { annict_id: 12588, mal_id: 58131, syobocal_tid: 7401 },
   // [2007-WINTER] MOVIE: 春のめざめ
   // https://annict.com/works/12589
   { annict_id: 12589 },
