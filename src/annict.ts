@@ -40646,7 +40646,7 @@ export const annict: ArmEntry[] = [
   // [1960-null] MOVIE: かがみ
   // https://annict.com/works/14071
   { annict_id: 14071, mal_id: 29870 },
-  // [null-null] TV: ぐらんぶる Season 2
+  // [2025-SUMMER] TV: ぐらんぶる Season 2
   // https://annict.com/works/14072
   { annict_id: 14072, mal_id: 59986 },
   // [2024-SUMMER] WEB: ソードアート・オンライン オルタナティブ ガンゲイル･オンライン 12.5話「GALA」
