@@ -25345,7 +25345,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 8853 },
   // [2021-SUMMER] OTHER: ドラえもん&Fキャラオールスターズ「すこし不思議超特急 (エクスプレス)」
   // https://annict.com/works/8854
-  { annict_id: 8854 },
+  { annict_id: 8854, mal_id: 59857 },
   // [2022-WINTER] TV: 平家物語
   // https://annict.com/works/8855
   { annict_id: 8855, mal_id: 49738, syobocal_tid: 6226 },
@@ -27974,7 +27974,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: SK∞ エスケーエイト 第2期
   // https://annict.com/works/9828
   { annict_id: 9828, mal_id: 52750 },
-  // [2025-null] TV: ワンパンマン (第3期)
+  // [2025-AUTUMN] TV: ワンパンマン (第3期)
   // https://annict.com/works/9829
   { annict_id: 9829, mal_id: 52807 },
   // [2006-SPRING] TV: サルゲッチュ 〜オンエアー〜
@@ -40402,16 +40402,16 @@ export const annict: ArmEntry[] = [
   { annict_id: 13988 },
   // [2019-WINTER] OTHER: ドラえもん&Fキャラオールスターズ「月面レースで大ピンチ!?」
   // https://annict.com/works/13989
-  { annict_id: 13989 },
+  { annict_id: 13989, mal_id: 59855 },
   // [2020-WINTER] OTHER: ドラえもん誕生 / セイカイはのび太?
   // https://annict.com/works/13990
-  { annict_id: 13990 },
+  { annict_id: 13990, mal_id: 59856 },
   // [2023-WINTER] OTHER: ドラえもん&SF短編「宇宙 (そら) からのオトシダマ」
   // https://annict.com/works/13991
-  { annict_id: 13991 },
+  { annict_id: 13991, mal_id: 59858 },
   // [2024-WINTER] OTHER: ドラえもん&Fキャラオールスターズ「ゆめの町、Fランド」
   // https://annict.com/works/13992
-  { annict_id: 13992 },
+  { annict_id: 13992, mal_id: 59859 },
   // [2025-SPRING] TV: 小市民シリーズ 第2期
   // https://annict.com/works/13993
   { annict_id: 13993, mal_id: 59828, syobocal_tid: 7397 },
@@ -45196,7 +45196,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15589 },
   // [2025-SPRING] OTHER: チンプイ エリさまのグッドラック
   // https://annict.com/works/15590
-  { annict_id: 15590 },
+  { annict_id: 15590, mal_id: 61162 },
   // [null-null] OVA: アイドルマスター ミリオンライブ！ 新作エピソードOVA
   // https://annict.com/works/15591
   { annict_id: 15591, mal_id: 61156 },
@@ -45208,7 +45208,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15593 },
   // [2025-SPRING] TV: たまらないのは恋なのか
   // https://annict.com/works/15594
-  { annict_id: 15594 },
+  { annict_id: 15594, mal_id: 61146 },
   // [null-null] MOVIE: 羅小黒戦記２
   // https://annict.com/works/15595
   { annict_id: 15595 },
@@ -45229,8 +45229,23 @@ export const annict: ArmEntry[] = [
   { annict_id: 15600, mal_id: 61153 },
   // [null-null] OTHER: 東島丹三郎は仮面ライダーになりたい
   // https://annict.com/works/15601
-  { annict_id: 15601 },
+  { annict_id: 15601, mal_id: 61159 },
   // [2025-SPRING] MOVIE: ナタ：魔童鬧海
   // https://annict.com/works/15602
   { annict_id: 15602, mal_id: 60544 },
+  // [2023-WINTER] MOVIE: 幾多の北
+  // https://annict.com/works/15603
+  { annict_id: 15603, mal_id: 50427 },
+  // [2023-WINTER] MOVIE: ホッキョクグマすっごくひま
+  // https://annict.com/works/15604
+  { annict_id: 15604, mal_id: 51828 },
+  // [2023-WINTER] MOVIE: 骨嚙み
+  // https://annict.com/works/15605
+  { annict_id: 15605, mal_id: 50872 },
+  // [2023-WINTER] MOVIE: ミニミニポッケの大きな庭で
+  // https://annict.com/works/15606
+  { annict_id: 15606, mal_id: 53699 },
+  // [2002-null] MOVIE: 頭山
+  // https://annict.com/works/15607
+  { annict_id: 15607, mal_id: 1370 },
 ]
