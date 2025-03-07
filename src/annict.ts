@@ -40384,22 +40384,22 @@ export const annict: ArmEntry[] = [
   { annict_id: 13982 },
   // [2012-AUTUMN] OTHER: 21エモン&ドラえもん「ようこそ!ホテルつづれ屋へ」
   // https://annict.com/works/13983
-  { annict_id: 13983 },
+  { annict_id: 13983, mal_id: 59847 },
   // [2013-SUMMER] OTHER: すすめロボケット&ドラえもん「決戦!雲の上の竜巻城」
   // https://annict.com/works/13984
-  { annict_id: 13984 },
+  { annict_id: 13984, mal_id: 59849 },
   // [2014-SUMMER] OTHER: ドラえもん&チンプイ「エリ様 愛のプレゼント大作戦」
   // https://annict.com/works/13985
-  { annict_id: 13985 },
+  { annict_id: 13985, mal_id: 59850 },
   // [2015-SUMMER] OTHER: キテレツ大百科&ドラえもん「コロ助のはじめてのおつかい」
   // https://annict.com/works/13986
-  { annict_id: 13986 },
+  { annict_id: 13986, mal_id: 59851 },
   // [2016-SUMMER] OTHER: ポコニャン&ドラえもん「ポンポコニャンでここほれニャンニャン!?」
   // https://annict.com/works/13987
-  { annict_id: 13987 },
+  { annict_id: 13987, mal_id: 59852 },
   // [2017-SUMMER] OTHER: ウメ星デンカ&ドラえもん「パンパロパンのスッパッパ!」
   // https://annict.com/works/13988
-  { annict_id: 13988 },
+  { annict_id: 13988, mal_id: 59854 },
   // [2019-WINTER] OTHER: ドラえもん&Fキャラオールスターズ「月面レースで大ピンチ!?」
   // https://annict.com/works/13989
   { annict_id: 13989, mal_id: 59855 },
