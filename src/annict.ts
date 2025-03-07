@@ -45227,4 +45227,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 転生した大聖女は、聖女であることをひた隠す
   // https://annict.com/works/15600
   { annict_id: 15600, mal_id: 61153 },
+  // [null-null] OTHER: 東島丹三郎は仮面ライダーになりたい
+  // https://annict.com/works/15601
+  { annict_id: 15601 },
 ]
