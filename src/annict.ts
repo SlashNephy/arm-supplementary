@@ -27472,7 +27472,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9659, mal_id: 51837, syobocal_tid: 6409 },
   // [2025-SPRING] TV: 炎炎ノ消防隊 参ノ章
   // https://annict.com/works/9660
-  { annict_id: 9660, mal_id: 51818 },
+  { annict_id: 9660, mal_id: 51818, syobocal_tid: 7395 },
   // [2022-SUMMER] WEB: ROLY POLY PEOPLES
   // https://annict.com/works/9661
   { annict_id: 9661, mal_id: 52421 },
@@ -38983,7 +38983,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13511, mal_id: 59161 },
   // [2025-SPRING] TV: WIND BREAKER Season 2
   // https://annict.com/works/13512
-  { annict_id: 13512, mal_id: 59160 },
+  { annict_id: 13512, mal_id: 59160, syobocal_tid: 7396 },
   // [2024-SPRING] WEB: 伊右衛門の車窓にて
   // https://annict.com/works/13513
   { annict_id: 13513 },
@@ -39292,7 +39292,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13614, mal_id: 59230 },
   // [2025-SPRING] TV: 黒執事 -緑の魔女編-
   // https://annict.com/works/13615
-  { annict_id: 13615, mal_id: 59228 },
+  { annict_id: 13615, mal_id: 59228, syobocal_tid: 7394 },
   // [null-null] TV: みなみけ TVアニメ新シリーズ
   // https://annict.com/works/13616
   { annict_id: 13616 },
@@ -40414,7 +40414,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13992 },
   // [2025-SPRING] TV: 小市民シリーズ 第2期
   // https://annict.com/works/13993
-  { annict_id: 13993, mal_id: 59828 },
+  { annict_id: 13993, mal_id: 59828, syobocal_tid: 7397 },
   // [2019-null] MOVIE: ･･･を待ちながら
   // https://annict.com/works/13994
   { annict_id: 13994 },
