@@ -29954,9 +29954,9 @@ export const annict: ArmEntry[] = [
   // [1999-AUTUMN] TV: 101匹わんちゃん(TVシリーズ)
   // https://annict.com/works/10492
   { annict_id: 10492 },
-  // [null-null] OTHER: 『リコリス・リコイル』新作アニメーション
+  // [null-null] OTHER: リコリス・リコイル Friends are thieves of time.
   // https://annict.com/works/10493
-  { annict_id: 10493, mal_id: 54440 },
+  { annict_id: 10493, mal_id: 59369 },
   // [2020-SPRING] WEB: フォーキーのコレって何?
   // https://annict.com/works/10494
   { annict_id: 10494 },
@@ -39605,9 +39605,6 @@ export const annict: ArmEntry[] = [
   // [2020-AUTUMN] WEB: サンリオキャラクターズ スーパーキュートアドベンチャーズ
   // https://annict.com/works/13719
   { annict_id: 13719 },
-  // [null-null] OTHER: リコリス・リコイル Friends are thieves of time.
-  // https://annict.com/works/13720
-  { annict_id: 13720, mal_id: 59369 },
   // [2024-SUMMER] TV: おはよう！うんこ先生
   // https://annict.com/works/13721
   { annict_id: 13721, mal_id: 59409 },
