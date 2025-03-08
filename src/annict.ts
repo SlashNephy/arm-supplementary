@@ -31267,7 +31267,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10930, mal_id: 55717, syobocal_tid: 7008 },
   // [2025-SPRING] TV: 未ル わたしのみらい
   // https://annict.com/works/10931
-  { annict_id: 10931, mal_id: 55727 },
+  { annict_id: 10931, mal_id: 55727, syobocal_tid: 7404 },
   // [2023-SUMMER] MOVIE: カールじいさんのデート
   // https://annict.com/works/10932
   { annict_id: 10932 },
@@ -40159,7 +40159,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13906 },
   // [2025-SPRING] TV: ちょっとだけ愛が重いダークエルフが異世界から追いかけてきた
   // https://annict.com/works/13907
-  { annict_id: 13907, mal_id: 59745 },
+  { annict_id: 13907, mal_id: 59745, syobocal_tid: 7405 },
   // [2024-SUMMER] WEB: PIHOTEK(ピヒュッティ) 北極を風と歩く
   // https://annict.com/works/13908
   { annict_id: 13908 },
