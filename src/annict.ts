@@ -29540,7 +29540,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 乙女ゲー世界はモブに厳しい世界です 第2期
   // https://annict.com/works/10352
   { annict_id: 10352, mal_id: 54000 },
-  // [2025-null] TV: Turkey!
+  // [2025-SUMMER] TV: Turkey!
   // https://annict.com/works/10353
   { annict_id: 10353, mal_id: 54028 },
   // [2023-WINTER] TV: Call Star -ボクは本当にダメな星？-
@@ -41344,7 +41344,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14303 },
   // [2025-SPRING] TV: 最強の王様、二度目の人生は何をする？
   // https://annict.com/works/14304
-  { annict_id: 14304, mal_id: 60146 },
+  { annict_id: 14304, mal_id: 60146, syobocal_tid: 7403 },
   // [null-null] OTHER: リラックマ
   // https://annict.com/works/14305
   { annict_id: 14305, mal_id: 60153 },
