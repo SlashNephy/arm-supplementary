@@ -45269,4 +45269,7 @@ export const annict: ArmEntry[] = [
   // [1978-null] OTHER: しょーとしょーとしょうげきじょう
   // https://annict.com/works/15614
   { annict_id: 15614 },
+  // [2025-SPRING] TV: ゲゲゲの鬼太郎 私の愛した歴代ゲゲゲ
+  // https://annict.com/works/15615
+  { annict_id: 15615 },
 ]
