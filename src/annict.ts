@@ -45272,4 +45272,10 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] TV: ゲゲゲの鬼太郎 私の愛した歴代ゲゲゲ
   // https://annict.com/works/15615
   { annict_id: 15615 },
+  // [1978-null] MOVIE: SF 最後の審判
+  // https://annict.com/works/15616
+  { annict_id: 15616 },
+  // [1979-null] MOVIE: 台所会議
+  // https://annict.com/works/15617
+  { annict_id: 15617 },
 ]
