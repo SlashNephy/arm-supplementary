@@ -45266,4 +45266,7 @@ export const annict: ArmEntry[] = [
   // [1992-null] TV: カロとピヨブプト
   // https://annict.com/works/15613
   { annict_id: 15613 },
+  // [1978-null] OTHER: しょーとしょーとしょうげきじょう
+  // https://annict.com/works/15614
+  { annict_id: 15614 },
 ]
