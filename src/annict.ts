@@ -45278,4 +45278,19 @@ export const annict: ArmEntry[] = [
   // [1979-null] MOVIE: 台所会議
   // https://annict.com/works/15617
   { annict_id: 15617 },
+  // [1979-null] MOVIE: パロディ予告篇
+  // https://annict.com/works/15618
+  { annict_id: 15618 },
+  // [1982-null] MOVIE: ブラこうじ・わーるど
+  // https://annict.com/works/15619
+  { annict_id: 15619 },
+  // [1984-null] MOVIE: オーム博士星へ行く
+  // https://annict.com/works/15620
+  { annict_id: 15620 },
+  // [2019-SPRING] WEB: WILDAID Hankograph
+  // https://annict.com/works/15621
+  { annict_id: 15621 },
+  // [1979-WINTER] MOVIE: 劇場版 アルプスの少女ハイジ
+  // https://annict.com/works/15622
+  { annict_id: 15622, mal_id: 9547 },
 ]
