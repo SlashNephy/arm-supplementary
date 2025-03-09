@@ -45259,10 +45259,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 15611 },
   // [1994-SPRING] TV: パクシ
   // https://annict.com/works/15612
-  { annict_id: 15612 },
+  { annict_id: 15612, mal_id: 7448 },
   // [1992-null] TV: カロとピヨブプト
   // https://annict.com/works/15613
-  { annict_id: 15613 },
+  { annict_id: 15613, mal_id: 7445 },
   // [1978-null] OTHER: しょーとしょーとしょうげきじょう
   // https://annict.com/works/15614
   { annict_id: 15614 },
@@ -45290,4 +45290,7 @@ export const annict: ArmEntry[] = [
   // [1979-WINTER] MOVIE: 劇場版 アルプスの少女ハイジ
   // https://annict.com/works/15622
   { annict_id: 15622, mal_id: 9547 },
+  // [null-null] TV: BLACK TORCH
+  // https://annict.com/works/15623
+  { annict_id: 15623, mal_id: 61169 },
 ]
