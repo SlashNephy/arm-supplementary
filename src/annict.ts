@@ -45335,4 +45335,10 @@ export const annict: ArmEntry[] = [
   // [2006-SPRING] MOVIE: スポンジ・ボブ/スクエアパンツ ザ・ムービー
   // https://annict.com/works/15637
   { annict_id: 15637 },
+  // [2015-SPRING] MOVIE: スポンジ・ボブ 海のみんなが世界を救Woo!
+  // https://annict.com/works/15638
+  { annict_id: 15638 },
+  // [2020-AUTUMN] WEB: スポンジ・ボブ: スポンジ・オン・ザ・ラン
+  // https://annict.com/works/15639
+  { annict_id: 15639 },
 ]
