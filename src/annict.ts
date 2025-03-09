@@ -43546,7 +43546,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15039, mal_id: 60658 },
   // [2025-WINTER] OVA: Fate/Grand Order 藤丸立香はわからない Season2 OVA
   // https://annict.com/works/15040
-  { annict_id: 15040 },
+  { annict_id: 15040, mal_id: 61167 },
   // [2024-AUTUMN] TV: SFBC "Fake" Commercial Film
   // https://annict.com/works/15041
   { annict_id: 15041, mal_id: 60660 },
