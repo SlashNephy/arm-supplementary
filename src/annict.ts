@@ -45341,4 +45341,7 @@ export const annict: ArmEntry[] = [
   // [2020-AUTUMN] WEB: スポンジ・ボブ: スポンジ・オン・ザ・ラン
   // https://annict.com/works/15639
   { annict_id: 15639 },
+  // [2005-SUMMER] TV: FNS地球特捜隊ダイバスター
+  // https://annict.com/works/15640
+  { annict_id: 15640 },
 ]
