@@ -37099,7 +37099,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12882, mal_id: 54194 },
   // [2025-SPRING] TV: 神統記(テオゴニア)
   // https://annict.com/works/12883
-  { annict_id: 12883, mal_id: 58614 },
+  { annict_id: 12883, mal_id: 58614, syobocal_tid: 7406 },
   // [2024-SPRING] WEB: 夜桜さんちのミニ作戦
   // https://annict.com/works/12884
   { annict_id: 12884, mal_id: 58644 },
@@ -39187,7 +39187,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13579 },
   // [2025-SPRING] TV: 戦隊大失格 2nd season
   // https://annict.com/works/13580
-  { annict_id: 13580, mal_id: 59189 },
+  { annict_id: 13580, mal_id: 59189, syobocal_tid: 7407 },
   // [2025-SUMMER] MOVIE: 劇場版 鬼滅の刃 無限城編 第一章
   // https://annict.com/works/13581
   { annict_id: 13581, mal_id: 59192 },
