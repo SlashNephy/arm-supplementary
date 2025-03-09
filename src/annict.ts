@@ -43396,7 +43396,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14989 },
   // [2025-SPRING] TV: ヴィジランテ -僕のヒーローアカデミア ILLEGALS-
   // https://annict.com/works/14990
-  { annict_id: 14990, mal_id: 60593 },
+  { annict_id: 14990, mal_id: 60593, syobocal_tid: 7408 },
   // [1980-null] OTHER: リトル・ニモ パイロットフィルム（月岡貞夫版）
   // https://annict.com/works/14991
   { annict_id: 14991, mal_id: 49117 },
