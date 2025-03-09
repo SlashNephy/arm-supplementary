@@ -37289,7 +37289,7 @@ export const annict: ArmEntry[] = [
   // [2015-WINTER] MOVIE: 劇場版 ムーミン谷の彗星 パペット・アニメーション
   // https://annict.com/works/12946
   { annict_id: 12946 },
-  // [2025-null] TV: かくして！マキナさん!!
+  // [2025-SPRING] TV: かくして！マキナさん!!
   // https://annict.com/works/12947
   { annict_id: 12947, mal_id: 58833 },
   // [2024-SPRING] WEB: スター・ウォーズ テイルズ・オブ・エンパイア
