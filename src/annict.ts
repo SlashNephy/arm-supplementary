@@ -45293,4 +45293,46 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: BLACK TORCH
   // https://annict.com/works/15623
   { annict_id: 15623, mal_id: 61169 },
+  // [2000-WINTER] TV: スポンジ・ボブ(シーズン1)
+  // https://annict.com/works/15624
+  { annict_id: 15624 },
+  // [2000-AUTUMN] TV: スポンジ・ボブ(シーズン2)
+  // https://annict.com/works/15625
+  { annict_id: 15625 },
+  // [2001-AUTUMN] TV: スポンジ・ボブ(シーズン3)
+  // https://annict.com/works/15626
+  { annict_id: 15626 },
+  // [2007-SUMMER] TV: スポンジ・ボブ(シーズン4)
+  // https://annict.com/works/15627
+  { annict_id: 15627 },
+  // [2009-WINTER] TV: スポンジ・ボブ(シーズン5)
+  // https://annict.com/works/15628
+  { annict_id: 15628 },
+  // [2010-WINTER] TV: スポンジ・ボブ(シーズン6)
+  // https://annict.com/works/15629
+  { annict_id: 15629 },
+  // [2012-AUTUMN] TV: スポンジ・ボブ(シーズン7)
+  // https://annict.com/works/15630
+  { annict_id: 15630 },
+  // [2013-AUTUMN] TV: スポンジ・ボブ(シーズン8)
+  // https://annict.com/works/15631
+  { annict_id: 15631 },
+  // [2017-SPRING] TV: スポンジ・ボブ(シーズン9)
+  // https://annict.com/works/15632
+  { annict_id: 15632 },
+  // [2018-SPRING] TV: スポンジ・ボブ(シーズン10)
+  // https://annict.com/works/15633
+  { annict_id: 15633 },
+  // [2018-SUMMER] TV: スポンジ・ボブ(シーズン11)
+  // https://annict.com/works/15634
+  { annict_id: 15634 },
+  // [2019-AUTUMN] TV: スポンジ・ボブ(シーズン12)
+  // https://annict.com/works/15635
+  { annict_id: 15635 },
+  // [2023-WINTER] TV: スポンジ・ボブ(シーズン13)
+  // https://annict.com/works/15636
+  { annict_id: 15636 },
+  // [2006-SPRING] MOVIE: スポンジ・ボブ/スクエアパンツ ザ・ムービー
+  // https://annict.com/works/15637
+  { annict_id: 15637 },
 ]
