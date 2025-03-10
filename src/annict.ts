@@ -42614,7 +42614,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: クリスマスはすぐそこに
   // https://annict.com/works/14729
   { annict_id: 14729 },
-  // [2025-null] MOVIE: JUNK WORLD
+  // [2025-SPRING] MOVIE: JUNK WORLD
   // https://annict.com/works/14730
   { annict_id: 14730, mal_id: 56640 },
   // [2013-AUTUMN] MOVIE: JUNK HEAD 1
