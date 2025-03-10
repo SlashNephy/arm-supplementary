@@ -401,30 +401,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@graphql-codegen/client-preset@npm:4.6.4":
-  version: 4.6.4
-  resolution: "@graphql-codegen/client-preset@npm:4.6.4"
-  dependencies:
-    "@babel/helper-plugin-utils": "npm:^7.20.2"
-    "@babel/template": "npm:^7.20.7"
-    "@graphql-codegen/add": "npm:^5.0.3"
-    "@graphql-codegen/gql-tag-operations": "npm:4.0.16"
-    "@graphql-codegen/plugin-helpers": "npm:^5.1.0"
-    "@graphql-codegen/typed-document-node": "npm:^5.0.15"
-    "@graphql-codegen/typescript": "npm:^4.1.5"
-    "@graphql-codegen/typescript-operations": "npm:^4.5.1"
-    "@graphql-codegen/visitor-plugin-common": "npm:^5.7.1"
-    "@graphql-tools/documents": "npm:^1.0.0"
-    "@graphql-tools/utils": "npm:^10.0.0"
-    "@graphql-typed-document-node/core": "npm:3.2.0"
-    tslib: "npm:~2.6.0"
-  peerDependencies:
-    graphql: ^0.8.0 || ^0.9.0 || ^0.10.0 || ^0.11.0 || ^0.12.0 || ^0.13.0 || ^14.0.0 || ^15.0.0 || ^16.0.0
-  checksum: 10/9865f2a31c795044cebe4dc88dba8d4c94a5bc6a94e3c6759ddc47555a9689a0b3cf1a5095b4757182756d250de33f6a806f55ed4c74419a8bbd55da30e29e47
-  languageName: node
-  linkType: hard
-
-"@graphql-codegen/client-preset@npm:^4.6.0":
+"@graphql-codegen/client-preset@npm:4.7.0, @graphql-codegen/client-preset@npm:^4.6.0":
   version: 4.7.0
   resolution: "@graphql-codegen/client-preset@npm:4.7.0"
   dependencies:
@@ -505,7 +482,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@graphql-codegen/typed-document-node@npm:^5.0.15, @graphql-codegen/typed-document-node@npm:^5.1.0":
+"@graphql-codegen/typed-document-node@npm:^5.1.0":
   version: 5.1.0
   resolution: "@graphql-codegen/typed-document-node@npm:5.1.0"
   dependencies:
@@ -2278,7 +2255,7 @@ __metadata:
   resolution: "arm-supplementary@workspace:."
   dependencies:
     "@graphql-codegen/cli": "npm:5.0.5"
-    "@graphql-codegen/client-preset": "npm:4.6.4"
+    "@graphql-codegen/client-preset": "npm:4.7.0"
     "@slashnephy/eslint-config": "npm:2.3.186"
     "@slashnephy/prettier-config": "npm:1.0.73"
     "@types/node": "npm:22.13.9"
