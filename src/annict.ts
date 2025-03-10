@@ -45356,4 +45356,7 @@ export const annict: ArmEntry[] = [
   // [2014-AUTUMN] MOVIE: パタパタ
   // https://annict.com/works/15644
   { annict_id: 15644, mal_id: 33238 },
+  // [2022-SUMMER] WEB: 映画『激怒』をゲキメーションにしてみた。
+  // https://annict.com/works/15645
+  { annict_id: 15645 },
 ]
