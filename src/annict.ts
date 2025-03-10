@@ -45344,4 +45344,10 @@ export const annict: ArmEntry[] = [
   // [2005-SUMMER] TV: FNS地球特捜隊ダイバスター
   // https://annict.com/works/15640
   { annict_id: 15640 },
+  // [2000-WINTER] TV: メイシー
+  // https://annict.com/works/15641
+  { annict_id: 15641 },
+  // [2000-AUTUMN] TV: ネッズニュート
+  // https://annict.com/works/15642
+  { annict_id: 15642 },
 ]
