@@ -45359,4 +45359,7 @@ export const annict: ArmEntry[] = [
   // [2022-SUMMER] WEB: 映画『激怒』をゲキメーションにしてみた。
   // https://annict.com/works/15645
   { annict_id: 15645 },
+  // [2025-WINTER] WEB: 物流魅力発信アニメ「あれも、これも、物流なんだ。」
+  // https://annict.com/works/15646
+  { annict_id: 15646 },
 ]
