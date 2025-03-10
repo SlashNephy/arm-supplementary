@@ -33053,7 +33053,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: 放課後少年花子くん 続編
   // https://annict.com/works/11527
   { annict_id: 11527, mal_id: 57102, syobocal_tid: 7254 },
-  // [null-null] TV: 無職の英雄 別にスキルなんか要らなかったんだが
+  // [2025-null] TV: 無職の英雄 ～別にスキルなんか要らなかったんだが～
   // https://annict.com/works/11528
   { annict_id: 11528, mal_id: 56854 },
   // [2024-SPRING] WEB: ULTRAMAN: RISING
