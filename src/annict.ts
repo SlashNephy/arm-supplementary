@@ -45362,4 +45362,10 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] WEB: 物流魅力発信アニメ「あれも、これも、物流なんだ。」
   // https://annict.com/works/15646
   { annict_id: 15646 },
+  // [2025-WINTER] MOVIE: プランクトン: ザ・ムービー
+  // https://annict.com/works/15647
+  { annict_id: 15647 },
+  // [2025-WINTER] MOVIE: 映画しまじろう しまじろうとゆうきのうた
+  // https://annict.com/works/15648
+  { annict_id: 15648, mal_id: 56335 },
 ]
