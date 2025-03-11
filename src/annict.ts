@@ -43607,7 +43607,7 @@ export const annict: ArmEntry[] = [
   // [2001-SUMMER] MOVIE: ガンダム新体験‐0087‐グリーンダイバーズ
   // https://annict.com/works/15060
   { annict_id: 15060, mal_id: 8839 },
-  // [null-null] TV: フェルマーの料理
+  // [2025-SUMMER] TV: フェルマーの料理
   // https://annict.com/works/15061
   { annict_id: 15061, mal_id: 60697 },
   // [2014-SPRING] MOVIE: ダイナミックヴィーナス
