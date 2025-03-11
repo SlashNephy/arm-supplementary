@@ -31561,7 +31561,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11028, mal_id: 52709, syobocal_tid: 7384 },
   // [2025-SPRING] TV: ユア・フォルマ
   // https://annict.com/works/11029
-  { annict_id: 11029, mal_id: 55995 },
+  { annict_id: 11029, mal_id: 55995, syobocal_tid: 7409 },
   // [2025-WINTER] TV: ギルドの受付嬢ですが、残業は嫌なのでボスをソロ討伐しようと思います
   // https://annict.com/works/11030
   { annict_id: 11030, mal_id: 55997, syobocal_tid: 7297 },
