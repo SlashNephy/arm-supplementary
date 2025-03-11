@@ -45368,4 +45368,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] MOVIE: 映画しまじろう しまじろうとゆうきのうた
   // https://annict.com/works/15648
   { annict_id: 15648, mal_id: 56335 },
+  // [2025-WINTER] MOVIE: 映画 きかんしゃトーマス ぼくのたいせつなともだち
+  // https://annict.com/works/15649
+  { annict_id: 15649 },
 ]
