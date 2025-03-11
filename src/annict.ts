@@ -45371,4 +45371,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] MOVIE: 映画 きかんしゃトーマス ぼくのたいせつなともだち
   // https://annict.com/works/15649
   { annict_id: 15649 },
+  // [1991-SPRING] OVA: NG騎士ラムネ&40総集編
+  // https://annict.com/works/15650
+  { annict_id: 15650 },
 ]
