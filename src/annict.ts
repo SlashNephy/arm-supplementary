@@ -45377,4 +45377,10 @@ export const annict: ArmEntry[] = [
   // [1991-SPRING] OVA: NG騎士ラムネ&40総集編
   // https://annict.com/works/15650
   { annict_id: 15650 },
+  // [2024-WINTER] TV: ルカと太陽の花 第1章
+  // https://annict.com/works/15651
+  { annict_id: 15651, mal_id: 58805 },
+  // [2025-WINTER] TV: ルカと太陽の花 第2章
+  // https://annict.com/works/15652
+  { annict_id: 15652 },
 ]
