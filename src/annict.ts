@@ -45401,4 +45401,46 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 上伊那ぼたん、酔へる姿は百合の花
   // https://annict.com/works/15658
   { annict_id: 15658, mal_id: 61186 },
+  // [2025-AUTUMN] WEB: イン・ユア・ドリームズ: 願いがかなうなら
+  // https://annict.com/works/15659
+  { annict_id: 15659 },
+  // [2025-WINTER] MOVIE: 干支新年会
+  // https://annict.com/works/15660
+  { annict_id: 15660 },
+  // [2025-WINTER] MOVIE: クマと鳥
+  // https://annict.com/works/15661
+  { annict_id: 15661 },
+  // [2025-WINTER] MOVIE: クロスステッチ
+  // https://annict.com/works/15662
+  { annict_id: 15662 },
+  // [2025-WINTER] MOVIE: 赤
+  // https://annict.com/works/15663
+  { annict_id: 15663 },
+  // [2025-WINTER] MOVIE: バタフライ
+  // https://annict.com/works/15664
+  { annict_id: 15664 },
+  // [2025-WINTER] MOVIE: リナ
+  // https://annict.com/works/15665
+  { annict_id: 15665 },
+  // [2025-WINTER] MOVIE: トランペットボイス
+  // https://annict.com/works/15666
+  { annict_id: 15666 },
+  // [2025-WINTER] MOVIE: ヨビとアマリ
+  // https://annict.com/works/15667
+  { annict_id: 15667 },
+  // [2025-WINTER] MOVIE: 周りが見えない女の子
+  // https://annict.com/works/15668
+  { annict_id: 15668 },
+  // [2025-WINTER] MOVIE: ボックス
+  // https://annict.com/works/15669
+  { annict_id: 15669 },
+  // [2025-WINTER] TV: 羊に誘われて
+  // https://annict.com/works/15670
+  { annict_id: 15670 },
+  // [2025-WINTER] MOVIE: 一人ぼっちの洗濯
+  // https://annict.com/works/15671
+  { annict_id: 15671 },
+  // [2025-WINTER] MOVIE: 次は？
+  // https://annict.com/works/15672
+  { annict_id: 15672 },
 ]
