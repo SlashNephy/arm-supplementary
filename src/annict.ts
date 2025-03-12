@@ -37532,7 +37532,7 @@ export const annict: ArmEntry[] = [
   // [2003-AUTUMN] MOVIE: 連句アニメーション「冬の日」
   // https://annict.com/works/13027
   { annict_id: 13027 },
-  // [null-null] TV: ダーウィン事変
+  // [2026-WINTER] TV: ダーウィン事変
   // https://annict.com/works/13028
   { annict_id: 13028, mal_id: 58886 },
   // [1932-AUTUMN] MOVIE: 昆虫救助隊
@@ -45400,5 +45400,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 15657, mal_id: 29485 },
   // [null-null] TV: 上伊那ぼたん、酔へる姿は百合の花
   // https://annict.com/works/15658
-  { annict_id: 15658 },
+  { annict_id: 15658, mal_id: 61186 },
 ]
