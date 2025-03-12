@@ -43997,7 +43997,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] WEB: 色違いのアーボ
   // https://annict.com/works/15190
   { annict_id: 15190, mal_id: 60848 },
-  // [1994-SPRING] TV: 大好き!ねんどママ
+  // [1994-SPRING] TV: だいすき！ねんどママ
   // https://annict.com/works/15191
   { annict_id: 15191, mal_id: 29469 },
   // [1995-SPRING] TV: ぶーばーがー
@@ -45389,4 +45389,13 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] TV: 春告げ魚と風来坊
   // https://annict.com/works/15654
   { annict_id: 15654, mal_id: 58229 },
+  // [1996-null] TV: KOKI
+  // https://annict.com/works/15655
+  { annict_id: 15655 },
+  // [2002-SPRING] TV: ナッチョとポム
+  // https://annict.com/works/15656
+  { annict_id: 15656 },
+  // [2005-AUTUMN] TV: タルピー
+  // https://annict.com/works/15657
+  { annict_id: 15657, mal_id: 29485 },
 ]
