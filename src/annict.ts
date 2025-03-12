@@ -45488,4 +45488,19 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] MOVIE: バレンティス
   // https://annict.com/works/15687
   { annict_id: 15687 },
+  // [2025-WINTER] MOVIE: リビング・ラージ
+  // https://annict.com/works/15688
+  { annict_id: 15688 },
+  // [2025-SPRING] TV: ゴー！ゴー！びーくるずー のりものスター編
+  // https://annict.com/works/15689
+  { annict_id: 15689 },
+  // [2024-AUTUMN] MOVIE: オリビアと雲
+  // https://annict.com/works/15690
+  { annict_id: 15690 },
+  // [2025-WINTER] MOVIE: ペーパーカット︓インディー作家の僕の⼈⽣
+  // https://annict.com/works/15691
+  { annict_id: 15691 },
+  // [2025-WINTER] WEB: ギャビーのドールハウス シーズン11
+  // https://annict.com/works/15692
+  { annict_id: 15692 },
 ]
