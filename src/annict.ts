@@ -45485,4 +45485,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] WEB: 冒険大陸 アニアキングダム 伝説のガーディアン編
   // https://annict.com/works/15686
   { annict_id: 15686 },
+  // [2025-WINTER] MOVIE: バレンティス
+  // https://annict.com/works/15687
+  { annict_id: 15687 },
 ]
