@@ -45467,4 +45467,10 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] MOVIE: 奴隷
   // https://annict.com/works/15680
   { annict_id: 15680 },
+  // [2025-WINTER] MOVIE: ビッチ
+  // https://annict.com/works/15681
+  { annict_id: 15681 },
+  // [2025-WINTER] MOVIE: いつものルート
+  // https://annict.com/works/15682
+  { annict_id: 15682 },
 ]
