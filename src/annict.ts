@@ -45385,7 +45385,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15652 },
   // [2025-AUTUMN] TV: 野原ひろし 昼メシの流儀
   // https://annict.com/works/15653
-  { annict_id: 15653 },
+  { annict_id: 15653, mal_id: 61184 },
   // [2024-WINTER] TV: 春告げ魚と風来坊
   // https://annict.com/works/15654
   { annict_id: 15654, mal_id: 58229 },
@@ -45398,4 +45398,7 @@ export const annict: ArmEntry[] = [
   // [2005-AUTUMN] TV: タルピー
   // https://annict.com/works/15657
   { annict_id: 15657, mal_id: 29485 },
+  // [null-null] TV: 上伊那ぼたん、酔へる姿は百合の花
+  // https://annict.com/works/15658
+  { annict_id: 15658 },
 ]
