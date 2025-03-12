@@ -45449,4 +45449,10 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] MOVIE: 木々の秘密
   // https://annict.com/works/15674
   { annict_id: 15674 },
+  // [2025-WINTER] MOVIE: スナック『猫』
+  // https://annict.com/works/15675
+  { annict_id: 15675 },
+  // [2025-WINTER] MOVIE: 蛍
+  // https://annict.com/works/15676
+  { annict_id: 15676 },
 ]
