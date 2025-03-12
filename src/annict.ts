@@ -42116,7 +42116,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: アルネの事件簿
   // https://annict.com/works/14562
   { annict_id: 14562, mal_id: 60255 },
-  // [null-null] OTHER: 矢野くんの普通の日々
+  // [2025-AUTUMN] TV: 矢野くんの普通の日々
   // https://annict.com/works/14563
   { annict_id: 14563, mal_id: 60254 },
   // [null-null] TV: 異世界マンチキン ―HP1のままで最強最速ダンジョン攻略―
