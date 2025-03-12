@@ -45482,4 +45482,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] MOVIE: ピエトラ
   // https://annict.com/works/15685
   { annict_id: 15685 },
+  // [2024-SPRING] WEB: 冒険大陸 アニアキングダム 伝説のガーディアン編
+  // https://annict.com/works/15686
+  { annict_id: 15686 },
 ]
