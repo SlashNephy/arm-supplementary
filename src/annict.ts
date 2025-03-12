@@ -45479,4 +45479,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] MOVIE: ゴミ
   // https://annict.com/works/15684
   { annict_id: 15684 },
+  // [2025-WINTER] MOVIE: ピエトラ
+  // https://annict.com/works/15685
+  { annict_id: 15685 },
 ]
