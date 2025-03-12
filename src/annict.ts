@@ -45383,4 +45383,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] TV: ルカと太陽の花 第2章
   // https://annict.com/works/15652
   { annict_id: 15652 },
+  // [2025-AUTUMN] TV: 野原ひろし 昼メシの流儀
+  // https://annict.com/works/15653
+  { annict_id: 15653 },
 ]
