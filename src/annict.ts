@@ -29954,9 +29954,9 @@ export const annict: ArmEntry[] = [
   // [1999-AUTUMN] TV: 101匹わんちゃん(TVシリーズ)
   // https://annict.com/works/10492
   { annict_id: 10492 },
-  // [null-null] OTHER: リコリス・リコイル Friends are thieves of time.
+  // [null-null] OTHER: 『リコリス・リコイル』新作アニメーション
   // https://annict.com/works/10493
-  { annict_id: 10493, mal_id: 59369 },
+  { annict_id: 10493, mal_id: 54440 },
   // [2020-SPRING] WEB: フォーキーのコレって何?
   // https://annict.com/works/10494
   { annict_id: 10494 },
@@ -37291,7 +37291,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12946 },
   // [2025-SPRING] TV: かくして！マキナさん!!
   // https://annict.com/works/12947
-  { annict_id: 12947, mal_id: 58833 },
+  { annict_id: 12947, mal_id: 58833, syobocal_tid: 7410 },
   // [2024-SPRING] WEB: スター・ウォーズ テイルズ・オブ・エンパイア
   // https://annict.com/works/12948
   { annict_id: 12948 },
@@ -39205,7 +39205,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13585, mal_id: 58856 },
   // [2025-SPRING] TV: クラシック★スターズ
   // https://annict.com/works/13586
-  { annict_id: 13586, mal_id: 59199 },
+  { annict_id: 13586, mal_id: 59199, syobocal_tid: 7411 },
   // [2024-SUMMER] WEB: 直江くんは痩せさせたい。
   // https://annict.com/works/13587
   { annict_id: 13587, mal_id: 59290 },
@@ -39605,6 +39605,9 @@ export const annict: ArmEntry[] = [
   // [2020-AUTUMN] WEB: サンリオキャラクターズ スーパーキュートアドベンチャーズ
   // https://annict.com/works/13719
   { annict_id: 13719 },
+  // [null-null] OTHER: リコリス・リコイル Friends are thieves of time.
+  // https://annict.com/works/13720
+  { annict_id: 13720, mal_id: 59369 },
   // [2024-SUMMER] TV: おはよう！うんこ先生
   // https://annict.com/works/13721
   { annict_id: 13721, mal_id: 59409 },
