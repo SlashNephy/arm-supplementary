@@ -45461,4 +45461,10 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] MOVIE: 慢性化
   // https://annict.com/works/15678
   { annict_id: 15678 },
+  // [2025-WINTER] MOVIE: 道
+  // https://annict.com/works/15679
+  { annict_id: 15679 },
+  // [2025-WINTER] MOVIE: 奴隷
+  // https://annict.com/works/15680
+  { annict_id: 15680 },
 ]
