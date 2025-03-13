@@ -45530,4 +45530,7 @@ export const annict: ArmEntry[] = [
   // [1967-AUTUMN] TV: ルドルフ 赤鼻のトナカイ
   // https://annict.com/works/15701
   { annict_id: 15701 },
+  // [2013-AUTUMN] MOVIE: ノーマン・ザ・スノーマン～北の国のオーロラ～
+  // https://annict.com/works/15702
+  { annict_id: 15702, mal_id: 20799 },
 ]
