@@ -45527,4 +45527,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] WEB: ゾンビダム　シーズン3
   // https://annict.com/works/15700
   { annict_id: 15700, mal_id: 55838 },
+  // [1967-AUTUMN] TV: ルドルフ 赤鼻のトナカイ
+  // https://annict.com/works/15701
+  { annict_id: 15701 },
 ]
