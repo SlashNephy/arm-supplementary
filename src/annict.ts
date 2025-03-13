@@ -43546,7 +43546,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15038 },
   // [2025-SPRING] TV: 日々は過ぎれど飯うまし
   // https://annict.com/works/15039
-  { annict_id: 15039, mal_id: 60658 },
+  { annict_id: 15039, mal_id: 60658, syobocal_tid: 7413 },
   // [2025-WINTER] OVA: Fate/Grand Order 藤丸立香はわからない Season2 OVA
   // https://annict.com/works/15040
   { annict_id: 15040, mal_id: 61167 },
