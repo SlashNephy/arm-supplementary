@@ -45503,4 +45503,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] WEB: ギャビーのドールハウス シーズン11
   // https://annict.com/works/15692
   { annict_id: 15692 },
+  // [2018-WINTER] MOVIE: 生と死にまつわる記憶の旅 ​第3幕 松が枝を結び
+  // https://annict.com/works/15693
+  { annict_id: 15693, mal_id: 38130 },
 ]
