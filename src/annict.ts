@@ -45533,4 +45533,7 @@ export const annict: ArmEntry[] = [
   // [2013-AUTUMN] MOVIE: ノーマン・ザ・スノーマン～北の国のオーロラ～
   // https://annict.com/works/15702
   { annict_id: 15702, mal_id: 20799 },
+  // [null-null] TV: デッドアカウント
+  // https://annict.com/works/15703
+  { annict_id: 15703, mal_id: 61196 },
 ]
