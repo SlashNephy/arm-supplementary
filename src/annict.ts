@@ -40444,7 +40444,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14002, mal_id: 59848 },
   // [2025-SPRING] TV: ばいばい、アース 第2シーズン
   // https://annict.com/works/14003
-  { annict_id: 14003, mal_id: 59819 },
+  { annict_id: 14003, mal_id: 59819, syobocal_tid: 7412 },
   // [2024-AUTUMN] MOVIE: 俺だけレベルアップな件 -ReAwakening-
   // https://annict.com/works/14004
   { annict_id: 14004, mal_id: 59841 },
