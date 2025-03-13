@@ -45515,4 +45515,16 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: ALL YOU NEED IS KILL
   // https://annict.com/works/15696
   { annict_id: 15696, mal_id: 61192 },
+  // [2017-null] MOVIE: ニジェール物語
+  // https://annict.com/works/15697
+  { annict_id: 15697, mal_id: 56236 },
+  // [2017-SPRING] OVA: ゾンビダム
+  // https://annict.com/works/15698
+  { annict_id: 15698, mal_id: 48323 },
+  // [2025-WINTER] WEB: ゾンビダム　シーズン2
+  // https://annict.com/works/15699
+  { annict_id: 15699, mal_id: 55837 },
+  // [2025-WINTER] WEB: ゾンビダム　シーズン3
+  // https://annict.com/works/15700
+  { annict_id: 15700, mal_id: 55838 },
 ]
