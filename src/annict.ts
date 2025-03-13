@@ -43544,7 +43544,7 @@ export const annict: ArmEntry[] = [
   // [2014-AUTUMN] WEB: ブキガミ スペシャルアニメ
   // https://annict.com/works/15038
   { annict_id: 15038 },
-  // [2025-null] TV: 日々は過ぎれど飯うまし
+  // [2025-SPRING] TV: 日々は過ぎれど飯うまし
   // https://annict.com/works/15039
   { annict_id: 15039, mal_id: 60658 },
   // [2025-WINTER] OVA: Fate/Grand Order 藤丸立香はわからない Season2 OVA
@@ -45497,7 +45497,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] MOVIE: オリビアと雲
   // https://annict.com/works/15690
   { annict_id: 15690 },
-  // [2025-WINTER] MOVIE: ペーパーカット︓インディー作家の僕の⼈⽣
+  // [2025-WINTER] MOVIE: ペーパーカット：インディー作家の僕の⼈⽣
   // https://annict.com/works/15691
   { annict_id: 15691 },
   // [2025-WINTER] WEB: ギャビーのドールハウス シーズン11
@@ -45506,4 +45506,13 @@ export const annict: ArmEntry[] = [
   // [2018-WINTER] MOVIE: 生と死にまつわる記憶の旅 ​第3幕 松が枝を結び
   // https://annict.com/works/15693
   { annict_id: 15693, mal_id: 38130 },
+  // [2018-WINTER] MOVIE: 生と死にまつわる記憶の旅 第1幕 木ノ花ノ咲クヤ森
+  // https://annict.com/works/15694
+  { annict_id: 15694, mal_id: 34849 },
+  // [2018-WINTER] MOVIE: 生と死にまつわる記憶の旅 ​第2幕 天地
+  // https://annict.com/works/15695
+  { annict_id: 15695 },
+  // [null-null] OTHER: ALL YOU NEED IS KILL
+  // https://annict.com/works/15696
+  { annict_id: 15696, mal_id: 61192 },
 ]

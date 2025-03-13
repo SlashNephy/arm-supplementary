@@ -38,17 +38,17 @@ export const fetchArmEntries = async (): Promise<ArmEntry[]> => {
 
 ## Statistics
 
-Currently, arm-supplementary has 41024 entries (+7255).
+Currently, arm-supplementary has 41027 entries (+7258).
 
 | Service                                     | arm-supplementary | arm / anime-offline-database |
 | :------------------------------------------ | :---------------: | :--------------------------: |
-| [Annict](https://annict.com)                |   15168 (+314)    |            14854             |
-| [AniList](https://anilist.co)               |   22794 (+1774)   |            21020             |
-| [MyAnimeList](https://myanimelist.net)      |   28631 (+520)    |            28111             |
+| [Annict](https://annict.com)                |   15171 (+317)    |            14854             |
+| [AniList](https://anilist.co)               |   22795 (+1775)   |            21020             |
+| [MyAnimeList](https://myanimelist.net)      |   28633 (+522)    |            28111             |
 | [しょぼいカレンダー](https://cal.syoboi.jp) |    6223 (+58)     |             6165             |
-| [AniDB](https://anidb.net)                  |   13358 (+167)    |            13191             |
-| [Anime-Planet](https://anime-planet.com)    |   23701 (+185)    |            23516             |
+| [AniDB](https://anidb.net)                  |   13359 (+168)    |            13191             |
+| [Anime-Planet](https://anime-planet.com)    |   23702 (+186)    |            23516             |
 | [aniSearch](https://anisearch.com)          |   18571 (+175)    |            18396             |
-| [Kitsu](https://kitsu.io)                   |   20187 (+193)    |            19994             |
+| [Kitsu](https://kitsu.io)                   |   20188 (+194)    |            19994             |
 | [LiveChart.me](https://livechart.me)        |   11266 (+164)    |            11102             |
-| [Anime Notifier](https://notify.moe)        |   16306 (+179)    |            16127             |
+| [Anime Notifier](https://notify.moe)        |   16307 (+180)    |            16127             |
