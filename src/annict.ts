@@ -39056,7 +39056,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] WEB: ケンガンアシュラ Season2 Part.2
   // https://annict.com/works/13536
   { annict_id: 13536, mal_id: 56704 },
-  // [null-null] TV: ぴえろ魔法少女シリーズ最新作
+  // [2026-null] TV: 魔法の姉妹ルルットリリィ
   // https://annict.com/works/13537
   { annict_id: 13537, mal_id: 59176 },
   // [1923-AUTUMN] OTHER: アリスの不思議の国
