@@ -37150,7 +37150,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12899 },
   // [2024-SPRING] OVA: アイドルマスター ミリオンライブ！ The Backstage　～あの日 灯った大切な想い～／～空があるから～
   // https://annict.com/works/12900
-  { annict_id: 12900 },
+  { annict_id: 12900, mal_id: 59082 },
   // [2021-SUMMER] OTHER: The Fourth Wall
   // https://annict.com/works/12901
   { annict_id: 12901 },
