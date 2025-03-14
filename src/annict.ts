@@ -45536,4 +45536,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: デッドアカウント
   // https://annict.com/works/15703
   { annict_id: 15703, mal_id: 61196 },
+  // [null-null] OTHER: この素晴らしい世界に祝福を！ アニメ続編
+  // https://annict.com/works/15704
+  { annict_id: 15704 },
 ]
