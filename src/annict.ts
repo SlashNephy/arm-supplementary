@@ -45557,4 +45557,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 転生したらドラゴンの卵だった
   // https://annict.com/works/15710
   { annict_id: 15710, mal_id: 61207 },
+  // [2026-SPRING] MOVIE: 劇場版 モノノ怪 蛇神
+  // https://annict.com/works/15711
+  { annict_id: 15711, mal_id: 61202 },
 ]
