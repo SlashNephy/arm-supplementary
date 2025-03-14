@@ -36302,7 +36302,7 @@ export const annict: ArmEntry[] = [
   // [1975-SPRING] MOVIE: 魔女っ子メグちゃん 月よりの使者
   // https://annict.com/works/12616
   { annict_id: 12616 },
-  // [2025-null] TV: 転生悪女の黒歴史
+  // [2025-AUTUMN] TV: 転生悪女の黒歴史
   // https://annict.com/works/12617
   { annict_id: 12617, mal_id: 58146 },
   // [2019-WINTER] WEB: 「科学漫画サバイバル」シリーズ（パイロットムービー）
@@ -38147,7 +38147,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: ダンジョン飯 第2期
   // https://annict.com/works/13233
   { annict_id: 13233, mal_id: 59068 },
-  // [2025-null] TV: ガチアクタ
+  // [2025-SUMMER] TV: ガチアクタ
   // https://annict.com/works/13234
   { annict_id: 13234, mal_id: 59062 },
   // [1941-AUTUMN] MOVIE: プルートのなやみ
@@ -45536,13 +45536,25 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: デッドアカウント
   // https://annict.com/works/15703
   { annict_id: 15703, mal_id: 61196 },
-  // [null-null] OTHER: この素晴らしい世界に祝福を！ アニメ続編
+  // [null-null] OTHER: この素晴らしい世界に祝福を！ 続編
   // https://annict.com/works/15704
-  { annict_id: 15704 },
+  { annict_id: 15704, mal_id: 61203 },
   // [2025-SPRING] OTHER: ちくわ戦記～おれのカワイイで地球侵略～
   // https://annict.com/works/15705
   { annict_id: 15705 },
-  // [2025-SPRING] TV: おいでよ魔法少女村
+  // [2025-SPRING] TV: おいでよ魔法少女村(不法占拠)
   // https://annict.com/works/15706
   { annict_id: 15706 },
+  // [null-null] WEB: 終末のワルキューレⅢ
+  // https://annict.com/works/15707
+  { annict_id: 15707, mal_id: 61200 },
+  // [null-null] TV: 顔に出ない柏田さんと顔に出る太田君
+  // https://annict.com/works/15708
+  { annict_id: 15708, mal_id: 61209 },
+  // [2026-null] TV: 真夜中ハートチューン
+  // https://annict.com/works/15709
+  { annict_id: 15709, mal_id: 61211 },
+  // [null-null] TV: 転生したらドラゴンの卵だった
+  // https://annict.com/works/15710
+  { annict_id: 15710, mal_id: 61207 },
 ]
