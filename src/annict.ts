@@ -45560,4 +45560,7 @@ export const annict: ArmEntry[] = [
   // [2026-SPRING] MOVIE: 劇場版 モノノ怪 蛇神
   // https://annict.com/works/15711
   { annict_id: 15711, mal_id: 61202 },
+  // [null-null] TV: 勇者のクズ
+  // https://annict.com/works/15712
+  { annict_id: 15712, mal_id: 61217 },
 ]
