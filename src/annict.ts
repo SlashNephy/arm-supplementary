@@ -45566,4 +45566,10 @@ export const annict: ArmEntry[] = [
   // [2026-WINTER] MOVIE: ガールズ＆パンツァー もっとらぶらぶ作戦です！
   // https://annict.com/works/15713
   { annict_id: 15713 },
+  // [2025-WINTER] MOVIE: ワールズ・ディバイド
+  // https://annict.com/works/15714
+  { annict_id: 15714 },
+  // [2025-WINTER] MOVIE: ⼝蹄疫から⽣きのびた豚
+  // https://annict.com/works/15715
+  { annict_id: 15715 },
 ]
