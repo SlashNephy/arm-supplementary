@@ -17975,9 +17975,9 @@ export const annict: ArmEntry[] = [
   // [2018-AUTUMN] TV: CONCEPTION
   // https://annict.com/works/6029
   { annict_id: 6029, mal_id: 37823, syobocal_tid: 5067 },
-  // [null-null] MOVIE: 劇場版 僕はロボットごしの君に恋をする
+  // [2017-AUTUMN] WEB: 僕はロボットごしの君に恋をする アニメPV
   // https://annict.com/works/6030
-  { annict_id: 6030 },
+  { annict_id: 6030, mal_id: 36542 },
   // [1999-SPRING] MOVIE: クレしんパラダイス！ メイド・イン・埼玉
   // https://annict.com/works/6031
   { annict_id: 6031 },
