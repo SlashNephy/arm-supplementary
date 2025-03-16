@@ -42920,7 +42920,7 @@ export const annict: ArmEntry[] = [
   // [2011-AUTUMN] OVA: テイルズ オブ シンフォニア THE ANIMATION 世界統合編 おまけアニメ
   // https://annict.com/works/14830
   { annict_id: 14830, mal_id: 12709 },
-  // [2025-null] TV: グノーシア
+  // [2025-AUTUMN] TV: グノーシア
   // https://annict.com/works/14831
   { annict_id: 14831, mal_id: 60427 },
   // [2025-WINTER] TV: 0歳児スタートダッシュ物語 シーズン2
