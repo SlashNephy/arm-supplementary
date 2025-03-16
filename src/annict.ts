@@ -41332,7 +41332,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14299, mal_id: 60140, syobocal_tid: 7387 },
   // [2025-SPRING] TV: LAZARUS ラザロ
   // https://annict.com/works/14300
-  { annict_id: 14300, mal_id: 56038 },
+  { annict_id: 14300, mal_id: 56038, syobocal_tid: 7415 },
   // [2023-WINTER] WEB: ヴォクス・マキナの伝説 シーズン2
   // https://annict.com/works/14301
   { annict_id: 14301 },
