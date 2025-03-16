@@ -45563,4 +45563,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 勇者のクズ
   // https://annict.com/works/15712
   { annict_id: 15712, mal_id: 61217 },
+  // [2026-WINTER] MOVIE: ガールズ＆パンツァー もっとらぶらぶ作戦です！
+  // https://annict.com/works/15713
+  { annict_id: 15713 },
 ]
