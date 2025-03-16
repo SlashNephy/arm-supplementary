@@ -39748,7 +39748,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13766 },
   // [2025-SPRING] MOVIE: たべっ子どうぶつ THE MOVIE
   // https://annict.com/works/13767
-  { annict_id: 13767 },
+  { annict_id: 13767, mal_id: 61198 },
   // [2006-SPRING] OVA: 大魔法峠「ぷにえの里帰り」
   // https://annict.com/works/13768
   { annict_id: 13768, mal_id: 1841 },
@@ -43798,7 +43798,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15123 },
   // [2024-WINTER] WEB: 三ツ矢サイダー アニメCM「クリスマスのおつかい」編
   // https://annict.com/works/15124
-  { annict_id: 15124 },
+  { annict_id: 15124, mal_id: 61220 },
   // [2024-WINTER] WEB: プチッと鍋 コーラス部アニメ篇
   // https://annict.com/works/15125
   { annict_id: 15125 },
@@ -44374,7 +44374,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15315 },
   // [2025-WINTER] TV: はーい！ミャクミャクです
   // https://annict.com/works/15316
-  { annict_id: 15316, syobocal_tid: 7360 },
+  { annict_id: 15316, mal_id: 61197, syobocal_tid: 7360 },
   // [1952-null] MOVIE: 団子兵衛捕物帖　開けーごまの巻
   // https://annict.com/works/15317
   { annict_id: 15317, mal_id: 28057 },
@@ -45565,11 +45565,17 @@ export const annict: ArmEntry[] = [
   { annict_id: 15712, mal_id: 61217 },
   // [2026-WINTER] MOVIE: ガールズ＆パンツァー もっとらぶらぶ作戦です！
   // https://annict.com/works/15713
-  { annict_id: 15713 },
+  { annict_id: 15713, mal_id: 61227 },
   // [2025-WINTER] MOVIE: ワールズ・ディバイド
   // https://annict.com/works/15714
   { annict_id: 15714 },
   // [2025-WINTER] MOVIE: ⼝蹄疫から⽣きのびた豚
   // https://annict.com/works/15715
   { annict_id: 15715 },
+  // [null-null] TV: バトルスピリッツ テレビアニメ新シリーズ
+  // https://annict.com/works/15716
+  { annict_id: 15716 },
+  // [2026-null] MOVIE: 最終楽章 響け！ユーフォニアム
+  // https://annict.com/works/15717
+  { annict_id: 15717, mal_id: 61230 },
 ]
