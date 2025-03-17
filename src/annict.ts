@@ -45602,4 +45602,19 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 美男高校地球防衛部ハイカラ！
   // https://annict.com/works/15725
   { annict_id: 15725, mal_id: 61239 },
+  // [2025-WINTER] MOVIE: 落凡塵
+  // https://annict.com/works/15726
+  { annict_id: 15726 },
+  // [1997-AUTUMN] MOVIE: ラーマーヤナ　ラーマ王子伝説
+  // https://annict.com/works/15727
+  { annict_id: 15727, mal_id: 4921 },
+  // [2024-SUMMER] MOVIE: 傘少女ー精霊たちの物語ー
+  // https://annict.com/works/15728
+  { annict_id: 15728 },
+  // [2025-WINTER] MOVIE: ロック・ボトム
+  // https://annict.com/works/15729
+  { annict_id: 15729 },
+  // [2025-WINTER] MOVIE: サリーム
+  // https://annict.com/works/15730
+  { annict_id: 15730 },
 ]
