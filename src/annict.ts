@@ -42386,7 +42386,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] TV: カードファイト!! ヴァンガード Divinez デラックス編
   // https://annict.com/works/14652
   { annict_id: 14652, mal_id: 54144, syobocal_tid: 7330 },
-  // [2025-SUMMER] TV: SAKAMOTO DAYS（第2クール）
+  // [2025-SUMMER] TV: SAKAMOTO DAYS 第2クール
   // https://annict.com/works/14653
   { annict_id: 14653, mal_id: 60285 },
   // [1982-SUMMER] MOVIE: テクノポリス21C
