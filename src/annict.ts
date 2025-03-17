@@ -32393,7 +32393,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 異世界でチート能力を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～ 新アニメ
   // https://annict.com/works/11306
   { annict_id: 11306, mal_id: 56906 },
-  // [2025-null] TV: 公女殿下の家庭教師
+  // [2025-SUMMER] TV: 公女殿下の家庭教師
   // https://annict.com/works/11307
   { annict_id: 11307, mal_id: 56907 },
   // [2024-SUMMER] MOVIE: 劇場総集編ぼっち・ざ・ろっく！ Re:Re:
@@ -45596,4 +45596,10 @@ export const annict: ArmEntry[] = [
   // [2011-AUTUMN] MOVIE: 劇場リミックス版 アップルシード XIII 〜預言〜
   // https://annict.com/works/15723
   { annict_id: 15723, mal_id: 10693 },
+  // [null-null] TV: ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ伝～
+  // https://annict.com/works/15724
+  { annict_id: 15724, mal_id: 61240 },
+  // [null-null] OTHER: 美男高校地球防衛部ハイカラ！
+  // https://annict.com/works/15725
+  { annict_id: 15725, mal_id: 61239 },
 ]
