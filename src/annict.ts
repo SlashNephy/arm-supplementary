@@ -45584,4 +45584,16 @@ export const annict: ArmEntry[] = [
   // [2011-AUTUMN] OVA: 青の祓魔師 特別番外編「クロの家出」
   // https://annict.com/works/15719
   { annict_id: 15719, mal_id: 11266 },
+  // [1996-SPRING] OVA: 新機動戦記ガンダムW オペレーション・メテオI
+  // https://annict.com/works/15720
+  { annict_id: 15720, mal_id: 3626 },
+  // [1996-AUTUMN] OVA: 新機動戦記ガンダムW オペレーション・メテオⅡ
+  // https://annict.com/works/15721
+  { annict_id: 15721, mal_id: 3626 },
+  // [2011-SPRING] MOVIE: 劇場リミックス版 アップルシード XIII 〜遺言〜
+  // https://annict.com/works/15722
+  { annict_id: 15722, mal_id: 10689 },
+  // [2011-AUTUMN] MOVIE: 劇場リミックス版 アップルシード XIII 〜預言〜
+  // https://annict.com/works/15723
+  { annict_id: 15723, mal_id: 10693 },
 ]
