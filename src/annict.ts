@@ -39232,7 +39232,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13594 },
   // [2024-SUMMER] WEB: 本山製作所創業100周年記念特別アニメーション
   // https://annict.com/works/13595
-  { annict_id: 13595 },
+  { annict_id: 13595, mal_id: 61221 },
   // [1922-SUMMER] MOVIE: ジャックと豆の木(1922年)
   // https://annict.com/works/13596
   { annict_id: 13596 },
@@ -43225,7 +43225,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14931, mal_id: 60525 },
   // [2024-AUTUMN] WEB: 伊右衛門の車窓にて 新作
   // https://annict.com/works/14932
-  { annict_id: 14932 },
+  { annict_id: 14932, mal_id: 61222 },
   // [2024-AUTUMN] WEB: 忠犬もちしば ショートアニメ
   // https://annict.com/works/14933
   { annict_id: 14933 },
