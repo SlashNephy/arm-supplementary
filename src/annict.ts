@@ -17533,7 +17533,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5881, mal_id: 10805 },
   // [2017-SPRING] OVA: 青の祓魔師 京都不浄王篇 OVA
   // https://annict.com/works/5882
-  { annict_id: 5882 },
+  { annict_id: 5882, mal_id: 34465 },
   // [2011-AUTUMN] OVA: デッドマン・ワンダーランド OVA「赤いナイフ使い」
   // https://annict.com/works/5883
   { annict_id: 5883 },
@@ -45578,4 +45578,10 @@ export const annict: ArmEntry[] = [
   // [2026-null] MOVIE: 最終楽章 響け！ユーフォニアム
   // https://annict.com/works/15717
   { annict_id: 15717, mal_id: 61230 },
+  // [2011-SPRING] OVA: 青の祓魔師 裏エク
+  // https://annict.com/works/15718
+  { annict_id: 15718, mal_id: 10647 },
+  // [2011-AUTUMN] OVA: 青の祓魔師 特別番外編「クロの家出」
+  // https://annict.com/works/15719
+  { annict_id: 15719, mal_id: 11266 },
 ]
