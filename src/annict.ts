@@ -42982,7 +42982,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14850, mal_id: 60445 },
   // [2025-SPRING] TV: 増田こうすけ劇場 ギャグマンガ日和GO
   // https://annict.com/works/14851
-  { annict_id: 14851, mal_id: 60446 },
+  { annict_id: 14851, mal_id: 60446, syobocal_tid: 7418 },
   // [null-null] TV: よわよわ先生
   // https://annict.com/works/14852
   { annict_id: 14852, mal_id: 60444 },
@@ -43117,7 +43117,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14895 },
   // [2025-SPRING] TV: あらいぐま カルカル団
   // https://annict.com/works/14896
-  { annict_id: 14896, mal_id: 60506 },
+  { annict_id: 14896, mal_id: 60506, syobocal_tid: 7417 },
   // [2025-WINTER] TV: ツインズひなひま
   // https://annict.com/works/14897
   { annict_id: 14897, mal_id: 60521, syobocal_tid: 7386 },
@@ -45067,7 +45067,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15546 },
   // [2025-SPRING] TV: GAMERA -Rebirth- 新編集版
   // https://annict.com/works/15547
-  { annict_id: 15547 },
+  { annict_id: 15547, syobocal_tid: 7419 },
   // [1997-AUTUMN] TV: デクスターズラボ
   // https://annict.com/works/15548
   { annict_id: 15548 },
@@ -45544,7 +45544,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15705 },
   // [2025-SPRING] TV: おいでよ魔法少女村(不法占拠)
   // https://annict.com/works/15706
-  { annict_id: 15706 },
+  { annict_id: 15706, syobocal_tid: 7416 },
   // [null-null] WEB: 終末のワルキューレⅢ
   // https://annict.com/works/15707
   { annict_id: 15707, mal_id: 61200 },
