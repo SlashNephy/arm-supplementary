@@ -45539,9 +45539,9 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: この素晴らしい世界に祝福を！ 続編
   // https://annict.com/works/15704
   { annict_id: 15704, mal_id: 61203 },
-  // [2025-SPRING] OTHER: ちくわ戦記～おれのカワイイで地球侵略～
+  // [2025-SPRING] TV: ちくわ戦記～おれのカワイイで地球侵略～
   // https://annict.com/works/15705
-  { annict_id: 15705 },
+  { annict_id: 15705, mal_id: 61238 },
   // [2025-SPRING] TV: おいでよ魔法少女村(不法占拠)
   // https://annict.com/works/15706
   { annict_id: 15706, syobocal_tid: 7416 },
@@ -45620,4 +45620,10 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] WEB: トランスフォーマー ワイルドキング
   // https://annict.com/works/15731
   { annict_id: 15731 },
+  // [null-null] MOVIE: エレクトンボストーク
+  // https://annict.com/works/15732
+  { annict_id: 15732, mal_id: 59272 },
+  // [1963-null] MOVIE: 愛
+  // https://annict.com/works/15733
+  { annict_id: 15733, mal_id: 6535 },
 ]
