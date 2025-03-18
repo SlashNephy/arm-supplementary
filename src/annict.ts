@@ -36934,7 +36934,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12826, mal_id: 58491 },
   // [2025-SPRING] TV: mono
   // https://annict.com/works/12827
-  { annict_id: 12827, mal_id: 58492 },
+  { annict_id: 12827, mal_id: 58492, syobocal_tid: 7420 },
   // [2024-WINTER] OVA: ガールズ＆パンツァー OVA タイチョウ･ウォー！
   // https://annict.com/works/12828
   { annict_id: 12828 },
