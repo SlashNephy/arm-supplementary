@@ -42644,7 +42644,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: 異世界QTTA『風の世界』篇
   // https://annict.com/works/14738
   { annict_id: 14738, mal_id: 61099 },
-  // [2025-null] WEB: キャッツ♥アイ
+  // [2025-SUMMER] WEB: キャッツ♥アイ
   // https://annict.com/works/14739
   { annict_id: 14739, mal_id: 60347 },
   // [1995-SPRING] TV: ロボットパルタ
