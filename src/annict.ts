@@ -38729,7 +38729,7 @@ export const annict: ArmEntry[] = [
   // [1951-WINTER] MOVIE: グーフィーの素人大工
   // https://annict.com/works/13427
   { annict_id: 13427 },
-  // [2025-null] TV: 異世界黙示録マイノグーラ ～破滅の文明で始める世界征服～
+  // [2025-SUMMER] TV: 異世界黙示録マイノグーラ ～破滅の文明で始める世界征服～
   // https://annict.com/works/13428
   { annict_id: 13428, mal_id: 59130 },
   // [2024-SUMMER] TV: NINJA KAMUI
@@ -43217,7 +43217,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 骸骨騎士様、只今異世界へお出掛け中Ⅱ
   // https://annict.com/works/14929
   { annict_id: 14929, mal_id: 60522 },
-  // [2025-null] TV: 追放者食堂へようこそ！
+  // [2025-SUMMER] TV: 追放者食堂へようこそ！
   // https://annict.com/works/14930
   { annict_id: 14930, mal_id: 60523 },
   // [null-null] TV: 望まぬ不死の冒険者 第2期
