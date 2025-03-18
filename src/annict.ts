@@ -45617,4 +45617,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] MOVIE: サリーム
   // https://annict.com/works/15730
   { annict_id: 15730 },
+  // [2025-SPRING] WEB: トランスフォーマー ワイルドキング
+  // https://annict.com/works/15731
+  { annict_id: 15731 },
 ]
