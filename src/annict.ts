@@ -40106,7 +40106,7 @@ export const annict: ArmEntry[] = [
   // [1975-AUTUMN] TV: スヌーピー 恋はおあずけ
   // https://annict.com/works/13888
   { annict_id: 13888 },
-  // [null-null] TV: 追放された転生重騎士はゲーム知識で無双する
+  // [2026-null] TV: 追放された転生重騎士はゲーム知識で無双する
   // https://annict.com/works/13889
   { annict_id: 13889, mal_id: 59741 },
   // [2025-WINTER] TV: Aランクパーティを離脱した俺は、元教え子たちと迷宮深部を目指す。
@@ -41315,7 +41315,7 @@ export const annict: ArmEntry[] = [
   // [2004-SPRING] OVA: グローランサー ～新たなる伝説～
   // https://annict.com/works/14294
   { annict_id: 14294, mal_id: 1933 },
-  // [2025-null] TV: カラオケ行こ！
+  // [2025-SUMMER] TV: カラオケ行こ！
   // https://annict.com/works/14295
   { annict_id: 14295, mal_id: 60131 },
   // [2025-null] TV: 夢中さ、きみに。
