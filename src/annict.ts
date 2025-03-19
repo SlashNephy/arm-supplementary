@@ -41318,7 +41318,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] TV: カラオケ行こ！
   // https://annict.com/works/14295
   { annict_id: 14295, mal_id: 60131 },
-  // [2025-null] TV: 夢中さ、きみに。
+  // [2025-SUMMER] TV: 夢中さ、きみに。
   // https://annict.com/works/14296
   { annict_id: 14296, mal_id: 60130 },
   // [2024-SUMMER] WEB: レゾナンス：無限号列車 ショートアニメ「車掌の一日」
