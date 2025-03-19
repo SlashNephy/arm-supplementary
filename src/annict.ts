@@ -43496,7 +43496,7 @@ export const annict: ArmEntry[] = [
   // [2022-WINTER] WEB: ミルキー☆ハイウェイ
   // https://annict.com/works/15022
   { annict_id: 15022, mal_id: 57925 },
-  // [2025-null] TV: ミルキー☆ハイウェイ(シリーズ)
+  // [2025-SUMMER] TV: 銀河特急 ミルキー☆サブウェイ
   // https://annict.com/works/15023
   { annict_id: 15023 },
   // [2024-AUTUMN] TV: ユーチューニャー クリスマス特別編「クリスマスってみた」
