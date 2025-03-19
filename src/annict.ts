@@ -43645,7 +43645,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15071, mal_id: 2114 },
   // [2025-WINTER] WEB: 【崩壊：スターレイル】ショートアニメ「マ ダ ム ヘ ル タ の 魔 法 キ ッ チ ン」
   // https://annict.com/works/15072
-  { annict_id: 15072 },
+  { annict_id: 15072, mal_id: 60735 },
   // [2025-SUMMER] TV: 水属性の魔法使い
   // https://annict.com/works/15073
   { annict_id: 15073, mal_id: 60732 },
@@ -45604,13 +45604,13 @@ export const annict: ArmEntry[] = [
   { annict_id: 15725, mal_id: 61239 },
   // [2025-WINTER] MOVIE: 落凡塵
   // https://annict.com/works/15726
-  { annict_id: 15726 },
+  { annict_id: 15726, mal_id: 59237 },
   // [1997-AUTUMN] MOVIE: ラーマーヤナ　ラーマ王子伝説
   // https://annict.com/works/15727
   { annict_id: 15727, mal_id: 4921 },
   // [2024-SUMMER] MOVIE: 傘少女ー精霊たちの物語ー
   // https://annict.com/works/15728
-  { annict_id: 15728 },
+  { annict_id: 15728, mal_id: 59236 },
   // [2025-WINTER] MOVIE: ロック・ボトム
   // https://annict.com/works/15729
   { annict_id: 15729 },
@@ -45619,11 +45619,20 @@ export const annict: ArmEntry[] = [
   { annict_id: 15730 },
   // [2025-SPRING] WEB: トランスフォーマー ワイルドキング
   // https://annict.com/works/15731
-  { annict_id: 15731 },
+  { annict_id: 15731, mal_id: 61258 },
   // [null-null] MOVIE: エレクトンボストーク
   // https://annict.com/works/15732
   { annict_id: 15732, mal_id: 59272 },
   // [1963-null] MOVIE: 愛
   // https://annict.com/works/15733
   { annict_id: 15733, mal_id: 6535 },
+  // [2024-AUTUMN] WEB: 原神ショートアニメ「黄昏」
+  // https://annict.com/works/15734
+  { annict_id: 15734, mal_id: 60624 },
+  // [2025-WINTER] WEB: 原神ショートアニメ「生涯の記憶」
+  // https://annict.com/works/15735
+  { annict_id: 15735, mal_id: 60725 },
+  // [null-null] WEB: うごく！ねこむかしばなし
+  // https://annict.com/works/15736
+  { annict_id: 15736, mal_id: 61254 },
 ]
