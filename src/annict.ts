@@ -45635,4 +45635,7 @@ export const annict: ArmEntry[] = [
   // [null-null] WEB: うごく！ねこむかしばなし
   // https://annict.com/works/15736
   { annict_id: 15736, mal_id: 61254 },
+  // [2025-SPRING] MOVIE: 無名の人生
+  // https://annict.com/works/15737
+  { annict_id: 15737, mal_id: 61108 },
 ]
