@@ -40757,7 +40757,7 @@ export const annict: ArmEntry[] = [
   // [1933-SPRING] MOVIE: 漫画 紙芝居 いたづら狸の卷
   // https://annict.com/works/14108
   { annict_id: 14108, mal_id: 35399 },
-  // [2025-null] TV: 姫騎士は蛮族の嫁
+  // [2025-AUTUMN] TV: 姫騎士は蛮族の嫁
   // https://annict.com/works/14109
   { annict_id: 14109, mal_id: 60028 },
   // [1994-SUMMER] OVA: GO!GO!ACKMAN
