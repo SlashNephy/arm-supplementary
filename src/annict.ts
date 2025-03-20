@@ -30380,7 +30380,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: 僕のヒーローアカデミア (第7期)
   // https://annict.com/works/10634
   { annict_id: 10634, mal_id: 54789, syobocal_tid: 7049 },
-  // [null-null] TV: TRIGUN STARGAZE
+  // [2026-null] TV: TRIGUN STARGAZE
   // https://annict.com/works/10635
   { annict_id: 10635, mal_id: 54863 },
   // [2024-AUTUMN] TV: ブルーロック VS. U-20 JAPAN
@@ -45647,4 +45647,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] TV: DIGIMON BEATBREAK
   // https://annict.com/works/15740
   { annict_id: 15740, mal_id: 61269 },
+  // [2025-WINTER] WEB: デジモンアドベンチャー25周年記念PV「デジモンアドベンチャー-BEYOND-」
+  // https://annict.com/works/15741
+  { annict_id: 15741 },
 ]
