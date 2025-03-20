@@ -45638,4 +45638,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] MOVIE: 無名の人生
   // https://annict.com/works/15737
   { annict_id: 15737, mal_id: 61108 },
+  // [1992-WINTER] OVA: 石ノ森章太郎の歴史アドベンチャー
+  // https://annict.com/works/15738
+  { annict_id: 15738, mal_id: 25473 },
 ]
