@@ -43213,7 +43213,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14927 },
   // [2024-AUTUMN] WEB: お買いものパンダ！ 配信限定エピソード
   // https://annict.com/works/14928
-  { annict_id: 14928 },
+  { annict_id: 14928, mal_id: 61261 },
   // [null-null] TV: 骸骨騎士様、只今異世界へお出掛け中Ⅱ
   // https://annict.com/works/14929
   { annict_id: 14929, mal_id: 60522 },
@@ -43765,7 +43765,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15112 },
   // [2024-AUTUMN] WEB: JOCHUM FODオリジナルエピソード
   // https://annict.com/works/15113
-  { annict_id: 15113 },
+  { annict_id: 15113, mal_id: 61260 },
   // [2025-AUTUMN] MOVIE: 映画キミとアイドルプリキュア♪（仮）
   // https://annict.com/works/15114
   { annict_id: 15114, mal_id: 60773 },
@@ -43849,7 +43849,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15140, mal_id: 60799 },
   // [2025-WINTER] WEB: いつかの私より
   // https://annict.com/works/15141
-  { annict_id: 15141 },
+  { annict_id: 15141, mal_id: 60782 },
   // [2024-SPRING] WEB: スヌーピーのハッピーキャンプ
   // https://annict.com/works/15142
   { annict_id: 15142 },
@@ -44278,7 +44278,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15283 },
   // [2025-WINTER] WEB: プリンセスコネクト！ 導きの初花　- Fiore Storia -
   // https://annict.com/works/15284
-  { annict_id: 15284 },
+  { annict_id: 15284, mal_id: 60987 },
   // [null-null] OTHER: 目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい
   // https://annict.com/works/15285
   { annict_id: 15285, mal_id: 60948 },
@@ -45644,4 +45644,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] WEB: ぷちきゅあ～Precure Fairies～
   // https://annict.com/works/15739
   { annict_id: 15739 },
+  // [2025-AUTUMN] TV: DIGIMON BEATBREAK
+  // https://annict.com/works/15740
+  { annict_id: 15740, mal_id: 61269 },
 ]
