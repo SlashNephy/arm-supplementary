@@ -43460,7 +43460,7 @@ export const annict: ArmEntry[] = [
   // [2019-SUMMER] OVA: トムとジェリー 夢のチョコレート工場
   // https://annict.com/works/15010
   { annict_id: 15010 },
-  // [2025-SPRING] TV: 最強王図鑑 ～The Ultimate Tournament～ 新シリーズ
+  // [2025-SPRING] TV: 最強王図鑑 ～The Ultimate Tournament～
   // https://annict.com/works/15011
   { annict_id: 15011, mal_id: 60596 },
   // [1933-AUTUMN] MOVIE: 沼の大将
