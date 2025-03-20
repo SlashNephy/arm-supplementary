@@ -45641,4 +45641,7 @@ export const annict: ArmEntry[] = [
   // [1992-WINTER] OVA: 石ノ森章太郎の歴史アドベンチャー
   // https://annict.com/works/15738
   { annict_id: 15738, mal_id: 25473 },
+  // [2025-SPRING] WEB: ぷちきゅあ～Precure Fairies～
+  // https://annict.com/works/15739
+  { annict_id: 15739 },
 ]
