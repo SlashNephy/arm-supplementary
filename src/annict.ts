@@ -45650,4 +45650,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] WEB: デジモンアドベンチャー25周年記念PV「デジモンアドベンチャー-BEYOND-」
   // https://annict.com/works/15741
   { annict_id: 15741 },
+  // [2025-WINTER] WEB: PlayStation × YOASOBI「PLAYERS」30周年特別CM｜Project: MEMORY CARD
+  // https://annict.com/works/15742
+  { annict_id: 15742 },
 ]
