@@ -45659,4 +45659,22 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] TV: 味方が弱すぎて補助魔法に徹していた宮廷魔法師、追放されて最強を目指す
   // https://annict.com/works/15744
   { annict_id: 15744, mal_id: 61276 },
+  // [2000-AUTUMN] TV: 動物園通り64番地
+  // https://annict.com/works/15745
+  { annict_id: 15745 },
+  // [2000-AUTUMN] TV: 消防士サム
+  // https://annict.com/works/15746
+  { annict_id: 15746 },
+  // [2000-AUTUMN] TV: コロちゃんのぼうけん
+  // https://annict.com/works/15747
+  { annict_id: 15747 },
+  // [2000-AUTUMN] TV: ミスター・メンとリトル・ミス(1995年)
+  // https://annict.com/works/15748
+  { annict_id: 15748 },
+  // [2000-AUTUMN] TV: リトルベア
+  // https://annict.com/works/15749
+  { annict_id: 15749 },
+  // [2000-AUTUMN] TV: フランクリン
+  // https://annict.com/works/15750
+  { annict_id: 15750 },
 ]
