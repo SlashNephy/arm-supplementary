@@ -41357,7 +41357,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: ブレイド＆バスタード
   // https://annict.com/works/14308
   { annict_id: 14308, mal_id: 60152 },
-  // [null-null] OTHER: エリスの聖杯
+  // [null-null] TV: エリスの聖杯
   // https://annict.com/works/14309
   { annict_id: 14309, mal_id: 60151 },
   // [2025-AUTUMN] TV: 悪食令嬢と狂血公爵 ～その魔物、私が美味しくいただきます！～
@@ -45643,7 +45643,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15738, mal_id: 25473 },
   // [2025-SPRING] WEB: ぷちきゅあ～Precure Fairies～
   // https://annict.com/works/15739
-  { annict_id: 15739 },
+  { annict_id: 15739, syobocal_tid: 7421 },
   // [2025-AUTUMN] TV: DIGIMON BEATBREAK
   // https://annict.com/works/15740
   { annict_id: 15740, mal_id: 61269 },
