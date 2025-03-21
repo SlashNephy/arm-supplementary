@@ -45656,4 +45656,7 @@ export const annict: ArmEntry[] = [
   // [1980-SUMMER] TV: 一休さん 大暴れやんちゃ姫
   // https://annict.com/works/15743
   { annict_id: 15743, mal_id: 23575 },
+  // [2025-AUTUMN] TV: 味方が弱すぎて補助魔法に徹していた宮廷魔法師、追放されて最強を目指す
+  // https://annict.com/works/15744
+  { annict_id: 15744 },
 ]
