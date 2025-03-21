@@ -45680,4 +45680,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: これ描いて死ね
   // https://annict.com/works/15751
   { annict_id: 15751, mal_id: 61280 },
+  // [null-null] OTHER: ショタおに
+  // https://annict.com/works/15752
+  { annict_id: 15752, mal_id: 61282 },
 ]
