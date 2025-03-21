@@ -43498,7 +43498,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15022, mal_id: 57925 },
   // [2025-SUMMER] TV: 銀河特急 ミルキー☆サブウェイ
   // https://annict.com/works/15023
-  { annict_id: 15023 },
+  { annict_id: 15023, mal_id: 61274 },
   // [2024-AUTUMN] TV: ユーチューニャー クリスマス特別編「クリスマスってみた」
   // https://annict.com/works/15024
   { annict_id: 15024, mal_id: 60623 },
@@ -45230,7 +45230,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 東島丹三郎は仮面ライダーになりたい
   // https://annict.com/works/15601
   { annict_id: 15601, mal_id: 61159 },
-  // [2025-SPRING] MOVIE: ナタ：魔童鬧海
+  // [2025-SPRING] MOVIE: ナタ 魔童の大暴れ
   // https://annict.com/works/15602
   { annict_id: 15602, mal_id: 60544 },
   // [2023-WINTER] MOVIE: 幾多の北
@@ -45658,5 +45658,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 15743, mal_id: 23575 },
   // [2025-AUTUMN] TV: 味方が弱すぎて補助魔法に徹していた宮廷魔法師、追放されて最強を目指す
   // https://annict.com/works/15744
-  { annict_id: 15744 },
+  { annict_id: 15744, mal_id: 61276 },
 ]
