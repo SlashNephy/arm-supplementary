@@ -43445,7 +43445,7 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: クマーバ シーズン3
   // https://annict.com/works/15005
   { annict_id: 15005 },
-  // [null-null] TV: 嘆きの亡霊は引退したい 第2クール
+  // [2025-AUTUMN] TV: 嘆きの亡霊は引退したい 第2クール
   // https://annict.com/works/15006
   { annict_id: 15006, mal_id: 60619 },
   // [2025-SPRING] TV: やたらやらしい深見くん
