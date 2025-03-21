@@ -45677,4 +45677,7 @@ export const annict: ArmEntry[] = [
   // [2000-AUTUMN] TV: フランクリン
   // https://annict.com/works/15750
   { annict_id: 15750 },
+  // [null-null] TV: これ描いて死ね
+  // https://annict.com/works/15751
+  { annict_id: 15751, mal_id: 61280 },
 ]
