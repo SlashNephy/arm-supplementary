@@ -32390,7 +32390,7 @@ export const annict: ArmEntry[] = [
   // [2010-SPRING] OVA: ONE PIECE FILM STRONG WORLD EPISODE:0
   // https://annict.com/works/11305
   { annict_id: 11305, mal_id: 8740 },
-  // [null-null] TV: 異世界でチート能力を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～ 新作TVSP
+  // [null-null] TV: 異世界でチート能力を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～ TVSP
   // https://annict.com/works/11306
   { annict_id: 11306, mal_id: 56906 },
   // [2025-SUMMER] TV: 公女殿下の家庭教師
@@ -39224,7 +39224,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 魔法騎士レイアース 新アニメ化プロジェクト
   // https://annict.com/works/13592
   { annict_id: 13592, mal_id: 59204 },
-  // [2025-null] TV: クレバテス-魔獣の王と赤子と屍の勇者-
+  // [2025-SUMMER] TV: クレバテス-魔獣の王と赤子と屍の勇者-
   // https://annict.com/works/13593
   { annict_id: 13593, mal_id: 59205 },
   // [2024-SUMMER] TV: 24分でわかる「戦国妖狐 世直し姉弟編」
@@ -44300,7 +44300,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] WEB: The Lost Tower
   // https://annict.com/works/15291
   { annict_id: 15291 },
-  // [2025-null] TV: 気絶勇者と暗殺姫
+  // [2025-SUMMER] TV: 気絶勇者と暗殺姫
   // https://annict.com/works/15292
   { annict_id: 15292, mal_id: 60951 },
   // [2023-SUMMER] MOVIE: 骨
@@ -45521,10 +45521,10 @@ export const annict: ArmEntry[] = [
   // [2017-SPRING] OVA: ゾンビダム
   // https://annict.com/works/15698
   { annict_id: 15698, mal_id: 48323 },
-  // [2025-WINTER] WEB: ゾンビダム　シーズン2
+  // [2021-WINTER] WEB: ゾンビダム　シーズン2
   // https://annict.com/works/15699
   { annict_id: 15699, mal_id: 55837 },
-  // [2025-WINTER] WEB: ゾンビダム　シーズン3
+  // [2024-SUMMER] WEB: ゾンビダム　シーズン3
   // https://annict.com/works/15700
   { annict_id: 15700, mal_id: 55838 },
   // [1967-AUTUMN] TV: ルドルフ 赤鼻のトナカイ
@@ -45704,4 +45704,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] WEB: 恋するワンピース
   // https://annict.com/works/15759
   { annict_id: 15759, mal_id: 61293 },
+  // [2025-SPRING] MOVIE: 劇場版『やくならマグカップも』ーアニメ総集編ーお帰りなさい
+  // https://annict.com/works/15760
+  { annict_id: 15760 },
 ]
