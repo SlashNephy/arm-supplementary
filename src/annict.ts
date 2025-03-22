@@ -31430,7 +31430,7 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: Fate/strange Fake
   // https://annict.com/works/10985
   { annict_id: 10985, mal_id: 55830 },
-  // [2025-null] TV: New PANTY & STOCKING with GARTERBELT
+  // [2025-SUMMER] TV: New PANTY & STOCKING with GARTERBELT
   // https://annict.com/works/10986
   { annict_id: 10986, mal_id: 52293 },
   // [2024-AUTUMN] TV: 村井の恋
@@ -35732,7 +35732,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] TV: 魔神創造伝ワタル
   // https://annict.com/works/12424
   { annict_id: 12424, mal_id: 57827, syobocal_tid: 7301 },
-  // [2025-null] TV: 神椿市建設中。
+  // [2025-SUMMER] TV: 神椿市建設中。
   // https://annict.com/works/12425
   { annict_id: 12425, mal_id: 57820 },
   // [2024-SPRING] TV: 刀剣乱舞 廻 -虚伝 燃ゆる本能寺-
@@ -40436,7 +40436,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 霧尾ファンクラブ
   // https://annict.com/works/14000
   { annict_id: 14000, mal_id: 59835 },
-  // [2025-null] TV: 薫る花は凛と咲く
+  // [2025-SUMMER] TV: 薫る花は凛と咲く
   // https://annict.com/works/14001
   { annict_id: 14001, mal_id: 59845 },
   // [2025-SPRING] MOVIE: ヴァージン・パンク Clockwork Girl
@@ -45686,4 +45686,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] MOVIE: 『映画すみっコぐらし』第4弾
   // https://annict.com/works/15753
   { annict_id: 15753, mal_id: 61278 },
+  // [2025-SPRING] MOVIE: 神椿市建設中。 魔女の娘 -Witchling-
+  // https://annict.com/works/15754
+  { annict_id: 15754 },
 ]
