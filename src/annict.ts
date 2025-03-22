@@ -39677,7 +39677,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: Duel Masters LOST ～月下の死神～
   // https://annict.com/works/13743
   { annict_id: 13743, mal_id: 59458 },
-  // [2025-null] TV: サイレント・ウィッチ 沈黙の魔女の隠しごと
+  // [2025-SUMMER] TV: サイレント・ウィッチ 沈黙の魔女の隠しごと
   // https://annict.com/works/13744
   { annict_id: 13744, mal_id: 59459 },
   // [2024-SUMMER] WEB: Fate/Grand Order 藤丸立香はわからない Season2
@@ -45689,4 +45689,13 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] MOVIE: 神椿市建設中。 魔女の娘 -Witchling-
   // https://annict.com/works/15754
   { annict_id: 15754 },
+  // [2022-AUTUMN] TV: きかんしゃトーマス 第25シーズン
+  // https://annict.com/works/15755
+  { annict_id: 15755 },
+  // [2023-SPRING] TV: きかんしゃトーマス 第26シーズン
+  // https://annict.com/works/15756
+  { annict_id: 15756 },
+  // [2025-SUMMER] TV: ぷにるんず ぷに3
+  // https://annict.com/works/15757
+  { annict_id: 15757, mal_id: 61290 },
 ]
