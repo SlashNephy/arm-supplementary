@@ -45698,7 +45698,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] TV: ぷにるんず ぷに3
   // https://annict.com/works/15757
   { annict_id: 15757, mal_id: 61290 },
-  // [null-null] TV: るろうに剣心 －明治剣客浪漫譚－ 第3期
+  // [null-null] TV: るろうに剣心 -明治剣客浪漫譚- 第3期
   // https://annict.com/works/15758
   { annict_id: 15758, mal_id: 61292 },
   // [2025-SPRING] WEB: 恋するワンピース
