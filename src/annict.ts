@@ -38303,7 +38303,7 @@ export const annict: ArmEntry[] = [
   // [1930-SUMMER] MOVIE: エロぐも
   // https://annict.com/works/13285
   { annict_id: 13285 },
-  // [null-null] TV: 東京リベンジャーズ 続編
+  // [null-null] TV: 東京リベンジャーズ 三天戦争編
   // https://annict.com/works/13286
   { annict_id: 13286, mal_id: 59088 },
   // [2017-WINTER] WEB: ピーポくんアニメーション
@@ -39605,7 +39605,7 @@ export const annict: ArmEntry[] = [
   // [2020-AUTUMN] WEB: サンリオキャラクターズ スーパーキュートアドベンチャーズ
   // https://annict.com/works/13719
   { annict_id: 13719 },
-  // [null-null] OTHER: リコリス・リコイル Friends are thieves of time.
+  // [2025-SPRING] WEB: リコリス・リコイル Friends are thieves of time.
   // https://annict.com/works/13720
   { annict_id: 13720, mal_id: 59369 },
   // [2024-SUMMER] TV: おはよう！うんこ先生
@@ -45493,7 +45493,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15688 },
   // [2025-SPRING] TV: ゴー！ゴー！びーくるずー のりものスター編
   // https://annict.com/works/15689
-  { annict_id: 15689 },
+  { annict_id: 15689, mal_id: 61279 },
   // [2024-AUTUMN] MOVIE: オリビアと雲
   // https://annict.com/works/15690
   { annict_id: 15690 },
@@ -45649,7 +45649,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15740, mal_id: 61269 },
   // [2025-WINTER] WEB: デジモンアドベンチャー25周年記念PV「デジモンアドベンチャー-BEYOND-」
   // https://annict.com/works/15741
-  { annict_id: 15741 },
+  { annict_id: 15741, mal_id: 61286 },
   // [2025-WINTER] WEB: PlayStation × YOASOBI「PLAYERS」30周年特別CM｜Project: MEMORY CARD
   // https://annict.com/works/15742
   { annict_id: 15742 },
@@ -45683,4 +45683,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: ショタおに
   // https://annict.com/works/15752
   { annict_id: 15752, mal_id: 61282 },
+  // [2025-AUTUMN] MOVIE: 『映画すみっコぐらし』第4弾
+  // https://annict.com/works/15753
+  { annict_id: 15753, mal_id: 61278 },
 ]
