@@ -34022,7 +34022,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] WEB: オズワルド・ザ・ラッキーラビット(2022)
   // https://annict.com/works/11851
   { annict_id: 11851 },
-  // [2025-null] TV: 青春ブタ野郎はサンタクロースの夢を見ない
+  // [2025-SUMMER] TV: 青春ブタ野郎はサンタクロースの夢を見ない
   // https://annict.com/works/11852
   { annict_id: 11852, mal_id: 57433 },
   // [2023-AUTUMN] WEB: 『ストリートファイター6』×『劇場版 SPY×FAMILY CODE: White』スペシャルコラボアニメ
