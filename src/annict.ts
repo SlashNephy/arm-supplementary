@@ -32390,7 +32390,7 @@ export const annict: ArmEntry[] = [
   // [2010-SPRING] OVA: ONE PIECE FILM STRONG WORLD EPISODE:0
   // https://annict.com/works/11305
   { annict_id: 11305, mal_id: 8740 },
-  // [null-null] OTHER: 異世界でチート能力を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～ 新アニメ
+  // [null-null] TV: 異世界でチート能力を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～ 新作TVSP
   // https://annict.com/works/11306
   { annict_id: 11306, mal_id: 56906 },
   // [2025-SUMMER] TV: 公女殿下の家庭教師
