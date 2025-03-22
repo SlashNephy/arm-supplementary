@@ -42608,7 +42608,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] TV: 出禁のモグラ
   // https://annict.com/works/14726
   { annict_id: 14726, mal_id: 60315 },
-  // [null-null] TV: ブサメンガチファイター
+  // [2025-SUMMER] TV: ブサメンガチファイター
   // https://annict.com/works/14727
   { annict_id: 14727, mal_id: 60316 },
   // [2022-AUTUMN] WEB: 魔法にかけられて2
