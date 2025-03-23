@@ -45728,4 +45728,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: 「はたちの献血」キャンペーンCM「ぼくらの持っているもの」篇
   // https://annict.com/works/15767
   { annict_id: 15767, mal_id: 60627 },
+  // [2025-SPRING] WEB: なんでもいきもの「げっかん！なんものアニメ」
+  // https://annict.com/works/15768
+  { annict_id: 15768 },
 ]
