@@ -45719,4 +45719,13 @@ export const annict: ArmEntry[] = [
   // [2017-SPRING] TV: カップヌードルCM「HUNGRY DAYS アオハルかよ。」
   // https://annict.com/works/15764
   { annict_id: 15764, mal_id: 35770 },
+  // [2020-AUTUMN] WEB: TAMAYA CM 「託された想い篇」
+  // https://annict.com/works/15765
+  { annict_id: 15765, mal_id: 50349 },
+  // [2021-WINTER] WEB: dアニメストアCM「キミの好きに出会おう（告白）」篇
+  // https://annict.com/works/15766
+  { annict_id: 15766, mal_id: 53014 },
+  // [2024-AUTUMN] WEB: 「はたちの献血」キャンペーンCM「ぼくらの持っているもの」篇
+  // https://annict.com/works/15767
+  { annict_id: 15767, mal_id: 60627 },
 ]
