@@ -42991,7 +42991,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14853, mal_id: 60449, syobocal_tid: 7364 },
   // [2025-WINTER] MOVIE: 機動戦士Gundam GQuuuuuuX -Beginning-
   // https://annict.com/works/14854
-  { annict_id: 14854 },
+  { annict_id: 14854, mal_id: 61295 },
   // [1939-SUMMER] MOVIE: べんけい対ウシワカ
   // https://annict.com/works/14855
   { annict_id: 14855, mal_id: 12561 },
