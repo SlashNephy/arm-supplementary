@@ -39257,7 +39257,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] MOVIE: ファーストライン
   // https://annict.com/works/13603
   { annict_id: 13603 },
-  // [2025-null] TV: 帝乃三姉妹は案外、チョロい。
+  // [2025-SUMMER] TV: 帝乃三姉妹は案外、チョロい。
   // https://annict.com/works/13604
   { annict_id: 13604, mal_id: 59207 },
   // [2023-SUMMER] WEB: ギーツエクストラ ギーツあにめ あなざーぐらんぷり
@@ -43109,7 +43109,7 @@ export const annict: ArmEntry[] = [
   // [2005-SUMMER] MOVIE: 死者の書
   // https://annict.com/works/14893
   { annict_id: 14893, mal_id: 7510 },
-  // [2025-null] TV: ネクロノミ子のコズミックホラーショウ
+  // [2025-SUMMER] TV: ネクロノミ子のコズミックホラーショウ
   // https://annict.com/works/14894
   { annict_id: 14894, mal_id: 60505 },
   // [2024-AUTUMN] WEB: 機動戦士ガンダム：銀灰の幻影
