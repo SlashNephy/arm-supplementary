@@ -36959,7 +36959,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] WEB: COLORs
   // https://annict.com/works/12835
   { annict_id: 12835, mal_id: 54005 },
-  // [null-null] TV: 魔都精兵のスレイブ 第2期
+  // [2026-null] TV: 魔都精兵のスレイブ2
   // https://annict.com/works/12836
   { annict_id: 12836, mal_id: 58505 },
   // [2024-SPRING] WEB: グリム組曲
