@@ -45731,4 +45731,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] WEB: なんでもいきもの「げっかん！なんものアニメ」
   // https://annict.com/works/15768
   { annict_id: 15768 },
+  // [2025-null] TV: WEBシリーズ 羅小黒戦記
+  // https://annict.com/works/15769
+  { annict_id: 15769, mal_id: 33443 },
 ]
