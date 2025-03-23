@@ -43331,7 +43331,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: スキップとローファー 第2期
   // https://annict.com/works/14967
   { annict_id: 14967, mal_id: 60548 },
-  // [null-null] TV: 百姓貴族 3rd Season
+  // [2025-AUTUMN] TV: 百姓貴族 3rd Season
   // https://annict.com/works/14968
   { annict_id: 14968, mal_id: 60551 },
   // [null-null] TV: 株式会社マジルミエ 第2期
@@ -45731,7 +45731,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] WEB: なんでもいきもの「げっかん！なんものアニメ」
   // https://annict.com/works/15768
   { annict_id: 15768 },
-  // [2025-null] TV: WEBシリーズ 羅小黒戦記
+  // [2025-null] TV: 羅小黒戦記
   // https://annict.com/works/15769
   { annict_id: 15769, mal_id: 33443 },
 ]
