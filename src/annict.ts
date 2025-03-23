@@ -45707,4 +45707,16 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] MOVIE: 劇場版『やくならマグカップも』ーアニメ総集編ーお帰りなさい
   // https://annict.com/works/15760
   { annict_id: 15760 },
+  // [2012-WINTER] TV: 東京ディズニーリゾートCM「夢がかなう場所 -Where Dreams Come True-」
+  // https://annict.com/works/15761
+  { annict_id: 15761, mal_id: 13495 },
+  // [2015-SUMMER] TV: NHK-AC共同キャンペーンCM「『もったいない』であしたは変わる」
+  // https://annict.com/works/15762
+  { annict_id: 15762, mal_id: 31144 },
+  // [2016-SUMMER] WEB: 三井不動産PV「Go for 2020」
+  // https://annict.com/works/15763
+  { annict_id: 15763, mal_id: 41298 },
+  // [2017-SPRING] TV: カップヌードルCM「HUNGRY DAYS アオハルかよ。」
+  // https://annict.com/works/15764
+  { annict_id: 15764, mal_id: 35770 },
 ]
