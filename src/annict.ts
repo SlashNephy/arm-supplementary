@@ -28745,7 +28745,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] TV: チキップダンサーズ 第2期
   // https://annict.com/works/10086
   { annict_id: 10086, syobocal_tid: 6465 },
-  // [2025-null] TV: その着せ替え人形は恋をする 続編
+  // [2025-SUMMER] TV: その着せ替え人形は恋をする Season 2
   // https://annict.com/works/10087
   { annict_id: 10087, mal_id: 53065 },
   // [2023-WINTER] TV: にじよん あにめーしょん
@@ -34826,7 +34826,7 @@ export const annict: ArmEntry[] = [
   // [1998-SUMMER] OVA: ONE PIECE 倒せ!海賊ギャンザック
   // https://annict.com/works/12121
   { annict_id: 12121, mal_id: 466 },
-  // [2025-null] MOVIE: 劇場版 チェンソーマン レゼ篇
+  // [2025-SUMMER] MOVIE: 劇場版 チェンソーマン レゼ篇
   // https://annict.com/works/12122
   { annict_id: 12122, mal_id: 57555 },
   // [null-null] WEB: THE ONE PIECE
