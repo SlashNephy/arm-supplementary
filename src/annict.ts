@@ -45730,11 +45730,17 @@ export const annict: ArmEntry[] = [
   { annict_id: 15767, mal_id: 60627 },
   // [2025-SPRING] WEB: なんでもいきもの「げっかん！なんものアニメ」
   // https://annict.com/works/15768
-  { annict_id: 15768 },
+  { annict_id: 15768, mal_id: 61297 },
   // [2025-null] TV: 羅小黒戦記
   // https://annict.com/works/15769
   { annict_id: 15769, mal_id: 33443 },
   // [2018-SPRING] WEB: pino（ピノ）スペシャルアニメ『コンチェルピーノ』篇
   // https://annict.com/works/15770
   { annict_id: 15770 },
+  // [2013-WINTER] TV: 変態王子と笑わない猫。 へんねこBBS
+  // https://annict.com/works/15771
+  { annict_id: 15771, mal_id: 21541 },
+  // [null-null] TV: 魔のものたちは企てる
+  // https://annict.com/works/15772
+  { annict_id: 15772, mal_id: 61301 },
 ]
