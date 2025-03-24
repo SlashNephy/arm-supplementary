@@ -45734,4 +45734,7 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: 羅小黒戦記
   // https://annict.com/works/15769
   { annict_id: 15769, mal_id: 33443 },
+  // [2018-SPRING] WEB: pino（ピノ）スペシャルアニメ『コンチェルピーノ』篇
+  // https://annict.com/works/15770
+  { annict_id: 15770 },
 ]
