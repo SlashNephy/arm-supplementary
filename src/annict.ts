@@ -43450,7 +43450,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15006, mal_id: 60619 },
   // [2025-SPRING] TV: やたらやらしい深見くん
   // https://annict.com/works/15007
-  { annict_id: 15007 },
+  { annict_id: 15007, syobocal_tid: 7422 },
   // [null-null] TV: ギルティホール～教え子しか指名できない店～
   // https://annict.com/works/15008
   { annict_id: 15008 },
