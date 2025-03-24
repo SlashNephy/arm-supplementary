@@ -45743,4 +45743,10 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 魔のものたちは企てる
   // https://annict.com/works/15772
   { annict_id: 15772, mal_id: 61301 },
+  // [2014-SPRING] WEB: がくモン！〜オオカミ少女はくじけない〜
+  // https://annict.com/works/15773
+  { annict_id: 15773, mal_id: 23499 },
+  // [2025-SPRING] TV: すみっコぐらし ここがおちつくんです
+  // https://annict.com/works/15774
+  { annict_id: 15774 },
 ]
