@@ -45704,7 +45704,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] WEB: 恋するワンピース
   // https://annict.com/works/15759
   { annict_id: 15759, mal_id: 61293 },
-  // [2025-SPRING] MOVIE: 劇場版『やくならマグカップも』ーアニメ総集編ーお帰りなさい
+  // [2025-SPRING] MOVIE: 劇場版「やくならマグカップも」－アニメ総集編－お帰りなさい
   // https://annict.com/works/15760
   { annict_id: 15760 },
   // [2012-WINTER] TV: 東京ディズニーリゾートCM「夢がかなう場所 -Where Dreams Come True-」
@@ -45728,7 +45728,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: 「はたちの献血」キャンペーンCM「ぼくらの持っているもの」篇
   // https://annict.com/works/15767
   { annict_id: 15767, mal_id: 60627 },
-  // [2025-SPRING] WEB: なんでもいきもの「げっかん！なんものアニメ」
+  // [2025-SPRING] WEB: げっかん！なんものアニメ
   // https://annict.com/works/15768
   { annict_id: 15768, mal_id: 61297 },
   // [2025-null] TV: 羅小黒戦記
@@ -45749,4 +45749,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] TV: すみっコぐらし ここがおちつくんです
   // https://annict.com/works/15774
   { annict_id: 15774 },
+  // [null-null] TV: 黒岩メダカに私の可愛いが通じない 第2期
+  // https://annict.com/works/15775
+  { annict_id: 15775 },
 ]
