@@ -45752,4 +45752,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 黒岩メダカに私の可愛いが通じない 第2期
   // https://annict.com/works/15775
   { annict_id: 15775, mal_id: 61304 },
+  // [2001-null] TV: ロケット・パワー
+  // https://annict.com/works/15776
+  { annict_id: 15776 },
 ]
