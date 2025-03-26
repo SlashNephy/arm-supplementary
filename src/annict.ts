@@ -45767,4 +45767,10 @@ export const annict: ArmEntry[] = [
   // [2001-AUTUMN] TV: パワーパフガールズ(シーズン4)
   // https://annict.com/works/15780
   { annict_id: 15780 },
+  // [2004-SPRING] TV: パワーパフガールズ(シーズン5)
+  // https://annict.com/works/15781
+  { annict_id: 15781 },
+  // [2004-SPRING] TV: パワーパフガールズ(シーズン6)
+  // https://annict.com/works/15782
+  { annict_id: 15782 },
 ]
