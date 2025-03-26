@@ -45787,5 +45787,8 @@ export const annict: ArmEntry[] = [
   { annict_id: 15786 },
   // [null-null] TV: Re:ゼロから始める異世界生活 4th season
   // https://annict.com/works/15787
-  { annict_id: 15787 },
+  { annict_id: 15787, mal_id: 61316 },
+  // [2025-SPRING] WEB: 葬送のフリーレン 〜●●の魔法〜 新作
+  // https://annict.com/works/15788
+  { annict_id: 15788 },
 ]
