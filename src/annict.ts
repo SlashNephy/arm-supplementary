@@ -43772,7 +43772,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] MOVIE: 不思議の国でアリスと -Dive in Wonderland-
   // https://annict.com/works/15115
   { annict_id: 15115, mal_id: 60778 },
-  // [2025-null] MOVIE: ChaO
+  // [2025-SUMMER] MOVIE: ChaO
   // https://annict.com/works/15116
   { annict_id: 15116, mal_id: 60774 },
   // [null-null] TV: アルマちゃんは家族になりたい
@@ -45755,4 +45755,10 @@ export const annict: ArmEntry[] = [
   // [2001-null] TV: ロケット・パワー
   // https://annict.com/works/15776
   { annict_id: 15776 },
+  // [2001-WINTER] TV: パワーパフガールズ
+  // https://annict.com/works/15777
+  { annict_id: 15777 },
+  // [2001-SUMMER] TV: パワーパフガールズ(シーズン2)
+  // https://annict.com/works/15778
+  { annict_id: 15778 },
 ]
