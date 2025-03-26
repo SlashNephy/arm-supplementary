@@ -43060,7 +43060,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14876, mal_id: 60489 },
   // [2025-SPRING] TV: この恋で鼻血を止めて
   // https://annict.com/works/14877
-  { annict_id: 14877, mal_id: 59012 },
+  { annict_id: 14877, mal_id: 59012, syobocal_tid: 7425 },
   // [2017-SUMMER] TV: ハローキティとあそぼう！まなぼう！
   // https://annict.com/works/14878
   { annict_id: 14878, mal_id: 60485 },
@@ -45782,4 +45782,7 @@ export const annict: ArmEntry[] = [
   // [2003-AUTUMN] TV: パワーパフガールズ ザ・ファイト・ビフォア・クリスマス
   // https://annict.com/works/15785
   { annict_id: 15785 },
+  // [2025-WINTER] TV: アニメーション・ドキュメンタリー いわたくんちのおばあちゃん
+  // https://annict.com/works/15786
+  { annict_id: 15786 },
 ]
