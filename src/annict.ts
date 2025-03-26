@@ -45773,4 +45773,13 @@ export const annict: ArmEntry[] = [
   // [2004-SPRING] TV: パワーパフガールズ(シーズン6)
   // https://annict.com/works/15782
   { annict_id: 15782 },
+  // [2014-WINTER] TV: パワーパフガールズ：ダンスパンツにご用心!
+  // https://annict.com/works/15783
+  { annict_id: 15783 },
+  // [2002-SUMMER] MOVIE: パワーパフガールズ・ムービー
+  // https://annict.com/works/15784
+  { annict_id: 15784 },
+  // [2003-AUTUMN] TV: パワーパフガールズ ザ・ファイト・ビフォア・クリスマス
+  // https://annict.com/works/15785
+  { annict_id: 15785 },
 ]
