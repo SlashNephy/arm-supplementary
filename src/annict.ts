@@ -45802,11 +45802,14 @@ export const annict: ArmEntry[] = [
   { annict_id: 15791, mal_id: 61319 },
   // [2025-SUMMER] TV: Dr.STONE SCIENCE FUTURE 第2クール
   // https://annict.com/works/15792
-  { annict_id: 15792 },
+  { annict_id: 15792, mal_id: 61322 },
   // [null-null] OTHER: 「BanG Dream! It's MyGO!!!!! / BanG Dream! Ave Mujica」アニメ続編シリーズ
   // https://annict.com/works/15793
   { annict_id: 15793 },
   // [2025-SPRING] TV: ゆるかわメルちゃん
   // https://annict.com/works/15794
   { annict_id: 15794, syobocal_tid: 7427 },
+  // [null-null] TV: アオのハコ 第2期
+  // https://annict.com/works/15795
+  { annict_id: 15795, mal_id: 61323 },
 ]
