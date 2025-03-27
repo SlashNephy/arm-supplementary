@@ -45794,4 +45794,10 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] MOVIE: GUNDAM: Next Universal Century
   // https://annict.com/works/15789
   { annict_id: 15789 },
+  // [2025-WINTER] WEB: 赤のキヲク
+  // https://annict.com/works/15790
+  { annict_id: 15790 },
+  // [null-null] TV: その警察官、ときどき野獣！
+  // https://annict.com/works/15791
+  { annict_id: 15791, mal_id: 61319 },
 ]
