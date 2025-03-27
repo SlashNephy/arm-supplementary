@@ -45812,4 +45812,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: アオのハコ 第2期
   // https://annict.com/works/15795
   { annict_id: 15795, mal_id: 61323 },
+  // [null-null] TV: どうせ、恋してしまうんだ。 Season2
+  // https://annict.com/works/15796
+  { annict_id: 15796, mal_id: 61325 },
 ]
