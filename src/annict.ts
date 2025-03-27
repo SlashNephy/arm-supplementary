@@ -45803,4 +45803,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] TV: Dr.STONE SCIENCE FUTURE 第2クール
   // https://annict.com/works/15792
   { annict_id: 15792 },
+  // [null-null] OTHER: 「BanG Dream! It's MyGO!!!!! / BanG Dream! Ave Mujica」アニメ続編シリーズ
+  // https://annict.com/works/15793
+  { annict_id: 15793 },
 ]
