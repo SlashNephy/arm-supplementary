@@ -25343,7 +25343,7 @@ export const annict: ArmEntry[] = [
   // [2021-SUMMER] TV: 鬼滅の刃 竈門炭治郎 立志編 特別編集版
   // https://annict.com/works/8853
   { annict_id: 8853 },
-  // [2021-SUMMER] OTHER: ドラえもん&Fキャラオールスターズ「すこし不思議超特急 (エクスプレス)」
+  // [2021-SUMMER] MOVIE: ドラえもん&Fキャラオールスターズ「すこし不思議超特急 (エクスプレス)」
   // https://annict.com/works/8854
   { annict_id: 8854, mal_id: 59857 },
   // [2022-WINTER] TV: 平家物語
@@ -32180,7 +32180,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: BEYBLADE X
   // https://annict.com/works/11235
   { annict_id: 11235, mal_id: 56566, syobocal_tid: 6862 },
-  // [2023-AUTUMN] TV: おしりたんてい (第8シリーズ)
+  // [2024-SPRING] TV: おしりたんてい (第8シリーズ)
   // https://annict.com/works/11236
   { annict_id: 11236, mal_id: 58630, syobocal_tid: 7064 },
   // [2023-WINTER] WEB: シナモンアニメだもん
@@ -40376,40 +40376,40 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: クマーバ シーズン2
   // https://annict.com/works/13980
   { annict_id: 13980, mal_id: 59123 },
-  // [2011-AUTUMN] OTHER: 真夜中のミュージアム / どたばたオーケストラ
+  // [2011-AUTUMN] MOVIE: 真夜中のミュージアム / どたばたオーケストラ
   // https://annict.com/works/13981
   { annict_id: 13981 },
-  // [2011-SUMMER] OTHER: Fキャラオールスターズ大集合「ドラえもん&パーマン 危機一髪!?」
+  // [2011-SUMMER] MOVIE: Fキャラオールスターズ大集合「ドラえもん&パーマン 危機一髪!?」
   // https://annict.com/works/13982
   { annict_id: 13982, mal_id: 59844 },
-  // [2012-AUTUMN] OTHER: 21エモン&ドラえもん「ようこそ!ホテルつづれ屋へ」
+  // [2012-AUTUMN] MOVIE: 21エモン&ドラえもん「ようこそ!ホテルつづれ屋へ」
   // https://annict.com/works/13983
   { annict_id: 13983, mal_id: 59847 },
-  // [2013-SUMMER] OTHER: すすめロボケット&ドラえもん「決戦!雲の上の竜巻城」
+  // [2013-SUMMER] MOVIE: すすめロボケット&ドラえもん「決戦!雲の上の竜巻城」
   // https://annict.com/works/13984
   { annict_id: 13984, mal_id: 59849 },
-  // [2014-SUMMER] OTHER: ドラえもん&チンプイ「エリ様 愛のプレゼント大作戦」
+  // [2014-SUMMER] MOVIE: ドラえもん&チンプイ「エリ様 愛のプレゼント大作戦」
   // https://annict.com/works/13985
   { annict_id: 13985, mal_id: 59850 },
-  // [2015-SUMMER] OTHER: キテレツ大百科&ドラえもん「コロ助のはじめてのおつかい」
+  // [2015-SUMMER] MOVIE: キテレツ大百科&ドラえもん「コロ助のはじめてのおつかい」
   // https://annict.com/works/13986
   { annict_id: 13986, mal_id: 59851 },
-  // [2016-SUMMER] OTHER: ポコニャン&ドラえもん「ポンポコニャンでここほれニャンニャン!?」
+  // [2016-SUMMER] MOVIE: ポコニャン&ドラえもん「ポンポコニャンでここほれニャンニャン!?」
   // https://annict.com/works/13987
   { annict_id: 13987, mal_id: 59852 },
-  // [2017-SUMMER] OTHER: ウメ星デンカ&ドラえもん「パンパロパンのスッパッパ!」
+  // [2017-SUMMER] MOVIE: ウメ星デンカ&ドラえもん「パンパロパンのスッパッパ!」
   // https://annict.com/works/13988
   { annict_id: 13988, mal_id: 59854 },
-  // [2019-WINTER] OTHER: ドラえもん&Fキャラオールスターズ「月面レースで大ピンチ!?」
+  // [2019-WINTER] MOVIE: ドラえもん&Fキャラオールスターズ「月面レースで大ピンチ!?」
   // https://annict.com/works/13989
   { annict_id: 13989, mal_id: 59855 },
-  // [2020-WINTER] OTHER: ドラえもん誕生 / セイカイはのび太?
+  // [2020-WINTER] MOVIE: ドラえもん誕生 / セイカイはのび太?
   // https://annict.com/works/13990
   { annict_id: 13990, mal_id: 59856 },
-  // [2023-WINTER] OTHER: ドラえもん&SF短編「宇宙 (そら) からのオトシダマ」
+  // [2023-WINTER] MOVIE: ドラえもん&SF短編「宇宙 (そら) からのオトシダマ」
   // https://annict.com/works/13991
   { annict_id: 13991, mal_id: 59858 },
-  // [2024-WINTER] OTHER: ドラえもん&Fキャラオールスターズ「ゆめの町、Fランド」
+  // [2024-WINTER] MOVIE: ドラえもん&Fキャラオールスターズ「ゆめの町、Fランド」
   // https://annict.com/works/13992
   { annict_id: 13992, mal_id: 59859 },
   // [2025-SPRING] TV: 小市民シリーズ 第2期
@@ -45194,7 +45194,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] MOVIE: 名探偵コナン 閃光の宇宙船
   // https://annict.com/works/15589
   { annict_id: 15589 },
-  // [2025-SPRING] OTHER: チンプイ エリさまのグッドラック
+  // [2025-SPRING] MOVIE: チンプイ エリさまのグッドラック
   // https://annict.com/works/15590
   { annict_id: 15590, mal_id: 61162 },
   // [null-null] OVA: アイドルマスター ミリオンライブ！ 新作エピソードOVA
@@ -45707,7 +45707,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] MOVIE: 劇場版「やくならマグカップも」－アニメ総集編－お帰りなさい
   // https://annict.com/works/15760
   { annict_id: 15760 },
-  // [2012-WINTER] TV: 東京ディズニーリゾートCM「夢がかなう場所 -Where Dreams Come True-」
+  // [2012-WINTER] TV: 東京ディズニーリゾート テレビCM「Where dreams come true 夢はつづく篇」
   // https://annict.com/works/15761
   { annict_id: 15761, mal_id: 13495 },
   // [2015-SUMMER] TV: NHK-AC共同キャンペーンCM「『もったいない』であしたは変わる」
