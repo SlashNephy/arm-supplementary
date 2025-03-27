@@ -45800,4 +45800,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: その警察官、ときどき野獣！
   // https://annict.com/works/15791
   { annict_id: 15791, mal_id: 61319 },
+  // [2025-SUMMER] TV: Dr.STONE SCIENCE FUTURE 第2クール
+  // https://annict.com/works/15792
+  { annict_id: 15792 },
 ]
