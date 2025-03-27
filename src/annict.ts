@@ -45791,4 +45791,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] WEB: 葬送のフリーレン 〜●●の魔法〜 新作
   // https://annict.com/works/15788
   { annict_id: 15788 },
+  // [2025-SPRING] MOVIE: GUNDAM: Next Universal Century
+  // https://annict.com/works/15789
+  { annict_id: 15789 },
 ]
