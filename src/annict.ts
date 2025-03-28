@@ -45797,7 +45797,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] WEB: 赤のキヲク
   // https://annict.com/works/15790
   { annict_id: 15790 },
-  // [null-null] TV: その警察官、ときどき野獣！
+  // [2025-null] TV: その警察官、ときどき野獣！
   // https://annict.com/works/15791
   { annict_id: 15791, mal_id: 61319 },
   // [2025-SUMMER] TV: Dr.STONE SCIENCE FUTURE 第2クール
@@ -45821,4 +45821,10 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] WEB: プチ・フォルマ～電犯局日誌～
   // https://annict.com/works/15798
   { annict_id: 15798 },
+  // [null-null] OTHER: 放課後帰宅びより
+  // https://annict.com/works/15799
+  { annict_id: 15799, mal_id: 61199 },
+  // [null-null] TV: 有栖川煉ってホントは女なんだよね。
+  // https://annict.com/works/15800
+  { annict_id: 15800 },
 ]
