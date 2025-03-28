@@ -43126,7 +43126,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14898, mal_id: 61016 },
   // [2024-AUTUMN] WEB: どこでもマキバオー
   // https://annict.com/works/14899
-  { annict_id: 14899 },
+  { annict_id: 14899, mal_id: 61326 },
   // [2025-null] TV: フードコートで、また明日。
   // https://annict.com/works/14900
   { annict_id: 14900, mal_id: 60508 },
@@ -44953,7 +44953,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15508, mal_id: 42246 },
   // [2025-WINTER] WEB: ノモの国
   // https://annict.com/works/15509
-  { annict_id: 15509 },
+  { annict_id: 15509, mal_id: 61327 },
   // [2025-SPRING] MOVIE: ドラゴン・ハート―霊界探訪記―
   // https://annict.com/works/15510
   { annict_id: 15510, mal_id: 61077 },
