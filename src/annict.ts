@@ -45815,4 +45815,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: どうせ、恋してしまうんだ。 Season2
   // https://annict.com/works/15796
   { annict_id: 15796, mal_id: 61325 },
+  // [2025-WINTER] TV: おじゃる丸（第28シリーズ）
+  // https://annict.com/works/15797
+  { annict_id: 15797 },
 ]
