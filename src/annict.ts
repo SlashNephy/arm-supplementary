@@ -45818,4 +45818,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] TV: おじゃる丸（第28シリーズ）
   // https://annict.com/works/15797
   { annict_id: 15797 },
+  // [2025-SPRING] WEB: プチ・フォルマ～電犯局日誌～
+  // https://annict.com/works/15798
+  { annict_id: 15798 },
 ]
