@@ -37240,7 +37240,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12929 },
   // [2025-SPRING] TV: 真･侍伝 YAIBA
   // https://annict.com/works/12930
-  { annict_id: 12930, mal_id: 58812 },
+  { annict_id: 12930, mal_id: 58812, syobocal_tid: 7430 },
   // [2024-SPRING] WEB: AURA BATTLER DUNBINE SIDE L
   // https://annict.com/works/12931
   { annict_id: 12931 },
@@ -43273,7 +43273,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14947, mal_id: 36969 },
   // [2025-SPRING] TV: おしりたんてい (第9シリーズ)
   // https://annict.com/works/14948
-  { annict_id: 14948, mal_id: 58631 },
+  { annict_id: 14948, mal_id: 58631, syobocal_tid: 7431 },
   // [2025-SPRING] MOVIE: 劇場版 うたの☆プリンスさまっ♪ TABOO NIGHT XXXX
   // https://annict.com/works/14949
   { annict_id: 14949, mal_id: 57622 },
