@@ -45208,7 +45208,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15593 },
   // [2025-SPRING] TV: たまらないのは恋なのか
   // https://annict.com/works/15594
-  { annict_id: 15594, mal_id: 61146 },
+  { annict_id: 15594, mal_id: 61146, syobocal_tid: 7432 },
   // [null-null] MOVIE: 羅小黒戦記２
   // https://annict.com/works/15595
   { annict_id: 15595 },
