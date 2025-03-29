@@ -43,12 +43,12 @@ Currently, arm-supplementary has 41144 entries (+7183).
 | Service                                     | arm-supplementary | arm / anime-offline-database |
 | :------------------------------------------ | :---------------: | :--------------------------: |
 | [Annict](https://annict.com)                |   15276 (+234)    |            15042             |
-| [AniList](https://anilist.co)               |   22932 (+1776)   |            21156             |
-| [MyAnimeList](https://myanimelist.net)      |   28712 (+502)    |            28210             |
+| [AniList](https://anilist.co)               |   22933 (+1777)   |            21156             |
+| [MyAnimeList](https://myanimelist.net)      |   28713 (+503)    |            28210             |
 | [しょぼいカレンダー](https://cal.syoboi.jp) |    6241 (+42)     |             6199             |
-| [AniDB](https://anidb.net)                  |   13352 (+161)    |            13191             |
-| [Anime-Planet](https://anime-planet.com)    |   23695 (+179)    |            23516             |
-| [aniSearch](https://anisearch.com)          |   18568 (+172)    |            18396             |
-| [Kitsu](https://kitsu.io)                   |   20182 (+188)    |            19994             |
-| [LiveChart.me](https://livechart.me)        |   11266 (+164)    |            11102             |
-| [Anime Notifier](https://notify.moe)        |   16305 (+178)    |            16127             |
+| [AniDB](https://anidb.net)                  |   13353 (+162)    |            13191             |
+| [Anime-Planet](https://anime-planet.com)    |   23696 (+180)    |            23516             |
+| [aniSearch](https://anisearch.com)          |   18569 (+173)    |            18396             |
+| [Kitsu](https://kitsu.io)                   |   20183 (+189)    |            19994             |
+| [LiveChart.me](https://livechart.me)        |   11267 (+165)    |            11102             |
+| [Anime Notifier](https://notify.moe)        |   16306 (+179)    |            16127             |
