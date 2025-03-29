@@ -45796,7 +45796,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15789 },
   // [2025-WINTER] WEB: 赤のキヲク
   // https://annict.com/works/15790
-  { annict_id: 15790 },
+  { annict_id: 15790, mal_id: 61332 },
   // [2025-null] TV: その警察官、ときどき野獣！
   // https://annict.com/works/15791
   { annict_id: 15791, mal_id: 61319 },
@@ -45830,4 +45830,7 @@ export const annict: ArmEntry[] = [
   // [2026-WINTER] TV: 青のミブロ 芹沢暗殺編
   // https://annict.com/works/15801
   { annict_id: 15801, mal_id: 61333 },
+  // [null-null] TV: メダリスト 第2期
+  // https://annict.com/works/15802
+  { annict_id: 15802 },
 ]
