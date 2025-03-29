@@ -45827,4 +45827,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 有栖川煉ってホントは女なんだよね。
   // https://annict.com/works/15800
   { annict_id: 15800 },
+  // [2026-WINTER] TV: 青のミブロ 芹沢暗殺編
+  // https://annict.com/works/15801
+  { annict_id: 15801, mal_id: 61333 },
 ]
