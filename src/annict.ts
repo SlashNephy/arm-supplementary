@@ -30400,7 +30400,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10640, mal_id: 53720 },
   // [2025-SPRING] TV: TO BE HERO X
   // https://annict.com/works/10641
-  { annict_id: 10641, mal_id: 53447 },
+  { annict_id: 10641, mal_id: 53447, syobocal_tid: 7435 },
   // [2022-AUTUMN] WEB: 外見至上主義
   // https://annict.com/works/10642
   { annict_id: 10642, mal_id: 53149 },
@@ -43261,7 +43261,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14943, mal_id: 60534 },
   // [2025-SPRING] TV: えぶりでいホスト
   // https://annict.com/works/14944
-  { annict_id: 14944, mal_id: 60535 },
+  { annict_id: 14944, mal_id: 60535, syobocal_tid: 7433 },
   // [2024-AUTUMN] WEB: 120秒でわかるグリザイア：ファントムトリガー
   // https://annict.com/works/14945
   { annict_id: 14945 },
@@ -45271,7 +45271,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15614 },
   // [2025-SPRING] TV: ゲゲゲの鬼太郎 私の愛した歴代ゲゲゲ
   // https://annict.com/works/15615
-  { annict_id: 15615 },
+  { annict_id: 15615, syobocal_tid: 7434 },
   // [1978-null] MOVIE: SF 最後の審判
   // https://annict.com/works/15616
   { annict_id: 15616 },
