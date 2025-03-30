@@ -45832,14 +45832,26 @@ export const annict: ArmEntry[] = [
   { annict_id: 15801, mal_id: 61333 },
   // [null-null] TV: メダリスト 第2期
   // https://annict.com/works/15802
-  { annict_id: 15802 },
+  { annict_id: 15802, mal_id: 61335 },
   // [2023-SPRING] MOVIE: マルセル 靴をはいた小さな貝
   // https://annict.com/works/15803
   { annict_id: 15803 },
   // [null-null] TV: シャングリラ・フロンティア〜クソゲーハンター、神ゲーに挑まんとす〜 3rd season
   // https://annict.com/works/15804
-  { annict_id: 15804 },
+  { annict_id: 15804, mal_id: 61338 },
   // [2025-WINTER] WEB: マルちゃんZUBAAAN！×TVアニメ「らんま1/2」コラボムービー
   // https://annict.com/works/15805
   { annict_id: 15805 },
+  // [2000-null] TV: ジャッキー・チェン・アドベンチャー　シーズン1
+  // https://annict.com/works/15806
+  { annict_id: 15806 },
+  // [2001-null] TV: ジャッキー・チェン・アドベンチャー　シーズン2
+  // https://annict.com/works/15807
+  { annict_id: 15807 },
+  // [2025-SUMMER] TV: 地縛少年花子くん2 続編
+  // https://annict.com/works/15808
+  { annict_id: 15808, mal_id: 61339 },
+  // [2025-SPRING] TV: かぐや様は告らせたい 〜メモリーズセレクション〜
+  // https://annict.com/works/15809
+  { annict_id: 15809 },
 ]
