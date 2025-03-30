@@ -45836,4 +45836,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] MOVIE: マルセル 靴をはいた小さな貝
   // https://annict.com/works/15803
   { annict_id: 15803 },
+  // [null-null] TV: シャングリラ・フロンティア〜クソゲーハンター、神ゲーに挑まんとす〜 3rd season
+  // https://annict.com/works/15804
+  { annict_id: 15804 },
 ]
