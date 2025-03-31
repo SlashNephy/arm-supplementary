@@ -43649,9 +43649,9 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] TV: 水属性の魔法使い
   // https://annict.com/works/15073
   { annict_id: 15073, mal_id: 60732 },
-  // [2025-SUMMER] OVA: もめんたりー・リリィ 特別版
+  // [2025-SUMMER] OVA: もめんたりー・リリィ 第14話「続いていく割烹、割烹！」
   // https://annict.com/works/15074
-  { annict_id: 15074 },
+  { annict_id: 15074, mal_id: 61334 },
   // [1929-SPRING] MOVIE: アクメッド王子の冒険
   // https://annict.com/works/15075
   { annict_id: 15075 },
