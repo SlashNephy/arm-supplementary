@@ -10424,7 +10424,7 @@ export const annict: ArmEntry[] = [
   // [1994-WINTER] MOVIE: ドラえもん のび太と夢幻三剣士
   // https://annict.com/works/3486
   { annict_id: 3486, mal_id: 2676 },
-  // [2012-WINTER] MOVIE: ドラえもん のび太と奇跡の島〜アニマルアドベンチャー〜
+  // [2012-WINTER] MOVIE: 映画ドラえもん のび太と奇跡の島〜アニマルアドベンチャー〜
   // https://annict.com/works/3487
   { annict_id: 3487, mal_id: 11053 },
   // [1987-WINTER] MOVIE: ドラえもん のび太と竜の騎士
@@ -10445,7 +10445,7 @@ export const annict: ArmEntry[] = [
   // [1997-WINTER] MOVIE: ドラえもん のび太のねじ巻き都市冒険記
   // https://annict.com/works/3493
   { annict_id: 3493, mal_id: 2678 },
-  // [2013-WINTER] MOVIE: ドラえもん のび太のひみつ道具博物館
+  // [2013-WINTER] MOVIE: 映画ドラえもん のび太のひみつ道具博物館
   // https://annict.com/works/3494
   { annict_id: 3494, mal_id: 15925 },
   // [1991-WINTER] MOVIE: ドラえもん のび太のドラビアンナイト
@@ -10457,7 +10457,7 @@ export const annict: ArmEntry[] = [
   // [2004-WINTER] MOVIE: ドラえもん のび太のワンニャン時空伝
   // https://annict.com/works/3497
   { annict_id: 3497, mal_id: 2656 },
-  // [2010-WINTER] MOVIE: ドラえもん のび太の人魚大海戦
+  // [2010-WINTER] MOVIE: 映画ドラえもん のび太の人魚大海戦
   // https://annict.com/works/3498
   { annict_id: 3498, mal_id: 6988 },
   // [1995-WINTER] MOVIE: ドラえもん のび太の創世日記
@@ -10484,10 +10484,10 @@ export const annict: ArmEntry[] = [
   // [1980-WINTER] MOVIE: ドラえもん のび太の恐竜
   // https://annict.com/works/3506
   { annict_id: 3506, mal_id: 3727, syobocal_tid: 2809 },
-  // [2006-WINTER] MOVIE: ドラえもん のび太の恐竜2006
+  // [2006-WINTER] MOVIE: 映画ドラえもん のび太の恐竜2006
   // https://annict.com/works/3507
   { annict_id: 3507, mal_id: 2392 },
-  // [2007-WINTER] MOVIE: ドラえもん のび太の新魔界大冒険～７人の魔法使い～
+  // [2007-WINTER] MOVIE: 映画ドラえもん のび太の新魔界大冒険～７人の魔法使い～
   // https://annict.com/works/3508
   { annict_id: 3508, mal_id: 2673 },
   // [1983-WINTER] MOVIE: ドラえもん のび太の海底鬼岩城
@@ -10499,13 +10499,13 @@ export const annict: ArmEntry[] = [
   // [1981-SUMMER] MOVIE: ドラえもん ぼく桃太郎のなんなのさ
   // https://annict.com/works/3511
   { annict_id: 3511, mal_id: 2650 },
-  // [2011-WINTER] MOVIE: ドラえもん 新・のび太と鉄人兵団 ～はばたけ天使たち～
+  // [2011-WINTER] MOVIE: 映画ドラえもん 新・のび太と鉄人兵団 ～はばたけ天使たち～
   // https://annict.com/works/3512
   { annict_id: 3512, mal_id: 10534, syobocal_tid: 2853 },
-  // [2009-WINTER] MOVIE: ドラえもん 新・のび太の宇宙開拓史
+  // [2009-WINTER] MOVIE: 映画ドラえもん 新・のび太の宇宙開拓史
   // https://annict.com/works/3513
   { annict_id: 3513, mal_id: 6930 },
-  // [2008-WINTER] MOVIE: ドラえもん のび太と緑の巨人伝
+  // [2008-WINTER] MOVIE: 映画ドラえもん のび太と緑の巨人伝
   // https://annict.com/works/3514
   { annict_id: 3514, mal_id: 5096 },
   // [1988-SUMMER] MOVIE: ドラゴンボール 摩訶不思議大冒険
@@ -12167,7 +12167,7 @@ export const annict: ArmEntry[] = [
   // [2014-SPRING] MOVIE: クレヨンしんちゃん ガチンコ！逆襲のロボとーちゃん
   // https://annict.com/works/4071
   { annict_id: 4071, mal_id: 21395, syobocal_tid: 3772 },
-  // [2014-SPRING] MOVIE: ドラえもん 新・のび太の大魔境〜ペコと5人の探検隊〜
+  // [2014-SPRING] MOVIE: 映画ドラえもん 新・のび太の大魔境〜ペコと5人の探検隊〜
   // https://annict.com/works/4072
   { annict_id: 4072, mal_id: 19645 },
   // [2014-WINTER] MOVIE: モーレツ宇宙海賊 ABYSS OF HYPERSPACE -亜空の深淵-
@@ -12356,7 +12356,7 @@ export const annict: ArmEntry[] = [
   // [2014-SUMMER] TV: PSYCHO-PASS サイコパス 新編集版
   // https://annict.com/works/4134
   { annict_id: 4134, syobocal_tid: 3481 },
-  // [2014-SUMMER] TV: 闇芝居 (2期)
+  // [2014-SUMMER] TV: 闇芝居 二期
   // https://annict.com/works/4135
   { annict_id: 4135, mal_id: 22537, syobocal_tid: 3480 },
   // [2014-SUMMER] TV: 毎度！浦安鉄筋家族
@@ -13634,7 +13634,7 @@ export const annict: ArmEntry[] = [
   // [2016-WINTER] TV: ラクエンロジック
   // https://annict.com/works/4568
   { annict_id: 4568, mal_id: 32083, syobocal_tid: 4027 },
-  // [2016-WINTER] TV: 闇芝居 (3期)
+  // [2016-WINTER] TV: 闇芝居 三期
   // https://annict.com/works/4570
   { annict_id: 4570, mal_id: 31994, syobocal_tid: 4049 },
   // [2016-WINTER] TV: 霊剣山 星屑たちの宴
@@ -14015,7 +14015,7 @@ export const annict: ArmEntry[] = [
   // [2016-SPRING] TV: マギ シンドバッドの冒険
   // https://annict.com/works/4698
   { annict_id: 4698, mal_id: 31741, syobocal_tid: 4111 },
-  // [2016-WINTER] MOVIE: ドラえもん 新・のび太の日本誕生
+  // [2016-WINTER] MOVIE: 映画ドラえもん 新・のび太の日本誕生
   // https://annict.com/works/4699
   { annict_id: 4699, mal_id: 31201 },
   // [2016-SUMMER] TV: 甘々と稲妻
@@ -15191,7 +15191,7 @@ export const annict: ArmEntry[] = [
   // [2017-SPRING] TV: ロクでなし魔術講師と禁忌教典
   // https://annict.com/works/5093
   { annict_id: 5093, mal_id: 32951, syobocal_tid: 4501 },
-  // [2017-WINTER] TV: 闇芝居 (4期)
+  // [2017-WINTER] TV: 闇芝居 四期
   // https://annict.com/works/5094
   { annict_id: 5094, mal_id: 34467, syobocal_tid: 4467 },
   // [2019-SPRING] OVA: 蒼穹のファフナー THE BEYOND
@@ -15506,7 +15506,7 @@ export const annict: ArmEntry[] = [
   // [2017-SUMMER] TV: バチカン奇跡調査官
   // https://annict.com/works/5199
   { annict_id: 5199, mal_id: 34368, syobocal_tid: 4629 },
-  // [2017-WINTER] MOVIE: ドラえもん のび太の南極カチコチ大冒険
+  // [2017-WINTER] MOVIE: 映画ドラえもん のび太の南極カチコチ大冒険
   // https://annict.com/works/5200
   { annict_id: 5200, mal_id: 33672 },
   // [2017-SUMMER] MOVIE: ブレイブウィッチーズ ペテルブルグ大戦略
@@ -15932,7 +15932,7 @@ export const annict: ArmEntry[] = [
   // [2017-SUMMER] TV: 終物語 第2期
   // https://annict.com/works/5343
   { annict_id: 5343, mal_id: 35247 },
-  // [2017-SUMMER] TV: 闇芝居 (5期)
+  // [2017-SUMMER] TV: 闇芝居 五期
   // https://annict.com/works/5344
   { annict_id: 5344, mal_id: 35714, syobocal_tid: 4635 },
   // [2017-AUTUMN] TV: キノの旅 -the Beautiful World- the Animated Series
@@ -17618,7 +17618,7 @@ export const annict: ArmEntry[] = [
   // [2015-SUMMER] OVA: 神様はじめました 〜過去編〜
   // https://annict.com/works/5910
   { annict_id: 5910, mal_id: 30709 },
-  // [2013-SUMMER] TV: 闇芝居 (1期)
+  // [2013-SUMMER] TV: 闇芝居(一期)
   // https://annict.com/works/5911
   { annict_id: 5911, mal_id: 19383, syobocal_tid: 3071 },
   // [2010-WINTER] OVA: DARKER THAN BLACK -黒の契約者- 外伝
@@ -17987,10 +17987,10 @@ export const annict: ArmEntry[] = [
   // [1989-WINTER] MOVIE: ドラえもん のび太の日本誕生
   // https://annict.com/works/6033
   { annict_id: 6033, mal_id: 2666 },
-  // [2015-WINTER] MOVIE: ドラえもん のび太の宇宙英雄記
+  // [2015-WINTER] MOVIE: 映画ドラえもん のび太の宇宙英雄記
   // https://annict.com/works/6034
   { annict_id: 6034, mal_id: 25383, syobocal_tid: 4082 },
-  // [2018-WINTER] MOVIE: ドラえもん のび太の宝島
+  // [2018-WINTER] MOVIE: 映画ドラえもん のび太の宝島
   // https://annict.com/works/6035
   { annict_id: 6035, mal_id: 35740 },
   // [2004-WINTER] MOVIE: ドラえもんアニバーサリー25
@@ -18065,7 +18065,7 @@ export const annict: ArmEntry[] = [
   // [2020-WINTER] TV: 推しが武道館いってくれたら死ぬ
   // https://annict.com/works/6059
   { annict_id: 6059, mal_id: 37890, syobocal_tid: 5552 },
-  // [2018-SUMMER] TV: 闇芝居 (6期)
+  // [2018-SUMMER] TV: 闇芝居 六期
   // https://annict.com/works/6060
   { annict_id: 6060, mal_id: 37893, syobocal_tid: 5003 },
   // [2011-WINTER] MOVIE: ONE PIECE 3D 麦わらチェイス
@@ -19085,7 +19085,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: ノラと皇女と野良猫ハート 2期
   // https://annict.com/works/6404
   { annict_id: 6404, mal_id: 38745 },
-  // [2019-WINTER] MOVIE: ドラえもん のび太の月面探査記
+  // [2019-WINTER] MOVIE: 映画ドラえもん のび太の月面探査記
   // https://annict.com/works/6405
   { annict_id: 6405, mal_id: 38530 },
   // [2018-AUTUMN] WEB: アグレッシブ烈子 We Wish You a Metal Christmas
@@ -19781,7 +19781,7 @@ export const annict: ArmEntry[] = [
   // [2019-SUMMER] TV: 指先から本気の熱情-幼なじみは消防士-
   // https://annict.com/works/6673
   { annict_id: 6673, mal_id: 39963, syobocal_tid: 5367 },
-  // [2019-SUMMER] TV: 闇芝居 (7期)
+  // [2019-SUMMER] TV: 闇芝居 七期
   // https://annict.com/works/6674
   { annict_id: 6674, mal_id: 39836, syobocal_tid: 5382 },
   // [2019-AUTUMN] TV: Fairy gone フェアリーゴーン 2クール目
@@ -20123,7 +20123,7 @@ export const annict: ArmEntry[] = [
   // [2019-SUMMER] TV: おしりたんてい (第3シリーズ)
   // https://annict.com/works/6789
   { annict_id: 6789, mal_id: 41777, syobocal_tid: 5387 },
-  // [2020-SUMMER] MOVIE: ドラえもん のび太の新恐竜
+  // [2020-SUMMER] MOVIE: 映画ドラえもん のび太の新恐竜
   // https://annict.com/works/6790
   { annict_id: 6790, mal_id: 40044 },
   // [2019-SUMMER] OVA: 超次元ゲイム ネプテューヌ 〜ねぷのなつやすみ〜
@@ -22511,7 +22511,7 @@ export const annict: ArmEntry[] = [
   // [2021-SUMMER] MOVIE: クドわふたー
   // https://annict.com/works/7813
   { annict_id: 7813, mal_id: 35960 },
-  // [2022-WINTER] MOVIE: ドラえもん のび太の宇宙小戦争 2021
+  // [2022-WINTER] MOVIE: 映画ドラえもん のび太の宇宙小戦争 2021
   // https://annict.com/works/7814
   { annict_id: 7814, mal_id: 44025 },
   // [2021-SPRING] TV: SDガンダムワールド ヒーローズ
@@ -22532,7 +22532,7 @@ export const annict: ArmEntry[] = [
   // [2021-SUMMER] MOVIE: 僕のヒーローアカデミア THE MOVIE ワールド ヒーローズ ミッション
   // https://annict.com/works/7820
   { annict_id: 7820, mal_id: 44200 },
-  // [2021-WINTER] TV: 闇芝居 (8期)
+  // [2021-WINTER] TV: 闇芝居 八期
   // https://annict.com/works/7821
   { annict_id: 7821, mal_id: 44208, syobocal_tid: 5907 },
   // [2022-WINTER] TV: 佐々木と宮野
@@ -24632,7 +24632,7 @@ export const annict: ArmEntry[] = [
   // [2022-SPRING] TV: アオアシ
   // https://annict.com/works/8582
   { annict_id: 8582, mal_id: 49052, syobocal_tid: 6312 },
-  // [2021-SUMMER] TV: 闇芝居 (9期)
+  // [2021-SUMMER] TV: 闇芝居 九期
   // https://annict.com/works/8583
   { annict_id: 8583, mal_id: 49110, syobocal_tid: 6083 },
   // [2022-WINTER] TV: ヴァニタスの手記 2クール目
@@ -26240,7 +26240,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] TV: あやかしトライアングル
   // https://annict.com/works/9216
   { annict_id: 9216, mal_id: 50606, syobocal_tid: 6532 },
-  // [2022-WINTER] TV: 闇芝居 (10期)
+  // [2022-WINTER] TV: 闇芝居 十期
   // https://annict.com/works/9217
   { annict_id: 9217, mal_id: 50599, syobocal_tid: 6248 },
   // [2022-SPRING] TV: 遊☆戯☆王ゴーラッシュ！！
@@ -29168,7 +29168,7 @@ export const annict: ArmEntry[] = [
   // [1987-AUTUMN] MOVIE: 紫式部 源氏物語
   // https://annict.com/works/10227
   { annict_id: 10227, mal_id: 3488 },
-  // [2023-WINTER] MOVIE: ドラえもん のび太と空の理想郷
+  // [2023-WINTER] MOVIE: 映画ドラえもん のび太と空の理想郷
   // https://annict.com/works/10228
   { annict_id: 10228, mal_id: 52318 },
   // [2024-SPRING] TV: 戦隊大失格
@@ -30824,7 +30824,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: 鷹の爪外伝「秘密厩舎 馬の蹄」
   // https://annict.com/works/10783
   { annict_id: 10783, mal_id: 60091, syobocal_tid: 6710 },
-  // [2023-SUMMER] TV: 闇芝居 (11期)
+  // [2023-SUMMER] TV: 闇芝居 十一期
   // https://annict.com/works/10784
   { annict_id: 10784, mal_id: 55166, syobocal_tid: 6766 },
   // [2023-SUMMER] MOVIE: 古の王子と3つの花
@@ -31469,7 +31469,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] MOVIE: 映画 すみっコぐらし ツギハギ工場のふしぎなコ
   // https://annict.com/works/10998
   { annict_id: 10998, mal_id: 53936 },
-  // [2024-WINTER] MOVIE: ドラえもん のび太の地球交響楽
+  // [2024-WINTER] MOVIE: 映画ドラえもん のび太の地球交響楽
   // https://annict.com/works/10999
   { annict_id: 10999, mal_id: 55874 },
   // [2023-null] TV: NARUTO -ナルト- 完全新作アニメーション
@@ -34862,7 +34862,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] TV: SHY 東京奪還編
   // https://annict.com/works/12133
   { annict_id: 12133, mal_id: 57567, syobocal_tid: 7123 },
-  // [2024-WINTER] TV: 闇芝居 (12期)
+  // [2024-WINTER] TV: 闇芝居 十二期
   // https://annict.com/works/12134
   { annict_id: 12134, syobocal_tid: 6930 },
   // [1995-AUTUMN] OVA: ヤマトタケル ～After War～
@@ -39368,7 +39368,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] TV: JOCHUM
   // https://annict.com/works/13640
   { annict_id: 13640, mal_id: 58944 },
-  // [2024-SUMMER] TV: 闇芝居 (13期)
+  // [2024-SUMMER] TV: 闇芝居 十三期
   // https://annict.com/works/13641
   { annict_id: 13641, mal_id: 59010, syobocal_tid: 7157 },
   // [2017-SUMMER] MOVIE: 劇場版 響け！ユーフォニアム～フォトセッションへようこそ
@@ -43046,7 +43046,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: 『モアナと伝説の海２』3Dショートアニメ「帰ってきた、本当のわたしに」編
   // https://annict.com/works/14872
   { annict_id: 14872, mal_id: 60490 },
-  // [2025-WINTER] MOVIE: ドラえもん のび太の絵世界物語
+  // [2025-WINTER] MOVIE: 映画ドラえもん のび太の絵世界物語
   // https://annict.com/works/14873
   { annict_id: 14873, mal_id: 59980 },
   // [2021-WINTER] MOVIE: ケンダマスター拳
@@ -45854,4 +45854,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] TV: かぐや様は告らせたい 〜メモリーズセレクション〜
   // https://annict.com/works/15809
   { annict_id: 15809 },
+  // [2025-WINTER] WEB: 島津製作所 創業150周年記念アニメーション
+  // https://annict.com/works/15810
+  { annict_id: 15810 },
 ]
