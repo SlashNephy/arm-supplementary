@@ -43039,7 +43039,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14869, mal_id: 35204 },
   // [2024-AUTUMN] TV: そろ谷のけいばっち
   // https://annict.com/works/14870
-  { annict_id: 14870, syobocal_tid: 7282 },
+  { annict_id: 14870, mal_id: 61289, syobocal_tid: 7282 },
   // [2024-AUTUMN] WEB: 『モアナと伝説の海２』3Dショートアニメ「ビヨンド ～越えてゆこう～」編
   // https://annict.com/works/14871
   { annict_id: 14871, mal_id: 60490 },
