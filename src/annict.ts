@@ -45860,4 +45860,7 @@ export const annict: ArmEntry[] = [
   // [1917-null] MOVIE: 芋川椋三玄関番の巻
   // https://annict.com/works/15811
   { annict_id: 15811, mal_id: 17387 },
+  // [2025-SPRING] TV: MUZIK TIGER In the Forest
+  // https://annict.com/works/15812
+  { annict_id: 15812 },
 ]
