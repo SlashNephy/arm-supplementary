@@ -45863,4 +45863,10 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] TV: MUZIK TIGER In the Forest
   // https://annict.com/works/15812
   { annict_id: 15812 },
+  // [2024-AUTUMN] WEB: ジュラシック･ワールド/サバイバル・ミッション シーズン2
+  // https://annict.com/works/15813
+  { annict_id: 15813 },
+  // [2025-SPRING] WEB: ジュラシック･ワールド/サバイバル・ミッション シーズン3
+  // https://annict.com/works/15814
+  { annict_id: 15814 },
 ]
