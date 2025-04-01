@@ -38393,7 +38393,7 @@ export const annict: ArmEntry[] = [
   // [1946-WINTER] MOVIE: グーフィーの黒騎士
   // https://annict.com/works/13315
   { annict_id: 13315 },
-  // [1926-null] MOVIE: 切紙細工 西遊記 孫悟空物語
+  // [1926-AUTUMN] MOVIE: 切紙細工 西遊記 孫悟空物語
   // https://annict.com/works/13316
   { annict_id: 13316, mal_id: 7496 },
   // [1946-SPRING] MOVIE: プルートのかわいい弟
@@ -45857,4 +45857,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] WEB: 島津製作所 創業150周年記念アニメーション
   // https://annict.com/works/15810
   { annict_id: 15810 },
+  // [1917-null] MOVIE: 芋川椋三玄関番の巻
+  // https://annict.com/works/15811
+  { annict_id: 15811, mal_id: 17387 },
 ]
