@@ -45869,4 +45869,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] WEB: ジュラシック･ワールド/サバイバル・ミッション シーズン3
   // https://annict.com/works/15814
   { annict_id: 15814 },
+  // [2025-WINTER] MOVIE: 「ONE PIECE」オリジナルエピソード／ルフィ、ロー
+  // https://annict.com/works/15815
+  { annict_id: 15815, mal_id: 60790 },
 ]
