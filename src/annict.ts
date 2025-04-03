@@ -45890,4 +45890,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] WEB: スヌーピーのショータイム！ シーズン3
   // https://annict.com/works/15821
   { annict_id: 15821 },
+  // [2021-WINTER] WEB: 雨宮さん
+  // https://annict.com/works/15822
+  { annict_id: 15822, mal_id: 49112 },
 ]
