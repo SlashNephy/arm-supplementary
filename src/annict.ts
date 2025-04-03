@@ -45872,4 +45872,10 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] MOVIE: 「ONE PIECE」オリジナルエピソード／ルフィ、ロー
   // https://annict.com/works/15815
   { annict_id: 15815, mal_id: 60790 },
+  // [2026-null] TV: 幼馴染とはラブコメにならない
+  // https://annict.com/works/15816
+  { annict_id: 15816, mal_id: 61359 },
+  // [2025-SPRING] WEB: 「7FATES: CHAKHO」オリジナルムービー
+  // https://annict.com/works/15817
+  { annict_id: 15817 },
 ]
