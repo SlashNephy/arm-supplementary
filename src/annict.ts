@@ -26432,7 +26432,7 @@ export const annict: ArmEntry[] = [
   // [2012-AUTUMN] MOVIE: ロラックスおじさんの秘密の種
   // https://annict.com/works/9280
   { annict_id: 9280 },
-  // [2021-WINTER] WEB: スヌーピーのショータイム
+  // [2021-WINTER] WEB: スヌーピーのショータイム！
   // https://annict.com/works/9281
   { annict_id: 9281 },
   // [2023-WINTER] TV: 便利屋斎藤さん、異世界に行く
