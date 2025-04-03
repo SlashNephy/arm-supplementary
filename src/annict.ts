@@ -45881,4 +45881,10 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] MOVIE: ユミの細胞たち THE MOVIE
   // https://annict.com/works/15818
   { annict_id: 15818 },
+  // [2025-WINTER] WEB: BE@RBRICK
+  // https://annict.com/works/15819
+  { annict_id: 15819 },
+  // [2022-WINTER] WEB: スヌーピーのショータイム！ シーズン2
+  // https://annict.com/works/15820
+  { annict_id: 15820 },
 ]
