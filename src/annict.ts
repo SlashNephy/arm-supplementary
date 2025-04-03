@@ -45887,4 +45887,7 @@ export const annict: ArmEntry[] = [
   // [2022-WINTER] WEB: スヌーピーのショータイム！ シーズン2
   // https://annict.com/works/15820
   { annict_id: 15820 },
+  // [2023-SPRING] WEB: スヌーピーのショータイム！ シーズン3
+  // https://annict.com/works/15821
+  { annict_id: 15821 },
 ]
