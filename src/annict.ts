@@ -26272,7 +26272,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9226 },
   // [2022-WINTER] MOVIE: 映画おしりたんてい 夢のジャンボスイートポテトまつり
   // https://annict.com/works/9227
-  { annict_id: 9227 },
+  { annict_id: 9227, mal_id: 61313 },
   // [2022-SPRING] TV: 古見さんは、コミュ症です。2期
   // https://annict.com/works/9228
   { annict_id: 9228, mal_id: 50631, syobocal_tid: 6295 },
@@ -36280,7 +36280,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12607, mal_id: 57590 },
   // [2024-WINTER] MOVIE: 映画おしりたんてい なんでもかいけつ倶楽部 対 かいとうU
   // https://annict.com/works/12608
-  { annict_id: 12608 },
+  { annict_id: 12608, mal_id: 61314 },
   // [1932-null] MOVIE: ニヤゴダンス
   // https://annict.com/works/12609
   { annict_id: 12609, mal_id: 35747 },
@@ -45878,4 +45878,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] WEB: 「7FATES: CHAKHO」オリジナルムービー
   // https://annict.com/works/15817
   { annict_id: 15817 },
+  // [2025-SUMMER] MOVIE: ユミの細胞たち THE MOVIE
+  // https://annict.com/works/15818
+  { annict_id: 15818 },
 ]
