@@ -45880,7 +45880,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15817 },
   // [2025-SUMMER] MOVIE: ユミの細胞たち THE MOVIE
   // https://annict.com/works/15818
-  { annict_id: 15818 },
+  { annict_id: 15818, mal_id: 58297 },
   // [2025-WINTER] WEB: BE@RBRICK
   // https://annict.com/works/15819
   { annict_id: 15819 },
