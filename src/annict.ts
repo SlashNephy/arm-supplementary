@@ -42887,7 +42887,7 @@ export const annict: ArmEntry[] = [
   // [2019-WINTER] OVA: LEGO スーパー・ヒーローズ：アクアマン
   // https://annict.com/works/14819
   { annict_id: 14819 },
-  // [2025-null] MOVIE: LUPIN THE IIIRD THE MOVIE
+  // [2025-SPRING] MOVIE: LUPIN THE IIIRD THE MOVIE 不死身の血族
   // https://annict.com/works/14820
   { annict_id: 14820, mal_id: 60408 },
   // [null-null] MOVIE: PUI PUI モルカー ザ・ムービー MOLMAX続編
