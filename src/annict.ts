@@ -45902,4 +45902,7 @@ export const annict: ArmEntry[] = [
   // [1983-AUTUMN] TV: 宇宙戦艦ヤマトⅢ 太陽系の破滅
   // https://annict.com/works/15825
   { annict_id: 15825 },
+  // [1959-SPRING] MOVIE: 悪魔の発明
+  // https://annict.com/works/15826
+  { annict_id: 15826 },
 ]
