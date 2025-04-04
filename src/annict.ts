@@ -45896,4 +45896,10 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] MOVIE: LUPIN THE IIIRD THE MOVIE 不死身の血族
   // https://annict.com/works/15823
   { annict_id: 15823, mal_id: 60408 },
+  // [1984-AUTUMN] TV: 宇宙戦艦ヤマト２ 総集編
+  // https://annict.com/works/15824
+  { annict_id: 15824 },
+  // [1983-AUTUMN] TV: 宇宙戦艦ヤマトⅢ 太陽系の破滅
+  // https://annict.com/works/15825
+  { annict_id: 15825 },
 ]
