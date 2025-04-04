@@ -45893,9 +45893,6 @@ export const annict: ArmEntry[] = [
   // [2021-WINTER] WEB: 雨宮さん
   // https://annict.com/works/15822
   { annict_id: 15822, mal_id: 49112 },
-  // [2025-SPRING] MOVIE: LUPIN THE IIIRD THE MOVIE 不死身の血族
-  // https://annict.com/works/15823
-  { annict_id: 15823, mal_id: 60408 },
   // [1984-AUTUMN] TV: 宇宙戦艦ヤマト２ 総集編
   // https://annict.com/works/15824
   { annict_id: 15824 },
