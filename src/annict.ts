@@ -45905,4 +45905,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] WEB: ポケモンカードをやってみたい
   // https://annict.com/works/15827
   { annict_id: 15827, mal_id: 58507 },
+  // [1917-WINTER] MOVIE: 凸凹新画帳 名案の失敗
+  // https://annict.com/works/15828
+  { annict_id: 15828, mal_id: 23189 },
 ]
