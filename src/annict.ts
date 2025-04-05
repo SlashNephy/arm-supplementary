@@ -40852,7 +40852,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14139, mal_id: 60083, syobocal_tid: 7391 },
   // [2025-SPRING] TV: かいじゅうせかいせいふく
   // https://annict.com/works/14140
-  { annict_id: 14140, mal_id: 60070 },
+  { annict_id: 14140, mal_id: 60070, syobocal_tid: 7443 },
   // [null-null] TV: 穏やか貴族の休暇のすすめ。
   // https://annict.com/works/14141
   { annict_id: 14141, mal_id: 60071 },
@@ -43258,7 +43258,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14942 },
   // [2025-SPRING] TV: コウペンちゃん
   // https://annict.com/works/14943
-  { annict_id: 14943, mal_id: 60534 },
+  { annict_id: 14943, mal_id: 60534, syobocal_tid: 7442 },
   // [2025-SPRING] TV: えぶりでいホスト
   // https://annict.com/works/14944
   { annict_id: 14944, mal_id: 60535, syobocal_tid: 7433 },
