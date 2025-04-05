@@ -45908,4 +45908,7 @@ export const annict: ArmEntry[] = [
   // [1917-WINTER] MOVIE: 凸凹新画帳 名案の失敗
   // https://annict.com/works/15828
   { annict_id: 15828, mal_id: 23189 },
+  // [2001-WINTER] TV: テレサ アンナ ヘレナ 3つごのだいぼうけん
+  // https://annict.com/works/15829
+  { annict_id: 15829 },
 ]
