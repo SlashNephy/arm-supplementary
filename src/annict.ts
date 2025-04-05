@@ -45902,4 +45902,7 @@ export const annict: ArmEntry[] = [
   // [1959-SPRING] MOVIE: 悪魔の発明
   // https://annict.com/works/15826
   { annict_id: 15826 },
+  // [2024-WINTER] WEB: ポケモンカードをやってみたい
+  // https://annict.com/works/15827
+  { annict_id: 15827, mal_id: 58507 },
 ]
