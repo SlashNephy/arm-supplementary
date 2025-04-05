@@ -45911,4 +45911,7 @@ export const annict: ArmEntry[] = [
   // [2001-WINTER] TV: テレサ アンナ ヘレナ 3つごのだいぼうけん
   // https://annict.com/works/15829
   { annict_id: 15829 },
+  // [2001-WINTER] TV: おくびょうなカーレッジくん
+  // https://annict.com/works/15830
+  { annict_id: 15830 },
 ]
