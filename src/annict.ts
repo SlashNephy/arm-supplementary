@@ -45914,4 +45914,16 @@ export const annict: ArmEntry[] = [
   // [2001-WINTER] TV: おくびょうなカーレッジくん
   // https://annict.com/works/15830
   { annict_id: 15830 },
+  // [1917-SPRING] MOVIE: 茶目坊新画帳 蚤夫婦仕返しの巻
+  // https://annict.com/works/15831
+  { annict_id: 15831, mal_id: 23187 },
+  // [2001-SPRING] TV: アンジェラ・アナコンダ
+  // https://annict.com/works/15832
+  { annict_id: 15832 },
+  // [1917-SPRING] MOVIE: 芋川椋三宙返りの巻
+  // https://annict.com/works/15833
+  { annict_id: 15833, mal_id: 24577 },
+  // [1917-SPRING] MOVIE: 猿と蟹（サルとカニの合戦）
+  // https://annict.com/works/15834
+  { annict_id: 15834, mal_id: 10742 },
 ]
