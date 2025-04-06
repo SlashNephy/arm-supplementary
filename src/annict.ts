@@ -45929,4 +45929,16 @@ export const annict: ArmEntry[] = [
   // [1972-null] TV: 海底二万哩 ノーチラス号の冒険
   // https://annict.com/works/15835
   { annict_id: 15835 },
+  // [1986-null] OVA: 超獣機神ダンクーガ Song Special 獣戦機隊Songs
+  // https://annict.com/works/15836
+  { annict_id: 15836, mal_id: 17002 },
+  // [2008-WINTER] OVA: ウルフ*ダディ -パパが必要なの-
+  // https://annict.com/works/15837
+  { annict_id: 15837, mal_id: 4099 },
+  // [2009-WINTER] MOVIE: わたしのコーヒー・サムライ -自販機的な彼氏-
+  // https://annict.com/works/15838
+  { annict_id: 15838, mal_id: 28235 },
+  // [1987-WINTER] OVA: ミンキーモモ SONG スペシャル 瞳の星座
+  // https://annict.com/works/15839
+  { annict_id: 15839, mal_id: 23129 },
 ]
