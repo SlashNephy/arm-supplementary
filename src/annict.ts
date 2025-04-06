@@ -5054,7 +5054,7 @@ export const annict: ArmEntry[] = [
   // [2001-SPRING] TV: パラッパラッパー
   // https://annict.com/works/1687
   { annict_id: 1687, mal_id: 3736 },
-  // [2010-AUTUMN] TV: パンティ＆ストッキングwithガーターベルト
+  // [2010-AUTUMN] TV: Panty&Stocking with Garterbelt
   // https://annict.com/works/1688
   { annict_id: 1688, mal_id: 8795, syobocal_tid: 2041 },
   // [1967-SPRING] TV: パーマン
@@ -45943,7 +45943,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15839, mal_id: 23129 },
   // [null-null] TV: 負けヒロインが多すぎる！2期
   // https://annict.com/works/15840
-  { annict_id: 15840 },
+  { annict_id: 15840, mal_id: 61398 },
   // [2025-SPRING] WEB: 「The Star Seekers 星を追う少年たち」オリジナルムービー
   // https://annict.com/works/15841
   { annict_id: 15841, mal_id: 61364 },
