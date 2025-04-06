@@ -45950,4 +45950,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] TV: ユーチューニャー 第3期
   // https://annict.com/works/15842
   { annict_id: 15842, mal_id: 61363 },
+  // [2015-AUTUMN] TV: おいどんと
+  // https://annict.com/works/15843
+  { annict_id: 15843, mal_id: 35698 },
 ]
