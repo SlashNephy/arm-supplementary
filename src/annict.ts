@@ -45926,4 +45926,7 @@ export const annict: ArmEntry[] = [
   // [1917-SPRING] MOVIE: 猿と蟹（サルとカニの合戦）
   // https://annict.com/works/15834
   { annict_id: 15834, mal_id: 10742 },
+  // [1972-null] TV: 海底二万哩 ノーチラス号の冒険
+  // https://annict.com/works/15835
+  { annict_id: 15835 },
 ]
