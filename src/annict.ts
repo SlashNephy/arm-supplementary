@@ -39614,7 +39614,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: ニワトリ・ファイター
   // https://annict.com/works/13722
   { annict_id: 13722, mal_id: 59393 },
-  // [2025-null] TV: カッコウの許嫁 第2期
+  // [2025-SUMMER] TV: カッコウの許嫁 Season2
   // https://annict.com/works/13723
   { annict_id: 13723, mal_id: 59402 },
   // [1986-SUMMER] OVA: ワンス・アポン・ア・マウス
@@ -43690,7 +43690,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15086, mal_id: 20539 },
   // [2025-SUMMER] MOVIE: 遠井さんは青春したい！『バカとスマホとロマンスと』
   // https://annict.com/works/15087
-  { annict_id: 15087 },
+  { annict_id: 15087, mal_id: 61367 },
   // [2025-WINTER] WEB: 猫猫のひとりごと (第2期)
   // https://annict.com/works/15089
   { annict_id: 15089, mal_id: 60749 },
@@ -45808,7 +45808,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15793, mal_id: 61324 },
   // [2025-SPRING] TV: ゆるかわメルちゃん
   // https://annict.com/works/15794
-  { annict_id: 15794, syobocal_tid: 7427 },
+  { annict_id: 15794, mal_id: 61379, syobocal_tid: 7427 },
   // [null-null] TV: アオのハコ 第2期
   // https://annict.com/works/15795
   { annict_id: 15795, mal_id: 61323 },
@@ -45877,7 +45877,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15816, mal_id: 61359 },
   // [2025-SPRING] WEB: 「7FATES: CHAKHO」オリジナルムービー
   // https://annict.com/works/15817
-  { annict_id: 15817 },
+  { annict_id: 15817, mal_id: 61361 },
   // [2025-SUMMER] MOVIE: ユミの細胞たち THE MOVIE
   // https://annict.com/works/15818
   { annict_id: 15818, mal_id: 58297 },
@@ -45941,4 +45941,13 @@ export const annict: ArmEntry[] = [
   // [1987-WINTER] OVA: ミンキーモモ SONG スペシャル 瞳の星座
   // https://annict.com/works/15839
   { annict_id: 15839, mal_id: 23129 },
+  // [null-null] TV: 負けヒロインが多すぎる！2期
+  // https://annict.com/works/15840
+  { annict_id: 15840 },
+  // [2025-SPRING] WEB: 「The Star Seekers 星を追う少年たち」オリジナルムービー
+  // https://annict.com/works/15841
+  { annict_id: 15841, mal_id: 61364 },
+  // [2025-SPRING] TV: ユーチューニャー 第3期
+  // https://annict.com/works/15842
+  { annict_id: 15842, mal_id: 61363 },
 ]
