@@ -45959,4 +45959,10 @@ export const annict: ArmEntry[] = [
   // [1985-WINTER] OVA: メーテルリンクの青い鳥　チルチルミチルの冒険旅行-総集編
   // https://annict.com/works/15845
   { annict_id: 15845 },
+  // [1987-SPRING] OVA: マシンロボ クロノスの大逆襲｢戦場の記憶｣
+  // https://annict.com/works/15846
+  { annict_id: 15846 },
+  // [2011-SPRING] TV: スプートニック da ONE
+  // https://annict.com/works/15847
+  { annict_id: 15847, mal_id: 41926 },
 ]
