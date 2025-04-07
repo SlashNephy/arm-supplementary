@@ -39454,7 +39454,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13668 },
   // [2025-SUMMER] TV: 白豚貴族ですが前世の記憶が生えたのでひよこな弟育てます
   // https://annict.com/works/13669
-  { annict_id: 13669, mal_id: 59322 },
+  { annict_id: 13669, mal_id: 59322, syobocal_tid: 7446 },
   // [2023-WINTER] WEB: パディントンのぼうけん セカンドシーズン
   // https://annict.com/works/13670
   { annict_id: 13670 },
@@ -43384,7 +43384,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14984 },
   // [2025-SPRING] TV: SHIBUYA♡HACHI 第3クール
   // https://annict.com/works/14985
-  { annict_id: 14985, mal_id: 60612 },
+  { annict_id: 14985, mal_id: 60612, syobocal_tid: 7444 },
   // [1921-null] MOVIE: ガーティの旅
   // https://annict.com/works/14986
   { annict_id: 14986 },
@@ -45541,7 +45541,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15704, mal_id: 61203 },
   // [2025-SPRING] TV: ちくわ戦記～おれのカワイイで地球侵略～
   // https://annict.com/works/15705
-  { annict_id: 15705, mal_id: 61238 },
+  { annict_id: 15705, mal_id: 61238, syobocal_tid: 7445 },
   // [2025-SPRING] TV: おいでよ魔法少女村(不法占拠)
   // https://annict.com/works/15706
   { annict_id: 15706, syobocal_tid: 7416 },
