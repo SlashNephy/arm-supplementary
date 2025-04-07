@@ -45968,4 +45968,7 @@ export const annict: ArmEntry[] = [
   // [1984-SUMMER] OVA: 特装機兵ドルバック(OVA)
   // https://annict.com/works/15848
   { annict_id: 15848, mal_id: 53903 },
+  // [2025-SPRING] WEB: HELLO OSAKA シーズン2
+  // https://annict.com/works/15849
+  { annict_id: 15849 },
 ]
