@@ -45965,4 +45965,7 @@ export const annict: ArmEntry[] = [
   // [2011-SPRING] TV: スプートニック da ONE
   // https://annict.com/works/15847
   { annict_id: 15847, mal_id: 41926 },
+  // [1984-SUMMER] OVA: 特装機兵ドルバック(OVA)
+  // https://annict.com/works/15848
+  { annict_id: 15848, mal_id: 53903 },
 ]
