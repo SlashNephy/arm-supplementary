@@ -45956,4 +45956,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] WEB: 勘違いの工房主 ミニアニメ
   // https://annict.com/works/15844
   { annict_id: 15844 },
+  // [1985-WINTER] OVA: メーテルリンクの青い鳥　チルチルミチルの冒険旅行-総集編
+  // https://annict.com/works/15845
+  { annict_id: 15845 },
 ]
