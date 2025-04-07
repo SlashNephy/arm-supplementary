@@ -45953,4 +45953,7 @@ export const annict: ArmEntry[] = [
   // [2015-AUTUMN] TV: おいどんと
   // https://annict.com/works/15843
   { annict_id: 15843, mal_id: 35698 },
+  // [2025-SPRING] WEB: 勘違いの工房主 ミニアニメ
+  // https://annict.com/works/15844
+  { annict_id: 15844 },
 ]
