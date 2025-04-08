@@ -45980,4 +45980,10 @@ export const annict: ArmEntry[] = [
   // [2012-AUTUMN] OVA: Peeping Life ユニバーサル映画100周年キャンペーンコラボ映像
   // https://annict.com/works/15852
   { annict_id: 15852, mal_id: 25941 },
+  // [2004-WINTER] WEB: 菅井君と家族石
+  // https://annict.com/works/15853
+  { annict_id: 15853, mal_id: 35331 },
+  // [2008-WINTER] TV: ピン子の秘伝カリー
+  // https://annict.com/works/15854
+  { annict_id: 15854, mal_id: 53088 },
 ]
