@@ -46007,13 +46007,16 @@ export const annict: ArmEntry[] = [
   // [2018-SPRING] WEB: K RETURN OF KINGS All in One Edition～Master in 2Hours～
   // https://annict.com/works/15861
   { annict_id: 15861 },
-  // [2025-SPRING] WEB: ちびぜんじ先生　居残り講義録
+  // [2025-SPRING] WEB: ちびぜんじ先生 居残り講義録
   // https://annict.com/works/15862
   { annict_id: 15862 },
   // [2026-null] MOVIE: クスノキの番人
   // https://annict.com/works/15863
   { annict_id: 15863, mal_id: 61418 },
-  // [2025-WINTER] WEB: 「たべっ子どうぶつ THE MOVIE」Short Clips
+  // [2025-WINTER] WEB:  たべっ子どうぶつ THE MOVIE Short Clips
   // https://annict.com/works/15864
   { annict_id: 15864, mal_id: 61381 },
+  // [null-null] TV: ポンコツ風紀委員とスカート丈が不適切なJKの話
+  // https://annict.com/works/15865
+  { annict_id: 15865, mal_id: 61425 },
 ]
