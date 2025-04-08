@@ -46013,4 +46013,7 @@ export const annict: ArmEntry[] = [
   // [2026-null] MOVIE: クスノキの番人
   // https://annict.com/works/15863
   { annict_id: 15863, mal_id: 61418 },
+  // [2025-WINTER] WEB: 「たべっ子どうぶつ THE MOVIE」Short Clips
+  // https://annict.com/works/15864
+  { annict_id: 15864, mal_id: 61381 },
 ]
