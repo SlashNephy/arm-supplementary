@@ -16082,7 +16082,7 @@ export const annict: ArmEntry[] = [
   // [2005-WINTER] MOVIE: 劇場版 テニスの王子様 跡部からの贈り物 〜君に捧げるテニプリ祭り〜
   // https://annict.com/works/5394
   { annict_id: 5394, mal_id: 814 },
-  // [2011-AUTUMN] OVA: Peeping Life PV版
+  // [2011-AUTUMN] WEB: Peeping Life ×タツノコプロ
   // https://annict.com/works/5395
   { annict_id: 5395, mal_id: 32149 },
   // [2013-SPRING] OVA: Peeping Life 桃屋×Peeping Life ご縁ですよ!
@@ -45971,4 +45971,13 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] WEB: HELLO OSAKA シーズン2
   // https://annict.com/works/15849
   { annict_id: 15849 },
+  // [2013-SPRING] WEB: Peeping Life -手塚プロ・タツノコプロ アニメバンチョー版-
+  // https://annict.com/works/15850
+  { annict_id: 15850, mal_id: 22635 },
+  // [2013-SUMMER] WEB: Peeping Life ユーチューバ―くん
+  // https://annict.com/works/15851
+  { annict_id: 15851, mal_id: 20955 },
+  // [2012-AUTUMN] OVA: Peeping Life ユニバーサル映画100周年キャンペーンコラボ映像
+  // https://annict.com/works/15852
+  { annict_id: 15852, mal_id: 25941 },
 ]
