@@ -57,7 +57,7 @@
     "graphql": "16.10.0",
     "prettier": "3.5.3",
     "ts-node": "10.9.2",
-    "typescript": "5.8.2"
+    "typescript": "5.8.3"
   },
   "packageManager": "yarn@4.8.1",
   "engines": {
