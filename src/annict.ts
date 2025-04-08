@@ -45223,7 +45223,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15598 },
   // [2025-SPRING] WEB: ちょっとだけ愛が重いダークエルフが異世界から追いかけてきた ミニアニメ劇場
   // https://annict.com/works/15599
-  { annict_id: 15599 },
+  { annict_id: 15599, mal_id: 61410 },
   // [null-null] TV: 転生した大聖女は、聖女であることをひた隠す
   // https://annict.com/works/15600
   { annict_id: 15600, mal_id: 61153 },
@@ -46007,4 +46007,10 @@ export const annict: ArmEntry[] = [
   // [2018-SPRING] WEB: K RETURN OF KINGS All in One Edition～Master in 2Hours～
   // https://annict.com/works/15861
   { annict_id: 15861 },
+  // [2025-SPRING] WEB: ちびぜんじ先生　居残り講義録
+  // https://annict.com/works/15862
+  { annict_id: 15862 },
+  // [2026-null] MOVIE: クスノキの番人
+  // https://annict.com/works/15863
+  { annict_id: 15863, mal_id: 61418 },
 ]
