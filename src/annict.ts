@@ -45986,4 +45986,25 @@ export const annict: ArmEntry[] = [
   // [2008-WINTER] TV: ピン子の秘伝カリー
   // https://annict.com/works/15854
   { annict_id: 15854, mal_id: 53088 },
+  // [2012-WINTER] TV: パパンがパンダ
+  // https://annict.com/works/15855
+  { annict_id: 15855, mal_id: 35962 },
+  // [2015-WINTER] OVA: パパンがパンダ! その2
+  // https://annict.com/works/15856
+  { annict_id: 15856 },
+  // [2015-WINTER] OVA: パパンがヤッターマン！？
+  // https://annict.com/works/15857
+  { annict_id: 15857 },
+  // [2016-SUMMER] OVA: パパンがパンダ! その3
+  // https://annict.com/works/15858
+  { annict_id: 15858 },
+  // [2016-SUMMER] OVA: パパンがパンダ! その4
+  // https://annict.com/works/15859
+  { annict_id: 15859 },
+  // [2018-SPRING] WEB: K All in One Edition～Master in 2Hours～
+  // https://annict.com/works/15860
+  { annict_id: 15860 },
+  // [2018-SPRING] WEB: K RETURN OF KINGS All in One Edition～Master in 2Hours～
+  // https://annict.com/works/15861
+  { annict_id: 15861 },
 ]
