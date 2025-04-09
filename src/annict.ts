@@ -8212,7 +8212,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2743, mal_id: 2321, syobocal_tid: 2918 },
   // [1995-WINTER] OVA: ジャイアント・ロボ THE ANIMATION 外伝 鉄腕 GinRei
   // https://annict.com/works/2744
-  { annict_id: 2744 },
+  { annict_id: 2744, mal_id: 2322 },
   // [1985-SUMMER] OVA: ジャスティ
   // https://annict.com/works/2745
   { annict_id: 2745, mal_id: 2056 },
@@ -32431,7 +32431,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11318, mal_id: 2322 },
   // [1995-SUMMER] OVA: ジャイアント・ロボ THE ANIMATION 外伝 青い瞳の銀鈴 GinRei With blue eyes
   // https://annict.com/works/11319
-  { annict_id: 11319 },
+  { annict_id: 11319, mal_id: 2322 },
   // [2006-AUTUMN] OVA: プロジェクトパポ
   // https://annict.com/works/11320
   { annict_id: 11320 },
@@ -46019,4 +46019,13 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: ポンコツ風紀委員とスカート丈が不適切なJKの話
   // https://annict.com/works/15865
   { annict_id: 15865, mal_id: 61425 },
+  // [1994-SPRING] TV: スラムダンク 決意の湘北バスケ部
+  // https://annict.com/works/15866
+  { annict_id: 15866, mal_id: 52159 },
+  // [2025-SPRING] MOVIE: 卓球少女 -閃光のかなたへ-
+  // https://annict.com/works/15867
+  { annict_id: 15867 },
+  // [2012-SPRING] TV: DOGSTAR ドッグスター
+  // https://annict.com/works/15868
+  { annict_id: 15868 },
 ]
