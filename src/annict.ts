@@ -46028,4 +46028,7 @@ export const annict: ArmEntry[] = [
   // [2012-SPRING] TV: DOGSTAR ドッグスター
   // https://annict.com/works/15868
   { annict_id: 15868 },
+  // [2001-SPRING] TV: ウッディー・ウッドペッカー(1999年)
+  // https://annict.com/works/15869
+  { annict_id: 15869 },
 ]
