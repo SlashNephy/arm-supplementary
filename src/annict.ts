@@ -45856,7 +45856,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15809 },
   // [2025-WINTER] WEB: 島津製作所 創業150周年記念アニメーション
   // https://annict.com/works/15810
-  { annict_id: 15810 },
+  { annict_id: 15810, mal_id: 61431 },
   // [1917-null] MOVIE: 芋川椋三玄関番の巻
   // https://annict.com/works/15811
   { annict_id: 15811, mal_id: 17387 },
@@ -46037,4 +46037,7 @@ export const annict: ArmEntry[] = [
   // [2001-AUTUMN] TV: ドーラといっしょに大冒険
   // https://annict.com/works/15871
   { annict_id: 15871 },
+  // [null-null] OTHER: わたしの幸せな結婚 新作アニメ
+  // https://annict.com/works/15872
+  { annict_id: 15872, mal_id: 61440 },
 ]
