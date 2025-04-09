@@ -46034,4 +46034,7 @@ export const annict: ArmEntry[] = [
   // [2001-SUMMER] TV: マドレーヌといっしょに
   // https://annict.com/works/15870
   { annict_id: 15870 },
+  // [2001-AUTUMN] TV: ドーラといっしょに大冒険
+  // https://annict.com/works/15871
+  { annict_id: 15871 },
 ]
