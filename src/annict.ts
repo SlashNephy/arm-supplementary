@@ -46031,4 +46031,7 @@ export const annict: ArmEntry[] = [
   // [2001-SPRING] TV: ウッディー・ウッドペッカー(1999年)
   // https://annict.com/works/15869
   { annict_id: 15869 },
+  // [2001-SUMMER] TV: マドレーヌといっしょに
+  // https://annict.com/works/15870
+  { annict_id: 15870 },
 ]
