@@ -45652,7 +45652,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15741, mal_id: 61286 },
   // [2025-WINTER] WEB: PlayStation × YOASOBI「PLAYERS」30周年特別CM｜Project: MEMORY CARD
   // https://annict.com/works/15742
-  { annict_id: 15742 },
+  { annict_id: 15742, mal_id: 61349 },
   // [1980-SUMMER] TV: 一休さん 大暴れやんちゃ姫
   // https://annict.com/works/15743
   { annict_id: 15743, mal_id: 23575 },
@@ -46024,7 +46024,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15866, mal_id: 52159 },
   // [2025-SPRING] MOVIE: 卓球少女 -閃光のかなたへ-
   // https://annict.com/works/15867
-  { annict_id: 15867 },
+  { annict_id: 15867, mal_id: 51333 },
   // [2012-SPRING] TV: DOGSTAR ドッグスター
   // https://annict.com/works/15868
   { annict_id: 15868 },
