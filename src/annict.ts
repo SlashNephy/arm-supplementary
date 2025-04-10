@@ -30164,7 +30164,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] TV: デュエル・マスターズ WIN 決闘学園編 (デュエル・ウォーズ)
   // https://annict.com/works/10562
   { annict_id: 10562, syobocal_tid: 6682 },
-  // [null-null] TV: 不滅のあなたへ Season3
+  // [2025-AUTUMN] TV: 不滅のあなたへ Season3
   // https://annict.com/works/10563
   { annict_id: 10563, mal_id: 54703 },
   // [2023-WINTER] TV: おしりたんてい コズミックフロント
@@ -40853,7 +40853,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] TV: かいじゅうせかいせいふく
   // https://annict.com/works/14140
   { annict_id: 14140, mal_id: 60070, syobocal_tid: 7443 },
-  // [null-null] TV: 穏やか貴族の休暇のすすめ。
+  // [2026-WINTER] TV: 穏やか貴族の休暇のすすめ。
   // https://annict.com/works/14141
   { annict_id: 14141, mal_id: 60071 },
   // [1990-SUMMER] MOVIE: キムの十字架
