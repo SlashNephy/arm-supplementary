@@ -39607,7 +39607,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13719 },
   // [2025-SPRING] WEB: リコリス・リコイル Friends are thieves of time.
   // https://annict.com/works/13720
-  { annict_id: 13720, mal_id: 59369 },
+  { annict_id: 13720, mal_id: 59369, syobocal_tid: 7448 },
   // [2024-SUMMER] TV: おはよう！うんこ先生
   // https://annict.com/works/13721
   { annict_id: 13721, mal_id: 59409 },
