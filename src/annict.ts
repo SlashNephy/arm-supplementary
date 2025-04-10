@@ -46040,4 +46040,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: わたしの幸せな結婚 新作アニメ
   // https://annict.com/works/15872
   { annict_id: 15872, mal_id: 61440 },
+  // [null-null] TV: 春夏秋冬代行者 春の舞
+  // https://annict.com/works/15873
+  { annict_id: 15873 },
 ]
