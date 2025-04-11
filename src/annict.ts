@@ -46042,5 +46042,8 @@ export const annict: ArmEntry[] = [
   { annict_id: 15872, mal_id: 61440 },
   // [null-null] TV: 春夏秋冬代行者 春の舞
   // https://annict.com/works/15873
-  { annict_id: 15873 },
+  { annict_id: 15873, mal_id: 61443 },
+  // [null-null] WEB: Devil May Cry シーズン2
+  // https://annict.com/works/15874
+  { annict_id: 15874 },
 ]
