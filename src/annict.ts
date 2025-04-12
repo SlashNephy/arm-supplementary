@@ -46049,4 +46049,10 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: テンカイチ 日本最強武芸者決定戦
   // https://annict.com/works/15875
   { annict_id: 15875 },
+  // [1980-WINTER] MOVIE: 三銃士タイムマシン001
+  // https://annict.com/works/15876
+  { annict_id: 15876 },
+  // [1979-SUMMER] MOVIE: 星の国三銃士
+  // https://annict.com/works/15877
+  { annict_id: 15877 },
 ]
