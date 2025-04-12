@@ -37150,7 +37150,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12899 },
   // [2024-SPRING] OVA: アイドルマスター ミリオンライブ！ The Backstage　～あの日 灯った大切な想い～／～空があるから～
   // https://annict.com/works/12900
-  { annict_id: 12900, mal_id: 59082 },
+  { annict_id: 12900, mal_id: 61456 },
   // [2021-SUMMER] OTHER: The Fourth Wall
   // https://annict.com/works/12901
   { annict_id: 12901 },
@@ -43282,7 +43282,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14950, mal_id: 54705 },
   // [2024-AUTUMN] WEB: パンの赤ちゃん
   // https://annict.com/works/14951
-  { annict_id: 14951 },
+  { annict_id: 14951, mal_id: 61462 },
   // [2024-AUTUMN] WEB: 「なんでやねん」シリーズ
   // https://annict.com/works/14952
   { annict_id: 14952 },
@@ -46048,11 +46048,14 @@ export const annict: ArmEntry[] = [
   { annict_id: 15874 },
   // [null-null] TV: テンカイチ 日本最強武芸者決定戦
   // https://annict.com/works/15875
-  { annict_id: 15875 },
+  { annict_id: 15875, mal_id: 61461 },
   // [1980-WINTER] MOVIE: 三銃士タイムマシン001
   // https://annict.com/works/15876
-  { annict_id: 15876 },
+  { annict_id: 15876, mal_id: 13365 },
   // [1979-SUMMER] MOVIE: 星の国三銃士
   // https://annict.com/works/15877
-  { annict_id: 15877 },
+  { annict_id: 15877, mal_id: 6671 },
+  // [null-null] OTHER: スティール・ボール・ラン ジョジョの奇妙な冒険
+  // https://annict.com/works/15878
+  { annict_id: 15878, mal_id: 61469 },
 ]
