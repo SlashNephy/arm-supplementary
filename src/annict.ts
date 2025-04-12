@@ -37604,9 +37604,9 @@ export const annict: ArmEntry[] = [
   // [2026-SPRING] MOVIE: 「スーパーマリオ」新作アニメ
   // https://annict.com/works/13051
   { annict_id: 13051 },
-  // [2026-null] TV: 攻殻機動隊 新作TVアニメ
+  // [2026-null] TV: 攻殻機動隊 THE GHOST IN THE SHELL
   // https://annict.com/works/13052
-  { annict_id: 13052 },
+  { annict_id: 13052, mal_id: 58929 },
   // [2024-SPRING] WEB: コードギアス 奪還のロゼ
   // https://annict.com/works/13053
   { annict_id: 13053, mal_id: 56835 },
