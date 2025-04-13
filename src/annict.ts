@@ -46058,4 +46058,10 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: スティール・ボール・ラン ジョジョの奇妙な冒険
   // https://annict.com/works/15878
   { annict_id: 15878, mal_id: 61469 },
+  // [2014-SPRING] TV: ビッケはちいさなバイキング
+  // https://annict.com/works/15879
+  { annict_id: 15879 },
+  // [2020-AUTUMN] MOVIE: 映画 小さなバイキング ビッケ
+  // https://annict.com/works/15880
+  { annict_id: 15880 },
 ]
