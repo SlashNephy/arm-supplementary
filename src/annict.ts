@@ -43649,7 +43649,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] TV: 水属性の魔法使い
   // https://annict.com/works/15073
   { annict_id: 15073, mal_id: 60732 },
-  // [2025-SUMMER] OVA: もめんたりー・リリィ 第14話「続いていく割烹、割烹！」
+  // [2025-WINTER] WEB: もめんたりー・リリィ 第14話「続いていく割烹、割烹！」
   // https://annict.com/works/15074
   { annict_id: 15074, mal_id: 61334 },
   // [1929-SPRING] MOVIE: アクメッド王子の冒険
@@ -46064,4 +46064,7 @@ export const annict: ArmEntry[] = [
   // [2020-AUTUMN] MOVIE: 映画 小さなバイキング ビッケ
   // https://annict.com/works/15880
   { annict_id: 15880 },
+  // [null-null] TV: 天幕のジャードゥーガル
+  // https://annict.com/works/15881
+  { annict_id: 15881, mal_id: 61483 },
 ]
