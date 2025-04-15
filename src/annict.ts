@@ -46067,4 +46067,13 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 天幕のジャードゥーガル
   // https://annict.com/works/15881
   { annict_id: 15881, mal_id: 61483 },
+  // [2002-null] TV: シャドウレイダース
+  // https://annict.com/works/15882
+  { annict_id: 15882 },
+  // [2002-WINTER] TV: チョーク・ゾーン
+  // https://annict.com/works/15883
+  { annict_id: 15883 },
+  // [2002-WINTER] TV: リトル・ビル
+  // https://annict.com/works/15884
+  { annict_id: 15884 },
 ]
