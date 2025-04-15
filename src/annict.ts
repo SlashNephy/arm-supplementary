@@ -46085,4 +46085,7 @@ export const annict: ArmEntry[] = [
   // [2026-null] MOVIE: ひな菊の人生
   // https://annict.com/works/15887
   { annict_id: 15887, mal_id: 61495 },
+  // [2024-null] WEB: アイラブみー セレクション
+  // https://annict.com/works/15888
+  { annict_id: 15888 },
 ]
