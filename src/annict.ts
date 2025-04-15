@@ -46088,4 +46088,10 @@ export const annict: ArmEntry[] = [
   // [2024-null] WEB: アイラブみー セレクション
   // https://annict.com/works/15888
   { annict_id: 15888 },
+  // [2013-SUMMER] TV: フルーティー侍
+  // https://annict.com/works/15889
+  { annict_id: 15889, mal_id: 30173 },
+  // [2013-AUTUMN] TV: U900の｢ウクレレひきまショー｣
+  // https://annict.com/works/15890
+  { annict_id: 15890 },
 ]
