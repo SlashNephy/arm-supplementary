@@ -46076,4 +46076,13 @@ export const annict: ArmEntry[] = [
   // [2002-WINTER] TV: リトル・ビル
   // https://annict.com/works/15884
   { annict_id: 15884 },
+  // [2026-null] TV: カナン様はあくまでチョロい
+  // https://annict.com/works/15885
+  { annict_id: 15885, mal_id: 61501 },
+  // [2026-null] MOVIE: 映画 えんとつ町のプペル 〜約束の時計台〜
+  // https://annict.com/works/15886
+  { annict_id: 15886, mal_id: 61492 },
+  // [2026-null] MOVIE: ひな菊の人生
+  // https://annict.com/works/15887
+  { annict_id: 15887, mal_id: 61495 },
 ]
