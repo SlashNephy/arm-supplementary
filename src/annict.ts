@@ -32987,12 +32987,12 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: ダンジョンに出会いを求めるのは間違っているだろうかⅤ 豊穣の女神篇
   // https://annict.com/works/11504
   { annict_id: 11504, mal_id: 57066, syobocal_tid: 7183 },
-  // [2015-SUMMER] OTHER: ゼーガペイン PROJECT RESURRECTION 8.3.1.2015
+  // [2015-SUMMER] MOVIE: ゼーガペイン PROJECT RESURRECTION 8.3.1.2015
   // https://annict.com/works/11506
   { annict_id: 11506 },
   // [2016-AUTUMN] TV: 超圧縮・ミズハナ編 ゼーガペイン Memories in the shell
   // https://annict.com/works/11507
-  { annict_id: 11507 },
+  { annict_id: 11507, mal_id: 60954 },
   // [2015-WINTER] WEB: 超爆裂異次元メンコバトル ギガントシューター つかさα
   // https://annict.com/works/11508
   { annict_id: 11508 },
@@ -46094,4 +46094,7 @@ export const annict: ArmEntry[] = [
   // [2013-AUTUMN] TV: U900の｢ウクレレひきまショー｣
   // https://annict.com/works/15890
   { annict_id: 15890 },
+  // [2013-SUMMER] MOVIE: ゼーガペイン 2013夏エンディング8.3.1
+  // https://annict.com/works/15891
+  { annict_id: 15891, mal_id: 60955 },
 ]
