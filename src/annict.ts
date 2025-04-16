@@ -46103,4 +46103,7 @@ export const annict: ArmEntry[] = [
   // [2014-SUMMER] TV: 学校のコワイうわさ 新・花子さんがきた!! シーズン2
   // https://annict.com/works/15893
   { annict_id: 15893 },
+  // [2014-SPRING] TV: 昆虫物語 てんとうむChu!とみつばちハッChu
+  // https://annict.com/works/15894
+  { annict_id: 15894, mal_id: 29738 },
 ]
