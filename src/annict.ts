@@ -40364,10 +40364,10 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] MOVIE: 映画おしりたんてい スター・アンド・ムーン
   // https://annict.com/works/13976
   { annict_id: 13976, mal_id: 60613 },
-  // [2025-AUTUMN] MOVIE: 劇場版総集編『ガールズバンドクライ』青春狂走曲
+  // [2025-AUTUMN] MOVIE: 劇場版総集編 ガールズバンドクライ 青春狂走曲
   // https://annict.com/works/13977
   { annict_id: 13977, mal_id: 59817 },
-  // [2025-AUTUMN] MOVIE: 劇場版総集編『ガールズバンドクライ』なぁ、未来。
+  // [2025-AUTUMN] MOVIE: 劇場版総集編 ガールズバンドクライ なぁ、未来。
   // https://annict.com/works/13978
   { annict_id: 13978, mal_id: 59817 },
   // [2025-null] TV: 瑠璃の宝石
@@ -46097,4 +46097,10 @@ export const annict: ArmEntry[] = [
   // [2013-SUMMER] MOVIE: ゼーガペイン 2013夏エンディング8.3.1
   // https://annict.com/works/15891
   { annict_id: 15891, mal_id: 60955 },
+  // [1996-SPRING] MOVIE: トイレの花子さん
+  // https://annict.com/works/15892
+  { annict_id: 15892, mal_id: 8539 },
+  // [2014-SUMMER] TV: 学校のコワイうわさ 新・花子さんがきた!! シーズン2
+  // https://annict.com/works/15893
+  { annict_id: 15893 },
 ]
