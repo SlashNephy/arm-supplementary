@@ -46109,4 +46109,10 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] TV: キングダム 第6シリーズ
   // https://annict.com/works/15895
   { annict_id: 15895, mal_id: 61517 },
+  // [2014-AUTUMN] MOVIE: サミーとシェリー　七つの海の大冒険
+  // https://annict.com/works/15896
+  { annict_id: 15896 },
+  // [2015-SUMMER] OVA: サミーとシェリー2　僕らの脱出大作戦
+  // https://annict.com/works/15897
+  { annict_id: 15897 },
 ]
