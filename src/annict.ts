@@ -46106,4 +46106,7 @@ export const annict: ArmEntry[] = [
   // [2014-SPRING] TV: 昆虫物語 てんとうむChu!とみつばちハッChu
   // https://annict.com/works/15894
   { annict_id: 15894, mal_id: 29738 },
+  // [2025-AUTUMN] TV: キングダム 第6シリーズ
+  // https://annict.com/works/15895
+  { annict_id: 15895, mal_id: 61517 },
 ]
