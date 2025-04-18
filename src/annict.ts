@@ -46115,4 +46115,7 @@ export const annict: ArmEntry[] = [
   // [2015-SUMMER] OVA: サミーとシェリー2　僕らの脱出大作戦
   // https://annict.com/works/15897
   { annict_id: 15897 },
+  // [2017-AUTUMN] TV: 忍たま乱太郎 25年スペシャル「さらば忍術学園の段」
+  // https://annict.com/works/15898
+  { annict_id: 15898, mal_id: 36620 },
 ]
