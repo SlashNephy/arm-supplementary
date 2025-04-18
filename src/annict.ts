@@ -43775,7 +43775,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] MOVIE: ChaO
   // https://annict.com/works/15116
   { annict_id: 15116, mal_id: 60774 },
-  // [null-null] TV: アルマちゃんは家族になりたい
+  // [2025-null] TV: アルマちゃんは家族になりたい
   // https://annict.com/works/15117
   { annict_id: 15117, mal_id: 60781 },
   // [2002-null] MOVIE: Bathtime in Clerkenwell
