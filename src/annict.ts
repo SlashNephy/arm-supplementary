@@ -46124,4 +46124,7 @@ export const annict: ArmEntry[] = [
   // [2014-SUMMER] MOVIE: それいけ！アンパンマン たのしくてあそび ママになったコキンちゃん！？
   // https://annict.com/works/15900
   { annict_id: 15900 },
+  // [2025-SUMMER] TV: カードファイト!! ヴァンガード Divinez デラックス決勝編
+  // https://annict.com/works/15901
+  { annict_id: 15901, mal_id: 54145 },
 ]
