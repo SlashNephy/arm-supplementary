@@ -10229,7 +10229,7 @@ export const annict: ArmEntry[] = [
   // [2006-SUMMER] MOVIE: それいけ！アンパンマン コキンちゃんとあおいなみだ
   // https://annict.com/works/3421
   { annict_id: 3421, mal_id: 21957 },
-  // [2004-SUMMER] MOVIE: それいけ！アンパンマン 夢猫の国のニャニィ
+  // [2004-SUMMER] MOVIE: それいけ！アンパンマン 夢猫の国のニャニイ
   // https://annict.com/works/3422
   { annict_id: 3422, mal_id: 21969 },
   // [2004-SUMMER] MOVIE: それいけ！アンパンマン つきことしらたま～ときめきダンシング～
@@ -46118,4 +46118,10 @@ export const annict: ArmEntry[] = [
   // [2017-AUTUMN] TV: 忍たま乱太郎 25年スペシャル「さらば忍術学園の段」
   // https://annict.com/works/15898
   { annict_id: 15898, mal_id: 36620 },
+  // [2015-SUMMER] MOVIE: それいけ！アンパンマン リズムでうたおう！アンパンマン夏まつり
+  // https://annict.com/works/15899
+  { annict_id: 15899 },
+  // [2014-SUMMER] MOVIE: それいけ！アンパンマン たのしくてあそび ママになったコキンちゃん！？
+  // https://annict.com/works/15900
+  { annict_id: 15900 },
 ]
