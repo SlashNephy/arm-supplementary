@@ -31912,7 +31912,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11145, mal_id: 2738 },
   // [2002-AUTUMN] TV: ゴールドマッスル
   // https://annict.com/works/11146
-  { annict_id: 11146 },
+  { annict_id: 11146, mal_id: 61494 },
   // [2002-AUTUMN] TV: X-メン:エボリューション
   // https://annict.com/works/11147
   { annict_id: 11147 },
@@ -35647,7 +35647,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12395, mal_id: 57779 },
   // [2023-AUTUMN] WEB: 365日の明日
   // https://annict.com/works/12396
-  { annict_id: 12396 },
+  { annict_id: 12396, mal_id: 61512 },
   // [1998-SUMMER] TV: アニメ 男はつらいよ〜寅次郎忘れな草〜
   // https://annict.com/works/12397
   { annict_id: 12397, mal_id: 19559 },
@@ -46142,4 +46142,13 @@ export const annict: ArmEntry[] = [
   // [2019-AUTUMN] MOVIE: スプーキッズ ザ・ムービー
   // https://annict.com/works/15906
   { annict_id: 15906, mal_id: 54060 },
+  // [2022-SPRING] WEB: にゃんかむちゅ〜
+  // https://annict.com/works/15907
+  { annict_id: 15907, mal_id: 57104 },
+  // [2023-AUTUMN] WEB: にゃんかむちゅ〜 シーズン2
+  // https://annict.com/works/15908
+  { annict_id: 15908, mal_id: 57111 },
+  // [2024-AUTUMN] WEB: にゃんかむちゅ〜 シーズン3
+  // https://annict.com/works/15909
+  { annict_id: 15909, mal_id: 61513 },
 ]
