@@ -46130,4 +46130,16 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] TV: 地球のラテール
   // https://annict.com/works/15902
   { annict_id: 15902 },
+  // [2014-AUTUMN] WEB: スプーキッズ(シーズン1)
+  // https://annict.com/works/15903
+  { annict_id: 15903, mal_id: 47373 },
+  // [2016-WINTER] WEB: スプーキッズ(シーズン2)
+  // https://annict.com/works/15904
+  { annict_id: 15904, mal_id: 54055 },
+  // [2019-WINTER] WEB: スプーキッズ(シーズン3)
+  // https://annict.com/works/15905
+  { annict_id: 15905, mal_id: 54058 },
+  // [2019-AUTUMN] MOVIE: スプーキッズ ザ・ムービー
+  // https://annict.com/works/15906
+  { annict_id: 15906, mal_id: 54060 },
 ]
