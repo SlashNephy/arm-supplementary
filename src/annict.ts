@@ -45599,7 +45599,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ伝～
   // https://annict.com/works/15724
   { annict_id: 15724, mal_id: 61240 },
-  // [null-null] OTHER: 美男高校地球防衛部ハイカラ！
+  // [2025-SUMMER] TV: 美男高校地球防衛部ハイカラ！
   // https://annict.com/works/15725
   { annict_id: 15725, mal_id: 61239 },
   // [2025-WINTER] MOVIE: 落凡塵
@@ -46151,4 +46151,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: にゃんかむちゅ〜 シーズン3
   // https://annict.com/works/15909
   { annict_id: 15909, mal_id: 61513 },
+  // [2015-AUTUMN] TV: こども刑事めめたん
+  // https://annict.com/works/15910
+  { annict_id: 15910, mal_id: 58586 },
 ]
