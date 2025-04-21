@@ -46154,4 +46154,10 @@ export const annict: ArmEntry[] = [
   // [2015-AUTUMN] TV: こども刑事めめたん
   // https://annict.com/works/15910
   { annict_id: 15910, mal_id: 58586 },
+  // [null-null] MOVIE: Sunny
+  // https://annict.com/works/15911
+  { annict_id: 15911, mal_id: 61535 },
+  // [null-null] TV: お気楽領主の楽しい領地防衛～生産系魔術で名もなき村を最強の城塞都市に～
+  // https://annict.com/works/15912
+  { annict_id: 15912, mal_id: 61549 },
 ]
