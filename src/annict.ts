@@ -46160,4 +46160,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: お気楽領主の楽しい領地防衛～生産系魔術で名もなき村を最強の城塞都市に～
   // https://annict.com/works/15912
   { annict_id: 15912, mal_id: 61549 },
+  // [1988-null] OTHER: プロメテウスの庭
+  // https://annict.com/works/15913
+  { annict_id: 15913 },
 ]
