@@ -37586,7 +37586,7 @@ export const annict: ArmEntry[] = [
   // [1973-WINTER] MOVIE: ベッドかざりとほうき
   // https://annict.com/works/13045
   { annict_id: 13045 },
-  // [2025-null] MOVIE: ひゃくえむ。
+  // [2025-SUMMER] MOVIE: ひゃくえむ。
   // https://annict.com/works/13046
   { annict_id: 13046, mal_id: 58919 },
   // [2025-SUMMER] TV: 光が死んだ夏
