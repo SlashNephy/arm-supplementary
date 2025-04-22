@@ -46169,4 +46169,10 @@ export const annict: ArmEntry[] = [
   // [2016-SPRING] WEB: 私立らいよん学園
   // https://annict.com/works/15915
   { annict_id: 15915, mal_id: 33415 },
+  // [2017-SUMMER] WEB: 銃娘：ガンガール
+  // https://annict.com/works/15916
+  { annict_id: 15916, mal_id: 36164 },
+  // [2013-AUTUMN] TV: みんなだいすきそらジロー
+  // https://annict.com/works/15917
+  { annict_id: 15917 },
 ]
