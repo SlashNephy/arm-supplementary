@@ -46163,4 +46163,7 @@ export const annict: ArmEntry[] = [
   // [1988-null] OTHER: プロメテウスの庭
   // https://annict.com/works/15913
   { annict_id: 15913 },
+  // [2008-AUTUMN] TV: パンパカパンツ
+  // https://annict.com/works/15914
+  { annict_id: 15914, mal_id: 32842 },
 ]
