@@ -46166,4 +46166,7 @@ export const annict: ArmEntry[] = [
   // [2008-AUTUMN] TV: パンパカパンツ
   // https://annict.com/works/15914
   { annict_id: 15914, mal_id: 32842 },
+  // [2016-SPRING] WEB: 私立らいよん学園
+  // https://annict.com/works/15915
+  { annict_id: 15915, mal_id: 33415 },
 ]
