@@ -46190,4 +46190,7 @@ export const annict: ArmEntry[] = [
   // [2017-SPRING] TV: きもしば(第2期)
   // https://annict.com/works/15922
   { annict_id: 15922, mal_id: 36003 },
+  // [2025-AUTUMN] MOVIE: アイカツ！×プリパラ THE MOVIE -出会いのキセキ !-
+  // https://annict.com/works/15923
+  { annict_id: 15923 },
 ]
