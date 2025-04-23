@@ -31997,7 +31997,7 @@ export const annict: ArmEntry[] = [
   // [1987-SPRING] MOVIE: ほえろブンブン(劇場版)
   // https://annict.com/works/11174
   { annict_id: 11174, mal_id: 10509 },
-  // [null-null] TV: 自動販売機に生まれ変わった俺は迷宮を彷徨う(2期)
+  // [2025-SUMMER] TV: 自動販売機に生まれ変わった俺は迷宮を彷徨う 2nd season
   // https://annict.com/works/11175
   { annict_id: 11175, mal_id: 56700 },
   // [2025-SUMMER] TV: 渡くんの××が崩壊寸前
@@ -39701,7 +39701,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] MOVIE: 保科の休日
   // https://annict.com/works/13751
   { annict_id: 13751, mal_id: 59490 },
-  // [null-null] TV: 機械じかけのマリー
+  // [2025-AUTUMN] TV: 機械じかけのマリー
   // https://annict.com/works/13752
   { annict_id: 13752, mal_id: 59484 },
   // [2024-AUTUMN] TV: SHIBUYA♡HACHI 第2クール
