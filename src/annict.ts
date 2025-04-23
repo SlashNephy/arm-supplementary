@@ -18331,7 +18331,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6149 },
   // [2018-SUMMER] TV: 陰陽師・平安物語
   // https://annict.com/works/6150
-  { annict_id: 6150, syobocal_tid: 5005 },
+  { annict_id: 6150, mal_id: 37641, syobocal_tid: 5005 },
   // [2018-SPRING] TV: うさぎのマシュー
   // https://annict.com/works/6151
   { annict_id: 6151, mal_id: 37467, syobocal_tid: 4999 },
