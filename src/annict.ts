@@ -29591,7 +29591,7 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] TV: へんたつ大晦日特技編
   // https://annict.com/works/10369
   { annict_id: 10369, syobocal_tid: 5574 },
-  // [2011-null] WEB: つぶやき隊
+  // [2011-WINTER] WEB: つぶやき隊
   // https://annict.com/works/10370
   { annict_id: 10370, mal_id: 34163 },
   // [2023-SPRING] TV: 逃走中 グレートミッション
@@ -46175,4 +46175,19 @@ export const annict: ArmEntry[] = [
   // [2013-AUTUMN] TV: みんなだいすきそらジロー
   // https://annict.com/works/15917
   { annict_id: 15917 },
+  // [2011-AUTUMN] OVA: つぶやき隊　～まだまだ言いたいことがある～
+  // https://annict.com/works/15918
+  { annict_id: 15918 },
+  // [2012-SPRING] OVA: つぶやき隊　～つぶやき続けて３作目～
+  // https://annict.com/works/15919
+  { annict_id: 15919 },
+  // [2012-SUMMER] OVA: つぶやき隊　～つぶやき続けて4作目～
+  // https://annict.com/works/15920
+  { annict_id: 15920 },
+  // [2016-AUTUMN] TV: きもしば
+  // https://annict.com/works/15921
+  { annict_id: 15921, mal_id: 34233 },
+  // [2017-SPRING] TV: きもしば(第2期)
+  // https://annict.com/works/15922
+  { annict_id: 15922, mal_id: 36003 },
 ]
