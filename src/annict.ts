@@ -44390,7 +44390,7 @@ export const annict: ArmEntry[] = [
   // [1948-AUTUMN] MOVIE: ポッポやさんののんき駅長
   // https://annict.com/works/15321
   { annict_id: 15321, mal_id: 23633 },
-  // [2025-null] TV: 太陽よりも眩しい星
+  // [2025-AUTUMN] TV: 太陽よりも眩しい星
   // https://annict.com/works/15322
   { annict_id: 15322, mal_id: 60969 },
   // [1960-SUMMER] TV: ゆかいなボゾ
