@@ -39869,7 +39869,7 @@ export const annict: ArmEntry[] = [
   // [2009-AUTUMN] OVA: プリンセスラバー！マジカル騎士マリアちゃん特別予告
   // https://annict.com/works/13807
   { annict_id: 13807 },
-  // [2025-null] TV: ワンダンス
+  // [2025-AUTUMN] TV: ワンダンス
   // https://annict.com/works/13808
   { annict_id: 13808, mal_id: 59623 },
   // [2025-SUMMER] TV: 雨と君と
