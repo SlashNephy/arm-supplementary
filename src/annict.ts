@@ -46193,4 +46193,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] MOVIE: アイカツ！×プリパラ THE MOVIE -出会いのキセキ !-
   // https://annict.com/works/15923
   { annict_id: 15923, mal_id: 61558 },
+  // [2010-WINTER] OVA: 腐女子の品格
+  // https://annict.com/works/15924
+  { annict_id: 15924, mal_id: 8178 },
 ]
