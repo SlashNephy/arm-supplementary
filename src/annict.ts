@@ -22750,7 +22750,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 7892, mal_id: 46381, syobocal_tid: 5923 },
   // [1990-SUMMER] TV: 藤子不二雄Ⓐの夢魔子
   // https://annict.com/works/7893
-  { annict_id: 7893 },
+  { annict_id: 7893, mal_id: 19533 },
   // [1987-AUTUMN] OVA: メタルスキンパニック MADOX-01
   // https://annict.com/works/7894
   { annict_id: 7894, mal_id: 2461 },
@@ -46199,4 +46199,13 @@ export const annict: ArmEntry[] = [
   // [2018-SUMMER] TV: カエル王子といもむしヘンリー
   // https://annict.com/works/15925
   { annict_id: 15925, mal_id: 38010 },
+  // [2019-SUMMER] TV: おどるモワイくん
+  // https://annict.com/works/15926
+  { annict_id: 15926, mal_id: 40040 },
+  // [1988-AUTUMN] TV: ビックリマン きらきら特別増刊号
+  // https://annict.com/works/15927
+  { annict_id: 15927, mal_id: 56762 },
+  // [1988-null] OVA: ビックリマン ロココ＆マリア奇跡
+  // https://annict.com/works/15928
+  { annict_id: 15928, mal_id: 56763 },
 ]
