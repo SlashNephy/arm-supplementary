@@ -19339,7 +19339,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6490, mal_id: 11595 },
   // [2017-WINTER] OVA: 鬼平〜その男、長谷川平蔵〜
   // https://annict.com/works/6491
-  { annict_id: 6491 },
+  { annict_id: 6491, mal_id: 34589 },
   // [2021-SUMMER] TV: 小林さんちのメイドラゴンS
   // https://annict.com/works/6492
   { annict_id: 6492, mal_id: 39247, syobocal_tid: 6039 },
