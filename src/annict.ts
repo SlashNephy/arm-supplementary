@@ -46192,5 +46192,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 15922, mal_id: 36003 },
   // [2025-AUTUMN] MOVIE: アイカツ！×プリパラ THE MOVIE -出会いのキセキ !-
   // https://annict.com/works/15923
-  { annict_id: 15923 },
+  { annict_id: 15923, mal_id: 61558 },
 ]
