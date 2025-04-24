@@ -22568,7 +22568,7 @@ export const annict: ArmEntry[] = [
   // [2021-AUTUMN] TV: さんかく窓の外側は夜
   // https://annict.com/works/7832
   { annict_id: 7832, mal_id: 44387, syobocal_tid: 6108 },
-  // [2022-SUMMER] WEB: アイドルランドプリパラ
+  // [2021-AUTUMN] WEB: アイドルランドプリパラ
   // https://annict.com/works/7833
   { annict_id: 7833, mal_id: 44376 },
   // [2020-AUTUMN] TV: 進撃の巨人 ー特別総集編ー
