@@ -37592,7 +37592,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] TV: 光が死んだ夏
   // https://annict.com/works/13047
   { annict_id: 13047, mal_id: 58913 },
-  // [null-null] MOVIE: ホウセンカ
+  // [2025-AUTUMN] MOVIE: ホウセンカ
   // https://annict.com/works/13048
   { annict_id: 13048, mal_id: 58915 },
   // [2024-SPRING] WEB: 原神ショートアニメ「いつかその道へ」
