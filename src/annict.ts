@@ -30559,7 +30559,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10694, mal_id: 54781 },
   // [2023-SPRING] WEB: 爆丸レジェンズ
   // https://annict.com/works/10695
-  { annict_id: 10695 },
+  { annict_id: 10695, mal_id: 54637 },
   // [2023-SPRING] WEB: あんさんぶるスターズ!! 追憶セレクション「エレメント」
   // https://annict.com/works/10696
   { annict_id: 10696, mal_id: 52999 },
@@ -46196,4 +46196,7 @@ export const annict: ArmEntry[] = [
   // [2010-WINTER] OVA: 腐女子の品格
   // https://annict.com/works/15924
   { annict_id: 15924, mal_id: 8178 },
+  // [2018-SUMMER] TV: カエル王子といもむしヘンリー
+  // https://annict.com/works/15925
+  { annict_id: 15925, mal_id: 38010 },
 ]
