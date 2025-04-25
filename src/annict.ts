@@ -20965,7 +20965,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 7165, mal_id: 40129, syobocal_tid: 5726 },
   // [2019-AUTUMN] WEB: 通霊姫
   // https://annict.com/works/7166
-  { annict_id: 7166 },
+  { annict_id: 7166, mal_id: 38917 },
   // [2015-AUTUMN] OVA: Fate/stay night [Unlimited Blade Works] [sunny day]
   // https://annict.com/works/7167
   { annict_id: 7167, mal_id: 31389 },
@@ -46208,4 +46208,10 @@ export const annict: ArmEntry[] = [
   // [1988-null] OVA: ビックリマン ロココ＆マリア奇跡
   // https://annict.com/works/15928
   { annict_id: 15928, mal_id: 56763 },
+  // [2017-AUTUMN] OVA: サッカー水滸伝～決戦！宋江vs高俅 炎の神州カップ編～
+  // https://annict.com/works/15929
+  { annict_id: 15929, mal_id: 44637 },
+  // [2018-SPRING] OVA: ディープ
+  // https://annict.com/works/15930
+  { annict_id: 15930 },
 ]
