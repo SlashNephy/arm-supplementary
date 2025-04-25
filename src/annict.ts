@@ -23702,9 +23702,9 @@ export const annict: ArmEntry[] = [
   // [2021-SPRING] WEB: ベイブレードバースト ダイナマイトバトル
   // https://annict.com/works/8240
   { annict_id: 8240, mal_id: 48455 },
-  // [2016-null] MOVIE: ソウル・ステーション/パンデミック
+  // [2017-SUMMER] MOVIE: ソウル・ステーション/パンデミック
   // https://annict.com/works/8241
-  { annict_id: 8241 },
+  { annict_id: 8241, mal_id: 34048 },
   // [2019-null] MOVIE: 失くした体
   // https://annict.com/works/8242
   { annict_id: 8242 },
