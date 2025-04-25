@@ -32054,7 +32054,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 転校先の清楚可憐な美少女が、昔男子と思って一緒に遊んだ幼馴染だった件
   // https://annict.com/works/11193
   { annict_id: 11193, mal_id: 56735 },
-  // [null-null] OTHER: クラスで2番目に可愛い女の子と友だちになった
+  // [2026-null] TV: クラスで2番目に可愛い女の子と友だちになった
   // https://annict.com/works/11194
   { annict_id: 11194, mal_id: 56734 },
   // [null-null] OTHER: 最強出涸らし皇子の暗躍帝位争い
