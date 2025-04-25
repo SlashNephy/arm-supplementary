@@ -39599,7 +39599,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] WEB: 「菜なれ花なれ」×「真夜中ぱんチ」 コラボ動画
   // https://annict.com/works/13717
   { annict_id: 13717 },
-  // [2025-null] MOVIE: LOCA!
+  // [2025-SUMMER] MOVIE: LOCA!
   // https://annict.com/works/13718
   { annict_id: 13718 },
   // [2020-AUTUMN] WEB: サンリオキャラクターズ スーパーキュートアドベンチャーズ
