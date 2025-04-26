@@ -2647,7 +2647,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 882, mal_id: 2216, syobocal_tid: 1196 },
   // [2008-WINTER] TV: シゴフミ
   // https://annict.com/works/883
-  { annict_id: 883, mal_id: 4173, syobocal_tid: 1290 },
+  { annict_id: 883, mal_id: 3420, syobocal_tid: 1290 },
   // [2001-SPRING] TV: シスター・プリンセス
   // https://annict.com/works/884
   { annict_id: 884, mal_id: 836, syobocal_tid: 459 },
@@ -3430,7 +3430,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1144, mal_id: 15119, syobocal_tid: 2814 },
   // [2010-SPRING] TV: 閃光のナイトレイド
   // https://annict.com/works/1145
-  { annict_id: 1145, mal_id: 10201, syobocal_tid: 1894 },
+  { annict_id: 1145, mal_id: 6973, syobocal_tid: 1894 },
   // [2007-SPRING] TV: ゼロ デュエル・マスターズ
   // https://annict.com/works/1146
   { annict_id: 1146, mal_id: 4444 },
@@ -3445,7 +3445,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1149, mal_id: 3588, syobocal_tid: 1336 },
   // [2006-SPRING] TV: Soul Link
   // https://annict.com/works/1150
-  { annict_id: 1150, mal_id: 10373, syobocal_tid: 812 },
+  { annict_id: 1150, mal_id: 854, syobocal_tid: 812 },
   // [2001-SPRING] TV: Z.O.E Dolores, i
   // https://annict.com/works/1151
   { annict_id: 1151, mal_id: 1249, syobocal_tid: 1150 },
@@ -7444,7 +7444,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2485, mal_id: 2163, syobocal_tid: 1143 },
   // [2009-SUMMER] OVA: AIKa ZERO
   // https://annict.com/works/2486
-  { annict_id: 2486, mal_id: 7453, syobocal_tid: 1684 },
+  { annict_id: 2486, mal_id: 6443, syobocal_tid: 1684 },
   // [2000-SPRING] OVA: AMON デビルマン黙示録
   // https://annict.com/works/2487
   { annict_id: 2487, mal_id: 2356 },
@@ -12556,7 +12556,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 4201, mal_id: 23787, syobocal_tid: 3517 },
   // [2014-AUTUMN] TV: 大図書館の羊飼い
   // https://annict.com/works/4202
-  { annict_id: 4202, mal_id: 29165, syobocal_tid: 3510 },
+  { annict_id: 4202, mal_id: 17827, syobocal_tid: 3510 },
   // [2014-AUTUMN] TV: 山賊の娘ローニャ
   // https://annict.com/works/4203
   { annict_id: 4203, mal_id: 22359, syobocal_tid: 3529 },
@@ -12658,7 +12658,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 4235, mal_id: 24011, syobocal_tid: 3888 },
   // [2015-SPRING] MOVIE: コードギアス 亡国のアキト 第3章 輝くもの天より堕つ
   // https://annict.com/works/4236
-  { annict_id: 4236, mal_id: 31145 },
+  { annict_id: 4236, mal_id: 15199 },
   // [2015-SUMMER] MOVIE: コードギアス 亡国のアキト 第4章 憎しみの記憶から
   // https://annict.com/works/4237
   { annict_id: 4237, mal_id: 15201 },
