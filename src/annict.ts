@@ -46217,4 +46217,7 @@ export const annict: ArmEntry[] = [
   // [2006-SUMMER] OVA: Soul Link ミニドラマ
   // https://annict.com/works/15931
   { annict_id: 15931, mal_id: 10373 },
+  // [2008-WINTER] OVA: シゴフミ ピクチャードラマ
+  // https://annict.com/works/15932
+  { annict_id: 15932, mal_id: 4173 },
 ]
