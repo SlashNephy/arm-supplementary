@@ -36869,7 +36869,7 @@ export const annict: ArmEntry[] = [
   // [2013-SPRING] OVA: キャプテン・スパーキー対空飛ぶ円盤
   // https://annict.com/works/12805
   { annict_id: 12805 },
-  // [null-null] OTHER: 報われなかった村人A、貴族に拾われて溺愛される上に、実は持っていた伝説級の神スキルも覚醒した
+  // [null-null] TV: 報われなかった村人A、貴族に拾われて溺愛される上に、実は持っていた伝説級の神スキルも覚醒した
   // https://annict.com/works/12806
   { annict_id: 12806, mal_id: 57005 },
   // [2025-WINTER] TV: 没落予定の貴族だけど、暇だったから魔法を極めてみた
@@ -46226,7 +46226,19 @@ export const annict: ArmEntry[] = [
   // [2010-AUTUMN] OVA: 閃光のナイトレイド 「歩く箱」
   // https://annict.com/works/15934
   { annict_id: 15934, mal_id: 10201 },
-  // [2014-AUTUMN] OVA: 大図書館の羊飼い ピクチャードラマ
+  // [2014-AUTUMN] OVA: 大図書館の羊飼い 新作オリジナルアニメ
   // https://annict.com/works/15935
   { annict_id: 15935, mal_id: 29165 },
+  // [2013-AUTUMN] OVA: コードギアス 亡国のアキト 第2章 引き裂かれし翼竜 ピクチャードラマ
+  // https://annict.com/works/15936
+  { annict_id: 15936, mal_id: 23359 },
+  // [2015-SPRING] OVA: コードギアス 亡国のアキト 第3章 輝くもの天より堕つ ピクチャードラマ
+  // https://annict.com/works/15937
+  { annict_id: 15937, mal_id: 31145 },
+  // [2015-AUTUMN] OVA: コードギアス 亡国のアキト 第4章 憎しみの記憶から ピクチャードラマ
+  // https://annict.com/works/15938
+  { annict_id: 15938, mal_id: 32240 },
+  // [2016-SPRING] OVA: コードギアス 亡国のアキト 最終章 愛シキモノタチヘ ピクチャードラマ
+  // https://annict.com/works/15939
+  { annict_id: 15939, mal_id: 33360 },
 ]
