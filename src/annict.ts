@@ -46223,4 +46223,10 @@ export const annict: ArmEntry[] = [
   // [2009-SUMMER] OVA: AIKa ZERO ピクチャードラマ
   // https://annict.com/works/15933
   { annict_id: 15933, mal_id: 7453 },
+  // [2010-AUTUMN] OVA: 閃光のナイトレイド 「歩く箱」
+  // https://annict.com/works/15934
+  { annict_id: 15934, mal_id: 10201 },
+  // [2014-AUTUMN] OVA: 大図書館の羊飼い ピクチャードラマ
+  // https://annict.com/works/15935
+  { annict_id: 15935, mal_id: 29165 },
 ]
