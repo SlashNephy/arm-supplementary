@@ -42,13 +42,13 @@ Currently, arm-supplementary has 41284 entries (+7240).
 
 | Service                                     | arm-supplementary | arm / anime-offline-database |
 | :------------------------------------------ | :---------------: | :--------------------------: |
-| [Annict](https://annict.com)                |   15404 (+277)    |            15127             |
+| [Annict](https://annict.com)                |   15405 (+278)    |            15127             |
 | [AniList](https://anilist.co)               |   23008 (+1807)   |            21201             |
-| [MyAnimeList](https://myanimelist.net)      |   28824 (+563)    |            28261             |
+| [MyAnimeList](https://myanimelist.net)      |   28825 (+564)    |            28261             |
 | [しょぼいカレンダー](https://cal.syoboi.jp) |    6257 (+42)     |             6215             |
 | [AniDB](https://anidb.net)                  |   13371 (+180)    |            13191             |
-| [Anime-Planet](https://anime-planet.com)    |   23720 (+204)    |            23516             |
-| [aniSearch](https://anisearch.com)          |   18590 (+194)    |            18396             |
-| [Kitsu](https://kitsu.io)                   |   20207 (+213)    |            19994             |
-| [LiveChart.me](https://livechart.me)        |   11286 (+184)    |            11102             |
-| [Anime Notifier](https://notify.moe)        |   16325 (+198)    |            16127             |
+| [Anime-Planet](https://anime-planet.com)    |   23721 (+205)    |            23516             |
+| [aniSearch](https://anisearch.com)          |   18591 (+195)    |            18396             |
+| [Kitsu](https://kitsu.io)                   |   20208 (+214)    |            19994             |
+| [LiveChart.me](https://livechart.me)        |   11287 (+185)    |            11102             |
+| [Anime Notifier](https://notify.moe)        |   16326 (+199)    |            16127             |

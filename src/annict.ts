@@ -9934,7 +9934,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3322, mal_id: 27561 },
   // [2013-SUMMER] MOVIE: SHORT PEACE
   // https://annict.com/works/3323
-  { annict_id: 3323, syobocal_tid: 5676 },
+  { annict_id: 3323, mal_id: 19573, syobocal_tid: 5676 },
   // [1981-SPRING] MOVIE: じゃりン子チエ（映画）
   // https://annict.com/works/3324
   { annict_id: 3324, mal_id: 3946 },
@@ -39878,7 +39878,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] WEB: 齢5000年の草食ドラゴン、いわれなき邪竜認定 ちょこっと
   // https://annict.com/works/13810
   { annict_id: 13810, mal_id: 54684 },
-  // [2025-null] TV: まったく最近の探偵ときたら
+  // [2025-SUMMER] TV: まったく最近の探偵ときたら
   // https://annict.com/works/13811
   { annict_id: 13811, mal_id: 59632 },
   // [2022-SUMMER] WEB: リッチマウンテン富山
@@ -46214,4 +46214,7 @@ export const annict: ArmEntry[] = [
   // [2018-SPRING] OVA: ディープ
   // https://annict.com/works/15930
   { annict_id: 15930 },
+  // [2006-SUMMER] OVA: Soul Link ミニドラマ
+  // https://annict.com/works/15931
+  { annict_id: 15931, mal_id: 10373 },
 ]
