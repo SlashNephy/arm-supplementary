@@ -42,7 +42,7 @@ Currently, arm-supplementary has 41284 entries (+7240).
 
 | Service                                     | arm-supplementary | arm / anime-offline-database |
 | :------------------------------------------ | :---------------: | :--------------------------: |
-| [Annict](https://annict.com)                |   15406 (+279)    |            15127             |
+| [Annict](https://annict.com)                |   15407 (+280)    |            15127             |
 | [AniList](https://anilist.co)               |   23008 (+1807)   |            21201             |
 | [MyAnimeList](https://myanimelist.net)      |   28825 (+564)    |            28261             |
 | [しょぼいカレンダー](https://cal.syoboi.jp) |    6257 (+42)     |             6215             |

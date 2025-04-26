@@ -46220,4 +46220,7 @@ export const annict: ArmEntry[] = [
   // [2008-WINTER] OVA: シゴフミ ピクチャードラマ
   // https://annict.com/works/15932
   { annict_id: 15932, mal_id: 4173 },
+  // [2009-SUMMER] OVA: AIKa ZERO ピクチャードラマ
+  // https://annict.com/works/15933
+  { annict_id: 15933, mal_id: 7453 },
 ]
