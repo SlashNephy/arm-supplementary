@@ -46244,4 +46244,7 @@ export const annict: ArmEntry[] = [
   // [2019-SPRING] OVA: スペースジャングル　～小さなエイリアン～
   // https://annict.com/works/15940
   { annict_id: 15940, mal_id: 48311 },
+  // [null-null] TV: 生徒会にも穴はある！
+  // https://annict.com/works/15941
+  { annict_id: 15941 },
 ]
