@@ -6001,7 +6001,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2002, mal_id: 1123, syobocal_tid: 729 },
   // [2002-AUTUMN] TV: 冒険者
   // https://annict.com/works/2003
-  { annict_id: 2003 },
+  { annict_id: 2003, mal_id: 3132 },
   // [2003-SPRING] TV: 冒険遊記プラスターワールド
   // https://annict.com/works/2004
   { annict_id: 2004, mal_id: 3637, syobocal_tid: 45 },
