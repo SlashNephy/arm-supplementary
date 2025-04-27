@@ -46246,5 +46246,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 15940, mal_id: 48311 },
   // [null-null] TV: 生徒会にも穴はある！
   // https://annict.com/works/15941
-  { annict_id: 15941 },
+  { annict_id: 15941, mal_id: 61578 },
 ]
