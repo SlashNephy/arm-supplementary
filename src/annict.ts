@@ -37178,7 +37178,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] WEB: selector loth WIXOSS
   // https://annict.com/works/12909
   { annict_id: 12909, mal_id: 58816 },
-  // [2025-null] TV: アークナイツ【焔燼曙明/RISE FROM EMBER】
+  // [2025-SUMMER] TV: アークナイツ【焔燼曙明/RISE FROM EMBER】
   // https://annict.com/works/12910
   { annict_id: 12910, mal_id: 58749 },
   // [2024-SPRING] TV: まぁるい彼女と残念な彼氏
