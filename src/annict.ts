@@ -46241,4 +46241,7 @@ export const annict: ArmEntry[] = [
   // [2016-SPRING] OVA: コードギアス 亡国のアキト 最終章 愛シキモノタチヘ ピクチャードラマ
   // https://annict.com/works/15939
   { annict_id: 15939, mal_id: 33360 },
+  // [2019-SPRING] OVA: スペースジャングル　～小さなエイリアン～
+  // https://annict.com/works/15940
+  { annict_id: 15940, mal_id: 48311 },
 ]
