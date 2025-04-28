@@ -37004,7 +37004,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] MOVIE: 劇場版すとぷり はじまりの物語～Strawberry School Festival!!!～
   // https://annict.com/works/12850
   { annict_id: 12850, mal_id: 58522 },
-  // [null-null] TV: 姫様“拷問”の時間です 第2期
+  // [2026-WINTER] TV: 姫様“拷問”の時間です 第2期
   // https://annict.com/works/12851
   { annict_id: 12851, mal_id: 58524 },
   // [2024-SPRING] TV: あげおとティム
@@ -43127,7 +43127,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: どこでもマキバオー
   // https://annict.com/works/14899
   { annict_id: 14899, mal_id: 61326 },
-  // [2025-null] TV: フードコートで、また明日。
+  // [2025-SUMMER] TV: フードコートで、また明日。
   // https://annict.com/works/14900
   { annict_id: 14900, mal_id: 60508 },
   // [null-null] TV: シャンピニオンの魔女
@@ -46259,4 +46259,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] WEB: つれづれポピパ
   // https://annict.com/works/15945
   { annict_id: 15945 },
+  // [null-null] TV: 「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい
+  // https://annict.com/works/15946
+  { annict_id: 15946, mal_id: 61587 },
 ]
