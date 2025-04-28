@@ -46256,4 +46256,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] WEB: 崩壊：スターレイル 2ndアニバーサリー スペシャルアニメ「旅の途中で」
   // https://annict.com/works/15944
   { annict_id: 15944 },
+  // [2025-SPRING] WEB: つれづれポピパ
+  // https://annict.com/works/15945
+  { annict_id: 15945 },
 ]
