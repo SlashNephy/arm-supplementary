@@ -36196,7 +36196,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12579, mal_id: 19731 },
   // [2000-WINTER] MOVIE: 海のトリトン(2000年)
   // https://annict.com/works/12580
-  { annict_id: 12580 },
+  { annict_id: 12580, mal_id: 61547 },
   // [2004-SUMMER] MOVIE: 火の鳥 羽衣編
   // https://annict.com/works/12581
   { annict_id: 12581, mal_id: 23659 },
