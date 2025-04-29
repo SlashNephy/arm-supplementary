@@ -46277,4 +46277,10 @@ export const annict: ArmEntry[] = [
   // [2016-WINTER] WEB: ぽちはな
   // https://annict.com/works/15951
   { annict_id: 15951, mal_id: 50687 },
+  // [2008-SPRING] TV: おべとも学園
+  // https://annict.com/works/15952
+  { annict_id: 15952, mal_id: 56498 },
+  // [1964-null] TV: 11PMミニミニアニメーション
+  // https://annict.com/works/15953
+  { annict_id: 15953 },
 ]
