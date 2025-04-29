@@ -46355,4 +46355,7 @@ export const annict: ArmEntry[] = [
   // [1965-null] MOVIE: 隣の野郎
   // https://annict.com/works/15977
   { annict_id: 15977, mal_id: 7029 },
+  // [2026-null] TV: アオアシ 第2期
+  // https://annict.com/works/15978
+  { annict_id: 15978, mal_id: 61603 },
 ]
