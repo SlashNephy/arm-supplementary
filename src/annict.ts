@@ -46286,4 +46286,7 @@ export const annict: ArmEntry[] = [
   // [2010-SPRING] MOVIE: 水木しげるの遠野物語
   // https://annict.com/works/15954
   { annict_id: 15954, mal_id: 8243 },
+  // [1963-null] MOVIE: 愛の十三章
+  // https://annict.com/works/15955
+  { annict_id: 15955 },
 ]
