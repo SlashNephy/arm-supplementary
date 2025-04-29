@@ -46310,4 +46310,19 @@ export const annict: ArmEntry[] = [
   // [1967-null] MOVIE: あなたは何を考えているの？
   // https://annict.com/works/15962
   { annict_id: 15962 },
+  // [1965-null] MOVIE: 窓
+  // https://annict.com/works/15963
+  { annict_id: 15963 },
+  // [1969-null] MOVIE: 世界はわがもの
+  // https://annict.com/works/15964
+  { annict_id: 15964 },
+  // [1967-null] MOVIE: 部屋
+  // https://annict.com/works/15965
+  { annict_id: 15965, mal_id: 7024 },
+  // [1969-null] MOVIE: Ｇ線上の悲劇
+  // https://annict.com/works/15966
+  { annict_id: 15966, mal_id: 7022 },
+  // [1972-null] MOVIE: ザ・バスルーム
+  // https://annict.com/works/15967
+  { annict_id: 15967, mal_id: 9895 },
 ]
