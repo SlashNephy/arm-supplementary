@@ -46307,4 +46307,7 @@ export const annict: ArmEntry[] = [
   // [1964-null] MOVIE: アオス
   // https://annict.com/works/15961
   { annict_id: 15961, mal_id: 6950 },
+  // [1967-null] MOVIE: あなたは何を考えているの？
+  // https://annict.com/works/15962
+  { annict_id: 15962 },
 ]
