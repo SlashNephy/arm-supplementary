@@ -46283,4 +46283,7 @@ export const annict: ArmEntry[] = [
   // [1964-null] TV: 11PMミニミニアニメーション
   // https://annict.com/works/15953
   { annict_id: 15953 },
+  // [2010-SPRING] MOVIE: 水木しげるの遠野物語
+  // https://annict.com/works/15954
+  { annict_id: 15954, mal_id: 8243 },
 ]
