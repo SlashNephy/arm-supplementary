@@ -46262,4 +46262,19 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい
   // https://annict.com/works/15946
   { annict_id: 15946, mal_id: 61587 },
+  // [2021-SUMMER] WEB: ヤンキーハムスター シーズン2.5
+  // https://annict.com/works/15947
+  { annict_id: 15947 },
+  // [2019-AUTUMN] TV: コロコロアニマルABC
+  // https://annict.com/works/15948
+  { annict_id: 15948, mal_id: 40589 },
+  // [2014-SPRING] TV: コロコロアニマル2
+  // https://annict.com/works/15949
+  { annict_id: 15949, mal_id: 29759 },
+  // [2005-WINTER] WEB: 雨と少女と私の手紙
+  // https://annict.com/works/15950
+  { annict_id: 15950, mal_id: 1223 },
+  // [2016-WINTER] WEB: ぽちはな
+  // https://annict.com/works/15951
+  { annict_id: 15951, mal_id: 50687 },
 ]
