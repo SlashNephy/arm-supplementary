@@ -46289,4 +46289,22 @@ export const annict: ArmEntry[] = [
   // [1963-null] MOVIE: 愛の十三章
   // https://annict.com/works/15955
   { annict_id: 15955 },
+  // [1964-null] MOVIE: ザ・ボタン
+  // https://annict.com/works/15956
+  { annict_id: 15956, mal_id: 57040 },
+  // [1967-null] MOVIE: フルフル
+  // https://annict.com/works/15957
+  { annict_id: 15957 },
+  // [2006-null] MOVIE: フンコロガシ
+  // https://annict.com/works/15958
+  { annict_id: 15958 },
+  // [null-null] MOVIE: えッ！ くそッ！ 死すと！
+  // https://annict.com/works/15959
+  { annict_id: 15959 },
+  // [1968-null] MOVIE: ケメ子のLOVE
+  // https://annict.com/works/15960
+  { annict_id: 15960, mal_id: 7030 },
+  // [1964-null] MOVIE: アオス
+  // https://annict.com/works/15961
+  { annict_id: 15961, mal_id: 6950 },
 ]
