@@ -46325,4 +46325,34 @@ export const annict: ArmEntry[] = [
   // [1972-null] MOVIE: ザ・バスルーム
   // https://annict.com/works/15967
   { annict_id: 15967, mal_id: 9895 },
+  // [null-null] MOVIE: フロイトの木
+  // https://annict.com/works/15968
+  { annict_id: 15968 },
+  // [1969-null] MOVIE: 小さな島
+  // https://annict.com/works/15969
+  { annict_id: 15969 },
+  // [1969-null] MOVIE: サム・ガール
+  // https://annict.com/works/15970
+  { annict_id: 15970 },
+  // [1969-null] MOVIE: ピアノの幻想
+  // https://annict.com/works/15971
+  { annict_id: 15971 },
+  // [1969-null] MOVIE: ある社長のかくされた話
+  // https://annict.com/works/15972
+  { annict_id: 15972 },
+  // [1969-null] MOVIE: 臆病な男
+  // https://annict.com/works/15973
+  { annict_id: 15973 },
+  // [1974-null] MOVIE: 木の上の生活
+  // https://annict.com/works/15974
+  { annict_id: 15974 },
+  // [1966-null] MOVIE: 殺人狂時代（白黒版）
+  // https://annict.com/works/15975
+  { annict_id: 15975, mal_id: 7031 },
+  // [1967-null] MOVIE: 殺人狂時代（カラー版）
+  // https://annict.com/works/15976
+  { annict_id: 15976 },
+  // [1965-null] MOVIE: 隣の野郎
+  // https://annict.com/works/15977
+  { annict_id: 15977, mal_id: 7029 },
 ]
