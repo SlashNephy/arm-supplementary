@@ -37715,7 +37715,7 @@ export const annict: ArmEntry[] = [
   // [1934-SUMMER] MOVIE: パパになったミッキー
   // https://annict.com/works/13088
   { annict_id: 13088 },
-  // [2025-null] TV: 9-nine- Ruler's Crown
+  // [2025-SUMMER] TV: 9-nine- Ruler's Crown
   // https://annict.com/works/13089
   { annict_id: 13089, mal_id: 58957 },
   // [2024-WINTER] WEB: シャム猫あずきさんは世界の中心
