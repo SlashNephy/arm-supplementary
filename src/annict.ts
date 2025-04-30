@@ -46379,4 +46379,7 @@ export const annict: ArmEntry[] = [
   // [2002-SUMMER] TV: トータリー・スパイズ!
   // https://annict.com/works/15985
   { annict_id: 15985 },
+  // [1993-null] OVA: エリック・カール コレクション　はらぺこあおむし
+  // https://annict.com/works/15986
+  { annict_id: 15986 },
 ]
