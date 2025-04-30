@@ -46370,4 +46370,7 @@ export const annict: ArmEntry[] = [
   // [2002-SPRING] TV: サムライジャック
   // https://annict.com/works/15982
   { annict_id: 15982 },
+  // [2002-SPRING] TV: ホームムービーズ
+  // https://annict.com/works/15983
+  { annict_id: 15983 },
 ]
