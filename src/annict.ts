@@ -46358,4 +46358,16 @@ export const annict: ArmEntry[] = [
   // [2026-null] TV: アオアシ 第2期
   // https://annict.com/works/15978
   { annict_id: 15978, mal_id: 61603 },
+  // [1978-null] MOVIE: MANGA
+  // https://annict.com/works/15979
+  { annict_id: 15979, mal_id: 7027 },
+  // [1979-AUTUMN] TV: バッグス・バニーのクリスマス
+  // https://annict.com/works/15980
+  { annict_id: 15980 },
+  // [2001-AUTUMN] TV: スクービー&スクラッピードゥー
+  // https://annict.com/works/15981
+  { annict_id: 15981 },
+  // [2002-SPRING] TV: サムライジャック
+  // https://annict.com/works/15982
+  { annict_id: 15982 },
 ]
