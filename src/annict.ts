@@ -46373,4 +46373,10 @@ export const annict: ArmEntry[] = [
   // [2002-SPRING] TV: ホームムービーズ
   // https://annict.com/works/15983
   { annict_id: 15983 },
+  // [2002-SUMMER] TV: ジャスティス・リーグ
+  // https://annict.com/works/15984
+  { annict_id: 15984 },
+  // [2002-SUMMER] TV: トータリー・スパイズ!
+  // https://annict.com/works/15985
+  { annict_id: 15985 },
 ]
