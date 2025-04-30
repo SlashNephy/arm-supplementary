@@ -46249,7 +46249,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15941, mal_id: 61578 },
   // [2025-SPRING] WEB: うまゆる ぷりてぃ～ぐれい
   // https://annict.com/works/15942
-  { annict_id: 15942 },
+  { annict_id: 15942, mal_id: 61579, syobocal_tid: 7452 },
   // [2025-SPRING] WEB: テラライブ
   // https://annict.com/works/15943
   { annict_id: 15943, mal_id: 60200 },
