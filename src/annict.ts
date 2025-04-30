@@ -46382,4 +46382,10 @@ export const annict: ArmEntry[] = [
   // [1993-null] OVA: エリック・カール コレクション　はらぺこあおむし
   // https://annict.com/works/15986
   { annict_id: 15986 },
+  // [1999-AUTUMN] OVA: ToHeart 短編アニメ
+  // https://annict.com/works/15987
+  { annict_id: 15987, mal_id: 3977 },
+  // [2006-WINTER] OVA: ToHeart ～Remember my memories～ Heart Fighters
+  // https://annict.com/works/15988
+  { annict_id: 15988, mal_id: 686 },
 ]
