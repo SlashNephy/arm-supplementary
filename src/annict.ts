@@ -46388,4 +46388,7 @@ export const annict: ArmEntry[] = [
   // [2006-WINTER] OVA: ToHeart ～Remember my memories～ Heart Fighters
   // https://annict.com/works/15988
   { annict_id: 15988, mal_id: 686 },
+  // [2025-SPRING] WEB: LUPIN THE IIIRD 銭形と2人のルパン
+  // https://annict.com/works/15989
+  { annict_id: 15989, mal_id: 61616 },
 ]
