@@ -46397,4 +46397,19 @@ export const annict: ArmEntry[] = [
   // [2016-SPRING] TV: ミッフィーのぼうけん
   // https://annict.com/works/15991
   { annict_id: 15991 },
+  // [2019-SUMMER] MOVIE: おさるのジョージ4/王子でござーる！
+  // https://annict.com/works/15992
+  { annict_id: 15992 },
+  // [2015-SUMMER] MOVIE: おさるのジョージ3/ジャングルへ帰ろう
+  // https://annict.com/works/15993
+  { annict_id: 15993 },
+  // [2009-SUMMER] MOVIE: おさるのジョージ2/ゆかいな大冒険！
+  // https://annict.com/works/15994
+  { annict_id: 15994 },
+  // [2020-SUMMER] MOVIE: おさるのジョージ5/めざせカウボーイ
+  // https://annict.com/works/15995
+  { annict_id: 15995 },
+  // [2021-null] MOVIE: おさるのジョージ6/いざ出航！キャプテン・ジョージ
+  // https://annict.com/works/15996
+  { annict_id: 15996 },
 ]
