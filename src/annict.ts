@@ -46391,4 +46391,10 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] WEB: LUPIN THE IIIRD 銭形と2人のルパン
   // https://annict.com/works/15989
   { annict_id: 15989, mal_id: 61616 },
+  // [2003-SPRING] TV: ミッフィーとおともだち
+  // https://annict.com/works/15990
+  { annict_id: 15990 },
+  // [2016-SPRING] TV: ミッフィーのぼうけん
+  // https://annict.com/works/15991
+  { annict_id: 15991 },
 ]
