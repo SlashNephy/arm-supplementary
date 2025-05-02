@@ -40619,7 +40619,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] WEB: ひみつどうし
   // https://annict.com/works/14062
   { annict_id: 14062 },
-  // [2025-null] TV: 傷だらけ聖女より報復をこめて
+  // [2025-SUMMER] TV: 傷だらけ聖女より報復をこめて
   // https://annict.com/works/14063
   { annict_id: 14063, mal_id: 59961 },
   // [1993-SPRING] OVA: KO世紀ビースト三獣士II
