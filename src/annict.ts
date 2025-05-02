@@ -36404,7 +36404,7 @@ export const annict: ArmEntry[] = [
   // [1971-AUTUMN] OTHER: 青いトリトン（パイロット）
   // https://annict.com/works/12650
   { annict_id: 12650 },
-  // [1968-WINTER] OTHER: どろろ（パイロット）
+  // [1968-WINTER] OTHER: どろろ(パイロット版)
   // https://annict.com/works/12651
   { annict_id: 12651 },
   // [2004-AUTUMN] OVA: 天才少年ジミー・ニュートロン
