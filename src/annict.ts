@@ -46412,4 +46412,7 @@ export const annict: ArmEntry[] = [
   // [2021-null] MOVIE: おさるのジョージ6/いざ出航！キャプテン・ジョージ
   // https://annict.com/works/15996
   { annict_id: 15996 },
+  // [2013-SPRING] WEB: 新世紀末 奴との遭遇
+  // https://annict.com/works/15997
+  { annict_id: 15997, mal_id: 22657 },
 ]
