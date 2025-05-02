@@ -46258,7 +46258,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15944 },
   // [2025-SPRING] WEB: つれづれポピパ
   // https://annict.com/works/15945
-  { annict_id: 15945 },
+  { annict_id: 15945, mal_id: 61273 },
   // [null-null] TV: 「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい
   // https://annict.com/works/15946
   { annict_id: 15946, mal_id: 61587 },
@@ -46415,4 +46415,10 @@ export const annict: ArmEntry[] = [
   // [2013-SPRING] WEB: 新世紀末 奴との遭遇
   // https://annict.com/works/15997
   { annict_id: 15997, mal_id: 22657 },
+  // [2016-SUMMER] MOVIE: みつばちマーヤの大冒険
+  // https://annict.com/works/15998
+  { annict_id: 15998 },
+  // [2019-WINTER] OVA: みつばちマーヤの大冒険２　ハニー・ゲーム
+  // https://annict.com/works/15999
+  { annict_id: 15999 },
 ]
