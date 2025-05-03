@@ -31924,7 +31924,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11149, mal_id: 6919 },
   // [2002-AUTUMN] TV: ポケットモンスター サイドストーリー
   // https://annict.com/works/11150
-  { annict_id: 11150 },
+  { annict_id: 11150, mal_id: 2363 },
   // [2023-AUTUMN] TV: BURN THE WITCH #0.8
   // https://annict.com/works/11151
   { annict_id: 11151, mal_id: 56671 },
