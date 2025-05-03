@@ -22330,7 +22330,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 7719, mal_id: 40924 },
   // [2020-AUTUMN] WEB: 無能なナナ ミニアニメ
   // https://annict.com/works/7720
-  { annict_id: 7720 },
+  { annict_id: 7720, mal_id: 42831 },
   // [2020-AUTUMN] WEB: べあべあべあくまー！
   // https://annict.com/works/7721
   { annict_id: 7721, mal_id: 43353 },
@@ -32828,7 +32828,7 @@ export const annict: ArmEntry[] = [
   // [2008-SUMMER] TV: Little Village People
   // https://annict.com/works/11451
   { annict_id: 11451 },
-  // [2025-null] TV: とんでもスキルで異世界放浪メシ 第2期
+  // [2025-AUTUMN] TV: とんでもスキルで異世界放浪メシ 第2期
   // https://annict.com/works/11452
   { annict_id: 11452, mal_id: 57025 },
   // [2023-AUTUMN] TV: ととのえ！サクマくん by &sauna
