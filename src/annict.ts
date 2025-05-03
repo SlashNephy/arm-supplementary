@@ -22264,7 +22264,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 7697, syobocal_tid: 5807 },
   // [2020-AUTUMN] TV: どうしても干支にはいりたい2
   // https://annict.com/works/7698
-  { annict_id: 7698, syobocal_tid: 5814 },
+  { annict_id: 7698, mal_id: 52030, syobocal_tid: 5814 },
   // [1998-WINTER] OVA: 銀河英雄伝説外伝 (第1期)
   // https://annict.com/works/7699
   { annict_id: 7699, mal_id: 3371 },
