@@ -46421,4 +46421,7 @@ export const annict: ArmEntry[] = [
   // [2019-WINTER] OVA: みつばちマーヤの大冒険２　ハニー・ゲーム
   // https://annict.com/works/15999
   { annict_id: 15999 },
+  // [2020-AUTUMN] OVA: 無能なナナ ミニアニメ「やみなべぱーてぃー」
+  // https://annict.com/works/16000
+  { annict_id: 16000, mal_id: 55005 },
 ]
