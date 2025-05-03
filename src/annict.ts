@@ -32828,7 +32828,7 @@ export const annict: ArmEntry[] = [
   // [2008-SUMMER] TV: Little Village People
   // https://annict.com/works/11451
   { annict_id: 11451 },
-  // [2025-AUTUMN] TV: とんでもスキルで異世界放浪メシ 第2期
+  // [2025-AUTUMN] TV: とんでもスキルで異世界放浪メシ2
   // https://annict.com/works/11452
   { annict_id: 11452, mal_id: 57025 },
   // [2023-AUTUMN] TV: ととのえ！サクマくん by &sauna
