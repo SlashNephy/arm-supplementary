@@ -46427,4 +46427,7 @@ export const annict: ArmEntry[] = [
   // [2005-SPRING] OTHER: OVAL×OVER
   // https://annict.com/works/16001
   { annict_id: 16001 },
+  // [2019-AUTUMN] OVA: 過呼吸
+  // https://annict.com/works/16002
+  { annict_id: 16002, mal_id: 40491 },
 ]
