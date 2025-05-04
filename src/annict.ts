@@ -41312,7 +41312,7 @@ export const annict: ArmEntry[] = [
   // [1985-WINTER] OVA: GREED
   // https://annict.com/works/14293
   { annict_id: 14293, mal_id: 5934 },
-  // [2004-SPRING] OVA: グローランサー ～新たなる伝説～
+  // [2005-SPRING] OVA: グローランサーIV 〜Wayfarer of the time〜
   // https://annict.com/works/14294
   { annict_id: 14294, mal_id: 1933 },
   // [2025-SUMMER] TV: カラオケ行こ！
@@ -46424,4 +46424,7 @@ export const annict: ArmEntry[] = [
   // [2020-AUTUMN] OVA: 無能なナナ ミニアニメ「やみなべぱーてぃー」
   // https://annict.com/works/16000
   { annict_id: 16000, mal_id: 55005 },
+  // [2005-SPRING] OTHER: OVAL×OVER
+  // https://annict.com/works/16001
+  { annict_id: 16001 },
 ]
