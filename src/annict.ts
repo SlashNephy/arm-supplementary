@@ -39734,7 +39734,7 @@ export const annict: ArmEntry[] = [
   // [1966-SPRING] MOVIE: 孫悟空が始まるよー 黄風大王の巻
   // https://annict.com/works/13762
   { annict_id: 13762, mal_id: 23815 },
-  // [2025-null] TV: 千歳くんはラムネ瓶のなか
+  // [2025-AUTUMN] TV: 千歳くんはラムネ瓶のなか
   // https://annict.com/works/13763
   { annict_id: 13763, mal_id: 59517 },
   // [2024-AUTUMN] WEB: 少女革命計画
