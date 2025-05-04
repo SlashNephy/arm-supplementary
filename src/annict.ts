@@ -27308,7 +27308,7 @@ export const annict: ArmEntry[] = [
   // [2021-WINTER] WEB: がきたびっ！～あけちの故郷 (ふるさと) 編～
   // https://annict.com/works/9605
   { annict_id: 9605 },
-  // [2023-WINTER] TV: 冰剣の魔術師が世界を統べる 〜世界最強の魔術師である少年は、魔術学院に入学する〜
+  // [2023-WINTER] TV: 冰剣の魔術師が世界を統べる
   // https://annict.com/works/9606
   { annict_id: 9606, mal_id: 51711, syobocal_tid: 6545 },
   // [2023-SPRING] MOVIE: 美少女戦士セーラームーンCosmos 〈前編〉
