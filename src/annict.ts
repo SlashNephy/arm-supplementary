@@ -43679,7 +43679,7 @@ export const annict: ArmEntry[] = [
   // [2021-AUTUMN] WEB: 松戸市町会・自治会PRプロジェクト
   // https://annict.com/works/15083
   { annict_id: 15083 },
-  // [null-null] OTHER: インドアな千葉ニュー女子の私にすぐからんでくる木下男子がやたらウザイ
+  // [2025-WINTER] WEB: インドアな千葉ニュー女子の私にすぐからんでくる木下男子がやたらウザイ
   // https://annict.com/works/15084
   { annict_id: 15084 },
   // [2023-AUTUMN] TV: 魔寄せ宮女、孤高の祓魔師に拾われました
@@ -46442,4 +46442,7 @@ export const annict: ArmEntry[] = [
   // [2003-SUMMER] TV: ビリー&マンデイ
   // https://annict.com/works/16006
   { annict_id: 16006 },
+  // [null-null] TV: 29歳独身中堅冒険者の日常
+  // https://annict.com/works/16007
+  { annict_id: 16007, mal_id: 61637 },
 ]
