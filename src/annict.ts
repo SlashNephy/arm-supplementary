@@ -46430,4 +46430,7 @@ export const annict: ArmEntry[] = [
   // [2019-AUTUMN] OVA: 過呼吸
   // https://annict.com/works/16002
   { annict_id: 16002, mal_id: 40491 },
+  // [2016-SUMMER] TV: サバパラ
+  // https://annict.com/works/16003
+  { annict_id: 16003, mal_id: 53828 },
 ]
