@@ -46433,4 +46433,13 @@ export const annict: ArmEntry[] = [
   // [2016-SUMMER] TV: サバパラ
   // https://annict.com/works/16003
   { annict_id: 16003, mal_id: 53828 },
+  // [2021-SUMMER] WEB: あたしンち　ムービーコミック
+  // https://annict.com/works/16004
+  { annict_id: 16004 },
+  // [2021-AUTUMN] OVA: 宇宙戦艦ヤマト2205 新たなる旅立ち(TVシリーズ)
+  // https://annict.com/works/16005
+  { annict_id: 16005, mal_id: 40389 },
+  // [2003-SUMMER] TV: ビリー&マンデイ
+  // https://annict.com/works/16006
+  { annict_id: 16006 },
 ]
