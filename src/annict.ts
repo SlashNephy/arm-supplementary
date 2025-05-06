@@ -46445,4 +46445,19 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 29歳独身中堅冒険者の日常
   // https://annict.com/works/16007
   { annict_id: 16007, mal_id: 61637 },
+  // [2006-SUMMER] OVA: たまごにいちゃん
+  // https://annict.com/works/16008
+  { annict_id: 16008, mal_id: 52987 },
+  // [2005-AUTUMN] OVA: ねこざかな
+  // https://annict.com/works/16009
+  { annict_id: 16009, mal_id: 53005 },
+  // [2005-AUTUMN] OVA: そらとぶねこざかな
+  // https://annict.com/works/16010
+  { annict_id: 16010, mal_id: 53006 },
+  // [2006-SPRING] OVA: みんながおしえてくれました
+  // https://annict.com/works/16011
+  { annict_id: 16011, mal_id: 52151 },
+  // [2006-SPRING] OVA: えものはどこだ
+  // https://annict.com/works/16012
+  { annict_id: 16012, mal_id: 52152 },
 ]
