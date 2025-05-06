@@ -46460,4 +46460,13 @@ export const annict: ArmEntry[] = [
   // [2006-SPRING] OVA: えものはどこだ
   // https://annict.com/works/16012
   { annict_id: 16012, mal_id: 52152 },
+  // [2005-AUTUMN] OVA: たろうのおでかけ
+  // https://annict.com/works/16013
+  { annict_id: 16013, mal_id: 52338 },
+  // [2005-AUTUMN] OVA: たろうのともだち
+  // https://annict.com/works/16014
+  { annict_id: 16014, mal_id: 56378 },
+  // [2006-AUTUMN] OVA: うずらちゃんのかくれんぼ
+  // https://annict.com/works/16015
+  { annict_id: 16015, mal_id: 53136 },
 ]
