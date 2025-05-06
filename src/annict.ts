@@ -46469,4 +46469,16 @@ export const annict: ArmEntry[] = [
   // [2006-AUTUMN] OVA: うずらちゃんのかくれんぼ
   // https://annict.com/works/16015
   { annict_id: 16015, mal_id: 53136 },
+  // [2017-AUTUMN] MOVIE: ムーミン谷とウィンターワンダーランド
+  // https://annict.com/works/16016
+  { annict_id: 16016 },
+  // [1990-WINTER] TV: 魔法使いサリー 魔女になったよし子ちゃん
+  // https://annict.com/works/16017
+  { annict_id: 16017, mal_id: 32794 },
+  // [1990-AUTUMN] TV: 魔法使いサリー 母の愛は永遠に!オーロラの谷にこだまする悲しみの魔女の叫び!
+  // https://annict.com/works/16018
+  { annict_id: 16018, mal_id: 32794 },
+  // [2013-WINTER] OVA: みこすり半劇場
+  // https://annict.com/works/16019
+  { annict_id: 16019, mal_id: 20453 },
 ]
