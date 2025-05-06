@@ -43219,7 +43219,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14929, mal_id: 60522 },
   // [2025-SUMMER] TV: 追放者食堂へようこそ！
   // https://annict.com/works/14930
-  { annict_id: 14930, mal_id: 60523 },
+  { annict_id: 14930, mal_id: 60523, syobocal_tid: 7456 },
   // [null-null] TV: 望まぬ不死の冒険者 第2期
   // https://annict.com/works/14931
   { annict_id: 14931, mal_id: 60525 },
