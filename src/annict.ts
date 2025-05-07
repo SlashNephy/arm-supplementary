@@ -46484,4 +46484,7 @@ export const annict: ArmEntry[] = [
   // [2019-null] OVA: リトルマーメイド(2015)
   // https://annict.com/works/16020
   { annict_id: 16020 },
+  // [2019-SUMMER] OVA: ディノ・キング　恐竜王国と炎の山の冒険
+  // https://annict.com/works/16021
+  { annict_id: 16021 },
 ]
