@@ -46481,4 +46481,7 @@ export const annict: ArmEntry[] = [
   // [2013-WINTER] OVA: みこすり半劇場
   // https://annict.com/works/16019
   { annict_id: 16019, mal_id: 20453 },
+  // [2019-null] OVA: リトルマーメイド(2015)
+  // https://annict.com/works/16020
+  { annict_id: 16020 },
 ]
