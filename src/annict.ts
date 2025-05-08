@@ -46487,4 +46487,7 @@ export const annict: ArmEntry[] = [
   // [2019-SUMMER] OVA: ディノ・キング　恐竜王国と炎の山の冒険
   // https://annict.com/works/16021
   { annict_id: 16021 },
+  // [2026-WINTER] TV: うるわしの宵の月
+  // https://annict.com/works/16022
+  { annict_id: 16022, mal_id: 61663 },
 ]
