@@ -44930,7 +44930,7 @@ export const annict: ArmEntry[] = [
   // [1980-WINTER] TV: スーパー007
   // https://annict.com/works/15501
   { annict_id: 15501 },
-  // [null-null] TV: 忍者と極道
+  // [2025-AUTUMN] TV: 忍者と極道
   // https://annict.com/works/15502
   { annict_id: 15502, mal_id: 61067 },
   // [1985-SUMMER] OVA: マイティ・オーボッツ
