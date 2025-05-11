@@ -39679,7 +39679,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13743, mal_id: 59458 },
   // [2025-SUMMER] TV: サイレント・ウィッチ 沈黙の魔女の隠しごと
   // https://annict.com/works/13744
-  { annict_id: 13744, mal_id: 59459 },
+  { annict_id: 13744, mal_id: 59459, syobocal_tid: 7457 },
   // [2024-SUMMER] WEB: Fate/Grand Order 藤丸立香はわからない Season2
   // https://annict.com/works/13745
   { annict_id: 13745, mal_id: 59465 },
