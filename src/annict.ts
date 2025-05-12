@@ -46490,4 +46490,7 @@ export const annict: ArmEntry[] = [
   // [2026-WINTER] TV: うるわしの宵の月
   // https://annict.com/works/16022
   { annict_id: 16022, mal_id: 61663 },
+  // [null-null] TV: ヒロイン？聖女？いいえ、オールワークスメイドです（誇）！
+  // https://annict.com/works/16023
+  { annict_id: 16023 },
 ]
