@@ -17608,7 +17608,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5906, mal_id: 15633 },
   // [2017-SUMMER] OVA: 岸辺露伴は動かない
   // https://annict.com/works/5907
-  { annict_id: 5907, mal_id: 33191 },
+  { annict_id: 5907, mal_id: 33191, syobocal_tid: 6203 },
   // [2012-SUMMER] WEB: 中二病でも恋がしたい！ Lite
   // https://annict.com/works/5908
   { annict_id: 5908, mal_id: 15687 },
@@ -46496,4 +46496,7 @@ export const annict: ArmEntry[] = [
   // [2026-null] TV: 自称悪役令嬢な婚約者の観察記録。
   // https://annict.com/works/16024
   { annict_id: 16024, mal_id: 61687 },
+  // [2014-AUTUMN] OVA: 甘城ブリリアントパーク わくわくミニシアター らくがきバックステージ
+  // https://annict.com/works/16025
+  { annict_id: 16025, mal_id: 30056 },
 ]
