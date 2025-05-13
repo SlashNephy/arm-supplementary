@@ -37247,7 +37247,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] TV: いずれ最強の錬金術師？
   // https://annict.com/works/12932
   { annict_id: 12932, mal_id: 58822, syobocal_tid: 7305 },
-  // [null-null] OTHER: 淡島百景
+  // [2026-null] TV: 淡島百景
   // https://annict.com/works/12933
   { annict_id: 12933, mal_id: 58820 },
   // [1930-WINTER] MOVIE: ミッキーのバイオリニスト
@@ -46499,4 +46499,7 @@ export const annict: ArmEntry[] = [
   // [2014-AUTUMN] OVA: 甘城ブリリアントパーク わくわくミニシアター らくがきバックステージ
   // https://annict.com/works/16025
   { annict_id: 16025, mal_id: 30056 },
+  // [2026-null] TV: アンドロイドは経験人数に入りますか？？
+  // https://annict.com/works/16026
+  { annict_id: 16026, mal_id: 61694 },
 ]
