@@ -46502,4 +46502,7 @@ export const annict: ArmEntry[] = [
   // [2026-null] TV: アンドロイドは経験人数に入りますか？？
   // https://annict.com/works/16026
   { annict_id: 16026, mal_id: 61694 },
+  // [1972-null] MOVIE: Movers（原題）
+  // https://annict.com/works/16027
+  { annict_id: 16027 },
 ]
