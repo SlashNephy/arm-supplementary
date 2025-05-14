@@ -46505,4 +46505,7 @@ export const annict: ArmEntry[] = [
   // [1972-null] MOVIE: Movers（原題）
   // https://annict.com/works/16027
   { annict_id: 16027 },
+  // [1974-null] MOVIE: Mirror People（原題）
+  // https://annict.com/works/16028
+  { annict_id: 16028 },
 ]
