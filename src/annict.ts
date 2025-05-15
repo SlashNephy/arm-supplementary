@@ -45848,7 +45848,7 @@ export const annict: ArmEntry[] = [
   // [2001-null] TV: ジャッキー・チェン・アドベンチャー　シーズン2
   // https://annict.com/works/15807
   { annict_id: 15807 },
-  // [2025-SUMMER] TV: 地縛少年花子くん2 続編
+  // [2025-SUMMER] TV: 地縛少年花子くん2 後編
   // https://annict.com/works/15808
   { annict_id: 15808, mal_id: 61339 },
   // [2025-SPRING] TV: かぐや様は告らせたい 〜メモリーズセレクション〜
