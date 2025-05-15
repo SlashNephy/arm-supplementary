@@ -46508,4 +46508,7 @@ export const annict: ArmEntry[] = [
   // [1974-null] MOVIE: Mirror People（原題）
   // https://annict.com/works/16028
   { annict_id: 16028 },
+  // [2025-SPRING] TV: そろ谷のけいばっち シーズン2
+  // https://annict.com/works/16029
+  { annict_id: 16029, syobocal_tid: 7458 },
 ]
