@@ -37439,7 +37439,7 @@ export const annict: ArmEntry[] = [
   // [1927-AUTUMN] MOVIE: Empty Socks（原題）
   // https://annict.com/works/12996
   { annict_id: 12996 },
-  // [null-null] TV: ダイヤのA act II 続編
+  // [2026-null] TV: ダイヤのA actⅡ Second Season
   // https://annict.com/works/12997
   { annict_id: 12997, mal_id: 58877 },
   // [1931-AUTUMN] MOVIE: クモとハエ
@@ -46532,4 +46532,7 @@ export const annict: ArmEntry[] = [
   // [2020-SPRING] OVA: 雪の女王 ゲルダの伝説
   // https://annict.com/works/16036
   { annict_id: 16036 },
+  // [2025-SUMMER] TV: 転生宗主の覇道譚 ～すべてを呑み込むサカナと這い上がる～
+  // https://annict.com/works/16037
+  { annict_id: 16037, mal_id: 60572 },
 ]
