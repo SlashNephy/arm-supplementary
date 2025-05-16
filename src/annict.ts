@@ -46529,4 +46529,7 @@ export const annict: ArmEntry[] = [
   // [2020-SUMMER] OVA: リトル・パイレーツ
   // https://annict.com/works/16035
   { annict_id: 16035 },
+  // [2020-SPRING] OVA: 雪の女王 ゲルダの伝説
+  // https://annict.com/works/16036
+  { annict_id: 16036 },
 ]
