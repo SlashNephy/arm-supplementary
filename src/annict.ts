@@ -23230,7 +23230,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 8082 },
   // [2019-AUTUMN] MOVIE: アナと雪の女王2
   // https://annict.com/works/8083
-  { annict_id: 8083 },
+  { annict_id: 8083, syobocal_tid: 6181 },
   // [1993-SPRING] TV: ブレイブ・リトル・トースター
   // https://annict.com/works/8084
   { annict_id: 8084 },
@@ -46517,4 +46517,16 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] WEB: あの星に君がいる
   // https://annict.com/works/16031
   { annict_id: 16031 },
+  // [2020-AUTUMN] OVA: ドリーム・ビルダーズ　ミナと秘密の夢工場
+  // https://annict.com/works/16032
+  { annict_id: 16032 },
+  // [2021-WINTER] OVA: リトル・アラジン 空飛ぶ魔法のじゅうたん
+  // https://annict.com/works/16033
+  { annict_id: 16033 },
+  // [2021-SPRING] OVA: リトル・ニンジャ　市松模様の逆襲
+  // https://annict.com/works/16034
+  { annict_id: 16034 },
+  // [2020-SUMMER] OVA: リトル・パイレーツ
+  // https://annict.com/works/16035
+  { annict_id: 16035 },
 ]
