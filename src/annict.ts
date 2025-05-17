@@ -46535,4 +46535,13 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] TV: 転生宗主の覇道譚 ～すべてを呑み込むサカナと這い上がる～
   // https://annict.com/works/16037
   { annict_id: 16037, mal_id: 60572 },
+  // [2015-SUMMER] MOVIE: 雪の女王　新たなる旅立ち
+  // https://annict.com/works/16038
+  { annict_id: 16038 },
+  // [2019-AUTUMN] OVA: リトル・キャッツ 空飛ぶねこの大冒険
+  // https://annict.com/works/16039
+  { annict_id: 16039, mal_id: 37179 },
+  // [2020-SUMMER] OVA: プリンセスとドラゴンの魔法の本
+  // https://annict.com/works/16040
+  { annict_id: 16040 },
 ]
