@@ -3998,7 +3998,7 @@ export const annict: ArmEntry[] = [
   // [2003-SPRING] TV: D・N・ANGEL
   // https://annict.com/works/1334
   { annict_id: 1334, mal_id: 61, syobocal_tid: 31 },
-  // [1994-AUTUMN] TV: D･N･A2 ～何処かでなくしたあいつのアイツ～
+  // [1994-AUTUMN] TV: D･N･A2 ～何処かで失くしたあいつのアイツ～
   // https://annict.com/works/1335
   { annict_id: 1335, mal_id: 563, syobocal_tid: 3215 },
   // [2001-WINTER] TV: Tales of Eternia THE ANIMATION
@@ -21392,7 +21392,7 @@ export const annict: ArmEntry[] = [
   // [2012-SPRING] TV: しまじろうのわお！
   // https://annict.com/works/7342
   { annict_id: 7342, mal_id: 18941 },
-  // [1995-WINTER] OVA: D･N･A2 ～何処かでなくしたあいつのアイツ～ OVA
+  // [1995-WINTER] OVA: D･N･A2 ～何処かで失くしたあいつのアイツ～ OVA
   // https://annict.com/works/7343
   { annict_id: 7343, mal_id: 1187, syobocal_tid: 3215 },
   // [1997-SUMMER] TV: サウスパーク シーズン1
@@ -44986,7 +44986,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15519 },
   // [2019-AUTUMN] OVA: スノーホワイト‐白雪姫とハナの大冒険‐
   // https://annict.com/works/15520
-  { annict_id: 15520 },
+  { annict_id: 15520, mal_id: 44936 },
   // [2000-null] OVA: よいこのアニメ広場 日本むかし話
   // https://annict.com/works/15521
   { annict_id: 15521 },
@@ -46483,10 +46483,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 16019, mal_id: 20453 },
   // [2019-AUTUMN] OVA: リトルマーメイド(2015)
   // https://annict.com/works/16020
-  { annict_id: 16020 },
+  { annict_id: 16020, mal_id: 49144 },
   // [2019-SUMMER] OVA: ディノ・キング　恐竜王国と炎の山の冒険
   // https://annict.com/works/16021
-  { annict_id: 16021 },
+  { annict_id: 16021, mal_id: 48310 },
   // [2026-WINTER] TV: うるわしの宵の月
   // https://annict.com/works/16022
   { annict_id: 16022, mal_id: 61663 },
