@@ -46550,4 +46550,7 @@ export const annict: ArmEntry[] = [
   // [2021-AUTUMN] WEB: どうぶつたんけん！ドゥダとダダ(シーズン3)
   // https://annict.com/works/16042
   { annict_id: 16042, mal_id: 54128 },
+  // [2003-WINTER] OVA: スターシップ・トゥルーパーズ　クロニクルズ
+  // https://annict.com/works/16043
+  { annict_id: 16043 },
 ]
