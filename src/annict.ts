@@ -46544,4 +46544,10 @@ export const annict: ArmEntry[] = [
   // [2020-SUMMER] OVA: プリンセスとドラゴンの魔法の本
   // https://annict.com/works/16040
   { annict_id: 16040 },
+  // [2022-SUMMER] WEB: ブレッドバーバーショップ
+  // https://annict.com/works/16041
+  { annict_id: 16041, mal_id: 48228 },
+  // [2021-AUTUMN] WEB: どうぶつたんけん！ドゥダとダダ(シーズン3)
+  // https://annict.com/works/16042
+  { annict_id: 16042, mal_id: 54128 },
 ]
