@@ -46565,4 +46565,7 @@ export const annict: ArmEntry[] = [
   // [2007-null] MOVIE: Queen of the Fluids（原題）
   // https://annict.com/works/16047
   { annict_id: 16047 },
+  // [2022-SPRING] WEB: HAPPY LUSASA
+  // https://annict.com/works/16048
+  { annict_id: 16048, mal_id: 56287 },
 ]
