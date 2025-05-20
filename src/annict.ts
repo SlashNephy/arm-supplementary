@@ -27049,7 +27049,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9518, mal_id: 51542 },
   // [2022-SPRING] TV: スーパーウィングス ミッションチーム
   // https://annict.com/works/9519
-  { annict_id: 9519 },
+  { annict_id: 9519, mal_id: 39820 },
   // [2023-SUMMER] TV: わたしの幸せな結婚
   // https://annict.com/works/9520
   { annict_id: 9520, mal_id: 51552, syobocal_tid: 6738 },
@@ -46553,4 +46553,7 @@ export const annict: ArmEntry[] = [
   // [2003-WINTER] OVA: スターシップ・トゥルーパーズ　クロニクルズ
   // https://annict.com/works/16043
   { annict_id: 16043 },
+  // [2015-SPRING] WEB: こびとす
+  // https://annict.com/works/16044
+  { annict_id: 16044, mal_id: 50880 },
 ]
