@@ -34024,7 +34024,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11851 },
   // [2025-SUMMER] TV: 青春ブタ野郎はサンタクロースの夢を見ない
   // https://annict.com/works/11852
-  { annict_id: 11852, mal_id: 57433 },
+  { annict_id: 11852, mal_id: 57433, syobocal_tid: 7460 },
   // [2023-AUTUMN] WEB: 『ストリートファイター6』×『劇場版 SPY×FAMILY CODE: White』スペシャルコラボアニメ
   // https://annict.com/works/11853
   { annict_id: 11853, mal_id: 57435 },
