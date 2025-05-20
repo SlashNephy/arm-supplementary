@@ -43055,7 +43055,7 @@ export const annict: ArmEntry[] = [
   // [2020-WINTER] MOVIE: マウスマン～愛の塊～
   // https://annict.com/works/14875
   { annict_id: 14875, mal_id: 42667 },
-  // [2025-null] TV: タコピーの原罪
+  // [2025-SPRING] TV: タコピーの原罪
   // https://annict.com/works/14876
   { annict_id: 14876, mal_id: 60489 },
   // [2025-SPRING] TV: この恋で鼻血を止めて
