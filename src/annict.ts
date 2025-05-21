@@ -46568,4 +46568,7 @@ export const annict: ArmEntry[] = [
   // [2022-SPRING] WEB: HAPPY LUSASA
   // https://annict.com/works/16048
   { annict_id: 16048, mal_id: 56287 },
+  // [1978-null] MOVIE: Pencil Booklings（原題）
+  // https://annict.com/works/16049
+  { annict_id: 16049 },
 ]
