@@ -42119,7 +42119,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] TV: 矢野くんの普通の日々
   // https://annict.com/works/14563
   { annict_id: 14563, mal_id: 60254 },
-  // [null-null] TV: 異世界マンチキン ―HP1のままで最強最速ダンジョン攻略―
+  // [2025-AUTUMN] TV: 異世界マンチキン ―HP1のままで最強最速ダンジョン攻略―
   // https://annict.com/works/14564
   { annict_id: 14564, mal_id: 60253 },
   // [2025-SPRING] MOVIE: パフィンの小さな島
