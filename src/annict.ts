@@ -46571,4 +46571,7 @@ export const annict: ArmEntry[] = [
   // [1978-null] MOVIE: Pencil Booklings（原題）
   // https://annict.com/works/16049
   { annict_id: 16049 },
+  // [2018-null] MOVIE: The Liquid Ladies（原題）
+  // https://annict.com/works/16050
+  { annict_id: 16050 },
 ]
