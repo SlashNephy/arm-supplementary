@@ -43853,7 +43853,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] WEB: スヌーピーのハッピーキャンプ
   // https://annict.com/works/15142
   { annict_id: 15142 },
-  // [2025-SUMMER] TV: トミカヒーローズ ジョブレイバー 特装合体ロボ 新作
+  // [2025-SUMMER] TV: 特装合体ロボ ジョブレイバー(2025)
   // https://annict.com/works/15143
   { annict_id: 15143 },
   // [2020-SUMMER] TV: ブルーイ
