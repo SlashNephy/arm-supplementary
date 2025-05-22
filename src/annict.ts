@@ -46574,4 +46574,16 @@ export const annict: ArmEntry[] = [
   // [2018-null] MOVIE: The Liquid Ladies（原題）
   // https://annict.com/works/16050
   { annict_id: 16050 },
+  // [2017-null] TV: アイスくりたろう
+  // https://annict.com/works/16051
+  { annict_id: 16051 },
+  // [2016-AUTUMN] WEB: シルバニア村のたからもの
+  // https://annict.com/works/16052
+  { annict_id: 16052 },
+  // [2017-SPRING] WEB: 夢ふくらむあこがれの街
+  // https://annict.com/works/16053
+  { annict_id: 16053 },
+  // [2019-SPRING] WEB: 空飛ぶみんなの大きな夢
+  // https://annict.com/works/16054
+  { annict_id: 16054 },
 ]
