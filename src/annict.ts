@@ -46586,4 +46586,7 @@ export const annict: ArmEntry[] = [
   // [2019-SPRING] WEB: 空飛ぶみんなの大きな夢
   // https://annict.com/works/16054
   { annict_id: 16054 },
+  // [2025-SPRING] WEB: ラブ、デス&ロボット シリーズ4
+  // https://annict.com/works/16055
+  { annict_id: 16055 },
 ]
