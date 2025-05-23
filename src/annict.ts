@@ -43057,7 +43057,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14875, mal_id: 42667 },
   // [2025-SUMMER] WEB: タコピーの原罪
   // https://annict.com/works/14876
-  { annict_id: 14876, mal_id: 60489 },
+  { annict_id: 14876, mal_id: 60489, syobocal_tid: 7461 },
   // [2025-SPRING] TV: この恋で鼻血を止めて
   // https://annict.com/works/14877
   { annict_id: 14877, mal_id: 59012, syobocal_tid: 7425 },
