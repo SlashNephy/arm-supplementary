@@ -46613,4 +46613,16 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] WEB: 本格レモンアニメ『-196』
   // https://annict.com/works/16063
   { annict_id: 16063 },
+  // [2015-AUTUMN] TV: サンダーバード ARE GO シーズン1
+  // https://annict.com/works/16064
+  { annict_id: 16064 },
+  // [2019-SUMMER] TV: サンダーバード ARE GO シーズン2
+  // https://annict.com/works/16065
+  { annict_id: 16065 },
+  // [2020-SUMMER] TV: サンダーバード ARE GO シーズン3
+  // https://annict.com/works/16066
+  { annict_id: 16066 },
+  // [1982-AUTUMN] TV: The♡かぼちゃワイン おれとあいつの新婚旅行!?
+  // https://annict.com/works/16067
+  { annict_id: 16067, mal_id: 51086 },
 ]
