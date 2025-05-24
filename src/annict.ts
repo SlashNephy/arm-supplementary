@@ -29524,7 +29524,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10346, mal_id: 53619 },
   // [2020-AUTUMN] WEB: 英雄王、武を極めるため転生す ミニアニメ
   // https://annict.com/works/10347
-  { annict_id: 10347, mal_id: 53619 },
+  { annict_id: 10347, mal_id: 43727 },
   // [2022-SUMMER] WEB: イロナス
   // https://annict.com/works/10348
   { annict_id: 10348 },
@@ -29545,7 +29545,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10353, mal_id: 54028 },
   // [2023-WINTER] TV: Call Star -ボクは本当にダメな星？-
   // https://annict.com/works/10354
-  { annict_id: 10354, syobocal_tid: 6553 },
+  { annict_id: 10354, mal_id: 48844, syobocal_tid: 6553 },
   // [2023-WINTER] TV: カードファイト!! ヴァンガード will+Dress Season2
   // https://annict.com/works/10355
   { annict_id: 10355, mal_id: 49820, syobocal_tid: 6569 },
@@ -46589,4 +46589,19 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] WEB: ラブ、デス&ロボット シリーズ4
   // https://annict.com/works/16055
   { annict_id: 16055 },
+  // [2010-SPRING] WEB: なんちゃって
+  // https://annict.com/works/16056
+  { annict_id: 16056, mal_id: 8959 },
+  // [2010-SPRING] WEB: ポテッコベイビーズ
+  // https://annict.com/works/16057
+  { annict_id: 16057, mal_id: 8958 },
+  // [2011-SPRING] WEB: ポテッコベイビーズ(2011)
+  // https://annict.com/works/16058
+  { annict_id: 16058, mal_id: 22593 },
+  // [2010-AUTUMN] WEB: キメゾーの「決まり文句じゃキマらねぇ。」第1シリーズ
+  // https://annict.com/works/16059
+  { annict_id: 16059, mal_id: 22595 },
+  // [2011-AUTUMN] WEB: キメゾーの決まり文句じゃキマらねぇ。Featuring サブ男
+  // https://annict.com/works/16060
+  { annict_id: 16060, mal_id: 22597 },
 ]
