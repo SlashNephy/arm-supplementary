@@ -46610,4 +46610,7 @@ export const annict: ArmEntry[] = [
   // [2025-null] MOVIE: トリツカレ男
   // https://annict.com/works/16062
   { annict_id: 16062, mal_id: 61736 },
+  // [2025-SPRING] WEB: -196
+  // https://annict.com/works/16063
+  { annict_id: 16063 },
 ]
