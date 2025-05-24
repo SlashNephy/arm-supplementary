@@ -46604,4 +46604,7 @@ export const annict: ArmEntry[] = [
   // [2011-AUTUMN] WEB: キメゾーの決まり文句じゃキマらねぇ。Featuring サブ男
   // https://annict.com/works/16060
   { annict_id: 16060, mal_id: 22597 },
+  // [2008-SUMMER] OVA: マシュランボー総集編
+  // https://annict.com/works/16061
+  { annict_id: 16061, mal_id: 4961 },
 ]
