@@ -22741,7 +22741,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 7889, mal_id: 48645 },
   // [2021-WINTER] TV: キンタマーニドッグ
   // https://annict.com/works/7890
-  { annict_id: 7890, syobocal_tid: 5911 },
+  { annict_id: 7890, mal_id: 44702, syobocal_tid: 5911 },
   // [2021-WINTER] WEB: Re:ゼロから始める休憩時間 2nd season 第2クール
   // https://annict.com/works/7891
   { annict_id: 7891, mal_id: 42364 },
@@ -46625,4 +46625,7 @@ export const annict: ArmEntry[] = [
   // [1982-AUTUMN] TV: The♡かぼちゃワイン おれとあいつの新婚旅行!?
   // https://annict.com/works/16067
   { annict_id: 16067, mal_id: 51086 },
+  // [2023-SPRING] WEB: スポGOMI まちの絆づくり編
+  // https://annict.com/works/16068
+  { annict_id: 16068, mal_id: 58619 },
 ]
