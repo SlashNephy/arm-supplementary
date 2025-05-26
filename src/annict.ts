@@ -46628,4 +46628,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] WEB: スポGOMI まちの絆づくり編
   // https://annict.com/works/16068
   { annict_id: 16068, mal_id: 58619 },
+  // [2025-SPRING] WEB: 限界OL霧切ギリ子
+  // https://annict.com/works/16069
+  { annict_id: 16069 },
 ]
