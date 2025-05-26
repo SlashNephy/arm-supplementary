@@ -46631,4 +46631,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] WEB: 限界OL霧切ギリ子
   // https://annict.com/works/16069
   { annict_id: 16069 },
+  // [2024-SUMMER] WEB: ネガティヴハッピィ
+  // https://annict.com/works/16070
+  { annict_id: 16070 },
 ]
