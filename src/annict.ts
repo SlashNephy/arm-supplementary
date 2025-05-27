@@ -46643,4 +46643,7 @@ export const annict: ArmEntry[] = [
   // [2004-SPRING] TV: ラグラッツ・ザ・ティーンズ
   // https://annict.com/works/16073
   { annict_id: 16073 },
+  // [2004-SPRING] TV: ジンジャーの青春日記
+  // https://annict.com/works/16074
+  { annict_id: 16074 },
 ]
