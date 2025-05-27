@@ -46634,4 +46634,13 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] WEB: ネガティヴハッピィ
   // https://annict.com/works/16070
   { annict_id: 16070 },
+  // [2004-null] TV: おちゃめな魔女サブリナ
+  // https://annict.com/works/16071
+  { annict_id: 16071 },
+  // [2004-WINTER] TV: ムーチャ・ルーチャ!
+  // https://annict.com/works/16072
+  { annict_id: 16072 },
+  // [2004-SPRING] TV: ラグラッツ・ザ・ティーンズ
+  // https://annict.com/works/16073
+  { annict_id: 16073 },
 ]
