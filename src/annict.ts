@@ -46655,4 +46655,7 @@ export const annict: ArmEntry[] = [
   // [2004-AUTUMN] TV: ジェニーはティーン☆ロボット
   // https://annict.com/works/16077
   { annict_id: 16077 },
+  // [1935-SUMMER] MOVIE: Dancing on the Moon（原題）
+  // https://annict.com/works/16078
+  { annict_id: 16078 },
 ]
