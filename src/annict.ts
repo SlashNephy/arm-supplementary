@@ -46658,4 +46658,7 @@ export const annict: ArmEntry[] = [
   // [1935-SUMMER] MOVIE: Dancing on the Moon（原題）
   // https://annict.com/works/16078
   { annict_id: 16078 },
+  // [2005-WINTER] TV: 無口なウサギ
+  // https://annict.com/works/16079
+  { annict_id: 16079 },
 ]
