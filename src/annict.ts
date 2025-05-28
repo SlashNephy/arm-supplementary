@@ -46646,4 +46646,13 @@ export const annict: ArmEntry[] = [
   // [2004-SPRING] TV: ジンジャーの青春日記
   // https://annict.com/works/16074
   { annict_id: 16074 },
+  // [2004-SUMMER] TV: KND ハチャメチャ大作戦
+  // https://annict.com/works/16075
+  { annict_id: 16075 },
+  // [2004-AUTUMN] TV: ティーン・タイタンズ
+  // https://annict.com/works/16076
+  { annict_id: 16076 },
+  // [2004-AUTUMN] TV: ジェニーはティーン☆ロボット
+  // https://annict.com/works/16077
+  { annict_id: 16077 },
 ]
