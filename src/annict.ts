@@ -36614,7 +36614,7 @@ export const annict: ArmEntry[] = [
   // [2012-SPRING] TV: とっとこハム太郎(2012年)
   // https://annict.com/works/12720
   { annict_id: 12720 },
-  // [1931-null] MOVIE: 浦島太郎
+  // [1931-null] MOVIE: 浦島太郎 (1931年)
   // https://annict.com/works/12721
   { annict_id: 12721, mal_id: 5813 },
   // [1999-null] OVA: なんちゃってバンパイヤン
@@ -46679,4 +46679,13 @@ export const annict: ArmEntry[] = [
   // [1917-AUTUMN] MOVIE: Bobby Bumps' Tank（原題）
   // https://annict.com/works/16085
   { annict_id: 16085 },
+  // [2017-SPRING] MOVIE: なまくら力
+  // https://annict.com/works/16086
+  { annict_id: 16086 },
+  // [null-null] MOVIE: ドングリドン助旅日記
+  // https://annict.com/works/16087
+  { annict_id: 16087 },
+  // [null-null] MOVIE: 浦島太郎 (ライオン家庭フィルム)
+  // https://annict.com/works/16088
+  { annict_id: 16088 },
 ]
