@@ -46655,7 +46655,7 @@ export const annict: ArmEntry[] = [
   // [2004-AUTUMN] TV: ジェニーはティーン☆ロボット
   // https://annict.com/works/16077
   { annict_id: 16077 },
-  // [1935-SUMMER] MOVIE: Dancing on the Moon（原題）
+  // [1935-SUMMER] MOVIE: 月へハネムーン
   // https://annict.com/works/16078
   { annict_id: 16078 },
   // [2005-WINTER] TV: 無口なウサギ
@@ -46667,4 +46667,16 @@ export const annict: ArmEntry[] = [
   // [2005-WINTER] TV: オジー&ドリックス
   // https://annict.com/works/16081
   { annict_id: 16081 },
+  // [1935-SUMMER] MOVIE: Time for Love（原題）
+  // https://annict.com/works/16082
+  { annict_id: 16082 },
+  // [null-null] MOVIE: 日乃丸旗乃助　ギャング討伐
+  // https://annict.com/works/16083
+  { annict_id: 16083 },
+  // [null-null] MOVIE: 飛行家の夢
+  // https://annict.com/works/16084
+  { annict_id: 16084 },
+  // [1917-AUTUMN] MOVIE: Bobby Bumps' Tank（原題）
+  // https://annict.com/works/16085
+  { annict_id: 16085 },
 ]
