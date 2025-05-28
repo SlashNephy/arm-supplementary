@@ -46661,4 +46661,10 @@ export const annict: ArmEntry[] = [
   // [2005-WINTER] TV: 無口なウサギ
   // https://annict.com/works/16079
   { annict_id: 16079 },
+  // [2005-WINTER] TV: ベビー・ルーニー・テューンズ
+  // https://annict.com/works/16080
+  { annict_id: 16080 },
+  // [2005-WINTER] TV: オジー&ドリックス
+  // https://annict.com/works/16081
+  { annict_id: 16081 },
 ]
