@@ -46688,4 +46688,7 @@ export const annict: ArmEntry[] = [
   // [null-null] MOVIE: 浦島太郎 (ライオン家庭フィルム)
   // https://annict.com/works/16088
   { annict_id: 16088 },
+  // [null-null] MOVIE: 0助漫遊記
+  // https://annict.com/works/16089
+  { annict_id: 16089 },
 ]
