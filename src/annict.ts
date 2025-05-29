@@ -46697,4 +46697,7 @@ export const annict: ArmEntry[] = [
   // [null-null] MOVIE: 探偵ターチャン殺人電波
   // https://annict.com/works/16091
   { annict_id: 16091 },
+  // [null-null] MOVIE: SF漫画「漫画火星飛行」
+  // https://annict.com/works/16092
+  { annict_id: 16092 },
 ]
