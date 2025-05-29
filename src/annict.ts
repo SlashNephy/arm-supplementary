@@ -46700,4 +46700,7 @@ export const annict: ArmEntry[] = [
   // [null-null] MOVIE: SF漫画「漫画火星飛行」
   // https://annict.com/works/16092
   { annict_id: 16092 },
+  // [1919-AUTUMN] MOVIE: フェリックスの初恋
+  // https://annict.com/works/16093
+  { annict_id: 16093 },
 ]
