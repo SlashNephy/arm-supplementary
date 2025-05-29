@@ -46691,4 +46691,7 @@ export const annict: ArmEntry[] = [
   // [null-null] MOVIE: 0助漫遊記
   // https://annict.com/works/16089
   { annict_id: 16089 },
+  // [1935-null] MOVIE: 特急忠臣蔵 上巻
+  // https://annict.com/works/16090
+  { annict_id: 16090 },
 ]
