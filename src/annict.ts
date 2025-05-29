@@ -46703,4 +46703,13 @@ export const annict: ArmEntry[] = [
   // [1919-AUTUMN] MOVIE: フェリックスの初恋
   // https://annict.com/works/16093
   { annict_id: 16093 },
+  // [2005-SPRING] TV: インベーダー・ジム
+  // https://annict.com/works/16094
+  { annict_id: 16094 },
+  // [2005-SUMMER] TV: ザ・バットマン
+  // https://annict.com/works/16095
+  { annict_id: 16095 },
+  // [2005-SUMMER] TV: ミスター・ビーン
+  // https://annict.com/works/16096
+  { annict_id: 16096 },
 ]
