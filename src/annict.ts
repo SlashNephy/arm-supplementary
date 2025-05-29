@@ -40370,7 +40370,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] MOVIE: 劇場版総集編 ガールズバンドクライ なぁ、未来。
   // https://annict.com/works/13978
   { annict_id: 13978, mal_id: 59817 },
-  // [2025-null] TV: 瑠璃の宝石
+  // [2025-SUMMER] TV: 瑠璃の宝石
   // https://annict.com/works/13979
   { annict_id: 13979, mal_id: 59791 },
   // [2024-AUTUMN] TV: クマーバ シーズン2
@@ -44939,7 +44939,7 @@ export const annict: ArmEntry[] = [
   // [1985-AUTUMN] TV: 小さな森の精 あいあむ!スマーフ
   // https://annict.com/works/15504
   { annict_id: 15504 },
-  // [2025-null] TV: 終末ツーリング
+  // [2025-AUTUMN] TV: 終末ツーリング
   // https://annict.com/works/15505
   { annict_id: 15505, mal_id: 61072 },
   // [null-null] TV: ウタヒメドリーム
