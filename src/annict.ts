@@ -46694,4 +46694,7 @@ export const annict: ArmEntry[] = [
   // [1935-null] MOVIE: 特急忠臣蔵 上巻
   // https://annict.com/works/16090
   { annict_id: 16090 },
+  // [null-null] MOVIE: 探偵ターチャン殺人電波
+  // https://annict.com/works/16091
+  { annict_id: 16091 },
 ]
