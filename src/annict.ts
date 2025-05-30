@@ -46712,4 +46712,13 @@ export const annict: ArmEntry[] = [
   // [2005-SUMMER] TV: ミスター・ビーン
   // https://annict.com/works/16096
   { annict_id: 16096 },
+  // [2005-AUTUMN] TV: フォスターズ・ホーム
+  // https://annict.com/works/16097
+  { annict_id: 16097 },
+  // [2005-AUTUMN] TV: ジミー・ニュートロン 僕は天才発明家!(TVシリーズ)
+  // https://annict.com/works/16098
+  { annict_id: 16098 },
+  // [2005-AUTUMN] TV: ペット・エイリアン
+  // https://annict.com/works/16099
+  { annict_id: 16099 },
 ]
