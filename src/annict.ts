@@ -43130,7 +43130,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] TV: フードコートで、また明日。
   // https://annict.com/works/14900
   { annict_id: 14900, mal_id: 60508 },
-  // [null-null] TV: シャンピニオンの魔女
+  // [2026-WINTER] TV: シャンピニオンの魔女
   // https://annict.com/works/14901
   { annict_id: 14901, mal_id: 60509 },
   // [null-null] TV: 2.5次元の誘惑 第2期
@@ -46721,4 +46721,10 @@ export const annict: ArmEntry[] = [
   // [2005-AUTUMN] TV: ペット・エイリアン
   // https://annict.com/works/16099
   { annict_id: 16099 },
+  // [null-null] OTHER: 悪役令嬢の中の人
+  // https://annict.com/works/16100
+  { annict_id: 16100, mal_id: 61758 },
+  // [null-null] TV: Sランクパーティから解雇された【呪具師】～『呪いのアイテム』しか作れませんが、その性能はアーティファクト級なり……！～
+  // https://annict.com/works/16101
+  { annict_id: 16101, mal_id: 61754 },
 ]
