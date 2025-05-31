@@ -39346,7 +39346,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13632, mal_id: 60629, syobocal_tid: 7336 },
   // [2025-SUMMER] TV: 彼女、お借りします 第4期
   // https://annict.com/works/13633
-  { annict_id: 13633, mal_id: 59277 },
+  { annict_id: 13633, mal_id: 59277, syobocal_tid: 7463 },
   // [1925-SUMMER] MOVIE: Alice Picks the Champ（原題）
   // https://annict.com/works/13634
   { annict_id: 13634 },
@@ -46733,7 +46733,7 @@ export const annict: ArmEntry[] = [
   // [2005-WINTER] OVA: くまのプーさん/びっくりプレゼント
   // https://annict.com/works/16103
   { annict_id: 16103 },
-  // [2025-SUMMER] TV: ちびゴジラの逆襲(3期)
+  // [2025-SUMMER] TV: ちびゴジラの逆襲 (3期)
   // https://annict.com/works/16104
   { annict_id: 16104 },
   // [null-null] OTHER: ガチャを回して仲間を増やす 最強の美少女軍団を作り上げろ
