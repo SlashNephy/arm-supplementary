@@ -46727,4 +46727,10 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: Sランクパーティから解雇された【呪具師】～『呪いのアイテム』しか作れませんが、その性能はアーティファクト級なり……！～
   // https://annict.com/works/16101
   { annict_id: 16101, mal_id: 61754 },
+  // [2005-SUMMER] OVA: スティッチはこうして生まれた
+  // https://annict.com/works/16102
+  { annict_id: 16102 },
+  // [2005-WINTER] OVA: くまのプーさん/びっくりプレゼント
+  // https://annict.com/works/16103
+  { annict_id: 16103 },
 ]
