@@ -46739,4 +46739,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: ガチャを回して仲間を増やす 最強の美少女軍団を作り上げろ
   // https://annict.com/works/16105
   { annict_id: 16105, mal_id: 61756 },
+  // [2025-SPRING] WEB: ゼンレスゾーンゼロ 儀玄ショートアニメ「儀玄のため」
+  // https://annict.com/works/16106
+  { annict_id: 16106 },
 ]
