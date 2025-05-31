@@ -46733,4 +46733,10 @@ export const annict: ArmEntry[] = [
   // [2005-WINTER] OVA: くまのプーさん/びっくりプレゼント
   // https://annict.com/works/16103
   { annict_id: 16103 },
+  // [2025-SUMMER] TV: ちびゴジラの逆襲(3期)
+  // https://annict.com/works/16104
+  { annict_id: 16104 },
+  // [null-null] OTHER: ガチャを回して仲間を増やす 最強の美少女軍団を作り上げろ
+  // https://annict.com/works/16105
+  { annict_id: 16105, mal_id: 61756 },
 ]
