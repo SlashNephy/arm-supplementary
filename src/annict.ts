@@ -46742,4 +46742,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] WEB: ゼンレスゾーンゼロ 儀玄ショートアニメ「儀玄のため」
   // https://annict.com/works/16106
   { annict_id: 16106 },
+  // [1959-SUMMER] MOVIE: ありとはと
+  // https://annict.com/works/16107
+  { annict_id: 16107, mal_id: 21765 },
 ]
