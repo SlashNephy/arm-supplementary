@@ -39259,7 +39259,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13603 },
   // [2025-SUMMER] TV: 帝乃三姉妹は案外、チョロい。
   // https://annict.com/works/13604
-  { annict_id: 13604, mal_id: 59207 },
+  { annict_id: 13604, mal_id: 59207, syobocal_tid: 7465 },
   // [2023-SUMMER] WEB: ギーツエクストラ ギーツあにめ あなざーぐらんぷり
   // https://annict.com/works/13605
   { annict_id: 13605, mal_id: 56206 },
@@ -39991,7 +39991,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13848, mal_id: 59710 },
   // [2025-SUMMER] TV: ゲーセン少女と異文化交流
   // https://annict.com/works/13849
-  { annict_id: 13849, mal_id: 59689 },
+  { annict_id: 13849, mal_id: 59689, syobocal_tid: 7467 },
   // [2026-WINTER] TV: 死亡遊戯で飯を食う。
   // https://annict.com/works/13850
   { annict_id: 13850, mal_id: 59711 },
@@ -40372,7 +40372,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13978, mal_id: 59817 },
   // [2025-SUMMER] TV: 瑠璃の宝石
   // https://annict.com/works/13979
-  { annict_id: 13979, mal_id: 59791 },
+  { annict_id: 13979, mal_id: 59791, syobocal_tid: 7466 },
   // [2024-AUTUMN] TV: クマーバ シーズン2
   // https://annict.com/works/13980
   { annict_id: 13980, mal_id: 59123 },
@@ -40648,7 +40648,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14071, mal_id: 29870 },
   // [2025-SUMMER] TV: ぐらんぶる Season 2
   // https://annict.com/works/14072
-  { annict_id: 14072, mal_id: 59986 },
+  { annict_id: 14072, mal_id: 59986, syobocal_tid: 7464 },
   // [2024-SUMMER] WEB: ソードアート・オンライン オルタナティブ ガンゲイル･オンライン 12.5話「GALA」
   // https://annict.com/works/14073
   { annict_id: 14073, mal_id: 59968 },
