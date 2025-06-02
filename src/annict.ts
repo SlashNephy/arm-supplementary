@@ -46745,4 +46745,7 @@ export const annict: ArmEntry[] = [
   // [1959-SUMMER] MOVIE: ありとはと
   // https://annict.com/works/16107
   { annict_id: 16107, mal_id: 21765 },
+  // [2025-SPRING] WEB: いっしょって、いいね。
+  // https://annict.com/works/16108
+  { annict_id: 16108 },
 ]
