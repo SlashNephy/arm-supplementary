@@ -46735,7 +46735,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16103 },
   // [2025-SUMMER] TV: ちびゴジラの逆襲 (3期)
   // https://annict.com/works/16104
-  { annict_id: 16104 },
+  { annict_id: 16104, mal_id: 61765 },
   // [null-null] OTHER: ガチャを回して仲間を増やす 最強の美少女軍団を作り上げろ
   // https://annict.com/works/16105
   { annict_id: 16105, mal_id: 61756 },
