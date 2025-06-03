@@ -46754,4 +46754,7 @@ export const annict: ArmEntry[] = [
   // [1936-WINTER] MOVIE: Somewhere in Dreamland（原題）
   // https://annict.com/works/16110
   { annict_id: 16110 },
+  // [2026-null] MOVIE: この本を盗む者は
+  // https://annict.com/works/16111
+  { annict_id: 16111, mal_id: 61770 },
 ]
