@@ -36814,7 +36814,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12786 },
   // [2025-SUMMER] TV: よふかしのうた 第2期
   // https://annict.com/works/12787
-  { annict_id: 12787, mal_id: 58390 },
+  { annict_id: 12787, mal_id: 58390, syobocal_tid: 7472 },
   // [2024-AUTUMN] TV: ねこに転生したおじさん
   // https://annict.com/works/12788
   { annict_id: 12788, mal_id: 58395, syobocal_tid: 7270 },
@@ -38350,7 +38350,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13300 },
   // [2025-SUMMER] TV: 転生したら第七王子だったので、気ままに魔術を極めます 第2期
   // https://annict.com/works/13301
-  { annict_id: 13301, mal_id: 59095 },
+  { annict_id: 13301, mal_id: 59095, syobocal_tid: 7471 },
   // [1940-SUMMER] MOVIE: ザ・ボランティア・ワーカー
   // https://annict.com/works/13302
   { annict_id: 13302 },
@@ -42607,7 +42607,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14725 },
   // [2025-SUMMER] TV: 出禁のモグラ
   // https://annict.com/works/14726
-  { annict_id: 14726, mal_id: 60315 },
+  { annict_id: 14726, mal_id: 60315, syobocal_tid: 7473 },
   // [2025-SUMMER] TV: ブサメンガチファイター
   // https://annict.com/works/14727
   { annict_id: 14727, mal_id: 60316 },
