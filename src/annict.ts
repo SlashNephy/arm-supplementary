@@ -28747,7 +28747,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10086, syobocal_tid: 6465 },
   // [2025-SUMMER] TV: その着せ替え人形は恋をする Season 2
   // https://annict.com/works/10087
-  { annict_id: 10087, mal_id: 53065 },
+  { annict_id: 10087, mal_id: 53065, syobocal_tid: 7469 },
   // [2023-WINTER] TV: にじよん あにめーしょん
   // https://annict.com/works/10088
   { annict_id: 10088, mal_id: 53077, syobocal_tid: 6585 },
@@ -39643,7 +39643,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13731, mal_id: 59415 },
   // [2025-SUMMER] TV: 勇者パーティーを追放された白魔導師、Sランク冒険者に拾われる ～この白魔導師が規格外すぎる～
   // https://annict.com/works/13732
-  { annict_id: 13732, mal_id: 59424 },
+  { annict_id: 13732, mal_id: 59424, syobocal_tid: 7470 },
   // [2024-AUTUMN] TV: ネガポジアングラー
   // https://annict.com/works/13733
   { annict_id: 13733, mal_id: 59425, syobocal_tid: 7210 },
