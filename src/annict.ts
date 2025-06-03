@@ -43555,7 +43555,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15041, mal_id: 60660 },
   // [2025-SUMMER] TV: ふたりソロキャンプ
   // https://annict.com/works/15042
-  { annict_id: 15042, mal_id: 60665 },
+  { annict_id: 15042, mal_id: 60665, syobocal_tid: 7474 },
   // [1971-SUMMER] TV: 電子鳥人Uバード
   // https://annict.com/works/15043
   { annict_id: 15043 },
