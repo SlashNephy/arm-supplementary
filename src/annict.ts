@@ -46757,4 +46757,7 @@ export const annict: ArmEntry[] = [
   // [2026-null] MOVIE: この本を盗む者は
   // https://annict.com/works/16111
   { annict_id: 16111, mal_id: 61770 },
+  // [2021-SPRING] WEB: ブレイズ&モンスター・マシン
+  // https://annict.com/works/16112
+  { annict_id: 16112 },
 ]
