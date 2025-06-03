@@ -46748,4 +46748,10 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] WEB: いっしょって、いいね。
   // https://annict.com/works/16108
   { annict_id: 16108 },
+  // [1935-AUTUMN] MOVIE: Musical Memories（原題）
+  // https://annict.com/works/16109
+  { annict_id: 16109 },
+  // [1936-WINTER] MOVIE: Somewhere in Dreamland（原題）
+  // https://annict.com/works/16110
+  { annict_id: 16110 },
 ]
