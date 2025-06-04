@@ -37021,7 +37021,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12855, mal_id: 58531 },
   // [2024-SUMMER] TV: 現代誤訳
   // https://annict.com/works/12856
-  { annict_id: 12856, syobocal_tid: 7135 },
+  { annict_id: 12856, mal_id: 59011, syobocal_tid: 7135 },
   // [2024-WINTER] WEB: ザ･スパイダー･ウィズイン
   // https://annict.com/works/12857
   { annict_id: 12857 },
