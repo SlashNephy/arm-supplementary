@@ -35879,7 +35879,7 @@ export const annict: ArmEntry[] = [
   // [2026-null] MOVIE: 楽園追放 心のレゾナンス
   // https://annict.com/works/12473
   { annict_id: 12473, mal_id: 57961 },
-  // [null-null] TV: ぬきたし THE ANIMATION
+  // [2025-SUMMER] TV: ぬきたし THE ANIMATION
   // https://annict.com/works/12474
   { annict_id: 12474, mal_id: 57969 },
   // [2018-AUTUMN] WEB: ぷれぷれぷれあです 〜クレマンティーヌ逃亡編〜
@@ -42470,7 +42470,7 @@ export const annict: ArmEntry[] = [
   // [2014-SUMMER] WEB: TOWN WORKERS ータウンワーカーズー
   // https://annict.com/works/14680
   { annict_id: 14680, mal_id: 34757 },
-  // [2003-SUMMER] OVA: とらいあんぐるハート～Sweet Songs Forever～
+  // [2003-SUMMER] OVA: とらいあんぐるハート ～Sweet Songs Forever～
   // https://annict.com/works/14681
   { annict_id: 14681, mal_id: 176 },
   // [2016-AUTUMN] OVA: トリック・オア・アリス
@@ -46772,4 +46772,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] WEB: 新星ギャルバース
   // https://annict.com/works/16116
   { annict_id: 16116, mal_id: 61672 },
+  // [2002-SUMMER] OVA: とらいあんぐるハート ～Sweet Songs Forever～ サウンドステージVA
+  // https://annict.com/works/16117
+  { annict_id: 16117 },
 ]
