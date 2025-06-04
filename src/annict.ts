@@ -35791,7 +35791,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12443, mal_id: 59572 },
   // [2024-SUMMER] TV: よあそびぐらしっ！
   // https://annict.com/works/12444
-  { annict_id: 12444, syobocal_tid: 7146 },
+  { annict_id: 12444, mal_id: 58905, syobocal_tid: 7146 },
   // [2006-SPRING] MOVIE: 立喰師列伝
   // https://annict.com/works/12445
   { annict_id: 12445, mal_id: 2388 },
