@@ -46775,4 +46775,13 @@ export const annict: ArmEntry[] = [
   // [2002-SUMMER] OVA: とらいあんぐるハート ～Sweet Songs Forever～ サウンドステージVA
   // https://annict.com/works/16117
   { annict_id: 16117 },
+  // [2021-SUMMER] TV: マーシャのものがたり
+  // https://annict.com/works/16118
+  { annict_id: 16118 },
+  // [2021-SUMMER] TV: マーシャのふしぎなおはなし
+  // https://annict.com/works/16119
+  { annict_id: 16119 },
+  // [2025-null] TV: Let’s Play クエストだらけのマイライフ
+  // https://annict.com/works/16120
+  { annict_id: 16120, mal_id: 61773 },
 ]
