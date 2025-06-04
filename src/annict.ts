@@ -35734,7 +35734,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12424, mal_id: 57827, syobocal_tid: 7301 },
   // [2025-SUMMER] TV: 神椿市建設中。
   // https://annict.com/works/12425
-  { annict_id: 12425, mal_id: 57820 },
+  { annict_id: 12425, mal_id: 57820, syobocal_tid: 7476 },
   // [2024-SPRING] TV: 刀剣乱舞 廻 -虚伝 燃ゆる本能寺-
   // https://annict.com/works/12426
   { annict_id: 12426, mal_id: 51859, syobocal_tid: 7024 },
@@ -39103,7 +39103,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13551 },
   // [2025-SUMMER] TV: 怪獣8号 第2期
   // https://annict.com/works/13552
-  { annict_id: 13552, mal_id: 59177 },
+  { annict_id: 13552, mal_id: 59177, syobocal_tid: 7475 },
   // [2024-AUTUMN] TV: オーイ! とんぼ 第2期
   // https://annict.com/works/13553
   { annict_id: 13553, mal_id: 59175, syobocal_tid: 7217 },
@@ -39631,7 +39631,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13727, mal_id: 59419 },
   // [2025-SUMMER] TV: ずたぼろ令嬢は姉の元婚約者に溺愛される
   // https://annict.com/works/13728
-  { annict_id: 13728, mal_id: 59421 },
+  { annict_id: 13728, mal_id: 59421, syobocal_tid: 7477 },
   // [2013-WINTER] MOVIE: 劇場版ミッフィー どうぶつえんで宝さがし
   // https://annict.com/works/13729
   { annict_id: 13729 },
@@ -46760,4 +46760,13 @@ export const annict: ArmEntry[] = [
   // [2021-SPRING] WEB: ブレイズ&モンスター・マシン
   // https://annict.com/works/16112
   { annict_id: 16112 },
+  // [2022-WINTER] WEB: ディア・スクワッド
+  // https://annict.com/works/16113
+  { annict_id: 16113 },
+  // [2022-SPRING] WEB: やんちゃなポニー
+  // https://annict.com/works/16114
+  { annict_id: 16114 },
+  // [2016-SPRING] WEB: スーパーエージェント TUFFパピー
+  // https://annict.com/works/16115
+  { annict_id: 16115 },
 ]
