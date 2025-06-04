@@ -33079,7 +33079,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11535 },
   // [2024-WINTER] TV: 悶えてよ、アダムくん
   // https://annict.com/works/11536
-  { annict_id: 11536, syobocal_tid: 6945 },
+  { annict_id: 11536, mal_id: 57470, syobocal_tid: 6945 },
   // [2025-WINTER] TV: 魔法使いの約束
   // https://annict.com/works/11537
   { annict_id: 11537, mal_id: 57152, syobocal_tid: 7310 },
@@ -33229,7 +33229,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11586, mal_id: 57181, syobocal_tid: 7201 },
   // [2023-AUTUMN] WEB: ラプソディ
   // https://annict.com/works/11587
-  { annict_id: 11587 },
+  { annict_id: 11587, mal_id: 54727 },
   // [2023-SPRING] WEB: ケーちゃんの絵日記 ハガネガニと渦貝
   // https://annict.com/works/11588
   { annict_id: 11588 },
@@ -46769,4 +46769,7 @@ export const annict: ArmEntry[] = [
   // [2016-SPRING] WEB: スーパーエージェント TUFFパピー
   // https://annict.com/works/16115
   { annict_id: 16115 },
+  // [2025-SPRING] WEB: 新星ギャルバース
+  // https://annict.com/works/16116
+  { annict_id: 16116, mal_id: 61672 },
 ]
