@@ -46790,4 +46790,7 @@ export const annict: ArmEntry[] = [
   // [2020-AUTUMN] WEB: ロボカーポリー　ソング・ソングミュージアム
   // https://annict.com/works/16122
   { annict_id: 16122 },
+  // [2026-null] TV: 綺麗にしてもらえますか。
+  // https://annict.com/works/16123
+  { annict_id: 16123, mal_id: 61782 },
 ]
