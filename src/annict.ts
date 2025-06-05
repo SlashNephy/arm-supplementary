@@ -29542,7 +29542,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10352, mal_id: 54000 },
   // [2025-SUMMER] TV: Turkey!
   // https://annict.com/works/10353
-  { annict_id: 10353, mal_id: 54028 },
+  { annict_id: 10353, mal_id: 54028, syobocal_tid: 7478 },
   // [2023-WINTER] TV: Call Star -ボクは本当にダメな星？-
   // https://annict.com/works/10354
   { annict_id: 10354, mal_id: 48844, syobocal_tid: 6553 },
