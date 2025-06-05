@@ -43427,7 +43427,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] MOVIE: インベンター
   // https://annict.com/works/14999
   { annict_id: 14999 },
-  // [null-null] TV: ぷにるはかわいいスライム 第2期
+  // [2025-SUMMER] TV: ぷにるはかわいいスライム 第2期
   // https://annict.com/works/15000
   { annict_id: 15000, mal_id: 60603 },
   // [1933-AUTUMN] MOVIE: 動絵狐狸達引
