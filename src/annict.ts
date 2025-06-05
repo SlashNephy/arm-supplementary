@@ -11999,7 +11999,7 @@ export const annict: ArmEntry[] = [
   // [2013-SPRING] TV: すすめ！キッチン戦隊クックルン
   // https://annict.com/works/4015
   { annict_id: 4015, syobocal_tid: 2976 },
-  // [2013-SPRING] TV: ロボカーポリー
+  // [2013-SPRING] TV: ロボカーポリー(シーズン1・2)
   // https://annict.com/works/4016
   { annict_id: 4016, syobocal_tid: 2956 },
   // [2013-SPRING] TV: LINE TOWN
@@ -12299,7 +12299,7 @@ export const annict: ArmEntry[] = [
   // [2014-SUMMER] MOVIE: 思い出のマーニー
   // https://annict.com/works/4115
   { annict_id: 4115, mal_id: 21557, syobocal_tid: 4658 },
-  // [2014-SPRING] TV: ロボカーポリー(第2期)
+  // [2014-SPRING] TV: ロボカーポリー(シーズン3)
   // https://annict.com/works/4116
   { annict_id: 4116, syobocal_tid: 3407 },
   // [2014-SPRING] TV: カリーノ・コニ
@@ -46784,4 +46784,10 @@ export const annict: ArmEntry[] = [
   // [2025-null] TV: Let’s Play クエストだらけのマイライフ
   // https://annict.com/works/16120
   { annict_id: 16120, mal_id: 61773 },
+  // [2019-SUMMER] TV: ロボカーポリー(シーズン4)
+  // https://annict.com/works/16121
+  { annict_id: 16121 },
+  // [2020-AUTUMN] WEB: ロボカーポリー　ソング・ソングミュージアム
+  // https://annict.com/works/16122
+  { annict_id: 16122 },
 ]
