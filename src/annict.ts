@@ -12001,7 +12001,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 4015, syobocal_tid: 2976 },
   // [2013-SPRING] TV: ロボカーポリー(シーズン1・2)
   // https://annict.com/works/4016
-  { annict_id: 4016, syobocal_tid: 2956 },
+  { annict_id: 4016, mal_id: 31898, syobocal_tid: 2956 },
   // [2013-SPRING] TV: LINE TOWN
   // https://annict.com/works/4017
   { annict_id: 4017, mal_id: 18155, syobocal_tid: 2972 },
@@ -12301,7 +12301,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 4115, mal_id: 21557, syobocal_tid: 4658 },
   // [2014-SPRING] TV: ロボカーポリー(シーズン3)
   // https://annict.com/works/4116
-  { annict_id: 4116, syobocal_tid: 3407 },
+  { annict_id: 4116, mal_id: 42654, syobocal_tid: 3407 },
   // [2014-SPRING] TV: カリーノ・コニ
   // https://annict.com/works/4117
   { annict_id: 4117, mal_id: 23721, syobocal_tid: 3392 },
@@ -40462,13 +40462,13 @@ export const annict: ArmEntry[] = [
   { annict_id: 14008 },
   // [null-null] TV: ポリーとまなぼうこうつうあんぜん
   // https://annict.com/works/14009
-  { annict_id: 14009 },
+  { annict_id: 14009, mal_id: 56363 },
   // [null-null] TV: ロイとまなぼうしょうぼうあんぜん
   // https://annict.com/works/14010
-  { annict_id: 14010 },
+  { annict_id: 14010, mal_id: 56365 },
   // [null-null] TV: アンバーとまなぼうせいかつあんぜん
   // https://annict.com/works/14011
-  { annict_id: 14011 },
+  { annict_id: 14011, mal_id: 56366 },
   // [2011-SPRING] OVA: アマガミSS 新作ショートアニメーション集DVD
   // https://annict.com/works/14012
   { annict_id: 14012, mal_id: 9117 },
@@ -46786,14 +46786,17 @@ export const annict: ArmEntry[] = [
   { annict_id: 16120, mal_id: 61773 },
   // [2019-SUMMER] TV: ロボカーポリー(シーズン4)
   // https://annict.com/works/16121
-  { annict_id: 16121 },
+  { annict_id: 16121, mal_id: 42660 },
   // [2020-AUTUMN] WEB: ロボカーポリー　ソング・ソングミュージアム
   // https://annict.com/works/16122
-  { annict_id: 16122 },
+  { annict_id: 16122, mal_id: 56368 },
   // [2026-null] TV: 綺麗にしてもらえますか。
   // https://annict.com/works/16123
   { annict_id: 16123, mal_id: 61782 },
   // [2025-SPRING] WEB: “オハナ＜家族＞”のハートフルショートアニメーション
   // https://annict.com/works/16124
   { annict_id: 16124 },
+  // [2014-AUTUMN] WEB: 「ベイマックス」鉄拳パラパラ漫画PV
+  // https://annict.com/works/16125
+  { annict_id: 16125, mal_id: 28433 },
 ]
