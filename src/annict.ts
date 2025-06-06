@@ -43243,7 +43243,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14937, mal_id: 51334 },
   // [2025-WINTER] TV: ミニミニ minini
   // https://annict.com/works/14938
-  { annict_id: 14938 },
+  { annict_id: 14938, mal_id: 60677 },
   // [1957-null] MOVIE: かっぱのぱあ太郎
   // https://annict.com/works/14939
   { annict_id: 14939 },
