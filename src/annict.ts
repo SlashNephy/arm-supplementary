@@ -28888,7 +28888,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10133, syobocal_tid: 1649 },
   // [2025-SUMMER] TV: 強くてニューサーガ
   // https://annict.com/works/10134
-  { annict_id: 10134, mal_id: 53397 },
+  { annict_id: 10134, mal_id: 53397, syobocal_tid: 7486 },
   // [2024-SPRING] TV: ゆるキャン△ SEASON3
   // https://annict.com/works/10135
   { annict_id: 10135, mal_id: 53410, syobocal_tid: 6991 },
@@ -33053,7 +33053,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: 放課後少年花子くん 続編
   // https://annict.com/works/11527
   { annict_id: 11527, mal_id: 57102, syobocal_tid: 7254 },
-  // [2025-null] TV: 無職の英雄 ～別にスキルなんか要らなかったんだが～
+  // [2025-AUTUMN] TV: 無職の英雄 ～別にスキルなんか要らなかったんだが～
   // https://annict.com/works/11528
   { annict_id: 11528, mal_id: 56854 },
   // [2024-SPRING] WEB: ULTRAMAN: RISING
@@ -38149,7 +38149,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13233, mal_id: 59068 },
   // [2025-SUMMER] TV: ガチアクタ
   // https://annict.com/works/13234
-  { annict_id: 13234, mal_id: 59062 },
+  { annict_id: 13234, mal_id: 59062, syobocal_tid: 7485 },
   // [1941-AUTUMN] MOVIE: プルートのなやみ
   // https://annict.com/works/13235
   { annict_id: 13235 },
@@ -39874,7 +39874,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13808, mal_id: 59623 },
   // [2025-SUMMER] TV: 雨と君と
   // https://annict.com/works/13809
-  { annict_id: 13809, mal_id: 59619 },
+  { annict_id: 13809, mal_id: 59619, syobocal_tid: 7487 },
   // [2023-WINTER] WEB: 齢5000年の草食ドラゴン、いわれなき邪竜認定 ちょこっと
   // https://annict.com/works/13810
   { annict_id: 13810, mal_id: 54684 },
@@ -42388,7 +42388,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14652, mal_id: 54144, syobocal_tid: 7330 },
   // [2025-SUMMER] TV: SAKAMOTO DAYS 第2クール
   // https://annict.com/works/14653
-  { annict_id: 14653, mal_id: 60285 },
+  { annict_id: 14653, mal_id: 60285, syobocal_tid: 7488 },
   // [1982-SUMMER] MOVIE: テクノポリス21C
   // https://annict.com/works/14654
   { annict_id: 14654, mal_id: 5090 },
