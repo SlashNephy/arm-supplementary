@@ -46799,4 +46799,7 @@ export const annict: ArmEntry[] = [
   // [2014-AUTUMN] WEB: 「ベイマックス」鉄拳パラパラ漫画PV
   // https://annict.com/works/16125
   { annict_id: 16125, mal_id: 28433 },
+  // [2025-SPRING] WEB: 日本アニメーション50周年記念ムービー
+  // https://annict.com/works/16126
+  { annict_id: 16126, mal_id: 61771 },
 ]
