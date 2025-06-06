@@ -46793,4 +46793,7 @@ export const annict: ArmEntry[] = [
   // [2026-null] TV: 綺麗にしてもらえますか。
   // https://annict.com/works/16123
   { annict_id: 16123, mal_id: 61782 },
+  // [2025-SPRING] WEB: “オハナ＜家族＞”のハートフルショートアニメーション
+  // https://annict.com/works/16124
+  { annict_id: 16124 },
 ]
