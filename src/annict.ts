@@ -36376,7 +36376,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12640, mal_id: 57499 },
   // [2025-SUMMER] TV: ニャイト・オブ・ザ・リビングキャット
   // https://annict.com/works/12641
-  { annict_id: 12641, mal_id: 58197 },
+  { annict_id: 12641, mal_id: 58197, syobocal_tid: 7492 },
   // [2024-AUTUMN] MOVIE: 劇場版 忍たま乱太郎 ドクタケ忍者隊最強の軍師
   // https://annict.com/works/12642
   { annict_id: 12642, mal_id: 58201 },
@@ -37888,7 +37888,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13145 },
   // [2025-SUMMER] TV: おそ松さん (第4期)
   // https://annict.com/works/13146
-  { annict_id: 13146, mal_id: 58996 },
+  { annict_id: 13146, mal_id: 58996, syobocal_tid: 7489 },
   // [1992-SPRING] TV: ガーフィールドと仲間たち
   // https://annict.com/works/13147
   { annict_id: 13147 },
@@ -39226,7 +39226,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13592, mal_id: 59204 },
   // [2025-SUMMER] TV: クレバテス-魔獣の王と赤子と屍の勇者-
   // https://annict.com/works/13593
-  { annict_id: 13593, mal_id: 59205 },
+  { annict_id: 13593, mal_id: 59205, syobocal_tid: 7493 },
   // [2024-SUMMER] TV: 24分でわかる「戦国妖狐 世直し姉弟編」
   // https://annict.com/works/13594
   { annict_id: 13594 },
@@ -39880,7 +39880,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13810, mal_id: 54684 },
   // [2025-SUMMER] TV: まったく最近の探偵ときたら
   // https://annict.com/works/13811
-  { annict_id: 13811, mal_id: 59632 },
+  { annict_id: 13811, mal_id: 59632, syobocal_tid: 7490 },
   // [2022-SUMMER] WEB: リッチマウンテン富山
   // https://annict.com/works/13812
   { annict_id: 13812, mal_id: 59627 },
@@ -40438,7 +40438,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14000, mal_id: 59835 },
   // [2025-SUMMER] TV: 薫る花は凛と咲く
   // https://annict.com/works/14001
-  { annict_id: 14001, mal_id: 59845 },
+  { annict_id: 14001, mal_id: 59845, syobocal_tid: 7491 },
   // [2025-SPRING] MOVIE: ヴァージン・パンク Clockwork Girl
   // https://annict.com/works/14002
   { annict_id: 14002, mal_id: 59848 },
@@ -45802,7 +45802,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15791, mal_id: 61319 },
   // [2025-SUMMER] TV: Dr.STONE SCIENCE FUTURE 第2クール
   // https://annict.com/works/15792
-  { annict_id: 15792, mal_id: 61322 },
+  { annict_id: 15792, mal_id: 61322, syobocal_tid: 7494 },
   // [null-null] OTHER: 「BanG Dream! It's MyGO!!!!! / BanG Dream! Ave Mujica」アニメ続編シリーズ
   // https://annict.com/works/15793
   { annict_id: 15793, mal_id: 61324 },
