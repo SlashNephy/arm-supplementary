@@ -45575,7 +45575,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: バトルスピリッツ テレビアニメ新シリーズ
   // https://annict.com/works/15716
   { annict_id: 15716 },
-  // [2026-null] MOVIE: 最終楽章 響け！ユーフォニアム
+  // [2026-SPRING] MOVIE: 最終楽章 響け！ユーフォニアム 前編
   // https://annict.com/works/15717
   { annict_id: 15717, mal_id: 61230 },
   // [2011-SPRING] OVA: 青の祓魔師 裏エク
