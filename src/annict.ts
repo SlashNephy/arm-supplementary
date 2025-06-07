@@ -37180,7 +37180,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12909, mal_id: 58816 },
   // [2025-SUMMER] TV: アークナイツ【焔燼曙明/RISE FROM EMBER】
   // https://annict.com/works/12910
-  { annict_id: 12910, mal_id: 58749 },
+  { annict_id: 12910, mal_id: 58749, syobocal_tid: 7496 },
   // [2024-SPRING] TV: まぁるい彼女と残念な彼氏
   // https://annict.com/works/12911
   { annict_id: 12911, mal_id: 59049, syobocal_tid: 7085 },
@@ -44302,7 +44302,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15291 },
   // [2025-SUMMER] TV: 気絶勇者と暗殺姫
   // https://annict.com/works/15292
-  { annict_id: 15292, mal_id: 60951 },
+  { annict_id: 15292, mal_id: 60951, syobocal_tid: 7495 },
   // [2023-SUMMER] MOVIE: 骨
   // https://annict.com/works/15293
   { annict_id: 15293 },
@@ -45214,7 +45214,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15595 },
   // [2025-SUMMER] TV: 陰陽廻天 Re:バース
   // https://annict.com/works/15596
-  { annict_id: 15596, mal_id: 61150 },
+  { annict_id: 15596, mal_id: 61150, syobocal_tid: 7497 },
   // [2025-WINTER] WEB: レッツロール！シナモロール
   // https://annict.com/works/15597
   { annict_id: 15597, mal_id: 61151 },
