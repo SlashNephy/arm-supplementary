@@ -2572,7 +2572,7 @@ __metadata:
     prettier: "npm:3.5.3"
     ts-node: "npm:10.9.2"
     typescript: "npm:5.8.3"
-    zod: "npm:3.24.4"
+    zod: "npm:3.25.56"
   languageName: unknown
   linkType: soft
 
@@ -8161,9 +8161,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"zod@npm:3.24.4":
-  version: 3.24.4
-  resolution: "zod@npm:3.24.4"
-  checksum: 10/3d545792fa54bb27ee5dbc34a5709e81f603185fcc94c8204b5d95c20dc4c81d870ff9c51f3884a30ef05cdc601449f4c4df254ac4783f0827b1faed7c1cdb48
+"zod@npm:3.25.56":
+  version: 3.25.56
+  resolution: "zod@npm:3.25.56"
+  checksum: 10/f2faf9f9bf1e1e487697caf09f65f6c67282e55e801a697eebde99063ca313fae3706d2ebb886bf2f48173cdcff76b3fa14968eea43d3cd47a79f7a0c7594f6a
   languageName: node
   linkType: hard
