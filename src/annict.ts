@@ -46802,4 +46802,10 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] WEB: 日本アニメーション50周年記念ムービー
   // https://annict.com/works/16126
   { annict_id: 16126, mal_id: 61771 },
+  // [2023-SUMMER] MOVIE: 忘星のヴァリシア 第一章：劫火
+  // https://annict.com/works/16127
+  { annict_id: 16127, mal_id: 55640 },
+  // [2025-SPRING] MOVIE: 忘星のヴァリシア 第二章：群青
+  // https://annict.com/works/16128
+  { annict_id: 16128 },
 ]
