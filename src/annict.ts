@@ -46813,5 +46813,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 16129 },
   // [2027-null] MOVIE: ghost（仮題）
   // https://annict.com/works/16130
-  { annict_id: 16130 },
+  { annict_id: 16130, mal_id: 61813 },
 ]
