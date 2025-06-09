@@ -39509,7 +39509,7 @@ export const annict: ArmEntry[] = [
   // [1927-WINTER] MOVIE: Alice at the Rodeo（原題）
   // https://annict.com/works/13687
   { annict_id: 13687 },
-  // [2025-SUMMER] TV: 地獄先生ぬ～べ～ (2025)
+  // [2025-SUMMER] TV: 地獄先生ぬ〜べ〜 (2025)
   // https://annict.com/works/13688
   { annict_id: 13688, mal_id: 59342 },
   // [1927-WINTER] MOVIE: Alice the Collegiate（原題）
@@ -45173,7 +45173,7 @@ export const annict: ArmEntry[] = [
   // [1979-WINTER] TV: Happy Birthday, Charlie Brown（原題）
   // https://annict.com/works/15582
   { annict_id: 15582 },
-  // [2025-null] TV: さわらないで小手指くん
+  // [2025-AUTUMN] TV: さわらないで小手指くん
   // https://annict.com/works/15583
   { annict_id: 15583, mal_id: 61142 },
   // [2012-AUTUMN] TV: 絶叫学級
