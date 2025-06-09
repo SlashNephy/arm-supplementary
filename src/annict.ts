@@ -46808,4 +46808,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] MOVIE: 忘星のヴァリシア 第二章：群青
   // https://annict.com/works/16128
   { annict_id: 16128 },
+  // [null-null] MOVIE: ラブライブ！蓮ノ空女学院スクールアイドルクラブ 完全新作3Dアニメーション映画
+  // https://annict.com/works/16129
+  { annict_id: 16129 },
 ]
