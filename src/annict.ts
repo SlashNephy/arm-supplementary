@@ -46510,7 +46510,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16028 },
   // [2025-SPRING] TV: そろ谷のけいばっち シーズン2
   // https://annict.com/works/16029
-  { annict_id: 16029, syobocal_tid: 7458 },
+  { annict_id: 16029, mal_id: 61792, syobocal_tid: 7458 },
   // [2024-AUTUMN] WEB: テラライブ イェラグのPR依頼
   // https://annict.com/works/16030
   { annict_id: 16030 },
@@ -46810,7 +46810,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16128 },
   // [null-null] MOVIE: ラブライブ！蓮ノ空女学院スクールアイドルクラブ 完全新作3Dアニメーション映画
   // https://annict.com/works/16129
-  { annict_id: 16129 },
+  { annict_id: 16129, mal_id: 61806 },
   // [2027-null] MOVIE: ghost（仮題）
   // https://annict.com/works/16130
   { annict_id: 16130, mal_id: 61813 },
