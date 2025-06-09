@@ -46811,4 +46811,7 @@ export const annict: ArmEntry[] = [
   // [null-null] MOVIE: ラブライブ！蓮ノ空女学院スクールアイドルクラブ 完全新作3Dアニメーション映画
   // https://annict.com/works/16129
   { annict_id: 16129 },
+  // [2027-null] MOVIE: ghost（仮題）
+  // https://annict.com/works/16130
+  { annict_id: 16130 },
 ]
