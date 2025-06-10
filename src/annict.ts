@@ -46814,4 +46814,7 @@ export const annict: ArmEntry[] = [
   // [2027-null] MOVIE: ghost（仮題）
   // https://annict.com/works/16130
   { annict_id: 16130, mal_id: 61813 },
+  // [2025-SUMMER] TV: 闇芝居 十五期
+  // https://annict.com/works/16131
+  { annict_id: 16131, mal_id: 61793 },
 ]
