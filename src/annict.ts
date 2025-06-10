@@ -38980,7 +38980,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13510, mal_id: 57924, syobocal_tid: 7232 },
   // [2025-SUMMER] TV: ばっどがーる
   // https://annict.com/works/13511
-  { annict_id: 13511, mal_id: 59161 },
+  { annict_id: 13511, mal_id: 59161, syobocal_tid: 7499 },
   // [2025-SPRING] TV: WIND BREAKER Season 2
   // https://annict.com/works/13512
   { annict_id: 13512, mal_id: 59160, syobocal_tid: 7396 },
@@ -45008,7 +45008,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] WEB: MFゴースト 2nd Season BATTLE DIGEST
   // https://annict.com/works/15527
   { annict_id: 15527 },
-  // [2025-SUMMER] TV: ブスに花束を。
+  // [2025-SUMMER] TV: ブスに花束を。
   // https://annict.com/works/15528
   { annict_id: 15528, mal_id: 53512 },
   // [2010-WINTER] TV: 森のレシオ
