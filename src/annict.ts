@@ -45850,7 +45850,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15807 },
   // [2025-SUMMER] TV: 地縛少年花子くん2 後編
   // https://annict.com/works/15808
-  { annict_id: 15808, mal_id: 61339 },
+  { annict_id: 15808, mal_id: 61339, syobocal_tid: 7500 },
   // [2025-SPRING] TV: かぐや様は告らせたい 〜メモリーズセレクション〜
   // https://annict.com/works/15809
   { annict_id: 15809 },
@@ -46817,4 +46817,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] TV: 闇芝居 十五期
   // https://annict.com/works/16131
   { annict_id: 16131, mal_id: 61793 },
+  // [null-null] TV: 鬼の花嫁
+  // https://annict.com/works/16132
+  { annict_id: 16132, mal_id: 61814 },
 ]
