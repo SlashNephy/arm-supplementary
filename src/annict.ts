@@ -43450,7 +43450,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15006, mal_id: 60619 },
   // [2025-SPRING] TV: やたらやらしい深見くん
   // https://annict.com/works/15007
-  { annict_id: 15007, syobocal_tid: 7422 },
+  { annict_id: 15007, mal_id: 58888, syobocal_tid: 7422 },
   // [null-null] TV: ギルティホール～教え子しか指名できない店～
   // https://annict.com/works/15008
   { annict_id: 15008 },
@@ -45544,7 +45544,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15705, mal_id: 61238, syobocal_tid: 7445 },
   // [2025-SPRING] TV: おいでよ魔法少女村(不法占拠)
   // https://annict.com/works/15706
-  { annict_id: 15706, syobocal_tid: 7416 },
+  { annict_id: 15706, mal_id: 61206, syobocal_tid: 7416 },
   // [null-null] WEB: 終末のワルキューレⅢ
   // https://annict.com/works/15707
   { annict_id: 15707, mal_id: 61200 },
@@ -46820,4 +46820,22 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 鬼の花嫁
   // https://annict.com/works/16132
   { annict_id: 16132, mal_id: 61814 },
+  // [2006-AUTUMN] MOVIE: オープン・シーズン
+  // https://annict.com/works/16133
+  { annict_id: 16133 },
+  // [2009-WINTER] OVA: オープン・シーズン２ ペットＶＳ野生のどうぶつたち
+  // https://annict.com/works/16134
+  { annict_id: 16134 },
+  // [2011-WINTER] OVA: オープン・シーズン3 森の仲間とゆかいなサーカス
+  // https://annict.com/works/16135
+  { annict_id: 16135 },
+  // [2016-AUTUMN] OVA: オープン・シーズン4 おおかみ男とひみつの森
+  // https://annict.com/works/16136
+  { annict_id: 16136 },
+  // [2000-AUTUMN] MOVIE: Biohazard 4D-Executer
+  // https://annict.com/works/16137
+  { annict_id: 16137, mal_id: 5624 },
+  // [2009-SPRING] TV: みいつけた！ いすのまちのコッシー
+  // https://annict.com/works/16138
+  { annict_id: 16138 },
 ]
