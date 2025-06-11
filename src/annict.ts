@@ -46838,4 +46838,13 @@ export const annict: ArmEntry[] = [
   // [2009-SPRING] TV: みいつけた！ いすのまちのコッシー
   // https://annict.com/works/16138
   { annict_id: 16138 },
+  // [2002-null] TV: ポンユタウン
+  // https://annict.com/works/16139
+  { annict_id: 16139, mal_id: 7709 },
+  // [2015-SUMMER] TV: けいとのようせいニットとウール
+  // https://annict.com/works/16140
+  { annict_id: 16140, mal_id: 35695 },
+  // [2017-WINTER] TV: ユニコーンのキュピ
+  // https://annict.com/works/16141
+  { annict_id: 16141 },
 ]
