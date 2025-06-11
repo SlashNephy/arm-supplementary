@@ -46856,4 +46856,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] WEB: ワンダーエージェントやねん
   // https://annict.com/works/16144
   { annict_id: 16144, mal_id: 61772 },
+  // [null-null] MOVIE: チビ丸の北支従軍　北支事変
+  // https://annict.com/works/16145
+  { annict_id: 16145 },
 ]
