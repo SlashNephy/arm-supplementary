@@ -46847,4 +46847,7 @@ export const annict: ArmEntry[] = [
   // [2017-WINTER] TV: ユニコーンのキュピ
   // https://annict.com/works/16141
   { annict_id: 16141 },
+  // [2025-SPRING] WEB: プレデター：最凶頂上決戦
+  // https://annict.com/works/16142
+  { annict_id: 16142 },
 ]
