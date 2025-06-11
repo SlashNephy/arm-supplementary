@@ -46859,4 +46859,7 @@ export const annict: ArmEntry[] = [
   // [null-null] MOVIE: チビ丸の北支従軍　北支事変
   // https://annict.com/works/16145
   { annict_id: 16145 },
+  // [1928-null] MOVIE: 吃驚仰天真珠大王
+  // https://annict.com/works/16146
+  { annict_id: 16146 },
 ]
