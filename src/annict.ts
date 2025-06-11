@@ -46850,4 +46850,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] WEB: プレデター：最凶頂上決戦
   // https://annict.com/works/16142
   { annict_id: 16142 },
+  // [2026-WINTER] TV: 鎧真伝サムライトルーパー
+  // https://annict.com/works/16143
+  { annict_id: 16143 },
 ]
