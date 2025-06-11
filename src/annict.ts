@@ -46852,7 +46852,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16142 },
   // [2026-WINTER] TV: 鎧真伝サムライトルーパー
   // https://annict.com/works/16143
-  { annict_id: 16143 },
+  { annict_id: 16143, mal_id: 61830 },
   // [2025-SPRING] WEB: ワンダーエージェントやねん
   // https://annict.com/works/16144
   { annict_id: 16144, mal_id: 61772 },
