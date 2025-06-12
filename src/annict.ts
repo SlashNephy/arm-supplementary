@@ -31996,7 +31996,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11174, mal_id: 10509 },
   // [2025-SUMMER] TV: 自動販売機に生まれ変わった俺は迷宮を彷徨う 2nd season
   // https://annict.com/works/11175
-  { annict_id: 11175, mal_id: 56700 },
+  { annict_id: 11175, mal_id: 56700, syobocal_tid: 7501 },
   // [2025-SUMMER] TV: 渡くんの××が崩壊寸前
   // https://annict.com/works/11176
   { annict_id: 11176, mal_id: 56693 },
@@ -39052,7 +39052,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13535, mal_id: 59174 },
   // [2024-SUMMER] WEB: ケンガンアシュラ Season2 Part.2
   // https://annict.com/works/13536
-  { annict_id: 13536, mal_id: 56704 },
+  { annict_id: 13536, mal_id: 56704, syobocal_tid: 7505 },
   // [2026-null] TV: 魔法の姉妹ルルットリリィ
   // https://annict.com/works/13537
   { annict_id: 13537, mal_id: 59176 },
@@ -39613,7 +39613,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13722, mal_id: 59393 },
   // [2025-SUMMER] TV: カッコウの許嫁 Season2
   // https://annict.com/works/13723
-  { annict_id: 13723, mal_id: 59402 },
+  { annict_id: 13723, mal_id: 59402, syobocal_tid: 7503 },
   // [1986-SUMMER] OVA: ワンス・アポン・ア・マウス
   // https://annict.com/works/13724
   { annict_id: 13724 },
@@ -42607,7 +42607,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14726, mal_id: 60315, syobocal_tid: 7473 },
   // [2025-SUMMER] TV: ブサメンガチファイター
   // https://annict.com/works/14727
-  { annict_id: 14727, mal_id: 60316 },
+  { annict_id: 14727, mal_id: 60316, syobocal_tid: 7504 },
   // [2022-AUTUMN] WEB: 魔法にかけられて2
   // https://annict.com/works/14728
   { annict_id: 14728 },
@@ -42625,7 +42625,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14732 },
   // [2025-SUMMER] TV: わたしが恋人になれるわけないじゃん、ムリムリ!（※ムリじゃなかった!?）
   // https://annict.com/works/14733
-  { annict_id: 14733, mal_id: 60326 },
+  { annict_id: 14733, mal_id: 60326, syobocal_tid: 7502 },
   // [1981-null] MOVIE: 限りなき楽園
   // https://annict.com/works/14734
   { annict_id: 14734, mal_id: 23569 },
