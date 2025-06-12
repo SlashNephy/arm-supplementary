@@ -46898,4 +46898,7 @@ export const annict: ArmEntry[] = [
   // [2016-AUTUMN] TV: シャーミィとかげぼうや
   // https://annict.com/works/16159
   { annict_id: 16159, mal_id: 35701 },
+  // [null-null] TV: 愛してるゲームを終わらせたい
+  // https://annict.com/works/16160
+  { annict_id: 16160, mal_id: 61839 },
 ]
