@@ -46865,4 +46865,7 @@ export const annict: ArmEntry[] = [
   // [2017-SUMMER] MOVIE: ふわふわアワー PuiPui&MuuMuu
   // https://annict.com/works/16147
   { annict_id: 16147 },
+  // [2018-WINTER] TV: ワーキングボーシーズ
+  // https://annict.com/works/16148
+  { annict_id: 16148 },
 ]
