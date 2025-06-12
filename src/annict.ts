@@ -46877,4 +46877,10 @@ export const annict: ArmEntry[] = [
   // [1994-SPRING] TV: パディントン・ベア
   // https://annict.com/works/16152
   { annict_id: 16152 },
+  // [1993-null] OVA: 宇宙防衛隊たあ坊のしんきろう星を救え！
+  // https://annict.com/works/16153
+  { annict_id: 16153, mal_id: 35041 },
+  // [1994-null] OVA: 宇宙防衛隊たあ坊の時の止まった星
+  // https://annict.com/works/16154
+  { annict_id: 16154, mal_id: 35042 },
 ]
