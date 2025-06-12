@@ -46835,7 +46835,7 @@ export const annict: ArmEntry[] = [
   // [2009-SPRING] TV: みいつけた！ いすのまちのコッシー
   // https://annict.com/works/16138
   { annict_id: 16138 },
-  // [2002-null] TV: ポンユタウン
+  // [2002-AUTUMN] TV: ポンユタウン
   // https://annict.com/works/16139
   { annict_id: 16139, mal_id: 7709 },
   // [2015-SUMMER] TV: けいとのようせいニットとウール
@@ -46883,4 +46883,19 @@ export const annict: ArmEntry[] = [
   // [1994-null] OVA: 宇宙防衛隊たあ坊の時の止まった星
   // https://annict.com/works/16154
   { annict_id: 16154, mal_id: 35042 },
+  // [2011-AUTUMN] TV: エんエんニコリ
+  // https://annict.com/works/16155
+  { annict_id: 16155, mal_id: 29423 },
+  // [2011-WINTER] TV: おんがく世界りょこう
+  // https://annict.com/works/16156
+  { annict_id: 16156 },
+  // [2009-AUTUMN] TV: ケンとかいじゅう
+  // https://annict.com/works/16157
+  { annict_id: 16157 },
+  // [2015-WINTER] TV: こにぎりくん
+  // https://annict.com/works/16158
+  { annict_id: 16158 },
+  // [2016-AUTUMN] TV: シャーミィとかげぼうや
+  // https://annict.com/works/16159
+  { annict_id: 16159, mal_id: 35701 },
 ]
