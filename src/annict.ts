@@ -46862,4 +46862,7 @@ export const annict: ArmEntry[] = [
   // [1928-null] MOVIE: 吃驚仰天真珠大王
   // https://annict.com/works/16146
   { annict_id: 16146 },
+  // [2017-SUMMER] MOVIE: ふわふわアワー PuiPui&MuuMuu
+  // https://annict.com/works/16147
+  { annict_id: 16147 },
 ]
