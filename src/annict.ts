@@ -29411,7 +29411,7 @@ export const annict: ArmEntry[] = [
   // [1994-WINTER] OVA: ハローキティのパパなんて大きらい
   // https://annict.com/works/10308
   { annict_id: 10308, mal_id: 17957 },
-  // [1992-SPRING] OVA: ハローキティのふしぎなみずうみ
+  // [1991-null] OVA: ハローキティのふしぎなみずうみ
   // https://annict.com/works/10309
   { annict_id: 10309, mal_id: 22457 },
   // [1992-SUMMER] OVA: ハローキティのまほうのリンゴ
@@ -29432,7 +29432,7 @@ export const annict: ArmEntry[] = [
   // [1992-SUMMER] OVA: ハローキティのロンドンにおりた宇宙人
   // https://annict.com/works/10315
   { annict_id: 10315, mal_id: 17953 },
-  // [1989-SUMMER] OVA: キティとミミィのハッピーバースデー
+  // [1992-null] OVA: キティとミミィのハッピーバースデー
   // https://annict.com/works/10316
   { annict_id: 10316, mal_id: 22499 },
   // [1993-SPRING] OVA: キキとララのお姫さまになりたい
@@ -29621,7 +29621,7 @@ export const annict: ArmEntry[] = [
   // [1993-AUTUMN] OVA: サンタさんへのおくりもの
   // https://annict.com/works/10379
   { annict_id: 10379, mal_id: 18823 },
-  // [1989-null] OVA: おかぜをひいたサンタさん
+  // [1998-null] OVA: おかぜをひいたサンタさん
   // https://annict.com/works/10380
   { annict_id: 10380, mal_id: 29537 },
   // [1992-AUTUMN] OVA: キティとダニエルのすてきなクリスマス
@@ -30719,7 +30719,7 @@ export const annict: ArmEntry[] = [
   // [1989-null] OVA: ハンギョドンの００７／２　ドクターサンデーあらわる
   // https://annict.com/works/10748
   { annict_id: 10748, mal_id: 29271 },
-  // [1989-null] OVA: サムとチップのハチャメチャ大レース
+  // [1990-null] OVA: サムとチップのハチャメチャ大レース
   // https://annict.com/works/10749
   { annict_id: 10749, mal_id: 35033 },
   // [1994-WINTER] OVA: パティ&ジミーの君こそスーパースター!
@@ -30740,13 +30740,13 @@ export const annict: ArmEntry[] = [
   // [1989-null] OVA: ウメ屋雑貨店　ぼくたちのひみつ
   // https://annict.com/works/10755
   { annict_id: 10755 },
-  // [1993-WINTER] OVA: ぽこぽんの里帰り
+  // [1989-null] OVA: ぽこぽんの里帰り
   // https://annict.com/works/10756
   { annict_id: 10756, mal_id: 35037 },
   // [1979-SPRING] OVA: 短編ユニコ　黒い雲と白い羽
   // https://annict.com/works/10757
   { annict_id: 10757, mal_id: 2428 },
-  // [1989-null] OVA: たあ坊のガンバル宣言
+  // [1993-null] OVA: たあ坊のガンバル宣言
   // https://annict.com/works/10758
   { annict_id: 10758, mal_id: 30284 },
   // [1992-SUMMER] OVA: ハンギョドンのパラレル大作戦　－恐竜王国は大さわぎ－
@@ -30755,7 +30755,7 @@ export const annict: ArmEntry[] = [
   // [1992-AUTUMN] OVA: ハンギョドンのパラレル大作戦　－未来世界は大さわぎ－
   // https://annict.com/works/10760
   { annict_id: 10760, mal_id: 29269 },
-  // [1993-SPRING] OVA: ぽこぽんのキツネ川温泉へんしん合戦
+  // [1991-null] OVA: ぽこぽんのキツネ川温泉へんしん合戦
   // https://annict.com/works/10761
   { annict_id: 10761, mal_id: 35034 },
   // [1993-SPRING] OVA: エディ＆エミィのイニシャルリングは2人で
