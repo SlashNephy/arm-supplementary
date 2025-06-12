@@ -31999,7 +31999,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11175, mal_id: 56700, syobocal_tid: 7501 },
   // [2025-SUMMER] TV: 渡くんの××が崩壊寸前
   // https://annict.com/works/11176
-  { annict_id: 11176, mal_id: 56693 },
+  { annict_id: 11176, mal_id: 56693, syobocal_tid: 7506 },
   // [2023-SUMMER] WEB: 大怪獣ガメニャ襲来
   // https://annict.com/works/11177
   { annict_id: 11177, mal_id: 56562 },
@@ -46901,4 +46901,16 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 愛してるゲームを終わらせたい
   // https://annict.com/works/16160
   { annict_id: 16160, mal_id: 61839 },
+  // [2025-SUMMER] TV: 傷心タイムリープ
+  // https://annict.com/works/16161
+  { annict_id: 16161 },
+  // [2025-SUMMER] TV: ファムファタル育成計画
+  // https://annict.com/works/16162
+  { annict_id: 16162 },
+  // [2025-SUMMER] TV: Jack the Reaper
+  // https://annict.com/works/16163
+  { annict_id: 16163 },
+  // [2025-SUMMER] TV: マリー・アントワネットに転生したので全力でギロチンを回避します
+  // https://annict.com/works/16164
+  { annict_id: 16164 },
 ]
