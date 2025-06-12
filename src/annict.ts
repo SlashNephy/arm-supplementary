@@ -29615,10 +29615,10 @@ export const annict: ArmEntry[] = [
   // [1998-AUTUMN] OVA: みんなの楽しい夏休み
   // https://annict.com/works/10377
   { annict_id: 10377, mal_id: 29539 },
-  // [1993-AUTUMN] OVA: サンタさんが二人いた
+  // [1998-null] OVA: サンタさんが二人いた
   // https://annict.com/works/10378
   { annict_id: 10378, mal_id: 29541 },
-  // [1993-AUTUMN] OVA: サンタさんへのおくりもの
+  // [1992-null] OVA: サンタさんへのおくりもの
   // https://annict.com/works/10379
   { annict_id: 10379, mal_id: 18823 },
   // [1998-null] OVA: おかぜをひいたサンタさん
