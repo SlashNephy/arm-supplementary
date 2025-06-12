@@ -8180,9 +8180,6 @@ export const annict: ArmEntry[] = [
   // [2011-WINTER] OVA: 最遊記外伝
   // https://annict.com/works/2733
   { annict_id: 2733, mal_id: 9088 },
-  // [1990-SPRING] OVA: 電脳都市OEDO808
-  // https://annict.com/works/2734
-  { annict_id: 2734 },
   // [2010-AUTUMN] OVA: G-taste
   // https://annict.com/works/2735
   { annict_id: 2735, mal_id: 2530 },
@@ -46868,4 +46865,16 @@ export const annict: ArmEntry[] = [
   // [2018-WINTER] TV: ワーキングボーシーズ
   // https://annict.com/works/16148
   { annict_id: 16148 },
+  // [2021-WINTER] TV: プップとパッパ
+  // https://annict.com/works/16149
+  { annict_id: 16149 },
+  // [2004-SPRING] TV: ちぃちゃんとヒゲおじさん
+  // https://annict.com/works/16150
+  { annict_id: 16150 },
+  // [1993-SPRING] OVA: ハローキティの幸せの青いホタル
+  // https://annict.com/works/16151
+  { annict_id: 16151, mal_id: 18829 },
+  // [1994-SPRING] TV: パディントン・ベア
+  // https://annict.com/works/16152
+  { annict_id: 16152 },
 ]
