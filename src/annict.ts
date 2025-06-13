@@ -46903,16 +46903,16 @@ export const annict: ArmEntry[] = [
   { annict_id: 16160, mal_id: 61839 },
   // [2025-SUMMER] TV: 傷心タイムリープ
   // https://annict.com/works/16161
-  { annict_id: 16161 },
+  { annict_id: 16161, mal_id: 61846 },
   // [2025-SUMMER] TV: ファムファタル育成計画
   // https://annict.com/works/16162
-  { annict_id: 16162 },
+  { annict_id: 16162, mal_id: 61846 },
   // [2025-SUMMER] TV: Jack the Reaper
   // https://annict.com/works/16163
-  { annict_id: 16163 },
+  { annict_id: 16163, mal_id: 61846 },
   // [2025-SUMMER] TV: マリー・アントワネットに転生したので全力でギロチンを回避します
   // https://annict.com/works/16164
-  { annict_id: 16164 },
+  { annict_id: 16164, mal_id: 61846 },
   // [2016-WINTER] TV: ころがし屋のプン
   // https://annict.com/works/16165
   { annict_id: 16165 },
