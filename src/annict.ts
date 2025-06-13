@@ -46934,4 +46934,19 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] OVA: ゴールデンカムイ 新作OVA
   // https://annict.com/works/16171
   { annict_id: 16171 },
+  // [2015-SUMMER] TV: れいぞうこのくにのココモン シーズン1
+  // https://annict.com/works/16172
+  { annict_id: 16172, mal_id: 37941 },
+  // [2015-AUTUMN] TV: れいぞうこのくにのココモン シーズン2
+  // https://annict.com/works/16173
+  { annict_id: 16173, mal_id: 37943 },
+  // [2017-SPRING] TV: れいぞうこのくにのココモン シーズン3
+  // https://annict.com/works/16174
+  { annict_id: 16174, mal_id: 37945 },
+  // [2018-SPRING] TV: ハローココモン　シーズン１
+  // https://annict.com/works/16175
+  { annict_id: 16175, mal_id: 37942 },
+  // [2018-SPRING] TV: ハローココモン　シーズン２
+  // https://annict.com/works/16176
+  { annict_id: 16176, mal_id: 37944 },
 ]
