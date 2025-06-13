@@ -43126,7 +43126,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14899, mal_id: 61326 },
   // [2025-SUMMER] TV: フードコートで、また明日。
   // https://annict.com/works/14900
-  { annict_id: 14900, mal_id: 60508 },
+  { annict_id: 14900, mal_id: 60508, syobocal_tid: 7508 },
   // [2026-WINTER] TV: シャンピニオンの魔女
   // https://annict.com/works/14901
   { annict_id: 14901, mal_id: 60509 },
