@@ -46925,4 +46925,10 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 異世界かるてっと3
   // https://annict.com/works/16168
   { annict_id: 16168, mal_id: 61851 },
+  // [2023-SUMMER] TV: FLCL:GRUNGE
+  // https://annict.com/works/16169
+  { annict_id: 16169 },
+  // [2023-AUTUMN] TV: FLCL:Shoegaze
+  // https://annict.com/works/16170
+  { annict_id: 16170 },
 ]
