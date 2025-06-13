@@ -46922,7 +46922,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] WEB: 深夜ラーメンの誘惑
   // https://annict.com/works/16167
   { annict_id: 16167 },
-  // [null-null] OTHER: 異世界かるてっと3
+  // [null-null] TV: 異世界かるてっと3
   // https://annict.com/works/16168
   { annict_id: 16168, mal_id: 61851 },
   // [2023-SUMMER] TV: FLCL:GRUNGE
@@ -46931,4 +46931,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] TV: FLCL:Shoegaze
   // https://annict.com/works/16170
   { annict_id: 16170 },
+  // [2025-AUTUMN] OVA: ゴールデンカムイ 新作OVA
+  // https://annict.com/works/16171
+  { annict_id: 16171 },
 ]
