@@ -46913,4 +46913,13 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] TV: マリー・アントワネットに転生したので全力でギロチンを回避します
   // https://annict.com/works/16164
   { annict_id: 16164 },
+  // [2016-WINTER] TV: ころがし屋のプン
+  // https://annict.com/works/16165
+  { annict_id: 16165 },
+  // [2025-SPRING] WEB: 【原神】ショートアニメ「Star Odyssey」
+  // https://annict.com/works/16166
+  { annict_id: 16166, mal_id: 61840 },
+  // [2025-SPRING] WEB: 深夜ラーメンの誘惑
+  // https://annict.com/works/16167
+  { annict_id: 16167 },
 ]
