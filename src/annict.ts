@@ -28793,7 +28793,7 @@ export const annict: ArmEntry[] = [
   // [2012-AUTUMN] WEB: インフェルノコップ
   // https://annict.com/works/10103
   { annict_id: 10103, mal_id: 16774 },
-  // [2006-SUMMER] MOVIE: モンスター・ハウス
+  // [2007-WINTER] MOVIE: モンスター・ハウス
   // https://annict.com/works/10104
   { annict_id: 10104 },
   // [2023-SUMMER] TV: はたらく魔王さま！！2nd Season
@@ -43645,7 +43645,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15072, mal_id: 60735 },
   // [2025-SUMMER] TV: 水属性の魔法使い
   // https://annict.com/works/15073
-  { annict_id: 15073, mal_id: 60732 },
+  { annict_id: 15073, mal_id: 60732, syobocal_tid: 7511 },
   // [2025-WINTER] WEB: もめんたりー・リリィ 第14話「続いていく割烹、割烹！」
   // https://annict.com/works/15074
   { annict_id: 15074, mal_id: 61334 },
@@ -46976,4 +46976,10 @@ export const annict: ArmEntry[] = [
   // [2005-SUMMER] TV: ももんがぁモン
   // https://annict.com/works/16185
   { annict_id: 16185 },
+  // [2004-AUTUMN] MOVIE: ポーラー・エクスプレス
+  // https://annict.com/works/16186
+  { annict_id: 16186 },
+  // [2007-AUTUMN] MOVIE: ベオウルフ/呪われし勇者
+  // https://annict.com/works/16187
+  { annict_id: 16187 },
 ]
