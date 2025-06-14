@@ -46961,4 +46961,19 @@ export const annict: ArmEntry[] = [
   // [2013-SUMMER] MOVIE: スマーフ2 アイドル救出大作戦!
   // https://annict.com/works/16180
   { annict_id: 16180 },
+  // [2007-null] TV: しりとり王国
+  // https://annict.com/works/16181
+  { annict_id: 16181, mal_id: 29401 },
+  // [2011-WINTER] TV: ティーチ
+  // https://annict.com/works/16182
+  { annict_id: 16182, mal_id: 29425 },
+  // [1998-AUTUMN] TV: ハムスターサム
+  // https://annict.com/works/16183
+  { annict_id: 16183 },
+  // [2015-WINTER] TV: ビーズの森のらびぃ
+  // https://annict.com/works/16184
+  { annict_id: 16184 },
+  // [2005-SUMMER] TV: ももんがぁモン
+  // https://annict.com/works/16185
+  { annict_id: 16185 },
 ]
