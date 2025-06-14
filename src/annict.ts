@@ -46949,4 +46949,10 @@ export const annict: ArmEntry[] = [
   // [2018-SPRING] TV: ハローココモン　シーズン２
   // https://annict.com/works/16176
   { annict_id: 16176, mal_id: 37944 },
+  // [2007-AUTUMN] MOVIE: サーフズ・アップ
+  // https://annict.com/works/16177
+  { annict_id: 16177 },
+  // [2017-SUMMER] OVA: サーフズ・アップ2
+  // https://annict.com/works/16178
+  { annict_id: 16178 },
 ]
