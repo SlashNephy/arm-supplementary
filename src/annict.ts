@@ -46955,4 +46955,10 @@ export const annict: ArmEntry[] = [
   // [2017-SUMMER] OVA: サーフズ・アップ2
   // https://annict.com/works/16178
   { annict_id: 16178 },
+  // [2011-SUMMER] MOVIE: スマーフ(映画)
+  // https://annict.com/works/16179
+  { annict_id: 16179 },
+  // [2013-SUMMER] MOVIE: スマーフ2 アイドル救出大作戦!
+  // https://annict.com/works/16180
+  { annict_id: 16180 },
 ]
