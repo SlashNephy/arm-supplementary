@@ -45694,7 +45694,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15756 },
   // [2025-SUMMER] TV: ぷにるんず ぷに3
   // https://annict.com/works/15757
-  { annict_id: 15757, mal_id: 61290 },
+  { annict_id: 15757, mal_id: 61290, syobocal_tid: 7510 },
   // [null-null] TV: るろうに剣心 -明治剣客浪漫譚- 第3期
   // https://annict.com/works/15758
   { annict_id: 15758, mal_id: 61292 },
@@ -46531,7 +46531,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16036 },
   // [2025-SUMMER] TV: 転生宗主の覇道譚 ～すべてを呑み込むサカナと這い上がる～
   // https://annict.com/works/16037
-  { annict_id: 16037, mal_id: 60572 },
+  { annict_id: 16037, mal_id: 60572, syobocal_tid: 7509 },
   // [2015-SUMMER] MOVIE: 雪の女王　新たなる旅立ち
   // https://annict.com/works/16038
   { annict_id: 16038 },
