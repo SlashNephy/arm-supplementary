@@ -46982,4 +46982,10 @@ export const annict: ArmEntry[] = [
   // [2007-AUTUMN] MOVIE: ベオウルフ/呪われし勇者
   // https://annict.com/works/16187
   { annict_id: 16187 },
+  // [2018-AUTUMN] OVA: ザ・スター はじめてのクリスマス
+  // https://annict.com/works/16189
+  { annict_id: 16189 },
+  // [2017-SUMMER] TV: モンスター・ホテル ザ・シリーズ
+  // https://annict.com/works/16190
+  { annict_id: 16190 },
 ]
