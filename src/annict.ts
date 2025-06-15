@@ -43624,7 +43624,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15065, mal_id: 61049 },
   // [2025-SUMMER] WEB: My Melody ＆ Kuromi
   // https://annict.com/works/15066
-  { annict_id: 15066 },
+  { annict_id: 15066, mal_id: 60726 },
   // [2014-SPRING] TV: ぐでたま
   // https://annict.com/works/15067
   { annict_id: 15067, mal_id: 23539 },
@@ -46988,4 +46988,7 @@ export const annict: ArmEntry[] = [
   // [2017-SUMMER] TV: モンスター・ホテル ザ・シリーズ
   // https://annict.com/works/16190
   { annict_id: 16190 },
+  // [2025-SPRING] WEB: メロクロな関係
+  // https://annict.com/works/16191
+  { annict_id: 16191 },
 ]
