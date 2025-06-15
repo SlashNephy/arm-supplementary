@@ -43451,9 +43451,9 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: ギルティホール～教え子しか指名できない店～
   // https://annict.com/works/15008
   { annict_id: 15008 },
-  // [null-null] TV: デキちゃうまで婚
+  // [2025-SUMMER] TV: デキちゃうまで婚
   // https://annict.com/works/15009
-  { annict_id: 15009 },
+  { annict_id: 15009, mal_id: 61742 },
   // [2019-SUMMER] OVA: トムとジェリー 夢のチョコレート工場
   // https://annict.com/works/15010
   { annict_id: 15010 },
