@@ -31429,7 +31429,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10985, mal_id: 55830 },
   // [2025-SUMMER] TV: New PANTY & STOCKING with GARTERBELT
   // https://annict.com/works/10986
-  { annict_id: 10986, mal_id: 52293 },
+  { annict_id: 10986, mal_id: 52293, syobocal_tid: 7517 },
   // [2024-AUTUMN] TV: 村井の恋
   // https://annict.com/works/10987
   { annict_id: 10987, mal_id: 52080, syobocal_tid: 7190 },
