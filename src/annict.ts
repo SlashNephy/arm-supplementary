@@ -35842,7 +35842,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12461, mal_id: 57888 },
   // [2025-SUMMER] TV: 盾の勇者の成り上がり Season4
   // https://annict.com/works/12462
-  { annict_id: 12462, mal_id: 57907 },
+  { annict_id: 12462, mal_id: 57907, syobocal_tid: 7512 },
   // [2024-AUTUMN] MOVIE: PUI PUI モルカー ザ・ムービー MOLMAX
   // https://annict.com/works/12463
   { annict_id: 12463, mal_id: 57910 },
@@ -37588,7 +37588,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13046, mal_id: 58919 },
   // [2025-SUMMER] TV: 光が死んだ夏
   // https://annict.com/works/13047
-  { annict_id: 13047, mal_id: 58913 },
+  { annict_id: 13047, mal_id: 58913, syobocal_tid: 7513 },
   // [2025-AUTUMN] MOVIE: ホウセンカ
   // https://annict.com/works/13048
   { annict_id: 13048, mal_id: 58915 },
@@ -37714,7 +37714,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13088 },
   // [2025-SUMMER] TV: 9-nine- Ruler's Crown
   // https://annict.com/works/13089
-  { annict_id: 13089, mal_id: 58957 },
+  { annict_id: 13089, mal_id: 58957, syobocal_tid: 7515 },
   // [2024-WINTER] WEB: シャム猫あずきさんは世界の中心
   // https://annict.com/works/13090
   { annict_id: 13090 },
@@ -38728,7 +38728,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13427 },
   // [2025-SUMMER] TV: 異世界黙示録マイノグーラ ～破滅の文明で始める世界征服～
   // https://annict.com/works/13428
-  { annict_id: 13428, mal_id: 59130 },
+  { annict_id: 13428, mal_id: 59130, syobocal_tid: 7514 },
   // [2024-SUMMER] TV: NINJA KAMUI
   // https://annict.com/works/13429
   { annict_id: 13429, mal_id: 56285, syobocal_tid: 7150 },
@@ -42241,7 +42241,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14604, mal_id: 10407 },
   // [2025-SUMMER] TV: ホテル・インヒューマンズ
   // https://annict.com/works/14605
-  { annict_id: 14605, mal_id: 60260 },
+  { annict_id: 14605, mal_id: 60260, syobocal_tid: 7516 },
   // [1989-AUTUMN] OVA: のりピーちゃん
   // https://annict.com/works/14606
   { annict_id: 14606, mal_id: 33174 },
