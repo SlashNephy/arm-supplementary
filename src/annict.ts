@@ -46991,4 +46991,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] WEB: メロクロな関係
   // https://annict.com/works/16191
   { annict_id: 16191 },
+  // [2010-WINTER] TV: ジャングル・ジャンクション
+  // https://annict.com/works/16192
+  { annict_id: 16192 },
 ]
