@@ -30596,7 +30596,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] MOVIE: スパイダーマン：アクロス・ザ・スパイダーバース
   // https://annict.com/works/10708
   { annict_id: 10708 },
-  // [null-null] MOVIE: スパイダーマン：ビヨンド・ザ・スパイダーバース（原題）
+  // [2027-null] MOVIE: スパイダーマン：ビヨンド・ザ・スパイダーバース
   // https://annict.com/works/10709
   { annict_id: 10709 },
   // [2023-SPRING] MOVIE: それいけ！アンパンマン ロボリィとぽかぽかプレゼント
