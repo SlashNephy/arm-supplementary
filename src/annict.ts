@@ -47003,4 +47003,13 @@ export const annict: ArmEntry[] = [
   // [2020-SPRING] TV: ロケッティア
   // https://annict.com/works/16195
   { annict_id: 16195 },
+  // [2021-AUTUMN] TV: ぽぽりす&フレンズ
+  // https://annict.com/works/16196
+  { annict_id: 16196, mal_id: 53830 },
+  // [1979-SPRING] TV: アエイオウ
+  // https://annict.com/works/16197
+  { annict_id: 16197 },
+  // [1995-SPRING] TV: とこちゃんちょっきん
+  // https://annict.com/works/16198
+  { annict_id: 16198, mal_id: 29473 },
 ]
