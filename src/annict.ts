@@ -47027,4 +47027,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] TV: やらなきゃ! ヘイリー
   // https://annict.com/works/16203
   { annict_id: 16203 },
+  // [2025-SUMMER] TV: ネコのクラちゃん ～Ordinary days～
+  // https://annict.com/works/16204
+  { annict_id: 16204 },
 ]
