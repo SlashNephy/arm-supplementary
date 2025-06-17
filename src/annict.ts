@@ -46933,7 +46933,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16170 },
   // [2025-AUTUMN] OVA: ゴールデンカムイ 新作OVA
   // https://annict.com/works/16171
-  { annict_id: 16171 },
+  { annict_id: 16171, mal_id: 61834 },
   // [2015-SUMMER] TV: れいぞうこのくにのココモン シーズン1
   // https://annict.com/works/16172
   { annict_id: 16172, mal_id: 37941 },
@@ -47012,4 +47012,16 @@ export const annict: ArmEntry[] = [
   // [1995-SPRING] TV: とこちゃんちょっきん
   // https://annict.com/works/16198
   { annict_id: 16198, mal_id: 29473 },
+  // [2009-WINTER] TV: ストローザウルス ネオ
+  // https://annict.com/works/16199
+  { annict_id: 16199, mal_id: 29475 },
+  // [2010-WINTER] TV: ストローびゅるる
+  // https://annict.com/works/16200
+  { annict_id: 16200, mal_id: 29429 },
+  // [2020-AUTUMN] TV: おうこくのめいたんてい ミラ
+  // https://annict.com/works/16201
+  { annict_id: 16201 },
+  // [2021-AUTUMN] TV: かいけつ!チーム・チキン
+  // https://annict.com/works/16202
+  { annict_id: 16202 },
 ]
