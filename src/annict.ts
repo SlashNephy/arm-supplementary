@@ -46994,4 +46994,13 @@ export const annict: ArmEntry[] = [
   // [2010-WINTER] TV: ジャングル・ジャンクション
   // https://annict.com/works/16192
   { annict_id: 16192 },
+  // [2017-SUMMER] TV: 爆笑!シアター・パコーン
+  // https://annict.com/works/16193
+  { annict_id: 16193 },
+  // [2017-SUMMER] TV: ビリー・ディリーのスーパードゥーパー・地底セカイ・サマー
+  // https://annict.com/works/16194
+  { annict_id: 16194 },
+  // [2020-SPRING] TV: ロケッティア
+  // https://annict.com/works/16195
+  { annict_id: 16195 },
 ]
