@@ -47024,4 +47024,7 @@ export const annict: ArmEntry[] = [
   // [2021-AUTUMN] TV: かいけつ!チーム・チキン
   // https://annict.com/works/16202
   { annict_id: 16202 },
+  // [2024-WINTER] TV: やらなきゃ! ヘイリー
+  // https://annict.com/works/16203
+  { annict_id: 16203 },
 ]
