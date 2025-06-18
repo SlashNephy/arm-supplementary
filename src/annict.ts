@@ -47033,4 +47033,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] TV: ネコこのゴロ～天下統一編～
   // https://annict.com/works/16205
   { annict_id: 16205 },
+  // [2026-WINTER] TV: 地獄先生ぬ〜べ〜 第2クール
+  // https://annict.com/works/16206
+  { annict_id: 16206, mal_id: 61608 },
 ]
