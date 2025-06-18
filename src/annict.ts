@@ -47036,4 +47036,7 @@ export const annict: ArmEntry[] = [
   // [2026-WINTER] TV: 地獄先生ぬ〜べ〜 第2クール
   // https://annict.com/works/16206
   { annict_id: 16206, mal_id: 61608 },
+  // [2026-null] TV: 最強の王様、二度目の人生は何をする？ SEASON2
+  // https://annict.com/works/16207
+  { annict_id: 16207, mal_id: 61831 },
 ]
