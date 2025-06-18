@@ -47030,4 +47030,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] TV: ネコのクラちゃん ～Ordinary days～
   // https://annict.com/works/16204
   { annict_id: 16204 },
+  // [2025-SUMMER] TV: ネコこのゴロ～天下統一編～
+  // https://annict.com/works/16205
+  { annict_id: 16205 },
 ]
