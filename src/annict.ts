@@ -47075,4 +47075,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: あなのなか
   // https://annict.com/works/16219
   { annict_id: 16219, mal_id: 60030 },
+  // [null-null] OTHER: 入学傭兵
+  // https://annict.com/works/16220
+  { annict_id: 16220, mal_id: 61872 },
 ]
