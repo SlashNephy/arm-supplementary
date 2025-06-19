@@ -47084,4 +47084,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] WEB: 映栄杉さん家はお侍
   // https://annict.com/works/16222
   { annict_id: 16222 },
+  // [2025-AUTUMN] TV: 湖池屋SDGs劇場 サスとテナ シーズン6
+  // https://annict.com/works/16223
+  { annict_id: 16223 },
 ]
