@@ -47078,4 +47078,10 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 入学傭兵
   // https://annict.com/works/16220
   { annict_id: 16220, mal_id: 61872 },
+  // [2025-SPRING] WEB: 猫猫のひとりごと 特別編
+  // https://annict.com/works/16221
+  { annict_id: 16221 },
+  // [2025-SPRING] WEB: 映栄杉さん家はお侍
+  // https://annict.com/works/16222
+  { annict_id: 16222 },
 ]
