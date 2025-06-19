@@ -47048,4 +47048,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] MOVIE: The Summer／あの夏
   // https://annict.com/works/16210
   { annict_id: 16210, mal_id: 56601 },
+  // [2007-SPRING] TV: 白い本
+  // https://annict.com/works/16211
+  { annict_id: 16211, mal_id: 29389 },
 ]
