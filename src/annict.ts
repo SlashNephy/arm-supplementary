@@ -47045,4 +47045,7 @@ export const annict: ArmEntry[] = [
   // [2014-WINTER] TV: キリン・ザ・ヌープ
   // https://annict.com/works/16209
   { annict_id: 16209, mal_id: 35694 },
+  // [2025-SUMMER] MOVIE: The Summer／あの夏
+  // https://annict.com/works/16210
+  { annict_id: 16210, mal_id: 56601 },
 ]
