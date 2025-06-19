@@ -47039,4 +47039,10 @@ export const annict: ArmEntry[] = [
   // [2026-null] TV: 最強の王様、二度目の人生は何をする？ SEASON2
   // https://annict.com/works/16207
   { annict_id: 16207, mal_id: 61831 },
+  // [2007-SPRING] TV: 王さまものがたり
+  // https://annict.com/works/16208
+  { annict_id: 16208, mal_id: 29399 },
+  // [2014-WINTER] TV: キリン・ザ・ヌープ
+  // https://annict.com/works/16209
+  { annict_id: 16209, mal_id: 35694 },
 ]
