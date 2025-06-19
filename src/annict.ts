@@ -47072,4 +47072,7 @@ export const annict: ArmEntry[] = [
   // [2011-SPRING] TV: つながるアニマル
   // https://annict.com/works/16218
   { annict_id: 16218, mal_id: 29479 },
+  // [2024-AUTUMN] TV: あなのなか
+  // https://annict.com/works/16219
+  { annict_id: 16219, mal_id: 60030 },
 ]
