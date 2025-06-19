@@ -47051,4 +47051,10 @@ export const annict: ArmEntry[] = [
   // [2007-SPRING] TV: 白い本
   // https://annict.com/works/16211
   { annict_id: 16211, mal_id: 29389 },
+  // [2014-SUMMER] TV: モノだらけ!
+  // https://annict.com/works/16212
+  { annict_id: 16212, mal_id: 35699 },
+  // [2011-WINTER] TV: リヴ&ベル
+  // https://annict.com/works/16213
+  { annict_id: 16213 },
 ]
