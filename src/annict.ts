@@ -47057,4 +47057,19 @@ export const annict: ArmEntry[] = [
   // [2011-WINTER] TV: リヴ&ベル
   // https://annict.com/works/16213
   { annict_id: 16213 },
+  // [2020-SUMMER] TV: リコラ
+  // https://annict.com/works/16214
+  { annict_id: 16214, mal_id: 52066 },
+  // [2022-WINTER] TV: 空き缶のツナ
+  // https://annict.com/works/16215
+  { annict_id: 16215, mal_id: 52076 },
+  // [2024-WINTER] TV: もじゃとまじょ
+  // https://annict.com/works/16216
+  { annict_id: 16216, mal_id: 58646 },
+  // [2005-SUMMER] TV: スキマの国のポルタ
+  // https://annict.com/works/16217
+  { annict_id: 16217, mal_id: 4553 },
+  // [2011-SPRING] TV: つながるアニマル
+  // https://annict.com/works/16218
+  { annict_id: 16218, mal_id: 29479 },
 ]
