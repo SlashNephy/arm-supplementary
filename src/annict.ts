@@ -47111,4 +47111,22 @@ export const annict: ArmEntry[] = [
   // [1998-SPRING] TV: パグパグ
   // https://annict.com/works/16231
   { annict_id: 16231, mal_id: 37686 },
+  // [2023-SUMMER] WEB: Kizazi Moto：ジェネレーション・ファイア fromアフリカ
+  // https://annict.com/works/16232
+  { annict_id: 16232 },
+  // [2025-WINTER] TV: プリモ ～わたしと12人のイトコ
+  // https://annict.com/works/16233
+  { annict_id: 16233 },
+  // [2024-AUTUMN] TV: キンダーガーデン・ミュージカル
+  // https://annict.com/works/16234
+  { annict_id: 16234 },
+  // [2025-SPRING] TV: StuGo 怪奇サマーキャンプ
+  // https://annict.com/works/16235
+  { annict_id: 16235 },
+  // [2025-SPRING] TV: レスキューペット ロボゴボ
+  // https://annict.com/works/16236
+  { annict_id: 16236 },
+  // [2025-SPRING] WEB: スター・ウォーズ：テイルズ・オブ・アンダーワールド
+  // https://annict.com/works/16237
+  { annict_id: 16237 },
 ]
