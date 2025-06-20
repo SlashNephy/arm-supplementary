@@ -47087,4 +47087,16 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] TV: 湖池屋SDGs劇場 サスとテナ シーズン6
   // https://annict.com/works/16223
   { annict_id: 16223 },
+  // [1929-SPRING] MOVIE: The Fishing Fool（原題）
+  // https://annict.com/works/16224
+  { annict_id: 16224 },
+  // [1929-SPRING] MOVIE: Stage Stunts（原題）
+  // https://annict.com/works/16225
+  { annict_id: 16225 },
+  // [1929-SPRING] MOVIE: Stripes and Stars（原題）
+  // https://annict.com/works/16226
+  { annict_id: 16226 },
+  // [2009-SUMMER] TV: 鬼警部アンパン
+  // https://annict.com/works/16227
+  { annict_id: 16227, mal_id: 29403 },
 ]
