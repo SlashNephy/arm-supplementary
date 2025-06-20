@@ -47099,4 +47099,16 @@ export const annict: ArmEntry[] = [
   // [2009-SUMMER] TV: 鬼警部アンパン
   // https://annict.com/works/16227
   { annict_id: 16227, mal_id: 29403 },
+  // [2001-SPRING] TV: ビップとバップ
+  // https://annict.com/works/16228
+  { annict_id: 16228, mal_id: 29373 },
+  // [1995-SPRING] TV: カラスのプータ
+  // https://annict.com/works/16229
+  { annict_id: 16229, mal_id: 29489 },
+  // [1994-SPRING] TV: サイキン ポンタ
+  // https://annict.com/works/16230
+  { annict_id: 16230, mal_id: 29471 },
+  // [1998-SPRING] TV: パグパグ
+  // https://annict.com/works/16231
+  { annict_id: 16231, mal_id: 37686 },
 ]
