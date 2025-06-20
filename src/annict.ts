@@ -45545,7 +45545,7 @@ export const annict: ArmEntry[] = [
   // [null-null] WEB: 終末のワルキューレⅢ
   // https://annict.com/works/15707
   { annict_id: 15707, mal_id: 61200 },
-  // [null-null] TV: 顔に出ない柏田さんと顔に出る太田君
+  // [2025-AUTUMN] TV: 顔に出ない柏田さんと顔に出る太田君
   // https://annict.com/works/15708
   { annict_id: 15708, mal_id: 61209 },
   // [2026-null] TV: 真夜中ハートチューン
