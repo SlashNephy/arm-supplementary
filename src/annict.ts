@@ -45206,7 +45206,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] TV: たまらないのは恋なのか
   // https://annict.com/works/15594
   { annict_id: 15594, mal_id: 61146, syobocal_tid: 7432 },
-  // [null-null] MOVIE: 羅小黒戦記２
+  // [2025-AUTUMN] MOVIE: 羅小黒戦記２
   // https://annict.com/works/15595
   { annict_id: 15595 },
   // [2025-SUMMER] TV: 陰陽廻天 Re:バース
@@ -47138,4 +47138,16 @@ export const annict: ArmEntry[] = [
   // [2026-WINTER] TV: 拷問バイトくんの日常
   // https://annict.com/works/16240
   { annict_id: 16240, mal_id: 61886 },
+  // [1929-SPRING] MOVIE: The Wicked West（原題）
+  // https://annict.com/works/16241
+  { annict_id: 16241 },
+  // [1929-SPRING] MOVIE: Nuts and Jolts（原題）
+  // https://annict.com/works/16242
+  { annict_id: 16242 },
+  // [1929-SUMMER] MOVIE: Ice Man's Luck（原題）
+  // https://annict.com/works/16243
+  { annict_id: 16243 },
+  // [1929-SUMMER] MOVIE: Jungle Jingles（原題）
+  // https://annict.com/works/16244
+  { annict_id: 16244 },
 ]
