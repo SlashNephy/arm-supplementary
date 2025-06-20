@@ -47129,4 +47129,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] WEB: スター・ウォーズ：テイルズ・オブ・アンダーワールド
   // https://annict.com/works/16237
   { annict_id: 16237 },
+  // [2024-AUTUMN] TV: ゾンビーズ ザ・シリーズ
+  // https://annict.com/works/16238
+  { annict_id: 16238 },
 ]
