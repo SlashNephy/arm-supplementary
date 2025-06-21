@@ -37228,7 +37228,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12926 },
   // [2025-SUMMER] TV: 桃源暗鬼
   // https://annict.com/works/12927
-  { annict_id: 12927, mal_id: 58811 },
+  { annict_id: 12927, mal_id: 58811, syobocal_tid: 7479 },
   // [2022-SPRING] WEB: 大槌カイ物語 -Voyage 航海-
   // https://annict.com/works/12928
   { annict_id: 12928 },
@@ -39508,7 +39508,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13687 },
   // [2025-SUMMER] TV: 地獄先生ぬ〜べ〜 (2025)
   // https://annict.com/works/13688
-  { annict_id: 13688, mal_id: 59342 },
+  { annict_id: 13688, mal_id: 59342, syobocal_tid: 7481 },
   // [1927-WINTER] MOVIE: Alice the Collegiate（原題）
   // https://annict.com/works/13689
   { annict_id: 13689 },
@@ -43108,7 +43108,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14893, mal_id: 7510 },
   // [2025-SUMMER] TV: ネクロノミ子のコズミックホラーショウ
   // https://annict.com/works/14894
-  { annict_id: 14894, mal_id: 60505 },
+  { annict_id: 14894, mal_id: 60505, syobocal_tid: 7483 },
   // [2024-AUTUMN] WEB: 機動戦士ガンダム：銀灰の幻影
   // https://annict.com/works/14895
   { annict_id: 14895 },
@@ -43426,7 +43426,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14999 },
   // [2025-SUMMER] TV: ぷにるはかわいいスライム 第2期
   // https://annict.com/works/15000
-  { annict_id: 15000, mal_id: 60603 },
+  { annict_id: 15000, mal_id: 60603, syobocal_tid: 7484 },
   // [1933-AUTUMN] MOVIE: 動絵狐狸達引
   // https://annict.com/works/15001
   { annict_id: 15001, mal_id: 3929 },
@@ -43609,7 +43609,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15060, mal_id: 8839 },
   // [2025-SUMMER] TV: フェルマーの料理
   // https://annict.com/works/15061
-  { annict_id: 15061, mal_id: 60697 },
+  { annict_id: 15061, mal_id: 60697, syobocal_tid: 7482 },
   // [2014-SPRING] MOVIE: ダイナミックヴィーナス
   // https://annict.com/works/15062
   { annict_id: 15062, mal_id: 55625 },
@@ -45007,7 +45007,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15527 },
   // [2025-SUMMER] TV: ブスに花束を。
   // https://annict.com/works/15528
-  { annict_id: 15528, mal_id: 53512 },
+  { annict_id: 15528, mal_id: 53512, syobocal_tid: 7480 },
   // [2010-WINTER] TV: 森のレシオ
   // https://annict.com/works/15529
   { annict_id: 15529, mal_id: 29427 },
@@ -47156,4 +47156,13 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] WEB: 【崩壊：スターレイル】ショートアニメ「安らかに眠る長夜」
   // https://annict.com/works/16246
   { annict_id: 16246, mal_id: 61347 },
+  // [2025-SPRING] TV: あんまり役に立たない日本史
+  // https://annict.com/works/16247
+  { annict_id: 16247 },
+  // [2026-null] TV: 片田舎のおっさん、剣聖になる 第二期
+  // https://annict.com/works/16248
+  { annict_id: 16248 },
+  // [2025-SUMMER] WEB: 桃源暗鬼 オリジナルミニアニメ「おにもももも」
+  // https://annict.com/works/16249
+  { annict_id: 16249, mal_id: 61891 },
 ]
