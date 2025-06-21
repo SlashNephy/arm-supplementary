@@ -38557,13 +38557,13 @@ export const annict: ArmEntry[] = [
   { annict_id: 13370, mal_id: 56471 },
   // [2024-WINTER] WEB: 【崩壊：スターレイル】ショートアニメ「永劫の輪舞」
   // https://annict.com/works/13371
-  { annict_id: 13371 },
+  { annict_id: 13371, mal_id: 58477 },
   // [2024-SPRING] WEB: 【崩壊：スターレイル】ショートアニメ「グラモスの余燼」
   // https://annict.com/works/13372
   { annict_id: 13372, mal_id: 59077 },
   // [2024-WINTER] WEB: 【崩壊：スターレイル】ショートアニメ「太平迎新歳」
   // https://annict.com/works/13373
-  { annict_id: 13373 },
+  { annict_id: 13373, mal_id: 58062 },
   // [2024-SPRING] OVA: にじよん あにめーしょん2 新作アニメーション
   // https://annict.com/works/13374
   { annict_id: 13374, mal_id: 58623 },
@@ -40162,7 +40162,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13908 },
   // [2024-SUMMER] WEB: 【崩壊：スターレイル】ショートアニメ「悠々自適」
   // https://annict.com/works/13909
-  { annict_id: 13909 },
+  { annict_id: 13909, mal_id: 59761 },
   // [null-null] MOVIE: 活動写真
   // https://annict.com/works/13910
   { annict_id: 13910, mal_id: 33187 },
@@ -47150,4 +47150,10 @@ export const annict: ArmEntry[] = [
   // [1929-SUMMER] MOVIE: Jungle Jingles（原題）
   // https://annict.com/works/16244
   { annict_id: 16244 },
+  // [2024-AUTUMN] WEB: 【崩壊：スターレイル】ショートアニメ「銀河忍法帖・乱武破邪斬月之巻」
+  // https://annict.com/works/16245
+  { annict_id: 16245, mal_id: 60247 },
+  // [2025-WINTER] WEB: 【崩壊：スターレイル】ショートアニメ「安らかに眠る長夜」
+  // https://annict.com/works/16246
+  { annict_id: 16246, mal_id: 61347 },
 ]
