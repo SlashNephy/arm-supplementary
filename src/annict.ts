@@ -38069,7 +38069,7 @@ export const annict: ArmEntry[] = [
   // [1908-SUMMER] MOVIE: ファンタスマゴリー
   // https://annict.com/works/13207
   { annict_id: 13207 },
-  // [null-null] TV: 多聞くん今どっち！？
+  // [2026-WINTER] TV: 多聞くん今どっち！？
   // https://annict.com/works/13208
   { annict_id: 13208, mal_id: 59047 },
   // [1940-AUTUMN] MOVIE: ミッキーのドキドキ汽車旅行
@@ -42749,7 +42749,7 @@ export const annict: ArmEntry[] = [
   // [1894-AUTUMN] MOVIE: 脱衣小屋のまわりで
   // https://annict.com/works/14774
   { annict_id: 14774 },
-  // [2025-null] TV: しゃばけ
+  // [2025-AUTUMN] TV: しゃばけ
   // https://annict.com/works/14775
   { annict_id: 14775, mal_id: 60378 },
   // [2025-SPRING] TV: 謎解きはディナーのあとで
