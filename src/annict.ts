@@ -47161,7 +47161,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16247 },
   // [2026-null] TV: 片田舎のおっさん、剣聖になる 第二期
   // https://annict.com/works/16248
-  { annict_id: 16248 },
+  { annict_id: 16248, mal_id: 61897 },
   // [2025-SUMMER] WEB: 桃源暗鬼 オリジナルミニアニメ「おにもももも」
   // https://annict.com/works/16249
   { annict_id: 16249, mal_id: 61891 },
