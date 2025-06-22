@@ -38300,7 +38300,7 @@ export const annict: ArmEntry[] = [
   // [1930-SUMMER] MOVIE: エロぐも
   // https://annict.com/works/13285
   { annict_id: 13285 },
-  // [null-null] TV: 東京リベンジャーズ 三天戦争編
+  // [2026-null] TV: 東京リベンジャーズ 三天戦争編
   // https://annict.com/works/13286
   { annict_id: 13286, mal_id: 59088 },
   // [2017-WINTER] WEB: ピーポくんアニメーション
