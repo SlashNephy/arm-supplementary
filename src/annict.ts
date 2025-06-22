@@ -32392,7 +32392,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11306, mal_id: 56906 },
   // [2025-SUMMER] TV: 公女殿下の家庭教師
   // https://annict.com/works/11307
-  { annict_id: 11307, mal_id: 56907 },
+  { annict_id: 11307, mal_id: 56907, syobocal_tid: 7523 },
   // [2024-SUMMER] MOVIE: 劇場総集編ぼっち・ざ・ろっく！ Re:Re:
   // https://annict.com/works/11308
   { annict_id: 11308, mal_id: 55357 },
@@ -35878,7 +35878,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12473, mal_id: 57961 },
   // [2025-SUMMER] TV: ぬきたし THE ANIMATION
   // https://annict.com/works/12474
-  { annict_id: 12474, mal_id: 57969 },
+  { annict_id: 12474, mal_id: 57969, syobocal_tid: 7524 },
   // [2018-AUTUMN] WEB: ぷれぷれぷれあです 〜クレマンティーヌ逃亡編〜
   // https://annict.com/works/12475
   { annict_id: 12475, mal_id: 38693 },
