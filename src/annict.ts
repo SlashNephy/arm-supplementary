@@ -43385,7 +43385,7 @@ export const annict: ArmEntry[] = [
   // [1921-null] MOVIE: ガーティの旅
   // https://annict.com/works/14986
   { annict_id: 14986 },
-  // [null-null] TV: らんま1/2 第2期
+  // [2025-AUTUMN] TV: らんま1/2 第2期
   // https://annict.com/works/14987
   { annict_id: 14987, mal_id: 60564 },
   // [1921-null] MOVIE: フリップのサーカス
