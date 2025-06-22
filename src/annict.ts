@@ -45598,7 +45598,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15724, mal_id: 61240 },
   // [2025-SUMMER] TV: 美男高校地球防衛部ハイカラ！
   // https://annict.com/works/15725
-  { annict_id: 15725, mal_id: 61239 },
+  { annict_id: 15725, mal_id: 61239, syobocal_tid: 7522 },
   // [2025-WINTER] MOVIE: 落凡塵
   // https://annict.com/works/15726
   { annict_id: 15726, mal_id: 59237 },
