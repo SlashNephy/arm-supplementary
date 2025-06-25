@@ -35837,7 +35837,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] MOVIE: FLY！／フライ！
   // https://annict.com/works/12460
   { annict_id: 12460 },
-  // [null-null] TV: 父は英雄、母は精霊、娘の私は転生者。
+  // [2025-AUTUMN] TV: 父は英雄、母は精霊、娘の私は転生者。
   // https://annict.com/works/12461
   { annict_id: 12461, mal_id: 57888 },
   // [2025-SUMMER] TV: 盾の勇者の成り上がり Season4
