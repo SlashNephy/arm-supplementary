@@ -43763,7 +43763,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: JOCHUM FODオリジナルエピソード
   // https://annict.com/works/15113
   { annict_id: 15113, mal_id: 61260 },
-  // [2025-SUMMER] MOVIE: 映画キミとアイドルプリキュア♪
+  // [2025-SUMMER] MOVIE: 映画キミとアイドルプリキュア♪お待たせ！キミに届けるキラッキライブ！
   // https://annict.com/works/15114
   { annict_id: 15114, mal_id: 60773 },
   // [2025-SUMMER] MOVIE: 不思議の国でアリスと -Dive in Wonderland-
