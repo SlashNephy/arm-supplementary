@@ -41314,10 +41314,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 14294, mal_id: 1933 },
   // [2025-SUMMER] TV: カラオケ行こ！
   // https://annict.com/works/14295
-  { annict_id: 14295, mal_id: 60131 },
+  { annict_id: 14295, mal_id: 60131, syobocal_tid: 7528 },
   // [2025-SUMMER] TV: 夢中さ、きみに。
   // https://annict.com/works/14296
-  { annict_id: 14296, mal_id: 60130 },
+  { annict_id: 14296, mal_id: 60130, syobocal_tid: 7529 },
   // [2024-SUMMER] WEB: レゾナンス：無限号列車 ショートアニメ「車掌の一日」
   // https://annict.com/works/14297
   { annict_id: 14297 },
@@ -43453,7 +43453,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15008 },
   // [2025-SUMMER] TV: デキちゃうまで婚
   // https://annict.com/works/15009
-  { annict_id: 15009, mal_id: 61742 },
+  { annict_id: 15009, mal_id: 61742, syobocal_tid: 7530 },
   // [2019-SUMMER] OVA: トムとジェリー 夢のチョコレート工場
   // https://annict.com/works/15010
   { annict_id: 15010 },
