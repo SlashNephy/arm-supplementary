@@ -18902,7 +18902,7 @@ export const annict: ArmEntry[] = [
   // [2021-SPRING] MOVIE: 機動戦士ガンダム 閃光のハサウェイ 第一部
   // https://annict.com/works/6344
   { annict_id: 6344, mal_id: 37765 },
-  // [null-null] MOVIE: 機動戦士ガンダム 閃光のハサウェイ 第二部
+  // [2025-AUTUMN] MOVIE: 機動戦士ガンダム 閃光のハサウェイ キルケーの魔女
   // https://annict.com/works/6345
   { annict_id: 6345, mal_id: 38716 },
   // [null-null] MOVIE: 機動戦士ガンダム 閃光のハサウェイ 第三部
