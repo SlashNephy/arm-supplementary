@@ -47171,4 +47171,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] TV: サザンガキュー
   // https://annict.com/works/16251
   { annict_id: 16251, mal_id: 61899 },
+  // [2021-SPRING] WEB: Peeping Life 12th anniversary
+  // https://annict.com/works/16252
+  { annict_id: 16252, mal_id: 61905 },
 ]
