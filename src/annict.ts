@@ -45680,7 +45680,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: ショタおに
   // https://annict.com/works/15752
   { annict_id: 15752, mal_id: 61282 },
-  // [2025-AUTUMN] MOVIE: 映画 すみっコぐらし４
+  // [2025-AUTUMN] MOVIE: 映画 すみっコぐらし 空の王国とふたりのコ
   // https://annict.com/works/15753
   { annict_id: 15753, mal_id: 61278 },
   // [2025-SPRING] MOVIE: 神椿市建設中。 魔女の娘 -Witchling-
