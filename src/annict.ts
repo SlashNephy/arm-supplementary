@@ -47177,4 +47177,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] TV: 永久のユウグレ
   // https://annict.com/works/16253
   { annict_id: 16253, mal_id: 61917 },
+  // [2025-SUMMER] TV: シークレット キャッチ！ティニピン
+  // https://annict.com/works/16254
+  { annict_id: 16254 },
 ]
