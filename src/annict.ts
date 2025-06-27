@@ -32276,7 +32276,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] WEB: 僕らの雨いろプロトコル ミニアニメ
   // https://annict.com/works/11268
   { annict_id: 11268 },
-  // [null-null] TV: お隣の天使様にいつの間にか駄目人間にされていた件2
+  // [2026-SPRING] TV: お隣の天使様にいつの間にか駄目人間にされていた件2
   // https://annict.com/works/11269
   { annict_id: 11269, mal_id: 56876 },
   // [2025-AUTUMN] TV: 青のオーケストラ 第2期
@@ -46061,7 +46061,7 @@ export const annict: ArmEntry[] = [
   // [2020-AUTUMN] MOVIE: 映画 小さなバイキング ビッケ
   // https://annict.com/works/15880
   { annict_id: 15880 },
-  // [null-null] TV: 天幕のジャードゥーガル
+  // [2026-null] TV: 天幕のジャードゥーガル
   // https://annict.com/works/15881
   { annict_id: 15881, mal_id: 61483 },
   // [2002-null] TV: シャドウレイダース
