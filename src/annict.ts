@@ -31838,7 +31838,7 @@ export const annict: ArmEntry[] = [
   // [1992-WINTER] OVA: 強殖装甲ガイバー II
   // https://annict.com/works/11122
   { annict_id: 11122, mal_id: 1336 },
-  // [null-null] OTHER: 北斗の拳 -FIST OF THE NORTH STAR-
+  // [2026-null] OTHER: 北斗の拳 -FIST OF THE NORTH STAR-
   // https://annict.com/works/11123
   { annict_id: 11123, mal_id: 56646 },
   // [2024-WINTER] TV: 貼りまわれ！こいぬ
