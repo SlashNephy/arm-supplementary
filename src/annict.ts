@@ -47080,7 +47080,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16220, mal_id: 61872 },
   // [2025-SPRING] WEB: 猫猫のひとりごと 特別編
   // https://annict.com/works/16221
-  { annict_id: 16221 },
+  { annict_id: 16221, mal_id: 61876 },
   // [2025-SPRING] WEB: 映栄杉さん家はお侍
   // https://annict.com/works/16222
   { annict_id: 16222 },
@@ -47179,5 +47179,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 16253, mal_id: 61917 },
   // [2025-SUMMER] TV: シークレット キャッチ！ティニピン
   // https://annict.com/works/16254
-  { annict_id: 16254 },
+  { annict_id: 16254, mal_id: 55660 },
 ]
