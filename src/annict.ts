@@ -39185,7 +39185,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] TV: 戦隊大失格 2nd season
   // https://annict.com/works/13580
   { annict_id: 13580, mal_id: 59189, syobocal_tid: 7407 },
-  // [2025-SUMMER] MOVIE: 劇場版 鬼滅の刃 無限城編 第一章
+  // [2025-SUMMER] MOVIE: 劇場版 鬼滅の刃 無限城編 第一章 猗窩座再来
   // https://annict.com/works/13581
   { annict_id: 13581, mal_id: 59192 },
   // [null-null] TV: 無職転生Ⅲ ～異世界行ったら本気だす～
@@ -47180,4 +47180,10 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] TV: シークレット キャッチ！ティニピン
   // https://annict.com/works/16254
   { annict_id: 16254, mal_id: 55660 },
+  // [null-null] TV: Aランクパーティを離脱した俺は、元教え子たちと迷宮深部を目指す。  第2期
+  // https://annict.com/works/16255
+  { annict_id: 16255, mal_id: 61925 },
+  // [2025-SUMMER] MOVIE: 劇場編集版 Summer Pockets
+  // https://annict.com/works/16256
+  { annict_id: 16256, mal_id: 61926 },
 ]
