@@ -47186,4 +47186,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] MOVIE: 劇場編集版 Summer Pockets
   // https://annict.com/works/16256
   { annict_id: 16256, mal_id: 61926 },
+  // [2025-AUTUMN] TV: ウマ娘 シンデレラグレイ 第2クール
+  // https://annict.com/works/16257
+  { annict_id: 16257 },
 ]
