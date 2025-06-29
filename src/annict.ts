@@ -39902,7 +39902,7 @@ export const annict: ArmEntry[] = [
   // [2018-WINTER] OVA: 黒桜の部屋
   // https://annict.com/works/13819
   { annict_id: 13819, mal_id: 36833 },
-  // [2025-SPRING] TV: ウマ娘 シンデレラグレイ
+  // [2025-SPRING] TV: ウマ娘 シンデレラグレイ  第1クール
   // https://annict.com/works/13820
   { annict_id: 13820, mal_id: 59636, syobocal_tid: 7388 },
   // [1969-SPRING] OTHER: ルパン三世 パイロット･フィルム
