@@ -46813,7 +46813,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16130, mal_id: 61813 },
   // [2025-SUMMER] TV: 闇芝居 十五期
   // https://annict.com/works/16131
-  { annict_id: 16131, mal_id: 61793 },
+  { annict_id: 16131, mal_id: 61793, syobocal_tid: 7532 },
   // [null-null] TV: 鬼の花嫁
   // https://annict.com/works/16132
   { annict_id: 16132, mal_id: 61814 },
@@ -47189,4 +47189,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] TV: ウマ娘 シンデレラグレイ 第2クール
   // https://annict.com/works/16257
   { annict_id: 16257 },
+  // [2006-WINTER] TV: アトミック・ベティ
+  // https://annict.com/works/16258
+  { annict_id: 16258 },
 ]
