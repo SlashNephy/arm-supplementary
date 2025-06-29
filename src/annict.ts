@@ -42344,7 +42344,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] MOVIE: 映画 『ヒプノシスマイク -Division Rap Battle-』
   // https://annict.com/works/14639
   { annict_id: 14639, mal_id: 60273 },
-  // [2025-null] WEB: リヴァイアサン
+  // [2025-SUMMER] WEB: リヴァイアサン
   // https://annict.com/works/14640
   { annict_id: 14640, mal_id: 59005 },
   // [1964-SPRING] MOVIE: 狼少年ケン 月夜の出来事
