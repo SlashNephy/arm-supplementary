@@ -46256,7 +46256,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] WEB: つれづれポピパ
   // https://annict.com/works/15945
   { annict_id: 15945, mal_id: 61273 },
-  // [null-null] TV: 「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい
+  // [2026-null] TV: 「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい
   // https://annict.com/works/15946
   { annict_id: 15946, mal_id: 61587 },
   // [2021-SUMMER] WEB: ヤンキーハムスター シーズン2.5
@@ -47188,11 +47188,26 @@ export const annict: ArmEntry[] = [
   { annict_id: 16256, mal_id: 61926 },
   // [2025-AUTUMN] TV: ウマ娘 シンデレラグレイ 第2クール
   // https://annict.com/works/16257
-  { annict_id: 16257 },
+  { annict_id: 16257, mal_id: 61930 },
   // [2006-WINTER] TV: アトミック・ベティ
   // https://annict.com/works/16258
   { annict_id: 16258 },
   // [2025-SUMMER] TV: ホットウィール
   // https://annict.com/works/16259
   { annict_id: 16259 },
+  // [2024-WINTER] WEB: Hot Wheels レースでGo!
+  // https://annict.com/works/16260
+  { annict_id: 16260 },
+  // [2024-SUMMER] WEB: Hot Wheels レースでGo! シーズン2
+  // https://annict.com/works/16261
+  { annict_id: 16261 },
+  // [2025-WINTER] WEB: Hot Wheels レースでGo! シーズン3
+  // https://annict.com/works/16262
+  { annict_id: 16262 },
+  // [2023-SUMMER] WEB: 悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。 mini
+  // https://annict.com/works/16263
+  { annict_id: 16263, mal_id: 55957 },
+  // [null-null] TV: 悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。 第2期
+  // https://annict.com/works/16264
+  { annict_id: 16264, mal_id: 61931 },
 ]
