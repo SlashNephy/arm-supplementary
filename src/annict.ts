@@ -47216,4 +47216,7 @@ export const annict: ArmEntry[] = [
   // [2026-null] TV: ヴィジランテ -僕のヒーローアカデミア ILLEGALS- 第2期
   // https://annict.com/works/16266
   { annict_id: 16266 },
+  // [2025-SUMMER] MOVIE: 劇場版スマーフ／おどるキノコ村の時空大冒険
+  // https://annict.com/works/16267
+  { annict_id: 16267 },
 ]
