@@ -37475,7 +37475,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: Ninja Skooler
   // https://annict.com/works/13009
   { annict_id: 13009, mal_id: 58879 },
-  // [null-null] OTHER: さよならララ
+  // [2026-null] TV: さよならララ
   // https://annict.com/works/13010
   { annict_id: 13010, mal_id: 58878 },
   // [2024-SPRING] TV: こうしす！EE 総集編映画版 ～こちら京姫鉄道広報部システム課～
