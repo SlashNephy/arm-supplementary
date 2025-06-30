@@ -47215,8 +47215,17 @@ export const annict: ArmEntry[] = [
   { annict_id: 16265, mal_id: 9965 },
   // [2026-null] TV: ヴィジランテ -僕のヒーローアカデミア ILLEGALS- 第2期
   // https://annict.com/works/16266
-  { annict_id: 16266 },
+  { annict_id: 16266, mal_id: 61942 },
   // [2025-SUMMER] MOVIE: 劇場版スマーフ／おどるキノコ村の時空大冒険
   // https://annict.com/works/16267
   { annict_id: 16267 },
+  // [1974-null] OTHER: 巨獣惑星
+  // https://annict.com/works/16268
+  { annict_id: 16268 },
+  // [1975-null] OTHER: 円谷立体アニメ
+  // https://annict.com/works/16269
+  { annict_id: 16269 },
+  // [2022-SPRING] WEB: 湘南ひらつか 令和アニメーション絵巻
+  // https://annict.com/works/16270
+  { annict_id: 16270 },
 ]
