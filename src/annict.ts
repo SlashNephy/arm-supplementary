@@ -47210,4 +47210,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。 第2期
   // https://annict.com/works/16264
   { annict_id: 16264, mal_id: 61931 },
+  // [1991-AUTUMN] OVA: 装甲巨神Zナイト
+  // https://annict.com/works/16265
+  { annict_id: 16265, mal_id: 9965 },
 ]
