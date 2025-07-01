@@ -40652,7 +40652,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 杖と剣のウィストリア 第2期
   // https://annict.com/works/14074
   { annict_id: 14074, mal_id: 59983 },
-  // [null-null] MOVIE: 劇場版 僕の心のヤバイやつ
+  // [2026-WINTER] MOVIE: 劇場版 僕の心のヤバイやつ
   // https://annict.com/works/14075
   { annict_id: 14075, mal_id: 59985 },
   // [2024-AUTUMN] OVA: デッドデッドデーモンズデデデデデストラクション アニメシリーズ
