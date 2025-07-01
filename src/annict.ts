@@ -47234,4 +47234,7 @@ export const annict: ArmEntry[] = [
   // [2026-null] TV: エレキシード（ELECEED）
   // https://annict.com/works/16272
   { annict_id: 16272, mal_id: 61944 },
+  // [2020-AUTUMN] WEB: ガンダムビルドダイバーズ バトローグ
+  // https://annict.com/works/16273
+  { annict_id: 16273 },
 ]
