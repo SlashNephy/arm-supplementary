@@ -47237,4 +47237,10 @@ export const annict: ArmEntry[] = [
   // [2020-AUTUMN] WEB: ガンダムビルドダイバーズ バトローグ
   // https://annict.com/works/16273
   { annict_id: 16273 },
+  // [2006-SPRING] TV: トロールズ☆(TVシリーズ)
+  // https://annict.com/works/16274
+  { annict_id: 16274 },
+  // [2024-AUTUMN] OVA: トロールズ バンド・トゥゲザー
+  // https://annict.com/works/16275
+  { annict_id: 16275 },
 ]
