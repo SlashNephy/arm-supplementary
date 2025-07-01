@@ -31577,7 +31577,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 錆喰いビスコ 第2期
   // https://annict.com/works/11035
   { annict_id: 11035, mal_id: 56008 },
-  // [2025-AUTUMN] TV: 勇者刑に処す 懲罰勇者9004隊刑務記録
+  // [2026-WINTER] TV: 勇者刑に処す 懲罰勇者9004隊刑務記録
   // https://annict.com/works/11036
   { annict_id: 11036, mal_id: 56009 },
   // [2024-WINTER] TV: 百千さん家のあやかし王子
