@@ -43601,7 +43601,7 @@ export const annict: ArmEntry[] = [
   // [1935-SUMMER] MOVIE: Fox and the Rabbit（原題）
   // https://annict.com/works/15058
   { annict_id: 15058 },
-  // [null-null] TV: 貴族転生 ～恵まれた生まれから最強の力を得る～
+  // [2026-null] TV: 貴族転生 ～恵まれた生まれから最強の力を得る～
   // https://annict.com/works/15059
   { annict_id: 15059, mal_id: 60692 },
   // [2001-SUMMER] MOVIE: ガンダム新体験‐0087‐グリーンダイバーズ
