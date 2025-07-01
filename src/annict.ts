@@ -47228,4 +47228,10 @@ export const annict: ArmEntry[] = [
   // [2022-SPRING] WEB: 湘南ひらつか 令和アニメーション絵巻
   // https://annict.com/works/16270
   { annict_id: 16270 },
+  // [null-null] OTHER: 灰原くんの強くて青春ニューゲーム
+  // https://annict.com/works/16271
+  { annict_id: 16271, mal_id: 61943 },
+  // [2026-null] TV: エレキシード（ELECEED）
+  // https://annict.com/works/16272
+  { annict_id: 16272, mal_id: 61944 },
 ]
