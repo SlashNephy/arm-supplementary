@@ -47255,4 +47255,13 @@ export const annict: ArmEntry[] = [
   // [2026-WINTER] MOVIE: 迷宮のしおり
   // https://annict.com/works/16279
   { annict_id: 16279, mal_id: 61964 },
+  // [2025-SUMMER] WEB: ドッグマン
+  // https://annict.com/works/16280
+  { annict_id: 16280 },
+  // [2025-WINTER] MOVIE: The Bad Guys: Little Lies and Alibis（原題）
+  // https://annict.com/works/16281
+  { annict_id: 16281 },
+  // [2026-null] MOVIE: キャット・イン・ザ・ハット
+  // https://annict.com/works/16282
+  { annict_id: 16282 },
 ]
