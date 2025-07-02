@@ -47252,4 +47252,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: Oops!フェアリーペアレンツ: ピカピカの願い
   // https://annict.com/works/16278
   { annict_id: 16278 },
+  // [2026-WINTER] MOVIE: 迷宮のしおり
+  // https://annict.com/works/16279
+  { annict_id: 16279, mal_id: 61964 },
 ]
