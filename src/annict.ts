@@ -43495,7 +43495,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15022, mal_id: 57925 },
   // [2025-SUMMER] TV: 銀河特急 ミルキー☆サブウェイ
   // https://annict.com/works/15023
-  { annict_id: 15023, mal_id: 61274 },
+  { annict_id: 15023, mal_id: 61274, syobocal_tid: 7536 },
   // [2024-AUTUMN] TV: ユーチューニャー クリスマス特別編「クリスマスってみた」
   // https://annict.com/works/15024
   { annict_id: 15024, mal_id: 60623 },
@@ -47029,7 +47029,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16203 },
   // [2025-SUMMER] TV: ネコのクラちゃん ～Ordinary days～
   // https://annict.com/works/16204
-  { annict_id: 16204 },
+  { annict_id: 16204, syobocal_tid: 7537 },
   // [2025-SUMMER] TV: ネコこのゴロ～天下統一編～
   // https://annict.com/works/16205
   { annict_id: 16205, mal_id: 61914, syobocal_tid: 7520 },
@@ -47243,4 +47243,13 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] OVA: トロールズ バンド・トゥゲザー
   // https://annict.com/works/16275
   { annict_id: 16275 },
+  // [2006-SPRING] TV: Sing×3♪ぼくら、バックヤーディガンズ!
+  // https://annict.com/works/16276
+  { annict_id: 16276 },
+  // [2006-SUMMER] TV: Oops!フェアリー・ペアレンツ
+  // https://annict.com/works/16277
+  { annict_id: 16277 },
+  // [2024-AUTUMN] WEB: Oops!フェアリーペアレンツ: ピカピカの願い
+  // https://annict.com/works/16278
+  { annict_id: 16278 },
 ]
