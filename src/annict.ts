@@ -47179,7 +47179,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16253, mal_id: 61917 },
   // [2025-SUMMER] TV: シークレット キャッチ！ティニピン
   // https://annict.com/works/16254
-  { annict_id: 16254, mal_id: 55660 },
+  { annict_id: 16254, mal_id: 55660, syobocal_tid: 7535 },
   // [null-null] TV: Aランクパーティを離脱した俺は、元教え子たちと迷宮深部を目指す。  第2期
   // https://annict.com/works/16255
   { annict_id: 16255, mal_id: 61925 },
