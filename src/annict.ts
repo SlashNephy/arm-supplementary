@@ -37052,7 +37052,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] WEB: ギャビーのドールハウス (TV放送)
   // https://annict.com/works/12867
   { annict_id: 12867, syobocal_tid: 7055 },
-  // [null-null] OTHER: ケロロ軍曹 新プロジェクト
+  // [2026-SUMMER] MOVIE: ケロロ軍曹 劇場版新作
   // https://annict.com/works/12868
   { annict_id: 12868, mal_id: 58773 },
   // [1941-null] MOVIE: アリチャン
