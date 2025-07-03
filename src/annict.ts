@@ -44608,7 +44608,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15394, mal_id: 39358 },
   // [2025-SUMMER] TV: 人妻の唇は缶チューハイの味がして
   // https://annict.com/works/15395
-  { annict_id: 15395, mal_id: 61023 },
+  { annict_id: 15395, mal_id: 61023, syobocal_tid: 7527 },
   // [1924-null] MOVIE: 赤垣源蔵徳利の別れ
   // https://annict.com/works/15396
   { annict_id: 15396 },
@@ -47273,4 +47273,7 @@ export const annict: ArmEntry[] = [
   // [2026-null] OTHER: 最推しの義兄を愛でるため、長生きします！
   // https://annict.com/works/16285
   { annict_id: 16285, mal_id: 61969 },
+  // [null-null] OTHER: Project M
+  // https://annict.com/works/16286
+  { annict_id: 16286, mal_id: 61966 },
 ]
