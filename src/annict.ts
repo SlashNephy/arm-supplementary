@@ -40499,7 +40499,7 @@ export const annict: ArmEntry[] = [
   // [1989-SPRING] OVA: マドンナ2 愛と青春のキック・オフ
   // https://annict.com/works/14022
   { annict_id: 14022, mal_id: 3482 },
-  // [null-null] TV: 時々ボソッとロシア語でデレる隣のアーリャさん Season 2
+  // [2026-null] TV: 時々ボソッとロシア語でデレる隣のアーリャさん Season 2
   // https://annict.com/works/14023
   { annict_id: 14023, mal_id: 59873 },
   // [1987-null] MOVIE: The Lesson
