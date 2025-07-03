@@ -47267,4 +47267,10 @@ export const annict: ArmEntry[] = [
   // [2006-AUTUMN] TV: ファンタスティック・フォー(1994年)
   // https://annict.com/works/16283
   { annict_id: 16283 },
+  // [null-null] OTHER: 〈物語〉シリーズ オフ&モンスターシーズン 新エピソード
+  // https://annict.com/works/16284
+  { annict_id: 16284, mal_id: 61968 },
+  // [2026-null] OTHER: 最推しの義兄を愛でるため、長生きします！
+  // https://annict.com/works/16285
+  { annict_id: 16285, mal_id: 61969 },
 ]
