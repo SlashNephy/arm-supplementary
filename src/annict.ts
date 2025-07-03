@@ -45208,7 +45208,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15594, mal_id: 61146, syobocal_tid: 7432 },
   // [2025-AUTUMN] MOVIE: 羅小黒戦記２
   // https://annict.com/works/15595
-  { annict_id: 15595 },
+  { annict_id: 15595, mal_id: 61952 },
   // [2025-SUMMER] TV: 陰陽廻天 Re:バース
   // https://annict.com/works/15596
   { annict_id: 15596, mal_id: 61150, syobocal_tid: 7497 },
@@ -47264,4 +47264,7 @@ export const annict: ArmEntry[] = [
   // [2026-null] MOVIE: キャット・イン・ザ・ハット
   // https://annict.com/works/16282
   { annict_id: 16282 },
+  // [2006-AUTUMN] TV: ファンタスティック・フォー(1994年)
+  // https://annict.com/works/16283
+  { annict_id: 16283 },
 ]
