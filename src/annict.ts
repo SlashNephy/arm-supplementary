@@ -47285,4 +47285,10 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] WEB: SUGAR SUGAR RUNE Les deux sorcières
   // https://annict.com/works/16289
   { annict_id: 16289 },
+  // [null-null] OTHER: 薬屋のひとりごと 続編
+  // https://annict.com/works/16290
+  { annict_id: 16290 },
+  // [null-null] TV: 伊藤潤二『クリムゾン』
+  // https://annict.com/works/16291
+  { annict_id: 16291 },
 ]
