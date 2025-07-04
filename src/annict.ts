@@ -46555,7 +46555,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16044, mal_id: 50880 },
   // [2025-SUMMER] TV: 学校では教えてくれない大切なこと
   // https://annict.com/works/16045
-  { annict_id: 16045 },
+  { annict_id: 16045, syobocal_tid: 7539 },
   // [1975-null] MOVIE: The Doodlers（原題）
   // https://annict.com/works/16046
   { annict_id: 16046 },
