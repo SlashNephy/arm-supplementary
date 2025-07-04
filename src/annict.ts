@@ -47287,8 +47287,14 @@ export const annict: ArmEntry[] = [
   { annict_id: 16289 },
   // [null-null] OTHER: 薬屋のひとりごと 続編
   // https://annict.com/works/16290
-  { annict_id: 16290 },
+  { annict_id: 16290, mal_id: 61987 },
   // [null-null] TV: 伊藤潤二『クリムゾン』
   // https://annict.com/works/16291
   { annict_id: 16291 },
+  // [null-null] TV: 勇者パーティーにかわいい子がいたので、告白してみた。
+  // https://annict.com/works/16292
+  { annict_id: 16292, mal_id: 61983 },
+  // [2025-SUMMER] WEB: 追放白魔導師 ミニアニメ
+  // https://annict.com/works/16293
+  { annict_id: 16293 },
 ]
