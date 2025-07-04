@@ -47279,9 +47279,9 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] WEB: 大喜利ニューサーガ
   // https://annict.com/works/16287
   { annict_id: 16287 },
-  // [null-null] TV: GATE SEASON2　自衛隊　彼の海にて、斯く戦えり
+  // [null-null] TV: GATE SEASON2 自衛隊 彼の海にて、斯く戦えり
   // https://annict.com/works/16288
-  { annict_id: 16288 },
+  { annict_id: 16288, mal_id: 61973 },
   // [2025-SUMMER] WEB: SUGAR SUGAR RUNE Les deux sorcières
   // https://annict.com/works/16289
   { annict_id: 16289 },
