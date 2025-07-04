@@ -47192,7 +47192,7 @@ export const annict: ArmEntry[] = [
   // [2006-WINTER] TV: アトミック・ベティ
   // https://annict.com/works/16258
   { annict_id: 16258 },
-  // [2025-SUMMER] TV: ホットウィール モンスタートラック
+  // [2025-SUMMER] TV: ホットウィール
   // https://annict.com/works/16259
   { annict_id: 16259 },
   // [2024-WINTER] WEB: Hot Wheels レースでGo!
