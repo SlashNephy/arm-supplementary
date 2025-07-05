@@ -47300,4 +47300,7 @@ export const annict: ArmEntry[] = [
   // [2026-null] MOVIE: GROTESQQQUE -グロテスク-
   // https://annict.com/works/16294
   { annict_id: 16294, mal_id: 59217 },
+  // [null-null] OTHER: 朱色の仮面
+  // https://annict.com/works/16295
+  { annict_id: 16295 },
 ]
