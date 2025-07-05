@@ -47297,4 +47297,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] WEB: 追放白魔導師 ミニアニメ
   // https://annict.com/works/16293
   { annict_id: 16293 },
+  // [2026-null] MOVIE: GROTESQQQUE -グロテスク-
+  // https://annict.com/works/16294
+  { annict_id: 16294, mal_id: 59217 },
 ]
