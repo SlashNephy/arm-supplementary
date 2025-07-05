@@ -40526,9 +40526,9 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: トゥームレイダー: レジェンド・オブ・ララ・クロフト
   // https://annict.com/works/14031
   { annict_id: 14031 },
-  // [null-null] WEB: サイバーパンク2077 新アニメプロジェクト
+  // [null-null] WEB: サイバーパンク: エッジランナーズ２
   // https://annict.com/works/14032
-  { annict_id: 14032 },
+  { annict_id: 14032, mal_id: 61990 },
   // [null-null] WEB: スプリンターセル デスウォッチ
   // https://annict.com/works/14033
   { annict_id: 14033 },
