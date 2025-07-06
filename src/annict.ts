@@ -47302,5 +47302,8 @@ export const annict: ArmEntry[] = [
   { annict_id: 16294, mal_id: 59217 },
   // [null-null] OTHER: 朱色の仮面
   // https://annict.com/works/16295
-  { annict_id: 16295 },
+  { annict_id: 16295, mal_id: 61999 },
+  // [null-null] OTHER: 悪役令嬢は隣国の王太子に溺愛される
+  // https://annict.com/works/16296
+  { annict_id: 16296, mal_id: 62000 },
 ]
