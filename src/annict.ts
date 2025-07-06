@@ -47324,4 +47324,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] TV: SHIBUYA♡HACHI 第4クール
   // https://annict.com/works/16302
   { annict_id: 16302, mal_id: 61922 },
+  // [2025-AUTUMN] TV: MUZIK TIGER In the Forest 第2期
+  // https://annict.com/works/16303
+  { annict_id: 16303, mal_id: 61924 },
 ]
