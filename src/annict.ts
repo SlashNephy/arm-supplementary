@@ -39188,7 +39188,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] MOVIE: 劇場版 鬼滅の刃 無限城編 第一章 猗窩座再来
   // https://annict.com/works/13581
   { annict_id: 13581, mal_id: 59192 },
-  // [null-null] TV: 無職転生Ⅲ ～異世界行ったら本気だす～
+  // [2026-null] TV: 無職転生Ⅲ ～異世界行ったら本気だす～
   // https://annict.com/works/13582
   { annict_id: 13582, mal_id: 59193 },
   // [2024-AUTUMN] MOVIE: 劇場総集編 幻日のヨハネ -SUNSHINE in the MIRROR-
