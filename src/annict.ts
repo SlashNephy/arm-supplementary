@@ -23011,7 +23011,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 8010, mal_id: 44209 },
   // [2021-SPRING] WEB: オイラはビル群
   // https://annict.com/works/8011
-  { annict_id: 8011 },
+  { annict_id: 8011, mal_id: 61995 },
   // [1993-SUMMER] MOVIE: アラジン
   // https://annict.com/works/8012
   { annict_id: 8012, syobocal_tid: 3360 },
@@ -47327,4 +47327,10 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] TV: MUZIK TIGER In the Forest 第2期
   // https://annict.com/works/16303
   { annict_id: 16303, mal_id: 61924 },
+  // [2025-SUMMER] WEB: あざらしのえるあーる
+  // https://annict.com/works/16304
+  { annict_id: 16304, mal_id: 61994 },
+  // [2025-SUMMER] MOVIE: bâan-大人の彊界-
+  // https://annict.com/works/16305
+  { annict_id: 16305, mal_id: 61984 },
 ]
