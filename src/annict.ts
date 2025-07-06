@@ -47306,4 +47306,22 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 悪役令嬢は隣国の王太子に溺愛される
   // https://annict.com/works/16296
   { annict_id: 16296, mal_id: 62000 },
+  // [2007-SPRING] TV: ワンダー・ペッツ
+  // https://annict.com/works/16297
+  { annict_id: 16297 },
+  // [2024-AUTUMN] WEB: とびだせ！ワンダー・ペット
+  // https://annict.com/works/16298
+  { annict_id: 16298 },
+  // [null-null] TV: 黄泉のツガイ
+  // https://annict.com/works/16299
+  { annict_id: 16299, mal_id: 62001 },
+  // [null-null] OTHER: 99回断罪されたループ令嬢ですが今世は「超絶愛されモード」ですって!?
+  // https://annict.com/works/16300
+  { annict_id: 16300, mal_id: 62002 },
+  // [null-null] TV: ブラッククローバー 2nd Season
+  // https://annict.com/works/16301
+  { annict_id: 16301, mal_id: 61967 },
+  // [2025-AUTUMN] TV: SHIBUYA♡HACHI 第4クール
+  // https://annict.com/works/16302
+  { annict_id: 16302, mal_id: 61922 },
 ]
