@@ -45542,7 +45542,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] TV: おいでよ魔法少女村(不法占拠)
   // https://annict.com/works/15706
   { annict_id: 15706, mal_id: 61206, syobocal_tid: 7416 },
-  // [null-null] WEB: 終末のワルキューレⅢ
+  // [2025-AUTUMN] WEB: 終末のワルキューレⅢ
   // https://annict.com/works/15707
   { annict_id: 15707, mal_id: 61200 },
   // [2025-AUTUMN] TV: 顔に出ない柏田さんと顔に出る太田君
