@@ -47336,4 +47336,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] WEB: えとたま 10周年記念特別ショートムービー「えとたまkids」～盤楽遊戯～
   // https://annict.com/works/16306
   { annict_id: 16306 },
+  // [2026-null] WEB: BEASTARS FINAL SEASON Part2
+  // https://annict.com/works/16307
+  { annict_id: 16307, mal_id: 61114 },
 ]
