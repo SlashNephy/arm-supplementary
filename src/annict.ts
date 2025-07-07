@@ -47342,4 +47342,7 @@ export const annict: ArmEntry[] = [
   // [null-null] WEB: コアラ絵日記
   // https://annict.com/works/16308
   { annict_id: 16308, mal_id: 62005 },
+  // [2025-SPRING] WEB: Google Play で超無双！？転生したら Android ユーザーだった。
+  // https://annict.com/works/16309
+  { annict_id: 16309 },
 ]
