@@ -34055,7 +34055,7 @@ export const annict: ArmEntry[] = [
   // [1987-AUTUMN] OVA: Good Morning アルテア
   // https://annict.com/works/11863
   { annict_id: 11863, mal_id: 2482 },
-  // [2026-null] TV: 本好きの下剋上 司書になるためには手段を選んでいられません 領主の養女
+  // [2026-SPRING] TV: 本好きの下剋上 司書になるためには手段を選んでいられません 領主の養女
   // https://annict.com/works/11864
   { annict_id: 11864, mal_id: 57466 },
   // [1966-SUMMER] MOVIE: 長編漫画映画 ジャングル大帝
