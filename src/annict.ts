@@ -31249,7 +31249,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10925, mal_id: 55709 },
   // [2025-SUMMER] TV: うたごえはミルフィーユ
   // https://annict.com/works/10926
-  { annict_id: 10926, mal_id: 55689 },
+  { annict_id: 10926, mal_id: 55689, syobocal_tid: 7540 },
   // [1980-SUMMER] MOVIE: 11ぴきのねこ
   // https://annict.com/works/10927
   { annict_id: 10927, mal_id: 6071 },
