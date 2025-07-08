@@ -46853,7 +46853,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] WEB: ワンダーエージェントやねん
   // https://annict.com/works/16144
   { annict_id: 16144, mal_id: 61772 },
-  // [null-null] MOVIE: チビ丸の北支従軍　北支事変
+  // [1935-null] MOVIE: チビ丸の北支従軍　北支事変
   // https://annict.com/works/16145
   { annict_id: 16145 },
   // [1928-null] MOVIE: 吃驚仰天真珠大王
@@ -47345,4 +47345,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] WEB: Google Play で超無双！？転生したら Android ユーザーだった。
   // https://annict.com/works/16309
   { annict_id: 16309 },
+  // [1980-SUMMER] MOVIE: Foods and Fun: A Nutrition Adventure（原題）
+  // https://annict.com/works/16310
+  { annict_id: 16310 },
 ]
