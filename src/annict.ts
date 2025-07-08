@@ -43331,7 +43331,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] TV: 百姓貴族 3rd Season
   // https://annict.com/works/14968
   { annict_id: 14968, mal_id: 60551 },
-  // [null-null] TV: 株式会社マジルミエ 第2期
+  // [2026-null] TV: 株式会社マジルミエ 第2期
   // https://annict.com/works/14969
   { annict_id: 14969, mal_id: 60552 },
   // [null-null] TV: アルカナディア
@@ -47348,4 +47348,7 @@ export const annict: ArmEntry[] = [
   // [1980-SUMMER] MOVIE: Foods and Fun: A Nutrition Adventure（原題）
   // https://annict.com/works/16310
   { annict_id: 16310 },
+  // [null-null] TV: 一畳間まんきつ暮らし！
+  // https://annict.com/works/16311
+  { annict_id: 16311 },
 ]
