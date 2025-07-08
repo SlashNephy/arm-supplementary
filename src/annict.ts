@@ -47351,4 +47351,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 一畳間まんきつ暮らし！
   // https://annict.com/works/16311
   { annict_id: 16311 },
+  // [2025-SUMMER] TV: ちいかわ 新シリーズ
+  // https://annict.com/works/16312
+  { annict_id: 16312, mal_id: 50250 },
 ]
