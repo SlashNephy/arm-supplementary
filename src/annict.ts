@@ -47357,4 +47357,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] WEB: 強くてニューサーガ ミニ
   // https://annict.com/works/16313
   { annict_id: 16313 },
+  // [2025-SUMMER] WEB: Hondaバイク×クロミ オリジナルショートアニメ
+  // https://annict.com/works/16314
+  { annict_id: 16314 },
 ]
