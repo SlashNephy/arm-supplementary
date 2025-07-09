@@ -45224,7 +45224,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 転生した大聖女は、聖女であることをひた隠す
   // https://annict.com/works/15600
   { annict_id: 15600, mal_id: 61153 },
-  // [2025-null] TV: 東島丹三郎は仮面ライダーになりたい
+  // [2025-AUTUMN] TV: 東島丹三郎は仮面ライダーになりたい
   // https://annict.com/works/15601
   { annict_id: 15601, mal_id: 61159 },
   // [2025-SPRING] MOVIE: ナタ 魔童の大暴れ
@@ -47372,4 +47372,13 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] WEB: 【崩壊：スターレイル】ショートアニメ「聞け！神に祝福されし山頂で開かれた狂宴を！」
   // https://annict.com/works/16318
   { annict_id: 16318 },
+  // [2025-AUTUMN] MOVIE: きかんしゃトーマス サンタをさがせ! パーシーのクリスマス急行
+  // https://annict.com/works/16319
+  { annict_id: 16319 },
+  // [2025-SUMMER] MOVIE: 劇場版 BULLET/BULLET 前章「弾丸疾走編」
+  // https://annict.com/works/16320
+  { annict_id: 16320 },
+  // [2025-SUMMER] MOVIE: 劇場版 BULLET/BULLET 後章「弾丸決戦編」
+  // https://annict.com/works/16321
+  { annict_id: 16321 },
 ]
