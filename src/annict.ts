@@ -47360,4 +47360,16 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] WEB: Hondaバイク×クロミ オリジナルショートアニメ
   // https://annict.com/works/16314
   { annict_id: 16314 },
+  // [2023-AUTUMN] WEB: インビンシブル ～無敵のヒーロー～ シーズン2
+  // https://annict.com/works/16315
+  { annict_id: 16315 },
+  // [2025-WINTER] WEB: インビンシブル ～無敵のヒーロー～ シーズン3
+  // https://annict.com/works/16316
+  { annict_id: 16316 },
+  // [2023-SUMMER] WEB: インビンシブル ～無敵のヒーロー～ アトム･イブ スペシャル・エピソード
+  // https://annict.com/works/16317
+  { annict_id: 16317 },
+  // [2025-SUMMER] WEB: 【崩壊：スターレイル】ショートアニメ「聞け！神に祝福されし山頂で開かれた狂宴を！」
+  // https://annict.com/works/16318
+  { annict_id: 16318 },
 ]
