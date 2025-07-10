@@ -47393,4 +47393,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 運命の巻戻士
   // https://annict.com/works/16325
   { annict_id: 16325, mal_id: 62024 },
+  // [2025-SUMMER] WEB: も～っと！鉱物生活のススメ！
+  // https://annict.com/works/16326
+  { annict_id: 16326 },
 ]
