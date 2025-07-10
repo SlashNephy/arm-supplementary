@@ -45560,7 +45560,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 勇者のクズ
   // https://annict.com/works/15712
   { annict_id: 15712, mal_id: 61217 },
-  // [2026-WINTER] MOVIE: ガールズ＆パンツァー もっとらぶらぶ作戦です！
+  // [2025-AUTUMN] MOVIE: ガールズ＆パンツァー もっとらぶらぶ作戦です！第１幕
   // https://annict.com/works/15713
   { annict_id: 15713, mal_id: 61227 },
   // [2025-WINTER] MOVIE: ワールズ・ディバイド
@@ -47381,4 +47381,13 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] MOVIE: 劇場版 BULLET/BULLET 後章「弾丸決戦編」
   // https://annict.com/works/16321
   { annict_id: 16321 },
+  // [2026-WINTER] MOVIE: ガールズ＆パンツァー もっとらぶらぶ作戦です！第２幕
+  // https://annict.com/works/16322
+  { annict_id: 16322 },
+  // [2026-WINTER] MOVIE: ガールズ＆パンツァー もっとらぶらぶ作戦です！第３幕
+  // https://annict.com/works/16323
+  { annict_id: 16323 },
+  // [2026-SPRING] MOVIE: ガールズ＆パンツァー もっとらぶらぶ作戦です！第４幕
+  // https://annict.com/works/16324
+  { annict_id: 16324 },
 ]
