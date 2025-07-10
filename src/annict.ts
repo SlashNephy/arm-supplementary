@@ -37234,7 +37234,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12928 },
   // [2024-SPRING] WEB: 大槌超神楽ダイハンマー
   // https://annict.com/works/12929
-  { annict_id: 12929 },
+  { annict_id: 12929, mal_id: 62023 },
   // [2025-SPRING] TV: 真･侍伝 YAIBA
   // https://annict.com/works/12930
   { annict_id: 12930, mal_id: 58812, syobocal_tid: 7430 },
@@ -42776,7 +42776,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 透明少年探偵アキラ
   // https://annict.com/works/14783
   { annict_id: 14783, mal_id: 10812 },
-  // [2025-null] TV: 透明男と人間女～そのうち夫婦になるふたり～
+  // [2026-null] TV: 透明男と人間女～そのうち夫婦になるふたり～
   // https://annict.com/works/14784
   { annict_id: 14784, mal_id: 60395 },
   // [2025-WINTER] TV: RINGING FATE
@@ -47390,4 +47390,7 @@ export const annict: ArmEntry[] = [
   // [2026-SPRING] MOVIE: ガールズ＆パンツァー もっとらぶらぶ作戦です！第４幕
   // https://annict.com/works/16324
   { annict_id: 16324 },
+  // [null-null] TV: 運命の巻戻士
+  // https://annict.com/works/16325
+  { annict_id: 16325, mal_id: 62024 },
 ]
