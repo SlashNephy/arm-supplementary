@@ -47333,7 +47333,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] MOVIE: bâan-大人の彊界-
   // https://annict.com/works/16305
   { annict_id: 16305, mal_id: 61984 },
-  // [2025-SUMMER] WEB: えとたま 10周年記念特別ショートムービー「えとたまkids」～盤楽遊戯～
+  // [2025-SUMMER] WEB: えとたま 10周年記念特別ショートムービー「えとたまkids」
   // https://annict.com/works/16306
   { annict_id: 16306 },
   // [2026-null] WEB: BEASTARS FINAL SEASON Part2
