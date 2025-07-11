@@ -47396,4 +47396,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] WEB: も～っと！鉱物生活のススメ！
   // https://annict.com/works/16326
   { annict_id: 16326 },
+  // [2026-null] TV: ドッジ弾子
+  // https://annict.com/works/16328
+  { annict_id: 16328 },
 ]
