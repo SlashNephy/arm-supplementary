@@ -47183,7 +47183,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: Aランクパーティを離脱した俺は、元教え子たちと迷宮深部を目指す。  第2期
   // https://annict.com/works/16255
   { annict_id: 16255, mal_id: 61925 },
-  // [2025-SUMMER] MOVIE: 劇場編集版 Summer Pockets
+  // [2025-SUMMER] MOVIE: 劇場編集版 Summer Pockets 久島鴎編
   // https://annict.com/works/16256
   { annict_id: 16256, mal_id: 61926 },
   // [2025-AUTUMN] TV: ウマ娘 シンデレラグレイ 第2クール
@@ -47399,4 +47399,16 @@ export const annict: ArmEntry[] = [
   // [2026-null] TV: ドッジ弾子
   // https://annict.com/works/16328
   { annict_id: 16328 },
+  // [2025-SUMMER] MOVIE: 劇場編集版 Summer Pockets 紬ヴェンダース編
+  // https://annict.com/works/16329
+  { annict_id: 16329, mal_id: 61926 },
+  // [2025-SPRING] WEB: KPOPガールズ! デーモン・ハンターズ
+  // https://annict.com/works/16330
+  { annict_id: 16330 },
+  // [2025-SUMMER] MOVIE: 劇場編集版 Summer Pockets 空門蒼編
+  // https://annict.com/works/16331
+  { annict_id: 16331, mal_id: 61926 },
+  // [2025-SUMMER] MOVIE: 劇場編集版 Summer Pockets 鳴瀬しろは編
+  // https://annict.com/works/16332
+  { annict_id: 16332, mal_id: 61926 },
 ]
