@@ -47414,4 +47414,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] WEB: おブスに花束を
   // https://annict.com/works/16333
   { annict_id: 16333, mal_id: 62035 },
+  // [2026-null] MOVIE: KILLTUBE
+  // https://annict.com/works/16334
+  { annict_id: 16334, mal_id: 58756 },
 ]
