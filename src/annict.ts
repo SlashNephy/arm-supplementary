@@ -47411,4 +47411,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] MOVIE: 劇場編集版 Summer Pockets 鳴瀬しろは編
   // https://annict.com/works/16332
   { annict_id: 16332, mal_id: 61926 },
+  // [2025-SUMMER] WEB: おブスに花束を
+  // https://annict.com/works/16333
+  { annict_id: 16333 },
 ]
