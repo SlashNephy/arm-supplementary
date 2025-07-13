@@ -39898,7 +39898,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13817 },
   // [2024-AUTUMN] MOVIE: 鬼太郎誕生 ゲゲゲの謎 真生版
   // https://annict.com/works/13818
-  { annict_id: 13818 },
+  { annict_id: 13818, mal_id: 48426 },
   // [2018-WINTER] OVA: 黒桜の部屋
   // https://annict.com/works/13819
   { annict_id: 13819, mal_id: 36833 },
