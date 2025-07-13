@@ -26707,7 +26707,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9404, mal_id: 51154 },
   // [2022-WINTER] WEB: 大槌カイ物語 -Departure 出航-
   // https://annict.com/works/9405
-  { annict_id: 9405 },
+  { annict_id: 9405, mal_id: 62038 },
   // [2022-SPRING] WEB: Pokémon LEGENDS アルセウス「雪ほどきし二藍」
   // https://annict.com/works/9406
   { annict_id: 9406, mal_id: 51145 },
@@ -37231,7 +37231,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12927, mal_id: 58811, syobocal_tid: 7479 },
   // [2022-SPRING] WEB: 大槌カイ物語 -Voyage 航海-
   // https://annict.com/works/12928
-  { annict_id: 12928 },
+  { annict_id: 12928, mal_id: 62038 },
   // [2024-SPRING] WEB: 大槌超神楽ダイハンマー
   // https://annict.com/works/12929
   { annict_id: 12929, mal_id: 62023 },
@@ -47417,4 +47417,7 @@ export const annict: ArmEntry[] = [
   // [2026-null] MOVIE: KILLTUBE
   // https://annict.com/works/16334
   { annict_id: 16334, mal_id: 58756 },
+  // [null-null] OTHER: パンどろぼう
+  // https://annict.com/works/16335
+  { annict_id: 16335, mal_id: 62039 },
 ]
