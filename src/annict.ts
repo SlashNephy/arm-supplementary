@@ -47356,7 +47356,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16312, mal_id: 50250 },
   // [2025-SUMMER] WEB: 強くてニューサーガ ミニ
   // https://annict.com/works/16313
-  { annict_id: 16313 },
+  { annict_id: 16313, mal_id: 62025 },
   // [2025-SUMMER] WEB: Hondaバイク×クロミ オリジナルショートアニメ
   // https://annict.com/works/16314
   { annict_id: 16314 },
@@ -47426,4 +47426,7 @@ export const annict: ArmEntry[] = [
   // [2026-SPRING] TV: MAO
   // https://annict.com/works/16337
   { annict_id: 16337, mal_id: 62048 },
+  // [2025-AUTUMN] TV: モンスターストライク デッドバースリローデッド
+  // https://annict.com/works/16338
+  { annict_id: 16338 },
 ]
