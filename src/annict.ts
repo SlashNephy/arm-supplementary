@@ -47420,4 +47420,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: パンどろぼう
   // https://annict.com/works/16335
   { annict_id: 16335, mal_id: 62039 },
+  // [2025-SUMMER] WEB: ポケモンと駆ける夏物語
+  // https://annict.com/works/16336
+  { annict_id: 16336, mal_id: 62004 },
 ]
