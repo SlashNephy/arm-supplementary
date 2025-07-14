@@ -47429,4 +47429,10 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] TV: モンスターストライク デッドバースリローデッド
   // https://annict.com/works/16338
   { annict_id: 16338 },
+  // [2026-null] OTHER: グロウアップショウ ～ひまわりのサーカス団～
+  // https://annict.com/works/16339
+  { annict_id: 16339, mal_id: 62051 },
+  // [2026-null] TV: 神の庭付き楠木邸
+  // https://annict.com/works/16340
+  { annict_id: 16340, mal_id: 62050 },
 ]
