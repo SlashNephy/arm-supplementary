@@ -47423,4 +47423,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] WEB: ポケモンと駆ける夏物語
   // https://annict.com/works/16336
   { annict_id: 16336, mal_id: 62004 },
+  // [2026-SPRING] TV: MAO
+  // https://annict.com/works/16337
+  { annict_id: 16337, mal_id: 62048 },
 ]
