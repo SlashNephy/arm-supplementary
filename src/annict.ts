@@ -47435,4 +47435,10 @@ export const annict: ArmEntry[] = [
   // [2026-null] TV: 神の庭付き楠木邸
   // https://annict.com/works/16340
   { annict_id: 16340, mal_id: 62050 },
+  // [2015-SUMMER] TV: 団地ともお スペシャル ～夏休みの宿題は終わったのかよ？ともお～
+  // https://annict.com/works/16341
+  { annict_id: 16341 },
+  // [2024-null] OTHER: Warmth in a Puddle
+  // https://annict.com/works/16342
+  { annict_id: 16342 },
 ]
