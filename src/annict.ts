@@ -6913,7 +6913,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2308, mal_id: 4591, syobocal_tid: 476 },
   // [2009-SUMMER] TV: よくわかる現代魔法
   // https://annict.com/works/2309
-  { annict_id: 2309, mal_id: 6748, syobocal_tid: 1665 },
+  { annict_id: 2309, mal_id: 5454, syobocal_tid: 1665 },
   // [2001-AUTUMN] TV: よばれてとびでて！アクビちゃん
   // https://annict.com/works/2310
   { annict_id: 2310, mal_id: 5474, syobocal_tid: 730 },
@@ -43852,7 +43852,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15142 },
   // [2025-SUMMER] TV: 特装合体ロボ ジョブレイバー(2025)
   // https://annict.com/works/15143
-  { annict_id: 15143 },
+  { annict_id: 15143, mal_id: 62046 },
   // [2020-SUMMER] TV: ブルーイ
   // https://annict.com/works/15144
   { annict_id: 15144 },
@@ -47029,7 +47029,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16203 },
   // [2025-SUMMER] TV: ネコのクラちゃん ～Ordinary days～
   // https://annict.com/works/16204
-  { annict_id: 16204, syobocal_tid: 7537 },
+  { annict_id: 16204, mal_id: 62055, syobocal_tid: 7537 },
   // [2025-SUMMER] TV: ネコこのゴロ～天下統一編～
   // https://annict.com/works/16205
   { annict_id: 16205, mal_id: 61914, syobocal_tid: 7520 },
@@ -47158,7 +47158,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16246, mal_id: 61347 },
   // [2025-SPRING] TV: あんまり役に立たない日本史
   // https://annict.com/works/16247
-  { annict_id: 16247 },
+  { annict_id: 16247, mal_id: 62047 },
   // [2026-null] TV: 片田舎のおっさん、剣聖になる 第二期
   // https://annict.com/works/16248
   { annict_id: 16248, mal_id: 61897 },
@@ -47437,7 +47437,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16340, mal_id: 62050 },
   // [2015-SUMMER] TV: 団地ともお スペシャル ～夏休みの宿題は終わったのかよ？ともお～
   // https://annict.com/works/16341
-  { annict_id: 16341 },
+  { annict_id: 16341, mal_id: 31436 },
   // [2024-null] OTHER: Warmth in a Puddle
   // https://annict.com/works/16342
   { annict_id: 16342 },
