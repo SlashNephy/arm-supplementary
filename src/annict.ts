@@ -47441,4 +47441,7 @@ export const annict: ArmEntry[] = [
   // [2024-null] OTHER: Warmth in a Puddle
   // https://annict.com/works/16342
   { annict_id: 16342 },
+  // [2025-AUTUMN] TV: 魔法少女まどか☆マギカ 始まりの物語／永遠の物語 TV Edition
+  // https://annict.com/works/16343
+  { annict_id: 16343 },
 ]
