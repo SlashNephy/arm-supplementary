@@ -844,7 +844,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 280, mal_id: 9028 },
   // [2005-SPRING] TV: 英國戀物語エマ
   // https://annict.com/works/281
-  { annict_id: 281, mal_id: 2517, syobocal_tid: 545 },
+  { annict_id: 281, mal_id: 345, syobocal_tid: 545 },
   // [2007-SPRING] TV: 英國戀物語エマ 第二幕
   // https://annict.com/works/282
   { annict_id: 282, mal_id: 2035, syobocal_tid: 1033 },
