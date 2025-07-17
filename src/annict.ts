@@ -31382,7 +31382,7 @@ export const annict: ArmEntry[] = [
   // [2023-SPRING] WEB: おかしな転生 ミニアニメ「ペイストリーのおかしなそうだんしつ！」
   // https://annict.com/works/10970
   { annict_id: 10970, mal_id: 55753 },
-  // [null-null] TV: ゴールデンカムイ 最終章
+  // [2026-WINTER] TV: ゴールデンカムイ 最終章
   // https://annict.com/works/10971
   { annict_id: 10971, mal_id: 55772 },
   // [2024-WINTER] TV: 姫様“拷問”の時間です
@@ -47444,4 +47444,13 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] TV: 魔法少女まどか☆マギカ 始まりの物語／永遠の物語 TV Edition
   // https://annict.com/works/16343
   { annict_id: 16343 },
+  // [2026-null] TV: スノウボールアース
+  // https://annict.com/works/16344
+  { annict_id: 16344, mal_id: 62068 },
+  // [2025-AUTUMN] MOVIE: 劇場先行版 ゴールデンカムイ 札幌ビール工場編【前編】
+  // https://annict.com/works/16345
+  { annict_id: 16345, mal_id: 62067 },
+  // [2025-AUTUMN] MOVIE: 劇場先行版 ゴールデンカムイ 札幌ビール工場編【後編】
+  // https://annict.com/works/16346
+  { annict_id: 16346, mal_id: 62067 },
 ]
