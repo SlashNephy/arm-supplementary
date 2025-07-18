@@ -33212,7 +33212,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] WEB: GREAT PRETENDER razbliuto
   // https://annict.com/works/11582
   { annict_id: 11582, mal_id: 57184 },
-  // [null-null] TV: デブとラブと過ちと！
+  // [2025-AUTUMN] TV: デブとラブと過ちと！
   // https://annict.com/works/11583
   { annict_id: 11583, mal_id: 57189 },
   // [2024-SUMMER] TV: かつて魔法少女と悪は敵対していた。
@@ -47585,4 +47585,7 @@ export const annict: ArmEntry[] = [
   // [2019-SPRING] WEB: 荒ぶる季節の乙女どもよ。 ミニアニメ
   // https://annict.com/works/16390
   { annict_id: 16390, mal_id: 56624 },
+  // [2026-null] TV: スーパーの裏でヤニ吸うふたり
+  // https://annict.com/works/16391
+  { annict_id: 16391, mal_id: 62076 },
 ]
