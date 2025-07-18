@@ -44482,7 +44482,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15352, mal_id: 5935, syobocal_tid: 6668 },
   // [2025-AUTUMN] TV: 科学×冒険サバイバル！ 第2シリーズ
   // https://annict.com/works/15353
-  { annict_id: 15353 },
+  { annict_id: 15353, mal_id: 60983 },
   // [2005-SUMMER] TV: みんなヒーロー! 〜ヒグリータウンのなかまたち〜
   // https://annict.com/works/15354
   { annict_id: 15354 },
