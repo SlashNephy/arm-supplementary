@@ -47504,4 +47504,43 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] WEB: 外れスキル《木の実マスター》ミニアニメ
   // https://annict.com/works/16363
   { annict_id: 16363, mal_id: 61534 },
+  // [2020-SUMMER] WEB: 彼女、お借りします ぷち
+  // https://annict.com/works/16364
+  { annict_id: 16364, mal_id: 42867 },
+  // [2022-SUMMER] WEB: 彼女、お借りします ぷち 第2期
+  // https://annict.com/works/16365
+  { annict_id: 16365, mal_id: 52562 },
+  // [2023-SUMMER] WEB: 彼女、お借りします ぷち 第3期
+  // https://annict.com/works/16366
+  { annict_id: 16366, mal_id: 56740 },
+  // [2022-SUMMER] WEB: ぷち！東京ミュウミュウ にゅ～♡
+  // https://annict.com/works/16367
+  { annict_id: 16367, mal_id: 52612 },
+  // [2023-WINTER] WEB: イジらないで、長瀞さん 2nd Attack ミニアニメ
+  // https://annict.com/works/16368
+  { annict_id: 16368, mal_id: 54133 },
+  // [2020-SUMMER] WEB: スライムたちの井戸端会議
+  // https://annict.com/works/16369
+  { annict_id: 16369, mal_id: 44591 },
+  // [2022-AUTUMN] WEB: スライムたちの井戸端会議！２
+  // https://annict.com/works/16370
+  { annict_id: 16370, mal_id: 53955 },
+  // [2021-WINTER] WEB: 異世界魔王と召喚少女の奴隷魔術Ω ミニアニメ
+  // https://annict.com/works/16371
+  { annict_id: 16371, mal_id: 48615 },
+  // [2021-WINTER] WEB: ましろのおと ミニ
+  // https://annict.com/works/16372
+  { annict_id: 16372, mal_id: 46119 },
+  // [2020-WINTER] WEB: 映像研には手を出すな！ ミニアニメ
+  // https://annict.com/works/16373
+  { annict_id: 16373, mal_id: 41454 },
+  // [2020-AUTUMN] WEB: 魔王城でおやすみ 魔物たちの苦悩
+  // https://annict.com/works/16374
+  { annict_id: 16374, mal_id: 47811 },
+  // [2019-AUTUMN] WEB: 継つぐもも ミニアニメ
+  // https://annict.com/works/16375
+  { annict_id: 16375, mal_id: 48672 },
+  // [2019-SPRING] WEB: 魔王様、“プチ”リトライ！
+  // https://annict.com/works/16376
+  { annict_id: 16376, mal_id: 40749 },
 ]
