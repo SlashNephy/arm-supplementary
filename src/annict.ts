@@ -47588,4 +47588,7 @@ export const annict: ArmEntry[] = [
   // [2026-null] TV: スーパーの裏でヤニ吸うふたり
   // https://annict.com/works/16391
   { annict_id: 16391, mal_id: 62076 },
+  // [2020-WINTER] WEB: KiraKira増刊号！
+  // https://annict.com/works/16392
+  { annict_id: 16392, mal_id: 40989 },
 ]
