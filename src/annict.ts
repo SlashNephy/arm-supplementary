@@ -46006,7 +46006,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15861 },
   // [2025-SPRING] WEB: ちびぜんじ先生 居残り講義録
   // https://annict.com/works/15862
-  { annict_id: 15862 },
+  { annict_id: 15862, mal_id: 61491 },
   // [2026-null] MOVIE: クスノキの番人
   // https://annict.com/works/15863
   { annict_id: 15863, mal_id: 61418 },
@@ -47428,7 +47428,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16337, mal_id: 62048 },
   // [2025-AUTUMN] TV: モンスターストライク デッドバースリローデッド
   // https://annict.com/works/16338
-  { annict_id: 16338 },
+  { annict_id: 16338, mal_id: 62066 },
   // [2026-null] OTHER: グロウアップショウ ～ひまわりのサーカス団～
   // https://annict.com/works/16339
   { annict_id: 16339, mal_id: 62051 },
@@ -47440,7 +47440,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16341, mal_id: 31436 },
   // [2024-null] OTHER: Warmth in a Puddle
   // https://annict.com/works/16342
-  { annict_id: 16342 },
+  { annict_id: 16342, mal_id: 62057 },
   // [2025-AUTUMN] TV: 魔法少女まどか☆マギカ 始まりの物語／永遠の物語 TV Edition
   // https://annict.com/works/16343
   { annict_id: 16343 },
@@ -47453,4 +47453,40 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] MOVIE: 劇場先行版 ゴールデンカムイ 札幌ビール工場編【後編】
   // https://annict.com/works/16346
   { annict_id: 16346, mal_id: 62067 },
+  // [2020-SUMMER] WEB: 腐男子召喚～異世界で神獣にハメられました～
+  // https://annict.com/works/16347
+  { annict_id: 16347, mal_id: 42855 },
+  // [2021-AUTUMN] WEB: 腐男子召喚～異世界で神獣にハメられました～ 2nd
+  // https://annict.com/works/16348
+  { annict_id: 16348, mal_id: 50290 },
+  // [2022-SUMMER] WEB: 腐男子召喚～異世界で神獣にハメられました～ 3rd
+  // https://annict.com/works/16349
+  { annict_id: 16349, mal_id: 52355 },
+  // [2022-AUTUMN] WEB: 腐男子召喚～異世界で神獣にハメられました～ 4th
+  // https://annict.com/works/16350
+  { annict_id: 16350, mal_id: 55278 },
+  // [2023-WINTER] WEB: 舌先から恋
+  // https://annict.com/works/16351
+  { annict_id: 16351, mal_id: 54692 },
+  // [2023-SPRING] WEB: 腐男子召喚～異世界で神獣にハメられました～ 5th
+  // https://annict.com/works/16352
+  { annict_id: 16352, mal_id: 55279 },
+  // [2023-AUTUMN] WEB: 腐男子召喚～異世界で神獣にハメられました～ 6th
+  // https://annict.com/works/16353
+  { annict_id: 16353, mal_id: 57489 },
+  // [2024-SPRING] WEB: 舌先から恋 第2弾
+  // https://annict.com/works/16354
+  { annict_id: 16354, mal_id: 59036 },
+  // [2024-SPRING] WEB: 腐男子召喚～異世界で神獣にハメられました～ 7th
+  // https://annict.com/works/16355
+  { annict_id: 16355, mal_id: 60328 },
+  // [2024-AUTUMN] WEB: 腐男子召喚～異世界で神獣にハメられました～ 8th
+  // https://annict.com/works/16356
+  { annict_id: 16356, mal_id: 60653 },
+  // [2025-SPRING] WEB: 腐男子召喚～異世界で神獣にハメられました～ 9th
+  // https://annict.com/works/16357
+  { annict_id: 16357, mal_id: 62060 },
+  // [2022-AUTUMN] WEB: 贄姫と獣の王 ミニアニメ
+  // https://annict.com/works/16358
+  { annict_id: 16358, mal_id: 54210 },
 ]
