@@ -22105,7 +22105,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 7645 },
   // [2019-AUTUMN] WEB: ノー・ガンズ・ライフ ミニ
   // https://annict.com/works/7646
-  { annict_id: 7646 },
+  { annict_id: 7646, mal_id: 55043 },
   // [1996-SPRING] OVA: シャーマニックプリンセス
   // https://annict.com/works/7647
   { annict_id: 7647, mal_id: 1182 },
@@ -25264,7 +25264,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 8827, mal_id: 49551, syobocal_tid: 6395 },
   // [2021-SUMMER] WEB: 『天才王子の赤字国家再生術』ショートドラマ
   // https://annict.com/works/8828
-  { annict_id: 8828 },
+  { annict_id: 8828, mal_id: 49592 },
   // [2021-AUTUMN] WEB: リッチ警官キャッシュ！
   // https://annict.com/works/8829
   { annict_id: 8829, mal_id: 49598 },
@@ -31534,7 +31534,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11020, mal_id: 55973, syobocal_tid: 6922 },
   // [2023-SUMMER] WEB: うちの会社の小さい先輩の話 Twitterミニアニメ
   // https://annict.com/works/11021
-  { annict_id: 11021 },
+  { annict_id: 11021, mal_id: 56376 },
   // [2023-SUMMER] WEB: キンバリー魔法学校のゆかいな日常
   // https://annict.com/works/11022
   { annict_id: 11022, mal_id: 55804 },
@@ -31732,7 +31732,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11086, mal_id: 56352, syobocal_tid: 6913 },
   // [2023-SUMMER] WEB: マッシュ・バーンデッドたちと寮生活
   // https://annict.com/works/11087
-  { annict_id: 11087 },
+  { annict_id: 11087, mal_id: 59138 },
   // [2024-WINTER] MOVIE: 劇場版ハイキュー!! ゴミ捨て場の決戦
   // https://annict.com/works/11088
   { annict_id: 11088, mal_id: 52742 },
@@ -32275,7 +32275,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11267 },
   // [2023-AUTUMN] WEB: 僕らの雨いろプロトコル ミニアニメ
   // https://annict.com/works/11268
-  { annict_id: 11268 },
+  { annict_id: 11268, mal_id: 56869 },
   // [2026-SPRING] TV: お隣の天使様にいつの間にか駄目人間にされていた件2
   // https://annict.com/works/11269
   { annict_id: 11269, mal_id: 56876 },
@@ -35059,7 +35059,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12200, mal_id: 58648 },
   // [2024-WINTER] WEB: チェリまほミニ劇場
   // https://annict.com/works/12201
-  { annict_id: 12201 },
+  { annict_id: 12201, mal_id: 57600 },
   // [2024-WINTER] TV: 忍ばない！クリプトニンジャ咲耶 弐ノ巻
   // https://annict.com/works/12202
   { annict_id: 12202, mal_id: 57605, syobocal_tid: 6812 },
@@ -47543,4 +47543,46 @@ export const annict: ArmEntry[] = [
   // [2019-SPRING] WEB: 魔王様、“プチ”リトライ！
   // https://annict.com/works/16376
   { annict_id: 16376, mal_id: 40749 },
+  // [2024-WINTER] WEB: ゆびさきと恋々 ミニアニメ
+  // https://annict.com/works/16377
+  { annict_id: 16377, mal_id: 57782 },
+  // [2023-SPRING] WEB: 終末のワルキューレII ミニアニメ
+  // https://annict.com/works/16378
+  { annict_id: 16378, mal_id: 54990 },
+  // [2023-WINTER] WEB: 解雇された暗黒兵士 (30代) のスローなセカンドライフ ミニアニメ
+  // https://annict.com/works/16379
+  { annict_id: 16379, mal_id: 54084 },
+  // [2022-AUTUMN] WEB: 最強陰陽師の異世界転生記 みに
+  // https://annict.com/works/16380
+  { annict_id: 16380, mal_id: 54683 },
+  // [2022-SUMMER] WEB: 悪役令嬢なのでラスボスを飼ってみました ミニ
+  // https://annict.com/works/16381
+  { annict_id: 16381, mal_id: 53085 },
+  // [2022-SPRING] WEB: 勇者、辞めます ぷち広間
+  // https://annict.com/works/16382
+  { annict_id: 16382, mal_id: 52977 },
+  // [2022-WINTER] WEB: 組長娘と世話係 ピクチャードラマ
+  // https://annict.com/works/16383
+  { annict_id: 16383, mal_id: 50930 },
+  // [2021-SPRING] WEB: ピーチボーイリバーサイド ミニアニメ
+  // https://annict.com/works/16384
+  { annict_id: 16384, mal_id: 49214 },
+  // [2020-AUTUMN] WEB: 2.43 清陰高校男子バレー部 ミニアニメ
+  // https://annict.com/works/16385
+  { annict_id: 16385, mal_id: 46000 },
+  // [2020-AUTUMN] WEB: 2.43 清陰高校男子バレー部 ミニアニメ バレーボール講座
+  // https://annict.com/works/16386
+  { annict_id: 16386, mal_id: 45585 },
+  // [2021-WINTER] WEB: 2.43 清陰高校男子バレー部 ミニアニメ 福井弁講座
+  // https://annict.com/works/16387
+  { annict_id: 16387, mal_id: 46003 },
+  // [2021-WINTER] WEB: 2.43 清陰高校男子バレー部 ミニアニメ inside story
+  // https://annict.com/works/16388
+  { annict_id: 16388, mal_id: 46004 },
+  // [2021-WINTER] WEB: 炎炎ノ消防隊 ミニアニメ
+  // https://annict.com/works/16389
+  { annict_id: 16389, mal_id: 45999 },
+  // [2019-SPRING] WEB: 荒ぶる季節の乙女どもよ。 ミニアニメ
+  // https://annict.com/works/16390
+  { annict_id: 16390, mal_id: 56624 },
 ]
