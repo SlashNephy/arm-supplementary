@@ -47489,4 +47489,19 @@ export const annict: ArmEntry[] = [
   // [2022-AUTUMN] WEB: 贄姫と獣の王 ミニアニメ
   // https://annict.com/works/16358
   { annict_id: 16358, mal_id: 54210 },
+  // [2019-SUMMER] WEB: 真・中華一番！ぷち
+  // https://annict.com/works/16359
+  { annict_id: 16359 },
+  // [2020-SUMMER] WEB: 真・中華一番！クイズだよ！全員集合!!
+  // https://annict.com/works/16360
+  { annict_id: 16360 },
+  // [2020-AUTUMN] WEB: 真・中華一番！マオの知らない五虎星
+  // https://annict.com/works/16361
+  { annict_id: 16361 },
+  // [2020-AUTUMN] WEB: 真・中華一番！中華の鉄人
+  // https://annict.com/works/16362
+  { annict_id: 16362 },
+  // [2025-WINTER] WEB: 外れスキル《木の実マスター》ミニアニメ
+  // https://annict.com/works/16363
+  { annict_id: 16363, mal_id: 61534 },
 ]
