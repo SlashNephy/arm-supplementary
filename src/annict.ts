@@ -43013,7 +43013,7 @@ export const annict: ArmEntry[] = [
   // [2009-SPRING] MOVIE: SUPERFLAT FIRST LOVE
   // https://annict.com/works/14862
   { annict_id: 14862, mal_id: 6607 },
-  // [null-null] TV: ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～
+  // [2026-WINTER] TV: ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～
   // https://annict.com/works/14863
   { annict_id: 14863, mal_id: 60460 },
   // [1978-null] MOVIE: ピカドン
