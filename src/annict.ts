@@ -47603,4 +47603,10 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 無自覚聖女は今日も無意識に力を垂れ流す
   // https://annict.com/works/16396
   { annict_id: 16396, mal_id: 62080 },
+  // [null-null] TV: 俺は全てを【パリイ】する ～逆勘違いの世界最強は冒険者になりたい～ 第2期
+  // https://annict.com/works/16397
+  { annict_id: 16397, mal_id: 62081 },
+  // [2025-SUMMER] TV: トミカとトム
+  // https://annict.com/works/16398
+  { annict_id: 16398, mal_id: 62083 },
 ]
