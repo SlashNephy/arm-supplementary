@@ -47591,4 +47591,7 @@ export const annict: ArmEntry[] = [
   // [2020-WINTER] WEB: KiraKira増刊号！
   // https://annict.com/works/16392
   { annict_id: 16392, mal_id: 40989 },
+  // [null-null] OTHER: サイボーグ009 ネメシス
+  // https://annict.com/works/16393
+  { annict_id: 16393 },
 ]
