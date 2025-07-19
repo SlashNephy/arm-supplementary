@@ -47593,5 +47593,14 @@ export const annict: ArmEntry[] = [
   { annict_id: 16392, mal_id: 40989 },
   // [null-null] OTHER: サイボーグ009 ネメシス
   // https://annict.com/works/16393
-  { annict_id: 16393 },
+  { annict_id: 16393, mal_id: 62079 },
+  // [2023-SPRING] WEB: 贄姫と獣の王 ケモ姫と普通の王
+  // https://annict.com/works/16394
+  { annict_id: 16394 },
+  // [null-null] TV: 領民０人スタートの辺境領主様
+  // https://annict.com/works/16395
+  { annict_id: 16395, mal_id: 62078 },
+  // [null-null] TV: 無自覚聖女は今日も無意識に力を垂れ流す
+  // https://annict.com/works/16396
+  { annict_id: 16396, mal_id: 62080 },
 ]
