@@ -47359,7 +47359,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16313, mal_id: 62025 },
   // [2025-SUMMER] WEB: Hondaバイク×クロミ オリジナルショートアニメ
   // https://annict.com/works/16314
-  { annict_id: 16314 },
+  { annict_id: 16314, mal_id: 62073 },
   // [2023-AUTUMN] WEB: インビンシブル ～無敵のヒーロー～ シーズン2
   // https://annict.com/works/16315
   { annict_id: 16315 },
