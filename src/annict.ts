@@ -47609,7 +47609,10 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] TV: トミカとトム
   // https://annict.com/works/16398
   { annict_id: 16398, mal_id: 62083 },
-  // [2025-AUTUMN] OVA: ぬきたし THE ANIMATION 完全新作ショートOVA
+  // [2025-AUTUMN] OVA: ぬきたし THE ANIMATION 完全新作ショートOVA 上巻
   // https://annict.com/works/16399
   { annict_id: 16399 },
+  // [2025-AUTUMN] OVA: ぬきたし THE ANIMATION 完全新作ショートOVA 下巻
+  // https://annict.com/works/16400
+  { annict_id: 16400 },
 ]
