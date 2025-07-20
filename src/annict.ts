@@ -47615,4 +47615,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] OVA: ぬきたし THE ANIMATION 完全新作ショートOVA 下巻
   // https://annict.com/works/16400
   { annict_id: 16400 },
+  // [2025-SUMMER] WEB: デキちゃうまで婚ぷちっ！  ～野菜だってデキちゃう！～
+  // https://annict.com/works/16401
+  { annict_id: 16401 },
 ]
