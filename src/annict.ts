@@ -47621,4 +47621,7 @@ export const annict: ArmEntry[] = [
   // [2018-SUMMER] MOVIE: 陸にあがった人魚のはなし(パイロット版)
   // https://annict.com/works/16402
   { annict_id: 16402 },
+  // [2025-SUMMER] TV: 鬼滅の刃 そして無限城へ
+  // https://annict.com/works/16403
+  { annict_id: 16403 },
 ]
