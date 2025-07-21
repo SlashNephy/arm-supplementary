@@ -47618,4 +47618,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] WEB: デキちゃうまで婚ぷちっ！  ～野菜だってデキちゃう！～
   // https://annict.com/works/16401
   { annict_id: 16401 },
+  // [2018-SUMMER] MOVIE: 陸にあがった人魚のはなし(パイロット版)
+  // https://annict.com/works/16402
+  { annict_id: 16402 },
 ]
