@@ -43226,7 +43226,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: 忠犬もちしば ショートアニメ
   // https://annict.com/works/14933
   { annict_id: 14933 },
-  // [2025-null] TV: 不器用な先輩。
+  // [2025-AUTUMN] TV: 不器用な先輩。
   // https://annict.com/works/14934
   { annict_id: 14934, mal_id: 60531 },
   // [2025-WINTER] TV: 聖女なのに国を追い出されたので、崩壊寸前の隣国へ来ました～力を解放したので国が平和になってきましたが元の国まで加護は届きませんよ～
