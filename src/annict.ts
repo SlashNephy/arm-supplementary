@@ -31936,7 +31936,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11154 },
   // [2003-SPRING] TV: スーパートレインがんばりダッシュ
   // https://annict.com/works/11155
-  { annict_id: 11155 },
+  { annict_id: 11155, mal_id: 60329 },
   // [2003-WINTER] TV: ZoomZoo
   // https://annict.com/works/11156
   { annict_id: 11156 },
@@ -36208,7 +36208,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12584, mal_id: 58091 },
   // [2024-WINTER] WEB: ジブリパーク ゆっくりきて下さい。動く城編
   // https://annict.com/works/12585
-  { annict_id: 12585 },
+  { annict_id: 12585, mal_id: 58118 },
   // [2024-SPRING] MOVIE: ルックバック
   // https://annict.com/works/12586
   { annict_id: 12586, mal_id: 58125 },
@@ -46792,7 +46792,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16123, mal_id: 61782 },
   // [2025-SPRING] WEB: “オハナ＜家族＞”のハートフルショートアニメーション
   // https://annict.com/works/16124
-  { annict_id: 16124 },
+  { annict_id: 16124, mal_id: 62093 },
   // [2014-AUTUMN] WEB: 「ベイマックス」鉄拳パラパラ漫画PV
   // https://annict.com/works/16125
   { annict_id: 16125, mal_id: 28433 },
@@ -47624,4 +47624,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] TV: 鬼滅の刃 そして無限城へ
   // https://annict.com/works/16403
   { annict_id: 16403 },
+  // [null-null] OTHER: ひらやすみ
+  // https://annict.com/works/16404
+  { annict_id: 16404, mal_id: 62100 },
 ]
