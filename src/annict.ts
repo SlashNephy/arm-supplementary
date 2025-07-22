@@ -46744,7 +46744,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16107, mal_id: 21765 },
   // [2025-SPRING] WEB: いっしょって、いいね。
   // https://annict.com/works/16108
-  { annict_id: 16108 },
+  { annict_id: 16108, mal_id: 62101 },
   // [1935-AUTUMN] MOVIE: Musical Memories（原題）
   // https://annict.com/works/16109
   { annict_id: 16109 },
@@ -47630,4 +47630,7 @@ export const annict: ArmEntry[] = [
   // [2026-null] TV: いびってこない義母と義姉
   // https://annict.com/works/16405
   { annict_id: 16405, mal_id: 62102 },
+  // [2027-null] OTHER: ポケモンテイルズ ネギガナイトとピチューの冒険
+  // https://annict.com/works/16406
+  { annict_id: 16406 },
 ]
