@@ -47627,4 +47627,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: ひらやすみ
   // https://annict.com/works/16404
   { annict_id: 16404, mal_id: 62100 },
+  // [2026-null] TV: いびってこない義母と義姉
+  // https://annict.com/works/16405
+  { annict_id: 16405 },
 ]
