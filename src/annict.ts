@@ -44177,7 +44177,7 @@ export const annict: ArmEntry[] = [
   // [2004-SPRING] TV: ティーモ・シュプリーモ
   // https://annict.com/works/15251
   { annict_id: 15251 },
-  // [2025-null] TV: ちゃんと吸えない吸血鬼ちゃん
+  // [2025-AUTUMN] TV: ちゃんと吸えない吸血鬼ちゃん
   // https://annict.com/works/15252
   { annict_id: 15252, mal_id: 60933 },
   // [2000-SPRING] TV: ムーぽん (第2期)
@@ -47633,4 +47633,7 @@ export const annict: ArmEntry[] = [
   // [2027-null] OTHER: ポケモンテイルズ ネギガナイトとピチューの冒険
   // https://annict.com/works/16406
   { annict_id: 16406 },
+  // [null-null] MOVIE: TAMALA 2030 -a punk cat in dark-
+  // https://annict.com/works/16407
+  { annict_id: 16407, mal_id: 61699 },
 ]
