@@ -45350,7 +45350,7 @@ export const annict: ArmEntry[] = [
   // [2000-AUTUMN] TV: ネッズニュート
   // https://annict.com/works/15642
   { annict_id: 15642 },
-  // [null-null] TV: 素材採取家の異世界旅行記
+  // [2025-AUTUMN] TV: 素材採取家の異世界旅行記
   // https://annict.com/works/15643
   { annict_id: 15643, mal_id: 61174 },
   // [2014-AUTUMN] MOVIE: パタパタ
