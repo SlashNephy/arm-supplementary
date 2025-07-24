@@ -47636,4 +47636,7 @@ export const annict: ArmEntry[] = [
   // [null-null] MOVIE: TAMALA 2030 -a punk cat in dark-
   // https://annict.com/works/16407
   { annict_id: 16407, mal_id: 61699 },
+  // [2025-SPRING] MOVIE: シナぷしゅ THE MOVIE ぷしゅほっぺダンシングPARTY
+  // https://annict.com/works/16408
+  { annict_id: 16408, mal_id: 62108 },
 ]
