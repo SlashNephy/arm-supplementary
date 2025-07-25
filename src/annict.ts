@@ -47642,4 +47642,10 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] MOVIE: 機動戦士ガンダム 鉄血のオルフェンズ ウルズハント -小さな挑戦者の軌跡-
   // https://annict.com/works/16409
   { annict_id: 16409 },
+  // [null-null] TV: Spicy Candy
+  // https://annict.com/works/16410
+  { annict_id: 16410, mal_id: 54558 },
+  // [null-null] TV: Spicy Candy 2期
+  // https://annict.com/works/16411
+  { annict_id: 16411 },
 ]
