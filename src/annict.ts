@@ -47648,4 +47648,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: Spicy Candy 2期
   // https://annict.com/works/16411
   { annict_id: 16411 },
+  // [2024-SUMMER] MOVIE: も～っとつながる！KING OF PRISM -Your Endless Call- み～んなきらめけ！プリズム☆ツアーズ
+  // https://annict.com/works/16412
+  { annict_id: 16412 },
 ]
