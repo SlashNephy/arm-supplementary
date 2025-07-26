@@ -38572,7 +38572,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13375, mal_id: 60093, syobocal_tid: 7079 },
   // [2024-WINTER] WEB: UR賃貸住宅×耐え子の日常 くらしのカレッジ
   // https://annict.com/works/13376
-  { annict_id: 13376 },
+  { annict_id: 13376, mal_id: 62115 },
   // [1949-SPRING] MOVIE: ドナルドの難破船
   // https://annict.com/works/13377
   { annict_id: 13377 },
@@ -42007,7 +42007,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14526, mal_id: 7876 },
   // [2024-AUTUMN] MOVIE: こまねこのかいがいりょこう
   // https://annict.com/works/14527
-  { annict_id: 14527 },
+  { annict_id: 14527, mal_id: 62114 },
   // [2006-AUTUMN] MOVIE: こま撮りえいが こまねこ
   // https://annict.com/works/14528
   { annict_id: 14528, mal_id: 7547 },
