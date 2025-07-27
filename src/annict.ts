@@ -45827,7 +45827,7 @@ export const annict: ArmEntry[] = [
   // [2026-WINTER] TV: 青のミブロ 芹沢暗殺編
   // https://annict.com/works/15801
   { annict_id: 15801, mal_id: 61333 },
-  // [null-null] TV: メダリスト 第2期
+  // [2026-WINTER] TV: メダリスト 第2期
   // https://annict.com/works/15802
   { annict_id: 15802, mal_id: 61335 },
   // [2023-SPRING] MOVIE: マルセル 靴をはいた小さな貝
