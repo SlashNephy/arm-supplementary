@@ -47651,4 +47651,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] MOVIE: も～っとつながる！KING OF PRISM -Your Endless Call- み～んなきらめけ！プリズム☆ツアーズ
   // https://annict.com/works/16412
   { annict_id: 16412 },
+  // [2025-AUTUMN] TV: SI-VIS: The Sound of Heroes
+  // https://annict.com/works/16413
+  { annict_id: 16413, mal_id: 62126 },
 ]
