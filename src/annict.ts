@@ -47657,4 +47657,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] WEB: アイズ・オブ・ワカンダ
   // https://annict.com/works/16414
   { annict_id: 16414 },
+  // [2025-SUMMER] MOVIE: Sky ふたつの灯火 −前篇−
+  // https://annict.com/works/16415
+  { annict_id: 16415 },
 ]
