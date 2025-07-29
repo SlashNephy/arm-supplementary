@@ -35323,7 +35323,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12288, mal_id: 30378 },
   // [2022-SUMMER] TV: 吉田勝子のさりとて暮らしのSDGs
   // https://annict.com/works/12289
-  { annict_id: 12289, syobocal_tid: 6453 },
+  { annict_id: 12289, mal_id: 62121, syobocal_tid: 6453 },
   // [2020-AUTUMN] WEB: 発明王 ニバン・センジ
   // https://annict.com/works/12290
   { annict_id: 12290 },
@@ -47344,7 +47344,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16308, mal_id: 62005 },
   // [2025-SPRING] WEB: Google Play で超無双！？転生したら Android ユーザーだった。
   // https://annict.com/works/16309
-  { annict_id: 16309 },
+  { annict_id: 16309, mal_id: 61862 },
   // [1980-SUMMER] MOVIE: Foods and Fun: A Nutrition Adventure（原題）
   // https://annict.com/works/16310
   { annict_id: 16310 },
