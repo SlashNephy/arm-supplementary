@@ -47654,4 +47654,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] TV: SI-VIS: The Sound of Heroes
   // https://annict.com/works/16413
   { annict_id: 16413, mal_id: 62126 },
+  // [2025-SUMMER] WEB: アイズ・オブ・ワカンダ
+  // https://annict.com/works/16414
+  { annict_id: 16414 },
 ]
