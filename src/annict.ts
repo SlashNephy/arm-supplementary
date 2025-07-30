@@ -47666,4 +47666,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] WEB: ゼウスの血 シーズン3
   // https://annict.com/works/16417
   { annict_id: 16417 },
+  // [2025-AUTUMN] TV: ポーション、わが身を助ける
+  // https://annict.com/works/16418
+  { annict_id: 16418 },
 ]
