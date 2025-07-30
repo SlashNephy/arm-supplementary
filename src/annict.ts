@@ -47660,4 +47660,10 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] MOVIE: Sky ふたつの灯火 −前篇−
   // https://annict.com/works/16415
   { annict_id: 16415 },
+  // [2024-SPRING] WEB: ゼウスの血 シーズン2
+  // https://annict.com/works/16416
+  { annict_id: 16416 },
+  // [2025-SPRING] WEB: ゼウスの血 シーズン3
+  // https://annict.com/works/16417
+  { annict_id: 16417 },
 ]
