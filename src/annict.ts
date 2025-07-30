@@ -39791,7 +39791,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] WEB: アイ･アム･グルート シーズン2
   // https://annict.com/works/13782
   { annict_id: 13782 },
-  // [2025-null] TV: ガンバレ！中村くん！！
+  // [2026-null] TV: ガンバレ！中村くん！！
   // https://annict.com/works/13783
   { annict_id: 13783, mal_id: 59551 },
   // [2025-WINTER] TV: アラフォー男の異世界通販
