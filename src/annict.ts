@@ -47668,5 +47668,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 16417 },
   // [2025-AUTUMN] TV: ポーション、わが身を助ける
   // https://annict.com/works/16418
-  { annict_id: 16418 },
+  { annict_id: 16418, mal_id: 62144 },
 ]
