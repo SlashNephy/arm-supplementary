@@ -47669,4 +47669,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] TV: ポーション、わが身を助ける
   // https://annict.com/works/16418
   { annict_id: 16418, mal_id: 62144 },
+  // [2023-null] OTHER: 映像版マンガ日本史
+  // https://annict.com/works/16419
+  { annict_id: 16419 },
 ]
