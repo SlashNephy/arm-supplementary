@@ -13973,7 +13973,7 @@ export const annict: ArmEntry[] = [
   // [2016-SPRING] TV: 影鰐-KAGEWANI- 承
   // https://annict.com/works/4685
   { annict_id: 4685, mal_id: 32682, syobocal_tid: 4134 },
-  // [2016-SPRING] TV: 機動戦士ガンダムUC (ユニコーン) RE:0096
+  // [2016-SPRING] TV: 機動戦士ガンダムユニコーン RE:0096
   // https://annict.com/works/4686
   { annict_id: 4686, mal_id: 32792, syobocal_tid: 4130 },
   // [2016-SPRING] TV: 境界のRINNE（第2シリーズ）
@@ -17888,7 +17888,7 @@ export const annict: ArmEntry[] = [
   // [2018-AUTUMN] TV: 俺が好きなのは妹だけど妹じゃない
   // https://annict.com/works/6001
   { annict_id: 6001, mal_id: 36632, syobocal_tid: 5063 },
-  // [2018-AUTUMN] MOVIE: 機動戦士ガンダムNT(ナラティブ)
+  // [2018-AUTUMN] MOVIE: 機動戦士ガンダムNT
   // https://annict.com/works/6002
   { annict_id: 6002, mal_id: 37764 },
   // [2019-SUMMER] TV: 異世界チート魔術師
@@ -18899,7 +18899,7 @@ export const annict: ArmEntry[] = [
   // [2013-AUTUMN] OVA: 機巧少女は傷つかない OVA
   // https://annict.com/works/6343
   { annict_id: 6343, mal_id: 21415 },
-  // [2021-SPRING] MOVIE: 機動戦士ガンダム 閃光のハサウェイ 第一部
+  // [2021-SPRING] MOVIE: 機動戦士ガンダム 閃光のハサウェイ
   // https://annict.com/works/6344
   { annict_id: 6344, mal_id: 37765 },
   // [2025-AUTUMN] MOVIE: 機動戦士ガンダム 閃光のハサウェイ キルケーの魔女
@@ -29684,7 +29684,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] TV: 機動戦士ガンダム サンダーボルト TVエディション
   // https://annict.com/works/10401
   { annict_id: 10401 },
-  // [2023-WINTER] TV: 機動戦士ガンダムNT(ナラティブ) TVエディション
+  // [2023-WINTER] TV: 機動戦士ガンダムNT TVエディション
   // https://annict.com/works/10402
   { annict_id: 10402, syobocal_tid: 5133 },
   // [2024-SPRING] TV: ささやくように恋を唄う
