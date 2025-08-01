@@ -41972,7 +41972,7 @@ export const annict: ArmEntry[] = [
   // [1962-null] MOVIE: 人間動物園
   // https://annict.com/works/14515
   { annict_id: 14515, mal_id: 6953 },
-  // [null-null] OTHER: 異世界の沙汰は社畜次第
+  // [2026-WINTER] TV: 異世界の沙汰は社畜次第
   // https://annict.com/works/14516
   { annict_id: 14516, mal_id: 60226 },
   // [1992-SUMMER] OVA: おいら女蛮
@@ -45206,7 +45206,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] TV: たまらないのは恋なのか
   // https://annict.com/works/15594
   { annict_id: 15594, mal_id: 61146, syobocal_tid: 7432 },
-  // [2025-AUTUMN] MOVIE: 羅小黒戦記２
+  // [2025-AUTUMN] MOVIE: 羅小黒戦記２ ぼくらが望む未来
   // https://annict.com/works/15595
   { annict_id: 15595, mal_id: 61952 },
   // [2025-SUMMER] TV: 陰陽廻天 Re:バース
