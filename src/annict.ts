@@ -41357,7 +41357,7 @@ export const annict: ArmEntry[] = [
   // [2026-WINTER] TV: エリスの聖杯
   // https://annict.com/works/14309
   { annict_id: 14309, mal_id: 60151 },
-  // [2025-AUTUMN] TV: 悪食令嬢と狂血公爵 ～その魔物、私が美味しくいただきます！～
+  // [2025-AUTUMN] TV: 悪食令嬢と狂血公爵
   // https://annict.com/works/14310
   { annict_id: 14310, mal_id: 60162 },
   // [2003-SUMMER] OVA: ぼくたちピチューブラザーズ・パーティはおおさわぎ!のまき
@@ -47675,4 +47675,10 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] TV: フィニアスとファーブ(シーズン5)
   // https://annict.com/works/16420
   { annict_id: 16420 },
+  // [2025-SUMMER] WEB: Fate/Grand Order 藤丸立香はわからない Season3
+  // https://annict.com/works/16421
+  { annict_id: 16421 },
+  // [null-null] OTHER: 嫌な顔されながらおパンツ見せてもらいたいR（リターンズ）
+  // https://annict.com/works/16422
+  { annict_id: 16422, mal_id: 62155 },
 ]
