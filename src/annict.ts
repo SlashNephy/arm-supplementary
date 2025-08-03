@@ -47677,8 +47677,11 @@ export const annict: ArmEntry[] = [
   { annict_id: 16420 },
   // [2025-SUMMER] WEB: Fate/Grand Order 藤丸立香はわからない Season3
   // https://annict.com/works/16421
-  { annict_id: 16421 },
+  { annict_id: 16421, mal_id: 62149 },
   // [null-null] OTHER: 嫌な顔されながらおパンツ見せてもらいたいR
   // https://annict.com/works/16422
   { annict_id: 16422, mal_id: 62155 },
+  // [null-null] TV: キン肉マン 完璧超人始祖編 Season 3
+  // https://annict.com/works/16423
+  { annict_id: 16423 },
 ]
