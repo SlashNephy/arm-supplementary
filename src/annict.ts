@@ -47684,4 +47684,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: キン肉マン 完璧超人始祖編 Season 3
   // https://annict.com/works/16423
   { annict_id: 16423 },
+  // [2026-null] TV: あかね噺
+  // https://annict.com/works/16424
+  { annict_id: 16424 },
 ]
