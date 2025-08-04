@@ -45794,7 +45794,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] WEB: 赤のキヲク
   // https://annict.com/works/15790
   { annict_id: 15790, mal_id: 61332 },
-  // [2025-null] TV: その警察官、ときどき野獣！
+  // [null-null] TV: その警察官、ときどき野獣！
   // https://annict.com/works/15791
   { annict_id: 15791, mal_id: 61319 },
   // [2025-SUMMER] TV: Dr.STONE SCIENCE FUTURE 第2クール
