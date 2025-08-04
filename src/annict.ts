@@ -39653,7 +39653,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] WEB: 『魔女のふろーらいふ』アニメーションPV
   // https://annict.com/works/13736
   { annict_id: 13736, mal_id: 59463 },
-  // [null-null] TV: リィンカーネーションの花弁
+  // [2026-null] TV: リィンカーネーションの花弁
   // https://annict.com/works/13737
   { annict_id: 13737, mal_id: 59443 },
   // [2025-SPRING] TV: 片田舎のおっさん、剣聖になる
