@@ -47687,4 +47687,7 @@ export const annict: ArmEntry[] = [
   // [2026-null] TV: あかね噺
   // https://annict.com/works/16424
   { annict_id: 16424, mal_id: 62164 },
+  // [2025-AUTUMN] TV: JOCHUM シーズン2
+  // https://annict.com/works/16425
+  { annict_id: 16425 },
 ]
