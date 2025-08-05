@@ -47303,7 +47303,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 朱色の仮面
   // https://annict.com/works/16295
   { annict_id: 16295, mal_id: 61999 },
-  // [null-null] OTHER: 悪役令嬢は隣国の王太子に溺愛される
+  // [2026-WINTER] TV: 悪役令嬢は隣国の王太子に溺愛される
   // https://annict.com/works/16296
   { annict_id: 16296, mal_id: 62000 },
   // [2007-SPRING] TV: ワンダー・ペッツ
@@ -47696,4 +47696,7 @@ export const annict: ArmEntry[] = [
   // [2026-null] TV: ほっぺちゃん ～サン王国と黒ほっぺ団の秘密～
   // https://annict.com/works/16427
   { annict_id: 16427 },
+  // [null-null] OTHER: 悪役令嬢の追放後！ 教会改革ごはんで悠々シスター暮らし
+  // https://annict.com/works/16428
+  { annict_id: 16428 },
 ]
