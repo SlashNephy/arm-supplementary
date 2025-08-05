@@ -45143,7 +45143,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] MOVIE: アズワン／AS ONE
   // https://annict.com/works/15573
   { annict_id: 15573, mal_id: 61139 },
-  // [null-null] OTHER: 幻想水滸伝
+  // [2026-null] OTHER: 幻想水滸伝
   // https://annict.com/works/15574
   { annict_id: 15574, mal_id: 61140 },
   // [1999-WINTER] TV: エド エッド エディ
