@@ -47699,4 +47699,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 悪役令嬢の追放後！ 教会改革ごはんで悠々シスター暮らし
   // https://annict.com/works/16428
   { annict_id: 16428 },
+  // [2025-SUMMER] WEB: 舌先から恋 第3弾
+  // https://annict.com/works/16429
+  { annict_id: 16429, mal_id: 62163 },
 ]
