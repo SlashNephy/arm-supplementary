@@ -31391,7 +31391,7 @@ export const annict: ArmEntry[] = [
   // [2007-SPRING] MOVIE: いぬかみっ！THE MOVIE 特命霊的捜査官・仮名史郎っ！
   // https://annict.com/works/10973
   { annict_id: 10973, mal_id: 2132 },
-  // [2025-WINTER] TV: cocoon ～ある夏の少女たちより～
+  // [2025-SUMMER] TV: cocoon ～ある夏の少女たちより～
   // https://annict.com/works/10974
   { annict_id: 10974, mal_id: 55779 },
   // [2023-AUTUMN] TV: 絆のアリル セカンドシーズン
@@ -45809,7 +45809,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: アオのハコ 第2期
   // https://annict.com/works/15795
   { annict_id: 15795, mal_id: 61323 },
-  // [null-null] TV: どうせ、恋してしまうんだ。 Season2
+  // [2026-null] TV: どうせ、恋してしまうんだ。 Season2
   // https://annict.com/works/15796
   { annict_id: 15796, mal_id: 61325 },
   // [2025-WINTER] TV: おじゃる丸（第28シリーズ）
@@ -46778,7 +46778,7 @@ export const annict: ArmEntry[] = [
   // [2021-SUMMER] TV: マーシャのふしぎなおはなし
   // https://annict.com/works/16119
   { annict_id: 16119 },
-  // [2025-null] TV: Let’s Play クエストだらけのマイライフ
+  // [2025-AUTUMN] TV: Let’s Play クエストだらけのマイライフ
   // https://annict.com/works/16120
   { annict_id: 16120, mal_id: 61773 },
   // [2019-SUMMER] TV: ロボカーポリー(シーズン4)
