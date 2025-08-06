@@ -42110,7 +42110,7 @@ export const annict: ArmEntry[] = [
   // [2014-WINTER] OVA: ロクの世界
   // https://annict.com/works/14561
   { annict_id: 14561, mal_id: 38049 },
-  // [null-null] TV: アルネの事件簿
+  // [2026-WINTER] TV: アルネの事件簿
   // https://annict.com/works/14562
   { annict_id: 14562, mal_id: 60255 },
   // [2025-AUTUMN] TV: 矢野くんの普通の日々
