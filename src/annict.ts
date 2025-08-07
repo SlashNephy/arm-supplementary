@@ -29690,7 +29690,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: ささやくように恋を唄う
   // https://annict.com/works/10403
   { annict_id: 10403, mal_id: 54233, syobocal_tid: 7020 },
-  // [null-null] OTHER: メイドインアビス 烈日の黄金郷 続編
+  // [2026-null] MOVIE: メイドインアビス 目覚める神秘
   // https://annict.com/works/10404
   { annict_id: 10404, mal_id: 54250 },
   // [2021-SUMMER] WEB: おばあちゃんの特別な日
