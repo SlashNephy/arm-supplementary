@@ -47702,4 +47702,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] WEB: 舌先から恋 第3弾
   // https://annict.com/works/16429
   { annict_id: 16429, mal_id: 62163 },
+  // [2025-AUTUMN] MOVIE: 機動戦士ガンダム 鉄血のオルフェンズ 幕間の楔
+  // https://annict.com/works/16430
+  { annict_id: 16430 },
 ]
