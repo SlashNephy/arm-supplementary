@@ -47705,4 +47705,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] MOVIE: 機動戦士ガンダム 鉄血のオルフェンズ 幕間の楔
   // https://annict.com/works/16430
   { annict_id: 16430 },
+  // [2026-WINTER] MOVIE: パリに咲くエトワール
+  // https://annict.com/works/16431
+  { annict_id: 16431 },
 ]
