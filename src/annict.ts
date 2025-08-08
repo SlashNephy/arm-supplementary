@@ -688,7 +688,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 228, mal_id: 12887 },
   // [1980-SPRING] TV: 宇宙戦士バルディオス
   // https://annict.com/works/229
-  { annict_id: 229, mal_id: 4371 },
+  { annict_id: 229, mal_id: 1737 },
   // [1974-AUTUMN] TV: 宇宙戦艦ヤマト
   // https://annict.com/works/230
   { annict_id: 230, mal_id: 1650, syobocal_tid: 1265 },
@@ -46007,7 +46007,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] WEB: ちびぜんじ先生 居残り講義録
   // https://annict.com/works/15862
   { annict_id: 15862, mal_id: 61491 },
-  // [2026-null] MOVIE: クスノキの番人
+  // [2026-WINTER] MOVIE: クスノキの番人
   // https://annict.com/works/15863
   { annict_id: 15863, mal_id: 61418 },
   // [2025-WINTER] WEB:  たべっ子どうぶつ THE MOVIE Short Clips
