@@ -47714,4 +47714,7 @@ export const annict: ArmEntry[] = [
   // [2021-SPRING] OVA: シャーロック・ホームズの大追跡
   // https://annict.com/works/16433
   { annict_id: 16433, mal_id: 43297 },
+  // [2018-SPRING] WEB: スーパーウィングス(シーズン2)
+  // https://annict.com/works/16434
+  { annict_id: 16434, mal_id: 38526 },
 ]
