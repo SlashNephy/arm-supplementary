@@ -9683,7 +9683,7 @@ export const annict: ArmEntry[] = [
   // [1981-SUMMER] MOVIE: 機動戦士ガンダムII　哀・戦士編
   // https://annict.com/works/3240
   { annict_id: 3240, mal_id: 1091 },
-  // [1991-WINTER] MOVIE: 機動戦士ガンダム F91
+  // [1991-WINTER] MOVIE: 機動戦士ガンダムF91
   // https://annict.com/works/3241
   { annict_id: 3241, mal_id: 88, syobocal_tid: 741 },
   // [1998-SUMMER] MOVIE: 機動戦士ガンダム 第08MS小隊 ミラーズ・リポート
