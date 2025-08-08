@@ -47290,7 +47290,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16290, mal_id: 61987 },
   // [null-null] TV: 伊藤潤二『クリムゾン』
   // https://annict.com/works/16291
-  { annict_id: 16291 },
+  { annict_id: 16291, mal_id: 62194 },
   // [null-null] TV: 勇者パーティーにかわいい子がいたので、告白してみた。
   // https://annict.com/works/16292
   { annict_id: 16292, mal_id: 61983 },
@@ -47707,5 +47707,8 @@ export const annict: ArmEntry[] = [
   { annict_id: 16430 },
   // [2026-WINTER] MOVIE: パリに咲くエトワール
   // https://annict.com/works/16431
-  { annict_id: 16431 },
+  { annict_id: 16431, mal_id: 62193 },
+  // [null-null] OTHER: 欠けた月のメルセデス～吸血鬼の貴族に転生したけど捨てられそうなのでダンジョンを制覇する～
+  // https://annict.com/works/16432
+  { annict_id: 16432, mal_id: 62188 },
 ]
