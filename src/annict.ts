@@ -47711,4 +47711,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 欠けた月のメルセデス～吸血鬼の貴族に転生したけど捨てられそうなのでダンジョンを制覇する～
   // https://annict.com/works/16432
   { annict_id: 16432, mal_id: 62188 },
+  // [2021-SPRING] OVA: シャーロック・ホームズの大追跡
+  // https://annict.com/works/16433
+  { annict_id: 16433, mal_id: 43297 },
 ]
