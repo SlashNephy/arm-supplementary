@@ -15401,7 +15401,7 @@ export const annict: ArmEntry[] = [
   // [2012-SUMMER] WEB: 今日のあすかショー
   // https://annict.com/works/5164
   { annict_id: 5164, mal_id: 15005, syobocal_tid: 2920 },
-  // [2009-AUTUMN] TV: 機動戦士ガンダム00 スペシャルエディションI ソレスタルビーイング
+  // [2009-AUTUMN] OVA: 機動戦士ガンダム00 スペシャルエディションI ソレスタルビーイング
   // https://annict.com/works/5165
   { annict_id: 5165, mal_id: 7270 },
   // [2017-SUMMER] TV: 賭ケグルイ
