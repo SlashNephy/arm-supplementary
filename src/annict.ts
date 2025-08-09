@@ -47717,4 +47717,19 @@ export const annict: ArmEntry[] = [
   // [2018-SPRING] WEB: スーパーウィングス(シーズン2)
   // https://annict.com/works/16434
   { annict_id: 16434, mal_id: 38526 },
+  // [2007-SUMMER] TV: ベン10
+  // https://annict.com/works/16435
+  { annict_id: 16435 },
+  // [2009-AUTUMN] TV: ベン10 エイリアンフォース
+  // https://annict.com/works/16436
+  { annict_id: 16436 },
+  // [2011-SPRING] TV: ベン10 アルティメットエイリアン
+  // https://annict.com/works/16437
+  { annict_id: 16437 },
+  // [2013-SPRING] TV: ベン10 オムニバース
+  // https://annict.com/works/16438
+  { annict_id: 16438 },
+  // [2016-AUTUMN] TV: ベン:10
+  // https://annict.com/works/16439
+  { annict_id: 16439 },
 ]
