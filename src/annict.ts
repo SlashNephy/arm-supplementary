@@ -47683,13 +47683,13 @@ export const annict: ArmEntry[] = [
   { annict_id: 16422, mal_id: 62155 },
   // [null-null] TV: キン肉マン 完璧超人始祖編 Season 3
   // https://annict.com/works/16423
-  { annict_id: 16423 },
+  { annict_id: 16423, mal_id: 62206 },
   // [2026-null] TV: あかね噺
   // https://annict.com/works/16424
   { annict_id: 16424, mal_id: 62164 },
   // [2025-AUTUMN] TV: JOCHUM シーズン2
   // https://annict.com/works/16425
-  { annict_id: 16425 },
+  { annict_id: 16425, mal_id: 62231 },
   // [2026-null] TV: 黒猫と魔女の教室
   // https://annict.com/works/16426
   { annict_id: 16426, mal_id: 62171 },
