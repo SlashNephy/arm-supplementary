@@ -47732,4 +47732,7 @@ export const annict: ArmEntry[] = [
   // [2016-AUTUMN] TV: ベン:10
   // https://annict.com/works/16439
   { annict_id: 16439 },
+  // [null-null] OTHER: ONE PIECE HEROINES
+  // https://annict.com/works/16440
+  { annict_id: 16440 },
 ]
