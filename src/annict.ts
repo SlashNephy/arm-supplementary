@@ -47741,4 +47741,16 @@ export const annict: ArmEntry[] = [
   // [2020-WINTER] WEB: 中華日々是好日
   // https://annict.com/works/16442
   { annict_id: 16442 },
+  // [2020-SUMMER] WEB: 「彼女、お借りします」× halcaコラボミニアニメーション
+  // https://annict.com/works/16443
+  { annict_id: 16443 },
+  // [2023-SUMMER] WEB: 「彼女、お借りします 第3期」× halcaコラボミニアニメーション
+  // https://annict.com/works/16444
+  { annict_id: 16444 },
+  // [2020-SUMMER] WEB: 「彼女、お借りします」× the peggiesコラボミニアニメーション
+  // https://annict.com/works/16445
+  { annict_id: 16445 },
+  // [2023-SUMMER] WEB: 「彼女、お借りします 第3期」× Amber'sコラボミニアニメーション
+  // https://annict.com/works/16446
+  { annict_id: 16446 },
 ]
