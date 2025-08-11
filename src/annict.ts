@@ -47753,4 +47753,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] WEB: 「彼女、お借りします 第3期」× Amber'sコラボミニアニメーション
   // https://annict.com/works/16446
   { annict_id: 16446 },
+  // [2001-SUMMER] OVA: バットマン・ザ・フューチャー 蘇ったジョーカー
+  // https://annict.com/works/16447
+  { annict_id: 16447 },
 ]
