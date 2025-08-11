@@ -36809,7 +36809,7 @@ export const annict: ArmEntry[] = [
   // [1960-null] MOVIE: 猿の牙
   // https://annict.com/works/12786
   { annict_id: 12786 },
-  // [2025-SUMMER] TV: よふかしのうた 第2期
+  // [2025-SUMMER] TV: よふかしのうた Season2
   // https://annict.com/works/12787
   { annict_id: 12787, mal_id: 58390, syobocal_tid: 7472 },
   // [2024-AUTUMN] TV: ねこに転生したおじさん
@@ -47735,4 +47735,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: ONE PIECE HEROINES
   // https://annict.com/works/16440
   { annict_id: 16440, mal_id: 62233 },
+  // [2007-SPRING] TV: トムとジェリー テイルズ
+  // https://annict.com/works/16441
+  { annict_id: 16441 },
 ]
