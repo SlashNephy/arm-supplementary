@@ -47734,5 +47734,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 16439 },
   // [null-null] OTHER: ONE PIECE HEROINES
   // https://annict.com/works/16440
-  { annict_id: 16440 },
+  { annict_id: 16440, mal_id: 62233 },
 ]
