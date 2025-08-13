@@ -46609,7 +46609,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16062, mal_id: 61736 },
   // [2025-SPRING] WEB: 本格レモンアニメ『-196』
   // https://annict.com/works/16063
-  { annict_id: 16063 },
+  { annict_id: 16063, mal_id: 62240 },
   // [2015-AUTUMN] TV: サンダーバード ARE GO シーズン1
   // https://annict.com/works/16064
   { annict_id: 16064 },
