@@ -47762,4 +47762,10 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] TV: カラーレオン
   // https://annict.com/works/16449
   { annict_id: 16449 },
+  // [2008-WINTER] TV: クラス・オブ・ミュージック!
+  // https://annict.com/works/16450
+  { annict_id: 16450 },
+  // [2009-WINTER] TV: パワーパフガールズ 支配者はワタシ!
+  // https://annict.com/works/16451
+  { annict_id: 16451 },
 ]
