@@ -47756,4 +47756,10 @@ export const annict: ArmEntry[] = [
   // [2001-SUMMER] OVA: バットマン・ザ・フューチャー 蘇ったジョーカー
   // https://annict.com/works/16447
   { annict_id: 16447 },
+  // [2004-AUTUMN] OVA: Sky Kids BOOBY
+  // https://annict.com/works/16448
+  { annict_id: 16448, mal_id: 62251 },
+  // [2023-SUMMER] TV: カラーレオン
+  // https://annict.com/works/16449
+  { annict_id: 16449 },
 ]
