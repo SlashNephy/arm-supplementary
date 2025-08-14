@@ -46124,9 +46124,9 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] TV: カードファイト!! ヴァンガード Divinez デラックス決勝編
   // https://annict.com/works/15901
   { annict_id: 15901, mal_id: 54145, syobocal_tid: 7519 },
-  // [2025-AUTUMN] TV: 地球のラテール
+  // [2025-SUMMER] TV: 地球のラテール
   // https://annict.com/works/15902
-  { annict_id: 15902 },
+  { annict_id: 15902, syobocal_tid: 7553 },
   // [2014-AUTUMN] WEB: スプーキッズ(シーズン1)
   // https://annict.com/works/15903
   { annict_id: 15903, mal_id: 47373 },
