@@ -47704,7 +47704,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16429, mal_id: 62163 },
   // [2025-AUTUMN] MOVIE: 機動戦士ガンダム 鉄血のオルフェンズ 幕間の楔
   // https://annict.com/works/16430
-  { annict_id: 16430 },
+  { annict_id: 16430, mal_id: 62264 },
   // [2026-WINTER] MOVIE: パリに咲くエトワール
   // https://annict.com/works/16431
   { annict_id: 16431, mal_id: 62193 },
@@ -47768,4 +47768,10 @@ export const annict: ArmEntry[] = [
   // [2009-WINTER] TV: パワーパフガールズ 支配者はワタシ!
   // https://annict.com/works/16451
   { annict_id: 16451 },
+  // [2008-WINTER] TV: ルビー・グルーム
+  // https://annict.com/works/16452
+  { annict_id: 16452 },
+  // [2008-AUTUMN] TV: クリーピー
+  // https://annict.com/works/16453
+  { annict_id: 16453 },
 ]
