@@ -45050,7 +45050,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] TV: ひみつのアイプリ リング編
   // https://annict.com/works/15542
   { annict_id: 15542, mal_id: 61092, syobocal_tid: 7379 },
-  // [2025-null] TV: バンドリ！新作ミニアニメ
+  // [2025-AUTUMN] WEB: 元祖！バンドリちゃん
   // https://annict.com/works/15543
   { annict_id: 15543, mal_id: 61107 },
   // [2025-WINTER] WEB: ガヴっとアニメ！ Sweety Days ～おかしな日常～
@@ -47774,4 +47774,7 @@ export const annict: ArmEntry[] = [
   // [2008-AUTUMN] TV: クリーピー
   // https://annict.com/works/16453
   { annict_id: 16453 },
+  // [null-null] MOVIE: BanG Dream! Ave Mujica 新作映画
+  // https://annict.com/works/16454
+  { annict_id: 16454, mal_id: 62270 },
 ]
