@@ -47777,4 +47777,7 @@ export const annict: ArmEntry[] = [
   // [null-null] MOVIE: BanG Dream! Ave Mujica 新作映画
   // https://annict.com/works/16454
   { annict_id: 16454, mal_id: 62270 },
+  // [2025-AUTUMN] MOVIE: 後朝の花雪
+  // https://annict.com/works/16455
+  { annict_id: 16455, mal_id: 62269 },
 ]
