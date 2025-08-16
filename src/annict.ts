@@ -47780,4 +47780,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] MOVIE: 後朝の花雪
   // https://annict.com/works/16455
   { annict_id: 16455, mal_id: 62269 },
+  // [2026-null] MOVIE: 新劇場版 銀魂 -吉原大炎上-
+  // https://annict.com/works/16456
+  { annict_id: 16456 },
 ]
