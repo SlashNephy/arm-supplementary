@@ -46126,7 +46126,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15901, mal_id: 54145, syobocal_tid: 7519 },
   // [2025-SUMMER] TV: 地球のラテール
   // https://annict.com/works/15902
-  { annict_id: 15902, syobocal_tid: 7553 },
+  { annict_id: 15902, mal_id: 62268, syobocal_tid: 7553 },
   // [2014-AUTUMN] WEB: スプーキッズ(シーズン1)
   // https://annict.com/works/15903
   { annict_id: 15903, mal_id: 47373 },
@@ -47761,7 +47761,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16448, mal_id: 62251 },
   // [2023-SUMMER] TV: カラーレオン
   // https://annict.com/works/16449
-  { annict_id: 16449 },
+  { annict_id: 16449, mal_id: 62267 },
   // [2008-WINTER] TV: クラス・オブ・ミュージック!
   // https://annict.com/works/16450
   { annict_id: 16450 },
