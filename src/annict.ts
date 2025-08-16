@@ -47783,4 +47783,10 @@ export const annict: ArmEntry[] = [
   // [2026-null] MOVIE: 新劇場版 銀魂 -吉原大炎上-
   // https://annict.com/works/16456
   { annict_id: 16456 },
+  // [2025-SUMMER] WEB: おっさん剣聖  ミニアニメ
+  // https://annict.com/works/16457
+  { annict_id: 16457 },
+  // [2025-SUMMER] WEB: シルドニア・グルメ日記
+  // https://annict.com/works/16458
+  { annict_id: 16458, mal_id: 62189 },
 ]
