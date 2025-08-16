@@ -23983,7 +23983,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 8334, mal_id: 41146 },
   // [2021-SPRING] TV: ネコこのゴロ 令和版
   // https://annict.com/works/8335
-  { annict_id: 8335, syobocal_tid: 6006 },
+  { annict_id: 8335, mal_id: 33398, syobocal_tid: 6006 },
   // [1986-SUMMER] OVA: 湘南爆走族
   // https://annict.com/works/8336
   { annict_id: 8336, mal_id: 2463 },
