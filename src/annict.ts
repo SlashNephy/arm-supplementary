@@ -23398,7 +23398,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 8139, mal_id: 48363, syobocal_tid: 6307 },
   // [2024-SUMMER] WEB: ターミネーター0
   // https://annict.com/works/8140
-  { annict_id: 8140 },
+  { annict_id: 8140, mal_id: 59390 },
   // [2010-SUMMER] MOVIE: 赤毛のアン グリーンゲーブルズへの道
   // https://annict.com/works/8141
   { annict_id: 8141, mal_id: 8950 },
