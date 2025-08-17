@@ -47789,4 +47789,16 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] WEB: シルドニア・グルメ日記
   // https://annict.com/works/16458
   { annict_id: 16458, mal_id: 62189 },
+  // [2009-SPRING] TV: しろくまベッコムが来た!
+  // https://annict.com/works/16459
+  { annict_id: 16459 },
+  // [2009-SUMMER] TV: オリビア
+  // https://annict.com/works/16460
+  { annict_id: 16460 },
+  // [2009-SUMMER] TV: あぁ、レイモンド!
+  // https://annict.com/works/16461
+  { annict_id: 16461 },
+  // [2009-AUTUMN] TV: クラスメイトはモンキー
+  // https://annict.com/works/16462
+  { annict_id: 16462 },
 ]
