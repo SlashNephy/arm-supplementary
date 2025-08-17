@@ -47791,7 +47791,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16458, mal_id: 62189 },
   // [2009-SPRING] TV: しろくまベッコムが来た!
   // https://annict.com/works/16459
-  { annict_id: 16459 },
+  { annict_id: 16459, mal_id: 12145 },
   // [2009-SUMMER] TV: オリビア
   // https://annict.com/works/16460
   { annict_id: 16460 },
