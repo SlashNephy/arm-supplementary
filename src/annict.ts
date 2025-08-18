@@ -47813,4 +47813,7 @@ export const annict: ArmEntry[] = [
   // [1972-null] TV: クルーゾー警部
   // https://annict.com/works/16466
   { annict_id: 16466 },
+  // [2010-SUMMER] TV: ピンクパンサー&パルズ
+  // https://annict.com/works/16467
+  { annict_id: 16467 },
 ]
