@@ -47816,4 +47816,7 @@ export const annict: ArmEntry[] = [
   // [2010-SUMMER] TV: ピンクパンサー&パルズ
   // https://annict.com/works/16467
   { annict_id: 16467 },
+  // [null-null] OTHER: ブチ切れ令嬢は報復を誓いました。～魔導書の力で祖国を叩き潰します～
+  // https://annict.com/works/16468
+  { annict_id: 16468, mal_id: 62289 },
 ]
