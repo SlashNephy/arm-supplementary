@@ -47801,4 +47801,13 @@ export const annict: ArmEntry[] = [
   // [2009-AUTUMN] TV: クラスメイトはモンキー
   // https://annict.com/works/16462
   { annict_id: 16462 },
+  // [2010-WINTER] TV: チャウダー
+  // https://annict.com/works/16463
+  { annict_id: 16463 },
+  // [2010-WINTER] TV: MR.MENショー
+  // https://annict.com/works/16464
+  { annict_id: 16464 },
+  // [2010-SUMMER] TV: ガーフィールド・ショー
+  // https://annict.com/works/16465
+  { annict_id: 16465 },
 ]
