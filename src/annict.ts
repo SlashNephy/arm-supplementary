@@ -47810,4 +47810,7 @@ export const annict: ArmEntry[] = [
   // [2010-SUMMER] TV: ガーフィールド・ショー
   // https://annict.com/works/16465
   { annict_id: 16465 },
+  // [1972-null] TV: クルーゾー警部
+  // https://annict.com/works/16466
+  { annict_id: 16466 },
 ]
