@@ -47819,4 +47819,10 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: ブチ切れ令嬢は報復を誓いました。～魔導書の力で祖国を叩き潰します～
   // https://annict.com/works/16468
   { annict_id: 16468, mal_id: 62289 },
+  // [1991-AUTUMN] MOVIE: ぞうのババール・ザ・ムービー
+  // https://annict.com/works/16469
+  { annict_id: 16469 },
+  // [2011-WINTER] TV: ぞうのババール ～バドゥのだいぼうけん～
+  // https://annict.com/works/16470
+  { annict_id: 16470 },
 ]
