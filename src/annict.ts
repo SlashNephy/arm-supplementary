@@ -47837,4 +47837,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 結界師の一輪華
   // https://annict.com/works/16474
   { annict_id: 16474, mal_id: 62311 },
+  // [null-null] OTHER: SEKIRO NO DEFEAT
+  // https://annict.com/works/16475
+  { annict_id: 16475 },
 ]
