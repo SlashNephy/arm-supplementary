@@ -47825,4 +47825,10 @@ export const annict: ArmEntry[] = [
   // [2011-WINTER] TV: ぞうのババール ～バドゥのだいぼうけん～
   // https://annict.com/works/16470
   { annict_id: 16470 },
+  // [2011-SUMMER] TV: ジェネレーター・レックス
+  // https://annict.com/works/16471
+  { annict_id: 16471 },
+  // [2011-AUTUMN] TV: ルーニー・テューンズ・ショー
+  // https://annict.com/works/16472
+  { annict_id: 16472 },
 ]
