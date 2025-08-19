@@ -47831,4 +47831,7 @@ export const annict: ArmEntry[] = [
   // [2011-AUTUMN] TV: ルーニー・テューンズ・ショー
   // https://annict.com/works/16472
   { annict_id: 16472 },
+  // [2012-SPRING] TV: ベン10:消えたアズマス
+  // https://annict.com/works/16473
+  { annict_id: 16473 },
 ]
