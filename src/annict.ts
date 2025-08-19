@@ -47834,4 +47834,7 @@ export const annict: ArmEntry[] = [
   // [2012-SPRING] TV: ベン10:消えたアズマス
   // https://annict.com/works/16473
   { annict_id: 16473 },
+  // [null-null] TV: 結界師の一輪華
+  // https://annict.com/works/16474
+  { annict_id: 16474, mal_id: 62311 },
 ]
