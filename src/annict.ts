@@ -24260,7 +24260,7 @@ export const annict: ArmEntry[] = [
   // [2021-AUTUMN] TV: テスラノート
   // https://annict.com/works/8459
   { annict_id: 8459, mal_id: 48680, syobocal_tid: 6144 },
-  // [2025-AUTUMN] MOVIE: ペリリュー -楽園のゲルニカ-
+  // [2025-AUTUMN] MOVIE: ペリリュー ー楽園のゲルニカー
   // https://annict.com/works/8460
   { annict_id: 8460, mal_id: 48701 },
   // [2022-SPRING] TV: ダンス・ダンス・ダンスール
@@ -47837,7 +47837,10 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 結界師の一輪華
   // https://annict.com/works/16474
   { annict_id: 16474, mal_id: 62311 },
-  // [null-null] OTHER: SEKIRO NO DEFEAT
+  // [null-null] OTHER: SEKIRO: NO DEFEAT
   // https://annict.com/works/16475
-  { annict_id: 16475 },
+  { annict_id: 16475, mal_id: 62312 },
+  // [2025-SUMMER] WEB: ダンジョン&テレビジョン
+  // https://annict.com/works/16476
+  { annict_id: 16476 },
 ]
