@@ -46261,7 +46261,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15946, mal_id: 61587 },
   // [2021-SUMMER] WEB: ヤンキーハムスター シーズン2.5
   // https://annict.com/works/15947
-  { annict_id: 15947 },
+  { annict_id: 15947, mal_id: 62318 },
   // [2019-AUTUMN] TV: コロコロアニマルABC
   // https://annict.com/works/15948
   { annict_id: 15948, mal_id: 40589 },
@@ -47842,5 +47842,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 16475, mal_id: 62312 },
   // [2025-SUMMER] WEB: ダンジョン&テレビジョン
   // https://annict.com/works/16476
-  { annict_id: 16476 },
+  { annict_id: 16476, mal_id: 62238 },
 ]
