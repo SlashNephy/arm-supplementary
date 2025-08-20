@@ -47843,4 +47843,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] WEB: ダンジョン&テレビジョン
   // https://annict.com/works/16476
   { annict_id: 16476, mal_id: 62238 },
+  // [2025-AUTUMN] MOVIE: 轍を越えてゆけ
+  // https://annict.com/works/16477
+  { annict_id: 16477 },
 ]
