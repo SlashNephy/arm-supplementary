@@ -39752,7 +39752,7 @@ export const annict: ArmEntry[] = [
   // [2011-SPRING] OVA: 俺たちに翼はない番外編『肌色率九割増』
   // https://annict.com/works/13769
   { annict_id: 13769, mal_id: 10547 },
-  // [2026-null] MOVIE: ホッパーズ（原題）
+  // [2026-SPRING] MOVIE: 私がビーバーになる時
   // https://annict.com/works/13770
   { annict_id: 13770 },
   // [null-null] MOVIE: インクレディブルズ3（原題）
