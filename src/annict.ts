@@ -47848,7 +47848,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16477 },
   // [2026-null] TV: LV999の村人
   // https://annict.com/works/16478
-  { annict_id: 16478 },
+  { annict_id: 16478, mal_id: 62322 },
   // [2022-WINTER] TV: きっかけは、キットカットで。
   // https://annict.com/works/16479
   { annict_id: 16479, mal_id: 62296 },
