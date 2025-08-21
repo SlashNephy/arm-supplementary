@@ -47849,4 +47849,16 @@ export const annict: ArmEntry[] = [
   // [2026-null] TV: LV999の村人
   // https://annict.com/works/16478
   { annict_id: 16478 },
+  // [2022-WINTER] TV: きっかけは、キットカットで。
+  // https://annict.com/works/16479
+  { annict_id: 16479, mal_id: 62296 },
+  // [2023-WINTER] WEB: dアニメストアCM「アニメってエネルギーだ」篇
+  // https://annict.com/works/16480
+  { annict_id: 16480, mal_id: 62313 },
+  // [2024-WINTER] WEB: dアニメストアCM「アニメとススメ！」篇
+  // https://annict.com/works/16481
+  { annict_id: 16481, mal_id: 62293 },
+  // [2025-WINTER] WEB: dアニメストアCM「アニメとススメ。」シーズン2
+  // https://annict.com/works/16482
+  { annict_id: 16482 },
 ]
