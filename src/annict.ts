@@ -47861,4 +47861,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] WEB: dアニメストアCM「アニメとススメ。」シーズン2
   // https://annict.com/works/16482
   { annict_id: 16482 },
+  // [2025-AUTUMN] TV: 破産富豪 The Richest Man in GAME
+  // https://annict.com/works/16483
+  { annict_id: 16483, mal_id: 57663 },
 ]
