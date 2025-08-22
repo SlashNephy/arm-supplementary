@@ -47864,4 +47864,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] TV: 破産富豪 The Richest Man in GAME
   // https://annict.com/works/16483
   { annict_id: 16483, mal_id: 57663 },
+  // [2025-SPRING] MOVIE: 普通の生活
+  // https://annict.com/works/16484
+  { annict_id: 16484, mal_id: 61183 },
 ]
