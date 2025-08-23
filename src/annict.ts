@@ -47867,4 +47867,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] MOVIE: 普通の生活
   // https://annict.com/works/16484
   { annict_id: 16484, mal_id: 61183 },
+  // [2026-null] TV: LIAR GAME -ライアーゲーム-
+  // https://annict.com/works/16485
+  { annict_id: 16485, mal_id: 62331 },
 ]
