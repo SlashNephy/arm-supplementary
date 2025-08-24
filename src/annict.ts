@@ -47291,7 +47291,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 伊藤潤二『クリムゾン』
   // https://annict.com/works/16291
   { annict_id: 16291, mal_id: 62194 },
-  // [null-null] TV: 勇者パーティーにかわいい子がいたので、告白してみた。
+  // [2026-null] TV: 勇者パーティーにかわいい子がいたので、告白してみた。
   // https://annict.com/works/16292
   { annict_id: 16292, mal_id: 61983 },
   // [2025-SUMMER] WEB: 追放白魔導師 ミニアニメ
