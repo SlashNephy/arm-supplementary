@@ -40988,9 +40988,9 @@ export const annict: ArmEntry[] = [
   // [2007-null] OVA: コルボッコロ(自主製作版)
   // https://annict.com/works/14186
   { annict_id: 14186, mal_id: 11735 },
-  // [2003-AUTUMN] OVA: こみっくパーティー 番外編
+  // [2003-WINTER] OVA: こみっくパーティー 番外編
   // https://annict.com/works/14187
-  { annict_id: 14187, mal_id: 5147 },
+  { annict_id: 14187, mal_id: 707 },
   // [1986-WINTER] OVA: COOL COOL BYE クール・クール・バイ
   // https://annict.com/works/14188
   { annict_id: 14188, mal_id: 9356 },
@@ -47882,4 +47882,7 @@ export const annict: ArmEntry[] = [
   // [1995-SPRING] TV: 美少女戦士セーラームーンSuperS スペシャル!
   // https://annict.com/works/16489
   { annict_id: 16489, mal_id: 3076 },
+  // [2003-AUTUMN] OVA: こみっくパーティーRevolution(OVA)
+  // https://annict.com/works/16490
+  { annict_id: 16490, mal_id: 5147 },
 ]
