@@ -22783,7 +22783,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 7904, mal_id: 47160, syobocal_tid: 6839 },
   // [2025-AUTUMN] TV: 友達の妹が俺にだけウザい
   // https://annict.com/works/7905
-  { annict_id: 7905, mal_id: 47158 },
+  { annict_id: 7905, mal_id: 47158, syobocal_tid: 7557 },
   // [2022-SUMMER] TV: ダンジョンに出会いを求めるのは間違っているだろうかⅣ 新章 迷宮篇
   // https://annict.com/works/7906
   { annict_id: 7906, mal_id: 47164, syobocal_tid: 6397 },
@@ -39334,7 +39334,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13629, mal_id: 59265, syobocal_tid: 7286 },
   // [2025-AUTUMN] TV: SANDA
   // https://annict.com/works/13630
-  { annict_id: 13630, mal_id: 59267 },
+  { annict_id: 13630, mal_id: 59267, syobocal_tid: 7560 },
   // [null-null] TV: 渡り鳥とカタツムリ
   // https://annict.com/works/13631
   { annict_id: 13631, mal_id: 59266 },
@@ -42115,7 +42115,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14562, mal_id: 60255 },
   // [2025-AUTUMN] TV: 矢野くんの普通の日々
   // https://annict.com/works/14563
-  { annict_id: 14563, mal_id: 60254 },
+  { annict_id: 14563, mal_id: 60254, syobocal_tid: 7559 },
   // [2025-AUTUMN] TV: 異世界マンチキン ―HP1のままで最強最速ダンジョン攻略―
   // https://annict.com/works/14564
   { annict_id: 14564, mal_id: 60253 },
@@ -42442,7 +42442,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14671, mal_id: 60295 },
   // [2025-AUTUMN] TV: 信じていた仲間達にダンジョン奥地で殺されかけたがギフト『無限ガチャ』でレベル9999の仲間達を手に入れて元パーティーメンバーと世界に復讐＆『ざまぁ！』します！
   // https://annict.com/works/14672
-  { annict_id: 14672, mal_id: 60303 },
+  { annict_id: 14672, mal_id: 60303, syobocal_tid: 7556 },
   // [1968-AUTUMN] TV: バンパイヤ
   // https://annict.com/works/14673
   { annict_id: 14673 },
@@ -45655,7 +45655,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15743, mal_id: 23575 },
   // [2025-AUTUMN] TV: 味方が弱すぎて補助魔法に徹していた宮廷魔法師、追放されて最強を目指す
   // https://annict.com/works/15744
-  { annict_id: 15744, mal_id: 61276 },
+  { annict_id: 15744, mal_id: 61276, syobocal_tid: 7558 },
   // [2000-AUTUMN] TV: 動物園通り64番地
   // https://annict.com/works/15745
   { annict_id: 15745 },
