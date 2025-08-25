@@ -47873,4 +47873,7 @@ export const annict: ArmEntry[] = [
   // [2026-null] TV: 異世界のんびり農家２
   // https://annict.com/works/16486
   { annict_id: 16486, mal_id: 62146 },
+  // [2026-null] TV: メイドさんは食べるだけ
+  // https://annict.com/works/16487
+  { annict_id: 16487, mal_id: 62342 },
 ]
