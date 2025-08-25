@@ -47885,4 +47885,13 @@ export const annict: ArmEntry[] = [
   // [2003-AUTUMN] OVA: こみっくパーティーRevolution(OVA)
   // https://annict.com/works/16490
   { annict_id: 16490, mal_id: 5147 },
+  // [2016-AUTUMN] OVA: DRIFTERS「黒王様御乱心」
+  // https://annict.com/works/16491
+  { annict_id: 16491, mal_id: 37034 },
+  // [2017-AUTUMN] OVA: DRIFTERS「黒王様御乱心」(2017年)
+  // https://annict.com/works/16492
+  { annict_id: 16492, mal_id: 37046 },
+  // [1999-WINTER] OVA: しつけハウツー
+  // https://annict.com/works/16493
+  { annict_id: 16493, mal_id: 62236 },
 ]
