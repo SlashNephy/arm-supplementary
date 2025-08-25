@@ -17581,7 +17581,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5898 },
   // [2016-AUTUMN] OVA: 僕のヒーローアカデミア OVA
   // https://annict.com/works/5899
-  { annict_id: 5899 },
+  { annict_id: 5899, mal_id: 33929 },
   // [2017-SUMMER] OVA: 亜人ちゃんは語りたい 第13話「亜人ちゃんの夏休み」
   // https://annict.com/works/5900
   { annict_id: 5900, mal_id: 35823 },
@@ -47876,4 +47876,10 @@ export const annict: ArmEntry[] = [
   // [2026-null] TV: メイドさんは食べるだけ
   // https://annict.com/works/16487
   { annict_id: 16487, mal_id: 62342 },
+  // [1995-AUTUMN] OVA: 愛天使伝説ウェディングピーチ 映像特典
+  // https://annict.com/works/16488
+  { annict_id: 16488, mal_id: 26189 },
+  // [1995-SPRING] TV: 美少女戦士セーラームーンSuperS スペシャル!
+  // https://annict.com/works/16489
+  { annict_id: 16489, mal_id: 3076 },
 ]
