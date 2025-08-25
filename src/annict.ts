@@ -17110,7 +17110,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5740, mal_id: 37302, syobocal_tid: 5152 },
   // [1996-AUTUMN] OVA: ウェディングピーチDX
   // https://annict.com/works/5741
-  { annict_id: 5741 },
+  { annict_id: 5741, mal_id: 1957 },
   // [1994-AUTUMN] OVA: おいら宇宙の探鉱夫
   // https://annict.com/works/5742
   { annict_id: 5742, mal_id: 1867, syobocal_tid: 1449 },
@@ -17632,7 +17632,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5915, mal_id: 8197 },
   // [2010-SPRING] OVA: GA 芸術科アートデザインクラス OVA「青空が描きたい」
   // https://annict.com/works/5916
-  { annict_id: 5916 },
+  { annict_id: 5916, mal_id: 6959 },
   // [2017-SPRING] OVA: ナンバカ 番外編・第26話「出席番号のついたバカたち!」
   // https://annict.com/works/5917
   { annict_id: 5917, mal_id: 34533 },
@@ -25645,7 +25645,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 8986 },
   // [2018-SPRING] WEB: 22/7 「あの日の彼女たち」
   // https://annict.com/works/8987
-  { annict_id: 8987 },
+  { annict_id: 8987, mal_id: 37589 },
   // [2022-SPRING] TV: シャドウバースF
   // https://annict.com/works/8988
   { annict_id: 8988, mal_id: 50060, syobocal_tid: 6297 },
