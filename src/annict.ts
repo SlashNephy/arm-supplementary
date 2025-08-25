@@ -41342,7 +41342,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] TV: 最強の王様、二度目の人生は何をする？
   // https://annict.com/works/14304
   { annict_id: 14304, mal_id: 60146, syobocal_tid: 7403 },
-  // [null-null] OTHER: リラックマ
+  // [2026-SPRING] TV: リラックマ
   // https://annict.com/works/14305
   { annict_id: 14305, mal_id: 60153 },
   // [2025-SPRING] TV: 俺は星間国家の悪徳領主！
