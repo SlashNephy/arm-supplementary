@@ -47903,4 +47903,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] TV: #神奈川に住んでるエルフ
   // https://annict.com/works/16496
   { annict_id: 16496 },
+  // [2025-SUMMER] WEB: あしたのありか
+  // https://annict.com/works/16497
+  { annict_id: 16497 },
 ]
