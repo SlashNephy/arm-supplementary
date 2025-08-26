@@ -41428,7 +41428,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14332 },
   // [2025-AUTUMN] TV: 私を喰べたい、ひとでなし
   // https://annict.com/works/14333
-  { annict_id: 14333, mal_id: 60168 },
+  { annict_id: 14333, mal_id: 60168, syobocal_tid: 7561 },
   // [1996-SPRING] OVA: アイドル・ファイト スーチーパイII
   // https://annict.com/works/14334
   { annict_id: 14334, mal_id: 3816 },
@@ -42641,7 +42641,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: 異世界QTTA『風の世界』篇
   // https://annict.com/works/14738
   { annict_id: 14738, mal_id: 61099 },
-  // [2025-SUMMER] WEB: キャッツ♥アイ
+  // [2025-AUTUMN] WEB: キャッツ♥アイ
   // https://annict.com/works/14739
   { annict_id: 14739, mal_id: 60347 },
   // [1995-SPRING] TV: ロボットパルタ
