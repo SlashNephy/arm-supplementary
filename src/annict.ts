@@ -5681,7 +5681,7 @@ export const annict: ArmEntry[] = [
   // [2002-SPRING] TV: フォルツァ！ひでまる
   // https://annict.com/works/1896
   { annict_id: 1896, mal_id: 18005 },
-  // [1997-AUTUMN] TV: フォーチュンクエストL
+  // [1997-AUTUMN] TV: フォーチュン・クエストL
   // https://annict.com/works/1897
   { annict_id: 1897, mal_id: 3185, syobocal_tid: 4756 },
   // [2005-SPRING] TV: フタコイ オルタナティブ
@@ -36967,7 +36967,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12838, mal_id: 58608 },
   // [2023-WINTER] WEB: あんさんぶるスターズ!! 追憶セレクション 「チェックメイト」
   // https://annict.com/works/12839
-  { annict_id: 12839 },
+  { annict_id: 12839, mal_id: 56746 },
   // [2025-WINTER] TV: 薬屋のひとりごと 第2期
   // https://annict.com/works/12840
   { annict_id: 12840, mal_id: 58514, syobocal_tid: 7296 },
@@ -47894,4 +47894,7 @@ export const annict: ArmEntry[] = [
   // [1999-WINTER] OVA: しつけハウツー
   // https://annict.com/works/16493
   { annict_id: 16493, mal_id: 62236 },
+  // [2006-SPRING] MOVIE: 銀河鉄道の夜 -Fantasy Railroad in the Stars-
+  // https://annict.com/works/16494
+  { annict_id: 16494, mal_id: 7112 },
 ]
