@@ -47897,4 +47897,10 @@ export const annict: ArmEntry[] = [
   // [2006-SPRING] MOVIE: 銀河鉄道の夜 -Fantasy Railroad in the Stars-
   // https://annict.com/works/16494
   { annict_id: 16494, mal_id: 7112 },
+  // [2025-SUMMER] TV: チェンソーマン 総集篇
+  // https://annict.com/works/16495
+  { annict_id: 16495 },
+  // [2025-AUTUMN] TV: #神奈川に住んでるエルフ
+  // https://annict.com/works/16496
+  { annict_id: 16496 },
 ]
