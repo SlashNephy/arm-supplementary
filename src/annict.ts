@@ -42656,7 +42656,7 @@ export const annict: ArmEntry[] = [
   // [2009-AUTUMN] TV: エディ
   // https://annict.com/works/14743
   { annict_id: 14743, mal_id: 29431 },
-  // [2025-null] WEB: スター・ウォーズ: ビジョンズ Volume 3
+  // [2025-AUTUMN] WEB: スター・ウォーズ: ビジョンズ Volume 3
   // https://annict.com/works/14744
   { annict_id: 14744, mal_id: 60336 },
   // [null-null] WEB: ディズニー ツイステッドワンダーランド エピソード オブ サバナクロー
@@ -47899,7 +47899,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16494, mal_id: 7112 },
   // [2025-SUMMER] TV: チェンソーマン 総集篇
   // https://annict.com/works/16495
-  { annict_id: 16495 },
+  { annict_id: 16495, mal_id: 62352 },
   // [2025-AUTUMN] TV: #神奈川に住んでるエルフ
   // https://annict.com/works/16496
   { annict_id: 16496 },
