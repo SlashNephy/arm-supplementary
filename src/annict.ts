@@ -36301,7 +36301,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12616 },
   // [2025-AUTUMN] TV: 転生悪女の黒歴史
   // https://annict.com/works/12617
-  { annict_id: 12617, mal_id: 58146 },
+  { annict_id: 12617, mal_id: 58146, syobocal_tid: 7565 },
   // [2019-WINTER] WEB: 「科学漫画サバイバル」シリーズ（パイロットムービー）
   // https://annict.com/works/12618
   { annict_id: 12618, mal_id: 39618 },
@@ -36991,7 +36991,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12846, mal_id: 58511, syobocal_tid: 7247 },
   // [2025-AUTUMN] TV: 結婚指輪物語Ⅱ
   // https://annict.com/works/12847
-  { annict_id: 12847, mal_id: 58515 },
+  { annict_id: 12847, mal_id: 58515, syobocal_tid: 7564 },
   // [2024-AUTUMN] TV: 青の祓魔師 雪ノ果篇
   // https://annict.com/works/12848
   { annict_id: 12848, mal_id: 58516, syobocal_tid: 7211 },
@@ -43750,7 +43750,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15108, mal_id: 58735 },
   // [2025-AUTUMN] TV: キミと越えて恋になる
   // https://annict.com/works/15109
-  { annict_id: 15109, mal_id: 60765 },
+  { annict_id: 15109, mal_id: 60765, syobocal_tid: 7566 },
   // [2005-SPRING] OTHER: ハローキティのスタンプヴィレッジ
   // https://annict.com/works/15110
   { annict_id: 15110, mal_id: 9770 },
