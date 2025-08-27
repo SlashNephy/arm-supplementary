@@ -17875,7 +17875,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5996, mal_id: 34777 },
   // [2017-WINTER] OVA: ViVid Strike! OVA
   // https://annict.com/works/5997
-  { annict_id: 5997 },
+  { annict_id: 5997, mal_id: 34812 },
   // [2018-AUTUMN] MOVIE: 魔法少女リリカルなのは Detonation
   // https://annict.com/works/5998
   { annict_id: 5998, mal_id: 35984, syobocal_tid: 5902 },
@@ -36989,7 +36989,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: 七つの大罪 黙示録の四騎士 第2期
   // https://annict.com/works/12846
   { annict_id: 12846, mal_id: 58511, syobocal_tid: 7247 },
-  // [null-null] TV: 結婚指輪物語 第2期
+  // [2025-AUTUMN] TV: 結婚指輪物語Ⅱ
   // https://annict.com/works/12847
   { annict_id: 12847, mal_id: 58515 },
   // [2024-AUTUMN] TV: 青の祓魔師 雪ノ果篇
@@ -45728,7 +45728,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] WEB: げっかん！なんものアニメ
   // https://annict.com/works/15768
   { annict_id: 15768, mal_id: 61297 },
-  // [2025-null] TV: 羅小黒戦記
+  // [2025-AUTUMN] TV: 羅小黒戦記
   // https://annict.com/works/15769
   { annict_id: 15769, mal_id: 33443 },
   // [2018-SPRING] WEB: pino（ピノ）スペシャルアニメ『コンチェルピーノ』篇
@@ -47897,7 +47897,7 @@ export const annict: ArmEntry[] = [
   // [2006-SPRING] MOVIE: 銀河鉄道の夜 -Fantasy Railroad in the Stars-
   // https://annict.com/works/16494
   { annict_id: 16494, mal_id: 7112 },
-  // [2025-SUMMER] TV: チェンソーマン 総集篇
+  // [2025-SUMMER] WEB: チェンソーマン 総集篇
   // https://annict.com/works/16495
   { annict_id: 16495, mal_id: 62352 },
   // [2025-AUTUMN] TV: #神奈川に住んでるエルフ
