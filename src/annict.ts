@@ -35336,7 +35336,7 @@ export const annict: ArmEntry[] = [
   // [2014-WINTER] WEB: Wonder Momo
   // https://annict.com/works/12293
   { annict_id: 12293, mal_id: 22377 },
-  // [2004-SUMMER] OVA: 斬魔大聖デモンベイン(OVA)
+  // [2004-SUMMER] OVA: 機神咆吼デモンベイン(OVA)
   // https://annict.com/works/12294
   { annict_id: 12294, mal_id: 766 },
   // [2012-AUTUMN] OVA: 聖☆おにいさん(OVA)
@@ -43448,7 +43448,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] TV: やたらやらしい深見くん
   // https://annict.com/works/15007
   { annict_id: 15007, mal_id: 58888, syobocal_tid: 7422 },
-  // [null-null] TV: ギルティホール～教え子しか指名できない店～
+  // [2025-AUTUMN] TV: ギルティホール
   // https://annict.com/works/15008
   { annict_id: 15008 },
   // [2025-SUMMER] TV: デキちゃうまで婚
