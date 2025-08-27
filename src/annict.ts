@@ -47906,4 +47906,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] WEB: あしたのありか
   // https://annict.com/works/16497
   { annict_id: 16497 },
+  // [2003-SUMMER] OVA: 妄想科学シリーズ ワンダバスタイル 第0話「みっくすJUICEの作り方」
+  // https://annict.com/works/16498
+  { annict_id: 16498, mal_id: 50972 },
 ]
