@@ -32048,7 +32048,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 世界最高の暗殺者、異世界貴族に転生する 第2期
   // https://annict.com/works/11192
   { annict_id: 11192, mal_id: 56732 },
-  // [null-null] OTHER: 転校先の清楚可憐な美少女が、昔男子と思って一緒に遊んだ幼馴染だった件
+  // [2026-null] TV: 転校先の清楚可憐な美少女が、昔男子と思って一緒に遊んだ幼馴染だった件
   // https://annict.com/works/11193
   { annict_id: 11193, mal_id: 56735 },
   // [2026-null] TV: クラスで2番目に可愛い女の子と友だちになった
