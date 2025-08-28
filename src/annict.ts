@@ -47912,4 +47912,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] WEB: 今からでも間に合う！ らんま1/2 第1期ダイジェストムービー
   // https://annict.com/works/16499
   { annict_id: 16499 },
+  // [2025-AUTUMN] TV: 2200年ねこの国ニッポン
+  // https://annict.com/works/16500
+  { annict_id: 16500 },
 ]
