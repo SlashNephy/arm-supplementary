@@ -46576,13 +46576,13 @@ export const annict: ArmEntry[] = [
   { annict_id: 16051 },
   // [2016-AUTUMN] WEB: シルバニア村のたからもの
   // https://annict.com/works/16052
-  { annict_id: 16052 },
+  { annict_id: 16052, mal_id: 62375 },
   // [2017-SPRING] WEB: 夢ふくらむあこがれの街
   // https://annict.com/works/16053
-  { annict_id: 16053 },
+  { annict_id: 16053, mal_id: 62376 },
   // [2019-SPRING] WEB: 空飛ぶみんなの大きな夢
   // https://annict.com/works/16054
-  { annict_id: 16054 },
+  { annict_id: 16054, mal_id: 62377 },
   // [2025-SPRING] WEB: ラブ、デス&ロボット シリーズ4
   // https://annict.com/works/16055
   { annict_id: 16055 },
