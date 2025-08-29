@@ -47921,4 +47921,7 @@ export const annict: ArmEntry[] = [
   // [2008-AUTUMN] TV: アルトとふしぎな海の森～パイロット版～
   // https://annict.com/works/16502
   { annict_id: 16502 },
+  // [2025-AUTUMN] TV: ガングリオン
+  // https://annict.com/works/16503
+  { annict_id: 16503, mal_id: 62378 },
 ]
