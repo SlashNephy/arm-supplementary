@@ -47918,4 +47918,7 @@ export const annict: ArmEntry[] = [
   // [2006-WINTER] TV: erico
   // https://annict.com/works/16501
   { annict_id: 16501 },
+  // [2008-AUTUMN] TV: アルトとふしぎな海の森～パイロット版～
+  // https://annict.com/works/16502
+  { annict_id: 16502 },
 ]
