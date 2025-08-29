@@ -47915,4 +47915,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] TV: 2200年ねこの国ニッポン
   // https://annict.com/works/16500
   { annict_id: 16500 },
+  // [2006-WINTER] TV: erico
+  // https://annict.com/works/16501
+  { annict_id: 16501 },
 ]
