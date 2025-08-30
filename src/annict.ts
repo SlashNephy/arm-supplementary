@@ -40450,7 +40450,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14005, mal_id: 59843 },
   // [2025-AUTUMN] TV: 最後にひとつだけお願いしてもよろしいでしょうか
   // https://annict.com/works/14006
-  { annict_id: 14006, mal_id: 59846 },
+  { annict_id: 14006, mal_id: 59846, syobocal_tid: 7567 },
   // [null-null] OTHER: DARK MOON　-黒の月: 月の祭壇- Original By DARK MOON : THE BLOOD ALTAR WITH ENHYPEN
   // https://annict.com/works/14007
   { annict_id: 14007, mal_id: 59853 },
