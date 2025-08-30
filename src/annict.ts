@@ -40195,7 +40195,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13919, mal_id: 59688 },
   // [2024-SPRING] TV: ニャンちゅうズ
   // https://annict.com/works/13920
-  { annict_id: 13920 },
+  { annict_id: 13920, mal_id: 62382 },
   // [null-null] MOVIE: 火災予防［仮題］
   // https://annict.com/works/13921
   { annict_id: 13921, mal_id: 51804 },
