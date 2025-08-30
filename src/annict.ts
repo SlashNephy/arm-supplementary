@@ -47924,4 +47924,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] TV: ガングリオン
   // https://annict.com/works/16503
   { annict_id: 16503, mal_id: 62378 },
+  // [2025-AUTUMN] OVA: 人妻の唇は缶チューハイの味がして 第9話「郡山 結　その後…」
+  // https://annict.com/works/16504
+  { annict_id: 16504, mal_id: 62349 },
 ]
