@@ -47927,4 +47927,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] OVA: 人妻の唇は缶チューハイの味がして 第9話「郡山 結　その後…」
   // https://annict.com/works/16504
   { annict_id: 16504, mal_id: 62349 },
+  // [2025-SUMMER] WEB: ゼンレスゾーンゼロ 「シード」 ショートアニメ「ラブ、デス&構造体」
+  // https://annict.com/works/16505
+  { annict_id: 16505 },
 ]
