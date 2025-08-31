@@ -35423,7 +35423,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] TV: 日本へようこそエルフさん。
   // https://annict.com/works/12322
   { annict_id: 12322, mal_id: 57648, syobocal_tid: 7283 },
-  // [null-null] TV: 呪術廻戦 死滅回游
+  // [2026-WINTER] TV: 呪術廻戦 死滅回游 前半
   // https://annict.com/works/12323
   { annict_id: 12323, mal_id: 57658 },
   // [2023-AUTUMN] WEB: ティアムーン帝国物語 ミニアニメ
@@ -47930,4 +47930,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] WEB: ゼンレスゾーンゼロ 「シード」 ショートアニメ「ラブ、デス&構造体」
   // https://annict.com/works/16505
   { annict_id: 16505 },
+  // [2025-AUTUMN] MOVIE: 劇場版 呪術廻戦 渋谷事変 特別編集版 × 死滅回游 先行上映
+  // https://annict.com/works/16506
+  { annict_id: 16506 },
 ]
