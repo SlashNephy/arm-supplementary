@@ -47933,4 +47933,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] MOVIE: 劇場版 呪術廻戦 渋谷事変 特別編集版 × 死滅回游 先行上映
   // https://annict.com/works/16506
   { annict_id: 16506 },
+  // [2026-null] TV: キルアオ
+  // https://annict.com/works/16507
+  { annict_id: 16507, mal_id: 62391 },
 ]
