@@ -32279,7 +32279,7 @@ export const annict: ArmEntry[] = [
   // [2026-SPRING] TV: お隣の天使様にいつの間にか駄目人間にされていた件2
   // https://annict.com/works/11269
   { annict_id: 11269, mal_id: 56876 },
-  // [2025-AUTUMN] TV: 青のオーケストラ 第2期
+  // [2025-AUTUMN] TV: 青のオーケストラ Season２
   // https://annict.com/works/11270
   { annict_id: 11270, mal_id: 56877 },
   // [2023-SUMMER] WEB: 不死身な僕の日常 シーズン3
