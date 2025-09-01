@@ -47936,4 +47936,7 @@ export const annict: ArmEntry[] = [
   // [2026-null] TV: キルアオ
   // https://annict.com/works/16507
   { annict_id: 16507, mal_id: 62391 },
+  // [2025-SUMMER] WEB: MyGO!!!!!×推し旅 コラボミニアニメ
+  // https://annict.com/works/16508
+  { annict_id: 16508, mal_id: 62395 },
 ]
