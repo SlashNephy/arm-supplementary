@@ -36341,7 +36341,7 @@ export const annict: ArmEntry[] = [
   // [1968-AUTUMN] MOVIE: 九尾の狐と飛丸 (殺生石)
   // https://annict.com/works/12630
   { annict_id: 12630, mal_id: 17673 },
-  // [2025-SUMMER] WEB: ポケモンコンシェルジュ 新エピソード
+  // [2025-SUMMER] WEB: ポケモンコンシェルジュ パート2
   // https://annict.com/works/12631
   { annict_id: 12631, mal_id: 58953 },
   // [2024-AUTUMN] TV: 嘆きの亡霊は引退したい
