@@ -32827,7 +32827,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11451 },
   // [2025-AUTUMN] TV: とんでもスキルで異世界放浪メシ2
   // https://annict.com/works/11452
-  { annict_id: 11452, mal_id: 57025 },
+  { annict_id: 11452, mal_id: 57025, syobocal_tid: 7569 },
   // [2023-AUTUMN] TV: ととのえ！サクマくん by &sauna
   // https://annict.com/works/11453
   { annict_id: 11453, mal_id: 57077 },
@@ -43450,7 +43450,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15007, mal_id: 58888, syobocal_tid: 7422 },
   // [2025-AUTUMN] TV: ギルティホール
   // https://annict.com/works/15008
-  { annict_id: 15008 },
+  { annict_id: 15008, mal_id: 62379 },
   // [2025-SUMMER] TV: デキちゃうまで婚
   // https://annict.com/works/15009
   { annict_id: 15009, mal_id: 61742, syobocal_tid: 7530 },
@@ -47176,7 +47176,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16252, mal_id: 61905 },
   // [2025-AUTUMN] TV: 永久のユウグレ
   // https://annict.com/works/16253
-  { annict_id: 16253, mal_id: 61917 },
+  { annict_id: 16253, mal_id: 61917, syobocal_tid: 7570 },
   // [2025-SUMMER] TV: シークレット キャッチ！ティニピン
   // https://annict.com/works/16254
   { annict_id: 16254, mal_id: 55660, syobocal_tid: 7535 },
