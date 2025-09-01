@@ -43133,7 +43133,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 2.5次元の誘惑 第2期
   // https://annict.com/works/14902
   { annict_id: 14902, mal_id: 60510 },
-  // [null-null] TV: 魔法少女育成計画 restart
+  // [2026-null] TV: 魔法少女育成計画 restart
   // https://annict.com/works/14903
   { annict_id: 14903, mal_id: 54344 },
   // [2024-AUTUMN] WEB: 魔神創造伝ワタル オリジナルショートアニメ
