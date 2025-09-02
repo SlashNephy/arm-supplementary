@@ -30163,7 +30163,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10562, syobocal_tid: 6682 },
   // [2025-AUTUMN] TV: 不滅のあなたへ Season3
   // https://annict.com/works/10563
-  { annict_id: 10563, mal_id: 54703 },
+  { annict_id: 10563, mal_id: 54703, syobocal_tid: 7576 },
   // [2023-WINTER] TV: おしりたんてい コズミックフロント
   // https://annict.com/works/10564
   { annict_id: 10564, mal_id: 59784, syobocal_tid: 6663 },
@@ -33214,7 +33214,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11582, mal_id: 57184 },
   // [2025-AUTUMN] TV: デブとラブと過ちと！
   // https://annict.com/works/11583
-  { annict_id: 11583, mal_id: 57189 },
+  { annict_id: 11583, mal_id: 57189, syobocal_tid: 7577 },
   // [2024-SUMMER] TV: かつて魔法少女と悪は敵対していた。
   // https://annict.com/works/11584
   { annict_id: 11584, mal_id: 57217, syobocal_tid: 7086 },
@@ -35839,7 +35839,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12460 },
   // [2025-AUTUMN] TV: 父は英雄、母は精霊、娘の私は転生者。
   // https://annict.com/works/12461
-  { annict_id: 12461, mal_id: 57888 },
+  { annict_id: 12461, mal_id: 57888, syobocal_tid: 7572 },
   // [2025-SUMMER] TV: 盾の勇者の成り上がり Season4
   // https://annict.com/works/12462
   { annict_id: 12462, mal_id: 57907, syobocal_tid: 7512 },
@@ -37987,7 +37987,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13179 },
   // [2025-AUTUMN] TV: SPY×FAMILY Season 3
   // https://annict.com/works/13180
-  { annict_id: 13180, mal_id: 59027 },
+  { annict_id: 13180, mal_id: 59027, syobocal_tid: 7573 },
   // [1939-SPRING] MOVIE: みにくいあひるの子(1939年)
   // https://annict.com/works/13181
   { annict_id: 13181 },
@@ -39931,7 +39931,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13828, mal_id: 30086 },
   // [2025-AUTUMN] TV: 野生のラスボスが現れた！
   // https://annict.com/works/13829
-  { annict_id: 13829, mal_id: 59644 },
+  { annict_id: 13829, mal_id: 59644, syobocal_tid: 7574 },
   // [2024-AUTUMN] MOVIE: ロード・オブ・ザ・リング／ローハンの戦い
   // https://annict.com/works/13830
   { annict_id: 13830 },
@@ -43774,7 +43774,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15116, mal_id: 60774 },
   // [2025-AUTUMN] TV: アルマちゃんは家族になりたい
   // https://annict.com/works/15117
-  { annict_id: 15117, mal_id: 60781 },
+  { annict_id: 15117, mal_id: 60781, syobocal_tid: 7571 },
   // [2002-null] MOVIE: Bathtime in Clerkenwell
   // https://annict.com/works/15118
   { annict_id: 15118 },
@@ -45352,7 +45352,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15642 },
   // [2025-AUTUMN] TV: 素材採取家の異世界旅行記
   // https://annict.com/works/15643
-  { annict_id: 15643, mal_id: 61174 },
+  { annict_id: 15643, mal_id: 61174, syobocal_tid: 7575 },
   // [2014-AUTUMN] MOVIE: パタパタ
   // https://annict.com/works/15644
   { annict_id: 15644, mal_id: 33238 },
@@ -47923,7 +47923,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16502 },
   // [2025-AUTUMN] TV: ガングリオン
   // https://annict.com/works/16503
-  { annict_id: 16503, mal_id: 62378 },
+  { annict_id: 16503, mal_id: 62378, syobocal_tid: 7579 },
   // [2025-AUTUMN] OVA: 人妻の唇は缶チューハイの味がして 第9話「郡山 結　その後…」
   // https://annict.com/works/16504
   { annict_id: 16504, mal_id: 62349 },
