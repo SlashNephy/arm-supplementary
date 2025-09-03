@@ -47941,5 +47941,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 16508, mal_id: 62395 },
   // [2025-AUTUMN] WEB: 藤本タツキ 17-26
   // https://annict.com/works/16509
-  { annict_id: 16509 },
+  { annict_id: 16509, mal_id: 62405 },
 ]
