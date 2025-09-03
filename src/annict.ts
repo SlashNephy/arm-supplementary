@@ -37214,7 +37214,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] WEB: T・Pぼん シーズン2
   // https://annict.com/works/12922
   { annict_id: 12922, mal_id: 59274 },
-  // [null-null] TV: 違国日記
+  // [2026-WINTER] TV: 違国日記
   // https://annict.com/works/12923
   { annict_id: 12923, mal_id: 58788 },
   // [2019-AUTUMN] OTHER: 大須のぶーちゃん
@@ -47942,4 +47942,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] WEB: 藤本タツキ 17-26
   // https://annict.com/works/16509
   { annict_id: 16509, mal_id: 62405 },
+  // [2025-AUTUMN] TV: 陛下わたしを忘れてください
+  // https://annict.com/works/16510
+  { annict_id: 16510 },
 ]
