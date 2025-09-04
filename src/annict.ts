@@ -47945,4 +47945,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] TV: 陛下わたしを忘れてください
   // https://annict.com/works/16510
   { annict_id: 16510 },
+  // [2025-AUTUMN] TV: ある日、お姫様になってしまった件について
+  // https://annict.com/works/16511
+  { annict_id: 16511 },
 ]
