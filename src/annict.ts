@@ -15317,7 +15317,7 @@ export const annict: ArmEntry[] = [
   // [2017-SPRING] TV: 正解するカド
   // https://annict.com/works/5136
   { annict_id: 5136, mal_id: 32032, syobocal_tid: 4520 },
-  // [2017-SPRING] TV: ダンジョンに出会いを求めるのは間違っているだろうか外伝 ソード・オラトリア
+  // [2017-SPRING] TV: ソード・オラトリア ダンジョンに出会いを求めるのは間違っているだろうか外伝
   // https://annict.com/works/5137
   { annict_id: 5137, mal_id: 32887, syobocal_tid: 4491 },
   // [2017-SPRING] TV: 月がきれい
