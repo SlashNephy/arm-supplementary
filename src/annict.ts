@@ -37043,7 +37043,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] TV: 俺だけレベルアップな件 Season 2 -Arise from the Shadow-
   // https://annict.com/works/12864
   { annict_id: 12864, mal_id: 58567, syobocal_tid: 7335 },
-  // [null-null] TV: 刃牙道
+  // [2026-null] WEB: 刃牙道
   // https://annict.com/works/12865
   { annict_id: 12865, mal_id: 58573 },
   // [2024-AUTUMN] TV: シャングリラ・フロンティア〜クソゲーハンター、神ゲーに挑まんとす〜 2nd season
