@@ -47948,4 +47948,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] TV: ある日、お姫様になってしまった件について
   // https://annict.com/works/16511
   { annict_id: 16511 },
+  // [2025-SUMMER] TV: 笑うレッドリスト シーズン2
+  // https://annict.com/works/16512
+  { annict_id: 16512 },
 ]
