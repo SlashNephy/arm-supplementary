@@ -46439,7 +46439,7 @@ export const annict: ArmEntry[] = [
   // [2003-SUMMER] TV: ビリー&マンデイ
   // https://annict.com/works/16006
   { annict_id: 16006 },
-  // [null-null] TV: 29歳独身中堅冒険者の日常
+  // [2026-WINTER] TV: 29歳独身中堅冒険者の日常
   // https://annict.com/works/16007
   { annict_id: 16007, mal_id: 61637 },
   // [2006-SUMMER] OVA: たまごにいちゃん
