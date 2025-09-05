@@ -42581,7 +42581,7 @@ export const annict: ArmEntry[] = [
   // [2016-SPRING] WEB: ゾンミちゃん - ミートパイ オブ ザ デッド -
   // https://annict.com/works/14718
   { annict_id: 14718, mal_id: 32934 },
-  // [null-null] TV: 魔入りました！入間くん 第4シリーズ
+  // [2026-SPRING] TV: 魔入りました！入間くん 第4シリーズ
   // https://annict.com/works/14719
   { annict_id: 14719, mal_id: 60310 },
   // [1951-SUMMER] MOVIE: わが心にかくも愛しき
