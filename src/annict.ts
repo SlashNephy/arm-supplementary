@@ -30241,7 +30241,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10588, mal_id: 54758, syobocal_tid: 7012 },
   // [2025-AUTUMN] TV: 3年Z組銀八先生
   // https://annict.com/works/10589
-  { annict_id: 10589, mal_id: 54757 },
+  { annict_id: 10589, mal_id: 54757, syobocal_tid: 7585 },
   // [2023-SUMMER] TV: ライザのアトリエ ～常闇の女王と秘密の隠れ家～
   // https://annict.com/works/10590
   { annict_id: 10590, mal_id: 54760, syobocal_tid: 6713 },
@@ -32281,7 +32281,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11269, mal_id: 56876 },
   // [2025-AUTUMN] TV: 青のオーケストラ Season２
   // https://annict.com/works/11270
-  { annict_id: 11270, mal_id: 56877 },
+  { annict_id: 11270, mal_id: 56877, syobocal_tid: 7584 },
   // [2023-SUMMER] WEB: 不死身な僕の日常 シーズン3
   // https://annict.com/works/11271
   { annict_id: 11271, mal_id: 50404 },
@@ -35806,7 +35806,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12449, mal_id: 16007 },
   // [2025-AUTUMN] TV: 笑顔のたえない職場です。
   // https://annict.com/works/12450
-  { annict_id: 12450, mal_id: 57859 },
+  { annict_id: 12450, mal_id: 57859, syobocal_tid: 7581 },
   // [2024-SUMMER] WEB: 〈物語〉シリーズ オフ&モンスターシーズン
   // https://annict.com/works/12451
   { annict_id: 12451, mal_id: 57864, syobocal_tid: 7110 },
@@ -43387,7 +43387,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14986 },
   // [2025-AUTUMN] TV: らんま1/2 第2期
   // https://annict.com/works/14987
-  { annict_id: 14987, mal_id: 60564 },
+  { annict_id: 14987, mal_id: 60564, syobocal_tid: 7583 },
   // [1921-null] MOVIE: フリップのサーカス
   // https://annict.com/works/14988
   { annict_id: 14988 },
@@ -44638,7 +44638,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15404, mal_id: 35490 },
   // [2025-AUTUMN] TV: 暗殺者である俺のステータスが勇者よりも明らかに強いのだが
   // https://annict.com/works/15405
-  { annict_id: 15405, mal_id: 61026 },
+  { annict_id: 15405, mal_id: 61026, syobocal_tid: 7582 },
   // [1978-WINTER] TV: わんぱくジョーズ
   // https://annict.com/works/15406
   { annict_id: 15406 },
@@ -47951,4 +47951,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] TV: 笑うレッドリスト シーズン2
   // https://annict.com/works/16512
   { annict_id: 16512 },
+  // [2025-SUMMER] OTHER: もちにゃん
+  // https://annict.com/works/16513
+  { annict_id: 16513 },
 ]
