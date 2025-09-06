@@ -47960,4 +47960,10 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] TV: スマーフ シーズン3
   // https://annict.com/works/16515
   { annict_id: 16515, syobocal_tid: 7586 },
+  // [2026-SPRING] MOVIE: 劇場版『名探偵コナン2026』
+  // https://annict.com/works/16516
+  { annict_id: 16516, mal_id: 62387 },
+  // [2026-null] MOVIE: 映画ドラえもん 新・のび太の海底鬼岩城
+  // https://annict.com/works/16517
+  { annict_id: 16517 },
 ]
