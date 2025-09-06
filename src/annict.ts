@@ -47860,7 +47860,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16481, mal_id: 62293 },
   // [2025-WINTER] WEB: dアニメストアCM「アニメとススメ。」シーズン2
   // https://annict.com/works/16482
-  { annict_id: 16482 },
+  { annict_id: 16482, mal_id: 62293 },
   // [2025-AUTUMN] TV: 破産富豪 The Richest Man in GAME
   // https://annict.com/works/16483
   { annict_id: 16483, mal_id: 57663 },
@@ -47905,7 +47905,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16496 },
   // [2025-SUMMER] WEB: あしたのありか
   // https://annict.com/works/16497
-  { annict_id: 16497 },
+  { annict_id: 16497, mal_id: 62401 },
   // [2003-SUMMER] OVA: 妄想科学シリーズ ワンダバスタイル 第0話「みっくすJUICEの作り方」
   // https://annict.com/works/16498
   { annict_id: 16498, mal_id: 50972 },
@@ -47947,11 +47947,14 @@ export const annict: ArmEntry[] = [
   { annict_id: 16510 },
   // [2025-AUTUMN] TV: ある日、お姫様になってしまった件について
   // https://annict.com/works/16511
-  { annict_id: 16511 },
+  { annict_id: 16511, mal_id: 57353 },
   // [2025-SUMMER] TV: 笑うレッドリスト シーズン2
   // https://annict.com/works/16512
   { annict_id: 16512 },
   // [2025-SUMMER] OTHER: もちにゃん
   // https://annict.com/works/16513
   { annict_id: 16513 },
+  // [2025-SUMMER] WEB: 赤いきつね緑のたぬき ✕ かぐや様は告らせたい コラボムービー
+  // https://annict.com/works/16514
+  { annict_id: 16514 },
 ]
