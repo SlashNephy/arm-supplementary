@@ -44179,7 +44179,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15251 },
   // [2025-AUTUMN] TV: ちゃんと吸えない吸血鬼ちゃん
   // https://annict.com/works/15252
-  { annict_id: 15252, mal_id: 60933 },
+  { annict_id: 15252, mal_id: 60933, syobocal_tid: 7587 },
   // [2000-SPRING] TV: ムーぽん (第2期)
   // https://annict.com/works/15253
   { annict_id: 15253, mal_id: 57826 },
@@ -47957,4 +47957,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] WEB: 赤いきつね緑のたぬき ✕ かぐや様は告らせたい コラボムービー
   // https://annict.com/works/16514
   { annict_id: 16514 },
+  // [null-null] TV: スマーフ シーズン3
+  // https://annict.com/works/16515
+  { annict_id: 16515, syobocal_tid: 7586 },
 ]
