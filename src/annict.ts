@@ -47957,7 +47957,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] WEB: 赤いきつね緑のたぬき ✕ かぐや様は告らせたい コラボムービー
   // https://annict.com/works/16514
   { annict_id: 16514 },
-  // [null-null] TV: スマーフ シーズン3
+  // [2025-AUTUMN] TV: スマーフ シーズン3
   // https://annict.com/works/16515
   { annict_id: 16515, syobocal_tid: 7586 },
 ]
