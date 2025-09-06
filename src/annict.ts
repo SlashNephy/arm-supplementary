@@ -33052,7 +33052,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11527, mal_id: 57102, syobocal_tid: 7254 },
   // [2025-AUTUMN] TV: 無職の英雄 ～別にスキルなんか要らなかったんだが～
   // https://annict.com/works/11528
-  { annict_id: 11528, mal_id: 56854 },
+  { annict_id: 11528, mal_id: 56854, syobocal_tid: 7588 },
   // [2024-SPRING] WEB: ULTRAMAN: RISING
   // https://annict.com/works/11529
   { annict_id: 11529 },
@@ -45547,7 +45547,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15707, mal_id: 61200 },
   // [2025-AUTUMN] TV: 顔に出ない柏田さんと顔に出る太田君
   // https://annict.com/works/15708
-  { annict_id: 15708, mal_id: 61209 },
+  { annict_id: 15708, mal_id: 61209, syobocal_tid: 7589 },
   // [2026-null] TV: 真夜中ハートチューン
   // https://annict.com/works/15709
   { annict_id: 15709, mal_id: 61211 },
