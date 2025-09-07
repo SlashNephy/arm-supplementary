@@ -31826,7 +31826,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] MOVIE: 傷物語 -こよみヴァンプ-
   // https://annict.com/works/11118
   { annict_id: 11118, mal_id: 56609 },
-  // [null-null] TV: アズールレーン びそくぜんしんっ！にっ！！
+  // [2026-null] TV: アズールレーン びそくぜんしんっ！にっ！！
   // https://annict.com/works/11119
   { annict_id: 11119, mal_id: 56613 },
   // [1986-AUTUMN] MOVIE: 強殖装甲ガイバー(映画)
@@ -47975,4 +47975,7 @@ export const annict: ArmEntry[] = [
   // [2026-WINTER] TV: 人外教室の人間嫌い教師
   // https://annict.com/works/16520
   { annict_id: 16520 },
+  // [2026-null] TV: イチゴ哀歌
+  // https://annict.com/works/16521
+  { annict_id: 16521 },
 ]
