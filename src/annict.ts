@@ -25643,7 +25643,7 @@ export const annict: ArmEntry[] = [
   // [2021-SPRING] TV: ミラキュラス・ワールド／上海 レジェンド・オブ・レディドラゴン
   // https://annict.com/works/8986
   { annict_id: 8986 },
-  // [2018-SPRING] WEB: 22/7 「あの日の彼女たち」
+  // [2018-SPRING] WEB: 22/7「あの日の彼女たち」
   // https://annict.com/works/8987
   { annict_id: 8987, mal_id: 37589 },
   // [2022-SPRING] TV: シャドウバースF
@@ -35744,7 +35744,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] MOVIE: ヤマトよ永遠に REBEL3199 第三章 群青のアステロイド
   // https://annict.com/works/12429
   { annict_id: 12429 },
-  // [null-null] MOVIE: ヤマトよ永遠に REBEL3199 第四章
+  // [2025-AUTUMN] MOVIE: ヤマトよ永遠に REBEL3199 第四章 水色の乙女
   // https://annict.com/works/12430
   { annict_id: 12430 },
   // [null-null] MOVIE: ヤマトよ永遠に REBEL3199 第五章
@@ -47966,4 +47966,7 @@ export const annict: ArmEntry[] = [
   // [2026-null] MOVIE: 映画ドラえもん 新・のび太の海底鬼岩城
   // https://annict.com/works/16517
   { annict_id: 16517 },
+  // [2025-SUMMER] OTHER: 22/7「あの日の彼女たち」day09 滝川みう
+  // https://annict.com/works/16518
+  { annict_id: 16518, mal_id: 62385 },
 ]
