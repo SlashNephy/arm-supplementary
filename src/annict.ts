@@ -47971,11 +47971,14 @@ export const annict: ArmEntry[] = [
   { annict_id: 16518, mal_id: 62385 },
   // [2026-null] TV: バンドリ！ ゆめ∞みた
   // https://annict.com/works/16519
-  { annict_id: 16519 },
+  { annict_id: 16519, mal_id: 62430 },
   // [2026-WINTER] TV: 人外教室の人間嫌い教師
   // https://annict.com/works/16520
-  { annict_id: 16520 },
+  { annict_id: 16520, mal_id: 62432 },
   // [2026-null] TV: イチゴ哀歌
   // https://annict.com/works/16521
   { annict_id: 16521 },
+  // [2026-WINTER] MOVIE: 劇場版 暗殺教室 みんなの時間
+  // https://annict.com/works/16522
+  { annict_id: 16522, mal_id: 62421 },
 ]
