@@ -47969,4 +47969,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] OTHER: 22/7「あの日の彼女たち」day09 滝川みう
   // https://annict.com/works/16518
   { annict_id: 16518, mal_id: 62385 },
+  // [2026-null] TV: バンドリ！ ゆめ∞みた
+  // https://annict.com/works/16519
+  { annict_id: 16519 },
 ]
