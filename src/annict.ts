@@ -47972,4 +47972,7 @@ export const annict: ArmEntry[] = [
   // [2026-null] TV: バンドリ！ ゆめ∞みた
   // https://annict.com/works/16519
   { annict_id: 16519 },
+  // [2026-WINTER] TV: 人外教室の人間嫌い教師
+  // https://annict.com/works/16520
+  { annict_id: 16520 },
 ]
