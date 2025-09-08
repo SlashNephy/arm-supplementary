@@ -47339,7 +47339,7 @@ export const annict: ArmEntry[] = [
   // [2026-null] WEB: BEASTARS FINAL SEASON Part2
   // https://annict.com/works/16307
   { annict_id: 16307, mal_id: 61114 },
-  // [null-null] WEB: コアラ絵日記
+  // [2025-AUTUMN] WEB: コアラ絵日記
   // https://annict.com/works/16308
   { annict_id: 16308, mal_id: 62005 },
   // [2025-SPRING] WEB: Google Play で超無双！？転生したら Android ユーザーだった。
