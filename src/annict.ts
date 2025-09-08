@@ -40649,7 +40649,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] WEB: ソードアート・オンライン オルタナティブ ガンゲイル･オンライン 12.5話「GALA」
   // https://annict.com/works/14073
   { annict_id: 14073, mal_id: 59968 },
-  // [2026-null] TV: 杖と剣のウィストリア 第2期
+  // [2026-SPRING] TV: 杖と剣のウィストリア 第2期
   // https://annict.com/works/14074
   { annict_id: 14074, mal_id: 59983 },
   // [2026-WINTER] MOVIE: 劇場版 僕の心のヤバイやつ
