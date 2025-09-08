@@ -43330,7 +43330,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14967, mal_id: 60548 },
   // [2025-AUTUMN] TV: 百姓貴族 3rd Season
   // https://annict.com/works/14968
-  { annict_id: 14968, mal_id: 60551 },
+  { annict_id: 14968, mal_id: 60551, syobocal_tid: 7590 },
   // [2026-null] TV: 株式会社マジルミエ 第2期
   // https://annict.com/works/14969
   { annict_id: 14969, mal_id: 60552 },
@@ -44929,7 +44929,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15501 },
   // [2025-AUTUMN] TV: 忍者と極道
   // https://annict.com/works/15502
-  { annict_id: 15502, mal_id: 61067 },
+  { annict_id: 15502, mal_id: 61067, syobocal_tid: 7593 },
   // [1985-SUMMER] OVA: マイティ・オーボッツ
   // https://annict.com/works/15503
   { annict_id: 15503, mal_id: 8130 },
@@ -45226,7 +45226,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15600, mal_id: 61153 },
   // [2025-AUTUMN] TV: 東島丹三郎は仮面ライダーになりたい
   // https://annict.com/works/15601
-  { annict_id: 15601, mal_id: 61159 },
+  { annict_id: 15601, mal_id: 61159, syobocal_tid: 7591 },
   // [2025-SPRING] MOVIE: ナタ 魔童の大暴れ
   // https://annict.com/works/15602
   { annict_id: 15602, mal_id: 60544 },
@@ -47428,7 +47428,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16337, mal_id: 62048 },
   // [2025-AUTUMN] TV: モンスターストライク デッドバースリローデッド
   // https://annict.com/works/16338
-  { annict_id: 16338, mal_id: 62066 },
+  { annict_id: 16338, mal_id: 62066, syobocal_tid: 7592 },
   // [2026-null] OTHER: グロウアップショウ ～ひまわりのサーカス団～
   // https://annict.com/works/16339
   { annict_id: 16339, mal_id: 62051 },
