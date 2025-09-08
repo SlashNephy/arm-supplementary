@@ -47981,4 +47981,10 @@ export const annict: ArmEntry[] = [
   // [2026-WINTER] MOVIE: 劇場版 暗殺教室 みんなの時間
   // https://annict.com/works/16522
   { annict_id: 16522, mal_id: 62421 },
+  // [2007-null] TV: フランソアCM カシスとアルルの物語シリーズ
+  // https://annict.com/works/16523
+  { annict_id: 16523, mal_id: 60776 },
+  // [null-null] TV: 世界最強の後衛 ～迷宮国の新人探索者～
+  // https://annict.com/works/16524
+  { annict_id: 16524 },
 ]
