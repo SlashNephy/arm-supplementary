@@ -47987,4 +47987,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 世界最強の後衛 ～迷宮国の新人探索者～
   // https://annict.com/works/16524
   { annict_id: 16524 },
+  // [2005-null] TV: アスカコーポレーションCM「森のココロコロ」
+  // https://annict.com/works/16525
+  { annict_id: 16525, mal_id: 37420 },
 ]
