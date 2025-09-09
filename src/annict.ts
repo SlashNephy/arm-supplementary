@@ -48005,4 +48005,10 @@ export const annict: ArmEntry[] = [
   // [2008-AUTUMN] TV: マックスバリュ九州CM
   // https://annict.com/works/16530
   { annict_id: 16530, mal_id: 37421 },
+  // [2014-AUTUMN] TV: さつま白波CM「オヤジの、芋神様。」
+  // https://annict.com/works/16531
+  { annict_id: 16531, mal_id: 29323 },
+  // [2015-AUTUMN] TV: 大同生命CM 広岡浅子シリーズ
+  // https://annict.com/works/16532
+  { annict_id: 16532, mal_id: 38933 },
 ]
