@@ -32279,7 +32279,7 @@ export const annict: ArmEntry[] = [
   // [2026-SPRING] TV: お隣の天使様にいつの間にか駄目人間にされていた件2
   // https://annict.com/works/11269
   { annict_id: 11269, mal_id: 56876 },
-  // [2025-AUTUMN] TV: 青のオーケストラ Season２
+  // [2025-AUTUMN] TV: 青のオーケストラ Season 2
   // https://annict.com/works/11270
   { annict_id: 11270, mal_id: 56877, syobocal_tid: 7584 },
   // [2023-SUMMER] WEB: 不死身な僕の日常 シーズン3
@@ -45095,7 +45095,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: きみが死ぬまで恋をしたい
   // https://annict.com/works/15557
   { annict_id: 15557, mal_id: 61126 },
-  // [null-null] TV: 勇者パーティを追い出された器用貧乏
+  // [2026-WINTER] TV: 勇者パーティを追い出された器用貧乏
   // https://annict.com/works/15558
   { annict_id: 15558, mal_id: 61128 },
   // [null-null] MOVIE: 劇場版ハイキュー!! VS小さな巨人
