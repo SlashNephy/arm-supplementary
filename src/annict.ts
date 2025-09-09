@@ -47944,7 +47944,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16509, mal_id: 62405 },
   // [2025-AUTUMN] TV: 陛下わたしを忘れてください
   // https://annict.com/works/16510
-  { annict_id: 16510 },
+  { annict_id: 16510, mal_id: 62428 },
   // [2025-AUTUMN] TV: ある日、お姫様になってしまった件について
   // https://annict.com/works/16511
   { annict_id: 16511, mal_id: 57353 },
@@ -47986,7 +47986,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16523, mal_id: 60776 },
   // [null-null] TV: 世界最強の後衛 ～迷宮国の新人探索者～
   // https://annict.com/works/16524
-  { annict_id: 16524 },
+  { annict_id: 16524, mal_id: 62435 },
   // [2005-null] TV: アスカコーポレーションCM「森のココロコロ」
   // https://annict.com/works/16525
   { annict_id: 16525, mal_id: 37420 },
@@ -48008,7 +48008,16 @@ export const annict: ArmEntry[] = [
   // [2014-AUTUMN] TV: さつま白波CM「オヤジの、芋神様。」
   // https://annict.com/works/16531
   { annict_id: 16531, mal_id: 29323 },
-  // [2015-AUTUMN] TV: 大同生命CM 広岡浅子シリーズ
+  // [2015-AUTUMN] TV: 大同生命CM「広岡浅子」
   // https://annict.com/works/16532
   { annict_id: 16532, mal_id: 38933 },
+  // [2017-null] TV: 花王CM 消臭ストロング 親子は続くよ編
+  // https://annict.com/works/16533
+  { annict_id: 16533, mal_id: 38932 },
+  // [2018-WINTER] TV: グリーンコープ30周年CM
+  // https://annict.com/works/16534
+  { annict_id: 16534, mal_id: 38931 },
+  // [2020-null] WEB: 花王CM「キレイちゃんと白猫ツナグ」
+  // https://annict.com/works/16535
+  { annict_id: 16535, mal_id: 38925 },
 ]
