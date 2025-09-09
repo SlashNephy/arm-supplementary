@@ -47990,4 +47990,19 @@ export const annict: ArmEntry[] = [
   // [2005-null] TV: アスカコーポレーションCM「森のココロコロ」
   // https://annict.com/works/16525
   { annict_id: 16525, mal_id: 37420 },
+  // [2006-null] TV: 九州生乳販連CM「九州Love Milk Club」
+  // https://annict.com/works/16526
+  { annict_id: 16526, mal_id: 37419 },
+  // [2010-AUTUMN] MOVIE: 魔法使いハーレイのスピードストーリー
+  // https://annict.com/works/16527
+  { annict_id: 16527, mal_id: 8495 },
+  // [2025-SUMMER] WEB: 魔改造チャージマン研!
+  // https://annict.com/works/16528
+  { annict_id: 16528 },
+  // [null-null] TV: ねずみくんのチョッキ シリーズ
+  // https://annict.com/works/16529
+  { annict_id: 16529 },
+  // [2008-AUTUMN] TV: マックスバリュ九州CM
+  // https://annict.com/works/16530
+  { annict_id: 16530, mal_id: 37421 },
 ]
