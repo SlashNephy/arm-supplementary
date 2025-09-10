@@ -42776,7 +42776,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 透明少年探偵アキラ
   // https://annict.com/works/14783
   { annict_id: 14783, mal_id: 10812 },
-  // [2026-null] TV: 透明男と人間女～そのうち夫婦になるふたり～
+  // [2026-WINTER] TV: 透明男と人間女～そのうち夫婦になるふたり～
   // https://annict.com/works/14784
   { annict_id: 14784, mal_id: 60395 },
   // [2025-WINTER] TV: RINGING FATE
