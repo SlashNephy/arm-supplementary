@@ -42751,7 +42751,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14774 },
   // [2025-AUTUMN] TV: しゃばけ
   // https://annict.com/works/14775
-  { annict_id: 14775, mal_id: 60378 },
+  { annict_id: 14775, mal_id: 60378, syobocal_tid: 7594 },
   // [2025-SPRING] TV: 謎解きはディナーのあとで
   // https://annict.com/works/14776
   { annict_id: 14776, mal_id: 60377, syobocal_tid: 7389 },
@@ -46780,7 +46780,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16119 },
   // [2025-AUTUMN] TV: Let’s Play クエストだらけのマイライフ
   // https://annict.com/works/16120
-  { annict_id: 16120, mal_id: 61773 },
+  { annict_id: 16120, mal_id: 61773, syobocal_tid: 7595 },
   // [2019-SUMMER] TV: ロボカーポリー(シーズン4)
   // https://annict.com/works/16121
   { annict_id: 16121, mal_id: 42660 },
