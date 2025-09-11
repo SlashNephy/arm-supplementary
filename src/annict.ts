@@ -45629,7 +45629,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] WEB: 原神ショートアニメ「生涯の記憶」
   // https://annict.com/works/15735
   { annict_id: 15735, mal_id: 60725 },
-  // [null-null] WEB: うごく！ねこむかしばなし
+  // [2025-AUTUMN] WEB: うごく！ねこむかしばなし
   // https://annict.com/works/15736
   { annict_id: 15736, mal_id: 61254 },
   // [2025-SPRING] MOVIE: 無名の人生
@@ -48023,4 +48023,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: いずれ最強の錬金術師？ 第2期
   // https://annict.com/works/16536
   { annict_id: 16536, mal_id: 62469 },
+  // [2025-AUTUMN] TV: 龍族Ⅱ -The Mourner's Eyes-
+  // https://annict.com/works/16537
+  { annict_id: 16537 },
 ]
