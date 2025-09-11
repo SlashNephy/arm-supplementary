@@ -48025,5 +48025,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 16536, mal_id: 62469 },
   // [2025-AUTUMN] TV: 龍族Ⅱ -The Mourner's Eyes-
   // https://annict.com/works/16537
-  { annict_id: 16537 },
+  { annict_id: 16537, mal_id: 59662 },
 ]
