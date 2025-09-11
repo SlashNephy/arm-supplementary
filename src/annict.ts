@@ -48020,4 +48020,7 @@ export const annict: ArmEntry[] = [
   // [2020-null] WEB: 花王CM「キレイちゃんと白猫ツナグ」
   // https://annict.com/works/16535
   { annict_id: 16535, mal_id: 38925 },
+  // [null-null] TV: いずれ最強の錬金術師？ 第2期
+  // https://annict.com/works/16536
+  { annict_id: 16536, mal_id: 62469 },
 ]
