@@ -37598,7 +37598,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] WEB: エグミレガシー
   // https://annict.com/works/13050
   { annict_id: 13050, mal_id: 58926, syobocal_tid: 7134 },
-  // [2026-SPRING] MOVIE: スーパーマリオワールド
+  // [2026-SPRING] MOVIE: ザ・スーパーマリオギャラクシー・ムービー
   // https://annict.com/works/13051
   { annict_id: 13051 },
   // [2026-null] TV: 攻殻機動隊 THE GHOST IN THE SHELL
