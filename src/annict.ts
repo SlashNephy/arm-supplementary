@@ -45395,7 +45395,7 @@ export const annict: ArmEntry[] = [
   // [2005-AUTUMN] TV: タルピー
   // https://annict.com/works/15657
   { annict_id: 15657, mal_id: 29485 },
-  // [null-null] TV: 上伊那ぼたん、酔へる姿は百合の花
+  // [2026-SPRING] TV: 上伊那ぼたん、酔へる姿は百合の花
   // https://annict.com/works/15658
   { annict_id: 15658, mal_id: 61186 },
   // [2025-AUTUMN] WEB: イン・ユア・ドリームズ: 願いがかなうなら
@@ -48026,4 +48026,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] TV: 龍族Ⅱ -The Mourner's Eyes-
   // https://annict.com/works/16537
   { annict_id: 16537, mal_id: 59662 },
+  // [null-null] TV: 手札が多めのビクトリア
+  // https://annict.com/works/16538
+  { annict_id: 16538, mal_id: 62476 },
 ]
