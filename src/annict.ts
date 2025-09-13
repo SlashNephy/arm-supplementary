@@ -40451,7 +40451,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] TV: 最後にひとつだけお願いしてもよろしいでしょうか
   // https://annict.com/works/14006
   { annict_id: 14006, mal_id: 59846, syobocal_tid: 7567 },
-  // [null-null] OTHER: DARK MOON　-黒の月: 月の祭壇- Original By DARK MOON : THE BLOOD ALTAR WITH ENHYPEN
+  // [2026-WINTER] TV: DARK MOON　-黒の月: 月の祭壇- Original By DARK MOON : THE BLOOD ALTAR WITH ENHYPEN
   // https://annict.com/works/14007
   { annict_id: 14007, mal_id: 59853 },
   // [1958-WINTER] MOVIE: こぐまのコロちゃん
@@ -46814,7 +46814,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] TV: 闇芝居 十五期
   // https://annict.com/works/16131
   { annict_id: 16131, mal_id: 61793, syobocal_tid: 7532 },
-  // [null-null] TV: 鬼の花嫁
+  // [2026-null] TV: 鬼の花嫁
   // https://annict.com/works/16132
   { annict_id: 16132, mal_id: 61814 },
   // [2006-AUTUMN] MOVIE: オープン・シーズン
