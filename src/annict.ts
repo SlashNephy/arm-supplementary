@@ -45557,7 +45557,7 @@ export const annict: ArmEntry[] = [
   // [2026-SPRING] MOVIE: 劇場版 モノノ怪 蛇神
   // https://annict.com/works/15711
   { annict_id: 15711, mal_id: 61202 },
-  // [null-null] TV: 勇者のクズ
+  // [2026-WINTER] TV: 勇者のクズ
   // https://annict.com/works/15712
   { annict_id: 15712, mal_id: 61217 },
   // [2025-AUTUMN] MOVIE: ガールズ＆パンツァー もっとらぶらぶ作戦です！第１幕
@@ -47981,7 +47981,7 @@ export const annict: ArmEntry[] = [
   // [2026-WINTER] MOVIE: 劇場版 暗殺教室 みんなの時間
   // https://annict.com/works/16522
   { annict_id: 16522, mal_id: 62421 },
-  // [2007-null] TV: フランソアCM カシスとアルルの物語シリーズ
+  // [2007-null] TV: フランソアスローブレッドCM「カシスとアルルの物語」
   // https://annict.com/works/16523
   { annict_id: 16523, mal_id: 60776 },
   // [null-null] TV: 世界最強の後衛 ～迷宮国の新人探索者～
