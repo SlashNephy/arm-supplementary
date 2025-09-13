@@ -37367,7 +37367,7 @@ export const annict: ArmEntry[] = [
   // [1931-WINTER] MOVIE: タクシードライバー
   // https://annict.com/works/12973
   { annict_id: 12973 },
-  // [null-null] TV: 花ざかりの君たちへ
+  // [2026-WINTER] TV: 花ざかりの君たちへ
   // https://annict.com/works/12974
   { annict_id: 12974, mal_id: 58861 },
   // [2024-SPRING] WEB: HIGHSPEED Étoile コラボミニアニメ
@@ -47312,7 +47312,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: とびだせ！ワンダー・ペット
   // https://annict.com/works/16298
   { annict_id: 16298 },
-  // [null-null] TV: 黄泉のツガイ
+  // [2026-null] TV: 黄泉のツガイ
   // https://annict.com/works/16299
   { annict_id: 16299, mal_id: 62001 },
   // [null-null] OTHER: 99回断罪されたループ令嬢ですが今世は「超絶愛されモード」ですって!?
