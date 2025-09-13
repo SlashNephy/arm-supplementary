@@ -18752,7 +18752,7 @@ export const annict: ArmEntry[] = [
   // [2022-SUMMER] MOVIE: 映画 ゆるキャン△
   // https://annict.com/works/6292
   { annict_id: 6292, mal_id: 38475 },
-  // [2020-WINTER] TV: ゆるキャン△ ショートアニメ「へやキャン△」
+  // [2020-WINTER] TV: へやキャン△
   // https://annict.com/works/6293
   { annict_id: 6293, mal_id: 38476, syobocal_tid: 5517 },
   // [2017-SPRING] OVA: 装神少女まとい 第13話(OVA)「株式会社ナイツ・バスターズ」
@@ -21710,7 +21710,7 @@ export const annict: ArmEntry[] = [
   // [1985-WINTER] OVA: 幻夢戦記レダ
   // https://annict.com/works/7482
   { annict_id: 7482, mal_id: 2196 },
-  // [2020-SPRING] OVA: へやキャン△ SPECIAL EPISODE「サウナとごはんと三輪バイク」
+  // [2020-SPRING] OVA: へやキャン△ SPECIAL EPISODE
   // https://annict.com/works/7483
   { annict_id: 7483, mal_id: 41061 },
   // [2020-SPRING] MOVIE: 劇場版『宇宙パトロールルル子 初恋BIG版』
@@ -48029,4 +48029,10 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 手札が多めのビクトリア
   // https://annict.com/works/16538
   { annict_id: 16538, mal_id: 62476 },
+  // [2026-WINTER] TV: 北斗の拳 拳王軍ザコたちの挽歌
+  // https://annict.com/works/16539
+  { annict_id: 16539 },
+  // [null-null] TV: 風を継ぐもの
+  // https://annict.com/works/16540
+  { annict_id: 16540, mal_id: 62483 },
 ]
