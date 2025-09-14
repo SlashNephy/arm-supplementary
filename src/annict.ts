@@ -40817,7 +40817,7 @@ export const annict: ArmEntry[] = [
   // [2026-null] TV: 夜桜さんちの大作戦 第2期
   // https://annict.com/works/14129
   { annict_id: 14129, mal_id: 60055 },
-  // [2026-null] TV: 【推しの子】第3期
+  // [2026-WINTER] TV: 【推しの子】第3期
   // https://annict.com/works/14130
   { annict_id: 14130, mal_id: 60058 },
   // [null-null] OTHER: 庵野秀明監督版｢宇宙戦艦ヤマト｣
