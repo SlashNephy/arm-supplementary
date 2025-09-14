@@ -42919,7 +42919,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14830, mal_id: 12709 },
   // [2025-AUTUMN] TV: グノーシア
   // https://annict.com/works/14831
-  { annict_id: 14831, mal_id: 60427 },
+  { annict_id: 14831, mal_id: 60427, syobocal_tid: 7604 },
   // [2025-WINTER] TV: 0歳児スタートダッシュ物語 シーズン2
   // https://annict.com/works/14832
   { annict_id: 14832, mal_id: 60425, syobocal_tid: 7340 },
@@ -47668,7 +47668,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16417 },
   // [2025-AUTUMN] TV: ポーション、わが身を助ける
   // https://annict.com/works/16418
-  { annict_id: 16418, mal_id: 62144 },
+  { annict_id: 16418, mal_id: 62144, syobocal_tid: 7602 },
   // [2023-null] OTHER: 映像版マンガ日本史
   // https://annict.com/works/16419
   { annict_id: 16419 },
