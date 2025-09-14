@@ -39700,7 +39700,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13751, mal_id: 59490 },
   // [2025-AUTUMN] TV: 機械じかけのマリー
   // https://annict.com/works/13752
-  { annict_id: 13752, mal_id: 59484 },
+  { annict_id: 13752, mal_id: 59484, syobocal_tid: 7599 },
   // [2024-AUTUMN] TV: SHIBUYA♡HACHI 第2クール
   // https://annict.com/works/13753
   { annict_id: 13753, mal_id: 59485, syobocal_tid: 7261 },
@@ -39733,7 +39733,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13762, mal_id: 23815 },
   // [2025-AUTUMN] TV: 千歳くんはラムネ瓶のなか
   // https://annict.com/works/13763
-  { annict_id: 13763, mal_id: 59517 },
+  { annict_id: 13763, mal_id: 59517, syobocal_tid: 7597 },
   // [2024-AUTUMN] WEB: 少女革命計画
   // https://annict.com/works/13764
   { annict_id: 13764 },
@@ -41359,7 +41359,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14309, mal_id: 60151 },
   // [2025-AUTUMN] TV: 悪食令嬢と狂血公爵
   // https://annict.com/works/14310
-  { annict_id: 14310, mal_id: 60162 },
+  { annict_id: 14310, mal_id: 60162, syobocal_tid: 7598 },
   // [2003-SUMMER] OVA: ぼくたちピチューブラザーズ・パーティはおおさわぎ!のまき
   // https://annict.com/works/14311
   { annict_id: 14311, mal_id: 6877 },
@@ -43228,7 +43228,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14933 },
   // [2025-AUTUMN] TV: 不器用な先輩。
   // https://annict.com/works/14934
-  { annict_id: 14934, mal_id: 60531 },
+  { annict_id: 14934, mal_id: 60531, syobocal_tid: 7601 },
   // [2025-WINTER] TV: 聖女なのに国を追い出されたので、崩壊寸前の隣国へ来ました～力を解放したので国が平和になってきましたが元の国まで加護は届きませんよ～
   // https://annict.com/works/14935
   { annict_id: 14935, syobocal_tid: 7345 },
@@ -44938,7 +44938,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15504 },
   // [2025-AUTUMN] TV: 終末ツーリング
   // https://annict.com/works/15505
-  { annict_id: 15505, mal_id: 61072 },
+  { annict_id: 15505, mal_id: 61072, syobocal_tid: 7600 },
   // [null-null] TV: ウタヒメドリーム
   // https://annict.com/works/15506
   { annict_id: 15506, mal_id: 61073 },
