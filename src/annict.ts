@@ -48038,4 +48038,13 @@ export const annict: ArmEntry[] = [
   // [2026-null] TV: 時光代理人 -LINK CLICK- 英都篇
   // https://annict.com/works/16541
   { annict_id: 16541, mal_id: 56752 },
+  // [2005-AUTUMN] WEB: ブタヅカ
+  // https://annict.com/works/16542
+  { annict_id: 16542, mal_id: 29742 },
+  // [2005-AUTUMN] WEB: 下町エイリアン パピピピプピ
+  // https://annict.com/works/16543
+  { annict_id: 16543, mal_id: 29741 },
+  // [2005-AUTUMN] WEB: ボーノーモ
+  // https://annict.com/works/16544
+  { annict_id: 16544, mal_id: 29743 },
 ]
