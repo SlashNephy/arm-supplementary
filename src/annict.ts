@@ -48056,7 +48056,7 @@ export const annict: ArmEntry[] = [
   // [1943-SPRING] MOVIE: ディアナのニンフ、カリスト
   // https://annict.com/works/16547
   { annict_id: 16547 },
-  // [2021-null] MOVIE: マッドゴッド
+  // [2021-SUMMER] MOVIE: マッドゴッド
   // https://annict.com/works/16548
   { annict_id: 16548 },
 ]
