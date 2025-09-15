@@ -48047,4 +48047,7 @@ export const annict: ArmEntry[] = [
   // [2005-AUTUMN] WEB: ボーノーモ
   // https://annict.com/works/16544
   { annict_id: 16544, mal_id: 29743 },
+  // [1923-AUTUMN] MOVIE: ナイチンゲールの唄
+  // https://annict.com/works/16545
+  { annict_id: 16545 },
 ]
