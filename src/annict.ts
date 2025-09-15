@@ -48050,4 +48050,13 @@ export const annict: ArmEntry[] = [
   // [1923-AUTUMN] MOVIE: ナイチンゲールの唄
   // https://annict.com/works/16545
   { annict_id: 16545 },
+  // [1934-WINTER] MOVIE: 生命の喜び
+  // https://annict.com/works/16546
+  { annict_id: 16546 },
+  // [1943-SPRING] MOVIE: ディアナのニンフ、カリスト
+  // https://annict.com/works/16547
+  { annict_id: 16547 },
+  // [2021-null] MOVIE: マッドゴッド
+  // https://annict.com/works/16548
+  { annict_id: 16548 },
 ]
