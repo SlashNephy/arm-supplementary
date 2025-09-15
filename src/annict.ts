@@ -10321,7 +10321,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3452, mal_id: 974 },
   // [2010-SUMMER] MOVIE: テコンV
   // https://annict.com/works/3453
-  { annict_id: 3453 },
+  { annict_id: 3453, mal_id: 10763 },
   // [1999-WINTER] MOVIE: 劇場版 デジモンアドベンチャー
   // https://annict.com/works/3454
   { annict_id: 3454, mal_id: 2961 },
