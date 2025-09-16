@@ -43430,7 +43430,7 @@ export const annict: ArmEntry[] = [
   // [1933-AUTUMN] MOVIE: 動絵狐狸達引
   // https://annict.com/works/15001
   { annict_id: 15001, mal_id: 3929 },
-  // [2026-null] TV: MFゴースト 3rd Season
+  // [2026-WINTER] TV: MFゴースト 3rd Season
   // https://annict.com/works/15002
   { annict_id: 15002, mal_id: 60602 },
   // [2025-AUTUMN] MOVIE: 果てしなきスカーレット
