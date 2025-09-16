@@ -47914,7 +47914,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16499 },
   // [2025-AUTUMN] TV: 2200年ねこの国ニッポン
   // https://annict.com/works/16500
-  { annict_id: 16500 },
+  { annict_id: 16500, mal_id: 62496 },
   // [2006-WINTER] TV: erico
   // https://annict.com/works/16501
   { annict_id: 16501 },
@@ -48001,7 +48001,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16528 },
   // [null-null] TV: ねずみくんのチョッキ シリーズ
   // https://annict.com/works/16529
-  { annict_id: 16529 },
+  { annict_id: 16529, mal_id: 62495 },
   // [2008-AUTUMN] TV: マックスバリュ九州CM
   // https://annict.com/works/16530
   { annict_id: 16530, mal_id: 37421 },
@@ -48062,4 +48062,10 @@ export const annict: ArmEntry[] = [
   // [2010-SPRING] TV: ケツ犬
   // https://annict.com/works/16549
   { annict_id: 16549, mal_id: 8353 },
+  // [2013-WINTER] TV: ねころんでテレビ。
+  // https://annict.com/works/16550
+  { annict_id: 16550, mal_id: 29844 },
+  // [2013-SUMMER] TV: ザ・ミッドナイト☆アニマル
+  // https://annict.com/works/16551
+  { annict_id: 16551, mal_id: 18919 },
 ]
