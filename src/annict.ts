@@ -48059,4 +48059,7 @@ export const annict: ArmEntry[] = [
   // [2021-SUMMER] MOVIE: マッドゴッド
   // https://annict.com/works/16548
   { annict_id: 16548 },
+  // [2010-SPRING] TV: ケツ犬
+  // https://annict.com/works/16549
+  { annict_id: 16549, mal_id: 8353 },
 ]
