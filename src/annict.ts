@@ -42116,7 +42116,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] TV: 矢野くんの普通の日々
   // https://annict.com/works/14563
   { annict_id: 14563, mal_id: 60254, syobocal_tid: 7559 },
-  // [2025-AUTUMN] TV: 異世界マンチキン ―HP1のままで最強最速ダンジョン攻略―
+  // [null-null] TV: 異世界マンチキン ―HP1のままで最強最速ダンジョン攻略―
   // https://annict.com/works/14564
   { annict_id: 14564, mal_id: 60253 },
   // [2025-SPRING] MOVIE: パフィンの小さな島
@@ -47863,7 +47863,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16482, mal_id: 62293 },
   // [2025-AUTUMN] TV: 破産富豪 The Richest Man in GAME
   // https://annict.com/works/16483
-  { annict_id: 16483, mal_id: 57663 },
+  { annict_id: 16483, mal_id: 57663, syobocal_tid: 7605 },
   // [2025-SPRING] MOVIE: 普通の生活
   // https://annict.com/works/16484
   { annict_id: 16484, mal_id: 61183 },
