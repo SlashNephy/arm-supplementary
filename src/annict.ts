@@ -48070,5 +48070,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 16551, mal_id: 18919 },
   // [null-null] TV: 不運からの最強男
   // https://annict.com/works/16552
-  { annict_id: 16552 },
+  { annict_id: 16552, mal_id: 62503 },
 ]
