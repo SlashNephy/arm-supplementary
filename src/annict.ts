@@ -48074,4 +48074,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 怪獣デコード アイダラの指輪
   // https://annict.com/works/16553
   { annict_id: 16553, mal_id: 62507 },
+  // [null-null] TV: 自動販売機に生まれ変わった俺は迷宮を彷徨う 3rd season
+  // https://annict.com/works/16554
+  { annict_id: 16554, mal_id: 62512 },
 ]
