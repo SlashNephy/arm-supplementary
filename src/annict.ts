@@ -48071,4 +48071,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 不運からの最強男
   // https://annict.com/works/16552
   { annict_id: 16552, mal_id: 62503 },
+  // [null-null] OTHER: 怪獣デコード アイダラの指輪
+  // https://annict.com/works/16553
+  { annict_id: 16553, mal_id: 62507 },
 ]
