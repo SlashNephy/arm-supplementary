@@ -46787,7 +46787,7 @@ export const annict: ArmEntry[] = [
   // [2020-AUTUMN] WEB: ロボカーポリー　ソング・ソングミュージアム
   // https://annict.com/works/16122
   { annict_id: 16122, mal_id: 56368 },
-  // [2026-null] TV: 綺麗にしてもらえますか。
+  // [2026-WINTER] TV: 綺麗にしてもらえますか。
   // https://annict.com/works/16123
   { annict_id: 16123, mal_id: 61782 },
   // [2025-SPRING] WEB: “オハナ＜家族＞”のハートフルショートアニメーション
