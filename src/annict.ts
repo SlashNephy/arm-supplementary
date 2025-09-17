@@ -48077,4 +48077,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 自動販売機に生まれ変わった俺は迷宮を彷徨う 3rd season
   // https://annict.com/works/16554
   { annict_id: 16554, mal_id: 62512 },
+  // [null-null] TV: クレバテスⅡ-魔獣の王と偽りの勇者伝承-
+  // https://annict.com/works/16555
+  { annict_id: 16555, mal_id: 62513 },
 ]
