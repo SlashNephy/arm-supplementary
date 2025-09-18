@@ -48098,4 +48098,7 @@ export const annict: ArmEntry[] = [
   // [null-null] MOVIE: 劇場版 銀河特急 ミルキー☆サブウェイ
   // https://annict.com/works/16561
   { annict_id: 16561 },
+  // [null-null] TV: ダンダダン 第3期
+  // https://annict.com/works/16562
+  { annict_id: 16562 },
 ]
