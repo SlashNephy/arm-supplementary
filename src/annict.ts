@@ -12490,7 +12490,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 4180, mal_id: 25731, syobocal_tid: 3539 },
   // [2015-SPRING] MOVIE: たまゆら～卒業写真～
   // https://annict.com/works/4181
-  { annict_id: 4181, syobocal_tid: 3876 },
+  { annict_id: 4181, mal_id: 25729, syobocal_tid: 3876 },
   // [2015-AUTUMN] MOVIE: デジモンアドベンチャー tri.
   // https://annict.com/works/4182
   { annict_id: 4182, mal_id: 25687 },
@@ -48086,4 +48086,10 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] TV: シルバニアファミリー フレアのワンダーデイズ
   // https://annict.com/works/16557
   { annict_id: 16557, mal_id: 62504 },
+  // [2016-SUMMER] TV: アルプスの少女ハイジ？ちゃらおんじ
+  // https://annict.com/works/16558
+  { annict_id: 16558 },
+  // [2016-AUTUMN] TV: ななにんのあやかし -ちみちみ魍魎!!現代物語-
+  // https://annict.com/works/16559
+  { annict_id: 16559, mal_id: 34309 },
 ]
