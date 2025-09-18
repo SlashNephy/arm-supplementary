@@ -39868,7 +39868,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13807 },
   // [2025-AUTUMN] TV: ワンダンス
   // https://annict.com/works/13808
-  { annict_id: 13808, mal_id: 59623 },
+  { annict_id: 13808, mal_id: 59623, syobocal_tid: 7610 },
   // [2025-SUMMER] TV: 雨と君と
   // https://annict.com/works/13809
   { annict_id: 13809, mal_id: 59619, syobocal_tid: 7487 },
@@ -43444,7 +43444,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15005 },
   // [2025-AUTUMN] TV: 嘆きの亡霊は引退したい 第2クール
   // https://annict.com/works/15006
-  { annict_id: 15006, mal_id: 60619 },
+  { annict_id: 15006, mal_id: 60619, syobocal_tid: 7609 },
   // [2025-SPRING] TV: やたらやらしい深見くん
   // https://annict.com/works/15007
   { annict_id: 15007, mal_id: 58888, syobocal_tid: 7422 },
@@ -45382,7 +45382,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15652 },
   // [2025-AUTUMN] TV: 野原ひろし 昼メシの流儀
   // https://annict.com/works/15653
-  { annict_id: 15653, mal_id: 61184 },
+  { annict_id: 15653, mal_id: 61184, syobocal_tid: 7607 },
   // [2024-WINTER] TV: 春告げ魚と風来坊
   // https://annict.com/works/15654
   { annict_id: 15654, mal_id: 58229 },
@@ -47086,7 +47086,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16222 },
   // [2025-AUTUMN] TV: 湖池屋SDGs劇場 サスとテナ シーズン6
   // https://annict.com/works/16223
-  { annict_id: 16223 },
+  { annict_id: 16223, syobocal_tid: 7608 },
   // [1929-SPRING] MOVIE: The Fishing Fool（原題）
   // https://annict.com/works/16224
   { annict_id: 16224 },
