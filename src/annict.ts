@@ -48095,4 +48095,7 @@ export const annict: ArmEntry[] = [
   // [2015-WINTER] OVA: 咲-Saki- 阿知賀編 episode of side-A ショートオリジナルアニメ「玄の誕生日」
   // https://annict.com/works/16560
   { annict_id: 16560, mal_id: 30292 },
+  // [null-null] MOVIE: 劇場版 銀河特急 ミルキー☆サブウェイ
+  // https://annict.com/works/16561
+  { annict_id: 16561 },
 ]
