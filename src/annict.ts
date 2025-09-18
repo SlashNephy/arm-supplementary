@@ -12904,7 +12904,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 4319, mal_id: 24921, syobocal_tid: 3906 },
   // [2014-AUTUMN] OVA: 恋騎士 Purely☆Kiss THE ANIMATION ～Special Edition～
   // https://annict.com/works/4320
-  { annict_id: 4320 },
+  { annict_id: 4320, mal_id: 18655 },
   // [2015-SUMMER] MOVIE: ARIA The AVVENIRE
   // https://annict.com/works/4321
   { annict_id: 4321, mal_id: 29893, syobocal_tid: 4758 },
@@ -42712,7 +42712,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14761 },
   // [2024-AUTUMN] TV: シルバニアファミリー フレアのピース・オブ・シークレット
   // https://annict.com/works/14762
-  { annict_id: 14762 },
+  { annict_id: 14762, mal_id: 60052 },
   // [2025-SPRING] MOVIE: KING OF PRISM-Your Endless Call- み～んなきらめけ！プリズム☆ツアーズ
   // https://annict.com/works/14763
   { annict_id: 14763, mal_id: 61120 },
@@ -47965,7 +47965,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16516, mal_id: 62387 },
   // [2026-null] MOVIE: 映画ドラえもん 新・のび太の海底鬼岩城
   // https://annict.com/works/16517
-  { annict_id: 16517 },
+  { annict_id: 16517, mal_id: 62508 },
   // [2025-SUMMER] OTHER: 22/7「あの日の彼女たち」day09 滝川みう
   // https://annict.com/works/16518
   { annict_id: 16518, mal_id: 62385 },
@@ -48080,4 +48080,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: クレバテスⅡ-魔獣の王と偽りの勇者伝承-
   // https://annict.com/works/16555
   { annict_id: 16555, mal_id: 62513 },
+  // [null-null] OTHER: 【私のおふるで悪いんだけど】とお母様(ヒロイン)に取り巻きを押し付けられ、嫁いだ辺境でも嫁扱いされませんが、おかげで自由に生きれます！
+  // https://annict.com/works/16556
+  { annict_id: 16556 },
 ]
