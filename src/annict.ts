@@ -48083,4 +48083,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 【私のおふるで悪いんだけど】とお母様(ヒロイン)に取り巻きを押し付けられ、嫁いだ辺境でも嫁扱いされませんが、おかげで自由に生きれます！
   // https://annict.com/works/16556
   { annict_id: 16556 },
+  // [2025-AUTUMN] TV: シルバニアファミリー フレアのワンダーデイズ
+  // https://annict.com/works/16557
+  { annict_id: 16557, mal_id: 62504 },
 ]
