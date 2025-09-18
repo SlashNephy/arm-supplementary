@@ -48092,4 +48092,7 @@ export const annict: ArmEntry[] = [
   // [2016-AUTUMN] TV: ななにんのあやかし -ちみちみ魍魎!!現代物語-
   // https://annict.com/works/16559
   { annict_id: 16559, mal_id: 34309 },
+  // [2015-WINTER] OVA: 咲-Saki- 阿知賀編 episode of side-A ショートオリジナルアニメ「玄の誕生日」
+  // https://annict.com/works/16560
+  { annict_id: 16560, mal_id: 30292 },
 ]
