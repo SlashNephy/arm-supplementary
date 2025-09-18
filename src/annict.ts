@@ -46922,7 +46922,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] WEB: 深夜ラーメンの誘惑
   // https://annict.com/works/16167
   { annict_id: 16167 },
-  // [null-null] TV: 異世界かるてっと3
+  // [2025-AUTUMN] TV: 異世界かるてっと3
   // https://annict.com/works/16168
   { annict_id: 16168, mal_id: 61851 },
   // [2023-SUMMER] TV: FLCL:GRUNGE
