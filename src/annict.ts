@@ -47902,7 +47902,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16495, mal_id: 62352 },
   // [2025-AUTUMN] TV: #神奈川に住んでるエルフ
   // https://annict.com/works/16496
-  { annict_id: 16496 },
+  { annict_id: 16496, mal_id: 62521 },
   // [2025-SUMMER] WEB: あしたのありか
   // https://annict.com/works/16497
   { annict_id: 16497, mal_id: 62401 },
@@ -48082,7 +48082,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16555, mal_id: 62513 },
   // [null-null] OTHER: 【私のおふるで悪いんだけど】とお母様(ヒロイン)に取り巻きを押し付けられ、嫁いだ辺境でも嫁扱いされませんが、おかげで自由に生きれます！
   // https://annict.com/works/16556
-  { annict_id: 16556 },
+  { annict_id: 16556, mal_id: 62520 },
   // [2025-AUTUMN] TV: シルバニアファミリー フレアのワンダーデイズ
   // https://annict.com/works/16557
   { annict_id: 16557, mal_id: 62504 },
@@ -48097,7 +48097,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16560, mal_id: 30292 },
   // [null-null] MOVIE: 劇場版 銀河特急 ミルキー☆サブウェイ
   // https://annict.com/works/16561
-  { annict_id: 16561 },
+  { annict_id: 16561, mal_id: 62518 },
   // [null-null] TV: ダンダダン 第3期
   // https://annict.com/works/16562
   { annict_id: 16562, mal_id: 62516 },
