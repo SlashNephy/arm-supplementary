@@ -46924,7 +46924,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16167 },
   // [2025-AUTUMN] TV: 異世界かるてっと3
   // https://annict.com/works/16168
-  { annict_id: 16168, mal_id: 61851 },
+  { annict_id: 16168, mal_id: 61851, syobocal_tid: 7611 },
   // [2023-SUMMER] TV: FLCL:GRUNGE
   // https://annict.com/works/16169
   { annict_id: 16169 },
@@ -47642,10 +47642,10 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] MOVIE: 機動戦士ガンダム 鉄血のオルフェンズ ウルズハント -小さな挑戦者の軌跡-
   // https://annict.com/works/16409
   { annict_id: 16409 },
-  // [null-null] TV: Spicy Candy
+  // [2023-WINTER] TV: Spicy Candy
   // https://annict.com/works/16410
   { annict_id: 16410, mal_id: 54558 },
-  // [null-null] TV: Spicy Candy 2期
+  // [2025-WINTER] WEB: Spicy Candy 2期
   // https://annict.com/works/16411
   { annict_id: 16411 },
   // [2025-SUMMER] MOVIE: も～っとつながる！KING OF PRISM -Your Endless Call- み～んなきらめけ！プリズム☆ツアーズ
