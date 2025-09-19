@@ -48101,4 +48101,13 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: ダンダダン 第3期
   // https://annict.com/works/16562
   { annict_id: 16562, mal_id: 62516 },
+  // [2026-null] TV: #ゾンビさがしてます
+  // https://annict.com/works/16563
+  { annict_id: 16563, mal_id: 62524 },
+  // [2023-AUTUMN] WEB: MOG MOG PLANET　REAL版
+  // https://annict.com/works/16564
+  { annict_id: 16564, mal_id: 58585 },
+  // [2023-AUTUMN] WEB: MOG MOG PLANET　CUTE版
+  // https://annict.com/works/16565
+  { annict_id: 16565, mal_id: 58585 },
 ]
