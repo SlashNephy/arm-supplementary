@@ -33214,7 +33214,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11582, mal_id: 57184 },
   // [2025-AUTUMN] TV: デブとラブと過ちと！
   // https://annict.com/works/11583
-  { annict_id: 11583, mal_id: 57189, syobocal_tid: 7577 },
+  { annict_id: 11583, mal_id: 57189, syobocal_tid: 7578 },
   // [2024-SUMMER] TV: かつて魔法少女と悪は敵対していた。
   // https://annict.com/works/11584
   { annict_id: 11584, mal_id: 57217, syobocal_tid: 7086 },
@@ -44389,7 +44389,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15321, mal_id: 23633 },
   // [2025-AUTUMN] TV: 太陽よりも眩しい星
   // https://annict.com/works/15322
-  { annict_id: 15322, mal_id: 60969 },
+  { annict_id: 15322, mal_id: 60969, syobocal_tid: 7577 },
   // [1960-SUMMER] TV: ゆかいなボゾ
   // https://annict.com/works/15323
   { annict_id: 15323 },
