@@ -48110,4 +48110,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] WEB: MOG MOG PLANET　CUTE版
   // https://annict.com/works/16565
   { annict_id: 16565, mal_id: 58585 },
+  // [2026-null] TV: 彼女、お借りします 第5期
+  // https://annict.com/works/16566
+  { annict_id: 16566, mal_id: 62485 },
 ]
