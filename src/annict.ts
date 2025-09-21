@@ -47213,7 +47213,7 @@ export const annict: ArmEntry[] = [
   // [1991-AUTUMN] OVA: 装甲巨神Zナイト
   // https://annict.com/works/16265
   { annict_id: 16265, mal_id: 9965 },
-  // [2026-null] TV: ヴィジランテ -僕のヒーローアカデミア ILLEGALS- 第2期
+  // [2026-WINTER] TV: ヴィジランテ -僕のヒーローアカデミア ILLEGALS- 第2期
   // https://annict.com/works/16266
   { annict_id: 16266, mal_id: 61942 },
   // [2025-SUMMER] MOVIE: 劇場版スマーフ／おどるキノコ村の時空大冒険
