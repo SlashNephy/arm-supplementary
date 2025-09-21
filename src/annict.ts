@@ -35036,9 +35036,9 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] WEB: カビゴンとカラカラ
   // https://annict.com/works/12192
   { annict_id: 12192, mal_id: 57488 },
-  // [null-null] TV: 超普通マホウ少女 アスミトルバース
+  // [2025-AUTUMN] TV: 超普通マホウ少女 アスミトルバース
   // https://annict.com/works/12193
-  { annict_id: 12193 },
+  { annict_id: 12193, mal_id: 62522 },
   // [2010-AUTUMN] OVA: 迷elleオトコノ娘
   // https://annict.com/works/12194
   { annict_id: 12194, mal_id: 9337 },
@@ -48113,4 +48113,7 @@ export const annict: ArmEntry[] = [
   // [2026-null] TV: 彼女、お借りします 第5期
   // https://annict.com/works/16566
   { annict_id: 16566, mal_id: 62485 },
+  // [2022-SUMMER] WEB: 魔法のない世界で生きるということ
+  // https://annict.com/works/16568
+  { annict_id: 16568, mal_id: 54909 },
 ]
