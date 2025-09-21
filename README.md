@@ -38,17 +38,17 @@ export const fetchArmEntries = async (): Promise<ArmEntry[]> => {
 
 ## Statistics
 
-Currently, arm-supplementary has 41908 entries (+7864).
+Currently, arm-supplementary has 41915 entries (+7871).
 
 | Service                                     | arm-supplementary | arm / anime-offline-database |
 | :------------------------------------------ | :---------------: | :--------------------------: |
-| [Annict](https://annict.com)                |   16034 (+907)    |            15127             |
-| [AniList](https://anilist.co)               |   23120 (+1919)   |            21201             |
-| [MyAnimeList](https://myanimelist.net)      |   29244 (+983)    |            28261             |
-| [しょぼいカレンダー](https://cal.syoboi.jp) |    6385 (+170)    |             6215             |
+| [Annict](https://annict.com)                |   16041 (+914)    |            15127             |
+| [AniList](https://anilist.co)               |   23121 (+1920)   |            21201             |
+| [MyAnimeList](https://myanimelist.net)      |   29252 (+991)    |            28261             |
+| [しょぼいカレンダー](https://cal.syoboi.jp) |    6391 (+176)    |             6215             |
 | [AniDB](https://anidb.net)                  |   13423 (+232)    |            13191             |
-| [Anime-Planet](https://anime-planet.com)    |   23868 (+352)    |            23516             |
-| [aniSearch](https://anisearch.com)          |   18692 (+296)    |            18396             |
-| [Kitsu](https://kitsu.io)                   |   20334 (+340)    |            19994             |
+| [Anime-Planet](https://anime-planet.com)    |   23869 (+353)    |            23516             |
+| [aniSearch](https://anisearch.com)          |   18693 (+297)    |            18396             |
+| [Kitsu](https://kitsu.io)                   |   20335 (+341)    |            19994             |
 | [LiveChart.me](https://livechart.me)        |   11358 (+256)    |            11102             |
 | [Anime Notifier](https://notify.moe)        |   16442 (+315)    |            16127             |
