@@ -48116,4 +48116,10 @@ export const annict: ArmEntry[] = [
   // [2022-SUMMER] WEB: 魔法のない世界で生きるということ
   // https://annict.com/works/16568
   { annict_id: 16568, mal_id: 54909 },
+  // [2026-null] TV: 花織さんは転生しても喧嘩がしたい
+  // https://annict.com/works/16569
+  { annict_id: 16569 },
+  // [null-null] OTHER: 新テニスの王子様 U-17 WORLD CUP 決勝メンバー決定戦
+  // https://annict.com/works/16570
+  { annict_id: 16570, mal_id: 62534 },
 ]
