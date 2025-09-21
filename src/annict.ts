@@ -43450,7 +43450,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15007, mal_id: 58888, syobocal_tid: 7422 },
   // [2025-AUTUMN] TV: ギルティホール
   // https://annict.com/works/15008
-  { annict_id: 15008, mal_id: 62379 },
+  { annict_id: 15008, mal_id: 62379, syobocal_tid: 7615 },
   // [2025-SUMMER] TV: デキちゃうまで婚
   // https://annict.com/works/15009
   { annict_id: 15009, mal_id: 61742, syobocal_tid: 7530 },
@@ -45172,7 +45172,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15582 },
   // [2025-AUTUMN] TV: さわらないで小手指くん
   // https://annict.com/works/15583
-  { annict_id: 15583, mal_id: 61142 },
+  { annict_id: 15583, mal_id: 61142, syobocal_tid: 7616 },
   // [2012-AUTUMN] TV: 絶叫学級
   // https://annict.com/works/15584
   { annict_id: 15584, mal_id: 15891 },
@@ -45643,7 +45643,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15739, syobocal_tid: 7421 },
   // [2025-AUTUMN] TV: DIGIMON BEATBREAK
   // https://annict.com/works/15740
-  { annict_id: 15740, mal_id: 61269 },
+  { annict_id: 15740, mal_id: 61269, syobocal_tid: 7614 },
   // [2025-WINTER] WEB: デジモンアドベンチャー25周年記念PV「デジモンアドベンチャー-BEYOND-」
   // https://annict.com/works/15741
   { annict_id: 15741, mal_id: 61286 },
@@ -48025,7 +48025,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16536, mal_id: 62469 },
   // [2025-AUTUMN] TV: 龍族Ⅱ -The Mourner's Eyes-
   // https://annict.com/works/16537
-  { annict_id: 16537, mal_id: 59662 },
+  { annict_id: 16537, mal_id: 59662, syobocal_tid: 7613 },
   // [null-null] TV: 手札が多めのビクトリア
   // https://annict.com/works/16538
   { annict_id: 16538, mal_id: 62476 },
