@@ -47951,7 +47951,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] TV: 笑うレッドリスト シーズン2
   // https://annict.com/works/16512
   { annict_id: 16512 },
-  // [2025-SUMMER] OTHER: もちにゃん
+  // [2025-SUMMER] WEB: もちにゃん
   // https://annict.com/works/16513
   { annict_id: 16513 },
   // [2025-SUMMER] WEB: 赤いきつね緑のたぬき ✕ かぐや様は告らせたい コラボムービー
