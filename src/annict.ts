@@ -48122,4 +48122,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 新テニスの王子様 U-17 WORLD CUP 決勝メンバー決定戦
   // https://annict.com/works/16570
   { annict_id: 16570, mal_id: 62534 },
+  // [null-null] TV: ぐらんぶる Season 3
+  // https://annict.com/works/16571
+  { annict_id: 16571 },
 ]
