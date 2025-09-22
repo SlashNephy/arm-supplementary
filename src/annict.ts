@@ -48125,4 +48125,10 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: ぐらんぶる Season 3
   // https://annict.com/works/16571
   { annict_id: 16571 },
+  // [2025-AUTUMN] MOVIE: わたしが恋人になれるわけないじゃん、ムリムリ!（※ムリじゃなかった!?）〜ネクストシャイン！〜 先行上映
+  // https://annict.com/works/16572
+  { annict_id: 16572 },
+  // [null-null] TV: わたしが恋人になれるわけないじゃん、ムリムリ!（※ムリじゃなかった!?）〜ネクストシャイン！〜
+  // https://annict.com/works/16573
+  { annict_id: 16573 },
 ]
