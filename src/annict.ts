@@ -22811,7 +22811,7 @@ export const annict: ArmEntry[] = [
   // [2021-SPRING] WEB: 天地創造デザイン部 特別編
   // https://annict.com/works/7914
   { annict_id: 7914, mal_id: 46587 },
-  // [2025-null] TV: 対ありでした。 ～お嬢さまは格闘ゲームなんてしない～
+  // [2026-null] TV: 対ありでした。 ～お嬢さまは格闘ゲームなんてしない～
   // https://annict.com/works/7915
   { annict_id: 7915, mal_id: 46488 },
   // [2023-SPRING] TV: 贄姫と獣の王
@@ -45593,7 +45593,7 @@ export const annict: ArmEntry[] = [
   // [2011-AUTUMN] MOVIE: 劇場リミックス版 アップルシード XIII 〜預言〜
   // https://annict.com/works/15723
   { annict_id: 15723, mal_id: 10693 },
-  // [null-null] TV: ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ伝～
+  // [2026-null] TV: ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ伝～
   // https://annict.com/works/15724
   { annict_id: 15724, mal_id: 61240 },
   // [2025-SUMMER] TV: 美男高校地球防衛部ハイカラ！
