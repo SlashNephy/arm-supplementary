@@ -47330,7 +47330,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] WEB: あざらしのえるあーる
   // https://annict.com/works/16304
   { annict_id: 16304, mal_id: 61994 },
-  // [2025-SUMMER] MOVIE: bâan-大人の彊界-
+  // [2025-SUMMER] WEB: bâan-大人の彊界-
   // https://annict.com/works/16305
   { annict_id: 16305, mal_id: 61984 },
   // [2025-SUMMER] WEB: えとたま 10周年記念特別ショートムービー「えとたまkids」
