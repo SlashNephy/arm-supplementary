@@ -18365,7 +18365,7 @@ export const annict: ArmEntry[] = [
   // [2016-SUMMER] MOVIE: ファインディング・ドリー
   // https://annict.com/works/6162
   { annict_id: 6162 },
-  // [2020-AUTUMN] TV: アイドリッシュセブン Second BEAT!
+  // [2020-SPRING] TV: アイドリッシュセブン Second BEAT!
   // https://annict.com/works/6163
   { annict_id: 6163, mal_id: 37962, syobocal_tid: 5608 },
   // [2018-WINTER] WEB: アイドリッシュセブン Vibrato
@@ -19694,7 +19694,7 @@ export const annict: ArmEntry[] = [
   // [2020-SUMMER] MOVIE: 思い、思われ、ふり、ふられ
   // https://annict.com/works/6645
   { annict_id: 6645, mal_id: 39753 },
-  // [2020-SUMMER] TV: 放課後ていぼう日誌
+  // [2020-SPRING] TV: 放課後ていぼう日誌
   // https://annict.com/works/6646
   { annict_id: 6646, mal_id: 39730, syobocal_tid: 5620 },
   // [2021-SPRING] WEB: エデン
@@ -20654,7 +20654,7 @@ export const annict: ArmEntry[] = [
   // [2019-AUTUMN] WEB: 斉木楠雄のΨ難 Ψ始動編
   // https://annict.com/works/6999
   { annict_id: 6999, mal_id: 40542, syobocal_tid: 5983 },
-  // [2020-SUMMER] TV: 天晴爛漫！
+  // [2020-SPRING] TV: 天晴爛漫！
   // https://annict.com/works/7000
   { annict_id: 7000, mal_id: 40532, syobocal_tid: 5623 },
   // [2021-WINTER] TV: 弱キャラ友崎くん
@@ -20819,7 +20819,7 @@ export const annict: ArmEntry[] = [
   // [2020-SPRING] TV: アルゴナビス from BanG Dream!
   // https://annict.com/works/7086
   { annict_id: 7086, mal_id: 40677, syobocal_tid: 5637 },
-  // [2021-SPRING] TV: キングダム 第3シリーズ
+  // [2020-SPRING] TV: キングダム 第3シリーズ
   // https://annict.com/works/7087
   { annict_id: 7087, mal_id: 40682, syobocal_tid: 5644 },
   // [2017-AUTUMN] WEB: ごにんばやし！
@@ -21116,7 +21116,7 @@ export const annict: ArmEntry[] = [
   // [2020-AUTUMN] TV: 憂国のモリアーティ
   // https://annict.com/works/7218
   { annict_id: 7218, mal_id: 40911, syobocal_tid: 5775 },
-  // [2020-SUMMER] TV: 食戟のソーマ 豪ノ皿
+  // [2020-SPRING] TV: 食戟のソーマ 豪ノ皿
   // https://annict.com/works/7219
   { annict_id: 7219, mal_id: 40902, syobocal_tid: 5609 },
   // [2018-SUMMER] MOVIE: アラーニェの虫籠
@@ -21263,7 +21263,7 @@ export const annict: ArmEntry[] = [
   // [2019-WINTER] WEB: ガンダムvsハローキティ プロジェクト
   // https://annict.com/works/7267
   { annict_id: 7267, mal_id: 39674 },
-  // [2020-SUMMER] TV: デジモンアドベンチャー：
+  // [2020-SPRING] TV: デジモンアドベンチャー：
   // https://annict.com/works/7268
   { annict_id: 7268, mal_id: 41074, syobocal_tid: 5628 },
   // [2021-SPRING] TV: 恋と呼ぶには気持ち悪い
@@ -21272,7 +21272,7 @@ export const annict: ArmEntry[] = [
   // [2021-WINTER] TV: ログ・ホライズン 円卓崩壊
   // https://annict.com/works/7270
   { annict_id: 7270, mal_id: 41109, syobocal_tid: 5874 },
-  // [2020-SUMMER] TV: 富豪刑事 Balance:UNLIMITED
+  // [2020-SPRING] TV: 富豪刑事 Balance:UNLIMITED
   // https://annict.com/works/7271
   { annict_id: 7271, mal_id: 41120, syobocal_tid: 5653 },
   // [2020-SPRING] WEB: 泣きたい私は猫をかぶる
