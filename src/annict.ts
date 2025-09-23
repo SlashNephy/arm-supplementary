@@ -20462,7 +20462,7 @@ export const annict: ArmEntry[] = [
   // [2020-AUTUMN] TV: 池袋ウエストゲートパーク
   // https://annict.com/works/6935
   { annict_id: 6935, mal_id: 40359, syobocal_tid: 5768 },
-  // [2020-AUTUMN] TV: ギャルと恐竜
+  // [2020-SPRING] TV: ギャルと恐竜
   // https://annict.com/works/6936
   { annict_id: 6936, mal_id: 40358, syobocal_tid: 5633 },
   // [2021-AUTUMN] MOVIE: 宇宙戦艦ヤマト2205 新たなる旅立ち 前章 -TAKE OFF-
@@ -48125,10 +48125,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: ぐらんぶる Season 3
   // https://annict.com/works/16571
   { annict_id: 16571 },
-  // [2025-AUTUMN] MOVIE: わたしが恋人になれるわけないじゃん、ムリムリ!（※ムリじゃなかった!?）〜ネクストシャイン！〜 先行上映
+  // [2025-AUTUMN] MOVIE: わたしが恋人になれるわけないじゃん、ムリムリ!（※ムリじゃなかった!?）〜ネクストシャイン！〜
   // https://annict.com/works/16572
-  { annict_id: 16572 },
-  // [null-null] TV: わたしが恋人になれるわけないじゃん、ムリムリ!（※ムリじゃなかった!?）〜ネクストシャイン！〜
-  // https://annict.com/works/16573
-  { annict_id: 16573, mal_id: 62543 },
+  { annict_id: 16572, mal_id: 62543 },
 ]
