@@ -48131,4 +48131,7 @@ export const annict: ArmEntry[] = [
   // [null-null] MOVIE: ガールズバンドクライ 完全新作映画
   // https://annict.com/works/16574
   { annict_id: 16574, mal_id: 62550 },
+  // [null-null] MOVIE: DEATH STRANDING MOSQUITO
+  // https://annict.com/works/16575
+  { annict_id: 16575, mal_id: 62549 },
 ]
