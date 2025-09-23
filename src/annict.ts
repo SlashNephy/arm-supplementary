@@ -37198,7 +37198,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12916, mal_id: 38674 },
   // [2025-AUTUMN] TV: かくりよの宿飯 弐
   // https://annict.com/works/12917
-  { annict_id: 12917, mal_id: 58772 },
+  { annict_id: 12917, mal_id: 58772, syobocal_tid: 7618 },
   // [2024-SPRING] WEB: サケトロノオト
   // https://annict.com/works/12918
   { annict_id: 12918 },
@@ -46052,7 +46052,7 @@ export const annict: ArmEntry[] = [
   // [1979-SUMMER] MOVIE: 星の国三銃士
   // https://annict.com/works/15877
   { annict_id: 15877, mal_id: 6671 },
-  // [null-null] OTHER: スティール・ボール・ラン ジョジョの奇妙な冒険
+  // [2026-null] OTHER: スティール・ボール・ラン ジョジョの奇妙な冒険
   // https://annict.com/works/15878
   { annict_id: 15878, mal_id: 61469 },
   // [2014-SPRING] TV: ビッケはちいさなバイキング
@@ -47947,7 +47947,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16510, mal_id: 62428 },
   // [2025-AUTUMN] TV: ある日、お姫様になってしまった件について
   // https://annict.com/works/16511
-  { annict_id: 16511, mal_id: 57353 },
+  { annict_id: 16511, mal_id: 57353, syobocal_tid: 7617 },
   // [2025-SUMMER] TV: 笑うレッドリスト シーズン2
   // https://annict.com/works/16512
   { annict_id: 16512 },
@@ -48128,4 +48128,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] MOVIE: わたしが恋人になれるわけないじゃん、ムリムリ!（※ムリじゃなかった!?）〜ネクストシャイン！〜
   // https://annict.com/works/16572
   { annict_id: 16572, mal_id: 62543 },
+  // [null-null] MOVIE: ガールズバンドクライ 完全新作映画
+  // https://annict.com/works/16574
+  { annict_id: 16574, mal_id: 62550 },
 ]
