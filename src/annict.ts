@@ -27973,7 +27973,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9828, mal_id: 52750 },
   // [2025-AUTUMN] TV: ワンパンマン (第3期)
   // https://annict.com/works/9829
-  { annict_id: 9829, mal_id: 52807 },
+  { annict_id: 9829, mal_id: 52807, syobocal_tid: 7619 },
   // [2006-SPRING] TV: サルゲッチュ 〜オンエアー〜
   // https://annict.com/works/9830
   { annict_id: 9830, mal_id: 1872 },
@@ -45730,7 +45730,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15768, mal_id: 61297 },
   // [2025-AUTUMN] TV: 羅小黒戦記
   // https://annict.com/works/15769
-  { annict_id: 15769, mal_id: 33443 },
+  { annict_id: 15769, mal_id: 33443, syobocal_tid: 7620 },
   // [2018-SPRING] WEB: pino（ピノ）スペシャルアニメ『コンチェルピーノ』篇
   // https://annict.com/works/15770
   { annict_id: 15770 },
@@ -47188,7 +47188,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16256, mal_id: 61926 },
   // [2025-AUTUMN] TV: ウマ娘 シンデレラグレイ 第2クール
   // https://annict.com/works/16257
-  { annict_id: 16257, mal_id: 61930 },
+  { annict_id: 16257, mal_id: 61930, syobocal_tid: 7621 },
   // [2006-WINTER] TV: アトミック・ベティ
   // https://annict.com/works/16258
   { annict_id: 16258 },
