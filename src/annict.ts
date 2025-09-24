@@ -48125,9 +48125,12 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: ぐらんぶる Season 3
   // https://annict.com/works/16571
   { annict_id: 16571, mal_id: 62542 },
-  // [2025-AUTUMN] MOVIE: わたしが恋人になれるわけないじゃん、ムリムリ!（※ムリじゃなかった!?）〜ネクストシャイン！〜
+  // [2025-AUTUMN] MOVIE: わたしが恋人になれるわけないじゃん、ムリムリ!（※ムリじゃなかった!?）〜ネクストシャイン！〜 (特別編集版)
   // https://annict.com/works/16572
-  { annict_id: 16572, mal_id: 62543 },
+  { annict_id: 16572 },
+  // [null-null] TV: わたしが恋人になれるわけないじゃん、ムリムリ!（※ムリじゃなかった!?）〜ネクストシャイン！〜
+  // https://annict.com/works/16573
+  { annict_id: 16573, mal_id: 62543 },
   // [null-null] MOVIE: ガールズバンドクライ 完全新作映画
   // https://annict.com/works/16574
   { annict_id: 16574, mal_id: 62550 },
