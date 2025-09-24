@@ -48134,4 +48134,7 @@ export const annict: ArmEntry[] = [
   // [null-null] MOVIE: DEATH STRANDING MOSQUITO
   // https://annict.com/works/16575
   { annict_id: 16575, mal_id: 62549 },
+  // [1991-SPRING] TV: PAPERS
+  // https://annict.com/works/16576
+  { annict_id: 16576 },
 ]
