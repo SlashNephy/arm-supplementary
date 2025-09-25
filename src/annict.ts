@@ -29651,7 +29651,7 @@ export const annict: ArmEntry[] = [
   // [2023-WINTER] WEB: 夜は猫といっしょ Season2
   // https://annict.com/works/10390
   { annict_id: 10390, mal_id: 54198, syobocal_tid: 6656 },
-  // [2025-SUMMER] OTHER: Future Kid Takara
+  // [2025-AUTUMN] TV: Future Kid Takara
   // https://annict.com/works/10391
   { annict_id: 10391, mal_id: 54160 },
   // [2023-SPRING] TV: ぐんまちゃん シーズン2
@@ -48149,4 +48149,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] WEB: 推しが部下になりました
   // https://annict.com/works/16579
   { annict_id: 16579, mal_id: 62548 },
+  // [null-null] TV: Re:Monster 第2期
+  // https://annict.com/works/16580
+  { annict_id: 16580, mal_id: 62567 },
 ]
