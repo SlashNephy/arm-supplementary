@@ -25585,7 +25585,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 8966 },
   // [2021-AUTUMN] TV: 湖池屋SDGs劇場 サスとテナ
   // https://annict.com/works/8967
-  { annict_id: 8967 },
+  { annict_id: 8967, mal_id: 62556 },
   // [2021-AUTUMN] TV: 猫ジョッキー 2期
   // https://annict.com/works/8968
   { annict_id: 8968, mal_id: 50052, syobocal_tid: 6177 },
@@ -26962,7 +26962,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9490 },
   // [2022-SPRING] TV: 湖池屋SDGs劇場 サスとテナ シーズン2
   // https://annict.com/works/9491
-  { annict_id: 9491 },
+  { annict_id: 9491, mal_id: 62557 },
   // [2022-WINTER] WEB: HEROES (ヒーローズ) ～Legend of Battle Disks～
   // https://annict.com/works/9492
   { annict_id: 9492, mal_id: 51621 },
@@ -28801,7 +28801,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10105, mal_id: 53200, syobocal_tid: 6758 },
   // [2022-AUTUMN] TV: 湖池屋SDGs劇場 サスとテナ シーズン3
   // https://annict.com/works/10106
-  { annict_id: 10106 },
+  { annict_id: 10106, mal_id: 62558 },
   // [2023-WINTER] TV: ダンジョンに出会いを求めるのは間違っているだろうかⅣ 深章 厄災篇
   // https://annict.com/works/10107
   { annict_id: 10107, mal_id: 53111, syobocal_tid: 6535 },
@@ -30691,7 +30691,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10739, mal_id: 54535 },
   // [2023-SUMMER] TV: 湖池屋SDGs劇場 サスとテナ シーズン4
   // https://annict.com/works/10740
-  { annict_id: 10740, syobocal_tid: 6779 },
+  { annict_id: 10740, mal_id: 62559, syobocal_tid: 6779 },
   // [2009-AUTUMN] OVA: "文学少女" 今日のおやつ 〜はつ恋〜
   // https://annict.com/works/10741
   { annict_id: 10741, mal_id: 7669 },
@@ -37033,7 +37033,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12860 },
   // [2024-SUMMER] TV: 湖池屋SDGs劇場 サスとテナ シーズン5
   // https://annict.com/works/12861
-  { annict_id: 12861, syobocal_tid: 7154 },
+  { annict_id: 12861, mal_id: 62560, syobocal_tid: 7154 },
   // [2024-SPRING] WEB: スナックバス江 第13話
   // https://annict.com/works/12862
   { annict_id: 12862 },
@@ -47086,7 +47086,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16222 },
   // [2025-AUTUMN] TV: 湖池屋SDGs劇場 サスとテナ シーズン6
   // https://annict.com/works/16223
-  { annict_id: 16223, syobocal_tid: 7608 },
+  { annict_id: 16223, mal_id: 62561, syobocal_tid: 7608 },
   // [1929-SPRING] MOVIE: The Fishing Fool（原題）
   // https://annict.com/works/16224
   { annict_id: 16224 },
@@ -48146,4 +48146,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] TV: アニラとココラ
   // https://annict.com/works/16578
   { annict_id: 16578, syobocal_tid: 7623 },
+  // [2025-AUTUMN] WEB: 推しが部下になりました
+  // https://annict.com/works/16579
+  { annict_id: 16579, mal_id: 62548 },
 ]
