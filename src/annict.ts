@@ -48140,4 +48140,7 @@ export const annict: ArmEntry[] = [
   // [1991-SPRING] TV: PAPERS
   // https://annict.com/works/16576
   { annict_id: 16576 },
+  // [null-null] TV: 盾の勇者の成り上がり Season5
+  // https://annict.com/works/16577
+  { annict_id: 16577, mal_id: 62564 },
 ]
