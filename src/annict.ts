@@ -48143,4 +48143,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 盾の勇者の成り上がり Season5
   // https://annict.com/works/16577
   { annict_id: 16577, mal_id: 62564 },
+  // [2025-AUTUMN] TV: アニラとココラ
+  // https://annict.com/works/16578
+  { annict_id: 16578, syobocal_tid: 7623 },
 ]
