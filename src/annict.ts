@@ -48152,4 +48152,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: Re:Monster 第2期
   // https://annict.com/works/16580
   { annict_id: 16580, mal_id: 62567 },
+  // [2026-null] TV: Dr.STONE SCIENCE FUTURE 第3クール
+  // https://annict.com/works/16581
+  { annict_id: 16581, mal_id: 62568 },
 ]
