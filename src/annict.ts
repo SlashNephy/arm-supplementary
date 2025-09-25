@@ -48155,4 +48155,7 @@ export const annict: ArmEntry[] = [
   // [2026-null] TV: Dr.STONE SCIENCE FUTURE 第3クール
   // https://annict.com/works/16581
   { annict_id: 16581, mal_id: 62568 },
+  // [2025-AUTUMN] WEB: ギャビーのドールハウス シーズン12
+  // https://annict.com/works/16582
+  { annict_id: 16582 },
 ]
