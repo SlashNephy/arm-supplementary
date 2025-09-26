@@ -45052,7 +45052,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15542, mal_id: 61092, syobocal_tid: 7379 },
   // [2025-AUTUMN] WEB: 元祖！バンドリちゃん
   // https://annict.com/works/15543
-  { annict_id: 15543, mal_id: 61107 },
+  { annict_id: 15543, mal_id: 61107, syobocal_tid: 7626 },
   // [2025-WINTER] WEB: ガヴっとアニメ！ Sweety Days ～おかしな日常～
   // https://annict.com/works/15544
   { annict_id: 15544, mal_id: 61112 },
