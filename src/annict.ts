@@ -40873,7 +40873,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14147, mal_id: 60094, syobocal_tid: 7351 },
   // [2025-AUTUMN] TV: 僕のヒーローアカデミア FINAL SEASON
   // https://annict.com/works/14148
-  { annict_id: 14148, mal_id: 60098 },
+  { annict_id: 14148, mal_id: 60098, syobocal_tid: 7627 },
   // [2010-SPRING] OVA: 11eyes 第13話「桃色幻夢譚 〜ró zsaszí n é jszaka」
   // https://annict.com/works/14149
   { annict_id: 14149, mal_id: 7739 },
