@@ -48158,4 +48158,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] WEB: ギャビーのドールハウス シーズン12
   // https://annict.com/works/16582
   { annict_id: 16582 },
+  // [2026-SPRING] TV: こめかみっ！ガールズ
+  // https://annict.com/works/16583
+  { annict_id: 16583 },
 ]
