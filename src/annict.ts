@@ -48161,4 +48161,7 @@ export const annict: ArmEntry[] = [
   // [2026-SPRING] TV: こめかみっ！ガールズ
   // https://annict.com/works/16583
   { annict_id: 16583 },
+  // [null-null] TV: 真･侍伝 YAIBA 第2期
+  // https://annict.com/works/16584
+  { annict_id: 16584 },
 ]
