@@ -48164,4 +48164,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 真･侍伝 YAIBA 第2期
   // https://annict.com/works/16584
   { annict_id: 16584 },
+  // [2010-null] OVA: もひとつおまけの大魔王
+  // https://annict.com/works/16585
+  { annict_id: 16585, mal_id: 8465 },
 ]
