@@ -48167,4 +48167,7 @@ export const annict: ArmEntry[] = [
   // [2010-null] OVA: もひとつおまけの大魔王
   // https://annict.com/works/16585
   { annict_id: 16585, mal_id: 8465 },
+  // [2026-null] MOVIE: 青春ブタ野郎はディアフレンドの夢を見ない
+  // https://annict.com/works/16586
+  { annict_id: 16586 },
 ]
