@@ -48170,4 +48170,7 @@ export const annict: ArmEntry[] = [
   // [2026-null] MOVIE: 青春ブタ野郎はディアフレンドの夢を見ない
   // https://annict.com/works/16586
   { annict_id: 16586, mal_id: 62582 },
+  // [null-null] TV: 光が死んだ夏 第二期
+  // https://annict.com/works/16587
+  { annict_id: 16587, mal_id: 62584 },
 ]
