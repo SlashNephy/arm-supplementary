@@ -29515,7 +29515,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10344 },
   // [2022-AUTUMN] WEB: ブルーロック あでぃしょなる・たいむ！
   // https://annict.com/works/10345
-  { annict_id: 10345 },
+  { annict_id: 10345, mal_id: 60775 },
   // [2022-AUTUMN] WEB: 英雄王、武を極めるため転生す ～そして、世界最強の見習い騎士♀～ ミニアニメ
   // https://annict.com/works/10346
   { annict_id: 10346, mal_id: 53619 },
@@ -40810,7 +40810,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14126, mal_id: 60046 },
   // [2024-SPRING] MOVIE: 劇場版ブルーロック -EPISODE 凪- あでぃしょなる・たいむ！
   // https://annict.com/works/14127
-  { annict_id: 14127 },
+  { annict_id: 14127, mal_id: 60076 },
   // [2024-AUTUMN] WEB: リモート☆ホスト petit
   // https://annict.com/works/14128
   { annict_id: 14128 },
@@ -48173,4 +48173,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 光が死んだ夏 第二期
   // https://annict.com/works/16587
   { annict_id: 16587, mal_id: 62584 },
+  // [null-null] TV: ブルーロック 続編
+  // https://annict.com/works/16588
+  { annict_id: 16588 },
 ]
