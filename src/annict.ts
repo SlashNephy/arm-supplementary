@@ -40633,7 +40633,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14067, mal_id: 34225 },
   // [2026-WINTER] TV: 葬送のフリーレン 第2期
   // https://annict.com/works/14068
-  { annict_id: 14068, mal_id: 59978 },
+  { annict_id: 14068, mal_id: 59978, syobocal_tid: 7629 },
   // [2016-SUMMER] MOVIE: ちえりとチェリー
   // https://annict.com/works/14069
   { annict_id: 14069, mal_id: 31236 },
@@ -47653,7 +47653,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16412 },
   // [2025-AUTUMN] TV: SI-VIS: The Sound of Heroes
   // https://annict.com/works/16413
-  { annict_id: 16413, mal_id: 62126 },
+  { annict_id: 16413, mal_id: 62126, syobocal_tid: 7628 },
   // [2025-SUMMER] WEB: アイズ・オブ・ワカンダ
   // https://annict.com/works/16414
   { annict_id: 16414 },
