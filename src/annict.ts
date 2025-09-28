@@ -48176,4 +48176,16 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: ブルーロック 続編
   // https://annict.com/works/16588
   { annict_id: 16588 },
+  // [2025-AUTUMN] WEB: 傷心タイムリープ 続編
+  // https://annict.com/works/16589
+  { annict_id: 16589 },
+  // [2025-AUTUMN] WEB: ファムファタル育成計画 続編
+  // https://annict.com/works/16590
+  { annict_id: 16590 },
+  // [2025-AUTUMN] TV: Jack the Reaper 続編
+  // https://annict.com/works/16591
+  { annict_id: 16591 },
+  // [2025-AUTUMN] WEB: マリー・アントワネットに転生したので全力でギロチンを回避します 続編
+  // https://annict.com/works/16592
+  { annict_id: 16592 },
 ]
