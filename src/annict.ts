@@ -20057,7 +20057,7 @@ export const annict: ArmEntry[] = [
   // [2019-SUMMER] TV: 凹凸世界 シーズン2
   // https://annict.com/works/6768
   { annict_id: 6768, mal_id: 36345, syobocal_tid: 5376 },
-  // [2024-null] MOVIE: キマイラ
+  // [null-null] MOVIE: キマイラ
   // https://annict.com/works/6769
   { annict_id: 6769, mal_id: 37437 },
   // [2010-SUMMER] OVA: 夢色パティシエール 胸キュン♥トロピカルアイランド!
