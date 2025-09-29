@@ -24994,7 +24994,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 8704 },
   // [2021-SPRING] WEB: 不死身な僕の日常
   // https://annict.com/works/8737
-  { annict_id: 8737, mal_id: 41094 },
+  { annict_id: 8737, mal_id: 41094, syobocal_tid: 7630 },
   // [2020-WINTER] WEB: 悪魔城ドラキュラ －キャッスルヴァニア－ シーズン3
   // https://annict.com/works/8738
   { annict_id: 8738 },
@@ -29854,7 +29854,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10458, mal_id: 2981 },
   // [2018-AUTUMN] WEB: シンデレラ・シェフ ～萌妻食神～
   // https://annict.com/works/10459
-  { annict_id: 10459, mal_id: 37618 },
+  { annict_id: 10459, mal_id: 37618, syobocal_tid: 7631 },
   // [2021-AUTUMN] WEB: シンデレラ・シェフ ～萌妻食神～ シーズン2
   // https://annict.com/works/10460
   { annict_id: 10460, mal_id: 49847 },
