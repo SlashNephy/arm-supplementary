@@ -48191,4 +48191,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: ホテル・インヒューマンズ 第2期
   // https://annict.com/works/16593
   { annict_id: 16593, mal_id: 62590 },
+  // [2025-AUTUMN] TV: SEALOOK
+  // https://annict.com/works/16594
+  { annict_id: 16594, mal_id: 59728 },
 ]
