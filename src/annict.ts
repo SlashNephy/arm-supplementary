@@ -47207,7 +47207,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] WEB: 悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。 mini
   // https://annict.com/works/16263
   { annict_id: 16263, mal_id: 55957 },
-  // [null-null] TV: 悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。 第2期
+  // [2026-SPRING] TV: 悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。Season２
   // https://annict.com/works/16264
   { annict_id: 16264, mal_id: 61931 },
   // [1991-AUTUMN] OVA: 装甲巨神Zナイト
@@ -48188,4 +48188,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] WEB: マリー・アントワネットに転生したので全力でギロチンを回避します 続編
   // https://annict.com/works/16592
   { annict_id: 16592 },
+  // [null-null] TV: ホテル・インヒューマンズ 第2期
+  // https://annict.com/works/16593
+  { annict_id: 16593, mal_id: 62590 },
 ]
