@@ -48175,7 +48175,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16587, mal_id: 62584 },
   // [null-null] TV: ブルーロック 続編
   // https://annict.com/works/16588
-  { annict_id: 16588 },
+  { annict_id: 16588, mal_id: 62589 },
   // [2025-AUTUMN] WEB: 傷心タイムリープ 続編
   // https://annict.com/works/16589
   { annict_id: 16589 },
