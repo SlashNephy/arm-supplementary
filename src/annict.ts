@@ -44069,7 +44069,7 @@ export const annict: ArmEntry[] = [
   // [1974-null] MOVIE: ザ★ファイヤーGメン
   // https://annict.com/works/15215
   { annict_id: 15215, mal_id: 38338 },
-  // [null-null] TV: 氷の城壁
+  // [2026-SPRING] TV: 氷の城壁
   // https://annict.com/works/15216
   { annict_id: 15216, mal_id: 60852 },
   // [1965-AUTUMN] TV: 少年シンドバッド
