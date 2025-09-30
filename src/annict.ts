@@ -33859,7 +33859,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11797 },
   // [2023-AUTUMN] WEB: がそんし！！～エスパー少女と忍者の我孫子物語～
   // https://annict.com/works/11798
-  { annict_id: 11798 },
+  { annict_id: 11798, mal_id: 57882 },
   // [2024-WINTER] TV: わんだふるぷりきゅあ！
   // https://annict.com/works/11799
   { annict_id: 11799, mal_id: 57390, syobocal_tid: 6969 },
@@ -48194,4 +48194,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] TV: SEALOOK
   // https://annict.com/works/16594
   { annict_id: 16594, mal_id: 59728 },
+  // [1988-null] MOVIE: シーキャット
+  // https://annict.com/works/16595
+  { annict_id: 16595, mal_id: 56067 },
 ]
