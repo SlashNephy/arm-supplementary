@@ -48199,5 +48199,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 16595, mal_id: 56067 },
   // [2026-null] TV: マリッジトキシン
   // https://annict.com/works/16596
-  { annict_id: 16596 },
+  { annict_id: 16596, mal_id: 62601 },
 ]
