@@ -47845,7 +47845,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16476, mal_id: 62238 },
   // [2025-AUTUMN] MOVIE: 轍を越えてゆけ
   // https://annict.com/works/16477
-  { annict_id: 16477 },
+  { annict_id: 16477, mal_id: 62579 },
   // [2026-null] TV: LV999の村人
   // https://annict.com/works/16478
   { annict_id: 16478, mal_id: 62322 },
