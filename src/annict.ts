@@ -48215,4 +48215,10 @@ export const annict: ArmEntry[] = [
   // [2026-null] TV: てつりょー！meet with 鉄道むすめ
   // https://annict.com/works/16602
   { annict_id: 16602 },
+  // [null-null] TV: 幼稚園WARS
+  // https://annict.com/works/16603
+  { annict_id: 16603 },
+  // [2024-AUTUMN] OTHER: サラリーマン山崎シゲル
+  // https://annict.com/works/16604
+  { annict_id: 16604 },
 ]
