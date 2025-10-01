@@ -48212,4 +48212,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] WEB: 星Xからのラッコ
   // https://annict.com/works/16601
   { annict_id: 16601, mal_id: 59640 },
+  // [2026-null] TV: てつりょー！meet with 鉄道むすめ
+  // https://annict.com/works/16602
+  { annict_id: 16602 },
 ]
