@@ -48209,4 +48209,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 異郷の爪塗り見習い
   // https://annict.com/works/16600
   { annict_id: 16600, mal_id: 62606 },
+  // [2024-WINTER] WEB: 星Xからのラッコ
+  // https://annict.com/works/16601
+  { annict_id: 16601, mal_id: 59640 },
 ]
