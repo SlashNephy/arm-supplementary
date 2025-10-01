@@ -48203,4 +48203,10 @@ export const annict: ArmEntry[] = [
   // [2026-null] TV: オタクに優しいギャルはいない!?
   // https://annict.com/works/16598
   { annict_id: 16598, mal_id: 62604 },
+  // [null-null] TV: 茉莉花官吏伝
+  // https://annict.com/works/16599
+  { annict_id: 16599, mal_id: 62605 },
+  // [null-null] OTHER: 異郷の爪塗り見習い
+  // https://annict.com/works/16600
+  { annict_id: 16600, mal_id: 62606 },
 ]
