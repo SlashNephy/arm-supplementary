@@ -48200,4 +48200,7 @@ export const annict: ArmEntry[] = [
   // [2026-null] TV: マリッジトキシン
   // https://annict.com/works/16596
   { annict_id: 16596, mal_id: 62601 },
+  // [2026-null] TV: オタクに優しいギャルはいない!?
+  // https://annict.com/works/16598
+  { annict_id: 16598, mal_id: 62604 },
 ]
