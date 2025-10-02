@@ -48221,4 +48221,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] OTHER: サラリーマン山崎シゲル
   // https://annict.com/works/16604
   { annict_id: 16604 },
+  // [2025-AUTUMN] WEB: 冒険大陸　アニアキングダム　キングゴールドマウンテン編
+  // https://annict.com/works/16605
+  { annict_id: 16605 },
 ]
