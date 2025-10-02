@@ -48224,4 +48224,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] WEB: 冒険大陸　アニアキングダム　キングゴールドマウンテン編
   // https://annict.com/works/16605
   { annict_id: 16605 },
+  // [2026-null] TV: ここは俺に任せて先に行けと言ってから10年がたったら伝説になっていた。
+  // https://annict.com/works/16606
+  { annict_id: 16606, mal_id: 62617 },
 ]
