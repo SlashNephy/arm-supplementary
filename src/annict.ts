@@ -48229,7 +48229,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16606, mal_id: 62617 },
   // [2025-AUTUMN] TV: ベベフィン (TV放送)
   // https://annict.com/works/16607
-  { annict_id: 16607 },
+  { annict_id: 16607, mal_id: 59962 },
   // [2025-AUTUMN] WEB: ぷちきゅあ～Precure Fairies～ シーズン2
   // https://annict.com/works/16608
   { annict_id: 16608 },
