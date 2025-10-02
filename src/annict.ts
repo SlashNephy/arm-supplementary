@@ -37049,7 +37049,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: シャングリラ・フロンティア〜クソゲーハンター、神ゲーに挑まんとす〜 2nd season
   // https://annict.com/works/12866
   { annict_id: 12866, mal_id: 58572, syobocal_tid: 7180 },
-  // [2024-SPRING] WEB: ギャビーのドールハウス (TV放送)
+  // [2024-SPRING] TV: ギャビーのドールハウス (TV放送)
   // https://annict.com/works/12867
   { annict_id: 12867, syobocal_tid: 7055 },
   // [2026-SUMMER] MOVIE: ケロロ軍曹 劇場版新作
@@ -48227,4 +48227,10 @@ export const annict: ArmEntry[] = [
   // [2026-null] TV: ここは俺に任せて先に行けと言ってから10年がたったら伝説になっていた。
   // https://annict.com/works/16606
   { annict_id: 16606, mal_id: 62617 },
+  // [2025-AUTUMN] TV: ベベフィン (TV放送)
+  // https://annict.com/works/16607
+  { annict_id: 16607 },
+  // [2025-AUTUMN] WEB: ぷちきゅあ～Precure Fairies～ シーズン2
+  // https://annict.com/works/16608
+  { annict_id: 16608 },
 ]
