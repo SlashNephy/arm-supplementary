@@ -48239,7 +48239,7 @@ export const annict: ArmEntry[] = [
   // [2009-SUMMER] OVA: 宙のまにまに オリジナルアニメーション
   // https://annict.com/works/16610
   { annict_id: 16610, mal_id: 6885 },
-  // [2025-AUTUMN] WEB: 『さわらないで小手指くん』ミニアニメ劇場
+  // [2025-AUTUMN] WEB: さわらないで小手指くん ミニアニメ劇場
   // https://annict.com/works/16611
   { annict_id: 16611 },
   // [2025-AUTUMN] WEB: 雀魂×銀魂コラボ決定プロモーションアニメ
