@@ -48236,4 +48236,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] WEB: ハズビン・ホテルへようこそ シーズン2
   // https://annict.com/works/16609
   { annict_id: 16609 },
+  // [2009-SUMMER] OVA: 宙のまにまに オリジナルアニメーション
+  // https://annict.com/works/16610
+  { annict_id: 16610, mal_id: 6885 },
 ]
