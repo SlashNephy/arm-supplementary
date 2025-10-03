@@ -48232,7 +48232,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16607, mal_id: 59962 },
   // [2025-AUTUMN] WEB: ぷちきゅあ～Precure Fairies～ シーズン2
   // https://annict.com/works/16608
-  { annict_id: 16608 },
+  { annict_id: 16608, syobocal_tid: 7634 },
   // [2025-AUTUMN] WEB: ハズビン・ホテルへようこそ シーズン2
   // https://annict.com/works/16609
   { annict_id: 16609 },
