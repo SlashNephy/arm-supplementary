@@ -48242,4 +48242,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] WEB: 『さわらないで小手指くん』ミニアニメ劇場
   // https://annict.com/works/16611
   { annict_id: 16611 },
+  // [2025-AUTUMN] WEB: 雀魂×銀魂コラボ決定プロモーションアニメ
+  // https://annict.com/works/16612
+  { annict_id: 16612 },
 ]
