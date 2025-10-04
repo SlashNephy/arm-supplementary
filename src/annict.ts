@@ -48257,4 +48257,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] MOVIE: アイドリッシュセブン First BEAT! 劇場総集編 【後編】
   // https://annict.com/works/16616
   { annict_id: 16616, mal_id: 60831 },
+  // [2012-WINTER] WEB: サカサマのパテマ Beginning of the day
+  // https://annict.com/works/16617
+  { annict_id: 16617, mal_id: 13429 },
 ]
