@@ -48248,4 +48248,10 @@ export const annict: ArmEntry[] = [
   // [2016-WINTER] MOVIE: 戦争のつくりかた
   // https://annict.com/works/16613
   { annict_id: 16613, mal_id: 32728 },
+  // [2025-AUTUMN] WEB: めがはなせないね ガルーラ
+  // https://annict.com/works/16614
+  { annict_id: 16614 },
+  // [2025-AUTUMN] WEB: 機械じかけのマリー ミニアニメ
+  // https://annict.com/works/16615
+  { annict_id: 16615 },
 ]
