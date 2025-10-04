@@ -43958,7 +43958,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: アイドリッシュセブン 拮抗のクォーター
   // https://annict.com/works/15178
   { annict_id: 15178, mal_id: 60830 },
-  // [null-null] MOVIE: アイドリッシュセブン 1期 劇場総集編
+  // [2025-AUTUMN] MOVIE: アイドリッシュセブン First BEAT! 劇場総集編 【前編】
   // https://annict.com/works/15179
   { annict_id: 15179, mal_id: 60831 },
   // [null-null] WEB: BEAT＆MOTION
@@ -48254,4 +48254,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] WEB: 機械じかけのマリー ミニアニメ
   // https://annict.com/works/16615
   { annict_id: 16615 },
+  // [2025-AUTUMN] MOVIE: アイドリッシュセブン First BEAT! 劇場総集編 【後編】
+  // https://annict.com/works/16616
+  { annict_id: 16616, mal_id: 60831 },
 ]
