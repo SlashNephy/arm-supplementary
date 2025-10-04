@@ -48247,5 +48247,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 16612 },
   // [2016-WINTER] MOVIE: 戦争のつくりかた
   // https://annict.com/works/16613
-  { annict_id: 16613 },
+  { annict_id: 16613, mal_id: 32728 },
 ]
