@@ -48245,4 +48245,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] WEB: 雀魂×銀魂コラボ決定プロモーションアニメ
   // https://annict.com/works/16612
   { annict_id: 16612 },
+  // [2016-WINTER] MOVIE: 戦争のつくりかた
+  // https://annict.com/works/16613
+  { annict_id: 16613 },
 ]
