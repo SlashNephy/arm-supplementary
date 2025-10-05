@@ -48263,4 +48263,7 @@ export const annict: ArmEntry[] = [
   // [1995-WINTER] MOVIE: ストリートファイターII よみがえる藤原京 時を駆けたファイターたち
   // https://annict.com/works/16618
   { annict_id: 16618, mal_id: 17379 },
+  // [2008-SPRING] WEB: ストリートファイターIV オリジナルアニメーション
+  // https://annict.com/works/16619
+  { annict_id: 16619, mal_id: 41873 },
 ]
