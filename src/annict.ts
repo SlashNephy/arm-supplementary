@@ -48244,7 +48244,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16611 },
   // [2025-AUTUMN] WEB: 雀魂×銀魂コラボ決定プロモーションアニメ
   // https://annict.com/works/16612
-  { annict_id: 16612 },
+  { annict_id: 16612, mal_id: 62640 },
   // [2016-WINTER] MOVIE: 戦争のつくりかた
   // https://annict.com/works/16613
   { annict_id: 16613, mal_id: 32728 },
@@ -48260,4 +48260,7 @@ export const annict: ArmEntry[] = [
   // [2012-WINTER] WEB: サカサマのパテマ Beginning of the day
   // https://annict.com/works/16617
   { annict_id: 16617, mal_id: 13429 },
+  // [1995-WINTER] MOVIE: ストリートファイターII よみがえる藤原京 時を駆けたファイターたち
+  // https://annict.com/works/16618
+  { annict_id: 16618, mal_id: 17379 },
 ]
