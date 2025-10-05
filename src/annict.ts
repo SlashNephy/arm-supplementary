@@ -48275,4 +48275,7 @@ export const annict: ArmEntry[] = [
   // [2009-SUMMER] OVA: ストリートファイターZERO: ジェネレーションズ
   // https://annict.com/works/16622
   { annict_id: 16622, mal_id: 950 },
+  // [null-null] TV: ウィッチウォッチ 第2期
+  // https://annict.com/works/16623
+  { annict_id: 16623 },
 ]
