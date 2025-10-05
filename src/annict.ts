@@ -48272,4 +48272,7 @@ export const annict: ArmEntry[] = [
   // [2010-SPRING] OVA: スーパーストリートファイターIV オリジナルアニメーション
   // https://annict.com/works/16621
   { annict_id: 16621, mal_id: 8026 },
+  // [2009-SUMMER] OVA: ストリートファイターZERO: ジェネレーションズ
+  // https://annict.com/works/16622
+  { annict_id: 16622, mal_id: 950 },
 ]
