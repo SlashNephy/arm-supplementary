@@ -48277,7 +48277,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16622, mal_id: 950 },
   // [null-null] TV: ウィッチウォッチ 第2期
   // https://annict.com/works/16623
-  { annict_id: 16623 },
+  { annict_id: 16623, mal_id: 62650 },
   // [2026-WINTER] TV: カードファイト!! ヴァンガード Divinez 幻真星戦編
   // https://annict.com/works/16624
   { annict_id: 16624 },
