@@ -47914,7 +47914,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16499 },
   // [2025-AUTUMN] TV: 2200年ねこの国ニッポン
   // https://annict.com/works/16500
-  { annict_id: 16500, mal_id: 62496 },
+  { annict_id: 16500, mal_id: 62496, syobocal_tid: 7637 },
   // [2006-WINTER] TV: erico
   // https://annict.com/works/16501
   { annict_id: 16501 },
@@ -47944,7 +47944,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16509, mal_id: 62405 },
   // [2025-AUTUMN] TV: 陛下わたしを忘れてください
   // https://annict.com/works/16510
-  { annict_id: 16510, mal_id: 62428 },
+  { annict_id: 16510, mal_id: 62428, syobocal_tid: 7636 },
   // [2025-AUTUMN] TV: ある日、お姫様になってしまった件について
   // https://annict.com/works/16511
   { annict_id: 16511, mal_id: 57353, syobocal_tid: 7617 },
