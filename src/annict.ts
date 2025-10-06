@@ -48145,7 +48145,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16577, mal_id: 62564 },
   // [2025-AUTUMN] TV: アニラとココラ
   // https://annict.com/works/16578
-  { annict_id: 16578, syobocal_tid: 7623 },
+  { annict_id: 16578, mal_id: 62643, syobocal_tid: 7623 },
   // [2025-AUTUMN] WEB: 推しが部下になりました
   // https://annict.com/works/16579
   { annict_id: 16579, mal_id: 62548 },
@@ -48281,4 +48281,7 @@ export const annict: ArmEntry[] = [
   // [2026-WINTER] TV: カードファイト!! ヴァンガード Divinez 幻真星戦編
   // https://annict.com/works/16624
   { annict_id: 16624 },
+  // [2025-SUMMER] WEB: インプる君の存在しないお仕事
+  // https://annict.com/works/16625
+  { annict_id: 16625, mal_id: 62658 },
 ]
