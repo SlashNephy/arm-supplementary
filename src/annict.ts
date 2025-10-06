@@ -41957,7 +41957,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: ELEMON
   // https://annict.com/works/14510
   { annict_id: 14510, mal_id: 60221 },
-  // [null-null] TV: カヤちゃんはコワくない
+  // [2026-WINTER] TV: カヤちゃんはコワくない
   // https://annict.com/works/14511
   { annict_id: 14511, mal_id: 60223 },
   // [1995-SUMMER] MOVIE: アラビアンナイト
