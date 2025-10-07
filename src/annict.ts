@@ -43316,7 +43316,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] WEB: モンポケ
   // https://annict.com/works/14963
   { annict_id: 14963, mal_id: 60537 },
-  // [2024-AUTUMN] WEB: ポケモン動画図鑑
+  // [2024-AUTUMN] WEB: ポケモン動画図鑑(第1・2シーズン)
   // https://annict.com/works/14964
   { annict_id: 14964, mal_id: 59621 },
   // [2025-SUMMER] TV: ダンダダン 第2期
@@ -48284,4 +48284,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] WEB: インプる君の存在しないお仕事
   // https://annict.com/works/16625
   { annict_id: 16625, mal_id: 62658 },
+  // [2025-AUTUMN] WEB: ポケモン動画図鑑(第3シーズン)
+  // https://annict.com/works/16626
+  { annict_id: 16626, mal_id: 62265 },
 ]
