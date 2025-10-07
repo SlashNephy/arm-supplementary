@@ -45674,7 +45674,7 @@ export const annict: ArmEntry[] = [
   // [2000-AUTUMN] TV: フランクリン
   // https://annict.com/works/15750
   { annict_id: 15750 },
-  // [null-null] TV: これ描いて死ね
+  // [2026-null] TV: これ描いて死ね
   // https://annict.com/works/15751
   { annict_id: 15751, mal_id: 61280 },
   // [null-null] OTHER: ショタおに
@@ -47278,7 +47278,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16286, mal_id: 61966 },
   // [2025-SUMMER] WEB: 大喜利ニューサーガ
   // https://annict.com/works/16287
-  { annict_id: 16287 },
+  { annict_id: 16287, mal_id: 62111 },
   // [null-null] TV: GATE SEASON2 自衛隊 彼の海にて、斯く戦えり
   // https://annict.com/works/16288
   { annict_id: 16288, mal_id: 61973 },
