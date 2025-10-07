@@ -47354,7 +47354,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] TV: ちいかわ 新シリーズ
   // https://annict.com/works/16312
   { annict_id: 16312, mal_id: 50250 },
-  // [2025-SUMMER] WEB: 強くてニューサーガ ミニ
+  // [2025-SUMMER] WEB: 強くてニューサーガ ミニアニメ「井戸端会議でニューサーガ」
   // https://annict.com/works/16313
   { annict_id: 16313, mal_id: 62025 },
   // [2025-SUMMER] WEB: Hondaバイク×クロミ オリジナルショートアニメ
