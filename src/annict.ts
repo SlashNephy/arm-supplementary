@@ -44095,10 +44095,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 15223 },
   // [2025-SUMMER] OVA: ニートくノ一となぜか同棲はじめました TV未放送オリジナルエピソード 上
   // https://annict.com/works/15224
-  { annict_id: 15224 },
+  { annict_id: 15224, mal_id: 61271 },
   // [2025-AUTUMN] OVA: ニートくノ一となぜか同棲はじめました TV未放送オリジナルエピソード 下
   // https://annict.com/works/15225
-  { annict_id: 15225 },
+  { annict_id: 15225, mal_id: 61271 },
   // [2025-SUMMER] MOVIE: 映画クレヨンしんちゃん 超華麗！灼熱のカスカベダンサーズ
   // https://annict.com/works/15226
   { annict_id: 15226, mal_id: 60862 },
@@ -48290,4 +48290,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] WEB: どこでもマキバオー ～ワールドツアー～
   // https://annict.com/works/16627
   { annict_id: 16627, mal_id: 62662 },
+  // [2025-AUTUMN] TV: やっぱりおかしなガムボール
+  // https://annict.com/works/16628
+  { annict_id: 16628 },
 ]
