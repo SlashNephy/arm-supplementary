@@ -48287,4 +48287,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] WEB: ポケモン動画図鑑(第3シーズン)
   // https://annict.com/works/16626
   { annict_id: 16626, mal_id: 62265 },
+  // [2025-AUTUMN] WEB: どこでもマキバオー ～ワールドツアー～
+  // https://annict.com/works/16627
+  { annict_id: 16627, mal_id: 62662 },
 ]
