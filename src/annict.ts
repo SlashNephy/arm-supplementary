@@ -4952,7 +4952,7 @@ export const annict: ArmEntry[] = [
   // [1996-WINTER] TV: バケツでごはん
   // https://annict.com/works/1653
   { annict_id: 1653, mal_id: 9540 },
-  // [2005-SPRING] TV: バジリスク 甲賀忍法帖
+  // [2005-SPRING] TV: バジリスク ～甲賀忍法帖～
   // https://annict.com/works/1654
   { annict_id: 1654, mal_id: 67, syobocal_tid: 567 },
   // [2009-SPRING] TV: バスカッシュ！-BASQUASH-
