@@ -26233,7 +26233,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9214, mal_id: 54346 },
   // [2021-AUTUMN] OVA: Fate/Grand Carnival [2nd Season]
   // https://annict.com/works/9215
-  { annict_id: 9215 },
+  { annict_id: 9215, mal_id: 44248 },
   // [2023-WINTER] TV: あやかしトライアングル
   // https://annict.com/works/9216
   { annict_id: 9216, mal_id: 50606, syobocal_tid: 6532 },
@@ -30505,7 +30505,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10677, mal_id: 54225 },
   // [2023-SPRING] OVA: 犬になったら好きな人に拾われた。 OVA2「学園祭デート。」
   // https://annict.com/works/10678
-  { annict_id: 10678 },
+  { annict_id: 10678, mal_id: 54225 },
   // [2023-AUTUMN] OVA: アイドルマスター シンデレラガールズ U149 新作アニメ
   // https://annict.com/works/10679
   { annict_id: 10679, mal_id: 55802 },
