@@ -48293,4 +48293,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] TV: やっぱりおかしなガムボール
   // https://annict.com/works/16628
   { annict_id: 16628 },
+  // [2025-AUTUMN] WEB: ミート・イズ・マイン
+  // https://annict.com/works/16629
+  { annict_id: 16629 },
 ]
