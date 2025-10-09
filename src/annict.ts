@@ -48296,4 +48296,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] WEB: ミート・イズ・マイン
   // https://annict.com/works/16629
   { annict_id: 16629 },
+  // [2025-SPRING] MOVIE: エッジ・オブ・タイム
+  // https://annict.com/works/16630
+  { annict_id: 16630 },
 ]
