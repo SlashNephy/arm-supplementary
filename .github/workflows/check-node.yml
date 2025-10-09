@@ -70,7 +70,7 @@ jobs:
         run: git pull
 
       - name: Push
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v6
         continue-on-error: true
         with:
           commit_message: '🪄 update database'
