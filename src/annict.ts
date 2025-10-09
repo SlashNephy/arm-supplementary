@@ -43601,7 +43601,7 @@ export const annict: ArmEntry[] = [
   // [1935-SUMMER] MOVIE: Fox and the Rabbit（原題）
   // https://annict.com/works/15058
   { annict_id: 15058 },
-  // [2026-null] TV: 貴族転生 ～恵まれた生まれから最強の力を得る～
+  // [2026-WINTER] TV: 貴族転生 ～恵まれた生まれから最強の力を得る～
   // https://annict.com/works/15059
   { annict_id: 15059, mal_id: 60692 },
   // [2001-SUMMER] MOVIE: ガンダム新体験‐0087‐グリーンダイバーズ
@@ -47323,7 +47323,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16301, mal_id: 61967 },
   // [2025-AUTUMN] TV: SHIBUYA♡HACHI 第4クール
   // https://annict.com/works/16302
-  { annict_id: 16302, mal_id: 61922 },
+  { annict_id: 16302, mal_id: 61922, syobocal_tid: 7639 },
   // [2025-AUTUMN] TV: MUZIK TIGER In the Forest 第2期
   // https://annict.com/works/16303
   { annict_id: 16303, mal_id: 61924 },
@@ -47963,7 +47963,7 @@ export const annict: ArmEntry[] = [
   // [2026-SPRING] MOVIE: 劇場版『名探偵コナン2026』
   // https://annict.com/works/16516
   { annict_id: 16516, mal_id: 62387 },
-  // [2026-null] MOVIE: 映画ドラえもん 新・のび太の海底鬼岩城
+  // [2026-WINTER] MOVIE: 映画ドラえもん 新・のび太の海底鬼岩城
   // https://annict.com/works/16517
   { annict_id: 16517, mal_id: 62508 },
   // [2025-SUMMER] OTHER: 22/7「あの日の彼女たち」day09 滝川みう
