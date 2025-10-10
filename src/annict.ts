@@ -43745,7 +43745,7 @@ export const annict: ArmEntry[] = [
   // [1929-SPRING] MOVIE: The Lumberjack（原題）
   // https://annict.com/works/15107
   { annict_id: 15107 },
-  // [2026-null] MOVIE: 花緑青が明ける日に
+  // [2026-WINTER] MOVIE: 花緑青が明ける日に
   // https://annict.com/works/15108
   { annict_id: 15108, mal_id: 58735 },
   // [2025-AUTUMN] TV: キミと越えて恋になる
