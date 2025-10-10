@@ -430,7 +430,34 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@graphql-codegen/client-preset@npm:5.0.3, @graphql-codegen/client-preset@npm:^5.0.0":
+"@graphql-codegen/client-preset@npm:5.1.0":
+  version: 5.1.0
+  resolution: "@graphql-codegen/client-preset@npm:5.1.0"
+  dependencies:
+    "@babel/helper-plugin-utils": "npm:^7.20.2"
+    "@babel/template": "npm:^7.20.7"
+    "@graphql-codegen/add": "npm:^6.0.0"
+    "@graphql-codegen/gql-tag-operations": "npm:5.0.2"
+    "@graphql-codegen/plugin-helpers": "npm:^6.0.0"
+    "@graphql-codegen/typed-document-node": "npm:^6.0.2"
+    "@graphql-codegen/typescript": "npm:^5.0.2"
+    "@graphql-codegen/typescript-operations": "npm:^5.0.2"
+    "@graphql-codegen/visitor-plugin-common": "npm:^6.1.0"
+    "@graphql-tools/documents": "npm:^1.0.0"
+    "@graphql-tools/utils": "npm:^10.0.0"
+    "@graphql-typed-document-node/core": "npm:3.2.0"
+    tslib: "npm:~2.6.0"
+  peerDependencies:
+    graphql: ^0.8.0 || ^0.9.0 || ^0.10.0 || ^0.11.0 || ^0.12.0 || ^0.13.0 || ^14.0.0 || ^15.0.0 || ^16.0.0
+    graphql-sock: ^1.0.0
+  peerDependenciesMeta:
+    graphql-sock:
+      optional: true
+  checksum: 10/1352e75a7a996e6551f087aae6ea238710202fc3e4129b982001d45ff78b7c6a42b58f7a96666795fca7359e4bd969a8590ab39439166ff0bfdef351ca94255f
+  languageName: node
+  linkType: hard
+
+"@graphql-codegen/client-preset@npm:^5.0.0":
   version: 5.0.3
   resolution: "@graphql-codegen/client-preset@npm:5.0.3"
   dependencies:
@@ -2813,7 +2840,7 @@ __metadata:
   resolution: "arm-supplementary@workspace:."
   dependencies:
     "@graphql-codegen/cli": "npm:6.0.0"
-    "@graphql-codegen/client-preset": "npm:5.0.3"
+    "@graphql-codegen/client-preset": "npm:5.1.0"
     "@slashnephy/eslint-config": "npm:2.3.204"
     "@slashnephy/prettier-config": "npm:1.0.73"
     "@types/node": "npm:22.18.8"
