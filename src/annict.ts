@@ -35639,7 +35639,7 @@ export const annict: ArmEntry[] = [
   // [1995-AUTUMN] TV: 孔子傳
   // https://annict.com/works/12394
   { annict_id: 12394, mal_id: 23615 },
-  // [2025-null] WEB: ドロヘドロ 続編
+  // [2026-SPRING] WEB: ドロヘドロ シーズン2
   // https://annict.com/works/12395
   { annict_id: 12395, mal_id: 57779 },
   // [2023-AUTUMN] WEB: 365日の明日
@@ -47036,7 +47036,7 @@ export const annict: ArmEntry[] = [
   // [2026-WINTER] TV: 地獄先生ぬ〜べ〜 第2クール
   // https://annict.com/works/16206
   { annict_id: 16206, mal_id: 61608 },
-  // [2026-null] TV: 最強の王様、二度目の人生は何をする？ SEASON2
+  // [2026-SPRING] TV: 最強の王様、二度目の人生は何をする？ SEASON2
   // https://annict.com/works/16207
   { annict_id: 16207, mal_id: 61831 },
   // [2007-SPRING] TV: 王さまものがたり
@@ -47270,7 +47270,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 〈物語〉シリーズ オフ&モンスターシーズン 新エピソード
   // https://annict.com/works/16284
   { annict_id: 16284, mal_id: 61968 },
-  // [2026-null] OTHER: 最推しの義兄を愛でるため、長生きします！
+  // [2026-WINTER] TV: 最推しの義兄を愛でるため、長生きします！
   // https://annict.com/works/16285
   { annict_id: 16285, mal_id: 61969 },
   // [null-null] OTHER: Project M
@@ -47312,7 +47312,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: とびだせ！ワンダー・ペット
   // https://annict.com/works/16298
   { annict_id: 16298 },
-  // [2026-null] TV: 黄泉のツガイ
+  // [2026-SPRING] TV: 黄泉のツガイ
   // https://annict.com/works/16299
   { annict_id: 16299, mal_id: 62001 },
   // [null-null] OTHER: 99回断罪されたループ令嬢ですが今世は「超絶愛されモード」ですって!?
