@@ -37244,7 +37244,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] TV: いずれ最強の錬金術師？
   // https://annict.com/works/12932
   { annict_id: 12932, mal_id: 58822, syobocal_tid: 7305 },
-  // [2026-null] TV: 淡島百景
+  // [2026-SPRING] TV: 淡島百景
   // https://annict.com/works/12933
   { annict_id: 12933, mal_id: 58820 },
   // [1930-WINTER] MOVIE: ミッキーのバイオリニスト
@@ -43925,7 +43925,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] WEB: ねえねえ あのね
   // https://annict.com/works/15167
   { annict_id: 15167 },
-  // [null-null] TV: 魔術師クノンは見えている
+  // [2026-WINTER] TV: 魔術師クノンは見えている
   // https://annict.com/works/15168
   { annict_id: 15168, mal_id: 60810 },
   // [2025-WINTER] MOVIE: ストップモーション
@@ -47780,7 +47780,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] MOVIE: 後朝の花雪
   // https://annict.com/works/16455
   { annict_id: 16455, mal_id: 62269 },
-  // [2026-null] MOVIE: 新劇場版 銀魂 -吉原大炎上-
+  // [2026-WINTER] MOVIE: 新劇場版 銀魂 -吉原大炎上-
   // https://annict.com/works/16456
   { annict_id: 16456, mal_id: 62277 },
   // [2025-SUMMER] WEB: おっさん剣聖  ミニアニメ
