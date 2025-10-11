@@ -45194,7 +45194,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] MOVIE: チンプイ エリさまのグッドラック
   // https://annict.com/works/15590
   { annict_id: 15590, mal_id: 61162 },
-  // [null-null] OVA: アイドルマスター ミリオンライブ！ 〜いつか、真ん中で〜
+  // [2026-WINTER] OVA: アイドルマスター ミリオンライブ！ 〜いつか、真ん中で〜
   // https://annict.com/works/15591
   { annict_id: 15591, mal_id: 61156 },
   // [2019-SPRING] WEB: 小野かっぱ
@@ -48301,5 +48301,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 16630 },
   // [2026-null] TV: レッツゴー怪奇組
   // https://annict.com/works/16632
-  { annict_id: 16632 },
+  { annict_id: 16632, mal_id: 62683 },
 ]
