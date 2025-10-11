@@ -48299,4 +48299,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] MOVIE: エッジ・オブ・タイム
   // https://annict.com/works/16630
   { annict_id: 16630 },
+  // [2026-null] TV: レッツゴー怪奇組
+  // https://annict.com/works/16632
+  { annict_id: 16632 },
 ]
