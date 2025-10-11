@@ -30377,7 +30377,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: 僕のヒーローアカデミア (第7期)
   // https://annict.com/works/10634
   { annict_id: 10634, mal_id: 54789, syobocal_tid: 7049 },
-  // [2026-null] TV: TRIGUN STARGAZE
+  // [2026-WINTER] TV: TRIGUN STARGAZE
   // https://annict.com/works/10635
   { annict_id: 10635, mal_id: 54863 },
   // [2024-AUTUMN] TV: ブルーロック VS. U-20 JAPAN
@@ -45640,7 +45640,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15738, mal_id: 25473 },
   // [2025-SPRING] WEB: ぷちきゅあ～Precure Fairies～
   // https://annict.com/works/15739
-  { annict_id: 15739, syobocal_tid: 7421 },
+  { annict_id: 15739, mal_id: 61272, syobocal_tid: 7421 },
   // [2025-AUTUMN] TV: DIGIMON BEATBREAK
   // https://annict.com/works/15740
   { annict_id: 15740, mal_id: 61269, syobocal_tid: 7614 },
@@ -48232,7 +48232,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16607, mal_id: 59962 },
   // [2025-AUTUMN] WEB: ぷちきゅあ～Precure Fairies～ シーズン2
   // https://annict.com/works/16608
-  { annict_id: 16608, syobocal_tid: 7634 },
+  { annict_id: 16608, mal_id: 62676, syobocal_tid: 7634 },
   // [2025-AUTUMN] WEB: ハズビン・ホテルへようこそ シーズン2
   // https://annict.com/works/16609
   { annict_id: 16609 },
@@ -48253,7 +48253,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16614 },
   // [2025-AUTUMN] WEB: 機械じかけのマリー ミニアニメ
   // https://annict.com/works/16615
-  { annict_id: 16615 },
+  { annict_id: 16615, mal_id: 62674 },
   // [2025-AUTUMN] MOVIE: アイドリッシュセブン First BEAT! 劇場総集編 【後編】
   // https://annict.com/works/16616
   { annict_id: 16616, mal_id: 60831 },
