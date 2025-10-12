@@ -44092,7 +44092,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15222, mal_id: 29483 },
   // [2025-AUTUMN] MOVIE: おしり前マン THE MOVIE(仮題)
   // https://annict.com/works/15223
-  { annict_id: 15223 },
+  { annict_id: 15223, mal_id: 62690 },
   // [2025-SUMMER] OVA: ニートくノ一となぜか同棲はじめました TV未放送オリジナルエピソード 上
   // https://annict.com/works/15224
   { annict_id: 15224, mal_id: 61271 },
@@ -48241,7 +48241,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16610, mal_id: 6885 },
   // [2025-AUTUMN] WEB: さわらないで小手指くん ミニアニメ劇場
   // https://annict.com/works/16611
-  { annict_id: 16611 },
+  { annict_id: 16611, mal_id: 62682 },
   // [2025-AUTUMN] WEB: 雀魂×銀魂コラボ決定プロモーションアニメ
   // https://annict.com/works/16612
   { annict_id: 16612, mal_id: 62640 },
@@ -48305,4 +48305,10 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] WEB: どーまんぶ！
   // https://annict.com/works/16633
   { annict_id: 16633 },
+  // [2026-WINTER] OVA: プリンセス・プリンシパル Crown Handler OVA「Fabulous Platypus」
+  // https://annict.com/works/16634
+  { annict_id: 16634 },
+  // [2026-null] TV: 超巡！超条先輩
+  // https://annict.com/works/16635
+  { annict_id: 16635, mal_id: 62696 },
 ]
