@@ -48302,4 +48302,7 @@ export const annict: ArmEntry[] = [
   // [2026-null] TV: レッツゴー怪奇組
   // https://annict.com/works/16632
   { annict_id: 16632, mal_id: 62683 },
+  // [2025-SPRING] WEB: どーまんぶ！
+  // https://annict.com/works/16633
+  { annict_id: 16633 },
 ]
