@@ -35747,7 +35747,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] MOVIE: ヤマトよ永遠に REBEL3199 第四章 水色の乙女
   // https://annict.com/works/12430
   { annict_id: 12430 },
-  // [null-null] MOVIE: ヤマトよ永遠に REBEL3199 第五章
+  // [2026-WINTER] MOVIE: ヤマトよ永遠に REBEL3199 第五章 白熱の銀河大戦
   // https://annict.com/works/12431
   { annict_id: 12431 },
   // [null-null] MOVIE: ヤマトよ永遠に REBEL3199 第六章
