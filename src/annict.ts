@@ -48326,4 +48326,7 @@ export const annict: ArmEntry[] = [
   // [2016-SUMMER] OVA: アル戦4コマ劇場(第2期)
   // https://annict.com/works/16640
   { annict_id: 16640, mal_id: 36498 },
+  // [2016-AUTUMN] OVA: 企業戦士アルスラーン(OVA)
+  // https://annict.com/works/16641
+  { annict_id: 16641, mal_id: 32412 },
 ]
