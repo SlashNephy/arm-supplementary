@@ -48335,4 +48335,10 @@ export const annict: ArmEntry[] = [
   // [2009-SUMMER] OVA: 屍姫ぷちっと
   // https://annict.com/works/16643
   { annict_id: 16643, mal_id: 7108 },
+  // [2025-AUTUMN] WEB: デジモンストーリー タイムストレンジャー Prelude
+  // https://annict.com/works/16644
+  { annict_id: 16644 },
+  // [2025-AUTUMN] WEB: Duolingo 最後の決戦
+  // https://annict.com/works/16645
+  { annict_id: 16645 },
 ]
