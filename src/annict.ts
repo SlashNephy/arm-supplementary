@@ -48341,4 +48341,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] WEB: Duolingo 最後の決戦
   // https://annict.com/works/16645
   { annict_id: 16645 },
+  // [null-null] TV: 弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった
+  // https://annict.com/works/16646
+  { annict_id: 16646 },
 ]
