@@ -46496,7 +46496,7 @@ export const annict: ArmEntry[] = [
   // [2014-AUTUMN] OVA: 甘城ブリリアントパーク わくわくミニシアター らくがきバックステージ
   // https://annict.com/works/16025
   { annict_id: 16025, mal_id: 30056 },
-  // [2026-null] TV: アンドロイドは経験人数に入りますか？？
+  // [2026-WINTER] TV: アンドロイドは経験人数に入りますか？？
   // https://annict.com/works/16026
   { annict_id: 16026, mal_id: 61694 },
   // [1972-null] MOVIE: Movers（原題）
