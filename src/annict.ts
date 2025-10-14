@@ -45509,7 +45509,7 @@ export const annict: ArmEntry[] = [
   // [2018-WINTER] MOVIE: 生と死にまつわる記憶の旅 ​第2幕 天地
   // https://annict.com/works/15695
   { annict_id: 15695 },
-  // [null-null] OTHER: ALL YOU NEED IS KILL
+  // [2026-WINTER] MOVIE: ALL YOU NEED IS KILL
   // https://annict.com/works/15696
   { annict_id: 15696, mal_id: 61192 },
   // [2017-null] MOVIE: ニジェール物語
