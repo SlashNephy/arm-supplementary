@@ -48329,4 +48329,10 @@ export const annict: ArmEntry[] = [
   // [2016-AUTUMN] OVA: 企業戦士アルスラーン(OVA)
   // https://annict.com/works/16641
   { annict_id: 16641, mal_id: 32412 },
+  // [2009-SUMMER] OVA: 屍姫 玄 第26話「それでも、人として」
+  // https://annict.com/works/16642
+  { annict_id: 16642, mal_id: 6344 },
+  // [2009-SUMMER] OVA: 屍姫ぷちっと
+  // https://annict.com/works/16643
+  { annict_id: 16643, mal_id: 7108 },
 ]
