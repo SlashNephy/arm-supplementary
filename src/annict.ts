@@ -48311,4 +48311,19 @@ export const annict: ArmEntry[] = [
   // [2026-null] TV: 超巡！超条先輩
   // https://annict.com/works/16635
   { annict_id: 16635, mal_id: 62696 },
+  // [2020-AUTUMN] MOVIE: 春空と秋空
+  // https://annict.com/works/16636
+  { annict_id: 16636, mal_id: 55622 },
+  // [2005-WINTER] OVA: サヨナラ、みどりが池　～飛べ！凧グライダー～
+  // https://annict.com/works/16637
+  { annict_id: 16637, mal_id: 29733 },
+  // [2020-SUMMER] WEB: 彼女は歌う、だから僕は。
+  // https://annict.com/works/16638
+  { annict_id: 16638, mal_id: 57857 },
+  // [2015-SUMMER] OVA: アル戦4コマ劇場
+  // https://annict.com/works/16639
+  { annict_id: 16639, mal_id: 30953 },
+  // [2016-SUMMER] OVA: アル戦4コマ劇場(第2期)
+  // https://annict.com/works/16640
+  { annict_id: 16640, mal_id: 36498 },
 ]
