@@ -48347,4 +48347,7 @@ export const annict: ArmEntry[] = [
   // [2011-AUTUMN] WEB: 極限脱出ADV 善人シボウデス プロモーションアニメ
   // https://annict.com/works/16647
   { annict_id: 16647, mal_id: 12433 },
+  // [2010-SUMMER] OVA: tough guys!
+  // https://annict.com/works/16648
+  { annict_id: 16648, mal_id: 28685 },
 ]
