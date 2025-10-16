@@ -48343,7 +48343,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16645 },
   // [null-null] TV: 弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった
   // https://annict.com/works/16646
-  { annict_id: 16646 },
+  { annict_id: 16646, mal_id: 62753 },
   // [2011-AUTUMN] WEB: 極限脱出ADV 善人シボウデス プロモーションアニメ
   // https://annict.com/works/16647
   { annict_id: 16647, mal_id: 12433 },
