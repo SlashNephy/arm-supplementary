@@ -33038,7 +33038,7 @@ export const annict: ArmEntry[] = [
   // [2023-AUTUMN] WEB: スーパードラゴンボールヒーローズ ウルトラゴッドミッション プロモーションCGアニメ 魔の侵略者編
   // https://annict.com/works/11523
   { annict_id: 11523 },
-  // [2022-null] OTHER: 機動戦士ガンダム 鉄血のオルフェンズ ウルズハント
+  // [2022-AUTUMN] OTHER: 機動戦士ガンダム 鉄血のオルフェンズ ウルズハント
   // https://annict.com/works/11524
   { annict_id: 11524, mal_id: 38982 },
   // [2024-SUMMER] TV: 菜なれ花なれ
