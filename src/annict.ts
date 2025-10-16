@@ -48350,4 +48350,7 @@ export const annict: ArmEntry[] = [
   // [2010-SUMMER] OVA: tough guys!
   // https://annict.com/works/16648
   { annict_id: 16648, mal_id: 28685 },
+  // [2025-AUTUMN] WEB: 『おでかけ子ザメ』倉敷市コラボムービー
+  // https://annict.com/works/16649
+  { annict_id: 16649 },
 ]
