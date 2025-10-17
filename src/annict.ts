@@ -48365,4 +48365,10 @@ export const annict: ArmEntry[] = [
   // [2022-SUMMER] WEB: かいけつゾロリと水のおひめさま
   // https://annict.com/works/16653
   { annict_id: 16653, mal_id: 62806 },
+  // [2025-AUTUMN] MOVIE: 藤本タツキ 17-26 Part1
+  // https://annict.com/works/16654
+  { annict_id: 16654 },
+  // [2025-AUTUMN] MOVIE: 藤本タツキ 17-26 Part2
+  // https://annict.com/works/16655
+  { annict_id: 16655 },
 ]
