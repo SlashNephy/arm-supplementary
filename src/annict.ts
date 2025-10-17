@@ -48337,7 +48337,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16643, mal_id: 7108 },
   // [2025-AUTUMN] WEB: デジモンストーリー タイムストレンジャー Prelude
   // https://annict.com/works/16644
-  { annict_id: 16644 },
+  { annict_id: 16644, mal_id: 62807 },
   // [2025-AUTUMN] WEB: Duolingo 最後の決戦
   // https://annict.com/works/16645
   { annict_id: 16645 },
@@ -48359,4 +48359,10 @@ export const annict: ArmEntry[] = [
   // [2026-WINTER] TV: ハイスクール！奇面組 (2026)
   // https://annict.com/works/16651
   { annict_id: 16651, mal_id: 62804 },
+  // [null-null] TV: 一式さんは恋を知りたい。
+  // https://annict.com/works/16652
+  { annict_id: 16652, mal_id: 62808 },
+  // [2022-SUMMER] WEB: かいけつゾロリと水のおひめさま
+  // https://annict.com/works/16653
+  { annict_id: 16653, mal_id: 62806 },
 ]
