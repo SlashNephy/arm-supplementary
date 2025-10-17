@@ -39218,7 +39218,7 @@ export const annict: ArmEntry[] = [
   // [1951-AUTUMN] MOVIE: 南部の唄
   // https://annict.com/works/13591
   { annict_id: 13591 },
-  // [2026-null] OTHER: 魔法騎士レイアース (2026)
+  // [2026-null] TV: 魔法騎士レイアース (2026)
   // https://annict.com/works/13592
   { annict_id: 13592, mal_id: 59204 },
   // [2025-SUMMER] TV: クレバテス-魔獣の王と赤子と屍の勇者-
