@@ -17689,7 +17689,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5934, mal_id: 30445 },
   // [2015-WINTER] OVA: 棺姫のチャイカ OVA「狙われた棺／蘇る遺跡」
   // https://annict.com/works/5935
-  { annict_id: 5935 },
+  { annict_id: 5935, mal_id: 24261 },
   // [2014-SUMMER] OVA: さばげぶっ！ OVA
   // https://annict.com/works/5936
   { annict_id: 5936, mal_id: 25647 },
