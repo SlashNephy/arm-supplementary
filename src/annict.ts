@@ -48356,4 +48356,7 @@ export const annict: ArmEntry[] = [
   // [2021-AUTUMN] WEB: あたしンち ムービーコミック2期
   // https://annict.com/works/16650
   { annict_id: 16650 },
+  // [2026-WINTER] TV: ハイスクール！奇面組 (2026)
+  // https://annict.com/works/16651
+  { annict_id: 16651, mal_id: 62804 },
 ]
