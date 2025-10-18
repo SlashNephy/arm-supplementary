@@ -48377,4 +48377,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] WEB: 『鳴潮』リナシータ編記念アニメ
   // https://annict.com/works/16657
   { annict_id: 16657 },
+  // [2026-null] TV: 君のことが大大大大大好きな100人の彼女 第3期
+  // https://annict.com/works/16658
+  { annict_id: 16658, mal_id: 62811 },
 ]
