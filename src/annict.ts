@@ -48371,4 +48371,10 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] MOVIE: 藤本タツキ 17-26 Part2
   // https://annict.com/works/16655
   { annict_id: 16655 },
+  // [2025-SPRING] WEB: 『鳴潮』ショートアニメ「夜を切り開く」
+  // https://annict.com/works/16656
+  { annict_id: 16656 },
+  // [2025-AUTUMN] WEB: 『鳴潮』リナシータ編記念アニメ
+  // https://annict.com/works/16657
+  { annict_id: 16657 },
 ]
