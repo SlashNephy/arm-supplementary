@@ -48380,4 +48380,7 @@ export const annict: ArmEntry[] = [
   // [2026-null] TV: 君のことが大大大大大好きな100人の彼女 第3期
   // https://annict.com/works/16658
   { annict_id: 16658, mal_id: 62811 },
+  // [2025-AUTUMN] WEB: LEGO ディズニー アナと雪の女王：お城のピンチ！
+  // https://annict.com/works/16659
+  { annict_id: 16659 },
 ]
