@@ -48383,4 +48383,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] WEB: LEGO ディズニー アナと雪の女王：お城のピンチ！
   // https://annict.com/works/16659
   { annict_id: 16659 },
+  // [2026-SPRING] TV: 最強の職業は勇者でも賢者でもなく鑑定士（仮）らしいですよ？
+  // https://annict.com/works/16660
+  { annict_id: 16660 },
 ]
