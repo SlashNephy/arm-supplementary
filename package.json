@@ -51,7 +51,7 @@
     "@graphql-codegen/client-preset": "5.1.0",
     "@slashnephy/eslint-config": "2.3.204",
     "@slashnephy/prettier-config": "1.0.73",
-    "@types/node": "22.18.10",
+    "@types/node": "22.18.11",
     "concurrently": "9.2.1",
     "eslint": "8.57.1",
     "graphql": "16.11.0",
