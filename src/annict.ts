@@ -26,7 +26,7 @@ export const annict: ArmEntry[] = [
   // [2003-SPRING] TV: ASTRO BOY　鉄腕アトム
   // https://annict.com/works/8
   { annict_id: 8, mal_id: 971, syobocal_tid: 54 },
-  // [2003-AUTUMN] TV: Avenger
+  // [2003-AUTUMN] TV: AVENGER
   // https://annict.com/works/9
   { annict_id: 9, mal_id: 56, syobocal_tid: 150 },
   // [2008-WINTER] TV: AYAKASHI
