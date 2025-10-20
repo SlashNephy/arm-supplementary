@@ -47132,7 +47132,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: ゾンビーズ ザ・シリーズ
   // https://annict.com/works/16238
   { annict_id: 16238 },
-  // [2026-null] TV: 魔王の娘は優しすぎる!!
+  // [2026-WINTER] TV: 魔王の娘は優しすぎる!!
   // https://annict.com/works/16239
   { annict_id: 16239, mal_id: 61884 },
   // [2026-WINTER] TV: 拷問バイトくんの日常
@@ -48385,5 +48385,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 16659 },
   // [2026-SPRING] TV: 最強の職業は勇者でも賢者でもなく鑑定士（仮）らしいですよ？
   // https://annict.com/works/16660
-  { annict_id: 16660 },
+  { annict_id: 16660, mal_id: 62825 },
 ]
