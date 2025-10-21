@@ -39053,7 +39053,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] WEB: ケンガンアシュラ Season2 Part.2
   // https://annict.com/works/13536
   { annict_id: 13536, mal_id: 56704, syobocal_tid: 7505 },
-  // [2026-null] TV: 魔法の姉妹ルルットリリィ
+  // [2026-SPRING] TV: 魔法の姉妹ルルットリリィ
   // https://annict.com/works/13537
   { annict_id: 13537, mal_id: 59176 },
   // [1923-AUTUMN] OTHER: アリスの不思議の国
@@ -48386,4 +48386,7 @@ export const annict: ArmEntry[] = [
   // [2026-SPRING] TV: 最強の職業は勇者でも賢者でもなく鑑定士（仮）らしいですよ？
   // https://annict.com/works/16660
   { annict_id: 16660, mal_id: 62825 },
+  // [2015-SUMMER] WEB: MILPOM★
+  // https://annict.com/works/16661
+  { annict_id: 16661, mal_id: 31471 },
 ]
