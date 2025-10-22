@@ -48389,9 +48389,9 @@ export const annict: ArmEntry[] = [
   // [2015-SUMMER] WEB: MILPOM★
   // https://annict.com/works/16661
   { annict_id: 16661, mal_id: 31471 },
-  // [2026-AUTUMN] MOVIE: 薬屋のひとりごと 劇場版
+  // [2026-AUTUMN] MOVIE: 劇場版 薬屋のひとりごと
   // https://annict.com/works/16662
-  { annict_id: 16662 },
+  { annict_id: 16662, mal_id: 62844 },
   // [2027-SPRING] TV: 薬屋のひとりごと 第3期 第2クール
   // https://annict.com/works/16663
   { annict_id: 16663, mal_id: 62841 },
