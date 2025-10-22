@@ -47285,7 +47285,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] WEB: SUGAR SUGAR RUNE Les deux sorcières
   // https://annict.com/works/16289
   { annict_id: 16289 },
-  // [null-null] OTHER: 薬屋のひとりごと 続編
+  // [2026-AUTUMN] TV: 薬屋のひとりごと 第3期
   // https://annict.com/works/16290
   { annict_id: 16290, mal_id: 61987 },
   // [null-null] TV: 伊藤潤二『クリムゾン』
@@ -48389,4 +48389,10 @@ export const annict: ArmEntry[] = [
   // [2015-SUMMER] WEB: MILPOM★
   // https://annict.com/works/16661
   { annict_id: 16661, mal_id: 31471 },
+  // [2026-AUTUMN] MOVIE: 薬屋のひとりごと 劇場版
+  // https://annict.com/works/16662
+  { annict_id: 16662 },
+  // [2027-SPRING] TV: 薬屋のひとりごと 第3期 第2クール
+  // https://annict.com/works/16663
+  { annict_id: 16663, mal_id: 61987 },
 ]
