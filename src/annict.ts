@@ -48394,5 +48394,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 16662 },
   // [2027-SPRING] TV: 薬屋のひとりごと 第3期 第2クール
   // https://annict.com/works/16663
-  { annict_id: 16663, mal_id: 61987 },
+  { annict_id: 16663, mal_id: 62841 },
 ]
