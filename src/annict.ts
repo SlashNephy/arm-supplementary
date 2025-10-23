@@ -45548,7 +45548,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] TV: 顔に出ない柏田さんと顔に出る太田君
   // https://annict.com/works/15708
   { annict_id: 15708, mal_id: 61209, syobocal_tid: 7589 },
-  // [2026-null] TV: 真夜中ハートチューン
+  // [2026-WINTER] TV: 真夜中ハートチューン
   // https://annict.com/works/15709
   { annict_id: 15709, mal_id: 61211 },
   // [2026-null] TV: 転生したらドラゴンの卵だった
