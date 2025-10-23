@@ -48395,4 +48395,7 @@ export const annict: ArmEntry[] = [
   // [2027-SPRING] TV: 薬屋のひとりごと 第3期 第2クール
   // https://annict.com/works/16663
   { annict_id: 16663, mal_id: 62841 },
+  // [2009-SPRING] OVA: 魍魎の匣～特別編　中禅寺敦子の事件簿「箱の幽霊の事」
+  // https://annict.com/works/16664
+  { annict_id: 16664, mal_id: 6736, syobocal_tid: 1501 },
 ]
