@@ -48401,4 +48401,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] WEB: 明日もサーナイトと
   // https://annict.com/works/16665
   { annict_id: 16665 },
+  // [2026-null] TV: ゴーストコンサート : missing Songs
+  // https://annict.com/works/16666
+  { annict_id: 16666 },
 ]
