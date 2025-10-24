@@ -4001,7 +4001,7 @@ export const annict: ArmEntry[] = [
   // [1994-AUTUMN] TV: D･N･A2 ～何処かで失くしたあいつのアイツ～
   // https://annict.com/works/1335
   { annict_id: 1335, mal_id: 563, syobocal_tid: 3215 },
-  // [2001-WINTER] TV: Tales of Eternia THE ANIMATION
+  // [2001-WINTER] TV: テイルズ オブ エターニア THE ANIMATION
   // https://annict.com/works/1336
   { annict_id: 1336, mal_id: 445, syobocal_tid: 1043 },
   // [2003-SPRING] TV: TEXHNOLYZE
@@ -40430,7 +40430,7 @@ export const annict: ArmEntry[] = [
   // [2019-AUTUMN] OVA: 飛び出せ一方さん ハチャメチャ快進撃
   // https://annict.com/works/13999
   { annict_id: 13999, mal_id: 40280 },
-  // [null-null] OTHER: 霧尾ファンクラブ
+  // [2026-null] TV: 霧尾ファンクラブ
   // https://annict.com/works/14000
   { annict_id: 14000, mal_id: 59835 },
   // [2025-SUMMER] TV: 薫る花は凛と咲く
@@ -48403,5 +48403,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 16665 },
   // [2026-null] TV: ゴーストコンサート : missing Songs
   // https://annict.com/works/16666
-  { annict_id: 16666 },
+  { annict_id: 16666, mal_id: 62852 },
 ]
