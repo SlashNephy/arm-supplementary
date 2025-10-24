@@ -47291,7 +47291,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 伊藤潤二『クリムゾン』
   // https://annict.com/works/16291
   { annict_id: 16291, mal_id: 62194 },
-  // [2026-null] TV: 勇者パーティーにかわいい子がいたので、告白してみた。
+  // [2026-WINTER] TV: 勇者パーティーにかわいい子がいたので、告白してみた。
   // https://annict.com/works/16292
   { annict_id: 16292, mal_id: 61983 },
   // [2025-SUMMER] WEB: 追放白魔導師 ミニアニメ
@@ -48352,7 +48352,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16648, mal_id: 28685 },
   // [2025-AUTUMN] WEB: 『おでかけ子ザメ』倉敷市コラボムービー
   // https://annict.com/works/16649
-  { annict_id: 16649 },
+  { annict_id: 16649, mal_id: 62831 },
   // [2021-AUTUMN] WEB: あたしンち ムービーコミック2期
   // https://annict.com/works/16650
   { annict_id: 16650 },
@@ -48398,4 +48398,7 @@ export const annict: ArmEntry[] = [
   // [2009-SPRING] OVA: 魍魎の匣～特別編　中禅寺敦子の事件簿「箱の幽霊の事」
   // https://annict.com/works/16664
   { annict_id: 16664, mal_id: 6736, syobocal_tid: 1501 },
+  // [2025-AUTUMN] WEB: 明日もサーナイトと
+  // https://annict.com/works/16665
+  { annict_id: 16665 },
 ]
