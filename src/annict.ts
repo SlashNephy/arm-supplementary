@@ -48404,4 +48404,7 @@ export const annict: ArmEntry[] = [
   // [2026-null] TV: ゴーストコンサート : missing Songs
   // https://annict.com/works/16666
   { annict_id: 16666, mal_id: 62852 },
+  // [2025-AUTUMN] WEB: あたしンちNEXT 新作エピソード
+  // https://annict.com/works/16667
+  { annict_id: 16667 },
 ]
