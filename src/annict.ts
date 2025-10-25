@@ -18437,7 +18437,7 @@ export const annict: ArmEntry[] = [
   // [2018-WINTER] OVA: ガールズ&パンツァー 第63回戦車道全国高校生大会 総集編
   // https://annict.com/works/6186
   { annict_id: 6186, mal_id: 36783 },
-  // [null-null] OTHER: 二十世紀電氣目録
+  // [2026-null] TV: 二十世紀電氣目録-ユーレカ・エヴリカ-
   // https://annict.com/works/6187
   { annict_id: 6187, mal_id: 38082 },
   // [2018-AUTUMN] TV: 閃乱カグラ SHINOVI MASTER -東京妖魔篇-
@@ -48410,4 +48410,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] TV: チコちゃんに叱られる！×おじゃる丸 チコちゃんもまったりでおじゃる
   // https://annict.com/works/16668
   { annict_id: 16668 },
+  // [null-null] OTHER: 王様のプロポーズ
+  // https://annict.com/works/16669
+  { annict_id: 16669 },
 ]
