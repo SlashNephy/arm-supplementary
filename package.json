@@ -47,7 +47,7 @@
     "zod": "3.25.76"
   },
   "devDependencies": {
-    "@graphql-codegen/cli": "6.0.0",
+    "@graphql-codegen/cli": "6.0.1",
     "@graphql-codegen/client-preset": "5.1.0",
     "@slashnephy/eslint-config": "2.3.204",
     "@slashnephy/prettier-config": "1.0.73",
