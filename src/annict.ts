@@ -17582,7 +17582,7 @@ export const annict: ArmEntry[] = [
   // [2016-AUTUMN] OVA: 僕のヒーローアカデミア OVA
   // https://annict.com/works/5899
   { annict_id: 5899, mal_id: 33929 },
-  // [2017-SUMMER] OVA: 亜人ちゃんは語りたい 第13話「亜人ちゃんの夏休み」
+  // [2017-SUMMER] OVA: 亜人ちゃんは語りたい （ＯＶＡ）第13話「亜人ちゃんの夏休み」
   // https://annict.com/works/5900
   { annict_id: 5900, mal_id: 35823 },
   // [2017-WINTER] OVA: SUPER LOVERS #10.5
@@ -17750,7 +17750,7 @@ export const annict: ArmEntry[] = [
   // [2015-SUMMER] OVA: 七つの大罪 OVA「英雄たちの戯れ 〜番外編集〜」
   // https://annict.com/works/5955
   { annict_id: 5955, mal_id: 30347 },
-  // [2015-SUMMER] OVA: 失われた未来を求めて 第13話「失われた夏休みを求めて」
+  // [2015-SUMMER] OVA: 失われた未来を求めて （ＯＶＡ）第13話「失われた夏休みを求めて」
   // https://annict.com/works/5956
   { annict_id: 5956 },
   // [2014-AUTUMN] WEB: ティグルくんとヴァナディーちゅ
