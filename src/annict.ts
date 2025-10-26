@@ -18439,7 +18439,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6186, mal_id: 36783 },
   // [2026-null] TV: 二十世紀電氣目録-ユーレカ・エヴリカ-
   // https://annict.com/works/6187
-  { annict_id: 6187, mal_id: 38082 },
+  { annict_id: 6187, mal_id: 62856 },
   // [2018-AUTUMN] TV: 閃乱カグラ SHINOVI MASTER -東京妖魔篇-
   // https://annict.com/works/6188
   { annict_id: 6188, mal_id: 36037, syobocal_tid: 5075 },
@@ -48412,5 +48412,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 16668 },
   // [null-null] OTHER: 王様のプロポーズ
   // https://annict.com/works/16669
-  { annict_id: 16669 },
+  { annict_id: 16669, mal_id: 62857 },
 ]
