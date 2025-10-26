@@ -16948,10 +16948,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 5686 },
   // [2009-WINTER] WEB: スパイシーボーイ
   // https://annict.com/works/5687
-  { annict_id: 5687 },
+  { annict_id: 5687, mal_id: 56430 },
   // [2012-AUTUMN] WEB: スパイシーボーイ (シーズン2)
   // https://annict.com/works/5688
-  { annict_id: 5688 },
+  { annict_id: 5688, mal_id: 56430 },
   // [2017-WINTER] WEB: 消防車とパトカーのカーパトロール (シーズン2)
   // https://annict.com/works/5689
   { annict_id: 5689 },
@@ -48413,4 +48413,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 王様のプロポーズ
   // https://annict.com/works/16669
   { annict_id: 16669, mal_id: 62857 },
+  // [2014-SPRING] OVA: 俺と一緒にトレーニング
+  // https://annict.com/works/16670
+  { annict_id: 16670, mal_id: 35563 },
 ]
