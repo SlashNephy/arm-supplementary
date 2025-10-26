@@ -20765,7 +20765,7 @@ export const annict: ArmEntry[] = [
   // [2018-AUTUMN] OVA: 少女☆歌劇 レヴュースタァライト 未放送エピソード
   // https://annict.com/works/7068
   { annict_id: 7068, mal_id: 38050 },
-  // [2007-SUMMER] OVA: ぽてまよ オリジナルアニメ
+  // [2007-SUMMER] OVA: ぽてまよ オリジナルアニメ（ＯＶＡ）
   // https://annict.com/works/7069
   { annict_id: 7069, mal_id: 3292 },
   // [1986-SUMMER] OVA: うる星やつら アイム・THE・終ちゃん
