@@ -48419,4 +48419,7 @@ export const annict: ArmEntry[] = [
   // [2016-SPRING] OVA: 無彩限のファントム・ワールド ピクチャードラマスペシャル
   // https://annict.com/works/16671
   { annict_id: 16671, mal_id: 33164, syobocal_tid: 4017 },
+  // [2026-SPRING] OVA: 百姓貴族 3rd Season 未放送エピソード
+  // https://annict.com/works/16672
+  { annict_id: 16672 },
 ]
