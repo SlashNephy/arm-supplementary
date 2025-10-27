@@ -48416,4 +48416,7 @@ export const annict: ArmEntry[] = [
   // [2014-SPRING] OVA: 俺と一緒にトレーニング
   // https://annict.com/works/16670
   { annict_id: 16670, mal_id: 35563 },
+  // [2016-SPRING] OVA: 無彩限のファントム・ワールド ピクチャードラマスペシャル
+  // https://annict.com/works/16671
+  { annict_id: 16671, mal_id: 33164, syobocal_tid: 4017 },
 ]
