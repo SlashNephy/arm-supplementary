@@ -48425,4 +48425,7 @@ export const annict: ArmEntry[] = [
   // [2018-null] WEB: 都会に住んでる田舎っこ
   // https://annict.com/works/16673
   { annict_id: 16673 },
+  // [null-null] TV: ダークギャザリング 第2期
+  // https://annict.com/works/16674
+  { annict_id: 16674 },
 ]
