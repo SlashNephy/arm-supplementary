@@ -35245,7 +35245,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12262, mal_id: 30980 },
   // [2013-AUTUMN] WEB: きょうかいのかなた アイドル裁判! 〜迷いながらも君を裁く民〜
   // https://annict.com/works/12263
-  { annict_id: 12263, mal_id: 21241 },
+  { annict_id: 12263, mal_id: 21241, syobocal_tid: 3163 },
   // [2008-WINTER] MOVIE: 菅井君と家族石 THE MOVIE
   // https://annict.com/works/12264
   { annict_id: 12264, mal_id: 3575 },
@@ -39778,7 +39778,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13777, mal_id: 32561 },
   // [2014-WINTER] OVA: 境界の彼方 ミニ劇場
   // https://annict.com/works/13778
-  { annict_id: 13778, mal_id: 20909 },
+  { annict_id: 13778, mal_id: 20909, syobocal_tid: 3163 },
   // [2026-SUMMER] MOVIE: トイ・ストーリー5
   // https://annict.com/works/13779
   { annict_id: 13779 },
@@ -48422,4 +48422,7 @@ export const annict: ArmEntry[] = [
   // [2026-SPRING] OVA: 百姓貴族 3rd Season 未放送エピソード
   // https://annict.com/works/16672
   { annict_id: 16672 },
+  // [2018-null] WEB: 都会に住んでる田舎っこ
+  // https://annict.com/works/16673
+  { annict_id: 16673 },
 ]
