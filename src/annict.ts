@@ -28741,7 +28741,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10085, mal_id: 52964, syobocal_tid: 6485 },
   // [2022-AUTUMN] TV: チキップダンサーズ 第2期
   // https://annict.com/works/10086
-  { annict_id: 10086, syobocal_tid: 6465 },
+  { annict_id: 10086, mal_id: 53320, syobocal_tid: 6465 },
   // [2025-SUMMER] TV: その着せ替え人形は恋をする Season 2
   // https://annict.com/works/10087
   { annict_id: 10087, mal_id: 53065, syobocal_tid: 7469 },
@@ -32137,7 +32137,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11221, mal_id: 2067 },
   // [2023-AUTUMN] TV: チキップダンサーズ 第3期
   // https://annict.com/works/11222
-  { annict_id: 11222, syobocal_tid: 6802 },
+  { annict_id: 11222, mal_id: 56504, syobocal_tid: 6802 },
   // [2016-WINTER] WEB: 超普通都市カシワ伝説
   // https://annict.com/works/11223
   { annict_id: 11223, mal_id: 42054 },
@@ -36934,7 +36934,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12827, mal_id: 58492, syobocal_tid: 7420 },
   // [2024-WINTER] OVA: ガールズ＆パンツァー OVA タイチョウ･ウォー！
   // https://annict.com/works/12828
-  { annict_id: 12828 },
+  { annict_id: 12828, mal_id: 58606 },
   // [2024-SUMMER] MOVIE: KING OF PRISM -Dramatic PRISM.1-
   // https://annict.com/works/12829
   { annict_id: 12829, mal_id: 59275 },
