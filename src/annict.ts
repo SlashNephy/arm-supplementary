@@ -48250,7 +48250,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16613, mal_id: 32728 },
   // [2025-AUTUMN] WEB: めがはなせないね ガルーラ
   // https://annict.com/works/16614
-  { annict_id: 16614 },
+  { annict_id: 16614, mal_id: 62863 },
   // [2025-AUTUMN] WEB: 機械じかけのマリー ミニアニメ
   // https://annict.com/works/16615
   { annict_id: 16615, mal_id: 62674 },
@@ -48400,7 +48400,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16664, mal_id: 6736, syobocal_tid: 1501 },
   // [2025-AUTUMN] WEB: 明日もサーナイトと
   // https://annict.com/works/16665
-  { annict_id: 16665 },
+  { annict_id: 16665, mal_id: 62863 },
   // [2026-null] TV: ゴーストコンサート : missing Songs
   // https://annict.com/works/16666
   { annict_id: 16666, mal_id: 62852 },
@@ -48427,5 +48427,8 @@ export const annict: ArmEntry[] = [
   { annict_id: 16673 },
   // [null-null] TV: ダークギャザリング 第2期
   // https://annict.com/works/16674
-  { annict_id: 16674 },
+  { annict_id: 16674, mal_id: 62865 },
+  // [2026-WINTER] TV: お前はまだグンマを知らない～令和版～
+  // https://annict.com/works/16675
+  { annict_id: 16675 },
 ]
