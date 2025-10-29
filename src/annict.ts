@@ -48406,7 +48406,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16666, mal_id: 62852 },
   // [2025-AUTUMN] WEB: あたしンちNEXT 新作エピソード
   // https://annict.com/works/16667
-  { annict_id: 16667 },
+  { annict_id: 16667, syobocal_tid: 7642 },
   // [2025-AUTUMN] TV: チコちゃんに叱られる！×おじゃる丸 チコちゃんもまったりでおじゃる
   // https://annict.com/works/16668
   { annict_id: 16668 },
