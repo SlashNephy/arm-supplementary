@@ -24823,7 +24823,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 8647, mal_id: 42194 },
   // [2021-SPRING] WEB: カタリナ脳内会議X
   // https://annict.com/works/8648
-  { annict_id: 8648 },
+  { annict_id: 8648, mal_id: 49501 },
   // [2021-SUMMER] TV: 戦乙女の食卓Ⅱ
   // https://annict.com/works/8649
   { annict_id: 8649, mal_id: 42206, syobocal_tid: 6068 },
@@ -25627,7 +25627,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 8980, mal_id: 50010, syobocal_tid: 6491 },
   // [2021-AUTUMN] WEB: ミッキーとオリバーのエージェント養成講座
   // https://annict.com/works/8981
-  { annict_id: 8981 },
+  { annict_id: 8981, mal_id: 50258 },
   // [2021-AUTUMN] WEB: LEGO スター・ウォーズ／恐怖のハロウィーン
   // https://annict.com/works/8982
   { annict_id: 8982 },
