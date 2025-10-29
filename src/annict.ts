@@ -26953,7 +26953,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9487, mal_id: 51458, syobocal_tid: 6746 },
   // [2022-SPRING] TV: ベイビーシャークのわくわくショー
   // https://annict.com/works/9488
-  { annict_id: 9488, syobocal_tid: 6336 },
+  { annict_id: 9488, mal_id: 53381, syobocal_tid: 6336 },
   // [2010-SUMMER] TV: スティッチ! 〜ずっと最高のトモダチ〜
   // https://annict.com/works/9489
   { annict_id: 9489, mal_id: 8964, syobocal_tid: 1990 },
@@ -27157,7 +27157,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9555, mal_id: 25431 },
   // [2022-SPRING] TV: 名探偵コナン 本庁の刑事恋物語～結婚前夜～
   // https://annict.com/works/9556
-  { annict_id: 9556 },
+  { annict_id: 9556, mal_id: 51782 },
   // [2023-SPRING] TV: 異世界はスマートフォンとともに。2
   // https://annict.com/works/9557
   { annict_id: 9557, mal_id: 51632, syobocal_tid: 6642 },
@@ -27244,7 +27244,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9584, mal_id: 25065 },
   // [2022-SPRING] TV: マッドトイチャッティ
   // https://annict.com/works/9585
-  { annict_id: 9585, syobocal_tid: 6354 },
+  { annict_id: 9585, mal_id: 52463, syobocal_tid: 6354 },
   // [2022-SPRING] WEB: 眠れないオオカミ
   // https://annict.com/works/9586
   { annict_id: 9586, syobocal_tid: 6356 },
@@ -27388,7 +27388,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9632, mal_id: 51773, syobocal_tid: 6419 },
   // [2022-SPRING] TV: ドラ馬チック脳内
   // https://annict.com/works/9633
-  { annict_id: 9633, syobocal_tid: 6359 },
+  { annict_id: 9633, mal_id: 56345, syobocal_tid: 6359 },
   // [2019-AUTUMN] WEB: FASTENING DAYS 4
   // https://annict.com/works/9634
   { annict_id: 9634, mal_id: 48606 },
@@ -27481,7 +27481,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9663, mal_id: 47425 },
   // [2022-SPRING] WEB: ゆだって最高！リバイスアニメ 湯けむりパラダイス A GO!GO!
   // https://annict.com/works/9664
-  { annict_id: 9664 },
+  { annict_id: 9664, mal_id: 53868 },
   // [2010-WINTER] OVA: ドラゴンボール 超サイヤ人絶滅計画
   // https://annict.com/works/9665
   { annict_id: 9665, mal_id: 10017 },
