@@ -48431,4 +48431,7 @@ export const annict: ArmEntry[] = [
   // [2026-WINTER] TV: お前はまだグンマを知らない～令和版～
   // https://annict.com/works/16675
   { annict_id: 16675 },
+  // [2025-AUTUMN] WEB: Run Run Lantern
+  // https://annict.com/works/16676
+  { annict_id: 16676 },
 ]
