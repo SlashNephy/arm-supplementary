@@ -41320,7 +41320,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14296, mal_id: 60130, syobocal_tid: 7529 },
   // [2024-SUMMER] WEB: レゾナンス：無限号列車 ショートアニメ「車掌の一日」
   // https://annict.com/works/14297
-  { annict_id: 14297 },
+  { annict_id: 14297, mal_id: 62872 },
   // [2024-AUTUMN] TV: おじゃる丸 コラボスペシャル 「ヘイアンチョウまったりホリデイ」
   // https://annict.com/works/14298
   { annict_id: 14298 },
@@ -48433,5 +48433,8 @@ export const annict: ArmEntry[] = [
   { annict_id: 16675 },
   // [2025-AUTUMN] WEB: Run Run Lantern
   // https://annict.com/works/16676
-  { annict_id: 16676 },
+  { annict_id: 16676, mal_id: 62843 },
+  // [null-null] OTHER: 才女のお世話 高嶺の花だらけな名門校で、学院一のお嬢様（生活能力皆無）を陰ながらお世話することになりました
+  // https://annict.com/works/16677
+  { annict_id: 16677 },
 ]
