@@ -48437,4 +48437,10 @@ export const annict: ArmEntry[] = [
   // [1995-AUTUMN] OTHER: Extra
   // https://annict.com/works/16678
   { annict_id: 16678, mal_id: 3525 },
+  // [2025-AUTUMN] WEB: ザ・レンチキュラーズ
+  // https://annict.com/works/16679
+  { annict_id: 16679 },
+  // [2025-AUTUMN] WEB: 人外教室の人間嫌い教師 ミニアニメ
+  // https://annict.com/works/16680
+  { annict_id: 16680 },
 ]
