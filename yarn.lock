@@ -1960,12 +1960,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:22.18.12":
-  version: 22.18.12
-  resolution: "@types/node@npm:22.18.12"
+"@types/node@npm:22.18.13":
+  version: 22.18.13
+  resolution: "@types/node@npm:22.18.13"
   dependencies:
     undici-types: "npm:~6.21.0"
-  checksum: 10/41b8853302deac6895aa978193fcab53bf8d1f6f5df5fad38e2a33c2c853c3689e905c9dde373e45bb87273b2690e5ac2d6f40809fe72f45264952ba3ae3b196
+  checksum: 10/a0e8632a3eeeed3986f3b0b170187f67c0f0bb0d4fbbf9627af5c9bf81e2836bb64aa6f3bdab1c00658cb7911d8c231d7d6db853ae643edcd41f383c86f349e6
   languageName: node
   linkType: hard
 
@@ -2816,7 +2816,7 @@ __metadata:
     "@graphql-codegen/client-preset": "npm:5.1.1"
     "@slashnephy/eslint-config": "npm:2.3.204"
     "@slashnephy/prettier-config": "npm:1.0.73"
-    "@types/node": "npm:22.18.12"
+    "@types/node": "npm:22.18.13"
     concurrently: "npm:9.2.1"
     dotenv: "npm:16.6.1"
     eslint: "npm:8.57.1"
