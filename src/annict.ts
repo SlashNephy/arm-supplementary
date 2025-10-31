@@ -5825,7 +5825,7 @@ export const annict: ArmEntry[] = [
   // [2011-WINTER] TV: べるぜバブ
   // https://annict.com/works/1944
   { annict_id: 1944, mal_id: 9513, syobocal_tid: 2076 },
-  // [1983-SPRING] TV: べムべムハンター こてんぐテン丸
+  // [1983-SPRING] TV: ベムベムハンターこてんぐテン丸
   // https://annict.com/works/1945
   { annict_id: 1945, mal_id: 17687 },
   // [2005-SUMMER] TV: ぺとぺとさん
@@ -7247,9 +7247,6 @@ export const annict: ArmEntry[] = [
   // [1983-SPRING] TV: レディジョージィ
   // https://annict.com/works/2420
   { annict_id: 2420, mal_id: 2542 },
-  // [1983-SPRING] TV: レディ・ジョージィ
-  // https://annict.com/works/2421
-  { annict_id: 2421, mal_id: 2542 },
   // [2011-WINTER] TV: レベルE
   // https://annict.com/works/2422
   { annict_id: 2422, mal_id: 9834, syobocal_tid: 2091 },
