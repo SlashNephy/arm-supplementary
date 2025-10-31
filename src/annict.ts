@@ -48434,7 +48434,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 才女のお世話 高嶺の花だらけな名門校で、学院一のお嬢様（生活能力皆無）を陰ながらお世話することになりました
   // https://annict.com/works/16677
   { annict_id: 16677, mal_id: 62876 },
-  // [1996-null] OTHER: Extra
+  // [1995-AUTUMN] OTHER: Extra
   // https://annict.com/works/16678
-  { annict_id: 16678 },
+  { annict_id: 16678, mal_id: 3525 },
 ]
