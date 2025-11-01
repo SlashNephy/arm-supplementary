@@ -39287,7 +39287,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] TV: 黒執事 -緑の魔女編-
   // https://annict.com/works/13615
   { annict_id: 13615, mal_id: 59228, syobocal_tid: 7394 },
-  // [null-null] TV: みなみけ TVアニメ新シリーズ
+  // [null-null] TV: みなみけ これから
   // https://annict.com/works/13616
   { annict_id: 13616 },
   // [2026-WINTER] TV: 炎炎ノ消防隊 参ノ章 第2クール
@@ -42482,7 +42482,7 @@ export const annict: ArmEntry[] = [
   // [2024-WINTER] WEB: 小さなジャムとゴブリンのオップ
   // https://annict.com/works/14686
   { annict_id: 14686 },
-  // [2025-SPRING] OVA: 夏目友人帳 漆 第十三話
+  // [2025-SPRING] OVA: 夏目友人帳 漆 第十三話「伸ばした手は」
   // https://annict.com/works/14687
   { annict_id: 14687, mal_id: 60302 },
   // [1998-SPRING] OVA: 宇宙の騎士テッカマンブレード 燃えた時計
@@ -48443,4 +48443,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] WEB: 人外教室の人間嫌い教師 ミニアニメ
   // https://annict.com/works/16680
   { annict_id: 16680 },
+  // [2026-null] TV: 文豪ストレイドッグス わん！２
+  // https://annict.com/works/16681
+  { annict_id: 16681 },
 ]
