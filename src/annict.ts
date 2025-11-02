@@ -48427,7 +48427,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16674, mal_id: 62865 },
   // [2026-WINTER] TV: お前はまだグンマを知らない～令和版～
   // https://annict.com/works/16675
-  { annict_id: 16675 },
+  { annict_id: 16675, mal_id: 62864 },
   // [2025-AUTUMN] WEB: Run Run Lantern
   // https://annict.com/works/16676
   { annict_id: 16676, mal_id: 62843 },
