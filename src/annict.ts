@@ -48446,4 +48446,7 @@ export const annict: ArmEntry[] = [
   // [2026-null] TV: 文豪ストレイドッグス わん！２
   // https://annict.com/works/16681
   { annict_id: 16681, mal_id: 62883 },
+  // [2026-SPRING] TV: 逃がした魚は大きかったが釣りあげた魚が大きすぎた件
+  // https://annict.com/works/16682
+  { annict_id: 16682 },
 ]
