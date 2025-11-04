@@ -19546,7 +19546,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6594, mal_id: 39581, syobocal_tid: 5489 },
   // [2019-SUMMER] TV: われしょ！我ら小動物愛護委員会
   // https://annict.com/works/6595
-  { annict_id: 6595 },
+  { annict_id: 6595, mal_id: 39978 },
   // [2021-WINTER] TV: 装甲娘戦機
   // https://annict.com/works/6596
   { annict_id: 6596, mal_id: 36458, syobocal_tid: 5842 },
