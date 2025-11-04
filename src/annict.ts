@@ -48452,4 +48452,34 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] TV: そろ谷のけいばっち シーズン3
   // https://annict.com/works/16683
   { annict_id: 16683, syobocal_tid: 7644 },
+  // [2025-AUTUMN] TV: うーさーのその日暮らし -Special Selection-
+  // https://annict.com/works/16684
+  { annict_id: 16684 },
+  // [2024-AUTUMN] TV: はじめました、山猫医院
+  // https://annict.com/works/16685
+  { annict_id: 16685 },
+  // [2025-SPRING] TV: Code：H
+  // https://annict.com/works/16686
+  { annict_id: 16686 },
+  // [2025-SPRING] TV: にんにん亭へようこそ
+  // https://annict.com/works/16687
+  { annict_id: 16687 },
+  // [2024-AUTUMN] TV: アニマルパークへ行こう！
+  // https://annict.com/works/16688
+  { annict_id: 16688 },
+  // [2025-SPRING] TV: もっとアニマルパークへ行こう！
+  // https://annict.com/works/16689
+  { annict_id: 16689 },
+  // [2025-AUTUMN] TV: もっともっとアニマルパークへいこう！
+  // https://annict.com/works/16690
+  { annict_id: 16690 },
+  // [2025-SPRING] TV: いらっしゃいませ、ゆうやけ！
+  // https://annict.com/works/16691
+  { annict_id: 16691 },
+  // [2025-AUTUMN] TV: VAMP×BUMP
+  // https://annict.com/works/16692
+  { annict_id: 16692 },
+  // [2024-AUTUMN] WEB: さとりいぬ
+  // https://annict.com/works/16693
+  { annict_id: 16693 },
 ]
