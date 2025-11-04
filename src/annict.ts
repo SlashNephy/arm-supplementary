@@ -45826,7 +45826,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15801, mal_id: 61333 },
   // [2026-WINTER] TV: メダリスト 第2期
   // https://annict.com/works/15802
-  { annict_id: 15802, mal_id: 61335 },
+  { annict_id: 15802, mal_id: 61335, syobocal_tid: 7645 },
   // [2023-SPRING] MOVIE: マルセル 靴をはいた小さな貝
   // https://annict.com/works/15803
   { annict_id: 15803 },
