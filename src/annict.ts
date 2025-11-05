@@ -48482,4 +48482,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: さとりいぬ
   // https://annict.com/works/16693
   { annict_id: 16693 },
+  // [2026-WINTER] WEB: 超かぐや姫！
+  // https://annict.com/works/16694
+  { annict_id: 16694 },
 ]
