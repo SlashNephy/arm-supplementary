@@ -47972,7 +47972,7 @@ export const annict: ArmEntry[] = [
   // [2026-WINTER] TV: 人外教室の人間嫌い教師
   // https://annict.com/works/16520
   { annict_id: 16520, mal_id: 62432 },
-  // [2026-null] TV: イチゴ哀歌
+  // [2026-WINTER] TV: イチゴ哀歌 〜雑で生イキな妹と割り切れない兄〜
   // https://annict.com/works/16521
   { annict_id: 16521 },
   // [2026-WINTER] MOVIE: 劇場版 暗殺教室 みんなの時間
