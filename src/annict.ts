@@ -10399,7 +10399,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3479, mal_id: 18755 },
   // [2011-SPRING] MOVIE: トワノクオン
   // https://annict.com/works/3480
-  { annict_id: 3480, syobocal_tid: 2197 },
+  { annict_id: 3480, mal_id: 10294, syobocal_tid: 2197 },
   // [2012-WINTER] MOVIE: ドットハック セカイの向こうに
   // https://annict.com/works/3481
   { annict_id: 3481, mal_id: 11375, syobocal_tid: 2419 },
@@ -47974,7 +47974,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16520, mal_id: 62432 },
   // [2026-WINTER] TV: イチゴ哀歌 〜雑で生イキな妹と割り切れない兄〜
   // https://annict.com/works/16521
-  { annict_id: 16521 },
+  { annict_id: 16521, mal_id: 62897 },
   // [2026-WINTER] MOVIE: 劇場版 暗殺教室 みんなの時間
   // https://annict.com/works/16522
   { annict_id: 16522, mal_id: 62421 },
