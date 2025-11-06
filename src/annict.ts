@@ -26876,7 +26876,7 @@ export const annict: ArmEntry[] = [
   // [2002-AUTUMN] MOVIE: 空想の空とぶ機械達
   // https://annict.com/works/9462
   { annict_id: 9462, mal_id: 19401 },
-  // [2022-SUMMER] TV: オリエント 第2クール「淡路島激闘編」
+  // [2022-SUMMER] TV: オリエント 淡路島激闘編
   // https://annict.com/works/9463
   { annict_id: 9463, mal_id: 51368, syobocal_tid: 6393 },
   // [2023-SUMMER] WEB: 範馬刃牙 2期
