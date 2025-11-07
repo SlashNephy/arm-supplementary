@@ -42422,7 +42422,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] TV: ボールパークでつかまえて！
   // https://annict.com/works/14666
   { annict_id: 14666, mal_id: 60293, syobocal_tid: 7400 },
-  // [null-null] OTHER: 天穂のサクナヒメ 続編
+  // [2026-null] OTHER: 天穂のサクナヒメ 続編
   // https://annict.com/works/14667
   { annict_id: 14667, mal_id: 60294 },
   // [2012-SUMMER] MOVIE: なんて素敵な日
