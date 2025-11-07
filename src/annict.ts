@@ -48491,4 +48491,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] WEB: ムゲンも夢みた日
   // https://annict.com/works/16696
   { annict_id: 16696 },
+  // [2026-SPRING] TV: クジマ歌えば家ほろろ
+  // https://annict.com/works/16697
+  { annict_id: 16697 },
 ]
