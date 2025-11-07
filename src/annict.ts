@@ -48485,4 +48485,10 @@ export const annict: ArmEntry[] = [
   // [2026-WINTER] WEB: 超かぐや姫！
   // https://annict.com/works/16694
   { annict_id: 16694, mal_id: 62896 },
+  // [2011-SUMMER] OVA: 神様ドォルズ 特典映像
+  // https://annict.com/works/16695
+  { annict_id: 16695, mal_id: 11715 },
+  // [2025-AUTUMN] WEB: ムゲンも夢みた日
+  // https://annict.com/works/16696
+  { annict_id: 16696 },
 ]
