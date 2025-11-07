@@ -35420,7 +35420,7 @@ export const annict: ArmEntry[] = [
   // [2025-WINTER] TV: 日本へようこそエルフさん。
   // https://annict.com/works/12322
   { annict_id: 12322, mal_id: 57648, syobocal_tid: 7283 },
-  // [2026-WINTER] TV: 呪術廻戦 死滅回游 前半
+  // [2026-WINTER] TV: 呪術廻戦 死滅回游 前編
   // https://annict.com/works/12323
   { annict_id: 12323, mal_id: 57658 },
   // [2023-AUTUMN] WEB: ティアムーン帝国物語 ミニアニメ
@@ -48493,7 +48493,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16696 },
   // [2026-SPRING] TV: クジマ歌えば家ほろろ
   // https://annict.com/works/16697
-  { annict_id: 16697 },
+  { annict_id: 16697, mal_id: 58832 },
   // [2008-null] OVA: なみだのそつえんスペシャル　ありがとうばあば
   // https://annict.com/works/16698
   { annict_id: 16698, mal_id: 51254 },
