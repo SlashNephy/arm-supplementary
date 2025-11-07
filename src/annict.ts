@@ -48494,4 +48494,19 @@ export const annict: ArmEntry[] = [
   // [2026-SPRING] TV: クジマ歌えば家ほろろ
   // https://annict.com/works/16697
   { annict_id: 16697 },
+  // [2008-null] OVA: なみだのそつえんスペシャル　ありがとうばあば
+  // https://annict.com/works/16698
+  { annict_id: 16698, mal_id: 51254 },
+  // [2010-null] OVA: 「かっこいい1ねんせい」ゆきのぼうけん
+  // https://annict.com/works/16699
+  { annict_id: 16699, mal_id: 54411 },
+  // [2014-null] OVA: チャンピオンにちょうせん
+  // https://annict.com/works/16700
+  { annict_id: 16700, mal_id: 54420 },
+  // [2013-null] OVA: ドラゴン★ハート
+  // https://annict.com/works/16701
+  { annict_id: 16701, mal_id: 54406 },
+  // [2016-WINTER] OVA: わくわく はくぶつかんアドベンチャー
+  // https://annict.com/works/16702
+  { annict_id: 16702, mal_id: 54421 },
 ]
