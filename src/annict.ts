@@ -29650,7 +29650,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10390, mal_id: 54198, syobocal_tid: 6656 },
   // [2025-AUTUMN] TV: Future Kid Takara
   // https://annict.com/works/10391
-  { annict_id: 10391, mal_id: 54160 },
+  { annict_id: 10391, mal_id: 54160, syobocal_tid: 7646 },
   // [2023-SPRING] TV: ぐんまちゃん シーズン2
   // https://annict.com/works/10392
   { annict_id: 10392, mal_id: 54216, syobocal_tid: 6652 },
