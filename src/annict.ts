@@ -42977,7 +42977,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] TV: 増田こうすけ劇場 ギャグマンガ日和GO
   // https://annict.com/works/14851
   { annict_id: 14851, mal_id: 60446, syobocal_tid: 7418 },
-  // [null-null] TV: よわよわ先生
+  // [2026-SPRING] TV: よわよわ先生
   // https://annict.com/works/14852
   { annict_id: 14852, mal_id: 60444 },
   // [2025-SPRING] TV: 機動戦士Gundam GQuuuuuuX
