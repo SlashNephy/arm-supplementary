@@ -48509,4 +48509,7 @@ export const annict: ArmEntry[] = [
   // [2016-WINTER] OVA: わくわく はくぶつかんアドベンチャー
   // https://annict.com/works/16702
   { annict_id: 16702, mal_id: 54421 },
+  // [2026-null] TV: おじさんはカワイイものがお好き。
+  // https://annict.com/works/16703
+  { annict_id: 16703, mal_id: 62907 },
 ]
