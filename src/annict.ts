@@ -40298,7 +40298,7 @@ export const annict: ArmEntry[] = [
   // [1999-SUMMER] OVA: スヌーピーとチャーリー／ヨーロッパの旅
   // https://annict.com/works/13955
   { annict_id: 13955 },
-  // [null-null] OTHER: ロメリア戦記
+  // [2026-null] TV: ロメリア戦記
   // https://annict.com/works/13957
   { annict_id: 13957, mal_id: 59787 },
   // [null-null] MOVIE: 千鳥の曲
