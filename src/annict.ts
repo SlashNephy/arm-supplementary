@@ -48512,9 +48512,6 @@ export const annict: ArmEntry[] = [
   // [2026-null] TV: おじさんはカワイイものがお好き。
   // https://annict.com/works/16703
   { annict_id: 16703, mal_id: 62907 },
-  // [2025-AUTUMN] MOVIE: 劇場版 ゾンビランドサガ ゆめぎんがパラダイス (4DX版)
-  // https://annict.com/works/16704
-  { annict_id: 16704 },
   // [2000-WINTER] OVA: 下級生 番外編 「はじめまして ティナ！」
   // https://annict.com/works/16705
   { annict_id: 16705, mal_id: 36528 },
