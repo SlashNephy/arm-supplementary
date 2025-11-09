@@ -46253,7 +46253,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] WEB: つれづれポピパ
   // https://annict.com/works/15945
   { annict_id: 15945, mal_id: 61273 },
-  // [2026-null] TV: 「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい
+  // [2026-WINTER] TV: 「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい
   // https://annict.com/works/15946
   { annict_id: 15946, mal_id: 61587 },
   // [2021-SUMMER] WEB: ヤンキーハムスター シーズン2.5
@@ -48512,4 +48512,10 @@ export const annict: ArmEntry[] = [
   // [2026-null] TV: おじさんはカワイイものがお好き。
   // https://annict.com/works/16703
   { annict_id: 16703, mal_id: 62907 },
+  // [2025-AUTUMN] MOVIE: 劇場版 ゾンビランドサガ ゆめぎんがパラダイス (4DX版)
+  // https://annict.com/works/16704
+  { annict_id: 16704 },
+  // [2000-WINTER] OVA: 下級生 番外編 「はじめまして ティナ！」
+  // https://annict.com/works/16705
+  { annict_id: 16705, mal_id: 36528 },
 ]
