@@ -48517,5 +48517,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 16705, mal_id: 36528 },
   // [2026-SPRING] TV: NEEDY GIRL OVERDOSE
   // https://annict.com/works/16706
-  { annict_id: 16706 },
+  { annict_id: 16706, mal_id: 62913 },
 ]
