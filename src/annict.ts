@@ -4787,7 +4787,7 @@ export const annict: ArmEntry[] = [
   // [1999-SPRING] TV: POWER STONE
   // https://annict.com/works/1598
   { annict_id: 1598, mal_id: 163 },
-  // [2006-AUTUMN] TV: Pumpkin Scissros-パンプキン･シザーズ-
+  // [2006-AUTUMN] TV: Pumpkin Scissors-パンプキン･シザーズ-
   // https://annict.com/works/1599
   { annict_id: 1599, mal_id: 1538 },
   // [1996-SPRING] TV: VS騎士ラムネ＆40炎
