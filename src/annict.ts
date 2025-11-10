@@ -11105,7 +11105,7 @@ export const annict: ArmEntry[] = [
   // [1986-SPRING] MOVIE: メガゾーン23 PART II 秘密く・だ・さ・い
   // https://annict.com/works/3715
   { annict_id: 3715, syobocal_tid: 4472 },
-  // [1989-SUMMER] MOVIE: メガゾーン23 PART III
+  // [1989-SUMMER] MOVIE: MEGAZONE23 III
   // https://annict.com/works/3716
   { annict_id: 3716 },
   // [2001-SPRING] MOVIE: メトロポリス
