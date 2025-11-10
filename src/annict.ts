@@ -48515,4 +48515,7 @@ export const annict: ArmEntry[] = [
   // [2000-WINTER] OVA: 下級生 番外編 「はじめまして ティナ！」
   // https://annict.com/works/16705
   { annict_id: 16705, mal_id: 36528 },
+  // [2026-SPRING] TV: NEEDY GIRL OVERDOSE
+  // https://annict.com/works/16706
+  { annict_id: 16706 },
 ]
