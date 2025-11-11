@@ -48032,7 +48032,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 風を継ぐもの
   // https://annict.com/works/16540
   { annict_id: 16540, mal_id: 62483 },
-  // [2026-null] TV: 時光代理人 -LINK CLICK- 英都篇
+  // [2026-WINTER] TV: 時光代理人 -LINK CLICK- 英都篇
   // https://annict.com/works/16541
   { annict_id: 16541, mal_id: 56752 },
   // [2005-AUTUMN] WEB: ブタヅカ
