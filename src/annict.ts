@@ -48451,7 +48451,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16682, mal_id: 62893 },
   // [2025-AUTUMN] TV: そろ谷のけいばっち シーズン3
   // https://annict.com/works/16683
-  { annict_id: 16683, syobocal_tid: 7644 },
+  { annict_id: 16683, mal_id: 62915, syobocal_tid: 7644 },
   // [2025-AUTUMN] TV: うーさーのその日暮らし -Special Selection-
   // https://annict.com/works/16684
   { annict_id: 16684 },
@@ -48518,4 +48518,10 @@ export const annict: ArmEntry[] = [
   // [2026-SPRING] TV: NEEDY GIRL OVERDOSE
   // https://annict.com/works/16706
   { annict_id: 16706, mal_id: 62913 },
+  // [2025-AUTUMN] WEB: 虫日和～人生で大事なことは全てムシが教えてくれた～
+  // https://annict.com/works/16707
+  { annict_id: 16707 },
+  // [2026-null] TV: 貸した魔力は【リボ払い】で強制徴収
+  // https://annict.com/works/16708
+  { annict_id: 16708, mal_id: 62922 },
 ]
