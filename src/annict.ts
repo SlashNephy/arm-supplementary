@@ -48524,4 +48524,7 @@ export const annict: ArmEntry[] = [
   // [2026-null] TV: 貸した魔力は【リボ払い】で強制徴収
   // https://annict.com/works/16708
   { annict_id: 16708, mal_id: 62922 },
+  // [null-null] TV: 勘違いの工房主～英雄パーティの元雑用係が、実は戦闘以外がSSSランクだったというよくある話～ 第2期
+  // https://annict.com/works/16709
+  { annict_id: 16709 },
 ]
