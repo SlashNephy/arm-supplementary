@@ -48527,4 +48527,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 勘違いの工房主～英雄パーティの元雑用係が、実は戦闘以外がSSSランクだったというよくある話～ 第2期
   // https://annict.com/works/16709
   { annict_id: 16709, mal_id: 62924 },
+  // [2026-SPRING] TV: 左ききのエレン
+  // https://annict.com/works/16710
+  { annict_id: 16710, mal_id: 53732 },
 ]
