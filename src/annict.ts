@@ -48161,7 +48161,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 真･侍伝 YAIBA 第2期
   // https://annict.com/works/16584
   { annict_id: 16584, mal_id: 62580 },
-  // [2010-SPRING] OVA: もひとつおまけの大魔王
+  // [2010-SPRING] OVA: いちばんうしろの大魔王　OVAもひとつおまけの大魔王
   // https://annict.com/works/16585
   { annict_id: 16585, mal_id: 8465 },
   // [2026-null] MOVIE: 青春ブタ野郎はディアフレンドの夢を見ない
