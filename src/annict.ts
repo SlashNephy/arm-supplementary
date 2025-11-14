@@ -45548,7 +45548,7 @@ export const annict: ArmEntry[] = [
   // [2026-WINTER] TV: 真夜中ハートチューン
   // https://annict.com/works/15709
   { annict_id: 15709, mal_id: 61211 },
-  // [2026-null] TV: 転生したらドラゴンの卵だった
+  // [2026-WINTER] TV: 転生したらドラゴンの卵だった
   // https://annict.com/works/15710
   { annict_id: 15710, mal_id: 61207 },
   // [2026-SPRING] MOVIE: 劇場版 モノノ怪 蛇神
