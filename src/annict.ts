@@ -48532,7 +48532,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16710, mal_id: 53732 },
   // [2026-SPRING] TV: 小３アシベ QQゴマちゃん
   // https://annict.com/works/16711
-  { annict_id: 16711 },
+  { annict_id: 16711, mal_id: 62933 },
   // [null-null] TV: 境界のメロディ
   // https://annict.com/works/16712
   { annict_id: 16712, mal_id: 62932 },
