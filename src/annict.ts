@@ -48539,4 +48539,7 @@ export const annict: ArmEntry[] = [
   // [2027-null] WEB: DEATH STRANDING ISOLATIONS
   // https://annict.com/works/16713
   { annict_id: 16713, mal_id: 62931 },
+  // [null-null] TV: 透明な夜に駆ける君と、目に見えない恋をした。
+  // https://annict.com/works/16714
+  { annict_id: 16714, mal_id: 62936 },
 ]
