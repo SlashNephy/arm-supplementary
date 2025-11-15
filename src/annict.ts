@@ -5111,10 +5111,10 @@ export const annict: ArmEntry[] = [
   // [1995-AUTUMN] TV: 爆れつハンター
   // https://annict.com/works/1706
   { annict_id: 1706, mal_id: 495, syobocal_tid: 5502 },
-  // [2007-SPRING] TV: 爆丸―バトルブローラーズ―
+  // [2007-SPRING] TV: 爆丸 バトルブローラーズ
   // https://annict.com/works/1707
   { annict_id: 1707, mal_id: 2156, syobocal_tid: 1161 },
-  // [2010-WINTER] TV: 爆丸バトルブローラーズ ニューヴェストロイア
+  // [2010-WINTER] TV: 爆丸 バトルブローラーズ ニューヴェストロイア
   // https://annict.com/works/1708
   { annict_id: 1708, mal_id: 5337, syobocal_tid: 1891 },
   // [2006-WINTER] TV: 爆球HIT! クラッシュビーダマン
@@ -45218,7 +45218,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] WEB: ちょっとだけ愛が重いダークエルフが異世界から追いかけてきた ミニアニメ劇場
   // https://annict.com/works/15599
   { annict_id: 15599, mal_id: 61410 },
-  // [2026-null] TV: 転生した大聖女は、聖女であることをひた隠す
+  // [2026-SPRING] TV: 転生した大聖女は、聖女であることをひた隠す
   // https://annict.com/works/15600
   { annict_id: 15600, mal_id: 61153 },
   // [2025-AUTUMN] TV: 東島丹三郎は仮面ライダーになりたい
