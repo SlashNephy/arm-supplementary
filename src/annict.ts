@@ -17458,7 +17458,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5858, mal_id: 38549, syobocal_tid: 4914 },
   // [2018-SPRING] TV: フューチャーカード バディファイトX オールスターファイト
   // https://annict.com/works/5859
-  { annict_id: 5859, syobocal_tid: 4917 },
+  { annict_id: 5859, mal_id: 37611, syobocal_tid: 4917 },
   // [2007-AUTUMN] TV: 金田一少年の事件簿 スペシャル
   // https://annict.com/works/5860
   { annict_id: 5860, mal_id: 3245 },
