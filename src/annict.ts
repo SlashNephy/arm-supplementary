@@ -27742,7 +27742,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9752, mal_id: 35746 },
   // [2026-SUMMER] TV: 探偵はもう、死んでいる。Season2
   // https://annict.com/works/9753
-  { annict_id: 9753 },
+  { annict_id: 9753, mal_id: 52480 },
   // [2024-SUMMER] TV: 義妹生活
   // https://annict.com/works/9754
   { annict_id: 9754, mal_id: 52481, syobocal_tid: 7117 },
