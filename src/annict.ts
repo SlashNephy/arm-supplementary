@@ -48542,4 +48542,10 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 透明な夜に駆ける君と、目に見えない恋をした。
   // https://annict.com/works/16714
   { annict_id: 16714, mal_id: 62936 },
+  // [2026-null] TV: 学園アイドルマスター Story of Re;IRIS
+  // https://annict.com/works/16715
+  { annict_id: 16715 },
+  // [2026-null] MOVIE: ガールズ&パンツァー 最終章 第5話
+  // https://annict.com/works/16716
+  { annict_id: 16716 },
 ]
