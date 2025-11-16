@@ -36992,7 +36992,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] TV: 青の祓魔師 雪ノ果篇
   // https://annict.com/works/12848
   { annict_id: 12848, mal_id: 58516, syobocal_tid: 7211 },
-  // [null-null] TV: 佐々木とピーちゃん シーズン2
+  // [2026-null] TV: 佐々木とピーちゃん シーズン2
   // https://annict.com/works/12849
   { annict_id: 12849, mal_id: 58518 },
   // [2024-SUMMER] MOVIE: 劇場版すとぷり はじまりの物語～Strawberry School Festival!!!～
