@@ -48554,4 +48554,7 @@ export const annict: ArmEntry[] = [
   // [2012-SUMMER] MOVIE: マルドゥック・スクランブル 排気
   // https://annict.com/works/16718
   { annict_id: 16718 },
+  // [null-null] OTHER: 大怪獣ゲァーチマ
+  // https://annict.com/works/16719
+  { annict_id: 16719, mal_id: 62967 },
 ]
