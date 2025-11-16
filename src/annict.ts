@@ -39593,9 +39593,9 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] WEB: 「菜なれ花なれ」×「真夜中ぱんチ」 コラボ動画
   // https://annict.com/works/13717
   { annict_id: 13717 },
-  // [2025-null] MOVIE: LOCA!
+  // [2025-AUTUMN] MOVIE: LOCA!
   // https://annict.com/works/13718
-  { annict_id: 13718 },
+  { annict_id: 13718, mal_id: 62942 },
   // [2020-AUTUMN] WEB: サンリオキャラクターズ スーパーキュートアドベンチャーズ
   // https://annict.com/works/13719
   { annict_id: 13719 },
@@ -48547,5 +48547,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 16715 },
   // [2026-null] MOVIE: ガールズ&パンツァー 最終章 第5話
   // https://annict.com/works/16716
-  { annict_id: 16716 },
+  { annict_id: 16716, mal_id: 39168 },
 ]
