@@ -6950,7 +6950,7 @@ export const annict: ArmEntry[] = [
   // [2010-SPRING] TV: 四畳半神話大系
   // https://annict.com/works/2321
   { annict_id: 2321, mal_id: 7785, syobocal_tid: 1867 },
-  // [2006-AUTUMN] TV: 夜明け前より瑠璃色な Crescent Love
+  // [2006-AUTUMN] TV: 夜明け前より瑠璃色な -Crescent Love-
   // https://annict.com/works/2322
   { annict_id: 2322, mal_id: 1543, syobocal_tid: 935 },
   // [2013-AUTUMN] TV: 夜桜四重奏～ハナノウタ～
@@ -39974,7 +39974,7 @@ export const annict: ArmEntry[] = [
   // [2011-SPRING] MOVIE: メアリー＆マックス
   // https://annict.com/works/13845
   { annict_id: 13845 },
-  // [null-null] TV: ようこそ実力至上主義の教室へ 4th Season 2年生編1学期
+  // [2026-SPRING] TV: ようこそ実力至上主義の教室へ 4th Season 2年生編1学期
   // https://annict.com/works/13846
   { annict_id: 13846, mal_id: 59708 },
   // [2024-AUTUMN] MOVIE: 映画イナズマイレブン総集編 伝説のキックオフ
