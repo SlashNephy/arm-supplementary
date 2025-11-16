@@ -11036,7 +11036,7 @@ export const annict: ArmEntry[] = [
   // [1995-WINTER] MOVIE: ママレード・ボーイ（映画）
   // https://annict.com/works/3692
   { annict_id: 3692, mal_id: 520 },
-  // [2010-AUTUMN] MOVIE: マルドゥック・スクランブル
+  // [2010-AUTUMN] MOVIE: マルドゥック･スクランブル 圧縮
   // https://annict.com/works/3693
   { annict_id: 3693, mal_id: 8100, syobocal_tid: 3237 },
   // [2011-WINTER] MOVIE: 劇場版 マクロスF 恋離飛翼～サヨナラノツバサ～
@@ -48548,4 +48548,10 @@ export const annict: ArmEntry[] = [
   // [2026-null] MOVIE: ガールズ&パンツァー 最終章 第5話
   // https://annict.com/works/16716
   { annict_id: 16716, mal_id: 39168 },
+  // [2011-SUMMER] MOVIE: マルドゥック･スクランブル 燃焼
+  // https://annict.com/works/16717
+  { annict_id: 16717 },
+  // [2012-SUMMER] MOVIE: マルドゥック・スクランブル 排気
+  // https://annict.com/works/16718
+  { annict_id: 16718 },
 ]
