@@ -11036,7 +11036,7 @@ export const annict: ArmEntry[] = [
   // [1995-WINTER] MOVIE: ママレード・ボーイ（映画）
   // https://annict.com/works/3692
   { annict_id: 3692, mal_id: 520 },
-  // [2010-AUTUMN] MOVIE: マルドゥック･スクランブル 圧縮
+  // [2010-AUTUMN] MOVIE: マルドゥック・スクランブル 圧縮
   // https://annict.com/works/3693
   { annict_id: 3693, mal_id: 8100, syobocal_tid: 3237 },
   // [2011-WINTER] MOVIE: 劇場版 マクロスF 恋離飛翼～サヨナラノツバサ～
@@ -48548,12 +48548,12 @@ export const annict: ArmEntry[] = [
   // [2026-null] MOVIE: ガールズ&パンツァー 最終章 第5話
   // https://annict.com/works/16716
   { annict_id: 16716, mal_id: 39168 },
-  // [2011-SUMMER] MOVIE: マルドゥック･スクランブル 燃焼
+  // [2011-SUMMER] MOVIE: マルドゥック・スクランブル 燃焼
   // https://annict.com/works/16717
-  { annict_id: 16717 },
+  { annict_id: 16717, mal_id: 10624 },
   // [2012-SUMMER] MOVIE: マルドゥック・スクランブル 排気
   // https://annict.com/works/16718
-  { annict_id: 16718 },
+  { annict_id: 16718, mal_id: 12053 },
   // [null-null] OTHER: 大怪獣ゲァーチマ
   // https://annict.com/works/16719
   { annict_id: 16719, mal_id: 62967 },
@@ -48572,4 +48572,7 @@ export const annict: ArmEntry[] = [
   // [2011-AUTUMN] MOVIE: トワノクオン 第六章 永久の久遠
   // https://annict.com/works/16724
   { annict_id: 16724, mal_id: 10717 },
+  // [2026-SPRING] TV: また殺されてしまったのですね、探偵様
+  // https://annict.com/works/16725
+  { annict_id: 16725, mal_id: 62964 },
 ]
