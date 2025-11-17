@@ -10397,7 +10397,7 @@ export const annict: ArmEntry[] = [
   // [2013-SPRING] MOVIE: どーにゃつ
   // https://annict.com/works/3479
   { annict_id: 3479, mal_id: 18755 },
-  // [2011-SPRING] MOVIE: トワノクオン
+  // [2011-SPRING] MOVIE: トワノクオン 第一章 泡沫の花弁
   // https://annict.com/works/3480
   { annict_id: 3480, mal_id: 10294, syobocal_tid: 2197 },
   // [2012-WINTER] MOVIE: ドットハック セカイの向こうに
@@ -48557,4 +48557,19 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 大怪獣ゲァーチマ
   // https://annict.com/works/16719
   { annict_id: 16719, mal_id: 62967 },
+  // [2011-SUMMER] MOVIE: トワノクオン 第二章 混沌の蘭舞
+  // https://annict.com/works/16720
+  { annict_id: 16720, mal_id: 10713 },
+  // [2011-SUMMER] MOVIE: トワノクオン 第三章 夢幻の連座
+  // https://annict.com/works/16721
+  { annict_id: 16721, mal_id: 10714 },
+  // [2011-SUMMER] MOVIE: トワノクオン 第四章 紅蓮の焦心
+  // https://annict.com/works/16722
+  { annict_id: 16722, mal_id: 10715 },
+  // [2011-AUTUMN] MOVIE: トワノクオン 第五章 双絶の来復
+  // https://annict.com/works/16723
+  { annict_id: 16723, mal_id: 10716 },
+  // [2011-AUTUMN] MOVIE: トワノクオン 第六章 永久の久遠
+  // https://annict.com/works/16724
+  { annict_id: 16724, mal_id: 10717 },
 ]
