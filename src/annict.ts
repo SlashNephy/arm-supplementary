@@ -27047,7 +27047,7 @@ export const annict: ArmEntry[] = [
   // [2023-SUMMER] TV: わたしの幸せな結婚
   // https://annict.com/works/9520
   { annict_id: 9520, mal_id: 51552, syobocal_tid: 6738 },
-  // [2026-null] TV: とんがり帽子のアトリエ
+  // [2026-SPRING] TV: とんがり帽子のアトリエ
   // https://annict.com/works/9521
   { annict_id: 9521, mal_id: 51553 },
   // [2022-SPRING] WEB: カッコウの許嫁 ミニアニメ「カッコウのいいかげん！」
