@@ -2935,7 +2935,7 @@ __metadata:
     dotenv: "npm:16.6.1"
     eslint: "npm:8.57.1"
     graphql: "npm:16.12.0"
-    graphql-request: "npm:6.1.0"
+    graphql-request: "npm:7.3.4"
     markdown-doc-builder: "npm:1.3.0"
     node-fetch: "npm:3.3.2"
     prettier: "npm:3.6.2"
@@ -5269,15 +5269,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"graphql-request@npm:6.1.0":
-  version: 6.1.0
-  resolution: "graphql-request@npm:6.1.0"
+"graphql-request@npm:7.3.4":
+  version: 7.3.4
+  resolution: "graphql-request@npm:7.3.4"
   dependencies:
     "@graphql-typed-document-node/core": "npm:^3.2.0"
-    cross-fetch: "npm:^3.1.5"
   peerDependencies:
     graphql: 14 - 16
-  checksum: 10/a9c6f2eeaad972cdecb91437c15c785a282263fd0ef36f6fc5648e0945da488cdc10ab4736891ee1fbb928c7bf6e0bc8e0284df514254adefe02cc406ba5fce5
+  checksum: 10/cad4d77395d7bedcd1031db7af19e7faa1fbebc1fab2c24b39c92795ba263c25f632cd186b8332da7f2079e43462dc13aeacb2caa82d274a5b45b125402f8814
   languageName: node
   linkType: hard
 
