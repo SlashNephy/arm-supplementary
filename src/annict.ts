@@ -48575,4 +48575,7 @@ export const annict: ArmEntry[] = [
   // [2026-SPRING] TV: また殺されてしまったのですね、探偵様
   // https://annict.com/works/16725
   { annict_id: 16725, mal_id: 62964 },
+  // [2026-null] MOVIE: 我々は宇宙人
+  // https://annict.com/works/16726
+  { annict_id: 16726 },
 ]
