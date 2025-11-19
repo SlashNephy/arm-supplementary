@@ -48578,4 +48578,7 @@ export const annict: ArmEntry[] = [
   // [2026-null] MOVIE: 我々は宇宙人
   // https://annict.com/works/16726
   { annict_id: 16726, mal_id: 62973 },
+  // [null-null] TV: 魔術を極めて旅に出た転生エルフ、持て余した寿命で生ける伝説となる
+  // https://annict.com/works/16727
+  { annict_id: 16727, mal_id: 62978 },
 ]
