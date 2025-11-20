@@ -11524,7 +11524,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3855, mal_id: 20125 },
   // [1969-SPRING] TV: どろろ（1969）
   // https://annict.com/works/3856
-  { annict_id: 3856, mal_id: 11471 },
+  { annict_id: 3856, mal_id: 11471, syobocal_tid: 5209 },
   // [1979-AUTUMN] TV: まんが猿飛佐助
   // https://annict.com/works/3857
   { annict_id: 3857, mal_id: 5091 },
@@ -27439,7 +27439,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9650, mal_id: 8139 },
   // [1989-SUMMER] TV: 昆虫物語 みなしごハッチ (1989)
   // https://annict.com/works/9651
-  { annict_id: 9651, mal_id: 8140 },
+  { annict_id: 9651, mal_id: 8140, syobocal_tid: 7414 },
   // [2022-SUMMER] MOVIE: 銀河英雄伝説 Die Neue These 策謀 第一章
   // https://annict.com/works/9652
   { annict_id: 9652, mal_id: 51805 },
@@ -28627,16 +28627,16 @@ export const annict: ArmEntry[] = [
   { annict_id: 10047, mal_id: 17963 },
   // [1970-WINTER] MOVIE: アタックNo.1(富士見学園の新星)
   // https://annict.com/works/10048
-  { annict_id: 10048, mal_id: 9163 },
+  { annict_id: 10048, mal_id: 9163, syobocal_tid: 5177 },
   // [1970-SUMMER] MOVIE: アタックNo.1 涙の回転レシーブ
   // https://annict.com/works/10049
-  { annict_id: 10049, mal_id: 9165 },
+  { annict_id: 10049, mal_id: 9165, syobocal_tid: 5178 },
   // [1970-AUTUMN] MOVIE: アタックNo.1 涙の世界選手権
   // https://annict.com/works/10050
-  { annict_id: 10050, mal_id: 9166 },
+  { annict_id: 10050, mal_id: 9166, syobocal_tid: 5179 },
   // [1971-WINTER] MOVIE: アタックNo.1 涙の不死鳥
   // https://annict.com/works/10051
-  { annict_id: 10051, mal_id: 9164 },
+  { annict_id: 10051, mal_id: 9164, syobocal_tid: 5180 },
   // [2013-SUMMER] TV: ANISAVA
   // https://annict.com/works/10052
   { annict_id: 10052, mal_id: 27757 },
@@ -33277,7 +33277,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11604 },
   // [1970-WINTER] MOVIE: やさしいライオン
   // https://annict.com/works/11605
-  { annict_id: 11605, mal_id: 12789 },
+  { annict_id: 11605, mal_id: 12789, syobocal_tid: 7606 },
   // [1970-AUTUMN] TV: 進めや進めスモーキー!
   // https://annict.com/works/11606
   { annict_id: 11606 },
