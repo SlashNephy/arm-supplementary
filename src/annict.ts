@@ -48584,4 +48584,7 @@ export const annict: ArmEntry[] = [
   // [2011-null] MOVIE: 豚の王
   // https://annict.com/works/16728
   { annict_id: 16728, mal_id: 12035 },
+  // [2026-null] TV: 神の雫
+  // https://annict.com/works/16729
+  { annict_id: 16729, mal_id: 62981 },
 ]
