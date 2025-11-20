@@ -17440,7 +17440,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5851, mal_id: 20371 },
   // [1968-AUTUMN] TV: 妖怪人間ベム
   // https://annict.com/works/5852
-  { annict_id: 5852, mal_id: 4044 },
+  { annict_id: 5852, mal_id: 4044, syobocal_tid: 1857 },
   // [2006-SPRING] TV: ブラック・ジャック21
   // https://annict.com/works/5853
   { annict_id: 5853, mal_id: 2214, syobocal_tid: 893 },
