@@ -2851,7 +2851,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 951, mal_id: 15875, syobocal_tid: 1058 },
   // [1979-SPRING] TV: 新・巨人の星2
   // https://annict.com/works/952
-  { annict_id: 952, mal_id: 16486 },
+  { annict_id: 952, mal_id: 16486, syobocal_tid: 4180 },
   // [2012-AUTUMN] TV: 新世界より
   // https://annict.com/works/953
   { annict_id: 953, mal_id: 13125, syobocal_tid: 2717 },
@@ -5170,7 +5170,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1725, mal_id: 9811 },
   // [1967-SUMMER] TV: ピュンピュン丸
   // https://annict.com/works/1726
-  { annict_id: 1726, mal_id: 15873 },
+  { annict_id: 1726, mal_id: 15873, syobocal_tid: 4668 },
   // [1979-WINTER] TV: 花の子ルンルン
   // https://annict.com/works/1727
   { annict_id: 1727, mal_id: 2230 },
