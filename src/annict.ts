@@ -2710,7 +2710,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 903, mal_id: 1572 },
   // [2009-SUMMER] TV: ジャングル大帝 -勇気が未来をかえる-
   // https://annict.com/works/904
-  { annict_id: 904, mal_id: 6909 },
+  { annict_id: 904, mal_id: 6909, syobocal_tid: 1733 },
   // [1991-SPRING] TV: ジャンケンマン
   // https://annict.com/works/905
   { annict_id: 905, mal_id: 7405 },
@@ -21289,7 +21289,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 7277, mal_id: 12783 },
   // [1967-SPRING] TV: マッハGoGoGo
   // https://annict.com/works/7310
-  { annict_id: 7310, mal_id: 1445 },
+  { annict_id: 7310, mal_id: 1445, syobocal_tid: 7353 },
   // [2020-SUMMER] MOVIE: 荒野のコトブキ飛行隊 完全版
   // https://annict.com/works/7311
   { annict_id: 7311, mal_id: 41205 },
