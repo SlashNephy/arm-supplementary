@@ -31420,7 +31420,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10983, mal_id: 25801 },
   // [2024-WINTER] MOVIE: 機動戦士ガンダムSEED FREEDOM
   // https://annict.com/works/10984
-  { annict_id: 10984, mal_id: 49073 },
+  { annict_id: 10984, mal_id: 49073, syobocal_tid: 6973 },
   // [2026-WINTER] TV: Fate/strange Fake
   // https://annict.com/works/10985
   { annict_id: 10985, mal_id: 55830 },
@@ -33889,7 +33889,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11808, mal_id: 25363 },
   // [1964-SUMMER] MOVIE: 鉄腕アトム 宇宙の勇者
   // https://annict.com/works/11809
-  { annict_id: 11809, mal_id: 10342 },
+  { annict_id: 11809, mal_id: 10342, syobocal_tid: 7429 },
   // [2000-WINTER] MOVIE: 睡蓮の人
   // https://annict.com/works/11810
   { annict_id: 11810, mal_id: 7683 },
@@ -37207,7 +37207,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12920, mal_id: 58827, syobocal_tid: 7274 },
   // [1960-WINTER] TV: 新しい動画 3つのはなし
   // https://annict.com/works/12921
-  { annict_id: 12921, mal_id: 8774 },
+  { annict_id: 12921, mal_id: 8774, syobocal_tid: 683 },
   // [2024-SUMMER] WEB: T・Pぼん シーズン2
   // https://annict.com/works/12922
   { annict_id: 12922, mal_id: 59274 },
