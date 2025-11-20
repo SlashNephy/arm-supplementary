@@ -4156,7 +4156,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1386, mal_id: 2113 },
   // [1989-AUTUMN] TV: 手塚治虫の新作アニメ ジャングル大帝
   // https://annict.com/works/1387
-  { annict_id: 1387, mal_id: 2556 },
+  { annict_id: 1387, mal_id: 2556, syobocal_tid: 4711 },
   // [1997-SPRING] TV: 手塚治虫の旧約聖書物語
   // https://annict.com/works/1388
   { annict_id: 1388, mal_id: 2282 },
@@ -9898,7 +9898,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3312, mal_id: 16782, syobocal_tid: 3492 },
   // [1980-AUTUMN] MOVIE: サイボーグ009 超銀河伝説
   // https://annict.com/works/3313
-  { annict_id: 3313, mal_id: 7336 },
+  { annict_id: 3313, mal_id: 7336, syobocal_tid: 6714 },
   // [2013-AUTUMN] MOVIE: サカサマのパテマ
   // https://annict.com/works/3314
   { annict_id: 3314, mal_id: 12477, syobocal_tid: 3499 },
@@ -13492,7 +13492,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 4522, mal_id: 31055 },
   // [2015-AUTUMN] MOVIE: サイボーグ009VSデビルマン
   // https://annict.com/works/4523
-  { annict_id: 4523, mal_id: 31050 },
+  { annict_id: 4523, mal_id: 31050, syobocal_tid: 6946 },
   // [2015-AUTUMN] MOVIE: UFO学園の秘密
   // https://annict.com/works/4524
   { annict_id: 4524, mal_id: 30850 },
@@ -23869,7 +23869,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 8297, mal_id: 7364 },
   // [1966-SUMMER] MOVIE: サイボーグ009 (1966)
   // https://annict.com/works/8298
-  { annict_id: 8298, mal_id: 6872 },
+  { annict_id: 8298, mal_id: 6872, syobocal_tid: 2793 },
   // [1967-WINTER] MOVIE: サイボーグ009 怪獣戦争
   // https://annict.com/works/8299
   { annict_id: 8299, mal_id: 7290, syobocal_tid: 2802 },
@@ -33631,7 +33631,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11722, mal_id: 4941 },
   // [1997-SUMMER] MOVIE: ジャングル大帝(1997年)
   // https://annict.com/works/11723
-  { annict_id: 11723, mal_id: 2264 },
+  { annict_id: 11723, mal_id: 2264, syobocal_tid: 1770 },
   // [2003-SUMMER] MOVIE: ぼくの孫悟空
   // https://annict.com/works/11724
   { annict_id: 11724, mal_id: 20189 },
@@ -34057,7 +34057,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11864, mal_id: 57466 },
   // [1966-SUMMER] MOVIE: 長編漫画映画 ジャングル大帝
   // https://annict.com/works/11865
-  { annict_id: 11865, mal_id: 20381 },
+  { annict_id: 11865, mal_id: 20381, syobocal_tid: 7550 },
   // [1979-SUMMER] MOVIE: 北極のムーシカ・ミーシカ
   // https://annict.com/works/11866
   { annict_id: 11866, mal_id: 7729 },
