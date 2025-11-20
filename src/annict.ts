@@ -48589,5 +48589,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 16729, mal_id: 62981 },
   // [2026-null] TV: 茉莉花ちゃんの好感度はぶっ壊れている
   // https://annict.com/works/16730
-  { annict_id: 16730 },
+  { annict_id: 16730, mal_id: 62983 },
 ]
