@@ -1708,10 +1708,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 568, mal_id: 94, syobocal_tid: 477 },
   // [2004-WINTER] TV: 機動戦士ガンダムSEED スペシャルエディション 虚空の戦場
   // https://annict.com/works/569
-  { annict_id: 569, mal_id: 2269 },
+  { annict_id: 569, mal_id: 2269, syobocal_tid: 380 },
   // [2004-SUMMER] TV: 機動戦士ガンダムSEED スペシャルエディションⅡ 遥かなる暁
   // https://annict.com/works/570
-  { annict_id: 570, mal_id: 2269 },
+  { annict_id: 570, mal_id: 2269, syobocal_tid: 380 },
   // [1986-WINTER] TV: 機動戦士ガンダムZZ
   // https://annict.com/works/571
   { annict_id: 571, mal_id: 86, syobocal_tid: 751 },
@@ -7933,7 +7933,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2651, mal_id: 1215, syobocal_tid: 950 },
   // [2004-AUTUMN] OVA: 機動戦士ガンダムSEED スペシャルエディション完結編 鳴動の宇宙
   // https://annict.com/works/2652
-  { annict_id: 2652, mal_id: 2269 },
+  { annict_id: 2652, mal_id: 2269, syobocal_tid: 380 },
   // [2010-WINTER] OVA: 機動戦士ガンダムUC
   // https://annict.com/works/2653
   { annict_id: 2653, mal_id: 6336, syobocal_tid: 2130 },
@@ -13723,7 +13723,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 4602, mal_id: 1756 },
   // [2003-WINTER] OVA: Di Gi Charat劇場 ぴよこにおまかせぴょ!
   // https://annict.com/works/4603
-  { annict_id: 4603, mal_id: 1748 },
+  { annict_id: 4603, mal_id: 1748, syobocal_tid: 1451 },
   // [2016-WINTER] TV: 旅街レイトショー
   // https://annict.com/works/4604
   { annict_id: 4604, mal_id: 32309, syobocal_tid: 4051 },
