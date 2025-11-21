@@ -48598,5 +48598,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 16732 },
   // [null-null] TV: 描くなるうえは
   // https://annict.com/works/16733
-  { annict_id: 16733 },
+  { annict_id: 16733, mal_id: 62989 },
 ]
