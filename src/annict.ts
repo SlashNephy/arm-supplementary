@@ -48593,4 +48593,10 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] TV: ヤドカリくん
   // https://annict.com/works/16731
   { annict_id: 16731 },
+  // [2026-WINTER] MOVIE: 最強王図鑑 ～The Ultimate Tournament～ 特別編 テッペン決めようか！
+  // https://annict.com/works/16732
+  { annict_id: 16732 },
+  // [null-null] TV: 描くなるうえは
+  // https://annict.com/works/16733
+  { annict_id: 16733 },
 ]
