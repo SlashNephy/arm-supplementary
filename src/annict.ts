@@ -48590,4 +48590,7 @@ export const annict: ArmEntry[] = [
   // [2026-null] TV: 茉莉花ちゃんの好感度はぶっ壊れている
   // https://annict.com/works/16730
   { annict_id: 16730, mal_id: 62983 },
+  // [2025-SUMMER] TV: ヤドカリくん
+  // https://annict.com/works/16731
+  { annict_id: 16731 },
 ]
