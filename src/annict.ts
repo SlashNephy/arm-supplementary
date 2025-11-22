@@ -35870,7 +35870,7 @@ export const annict: ArmEntry[] = [
   // [2024-SPRING] TV: 龍族 -The Blazing Dawn-
   // https://annict.com/works/12472
   { annict_id: 12472, mal_id: 44408, syobocal_tid: 7056 },
-  // [2026-null] MOVIE: 楽園追放 心のレゾナンス
+  // [2026-AUTUMN] MOVIE: 楽園追放 心のレゾナンス
   // https://annict.com/works/12473
   { annict_id: 12473, mal_id: 57961 },
   // [2025-SUMMER] TV: ぬきたし THE ANIMATION
