@@ -46031,7 +46031,7 @@ export const annict: ArmEntry[] = [
   // [2001-AUTUMN] TV: ドーラといっしょに大冒険
   // https://annict.com/works/15871
   { annict_id: 15871 },
-  // [null-null] OTHER: わたしの幸せな結婚 新作アニメ
+  // [2026-null] TV: わたしの幸せな結婚 特別篇
   // https://annict.com/works/15872
   { annict_id: 15872, mal_id: 61440 },
   // [null-null] TV: 春夏秋冬代行者 春の舞
