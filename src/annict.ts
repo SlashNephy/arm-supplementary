@@ -2272,7 +2272,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 757, mal_id: 4039, syobocal_tid: 1339 },
   // [1976-SPRING] TV: ゴワッパー５ゴーダム
   // https://annict.com/works/758
-  { annict_id: 758, mal_id: 7551 },
+  { annict_id: 758, mal_id: 7551, syobocal_tid: 4002 },
   // [2001-SPRING] TV: ゴーゴー五つ子ら・ん・ど
   // https://annict.com/works/759
   { annict_id: 759, mal_id: 3776 },
@@ -6760,7 +6760,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2257, mal_id: 2806, syobocal_tid: 1860 },
   // [2008-WINTER] TV: ヤッターマン（2008年）
   // https://annict.com/works/2258
-  { annict_id: 2258, mal_id: 3295 },
+  { annict_id: 2258, mal_id: 3295, syobocal_tid: 1303 },
   // [1977-WINTER] TV: ヤッターマン
   // https://annict.com/works/2259
   { annict_id: 2259, mal_id: 3008, syobocal_tid: 1324 },
@@ -6799,7 +6799,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2270, mal_id: 553 },
   // [1975-AUTUMN] TV: UFOロボ グレンダイザー
   // https://annict.com/works/2271
-  { annict_id: 2271, mal_id: 1985 },
+  { annict_id: 2271, mal_id: 1985, syobocal_tid: 7648 },
   // [2007-AUTUMN] TV: ゆめだまや奇談
   // https://annict.com/works/2272
   { annict_id: 2272, mal_id: 3003, syobocal_tid: 1283 },
@@ -7444,7 +7444,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2486, mal_id: 6443, syobocal_tid: 1684 },
   // [2000-SPRING] OVA: AMON デビルマン黙示録
   // https://annict.com/works/2487
-  { annict_id: 2487, mal_id: 2356 },
+  { annict_id: 2487, mal_id: 2356, syobocal_tid: 7436 },
   // [2006-SPRING] OVA: Angel's Feather
   // https://annict.com/works/2488
   { annict_id: 2488, mal_id: 1640 },
@@ -8254,7 +8254,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2760, mal_id: 1938 },
   // [1996-SUMMER] OVA: 新破裏拳ポリマー
   // https://annict.com/works/2761
-  { annict_id: 2761, mal_id: 3398 },
+  { annict_id: 2761, mal_id: 3398, syobocal_tid: 2569 },
   // [1994-WINTER] OVA: 湘南純愛組!
   // https://annict.com/works/2762
   { annict_id: 2762, mal_id: 1913 },
@@ -9790,7 +9790,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3276, mal_id: 3481 },
   // [1975-WINTER] MOVIE: グレートマジンガー対ゲッターロボ
   // https://annict.com/works/3277
-  { annict_id: 3277, mal_id: 4385 },
+  { annict_id: 3277, mal_id: 4385, syobocal_tid: 6997 },
   // [1975-SUMMER] MOVIE: グレートマジンガー対ゲッターロボG 空中大激突
   // https://annict.com/works/3278
   { annict_id: 3278, mal_id: 4386, syobocal_tid: 2723 },
@@ -11248,7 +11248,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3763, mal_id: 1416, syobocal_tid: 2674 },
   // [1995-SPRING] MOVIE: ルパン三世 くたばれノストラダムス！
   // https://annict.com/works/3764
-  { annict_id: 3764, mal_id: 1419 },
+  { annict_id: 3764, mal_id: 1419, syobocal_tid: 2410 },
   // [1979-AUTUMN] MOVIE: ルパン三世 カリオストロの城
   // https://annict.com/works/3765
   { annict_id: 3765, mal_id: 1430, syobocal_tid: 1400 },
@@ -11521,7 +11521,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3854, mal_id: 20225 },
   // [1977-AUTUMN] TV: とびだせ!マシーン飛竜
   // https://annict.com/works/3855
-  { annict_id: 3855, mal_id: 20125 },
+  { annict_id: 3855, mal_id: 20125, syobocal_tid: 7521 },
   // [1969-SPRING] TV: どろろ（1969）
   // https://annict.com/works/3856
   { annict_id: 3856, mal_id: 11471, syobocal_tid: 5209 },
@@ -14458,7 +14458,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 4847, mal_id: 33378, syobocal_tid: 5087 },
   // [1978-SPRING] TV: はいからさんが通る
   // https://annict.com/works/4848
-  { annict_id: 4848, mal_id: 3335 },
+  { annict_id: 4848, mal_id: 3335, syobocal_tid: 7450 },
   // [2016-AUTUMN] TV: TRICKSTER -江戸川乱歩「少年探偵団」より-
   // https://annict.com/works/4849
   { annict_id: 4849, mal_id: 33377, syobocal_tid: 4326 },
@@ -15262,7 +15262,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5118, mal_id: 34742 },
   // [2017-WINTER] MOVIE: 宇宙戦艦ヤマト2202 愛の戦士たち 第一章「嚆矢篇」
   // https://annict.com/works/5119
-  { annict_id: 5119 },
+  { annict_id: 5119, syobocal_tid: 4484 },
   // [2018-AUTUMN] WEB: 聖闘士星矢 セインティア翔
   // https://annict.com/works/5120
   { annict_id: 5120, mal_id: 34539, syobocal_tid: 5128 },
@@ -20629,7 +20629,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6991, mal_id: 40513, syobocal_tid: 5622 },
   // [1979-SUMMER] MOVIE: 銀河鉄道999 (The Galaxy Express 999)
   // https://annict.com/works/6992
-  { annict_id: 6992, mal_id: 1301 },
+  { annict_id: 6992, mal_id: 1301, syobocal_tid: 2445 },
   // [1981-SUMMER] MOVIE: さよなら銀河鉄道999 アンドロメダ終着駅
   // https://annict.com/works/6993
   { annict_id: 6993, mal_id: 1302, syobocal_tid: 2582 },
@@ -21322,7 +21322,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 7320, mal_id: 41101, syobocal_tid: 5639 },
   // [2021-SPRING] MOVIE: 「宇宙戦艦ヤマト」という時代 西暦2202年の選択
   // https://annict.com/works/7321
-  { annict_id: 7321, mal_id: 40554 },
+  { annict_id: 7321, mal_id: 40554, syobocal_tid: 6433 },
   // [2021-SPRING] TV: MARS RED
   // https://annict.com/works/7322
   { annict_id: 7322, mal_id: 41265, syobocal_tid: 5976 },
@@ -27772,16 +27772,16 @@ export const annict: ArmEntry[] = [
   { annict_id: 9762, mal_id: 731 },
   // [1998-WINTER] MOVIE: 銀河鉄道999 エターナル・ファンタジー
   // https://annict.com/works/9763
-  { annict_id: 9763, mal_id: 3602 },
+  { annict_id: 9763, mal_id: 3602, syobocal_tid: 2606 },
   // [1980-WINTER] MOVIE: 銀河鉄道999 ガラスのクレア
   // https://annict.com/works/9764
   { annict_id: 9764, mal_id: 6653 },
   // [1978-SPRING] TV: SF西遊記スタージンガー
   // https://annict.com/works/9765
-  { annict_id: 9765, mal_id: 1236 },
+  { annict_id: 9765, mal_id: 1236, syobocal_tid: 2323 },
   // [1979-SUMMER] TV: SF西遊記スタージンガーII
   // https://annict.com/works/9766
-  { annict_id: 9766, mal_id: 1236 },
+  { annict_id: 9766, mal_id: 1236, syobocal_tid: 2324 },
   // [2023-SPRING] TV: 僕の心のヤバイやつ
   // https://annict.com/works/9767
   { annict_id: 9767, mal_id: 52578, syobocal_tid: 6643 },
@@ -28111,10 +28111,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 9875, mal_id: 7779 },
   // [1971-SUMMER] TV: 天才バカボン
   // https://annict.com/works/9876
-  { annict_id: 9876, mal_id: 6468 },
+  { annict_id: 9876, mal_id: 6468, syobocal_tid: 3982 },
   // [1975-AUTUMN] TV: 元祖天才バカボン
   // https://annict.com/works/9877
-  { annict_id: 9877, mal_id: 11268 },
+  { annict_id: 9877, mal_id: 11268, syobocal_tid: 2668 },
   // [1971-AUTUMN] TV: 国松さまのお通りだい
   // https://annict.com/works/9878
   { annict_id: 9878, mal_id: 17669 },
@@ -28153,7 +28153,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9889, mal_id: 23347 },
   // [1974-SPRING] TV: 星の子チョビン
   // https://annict.com/works/9890
-  { annict_id: 9890, mal_id: 3834 },
+  { annict_id: 9890, mal_id: 3834, syobocal_tid: 2784 },
   // [1974-SUMMER] TV: ゼロテスター 地球を守れ!
   // https://annict.com/works/9891
   { annict_id: 9891, mal_id: 9522 },
@@ -28183,7 +28183,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9899, mal_id: 3054 },
   // [1975-SPRING] TV: ドン・チャック物語
   // https://annict.com/works/9900
-  { annict_id: 9900, mal_id: 2575 },
+  { annict_id: 9900, mal_id: 2575, syobocal_tid: 1328 },
   // [1976-SPRING] TV: 新ドン・チャック物語
   // https://annict.com/works/9901
   { annict_id: 9901, mal_id: 23393 },
@@ -28213,10 +28213,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 9909, mal_id: 20147 },
   // [1977-WINTER] TV: ジェッターマルス
   // https://annict.com/works/9910
-  { annict_id: 9910, mal_id: 6087 },
+  { annict_id: 9910, mal_id: 6087, syobocal_tid: 3173 },
   // [1977-SUMMER] TV: アローエンブレム グランプリの鷹
   // https://annict.com/works/9911
-  { annict_id: 9911, mal_id: 3800 },
+  { annict_id: 9911, mal_id: 3800, syobocal_tid: 3814 },
   // [1977-AUTUMN] TV: 家なき子
   // https://annict.com/works/9912
   { annict_id: 9912, mal_id: 2828 },
@@ -28234,16 +28234,16 @@ export const annict: ArmEntry[] = [
   { annict_id: 9916, mal_id: 10224 },
   // [1978-AUTUMN] TV: 科学忍者隊ガッチャマンII
   // https://annict.com/works/9917
-  { annict_id: 9917, mal_id: 6374 },
+  { annict_id: 9917, mal_id: 6374, syobocal_tid: 7352 },
   // [1979-AUTUMN] TV: 科学忍者隊ガッチャマンF
   // https://annict.com/works/9918
-  { annict_id: 9918, mal_id: 6375 },
+  { annict_id: 9918, mal_id: 6375, syobocal_tid: 7357 },
   // [1978-AUTUMN] TV: まんがこども文庫
   // https://annict.com/works/9919
   { annict_id: 9919, mal_id: 20231 },
   // [1978-AUTUMN] TV: キャプテンフューチャー
   // https://annict.com/works/9920
-  { annict_id: 9920, mal_id: 2561 },
+  { annict_id: 9920, mal_id: 2561, syobocal_tid: 4312 },
   // [1979-WINTER] TV: 日本名作童話シリーズ 赤い鳥のこころ
   // https://annict.com/works/9921
   { annict_id: 9921, mal_id: 20027 },
@@ -33175,7 +33175,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11570 },
   // [1971-SPRING] TV: ゴルゴ13 (1971)
   // https://annict.com/works/11571
-  { annict_id: 11571 },
+  { annict_id: 11571, syobocal_tid: 6918 },
   // [1998-SPRING] OVA: ゴルゴ13〜QUEEN BEE〜
   // https://annict.com/works/11572
   { annict_id: 11572, mal_id: 1761 },
@@ -36406,10 +36406,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 12652 },
   // [1987-AUTUMN] OVA: デビルマン 誕生編
   // https://annict.com/works/12653
-  { annict_id: 12653, mal_id: 2354 },
+  { annict_id: 12653, mal_id: 2354, syobocal_tid: 2796 },
   // [1990-WINTER] OVA: デビルマン 妖鳥死麗濡編
   // https://annict.com/works/12654
-  { annict_id: 12654, mal_id: 2355 },
+  { annict_id: 12654, mal_id: 2355, syobocal_tid: 2796 },
   // [null-null] OTHER: ティラノがやってくる！
   // https://annict.com/works/12655
   { annict_id: 12655 },
