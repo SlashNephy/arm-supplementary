@@ -1408,7 +1408,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 468, mal_id: 142 },
   // [1979-SUMMER] TV: 科学冒険隊タンサー５
   // https://annict.com/works/469
-  { annict_id: 469, mal_id: 10965 },
+  { annict_id: 469, mal_id: 10965, syobocal_tid: 3598 },
   // [1972-AUTUMN] TV: 科学忍者隊ガッチャマン
   // https://annict.com/works/470
   { annict_id: 470, mal_id: 2389, syobocal_tid: 2499 },
@@ -9679,7 +9679,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3239, mal_id: 1092, syobocal_tid: 765 },
   // [1981-SUMMER] MOVIE: 機動戦士ガンダムII　哀・戦士編
   // https://annict.com/works/3240
-  { annict_id: 3240, mal_id: 1091 },
+  { annict_id: 3240, mal_id: 1091, syobocal_tid: 764 },
   // [1991-WINTER] MOVIE: 機動戦士ガンダムF91
   // https://annict.com/works/3241
   { annict_id: 3241, mal_id: 88, syobocal_tid: 741 },
@@ -12913,7 +12913,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 4323, mal_id: 21031, syobocal_tid: 3304 },
   // [2015-WINTER] MOVIE: 機動戦士ガンダム THE ORIGIN I 青い瞳のキャスバル
   // https://annict.com/works/4324
-  { annict_id: 4324, mal_id: 10937 },
+  { annict_id: 4324, mal_id: 10937, syobocal_tid: 4939 },
   // [2016-AUTUMN] MOVIE: この世界の片隅に
   // https://annict.com/works/4325
   { annict_id: 4325, mal_id: 15227, syobocal_tid: 4859 },
@@ -17191,7 +17191,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5768, mal_id: 34658 },
   // [2017-AUTUMN] MOVIE: 機動戦士ガンダム Twilight AXIS 赤き残影
   // https://annict.com/works/5769
-  { annict_id: 5769, mal_id: 36436 },
+  { annict_id: 5769, mal_id: 36436, syobocal_tid: 6017 },
   // [2018-WINTER] TV: レゴ ニンジャゴー(6)
   // https://annict.com/works/5770
   { annict_id: 5770, syobocal_tid: 4845 },
@@ -17416,7 +17416,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5843 },
   // [2018-SPRING] MOVIE: 機動戦士ガンダム THE ORIGIN VI 誕生 赤い彗星
   // https://annict.com/works/5844
-  { annict_id: 5844, mal_id: 10937 },
+  { annict_id: 5844, mal_id: 10937, syobocal_tid: 4939 },
   // [1987-SUMMER] OVA: DEAD HEAT
   // https://annict.com/works/5845
   { annict_id: 5845, mal_id: 10780 },
@@ -17887,7 +17887,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6001, mal_id: 36632, syobocal_tid: 5063 },
   // [2018-AUTUMN] MOVIE: 機動戦士ガンダムNT
   // https://annict.com/works/6002
-  { annict_id: 6002, mal_id: 37764 },
+  { annict_id: 6002, mal_id: 37764, syobocal_tid: 5133 },
   // [2019-SUMMER] TV: 異世界チート魔術師
   // https://annict.com/works/6003
   { annict_id: 6003, mal_id: 37744, syobocal_tid: 5351 },
@@ -18898,7 +18898,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6343, mal_id: 21415 },
   // [2021-SPRING] MOVIE: 機動戦士ガンダム 閃光のハサウェイ
   // https://annict.com/works/6344
-  { annict_id: 6344, mal_id: 37765 },
+  { annict_id: 6344, mal_id: 37765, syobocal_tid: 6616 },
   // [2026-WINTER] MOVIE: 機動戦士ガンダム 閃光のハサウェイ キルケーの魔女
   // https://annict.com/works/6345
   { annict_id: 6345, mal_id: 38716 },
@@ -18919,16 +18919,16 @@ export const annict: ArmEntry[] = [
   { annict_id: 6350, mal_id: 38715, syobocal_tid: 5924 },
   // [2015-AUTUMN] MOVIE: 機動戦士ガンダム THE ORIGIN II 哀しみのアルテイシア
   // https://annict.com/works/6351
-  { annict_id: 6351, mal_id: 10937 },
+  { annict_id: 6351, mal_id: 10937, syobocal_tid: 4939 },
   // [2016-SPRING] MOVIE: 機動戦士ガンダム THE ORIGIN III 暁の蜂起
   // https://annict.com/works/6352
-  { annict_id: 6352, mal_id: 10937 },
+  { annict_id: 6352, mal_id: 10937, syobocal_tid: 4939 },
   // [2016-AUTUMN] MOVIE: 機動戦士ガンダム THE ORIGIN IV 運命の前夜
   // https://annict.com/works/6353
-  { annict_id: 6353, mal_id: 10937 },
+  { annict_id: 6353, mal_id: 10937, syobocal_tid: 4939 },
   // [2017-AUTUMN] MOVIE: 機動戦士ガンダム THE ORIGIN V 激突 ルウム会戦
   // https://annict.com/works/6354
-  { annict_id: 6354, mal_id: 10937 },
+  { annict_id: 6354, mal_id: 10937, syobocal_tid: 4939 },
   // [2019-SPRING] TV: フルーツバスケット 1st Season
   // https://annict.com/works/6355
   { annict_id: 6355, mal_id: 38680, syobocal_tid: 5248 },
@@ -25444,7 +25444,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 8888, mal_id: 49828, syobocal_tid: 6466 },
   // [2022-SPRING] MOVIE: 機動戦士ガンダム ククルス・ドアンの島
   // https://annict.com/works/8889
-  { annict_id: 8889, mal_id: 49827 },
+  { annict_id: 8889, mal_id: 49827, syobocal_tid: 6852 },
   // [2022-SPRING] TV: 機動戦士ガンダム 鉄血のオルフェンズ 特別編
   // https://annict.com/works/8890
   { annict_id: 8890, mal_id: 51569 },
