@@ -4525,7 +4525,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1509, mal_id: 16067, syobocal_tid: 3161 },
   // [1992-AUTUMN] TV: 南国少年パプワくん
   // https://annict.com/works/1510
-  { annict_id: 1510, mal_id: 2503 },
+  { annict_id: 1510, mal_id: 2503, syobocal_tid: 6338 },
   // [2009-SPRING] TV: 夏のあらし！
   // https://annict.com/works/1511
   { annict_id: 1511, mal_id: 5597, syobocal_tid: 1584 },
@@ -6850,7 +6850,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2287, mal_id: 3505 },
   // [1993-WINTER] TV: 勇者特急マイトガイン
   // https://annict.com/works/2288
-  { annict_id: 2288, mal_id: 3486 },
+  { annict_id: 2288, mal_id: 3486, syobocal_tid: 6597 },
   // [1997-WINTER] TV: 勇者王ガオガイガー
   // https://annict.com/works/2289
   { annict_id: 2289, mal_id: 890, syobocal_tid: 2055 },
@@ -8020,7 +8020,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2680, mal_id: 1909 },
   // [1992-SPRING] OVA: KO世紀ビースト三獣士
   // https://annict.com/works/2681
-  { annict_id: 2681, mal_id: 602 },
+  { annict_id: 2681, mal_id: 602, syobocal_tid: 7248 },
   // [2009-AUTUMN] OVA: けものとチャット
   // https://annict.com/works/2682
   { annict_id: 2682, mal_id: 6932, syobocal_tid: 2305 },
@@ -9730,7 +9730,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3256, mal_id: 17113, syobocal_tid: 3405 },
   // [1994-SPRING] MOVIE: クレヨンしんちゃん ブリブリ王国の秘宝
   // https://annict.com/works/3257
-  { annict_id: 3257, mal_id: 3745 },
+  { annict_id: 3257, mal_id: 3745, syobocal_tid: 5263 },
   // [1996-SPRING] MOVIE: クレヨンしんちゃん ヘンダーランドの大冒険
   // https://annict.com/works/3258
   { annict_id: 3258, mal_id: 8359, syobocal_tid: 5294 },
@@ -9766,7 +9766,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3268, mal_id: 8364, syobocal_tid: 2843 },
   // [1997-SPRING] MOVIE: クレヨンしんちゃん 暗黒タマタマ大追跡
   // https://annict.com/works/3269
-  { annict_id: 3269, mal_id: 6460 },
+  { annict_id: 3269, mal_id: 6460, syobocal_tid: 5295 },
   // [1999-SPRING] MOVIE: クレヨンしんちゃん 爆発！温泉わくわく大決戦
   // https://annict.com/works/3270
   { annict_id: 3270, mal_id: 8361 },
@@ -9775,7 +9775,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3271, mal_id: 8369 },
   // [1995-SPRING] MOVIE: クレヨンしんちゃん 雲黒斎の野望
   // https://annict.com/works/3272
-  { annict_id: 3272, mal_id: 6217 },
+  { annict_id: 3272, mal_id: 6217, syobocal_tid: 5264 },
   // [1998-SPRING] MOVIE: クレヨンしんちゃん 電撃！ブタのヒヅメ大作戦
   // https://annict.com/works/3273
   { annict_id: 3273, mal_id: 8360, syobocal_tid: 5296 },
@@ -23755,10 +23755,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 8259, mal_id: 2419 },
   // [2001-WINTER] OVA: チャイナさんの縮小
   // https://annict.com/works/8260
-  { annict_id: 8260, mal_id: 6245 },
+  { annict_id: 8260, mal_id: 6245, syobocal_tid: 921 },
   // [2001-SUMMER] OVA: チャイナさんの惑星
   // https://annict.com/works/8261
-  { annict_id: 8261, mal_id: 6245 },
+  { annict_id: 8261, mal_id: 6245, syobocal_tid: 921 },
   // [2004-WINTER] OVA: チャイナさんの盃
   // https://annict.com/works/8262
   { annict_id: 8262, mal_id: 6245 },
@@ -34213,10 +34213,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 11916, mal_id: 4756 },
   // [1994-AUTUMN] OVA: 無責任艦長タイラー特別編 ひとりぼっちの戦争
   // https://annict.com/works/11917
-  { annict_id: 11917, mal_id: 1168 },
+  { annict_id: 11917, mal_id: 1168, syobocal_tid: 3146 },
   // [1995-SUMMER] OVA: 無責任艦長タイラー(OVA)
   // https://annict.com/works/11918
-  { annict_id: 11918 },
+  { annict_id: 11918, syobocal_tid: 3147 },
   // [1997-WINTER] OVA: 鬼神童子ZENKI外伝〜黯鬼奇譚〜
   // https://annict.com/works/11919
   { annict_id: 11919, mal_id: 5828 },
@@ -36367,7 +36367,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12639, mal_id: 54603 },
   // [2024-SUMMER] MOVIE: 映画 クレヨンしんちゃん オラたちの恐竜日記
   // https://annict.com/works/12640
-  { annict_id: 12640, mal_id: 57499 },
+  { annict_id: 12640, mal_id: 57499, syobocal_tid: 7546 },
   // [2025-SUMMER] TV: ニャイト・オブ・ザ・リビングキャット
   // https://annict.com/works/12641
   { annict_id: 12641, mal_id: 58197, syobocal_tid: 7492 },
@@ -40618,7 +40618,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14063, mal_id: 59961, syobocal_tid: 7531 },
   // [1993-SPRING] OVA: KO世紀ビースト三獣士II
   // https://annict.com/works/14064
-  { annict_id: 14064 },
+  { annict_id: 14064, syobocal_tid: 7339 },
   // [2026-WINTER] MOVIE: 劇場版 転生したらスライムだった件  蒼海の涙編
   // https://annict.com/works/14065
   { annict_id: 14065, mal_id: 59971 },
