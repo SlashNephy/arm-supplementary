@@ -4273,7 +4273,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1425, mal_id: 1555, syobocal_tid: 908 },
   // [1994-SPRING] TV: とっても！ラッキーマン
   // https://annict.com/works/1426
-  { annict_id: 1426, mal_id: 3672 },
+  { annict_id: 1426, mal_id: 3672, syobocal_tid: 7549 },
   // [2000-SUMMER] TV: とっとこハム太郎
   // https://annict.com/works/1427
   { annict_id: 1427, mal_id: 508, syobocal_tid: 185 },
@@ -5530,7 +5530,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1845, mal_id: 58, syobocal_tid: 1013 },
   // [1994-AUTUMN] TV: BLUE SEED
   // https://annict.com/works/1846
-  { annict_id: 1846, mal_id: 998 },
+  { annict_id: 1846, mal_id: 998, syobocal_tid: 7213 },
   // [2012-WINTER] TV: BRAVE10
   // https://annict.com/works/1847
   { annict_id: 1847, mal_id: 11241, syobocal_tid: 2382 },
@@ -5911,7 +5911,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1972, mal_id: 1690, syobocal_tid: 1100 },
   // [1995-SPRING] TV: ぼのぼの
   // https://annict.com/works/1973
-  { annict_id: 1973, mal_id: 4286 },
+  { annict_id: 1973, mal_id: 4286, syobocal_tid: 4594 },
   // [2006-SPRING] TV: ぽかぽか森のラスカル
   // https://annict.com/works/1974
   { annict_id: 1974, mal_id: 17613, syobocal_tid: 858 },
@@ -6859,7 +6859,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2290, mal_id: 4416, syobocal_tid: 621 },
   // [1994-WINTER] TV: 勇者警察ジェイデッカー
   // https://annict.com/works/2291
-  { annict_id: 2291, mal_id: 5075 },
+  { annict_id: 2291, mal_id: 5075, syobocal_tid: 7147 },
   // [1998-AUTUMN] TV: 夢で逢えたら
   // https://annict.com/works/2292
   { annict_id: 2292, mal_id: 718 },
@@ -9265,7 +9265,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3100, mal_id: 3832 },
   // [1993-SUMMER] OVA: 流星機ガクセイバー
   // https://annict.com/works/3101
-  { annict_id: 3101, mal_id: 3735 },
+  { annict_id: 3101, mal_id: 3735, syobocal_tid: 7402 },
   // [1990-SPRING] OVA: 緑野原迷宮 〜Sparkling Phantom〜
   // https://annict.com/works/3102
   { annict_id: 3102, mal_id: 2219 },
@@ -9712,7 +9712,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3250, mal_id: 1140, syobocal_tid: 1121 },
   // [1993-AUTUMN] MOVIE: Coo 遠い海から来たクー
   // https://annict.com/works/3251
-  { annict_id: 3251, mal_id: 2055 },
+  { annict_id: 3251, mal_id: 2055, syobocal_tid: 6784 },
   // [1983-WINTER] MOVIE: クラッシャージョウ
   // https://annict.com/works/3252
   { annict_id: 3252, mal_id: 2722, syobocal_tid: 3059 },
@@ -10372,7 +10372,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3470, mal_id: 1144 },
   // [1997-SUMMER] MOVIE: 天地無用！ 真夏のイヴ
   // https://annict.com/works/3471
-  { annict_id: 3471, mal_id: 1101 },
+  { annict_id: 3471, mal_id: 1101, syobocal_tid: 6717 },
   // [1986-SUMMER] MOVIE: 天空の城ラピュタ
   // https://annict.com/works/3472
   { annict_id: 3472, mal_id: 513, syobocal_tid: 3072 },
@@ -20179,7 +20179,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6809 },
   // [2020-WINTER] OVA: 天地無用！魎皇鬼 第伍期
   // https://annict.com/works/6810
-  { annict_id: 6810, mal_id: 40097 },
+  { annict_id: 6810, mal_id: 40097, syobocal_tid: 6269 },
   // [2020-AUTUMN] TV: まえせつ！
   // https://annict.com/works/6811
   { annict_id: 6811, mal_id: 40085, syobocal_tid: 5767 },
@@ -30637,7 +30637,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10722, mal_id: 1373 },
   // [1996-AUTUMN] MOVIE: ブラック・ジャック 劇場版
   // https://annict.com/works/10723
-  { annict_id: 10723, mal_id: 1521 },
+  { annict_id: 10723, mal_id: 1521, syobocal_tid: 1769 },
   // [2000-WINTER] OVA: ブラック・ジャック 空からきた子ども
   // https://annict.com/works/10724
   { annict_id: 10724, mal_id: 6246 },
@@ -31642,7 +31642,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11057, mal_id: 56146 },
   // [1994-AUTUMN] OVA: 疾風！アイアンリーガー 銀光の旗の下に
   // https://annict.com/works/11058
-  { annict_id: 11058, mal_id: 13449 },
+  { annict_id: 11058, mal_id: 13449, syobocal_tid: 4077 },
   // [1991-AUTUMN] TV: バカボンおそ松のカレーをたずねて三千里
   // https://annict.com/works/11059
   { annict_id: 11059, mal_id: 24373 },
