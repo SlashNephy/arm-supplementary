@@ -39632,7 +39632,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] WEB: Fate/Grand Order Explore Movie 2024
   // https://annict.com/works/13730
   { annict_id: 13730 },
-  // [null-null] OTHER: Dark Machine
+  // [2026-null] TV: DARK MACHINE THE ANIMATION
   // https://annict.com/works/13731
   { annict_id: 13731, mal_id: 59415 },
   // [2025-SUMMER] TV: 勇者パーティーを追放された白魔導師、Sランク冒険者に拾われる ～この白魔導師が規格外すぎる～
