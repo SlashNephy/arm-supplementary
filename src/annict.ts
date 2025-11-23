@@ -3628,7 +3628,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1210, mal_id: 473, syobocal_tid: 661 },
   // [1980-WINTER] TV: タイムパトロール隊オタスケマン
   // https://annict.com/works/1211
-  { annict_id: 1211, mal_id: 8553 },
+  { annict_id: 1211, mal_id: 8553, syobocal_tid: 4831 },
   // [1975-AUTUMN] TV: タイムボカン
   // https://annict.com/works/1212
   { annict_id: 1212, mal_id: 3915, syobocal_tid: 1389 },
@@ -34702,7 +34702,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12080, mal_id: 33498 },
   // [1985-AUTUMN] OVA: 劇場版 ニルスのふしぎな旅
   // https://annict.com/works/12081
-  { annict_id: 12081, mal_id: 7664 },
+  { annict_id: 12081, mal_id: 7664, syobocal_tid: 1859 },
   // [1986-SPRING] OVA: GoGo虎ェ門
   // https://annict.com/works/12082
   { annict_id: 12082, mal_id: 23245 },
