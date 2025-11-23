@@ -1147,7 +1147,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 381, mal_id: 8065 },
   // [1989-AUTUMN] TV: かりあげクン
   // https://annict.com/works/382
-  { annict_id: 382, mal_id: 20127 },
+  { annict_id: 382, mal_id: 20127, syobocal_tid: 6602 },
   // [2005-AUTUMN] TV: かりん
   // https://annict.com/works/383
   { annict_id: 383, mal_id: 469, syobocal_tid: 698 },
@@ -4153,7 +4153,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1385, mal_id: 182, syobocal_tid: 1848 },
   // [1989-SPRING] TV: 天空戦記シュラト
   // https://annict.com/works/1386
-  { annict_id: 1386, mal_id: 2113 },
+  { annict_id: 1386, mal_id: 2113, syobocal_tid: 6583 },
   // [1989-AUTUMN] TV: 手塚治虫の新作アニメ ジャングル大帝
   // https://annict.com/works/1387
   { annict_id: 1387, mal_id: 2556, syobocal_tid: 4711 },
@@ -11185,7 +11185,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3741, mal_id: 10389, syobocal_tid: 2960 },
   // [1992-SUMMER] MOVIE: YAWARA! それゆけ腰ぬけキッズ！！
   // https://annict.com/works/3742
-  { annict_id: 3742, mal_id: 2008 },
+  { annict_id: 3742, mal_id: 2008, syobocal_tid: 4390 },
   // [2009-SUMMER] MOVIE: 劇場版 ヤッターマン 新ヤッターメカ大集合！オモチャの国で大決戦だコロン！
   // https://annict.com/works/3743
   { annict_id: 3743, mal_id: 6693, syobocal_tid: 2700 },
@@ -23428,7 +23428,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 8150, mal_id: 8226, syobocal_tid: 2670 },
   // [1990-WINTER] MOVIE: 劇場版 悪魔くん ようこそ悪魔ランドへ!!
   // https://annict.com/works/8151
-  { annict_id: 8151, mal_id: 8227 },
+  { annict_id: 8151, mal_id: 8227, syobocal_tid: 2671 },
   // [2023-AUTUMN] WEB: 悪魔くん (Netflixオリジナル)
   // https://annict.com/works/8152
   { annict_id: 8152, mal_id: 48425 },
@@ -25903,7 +25903,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9073, syobocal_tid: 5410 },
   // [2020-WINTER] TV: ムーミン谷のなかまたち シーズン2
   // https://annict.com/works/9074
-  { annict_id: 9074 },
+  { annict_id: 9074, syobocal_tid: 6238 },
   // [2023-SPRING] TV: トニカクカワイイ（シーズン2）
   // https://annict.com/works/9075
   { annict_id: 9075, mal_id: 50307, syobocal_tid: 6669 },
@@ -28501,7 +28501,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10005, mal_id: 7845 },
   // [1989-AUTUMN] TV: 小松左京アニメ劇場
   // https://annict.com/works/10006
-  { annict_id: 10006, mal_id: 23829 },
+  { annict_id: 10006, mal_id: 23829, syobocal_tid: 2982 },
   // [1990-SUMMER] TV: カラス天狗カブト
   // https://annict.com/works/10007
   { annict_id: 10007, mal_id: 2243 },
@@ -28672,7 +28672,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10062, mal_id: 4252 },
   // [1990-WINTER] OVA: SOL BIANCA
   // https://annict.com/works/10063
-  { annict_id: 10063, mal_id: 1443 },
+  { annict_id: 10063, mal_id: 1443, syobocal_tid: 2669 },
   // [2022-SUMMER] TV: デュエル・マスターズ WIN
   // https://annict.com/works/10064
   { annict_id: 10064, mal_id: 52460, syobocal_tid: 6431 },
@@ -31003,37 +31003,37 @@ export const annict: ArmEntry[] = [
   { annict_id: 10844 },
   // [1993-AUTUMN] OVA: らんま1/2 シャンプー豹変! 反転宝珠の禍
   // https://annict.com/works/10845
-  { annict_id: 10845, mal_id: 1007 },
+  { annict_id: 10845, mal_id: 1007, syobocal_tid: 4556 },
   // [1993-AUTUMN] OVA: らんま1/2 天道家 すくらんぶるクリスマス
   // https://annict.com/works/10846
-  { annict_id: 10846, mal_id: 1007 },
+  { annict_id: 10846, mal_id: 1007, syobocal_tid: 4556 },
   // [1994-WINTER] OVA: らんま1/2 あかねVSらんま お母さんの味は私が守る!
   // https://annict.com/works/10847
-  { annict_id: 10847, mal_id: 1007 },
+  { annict_id: 10847, mal_id: 1007, syobocal_tid: 4556 },
   // [1994-SPRING] OVA: らんま1/2 学園に吹く嵐! アダルトチェンジひな子先生
   // https://annict.com/works/10848
-  { annict_id: 10848, mal_id: 1007 },
+  { annict_id: 10848, mal_id: 1007, syobocal_tid: 4556 },
   // [1994-SPRING] OVA: らんま1/2 道を継ぐ者（前編）
   // https://annict.com/works/10849
-  { annict_id: 10849, mal_id: 1007 },
+  { annict_id: 10849, mal_id: 1007, syobocal_tid: 4556 },
   // [1994-SUMMER] OVA: らんま1/2 道を継ぐ者（後編）
   // https://annict.com/works/10850
-  { annict_id: 10850, mal_id: 1007 },
+  { annict_id: 10850, mal_id: 1007, syobocal_tid: 4556 },
   // [1994-AUTUMN] OVA: らんま1/2 SPECIAL よみがえる記憶（上巻）
   // https://annict.com/works/10851
-  { annict_id: 10851, mal_id: 1008 },
+  { annict_id: 10851, mal_id: 1008, syobocal_tid: 4556 },
   // [1995-WINTER] OVA: らんま1/2 SPECIAL よみがえる記憶（下巻）
   // https://annict.com/works/10852
-  { annict_id: 10852, mal_id: 1008 },
+  { annict_id: 10852, mal_id: 1008, syobocal_tid: 4556 },
   // [1995-AUTUMN] OVA: らんま1/2 SUPER ああ呪いの破恋洞! 我が愛は永遠に
   // https://annict.com/works/10853
-  { annict_id: 10853, mal_id: 1011 },
+  { annict_id: 10853, mal_id: 1011, syobocal_tid: 4556 },
   // [1995-AUTUMN] OVA: らんま1/2 SUPER 邪悪の鬼
   // https://annict.com/works/10854
-  { annict_id: 10854, mal_id: 1011 },
+  { annict_id: 10854, mal_id: 1011, syobocal_tid: 4556 },
   // [1996-WINTER] OVA: らんま1/2 SUPER 二人のあかね「乱馬、私を見て!」
   // https://annict.com/works/10855
-  { annict_id: 10855, mal_id: 1011 },
+  { annict_id: 10855, mal_id: 1011, syobocal_tid: 4556 },
   // [2004-SPRING] OVA: 高橋留美子劇場 人魚の森 未放送エピソード
   // https://annict.com/works/10856
   { annict_id: 10856, mal_id: 620 },
@@ -31615,7 +31615,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11048 },
   // [1996-SUMMER] TV: YAWARA! Special ずっと君のことが…。
   // https://annict.com/works/11049
-  { annict_id: 11049, mal_id: 2009 },
+  { annict_id: 11049, mal_id: 2009, syobocal_tid: 4454 },
   // [1933-SPRING] MOVIE: のらくろ二等兵 教練の巻
   // https://annict.com/works/11050
   { annict_id: 11050, mal_id: 5871 },
@@ -33442,7 +33442,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11659 },
   // [1989-SUMMER] MOVIE: NEMO/ニモ
   // https://annict.com/works/11660
-  { annict_id: 11660, mal_id: 2286 },
+  { annict_id: 11660, mal_id: 2286, syobocal_tid: 2412 },
   // [1989-AUTUMN] OVA: エースをねらえ! ファイナル・ステージ
   // https://annict.com/works/11661
   { annict_id: 11661, mal_id: 312 },
@@ -37282,7 +37282,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12945 },
   // [2015-WINTER] MOVIE: 劇場版 ムーミン谷の彗星 パペット・アニメーション
   // https://annict.com/works/12946
-  { annict_id: 12946 },
+  { annict_id: 12946, syobocal_tid: 5567 },
   // [2025-SPRING] TV: かくして！マキナさん!!
   // https://annict.com/works/12947
   { annict_id: 12947, mal_id: 58833, syobocal_tid: 7410 },
