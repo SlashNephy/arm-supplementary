@@ -1738,7 +1738,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 578, mal_id: 3670, syobocal_tid: 3032 },
   // [1987-WINTER] TV: 機甲戦記ドラグナー
   // https://annict.com/works/579
-  { annict_id: 579, mal_id: 865 },
+  { annict_id: 579, mal_id: 865, syobocal_tid: 6243 },
   // [1984-AUTUMN] TV: 機甲界ガリアン
   // https://annict.com/works/580
   { annict_id: 580, mal_id: 5153, syobocal_tid: 2450 },
@@ -4384,7 +4384,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1462, mal_id: 296 },
   // [1986-WINTER] TV: ドラゴンボール
   // https://annict.com/works/1463
-  { annict_id: 1463, mal_id: 223 },
+  { annict_id: 1463, mal_id: 223, syobocal_tid: 6265 },
   // [1996-WINTER] TV: ドラゴンボールGT
   // https://annict.com/works/1464
   { annict_id: 1464, mal_id: 225, syobocal_tid: 2598 },
@@ -4609,7 +4609,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1537, mal_id: 4936 },
   // [1985-AUTUMN] TV: 忍者戦士 飛影
   // https://annict.com/works/1538
-  { annict_id: 1538, mal_id: 3059 },
+  { annict_id: 1538, mal_id: 3059, syobocal_tid: 1661 },
   // [1969-SPRING] TV: 忍風カムイ外伝
   // https://annict.com/works/1539
   { annict_id: 1539, mal_id: 5023, syobocal_tid: 1744 },
@@ -10108,7 +10108,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3382, mal_id: 1258, syobocal_tid: 2404 },
   // [1987-SUMMER] MOVIE: 聖闘士星矢 邪神エリス
   // https://annict.com/works/3383
-  { annict_id: 3383, mal_id: 1256 },
+  { annict_id: 3383, mal_id: 1256, syobocal_tid: 2402 },
   // [2002-SUMMER] MOVIE: それいけ！アンパンマン 鉄火のマキちゃんと金のかまめしどん
   // https://annict.com/works/3384
   { annict_id: 3384, mal_id: 20113 },
@@ -10267,7 +10267,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3435, mal_id: 2491 },
   // [1987-WINTER] MOVIE: ダーティペア 劇場版
   // https://annict.com/works/3436
-  { annict_id: 3436, mal_id: 1796 },
+  { annict_id: 3436, mal_id: 1796, syobocal_tid: 6268 },
   // [2012-SUMMER] MOVIE: 劇場版 TIGER & BUNNY -The Beginning-
   // https://annict.com/works/3437
   { annict_id: 3437, mal_id: 12015, syobocal_tid: 3285 },
@@ -10597,7 +10597,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3545, mal_id: 2236, syobocal_tid: 1197 },
   // [1986-AUTUMN] MOVIE: 時空の旅人 Time Stranger
   // https://annict.com/works/3546
-  { annict_id: 3546, mal_id: 3115 },
+  { annict_id: 3546, mal_id: 3115, syobocal_tid: 1450 },
   // [2003-AUTUMN] MOVIE: 東京ゴッドファーザーズ
   // https://annict.com/works/3547
   { annict_id: 3547, mal_id: 759, syobocal_tid: 566 },
@@ -16867,7 +16867,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5660, mal_id: 37033, syobocal_tid: 4833 },
   // [2006-AUTUMN] MOVIE: トップをねらえ! & トップをねらえ2! 合体劇場版!!
   // https://annict.com/works/5661
-  { annict_id: 5661, mal_id: 1911 },
+  { annict_id: 5661, mal_id: 1911, syobocal_tid: 1294 },
   // [2006-SUMMER] TV: 攻殻機動隊 STAND ALONE COMPLEX Solid State Society
   // https://annict.com/works/5662
   { annict_id: 5662, mal_id: 1566, syobocal_tid: 1917 },
@@ -17287,7 +17287,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5800, mal_id: 37481, syobocal_tid: 4980 },
   // [2019-WINTER] MOVIE: 劇場版シティーハンター <新宿プライベート･アイズ>
   // https://annict.com/works/5801
-  { annict_id: 5801 },
+  { annict_id: 5801, mal_id: 37516, syobocal_tid: 5649 },
   // [2018-AUTUMN] TV: DOUBLE DECKER! ダグ&キリル
   // https://annict.com/works/5802
   { annict_id: 5802, mal_id: 37496, syobocal_tid: 5044 },
@@ -17419,7 +17419,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5844, mal_id: 10937, syobocal_tid: 4939 },
   // [1987-SUMMER] OVA: DEAD HEAT
   // https://annict.com/works/5845
-  { annict_id: 5845, mal_id: 10780 },
+  { annict_id: 5845, mal_id: 10780, syobocal_tid: 6087 },
   // [2016-SPRING] OVA: 血界戦線 OAD 王様のレストランの王様
   // https://annict.com/works/5846
   { annict_id: 5846, mal_id: 32574 },
@@ -18682,7 +18682,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6268, mal_id: 37596 },
   // [1985-SUMMER] TV: 戦え!超ロボット生命体トランスフォーマー
   // https://annict.com/works/6269
-  { annict_id: 6269 },
+  { annict_id: 6269, syobocal_tid: 7438 },
   // [2018-AUTUMN] TV: Thunderbolt Fantasy 東離劍遊紀 2
   // https://annict.com/works/6270
   { annict_id: 6270, syobocal_tid: 5039 },
@@ -18958,7 +18958,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6363, mal_id: 38735, syobocal_tid: 5557 },
   // [2019-SUMMER] WEB: 聖闘士星矢: Knights of the Zodiac
   // https://annict.com/works/6364
-  { annict_id: 6364, mal_id: 36040 },
+  { annict_id: 6364, mal_id: 36040, syobocal_tid: 7555 },
   // [2019-SPRING] WEB: リラックマとカオルさん
   // https://annict.com/works/6365
   { annict_id: 6365, mal_id: 35777 },
@@ -22108,7 +22108,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 7647, mal_id: 1182 },
   // [1987-AUTUMN] OVA: ダーティペア OVA
   // https://annict.com/works/7648
-  { annict_id: 7648, mal_id: 4200 },
+  { annict_id: 7648, mal_id: 4200, syobocal_tid: 3991 },
   // [1987-WINTER] OVA: ダーティペアラブリーエンジェルより愛を込めて
   // https://annict.com/works/7649
   { annict_id: 7649, mal_id: 1803 },
@@ -22909,16 +22909,16 @@ export const annict: ArmEntry[] = [
   { annict_id: 7977, mal_id: 48391, syobocal_tid: 5958 },
   // [1986-SPRING] MOVIE: プロジェクトA子
   // https://annict.com/works/7978
-  { annict_id: 7978, mal_id: 212 },
+  { annict_id: 7978, mal_id: 212, syobocal_tid: 6960 },
   // [1987-SPRING] OVA: プロジェクトA子2 大徳寺財閥の陰謀
   // https://annict.com/works/7979
-  { annict_id: 7979, mal_id: 1296 },
+  { annict_id: 7979, mal_id: 1296, syobocal_tid: 6961 },
   // [1988-SPRING] OVA: プロジェクトA子3 シンデレラ♥ラプソディ
   // https://annict.com/works/7980
-  { annict_id: 7980, mal_id: 1297 },
+  { annict_id: 7980, mal_id: 1297, syobocal_tid: 6962 },
   // [1989-AUTUMN] OVA: プロジェクトA子 完結篇
   // https://annict.com/works/7981
-  { annict_id: 7981, mal_id: 1298 },
+  { annict_id: 7981, mal_id: 1298, syobocal_tid: 6963 },
   // [1990-SUMMER] OVA: A-Ko The VS
   // https://annict.com/works/7982
   { annict_id: 7982, mal_id: 1295 },
@@ -26368,7 +26368,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9260, mal_id: 50739, syobocal_tid: 6566 },
   // [1989-SUMMER] OVA: 真魔神英雄伝ワタル 魔神山編
   // https://annict.com/works/9261
-  { annict_id: 9261, mal_id: 9403 },
+  { annict_id: 9261, mal_id: 9403, syobocal_tid: 6244 },
   // [1993-AUTUMN] OVA: 魔神英雄伝ワタル 終わりなき時の物語
   // https://annict.com/works/9262
   { annict_id: 9262, mal_id: 7601 },
@@ -28405,7 +28405,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9973, mal_id: 7575 },
   // [1986-AUTUMN] TV: 戦え!超ロボット生命体トランスフォーマー2010
   // https://annict.com/works/9974
-  { annict_id: 9974 },
+  { annict_id: 9974, syobocal_tid: 7545 },
   // [1987-WINTER] TV: 新メイプルタウン物語 パームタウン編
   // https://annict.com/works/9975
   { annict_id: 9975, mal_id: 5203 },
@@ -28438,13 +28438,13 @@ export const annict: ArmEntry[] = [
   { annict_id: 9984, mal_id: 11873 },
   // [1987-AUTUMN] TV: 仮面の忍者 赤影
   // https://annict.com/works/9985
-  { annict_id: 9985, mal_id: 13769 },
+  { annict_id: 9985, mal_id: 13769, syobocal_tid: 4193 },
   // [1987-AUTUMN] TV: マンガ日本経済入門
   // https://annict.com/works/9986
   { annict_id: 9986, mal_id: 10709 },
   // [1988-AUTUMN] TV: 新グリム名作劇場
   // https://annict.com/works/9987
-  { annict_id: 9987, mal_id: 4061 },
+  { annict_id: 9987, mal_id: 4061, syobocal_tid: 3774 },
   // [1987-AUTUMN] TV: レディレディ!!
   // https://annict.com/works/9988
   { annict_id: 9988, mal_id: 2227 },
@@ -28810,7 +28810,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10109 },
   // [1988-AUTUMN] OVA: めぞん一刻 移りゆく季節の中で
   // https://annict.com/works/10110
-  { annict_id: 10110, mal_id: 3483 },
+  { annict_id: 10110, mal_id: 3483, syobocal_tid: 2677 },
   // [2022-SUMMER] TV: がんばれ！長州くん
   // https://annict.com/works/10111
   { annict_id: 10111, mal_id: 52815, syobocal_tid: 6464 },
@@ -29143,7 +29143,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10220, mal_id: 53540 },
   // [2023-SUMMER] MOVIE: 劇場版シティーハンター 天使の涙
   // https://annict.com/works/10221
-  { annict_id: 10221, mal_id: 51585 },
+  { annict_id: 10221, mal_id: 51585, syobocal_tid: 6801 },
   // [2012-null] MOVIE: コンシューミング・スピリッツ
   // https://annict.com/works/10222
   { annict_id: 10222 },
@@ -29548,7 +29548,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10356, syobocal_tid: 6593 },
   // [1996-WINTER] TV: シティーハンター ザ・シークレット・サービス
   // https://annict.com/works/10357
-  { annict_id: 10357, mal_id: 1477 },
+  { annict_id: 10357, mal_id: 1477, syobocal_tid: 5181 },
   // [1997-SPRING] TV: シティーハンター グッド・バイ・マイ・スイート・ハート
   // https://annict.com/works/10358
   { annict_id: 10358, mal_id: 1478 },
@@ -29557,13 +29557,13 @@ export const annict: ArmEntry[] = [
   { annict_id: 10359, mal_id: 1479 },
   // [1989-SPRING] MOVIE: シティーハンター 愛と宿命のマグナム
   // https://annict.com/works/10360
-  { annict_id: 10360, mal_id: 1474 },
+  { annict_id: 10360, mal_id: 1474, syobocal_tid: 4032 },
   // [1990-SUMMER] MOVIE: シティーハンター ベイシティウォーズ
   // https://annict.com/works/10361
-  { annict_id: 10361, mal_id: 1475 },
+  { annict_id: 10361, mal_id: 1475, syobocal_tid: 4033 },
   // [1990-SUMMER] MOVIE: シティーハンター 百万ドルの陰謀
   // https://annict.com/works/10362
-  { annict_id: 10362, mal_id: 1476 },
+  { annict_id: 10362, mal_id: 1476, syobocal_tid: 4034 },
   // [2012-AUTUMN] OVA: ラプンツェルのウェディング
   // https://annict.com/works/10363
   { annict_id: 10363 },
@@ -30418,7 +30418,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10649, mal_id: 14183 },
   // [1987-SUMMER] MOVIE: バリバリ伝説(劇場版)
   // https://annict.com/works/10650
-  { annict_id: 10650, mal_id: 12745 },
+  { annict_id: 10650, mal_id: 12745, syobocal_tid: 7153 },
   // [1987-AUTUMN] OVA: 真魔神伝 バトルロイヤルハイスクール
   // https://annict.com/works/10651
   { annict_id: 10651, mal_id: 3625 },
@@ -34744,7 +34744,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12094, mal_id: 12165 },
   // [1986-SUMMER] MOVIE: RUNNING BOY スター・ソルジャーの秘密
   // https://annict.com/works/12095
-  { annict_id: 12095, mal_id: 10653 },
+  { annict_id: 12095, mal_id: 10653, syobocal_tid: 326 },
   // [1989-AUTUMN] MOVIE: ギャラガ HYPER-PSYCHIC-GEO GARAGA
   // https://annict.com/works/12096
   { annict_id: 12096, mal_id: 1833 },
