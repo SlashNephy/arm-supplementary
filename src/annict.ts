@@ -688,7 +688,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 228, mal_id: 12887 },
   // [1980-SPRING] TV: 宇宙戦士バルディオス
   // https://annict.com/works/229
-  { annict_id: 229, mal_id: 1737 },
+  { annict_id: 229, mal_id: 1737, syobocal_tid: 7547 },
   // [1974-AUTUMN] TV: 宇宙戦艦ヤマト
   // https://annict.com/works/230
   { annict_id: 230, mal_id: 1650, syobocal_tid: 1265 },
@@ -6766,7 +6766,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2259, mal_id: 3008, syobocal_tid: 1324 },
   // [1981-WINTER] TV: ヤットデタマン
   // https://annict.com/works/2260
-  { annict_id: 2260, mal_id: 4154 },
+  { annict_id: 2260, mal_id: 4154, syobocal_tid: 4847 },
   // [1994-SPRING] TV: ヤマトタケル
   // https://annict.com/works/2261
   { annict_id: 2261, mal_id: 4773 },
@@ -16420,7 +16420,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5509, mal_id: 30751 },
   // [1981-AUTUMN] MOVIE: 劇場版 宇宙戦士バルディオス
   // https://annict.com/works/5510
-  { annict_id: 5510, mal_id: 4371 },
+  { annict_id: 5510, mal_id: 4371, syobocal_tid: 7548 },
   // [1992-AUTUMN] MOVIE: 美味しんぼ SP 究極対至高 長寿料理対決!!
   // https://annict.com/works/5511
   { annict_id: 5511, mal_id: 8848 },
@@ -26086,7 +26086,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9166, mal_id: 9087 },
   // [1983-SUMMER] MOVIE: ドキュメント 太陽の牙ダグラム
   // https://annict.com/works/9167
-  { annict_id: 9167, mal_id: 9972 },
+  { annict_id: 9167, mal_id: 9972, syobocal_tid: 4219 },
   // [1983-SUMMER] MOVIE: チョロQダグラム
   // https://annict.com/works/9168
   { annict_id: 9168, mal_id: 2258 },
@@ -28057,7 +28057,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9857, mal_id: 3129 },
   // [1980-SUMMER] TV: 怪物くん(1980年)
   // https://annict.com/works/9858
-  { annict_id: 9858, mal_id: 3130 },
+  { annict_id: 9858, mal_id: 3130, syobocal_tid: 4465 },
   // [1968-SUMMER] TV: 夕やけ番長
   // https://annict.com/works/9859
   { annict_id: 9859, mal_id: 12765 },
@@ -28270,7 +28270,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9928, mal_id: 3877 },
   // [1980-WINTER] TV: 宇宙大帝ゴッドシグマ
   // https://annict.com/works/9929
-  { annict_id: 9929, mal_id: 4183 },
+  { annict_id: 9929, mal_id: 4183, syobocal_tid: 4189 },
   // [1980-SPRING] TV: スーキャット
   // https://annict.com/works/9930
   { annict_id: 9930, mal_id: 9906 },
@@ -28297,7 +28297,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9937, mal_id: 4132 },
   // [1981-SPRING] TV: 名犬ジョリィ
   // https://annict.com/works/9938
-  { annict_id: 9938, mal_id: 3836 },
+  { annict_id: 9938, mal_id: 3836, syobocal_tid: 1616 },
   // [1981-SPRING] TV: フーセンのドラ太郎
   // https://annict.com/works/9939
   { annict_id: 9939, mal_id: 5594 },
@@ -28306,7 +28306,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9940, mal_id: 3873 },
   // [1982-WINTER] TV: タイムボカンシリーズ 逆転イッパツマン
   // https://annict.com/works/9941
-  { annict_id: 9941, mal_id: 8011 },
+  { annict_id: 9941, mal_id: 8011, syobocal_tid: 3788 },
   // [1982-WINTER] TV: 機甲艦隊ダイラガーXV
   // https://annict.com/works/9942
   { annict_id: 9942, mal_id: 3609 },
@@ -28996,7 +28996,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10171, mal_id: 37814 },
   // [1980-WINTER] MOVIE: 火の鳥2772 愛のコスモゾーン
   // https://annict.com/works/10172
-  { annict_id: 10172, mal_id: 2793 },
+  { annict_id: 10172, mal_id: 2793, syobocal_tid: 2927 },
   // [1985-WINTER] MOVIE: ボビーに首ったけ
   // https://annict.com/works/10173
   { annict_id: 10173, mal_id: 3120 },
@@ -32491,10 +32491,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 11340 },
   // [1980-WINTER] MOVIE: あしたのジョー 劇場版
   // https://annict.com/works/11341
-  { annict_id: 11341, mal_id: 2920 },
+  { annict_id: 11341, mal_id: 2920, syobocal_tid: 4814 },
   // [1981-SUMMER] MOVIE: あしたのジョー2 劇場版
   // https://annict.com/works/11342
-  { annict_id: 11342, mal_id: 2922 },
+  { annict_id: 11342, mal_id: 2922, syobocal_tid: 2399 },
   // [2023-AUTUMN] WEB: 猫猫のひとりごと
   // https://annict.com/works/11343
   { annict_id: 11343, mal_id: 56975 },
