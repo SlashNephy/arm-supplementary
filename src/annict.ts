@@ -889,7 +889,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 295, mal_id: 9883, syobocal_tid: 5037 },
   // [1991-WINTER] TV: おちゃめなふたご クレア学院物語
   // https://annict.com/works/296
-  { annict_id: 296, mal_id: 2570 },
+  { annict_id: 296, mal_id: 2570, syobocal_tid: 3085 },
   // [1982-SPRING] TV: おちゃめ神物語コロコロポロン
   // https://annict.com/works/297
   { annict_id: 297, mal_id: 3136 },
@@ -15556,7 +15556,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5217, mal_id: 35302, syobocal_tid: 4555 },
   // [1991-SUMMER] MOVIE: サイレントメビウス
   // https://annict.com/works/5218
-  { annict_id: 5218, mal_id: 2099 },
+  { annict_id: 5218, mal_id: 2099, syobocal_tid: 1573 },
   // [2017-SPRING] TV: ゴーちゃん。～モコとちんじゅうの森の仲間たち～
   // https://annict.com/works/5219
   { annict_id: 5219, mal_id: 34527 },
@@ -15607,7 +15607,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5234, mal_id: 35248, syobocal_tid: 4641 },
   // [1992-SUMMER] MOVIE: サイレントメビウス２
   // https://annict.com/works/5235
-  { annict_id: 5235, mal_id: 2100 },
+  { annict_id: 5235, mal_id: 2100, syobocal_tid: 1574 },
   // [2017-WINTER] OTHER: ちゃらんぽ島(ランド)の冒険
   // https://annict.com/works/5236
   { annict_id: 5236, mal_id: 33388 },
@@ -47630,7 +47630,7 @@ export const annict: ArmEntry[] = [
   // [2027-null] OTHER: ポケモンテイルズ ネギガナイトとピチューの冒険
   // https://annict.com/works/16406
   { annict_id: 16406 },
-  // [null-null] MOVIE: TAMALA 2030 -a punk cat in dark-
+  // [null-null] MOVIE: TAMALA2030 a punk cat in dark
   // https://annict.com/works/16407
   { annict_id: 16407, mal_id: 61699 },
   // [2025-SPRING] MOVIE: シナぷしゅ THE MOVIE ぷしゅほっぺダンシングPARTY
