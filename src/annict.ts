@@ -433,7 +433,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 143, mal_id: 3731, syobocal_tid: 1369 },
   // [1983-SPRING] TV: イタダキマン
   // https://annict.com/works/144
-  { annict_id: 144, mal_id: 5344 },
+  { annict_id: 144, mal_id: 5344, syobocal_tid: 4952 },
   // [1999-AUTUMN] TV: イッパツ危機娘
   // https://annict.com/works/145
   { annict_id: 145, mal_id: 1057 },
@@ -3082,7 +3082,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1028, mal_id: 17821, syobocal_tid: 3041 },
   // [1983-SPRING] TV: ストップ!!ひばりくん！
   // https://annict.com/works/1029
-  { annict_id: 1029, mal_id: 3332 },
+  { annict_id: 1029, mal_id: 3332, syobocal_tid: 7377 },
   // [2008-SUMMER] TV: ストライクウィッチーズ
   // https://annict.com/works/1030
   { annict_id: 1030, mal_id: 3667, syobocal_tid: 1426 },
@@ -8272,7 +8272,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2766, mal_id: 938, syobocal_tid: 1381 },
   // [2007-WINTER] OVA: 真救世主伝説 北斗の拳 ユリア伝
   // https://annict.com/works/2767
-  { annict_id: 2767, mal_id: 3027 },
+  { annict_id: 2767, mal_id: 3027, syobocal_tid: 1162 },
   // [1995-SPRING] OVA: 神秘の世界エルハザード（OVA）
   // https://annict.com/works/2768
   { annict_id: 2768, mal_id: 117, syobocal_tid: 3670 },
@@ -9172,7 +9172,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3069, mal_id: 1071 },
   // [1985-WINTER] OVA: メガゾーン23（OVA）
   // https://annict.com/works/3070
-  { annict_id: 3070, mal_id: 1935 },
+  { annict_id: 3070, mal_id: 1935, syobocal_tid: 4471 },
   // [1999-SPRING] OVA: メルティランサー　The Animation
   // https://annict.com/works/3071
   { annict_id: 3071, mal_id: 1155 },
@@ -9661,7 +9661,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3232, mal_id: 7472, syobocal_tid: 2186 },
   // [2005-AUTUMN] MOVIE: 機動戦士ZガンダムII−恋人たち−
   // https://annict.com/works/3234
-  { annict_id: 3234, mal_id: 1968 },
+  { annict_id: 3234, mal_id: 1968, syobocal_tid: 862 },
   // [2005-SPRING] MOVIE: 機動戦士Zガンダム 星を継ぐ者
   // https://annict.com/works/3235
   { annict_id: 3235, mal_id: 1967, syobocal_tid: 861 },
@@ -9994,10 +9994,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 3344, mal_id: 617, syobocal_tid: 3582 },
   // [2006-WINTER] MOVIE: 真救世主伝説 北斗の拳 ラオウ伝 殉愛の章
   // https://annict.com/works/3345
-  { annict_id: 3345, mal_id: 1773 },
+  { annict_id: 3345, mal_id: 1773, syobocal_tid: 1162 },
   // [2007-SPRING] MOVIE: 真救世主伝説 北斗の拳 ラオウ伝 激闘の章
   // https://annict.com/works/3346
-  { annict_id: 3346, mal_id: 2174 },
+  { annict_id: 3346, mal_id: 2174, syobocal_tid: 1162 },
   // [2012-AUTUMN] MOVIE: 神秘の法
   // https://annict.com/works/3347
   { annict_id: 3347, mal_id: 13439 },
@@ -11104,10 +11104,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 3714, mal_id: 1935 },
   // [1986-SPRING] MOVIE: メガゾーン23 PART II 秘密く・だ・さ・い
   // https://annict.com/works/3715
-  { annict_id: 3715, syobocal_tid: 4472 },
+  { annict_id: 3715, mal_id: 1935, syobocal_tid: 4472 },
   // [1989-SUMMER] MOVIE: MEGAZONE23 III
   // https://annict.com/works/3716
-  { annict_id: 3716 },
+  { annict_id: 3716, mal_id: 1935, syobocal_tid: 4473 },
   // [2001-SPRING] MOVIE: メトロポリス
   // https://annict.com/works/3717
   { annict_id: 3717, mal_id: 522, syobocal_tid: 344 },
@@ -11173,7 +11173,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3737, mal_id: 1367 },
   // [1984-WINTER] MOVIE: 劇場版 名探偵ホームズ 青い紅玉の巻/海底の財宝の巻
   // https://annict.com/works/3738
-  { annict_id: 3738, mal_id: 15347 },
+  { annict_id: 3738, mal_id: 15347, syobocal_tid: 1825 },
   // [2001-SUMMER] MOVIE: 映画 も〜っと! おジャ魔女どれみ カエル石のひみつ
   // https://annict.com/works/3739
   { annict_id: 3739, mal_id: 2948 },
@@ -18997,13 +18997,13 @@ export const annict: ArmEntry[] = [
   { annict_id: 6376, mal_id: 12441 },
   // [1986-WINTER] OVA: 装甲騎兵ボトムズ ウド
   // https://annict.com/works/6377
-  { annict_id: 6377 },
+  { annict_id: 6377, mal_id: 12337, syobocal_tid: 800 },
   // [1988-WINTER] OVA: 装甲騎兵ボトムズ クエント
   // https://annict.com/works/6378
-  { annict_id: 6378 },
+  { annict_id: 6378, mal_id: 12337, syobocal_tid: 800 },
   // [1986-SPRING] OVA: 装甲騎兵ボトムズ クメン
   // https://annict.com/works/6379
-  { annict_id: 6379 },
+  { annict_id: 6379, mal_id: 12337, syobocal_tid: 800 },
   // [2011-SPRING] OVA: 装甲騎兵ボトムズ 孤影再び
   // https://annict.com/works/6380
   { annict_id: 6380, mal_id: 8250, syobocal_tid: 2314 },
@@ -19012,7 +19012,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6381, mal_id: 2583, syobocal_tid: 2308 },
   // [1988-WINTER] OVA: 装甲騎兵ボトムズ サンサ
   // https://annict.com/works/6382
-  { annict_id: 6382 },
+  { annict_id: 6382, mal_id: 12337, syobocal_tid: 800 },
   // [1986-SUMMER] OVA: 装甲騎兵ボトムズ ビッグバトル
   // https://annict.com/works/6383
   { annict_id: 6383, mal_id: 2584, syobocal_tid: 2309 },
@@ -22189,7 +22189,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 7674, mal_id: 42923, syobocal_tid: 5866 },
   // [2021-SUMMER] MOVIE: 映画 さよなら私のクラマー ファーストタッチ
   // https://annict.com/works/7675
-  { annict_id: 7675, mal_id: 42798 },
+  { annict_id: 7675, mal_id: 42798, syobocal_tid: 6258 },
   // [2021-WINTER] TV: 怪病医ラムネ
   // https://annict.com/works/7676
   { annict_id: 7676, mal_id: 42822, syobocal_tid: 5870 },
@@ -24610,7 +24610,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 8576, mal_id: 10751, syobocal_tid: 4020 },
   // [1988-WINTER] OVA: 聖戦士ダンバイン 総集編
   // https://annict.com/works/8577
-  { annict_id: 8577, mal_id: 20975 },
+  { annict_id: 8577, mal_id: 20975, syobocal_tid: 6050 },
   // [1986-SUMMER] OVA: 蒼き流星SPTレイズナー ACT-I 「エイジ1996」
   // https://annict.com/works/8578
   { annict_id: 8578, mal_id: 5755, syobocal_tid: 3417 },
@@ -25222,16 +25222,16 @@ export const annict: ArmEntry[] = [
   { annict_id: 8813 },
   // [1984-AUTUMN] OVA: 銀河漂流バイファム カチュアからの便り
   // https://annict.com/works/8814
-  { annict_id: 8814, mal_id: 9387 },
+  { annict_id: 8814, mal_id: 9387, syobocal_tid: 2900 },
   // [1984-AUTUMN] OVA: 銀河漂流バイファム 集まった13人
   // https://annict.com/works/8815
-  { annict_id: 8815, mal_id: 9387 },
+  { annict_id: 8815, mal_id: 9387, syobocal_tid: 2900 },
   // [1985-WINTER] OVA: 銀河漂流バイファム 消えた12人
   // https://annict.com/works/8816
-  { annict_id: 8816, mal_id: 9389 },
+  { annict_id: 8816, mal_id: 9389, syobocal_tid: 2900 },
   // [1985-SUMMER] OVA: 銀河漂流バイファム “ケイトの記憶”  涙の奪回作戦!!
   // https://annict.com/works/8817
-  { annict_id: 8817, mal_id: 9390 },
+  { annict_id: 8817, mal_id: 9390, syobocal_tid: 2900 },
   // [1986-SPRING] OVA: 超獣機神ダンクーガ 失われた者たちへの鎮魂歌
   // https://annict.com/works/8818
   { annict_id: 8818, mal_id: 2256 },
@@ -26089,7 +26089,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9167, mal_id: 9972, syobocal_tid: 4219 },
   // [1983-SUMMER] MOVIE: チョロQダグラム
   // https://annict.com/works/9168
-  { annict_id: 9168, mal_id: 2258 },
+  { annict_id: 9168, mal_id: 2258, syobocal_tid: 4220 },
   // [2021-AUTUMN] WEB: コンドームバトラー ゴロー Revive
   // https://annict.com/works/9169
   { annict_id: 9169 },
@@ -28336,7 +28336,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9950, mal_id: 23973 },
   // [1983-WINTER] TV: 光速電神アルベガス
   // https://annict.com/works/9951
-  { annict_id: 9951, mal_id: 5891 },
+  { annict_id: 9951, mal_id: 5891, syobocal_tid: 4374 },
   // [1983-SPRING] TV: ミームいろいろ夢の旅
   // https://annict.com/works/9952
   { annict_id: 9952, mal_id: 3436 },
@@ -28345,7 +28345,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9953, mal_id: 3201 },
   // [1983-AUTUMN] TV: まんがイソップ物語
   // https://annict.com/works/9954
-  { annict_id: 9954, mal_id: 3180 },
+  { annict_id: 9954, mal_id: 3180, syobocal_tid: 1569 },
   // [1983-AUTUMN] TV: キャプテン翼(1983年)
   // https://annict.com/works/9955
   { annict_id: 9955, mal_id: 2116 },
@@ -28921,7 +28921,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10146, mal_id: 40377 },
   // [1982-SUMMER] MOVIE: スペースアドベンチャー コブラ
   // https://annict.com/works/10147
-  { annict_id: 10147, mal_id: 2452 },
+  { annict_id: 10147, mal_id: 2452, syobocal_tid: 2398 },
   // [2014-SPRING] MOVIE: イナズマイレブン 超次元ドリームマッチ
   // https://annict.com/works/10148
   { annict_id: 10148, mal_id: 24347 },
@@ -31327,10 +31327,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 10952, mal_id: 9344 },
   // [1989-WINTER] OVA: クラッシャージョウ 氷結監獄の罠
   // https://annict.com/works/10953
-  { annict_id: 10953, mal_id: 2696 },
+  { annict_id: 10953, mal_id: 2696, syobocal_tid: 3990 },
   // [1989-SPRING] OVA: クラッシャージョウ 最終兵器アッシュ
   // https://annict.com/works/10954
-  { annict_id: 10954, mal_id: 2696 },
+  { annict_id: 10954, mal_id: 2696, syobocal_tid: 3990 },
   // [1993-AUTUMN] OVA: その気にさせてよmyマイ舞
   // https://annict.com/works/10955
   { annict_id: 10955, mal_id: 3095 },
@@ -34135,10 +34135,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 11890, mal_id: 33980 },
   // [1984-AUTUMN] OVA: 魔法の天使クリィミーマミ 永遠のワンスモア
   // https://annict.com/works/11891
-  { annict_id: 11891, mal_id: 2045 },
+  { annict_id: 11891, mal_id: 2045, syobocal_tid: 4476 },
   // [1985-SPRING] OVA: 魔法の天使クリィミーマミ ロング・グッドバイ
   // https://annict.com/works/11892
-  { annict_id: 11892, mal_id: 2046 },
+  { annict_id: 11892, mal_id: 2046, syobocal_tid: 4480 },
   // [1985-AUTUMN] MOVIE: きまぐれオレンジ☆ロード(少年ジャンプスペシャルアニメ版)
   // https://annict.com/works/11893
   { annict_id: 11893, mal_id: 3394 },
@@ -34966,10 +34966,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 12169, mal_id: 8966 },
   // [2008-WINTER] OVA: 真救世主伝説 北斗の拳 トキ伝
   // https://annict.com/works/12170
-  { annict_id: 12170, mal_id: 4312 },
+  { annict_id: 12170, mal_id: 4312, syobocal_tid: 1162 },
   // [2008-AUTUMN] MOVIE: 真救世主伝説 北斗の拳 ZERO ケンシロウ伝
   // https://annict.com/works/12171
-  { annict_id: 12171, mal_id: 5291 },
+  { annict_id: 12171, mal_id: 5291, syobocal_tid: 1162 },
   // [2012-WINTER] OVA: ルパン一家勢揃い
   // https://annict.com/works/12172
   { annict_id: 12172, mal_id: 13247 },
@@ -41635,10 +41635,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 14403 },
   // [1985-WINTER] OVA: 魔法の天使クリィミーマミ ラブリーセレナーデ
   // https://annict.com/works/14404
-  { annict_id: 14404, mal_id: 4126 },
+  { annict_id: 14404, mal_id: 4126, syobocal_tid: 4477 },
   // [1986-WINTER] OVA: クリィミーマミ ソングスペシャル2 カーテンコール
   // https://annict.com/works/14405
-  { annict_id: 14405, mal_id: 4129 },
+  { annict_id: 14405, mal_id: 4129, syobocal_tid: 4481 },
   // [2013-AUTUMN] MOVIE: 十五少年漂流記 海賊島DE！大冒険
   // https://annict.com/works/14406
   { annict_id: 14406, mal_id: 21021 },
