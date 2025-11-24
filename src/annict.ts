@@ -526,7 +526,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 174, mal_id: 185, syobocal_tid: 2296 },
   // [2012-AUTUMN] TV: 頭文字D Fifth Stage
   // https://annict.com/works/175
-  { annict_id: 175, mal_id: 15059 },
+  { annict_id: 175, mal_id: 15059, syobocal_tid: 6955 },
   // [2004-SPRING] TV: 頭文字D Fourth Stage
   // https://annict.com/works/176
   { annict_id: 176, mal_id: 18, syobocal_tid: 397 },
@@ -826,7 +826,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 274, mal_id: 226, syobocal_tid: 392 },
   // [1997-AUTUMN] OVA: エルフ版下級生　あなただけを見つめて…
   // https://annict.com/works/275
-  { annict_id: 275, mal_id: 661 },
+  { annict_id: 275, mal_id: 661, syobocal_tid: 4759 },
   // [2007-SPRING] TV: エル・カザド -EL CAZADOR DE LA BRUJA-
   // https://annict.com/works/276
   { annict_id: 276, mal_id: 2030, syobocal_tid: 1137 },
@@ -3247,7 +3247,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1083, mal_id: 5277, syobocal_tid: 1958 },
   // [1998-WINTER] TV: セクシーコマンドー外伝 すごいよ!!マサルさん
   // https://annict.com/works/1084
-  { annict_id: 1084, mal_id: 582 },
+  { annict_id: 1084, mal_id: 582, syobocal_tid: 6530 },
   // [1999-AUTUMN] TV: セラフィムコール
   // https://annict.com/works/1085
   { annict_id: 1085, mal_id: 2245 },
@@ -4216,7 +4216,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1406, mal_id: 9493, syobocal_tid: 2119 },
   // [1997-AUTUMN] TV: ドクタースランプ
   // https://annict.com/works/1407
-  { annict_id: 1407, mal_id: 3312 },
+  { annict_id: 1407, mal_id: 3312, syobocal_tid: 4826 },
   // [1981-SPRING] TV: Dr.スランプ アラレちゃん
   // https://annict.com/works/1408
   { annict_id: 1408, mal_id: 2222, syobocal_tid: 1617 },
@@ -8908,7 +8908,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2981, mal_id: 9665 },
   // [1997-SPRING] OVA: ぶっとび!!CPU
   // https://annict.com/works/2982
-  { annict_id: 2982, mal_id: 458 },
+  { annict_id: 2982, mal_id: 458, syobocal_tid: 7498 },
   // [2001-WINTER] OVA: ハイパー無軌道 オリジナル ビデオ アニメーション ぷにぷに☆ぽえみぃ
   // https://annict.com/works/2983
   { annict_id: 2983, mal_id: 564, syobocal_tid: 533 },
@@ -9889,7 +9889,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3309, mal_id: 10090 },
   // [2013-SUMMER] MOVIE: 攻殻機動隊ARISE -GHOST IN THE SHELL-
   // https://annict.com/works/3310
-  { annict_id: 3310, mal_id: 17187 },
+  { annict_id: 3310, mal_id: 17187, syobocal_tid: 3210 },
   // [2010-SUMMER] MOVIE: 昆虫物語 みつばちハッチ～勇気のメロディ～
   // https://annict.com/works/3311
   { annict_id: 3311, mal_id: 8141 },
@@ -10384,7 +10384,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3474, mal_id: 10005, syobocal_tid: 1220 },
   // [2010-SPRING] MOVIE: TRIGUN -Badlands Rumble-
   // https://annict.com/works/3475
-  { annict_id: 3475, mal_id: 4106 },
+  { annict_id: 3475, mal_id: 4106, syobocal_tid: 6053 },
   // [2011-AUTUMN] MOVIE: とある飛空士への追憶
   // https://annict.com/works/3476
   { annict_id: 3476, mal_id: 9000, syobocal_tid: 2879 },
@@ -10906,7 +10906,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3648, mal_id: 3868 },
   // [2012-WINTER] MOVIE: ベルセルク 黄金時代篇Ⅰ 覇王の卵
   // https://annict.com/works/3649
-  { annict_id: 3649, mal_id: 10218 },
+  { annict_id: 3649, mal_id: 10218, syobocal_tid: 2611 },
   // [2009-SUMMER] MOVIE: 劇場版 ペンギンの問題 幸せの青い鳥でごペンなさい
   // https://annict.com/works/3650
   { annict_id: 3650, mal_id: 6063 },
@@ -10948,7 +10948,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3662, mal_id: 1119 },
   // [2009-SUMMER] MOVIE: 劇場版ポケットモンスター ダイヤモンド&パール アルセウス 超克の時空へ
   // https://annict.com/works/3663
-  { annict_id: 3663, mal_id: 6178 },
+  { annict_id: 3663, mal_id: 6178, syobocal_tid: 1989 },
   // [2008-SUMMER] MOVIE: 劇場版ポケットモンスター ダイヤモンド&パール ギラティナと氷空の花束 シェイミ
   // https://annict.com/works/3664
   { annict_id: 3664, mal_id: 4026 },
@@ -10966,7 +10966,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3668, mal_id: 5526 },
   // [1998-SUMMER] MOVIE: 劇場版ポケットモンスター ミュウツーの逆襲
   // https://annict.com/works/3669
-  { annict_id: 3669, mal_id: 528 },
+  { annict_id: 3669, mal_id: 528, syobocal_tid: 1862 },
   // [1999-SUMMER] MOVIE: 劇場版ポケットモンスター 幻のポケモン ルギア爆誕
   // https://annict.com/works/3670
   { annict_id: 3670, mal_id: 1117, syobocal_tid: 1863 },
@@ -11572,7 +11572,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3872, mal_id: 5930 },
   // [1992-AUTUMN] OVA: 万能文化猫娘 OVA
   // https://annict.com/works/3873
-  { annict_id: 3873, mal_id: 373 },
+  { annict_id: 3873, mal_id: 373, syobocal_tid: 4090 },
   // [1998-SUMMER] OVA: 万能文化猫娘DASH!
   // https://annict.com/works/3874
   { annict_id: 3874, mal_id: 374, syobocal_tid: 3289 },
@@ -12415,7 +12415,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 4156, mal_id: 24699, syobocal_tid: 3536 },
   // [2014-SUMMER] MOVIE: 新劇場版 頭文字D Legend1 -覚醒-
   // https://annict.com/works/4157
-  { annict_id: 4157, mal_id: 19613 },
+  { annict_id: 4157, mal_id: 19613, syobocal_tid: 6782 },
   // [2014-AUTUMN] TV: 棺姫のチャイカ AVENGING BATTLE
   // https://annict.com/works/4158
   { annict_id: 4158, mal_id: 24231, syobocal_tid: 3504 },
@@ -13801,10 +13801,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 4628, mal_id: 31866 },
   // [2016-WINTER] MOVIE: 新劇場版 頭文字D Legend3 -夢現-
   // https://annict.com/works/4629
-  { annict_id: 4629, mal_id: 30952 },
+  { annict_id: 4629, mal_id: 30952, syobocal_tid: 6782 },
   // [2015-SPRING] MOVIE: 新劇場版 頭文字D Legend2 -闘走-
   // https://annict.com/works/4630
-  { annict_id: 4630, mal_id: 28881 },
+  { annict_id: 4630, mal_id: 28881, syobocal_tid: 6782 },
   // [2016-WINTER] OVA: クイーンズブレイド グリムワール
   // https://annict.com/works/4631
   { annict_id: 4631, mal_id: 30679 },
@@ -15883,7 +15883,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5328 },
   // [2008-SUMMER] MOVIE: GHOST IN THE SHELL / 攻殻機動隊2.0
   // https://annict.com/works/5329
-  { annict_id: 5329, mal_id: 4672 },
+  { annict_id: 5329, mal_id: 4672, syobocal_tid: 1713 },
   // [2017-SUMMER] TV: 縁結びの妖狐ちゃん
   // https://annict.com/works/5330
   { annict_id: 5330, mal_id: 31499, syobocal_tid: 4647 },
@@ -21217,7 +21217,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 7252, mal_id: 41025, syobocal_tid: 5955 },
   // [2020-AUTUMN] MOVIE: 劇場版ポケットモンスター ココ
   // https://annict.com/works/7253
-  { annict_id: 7253, mal_id: 40881 },
+  { annict_id: 7253, mal_id: 40881, syobocal_tid: 6528 },
   // [2019-AUTUMN] TV: それいけ！アンパンマン クリスマススペシャル サンタになったちびおおかみくん
   // https://annict.com/works/7254
   { annict_id: 7254, mal_id: 60439 },
@@ -24301,7 +24301,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 8473, mal_id: 7786 },
   // [2012-WINTER] OVA: るろうに剣心-明治剣客浪漫譚- 新京都編
   // https://annict.com/works/8474
-  { annict_id: 8474, mal_id: 11441 },
+  { annict_id: 8474, mal_id: 11441, syobocal_tid: 2579 },
   // [2019-SUMMER] WEB: 永遠に12才!
   // https://annict.com/works/8475
   { annict_id: 8475 },
@@ -28687,13 +28687,13 @@ export const annict: ArmEntry[] = [
   { annict_id: 10067, mal_id: 52955, syobocal_tid: 6625 },
   // [1995-AUTUMN] OVA: 沈黙の艦隊
   // https://annict.com/works/10068
-  { annict_id: 10068, mal_id: 2881 },
+  { annict_id: 10068, mal_id: 2881, syobocal_tid: 7612 },
   // [1997-SUMMER] OVA: 沈黙の艦隊 VOYAGE 2
   // https://annict.com/works/10069
-  { annict_id: 10069, mal_id: 2881 },
+  { annict_id: 10069, mal_id: 2881, syobocal_tid: 7624 },
   // [1998-WINTER] OVA: 沈黙の艦隊 VOYAGE 3
   // https://annict.com/works/10070
-  { annict_id: 10070, mal_id: 2881 },
+  { annict_id: 10070, mal_id: 2881, syobocal_tid: 7625 },
   // [2023-AUTUMN] TV: ティアムーン帝国物語～断頭台から始まる、姫の転生逆転ストーリー～
   // https://annict.com/works/10071
   { annict_id: 10071, mal_id: 52962, syobocal_tid: 6826 },
@@ -31852,7 +31852,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11127, mal_id: 56647, syobocal_tid: 7259 },
   // [1998-SPRING] TV: 新YAT安心！宇宙旅行
   // https://annict.com/works/11128
-  { annict_id: 11128, mal_id: 1892 },
+  { annict_id: 11128, mal_id: 1892, syobocal_tid: 3606 },
   // [1996-SUMMER] OVA: 影技 -SHADOW SKILL-(OVA2期)
   // https://annict.com/works/11129
   { annict_id: 11129, mal_id: 679 },
@@ -34276,7 +34276,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11937, mal_id: 1269 },
   // [1997-WINTER] OVA: ヴァンパイアハンター The Animated Series
   // https://annict.com/works/11938
-  { annict_id: 11938, mal_id: 1952 },
+  { annict_id: 11938, mal_id: 1952, syobocal_tid: 7455 },
   // [2002-WINTER] OVA: TRAVA FIST PLANET
   // https://annict.com/works/11939
   { annict_id: 11939, mal_id: 1980 },
@@ -34879,7 +34879,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12140, mal_id: 1855 },
   // [1996-AUTUMN] OVA: 元祖 爆れつハンター
   // https://annict.com/works/12141
-  { annict_id: 12141, mal_id: 808 },
+  { annict_id: 12141, mal_id: 808, syobocal_tid: 5677 },
   // [1998-WINTER] OVA: 魔界転生
   // https://annict.com/works/12142
   { annict_id: 12142, mal_id: 1455 },
@@ -48601,5 +48601,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 16733, mal_id: 62989 },
   // [2026-SUMMER] MOVIE: 映画ちいかわ 人魚の島のひみつ
   // https://annict.com/works/16734
-  { annict_id: 16734 },
+  { annict_id: 16734, mal_id: 63011 },
 ]
