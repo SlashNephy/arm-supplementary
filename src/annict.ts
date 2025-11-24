@@ -2356,7 +2356,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 785, mal_id: 554, syobocal_tid: 307 },
   // [2001-SPRING] TV: 鋼鉄天使くるみ2式
   // https://annict.com/works/786
-  { annict_id: 786, mal_id: 555 },
+  { annict_id: 786, mal_id: 555, syobocal_tid: 308 },
   // [2007-SPRING] TV: 鋼鉄神ジーグ
   // https://annict.com/works/787
   { annict_id: 787, mal_id: 2157, syobocal_tid: 1135 },
@@ -3457,7 +3457,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1153, mal_id: 1746, syobocal_tid: 489 },
   // [2001-WINTER] TV: ZOIDS 新世紀/ZERO
   // https://annict.com/works/1154
-  { annict_id: 1154, mal_id: 764 },
+  { annict_id: 1154, mal_id: 764, syobocal_tid: 4247 },
   // [2007-SUMMER] TV: ZOMBIE-LOAN
   // https://annict.com/works/1155
   { annict_id: 1155, mal_id: 2404, syobocal_tid: 1172 },
@@ -5236,7 +5236,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1747, mal_id: 2789, syobocal_tid: 519 },
   // [2005-WINTER] TV: B-伝説！バトルビーダマン 炎魂
   // https://annict.com/works/1748
-  { annict_id: 1748, mal_id: 4667 },
+  { annict_id: 1748, mal_id: 4667, syobocal_tid: 560 },
   // [1995-SPRING] TV: ビット・ザ・キューピッド
   // https://annict.com/works/1749
   { annict_id: 1749, mal_id: 9812 },
@@ -8116,7 +8116,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2712, mal_id: 6229 },
   // [2001-SPRING] OVA: 鋼鉄天使くるみ零
   // https://annict.com/works/2713
-  { annict_id: 2713, mal_id: 556 },
+  { annict_id: 2713, mal_id: 556, syobocal_tid: 313 },
   // [2002-WINTER] OVA: 高校鉄拳伝タフ
   // https://annict.com/works/2714
   { annict_id: 2714, mal_id: 2797 },
@@ -8530,7 +8530,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2853, mal_id: 2267, syobocal_tid: 1211 },
   // [2000-SUMMER] OVA: 伝心 まもって守護月天！
   // https://annict.com/works/2854
-  { annict_id: 2854, mal_id: 660 },
+  { annict_id: 2854, mal_id: 660, syobocal_tid: 6437 },
   // [2004-SPRING] OVA: 低俗霊DAYDREAM
   // https://annict.com/works/2855
   { annict_id: 2855, mal_id: 1500, syobocal_tid: 1509 },
@@ -8602,7 +8602,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2878, mal_id: 5955 },
   // [1999-SPRING] OVA: ときめきメモリアル
   // https://annict.com/works/2879
-  { annict_id: 2879, mal_id: 2179 },
+  { annict_id: 2879, mal_id: 2179, syobocal_tid: 1870 },
   // [2009-WINTER] OVA: とらドラSOS！食いしん坊万々歳
   // https://annict.com/works/2880
   { annict_id: 2880, mal_id: 6127 },
@@ -26977,13 +26977,13 @@ export const annict: ArmEntry[] = [
   { annict_id: 9496, mal_id: 51243 },
   // [2001-SUMMER] TV: 星界の戦旗II
   // https://annict.com/works/9497
-  { annict_id: 9497, mal_id: 397 },
+  { annict_id: 9497, mal_id: 397, syobocal_tid: 1452 },
   // [2005-SUMMER] OVA: 星界の戦旗II 特別篇
   // https://annict.com/works/9498
   { annict_id: 9498, mal_id: 39333 },
   // [2005-SUMMER] OVA: 星界の戦旗III
   // https://annict.com/works/9499
-  { annict_id: 9499, mal_id: 398 },
+  { annict_id: 9499, mal_id: 398, syobocal_tid: 1526 },
   // [2003-AUTUMN] TV: 絶体絶命でんぢゃらすじーさん（第1期）
   // https://annict.com/works/9500
   { annict_id: 9500, mal_id: 23313 },
@@ -30013,7 +30013,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10513, mal_id: 1553 },
   // [1999-WINTER] OVA: ハーロック・サーガ ニーベルングの指環
   // https://annict.com/works/10514
-  { annict_id: 10514, mal_id: 1645 },
+  { annict_id: 10514, mal_id: 1645, syobocal_tid: 2501 },
   // [2002-SUMMER] OVA: ヤングハーロックを追え! コスモウォーリアー零外伝
   // https://annict.com/works/10515
   { annict_id: 10515, mal_id: 1677 },
@@ -32416,7 +32416,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11315 },
   // [2000-SUMMER] OVA: A KITE INTERNATIONAL VERSION
   // https://annict.com/works/11316
-  { annict_id: 11316 },
+  { annict_id: 11316, syobocal_tid: 5305 },
   // [1987-AUTUMN] OVA: 夢幻戦士ヴァリス
   // https://annict.com/works/11317
   { annict_id: 11317, mal_id: 22943 },
