@@ -48599,4 +48599,7 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 描くなるうえは
   // https://annict.com/works/16733
   { annict_id: 16733, mal_id: 62989 },
+  // [2026-SUMMER] MOVIE: 映画ちいかわ 人魚の島のひみつ
+  // https://annict.com/works/16734
+  { annict_id: 16734 },
 ]
