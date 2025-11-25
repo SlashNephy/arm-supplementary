@@ -568,7 +568,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 188, mal_id: 1718, syobocal_tid: 1067 },
   // [2002-SUMMER] TV: Witch Hunter ROBIN
   // https://annict.com/works/189
-  { annict_id: 189, mal_id: 7 },
+  { annict_id: 189, mal_id: 7, syobocal_tid: 1390 },
   // [2003-WINTER] TV: WOLF'S RAIN
   // https://annict.com/works/190
   { annict_id: 190, mal_id: 202, syobocal_tid: 7 },
@@ -2560,7 +2560,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 853, mal_id: 10578, syobocal_tid: 2274 },
   // [2002-SUMMER] TV: G-on らいだーす
   // https://annict.com/works/854
-  { annict_id: 854, mal_id: 1623 },
+  { annict_id: 854, mal_id: 1623, syobocal_tid: 7278 },
   // [2000-AUTUMN] TV: G-SAVIOUR
   // https://annict.com/works/855
   { annict_id: 855 },
@@ -35086,10 +35086,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 12210, mal_id: 1129 },
   // [2005-SPRING] OVA: 円盤皇女ワるきゅーレ 星霊節の花嫁
   // https://annict.com/works/12211
-  { annict_id: 12211, mal_id: 1514 },
+  { annict_id: 12211, mal_id: 1514, syobocal_tid: 677 },
   // [2006-SUMMER] OVA: 円盤皇女ワるきゅーレ 時と夢と銀河の宴
   // https://annict.com/works/12212
-  { annict_id: 12212, mal_id: 1648 },
+  { annict_id: 12212, mal_id: 1648, syobocal_tid: 969 },
   // [2005-AUTUMN] OVA: パパとKISS IN THE DARK
   // https://annict.com/works/12213
   { annict_id: 12213, mal_id: 746 },
