@@ -5818,7 +5818,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1941, mal_id: 326 },
   // [1999-AUTUMN] TV: へっぽこ実験アニメーション エクセル・サーガ
   // https://annict.com/works/1942
-  { annict_id: 1942, mal_id: 379 },
+  { annict_id: 1942, mal_id: 379, syobocal_tid: 7069 },
   // [2000-SPRING] TV: へろへろくん
   // https://annict.com/works/1943
   { annict_id: 1943, mal_id: 11203 },
@@ -7633,7 +7633,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2549, mal_id: 15933 },
   // [2001-AUTUMN] OVA: うさぎちゃんでCue!!
   // https://annict.com/works/2550
-  { annict_id: 2550, mal_id: 991 },
+  { annict_id: 2550, mal_id: 991, syobocal_tid: 6420 },
   // [1992-SUMMER] OVA: うしおととら
   // https://annict.com/works/2551
   { annict_id: 2551, mal_id: 842, syobocal_tid: 1702 },
@@ -11293,7 +11293,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3778, mal_id: 2000, syobocal_tid: 3525 },
   // [2000-WINTER] MOVIE: ONE PIECE 劇場版
   // https://annict.com/works/3779
-  { annict_id: 3779, mal_id: 459 },
+  { annict_id: 3779, mal_id: 459, syobocal_tid: 696 },
   // [2009-AUTUMN] MOVIE: ONE PIECE FILM STRONG WORLD
   // https://annict.com/works/3780
   { annict_id: 3780, mal_id: 4155, syobocal_tid: 2090 },
@@ -20887,7 +20887,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 7141, mal_id: 37902 },
   // [2013-SUMMER] TV: ONE PIECE エピソードオブメリー 〜もうひとりの仲間の物語〜
   // https://annict.com/works/7142
-  { annict_id: 7142, mal_id: 19123 },
+  { annict_id: 7142, mal_id: 19123, syobocal_tid: 3641 },
   // [1979-SUMMER] MOVIE: 劇場版 未来少年コナン
   // https://annict.com/works/7143
   { annict_id: 7143, mal_id: 7308, syobocal_tid: 782 },
