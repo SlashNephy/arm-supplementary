@@ -8806,7 +8806,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2946, mal_id: 1907 },
   // [2003-WINTER] OVA: 遙かなる時空の中で２ ～白き龍の神子～
   // https://annict.com/works/2947
-  { annict_id: 2947, mal_id: 1904 },
+  { annict_id: 2947, mal_id: 1904, syobocal_tid: 1103 },
   // [2002-WINTER] OVA: 遙かなる時空の中で～紫陽花ゆめ語り～
   // https://annict.com/works/2948
   { annict_id: 2948, mal_id: 647, syobocal_tid: 509 },
@@ -35005,10 +35005,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 12182, mal_id: 454 },
   // [2007-WINTER] OVA: .hack//G.U. Returner
   // https://annict.com/works/12183
-  { annict_id: 12183, mal_id: 2928 },
+  { annict_id: 12183, mal_id: 2928, syobocal_tid: 1784 },
   // [2008-WINTER] OVA: .hack//G.U. TRILOGY
   // https://annict.com/works/12184
-  { annict_id: 12184, mal_id: 3269 },
+  { annict_id: 12184, mal_id: 3269, syobocal_tid: 1783 },
   // [2007-WINTER] OVA: 爆裂天使-INFINITY-
   // https://annict.com/works/12185
   { annict_id: 12185, mal_id: 2205 },
