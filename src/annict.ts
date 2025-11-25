@@ -8518,10 +8518,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 2848, mal_id: 995, syobocal_tid: 1840 },
   // [2008-SPRING] OVA: テニスの王子様 Original Video Animation 全国大会篇 Final
   // https://annict.com/works/2849
-  { annict_id: 2849, mal_id: 4053 },
+  { annict_id: 2849, mal_id: 4053, syobocal_tid: 6093 },
   // [2007-SPRING] OVA: テニスの王子様 Original Video Animation 全国大会篇 Semifinal
   // https://annict.com/works/2850
-  { annict_id: 2850, mal_id: 2752 },
+  { annict_id: 2850, mal_id: 2752, syobocal_tid: 6067 },
   // [2009-SPRING] OVA: テニスの王子様 OVA ANOTHER STORY～過去と未来のメッセージ
   // https://annict.com/works/2851
   { annict_id: 2851, mal_id: 5751 },
@@ -13837,7 +13837,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 4640, mal_id: 31486 },
   // [2006-SPRING] OVA: フルメタル・パニック! The Second Raid 特別版OVA
   // https://annict.com/works/4641
-  { annict_id: 4641 },
+  { annict_id: 4641, mal_id: 1015 },
   // [null-null] OTHER: パーフェクト・ボーンズ
   // https://annict.com/works/4642
   { annict_id: 4642 },
@@ -14981,7 +14981,7 @@ export const annict: ArmEntry[] = [
   // [2010-SPRING] OVA: のだめカンタービレ「特別番外編」
   // https://annict.com/works/5025
   { annict_id: 5025, mal_id: 8190 },
-  // [2018-SPRING] TV: フルメタル･パニック！ Invisible Victory
+  // [2018-SPRING] TV: フルメタル・パニック！ Invisible Victory
   // https://annict.com/works/5026
   { annict_id: 5026, mal_id: 31931, syobocal_tid: 4848 },
   // [2014-SPRING] TV: 猫ピッチャー
@@ -19093,7 +19093,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6408, mal_id: 38883, syobocal_tid: 5558 },
   // [2021-SUMMER] MOVIE: リョーマ！The Prince of Tennis 新生劇場版テニスの王子様
   // https://annict.com/works/6409
-  { annict_id: 6409, mal_id: 38882 },
+  { annict_id: 6409, mal_id: 38882, syobocal_tid: 6102 },
   // [2019-SPRING] TV: BAKUMATSUクライシス
   // https://annict.com/works/6410
   { annict_id: 6410, mal_id: 38860, syobocal_tid: 5297 },
@@ -31900,10 +31900,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 11143 },
   // [2002-AUTUMN] TV: カスミン(第2シリーズ)
   // https://annict.com/works/11144
-  { annict_id: 11144, mal_id: 27723 },
+  { annict_id: 11144, mal_id: 27723, syobocal_tid: 20 },
   // [2003-SPRING] TV: カスミン(第3シリーズ)
   // https://annict.com/works/11145
-  { annict_id: 11145, mal_id: 2738 },
+  { annict_id: 11145, mal_id: 2738, syobocal_tid: 38 },
   // [2002-AUTUMN] TV: ゴールドマッスル
   // https://annict.com/works/11146
   { annict_id: 11146, mal_id: 61494 },
@@ -40876,7 +40876,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14149, mal_id: 7739 },
   // [2001-AUTUMN] OVA: 魔法遊戯(3D版)
   // https://annict.com/works/14150
-  { annict_id: 14150, mal_id: 2278 },
+  { annict_id: 14150, mal_id: 2278, syobocal_tid: 1579 },
   // [1995-AUTUMN] MOVIE: 5等になりたい。
   // https://annict.com/works/14151
   { annict_id: 14151, mal_id: 8120 },
