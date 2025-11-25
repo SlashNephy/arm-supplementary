@@ -48403,7 +48403,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16666, mal_id: 62852 },
   // [2025-AUTUMN] WEB: あたしンちNEXT 新作エピソード
   // https://annict.com/works/16667
-  { annict_id: 16667, syobocal_tid: 7642 },
+  { annict_id: 16667, mal_id: 63013, syobocal_tid: 7642 },
   // [2025-AUTUMN] TV: チコちゃんに叱られる！×おじゃる丸 チコちゃんもまったりでおじゃる
   // https://annict.com/works/16668
   { annict_id: 16668 },
@@ -48608,4 +48608,7 @@ export const annict: ArmEntry[] = [
   // [2004-SUMMER] OVA: MEZZO FORTE International Version
   // https://annict.com/works/16736
   { annict_id: 16736, syobocal_tid: 1272 },
+  // [2026-null] TV: ただいま、おじゃまされます！
+  // https://annict.com/works/16737
+  { annict_id: 16737, mal_id: 63014 },
 ]
