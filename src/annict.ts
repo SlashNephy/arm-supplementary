@@ -1657,7 +1657,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 551, mal_id: 12487, syobocal_tid: 2605 },
   // [2002-AUTUMN] TV: 奇鋼仙女ロウラン
   // https://annict.com/works/552
-  { annict_id: 552, mal_id: 1947 },
+  { annict_id: 552, mal_id: 1947, syobocal_tid: 51 },
   // [1968-WINTER] TV: 巨人の星
   // https://annict.com/works/553
   { annict_id: 553, mal_id: 5834, syobocal_tid: 5591 },
@@ -5566,7 +5566,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1857, mal_id: 1157 },
   // [2003-SPRING] TV: FIRESTORM
   // https://annict.com/works/1858
-  { annict_id: 1858, mal_id: 2382 },
+  { annict_id: 1858, mal_id: 2382, syobocal_tid: 46 },
   // [2010-AUTUMN] TV: FORTUNE ARTERIAL 赤い約束
   // https://annict.com/works/1859
   { annict_id: 1859, mal_id: 8536, syobocal_tid: 2043 },
@@ -8596,7 +8596,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2876, mal_id: 4166, syobocal_tid: 1653 },
   // [2003-SUMMER] OVA: True Love Story -Summer Days,and yet．．．
   // https://annict.com/works/2877
-  { annict_id: 2877, mal_id: 748 },
+  { annict_id: 2877, mal_id: 748, syobocal_tid: 830 },
   // [2009-WINTER] OVA: とある魔術の禁書目録たん
   // https://annict.com/works/2878
   { annict_id: 2878, mal_id: 5955 },
@@ -9193,7 +9193,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3076, mal_id: 9774 },
   // [2003-AUTUMN] OVA: 機動新撰組萌えよ剣
   // https://annict.com/works/3077
-  { annict_id: 3077, mal_id: 1058 },
+  { annict_id: 3077, mal_id: 1058, syobocal_tid: 301 },
   // [1990-SPRING] OVA: 八神くんの家庭の事情
   // https://annict.com/works/3078
   { annict_id: 3078, mal_id: 4537 },
@@ -10768,7 +10768,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3602, mal_id: 4876 },
   // [2011-SUMMER] MOVIE: 鋼の錬金術師 嘆きの丘の聖なる星
   // https://annict.com/works/3603
-  { annict_id: 3603, mal_id: 9135 },
+  { annict_id: 3603, mal_id: 9135, syobocal_tid: 2664 },
   // [1998-AUTUMN] MOVIE: CG版ビーストウォーズ 激突!ビースト戦士
   // https://annict.com/works/3604
   { annict_id: 3604 },
@@ -19639,7 +19639,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6627, mal_id: 38393 },
   // [2011-AUTUMN] OVA: 一騎当千 集鍔闘士血風録
   // https://annict.com/works/6628
-  { annict_id: 6628, mal_id: 11255 },
+  { annict_id: 6628, mal_id: 11255, syobocal_tid: 6273 },
   // [2019-SPRING] TV: シーサイド荘のアクアっ娘
   // https://annict.com/works/6629
   { annict_id: 6629, mal_id: 52002 },
@@ -21079,7 +21079,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 7206, mal_id: 40693 },
   // [2007-AUTUMN] OVA: 君が望む永遠 〜Next Season〜
   // https://annict.com/works/7207
-  { annict_id: 7207, mal_id: 3318 },
+  { annict_id: 7207, mal_id: 3318, syobocal_tid: 1667 },
   // [2020-AUTUMN] TV: ドラゴンクエスト ダイの大冒険 (2020年版)
   // https://annict.com/works/7208
   { annict_id: 7208, mal_id: 40906, syobocal_tid: 5779 },
@@ -27223,7 +27223,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9578, mal_id: 51678, syobocal_tid: 6556 },
   // [2022-AUTUMN] MOVIE: 映画かいけつゾロリ ラララ♪スターたんじょう
   // https://annict.com/works/9579
-  { annict_id: 9579, mal_id: 53391 },
+  { annict_id: 9579, mal_id: 53391, syobocal_tid: 6788 },
   // [2022-AUTUMN] TV: クールドジ男子
   // https://annict.com/works/9580
   { annict_id: 9580, mal_id: 51680, syobocal_tid: 6469 },
@@ -30634,7 +30634,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10721 },
   // [2003-AUTUMN] TV: ブラック・ジャック スペシャル～命をめぐる4つの奇跡～
   // https://annict.com/works/10722
-  { annict_id: 10722, mal_id: 1373 },
+  { annict_id: 10722, mal_id: 1373, syobocal_tid: 309 },
   // [1996-AUTUMN] MOVIE: ブラック・ジャック 劇場版
   // https://annict.com/works/10723
   { annict_id: 10723, mal_id: 1521, syobocal_tid: 1769 },
@@ -31141,7 +31141,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10890, mal_id: 216 },
   // [2003-SPRING] OVA: みずいろ
   // https://annict.com/works/10891
-  { annict_id: 10891, mal_id: 1039 },
+  { annict_id: 10891, mal_id: 1039, syobocal_tid: 1932 },
   // [2009-SPRING] OVA: 恋姫†無双 「群雄、生徒会長の座を狙って相争うのこと ～あと、ポロリもあるよ！～」
   // https://annict.com/works/10892
   { annict_id: 10892, mal_id: 5305 },
@@ -33634,7 +33634,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11723, mal_id: 2264, syobocal_tid: 1770 },
   // [2003-SUMMER] MOVIE: ぼくの孫悟空
   // https://annict.com/works/11724
-  { annict_id: 11724, mal_id: 20189 },
+  { annict_id: 11724, mal_id: 20189, syobocal_tid: 1771 },
   // [2005-SUMMER] MOVIE: ASTRO BOY 鉄腕アトム 10万光年の来訪者・IGZA
   // https://annict.com/works/11725
   { annict_id: 11725, mal_id: 39363 },
@@ -35935,7 +35935,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12493 },
   // [2003-SPRING] TV: 時空冒険記ゼントリックス
   // https://annict.com/works/12494
-  { annict_id: 12494, mal_id: 5129 },
+  { annict_id: 12494, mal_id: 5129, syobocal_tid: 43 },
   // [2022-SUMMER] WEB: ちいちゃい！魔王さま！！
   // https://annict.com/works/12495
   { annict_id: 12495, mal_id: 52970 },
@@ -36169,10 +36169,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 12572, mal_id: 58082, syobocal_tid: 7290 },
   // [2004-SPRING] OVA: ストラトス・フォー CODE:X-1/X-2
   // https://annict.com/works/12573
-  { annict_id: 12573, mal_id: 422 },
+  { annict_id: 12573, mal_id: 422, syobocal_tid: 471 },
   // [2006-SUMMER] OVA: ストラトス・フォー アドヴァンス 完結編
   // https://annict.com/works/12574
-  { annict_id: 12574, mal_id: 1584 },
+  { annict_id: 12574, mal_id: 1584, syobocal_tid: 1438 },
   // [2023-AUTUMN] WEB: BLUE EYE SAMURAI/ブルーアイ・サムライ
   // https://annict.com/works/12575
   { annict_id: 12575 },
@@ -41560,7 +41560,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14378, mal_id: 45596 },
   // [2003-AUTUMN] OVA: キングダム・オブ・カオス 〜ボーン・トゥー・キル〜
   // https://annict.com/works/14379
-  { annict_id: 14379, mal_id: 3267 },
+  { annict_id: 14379, mal_id: 3267, syobocal_tid: 753 },
   // [2008-AUTUMN] TV: キスダムR -ENGAGE planet- 余塵節「輪転 メグリアヒ」
   // https://annict.com/works/14380
   { annict_id: 14380, mal_id: 12689 },
