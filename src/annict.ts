@@ -10345,7 +10345,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3461, mal_id: 14353, syobocal_tid: 2942 },
   // [2009-AUTUMN] MOVIE: 劇場版 テイルズ オブ ヴェスペリア ～The First Strike～
   // https://annict.com/works/3462
-  { annict_id: 3462, mal_id: 6046 },
+  { annict_id: 3462, mal_id: 6046, syobocal_tid: 2231 },
   // [2005-WINTER] MOVIE: 劇場版 テニスの王子様 二人のサムライ THE FIRST GAME
   // https://annict.com/works/3463
   { annict_id: 3463, mal_id: 815 },
@@ -36607,7 +36607,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12719, mal_id: 13679 },
   // [2012-SPRING] TV: とっとこハム太郎(2012年)
   // https://annict.com/works/12720
-  { annict_id: 12720 },
+  { annict_id: 12720, syobocal_tid: 2540 },
   // [1931-null] MOVIE: 浦島太郎 (1931年)
   // https://annict.com/works/12721
   { annict_id: 12721, mal_id: 5813 },
@@ -45751,7 +45751,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15776 },
   // [2001-WINTER] TV: パワーパフガールズ
   // https://annict.com/works/15777
-  { annict_id: 15777 },
+  { annict_id: 15777, syobocal_tid: 231 },
   // [2001-SUMMER] TV: パワーパフガールズ(シーズン2)
   // https://annict.com/works/15778
   { annict_id: 15778 },
