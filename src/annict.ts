@@ -4417,7 +4417,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1473, mal_id: 2166, syobocal_tid: 1181 },
   // [1998-SUMMER] OVA: 同級生2
   // https://annict.com/works/1474
-  { annict_id: 1474, mal_id: 4842 },
+  { annict_id: 1474, mal_id: 4842, syobocal_tid: 4787 },
   // [2010-AUTUMN] TV: 咎狗の血
   // https://annict.com/works/1475
   { annict_id: 1475, mal_id: 8449, syobocal_tid: 2032 },
@@ -8446,7 +8446,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2824, mal_id: 1444, syobocal_tid: 2601 },
   // [1985-AUTUMN] OVA: 戦え！イクサー1
   // https://annict.com/works/2825
-  { annict_id: 2825, mal_id: 2291 },
+  { annict_id: 2825, mal_id: 2291, syobocal_tid: 1441 },
   // [2000-AUTUMN] OVA: 時空異邦人KYOKO ちょこらにおまかせ!
   // https://annict.com/works/2826
   { annict_id: 2826, mal_id: 1613 },
@@ -8920,7 +8920,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2985, mal_id: 2782 },
   // [1994-WINTER] OVA: ファイナルファンタジー
   // https://annict.com/works/2986
-  { annict_id: 2986, mal_id: 426, syobocal_tid: 1108 },
+  { annict_id: 2986, mal_id: 426 },
   // [1997-AUTUMN] OVA: フォトン
   // https://annict.com/works/2987
   { annict_id: 2987, mal_id: 1944, syobocal_tid: 2152 },
@@ -10033,7 +10033,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3357, mal_id: 9751, syobocal_tid: 3000 },
   // [1994-SUMMER] MOVIE: ストリートファイターII MOVIE
   // https://annict.com/works/3358
-  { annict_id: 3358, mal_id: 1362 },
+  { annict_id: 3358, mal_id: 1362, syobocal_tid: 1109 },
   // [2007-SUMMER] MOVIE: ストレンヂア 無皇刃譚
   // https://annict.com/works/3359
   { annict_id: 3359, mal_id: 2418, syobocal_tid: 1673 },
@@ -13060,7 +13060,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 4372, mal_id: 30307, syobocal_tid: 3818 },
   // [2016-WINTER] MOVIE: 同級生 (映画)
   // https://annict.com/works/4373
-  { annict_id: 4373, mal_id: 30346 },
+  { annict_id: 4373, mal_id: 30346, syobocal_tid: 5972 },
   // [2015-SUMMER] TV: 戦姫絶唱シンフォギアGX
   // https://annict.com/works/4374
   { annict_id: 4374, mal_id: 21573, syobocal_tid: 3809 },
@@ -22261,7 +22261,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 7698, mal_id: 52030, syobocal_tid: 5814 },
   // [1998-WINTER] OVA: 銀河英雄伝説外伝 (第1期)
   // https://annict.com/works/7699
-  { annict_id: 7699, mal_id: 3371 },
+  { annict_id: 7699, mal_id: 3371, syobocal_tid: 1055 },
   // [1999-AUTUMN] OVA: 銀河英雄伝説外伝 (第2期)
   // https://annict.com/works/7700
   { annict_id: 7700, mal_id: 3665 },
@@ -22921,7 +22921,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 7981, mal_id: 1298, syobocal_tid: 6963 },
   // [1990-SUMMER] OVA: A-Ko The VS
   // https://annict.com/works/7982
-  { annict_id: 7982, mal_id: 1295 },
+  { annict_id: 7982, mal_id: 1295, syobocal_tid: 6964 },
   // [2022-SUMMER] TV: はたらく魔王さま！！
   // https://annict.com/works/7983
   { annict_id: 7983, mal_id: 48413, syobocal_tid: 6387 },
@@ -26497,10 +26497,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 9303, mal_id: 17605 },
   // [2002-SUMMER] MOVIE: アイス・エイジ
   // https://annict.com/works/9304
-  { annict_id: 9304 },
+  { annict_id: 9304, syobocal_tid: 1852 },
   // [2006-SPRING] MOVIE: アイス・エイジ2
   // https://annict.com/works/9305
-  { annict_id: 9305 },
+  { annict_id: 9305, syobocal_tid: 2768 },
   // [2009-SUMMER] MOVIE: アイス・エイジ3 ティラノのおとしもの
   // https://annict.com/works/9306
   { annict_id: 9306 },
@@ -29002,7 +29002,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10173, mal_id: 3120 },
   // [2001-SUMMER] MOVIE: FINAL FANTASY
   // https://annict.com/works/10174
-  { annict_id: 10174, mal_id: 1361 },
+  { annict_id: 10174, mal_id: 1361, syobocal_tid: 1108 },
   // [2023-SPRING] MOVIE: ザ・スーパーマリオブラザーズ・ムービー
   // https://annict.com/works/10175
   { annict_id: 10175 },
@@ -30010,7 +30010,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10512, mal_id: 10118 },
   // [1998-SPRING] OVA: クイーン・エメラルダス
   // https://annict.com/works/10513
-  { annict_id: 10513, mal_id: 1553 },
+  { annict_id: 10513, mal_id: 1553, syobocal_tid: 2465 },
   // [1999-WINTER] OVA: ハーロック・サーガ ニーベルングの指環
   // https://annict.com/works/10514
   { annict_id: 10514, mal_id: 1645, syobocal_tid: 2501 },
@@ -32707,7 +32707,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11412 },
   // [1994-SPRING] OVA: マーズ
   // https://annict.com/works/11413
-  { annict_id: 11413, mal_id: 10648 },
+  { annict_id: 11413, mal_id: 10648, syobocal_tid: 1762 },
   // [1992-AUTUMN] OVA: 宝島メモリアル「夕凪と呼ばれた男」
   // https://annict.com/works/11414
   { annict_id: 11414, mal_id: 11685 },
@@ -34981,7 +34981,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12174, mal_id: 57584 },
   // [1997-WINTER] OVA: ヴァリアブル・ジオ
   // https://annict.com/works/12175
-  { annict_id: 12175, mal_id: 1183 },
+  { annict_id: 12175, mal_id: 1183, syobocal_tid: 1186 },
   // [2007-AUTUMN] OVA: やわらか三国志 突き刺せ!! 呂布子ちゃん
   // https://annict.com/works/12176
   { annict_id: 12176, mal_id: 3417 },
@@ -35353,7 +35353,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12299, mal_id: 57646, syobocal_tid: 7083 },
   // [1999-SUMMER] OVA: 同級生2 Special 卒業生
   // https://annict.com/works/12300
-  { annict_id: 12300, mal_id: 5647 },
+  { annict_id: 12300, mal_id: 5647, syobocal_tid: 4894 },
   // [2023-AUTUMN] WEB: プロジェクトセカイ カラフルステージ! feat. 初音ミク 3周年記念 メインストーリーダイジェストアニメーション Journey to Bloom
   // https://annict.com/works/12301
   { annict_id: 12301, mal_id: 56830 },
@@ -37117,7 +37117,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12890, mal_id: 56835 },
   // [1999-WINTER] MOVIE: ガンドレス
   // https://annict.com/works/12891
-  { annict_id: 12891, mal_id: 1160 },
+  { annict_id: 12891, mal_id: 1160, syobocal_tid: 924 },
   // [2000-SPRING] MOVIE: ガンドレス 完全版
   // https://annict.com/works/12892
   { annict_id: 12892 },
@@ -41674,7 +41674,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14416, mal_id: 41477 },
   // [2001-SPRING] OVA: めだかの学校
   // https://annict.com/works/14417
-  { annict_id: 14417, mal_id: 9519 },
+  { annict_id: 14417, mal_id: 9519, syobocal_tid: 715 },
   // [2010-SPRING] WEB: 六畳間の侵略者!? プロモーションムービー
   // https://annict.com/works/14418
   { annict_id: 14418, mal_id: 26019 },
@@ -48602,4 +48602,10 @@ export const annict: ArmEntry[] = [
   // [2026-SUMMER] MOVIE: 映画ちいかわ 人魚の島のひみつ
   // https://annict.com/works/16734
   { annict_id: 16734, mal_id: 63011 },
+  // [2024-WINTER] MOVIE: セマンティックエラー
+  // https://annict.com/works/16735
+  { annict_id: 16735 },
+  // [2004-SUMMER] OVA: MEZZO FORTE International Version
+  // https://annict.com/works/16736
+  { annict_id: 16736, syobocal_tid: 1272 },
 ]
