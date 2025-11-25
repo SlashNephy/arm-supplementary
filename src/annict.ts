@@ -6988,7 +6988,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2333, mal_id: 149, syobocal_tid: 611 },
   // [2004-SPRING] TV: LOVE♥LOVE?
   // https://annict.com/works/2334
-  { annict_id: 2334, mal_id: 275 },
+  { annict_id: 2334, mal_id: 275, syobocal_tid: 426 },
   // [2004-SPRING] TV: RAGNAROK THE ANIMATION
   // https://annict.com/works/2335
   { annict_id: 2335, mal_id: 417, syobocal_tid: 130 },
@@ -9322,7 +9322,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3119, mal_id: 47, syobocal_tid: 441 },
   // [2011-SPRING] OVA: APPLESEED XIII
   // https://annict.com/works/3120
-  { annict_id: 3120, mal_id: 9737 },
+  { annict_id: 3120, mal_id: 9737, syobocal_tid: 2617 },
   // [2013-SPRING] MOVIE: AURA ～魔竜院光牙最後の闘い～
   // https://annict.com/works/3121
   { annict_id: 3121, mal_id: 14669, syobocal_tid: 3229 },
@@ -40834,7 +40834,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14135, mal_id: 60067 },
   // [1980-SUMMER] MOVIE: ウォーターシップ・ダウンのうさぎたち
   // https://annict.com/works/14136
-  { annict_id: 14136 },
+  { annict_id: 14136, syobocal_tid: 394 },
   // [1977-AUTUMN] MOVIE: 新・巨人の星(1977年)
   // https://annict.com/works/14137
   { annict_id: 14137 },
@@ -45586,10 +45586,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 15721, mal_id: 3626 },
   // [2011-SPRING] MOVIE: 劇場リミックス版 アップルシード XIII 〜遺言〜
   // https://annict.com/works/15722
-  { annict_id: 15722, mal_id: 10689 },
+  { annict_id: 15722, mal_id: 10689, syobocal_tid: 2618 },
   // [2011-AUTUMN] MOVIE: 劇場リミックス版 アップルシード XIII 〜預言〜
   // https://annict.com/works/15723
-  { annict_id: 15723, mal_id: 10693 },
+  { annict_id: 15723, mal_id: 10693, syobocal_tid: 2619 },
   // [2026-null] TV: ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ伝～
   // https://annict.com/works/15724
   { annict_id: 15724, mal_id: 61240 },
