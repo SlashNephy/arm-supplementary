@@ -33649,7 +33649,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11728 },
   // [2005-SUMMER] TV: ほとり〜たださいわいを希う。〜
   // https://annict.com/works/11729
-  { annict_id: 11729, mal_id: 475 },
+  { annict_id: 11729, mal_id: 475, syobocal_tid: 669 },
   // [1979-SUMMER] TV: アンネの日記 アンネ・フランク物語
   // https://annict.com/works/11730
   { annict_id: 11730, mal_id: 12027 },
@@ -41080,7 +41080,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14217, mal_id: 18821 },
   // [2005-SUMMER] OVA: 輝け!友情のVサイン
   // https://annict.com/works/14218
-  { annict_id: 14218, mal_id: 18475 },
+  { annict_id: 14218, mal_id: 18475, syobocal_tid: 1235 },
   // [2010-WINTER] OVA: 革命の若き空
   // https://annict.com/works/14219
   { annict_id: 14219, mal_id: 23711 },
