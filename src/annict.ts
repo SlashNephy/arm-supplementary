@@ -4747,7 +4747,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1583, mal_id: 693, syobocal_tid: 299 },
   // [2005-AUTUMN] TV: FUNNY PETS 1stシーズン
   // https://annict.com/works/1584
-  { annict_id: 1584, mal_id: 2232 },
+  { annict_id: 1584, mal_id: 2232, syobocal_tid: 746 },
   // [2006-SUMMER] TV: FUNNY PETS 2ndシーズン
   // https://annict.com/works/1585
   { annict_id: 1585, mal_id: 22345, syobocal_tid: 1057 },
