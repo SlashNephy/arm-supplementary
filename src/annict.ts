@@ -48611,4 +48611,7 @@ export const annict: ArmEntry[] = [
   // [2026-null] TV: ただいま、おじゃまされます！
   // https://annict.com/works/16737
   { annict_id: 16737, mal_id: 63014 },
+  // [null-null] TV: ガールクラッシュ
+  // https://annict.com/works/16738
+  { annict_id: 16738, mal_id: 63016 },
 ]
