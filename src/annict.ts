@@ -28168,7 +28168,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9894, mal_id: 6397 },
   // [1975-WINTER] TV: まんが日本昔ばなし(第1期)
   // https://annict.com/works/9895
-  { annict_id: 9895, mal_id: 10282 },
+  { annict_id: 9895, mal_id: 10282, syobocal_tid: 707 },
   // [1976-WINTER] TV: まんが日本昔ばなし(第2期)
   // https://annict.com/works/9896
   { annict_id: 9896, mal_id: 6277 },
