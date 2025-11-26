@@ -48629,4 +48629,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] TV: パウ・パトロール (シーズン7)
   // https://annict.com/works/16743
   { annict_id: 16743, syobocal_tid: 6236 },
+  // [2005-SUMMER] MOVIE: あした元気にな～れ！～半分のさつまいも～
+  // https://annict.com/works/16744
+  { annict_id: 16744, mal_id: 17493, syobocal_tid: 1219 },
 ]
