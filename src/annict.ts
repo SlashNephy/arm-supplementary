@@ -1084,7 +1084,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 360, mal_id: 1, syobocal_tid: 538 },
   // [2004-SUMMER] TV: GANTZ ～the 2nd stage～
   // https://annict.com/works/361
-  { annict_id: 361, mal_id: 395 },
+  { annict_id: 361, mal_id: 395, syobocal_tid: 483 },
   // [2004-SPRING] TV: GANTZ ～the first stage～
   // https://annict.com/works/362
   { annict_id: 362, mal_id: 384, syobocal_tid: 377 },
@@ -3325,7 +3325,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1109, mal_id: 10308, syobocal_tid: 2138 },
   // [2005-SPRING] TV: 戦国英雄伝説 新釈 眞田十勇士 The Animation
   // https://annict.com/works/1110
-  { annict_id: 1110, mal_id: 988 },
+  { annict_id: 1110, mal_id: 988, syobocal_tid: 558 },
   // [1981-SUMMER] TV: 戦国魔神ゴーショーグン
   // https://annict.com/works/1111
   { annict_id: 1111, mal_id: 2510, syobocal_tid: 4079 },
@@ -3577,7 +3577,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1193, mal_id: 4066, syobocal_tid: 1478 },
   // [2004-AUTUMN] TV: W ～ウィッシュ～
   // https://annict.com/works/1194
-  { annict_id: 1194, mal_id: 346 },
+  { annict_id: 1194, mal_id: 346, syobocal_tid: 503 },
   // [1999-SPRING] TV: ∀ガンダム
   // https://annict.com/works/1195
   { annict_id: 1195, mal_id: 95, syobocal_tid: 71 },
@@ -5359,7 +5359,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1788, mal_id: 14283, syobocal_tid: 2835 },
   // [2004-AUTUMN] TV: ビューティフル ジョー
   // https://annict.com/works/1789
-  { annict_id: 1789, mal_id: 278 },
+  { annict_id: 1789, mal_id: 278, syobocal_tid: 510 },
   // [1988-SUMMER] TV: ビリ犬
   // https://annict.com/works/1790
   { annict_id: 1790, mal_id: 8520 },
@@ -5587,7 +5587,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1864, mal_id: 1247, syobocal_tid: 894 },
   // [2004-AUTUMN] TV: Фなるあぷろーち
   // https://annict.com/works/1865
-  { annict_id: 1865, mal_id: 119 },
+  { annict_id: 1865, mal_id: 119, syobocal_tid: 503 },
   // [2002-SUMMER] TV: ふぉうちゅんドッグす
   // https://annict.com/works/1866
   { annict_id: 1866, mal_id: 3355 },
@@ -6577,7 +6577,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2196, mal_id: 7655, syobocal_tid: 1866 },
   // [2005-SPRING] TV: MAR−メルヘヴン−
   // https://annict.com/works/2197
-  { annict_id: 2197, mal_id: 738 },
+  { annict_id: 2197, mal_id: 738, syobocal_tid: 591 },
   // [1997-SPRING] TV: MAZE☆爆熱時空
   // https://annict.com/works/2198
   { annict_id: 2198, mal_id: 3884 },
@@ -6907,7 +6907,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2306, mal_id: 12767 },
   // [2005-SPRING] TV: 雪の女王　The Snow Queen
   // https://annict.com/works/2307
-  { annict_id: 2307, mal_id: 754 },
+  { annict_id: 2307, mal_id: 754, syobocal_tid: 587 },
   // [1998-AUTUMN] TV: よいこ
   // https://annict.com/works/2308
   { annict_id: 2308, mal_id: 4591, syobocal_tid: 476 },
@@ -10015,7 +10015,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3351, mal_id: 2498, syobocal_tid: 1010 },
   // [2004-SUMMER] MOVIE: STEAMBOY
   // https://annict.com/works/3352
-  { annict_id: 3352, mal_id: 565 },
+  { annict_id: 3352, mal_id: 565, syobocal_tid: 1147 },
   // [2008-SUMMER] MOVIE: スカイ・クロラ The Sky Crawlers
   // https://annict.com/works/3353
   { annict_id: 3353, mal_id: 3089, syobocal_tid: 1712 },
@@ -28870,7 +28870,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10129, mal_id: 15077 },
   // [2005-AUTUMN] MOVIE: 惑星大怪獣ネガドン
   // https://annict.com/works/10130
-  { annict_id: 10130, mal_id: 3070 },
+  { annict_id: 10130, mal_id: 3070, syobocal_tid: 922 },
   // [2006-SPRING] MOVIE: はなれ砦のヨナ
   // https://annict.com/works/10131
   { annict_id: 10131, mal_id: 1031 },
@@ -34291,10 +34291,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 11942, mal_id: 1268 },
   // [2005-WINTER] OVA: おとぎ銃士 赤ずきん(OVA)
   // https://annict.com/works/11943
-  { annict_id: 11943, mal_id: 402 },
+  { annict_id: 11943, mal_id: 402, syobocal_tid: 1096 },
   // [2005-WINTER] OVA: 天上天下 ULTIMATE FIGHT
   // https://annict.com/works/11944
-  { annict_id: 11944, mal_id: 448 },
+  { annict_id: 11944, mal_id: 448, syobocal_tid: 613 },
   // [2004-SUMMER] OVA: いちご100% 恋が始まる!? 撮影合宿 〜ゆれるココロが東へ西へ〜
   // https://annict.com/works/11945
   { annict_id: 11945, mal_id: 642 },
@@ -35092,7 +35092,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12212, mal_id: 1648, syobocal_tid: 969 },
   // [2005-AUTUMN] OVA: パパとKISS IN THE DARK
   // https://annict.com/works/12213
-  { annict_id: 12213, mal_id: 746 },
+  { annict_id: 12213, mal_id: 746, syobocal_tid: 947 },
   // [2000-SUMMER] MOVIE: 風を見た少年 The Boy Who Saw The Wind
   // https://annict.com/works/12214
   { annict_id: 12214, mal_id: 757 },
@@ -46975,7 +46975,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16185 },
   // [2004-AUTUMN] MOVIE: ポーラー・エクスプレス
   // https://annict.com/works/16186
-  { annict_id: 16186 },
+  { annict_id: 16186, syobocal_tid: 2857 },
   // [2007-AUTUMN] MOVIE: ベオウルフ/呪われし勇者
   // https://annict.com/works/16187
   { annict_id: 16187 },
@@ -48614,4 +48614,19 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: ガールクラッシュ
   // https://annict.com/works/16738
   { annict_id: 16738, mal_id: 63016 },
+  // [2026-WINTER] TV: ラブル＆クルー
+  // https://annict.com/works/16739
+  { annict_id: 16739 },
+  // [2025-AUTUMN] MOVIE: ラブル＆クルー IN シアター
+  // https://annict.com/works/16740
+  { annict_id: 16740 },
+  // [2023-WINTER] TV: パウ・パトロール (シーズン5)
+  // https://annict.com/works/16741
+  { annict_id: 16741, syobocal_tid: 6236 },
+  // [2024-WINTER] TV: パウ・パトロール (シーズン6)
+  // https://annict.com/works/16742
+  { annict_id: 16742, syobocal_tid: 6236 },
+  // [2025-SPRING] TV: パウ・パトロール (シーズン7)
+  // https://annict.com/works/16743
+  { annict_id: 16743, syobocal_tid: 6236 },
 ]
