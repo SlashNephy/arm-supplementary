@@ -1645,7 +1645,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 547, mal_id: 336, syobocal_tid: 523 },
   // [2006-WINTER] TV: 吟遊黙示録マイネリーベwieder
   // https://annict.com/works/548
-  { annict_id: 548, mal_id: 771 },
+  { annict_id: 548, mal_id: 771, syobocal_tid: 784 },
   // [2013-AUTUMN] TV: 境界の彼方
   // https://annict.com/works/549
   { annict_id: 549, mal_id: 18153, syobocal_tid: 3163 },
@@ -46711,7 +46711,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16097 },
   // [2005-AUTUMN] TV: ジミー・ニュートロン 僕は天才発明家!(TVシリーズ)
   // https://annict.com/works/16098
-  { annict_id: 16098 },
+  { annict_id: 16098, syobocal_tid: 868 },
   // [2005-AUTUMN] TV: ペット・エイリアン
   // https://annict.com/works/16099
   { annict_id: 16099 },
@@ -47914,7 +47914,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16500, mal_id: 62496, syobocal_tid: 7637 },
   // [2006-WINTER] TV: erico
   // https://annict.com/works/16501
-  { annict_id: 16501 },
+  { annict_id: 16501, syobocal_tid: 871 },
   // [2008-AUTUMN] TV: アルトとふしぎな海の森～パイロット版～
   // https://annict.com/works/16502
   { annict_id: 16502 },
