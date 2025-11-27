@@ -2572,7 +2572,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 857, mal_id: 7661, syobocal_tid: 1893 },
   // [2007-WINTER] TV: GR-GIANT ROBO-
   // https://annict.com/works/858
-  { annict_id: 858, mal_id: 3146 },
+  { annict_id: 858, mal_id: 3146, syobocal_tid: 1261 },
   // [1999-SPRING] TV: GTO
   // https://annict.com/works/859
   { annict_id: 859, mal_id: 245, syobocal_tid: 5207 },
@@ -16429,7 +16429,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5512, mal_id: 8842 },
   // [2007-WINTER] TV: 電脳戦士 土管くん
   // https://annict.com/works/5513
-  { annict_id: 5513, mal_id: 36881 },
+  { annict_id: 5513, mal_id: 36881, syobocal_tid: 1112 },
   // [2007-SUMMER] TV: 進め!!土管くん
   // https://annict.com/works/5514
   { annict_id: 5514, mal_id: 38568 },
@@ -31387,7 +31387,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10972, mal_id: 55774, syobocal_tid: 6893 },
   // [2007-SPRING] MOVIE: いぬかみっ！THE MOVIE 特命霊的捜査官・仮名史郎っ！
   // https://annict.com/works/10973
-  { annict_id: 10973, mal_id: 2132 },
+  { annict_id: 10973, mal_id: 2132, syobocal_tid: 1524 },
   // [2025-SUMMER] TV: cocoon ～ある夏の少女たちより～
   // https://annict.com/works/10974
   { annict_id: 10974, mal_id: 55779 },
@@ -32503,16 +32503,16 @@ export const annict: ArmEntry[] = [
   { annict_id: 11344 },
   // [2007-WINTER] TV: アームズラリー
   // https://annict.com/works/11345
-  { annict_id: 11345, mal_id: 41115 },
+  { annict_id: 11345, mal_id: 41115, syobocal_tid: 1112 },
   // [2007-WINTER] TV: かくざ父さん
   // https://annict.com/works/11346
-  { annict_id: 11346, mal_id: 41118 },
+  { annict_id: 11346, mal_id: 41118, syobocal_tid: 1112 },
   // [2007-WINTER] TV: キラキラ小学生 セレブちゃん
   // https://annict.com/works/11347
-  { annict_id: 11347, mal_id: 41156 },
+  { annict_id: 11347, mal_id: 41156, syobocal_tid: 1112 },
   // [2007-WINTER] TV: オリガのロシア語講座
   // https://annict.com/works/11348
-  { annict_id: 11348, mal_id: 41114 },
+  { annict_id: 11348, mal_id: 41114, syobocal_tid: 1112 },
   // [2007-WINTER] TV: ビーンワールド
   // https://annict.com/works/11349
   { annict_id: 11349 },
