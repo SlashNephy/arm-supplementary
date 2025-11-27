@@ -48632,4 +48632,7 @@ export const annict: ArmEntry[] = [
   // [2005-SUMMER] MOVIE: あした元気にな～れ！～半分のさつまいも～
   // https://annict.com/works/16744
   { annict_id: 16744, mal_id: 17493, syobocal_tid: 1219 },
+  // [2026-null] TV: 名探偵プリキュア！
+  // https://annict.com/works/16745
+  { annict_id: 16745 },
 ]
