@@ -6770,7 +6770,7 @@ export const annict: ArmEntry[] = [
   // [1994-SPRING] TV: ヤマトタケル
   // https://annict.com/works/2261
   { annict_id: 2261, mal_id: 4773 },
-  // [2006-AUTUMN] TV: ヤマトナデシコ七変化
+  // [2006-AUTUMN] TV: ヤマトナデシコ七変化♥
   // https://annict.com/works/2262
   { annict_id: 2262, mal_id: 1562, syobocal_tid: 1035 },
   // [2013-WINTER] TV: ヤマノススメ
@@ -48665,4 +48665,7 @@ export const annict: ArmEntry[] = [
   // [2003-SPRING] TV: Hello!オズワルド
   // https://annict.com/works/16755
   { annict_id: 16755 },
+  // [null-null] OTHER: 悪党一家の愛娘、転生先も乙女ゲームの極道令嬢でした。～最上級ランクの悪役さま、その溺愛は不要です！～
+  // https://annict.com/works/16756
+  { annict_id: 16756, mal_id: 63021 },
 ]
