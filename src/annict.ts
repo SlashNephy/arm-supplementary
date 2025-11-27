@@ -8815,7 +8815,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2949, mal_id: 908 },
   // [2006-SUMMER] OVA: Pinky:st.
   // https://annict.com/works/2950
-  { annict_id: 2950, mal_id: 3113 },
+  { annict_id: 2950, mal_id: 3113, syobocal_tid: 1095 },
   // [2011-SUMMER] OVA: VitaminX -Addiction-
   // https://annict.com/works/2951
   { annict_id: 2951, mal_id: 10595 },
@@ -34303,7 +34303,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11946, mal_id: 981 },
   // [2006-SUMMER] TV: 太陽の黙示録
   // https://annict.com/works/11947
-  { annict_id: 11947, mal_id: 1857 },
+  { annict_id: 11947, mal_id: 1857, syobocal_tid: 906 },
   // [2008-SUMMER] MOVIE: ハイランダー
   // https://annict.com/works/11948
   { annict_id: 11948, mal_id: 2178 },
@@ -40897,7 +40897,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14156, mal_id: 22851 },
   // [2006-SUMMER] WEB: あゆまゆ劇場
   // https://annict.com/works/14157
-  { annict_id: 14157, mal_id: 1856 },
+  { annict_id: 14157, mal_id: 1856, syobocal_tid: 1275 },
   // [1998-AUTUMN] MOVIE: ビーストウォーズII 超生命体トランスフォーマー ライオコンボイ危機一髪!
   // https://annict.com/works/14158
   { annict_id: 14158, mal_id: 5289 },
@@ -48638,4 +48638,31 @@ export const annict: ArmEntry[] = [
   // [2026-WINTER] WEB: プリズム輪舞曲
   // https://annict.com/works/16746
   { annict_id: 16746, mal_id: 63019 },
+  // [2006-SPRING] TV: モンチッチとあいちゃんのベビチッチえいご
+  // https://annict.com/works/16747
+  { annict_id: 16747, syobocal_tid: 914 },
+  // [1995-SUMMER] TV: だいすき！ムスティ
+  // https://annict.com/works/16748
+  { annict_id: 16748 },
+  // [1999-AUTUMN] TV: レ・ミゼラブル(1999年)
+  // https://annict.com/works/16749
+  { annict_id: 16749 },
+  // [2000-SPRING] TV: にんじん
+  // https://annict.com/works/16750
+  { annict_id: 16750 },
+  // [2000-SUMMER] TV: パトロール03
+  // https://annict.com/works/16751
+  { annict_id: 16751 },
+  // [2001-WINTER] TV: おまかせ!プルーデンスおばさん
+  // https://annict.com/works/16752
+  { annict_id: 16752 },
+  // [2002-SPRING] TV: ビジーバス Busy Buses
+  // https://annict.com/works/16753
+  { annict_id: 16753 },
+  // [2002-SPRING] TV: スフェリックス
+  // https://annict.com/works/16754
+  { annict_id: 16754 },
+  // [2003-SPRING] TV: Hello!オズワルド
+  // https://annict.com/works/16755
+  { annict_id: 16755 },
 ]
