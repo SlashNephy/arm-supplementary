@@ -5089,7 +5089,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1698, mal_id: 3710, syobocal_tid: 1313 },
   // [2006-SPRING] TV: 妖逆門 GEKIFU
   // https://annict.com/works/1699
-  { annict_id: 1699, mal_id: 2786 },
+  { annict_id: 1699, mal_id: 2786, syobocal_tid: 834 },
   // [2006-AUTUMN] TV: 幕末機関説 いろはにほへと
   // https://annict.com/works/1700
   { annict_id: 1700, mal_id: 1576, syobocal_tid: 998 },
@@ -7093,7 +7093,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2368, mal_id: 10346, syobocal_tid: 2163 },
   // [2006-AUTUMN] TV: 流星のロックマン
   // https://annict.com/works/2369
-  { annict_id: 2369, mal_id: 1835 },
+  { annict_id: 2369, mal_id: 1835, syobocal_tid: 895 },
   // [2007-AUTUMN] TV: 流星のロックマン トライブ
   // https://annict.com/works/2370
   { annict_id: 2370, mal_id: 3493 },
@@ -7306,7 +7306,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2440, mal_id: 2110, syobocal_tid: 714 },
   // [2006-SPRING] TV: ロックマンエグゼ BEAST+
   // https://annict.com/works/2441
-  { annict_id: 2441, mal_id: 2713 },
+  { annict_id: 2441, mal_id: 2713, syobocal_tid: 895 },
   // [2004-AUTUMN] TV: ロックマンエグゼ Stream
   // https://annict.com/works/2442
   { annict_id: 2442, mal_id: 2109, syobocal_tid: 524 },
@@ -26626,7 +26626,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9346, mal_id: 10525 },
   // [2007-AUTUMN] TV: デュエル・マスターズ ゼロ
   // https://annict.com/works/9347
-  { annict_id: 9347, mal_id: 10526 },
+  { annict_id: 9347, mal_id: 10526, syobocal_tid: 895 },
   // [2008-SPRING] TV: デュエル・マスターズ クロス
   // https://annict.com/works/9348
   { annict_id: 9348, mal_id: 10527 },
@@ -27973,10 +27973,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 9829, mal_id: 52807, syobocal_tid: 7619 },
   // [2006-SPRING] TV: サルゲッチュ 〜オンエアー〜
   // https://annict.com/works/9830
-  { annict_id: 9830, mal_id: 1872 },
+  { annict_id: 9830, mal_id: 1872, syobocal_tid: 895 },
   // [2006-AUTUMN] TV: サルゲッチュ 〜オンエアー〜 2nd
   // https://annict.com/works/9831
-  { annict_id: 9831, mal_id: 8900 },
+  { annict_id: 9831, mal_id: 8900, syobocal_tid: 895 },
   // [2002-SPRING] TV: レッチュ ゲッチュ サルゲッチュ
   // https://annict.com/works/9832
   { annict_id: 9832, mal_id: 31054 },
@@ -48635,4 +48635,7 @@ export const annict: ArmEntry[] = [
   // [2026-null] TV: 名探偵プリキュア！
   // https://annict.com/works/16745
   { annict_id: 16745 },
+  // [2026-WINTER] WEB: プリズム輪舞曲
+  // https://annict.com/works/16746
+  { annict_id: 16746, mal_id: 63019 },
 ]
