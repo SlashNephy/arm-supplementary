@@ -7096,7 +7096,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2369, mal_id: 1835, syobocal_tid: 895 },
   // [2007-AUTUMN] TV: 流星のロックマン トライブ
   // https://annict.com/works/2370
-  { annict_id: 2370, mal_id: 3493 },
+  { annict_id: 2370, mal_id: 3493, syobocal_tid: 895 },
   // [2004-AUTUMN] TV: 流星戦隊ムスメット
   // https://annict.com/works/2371
   { annict_id: 2371, mal_id: 1711, syobocal_tid: 474 },
@@ -26629,7 +26629,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9347, mal_id: 10526, syobocal_tid: 895 },
   // [2008-SPRING] TV: デュエル・マスターズ クロス
   // https://annict.com/works/9348
-  { annict_id: 9348, mal_id: 10527 },
+  { annict_id: 9348, mal_id: 10527, syobocal_tid: 895 },
   // [2010-SPRING] TV: デュエル・マスターズ クロスショック
   // https://annict.com/works/9349
   { annict_id: 9349, mal_id: 10528 },
@@ -29884,7 +29884,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10469 },
   // [2008-SPRING] TV: ペンギンの問題
   // https://annict.com/works/10470
-  { annict_id: 10470, mal_id: 4331 },
+  { annict_id: 10470, mal_id: 4331, syobocal_tid: 895 },
   // [2010-SPRING] TV: ペンギンの問題Max
   // https://annict.com/works/10471
   { annict_id: 10471, mal_id: 10855 },
