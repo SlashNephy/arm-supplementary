@@ -8722,7 +8722,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2918, mal_id: 6096 },
   // [2006-AUTUMN] OVA: BALDR FORCE EXE RESOLUTION
   // https://annict.com/works/2919
-  { annict_id: 2919, mal_id: 1682 },
+  { annict_id: 2919, mal_id: 1682, syobocal_tid: 1248 },
   // [1984-SUMMER] OVA: BIRTH
   // https://annict.com/works/2920
   { annict_id: 2920, mal_id: 2607 },
