@@ -35701,7 +35701,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12415, mal_id: 32255 },
   // [2006-AUTUMN] TV: 白い恋人
   // https://annict.com/works/12416
-  { annict_id: 12416 },
+  { annict_id: 12416, syobocal_tid: 1126 },
   // [2008-SUMMER] TV: タカネの自転車
   // https://annict.com/works/12417
   { annict_id: 12417, mal_id: 4685, syobocal_tid: 1445 },
