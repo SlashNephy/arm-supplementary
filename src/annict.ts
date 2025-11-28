@@ -48668,4 +48668,13 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 悪党一家の愛娘、転生先も乙女ゲームの極道令嬢でした。～最上級ランクの悪役さま、その溺愛は不要です！～
   // https://annict.com/works/16756
   { annict_id: 16756, mal_id: 63021 },
+  // [2005-SPRING] TV: NODDY
+  // https://annict.com/works/16757
+  { annict_id: 16757 },
+  // [2006-SPRING] TV: ぽこよ POCOYO
+  // https://annict.com/works/16758
+  { annict_id: 16758 },
+  // [2008-SUMMER] TV: アンジェリーナはバレリーナ
+  // https://annict.com/works/16759
+  { annict_id: 16759 },
 ]
