@@ -48677,4 +48677,7 @@ export const annict: ArmEntry[] = [
   // [2008-SUMMER] TV: アンジェリーナはバレリーナ
   // https://annict.com/works/16759
   { annict_id: 16759 },
+  // [2006-WINTER] MOVIE: スキージャンプ・ペア～Road to TORINO 2006～
+  // https://annict.com/works/16760
+  { annict_id: 16760, mal_id: 10627, syobocal_tid: 1327 },
 ]
