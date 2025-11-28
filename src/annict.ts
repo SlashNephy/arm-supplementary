@@ -24770,7 +24770,7 @@ export const annict: ArmEntry[] = [
   // [2022-SUMMER] TV: 異世界おじさん
   // https://annict.com/works/8631
   { annict_id: 8631, mal_id: 49220, syobocal_tid: 6384 },
-  // [null-null] TV: 幼女戦記Ⅱ
+  // [2026-null] TV: 幼女戦記Ⅱ
   // https://annict.com/works/8632
   { annict_id: 8632, mal_id: 49233 },
   // [2020-SUMMER] MOVIE: マロナの幻想的な物語り
@@ -47225,7 +47225,7 @@ export const annict: ArmEntry[] = [
   // [2022-SPRING] WEB: 湘南ひらつか 令和アニメーション絵巻
   // https://annict.com/works/16270
   { annict_id: 16270 },
-  // [null-null] OTHER: 灰原くんの強くて青春ニューゲーム
+  // [2026-SPRING] TV: 灰原くんの強くて青春ニューゲーム
   // https://annict.com/works/16271
   { annict_id: 16271, mal_id: 61943 },
   // [2026-null] TV: エレキシード（ELECEED）
