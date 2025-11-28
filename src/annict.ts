@@ -4960,7 +4960,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1655, syobocal_tid: 1600 },
   // [2007-SUMMER] TV: バッカーノ！
   // https://annict.com/works/1656
-  { annict_id: 1656, mal_id: 2251 },
+  { annict_id: 1656, mal_id: 2251, syobocal_tid: 590 },
   // [2009-AUTUMN] TV: バットマン：ブレイブ&ボールド
   // https://annict.com/works/1657
   { annict_id: 1657 },
@@ -7321,7 +7321,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2445, mal_id: 2543 },
   // [2007-SPRING] TV: ロビーとケロビー
   // https://annict.com/works/2446
-  { annict_id: 2446, mal_id: 3073 },
+  { annict_id: 2446, mal_id: 3073, syobocal_tid: 1164 },
   // [2014-WINTER] TV: ロボットガールズZ
   // https://annict.com/works/2447
   { annict_id: 2447, mal_id: 19799, syobocal_tid: 3257 },
@@ -11503,7 +11503,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3848, mal_id: 10901 },
   // [2007-SUMMER] TV: ふたつの胡桃
   // https://annict.com/works/3849
-  { annict_id: 3849, mal_id: 7775 },
+  { annict_id: 3849, mal_id: 7775, syobocal_tid: 1229 },
   // [2008-SUMMER] TV: キクちゃんとオオカミ
   // https://annict.com/works/3850
   { annict_id: 3850, mal_id: 5192, syobocal_tid: 1459 },
@@ -16432,7 +16432,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5513, mal_id: 36881, syobocal_tid: 1112 },
   // [2007-SUMMER] TV: 進め!!土管くん
   // https://annict.com/works/5514
-  { annict_id: 5514, mal_id: 38568 },
+  { annict_id: 5514, mal_id: 38568, syobocal_tid: 1192 },
   // [2008-SPRING] TV: たたかえ!土管くん 激闘編
   // https://annict.com/works/5515
   { annict_id: 5515, mal_id: 38569 },
@@ -16447,7 +16447,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5518, mal_id: 54052 },
   // [2007-AUTUMN] TV: おしゃべり なちゅどんズ
   // https://annict.com/works/5519
-  { annict_id: 5519, mal_id: 53019 },
+  { annict_id: 5519, mal_id: 53019, syobocal_tid: 1192 },
   // [2017-AUTUMN] TV: THE IDOLM＠STER Prologue SideM -Episode of Jupiter-
   // https://annict.com/works/5520
   { annict_id: 5520, mal_id: 36186 },
@@ -30064,10 +30064,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 10530 },
   // [2007-SPRING] OVA: 創星のアクエリオン
   // https://annict.com/works/10531
-  { annict_id: 10531, mal_id: 2170 },
+  { annict_id: 10531, mal_id: 2170, syobocal_tid: 1418 },
   // [2007-SUMMER] MOVIE: 劇場版アクエリオン -創星神話篇&壱発逆転篇-
   // https://annict.com/works/10532
-  { annict_id: 10532, mal_id: 6032 },
+  { annict_id: 10532, mal_id: 6032, syobocal_tid: 1412 },
   // [2013-SPRING] OVA: ジョージとAJ
   // https://annict.com/works/10533
   { annict_id: 10533 },
@@ -32572,19 +32572,19 @@ export const annict: ArmEntry[] = [
   { annict_id: 11367, mal_id: 5276, syobocal_tid: 1189 },
   // [2007-SUMMER] TV: ぷっぷくびーつ
   // https://annict.com/works/11368
-  { annict_id: 11368, mal_id: 53115 },
+  { annict_id: 11368, mal_id: 53115, syobocal_tid: 1192 },
   // [2007-SUMMER] TV: シコロボ
   // https://annict.com/works/11369
-  { annict_id: 11369 },
+  { annict_id: 11369, syobocal_tid: 1192 },
   // [2007-SUMMER] TV: ちょぼっと☆ちょボット
   // https://annict.com/works/11370
-  { annict_id: 11370 },
+  { annict_id: 11370, syobocal_tid: 1192 },
   // [2007-SUMMER] TV: ご存知！かくざ父さん
   // https://annict.com/works/11371
   { annict_id: 11371, mal_id: 41117 },
   // [2007-SUMMER] TV: 本マグロトロ太郎
   // https://annict.com/works/11372
-  { annict_id: 11372, mal_id: 53090 },
+  { annict_id: 11372, mal_id: 53090, syobocal_tid: 1192 },
   // [2007-SUMMER] TV: はなけろ～ペンペン村のまごころ屋～
   // https://annict.com/works/11373
   { annict_id: 11373 },
@@ -32599,25 +32599,25 @@ export const annict: ArmEntry[] = [
   { annict_id: 11376 },
   // [2007-AUTUMN] TV: ネコべん
   // https://annict.com/works/11377
-  { annict_id: 11377, mal_id: 53087 },
+  { annict_id: 11377, mal_id: 53087, syobocal_tid: 1192 },
   // [2007-AUTUMN] TV: 先生のチョンマゲ アッパレひでよしくん
   // https://annict.com/works/11378
-  { annict_id: 11378 },
+  { annict_id: 11378, syobocal_tid: 1192 },
   // [2007-AUTUMN] TV: バイキンくん
   // https://annict.com/works/11379
-  { annict_id: 11379 },
+  { annict_id: 11379, syobocal_tid: 1192 },
   // [2007-AUTUMN] TV: ピテカント
   // https://annict.com/works/11380
-  { annict_id: 11380, mal_id: 53116 },
+  { annict_id: 11380, mal_id: 53116, syobocal_tid: 1192 },
   // [2007-AUTUMN] TV: 筋肉学園
   // https://annict.com/works/11381
-  { annict_id: 11381 },
+  { annict_id: 11381, syobocal_tid: 1192 },
   // [2007-AUTUMN] TV: 土管くん何かの絵描き歌
   // https://annict.com/works/11382
   { annict_id: 11382, mal_id: 54051 },
   // [2007-AUTUMN] TV: まめうしくん
   // https://annict.com/works/11383
-  { annict_id: 11383, mal_id: 12185 },
+  { annict_id: 11383, mal_id: 12185, syobocal_tid: 1266 },
   // [2007-AUTUMN] TV: 天才? Dr.ハマックス
   // https://annict.com/works/11384
   { annict_id: 11384, mal_id: 2930 },
@@ -32641,16 +32641,16 @@ export const annict: ArmEntry[] = [
   { annict_id: 11390, mal_id: 19125 },
   // [2008-WINTER] TV: プープーキッズ
   // https://annict.com/works/11391
-  { annict_id: 11391, mal_id: 53089 },
+  { annict_id: 11391, mal_id: 53089, syobocal_tid: 1192 },
   // [2008-WINTER] TV: 格言！かくざ父さん
   // https://annict.com/works/11392
-  { annict_id: 11392, mal_id: 41116 },
+  { annict_id: 11392, mal_id: 41116, syobocal_tid: 1192 },
   // [2008-WINTER] TV: レオナルド博士とキリン村のなかまたち
   // https://annict.com/works/11393
-  { annict_id: 11393, mal_id: 41159 },
+  { annict_id: 11393, mal_id: 41159, syobocal_tid: 1192 },
   // [2008-WINTER] TV: はなけろ～虹の国のシエル姫～
   // https://annict.com/works/11394
-  { annict_id: 11394 },
+  { annict_id: 11394, syobocal_tid: 1192 },
   // [2024-SPRING] TV: 烏は主を選ばない
   // https://annict.com/works/11395
   { annict_id: 11395, mal_id: 56980, syobocal_tid: 7013 },
@@ -42511,7 +42511,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14695, mal_id: 1111 },
   // [2007-SUMMER] MOVIE: ベクシル 2077日本鎖国
   // https://annict.com/works/14696
-  { annict_id: 14696, mal_id: 2746 },
+  { annict_id: 14696, mal_id: 2746, syobocal_tid: 1841 },
   // [1990-null] OVA: 日本のおとぎばなし
   // https://annict.com/works/14697
   { annict_id: 14697, mal_id: 32716 },
@@ -45979,7 +45979,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15853, mal_id: 35331 },
   // [2008-WINTER] TV: ピン子の秘伝カリー
   // https://annict.com/works/15854
-  { annict_id: 15854, mal_id: 53088 },
+  { annict_id: 15854, mal_id: 53088, syobocal_tid: 1192 },
   // [2012-WINTER] TV: パパンがパンダ
   // https://annict.com/works/15855
   { annict_id: 15855, mal_id: 35962 },
