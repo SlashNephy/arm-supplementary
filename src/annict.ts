@@ -48680,4 +48680,7 @@ export const annict: ArmEntry[] = [
   // [2006-WINTER] MOVIE: スキージャンプ・ペア～Road to TORINO 2006～
   // https://annict.com/works/16760
   { annict_id: 16760, mal_id: 10627, syobocal_tid: 1327 },
+  // [2026-SPRING] MOVIE: 映画ひみつのアイプリ まんかいバズリウムライブ！
+  // https://annict.com/works/16761
+  { annict_id: 16761 },
 ]
