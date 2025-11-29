@@ -48691,7 +48691,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16763 },
   // [1989-null] OVA: 稲むらの火
   // https://annict.com/works/16764
-  { annict_id: 16764 },
+  { annict_id: 16764, mal_id: 39378 },
   // [1989-null] MOVIE: 合格！サラダ学園
   // https://annict.com/works/16765
   { annict_id: 16765 },
