@@ -2113,7 +2113,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 704, mal_id: 3012, syobocal_tid: 195 },
   // [2009-WINTER] TV: 獣の奏者エリン
   // https://annict.com/works/705
-  { annict_id: 705, mal_id: 5420 },
+  { annict_id: 705, mal_id: 5420, syobocal_tid: 1521 },
   // [2006-AUTUMN] TV: 結界師
   // https://annict.com/works/706
   { annict_id: 706, mal_id: 1606, syobocal_tid: 981 },
@@ -4663,7 +4663,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1555, mal_id: 5395, syobocal_tid: 3589 },
   // [2008-AUTUMN] TV: 熱走！亀1グランプリ
   // https://annict.com/works/1556
-  { annict_id: 1556 },
+  { annict_id: 1556, syobocal_tid: 1447 },
   // [2013-AUTUMN] TV: 熱風海陸ブシロード
   // https://annict.com/works/1557
   { annict_id: 1557, mal_id: 19653, syobocal_tid: 3226 },
@@ -8038,7 +8038,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2686, mal_id: 2147 },
   // [2008-SUMMER] OVA: COBRA THE ANIMATION ザ・サイコガン
   // https://annict.com/works/2687
-  { annict_id: 2687, mal_id: 4646 },
+  { annict_id: 2687, mal_id: 4646, syobocal_tid: 1734 },
   // [1994-WINTER] OVA: Compiler
   // https://annict.com/works/2688
   { annict_id: 2688, mal_id: 3026 },
@@ -16435,10 +16435,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 5514, mal_id: 38568, syobocal_tid: 1192 },
   // [2008-SPRING] TV: たたかえ!土管くん 激闘編
   // https://annict.com/works/5515
-  { annict_id: 5515, mal_id: 38569 },
+  { annict_id: 5515, mal_id: 38569, syobocal_tid: 1447 },
   // [2008-SPRING] TV: たたかえ!土管くん ロボリンピック編
   // https://annict.com/works/5516
-  { annict_id: 5516, mal_id: 38570 },
+  { annict_id: 5516, mal_id: 38570, syobocal_tid: 1447 },
   // [2011-AUTUMN] TV: とびだせ!土管くん
   // https://annict.com/works/5517
   { annict_id: 5517, mal_id: 38571 },
@@ -16735,7 +16735,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5614, mal_id: 35198, syobocal_tid: 5859 },
   // [2009-SPRING] TV: スター・ウォーズ/クローン・ウォーズ (テレビシリーズ)
   // https://annict.com/works/5615
-  { annict_id: 5615 },
+  { annict_id: 5615, syobocal_tid: 1628 },
   // [2010-SPRING] TV: スター・ウォーズ/クローン・ウォーズ (テレビシリーズ シーズン2)
   // https://annict.com/works/5616
   { annict_id: 5616 },
@@ -17944,7 +17944,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6020, mal_id: 1930, syobocal_tid: 2775 },
   // [2008-AUTUMN] MOVIE: 映画 Yes！プリキュア5GoGo！お菓子の国のハッピーバースディ♪
   // https://annict.com/works/6021
-  { annict_id: 6021, mal_id: 4703 },
+  { annict_id: 6021, mal_id: 4703, syobocal_tid: 2287 },
   // [2021-WINTER] MOVIE: プリンセス・プリンシパル Crown Handler 第1章
   // https://annict.com/works/6022
   { annict_id: 6022, mal_id: 37807 },
@@ -28651,7 +28651,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10055, mal_id: 3456 },
   // [2008-SPRING] WEB: Candy boy
   // https://annict.com/works/10056
-  { annict_id: 10056, mal_id: 4535 },
+  { annict_id: 10056, mal_id: 4535, syobocal_tid: 1405 },
   // [2008-SUMMER] OVA: Candy boy(OVA)
   // https://annict.com/works/10057
   { annict_id: 10057, mal_id: 5116 },
@@ -30760,37 +30760,37 @@ export const annict: ArmEntry[] = [
   { annict_id: 10763, mal_id: 29275 },
   // [2011-SPRING] OVA: レスキューチーム メーター
   // https://annict.com/works/10764
-  { annict_id: 10764 },
+  { annict_id: 10764, syobocal_tid: 2869 },
   // [2011-SPRING] OVA: メーター ザ・スタントカー
   // https://annict.com/works/10765
-  { annict_id: 10765 },
+  { annict_id: 10765, syobocal_tid: 2869 },
   // [2011-SPRING] OVA: 闘牛士 メーター
   // https://annict.com/works/10766
-  { annict_id: 10766 },
+  { annict_id: 10766, syobocal_tid: 2869 },
   // [2009-SUMMER] MOVIE: メーターの東京レース
   // https://annict.com/works/10767
-  { annict_id: 10767 },
+  { annict_id: 10767, syobocal_tid: 2869 },
   // [2011-SPRING] OVA: UFM 未確認飛行メーター
   // https://annict.com/works/10768
-  { annict_id: 10768 },
+  { annict_id: 10768, syobocal_tid: 2869 },
   // [2011-SPRING] OVA: モンスター・トラック メーター
   // https://annict.com/works/10769
-  { annict_id: 10769 },
+  { annict_id: 10769, syobocal_tid: 2869 },
   // [2011-SPRING] OVA: ヘビー・メタル メーター
   // https://annict.com/works/10770
-  { annict_id: 10770 },
+  { annict_id: 10770, syobocal_tid: 2869 },
   // [2011-SPRING] OVA: ムーン メーター
   // https://annict.com/works/10771
-  { annict_id: 10771 },
+  { annict_id: 10771, syobocal_tid: 2869 },
   // [2011-SPRING] OVA: 名探偵 メーター
   // https://annict.com/works/10772
-  { annict_id: 10772 },
+  { annict_id: 10772, syobocal_tid: 2869 },
   // [2011-AUTUMN] OVA: 飛行機メーター
   // https://annict.com/works/10773
-  { annict_id: 10773 },
+  { annict_id: 10773, syobocal_tid: 2869 },
   // [2013-SPRING] OVA: タイムトラベル メーター
   // https://annict.com/works/10774
-  { annict_id: 10774 },
+  { annict_id: 10774, syobocal_tid: 2869 },
   // [2013-WINTER] TV: マックィーンのしゃっくり
   // https://annict.com/works/10775
   { annict_id: 10775 },
@@ -32662,19 +32662,19 @@ export const annict: ArmEntry[] = [
   { annict_id: 11397, mal_id: 56997 },
   // [2008-SPRING] TV: てんてこししまい君
   // https://annict.com/works/11398
-  { annict_id: 11398 },
+  { annict_id: 11398, syobocal_tid: 1447 },
   // [2008-SPRING] TV: 本マグロトロ太郎TV
   // https://annict.com/works/11399
-  { annict_id: 11399 },
+  { annict_id: 11399, syobocal_tid: 1447 },
   // [2008-SPRING] TV: Dofusドフス★12の世界★ドフス アンド フレンズ
   // https://annict.com/works/11400
-  { annict_id: 11400 },
+  { annict_id: 11400, syobocal_tid: 1447 },
   // [2008-SPRING] TV: レオナルド博士とキリン村のなかまでしょ
   // https://annict.com/works/11401
-  { annict_id: 11401, mal_id: 41160 },
+  { annict_id: 11401, mal_id: 41160, syobocal_tid: 1447 },
   // [2008-SPRING] TV: はなけろ〜どんぐりころころエコろころ〜
   // https://annict.com/works/11402
-  { annict_id: 11402 },
+  { annict_id: 11402, syobocal_tid: 1447 },
   // [2004-SPRING] TV: U.H.O. フューチャーレスキュー2061
   // https://annict.com/works/11403
   { annict_id: 11403 },
@@ -32803,10 +32803,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 11444 },
   // [2008-SUMMER] TV: ちょこっと☆ちょボット
   // https://annict.com/works/11445
-  { annict_id: 11445 },
+  { annict_id: 11445, syobocal_tid: 1447 },
   // [2008-SUMMER] TV: 開運 大便小僧
   // https://annict.com/works/11446
-  { annict_id: 11446 },
+  { annict_id: 11446, syobocal_tid: 1447 },
   // [2008-SUMMER] TV: ネオ アンジェリーク Abyss -Second Age-
   // https://annict.com/works/11447
   { annict_id: 11447, mal_id: 4662, syobocal_tid: 1434 },
@@ -32818,7 +32818,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11449 },
   // [2008-SUMMER] TV: 男（デブ）はつらいYo!
   // https://annict.com/works/11450
-  { annict_id: 11450 },
+  { annict_id: 11450, syobocal_tid: 1447 },
   // [2008-SUMMER] TV: Little Village People
   // https://annict.com/works/11451
   { annict_id: 11451 },
@@ -32887,7 +32887,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11472 },
   // [2008-AUTUMN] TV: てんてこししまい君 相談しまショー
   // https://annict.com/works/11473
-  { annict_id: 11473 },
+  { annict_id: 11473, syobocal_tid: 1447 },
   // [2008-AUTUMN] TV: おねがい!ポクポン
   // https://annict.com/works/11474
   { annict_id: 11474 },
@@ -32902,7 +32902,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11477, mal_id: 33123 },
   // [2009-WINTER] TV: 闘え!ミミッチ・ミッチー
   // https://annict.com/works/11478
-  { annict_id: 11478 },
+  { annict_id: 11478, syobocal_tid: 1447 },
   // [2009-WINTER] TV: エグザムライ戦国
   // https://annict.com/works/11479
   { annict_id: 11479, mal_id: 5883, syobocal_tid: 1561 },
@@ -32917,13 +32917,13 @@ export const annict: ArmEntry[] = [
   { annict_id: 11482, mal_id: 8316 },
   // [2009-WINTER] TV: オリガのドキドキイングリッシュ
   // https://annict.com/works/11483
-  { annict_id: 11483 },
+  { annict_id: 11483, syobocal_tid: 1447 },
   // [2009-WINTER] TV: 無敵!素敵!ハイチュウキング
   // https://annict.com/works/11484
-  { annict_id: 11484 },
+  { annict_id: 11484, syobocal_tid: 1447 },
   // [2009-WINTER] TV: 土管くん アナザーストーリー
   // https://annict.com/works/11485
-  { annict_id: 11485 },
+  { annict_id: 11485, syobocal_tid: 1447 },
   // [2007-WINTER] OVA: 金色のコルダ ～Primo Passo～「ひと夏のアンコール」
   // https://annict.com/works/11486
   { annict_id: 11486, mal_id: 3392 },
@@ -34306,7 +34306,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11947, mal_id: 1857, syobocal_tid: 906 },
   // [2008-SUMMER] MOVIE: ハイランダー
   // https://annict.com/works/11948
-  { annict_id: 11948, mal_id: 2178 },
+  { annict_id: 11948, mal_id: 2178, syobocal_tid: 2007 },
   // [2008-SUMMER] OVA: バットマン ゴッサムナイト
   // https://annict.com/works/11949
   { annict_id: 11949, mal_id: 4094 },
@@ -34999,7 +34999,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12180, mal_id: 1977 },
   // [2008-SUMMER] OVA: デトロイト・メタル・シティ
   // https://annict.com/works/12181
-  { annict_id: 12181, mal_id: 3702 },
+  { annict_id: 12181, mal_id: 3702, syobocal_tid: 1572 },
   // [2003-AUTUMN] OVA: .hack//GIFT
   // https://annict.com/works/12182
   { annict_id: 12182, mal_id: 454 },
