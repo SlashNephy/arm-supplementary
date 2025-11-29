@@ -48686,4 +48686,7 @@ export const annict: ArmEntry[] = [
   // [1990-null] OVA: 海底国の交通安全
   // https://annict.com/works/16762
   { annict_id: 16762 },
+  // [1987-null] OVA: タッチ とびだしはアウトだよ！
+  // https://annict.com/works/16763
+  { annict_id: 16763 },
 ]
