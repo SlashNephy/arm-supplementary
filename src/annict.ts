@@ -48682,11 +48682,23 @@ export const annict: ArmEntry[] = [
   { annict_id: 16760, mal_id: 10627, syobocal_tid: 1327 },
   // [2026-SPRING] MOVIE: 映画ひみつのアイプリ まんかいバズリウムライブ！
   // https://annict.com/works/16761
-  { annict_id: 16761 },
+  { annict_id: 16761, mal_id: 63033 },
   // [1990-null] OVA: 海底国の交通安全
   // https://annict.com/works/16762
   { annict_id: 16762 },
   // [1987-null] OVA: タッチ とびだしはアウトだよ！
   // https://annict.com/works/16763
   { annict_id: 16763 },
+  // [1989-null] OVA: 稲むらの火
+  // https://annict.com/works/16764
+  { annict_id: 16764 },
+  // [1989-null] MOVIE: 合格！サラダ学園
+  // https://annict.com/works/16765
+  { annict_id: 16765 },
+  // [null-null] OTHER: ゴジラ新作アニメシリーズ
+  // https://annict.com/works/16766
+  { annict_id: 16766, mal_id: 63034 },
+  // [null-null] TV: カリスマ
+  // https://annict.com/works/16767
+  { annict_id: 16767 },
 ]
