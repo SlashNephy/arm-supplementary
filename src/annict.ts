@@ -48683,4 +48683,7 @@ export const annict: ArmEntry[] = [
   // [2026-SPRING] MOVIE: 映画ひみつのアイプリ まんかいバズリウムライブ！
   // https://annict.com/works/16761
   { annict_id: 16761 },
+  // [1990-null] OVA: 海底国の交通安全
+  // https://annict.com/works/16762
+  { annict_id: 16762 },
 ]
