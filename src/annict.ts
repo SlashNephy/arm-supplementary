@@ -1855,7 +1855,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 617, mal_id: 69, syobocal_tid: 713 },
   // [2008-SPRING] TV: CRYSTAL BLAZE -クリスタル ブレイズ-
   // https://annict.com/works/618
-  { annict_id: 618, mal_id: 3840 },
+  { annict_id: 618, mal_id: 3840, syobocal_tid: 1355 },
   // [2011-AUTUMN] TV: gdgd妖精s
   // https://annict.com/works/619
   { annict_id: 619, mal_id: 11809, syobocal_tid: 2297 },
@@ -9229,7 +9229,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3088, mal_id: 9608 },
   // [2008-WINTER] OVA: よつのは
   // https://annict.com/works/3089
-  { annict_id: 3089, mal_id: 3011 },
+  { annict_id: 3089, mal_id: 3011, syobocal_tid: 1401 },
   // [2010-WINTER] OVA: よんでますよ、アザゼルさん。OVA
   // https://annict.com/works/3090
   { annict_id: 3090, mal_id: 7762 },
@@ -15367,7 +15367,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5153, mal_id: 32902 },
   // [2007-AUTUMN] MOVIE: えいがでとーじょー! たまごっち ドキドキ! うちゅーのまいごっち!?
   // https://annict.com/works/5154
-  { annict_id: 5154, mal_id: 6518 },
+  { annict_id: 5154, mal_id: 6518, syobocal_tid: 2237 },
   // [2008-SUMMER] MOVIE: バイオハザード ディジェネレーション
   // https://annict.com/works/5155
   { annict_id: 5155, mal_id: 3446, syobocal_tid: 2760 },
@@ -25273,7 +25273,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 8831, mal_id: 49590 },
   // [2008-WINTER] OVA: School Days「Valentine Days」
   // https://annict.com/works/8832
-  { annict_id: 8832, mal_id: 3759 },
+  { annict_id: 8832, mal_id: 3759, syobocal_tid: 6272 },
   // [2021-SUMMER] WEB: ヴィラーノス Phase1　「暗躍するブラックハット団」
   // https://annict.com/works/8833
   { annict_id: 8833 },
@@ -34984,7 +34984,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12175, mal_id: 1183, syobocal_tid: 1186 },
   // [2007-AUTUMN] OVA: やわらか三国志 突き刺せ!! 呂布子ちゃん
   // https://annict.com/works/12176
-  { annict_id: 12176, mal_id: 3417 },
+  { annict_id: 12176, mal_id: 3417, syobocal_tid: 1651 },
   // [1998-AUTUMN] MOVIE: がんばれゴエモン 地球救出大作戦
   // https://annict.com/works/12177
   { annict_id: 12177, mal_id: 9464 },
@@ -36973,7 +36973,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12841, mal_id: 58517 },
   // [2002-null] WEB: CATMAN
   // https://annict.com/works/12842
-  { annict_id: 12842, mal_id: 4419 },
+  { annict_id: 12842, mal_id: 4419, syobocal_tid: 1363 },
   // [2002-null] WEB: CATMAN series II
   // https://annict.com/works/12843
   { annict_id: 12843, mal_id: 4418 },
@@ -38656,7 +38656,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13404 },
   // [2008-WINTER] TV: 星新一 ショートショート
   // https://annict.com/works/13405
-  { annict_id: 13405, mal_id: 8191 },
+  { annict_id: 13405, mal_id: 8191, syobocal_tid: 1387 },
   // [2008-SUMMER] MOVIE: 東京オンリーピック
   // https://annict.com/works/13406
   { annict_id: 13406, mal_id: 33533 },
