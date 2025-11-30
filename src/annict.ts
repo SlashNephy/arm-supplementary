@@ -48722,4 +48722,7 @@ export const annict: ArmEntry[] = [
   // [2009-AUTUMN] TV: エリアス ちいさなレスキューせん
   // https://annict.com/works/16774
   { annict_id: 16774, syobocal_tid: 1764 },
+  // [2022-WINTER] TV: えとえとせとら
+  // https://annict.com/works/16775
+  { annict_id: 16775, mal_id: 58263 },
 ]
