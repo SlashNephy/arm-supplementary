@@ -48716,4 +48716,7 @@ export const annict: ArmEntry[] = [
   // [2009-SPRING] TV: のちのちペット
   // https://annict.com/works/16772
   { annict_id: 16772 },
+  // [2009-SUMMER] TV: ぎゅっ！してMuMu
+  // https://annict.com/works/16773
+  { annict_id: 16773 },
 ]
