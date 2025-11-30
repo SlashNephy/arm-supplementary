@@ -48710,4 +48710,7 @@ export const annict: ArmEntry[] = [
   // [2010-SPRING] TV: ネイバーズ
   // https://annict.com/works/16770
   { annict_id: 16770 },
+  // [2008-SUMMER] TV: なぞなぞケロロン
+  // https://annict.com/works/16771
+  { annict_id: 16771 },
 ]
