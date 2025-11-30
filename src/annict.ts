@@ -604,7 +604,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 200, mal_id: 8345, syobocal_tid: 1697 },
   // [2009-SPRING] TV: うっかりペネロペ 第2シリーズ
   // https://annict.com/works/201
-  { annict_id: 201, mal_id: 6822 },
+  { annict_id: 201, mal_id: 6822, syobocal_tid: 1695 },
   // [2013-SUMMER] TV: うっかりペネロペ 第3シリーズ
   // https://annict.com/works/202
   { annict_id: 202, mal_id: 34078 },
@@ -2926,7 +2926,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 976, mal_id: 3809 },
   // [2009-SPRING] TV: 真マジンガー衝撃！Z編
   // https://annict.com/works/977
-  { annict_id: 977, mal_id: 5485 },
+  { annict_id: 977, mal_id: 5485, syobocal_tid: 1608 },
   // [2000-AUTUMN] TV: 真・女神転生デビチル
   // https://annict.com/works/978
   { annict_id: 978, mal_id: 4067, syobocal_tid: 919 },
@@ -4957,7 +4957,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1654, mal_id: 67, syobocal_tid: 567 },
   // [2009-SPRING] TV: バスカッシュ！-BASQUASH-
   // https://annict.com/works/1655
-  { annict_id: 1655, syobocal_tid: 1600 },
+  { annict_id: 1655, mal_id: 5675, syobocal_tid: 1600 },
   // [2007-SUMMER] TV: バッカーノ！
   // https://annict.com/works/1656
   { annict_id: 1656, mal_id: 2251, syobocal_tid: 590 },
@@ -9877,7 +9877,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3305, mal_id: 15197 },
   // [2009-SPRING] MOVIE: 劇場版 交響詩篇エウレカセブン ポケットが虹でいっぱい
   // https://annict.com/works/3306
-  { annict_id: 3306, mal_id: 4246 },
+  { annict_id: 3306, mal_id: 4246, syobocal_tid: 1805 },
   // [2004-SUMMER] MOVIE: 劇場版 金色のガッシュベル!! 101番目の魔物
   // https://annict.com/works/3307
   { annict_id: 3307, mal_id: 844 },
@@ -11077,7 +11077,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3705, mal_id: 2733, syobocal_tid: 672 },
   // [2009-SPRING] MOVIE: 宮本武蔵 ―双剣に馳せる夢―
   // https://annict.com/works/3706
-  { annict_id: 3706, mal_id: 5386 },
+  { annict_id: 3706, mal_id: 5386, syobocal_tid: 2008 },
   // [1995-SUMMER] MOVIE: 耳をすませば
   // https://annict.com/works/3707
   { annict_id: 3707, mal_id: 585, syobocal_tid: 3049 },
@@ -29785,7 +29785,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10436, mal_id: 2732 },
   // [2009-SPRING] TV: ヒゲぴよ
   // https://annict.com/works/10437
-  { annict_id: 10437, mal_id: 5983 },
+  { annict_id: 10437, mal_id: 5983, syobocal_tid: 1727 },
   // [2011-SPRING] TV: ソッキーズ フロンティアクエスト
   // https://annict.com/works/10438
   { annict_id: 10438, mal_id: 8143 },
@@ -34357,7 +34357,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11964, mal_id: 15141 },
   // [2009-SPRING] OVA: COBRA THE ANIMATION タイム・ドライブ
   // https://annict.com/works/11965
-  { annict_id: 11965, mal_id: 5031 },
+  { annict_id: 11965, mal_id: 5031, syobocal_tid: 1735 },
   // [2001-SUMMER] MOVIE: いのちの地球 ダイオキシンの夏
   // https://annict.com/works/11966
   { annict_id: 11966, mal_id: 9495 },
@@ -35221,7 +35221,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12255, mal_id: 19511 },
   // [2009-SPRING] OVA: きグルみっく☆V3
   // https://annict.com/works/12256
-  { annict_id: 12256, mal_id: 6318 },
+  { annict_id: 12256, mal_id: 6318, syobocal_tid: 1654 },
   // [2011-WINTER] OVA: ナナとカオル
   // https://annict.com/works/12257
   { annict_id: 12257, mal_id: 9741 },
@@ -46030,7 +46030,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15870 },
   // [2001-AUTUMN] TV: ドーラといっしょに大冒険
   // https://annict.com/works/15871
-  { annict_id: 15871 },
+  { annict_id: 15871, syobocal_tid: 1640 },
   // [2026-null] TV: わたしの幸せな結婚 特別篇
   // https://annict.com/works/15872
   { annict_id: 15872, mal_id: 61440 },
