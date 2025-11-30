@@ -48707,4 +48707,7 @@ export const annict: ArmEntry[] = [
   // [2009-SUMMER] TV: レイナレイナ
   // https://annict.com/works/16769
   { annict_id: 16769, mal_id: 29003, syobocal_tid: 1647 },
+  // [2010-SPRING] TV: ネイバーズ
+  // https://annict.com/works/16770
+  { annict_id: 16770 },
 ]
