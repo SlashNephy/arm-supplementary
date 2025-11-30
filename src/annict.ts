@@ -48719,4 +48719,7 @@ export const annict: ArmEntry[] = [
   // [2009-SUMMER] TV: ぎゅっ！してMuMu
   // https://annict.com/works/16773
   { annict_id: 16773 },
+  // [2009-AUTUMN] TV: エリアス ちいさなレスキューせん
+  // https://annict.com/works/16774
+  { annict_id: 16774, syobocal_tid: 1764 },
 ]
