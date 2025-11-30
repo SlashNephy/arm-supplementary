@@ -48700,7 +48700,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16766, mal_id: 63034 },
   // [null-null] TV: カリスマ
   // https://annict.com/works/16767
-  { annict_id: 16767 },
+  { annict_id: 16767, mal_id: 63038 },
   // [null-null] OTHER: えぶりでいホスト 続編
   // https://annict.com/works/16768
   { annict_id: 16768, mal_id: 63035 },
