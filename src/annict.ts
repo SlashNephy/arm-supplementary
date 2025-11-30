@@ -4531,7 +4531,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1511, mal_id: 5597, syobocal_tid: 1584 },
   // [2009-AUTUMN] TV: 夏のあらし！春夏冬中
   // https://annict.com/works/1512
-  { annict_id: 1512, mal_id: 6712 },
+  { annict_id: 1512, mal_id: 6712, syobocal_tid: 1706 },
   // [2008-SUMMER] TV: 夏目友人帳
   // https://annict.com/works/1513
   { annict_id: 1513, mal_id: 4081, syobocal_tid: 1414 },
@@ -5902,7 +5902,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1969, mal_id: 10338 },
   // [2009-AUTUMN] TV: ぼく チロ！
   // https://annict.com/works/1970
-  { annict_id: 1970, mal_id: 38092 },
+  { annict_id: 1970, mal_id: 38092, syobocal_tid: 1803 },
   // [2013-SPRING] TV: ぼくは王さま
   // https://annict.com/works/1971
   { annict_id: 1971, mal_id: 18191, syobocal_tid: 2964 },
@@ -11410,7 +11410,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3817, mal_id: 5060, syobocal_tid: 1531 },
   // [2010-WINTER] WEB: ヘタリア World Series (第3期)
   // https://annict.com/works/3818
-  { annict_id: 3818, mal_id: 8479 },
+  { annict_id: 3818, mal_id: 8479, syobocal_tid: 3855 },
   // [2013-WINTER] WEB: ヘタリア The Beautiful World (第5期)
   // https://annict.com/works/3819
   { annict_id: 3819, mal_id: 15195, syobocal_tid: 3856 },
@@ -32998,7 +32998,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11510, mal_id: 21875 },
   // [2009-AUTUMN] OVA: TO
   // https://annict.com/works/11511
-  { annict_id: 11511, mal_id: 7279 },
+  { annict_id: 11511, mal_id: 7279, syobocal_tid: 1798 },
   // [1994-SUMMER] OVA: 逮捕しちゃうぞ (OVA)
   // https://annict.com/works/11512
   { annict_id: 11512, mal_id: 1577 },
@@ -34915,7 +34915,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12152, mal_id: 6275 },
   // [2009-AUTUMN] TV: うさるさん
   // https://annict.com/works/12153
-  { annict_id: 12153, mal_id: 7174 },
+  { annict_id: 12153, mal_id: 7174, syobocal_tid: 1739 },
   // [2010-WINTER] TV: ポケモンレンジャー 光の軌跡
   // https://annict.com/works/12154
   { annict_id: 12154, mal_id: 8438 },
@@ -35017,7 +35017,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12186, mal_id: 10304 },
   // [2010-SPRING] MOVIE: ジュノー
   // https://annict.com/works/12187
-  { annict_id: 12187, mal_id: 9525 },
+  { annict_id: 12187, mal_id: 9525, syobocal_tid: 2642 },
   // [2014-SUMMER] OVA: サクラカプセル
   // https://annict.com/works/12188
   { annict_id: 12188, mal_id: 25915 },
@@ -36391,7 +36391,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12647 },
   // [2009-SUMMER] TV: チャギントン
   // https://annict.com/works/12648
-  { annict_id: 12648 },
+  { annict_id: 12648, syobocal_tid: 1737 },
   // [2024-AUTUMN] WEB: 夜は猫といっしょ 3期
   // https://annict.com/works/12649
   { annict_id: 12649, mal_id: 58199, syobocal_tid: 7300 },
@@ -48704,4 +48704,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: えぶりでいホスト 続編
   // https://annict.com/works/16768
   { annict_id: 16768, mal_id: 63035 },
+  // [2009-SUMMER] TV: レイナレイナ
+  // https://annict.com/works/16769
+  { annict_id: 16769, mal_id: 29003, syobocal_tid: 1647 },
 ]
