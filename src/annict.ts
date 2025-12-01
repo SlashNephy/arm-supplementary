@@ -48725,4 +48725,10 @@ export const annict: ArmEntry[] = [
   // [2022-WINTER] TV: えとえとせとら
   // https://annict.com/works/16775
   { annict_id: 16775, mal_id: 58263 },
+  // [2019-null] WEB: スプーキッズ　クッキー
+  // https://annict.com/works/16776
+  { annict_id: 16776 },
+  // [2020-null] WEB: スプーキッズ(シーズン4)
+  // https://annict.com/works/16777
+  { annict_id: 16777 },
 ]
