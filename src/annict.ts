@@ -3586,7 +3586,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1196, mal_id: 3937 },
   // [2010-AUTUMN] TV: たちゅまる劇場
   // https://annict.com/works/1197
-  { annict_id: 1197, mal_id: 9562 },
+  { annict_id: 1197, mal_id: 9562, syobocal_tid: 2052 },
   // [2013-WINTER] TV: たまこまーけっと
   // https://annict.com/works/1198
   { annict_id: 1198, mal_id: 16417, syobocal_tid: 2825 },
@@ -9553,7 +9553,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3196 },
   // [2010-SUMMER] MOVIE: Colorful カラフル
   // https://annict.com/works/3197
-  { annict_id: 3197, mal_id: 8142 },
+  { annict_id: 3197, mal_id: 8142, syobocal_tid: 2016 },
   // [2001-SUMMER] MOVIE: COWBOY BEBOP 天国の扉
   // https://annict.com/works/3198
   { annict_id: 3198, mal_id: 5, syobocal_tid: 310 },
@@ -25405,7 +25405,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 8875, mal_id: 49780, syobocal_tid: 6253 },
   // [2010-AUTUMN] MOVIE: 怪盗グルーの月泥棒 3D
   // https://annict.com/works/8876
-  { annict_id: 8876 },
+  { annict_id: 8876, syobocal_tid: 2662 },
   // [2013-SUMMER] MOVIE: 怪盗グルーのミニオン危機一発
   // https://annict.com/works/8877
   { annict_id: 8877 },
@@ -25594,7 +25594,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 8970, mal_id: 42004 },
   // [2010-AUTUMN] MOVIE: 劇場版 くまのがっこう ジャッキーとケイティ
   // https://annict.com/works/8971
-  { annict_id: 8971, mal_id: 9339 },
+  { annict_id: 8971, mal_id: 9339, syobocal_tid: 2904 },
   // [2021-SUMMER] OVA: RWBY VOLUME 5
   // https://annict.com/works/8972
   { annict_id: 8972 },
@@ -33124,7 +33124,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11553, mal_id: 10177, syobocal_tid: 2101 },
   // [2010-SUMMER] TV: 学校のコワイうわさ 新・花子さんがきた!!
   // https://annict.com/works/11554
-  { annict_id: 11554, mal_id: 9345 },
+  { annict_id: 11554, mal_id: 9345, syobocal_tid: 2014 },
   // [2011-SPRING] TV: 爆丸 バトルブローラーズ ガンダリアンインベーダーズ
   // https://annict.com/works/11555
   { annict_id: 11555, mal_id: 7334, syobocal_tid: 2168 },
@@ -40945,7 +40945,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14172, mal_id: 18071 },
   // [2010-AUTUMN] MOVIE: チェブラーシカ
   // https://annict.com/works/14173
-  { annict_id: 14173, mal_id: 9340 },
+  { annict_id: 14173, mal_id: 9340, syobocal_tid: 3196 },
   // [1930-AUTUMN] MOVIE: 手風琴ジョー
   // https://annict.com/works/14174
   { annict_id: 14174 },
