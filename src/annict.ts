@@ -9394,7 +9394,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3143, mal_id: 3051, syobocal_tid: 2444 },
   // [2010-SPRING] MOVIE: いばらの王 ‐King of Thorn‐
   // https://annict.com/works/3144
-  { annict_id: 3144, mal_id: 6610 },
+  { annict_id: 3144, mal_id: 6610, syobocal_tid: 2247 },
   // [2004-SPRING] MOVIE: イノセンス
   // https://annict.com/works/3145
   { annict_id: 3145, mal_id: 468, syobocal_tid: 603 },
@@ -16738,7 +16738,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5615, syobocal_tid: 1628 },
   // [2010-SPRING] TV: スター・ウォーズ/クローン・ウォーズ (テレビシリーズ シーズン2)
   // https://annict.com/works/5616
-  { annict_id: 5616 },
+  { annict_id: 5616, syobocal_tid: 1902 },
   // [2011-SUMMER] TV: スター・ウォーズ/クローン・ウォーズ (テレビシリーズ シーズン3)
   // https://annict.com/works/5617
   { annict_id: 5617 },
@@ -17629,7 +17629,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5915, mal_id: 8197 },
   // [2010-SPRING] OVA: GA 芸術科アートデザインクラス OVA「青空が描きたい」
   // https://annict.com/works/5916
-  { annict_id: 5916, mal_id: 6959 },
+  { annict_id: 5916, mal_id: 6959, syobocal_tid: 2057 },
   // [2017-SPRING] OVA: ナンバカ 番外編・第26話「出席番号のついたバカたち!」
   // https://annict.com/works/5917
   { annict_id: 5917, mal_id: 34533 },
@@ -30694,7 +30694,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10741, mal_id: 7669 },
   // [2010-SPRING] OVA: "文学少女" メモワール
   // https://annict.com/works/10742
-  { annict_id: 10742, mal_id: 8481 },
+  { annict_id: 10742, mal_id: 8481, syobocal_tid: 2202 },
   // [1985-SUMMER] MOVIE: 銀河鉄道の夜
   // https://annict.com/works/10743
   { annict_id: 10743, mal_id: 1441, syobocal_tid: 2385 },
@@ -32488,7 +32488,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11339 },
   // [2010-SPRING] MOVIE: 9 〜9番目の奇妙な人形〜
   // https://annict.com/works/11340
-  { annict_id: 11340 },
+  { annict_id: 11340, syobocal_tid: 3646 },
   // [1980-WINTER] MOVIE: あしたのジョー 劇場版
   // https://annict.com/works/11341
   { annict_id: 11341, mal_id: 2920, syobocal_tid: 4814 },
@@ -48604,7 +48604,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16734, mal_id: 63011 },
   // [2024-WINTER] MOVIE: セマンティックエラー
   // https://annict.com/works/16735
-  { annict_id: 16735 },
+  { annict_id: 16735, mal_id: 49202 },
   // [2004-SUMMER] OVA: MEZZO FORTE International Version
   // https://annict.com/works/16736
   { annict_id: 16736, syobocal_tid: 1272 },
@@ -48727,8 +48727,26 @@ export const annict: ArmEntry[] = [
   { annict_id: 16775, mal_id: 58263 },
   // [2019-null] WEB: スプーキッズ　クッキー
   // https://annict.com/works/16776
-  { annict_id: 16776 },
+  { annict_id: 16776, mal_id: 59628 },
   // [2020-null] WEB: スプーキッズ(シーズン4)
   // https://annict.com/works/16777
-  { annict_id: 16777 },
+  { annict_id: 16777, mal_id: 54059 },
+  // [2005-SUMMER] TV: ポッツィー
+  // https://annict.com/works/16778
+  { annict_id: 16778 },
+  // [2010-WINTER] TV: マノン
+  // https://annict.com/works/16779
+  { annict_id: 16779, syobocal_tid: 1850 },
+  // [2011-SUMMER] TV: マノン(第2期)
+  // https://annict.com/works/16780
+  { annict_id: 16780, syobocal_tid: 2232 },
+  // [2011-AUTUMN] TV: マノン(第3期)
+  // https://annict.com/works/16781
+  { annict_id: 16781, syobocal_tid: 2319 },
+  // [2010-AUTUMN] TV: ネリーとセザール
+  // https://annict.com/works/16782
+  { annict_id: 16782, syobocal_tid: 2251 },
+  // [2010-AUTUMN] TV: 鉄拳戦士アイアン・キッド
+  // https://annict.com/works/16783
+  { annict_id: 16783, mal_id: 20945 },
 ]
