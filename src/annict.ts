@@ -48749,4 +48749,28 @@ export const annict: ArmEntry[] = [
   // [2010-AUTUMN] TV: 鉄拳戦士アイアン・キッド
   // https://annict.com/works/16783
   { annict_id: 16783, mal_id: 20945 },
+  // [1999-null] TV: 柿の木もっきい
+  // https://annict.com/works/16784
+  { annict_id: 16784, mal_id: 29481 },
+  // [1995-SUMMER] TV: 恐竜ピコラ
+  // https://annict.com/works/16785
+  { annict_id: 16785, mal_id: 29493 },
+  // [1996-SPRING] TV: Go!Go!ベジタン
+  // https://annict.com/works/16786
+  { annict_id: 16786, mal_id: 29497 },
+  // [2001-SPRING] TV: TheNightGame ネコのさくせん
+  // https://annict.com/works/16787
+  { annict_id: 16787, mal_id: 29501 },
+  // [1995-WINTER] TV: すなあそび
+  // https://annict.com/works/16788
+  { annict_id: 16788, mal_id: 29505 },
+  // [1994-AUTUMN] TV: なんじゃもんじゃおばけ
+  // https://annict.com/works/16789
+  { annict_id: 16789, mal_id: 29495 },
+  // [1998-SUMMER] TV: ハスの妖精 ぼにょぼにょ
+  // https://annict.com/works/16790
+  { annict_id: 16790, mal_id: 29499 },
+  // [1996-AUTUMN] TV: バベルの本
+  // https://annict.com/works/16791
+  { annict_id: 16791, mal_id: 4458 },
 ]
