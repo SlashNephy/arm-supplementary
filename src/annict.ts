@@ -48773,4 +48773,7 @@ export const annict: ArmEntry[] = [
   // [1996-AUTUMN] TV: バベルの本
   // https://annict.com/works/16791
   { annict_id: 16791, mal_id: 4458 },
+  // [null-null] TV: 鎧真伝サムライトルーパー 第2クール
+  // https://annict.com/works/16792
+  { annict_id: 16792 },
 ]
