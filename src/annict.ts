@@ -632,7 +632,7 @@ export const annict: ArmEntry[] = [
   // [2006-SPRING] TV: ウィッチブレイド -WITCHBLADE-
   // https://annict.com/works/210
   { annict_id: 210, mal_id: 935, syobocal_tid: 796 },
-  // [2007-SPRING] TV: ウエルベールの物語～Sisters of Wellber～
+  // [2007-SPRING] TV: ウエルベールの物語 ～Sisters of Wellber～
   // https://annict.com/works/211
   { annict_id: 211, mal_id: 2032, syobocal_tid: 1079 },
   // [1969-SPRING] TV: ウメ星デンカ
