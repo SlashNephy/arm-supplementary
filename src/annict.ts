@@ -5812,7 +5812,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1939, mal_id: 3366, syobocal_tid: 1304 },
   // [2011-AUTUMN] TV: Persona4 the ANIMATION
   // https://annict.com/works/1940
-  { annict_id: 1940, mal_id: 10588 },
+  { annict_id: 1940, mal_id: 10588, syobocal_tid: 2260 },
   // [1999-WINTER] TV: Petshop of Horrors
   // https://annict.com/works/1941
   { annict_id: 1941, mal_id: 326 },
@@ -6061,7 +6061,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2022, mal_id: 3654, syobocal_tid: 1475 },
   // [2011-AUTUMN] TV: ましろ色シンフォニー
   // https://annict.com/works/2023
-  { annict_id: 2023, mal_id: 10397 },
+  { annict_id: 2023, mal_id: 10397, syobocal_tid: 2256 },
   // [1990-SUMMER] TV: まじかる☆タルるートくん
   // https://annict.com/works/2024
   { annict_id: 2024, mal_id: 5274 },
@@ -8284,7 +8284,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2770, mal_id: 3328, syobocal_tid: 1879 },
   // [2011-WINTER] OVA: SUPERNATURAL THE ANIMATION
   // https://annict.com/works/2771
-  { annict_id: 2771, mal_id: 8986 },
+  { annict_id: 2771, mal_id: 8986, syobocal_tid: 2304 },
   // [2006-SUMMER] OVA: スカイガールズ（OVA）
   // https://annict.com/works/2772
   { annict_id: 2772, mal_id: 1480, syobocal_tid: 1094 },
@@ -17524,7 +17524,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5880, mal_id: 17725 },
   // [2011-SUMMER] OVA: 神のみぞ知るセカイ OVA「4人とアイドル」
   // https://annict.com/works/5881
-  { annict_id: 5881, mal_id: 10805 },
+  { annict_id: 5881, mal_id: 10805, syobocal_tid: 5495 },
   // [2017-SPRING] OVA: 青の祓魔師 京都不浄王篇 OVA
   // https://annict.com/works/5882
   { annict_id: 5882, mal_id: 34465 },
@@ -34225,7 +34225,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11920, mal_id: 537 },
   // [2011-SUMMER] MOVIE: 鉄拳 ブラッド・ベンジェンス
   // https://annict.com/works/11921
-  { annict_id: 11921, mal_id: 10702 },
+  { annict_id: 11921, mal_id: 10702, syobocal_tid: 2856 },
   // [2022-SUMMER] WEB: Tekken: Bloodline
   // https://annict.com/works/11922
   { annict_id: 11922, mal_id: 51347 },
@@ -48776,4 +48776,13 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 鎧真伝サムライトルーパー 第2クール
   // https://annict.com/works/16792
   { annict_id: 16792 },
+  // [2011-SUMMER] WEB: カッコカワイイ宣言！(第2期)
+  // https://annict.com/works/16793
+  { annict_id: 16793, mal_id: 10908, syobocal_tid: 2527 },
+  // [2011-AUTUMN] OVA: クイーンズブレイド 新たなる師弟、新たなる闘い
+  // https://annict.com/works/16794
+  { annict_id: 16794, mal_id: 10924, syobocal_tid: 6094 },
+  // [2012-WINTER] OVA: クイーンズブレイド リベリオン 聖女の煩悶～信仰の扉は、また開く～
+  // https://annict.com/works/16795
+  { annict_id: 16795, mal_id: 12065, syobocal_tid: 6095 },
 ]
