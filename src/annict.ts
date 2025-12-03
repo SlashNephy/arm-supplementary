@@ -47608,10 +47608,10 @@ export const annict: ArmEntry[] = [
   { annict_id: 16398, mal_id: 62083 },
   // [2025-AUTUMN] OVA: ぬきたし THE ANIMATION 完全新作ショートOVA 上巻
   // https://annict.com/works/16399
-  { annict_id: 16399 },
+  { annict_id: 16399, mal_id: 63046 },
   // [2025-AUTUMN] OVA: ぬきたし THE ANIMATION 完全新作ショートOVA 下巻
   // https://annict.com/works/16400
-  { annict_id: 16400 },
+  { annict_id: 16400, mal_id: 63046 },
   // [2025-SUMMER] WEB: デキちゃうまで婚ぷちっ！  ～野菜だってデキちゃう！～
   // https://annict.com/works/16401
   { annict_id: 16401 },
@@ -48634,7 +48634,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16744, mal_id: 17493, syobocal_tid: 1219 },
   // [2026-null] TV: 名探偵プリキュア！
   // https://annict.com/works/16745
-  { annict_id: 16745 },
+  { annict_id: 16745, mal_id: 63042 },
   // [2026-WINTER] WEB: プリズム輪舞曲
   // https://annict.com/works/16746
   { annict_id: 16746, mal_id: 63019 },
@@ -48775,7 +48775,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16791, mal_id: 4458 },
   // [null-null] TV: 鎧真伝サムライトルーパー 第2クール
   // https://annict.com/works/16792
-  { annict_id: 16792 },
+  { annict_id: 16792, mal_id: 63047 },
   // [2011-SUMMER] WEB: カッコカワイイ宣言！(第2期)
   // https://annict.com/works/16793
   { annict_id: 16793, mal_id: 10908, syobocal_tid: 2527 },
@@ -48785,4 +48785,7 @@ export const annict: ArmEntry[] = [
   // [2012-WINTER] OVA: クイーンズブレイド リベリオン 聖女の煩悶～信仰の扉は、また開く～
   // https://annict.com/works/16795
   { annict_id: 16795, mal_id: 12065, syobocal_tid: 6095 },
+  // [null-null] OTHER: デモンズ・クレスト
+  // https://annict.com/works/16796
+  { annict_id: 16796, mal_id: 63045 },
 ]
