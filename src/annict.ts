@@ -48788,4 +48788,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: デモンズ・クレスト
   // https://annict.com/works/16796
   { annict_id: 16796, mal_id: 63045 },
+  // [null-null] OTHER: ワールドトリガー REBOOTプロジェクト
+  // https://annict.com/works/16797
+  { annict_id: 16797 },
 ]
