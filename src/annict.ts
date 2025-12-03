@@ -5503,7 +5503,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1836, mal_id: 1519, syobocal_tid: 1004 },
   // [2011-SUMMER] TV: BLADE
   // https://annict.com/works/1837
-  { annict_id: 1837, mal_id: 6920 },
+  { annict_id: 1837, mal_id: 6920, syobocal_tid: 2239 },
   // [2008-SPRING] TV: BLASSREITER
   // https://annict.com/works/1838
   { annict_id: 1838, mal_id: 3407, syobocal_tid: 1368 },
@@ -32581,7 +32581,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11370, syobocal_tid: 1192 },
   // [2007-SUMMER] TV: ご存知！かくざ父さん
   // https://annict.com/works/11371
-  { annict_id: 11371, mal_id: 41117 },
+  { annict_id: 11371, mal_id: 41117, syobocal_tid: 1192 },
   // [2007-SUMMER] TV: 本マグロトロ太郎
   // https://annict.com/works/11372
   { annict_id: 11372, mal_id: 53090, syobocal_tid: 1192 },
@@ -33160,7 +33160,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11565, mal_id: 11609 },
   // [2011-SUMMER] TV: プ〜ねこ小劇場
   // https://annict.com/works/11566
-  { annict_id: 11566, mal_id: 11589 },
+  { annict_id: 11566, mal_id: 11589, syobocal_tid: 2181 },
   // [2011-AUTUMN] TV: ズーブルズ!
   // https://annict.com/works/11567
   { annict_id: 11567, mal_id: 13167, syobocal_tid: 2440 },
