@@ -16741,7 +16741,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5616, syobocal_tid: 1902 },
   // [2011-SUMMER] TV: スター・ウォーズ/クローン・ウォーズ (テレビシリーズ シーズン3)
   // https://annict.com/works/5617
-  { annict_id: 5617 },
+  { annict_id: 5617, syobocal_tid: 2236 },
   // [2012-AUTUMN] TV: スター・ウォーズ/クローン・ウォーズ (テレビシリーズ シーズン4)
   // https://annict.com/works/5618
   { annict_id: 5618 },
