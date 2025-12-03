@@ -2074,7 +2074,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 691, mal_id: 12243 },
   // [2011-SPRING] TV: 元気!!江古田ちゃん
   // https://annict.com/works/692
-  { annict_id: 692, mal_id: 10540 },
+  { annict_id: 692, mal_id: 10540, syobocal_tid: 2181 },
   // [1992-SPRING] TV: 元気爆発ガンバルガー
   // https://annict.com/works/693
   { annict_id: 693, mal_id: 2916, syobocal_tid: 3587 },
@@ -2884,7 +2884,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 962, mal_id: 8337, syobocal_tid: 1900 },
   // [2011-SPRING] TV: 汐留ケーブルテレビ
   // https://annict.com/works/963
-  { annict_id: 963, mal_id: 10633 },
+  { annict_id: 963, mal_id: 10633, syobocal_tid: 2181 },
   // [1997-AUTUMN] TV: 深海伝説MEREMANOID
   // https://annict.com/works/964
   { annict_id: 964, mal_id: 15579 },
@@ -2983,7 +2983,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 995, mal_id: 4814, syobocal_tid: 1482 },
   // [2011-SPRING] TV: 週刊シマコー
   // https://annict.com/works/996
-  { annict_id: 996, mal_id: 10541 },
+  { annict_id: 996, mal_id: 10541, syobocal_tid: 2181 },
   // [2013-SPRING] TV: 進撃の巨人
   // https://annict.com/works/997
   { annict_id: 997, mal_id: 16498, syobocal_tid: 2935 },
@@ -3613,7 +3613,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1205, mal_id: 12549, syobocal_tid: 2575 },
   // [2011-SUMMER] TV: だぶるじぇい
   // https://annict.com/works/1206
-  { annict_id: 1206, mal_id: 10838 },
+  { annict_id: 1206, mal_id: 10838, syobocal_tid: 2181 },
   // [2005-WINTER] TV: だめっこどうぶつ
   // https://annict.com/works/1207
   { annict_id: 1207, mal_id: 485, syobocal_tid: 553 },
@@ -4888,7 +4888,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1631, mal_id: 19681, syobocal_tid: 4676 },
   // [2011-SPRING] TV: ハトのおよめさん
   // https://annict.com/works/1632
-  { annict_id: 1632, mal_id: 10539 },
+  { annict_id: 1632, mal_id: 10539, syobocal_tid: 2181 },
   // [1997-AUTUMN] TV: ハニ太郎です。
   // https://annict.com/works/1633
   { annict_id: 1633, mal_id: 34831 },
@@ -5779,7 +5779,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1928, mal_id: 16650 },
   // [2011-SPRING] TV: プ～ねこ
   // https://annict.com/works/1929
-  { annict_id: 1929, mal_id: 10459 },
+  { annict_id: 1929, mal_id: 10459, syobocal_tid: 2181 },
   // [2009-AUTUMN] TV: 冬のソナタ Winter Sonata the Animation
   // https://annict.com/works/1930
   { annict_id: 1930, mal_id: 4189 },
@@ -5899,7 +5899,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1968 },
   // [2011-SPRING] TV: ほんとにあった！霊媒先生
   // https://annict.com/works/1969
-  { annict_id: 1969, mal_id: 10338 },
+  { annict_id: 1969, mal_id: 10338, syobocal_tid: 2181 },
   // [2009-AUTUMN] TV: ぼく チロ！
   // https://annict.com/works/1970
   { annict_id: 1970, mal_id: 38092, syobocal_tid: 1803 },
@@ -9634,7 +9634,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3223 },
   // [2011-WINTER] MOVIE: キズナ一撃
   // https://annict.com/works/3224
-  { annict_id: 3224, mal_id: 10016 },
+  { annict_id: 3224, mal_id: 10016, syobocal_tid: 2128 },
   // [2013-SUMMER] MOVIE: キャプテンハーロック -SPACE PIRATE CAPTAIN HARLOCK-
   // https://annict.com/works/3225
   { annict_id: 3225, mal_id: 17269 },
@@ -11404,7 +11404,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3815, mal_id: 11103 },
   // [2011-SPRING] WEB: ＋チック姉さん
   // https://annict.com/works/3816
-  { annict_id: 3816, mal_id: 10711 },
+  { annict_id: 3816, mal_id: 10711, syobocal_tid: 6686 },
   // [2009-SUMMER] WEB: ヘタリア Axis Powers (第2期)
   // https://annict.com/works/3817
   { annict_id: 3817, mal_id: 5060, syobocal_tid: 1531 },
@@ -31915,7 +31915,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11148 },
   // [2011-SPRING] TV: エックスメン
   // https://annict.com/works/11149
-  { annict_id: 11149, mal_id: 6919 },
+  { annict_id: 11149, mal_id: 6919, syobocal_tid: 2165 },
   // [2002-AUTUMN] TV: ポケットモンスター サイドストーリー
   // https://annict.com/works/11150
   { annict_id: 11150, mal_id: 2363 },
@@ -33808,7 +33808,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11781, mal_id: 30905 },
   // [2011-WINTER] TV: 大人女子のアニメタイム
   // https://annict.com/works/11782
-  { annict_id: 11782, mal_id: 10178 },
+  { annict_id: 11782, mal_id: 10178, syobocal_tid: 2102 },
   // [2013-SPRING] TV: 爆獣合神ジグルハゼル
   // https://annict.com/works/11783
   { annict_id: 11783, mal_id: 18227 },
@@ -47957,7 +47957,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] TV: スマーフ シーズン3
   // https://annict.com/works/16515
   { annict_id: 16515, syobocal_tid: 7586 },
-  // [2026-SPRING] MOVIE: 劇場版『名探偵コナン2026』
+  // [2026-SPRING] MOVIE: 名探偵コナン ハイウェイの堕天使
   // https://annict.com/works/16516
   { annict_id: 16516, mal_id: 62387 },
   // [2026-WINTER] MOVIE: 映画ドラえもん 新・のび太の海底鬼岩城
