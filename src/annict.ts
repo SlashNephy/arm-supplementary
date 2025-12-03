@@ -48092,7 +48092,7 @@ export const annict: ArmEntry[] = [
   // [2015-WINTER] OVA: 咲-Saki- 阿知賀編 episode of side-A ショートオリジナルアニメ「玄の誕生日」
   // https://annict.com/works/16560
   { annict_id: 16560, mal_id: 30292 },
-  // [null-null] MOVIE: 劇場版 銀河特急 ミルキー☆サブウェイ
+  // [2026-WINTER] MOVIE: 銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き
   // https://annict.com/works/16561
   { annict_id: 16561, mal_id: 62518 },
   // [null-null] TV: ダンダダン 第3期
