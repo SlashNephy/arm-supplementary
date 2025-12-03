@@ -994,7 +994,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 330, mal_id: 7769, syobocal_tid: 1956 },
   // [2012-WINTER] TV: オズマ
   // https://annict.com/works/331
-  { annict_id: 331, mal_id: 12677 },
+  { annict_id: 331, mal_id: 12677, syobocal_tid: 2455 },
   // [1965-SUMMER] TV: オバケのQ太郎
   // https://annict.com/works/332
   { annict_id: 332, mal_id: 1547 },
@@ -27484,7 +27484,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 9665, mal_id: 10017 },
   // [2011-AUTUMN] MOVIE: friends もののけ島のナキ
   // https://annict.com/works/9666
-  { annict_id: 9666, mal_id: 10115 },
+  { annict_id: 9666, mal_id: 10115, syobocal_tid: 3089 },
   // [2022-SUMMER] TV: 咲う アルスノトリア すんっ！
   // https://annict.com/works/9667
   { annict_id: 9667, mal_id: 51923, syobocal_tid: 6407 },
@@ -28867,7 +28867,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10128, mal_id: 53262, syobocal_tid: 6837 },
   // [2012-SPRING] MOVIE: 旅するぬいぐるみ
   // https://annict.com/works/10129
-  { annict_id: 10129, mal_id: 15077 },
+  { annict_id: 10129, mal_id: 15077, syobocal_tid: 2974 },
   // [2005-AUTUMN] MOVIE: 惑星大怪獣ネガドン
   // https://annict.com/works/10130
   { annict_id: 10130, mal_id: 3070, syobocal_tid: 922 },
