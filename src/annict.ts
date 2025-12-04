@@ -8218,7 +8218,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 2747, mal_id: 255, syobocal_tid: 2439 },
   // [2012-SUMMER] OVA: 侵略！！イカ娘
   // https://annict.com/works/2748
-  { annict_id: 2748, mal_id: 13267 },
+  { annict_id: 2748, mal_id: 13267, syobocal_tid: 2914 },
   // [1992-SPRING] OVA: 創世機士ガイアース
   // https://annict.com/works/2749
   { annict_id: 2749, mal_id: 2068 },
@@ -9271,7 +9271,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3102, mal_id: 2219 },
   // [2012-SUMMER] OVA: 輪廻のラグランジェ OVA
   // https://annict.com/works/3103
-  { annict_id: 3103, mal_id: 13727 },
+  { annict_id: 3103, mal_id: 13727, syobocal_tid: 3461 },
   // [2001-AUTUMN] OVA: るろうに剣心-明治剣客浪漫譚- 星霜編
   // https://annict.com/works/3104
   { annict_id: 3104, mal_id: 401, syobocal_tid: 2581 },
@@ -15346,7 +15346,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5146, mal_id: 3288 },
   // [2012-AUTUMN] MOVIE: バイオハザード ダムネーション
   // https://annict.com/works/5147
-  { annict_id: 5147, mal_id: 9544 },
+  { annict_id: 5147, mal_id: 9544, syobocal_tid: 6774 },
   // [2012-AUTUMN] OVA: ドグラ・マグラ
   // https://annict.com/works/5148
   { annict_id: 5148, mal_id: 53154 },
@@ -18601,7 +18601,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6241, mal_id: 36761 },
   // [2018-AUTUMN] TV: ほら、耳がみえてるよ！
   // https://annict.com/works/6242
-  { annict_id: 6242, syobocal_tid: 5098 },
+  { annict_id: 6242, mal_id: 38217, syobocal_tid: 5098 },
   // [2018-AUTUMN] TV: その時、カノジョは。
   // https://annict.com/works/6243
   { annict_id: 6243, mal_id: 38251, syobocal_tid: 5203 },
@@ -48794,4 +48794,7 @@ export const annict: ArmEntry[] = [
   // [2011-AUTUMN] OVA: カッコカワイイ宣言！(OVA)
   // https://annict.com/works/16798
   { annict_id: 16798, mal_id: 30704 },
+  // [2012-WINTER] TV: ふしぎのヤッポ島 プキプキとポイ
+  // https://annict.com/works/16799
+  { annict_id: 16799, mal_id: 33842, syobocal_tid: 2415 },
 ]
