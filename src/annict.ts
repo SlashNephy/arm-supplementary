@@ -48791,4 +48791,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: ワールドトリガー REBOOTプロジェクト
   // https://annict.com/works/16797
   { annict_id: 16797, mal_id: 63048 },
+  // [2011-AUTUMN] OVA: カッコカワイイ宣言！(OVA)
+  // https://annict.com/works/16798
+  { annict_id: 16798, mal_id: 30704 },
 ]
