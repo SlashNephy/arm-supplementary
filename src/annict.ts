@@ -47687,7 +47687,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] TV: JOCHUM シーズン2
   // https://annict.com/works/16425
   { annict_id: 16425, mal_id: 62231 },
-  // [2026-null] TV: 黒猫と魔女の教室
+  // [2026-SPRING] TV: 黒猫と魔女の教室
   // https://annict.com/works/16426
   { annict_id: 16426, mal_id: 62171 },
   // [2026-null] TV: ほっぺちゃん ～サン王国と黒ほっぺ団の秘密～
