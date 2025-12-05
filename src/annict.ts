@@ -48797,4 +48797,7 @@ export const annict: ArmEntry[] = [
   // [2012-WINTER] TV: ふしぎのヤッポ島 プキプキとポイ
   // https://annict.com/works/16799
   { annict_id: 16799, mal_id: 33842, syobocal_tid: 2415 },
+  // [2017-null] MOVIE: Have a Nice Day
+  // https://annict.com/works/16800
+  { annict_id: 16800 },
 ]
