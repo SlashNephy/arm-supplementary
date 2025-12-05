@@ -35413,7 +35413,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12319, mal_id: 21781 },
   // [2013-WINTER] TV: トロン：ライジング
   // https://annict.com/works/12320
-  { annict_id: 12320 },
+  { annict_id: 12320, syobocal_tid: 3486 },
   // [2014-SPRING] TV: 野良スコ
   // https://annict.com/works/12321
   { annict_id: 12321, mal_id: 31019 },
