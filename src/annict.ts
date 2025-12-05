@@ -47899,7 +47899,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16495, mal_id: 62352 },
   // [2025-AUTUMN] TV: #神奈川に住んでるエルフ
   // https://annict.com/works/16496
-  { annict_id: 16496, mal_id: 62521 },
+  { annict_id: 16496, mal_id: 62521, syobocal_tid: 7650 },
   // [2025-SUMMER] WEB: あしたのありか
   // https://annict.com/works/16497
   { annict_id: 16497, mal_id: 62401 },
@@ -48815,4 +48815,7 @@ export const annict: ArmEntry[] = [
   // [2013-WINTER] TV: ヤング・ジャスティス
   // https://annict.com/works/16805
   { annict_id: 16805 },
+  // [2026-AUTUMN] TV: 恐怖コレクター
+  // https://annict.com/works/16806
+  { annict_id: 16806, mal_id: 63053 },
 ]
