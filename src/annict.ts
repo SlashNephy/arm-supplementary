@@ -45818,7 +45818,7 @@ export const annict: ArmEntry[] = [
   // [null-null] OTHER: 放課後帰宅びより
   // https://annict.com/works/15799
   { annict_id: 15799, mal_id: 61199 },
-  // [null-null] TV: 有栖川煉ってホントは女なんだよね。
+  // [2026-WINTER] TV: 有栖川煉ってホントは女なんだよね。
   // https://annict.com/works/15800
   { annict_id: 15800 },
   // [2026-WINTER] TV: 青のミブロ 芹沢暗殺編
