@@ -877,7 +877,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 291, mal_id: 470, syobocal_tid: 660 },
   // [2012-AUTUMN] TV: おしりかじり虫 bottom biting bug
   // https://annict.com/works/292
-  { annict_id: 292, mal_id: 15545 },
+  { annict_id: 292, mal_id: 15545, syobocal_tid: 2739 },
   // [1998-AUTUMN] TV: おじゃる丸（第1シリーズ）
   // https://annict.com/works/293
   { annict_id: 293, mal_id: 4459 },
@@ -9382,7 +9382,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3139, mal_id: 15039, syobocal_tid: 4672 },
   // [2012-AUTUMN] MOVIE: 劇場版 青の祓魔師
   // https://annict.com/works/3140
-  { annict_id: 3140, mal_id: 11737 },
+  { annict_id: 3140, mal_id: 11737, syobocal_tid: 4450 },
   // [2010-AUTUMN] MOVIE: 劇場版3D あたしンち 情熱のちょ～超能力♪母 大暴走！
   // https://annict.com/works/3141
   { annict_id: 3141, mal_id: 9796 },
@@ -10660,7 +10660,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3566, mal_id: 6219 },
   // [2012-AUTUMN] MOVIE: ねらわれた学園
   // https://annict.com/works/3567
-  { annict_id: 3567, mal_id: 14293 },
+  { annict_id: 3567, mal_id: 14293, syobocal_tid: 3022 },
   // [2002-SUMMER] MOVIE: 猫の恩返し
   // https://annict.com/works/3568
   { annict_id: 3568, mal_id: 597, syobocal_tid: 3050 },
@@ -11050,13 +11050,13 @@ export const annict: ArmEntry[] = [
   { annict_id: 3696, mal_id: 7135 },
   // [2012-AUTUMN] MOVIE: 劇場版 魔法少女まどか☆マギカ  [前編] 始まりの物語
   // https://annict.com/works/3697
-  { annict_id: 3697, mal_id: 11977 },
+  { annict_id: 3697, mal_id: 11977, syobocal_tid: 3216 },
   // [2012-AUTUMN] MOVIE: 劇場版 魔法少女まどか☆マギカ [後編] 永遠の物語
   // https://annict.com/works/3698
-  { annict_id: 3698, mal_id: 11979 },
+  { annict_id: 3698, mal_id: 11979, syobocal_tid: 3216 },
   // [2013-AUTUMN] MOVIE: 劇場版 魔法少女まどか☆マギカ [新編] 叛逆の物語
   // https://annict.com/works/3699
-  { annict_id: 3699, mal_id: 11981 },
+  { annict_id: 3699, mal_id: 11981, syobocal_tid: 3216 },
   // [2013-AUTUMN] MOVIE: 魔女っこ姉妹のヨヨとネネ
   // https://annict.com/works/3700
   { annict_id: 3700, mal_id: 15813, syobocal_tid: 3503 },
@@ -48799,5 +48799,5 @@ export const annict: ArmEntry[] = [
   { annict_id: 16799, mal_id: 33842, syobocal_tid: 2415 },
   // [2017-null] MOVIE: Have a Nice Day
   // https://annict.com/works/16800
-  { annict_id: 16800 },
+  { annict_id: 16800, mal_id: 37177 },
 ]

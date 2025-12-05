@@ -43,12 +43,12 @@ Currently, arm-supplementary has 42479 entries (+7253).
 | Service                                     | arm-supplementary | arm / anime-offline-database |
 | :------------------------------------------ | :---------------: | :--------------------------: |
 | [Annict](https://annict.com)                |   16266 (+301)    |            15965             |
-| [AniList](https://anilist.co)               |   23518 (+1810)   |            21708             |
-| [MyAnimeList](https://myanimelist.net)      |   29933 (+574)    |            29359             |
-| [しょぼいカレンダー](https://cal.syoboi.jp) |    6661 (+238)    |             6423             |
-| [AniDB](https://anidb.net)                  |   13371 (+180)    |            13191             |
-| [Anime-Planet](https://anime-planet.com)    |   23722 (+206)    |            23516             |
-| [aniSearch](https://anisearch.com)          |   18590 (+194)    |            18396             |
-| [Kitsu](https://kitsu.io)                   |   20213 (+219)    |            19994             |
+| [AniList](https://anilist.co)               |   23519 (+1811)   |            21708             |
+| [MyAnimeList](https://myanimelist.net)      |   29934 (+575)    |            29359             |
+| [しょぼいカレンダー](https://cal.syoboi.jp) |    6667 (+244)    |             6423             |
+| [AniDB](https://anidb.net)                  |   13372 (+181)    |            13191             |
+| [Anime-Planet](https://anime-planet.com)    |   23723 (+207)    |            23516             |
+| [aniSearch](https://anisearch.com)          |   18591 (+195)    |            18396             |
+| [Kitsu](https://kitsu.io)                   |   20214 (+220)    |            19994             |
 | [LiveChart.me](https://livechart.me)        |   11280 (+178)    |            11102             |
-| [Anime Notifier](https://notify.moe)        |   16335 (+208)    |            16127             |
+| [Anime Notifier](https://notify.moe)        |   16336 (+209)    |            16127             |
