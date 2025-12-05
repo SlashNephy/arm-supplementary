@@ -48818,4 +48818,7 @@ export const annict: ArmEntry[] = [
   // [2026-AUTUMN] TV: 恐怖コレクター
   // https://annict.com/works/16806
   { annict_id: 16806, mal_id: 63053 },
+  // [2025-SPRING] WEB: 婚約破棄23回の冷血貴公子は田舎のポンコツ令嬢にふりまわされる
+  // https://annict.com/works/16807
+  { annict_id: 16807 },
 ]
