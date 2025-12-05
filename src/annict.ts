@@ -48800,4 +48800,19 @@ export const annict: ArmEntry[] = [
   // [2017-null] MOVIE: Have a Nice Day
   // https://annict.com/works/16800
   { annict_id: 16800, mal_id: 37177 },
+  // [2012-AUTUMN] TV: バックステージ・アイドル・ストーリー
+  // https://annict.com/works/16801
+  { annict_id: 16801, mal_id: 15787, syobocal_tid: 2737 },
+  // [2012-AUTUMN] TV: うさぎのモフィ
+  // https://annict.com/works/16802
+  { annict_id: 16802, mal_id: 21713, syobocal_tid: 4534 },
+  // [2014-AUTUMN] TV: うさぎのモフィ(第2シーズン)
+  // https://annict.com/works/16803
+  { annict_id: 16803, syobocal_tid: 4599 },
+  // [2016-WINTER] TV: うさぎのモフィ(第3シーズン)
+  // https://annict.com/works/16804
+  { annict_id: 16804, syobocal_tid: 4349 },
+  // [2013-WINTER] TV: ヤング・ジャスティス
+  // https://annict.com/works/16805
+  { annict_id: 16805 },
 ]
