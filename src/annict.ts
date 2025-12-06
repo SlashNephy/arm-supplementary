@@ -48821,4 +48821,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] WEB: 婚約破棄23回の冷血貴公子は田舎のポンコツ令嬢にふりまわされる
   // https://annict.com/works/16807
   { annict_id: 16807 },
+  // [2026-null] TV: うちの弟どもがすみません
+  // https://annict.com/works/16808
+  { annict_id: 16808, mal_id: 63061 },
 ]
