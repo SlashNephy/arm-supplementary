@@ -48824,4 +48824,7 @@ export const annict: ArmEntry[] = [
   // [2026-null] TV: うちの弟どもがすみません
   // https://annict.com/works/16808
   { annict_id: 16808, mal_id: 63061 },
+  // [null-null] OTHER: コードギアス 星追いのアスパル
+  // https://annict.com/works/16809
+  { annict_id: 16809 },
 ]
