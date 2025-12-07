@@ -10693,7 +10693,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3577, mal_id: 1825 },
   // [2013-SPRING] MOVIE: はなかっぱ 花さけ！パッカ～ん 蝶の国の大冒険
   // https://annict.com/works/3578
-  { annict_id: 3578, mal_id: 17263 },
+  { annict_id: 3578, mal_id: 17263, syobocal_tid: 3675 },
   // [1996-SPRING] MOVIE: はむこ参る!
   // https://annict.com/works/3579
   { annict_id: 3579, mal_id: 19463 },
@@ -17521,7 +17521,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5879, mal_id: 10092 },
   // [2013-SPRING] OVA: 神のみぞ知るセカイ OVA「マジカル☆スター かのん100%」
   // https://annict.com/works/5880
-  { annict_id: 5880, mal_id: 17725 },
+  { annict_id: 5880, mal_id: 17725, syobocal_tid: 3183 },
   // [2011-SUMMER] OVA: 神のみぞ知るセカイ OVA「4人とアイドル」
   // https://annict.com/works/5881
   { annict_id: 5881, mal_id: 10805, syobocal_tid: 5495 },
