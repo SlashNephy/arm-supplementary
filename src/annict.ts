@@ -9373,7 +9373,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3136, mal_id: 1762 },
   // [2013-WINTER] MOVIE: アルヴ・レズル -機械仕掛けの妖精たち-
   // https://annict.com/works/3137
-  { annict_id: 3137, mal_id: 13863 },
+  { annict_id: 3137, mal_id: 13863, syobocal_tid: 2965 },
   // [1995-SUMMER] MOVIE: アンネの日記
   // https://annict.com/works/3138
   { annict_id: 3138, mal_id: 3829 },
@@ -11386,7 +11386,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3809, mal_id: 10850 },
   // [2012-SPRING] WEB: 鷹の爪.jp
   // https://annict.com/works/3810
-  { annict_id: 3810, mal_id: 13433 },
+  { annict_id: 3810, mal_id: 13433, syobocal_tid: 2991 },
   // [2009-WINTER] WEB: にょろーんちゅるやさん
   // https://annict.com/works/3811
   { annict_id: 3811, mal_id: 5957, syobocal_tid: 1580 },
@@ -48826,5 +48826,8 @@ export const annict: ArmEntry[] = [
   { annict_id: 16808, mal_id: 63061 },
   // [null-null] OTHER: コードギアス 星追いのアスパル
   // https://annict.com/works/16809
-  { annict_id: 16809 },
+  { annict_id: 16809, mal_id: 63066 },
+  // [2014-SPRING] WEB: 3分でわかる小泉八雲の怪談
+  // https://annict.com/works/16810
+  { annict_id: 16810, mal_id: 37666 },
 ]
