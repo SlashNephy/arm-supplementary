@@ -7388,7 +7388,7 @@ export const annict: ArmEntry[] = [
   // [2002-SPRING] TV: ワイルド7 another 謀略運河
   // https://annict.com/works/2468
   { annict_id: 2468, mal_id: 1745 },
-  // [2013-AUTUMN] TV: ワルキューレ ロマンツェ
+  // [2013-AUTUMN] TV: ワルキューレロマンツェ
   // https://annict.com/works/2469
   { annict_id: 2469, mal_id: 19151, syobocal_tid: 3154 },
   // [1973-SPRING] TV: ワンサくん
