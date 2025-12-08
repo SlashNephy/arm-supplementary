@@ -48830,4 +48830,7 @@ export const annict: ArmEntry[] = [
   // [2014-SPRING] WEB: 3分でわかる小泉八雲の怪談
   // https://annict.com/works/16810
   { annict_id: 16810, mal_id: 37666 },
+  // [2007-SUMMER] MOVIE: 銀河鉄道999 星空はタイムマシーン 第1部 太陽系・恐竜絶滅篇
+  // https://annict.com/works/16811
+  { annict_id: 16811, mal_id: 12163 },
 ]
