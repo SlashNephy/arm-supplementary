@@ -48845,4 +48845,7 @@ export const annict: ArmEntry[] = [
   // [2014-null] TV: ヒックとドラゴン～バーク島を守れ!～
   // https://annict.com/works/16815
   { annict_id: 16815 },
+  // [2025-SUMMER] WEB: たすけあいstory
+  // https://annict.com/works/16816
+  { annict_id: 16816 },
 ]
