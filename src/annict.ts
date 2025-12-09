@@ -1783,7 +1783,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 593, mal_id: 16918, syobocal_tid: 3046 },
   // [2014-WINTER] TV: 銀の匙 Silver Spoon 第2期
   // https://annict.com/works/594
-  { annict_id: 594, mal_id: 19363 },
+  { annict_id: 594, mal_id: 19363, syobocal_tid: 3268 },
   // [2012-SPRING] TV: 銀河へキックオフ!!
   // https://annict.com/works/595
   { annict_id: 595, mal_id: 12875, syobocal_tid: 2523 },
@@ -11770,7 +11770,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3938, mal_id: 3320 },
   // [2014-WINTER] MOVIE: 劇場版 TIGER & BUNNY -The Rising-
   // https://annict.com/works/3939
-  { annict_id: 3939, mal_id: 12017 },
+  { annict_id: 3939, mal_id: 12017, syobocal_tid: 3931 },
   // [1991-AUTUMN] OVA: 乙姫CONNECTION
   // https://annict.com/works/3940
   { annict_id: 3940, mal_id: 10481 },
@@ -18037,7 +18037,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 6051, mal_id: 20961, syobocal_tid: 3366 },
   // [2014-WINTER] MOVIE: 黒の栖-クロノス-
   // https://annict.com/works/6052
-  { annict_id: 6052, mal_id: 20889 },
+  { annict_id: 6052, mal_id: 20889, syobocal_tid: 3359 },
   // [2012-WINTER] MOVIE: BUTA
   // https://annict.com/works/6053
   { annict_id: 6053, mal_id: 13169, syobocal_tid: 2460 },
