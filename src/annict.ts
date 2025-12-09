@@ -607,7 +607,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 201, mal_id: 6822, syobocal_tid: 1695 },
   // [2013-SUMMER] TV: うっかりペネロペ 第3シリーズ
   // https://annict.com/works/202
-  { annict_id: 202, mal_id: 34078 },
+  { annict_id: 202, mal_id: 34078, syobocal_tid: 3057 },
   // [2012-SPRING] TV: うぽって!!
   // https://annict.com/works/203
   { annict_id: 203, mal_id: 12317, syobocal_tid: 2545 },
@@ -2017,7 +2017,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 672, mal_id: 240, syobocal_tid: 473 },
   // [2013-SUMMER] TV: げんしけん 二代目
   // https://annict.com/works/673
-  { annict_id: 673, mal_id: 18465 },
+  { annict_id: 673, mal_id: 18465, syobocal_tid: 3017 },
   // [2007-AUTUMN] TV: げんしけん2
   // https://annict.com/works/674
   { annict_id: 674, mal_id: 2508, syobocal_tid: 1218 },
