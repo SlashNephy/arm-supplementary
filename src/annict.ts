@@ -45094,7 +45094,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15557, mal_id: 61126 },
   // [2026-WINTER] TV: 勇者パーティを追い出された器用貧乏
   // https://annict.com/works/15558
-  { annict_id: 15558, mal_id: 61128 },
+  { annict_id: 15558, mal_id: 61128, syobocal_tid: 7655 },
   // [null-null] MOVIE: 劇場版ハイキュー!! VS小さな巨人
   // https://annict.com/works/15559
   { annict_id: 15559, mal_id: 58967 },
@@ -46049,7 +46049,7 @@ export const annict: ArmEntry[] = [
   // [1979-SUMMER] MOVIE: 星の国三銃士
   // https://annict.com/works/15877
   { annict_id: 15877, mal_id: 6671 },
-  // [2026-null] OTHER: スティール・ボール・ラン ジョジョの奇妙な冒険
+  // [2026-null] WEB: スティール・ボール・ラン ジョジョの奇妙な冒険
   // https://annict.com/works/15878
   { annict_id: 15878, mal_id: 61469 },
   // [2014-SPRING] TV: ビッケはちいさなバイキング
