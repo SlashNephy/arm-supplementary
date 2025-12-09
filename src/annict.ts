@@ -48833,4 +48833,7 @@ export const annict: ArmEntry[] = [
   // [2007-SUMMER] MOVIE: 銀河鉄道999 星空はタイムマシーン 第1部 太陽系・恐竜絶滅篇
   // https://annict.com/works/16811
   { annict_id: 16811, mal_id: 12163 },
+  // [2013-SPRING] OVA: げんき げんき ノンタン(OVA)
+  // https://annict.com/works/16812
+  { annict_id: 16812, mal_id: 25619, syobocal_tid: 4805 },
 ]
