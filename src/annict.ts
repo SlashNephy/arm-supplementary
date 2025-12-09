@@ -47162,7 +47162,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] WEB: おにもももも
   // https://annict.com/works/16249
   { annict_id: 16249, mal_id: 61891 },
-  // [null-null] TV: かぐや様は告らせたい 大人への階段
+  // [2025-AUTUMN] TV: かぐや様は告らせたい 大人への階段
   // https://annict.com/works/16250
   { annict_id: 16250, mal_id: 61903 },
   // [2025-SPRING] TV: サザンガキュー
