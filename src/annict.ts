@@ -23431,7 +23431,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 8151, mal_id: 8227, syobocal_tid: 2671 },
   // [2023-AUTUMN] WEB: 悪魔くん (Netflixオリジナル)
   // https://annict.com/works/8152
-  { annict_id: 8152, mal_id: 48425 },
+  { annict_id: 8152, mal_id: 48425, syobocal_tid: 7653 },
   // [1968-SUMMER] MOVIE: ゲゲゲの鬼太郎 (1968年劇場版)
   // https://annict.com/works/8153
   { annict_id: 8153, mal_id: 8149 },
@@ -46846,7 +46846,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16142 },
   // [2026-WINTER] TV: 鎧真伝サムライトルーパー
   // https://annict.com/works/16143
-  { annict_id: 16143, mal_id: 61830 },
+  { annict_id: 16143, mal_id: 61830, syobocal_tid: 7654 },
   // [2025-SPRING] WEB: ワンダーエージェントやねん
   // https://annict.com/works/16144
   { annict_id: 16144, mal_id: 61772 },
@@ -48839,4 +48839,10 @@ export const annict: ArmEntry[] = [
   // [2006-SPRING] OVA: ARIA The NATURAL「その 再び出逢える奇跡 に…」
   // https://annict.com/works/16813
   { annict_id: 16813, mal_id: 5244 },
+  // [2013-SPRING] TV: ヒックとドラゴン～バーク島の冒険～
+  // https://annict.com/works/16814
+  { annict_id: 16814 },
+  // [2014-null] TV: ヒックとドラゴン～バーク島を守れ!～
+  // https://annict.com/works/16815
+  { annict_id: 16815 },
 ]
