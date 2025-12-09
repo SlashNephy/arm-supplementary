@@ -790,7 +790,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 262, mal_id: 8424, syobocal_tid: 2039 },
   // [2013-AUTUMN] TV: おしりかじり虫 第2シリーズ
   // https://annict.com/works/263
-  { annict_id: 263, mal_id: 19755 },
+  { annict_id: 263, mal_id: 19755, syobocal_tid: 3178 },
   // [2003-SPRING] TV: エアマスター
   // https://annict.com/works/264
   { annict_id: 264, mal_id: 230, syobocal_tid: 8 },
@@ -1984,7 +1984,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 660, mal_id: 11771, syobocal_tid: 2485 },
   // [2013-AUTUMN] TV: 黒子のバスケ 第2期
   // https://annict.com/works/661
-  { annict_id: 661, mal_id: 16894 },
+  { annict_id: 661, mal_id: 16894, syobocal_tid: 3175 },
   // [2009-WINTER] TV: 黒神 The Animation
   // https://annict.com/works/662
   { annict_id: 662, mal_id: 5079, syobocal_tid: 1549 },
@@ -4018,7 +4018,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 1340, mal_id: 15125, syobocal_tid: 2742 },
   // [2013-SUMMER] TV: てーきゅう 第2期
   // https://annict.com/works/1341
-  { annict_id: 1341, mal_id: 18121 },
+  { annict_id: 1341, mal_id: 18121, syobocal_tid: 3025 },
   // [2009-SPRING] TV: ティアーズ・トゥ・ティアラ
   // https://annict.com/works/1342
   { annict_id: 1342, mal_id: 3594, syobocal_tid: 1577 },
@@ -9151,7 +9151,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 3062, mal_id: 12259 },
   // [2013-SUMMER] OVA: 未来日記 リダイヤル
   // https://annict.com/works/3063
-  { annict_id: 3063, mal_id: 16762 },
+  { annict_id: 3063, mal_id: 16762, syobocal_tid: 3148 },
   // [1990-SUMMER] OVA: 緑山高校 甲子園編
   // https://annict.com/works/3064
   { annict_id: 3064, mal_id: 5994 },
@@ -12592,7 +12592,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 4215, mal_id: 25429, syobocal_tid: 3613 },
   // [2013-AUTUMN] TV: てーきゅう 第3期
   // https://annict.com/works/4216
-  { annict_id: 4216, mal_id: 20473 },
+  { annict_id: 4216, mal_id: 20473, syobocal_tid: 3171 },
   // [2015-SPRING] TV: てーきゅう 第4期
   // https://annict.com/works/4217
   { annict_id: 4217, mal_id: 26395, syobocal_tid: 3717 },
@@ -25408,7 +25408,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 8876, syobocal_tid: 2662 },
   // [2013-SUMMER] MOVIE: 怪盗グルーのミニオン危機一発
   // https://annict.com/works/8877
-  { annict_id: 8877 },
+  { annict_id: 8877, syobocal_tid: 5875 },
   // [2017-SUMMER] MOVIE: 怪盗グルーのミニオン大脱走
   // https://annict.com/works/8878
   { annict_id: 8878 },
@@ -41119,7 +41119,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14230, mal_id: 9499 },
   // [2013-AUTUMN] WEB: ダブルサークル
   // https://annict.com/works/14231
-  { annict_id: 14231, mal_id: 21335 },
+  { annict_id: 14231, mal_id: 21335, syobocal_tid: 3556 },
   // [1991-SPRING] OVA: Dr.タイフーン
   // https://annict.com/works/14232
   { annict_id: 14232, mal_id: 17307 },
@@ -48836,4 +48836,7 @@ export const annict: ArmEntry[] = [
   // [2013-SPRING] OVA: げんき げんき ノンタン(OVA)
   // https://annict.com/works/16812
   { annict_id: 16812, mal_id: 25619, syobocal_tid: 4805 },
+  // [2006-SPRING] OVA: ARIA The NATURAL「その 再び出逢える奇跡 に…」
+  // https://annict.com/works/16813
+  { annict_id: 16813, mal_id: 5244 },
 ]
