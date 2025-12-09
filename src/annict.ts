@@ -47345,7 +47345,7 @@ export const annict: ArmEntry[] = [
   // [1980-SUMMER] MOVIE: Foods and Fun: A Nutrition Adventure（原題）
   // https://annict.com/works/16310
   { annict_id: 16310 },
-  // [null-null] TV: 一畳間まんきつ暮らし！
+  // [2026-SPRING] TV: 一畳間まんきつ暮らし！
   // https://annict.com/works/16311
   { annict_id: 16311, mal_id: 62018 },
   // [2025-SUMMER] TV: ちいかわ 新シリーズ
