@@ -48848,4 +48848,7 @@ export const annict: ArmEntry[] = [
   // [2025-SUMMER] WEB: たすけあいstory
   // https://annict.com/works/16816
   { annict_id: 16816 },
+  // [2016-WINTER] OVA: おもちエイリアン どんどんしーてれび vol.0 さいとーさんをしんりゃくしたよ。
+  // https://annict.com/works/16817
+  { annict_id: 16817, mal_id: 63068 },
 ]
