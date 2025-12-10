@@ -31381,7 +31381,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10970, mal_id: 55753 },
   // [2026-WINTER] TV: ゴールデンカムイ 最終章
   // https://annict.com/works/10971
-  { annict_id: 10971, mal_id: 55772 },
+  { annict_id: 10971, mal_id: 55772, syobocal_tid: 7656 },
   // [2024-WINTER] TV: 姫様“拷問”の時間です
   // https://annict.com/works/10972
   { annict_id: 10972, mal_id: 55774, syobocal_tid: 6893 },
@@ -31423,7 +31423,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10984, mal_id: 49073, syobocal_tid: 6973 },
   // [2026-WINTER] TV: Fate/strange Fake
   // https://annict.com/works/10985
-  { annict_id: 10985, mal_id: 55830 },
+  { annict_id: 10985, mal_id: 55830, syobocal_tid: 7663 },
   // [2025-SUMMER] TV: New PANTY & STOCKING with GARTERBELT
   // https://annict.com/works/10986
   { annict_id: 10986, mal_id: 52293, syobocal_tid: 7517 },
@@ -36955,7 +36955,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12835, mal_id: 54005 },
   // [2026-WINTER] TV: 魔都精兵のスレイブ2
   // https://annict.com/works/12836
-  { annict_id: 12836, mal_id: 58505 },
+  { annict_id: 12836, mal_id: 58505, syobocal_tid: 7657 },
   // [2024-SPRING] WEB: グリム組曲
   // https://annict.com/works/12837
   { annict_id: 12837, mal_id: 49210 },
@@ -37000,7 +37000,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12850, mal_id: 58522 },
   // [2026-WINTER] TV: 姫様“拷問”の時間です 第2期
   // https://annict.com/works/12851
-  { annict_id: 12851, mal_id: 58524 },
+  { annict_id: 12851, mal_id: 58524, syobocal_tid: 7658 },
   // [2024-SPRING] TV: あげおとティム
   // https://annict.com/works/12852
   { annict_id: 12852, mal_id: 58603 },
@@ -45547,7 +45547,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15708, mal_id: 61209, syobocal_tid: 7589 },
   // [2026-WINTER] TV: 真夜中ハートチューン
   // https://annict.com/works/15709
-  { annict_id: 15709, mal_id: 61211 },
+  { annict_id: 15709, mal_id: 61211, syobocal_tid: 7662 },
   // [2026-WINTER] TV: 転生したらドラゴンの卵だった
   // https://annict.com/works/15710
   { annict_id: 15710, mal_id: 61207 },
@@ -45808,7 +45808,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15795, mal_id: 61323 },
   // [2026-WINTER] TV: どうせ、恋してしまうんだ。 Season2
   // https://annict.com/works/15796
-  { annict_id: 15796, mal_id: 61325 },
+  { annict_id: 15796, mal_id: 61325, syobocal_tid: 7659 },
   // [2025-WINTER] TV: おじゃる丸（第28シリーズ）
   // https://annict.com/works/15797
   { annict_id: 15797 },
@@ -46786,7 +46786,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16122, mal_id: 56368 },
   // [2026-WINTER] TV: 綺麗にしてもらえますか。
   // https://annict.com/works/16123
-  { annict_id: 16123, mal_id: 61782 },
+  { annict_id: 16123, mal_id: 61782, syobocal_tid: 7660 },
   // [2025-SPRING] WEB: “オハナ＜家族＞”のハートフルショートアニメーション
   // https://annict.com/works/16124
   { annict_id: 16124, mal_id: 62093 },
@@ -47131,7 +47131,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16238 },
   // [2026-WINTER] TV: 魔王の娘は優しすぎる!!
   // https://annict.com/works/16239
-  { annict_id: 16239, mal_id: 61884 },
+  { annict_id: 16239, mal_id: 61884, syobocal_tid: 7661 },
   // [2026-WINTER] TV: 拷問バイトくんの日常
   // https://annict.com/works/16240
   { annict_id: 16240, mal_id: 61886 },
