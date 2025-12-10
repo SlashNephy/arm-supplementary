@@ -48857,4 +48857,10 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 最弱テイマーはゴミ拾いの旅を始めました。 第2期
   // https://annict.com/works/16819
   { annict_id: 16819, mal_id: 63078 },
+  // [2024-SUMMER] WEB: スター・ウォーズ:ヤング・ジェダイ・アドベンチャー ショーツ シーズン2
+  // https://annict.com/works/16820
+  { annict_id: 16820 },
+  // [2025-AUTUMN] WEB: スター・ウォーズ:ヤング・ジェダイ・アドベンチャー シーズン3
+  // https://annict.com/works/16821
+  { annict_id: 16821 },
 ]
