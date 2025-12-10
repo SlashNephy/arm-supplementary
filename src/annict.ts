@@ -48851,4 +48851,7 @@ export const annict: ArmEntry[] = [
   // [2016-WINTER] OVA: おもちエイリアン どんどんしーてれび vol.0 さいとーさんをしんりゃくしたよ。
   // https://annict.com/works/16817
   { annict_id: 16817, mal_id: 63068 },
+  // [2026-WINTER] WEB: 秘密結社 鷹の爪XX
+  // https://annict.com/works/16818
+  { annict_id: 16818 },
 ]
