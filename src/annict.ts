@@ -48854,4 +48854,7 @@ export const annict: ArmEntry[] = [
   // [2026-WINTER] WEB: 秘密結社 鷹の爪XX
   // https://annict.com/works/16818
   { annict_id: 16818 },
+  // [null-null] TV: 最弱テイマーはゴミ拾いの旅を始めました。 第2期
+  // https://annict.com/works/16819
+  { annict_id: 16819, mal_id: 63078 },
 ]
