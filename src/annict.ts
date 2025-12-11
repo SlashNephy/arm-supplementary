@@ -47441,7 +47441,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] TV: 魔法少女まどか☆マギカ 始まりの物語／永遠の物語 TV Edition
   // https://annict.com/works/16343
   { annict_id: 16343, syobocal_tid: 7622 },
-  // [2026-null] TV: スノウボールアース
+  // [2026-SPRING] TV: スノウボールアース
   // https://annict.com/works/16344
   { annict_id: 16344, mal_id: 62068 },
   // [2025-AUTUMN] MOVIE: 劇場先行版 ゴールデンカムイ 札幌ビール工場編【前編】
@@ -48863,7 +48863,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] WEB: スター・ウォーズ:ヤング・ジェダイ・アドベンチャー シーズン3
   // https://annict.com/works/16821
   { annict_id: 16821 },
-  // [null-null] TV: 令和のダラさん
+  // [2026-null] TV: 令和のダラさん
   // https://annict.com/works/16822
   { annict_id: 16822, mal_id: 63082 },
   // [2013-SPRING] WEB: クリエイティブ・ギャラクシー
