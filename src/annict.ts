@@ -42109,7 +42109,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14561, mal_id: 38049 },
   // [2026-WINTER] TV: アルネの事件簿
   // https://annict.com/works/14562
-  { annict_id: 14562, mal_id: 60255 },
+  { annict_id: 14562, mal_id: 60255, syobocal_tid: 7664 },
   // [2025-AUTUMN] TV: 矢野くんの普通の日々
   // https://annict.com/works/14563
   { annict_id: 14563, mal_id: 60254, syobocal_tid: 7559 },
@@ -47929,7 +47929,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16505 },
   // [2025-AUTUMN] MOVIE: 劇場版 呪術廻戦 渋谷事変 特別編集版 × 死滅回游 先行上映
   // https://annict.com/works/16506
-  { annict_id: 16506 },
+  { annict_id: 16506, mal_id: 62392 },
   // [2026-null] TV: キルアオ
   // https://annict.com/works/16507
   { annict_id: 16507, mal_id: 62391 },
@@ -48355,7 +48355,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16650 },
   // [2026-WINTER] TV: ハイスクール！奇面組 (2026)
   // https://annict.com/works/16651
-  { annict_id: 16651, mal_id: 62804 },
+  { annict_id: 16651, mal_id: 62804, syobocal_tid: 7665 },
   // [null-null] TV: 一式さんは恋を知りたい。
   // https://annict.com/works/16652
   { annict_id: 16652, mal_id: 62808 },
@@ -48866,4 +48866,10 @@ export const annict: ArmEntry[] = [
   // [null-null] TV: 令和のダラさん
   // https://annict.com/works/16822
   { annict_id: 16822, mal_id: 63082 },
+  // [2013-SPRING] WEB: クリエイティブ・ギャラクシー
+  // https://annict.com/works/16823
+  { annict_id: 16823 },
+  // [2013-AUTUMN] TV: レギュラーSHOW～コリない２人～
+  // https://annict.com/works/16824
+  { annict_id: 16824 },
 ]
