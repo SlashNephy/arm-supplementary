@@ -48881,4 +48881,7 @@ export const annict: ArmEntry[] = [
   // [2014-WINTER] WEB: ウィッシュンプーフ!
   // https://annict.com/works/16827
   { annict_id: 16827 },
+  // [2023-null] OVA: げんき げんき ノンタン　きらきらシャンシャンおほしさま☆
+  // https://annict.com/works/16828
+  { annict_id: 16828 },
 ]
