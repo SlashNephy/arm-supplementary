@@ -48872,4 +48872,13 @@ export const annict: ArmEntry[] = [
   // [2013-AUTUMN] TV: レギュラーSHOW～コリない２人～
   // https://annict.com/works/16824
   { annict_id: 16824 },
+  // [2013-AUTUMN] TV: ピーターパン 新たなる冒険
+  // https://annict.com/works/16825
+  { annict_id: 16825 },
+  // [2014-WINTER] TV: ミクセル
+  // https://annict.com/works/16826
+  { annict_id: 16826 },
+  // [2014-WINTER] WEB: ウィッシュンプーフ!
+  // https://annict.com/works/16827
+  { annict_id: 16827 },
 ]
