@@ -45287,7 +45287,7 @@ export const annict: ArmEntry[] = [
   // [1979-WINTER] MOVIE: 劇場版 アルプスの少女ハイジ
   // https://annict.com/works/15622
   { annict_id: 15622, mal_id: 9547 },
-  // [null-null] TV: BLACK TORCH
+  // [2026-SUMMER] TV: BLACK TORCH
   // https://annict.com/works/15623
   { annict_id: 15623, mal_id: 61169 },
   // [2000-WINTER] TV: スポンジ・ボブ(シーズン1)
@@ -48863,4 +48863,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] WEB: スター・ウォーズ:ヤング・ジェダイ・アドベンチャー シーズン3
   // https://annict.com/works/16821
   { annict_id: 16821 },
+  // [null-null] TV: 令和のダラさん
+  // https://annict.com/works/16822
+  { annict_id: 16822, mal_id: 63082 },
 ]
