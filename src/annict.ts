@@ -44968,7 +44968,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15515 },
   // [2026-WINTER] TV: 火喰鳥 羽州ぼろ鳶組
   // https://annict.com/works/15516
-  { annict_id: 15516, mal_id: 61084 },
+  { annict_id: 15516, mal_id: 61084, syobocal_tid: 7672 },
   // [1992-AUTUMN] TV: ピーターラビットとなかまたち
   // https://annict.com/works/15517
   { annict_id: 15517 },
