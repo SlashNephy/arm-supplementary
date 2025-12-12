@@ -37213,7 +37213,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12922, mal_id: 59274 },
   // [2026-WINTER] TV: 違国日記
   // https://annict.com/works/12923
-  { annict_id: 12923, mal_id: 58788 },
+  { annict_id: 12923, mal_id: 58788, syobocal_tid: 7668 },
   // [2019-AUTUMN] OTHER: 大須のぶーちゃん
   // https://annict.com/works/12924
   { annict_id: 12924, mal_id: 40482 },
@@ -43012,7 +43012,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14862, mal_id: 6607 },
   // [2026-WINTER] TV: ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～
   // https://annict.com/works/14863
-  { annict_id: 14863, mal_id: 60460 },
+  { annict_id: 14863, mal_id: 60460, syobocal_tid: 7669 },
   // [1978-null] MOVIE: ピカドン
   // https://annict.com/works/14864
   { annict_id: 14864, mal_id: 7117 },
@@ -45823,7 +45823,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15800 },
   // [2026-WINTER] TV: 青のミブロ 芹沢暗殺編
   // https://annict.com/works/15801
-  { annict_id: 15801, mal_id: 61333 },
+  { annict_id: 15801, mal_id: 61333, syobocal_tid: 7671 },
   // [2026-WINTER] TV: メダリスト 第2期
   // https://annict.com/works/15802
   { annict_id: 15802, mal_id: 61335, syobocal_tid: 7645 },
@@ -45868,7 +45868,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15815, mal_id: 60790 },
   // [2026-WINTER] TV: 幼馴染とはラブコメにならない
   // https://annict.com/works/15816
-  { annict_id: 15816, mal_id: 61359 },
+  { annict_id: 15816, mal_id: 61359, syobocal_tid: 7666 },
   // [2025-SPRING] WEB: 「7FATES: CHAKHO」オリジナルムービー
   // https://annict.com/works/15817
   { annict_id: 15817, mal_id: 61361 },
@@ -46438,7 +46438,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16006 },
   // [2026-WINTER] TV: 29歳独身中堅冒険者の日常
   // https://annict.com/works/16007
-  { annict_id: 16007, mal_id: 61637 },
+  { annict_id: 16007, mal_id: 61637, syobocal_tid: 7670 },
   // [2006-SUMMER] OVA: たまごにいちゃん
   // https://annict.com/works/16008
   { annict_id: 16008, mal_id: 52987 },
@@ -47290,7 +47290,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16291, mal_id: 62194 },
   // [2026-WINTER] TV: 勇者パーティーにかわいい子がいたので、告白してみた。
   // https://annict.com/works/16292
-  { annict_id: 16292, mal_id: 61983 },
+  { annict_id: 16292, mal_id: 61983, syobocal_tid: 7667 },
   // [2025-SUMMER] WEB: 追放白魔導師 ミニアニメ
   // https://annict.com/works/16293
   { annict_id: 16293, mal_id: 62037 },
@@ -48905,4 +48905,10 @@ export const annict: ArmEntry[] = [
   // [2026-WINTER] TV: 闇芝居 十六期
   // https://annict.com/works/16835
   { annict_id: 16835 },
+  // [2026-WINTER] WEB: Duel Masters LOST ～忘却の太陽～
+  // https://annict.com/works/16836
+  { annict_id: 16836 },
+  // [2025-AUTUMN] MOVIE: New PANTY & STOCKING with GARTERBELT：ザックリ・ツナイダーカット
+  // https://annict.com/works/16837
+  { annict_id: 16837 },
 ]
