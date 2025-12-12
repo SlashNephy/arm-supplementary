@@ -12394,7 +12394,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 4148, mal_id: 23269, syobocal_tid: 3672 },
   // [2014-SPRING] TV: おへんろ。〜八十八歩記〜
   // https://annict.com/works/4149
-  { annict_id: 4149 },
+  { annict_id: 4149, syobocal_tid: 3580 },
   // [2014-AUTUMN] TV: 曇天に笑う
   // https://annict.com/works/4150
   { annict_id: 4150, mal_id: 21743, syobocal_tid: 3553 },
@@ -34951,7 +34951,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12164, mal_id: 34416 },
   // [2014-SPRING] TV: パックワールド
   // https://annict.com/works/12165
-  { annict_id: 12165, mal_id: 28595 },
+  { annict_id: 12165, mal_id: 28595, syobocal_tid: 3384 },
   // [2001-AUTUMN] OVA: ハム太郎のおたんじょうび 〜ママをたずねて三千てちてち〜
   // https://annict.com/works/12166
   { annict_id: 12166, mal_id: 2399 },
@@ -48902,4 +48902,7 @@ export const annict: ArmEntry[] = [
   // [2015-SPRING] TV: マリンアドベンチャー せんすいかんウーリー！
   // https://annict.com/works/16834
   { annict_id: 16834 },
+  // [2026-WINTER] TV: 闇芝居 十六期
+  // https://annict.com/works/16835
+  { annict_id: 16835 },
 ]
