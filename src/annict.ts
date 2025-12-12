@@ -48884,4 +48884,7 @@ export const annict: ArmEntry[] = [
   // [2023-null] OVA: げんき げんき ノンタン　きらきらシャンシャンおほしさま☆
   // https://annict.com/works/16828
   { annict_id: 16828 },
+  // [2020-SUMMER] WEB: ちえちゃんの知恵熱
+  // https://annict.com/works/16829
+  { annict_id: 16829 },
 ]
