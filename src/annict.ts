@@ -48899,4 +48899,7 @@ export const annict: ArmEntry[] = [
   // [2020-SPRING] TV: むかしばなしのおへや ～伝えたい日本昔話～
   // https://annict.com/works/16833
   { annict_id: 16833, mal_id: 54667 },
+  // [2015-SPRING] TV: マリンアドベンチャー せんすいかんウーリー！
+  // https://annict.com/works/16834
+  { annict_id: 16834 },
 ]
