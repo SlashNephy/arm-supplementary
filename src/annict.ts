@@ -43924,7 +43924,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15167 },
   // [2026-WINTER] TV: 魔術師クノンは見えている
   // https://annict.com/works/15168
-  { annict_id: 15168, mal_id: 60810 },
+  { annict_id: 15168, mal_id: 60810, syobocal_tid: 7673 },
   // [2025-WINTER] MOVIE: ストップモーション
   // https://annict.com/works/15169
   { annict_id: 15169 },
