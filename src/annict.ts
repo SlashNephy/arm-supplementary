@@ -17674,7 +17674,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5930, mal_id: 20767 },
   // [2014-SPRING] OVA: 最近、妹のようすがちょっとおかしいんだが。 OVA「萌亜の初恋メモリー？ 16年目のハッピークリスマス」
   // https://annict.com/works/5931
-  { annict_id: 5931 },
+  { annict_id: 5931, mal_id: 21679 },
   // [2014-SPRING] OVA: いなり、こんこん、恋いろは。 OVA「いなり、コンコン、蝉しぐれ。」
   // https://annict.com/works/5932
   { annict_id: 5932, mal_id: 22057 },
