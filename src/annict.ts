@@ -12337,7 +12337,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 4129, mal_id: 22583, syobocal_tid: 4830 },
   // [2014-SUMMER] OVA: ガールズ&パンツァー OVA これが本当のアンツィオ戦です!
   // https://annict.com/works/4130
-  { annict_id: 4130, mal_id: 18619 },
+  { annict_id: 4130, mal_id: 18619, syobocal_tid: 3594 },
   // [2014-AUTUMN] OVA: ストライクウィッチーズ Operation Victory Arrow
   // https://annict.com/works/4131
   { annict_id: 4131, mal_id: 23725, syobocal_tid: 4074 },
@@ -13414,7 +13414,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 4494, mal_id: 31640, syobocal_tid: 3908 },
   // [2014-SUMMER] MOVIE: K MISSING KINGS
   // https://annict.com/works/4495
-  { annict_id: 4495, mal_id: 16904 },
+  { annict_id: 4495, mal_id: 16904, syobocal_tid: 4991 },
   // [2015-AUTUMN] TV: 牙狼 -紅蓮ノ月-
   // https://annict.com/works/4496
   { annict_id: 4496, mal_id: 28537, syobocal_tid: 3910 },
