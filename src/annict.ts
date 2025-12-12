@@ -12571,7 +12571,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 4208, mal_id: 23321, syobocal_tid: 3550 },
   // [2014-AUTUMN] MOVIE: 劇場版 進撃の巨人
   // https://annict.com/works/4209
-  { annict_id: 4209, mal_id: 23775 },
+  { annict_id: 4209, mal_id: 23775, syobocal_tid: 3838 },
   // [2015-SUMMER] TV: Fate/kaleid liner プリズマ☆イリヤ ツヴァイ ヘルツ！
   // https://annict.com/works/4210
   { annict_id: 4210, mal_id: 27525, syobocal_tid: 3835 },
@@ -12622,7 +12622,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 4225, mal_id: 27957 },
   // [2015-WINTER] MOVIE: 花とアリス殺人事件
   // https://annict.com/works/4226
-  { annict_id: 4226, mal_id: 27969 },
+  { annict_id: 4226, mal_id: 27969, syobocal_tid: 6090 },
   // [2015-WINTER] TV: 聖剣使いの禁呪詠唱
   // https://annict.com/works/4227
   { annict_id: 4227, mal_id: 22663, syobocal_tid: 3599 },
@@ -14959,7 +14959,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 5017, mal_id: 9136 },
   // [2014-AUTUMN] OVA: 黒執事 Book of Murder
   // https://annict.com/works/5018
-  { annict_id: 5018, mal_id: 23317 },
+  { annict_id: 5018, mal_id: 23317, syobocal_tid: 7354 },
   // [2017-WINTER] MOVIE: 劇場版 黒執事 Book of the Atlantic
   // https://annict.com/works/5019
   { annict_id: 5019, mal_id: 31812 },
@@ -48904,7 +48904,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16834 },
   // [2026-WINTER] TV: 闇芝居 十六期
   // https://annict.com/works/16835
-  { annict_id: 16835 },
+  { annict_id: 16835, mal_id: 63087 },
   // [2026-WINTER] WEB: Duel Masters LOST ～忘却の太陽～
   // https://annict.com/works/16836
   { annict_id: 16836 },
