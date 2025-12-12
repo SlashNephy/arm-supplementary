@@ -48896,4 +48896,7 @@ export const annict: ArmEntry[] = [
   // [2015-WINTER] TV: ぼくはクラレンス！
   // https://annict.com/works/16832
   { annict_id: 16832 },
+  // [2020-SPRING] TV: むかしばなしのおへや ～伝えたい日本昔話～
+  // https://annict.com/works/16833
+  { annict_id: 16833, mal_id: 54667 },
 ]
