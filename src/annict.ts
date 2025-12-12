@@ -48887,4 +48887,13 @@ export const annict: ArmEntry[] = [
   // [2020-SUMMER] WEB: ちえちゃんの知恵熱
   // https://annict.com/works/16829
   { annict_id: 16829 },
+  // [2014-SUMMER] TV: ピーターラビットのだいぼうけん
+  // https://annict.com/works/16830
+  { annict_id: 16830 },
+  // [2014-AUTUMN] TV: おっはよー！アンクル・グランパ
+  // https://annict.com/works/16831
+  { annict_id: 16831 },
+  // [2015-WINTER] TV: ぼくはクラレンス！
+  // https://annict.com/works/16832
+  { annict_id: 16832 },
 ]
