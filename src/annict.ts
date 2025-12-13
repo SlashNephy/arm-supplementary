@@ -48920,4 +48920,19 @@ export const annict: ArmEntry[] = [
   // [2015-SUMMER] WEB: エバー・アフター・ハイ
   // https://annict.com/works/16840
   { annict_id: 16840 },
+  // [2014-WINTER] TV: 絶叫キャンプ レイクボトム
+  // https://annict.com/works/16841
+  { annict_id: 16841 },
+  // [2015-SPRING] TV: 笑撃のナムチャックス!
+  // https://annict.com/works/16842
+  { annict_id: 16842 },
+  // [2015-SUMMER] WEB: H2O：マーメイド・アドベンチャー
+  // https://annict.com/works/16843
+  { annict_id: 16843 },
+  // [2018-SPRING] WEB: バービー: プリンセス・パワー
+  // https://annict.com/works/16844
+  { annict_id: 16844 },
+  // [2015-SUMMER] WEB: バービー: ライフ・イン・ザ・ドリームハウス
+  // https://annict.com/works/16845
+  { annict_id: 16845 },
 ]
