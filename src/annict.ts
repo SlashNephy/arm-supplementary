@@ -48917,4 +48917,7 @@ export const annict: ArmEntry[] = [
   // [2021-SUMMER] WEB: ジョニーテスト(2021)
   // https://annict.com/works/16839
   { annict_id: 16839 },
+  // [2015-SUMMER] WEB: エバー・アフター・ハイ
+  // https://annict.com/works/16840
+  { annict_id: 16840 },
 ]
