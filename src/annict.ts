@@ -566,7 +566,7 @@ export const annict: ArmEntry[] = [
   // [2006-AUTUMN] TV: Winter garden-ウィンターガーデン-
   // https://annict.com/works/188
   { annict_id: 188, mal_id: 1718, syobocal_tid: 1067 },
-  // [2002-SUMMER] TV: Witch Hunter ROBIN
+  // [2002-SUMMER] TV: ウィッチハンターロビン
   // https://annict.com/works/189
   { annict_id: 189, mal_id: 7, syobocal_tid: 1390 },
   // [2003-WINTER] TV: WOLF'S RAIN
@@ -48911,4 +48911,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] MOVIE: New PANTY & STOCKING with GARTERBELT：ザックリ・ツナイダーカット
   // https://annict.com/works/16837
   { annict_id: 16837 },
+  // [2015-SUMMER] WEB: ジョニーテスト
+  // https://annict.com/works/16838
+  { annict_id: 16838 },
 ]
