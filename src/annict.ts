@@ -37366,7 +37366,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12973 },
   // [2026-WINTER] TV: 花ざかりの君たちへ
   // https://annict.com/works/12974
-  { annict_id: 12974, mal_id: 58861 },
+  { annict_id: 12974, mal_id: 58861, syobocal_tid: 7674 },
   // [2024-SPRING] WEB: HIGHSPEED Étoile コラボミニアニメ
   // https://annict.com/works/12975
   { annict_id: 12975 },
@@ -48164,7 +48164,7 @@ export const annict: ArmEntry[] = [
   // [2010-SPRING] OVA: いちばんうしろの大魔王　OVAもひとつおまけの大魔王
   // https://annict.com/works/16585
   { annict_id: 16585, mal_id: 8465 },
-  // [2026-null] MOVIE: 青春ブタ野郎はディアフレンドの夢を見ない
+  // [2026-AUTUMN] MOVIE: 青春ブタ野郎はディアフレンドの夢を見ない
   // https://annict.com/works/16586
   { annict_id: 16586, mal_id: 62582 },
   // [null-null] TV: 光が死んだ夏 第二期
@@ -48935,4 +48935,13 @@ export const annict: ArmEntry[] = [
   // [2015-SUMMER] WEB: バービー: ライフ・イン・ザ・ドリームハウス
   // https://annict.com/works/16845
   { annict_id: 16845 },
+  // [2015-AUTUMN] WEB: FはFamilyのF
+  // https://annict.com/works/16846
+  { annict_id: 16846 },
+  // [2015-AUTUMN] WEB: ポップルズ
+  // https://annict.com/works/16847
+  { annict_id: 16847 },
+  // [2015-AUTUMN] WEB: ケアベア カズンズ
+  // https://annict.com/works/16848
+  { annict_id: 16848 },
 ]
