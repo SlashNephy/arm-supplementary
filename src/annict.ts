@@ -39605,7 +39605,7 @@ export const annict: ArmEntry[] = [
   // [2024-SUMMER] TV: おはよう！うんこ先生
   // https://annict.com/works/13721
   { annict_id: 13721, mal_id: 59409 },
-  // [null-null] TV: ニワトリ・ファイター
+  // [2026-SPRING] TV: ニワトリ・ファイター
   // https://annict.com/works/13722
   { annict_id: 13722, mal_id: 59393 },
   // [2025-SUMMER] TV: カッコウの許嫁 Season2
