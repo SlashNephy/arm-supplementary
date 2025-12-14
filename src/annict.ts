@@ -37433,7 +37433,7 @@ export const annict: ArmEntry[] = [
   // [1927-AUTUMN] MOVIE: Empty Socks（原題）
   // https://annict.com/works/12996
   { annict_id: 12996 },
-  // [2026-null] TV: ダイヤのA actⅡ Second Season
+  // [2026-SPRING] TV: ダイヤのA actⅡ -Second Season-
   // https://annict.com/works/12997
   { annict_id: 12997, mal_id: 58877 },
   // [1931-AUTUMN] MOVIE: クモとハエ
@@ -48950,4 +48950,7 @@ export const annict: ArmEntry[] = [
   // [2016-WINTER] WEB: LEGO Bionicle：進化への道のり
   // https://annict.com/works/16850
   { annict_id: 16850 },
+  // [2026-null] TV: PSYREN -サイレン-
+  // https://annict.com/works/16852
+  { annict_id: 16852 },
 ]
