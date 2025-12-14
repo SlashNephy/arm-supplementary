@@ -48944,4 +48944,10 @@ export const annict: ArmEntry[] = [
   // [2015-AUTUMN] WEB: ケアベア カズンズ
   // https://annict.com/works/16848
   { annict_id: 16848 },
+  // [2016-WINTER] TV: ジェリージャム
+  // https://annict.com/works/16849
+  { annict_id: 16849 },
+  // [2016-WINTER] WEB: LEGO Bionicle：進化への道のり
+  // https://annict.com/works/16850
+  { annict_id: 16850 },
 ]
