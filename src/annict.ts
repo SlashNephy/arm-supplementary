@@ -31576,7 +31576,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 11035, mal_id: 56008 },
   // [2026-WINTER] TV: 勇者刑に処す 懲罰勇者9004隊刑務記録
   // https://annict.com/works/11036
-  { annict_id: 11036, mal_id: 56009 },
+  { annict_id: 11036, mal_id: 56009, syobocal_tid: 7677 },
   // [2024-WINTER] TV: 百千さん家のあやかし王子
   // https://annict.com/works/11037
   { annict_id: 11037, mal_id: 55998, syobocal_tid: 6933 },
@@ -39988,7 +39988,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13849, mal_id: 59689, syobocal_tid: 7467 },
   // [2026-WINTER] TV: 死亡遊戯で飯を食う。
   // https://annict.com/works/13850
-  { annict_id: 13850, mal_id: 59711 },
+  { annict_id: 13850, mal_id: 59711, syobocal_tid: 7675 },
   // [2011-AUTUMN] MOVIE: タンタンの冒険/ユニコーン号の秘密
   // https://annict.com/works/13851
   { annict_id: 13851 },
@@ -45529,7 +45529,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15702, mal_id: 20799 },
   // [2026-WINTER] TV: デッドアカウント
   // https://annict.com/works/15703
-  { annict_id: 15703, mal_id: 61196 },
+  { annict_id: 15703, mal_id: 61196, syobocal_tid: 7676 },
   // [null-null] OTHER: この素晴らしい世界に祝福を！ 続編
   // https://annict.com/works/15704
   { annict_id: 15704, mal_id: 61203 },
@@ -47134,7 +47134,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16239, mal_id: 61884, syobocal_tid: 7661 },
   // [2026-WINTER] TV: 拷問バイトくんの日常
   // https://annict.com/works/16240
-  { annict_id: 16240, mal_id: 61886 },
+  { annict_id: 16240, mal_id: 61886, syobocal_tid: 7678 },
   // [1929-SPRING] MOVIE: The Wicked West（原題）
   // https://annict.com/works/16241
   { annict_id: 16241 },
@@ -47302,7 +47302,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16295, mal_id: 61999 },
   // [2026-WINTER] TV: 悪役令嬢は隣国の王太子に溺愛される
   // https://annict.com/works/16296
-  { annict_id: 16296, mal_id: 62000 },
+  { annict_id: 16296, mal_id: 62000, syobocal_tid: 7679 },
   // [2007-SPRING] TV: ワンダー・ペッツ
   // https://annict.com/works/16297
   { annict_id: 16297 },
