@@ -40811,7 +40811,7 @@ export const annict: ArmEntry[] = [
   // [2024-AUTUMN] WEB: リモート☆ホスト petit
   // https://annict.com/works/14128
   { annict_id: 14128 },
-  // [2026-null] TV: 夜桜さんちの大作戦 第2期
+  // [2026-SPRING] TV: 夜桜さんちの大作戦 第2期
   // https://annict.com/works/14129
   { annict_id: 14129, mal_id: 60055 },
   // [2026-WINTER] TV: 【推しの子】第3期
@@ -47212,7 +47212,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16265, mal_id: 9965 },
   // [2026-WINTER] TV: ヴィジランテ -僕のヒーローアカデミア ILLEGALS- 第2期
   // https://annict.com/works/16266
-  { annict_id: 16266, mal_id: 61942 },
+  { annict_id: 16266, mal_id: 61942, syobocal_tid: 7683 },
   // [2025-SUMMER] MOVIE: 劇場版スマーフ／おどるキノコ村の時空大冒険
   // https://annict.com/works/16267
   { annict_id: 16267 },
@@ -47971,7 +47971,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16519, mal_id: 62430 },
   // [2026-WINTER] TV: 人外教室の人間嫌い教師
   // https://annict.com/works/16520
-  { annict_id: 16520, mal_id: 62432 },
+  { annict_id: 16520, mal_id: 62432, syobocal_tid: 7682 },
   // [2026-WINTER] TV: イチゴ哀歌 〜雑で生イキな妹と割り切れない兄〜
   // https://annict.com/works/16521
   { annict_id: 16521, mal_id: 62897 },
