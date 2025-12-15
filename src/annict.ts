@@ -48962,4 +48962,7 @@ export const annict: ArmEntry[] = [
   // [2016-SPRING] WEB: コング/猿の王者
   // https://annict.com/works/16855
   { annict_id: 16855 },
+  // [2026-null] TV: 鉄鍋のジャン！
+  // https://annict.com/works/16856
+  { annict_id: 16856 },
 ]
