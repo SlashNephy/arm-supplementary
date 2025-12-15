@@ -40526,7 +40526,7 @@ export const annict: ArmEntry[] = [
   // [null-null] WEB: サイバーパンク: エッジランナーズ２
   // https://annict.com/works/14032
   { annict_id: 14032, mal_id: 61990 },
-  // [null-null] WEB: スプリンターセル デスウォッチ
+  // [2025-AUTUMN] WEB: スプリンターセル：デスウォッチ
   // https://annict.com/works/14033
   { annict_id: 14033 },
   // [2025-WINTER] WEB: ウィッチャー 深海のセイレーン
@@ -48953,4 +48953,10 @@ export const annict: ArmEntry[] = [
   // [2026-null] TV: PSYREN -サイレン-
   // https://annict.com/works/16852
   { annict_id: 16852 },
+  // [2016-SPRING] TV: 新 ルーニー・テューンズ
+  // https://annict.com/works/16853
+  { annict_id: 16853 },
+  // [2016-SPRING] WEB: みんなのウミズーミ
+  // https://annict.com/works/16854
+  { annict_id: 16854 },
 ]
