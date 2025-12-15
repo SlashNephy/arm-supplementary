@@ -41353,7 +41353,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14308, mal_id: 60152 },
   // [2026-WINTER] TV: エリスの聖杯
   // https://annict.com/works/14309
-  { annict_id: 14309, mal_id: 60151 },
+  { annict_id: 14309, mal_id: 60151, syobocal_tid: 7680 },
   // [2025-AUTUMN] TV: 悪食令嬢と狂血公爵
   // https://annict.com/works/14310
   { annict_id: 14310, mal_id: 60162, syobocal_tid: 7598 },
@@ -47032,7 +47032,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16205, mal_id: 61914, syobocal_tid: 7520 },
   // [2026-WINTER] TV: 地獄先生ぬ〜べ〜 第2クール
   // https://annict.com/works/16206
-  { annict_id: 16206, mal_id: 61608 },
+  { annict_id: 16206, mal_id: 61608, syobocal_tid: 7681 },
   // [2026-SPRING] TV: 最強の王様、二度目の人生は何をする？ SEASON2
   // https://annict.com/works/16207
   { annict_id: 16207, mal_id: 61831 },
