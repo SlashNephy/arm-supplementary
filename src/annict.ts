@@ -48952,7 +48952,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16850 },
   // [2026-null] TV: PSYREN -サイレン-
   // https://annict.com/works/16852
-  { annict_id: 16852 },
+  { annict_id: 16852, mal_id: 63098 },
   // [2016-SPRING] TV: 新 ルーニー・テューンズ
   // https://annict.com/works/16853
   { annict_id: 16853 },
