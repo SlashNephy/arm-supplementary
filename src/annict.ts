@@ -48959,4 +48959,7 @@ export const annict: ArmEntry[] = [
   // [2016-SPRING] WEB: みんなのウミズーミ
   // https://annict.com/works/16854
   { annict_id: 16854 },
+  // [2016-SPRING] WEB: コング/猿の王者
+  // https://annict.com/works/16855
+  { annict_id: 16855 },
 ]
