@@ -48194,7 +48194,7 @@ export const annict: ArmEntry[] = [
   // [1988-null] MOVIE: シーキャット
   // https://annict.com/works/16595
   { annict_id: 16595, mal_id: 56067 },
-  // [2026-null] TV: マリッジトキシン
+  // [2026-SPRING] TV: マリッジトキシン
   // https://annict.com/works/16596
   { annict_id: 16596, mal_id: 62601 },
   // [2026-null] TV: オタクに優しいギャルはいない!?
