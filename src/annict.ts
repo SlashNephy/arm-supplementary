@@ -48977,4 +48977,13 @@ export const annict: ArmEntry[] = [
   // [2015-SUMMER] WEB: ウーナとババの島
   // https://annict.com/works/16860
   { annict_id: 16860 },
+  // [2015-SUMMER] WEB: ジャスティン・タイム
+  // https://annict.com/works/16861
+  { annict_id: 16861 },
+  // [2016-SPRING] WEB: ジャスティン・タイム・ゴー!
+  // https://annict.com/works/16862
+  { annict_id: 16862 },
+  // [2016-SPRING] WEB: デンジャーマウス
+  // https://annict.com/works/16863
+  { annict_id: 16863 },
 ]
