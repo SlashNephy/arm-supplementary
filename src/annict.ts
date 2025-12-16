@@ -31414,7 +31414,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10981, mal_id: 55823, syobocal_tid: 7192 },
   // [2026-WINTER] TV: 地獄楽 第二期
   // https://annict.com/works/10982
-  { annict_id: 10982, mal_id: 55825 },
+  { annict_id: 10982, mal_id: 55825, syobocal_tid: 7684 },
   // [2015-WINTER] OVA: 昭和元禄落語心中 OAD
   // https://annict.com/works/10983
   { annict_id: 10983, mal_id: 25801 },
@@ -35422,7 +35422,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 12322, mal_id: 57648, syobocal_tid: 7283 },
   // [2026-WINTER] TV: 呪術廻戦 死滅回游 前編
   // https://annict.com/works/12323
-  { annict_id: 12323, mal_id: 57658 },
+  { annict_id: 12323, mal_id: 57658, syobocal_tid: 7685 },
   // [2023-AUTUMN] WEB: ティアムーン帝国物語 ミニアニメ
   // https://annict.com/works/12324
   { annict_id: 12324, mal_id: 56978 },
@@ -39292,7 +39292,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 13616 },
   // [2026-WINTER] TV: 炎炎ノ消防隊 参ノ章 第2クール
   // https://annict.com/works/13617
-  { annict_id: 13617, mal_id: 59229 },
+  { annict_id: 13617, mal_id: 59229, syobocal_tid: 7686 },
   // [1924-SUMMER] MOVIE: アリスの平和の使者
   // https://annict.com/works/13618
   { annict_id: 13618 },
@@ -43429,7 +43429,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15001, mal_id: 3929 },
   // [2026-WINTER] TV: MFゴースト 3rd Season
   // https://annict.com/works/15002
-  { annict_id: 15002, mal_id: 60602 },
+  { annict_id: 15002, mal_id: 60602, syobocal_tid: 7687 },
   // [2025-AUTUMN] MOVIE: 果てしなきスカーレット
   // https://annict.com/works/15003
   { annict_id: 15003, mal_id: 60610 },
@@ -48277,7 +48277,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16623, mal_id: 62650 },
   // [2026-WINTER] TV: カードファイト!! ヴァンガード Divinez 幻真星戦編
   // https://annict.com/works/16624
-  { annict_id: 16624 },
+  { annict_id: 16624, mal_id: 62649 },
   // [2025-SUMMER] WEB: インプる君の存在しないお仕事
   // https://annict.com/works/16625
   { annict_id: 16625, mal_id: 62658 },
