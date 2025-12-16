@@ -48968,4 +48968,13 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] WEB: ウェイン＆ラニー クリスマスを守れ！／スノーボール大作戦
   // https://annict.com/works/16857
   { annict_id: 16857 },
+  // [2005-SUMMER] TV: フラニーズ・フィート
+  // https://annict.com/works/16858
+  { annict_id: 16858 },
+  // [2015-SUMMER] WEB: ストロベリー・ショートケーキ: ベリー・ビティで大冒険
+  // https://annict.com/works/16859
+  { annict_id: 16859 },
+  // [2015-SUMMER] WEB: ウーナとババの島
+  // https://annict.com/works/16860
+  { annict_id: 16860 },
 ]
