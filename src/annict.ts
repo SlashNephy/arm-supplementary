@@ -45820,7 +45820,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15799, mal_id: 61199 },
   // [2026-WINTER] TV: 有栖川煉ってホントは女なんだよね。
   // https://annict.com/works/15800
-  { annict_id: 15800 },
+  { annict_id: 15800, mal_id: 63096 },
   // [2026-WINTER] TV: 青のミブロ -芹沢暗殺編-
   // https://annict.com/works/15801
   { annict_id: 15801, mal_id: 61333, syobocal_tid: 7671 },
@@ -49004,4 +49004,7 @@ export const annict: ArmEntry[] = [
   // [2016-AUTUMN] WEB: ワールド・オブ・ウィンクス
   // https://annict.com/works/16869
   { annict_id: 16869 },
+  // [2026-WINTER] MOVIE: 左ききのエレン 3話先行上映
+  // https://annict.com/works/16870
+  { annict_id: 16870 },
 ]
