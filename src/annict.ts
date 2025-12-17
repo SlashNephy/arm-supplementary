@@ -47164,7 +47164,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16249, mal_id: 61891 },
   // [2025-AUTUMN] TV: かぐや様は告らせたい 大人への階段
   // https://annict.com/works/16250
-  { annict_id: 16250, mal_id: 61903 },
+  { annict_id: 16250, mal_id: 61903, syobocal_tid: 7694 },
   // [2025-SPRING] TV: サザンガキュー
   // https://annict.com/works/16251
   { annict_id: 16251, mal_id: 61899 },
