@@ -1,4 +1,0 @@
-dist/
-graphql/*/generated/*.ts
-src/*.ts
-!src/index.ts
