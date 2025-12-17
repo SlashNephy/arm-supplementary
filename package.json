@@ -17,7 +17,7 @@
     "graphql": "pnpm run graphql:annict:schema && pnpm run graphql:codegen",
     "graphql:annict:schema": "curl -o graphql/annict/schema.graphql https://raw.githubusercontent.com/kiraka/annict-web/main/app/graphql/beta/schema.graphql",
     "graphql:codegen": "graphql-codegen --config graphql/codegen.ts",
-    "source": "pnpm run \"^source:.*\"",
+    "source": "pnpm run /source:.*/",
     "source:anime-offline-database": "ts-node bin/anime-offline-database.ts",
     "source:annict": "ts-node bin/annict.ts"
   },
