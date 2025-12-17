@@ -8,7 +8,7 @@ import { fetchArm, parseArmEntries } from '../lib/arm.ts'
 import { env } from '../lib/env.ts'
 import { animeOfflineDatabase } from '../src/anime-offline-database.ts'
 
-import type { ArmEntry } from '../lib/arm'
+import type { ArmEntry } from '../lib/arm.ts'
 
 // language=TypeScript
 const sampleCode = `
@@ -44,6 +44,7 @@ const loadArmJson = async (): Promise<ArmEntry[]> => {
 const indicateSign = (value: number): string => `${value > 0 ? '+' : value < 0 ? '' : '±'}${value}`
 
 const generateReadme = async () => {
+  // @ts-expect-error -- fix me
   const md = markdown.newBuilder()
 
   md.headerOrdered(false)
@@ -51,7 +52,7 @@ const generateReadme = async () => {
   md.newline()
 
   md.text(
-    '[![Check](https://github.com/SlashNephy/arm-supplementary/actions/workflows/check-node.yml/badge.svg)](https://github.com/SlashNephy/arm-supplementary/actions/workflows/check-node.yml)'
+    '[![Check](https://github.com/SlashNephy/arm-supplementary/actions/workflows/check-node.yml/badge.svg)](https://github.com/SlashNephy/arm-supplementary/actions/workflows/check-node.yml)',
   )
   md.newline()
   md.newline()
@@ -91,7 +92,7 @@ const generateReadme = async () => {
   table.header(['Service', 'arm-supplementary', 'arm / anime-offline-database'])
   table.setHeadersAlign([TableAlignType.Left, TableAlignType.Middle, TableAlignType.Middle])
 
-  const rows: { label: string; url: string; key: keyof ArmEntry }[] = [
+  const rows: { label: string, url: string, key: keyof ArmEntry }[] = [
     {
       label: 'Annict',
       url: 'https://annict.com',

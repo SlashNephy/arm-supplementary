@@ -7,6 +7,7 @@
   },
   "license": "MIT",
   "author": "SlashNephy",
+  "type": "module",
   "scripts": {
     "build": "tsc --noEmit",
     "generate": "pnpm run generate:code && pnpm run generate:json && pnpm run generate:readme && eslint --fix",

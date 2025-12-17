@@ -3,7 +3,7 @@ import { annict } from './annict.ts'
 import { fetchArm } from '../lib/arm.ts'
 import { env } from '../lib/env.ts'
 
-import type { ArmEntry } from '../lib/arm'
+import type { ArmEntry } from '../lib/arm.ts'
 
 export const mergeEntries = async (): Promise<ArmEntry[]> => {
   const arm = await fetchArm(env.ARM_COMMIT_SHA)
@@ -26,7 +26,7 @@ const mergeSpecificEntries = (
   oldEntries: ArmEntry[],
   newEntries: ArmEntry[],
   compareKey: keyof ArmEntry,
-  updateKeys: (keyof ArmEntry)[]
+  updateKeys: (keyof ArmEntry)[],
 ) => {
   const entries: ArmEntry[] = []
 
@@ -73,7 +73,7 @@ const mergeSpecificEntries = (
 
   for (const newEntry of newEntries) {
     const oldEntry = oldEntries.find(
-      (x) => newEntry[compareKey] !== undefined && x[compareKey] === newEntry[compareKey]
+      (x) => newEntry[compareKey] !== undefined && x[compareKey] === newEntry[compareKey],
     )
 
     // 新バージョンにのみ含まれる
