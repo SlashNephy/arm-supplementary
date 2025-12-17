@@ -49001,4 +49001,7 @@ export const annict: ArmEntry[] = [
   // [2016-SUMMER] WEB: はたらくクルマのスティンキーとダーティー
   // https://annict.com/works/16868
   { annict_id: 16868 },
+  // [2016-AUTUMN] WEB: ワールド・オブ・ウィンクス
+  // https://annict.com/works/16869
+  { annict_id: 16869 },
 ]
