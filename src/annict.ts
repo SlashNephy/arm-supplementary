@@ -48992,4 +48992,13 @@ export const annict: ArmEntry[] = [
   // [2016-SUMMER] WEB: ストーリーボットにきいてみよう
   // https://annict.com/works/16865
   { annict_id: 16865 },
+  // [2016-SUMMER] WEB: クリパリ: カエルの戦士
+  // https://annict.com/works/16866
+  { annict_id: 16866 },
+  // [2018-AUTUMN] WEB: クリパリ: 夢の世界へ
+  // https://annict.com/works/16867
+  { annict_id: 16867 },
+  // [2016-SUMMER] WEB: はたらくクルマのスティンキーとダーティー
+  // https://annict.com/works/16868
+  { annict_id: 16868 },
 ]
