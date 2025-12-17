@@ -30376,7 +30376,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 10634, mal_id: 54789, syobocal_tid: 7049 },
   // [2026-WINTER] TV: TRIGUN STARGAZE
   // https://annict.com/works/10635
-  { annict_id: 10635, mal_id: 54863 },
+  { annict_id: 10635, mal_id: 54863, syobocal_tid: 7693 },
   // [2024-AUTUMN] TV: ブルーロック VS. U-20 JAPAN
   // https://annict.com/works/10636
   { annict_id: 10636, mal_id: 54865, syobocal_tid: 7189 },
@@ -40816,7 +40816,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14129, mal_id: 60055 },
   // [2026-WINTER] TV: 【推しの子】第3期
   // https://annict.com/works/14130
-  { annict_id: 14130, mal_id: 60058 },
+  { annict_id: 14130, mal_id: 60058, syobocal_tid: 7689 },
   // [null-null] OTHER: 庵野秀明監督版｢宇宙戦艦ヤマト｣
   // https://annict.com/works/14131
   { annict_id: 14131 },
@@ -42730,7 +42730,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 14768, mal_id: 52518 },
   // [2026-WINTER] TV: 正反対な君と僕
   // https://annict.com/works/14769
-  { annict_id: 14769, mal_id: 60371 },
+  { annict_id: 14769, mal_id: 60371, syobocal_tid: 7691 },
   // [2024-AUTUMN] TV: Fate/strange Fake 第1話「英霊事件」
   // https://annict.com/works/14770
   { annict_id: 14770 },
@@ -46153,7 +46153,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 15911, mal_id: 61535 },
   // [2026-WINTER] TV: お気楽領主の楽しい領地防衛～生産系魔術で名もなき村を最強の城塞都市に～
   // https://annict.com/works/15912
-  { annict_id: 15912, mal_id: 61549 },
+  { annict_id: 15912, mal_id: 61549, syobocal_tid: 7692 },
   // [1988-null] OTHER: プロメテウスの庭
   // https://annict.com/works/15913
   { annict_id: 15913 },
@@ -47156,7 +47156,7 @@ export const annict: ArmEntry[] = [
   // [2025-SPRING] TV: あんまり役に立たない日本史
   // https://annict.com/works/16247
   { annict_id: 16247, mal_id: 62047 },
-  // [2026-null] TV: 片田舎のおっさん、剣聖になる 第二期
+  // [2026-SUMMER] TV: 片田舎のおっさん、剣聖になるⅡ
   // https://annict.com/works/16248
   { annict_id: 16248, mal_id: 61897 },
   // [2025-SUMMER] WEB: おにもももも
@@ -48277,7 +48277,7 @@ export const annict: ArmEntry[] = [
   { annict_id: 16623, mal_id: 62650 },
   // [2026-WINTER] TV: カードファイト!! ヴァンガード Divinez 幻真星戦編
   // https://annict.com/works/16624
-  { annict_id: 16624, mal_id: 62649 },
+  { annict_id: 16624, mal_id: 62649, syobocal_tid: 7688 },
   // [2025-SUMMER] WEB: インプる君の存在しないお仕事
   // https://annict.com/works/16625
   { annict_id: 16625, mal_id: 62658 },
@@ -48986,4 +48986,10 @@ export const annict: ArmEntry[] = [
   // [2016-SPRING] WEB: デンジャーマウス
   // https://annict.com/works/16863
   { annict_id: 16863 },
+  // [2016-SUMMER] WEB: ことばのパーティ
+  // https://annict.com/works/16864
+  { annict_id: 16864 },
+  // [2016-SUMMER] WEB: ストーリーボットにきいてみよう
+  // https://annict.com/works/16865
+  { annict_id: 16865 },
 ]
