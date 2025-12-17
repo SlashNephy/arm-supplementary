@@ -1,4 +1,4 @@
-import z from 'zod'
+import { z } from 'zod'
 
 import { UserAgent } from './constant.ts'
 
@@ -22,7 +22,6 @@ const schema = z
 export type ArmEntry = z.infer<typeof schema>[0]
 
 export const fetchArm = async (sha?: string): Promise<ArmEntry[]> => {
-  const { default: fetch } = await import('node-fetch')
   const response = await fetch(`https://raw.githubusercontent.com/kawaiioverflow/arm/${sha ?? 'master'}/arm.json`, {
     headers: {
       'User-Agent': UserAgent,

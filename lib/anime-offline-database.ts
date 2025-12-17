@@ -1,4 +1,4 @@
-import z from 'zod'
+import { z } from 'zod'
 
 import { UserAgent } from './constant.ts'
 
@@ -46,14 +46,13 @@ export type AnimeOfflineDatabase = z.infer<typeof schema>
 export type AnimeOfflineDatabaseEntry = AnimeOfflineDatabase['data'][0]
 
 export const fetchAnimeOfflineDatabase = async (): Promise<AnimeOfflineDatabase> => {
-  const { default: fetch } = await import('node-fetch')
   const response = await fetch(
     'https://raw.githubusercontent.com/manami-project/anime-offline-database/master/anime-offline-database-minified.json',
     {
       headers: {
         'User-Agent': UserAgent,
       },
-    }
+    },
   )
   const json = await response.json()
 
