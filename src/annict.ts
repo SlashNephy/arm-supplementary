@@ -24131,7 +24131,7 @@ export const annict: ArmEntry[] = [
   // [1990-null] OVA: 超音戦士ボーグマン LOVERS RAIN
   // https://annict.com/works/8385
   { annict_id: 8385, mal_id: 3763 },
-  // [2016-null] WEB: ラチェット＆クランクTHE MOVIE
+  // [2017-WINTER] OVA: ラチェット＆クランクTHE MOVIE
   // https://annict.com/works/8386
   { annict_id: 8386 },
   // [2021-SPRING] WEB: ラブ、デス&ロボット シリーズ2
