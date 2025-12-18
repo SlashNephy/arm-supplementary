@@ -50036,7 +50036,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] TV: ダーウィン事変
 // https://annict.com/works/13028
-{"annict_id":13028,"mal_id":58886}
+{"annict_id":13028,"mal_id":58886,"syobocal_tid":7695}
 ,
 // [1932-AUTUMN] MOVIE: 昆虫救助隊
 // https://annict.com/works/13029
@@ -55960,7 +55960,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] TV: 異世界の沙汰は社畜次第
 // https://annict.com/works/14516
-{"annict_id":14516,"mal_id":60226}
+{"annict_id":14516,"mal_id":60226,"syobocal_tid":7696}
 ,
 // [1992-SUMMER] OVA: おいら女蛮
 // https://annict.com/works/14517
@@ -57032,7 +57032,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] TV: 透明男と人間女～そのうち夫婦になるふたり～
 // https://annict.com/works/14784
-{"annict_id":14784,"mal_id":60395}
+{"annict_id":14784,"mal_id":60395,"syobocal_tid":7697}
 ,
 // [2025-WINTER] TV: RINGING FATE
 // https://annict.com/works/14785
@@ -60732,7 +60732,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] TV: 転生したらドラゴンの卵だった
 // https://annict.com/works/15710
-{"annict_id":15710,"mal_id":61207}
+{"annict_id":15710,"mal_id":61207,"syobocal_tid":7698}
 ,
 // [2026-SPRING] MOVIE: 劇場版 モノノ怪 蛇神
 // https://annict.com/works/15711
@@ -65377,5 +65377,9 @@ export const annict: ArmEntry[] = [
 // [2016-AUTUMN] WEB: 雪の日
 // https://annict.com/works/16879
 {"annict_id":16879}
+,
+// [2026-SPRING] WEB: おでかけ子ザメ シーズン2
+// https://annict.com/works/16880
+{"annict_id":16880}
 ,
 ]
