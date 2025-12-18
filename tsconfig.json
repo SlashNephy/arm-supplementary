@@ -9,6 +9,13 @@
     "skipLibCheck": true,
     "useUnknownInCatchVariables": true,
     "allowImportingTsExtensions": true,
-    "noEmit": true
-  }
+    "noEmit": true,
+    "allowSyntheticDefaultImports": true,
+    "strictNullChecks": true
+  },
+  "include": [
+    "lib/",
+    "bin/",
+    "graphql/codegen.ts",
+  ]
 }

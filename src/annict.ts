@@ -1,4 +1,4 @@
-import type { ArmEntry } from '../lib/arm'
+import type { ArmEntry } from '../lib/arm.ts'
 
 // @ts-ignore
 export const annict: ArmEntry[] = [

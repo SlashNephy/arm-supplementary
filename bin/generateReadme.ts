@@ -2,13 +2,16 @@ import { readFile, writeFile } from 'fs/promises'
 import { join } from 'path'
 import { cwd } from 'process'
 
-import markdown, { MarkdownCodeType, MarkdownTableBuilder, TableAlignType } from 'markdown-doc-builder'
+import { code, heading, image, link, list, listItem, paragraph, root, table, tableCell, tableRow, text } from 'mdast-builder'
+import remarkGfm from 'remark-gfm'
+import remarkStringify from 'remark-stringify'
+import { unified } from 'unified'
 
 import { fetchArm, parseArmEntries } from '../lib/arm.ts'
 import { env } from '../lib/env.ts'
 import { animeOfflineDatabase } from '../src/anime-offline-database.ts'
 
-import type { ArmEntry } from '../lib/arm'
+import type { ArmEntry } from '../lib/arm.ts'
 
 // language=TypeScript
 const sampleCode = `
@@ -44,54 +47,10 @@ const loadArmJson = async (): Promise<ArmEntry[]> => {
 const indicateSign = (value: number): string => `${value > 0 ? '+' : value < 0 ? '' : '±'}${value}`
 
 const generateReadme = async () => {
-  const md = markdown.newBuilder()
-
-  md.headerOrdered(false)
-  md.h1('arm-supplementary')
-  md.newline()
-
-  md.text(
-    '[![Check](https://github.com/SlashNephy/arm-supplementary/actions/workflows/check-node.yml/badge.svg)](https://github.com/SlashNephy/arm-supplementary/actions/workflows/check-node.yml)'
-  )
-  md.newline()
-  md.newline()
-
-  md.text('💊 Supplemental database for [kawaiioverflow/arm](https://github.com/kawaiioverflow/arm)')
-  md.newline()
-  md.newline()
-
-  md.text('The database is updated once an hour by GitHub Actions.')
-  md.newline()
-  md.newline()
-
-  md.h2('Usage')
-  md.newline()
-
-  md.text('Fetch arm.json from the following URL.')
-  md.newline()
-
-  md.list(['https://raw.githubusercontent.com/SlashNephy/arm-supplementary/master/dist/arm.json'])
-
-  md.text('In TypeScript, you can use arm-supplementary from the following code.')
-  md.newline()
-  md.newline()
-
-  md.codeBlock(MarkdownCodeType.TypeScript, sampleCode)
-  md.newline()
-
-  md.h2('Statistics')
-  md.newline()
-
   const entries = await loadArmJson()
   const arm = await fetchArm(env.ARM_COMMIT_SHA)
-  md.text(`Currently, arm-supplementary has ${entries.length} entries (${indicateSign(entries.length - arm.length)}).`)
-  md.newline()
 
-  const table = MarkdownTableBuilder.newBuilder(0, 3)
-  table.header(['Service', 'arm-supplementary', 'arm / anime-offline-database'])
-  table.setHeadersAlign([TableAlignType.Left, TableAlignType.Middle, TableAlignType.Middle])
-
-  const rows: { label: string; url: string; key: keyof ArmEntry }[] = [
+  const rows: { label: string, url: string, key: keyof ArmEntry }[] = [
     {
       label: 'Annict',
       url: 'https://annict.com',
@@ -144,28 +103,74 @@ const generateReadme = async () => {
     },
   ]
 
-  for (const row of rows) {
+  const tableRows = rows.map((row) => {
     const newSize = entries.filter((x) => x[row.key] !== undefined).length
     let oldSize = arm.filter((x) => x[row.key] !== undefined).length
     if (oldSize === 0) {
       oldSize = animeOfflineDatabase.filter((x) => x[row.key] !== undefined).length
     }
 
-    table.appendRow([
-      `[${row.label}](${row.url})`,
-      `${newSize} (${indicateSign(newSize - oldSize)})`,
-      oldSize.toString(),
+    return tableRow([
+      tableCell([link(row.url, undefined, [text(row.label)])]),
+      tableCell([text(`${newSize} (${indicateSign(newSize - oldSize)})`)]),
+      tableCell([text(oldSize.toString())]),
     ])
-  }
+  })
 
-  md.table(table)
-  md.newline()
+  const tree = root([
+    heading(1, [text('arm-supplementary')]),
+    paragraph([
+      link(
+        'https://github.com/SlashNephy/arm-supplementary/actions/workflows/check-node.yml',
+        undefined,
+        [
+          image(
+            'https://github.com/SlashNephy/arm-supplementary/actions/workflows/check-node.yml/badge.svg',
+            undefined,
+            'Check',
+          ),
+        ],
+      ),
+    ]),
+    paragraph([
+      text('💊 Supplemental database for '),
+      link('https://github.com/kawaiioverflow/arm', undefined, [text('kawaiioverflow/arm')]),
+    ]),
+    paragraph([text('The database is updated once an hour by GitHub Actions.')]),
+    heading(2, [text('Usage')]),
+    paragraph([text('Fetch arm.json from the following URL.')]),
+    list('unordered', [
+      listItem([paragraph([text('https://raw.githubusercontent.com/SlashNephy/arm-supplementary/master/dist/arm.json')])]),
+    ]),
+    paragraph([text('In TypeScript, you can use arm-supplementary from the following code.')]),
+    code('typescript', sampleCode),
+    heading(2, [text('Statistics')]),
+    paragraph([
+      text(
+        `Currently, arm-supplementary has ${entries.length} entries (${indicateSign(entries.length - arm.length)}).`,
+      ),
+    ]),
+    table(['left', 'center', 'center'], [
+      tableRow([tableCell([text('Service')]), tableCell([text('arm-supplementary')]), tableCell([text('arm / anime-offline-database')])]),
+      ...tableRows,
+    ]),
+  ])
 
-  const content = md.toMarkdown().trim()
+  const processor = unified()
+    .use(remarkGfm)
+    .use(remarkStringify, {
+      bullet: '-',
+      fence: '`',
+      fences: true,
+      incrementListMarker: false,
+    })
+
+  // eslint-disable-next-line @susisu/safe-typescript/no-type-assertion -- mdast-builder type compatibility
+  const content = String(processor.stringify(tree as never)).trim()
   console.info(content)
 
   const path = join(cwd(), 'README.md')
-  await writeFile(path, content)
+  await writeFile(path, `${content}\n`)
 }
 
 generateReadme().catch(console.error)

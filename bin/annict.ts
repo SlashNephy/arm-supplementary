@@ -5,12 +5,12 @@ import { cwd } from 'process'
 import { createAnnictClient, fetchAllAnnictWorks } from '../lib/annict.ts'
 import { env } from '../lib/env.ts'
 
-import type { ArmEntry } from '../lib/arm'
+import type { ArmEntry } from '../lib/arm.ts'
 
 const annict = async () => {
   const content: string[] = [
     // eslint-disable-next-line @stylistic/quotes
-    "import type { ArmEntry } from '../lib/arm'",
+    "import type { ArmEntry } from '../lib/arm.ts'",
     '',
     '// @ts-ignore',
     'export const annict: ArmEntry[] = [',
@@ -32,7 +32,7 @@ const annict = async () => {
         `// https://annict.com/works/${work.annictId}`,
         JSON.stringify(entry),
         ',',
-      ]
+      ],
     )
   }
 

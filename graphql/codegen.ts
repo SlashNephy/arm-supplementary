@@ -11,6 +11,7 @@ const config: CodegenConfig = {
         defaultScalarType: 'unknown',
         useTypeImports: true,
         skipTypename: true,
+        enumsAsTypes: true,
       },
     },
     'graphql/annict/generated/': {
@@ -21,11 +22,12 @@ const config: CodegenConfig = {
         defaultScalarType: 'unknown',
         useTypeImports: true,
         skipTypename: true,
+        enumsAsTypes: true,
       },
     },
   },
   hooks: {
-    afterAllFileWrite: ['yarn prettier --write graphql/anilist/', 'yarn prettier --write graphql/annict/'],
+    afterAllFileWrite: ['pnpm eslint --fix graphql/anilist/', 'pnpm eslint --fix graphql/annict/'],
   },
 }
 
