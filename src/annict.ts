@@ -47690,7 +47690,7 @@ export const annict: ArmEntry[] = [
   // [2026-SPRING] TV: 黒猫と魔女の教室
   // https://annict.com/works/16426
   { annict_id: 16426, mal_id: 62171 },
-  // [2026-null] TV: ほっぺちゃん ～サン王国と黒ほっぺ団の秘密～
+  // [2026-WINTER] TV: ほっぺちゃん ～サン王国と黒ほっぺ団の秘密～
   // https://annict.com/works/16427
   { annict_id: 16427 },
   // [null-null] OTHER: 悪役令嬢の追放後！ 教会改革ごはんで悠々シスター暮らし
@@ -49028,4 +49028,10 @@ export const annict: ArmEntry[] = [
   // [2020-SUMMER] WEB: ウィザード: アルカディア物語
   // https://annict.com/works/16877
   { annict_id: 16877 },
+  // [2016-AUTUMN] WEB: スカイランダーズ・アカデミー
+  // https://annict.com/works/16878
+  { annict_id: 16878 },
+  // [2016-AUTUMN] WEB: 雪の日
+  // https://annict.com/works/16879
+  { annict_id: 16879 },
 ]
