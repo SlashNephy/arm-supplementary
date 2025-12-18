@@ -11,7 +11,7 @@ on:
       - synchronize
 
   schedule:
-    - cron: '0 * * * *'
+    - cron: "0 * * * *"
 
   workflow_dispatch:
 
@@ -42,7 +42,7 @@ jobs:
           node-version-file: package.json
           cache: pnpm
       - run: pnpm install --frozen-lockfile
-      - run: pnpm lint
+      - run: pnpm eslint
 
   update:
     if: github.event_name == 'push' || github.event_name == 'schedule'
@@ -58,7 +58,7 @@ jobs:
 
       - run: pnpm generate
         env:
-          ANNICT_ACCESS_TOKEN: '${{ secrets.ANNICT_ACCESS_TOKEN }}'
+          ANNICT_ACCESS_TOKEN: "${{ secrets.ANNICT_ACCESS_TOKEN }}"
           # ARM_COMMIT_SHA: 'c10d04d07eff16e3cdf6a2f2b70217ba1eb3913f'
 
       - run: git pull
@@ -67,4 +67,4 @@ jobs:
         continue-on-error: true
         with:
           commit_message: 🪄 update database
-          commit_author: 'StarryBlueSky-bot <97773209+StarryBlueSky-bot@users.noreply.github.com>'
+          commit_author: "StarryBlueSky-bot <97773209+StarryBlueSky-bot@users.noreply.github.com>"
