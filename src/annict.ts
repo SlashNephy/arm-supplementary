@@ -49019,4 +49019,13 @@ export const annict: ArmEntry[] = [
   // [2018-WINTER] WEB: ルナ・ペチュニア アメージアに行こう!
   // https://annict.com/works/16874
   { annict_id: 16874 },
+  // [2016-AUTUMN] WEB: トロールハンターズ: アルカディア物語
+  // https://annict.com/works/16875
+  { annict_id: 16875 },
+  // [2018-AUTUMN] WEB: ミッシング・スリー:アルカディア物語
+  // https://annict.com/works/16876
+  { annict_id: 16876 },
+  // [2020-SUMMER] WEB: ウィザード: アルカディア物語
+  // https://annict.com/works/16877
+  { annict_id: 16877 },
 ]
