@@ -22,7 +22,7 @@ const tryParseInt = (value?: string): number | undefined => {
 const animeOfflineDatabase = async () => {
   const content: string[] = [
     // eslint-disable-next-line @stylistic/quotes
-    "import type { ArmEntry } from '../lib/arm'",
+    "import type { ArmEntry } from '../lib/arm.js'",
     '',
     '// @ts-ignore',
     'export const animeOfflineDatabase: ArmEntry[] = [',
