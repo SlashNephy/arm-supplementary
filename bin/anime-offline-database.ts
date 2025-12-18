@@ -4,7 +4,7 @@ import { cwd } from 'process'
 
 import { fetchAnimeOfflineDatabase } from '../lib/anime-offline-database.ts'
 
-import type { ArmEntry } from '../lib/arm'
+import type { ArmEntry } from '../lib/arm.ts'
 
 const findByPrefix = (array: string[], prefix: string): string | undefined =>
   array.find((x) => x.startsWith(prefix))?.replace(prefix, '')
@@ -22,7 +22,7 @@ const tryParseInt = (value?: string): number | undefined => {
 const animeOfflineDatabase = async () => {
   const content: string[] = [
     // eslint-disable-next-line @stylistic/quotes
-    "import type { ArmEntry } from '../lib/arm'",
+    "import type { ArmEntry } from '../lib/arm.ts'",
     '',
     '// @ts-ignore',
     'export const animeOfflineDatabase: ArmEntry[] = [',
@@ -46,7 +46,7 @@ const animeOfflineDatabase = async () => {
         `// [${entry.animeSeason.year}-${entry.animeSeason.season}] ${entry.type}: ${entry.title}`,
         JSON.stringify(arm),
         ',',
-      ]
+      ],
     )
   }
 

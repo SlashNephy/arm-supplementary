@@ -7,60 +7,43 @@
   },
   "license": "MIT",
   "author": "SlashNephy",
+  "type": "module",
   "scripts": {
     "build": "tsc --noEmit",
-    "format": "concurrently -n format: -m 1 'yarn:format:*'",
-    "format:eslint": "yarn lint:eslint --fix",
-    "format:prettier": "yarn lint:prettier --write",
-    "generate": "concurrently -n generate: -m 1 'yarn:generate:*'",
-    "generate:code": "yarn source && yarn format:prettier",
-    "generate:json": "ts-node bin/generateJson.ts",
-    "generate:readme": "ts-node bin/generateReadme.ts && yarn format:prettier",
-    "graphql": "concurrently -n graphql: -m 1 'yarn:graphql:*'",
-    "graphql:annict:schema": "curl -o graphql/annict/schema.graphql https://raw.githubusercontent.com/kiraka/annict-web/main/app/graphql/beta/schema.graphql",
+    "generate": "pnpm run generate:code && pnpm run generate:json && pnpm run generate:readme && eslint --fix",
+    "generate:code": "pnpm run source",
+    "generate:json": "node --experimental-strip-types bin/generateJson.ts",
+    "generate:readme": "node --experimental-strip-types bin/generateReadme.ts",
+    "graphql": "pnpm run graphql:annict:schema && pnpm run graphql:codegen",
+    "graphql:annict:schema": "curl -o graphql/annict/schema.graphql https://raw.githubusercontent.com/annict/annict/refs/heads/develop/rails/app/graphql/beta/schema.graphql",
     "graphql:codegen": "graphql-codegen --config graphql/codegen.ts",
-    "lint": "concurrently -n lint: 'yarn:lint:*'",
-    "lint:eslint": "eslint .",
-    "lint:prettier": "prettier --check .",
-    "source": "concurrently -n source: 'yarn:source:*'",
-    "source:anime-offline-database": "ts-node bin/anime-offline-database.ts",
-    "source:annict": "ts-node bin/annict.ts"
-  },
-  "eslintConfig": {
-    "extends": [
-      "@slashnephy/eslint-config"
-    ],
-    "overrides": [
-      {
-        "files": "graphql/codegen.ts",
-        "parserOptions": {
-          "project": "./tsconfig.node.json"
-        }
-      }
-    ]
+    "source": "pnpm run /source:.*/",
+    "source:anime-offline-database": "node --experimental-strip-types bin/anime-offline-database.ts",
+    "source:annict": "node --experimental-strip-types bin/annict.ts"
   },
   "dependencies": {
-    "dotenv": "16.6.1",
-    "graphql-request": "6.1.0",
-    "markdown-doc-builder": "1.3.0",
-    "node-fetch": "3.3.2",
-    "zod": "3.25.76"
+    "dotenv": "17.2.3",
+    "fzstd": "0.1.1",
+    "graphql-request": "7.4.0",
+    "mdast-builder": "1.1.1",
+    "remark-gfm": "4.0.0",
+    "remark-stringify": "11.0.0",
+    "unified": "11.0.5",
+    "zod": "4.2.1"
   },
   "devDependencies": {
     "@graphql-codegen/cli": "6.1.0",
     "@graphql-codegen/client-preset": "5.2.1",
-    "@slashnephy/eslint-config": "2.3.204",
-    "@slashnephy/prettier-config": "1.0.73",
-    "@types/node": "24.10.4",
-    "concurrently": "9.2.1",
-    "eslint": "8.57.1",
+    "@graphql-typed-document-node/core": "3.2.0",
+    "@slashnephy/eslint-config": "3.0.120",
+    "@types/mdast": "4.0.4",
+    "@types/node": "25.0.3",
+    "eslint": "9.39.2",
     "graphql": "16.12.0",
-    "prettier": "3.7.4",
-    "ts-node": "10.9.2",
     "typescript": "5.9.3"
   },
-  "packageManager": "yarn@4.12.0",
+  "packageManager": "pnpm@10.26.0+sha512.3b3f6c725ebe712506c0ab1ad4133cf86b1f4b687effce62a9b38b4d72e3954242e643190fc51fa1642949c735f403debd44f5cb0edd657abe63a8b6a7e1e402",
   "engines": {
-    "node": ">=20"
+    "node": ">= 24"
   }
 }
