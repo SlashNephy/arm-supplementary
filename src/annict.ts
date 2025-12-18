@@ -49007,4 +49007,16 @@ export const annict: ArmEntry[] = [
   // [2026-WINTER] MOVIE: 左ききのエレン 3話先行上映
   // https://annict.com/works/16870
   { annict_id: 16870 },
+  // [2011-AUTUMN] TV: すすめ!オクトノーツ
+  // https://annict.com/works/16871
+  { annict_id: 16871 },
+  // [2021-SUMMER] WEB: オクトノーツと地上のミッション
+  // https://annict.com/works/16872
+  { annict_id: 16872 },
+  // [2016-AUTUMN] WEB: ルナ・ペチュニア
+  // https://annict.com/works/16873
+  { annict_id: 16873 },
+  // [2018-WINTER] WEB: ルナ・ペチュニア アメージアに行こう!
+  // https://annict.com/works/16874
+  { annict_id: 16874 },
 ]
