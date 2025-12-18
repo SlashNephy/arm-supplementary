@@ -27,6 +27,10 @@ export const fetchArm = async (sha?: string): Promise<ArmEntry[]> => {
       'User-Agent': UserAgent,
     },
   })
+  if (!response.ok) {
+    throw new Error(`Failed to fetch arm.json: ${response.status} ${response.statusText}`)
+  }
+
   const json = await response.json()
 
   return await parseArmEntries(json)
