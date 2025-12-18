@@ -48125,7 +48125,7 @@ export const annict: ArmEntry[] = [
   // [2025-AUTUMN] MOVIE: わたしが恋人になれるわけないじゃん、ムリムリ!（※ムリじゃなかった!?）〜ネクストシャイン！〜 (特別編集版)
   // https://annict.com/works/16572
   { annict_id: 16572 },
-  // [null-null] TV: わたしが恋人になれるわけないじゃん、ムリムリ!（※ムリじゃなかった!?）〜ネクストシャイン！〜
+  // [2026-WINTER] TV: わたしが恋人になれるわけないじゃん、ムリムリ!（※ムリじゃなかった!?）〜ネクストシャイン！〜
   // https://annict.com/works/16573
   { annict_id: 16573, mal_id: 62543 },
   // [null-null] MOVIE: ガールズバンドクライ 完全新作映画
