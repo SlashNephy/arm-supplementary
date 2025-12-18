@@ -23,6 +23,7 @@
   },
   "dependencies": {
     "dotenv": "17.2.3",
+    "fzstd": "0.1.1",
     "graphql-request": "7.4.0",
     "mdast-builder": "1.1.1",
     "remark-gfm": "4.0.0",
