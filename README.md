@@ -10,11 +10,11 @@ The database is updated once an hour by GitHub Actions.
 
 Fetch arm.json from the following URL.
 
-- https://raw.githubusercontent.com/SlashNephy/arm-supplementary/master/dist/arm.json
+- https\://raw\.githubusercontent.com/SlashNephy/arm-supplementary/master/dist/arm.json
 
 In TypeScript, you can use arm-supplementary from the following code.
 
-```TypeScript
+```typescript
 export type ArmEntry = {
   mal_id?: number
   anilist_id?: number
@@ -38,17 +38,17 @@ export const fetchArmEntries = async (): Promise<ArmEntry[]> => {
 
 ## Statistics
 
-Currently, arm-supplementary has 42422 entries (+7252).
+Currently, arm-supplementary has 46245 entries (+11075).
 
-| Service                                     | arm-supplementary | arm / anime-offline-database |
-| :------------------------------------------ | :---------------: | :--------------------------: |
-| [Annict](https://annict.com)                |   16344 (+299)    |            16045             |
-| [AniList](https://anilist.co)               |   23536 (+1797)   |            21739             |
-| [MyAnimeList](https://myanimelist.net)      |   29946 (+546)    |            29400             |
-| [しょぼいカレンダー](https://cal.syoboi.jp) |    6615 (+112)    |             6503             |
-| [AniDB](https://anidb.net)                  |   13356 (+165)    |            13191             |
-| [Anime-Planet](https://anime-planet.com)    |   23702 (+186)    |            23516             |
-| [aniSearch](https://anisearch.com)          |   18575 (+179)    |            18396             |
-| [Kitsu](https://kitsu.io)                   |   20194 (+200)    |            19994             |
-| [LiveChart.me](https://livechart.me)        |   11274 (+172)    |            11102             |
-| [Anime Notifier](https://notify.moe)        |   16316 (+189)    |            16127             |
+| Service                                  | arm-supplementary | arm / anime-offline-database |
+| :--------------------------------------- | :---------------: | :--------------------------: |
+| [Annict](https://annict.com)             |    16344 (+299)   |             16045            |
+| [AniList](https://anilist.co)            |   23837 (+2098)   |             21739            |
+| [MyAnimeList](https://myanimelist.net)   |    30014 (+614)   |             29400            |
+| [しょぼいカレンダー](https://cal.syoboi.jp)       |    6615 (+112)    |             6503             |
+| [AniDB](https://anidb.net)               |    14362 (+176)   |             14186            |
+| [Anime-Planet](https://anime-planet.com) |    26630 (+198)   |             26432            |
+| [aniSearch](https://anisearch.com)       |    20606 (+190)   |             20416            |
+| [Kitsu](https://kitsu.io)                |       0 (±0)      |               0              |
+| [LiveChart.me](https://livechart.me)     |    12172 (+177)   |             11995            |
+| [Anime Notifier](https://notify.moe)     |    17036 (+199)   |             16837            |
