@@ -12,14 +12,14 @@
     "build": "tsc --noEmit",
     "generate": "pnpm run generate:code && pnpm run generate:json && pnpm run generate:readme && eslint --fix",
     "generate:code": "pnpm run source",
-    "generate:json": "ts-node bin/generateJson.ts",
-    "generate:readme": "ts-node bin/generateReadme.ts",
+    "generate:json": "node --experimental-strip-types bin/generateJson.ts",
+    "generate:readme": "node --experimental-strip-types bin/generateReadme.ts",
     "graphql": "pnpm run graphql:annict:schema && pnpm run graphql:codegen",
     "graphql:annict:schema": "curl -o graphql/annict/schema.graphql https://raw.githubusercontent.com/annict/annict/refs/heads/develop/rails/app/graphql/beta/schema.graphql",
     "graphql:codegen": "graphql-codegen --config graphql/codegen.ts",
     "source": "pnpm run /source:.*/",
-    "source:anime-offline-database": "ts-node bin/anime-offline-database.ts",
-    "source:annict": "ts-node bin/annict.ts"
+    "source:anime-offline-database": "node --experimental-strip-types bin/anime-offline-database.ts",
+    "source:annict": "node --experimental-strip-types bin/annict.ts"
   },
   "dependencies": {
     "dotenv": "17.2.3",
@@ -40,7 +40,6 @@
     "@types/node": "25.0.3",
     "eslint": "9.39.2",
     "graphql": "16.12.0",
-    "ts-node": "10.9.2",
     "typescript": "5.9.3"
   },
   "packageManager": "pnpm@10.26.0+sha512.3b3f6c725ebe712506c0ab1ad4133cf86b1f4b687effce62a9b38b4d72e3954242e643190fc51fa1642949c735f403debd44f5cb0edd657abe63a8b6a7e1e402",
