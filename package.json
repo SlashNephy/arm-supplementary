@@ -26,7 +26,7 @@
     "fzstd": "0.1.1",
     "graphql-request": "7.4.0",
     "mdast-builder": "1.1.1",
-    "remark-gfm": "4.0.0",
+    "remark-gfm": "4.0.1",
     "remark-stringify": "11.0.0",
     "unified": "11.0.5",
     "zod": "4.2.1"
