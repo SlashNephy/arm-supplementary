@@ -65382,4 +65382,16 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16880
 {"annict_id":16880}
 ,
+// [2026-WINTER] MOVIE: エヴァンゲリオン放送30周年記念特別興行
+// https://annict.com/works/16881
+{"annict_id":16881}
+,
+// [2018-WINTER] OVA: ロボットガールズＺ ぷちキャラアニメーション「復活の地下帝国！？ロボットガールズＺ ｖｓ なぞの三大主役ロボ！」
+// https://annict.com/works/16882
+{"annict_id":16882,"mal_id":36298}
+,
+// [2019-WINTER] OVA: ロボットガールズZ ぷちキャラショートアニメ
+// https://annict.com/works/16883
+{"annict_id":16883,"mal_id":63092}
+,
 ]
