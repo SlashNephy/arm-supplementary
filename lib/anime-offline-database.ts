@@ -70,6 +70,9 @@ export const fetchAnimeOfflineDatabase = async (): Promise<AnimeOfflineDatabase>
       },
     },
   )
+  if (!response.ok) {
+    throw new Error(`Failed to fetch anime-offline-database: ${response.status} ${response.statusText}`)
+  }
 
   const arrayBuffer = await response.arrayBuffer()
   const compressed = new Uint8Array(arrayBuffer)
