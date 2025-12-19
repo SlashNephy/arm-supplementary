@@ -60898,7 +60898,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15751
 {"annict_id":15751,"mal_id":61280}
 ,
-// [null-null] OTHER: ショタおに
+// [null-null] TV: 俺と悠兄！
 // https://annict.com/works/15752
 {"annict_id":15752,"mal_id":61282}
 ,
