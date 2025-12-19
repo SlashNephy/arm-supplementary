@@ -65396,10 +65396,10 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] TV: 太陽よりも眩しい星 第2期
 // https://annict.com/works/16884
-{"annict_id":16884}
+{"annict_id":16884,"mal_id":63121}
 ,
 // [null-null] OTHER: 暁のヨナ 続編
 // https://annict.com/works/16885
-{"annict_id":16885}
+{"annict_id":16885,"mal_id":63120}
 ,
 ]
