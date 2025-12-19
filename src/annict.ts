@@ -16660,7 +16660,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2015-SPRING] OVA: 這いよれ! ニャル子さんF
 // https://annict.com/works/4184
-{"annict_id":4184,"mal_id":26023}
+{"annict_id":4184,"mal_id":26023,"syobocal_tid":3840}
 ,
 // [2014-AUTUMN] TV: 魔弾の王と戦姫
 // https://annict.com/works/4185
@@ -23300,7 +23300,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2015-SUMMER] MOVIE: ハイキュー!! 終わりと始まり
 // https://annict.com/works/5865
-{"annict_id":5865,"mal_id":29755}
+{"annict_id":5865,"mal_id":29755,"syobocal_tid":6981}
 ,
 // [2015-SUMMER] MOVIE: ハイキュー!! 勝者と敗者
 // https://annict.com/works/5866
@@ -37188,7 +37188,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2015-SPRING] MOVIE: きかんしゃトーマス 勇者とソドー島の怪物
 // https://annict.com/works/9803
-{"annict_id":9803}
+{"annict_id":9803,"syobocal_tid":4043}
 ,
 // [2015-AUTUMN] MOVIE: きかんしゃトーマス トーマスのはじめて物語
 // https://annict.com/works/9804
@@ -65394,7 +65394,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16883
 {"annict_id":16883,"mal_id":63092}
 ,
-// [null-null] TV: 太陽よりも眩しい星 第2期
+// [null-null] TV: 太陽よりも眩しい星 第二期
 // https://annict.com/works/16884
 {"annict_id":16884,"mal_id":63121}
 ,
@@ -65445,5 +65445,13 @@ export const annict: ArmEntry[] = [
 // [2026-WINTER] TV: チャギントン（シーズン4）
 // https://annict.com/works/16896
 {"annict_id":16896}
+,
+// [2009-null] TV: チャギントン（シーズン2）
+// https://annict.com/works/16897
+{"annict_id":16897,"syobocal_tid":2364}
+,
+// [2010-null] TV: チャギントン（シーズン3）
+// https://annict.com/works/16898
+{"annict_id":16898}
 ,
 ]
