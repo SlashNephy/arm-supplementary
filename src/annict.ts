@@ -64582,7 +64582,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16678
 {"annict_id":16678,"mal_id":3525}
 ,
-// [2025-AUTUMN] WEB: ザ・レンチキュラーズ
+// [2025-AUTUMN] WEB: ザ・レンチキュラーズ a/
 // https://annict.com/works/16679
 {"annict_id":16679}
 ,
@@ -65437,5 +65437,9 @@ export const annict: ArmEntry[] = [
 // [2017-SUMMER] TV: マイティ・マジソード
 // https://annict.com/works/16894
 {"annict_id":16894}
+,
+// [null-null] OTHER: ザ・レンチキュラーズ a/b
+// https://annict.com/works/16895
+{"annict_id":16895}
 ,
 ]
