@@ -65442,4 +65442,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16895
 {"annict_id":16895}
 ,
+// [2026-WINTER] TV: チャギントン（シーズン4）
+// https://annict.com/works/16896
+{"annict_id":16896}
+,
 ]
