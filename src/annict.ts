@@ -52860,7 +52860,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2025-AUTUMN] TV: アンデッドアンラック Winter編
 // https://annict.com/works/13735
-{"annict_id":13735,"mal_id":59435}
+{"annict_id":13735,"mal_id":59435,"syobocal_tid":7699}
 ,
 // [2024-SUMMER] WEB: 『魔女のふろーらいふ』アニメーションPV
 // https://annict.com/works/13736
@@ -55940,7 +55940,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] TV: カヤちゃんはコワくない
 // https://annict.com/works/14511
-{"annict_id":14511,"mal_id":60223}
+{"annict_id":14511,"mal_id":60223,"syobocal_tid":7701}
 ,
 // [1995-SUMMER] MOVIE: アラビアンナイト
 // https://annict.com/works/14512
@@ -57500,7 +57500,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] TV: シャンピニオンの魔女
 // https://annict.com/works/14901
-{"annict_id":14901,"mal_id":60509}
+{"annict_id":14901,"mal_id":60509,"syobocal_tid":7706}
 ,
 // [null-null] TV: 2.5次元の誘惑 第2期
 // https://annict.com/works/14902
@@ -58132,7 +58132,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] TV: 貴族転生 ～恵まれた生まれから最強の力を得る～
 // https://annict.com/works/15059
-{"annict_id":15059,"mal_id":60692}
+{"annict_id":15059,"mal_id":60692,"syobocal_tid":7702}
 ,
 // [2001-SUMMER] MOVIE: ガンダム新体験‐0087‐グリーンダイバーズ
 // https://annict.com/works/15060
@@ -61976,7 +61976,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] TV: うるわしの宵の月
 // https://annict.com/works/16022
-{"annict_id":16022,"mal_id":61663}
+{"annict_id":16022,"mal_id":61663,"syobocal_tid":7704}
 ,
 // [null-null] TV: ヒロイン？聖女？いいえ、オールワークスメイドです（誇）！
 // https://annict.com/works/16023
@@ -64820,7 +64820,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] TV: ラブル＆クルー
 // https://annict.com/works/16739
-{"annict_id":16739}
+{"annict_id":16739,"syobocal_tid":7705}
 ,
 // [2025-AUTUMN] MOVIE: ラブル＆クルー IN シアター
 // https://annict.com/works/16740
@@ -65401,5 +65401,17 @@ export const annict: ArmEntry[] = [
 // [null-null] OTHER: 暁のヨナ 続編
 // https://annict.com/works/16885
 {"annict_id":16885,"mal_id":63120}
+,
+// [2017-WINTER] WEB: ターザン＆ジェーン(2017年)
+// https://annict.com/works/16886
+{"annict_id":16886}
+,
+// [null-null] TV: 大きい女の子は好きですか？
+// https://annict.com/works/16887
+{"annict_id":16887}
+,
+// [2017-WINTER] WEB: わたしたち、ララループシー!
+// https://annict.com/works/16888
+{"annict_id":16888}
 ,
 ]
