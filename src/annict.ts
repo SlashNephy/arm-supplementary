@@ -54162,7 +54162,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/14065
 {"annict_id":14065,"mal_id":59971}
 ,
-// [null-null] TV: 転生したらスライムだった件 第4期
+// [2026-SPRING] TV: 転生したらスライムだった件 第4期
 // https://annict.com/works/14066
 {"annict_id":14066,"mal_id":59970}
 ,
