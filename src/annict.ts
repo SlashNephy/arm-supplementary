@@ -53902,7 +53902,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/13999
 {"annict_id":13999,"mal_id":40280}
 ,
-// [2026-null] TV: 霧尾ファンクラブ
+// [2026-SPRING] TV: 霧尾ファンクラブ
 // https://annict.com/works/14000
 {"annict_id":14000,"mal_id":59835}
 ,
