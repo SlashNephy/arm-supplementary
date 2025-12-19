@@ -65414,4 +65414,28 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16888
 {"annict_id":16888}
 ,
+// [2017-WINTER] WEB: レジェンド・クエスト
+// https://annict.com/works/16889
+{"annict_id":16889}
+,
+// [2019-AUTUMN] WEB: レジェンド・クエスト: スーパー神話ハンター
+// https://annict.com/works/16890
+{"annict_id":16890}
+,
+// [2017-WINTER] WEB: バディ・サンダーストラック
+// https://annict.com/works/16891
+{"annict_id":16891}
+,
+// [2017-WINTER] TV: バービー ドリームトピア
+// https://annict.com/works/16892
+{"annict_id":16892}
+,
+// [2017-SPRING] WEB: デンジャー＆エッグ ～なかよし2人のおかしな大冒険～
+// https://annict.com/works/16893
+{"annict_id":16893}
+,
+// [2017-SUMMER] TV: マイティ・マジソード
+// https://annict.com/works/16894
+{"annict_id":16894}
+,
 ]
