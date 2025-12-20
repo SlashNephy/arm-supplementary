@@ -65208,7 +65208,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] WEB: Duel Masters LOST ～忘却の太陽～
 // https://annict.com/works/16836
-{"annict_id":16836}
+{"annict_id":16836,"mal_id":61119}
 ,
 // [2025-AUTUMN] MOVIE: New PANTY & STOCKING with GARTERBELT：ザックリ・ツナイダーカット
 // https://annict.com/works/16837
