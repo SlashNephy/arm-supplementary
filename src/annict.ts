@@ -46712,7 +46712,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2025-AUTUMN] TV: 超普通マホウ少女 アスミトルバース
 // https://annict.com/works/12193
-{"annict_id":12193,"mal_id":62522}
+{"annict_id":12193,"mal_id":62522,"syobocal_tid":7633}
 ,
 // [2010-AUTUMN] OVA: 迷elleオトコノ娘
 // https://annict.com/works/12194
