@@ -65462,4 +65462,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16900
 {"annict_id":16900}
 ,
+// [2026-SPRING] TV: 僕のヒーローアカデミア More
+// https://annict.com/works/16901
+{"annict_id":16901}
+,
 ]
