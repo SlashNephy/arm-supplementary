@@ -50756,7 +50756,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] TV: 多聞くん今どっち！？
 // https://annict.com/works/13208
-{"annict_id":13208,"mal_id":59047}
+{"annict_id":13208,"mal_id":59047,"syobocal_tid":7708}
 ,
 // [1940-AUTUMN] MOVIE: ミッキーのドキドキ汽車旅行
 // https://annict.com/works/13209
@@ -60740,7 +60740,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] TV: 勇者のクズ
 // https://annict.com/works/15712
-{"annict_id":15712,"mal_id":61217}
+{"annict_id":15712,"mal_id":61217,"syobocal_tid":7703}
 ,
 // [2025-AUTUMN] MOVIE: ガールズ＆パンツァー もっとらぶらぶ作戦です！第１幕
 // https://annict.com/works/15713
@@ -61672,7 +61672,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] TV: 「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい
 // https://annict.com/works/15946
-{"annict_id":15946,"mal_id":61587}
+{"annict_id":15946,"mal_id":61587,"syobocal_tid":7707}
 ,
 // [2021-SUMMER] WEB: ヤンキーハムスター シーズン2.5
 // https://annict.com/works/15947
