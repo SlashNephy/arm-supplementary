@@ -65380,7 +65380,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] WEB: おでかけ子ザメ シーズン2
 // https://annict.com/works/16880
-{"annict_id":16880}
+{"annict_id":16880,"mal_id":63125}
 ,
 // [2026-WINTER] MOVIE: エヴァンゲリオン放送30周年記念特別興行
 // https://annict.com/works/16881
@@ -65456,18 +65456,34 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] TV: 百姓貴族 4th Season
 // https://annict.com/works/16899
-{"annict_id":16899}
+{"annict_id":16899,"mal_id":63128}
 ,
 // [null-null] OTHER: 新こちら葛飾区亀有公園前派出所
 // https://annict.com/works/16900
-{"annict_id":16900}
+{"annict_id":16900,"mal_id":63134}
 ,
 // [2026-SPRING] TV: 僕のヒーローアカデミア More
 // https://annict.com/works/16901
-{"annict_id":16901}
+{"annict_id":16901,"mal_id":63130}
 ,
 // [null-null] TV: SAKAMOTO DAYS 第2期
 // https://annict.com/works/16902
-{"annict_id":16902}
+{"annict_id":16902,"mal_id":63139}
+,
+// [null-null] OTHER: 怪獣8号 完結編
+// https://annict.com/works/16903
+{"annict_id":16903,"mal_id":63136}
+,
+// [null-null] OTHER: 鳴海の平日
+// https://annict.com/works/16904
+{"annict_id":16904,"mal_id":63138}
+,
+// [null-null] OTHER: Mr.Clice
+// https://annict.com/works/16905
+{"annict_id":16905,"mal_id":63135}
+,
+// [null-null] TV: 野生のラスボスが現れた！ 第2期
+// https://annict.com/works/16906
+{"annict_id":16906,"mal_id":63140}
 ,
 ]
