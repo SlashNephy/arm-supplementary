@@ -61398,7 +61398,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15877
 {"annict_id":15877,"mal_id":6671}
 ,
-// [2026-null] WEB: スティール・ボール・ラン ジョジョの奇妙な冒険
+// [2026-WINTER] WEB: スティール・ボール・ラン ジョジョの奇妙な冒険
 // https://annict.com/works/15878
 {"annict_id":15878,"mal_id":61469}
 ,
@@ -64168,7 +64168,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] TV: わたしが恋人になれるわけないじゃん、ムリムリ!（※ムリじゃなかった!?）〜ネクストシャイン！〜
 // https://annict.com/works/16573
-{"annict_id":16573,"mal_id":62543}
+{"annict_id":16573,"mal_id":62543,"syobocal_tid":7700}
 ,
 // [null-null] MOVIE: ガールズバンドクライ 完全新作映画
 // https://annict.com/works/16574
