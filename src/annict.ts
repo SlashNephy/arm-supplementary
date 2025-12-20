@@ -65466,4 +65466,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16901
 {"annict_id":16901}
 ,
+// [null-null] TV: SAKAMOTO DAYS 第2期
+// https://annict.com/works/16902
+{"annict_id":16902}
+,
 ]
