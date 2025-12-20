@@ -50158,7 +50158,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/13058
 {"annict_id":13058}
 ,
-// [null-null] OTHER: マッシュル-MASHLE- 続編
+// [2027-null] TV: マッシュル-MASHLE- 三魔対争神覚者最終試験編
 // https://annict.com/works/13059
 {"annict_id":13059,"mal_id":58934}
 ,
@@ -56446,7 +56446,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/14637
 {"annict_id":14637,"mal_id":8644}
 ,
-// [null-null] TV: 忘却バッテリー 第2期
+// [2027-null] TV: 忘却バッテリー 第2期
 // https://annict.com/works/14638
 {"annict_id":14638,"mal_id":60275}
 ,
