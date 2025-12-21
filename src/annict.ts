@@ -65490,4 +65490,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16907
 {"annict_id":16907,"mal_id":63143}
 ,
+// [2014-SPRING] OVA: 一週間フレンズ。 「香織の日記」特別版
+// https://annict.com/works/16908
+{"annict_id":16908}
+,
 ]
