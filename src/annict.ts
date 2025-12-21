@@ -65492,7 +65492,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2014-SPRING] OVA: 一週間フレンズ。 「香織の日記」特別版
 // https://annict.com/works/16908
-{"annict_id":16908}
+{"annict_id":16908,"mal_id":24821}
 ,
 // [null-null] TV: ガチアクタ 2期
 // https://annict.com/works/16909
