@@ -54464,7 +54464,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] TV: 穏やか貴族の休暇のすすめ。
 // https://annict.com/works/14141
-{"annict_id":14141,"mal_id":60071}
+{"annict_id":14141,"mal_id":60071,"syobocal_tid":7711}
 ,
 // [1990-SUMMER] MOVIE: キムの十字架
 // https://annict.com/works/14142
@@ -64198,7 +64198,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16580
 {"annict_id":16580,"mal_id":62567}
 ,
-// [2026-null] TV: Dr.STONE SCIENCE FUTURE 第3クール
+// [2026-SPRING] TV: Dr.STONE SCIENCE FUTURE 第3クール
 // https://annict.com/works/16581
 {"annict_id":16581,"mal_id":62568}
 ,
