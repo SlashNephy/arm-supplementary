@@ -57770,7 +57770,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/14968
 {"annict_id":14968,"mal_id":60551,"syobocal_tid":7590}
 ,
-// [2026-null] TV: 株式会社マジルミエ 第2期
+// [2026-SUMMER] TV: 株式会社マジルミエ 第2期
 // https://annict.com/works/14969
 {"annict_id":14969,"mal_id":60552}
 ,
@@ -65485,5 +65485,9 @@ export const annict: ArmEntry[] = [
 // [null-null] TV: 野生のラスボスが現れた！ 第2期
 // https://annict.com/works/16906
 {"annict_id":16906,"mal_id":63140}
+,
+// [null-null] OTHER: チェンソーマン 刺客篇
+// https://annict.com/works/16907
+{"annict_id":16907}
 ,
 ]
