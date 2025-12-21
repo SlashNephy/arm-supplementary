@@ -58034,7 +58034,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15034
 {"annict_id":15034}
 ,
-// [null-null] TV: BLEACH 千年血戦篇-禍進譚-
+// [2026-SUMMER] TV: BLEACH 千年血戦篇-禍進譚-
 // https://annict.com/works/15035
 {"annict_id":15035,"mal_id":60636}
 ,
@@ -61070,7 +61070,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15794
 {"annict_id":15794,"mal_id":61379,"syobocal_tid":7427}
 ,
-// [null-null] TV: アオのハコ 第2期
+// [2026-AUTUMN] TV: アオのハコ 第2期
 // https://annict.com/works/15795
 {"annict_id":15795,"mal_id":61323}
 ,
@@ -63086,7 +63086,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16300
 {"annict_id":16300,"mal_id":62002}
 ,
-// [null-null] TV: ブラッククローバー 2nd Season
+// [2026-null] TV: ブラッククローバー 2nd Season
 // https://annict.com/works/16301
 {"annict_id":16301,"mal_id":61967}
 ,
@@ -63110,7 +63110,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16306
 {"annict_id":16306}
 ,
-// [2026-null] WEB: BEASTARS FINAL SEASON Part2
+// [2026-WINTER] WEB: BEASTARS FINAL SEASON Part2
 // https://annict.com/works/16307
 {"annict_id":16307,"mal_id":61114}
 ,
