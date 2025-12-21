@@ -65494,4 +65494,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16908
 {"annict_id":16908}
 ,
+// [null-null] TV: ガチアクタ 2期
+// https://annict.com/works/16909
+{"annict_id":16909}
+,
 ]
