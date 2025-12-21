@@ -60126,11 +60126,11 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15558
 {"annict_id":15558,"mal_id":61128,"syobocal_tid":7655}
 ,
-// [null-null] MOVIE: 劇場版ハイキュー!! VS小さな巨人
+// [2027-null] MOVIE: 劇場版ハイキュー!! VS小さな巨人
 // https://annict.com/works/15559
 {"annict_id":15559,"mal_id":58967}
 ,
-// [null-null] TV: ハイキュー!! バケモノたちの行くところ
+// [2027-null] TV: ハイキュー!! バケモノたちの行くところ
 // https://annict.com/works/15560
 {"annict_id":15560,"mal_id":61125}
 ,
