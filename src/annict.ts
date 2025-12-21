@@ -63574,7 +63574,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16423
 {"annict_id":16423,"mal_id":62206}
 ,
-// [2026-null] TV: あかね噺
+// [2026-SPRING] TV: あかね噺
 // https://annict.com/works/16424
 {"annict_id":16424,"mal_id":62164}
 ,
