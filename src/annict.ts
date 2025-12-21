@@ -54426,7 +54426,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/14131
 {"annict_id":14131}
 ,
-// [null-null] TV: 逃げ上手の若君 第二期
+// [2026-SUMMER] TV: 逃げ上手の若君 第二期
 // https://annict.com/works/14132
 {"annict_id":14132,"mal_id":60059}
 ,
@@ -63906,7 +63906,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16506
 {"annict_id":16506,"mal_id":62392}
 ,
-// [2026-null] TV: キルアオ
+// [2026-SPRING] TV: キルアオ
 // https://annict.com/works/16507
 {"annict_id":16507,"mal_id":62391}
 ,
@@ -64126,7 +64126,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16561
 {"annict_id":16561,"mal_id":62518}
 ,
-// [null-null] TV: ダンダダン 第3期
+// [2027-null] TV: ダンダダン 第3期
 // https://annict.com/works/16562
 {"annict_id":16562,"mal_id":62516}
 ,
