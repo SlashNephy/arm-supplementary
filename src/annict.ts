@@ -65488,6 +65488,6 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] OTHER: チェンソーマン 刺客篇
 // https://annict.com/works/16907
-{"annict_id":16907}
+{"annict_id":16907,"mal_id":63143}
 ,
 ]
