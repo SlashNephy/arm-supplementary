@@ -61092,7 +61092,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] TV: 有栖川煉ってホントは女なんだよね。
 // https://annict.com/works/15800
-{"annict_id":15800,"mal_id":63096}
+{"annict_id":15800,"mal_id":63096,"syobocal_tid":7714}
 ,
 // [2026-WINTER] TV: 青のミブロ -芹沢暗殺編-
 // https://annict.com/works/15801
@@ -61378,7 +61378,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15872
 {"annict_id":15872,"mal_id":61440}
 ,
-// [null-null] TV: 春夏秋冬代行者 春の舞
+// [2026-SPRING] TV: 春夏秋冬代行者 春の舞
 // https://annict.com/works/15873
 {"annict_id":15873,"mal_id":61443}
 ,
@@ -65204,7 +65204,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] TV: 闇芝居 十六期
 // https://annict.com/works/16835
-{"annict_id":16835,"mal_id":63087}
+{"annict_id":16835,"mal_id":63087,"syobocal_tid":7715}
 ,
 // [2026-WINTER] WEB: Duel Masters LOST ～忘却の太陽～
 // https://annict.com/works/16836
@@ -65496,10 +65496,10 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] TV: ガチアクタ 2期
 // https://annict.com/works/16909
-{"annict_id":16909}
+{"annict_id":16909,"mal_id":63147}
 ,
 // [2026-null] TV: 乙女怪獣キャラメリゼ
 // https://annict.com/works/16910
-{"annict_id":16910}
+{"annict_id":16910,"mal_id":63150}
 ,
 ]
