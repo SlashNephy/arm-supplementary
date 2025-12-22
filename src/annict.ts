@@ -65498,4 +65498,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16909
 {"annict_id":16909}
 ,
+// [2026-null] TV: 乙女怪獣キャラメリゼ
+// https://annict.com/works/16910
+{"annict_id":16910}
+,
 ]
