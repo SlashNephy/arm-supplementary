@@ -65502,4 +65502,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16910
 {"annict_id":16910,"mal_id":63150}
 ,
+// [2026-WINTER] WEB: mofusand
+// https://annict.com/works/16911
+{"annict_id":16911}
+,
 ]
