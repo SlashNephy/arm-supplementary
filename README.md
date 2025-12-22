@@ -38,17 +38,17 @@ export const fetchArmEntries = async (): Promise<ArmEntry[]> => {
 
 ## Statistics
 
-Currently, arm-supplementary has 46228 entries (+10922).
+Currently, arm-supplementary has 46315 entries (+11009).
 
 | Service                                  | arm-supplementary | arm / anime-offline-database |
 | :--------------------------------------- | :---------------: | :--------------------------: |
 | [Annict](https://annict.com)             |    16376 (+287)   |             16089            |
-| [AniList](https://anilist.co)            |   23926 (+2178)   |             21748            |
-| [MyAnimeList](https://myanimelist.net)   |    30086 (+664)   |             29422            |
+| [AniList](https://anilist.co)            |   23968 (+2220)   |             21748            |
+| [MyAnimeList](https://myanimelist.net)   |    30103 (+681)   |             29422            |
 | [しょぼいカレンダー](https://cal.syoboi.jp)       |     6632 (+98)    |             6534             |
-| [AniDB](https://anidb.net)               |    14403 (+217)   |             14186            |
-| [Anime-Planet](https://anime-planet.com) |    26683 (+251)   |             26432            |
-| [aniSearch](https://anisearch.com)       |    20657 (+238)   |             20419            |
+| [AniDB](https://anidb.net)               |    14417 (+217)   |             14200            |
+| [Anime-Planet](https://anime-planet.com) |    26700 (+251)   |             26449            |
+| [aniSearch](https://anisearch.com)       |    20703 (+238)   |             20465            |
 | [Kitsu](https://kitsu.io)                |       0 (±0)      |               0              |
-| [LiveChart.me](https://livechart.me)     |    12218 (+223)   |             11995            |
-| [Anime Notifier](https://notify.moe)     |    17085 (+248)   |             16837            |
+| [LiveChart.me](https://livechart.me)     |    12238 (+223)   |             12015            |
+| [Anime Notifier](https://notify.moe)     |    17084 (+247)   |             16837            |
