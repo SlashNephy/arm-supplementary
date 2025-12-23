@@ -63218,7 +63218,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16334
 {"annict_id":16334,"mal_id":58756}
 ,
-// [null-null] OTHER: パンどろぼう
+// [2026-AUTUMN] TV: パンどろぼう
 // https://annict.com/works/16335
 {"annict_id":16335,"mal_id":62039}
 ,
@@ -65509,5 +65509,9 @@ export const annict: ArmEntry[] = [
 // [2026-AUTUMN] TV: ケロロ軍曹☆
 // https://annict.com/works/16912
 {"annict_id":16912}
+,
+// [2025-AUTUMN] WEB: マイティ・ナイン
+// https://annict.com/works/16913
+{"annict_id":16913}
 ,
 ]
