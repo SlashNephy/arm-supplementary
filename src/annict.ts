@@ -65504,6 +65504,10 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] WEB: mofusand
 // https://annict.com/works/16911
-{"annict_id":16911}
+{"annict_id":16911,"mal_id":63151}
+,
+// [2026-AUTUMN] TV: ケロロ軍曹☆
+// https://annict.com/works/16912
+{"annict_id":16912}
 ,
 ]
