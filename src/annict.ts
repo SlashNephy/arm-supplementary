@@ -65508,7 +65508,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: ケロロ軍曹☆
 // https://annict.com/works/16912
-{"annict_id":16912}
+{"annict_id":16912,"mal_id":63157}
 ,
 // [2025-AUTUMN] WEB: マイティ・ナイン
 // https://annict.com/works/16913
