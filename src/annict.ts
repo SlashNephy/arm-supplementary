@@ -65538,4 +65538,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16919
 {"annict_id":16919}
 ,
+// [2006-AUTUMN] OVA: チャーミーキティ
+// https://annict.com/works/16920
+{"annict_id":16920,"mal_id":52103}
+,
 ]
