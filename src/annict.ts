@@ -65514,4 +65514,20 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16913
 {"annict_id":16913}
 ,
+// [2025-AUTUMN] WEB: ゼンレスゾーンゼロ 葉瞬光 ショートアニメ「光となれれば」
+// https://annict.com/works/16914
+{"annict_id":16914}
+,
+// [2025-SUMMER] WEB: 【崩壊：スターレイル】ショートアニメ「山河を越えて」
+// https://annict.com/works/16915
+{"annict_id":16915}
+,
+// [2025-AUTUMN] WEB:  【崩壊：スターレイル】ショートアニメ「ハローワールド」
+// https://annict.com/works/16916
+{"annict_id":16916}
+,
+// [2025-AUTUMN] WEB: 『鳴潮』Ver3.0ショートアニメ「転校生」
+// https://annict.com/works/16917
+{"annict_id":16917}
+,
 ]
