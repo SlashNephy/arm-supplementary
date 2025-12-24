@@ -57604,7 +57604,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2024-AUTUMN] WEB: ゼンレスゾーンゼロ 星見雅ショートアニメ「英雄の旅路」
 // https://annict.com/works/14927
-{"annict_id":14927}
+{"annict_id":14927,"mal_id":60698}
 ,
 // [2024-AUTUMN] WEB: お買いものパンダ！ 配信限定エピソード
 // https://annict.com/works/14928
@@ -65536,7 +65536,7 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] OVA: 魔法のプリンセス ミンキーモモ 新作OVA
 // https://annict.com/works/16919
-{"annict_id":16919}
+{"annict_id":16919,"mal_id":63167}
 ,
 // [2006-AUTUMN] OVA: チャーミーキティ
 // https://annict.com/works/16920
