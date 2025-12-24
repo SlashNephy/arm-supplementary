@@ -64556,7 +64556,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] OVA: 百姓貴族 3rd Season 未放送エピソード
 // https://annict.com/works/16672
-{"annict_id":16672}
+{"annict_id":16672,"mal_id":63153}
 ,
 // [2018-null] WEB: 都会に住んでる田舎っこ
 // https://annict.com/works/16673
@@ -65541,5 +65541,9 @@ export const annict: ArmEntry[] = [
 // [2006-AUTUMN] OVA: チャーミーキティ
 // https://annict.com/works/16920
 {"annict_id":16920,"mal_id":52103}
+,
+// [2012-AUTUMN] WEB: ONE PIECE FILM Z GLORIOUS ISLAND
+// https://annict.com/works/16921
+{"annict_id":16921,"mal_id":16468}
 ,
 ]
