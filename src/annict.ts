@@ -65446,11 +65446,11 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16896
 {"annict_id":16896}
 ,
-// [2009-null] TV: チャギントン（シーズン2）
+// [2011-SPRING] TV: チャギントン（シーズン2）
 // https://annict.com/works/16897
 {"annict_id":16897,"syobocal_tid":2364}
 ,
-// [2010-null] TV: チャギントン（シーズン3）
+// [2014-null] TV: チャギントン（シーズン3）
 // https://annict.com/works/16898
 {"annict_id":16898}
 ,
@@ -65529,5 +65529,9 @@ export const annict: ArmEntry[] = [
 // [2025-AUTUMN] WEB: 『鳴潮』Ver3.0ショートアニメ「転校生」
 // https://annict.com/works/16917
 {"annict_id":16917}
+,
+// [2025-AUTUMN] WEB: リトルツインスターズはじまりの物語【キキ&ララ】
+// https://annict.com/works/16918
+{"annict_id":16918}
 ,
 ]
