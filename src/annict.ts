@@ -63588,7 +63588,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] TV: ほっぺちゃん ～サン王国と黒ほっぺ団の秘密～
 // https://annict.com/works/16427
-{"annict_id":16427}
+{"annict_id":16427,"syobocal_tid":7716}
 ,
 // [null-null] OTHER: 悪役令嬢の追放後！ 教会改革ごはんで悠々シスター暮らし
 // https://annict.com/works/16428
