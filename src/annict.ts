@@ -42730,7 +42730,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/11193
 {"annict_id":11193,"mal_id":56735}
 ,
-// [2026-null] TV: クラスで2番目に可愛い女の子と友だちになった
+// [2026-SPRING] TV: クラスで2番目に可愛い女の子と友だちになった
 // https://annict.com/works/11194
 {"annict_id":11194,"mal_id":56734}
 ,
