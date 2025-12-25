@@ -60050,7 +60050,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15539
 {"annict_id":15539}
 ,
-// [null-null] OTHER: ご注文はうさぎですか？ 新作アニメ
+// [null-null] MOVIE: 劇場版 ご注文はうさぎですか？
 // https://annict.com/works/15540
 {"annict_id":15540,"mal_id":61115}
 ,
@@ -65580,6 +65580,6 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-null] TV: 地雷なんですか？地原さん
 // https://annict.com/works/16930
-{"annict_id":16930}
+{"annict_id":16930,"mal_id":63174}
 ,
 ]
