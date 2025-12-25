@@ -65562,4 +65562,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16925
 {"annict_id":16925}
 ,
+// [2017-SUMMER] WEB: マジック・スクール・バス: リターンズ
+// https://annict.com/works/16926
+{"annict_id":16926}
+,
 ]
