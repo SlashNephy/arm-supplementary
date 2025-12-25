@@ -65578,4 +65578,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16929
 {"annict_id":16929}
 ,
+// [2026-null] TV: 地雷なんですか？地原さん
+// https://annict.com/works/16930
+{"annict_id":16930}
+,
 ]
