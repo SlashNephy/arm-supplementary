@@ -65546,4 +65546,20 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16921
 {"annict_id":16921,"mal_id":16468}
 ,
+// [2017-SUMMER] WEB: バンザイ! キング・ジュリアン
+// https://annict.com/works/16922
+{"annict_id":16922}
+,
+// [2017-SUMMER] WEB: バンザイ! キング・ジュリアン亡命編
+// https://annict.com/works/16923
+{"annict_id":16923}
+,
+// [2017-SUMMER] WEB: トゥルーと虹の王国
+// https://annict.com/works/16924
+{"annict_id":16924}
+,
+// [2017-SUMMER] WEB: LEGO Elves: エルブンデールの秘密
+// https://annict.com/works/16925
+{"annict_id":16925}
+,
 ]
