@@ -65566,4 +65566,16 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16926
 {"annict_id":16926}
 ,
+// [2017-SUMMER] WEB: ビッグマウス
+// https://annict.com/works/16927
+{"annict_id":16927}
+,
+// [2017-SUMMER] WEB: ニコ ～光の剣を持つ戦士～
+// https://annict.com/works/16928
+{"annict_id":16928}
+,
+// [2017-SUMMER] WEB: ロスト・イン・オズ
+// https://annict.com/works/16929
+{"annict_id":16929}
+,
 ]
