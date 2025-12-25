@@ -65582,4 +65582,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16930
 {"annict_id":16930,"mal_id":63174}
 ,
+// [2004-WINTER] MOVIE: ルーニー・テューンズ:バック・イン・アクション
+// https://annict.com/works/16931
+{"annict_id":16931}
+,
 ]
