@@ -61992,7 +61992,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] TV: アンドロイドは経験人数に入りますか？？
 // https://annict.com/works/16026
-{"annict_id":16026,"mal_id":61694}
+{"annict_id":16026,"mal_id":61694,"syobocal_tid":7719}
 ,
 // [1972-null] MOVIE: Movers（原題）
 // https://annict.com/works/16027
@@ -63964,7 +63964,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] TV: イチゴ哀歌 〜雑で生イキな妹と割り切れない兄〜
 // https://annict.com/works/16521
-{"annict_id":16521,"mal_id":62897}
+{"annict_id":16521,"mal_id":62897,"syobocal_tid":7718}
 ,
 // [2026-WINTER] MOVIE: 劇場版 暗殺教室 みんなの時間
 // https://annict.com/works/16522
