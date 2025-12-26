@@ -65590,4 +65590,16 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16932
 {"annict_id":16932,"mal_id":63177}
 ,
+// [1995-SUMMER] MOVIE: トムとジェリーの大冒険
+// https://annict.com/works/16933
+{"annict_id":16933}
+,
+// [2021-WINTER] MOVIE: トムとジェリー(2021年)
+// https://annict.com/works/16934
+{"annict_id":16934}
+,
+// [2025-SUMMER] WEB: ちぇんそーびより
+// https://annict.com/works/16935
+{"annict_id":16935,"mal_id":6232}
+,
 ]
