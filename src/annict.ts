@@ -65588,6 +65588,6 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] TV: アンデッドアンラック 第2期
 // https://annict.com/works/16932
-{"annict_id":16932}
+{"annict_id":16932,"mal_id":63177}
 ,
 ]
