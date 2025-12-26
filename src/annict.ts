@@ -27462,7 +27462,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/6981
 {"annict_id":6981}
 ,
-// [2019-AUTUMN] TV: アニメ  ボス・ベイビー
+// [2019-AUTUMN] TV: ボス・ベイビー: ビジネスは赤ちゃんにおまかせ!
 // https://annict.com/works/6982
 {"annict_id":6982,"syobocal_tid":5486}
 ,
@@ -38350,7 +38350,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/10094
 {"annict_id":10094,"syobocal_tid":6436}
 ,
-// [2022-AUTUMN] TV: アニメ ボス・ベイビー シーズン2
+// [2022-AUTUMN] TV: ボス・ベイビー: ビジネスは赤ちゃんにおまかせ! シーズン2
 // https://annict.com/works/10095
 {"annict_id":10095,"syobocal_tid":6496}
 ,
@@ -63750,7 +63750,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16467
 {"annict_id":16467}
 ,
-// [null-null] OTHER: ブチ切れ令嬢は報復を誓いました。～魔導書の力で祖国を叩き潰します～
+// [2026-SUMMER] TV: ブチ切れ令嬢は報復を誓いました。～魔導書の力で祖国を叩き潰します～
 // https://annict.com/works/16468
 {"annict_id":16468,"mal_id":62289}
 ,
@@ -65601,5 +65601,21 @@ export const annict: ArmEntry[] = [
 // [2025-SUMMER] WEB: ちぇんそーびより
 // https://annict.com/works/16935
 {"annict_id":16935,"mal_id":6232}
+,
+// [2017-AUTUMN] WEB: スーパーモンスターズ
+// https://annict.com/works/16936
+{"annict_id":16936}
+,
+// [2017-AUTUMN] WEB: ストレッチ・アームストロング&フレックス・ファイターズ
+// https://annict.com/works/16937
+{"annict_id":16937}
+,
+// [2017-AUTUMN] WEB: もしもネズミにクッキーをあげると
+// https://annict.com/works/16938
+{"annict_id":16938}
+,
+// [2018-WINTER] WEB: ラマ・ラマ
+// https://annict.com/works/16939
+{"annict_id":16939}
 ,
 ]
