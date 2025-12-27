@@ -65632,6 +65632,6 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] TV: キングダム 第6シリーズ 続編
 // https://annict.com/works/16943
-{"annict_id":16943}
+{"annict_id":16943,"mal_id":63185}
 ,
 ]
