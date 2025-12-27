@@ -61410,7 +61410,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15880
 {"annict_id":15880}
 ,
-// [2026-null] TV: 天幕のジャードゥーガル
+// [2026-SUMMER] TV: 天幕のジャードゥーガル
 // https://annict.com/works/15881
 {"annict_id":15881,"mal_id":61483}
 ,
@@ -65620,10 +65620,14 @@ export const annict: ArmEntry[] = [
 ,
 // [2025-AUTUMN] WEB: ともに輝く明日のために。
 // https://annict.com/works/16940
-{"annict_id":16940}
+{"annict_id":16940,"mal_id":63183}
 ,
 // [2024-SPRING] WEB: Azuki: Enter The Garden
 // https://annict.com/works/16941
 {"annict_id":16941,"mal_id":58780}
+,
+// [null-null] OTHER: 桃源暗鬼 日光・華厳の滝編
+// https://annict.com/works/16942
+{"annict_id":16942,"mal_id":63181}
 ,
 ]
