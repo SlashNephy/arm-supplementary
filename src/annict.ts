@@ -52058,7 +52058,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/13534
 {"annict_id":13534,"mal_id":59169,"syobocal_tid":7361}
 ,
-// [2026-WINTER] MOVIE: 劇場版 魔法科高校の劣等生 四葉継承編
+// [2026-SPRING] MOVIE: 劇場版 魔法科高校の劣等生 四葉継承編
 // https://annict.com/works/13535
 {"annict_id":13535,"mal_id":59174}
 ,
@@ -63826,7 +63826,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16486
 {"annict_id":16486,"mal_id":62146}
 ,
-// [2026-null] TV: メイドさんは食べるだけ
+// [2026-SPRING] TV: メイドさんは食べるだけ
 // https://annict.com/works/16487
 {"annict_id":16487,"mal_id":62342}
 ,
@@ -65629,5 +65629,9 @@ export const annict: ArmEntry[] = [
 // [null-null] OTHER: 桃源暗鬼 日光・華厳の滝編
 // https://annict.com/works/16942
 {"annict_id":16942,"mal_id":63181}
+,
+// [null-null] TV: キングダム 第6シリーズ 続編
+// https://annict.com/works/16943
+{"annict_id":16943}
 ,
 ]
