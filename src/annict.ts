@@ -65618,4 +65618,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16939
 {"annict_id":16939}
 ,
+// [2025-AUTUMN] WEB: ともに輝く明日のために。
+// https://annict.com/works/16940
+{"annict_id":16940}
+,
 ]
