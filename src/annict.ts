@@ -65622,4 +65622,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16940
 {"annict_id":16940}
 ,
+// [2024-SPRING] WEB: Azuki: Enter The Garden
+// https://annict.com/works/16941
+{"annict_id":16941,"mal_id":58780}
+,
 ]
