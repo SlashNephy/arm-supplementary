@@ -65674,4 +65674,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16953
 {"annict_id":16953}
 ,
+// [2018-AUTUMN] TV: バンジのにゃむにゃむ日記
+// https://annict.com/works/16954
+{"annict_id":16954,"mal_id":46898}
+,
 ]
