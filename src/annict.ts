@@ -65678,4 +65678,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16954
 {"annict_id":16954,"mal_id":46898}
 ,
+// [null-null] TV: ルリドラゴン
+// https://annict.com/works/16955
+{"annict_id":16955,"mal_id":63188}
+,
 ]
