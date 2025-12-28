@@ -57028,7 +57028,7 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] OTHER: 透明少年探偵アキラ
 // https://annict.com/works/14783
-{"annict_id":14783,"mal_id":10812}
+{"annict_id":14783,"mal_id":10812,"syobocal_tid":2432}
 ,
 // [2026-WINTER] TV: 透明男と人間女～そのうち夫婦になるふたり～
 // https://annict.com/works/14784
