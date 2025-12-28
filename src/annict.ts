@@ -31622,7 +31622,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/8247
 {"annict_id":8247}
 ,
-// [2018-null] WEB: ヒルダの冒険 シーズン1
+// [2018-SUMMER] WEB: ヒルダの冒険 シーズン1
 // https://annict.com/works/8248
 {"annict_id":8248}
 ,
@@ -65641,5 +65641,37 @@ export const annict: ArmEntry[] = [
 // [2018-SPRING] WEB: ロスト・ティーンエイジャー
 // https://annict.com/works/16945
 {"annict_id":16945}
+,
+// [2018-WINTER] MOVIE: スターシップ・トゥルーパーズ レッドプラネット
+// https://annict.com/works/16946
+{"annict_id":16946}
+,
+// [2018-SPRING] WEB: ツリーハウスたんていだん
+// https://annict.com/works/16947
+{"annict_id":16947}
+,
+// [2018-SPRING] WEB: レノンとグルコ ～ふたりはサイコー！～
+// https://annict.com/works/16948
+{"annict_id":16948}
+,
+// [2018-SPRING] WEB: ロッキーとブルウィンクルの大冒険(2018年)
+// https://annict.com/works/16949
+{"annict_id":16949}
+,
+// [2018-SUMMER] TV: OK K.O.! めざせヒーロー
+// https://annict.com/works/16950
+{"annict_id":16950}
+,
+// [2018-SUMMER] WEB: パラダイス警察
+// https://annict.com/works/16951
+{"annict_id":16951}
+,
+// [2018-SUMMER] WEB: カップケーキ&ダイノのなんでも屋
+// https://annict.com/works/16952
+{"annict_id":16952}
+,
+// [2018-SUMMER] WEB: ねこのピート
+// https://annict.com/works/16953
+{"annict_id":16953}
 ,
 ]
