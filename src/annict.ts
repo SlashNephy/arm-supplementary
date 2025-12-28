@@ -21830,7 +21830,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/5494
 {"annict_id":5494,"mal_id":21653}
 ,
-// [2019-SPRING] TV: ワンパンマン (第2期)
+// [2019-SPRING] TV: ワンパンマン 第2期
 // https://annict.com/works/5495
 {"annict_id":5495,"mal_id":34134,"syobocal_tid":5272}
 ,
@@ -28790,7 +28790,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/7411
 {"annict_id":7411,"mal_id":41487,"syobocal_tid":6024}
 ,
-// [2019-AUTUMN] OVA: ワンパンマン (第2期) OVA
+// [2019-AUTUMN] OVA: ワンパンマン 第2期 OVA
 // https://annict.com/works/7413
 {"annict_id":7413,"mal_id":39705}
 ,
@@ -37290,7 +37290,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/9828
 {"annict_id":9828,"mal_id":52750}
 ,
-// [2025-AUTUMN] TV: ワンパンマン (第3期)
+// [2025-AUTUMN] TV: ワンパンマン 第3期
 // https://annict.com/works/9829
 {"annict_id":9829,"mal_id":52807,"syobocal_tid":7619}
 ,
@@ -65681,5 +65681,9 @@ export const annict: ArmEntry[] = [
 // [null-null] TV: ルリドラゴン
 // https://annict.com/works/16955
 {"annict_id":16955,"mal_id":63188}
+,
+// [2027-null] TV: ワンパンマン 第3期第2クール
+// https://annict.com/works/16956
+{"annict_id":16956}
 ,
 ]
