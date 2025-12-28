@@ -65634,4 +65634,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16943
 {"annict_id":16943,"mal_id":63185}
 ,
+// [2018-SPRING] WEB: スパイキッズ とくべつミッション
+// https://annict.com/works/16944
+{"annict_id":16944}
+,
+// [2018-SPRING] WEB: ロスト・ティーンエイジャー
+// https://annict.com/works/16945
+{"annict_id":16945}
+,
 ]
