@@ -65684,6 +65684,6 @@ export const annict: ArmEntry[] = [
 ,
 // [2027-null] TV: ワンパンマン 第3期第2クール
 // https://annict.com/works/16956
-{"annict_id":16956}
+{"annict_id":16956,"mal_id":63193}
 ,
 ]
