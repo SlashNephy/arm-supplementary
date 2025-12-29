@@ -65686,4 +65686,24 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16956
 {"annict_id":16956,"mal_id":63193}
 ,
+// [2018-AUTUMN] WEB: スーパー・ドラァグ
+// https://annict.com/works/16957
+{"annict_id":16957}
+,
+// [2018-AUTUMN] WEB: モータウンの魔法
+// https://annict.com/works/16958
+{"annict_id":16958}
+,
+// [2018-AUTUMN] WEB: ウォーターシップ・ダウンのウサギたち(2018年)
+// https://annict.com/works/16959
+{"annict_id":16959}
+,
+// [2018-AUTUMN] WEB: チップとポテト
+// https://annict.com/works/16960
+{"annict_id":16960}
+,
+// [2018-AUTUMN] WEB: カンフー・パンダ ～運命の拳～
+// https://annict.com/works/16961
+{"annict_id":16961}
+,
 ]
