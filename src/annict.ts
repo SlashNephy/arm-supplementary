@@ -65706,4 +65706,44 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16961
 {"annict_id":16961}
 ,
+// [2019-WINTER] TV: サマーキャンプ・アイランド
+// https://annict.com/works/16962
+{"annict_id":16962}
+,
+// [2019-WINTER] WEB: トレーラー・パーク・ボーイズ: The Animation
+// https://annict.com/works/16963
+{"annict_id":16963}
+,
+// [2019-WINTER] WEB: ユーフーしゅつどう
+// https://annict.com/works/16964
+{"annict_id":16964}
+,
+// [2019-WINTER] WEB: チャーリーのゆかいな大冒険
+// https://annict.com/works/16965
+{"annict_id":16965}
+,
+// [2019-WINTER] WEB: ピンキー・マリンキー
+// https://annict.com/works/16966
+{"annict_id":16966}
+,
+// [1995-WINTER] TV: 怪盗カルメンサンディエゴ
+// https://annict.com/works/16967
+{"annict_id":16967}
+,
+// [2019-WINTER] WEB: カルメン・サンディエゴ
+// https://annict.com/works/16968
+{"annict_id":16968}
+,
+// [2019-WINTER] WEB: ドラゴン: レスキューライダーズ
+// https://annict.com/works/16969
+{"annict_id":16969}
+,
+// [2019-WINTER] WEB: コスチューム・クエスト～モンスターを倒せ！～
+// https://annict.com/works/16970
+{"annict_id":16970}
+,
+// [2019-WINTER] TV: バービー ドリームハウスアドベンチャー
+// https://annict.com/works/16971
+{"annict_id":16971}
+,
 ]
