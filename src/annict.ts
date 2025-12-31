@@ -65778,4 +65778,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16979
 {"annict_id":16979,"mal_id":35367}
 ,
+// [null-null] MOVIE: 劇場版 かぐや様は告らせたい 完結編
+// https://annict.com/works/16980
+{"annict_id":16980,"mal_id":63212}
+,
+// [2025-AUTUMN] MOVIE: 天官賜福 ショートムービー
+// https://annict.com/works/16981
+{"annict_id":16981,"mal_id":60988}
+,
 ]
