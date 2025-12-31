@@ -64036,7 +64036,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] TV: 北斗の拳 拳王軍ザコたちの挽歌
 // https://annict.com/works/16539
-{"annict_id":16539}
+{"annict_id":16539,"mal_id":62987,"syobocal_tid":7721}
 ,
 // [null-null] TV: 風を継ぐもの
 // https://annict.com/works/16540
