@@ -65770,4 +65770,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16977
 {"annict_id":16977}
 ,
+// [2019-SPRING] TV: ドロシーとオズの魔法使い
+// https://annict.com/works/16978
+{"annict_id":16978}
+,
 ]
