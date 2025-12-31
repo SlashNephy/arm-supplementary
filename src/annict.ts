@@ -65746,4 +65746,28 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16971
 {"annict_id":16971}
 ,
+// [1992-SPRING] TV: ウォーリーをさがせ！
+// https://annict.com/works/16972
+{"annict_id":16972}
+,
+// [2021-SUMMER] TV: ウォーリーをさがせ！(2019年)
+// https://annict.com/works/16973
+{"annict_id":16973}
+,
+// [1999-SPRING] TV: インヴェイジョンUSA
+// https://annict.com/works/16974
+{"annict_id":16974}
+,
+// [2001-AUTUMN] TV: エボリューション The Animated Series
+// https://annict.com/works/16975
+{"annict_id":16975}
+,
+// [2005-WINTER] TV: アニマル天国は今日も晴れ
+// https://annict.com/works/16976
+{"annict_id":16976}
+,
+// [2017-SPRING] WEB: 長ぐつをはいたネコ: おとぎ話から脱出せよ!
+// https://annict.com/works/16977
+{"annict_id":16977}
+,
 ]
