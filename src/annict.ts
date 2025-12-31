@@ -65774,4 +65774,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16978
 {"annict_id":16978}
 ,
+// [1987-AUTUMN] OVA: 僕のオールディーズはオールカラー
+// https://annict.com/works/16979
+{"annict_id":16979,"mal_id":35367}
+,
 ]
