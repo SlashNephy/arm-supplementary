@@ -65786,4 +65786,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16981
 {"annict_id":16981,"mal_id":60988}
 ,
+// [2026-null] TV: あはれ！名作くん (完全新作アニメ)
+// https://annict.com/works/16982
+{"annict_id":16982}
+,
 ]
