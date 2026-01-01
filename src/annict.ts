@@ -64166,7 +64166,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16572
 {"annict_id":16572}
 ,
-// [2026-WINTER] TV: わたしが恋人になれるわけないじゃん、ムリムリ!（※ムリじゃなかった!?）〜ネクストシャイン！〜
+// [2026-WINTER] TV: わたしが恋人になれるわけないじゃん、ムリムリ!（※ムリじゃなかった!?）第13話〜第17話
 // https://annict.com/works/16573
 {"annict_id":16573,"mal_id":62543,"syobocal_tid":7700}
 ,
@@ -65789,5 +65789,9 @@ export const annict: ArmEntry[] = [
 // [2026-null] TV: あはれ！名作くん (完全新作アニメ)
 // https://annict.com/works/16982
 {"annict_id":16982}
+,
+// [null-null] TV: ヒストリエ
+// https://annict.com/works/16983
+{"annict_id":16983,"mal_id":63215}
 ,
 ]
