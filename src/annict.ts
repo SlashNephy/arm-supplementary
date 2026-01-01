@@ -65794,4 +65794,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16983
 {"annict_id":16983,"mal_id":63215}
 ,
+// [2026-WINTER] WEB: 能登半島復興応援企画アニメーション
+// https://annict.com/works/16984
+{"annict_id":16984}
+,
 ]
