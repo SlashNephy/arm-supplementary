@@ -65798,4 +65798,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16984
 {"annict_id":16984}
 ,
+// [2026-WINTER] TV: ゲルぴよ
+// https://annict.com/works/16985
+{"annict_id":16985,"mal_id":63216}
+,
 ]
