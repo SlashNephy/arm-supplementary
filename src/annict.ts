@@ -64162,7 +64162,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16571
 {"annict_id":16571,"mal_id":62542}
 ,
-// [2025-AUTUMN] MOVIE: わたしが恋人になれるわけないじゃん、ムリムリ!（※ムリじゃなかった!?）〜ネクストシャイン！〜 (特別編集版)
+// [2025-AUTUMN] MOVIE: わたしが恋人になれるわけないじゃん、ムリムリ!（※ムリじゃなかった!?） ～ネクストシャイン！～
 // https://annict.com/works/16572
 {"annict_id":16572}
 ,
