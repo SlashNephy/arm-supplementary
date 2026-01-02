@@ -64722,7 +64722,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16714
 {"annict_id":16714,"mal_id":62936}
 ,
-// [2026-null] TV: 学園アイドルマスター Story of Re;IRIS
+// [2026-WINTER] TV: 学園アイドルマスター Story of Re;IRIS
 // https://annict.com/works/16715
 {"annict_id":16715}
 ,
@@ -65788,7 +65788,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-null] TV: あはれ！名作くん (完全新作アニメ)
 // https://annict.com/works/16982
-{"annict_id":16982}
+{"annict_id":16982,"mal_id":63219}
 ,
 // [null-null] TV: ヒストリエ
 // https://annict.com/works/16983
@@ -65796,10 +65796,18 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] WEB: 能登半島復興応援企画アニメーション
 // https://annict.com/works/16984
-{"annict_id":16984}
+{"annict_id":16984,"mal_id":63222}
 ,
 // [2026-WINTER] TV: ゲルぴよ
 // https://annict.com/works/16985
 {"annict_id":16985,"mal_id":63216}
+,
+// [2016-AUTUMN] MOVIE: ノーマン・ザ・スノーマン〜流れ星のふる夜に〜
+// https://annict.com/works/16986
+{"annict_id":16986,"mal_id":44225}
+,
+// [2025-AUTUMN] MOVIE: ノーマン・ザ・スノーマン〜こどもたちのひとつ星〜
+// https://annict.com/works/16987
+{"annict_id":16987,"mal_id":63221}
 ,
 ]
