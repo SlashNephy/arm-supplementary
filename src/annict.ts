@@ -63024,7 +63024,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] TV: 最推しの義兄を愛でるため、長生きします！
 // https://annict.com/works/16285
-{"annict_id":16285,"mal_id":61969}
+{"annict_id":16285,"mal_id":61969,"syobocal_tid":7723}
 ,
 // [null-null] OTHER: Project M
 // https://annict.com/works/16286
@@ -65504,7 +65504,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] WEB: mofusand
 // https://annict.com/works/16911
-{"annict_id":16911,"mal_id":63151}
+{"annict_id":16911,"mal_id":63151,"syobocal_tid":7724}
 ,
 // [2026-AUTUMN] TV: ケロロ軍曹☆
 // https://annict.com/works/16912
