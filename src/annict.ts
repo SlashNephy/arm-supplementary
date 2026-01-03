@@ -58038,7 +58038,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15035
 {"annict_id":15035,"mal_id":60636}
 ,
-// [2026-null] TV: 魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance
+// [2026-SUMMER] TV: 魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance
 // https://annict.com/works/15036
 {"annict_id":15036,"mal_id":60637}
 ,
@@ -65794,7 +65794,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16983
 {"annict_id":16983,"mal_id":63215}
 ,
-// [2026-WINTER] WEB: 能登半島復興応援企画アニメーション
+// [2026-WINTER] WEB: 能登半島復興応援企画
 // https://annict.com/works/16984
 {"annict_id":16984,"mal_id":63222}
 ,
