@@ -65820,14 +65820,14 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] TV: 冒険者ライセンスを剥奪されたおっさんだけど、 愛娘ができたのでのんびり人生を謳歌する
 // https://annict.com/works/16990
-{"annict_id":16990}
+{"annict_id":16990,"mal_id":63256}
 ,
 // [null-null] TV: 一瞬で治療していたのに役立たずと追放された天才治癒師、闇ヒーラーとして楽しく生きる 第2期
 // https://annict.com/works/16991
-{"annict_id":16991}
+{"annict_id":16991,"mal_id":63254}
 ,
 // [null-null] MOVIE: 劇場版 魔女の旅々
 // https://annict.com/works/16992
-{"annict_id":16992}
+{"annict_id":16992,"mal_id":63253}
 ,
 ]
