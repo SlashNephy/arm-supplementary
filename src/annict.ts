@@ -53932,7 +53932,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] TV: DARK MOON　-黒の月: 月の祭壇- Original By DARK MOON : THE BLOOD ALTAR WITH ENHYPEN
 // https://annict.com/works/14007
-{"annict_id":14007,"mal_id":59853}
+{"annict_id":14007,"mal_id":59853,"syobocal_tid":7725}
 ,
 // [1958-WINTER] MOVIE: こぐまのコロちゃん
 // https://annict.com/works/14008
@@ -65829,5 +65829,9 @@ export const annict: ArmEntry[] = [
 // [null-null] MOVIE: 劇場版 魔女の旅々
 // https://annict.com/works/16992
 {"annict_id":16992,"mal_id":63253}
+,
+// [2019-SPRING] WEB: More
+// https://annict.com/works/16993
+{"annict_id":16993,"mal_id":39815}
 ,
 ]
