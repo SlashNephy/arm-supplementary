@@ -65826,4 +65826,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16991
 {"annict_id":16991}
 ,
+// [null-null] MOVIE: 劇場版 魔女の旅々
+// https://annict.com/works/16992
+{"annict_id":16992}
+,
 ]
