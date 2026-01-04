@@ -64718,7 +64718,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16713
 {"annict_id":16713,"mal_id":62931}
 ,
-// [null-null] TV: 透明な夜に駆ける君と、目に見えない恋をした。
+// [2026-SUMMER] TV: 透明な夜に駆ける君と、目に見えない恋をした。
 // https://annict.com/works/16714
 {"annict_id":16714,"mal_id":62936}
 ,
@@ -65821,5 +65821,9 @@ export const annict: ArmEntry[] = [
 // [null-null] TV: 冒険者ライセンスを剥奪されたおっさんだけど、 愛娘ができたのでのんびり人生を謳歌する
 // https://annict.com/works/16990
 {"annict_id":16990}
+,
+// [null-null] TV: 一瞬で治療していたのに役立たずと追放された天才治癒師、闇ヒーラーとして楽しく生きる 第2期
+// https://annict.com/works/16991
+{"annict_id":16991}
 ,
 ]
