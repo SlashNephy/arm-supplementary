@@ -65810,4 +65810,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16987
 {"annict_id":16987,"mal_id":63221}
 ,
+// [2009-AUTUMN] MOVIE: Who's hungry（原題）
+// https://annict.com/works/16988
+{"annict_id":16988}
+,
+// [1997-null] OVA: げんきのもと ごはん〜リカちゃんからだのなかをたんけんする〜
+// https://annict.com/works/16989
+{"annict_id":16989}
+,
 ]
