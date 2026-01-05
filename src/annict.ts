@@ -24406,7 +24406,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/6143
 {"annict_id":6143,"mal_id":37755}
 ,
-// [2018-SUMMER] OVA: ゴールデンカムイ OVA
+// [2018-SUMMER] OVA: ゴールデンカムイ OAD 茨戸の用心棒/怪奇！謎の巨大鳥
 // https://annict.com/works/6144
 {"annict_id":6144,"mal_id":37884}
 ,
@@ -62570,7 +62570,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16170
 {"annict_id":16170}
 ,
-// [2025-AUTUMN] OVA: ゴールデンカムイ 新作OVA
+// [2025-AUTUMN] OVA: ゴールデンカムイ OAD 稲妻強盗と蝮のお銀/シマエナガ
 // https://annict.com/works/16171
 {"annict_id":16171,"mal_id":61834}
 ,
@@ -65857,5 +65857,17 @@ export const annict: ArmEntry[] = [
 // [2019-SUMMER] WEB: アーチボルドの大冒険
 // https://annict.com/works/16999
 {"annict_id":16999}
+,
+// [2019-WINTER] OVA: ゴールデンカムイ OAD 恋をしたから脱獄することにした/恐怖の猛毒大死闘！北海道奥地に巨大蛇は存在した！
+// https://annict.com/works/17000
+{"annict_id":17000,"mal_id":38710}
+,
+// [2019-SUMMER] OVA: ゴールデンカムイ OAD モンスター
+// https://annict.com/works/17001
+{"annict_id":17001,"mal_id":38710}
+,
+// [2020-SUMMER] OVA: ゴールデンカムイ OAD 支遁動物記
+// https://annict.com/works/17002
+{"annict_id":17002,"mal_id":38710}
 ,
 ]
