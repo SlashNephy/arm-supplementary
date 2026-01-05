@@ -65838,4 +65838,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16994
 {"annict_id":16994}
 ,
+// [2019-SPRING] WEB: マイティー・リトル・ビームのぼうけん
+// https://annict.com/works/16995
+{"annict_id":16995}
+,
+// [2019-SPRING] WEB: バグ・ダイアリーズ～虫たちのぼうけん日記～
+// https://annict.com/works/16996
+{"annict_id":16996}
+,
 ]
