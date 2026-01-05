@@ -65834,4 +65834,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16993
 {"annict_id":16993,"mal_id":39815}
 ,
+// [2026-WINTER] TV: CHOPPER’s
+// https://annict.com/works/16994
+{"annict_id":16994}
+,
 ]
