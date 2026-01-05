@@ -65846,4 +65846,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16996
 {"annict_id":16996}
 ,
+// [2019-SUMMER] TV: ビクター&バレンティノ
+// https://annict.com/works/16997
+{"annict_id":16997}
+,
 ]
