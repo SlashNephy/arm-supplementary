@@ -65850,4 +65850,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16997
 {"annict_id":16997}
 ,
+// [2019-SUMMER] TV: ブレイベスト・ウォリアーズ
+// https://annict.com/works/16998
+{"annict_id":16998}
+,
+// [2019-SUMMER] WEB: アーチボルドの大冒険
+// https://annict.com/works/16999
+{"annict_id":16999}
+,
 ]
