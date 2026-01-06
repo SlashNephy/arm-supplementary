@@ -65874,4 +65874,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17003
 {"annict_id":17003}
 ,
+// [2026-WINTER] TV: 聖女なのに国を追い出されたので、崩壊寸前の隣国へ来ました～力を解放したので国が平和になってきましたが元の国まで加護は届きませんよ～ シーズン2
+// https://annict.com/works/17004
+{"annict_id":17004}
+,
 ]
