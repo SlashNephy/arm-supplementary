@@ -65878,4 +65878,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17004
 {"annict_id":17004}
 ,
+// [2019-SUMMER] WEB: ラスト・キッズ・オン・アース
+// https://annict.com/works/17005
+{"annict_id":17005}
+,
+// [2019-SUMMER] WEB: レゴ シティ アドベンチャーズ
+// https://annict.com/works/17006
+{"annict_id":17006}
+,
 ]
