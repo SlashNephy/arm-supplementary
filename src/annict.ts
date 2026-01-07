@@ -65906,4 +65906,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17011
 {"annict_id":17011}
 ,
+// [2025-AUTUMN] WEB: JOCHUM シーズン2 FODオリジナルエピソード
+// https://annict.com/works/17012
+{"annict_id":17012}
+,
 ]
