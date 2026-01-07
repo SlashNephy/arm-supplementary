@@ -65886,4 +65886,24 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17006
 {"annict_id":17006}
 ,
+// [2019-AUTUMN] WEB: ハロー、ニンジャ!
+// https://annict.com/works/17007
+{"annict_id":17007}
+,
+// [2019-AUTUMN] WEB: ワイルド・スピード: スパイ・レーサー
+// https://annict.com/works/17008
+{"annict_id":17008}
+,
+// [2020-WINTER] WEB: Go! Go! コリー・カーソン
+// https://annict.com/works/17009
+{"annict_id":17009}
+,
+// [2020-WINTER] WEB: キポとワンダービーストの冒険
+// https://annict.com/works/17010
+{"annict_id":17010}
+,
+// [2020-WINTER] WEB: バディ 〜みんなでぼうけん〜
+// https://annict.com/works/17011
+{"annict_id":17011}
+,
 ]

@@ -38,17 +38,17 @@ export const fetchArmEntries = async (): Promise<ArmEntry[]> => {
 
 ## Statistics
 
-Currently, arm-supplementary has 46454 entries (+11086).
+Currently, arm-supplementary has 46457 entries (+11050).
 
 | Service                                  | arm-supplementary | arm / anime-offline-database |
 | :--------------------------------------- | :---------------: | :--------------------------: |
-| [Annict](https://annict.com)             |    16471 (+268)   |             16203            |
-| [AniList](https://anilist.co)            |   23990 (+2148)   |             21842            |
-| [MyAnimeList](https://myanimelist.net)   |    30130 (+645)   |             29485            |
-| [しょぼいカレンダー](https://cal.syoboi.jp)       |     6629 (+71)    |             6558             |
-| [AniDB](https://anidb.net)               |    14398 (+176)   |             14222            |
-| [Anime-Planet](https://anime-planet.com) |    26721 (+204)   |             26517            |
-| [aniSearch](https://anisearch.com)       |    20684 (+193)   |             20491            |
+| [Annict](https://annict.com)             |    16476 (+248)   |             16228            |
+| [AniList](https://anilist.co)            |   23998 (+2129)   |             21869            |
+| [MyAnimeList](https://myanimelist.net)   |    30124 (+613)   |             29511            |
+| [しょぼいカレンダー](https://cal.syoboi.jp)       |     6627 (+64)    |             6563             |
+| [AniDB](https://anidb.net)               |    14397 (+175)   |             14222            |
+| [Anime-Planet](https://anime-planet.com) |    26714 (+197)   |             26517            |
+| [aniSearch](https://anisearch.com)       |    20680 (+189)   |             20491            |
 | [Kitsu](https://kitsu.io)                |       0 (±0)      |               0              |
-| [LiveChart.me](https://livechart.me)     |    12221 (+180)   |             12041            |
+| [LiveChart.me](https://livechart.me)     |    12218 (+177)   |             12041            |
 | [Anime Notifier](https://notify.moe)     |       0 (±0)      |               0              |
