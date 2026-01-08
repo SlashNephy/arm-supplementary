@@ -40224,7 +40224,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2022-AUTUMN] WEB: 不死身な僕の日常 シーズン2
 // https://annict.com/works/10566
-{"annict_id":10566,"mal_id":44069}
+{"annict_id":10566,"mal_id":44069,"syobocal_tid":7727}
 ,
 // [2023-AUTUMN] TV: 君のことが大大大大大好きな100人の彼女
 // https://annict.com/works/10567
