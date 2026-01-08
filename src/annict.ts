@@ -31328,7 +31328,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2021-WINTER] WEB: Candy Caries
 // https://annict.com/works/8174
-{"annict_id":8174}
+{"annict_id":8174,"mal_id":49978}
 ,
 // [2022-AUTUMN] TV: Do It Yourself!! -どぅー・いっと・ゆあせるふ-
 // https://annict.com/works/8175
@@ -65909,5 +65909,13 @@ export const annict: ArmEntry[] = [
 // [2025-AUTUMN] WEB: JOCHUM シーズン2 FODオリジナルエピソード
 // https://annict.com/works/17012
 {"annict_id":17012}
+,
+// [2026-SPRING] TV: キャンディーカリエス
+// https://annict.com/works/17013
+{"annict_id":17013}
+,
+// [null-null] OTHER: 恋した人は、妹の代わりに死んでくれと言った。―妹と結婚した片思い相手がなぜ今さら私のもとに？と思ったら―
+// https://annict.com/works/17014
+{"annict_id":17014,"mal_id":63268}
 ,
 ]
