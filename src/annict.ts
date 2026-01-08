@@ -65922,4 +65922,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17015
 {"annict_id":17015}
 ,
+// [2018-null] MOVIE: マイリトルゴート
+// https://annict.com/works/17016
+{"annict_id":17016,"mal_id":42899}
+,
 ]
