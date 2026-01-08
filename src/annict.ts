@@ -65918,4 +65918,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17014
 {"annict_id":17014,"mal_id":63268}
 ,
+// [2026-WINTER] MOVIE: アメリと雨の物語
+// https://annict.com/works/17015
+{"annict_id":17015}
+,
 ]
