@@ -65926,4 +65926,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17016
 {"annict_id":17016,"mal_id":42899}
 ,
+// [2026-WINTER] WEB: ブラックジャックやねん
+// https://annict.com/works/17017
+{"annict_id":17017}
+,
 ]
