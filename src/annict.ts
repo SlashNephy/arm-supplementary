@@ -58782,7 +58782,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15222
 {"annict_id":15222,"mal_id":29483}
 ,
-// [2025-AUTUMN] MOVIE: おしり前マン THE MOVIE(仮題)
+// [2026-WINTER] MOVIE: おしり前マン〜復活のおしり前帝国〜
 // https://annict.com/works/15223
 {"annict_id":15223,"mal_id":62690}
 ,
