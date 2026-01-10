@@ -65876,7 +65876,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] TV: 聖女なのに国を追い出されたので、崩壊寸前の隣国へ来ました～力を解放したので国が平和になってきましたが元の国まで加護は届きませんよ～ シーズン2
 // https://annict.com/works/17004
-{"annict_id":17004}
+{"annict_id":17004,"syobocal_tid":7729}
 ,
 // [2019-SUMMER] WEB: ラスト・キッズ・オン・アース
 // https://annict.com/works/17005
