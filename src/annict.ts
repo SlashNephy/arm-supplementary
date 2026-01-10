@@ -65932,14 +65932,14 @@ export const annict: ArmEntry[] = [
 ,
 // [2005-AUTUMN] OVA: ガン×ソードさん
 // https://annict.com/works/17018
-{"annict_id":17018}
+{"annict_id":17018,"mal_id":5501}
 ,
 // [2005-SUMMER] OVA: おはよう！ラブレスくん
 // https://annict.com/works/17019
-{"annict_id":17019}
+{"annict_id":17019,"mal_id":3057}
 ,
 // [2002-SPRING] WEB: A.F Archetypes Forces
 // https://annict.com/works/17020
-{"annict_id":17020}
+{"annict_id":17020,"mal_id":4934}
 ,
 ]
