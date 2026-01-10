@@ -18050,7 +18050,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/4538
 {"annict_id":4538,"mal_id":28391,"syobocal_tid":4005}
 ,
-// [2016-WINTER] TV: 赤髪の白雪姫 (第2期)
+// [2016-WINTER] TV: 赤髪の白雪姫 2ndシーズン
 // https://annict.com/works/4539
 {"annict_id":4539,"mal_id":31173,"syobocal_tid":4036}
 ,
@@ -65929,5 +65929,17 @@ export const annict: ArmEntry[] = [
 // [2026-WINTER] WEB: ブラックジャックやねん
 // https://annict.com/works/17017
 {"annict_id":17017}
+,
+// [2005-AUTUMN] OVA: ガン×ソードさん
+// https://annict.com/works/17018
+{"annict_id":17018}
+,
+// [2005-SUMMER] OVA: おはよう！ラブレスくん
+// https://annict.com/works/17019
+{"annict_id":17019}
+,
+// [2002-SPRING] WEB: A.F Archetypes Forces
+// https://annict.com/works/17020
+{"annict_id":17020}
 ,
 ]
