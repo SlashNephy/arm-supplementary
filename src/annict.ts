@@ -52246,7 +52246,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/13581
 {"annict_id":13581,"mal_id":59192}
 ,
-// [2026-null] TV: 無職転生Ⅲ ～異世界行ったら本気だす～
+// [2026-SUMMER] TV: 無職転生Ⅲ ～異世界行ったら本気だす～
 // https://annict.com/works/13582
 {"annict_id":13582,"mal_id":59193}
 ,
@@ -65912,7 +65912,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: キャンディーカリエス
 // https://annict.com/works/17013
-{"annict_id":17013}
+{"annict_id":17013,"mal_id":63276}
 ,
 // [null-null] OTHER: 恋した人は、妹の代わりに死んでくれと言った。―妹と結婚した片思い相手がなぜ今さら私のもとに？と思ったら―
 // https://annict.com/works/17014
