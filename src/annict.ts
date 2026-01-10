@@ -65942,4 +65942,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17020
 {"annict_id":17020,"mal_id":4934}
 ,
+// [null-null] OTHER: こまどり モフモフパレード
+// https://annict.com/works/17021
+{"annict_id":17021}
+,
 ]
