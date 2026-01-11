@@ -65962,4 +65962,20 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17025
 {"annict_id":17025}
 ,
+// [2026-AUTUMN] TV: ホタルの嫁入り
+// https://annict.com/works/17026
+{"annict_id":17026}
+,
+// [2025-AUTUMN] WEB: 腐男子召喚～異世界で神獣にハメられました～ 10th
+// https://annict.com/works/17027
+{"annict_id":17027,"mal_id":63277}
+,
+// [2025-AUTUMN] WEB: ゼッツあにめ　ドリームアルバイターばく
+// https://annict.com/works/17028
+{"annict_id":17028,"mal_id":63284}
+,
+// [2026-WINTER] WEB: ちょびっと！じごくらく
+// https://annict.com/works/17029
+{"annict_id":17029}
+,
 ]
