@@ -65928,7 +65928,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] WEB: ブラックジャックやねん
 // https://annict.com/works/17017
-{"annict_id":17017}
+{"annict_id":17017,"mal_id":63275}
 ,
 // [2005-AUTUMN] OVA: ガン×ソードさん
 // https://annict.com/works/17018
