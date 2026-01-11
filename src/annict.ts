@@ -64842,7 +64842,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16744
 {"annict_id":16744,"mal_id":17493,"syobocal_tid":1219}
 ,
-// [2026-null] TV: 名探偵プリキュア！
+// [2026-WINTER] TV: 名探偵プリキュア！
 // https://annict.com/works/16745
 {"annict_id":16745,"mal_id":63042}
 ,
