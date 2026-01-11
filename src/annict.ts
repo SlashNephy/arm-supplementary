@@ -65946,4 +65946,16 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17021
 {"annict_id":17021}
 ,
+// [2000-null] OTHER: キクマナ
+// https://annict.com/works/17022
+{"annict_id":17022}
+,
+// [2003-null] OTHER: ファンタスティック セル
+// https://annict.com/works/17023
+{"annict_id":17023}
+,
+// [2010-AUTUMN] WEB: RECORDER
+// https://annict.com/works/17024
+{"annict_id":17024}
+,
 ]
