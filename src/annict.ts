@@ -65958,4 +65958,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17024
 {"annict_id":17024,"mal_id":29771}
 ,
+// [null-null] TV: 信者ゼロの女神サマと始める異世界攻略
+// https://annict.com/works/17025
+{"annict_id":17025}
+,
 ]
