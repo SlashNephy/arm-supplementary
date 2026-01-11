@@ -63588,7 +63588,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] TV: ほっぺちゃん ～サン王国と黒ほっぺ団の秘密～
 // https://annict.com/works/16427
-{"annict_id":16427,"syobocal_tid":7716}
+{"annict_id":16427,"mal_id":63106,"syobocal_tid":7716}
 ,
 // [null-null] OTHER: 悪役令嬢の追放後！ 教会改革ごはんで悠々シスター暮らし
 // https://annict.com/works/16428
@@ -65948,14 +65948,14 @@ export const annict: ArmEntry[] = [
 ,
 // [2000-null] OTHER: キクマナ
 // https://annict.com/works/17022
-{"annict_id":17022}
+{"annict_id":17022,"mal_id":4460}
 ,
 // [2003-null] OTHER: ファンタスティック セル
 // https://annict.com/works/17023
-{"annict_id":17023}
+{"annict_id":17023,"mal_id":29768}
 ,
 // [2010-AUTUMN] WEB: RECORDER
 // https://annict.com/works/17024
-{"annict_id":17024}
+{"annict_id":17024,"mal_id":29771}
 ,
 ]
