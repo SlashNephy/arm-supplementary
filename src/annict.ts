@@ -57610,7 +57610,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/14928
 {"annict_id":14928,"mal_id":61261}
 ,
-// [null-null] TV: 骸骨騎士様、只今異世界へお出掛け中Ⅱ
+// [2026-SUMMER] TV: 骸骨騎士様、只今異世界へお出掛け中Ⅱ
 // https://annict.com/works/14929
 {"annict_id":14929,"mal_id":60522}
 ,
