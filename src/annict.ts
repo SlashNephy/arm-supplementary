@@ -60894,7 +60894,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15750
 {"annict_id":15750}
 ,
-// [2026-null] TV: これ描いて死ね
+// [2026-SUMMER] TV: これ描いて死ね
 // https://annict.com/works/15751
 {"annict_id":15751,"mal_id":61280}
 ,
