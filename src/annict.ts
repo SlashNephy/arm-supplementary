@@ -41810,7 +41810,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/10963
 {"annict_id":10963,"mal_id":60159}
 ,
-// [null-null] MOVIE: 映画 ラブライブ！虹ヶ咲学園スクールアイドル同好会 完結編 第3章
+// [2027-WINTER] MOVIE: 映画 ラブライブ！虹ヶ咲学園スクールアイドル同好会 完結編 最終章
 // https://annict.com/works/10964
 {"annict_id":10964,"mal_id":60160}
 ,
@@ -65964,7 +65964,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: ホタルの嫁入り
 // https://annict.com/works/17026
-{"annict_id":17026}
+{"annict_id":17026,"mal_id":63293}
 ,
 // [2025-AUTUMN] WEB: 腐男子召喚～異世界で神獣にハメられました～ 10th
 // https://annict.com/works/17027
