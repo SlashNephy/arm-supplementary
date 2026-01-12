@@ -65960,7 +65960,7 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] TV: 信者ゼロの女神サマと始める異世界攻略
 // https://annict.com/works/17025
-{"annict_id":17025}
+{"annict_id":17025,"mal_id":63292}
 ,
 // [2026-AUTUMN] TV: ホタルの嫁入り
 // https://annict.com/works/17026
@@ -65984,6 +65984,6 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] OTHER: スタァライトプロジェクト 完全新作アニメーション
 // https://annict.com/works/17031
-{"annict_id":17031}
+{"annict_id":17031,"mal_id":63295}
 ,
 ]
