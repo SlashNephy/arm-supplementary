@@ -63954,7 +63954,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16518
 {"annict_id":16518,"mal_id":62385}
 ,
-// [2026-null] TV: バンドリ！ ゆめ∞みた
+// [2026-SUMMER] TV: バンドリ！ ゆめ∞みた
 // https://annict.com/works/16519
 {"annict_id":16519,"mal_id":62430}
 ,
@@ -65977,5 +65977,9 @@ export const annict: ArmEntry[] = [
 // [2026-WINTER] WEB: ちょびっと！じごくらく
 // https://annict.com/works/17029
 {"annict_id":17029}
+,
+// [null-null] TV: ZERO RISE
+// https://annict.com/works/17030
+{"annict_id":17030}
 ,
 ]
