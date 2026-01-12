@@ -65986,4 +65986,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17031
 {"annict_id":17031,"mal_id":63295}
 ,
+// [2026-WINTER] WEB: カードファイト!! ヴァンガード 15周年記念PV
+// https://annict.com/works/17032
+{"annict_id":17032}
+,
 ]
