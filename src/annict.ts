@@ -63694,7 +63694,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16453
 {"annict_id":16453}
 ,
-// [null-null] MOVIE: BanG Dream! Ave Mujica 新作映画
+// [2026-AUTUMN] MOVIE: BanG Dream! Ave Mujica prima aurora
 // https://annict.com/works/16454
 {"annict_id":16454,"mal_id":62270}
 ,
@@ -65981,5 +65981,9 @@ export const annict: ArmEntry[] = [
 // [null-null] TV: ZERO RISE
 // https://annict.com/works/17030
 {"annict_id":17030}
+,
+// [null-null] OTHER: スタァライトプロジェクト 完全新作アニメーション
+// https://annict.com/works/17031
+{"annict_id":17031}
 ,
 ]
