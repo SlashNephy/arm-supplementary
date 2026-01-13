@@ -66002,4 +66002,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17035
 {"annict_id":17035}
 ,
+// [1998-AUTUMN] OVA: ジュリエット
+// https://annict.com/works/17036
+{"annict_id":17036,"mal_id":8993}
+,
 ]
