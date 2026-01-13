@@ -65990,4 +65990,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17032
 {"annict_id":17032}
 ,
+// [2026-SUMMER] TV: 魔物喰らいの冒険者～俺だけ魔物を喰らって強くなる～
+// https://annict.com/works/17033
+{"annict_id":17033}
+,
 ]
