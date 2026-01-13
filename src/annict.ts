@@ -66006,4 +66006,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17036
 {"annict_id":17036,"mal_id":8993}
 ,
+// [2017-AUTUMN] OVA: 賭ケグルイ ピクチャードラマ
+// https://annict.com/works/17037
+{"annict_id":17037,"mal_id":38939}
+,
 ]
