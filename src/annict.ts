@@ -61042,7 +61042,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15787
 {"annict_id":15787,"mal_id":61316}
 ,
-// [2025-SPRING] WEB: 葬送のフリーレン 〜●●の魔法〜 新作
+// [2025-SPRING] WEB: 葬送のフリーレン 〜●●の魔法〜 (第12回～)
 // https://annict.com/works/15788
 {"annict_id":15788}
 ,
@@ -65993,5 +65993,13 @@ export const annict: ArmEntry[] = [
 // [2026-SPRING] TV: 魔物喰らいの冒険者～俺だけ魔物を喰らって強くなる～
 // https://annict.com/works/17033
 {"annict_id":17033}
+,
+// [2026-WINTER] MOVIE: NEEDY GIRL OVERDOSE -OVERTURE-
+// https://annict.com/works/17034
+{"annict_id":17034}
+,
+// [2026-WINTER] WEB: 葬送のフリーレン 〜●●の魔法〜 (第18回～)
+// https://annict.com/works/17035
+{"annict_id":17035}
 ,
 ]
