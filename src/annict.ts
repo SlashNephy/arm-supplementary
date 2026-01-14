@@ -66010,4 +66010,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17037
 {"annict_id":17037,"mal_id":38939}
 ,
+// [2018-AUTUMN] WEB: わたしの名はオオタフクコ～小さな幸せを、地球の幸せに。～
+// https://annict.com/works/17038
+{"annict_id":17038,"mal_id":38497}
+,
 ]
