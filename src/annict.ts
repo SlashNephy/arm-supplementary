@@ -47642,7 +47642,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/12426
 {"annict_id":12426,"mal_id":51859,"syobocal_tid":7024}
 ,
-// [2026-null] TV: わんぱく！刀剣乱舞
+// [2027-WINTER] TV: わんぱく！刀剣乱舞
 // https://annict.com/works/12427
 {"annict_id":12427,"mal_id":57821}
 ,
