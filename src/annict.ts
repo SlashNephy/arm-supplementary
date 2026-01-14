@@ -56562,7 +56562,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/14666
 {"annict_id":14666,"mal_id":60293,"syobocal_tid":7400}
 ,
-// [2026-null] OTHER: 天穂のサクナヒメ 続編
+// [2026-WINTER] TV: 天穂のサクナヒメ ココロワ稲作日誌
 // https://annict.com/works/14667
 {"annict_id":14667,"mal_id":60294}
 ,
