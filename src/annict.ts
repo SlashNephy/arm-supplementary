@@ -44500,7 +44500,7 @@ export const annict: ArmEntry[] = [
 ,
 // [1994-AUTUMN] MOVIE: おさわが!スーパーベビー
 // https://annict.com/works/11638
-{"annict_id":11638}
+{"annict_id":11638,"mal_id":63306}
 ,
 // [1997-SUMMER] MOVIE: 劇場版キューティーハニーF
 // https://annict.com/works/11639
