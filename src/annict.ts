@@ -64142,7 +64142,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16565
 {"annict_id":16565,"mal_id":58585}
 ,
-// [2026-null] TV: 彼女、お借りします 第5期
+// [2026-SPRING] TV: 彼女、お借りします 第5期
 // https://annict.com/works/16566
 {"annict_id":16566,"mal_id":62485}
 ,
@@ -66017,5 +66017,9 @@ export const annict: ArmEntry[] = [
 // [2026-null] OTHER: 装甲騎兵ボトムズ 灰色の魔女
 // https://annict.com/works/17039
 {"annict_id":17039}
+,
+// [2026-null] TV: インゴクダンチ
+// https://annict.com/works/17040
+{"annict_id":17040}
 ,
 ]
