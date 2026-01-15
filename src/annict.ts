@@ -65992,7 +65992,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: 魔物喰らいの冒険者～俺だけ魔物を喰らって強くなる～
 // https://annict.com/works/17033
-{"annict_id":17033}
+{"annict_id":17033,"mal_id":63304}
 ,
 // [2026-WINTER] MOVIE: NEEDY GIRL OVERDOSE -OVERTURE-
 // https://annict.com/works/17034
@@ -66020,6 +66020,6 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-null] TV: インゴクダンチ
 // https://annict.com/works/17040
-{"annict_id":17040}
+{"annict_id":17040,"mal_id":63310}
 ,
 ]
