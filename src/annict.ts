@@ -66014,4 +66014,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17038
 {"annict_id":17038,"mal_id":38497}
 ,
+// [2026-null] OTHER: 装甲騎兵ボトムズ 灰色の魔女
+// https://annict.com/works/17039
+{"annict_id":17039}
+,
 ]
