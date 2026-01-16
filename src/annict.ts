@@ -66022,4 +66022,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17040
 {"annict_id":17040,"mal_id":63310}
 ,
+// [2026-WINTER] WEB: お姉ちゃんごっこ
+// https://annict.com/works/17041
+{"annict_id":17041}
+,
+// [2026-SUMMER] TV: 盗掘王
+// https://annict.com/works/17042
+{"annict_id":17042}
+,
 ]
