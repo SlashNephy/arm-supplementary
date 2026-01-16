@@ -66028,7 +66028,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: 盗掘王
 // https://annict.com/works/17042
-{"annict_id":17042}
+{"annict_id":17042,"mal_id":63316}
 ,
 // [null-null] TV: 岩元先輩ノ推薦
 // https://annict.com/works/17043
