@@ -66050,4 +66050,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17047
 {"annict_id":17047}
 ,
+// [2025-AUTUMN] WEB: ぴよりびよりのゆるアニメ「ゆっくりおやすみタイム」
+// https://annict.com/works/17048
+{"annict_id":17048}
+,
+// [2026-WINTER] WEB: ぴよりびよりのゆるアニメ「探偵ぴより」
+// https://annict.com/works/17049
+{"annict_id":17049}
+,
 ]
