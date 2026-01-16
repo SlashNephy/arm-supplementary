@@ -66030,4 +66030,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17042
 {"annict_id":17042}
 ,
+// [null-null] TV: 岩元先輩ノ推薦
+// https://annict.com/works/17043
+{"annict_id":17043}
+,
 ]
