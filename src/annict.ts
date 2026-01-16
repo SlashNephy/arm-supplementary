@@ -63442,7 +63442,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16390
 {"annict_id":16390,"mal_id":56624}
 ,
-// [2026-null] TV: スーパーの裏でヤニ吸うふたり
+// [2026-SUMMER] TV: スーパーの裏でヤニ吸うふたり
 // https://annict.com/works/16391
 {"annict_id":16391,"mal_id":62076}
 ,
