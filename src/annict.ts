@@ -66034,4 +66034,20 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17043
 {"annict_id":17043}
 ,
+// [2021-AUTUMN] WEB: ぴよりびよりのゆるアニメ
+// https://annict.com/works/17044
+{"annict_id":17044}
+,
+// [2023-AUTUMN] WEB: ぴよりびよりのゆるアニメ「しあわせの妖精さん」
+// https://annict.com/works/17045
+{"annict_id":17045}
+,
+// [2024-AUTUMN] WEB: ぴよりびよりのゆるアニメ「ぴよりの魔法」
+// https://annict.com/works/17046
+{"annict_id":17046}
+,
+// [2024-AUTUMN] WEB: ぴよりびよりのゆるアニメ「はじめてのクリスマス」
+// https://annict.com/works/17047
+{"annict_id":17047}
+,
 ]
