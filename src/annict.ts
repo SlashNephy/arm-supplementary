@@ -49094,7 +49094,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/12791
 {"annict_id":12791,"mal_id":58320}
 ,
-// [2024-WINTER] MOVIE: エフェメール
+// [2024-SPRING] WEB: エフェメール
 // https://annict.com/works/12792
 {"annict_id":12792,"mal_id":58321}
 ,
