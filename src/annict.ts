@@ -66032,7 +66032,7 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] TV: 岩元先輩ノ推薦
 // https://annict.com/works/17043
-{"annict_id":17043}
+{"annict_id":17043,"mal_id":63324}
 ,
 // [2021-AUTUMN] WEB: ぴよりびよりのゆるアニメ
 // https://annict.com/works/17044
