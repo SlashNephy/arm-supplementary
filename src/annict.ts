@@ -66058,4 +66058,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17049
 {"annict_id":17049}
 ,
+// [2027-null] MOVIE: メダリスト 劇場版
+// https://annict.com/works/17050
+{"annict_id":17050,"mal_id":63326}
+,
 ]
