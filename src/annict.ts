@@ -52866,7 +52866,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/13736
 {"annict_id":13736,"mal_id":59463}
 ,
-// [2026-null] TV: リィンカーネーションの花弁
+// [2026-SPRING] TV: リィンカーネーションの花弁
 // https://annict.com/works/13737
 {"annict_id":13737,"mal_id":59443}
 ,
