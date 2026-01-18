@@ -66062,4 +66062,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17050
 {"annict_id":17050,"mal_id":63326}
 ,
+// [2023-AUTUMN] TV: ギャルと博士のエネルギー研究所
+// https://annict.com/works/17051
+{"annict_id":17051}
+,
+// [2025-AUTUMN] WEB: 松本市×鷹の爪団 『観パ良し まつもと』
+// https://annict.com/works/17052
+{"annict_id":17052}
+,
 ]
