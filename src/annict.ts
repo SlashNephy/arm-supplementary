@@ -65980,7 +65980,7 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] TV: ZERO RISE
 // https://annict.com/works/17030
-{"annict_id":17030}
+{"annict_id":17030,"mal_id":63325}
 ,
 // [null-null] OTHER: スタァライトプロジェクト 完全新作アニメーション
 // https://annict.com/works/17031
@@ -66016,7 +66016,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-null] OTHER: 装甲騎兵ボトムズ 灰色の魔女
 // https://annict.com/works/17039
-{"annict_id":17039}
+{"annict_id":17039,"mal_id":63323}
 ,
 // [2026-null] TV: インゴクダンチ
 // https://annict.com/works/17040
