@@ -64098,7 +64098,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16554
 {"annict_id":16554,"mal_id":62512}
 ,
-// [null-null] TV: クレバテスⅡ-魔獣の王と偽りの勇者伝承-
+// [2026-SUMMER] TV: クレバテスⅡ-魔獣の王と偽りの勇者伝承-
 // https://annict.com/works/16555
 {"annict_id":16555,"mal_id":62513}
 ,
