@@ -66070,4 +66070,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17052
 {"annict_id":17052}
 ,
+// [2026-null] TV: FX戦士くるみちゃん
+// https://annict.com/works/17053
+{"annict_id":17053}
+,
 ]
