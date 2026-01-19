@@ -64044,7 +64044,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] TV: 時光代理人 -LINK CLICK- 英都篇
 // https://annict.com/works/16541
-{"annict_id":16541,"mal_id":56752}
+{"annict_id":16541,"mal_id":56752,"syobocal_tid":7735}
 ,
 // [2005-AUTUMN] WEB: ブタヅカ
 // https://annict.com/works/16542
