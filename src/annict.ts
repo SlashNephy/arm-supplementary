@@ -65988,7 +65988,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] WEB: カードファイト!! ヴァンガード 15周年記念PV
 // https://annict.com/works/17032
-{"annict_id":17032}
+{"annict_id":17032,"mal_id":63336}
 ,
 // [2026-SPRING] TV: 魔物喰らいの冒険者～俺だけ魔物を喰らって強くなる～
 // https://annict.com/works/17033
@@ -66072,6 +66072,6 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-null] TV: FX戦士くるみちゃん
 // https://annict.com/works/17053
-{"annict_id":17053}
+{"annict_id":17053,"mal_id":63337}
 ,
 ]
