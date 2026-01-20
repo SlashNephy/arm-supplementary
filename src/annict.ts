@@ -45342,7 +45342,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/11848
 {"annict_id":11848,"mal_id":57946,"syobocal_tid":6989}
 ,
-// [2026-null] OTHER: 機動警察パトレイバーEZY
+// [2026-SPRING] MOVIE: 機動警察パトレイバー EZY File 1
 // https://annict.com/works/11849
 {"annict_id":11849,"mal_id":59889}
 ,
@@ -64778,7 +64778,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16728
 {"annict_id":16728,"mal_id":12035}
 ,
-// [2026-null] TV: 神の雫
+// [2026-SPRING] TV: 神の雫
 // https://annict.com/works/16729
 {"annict_id":16729,"mal_id":62981}
 ,
@@ -66073,5 +66073,13 @@ export const annict: ArmEntry[] = [
 // [2026-null] TV: FX戦士くるみちゃん
 // https://annict.com/works/17053
 {"annict_id":17053,"mal_id":63337}
+,
+// [2026-SUMMER] MOVIE: 機動警察パトレイバー EZY File 2
+// https://annict.com/works/17054
+{"annict_id":17054,"mal_id":59889}
+,
+// [2027-WINTER] MOVIE: 機動警察パトレイバー EZY File 3
+// https://annict.com/works/17055
+{"annict_id":17055,"mal_id":59889}
 ,
 ]
