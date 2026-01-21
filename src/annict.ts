@@ -66090,4 +66090,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17057
 {"annict_id":17057,"mal_id":63347}
 ,
+// [2015-SPRING] OVA: 終わらないセラフ
+// https://annict.com/works/17058
+{"annict_id":17058,"mal_id":30714}
+,
+// [2015-AUTUMN] OVA: 終わらないセラフ 名古屋編
+// https://annict.com/works/17059
+{"annict_id":17059,"mal_id":31918}
+,
 ]
