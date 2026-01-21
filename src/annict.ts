@@ -66082,4 +66082,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17055
 {"annict_id":17055,"mal_id":59889}
 ,
+// [2026-SPRING] TV: おねがいアイプリ
+// https://annict.com/works/17056
+{"annict_id":17056}
+,
 ]
