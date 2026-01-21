@@ -66086,4 +66086,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17056
 {"annict_id":17056}
 ,
+// [2026-SUMMER] TV: ワールド イズ ダンシング
+// https://annict.com/works/17057
+{"annict_id":17057}
+,
 ]
