@@ -66088,6 +66088,6 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: ワールド イズ ダンシング
 // https://annict.com/works/17057
-{"annict_id":17057}
+{"annict_id":17057,"mal_id":63347}
 ,
 ]
