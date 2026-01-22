@@ -66114,4 +66114,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17063
 {"annict_id":17063,"mal_id":55193}
 ,
+// [null-null] TV: 同居している剣聖の女師匠が可愛すぎて毎日幸せです
+// https://annict.com/works/17064
+{"annict_id":17064,"mal_id":63350}
+,
 ]
