@@ -25020,7 +25020,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2018-WINTER] WEB: ニクいよっ！カルビくん
 // https://annict.com/works/6298
-{"annict_id":6298}
+{"annict_id":6298,"mal_id":37144}
 ,
 // [2018-AUTUMN] MOVIE: モンスター・ホテル クルーズ船の恋は危険がいっぱい？！
 // https://annict.com/works/6299
@@ -66097,5 +66097,21 @@ export const annict: ArmEntry[] = [
 // [2015-AUTUMN] OVA: 終わらないセラフ 名古屋編
 // https://annict.com/works/17059
 {"annict_id":17059,"mal_id":31918}
+,
+// [2005-null] WEB: 吉野の姫
+// https://annict.com/works/17060
+{"annict_id":17060,"mal_id":4660}
+,
+// [2016-null] MOVIE: こうたろう イン スペースワンダーランド
+// https://annict.com/works/17061
+{"annict_id":17061,"mal_id":55788}
+,
+// [2017-null] MOVIE: ERASER WARS
+// https://annict.com/works/17062
+{"annict_id":17062,"mal_id":55188}
+,
+// [2017-null] MOVIE: MIDNIGHT ～ Eraser WARS spin off
+// https://annict.com/works/17063
+{"annict_id":17063,"mal_id":55193}
 ,
 ]
