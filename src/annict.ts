@@ -66118,4 +66118,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17064
 {"annict_id":17064,"mal_id":63350}
 ,
+// [2026-WINTER] WEB: 『彼女、お借りします』第4期振り返りミニアニメ
+// https://annict.com/works/17065
+{"annict_id":17065}
+,
+// [2026-WINTER] WEB: 停車場のスピス
+// https://annict.com/works/17066
+{"annict_id":17066}
+,
 ]
