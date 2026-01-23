@@ -60118,7 +60118,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15556
 {"annict_id":15556}
 ,
-// [null-null] TV: きみが死ぬまで恋をしたい
+// [2026-SUMMER] TV: きみが死ぬまで恋をしたい
 // https://annict.com/works/15557
 {"annict_id":15557,"mal_id":61126}
 ,
