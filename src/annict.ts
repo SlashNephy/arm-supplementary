@@ -65870,7 +65870,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17002
 {"annict_id":17002,"mal_id":38710}
 ,
-// [2026-WINTER] TV: キキとポップ
+// [2026-WINTER] TV: キキとポップ (TV放送)
 // https://annict.com/works/17003
 {"annict_id":17003}
 ,
