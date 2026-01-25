@@ -66126,4 +66126,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17066
 {"annict_id":17066}
 ,
+// [null-null] OTHER: ドラゴンボール超 銀河パトロール
+// https://annict.com/works/17067
+{"annict_id":17067}
+,
 ]
