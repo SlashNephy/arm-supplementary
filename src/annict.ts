@@ -19954,7 +19954,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/5020
 {"annict_id":5020,"mal_id":2143}
 ,
-// [2008-AUTUMN] OVA: ドラゴンボール「オッス！帰ってきた孫悟空と仲間たち!!」
+// [2008-AUTUMN] OVA: ドラゴンボール オッス！帰ってきた孫悟空と仲間たち!!
 // https://annict.com/works/5021
 {"annict_id":5021,"mal_id":5152}
 ,
