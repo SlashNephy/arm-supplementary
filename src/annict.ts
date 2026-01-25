@@ -66134,4 +66134,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17068
 {"annict_id":17068}
 ,
+// [2026-SUMMER] MOVIE: 君と花火と約束と
+// https://annict.com/works/17069
+{"annict_id":17069}
+,
 ]
