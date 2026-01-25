@@ -63450,7 +63450,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16392
 {"annict_id":16392,"mal_id":40989}
 ,
-// [null-null] OTHER: サイボーグ009 ネメシス
+// [2026-null] OTHER: サイボーグ009 ネメシス
 // https://annict.com/works/16393
 {"annict_id":16393,"mal_id":62079}
 ,
