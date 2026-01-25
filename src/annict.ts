@@ -66138,4 +66138,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17069
 {"annict_id":17069}
 ,
+// [2026-WINTER] WEB: 『DRAGON BALL』40周年記念スペシャル映像
+// https://annict.com/works/17070
+{"annict_id":17070}
+,
 ]
