@@ -66136,10 +66136,14 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] MOVIE: 君と花火と約束と
 // https://annict.com/works/17069
-{"annict_id":17069}
+{"annict_id":17069,"mal_id":63366}
 ,
 // [2026-WINTER] WEB: 『DRAGON BALL』40周年記念スペシャル映像
 // https://annict.com/works/17070
 {"annict_id":17070}
+,
+// [null-null] TV: マウスカーソルで現実を操作できるようになったので、女の子をいっぱいクリックしまーす
+// https://annict.com/works/17071
+{"annict_id":17071}
 ,
 ]
