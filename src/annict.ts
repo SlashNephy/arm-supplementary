@@ -66146,4 +66146,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17071
 {"annict_id":17071}
 ,
+// [2026-WINTER] OTHER: ふくふくの地図
+// https://annict.com/works/17072
+{"annict_id":17072}
+,
 ]
