@@ -61346,7 +61346,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15864
 {"annict_id":15864,"mal_id":61381}
 ,
-// [null-null] TV: ポンコツ風紀委員とスカート丈が不適切なJKの話
+// [2026-SPRING] TV: ポンコツ風紀委員とスカート丈が不適切なJKの話
 // https://annict.com/works/15865
 {"annict_id":15865,"mal_id":61425}
 ,
