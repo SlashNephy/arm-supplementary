@@ -66154,4 +66154,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17073
 {"annict_id":17073}
 ,
+// [2026-SPRING] TV: 日本三國
+// https://annict.com/works/17074
+{"annict_id":17074}
+,
 ]
