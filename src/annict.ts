@@ -49386,7 +49386,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/12864
 {"annict_id":12864,"mal_id":58567,"syobocal_tid":7335}
 ,
-// [2026-null] WEB: 刃牙道
+// [2026-WINTER] WEB: 刃牙道
 // https://annict.com/works/12865
 {"annict_id":12865,"mal_id":58573}
 ,
