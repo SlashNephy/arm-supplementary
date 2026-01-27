@@ -66162,4 +66162,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17075
 {"annict_id":17075,"mal_id":63376}
 ,
+// [1996-SUMMER] OVA: ほんとにあった学校怪談
+// https://annict.com/works/17076
+{"annict_id":17076,"mal_id":28263}
+,
 ]
