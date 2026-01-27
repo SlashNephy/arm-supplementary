@@ -24578,7 +24578,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/6186
 {"annict_id":6186,"mal_id":36783}
 ,
-// [2026-null] TV: 二十世紀電氣目録-ユーレカ・エヴリカ-
+// [2026-SUMMER] TV: 二十世紀電氣目録-ユーレカ・エヴリカ-
 // https://annict.com/works/6187
 {"annict_id":6187,"mal_id":62856}
 ,
@@ -66149,5 +66149,9 @@ export const annict: ArmEntry[] = [
 // [2026-WINTER] OTHER: ふくふくの地図
 // https://annict.com/works/17072
 {"annict_id":17072}
+,
+// [2025-WINTER] WEB: THE COLLISION
+// https://annict.com/works/17073
+{"annict_id":17073}
 ,
 ]
