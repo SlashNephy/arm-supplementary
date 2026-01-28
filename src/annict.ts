@@ -66158,7 +66158,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17074
 {"annict_id":17074,"mal_id":63375}
 ,
-// [2026-SPRING] TV: 女神「異世界転生先は何になりたいですか」俺「勇者の肋骨で」
+// [2026-SPRING] TV: 女神「異世界転生何になりたいですか」俺「勇者の肋骨で」
 // https://annict.com/works/17075
 {"annict_id":17075,"mal_id":63376}
 ,
