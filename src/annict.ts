@@ -66182,4 +66182,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17080
 {"annict_id":17080,"mal_id":63356}
 ,
+// [2026-SPRING] TV: 新幹線変形ロボ シンカリオン＜特別ダイヤ版＞
+// https://annict.com/works/17081
+{"annict_id":17081}
+,
 ]
