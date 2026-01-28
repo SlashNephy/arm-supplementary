@@ -66170,4 +66170,16 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17077
 {"annict_id":17077}
 ,
+// [2025-AUTUMN] WEB: Path of Progress
+// https://annict.com/works/17078
+{"annict_id":17078,"mal_id":63342}
+,
+// [2026-WINTER] WEB: ポケモン動画図鑑(第4シーズン)
+// https://annict.com/works/17079
+{"annict_id":17079,"mal_id":63373}
+,
+// [2026-SPRING] MOVIE: それいけ！アンパンマン パンタンと約束の星
+// https://annict.com/works/17080
+{"annict_id":17080,"mal_id":63356}
+,
 ]
