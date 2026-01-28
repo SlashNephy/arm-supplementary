@@ -66168,7 +66168,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: 凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録
 // https://annict.com/works/17077
-{"annict_id":17077}
+{"annict_id":17077,"mal_id":63382}
 ,
 // [2025-AUTUMN] WEB: Path of Progress
 // https://annict.com/works/17078
