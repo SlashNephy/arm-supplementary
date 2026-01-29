@@ -66186,4 +66186,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17081
 {"annict_id":17081}
 ,
+// [2024-SUMMER] WEB: LONELINESS WILL SHINE
+// https://annict.com/works/17082
+{"annict_id":17082}
+,
 ]
