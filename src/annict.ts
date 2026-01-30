@@ -52362,7 +52362,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/13610
 {"annict_id":13610,"mal_id":59226,"syobocal_tid":7334}
 ,
-// [2015-AUTUMN] OVA: まじかるすいーとプリズム・ナナ THE ANIMATION 夢叶えたい!?希望のアドバンス(前編)
+// [2015-AUTUMN] OVA: まじかるすいーと プリズム・ナナ THE ANIMATION 夢叶えたい…!? 希望のアドバンス (前編)
 // https://annict.com/works/13611
 {"annict_id":13611,"mal_id":15407}
 ,
@@ -52370,7 +52370,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/13612
 {"annict_id":13612}
 ,
-// [null-null] OVA: まじかるすいーとプリズム・ナナ THE ANIMATION メダルの国のハロウィン 〜ノリコと妖精〜
+// [2026-WINTER] OVA: まじかるすいーと プリズム・ナナ THE ANIMATION メダルの国のハロウィン 〜ノリコと妖精〜
 // https://annict.com/works/13613
 {"annict_id":13613}
 ,
@@ -66189,5 +66189,9 @@ export const annict: ArmEntry[] = [
 // [2024-SUMMER] WEB: LONELINESS WILL SHINE
 // https://annict.com/works/17082
 {"annict_id":17082}
+,
+// [2025-AUTUMN] OVA: まじかるすいーと プリズム・ナナ THE ANIMATION 夢叶えたい…!? 希望のアドバンス (後編)
+// https://annict.com/works/17083
+{"annict_id":17083,"mal_id":15407}
 ,
 ]
