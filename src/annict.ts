@@ -52366,13 +52366,13 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/13611
 {"annict_id":13611,"mal_id":15407}
 ,
-// [2016-SPRING] OVA: まじかるすいーとプリズム・ナナ THE ANIMATION 星空編
+// [2016-SPRING] OVA: まじかるすいーと プリズム・ナナ THE ANIMATION 星空編
 // https://annict.com/works/13612
-{"annict_id":13612}
+{"annict_id":13612,"mal_id":15407}
 ,
 // [2026-WINTER] OVA: まじかるすいーと プリズム・ナナ THE ANIMATION メダルの国のハロウィン 〜ノリコと妖精〜
 // https://annict.com/works/13613
-{"annict_id":13613}
+{"annict_id":13613,"mal_id":15407}
 ,
 // [null-null] TV: 全知的な読者の視点から
 // https://annict.com/works/13614
