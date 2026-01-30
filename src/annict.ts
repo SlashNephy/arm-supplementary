@@ -60290,7 +60290,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15599
 {"annict_id":15599,"mal_id":61410}
 ,
-// [2026-SPRING] TV: 転生した大聖女は、聖女であることをひた隠す
+// [2026-AUTUMN] TV: 転生した大聖女は、聖女であることをひた隠す
 // https://annict.com/works/15600
 {"annict_id":15600,"mal_id":61153}
 ,
@@ -64574,7 +64574,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16676
 {"annict_id":16676,"mal_id":62843}
 ,
-// [null-null] OTHER: 才女のお世話 高嶺の花だらけな名門校で、学院一のお嬢様（生活能力皆無）を陰ながらお世話することになりました
+// [2026-SUMMER] TV: 才女のお世話 高嶺の花だらけな名門校で、学院一のお嬢様(生活能力皆無)を陰ながらお世話することになりました
 // https://annict.com/works/16677
 {"annict_id":16677,"mal_id":62876}
 ,
