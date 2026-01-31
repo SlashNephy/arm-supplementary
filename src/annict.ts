@@ -66198,4 +66198,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17084
 {"annict_id":17084}
 ,
+// [2026-WINTER] MOVIE: ギャビーのドールハウス ザ・ムービー
+// https://annict.com/works/17085
+{"annict_id":17085}
+,
 ]
