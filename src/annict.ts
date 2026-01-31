@@ -63822,7 +63822,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16485
 {"annict_id":16485,"mal_id":62331}
 ,
-// [2026-null] TV: 異世界のんびり農家２
+// [2026-SPRING] TV: 異世界のんびり農家２
 // https://annict.com/works/16486
 {"annict_id":16486,"mal_id":62146}
 ,
