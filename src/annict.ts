@@ -66202,4 +66202,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17085
 {"annict_id":17085}
 ,
+// [2014-SPRING] MOVIE: 00:08
+// https://annict.com/works/17086
+{"annict_id":17086,"mal_id":28761}
+,
 ]
