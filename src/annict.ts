@@ -52332,7 +52332,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2024-SPRING] MOVIE: ファーストライン
 // https://annict.com/works/13603
-{"annict_id":13603}
+{"annict_id":13603,"mal_id":59231}
 ,
 // [2025-SUMMER] TV: 帝乃三姉妹は案外、チョロい。
 // https://annict.com/works/13604
@@ -66193,5 +66193,9 @@ export const annict: ArmEntry[] = [
 // [2025-AUTUMN] OVA: まじかるすいーと プリズム・ナナ THE ANIMATION 夢叶えたい…!? 希望のアドバンス (後編)
 // https://annict.com/works/17083
 {"annict_id":17083,"mal_id":15407}
+,
+// [2026-WINTER] MOVIE: もし、これから生まれるのなら
+// https://annict.com/works/17084
+{"annict_id":17084}
 ,
 ]
