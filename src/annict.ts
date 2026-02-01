@@ -56564,7 +56564,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] TV: 天穂のサクナヒメ ココロワ稲作日誌
 // https://annict.com/works/14667
-{"annict_id":14667,"mal_id":60294,"syobocal_tid":9548}
+{"annict_id":14667,"mal_id":60294}
 ,
 // [2012-SUMMER] MOVIE: なんて素敵な日
 // https://annict.com/works/14668
@@ -66209,5 +66209,9 @@ export const annict: ArmEntry[] = [
 // [2011-AUTUMN] WEB: EGOISM
 // https://annict.com/works/17087
 {"annict_id":17087}
+,
+// [2026-SUMMER] TV: ヤニねこ
+// https://annict.com/works/17088
+{"annict_id":17088,"mal_id":63403}
 ,
 ]
