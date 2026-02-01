@@ -66206,4 +66206,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17086
 {"annict_id":17086,"mal_id":28761}
 ,
+// [2011-AUTUMN] WEB: EGOISM
+// https://annict.com/works/17087
+{"annict_id":17087}
+,
 ]
