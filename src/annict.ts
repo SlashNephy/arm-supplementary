@@ -56564,7 +56564,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] TV: 天穂のサクナヒメ ココロワ稲作日誌
 // https://annict.com/works/14667
-{"annict_id":14667,"mal_id":60294}
+{"annict_id":14667,"mal_id":60294,"syobocal_tid":9548}
 ,
 // [2012-SUMMER] MOVIE: なんて素敵な日
 // https://annict.com/works/14668
