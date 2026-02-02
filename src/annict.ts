@@ -57916,7 +57916,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2025-null] TV: クマーバ シーズン3
 // https://annict.com/works/15005
-{"annict_id":15005}
+{"annict_id":15005,"mal_id":63383}
 ,
 // [2025-AUTUMN] TV: 嘆きの亡霊は引退したい 第2クール
 // https://annict.com/works/15006
@@ -66024,7 +66024,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] WEB: お姉ちゃんごっこ
 // https://annict.com/works/17041
-{"annict_id":17041}
+{"annict_id":17041,"mal_id":63396}
 ,
 // [2026-SUMMER] TV: 盗掘王
 // https://annict.com/works/17042
