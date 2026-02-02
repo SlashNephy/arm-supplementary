@@ -66214,4 +66214,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17088
 {"annict_id":17088,"mal_id":63403}
 ,
+// [2026-null] TV: どうも、好きな人に惚れ薬を依頼された魔女です。
+// https://annict.com/works/17089
+{"annict_id":17089}
+,
 ]
