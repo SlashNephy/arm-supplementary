@@ -61982,7 +61982,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16023
 {"annict_id":16023,"mal_id":61686}
 ,
-// [2026-null] TV: 自称悪役令嬢な婚約者の観察記録。
+// [2026-SPRING] TV: 自称悪役令嬢な婚約者の観察記録。
 // https://annict.com/works/16024
 {"annict_id":16024,"mal_id":61687}
 ,
@@ -66216,6 +66216,6 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-null] TV: どうも、好きな人に惚れ薬を依頼された魔女です。
 // https://annict.com/works/17089
-{"annict_id":17089}
+{"annict_id":17089,"mal_id":63409}
 ,
 ]
