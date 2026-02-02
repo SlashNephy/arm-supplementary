@@ -20310,7 +20310,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/5109
 {"annict_id":5109,"mal_id":33834,"syobocal_tid":4553}
 ,
-// [2018-WINTER] TV: Fate/EXTRA Last Encore
+// [2018-WINTER] TV: Fate/EXTRA Last Encore オブリトゥス地動説
 // https://annict.com/works/5110
 {"annict_id":5110,"mal_id":33047,"syobocal_tid":4832}
 ,
