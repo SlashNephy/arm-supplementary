@@ -66218,4 +66218,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17089
 {"annict_id":17089,"mal_id":63409}
 ,
+// [2026-WINTER] WEB: LUCA
+// https://annict.com/works/17090
+{"annict_id":17090}
+,
 ]
