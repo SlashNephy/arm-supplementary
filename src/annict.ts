@@ -66018,7 +66018,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17039
 {"annict_id":17039,"mal_id":63323}
 ,
-// [2026-null] TV: インゴクダンチ
+// [2026-SPRING] TV: インゴクダンチ
 // https://annict.com/works/17040
 {"annict_id":17040,"mal_id":63310}
 ,
@@ -66228,6 +66228,6 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: サンダー３
 // https://annict.com/works/17092
-{"annict_id":17092}
+{"annict_id":17092,"mal_id":63418}
 ,
 ]
