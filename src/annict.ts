@@ -66230,4 +66230,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17092
 {"annict_id":17092,"mal_id":63418}
 ,
+// [2013-WINTER] WEB: 001
+// https://annict.com/works/17093
+{"annict_id":17093,"mal_id":29978}
+,
 ]
