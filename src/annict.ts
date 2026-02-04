@@ -66144,11 +66144,11 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] TV: マウスカーソルで現実を操作できるようになったので、女の子をいっぱいクリックしまーす
 // https://annict.com/works/17071
-{"annict_id":17071}
+{"annict_id":17071,"mal_id":63381}
 ,
 // [2026-WINTER] OTHER: ふくふくの地図
 // https://annict.com/works/17072
-{"annict_id":17072}
+{"annict_id":17072,"mal_id":63411}
 ,
 // [2025-WINTER] WEB: THE COLLISION
 // https://annict.com/works/17073
@@ -66188,7 +66188,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2024-SUMMER] WEB: LONELINESS WILL SHINE
 // https://annict.com/works/17082
-{"annict_id":17082}
+{"annict_id":17082,"mal_id":62075}
 ,
 // [2025-AUTUMN] OVA: まじかるすいーと プリズム・ナナ THE ANIMATION 夢叶えたい…!? 希望のアドバンス (後編)
 // https://annict.com/works/17083
@@ -66220,10 +66220,14 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] WEB: LUCA
 // https://annict.com/works/17090
-{"annict_id":17090}
+{"annict_id":17090,"mal_id":63414}
 ,
 // [2027-WINTER] TV: 魔入りました！入間くん if Episode of 魔フィア
 // https://annict.com/works/17091
-{"annict_id":17091}
+{"annict_id":17091,"mal_id":63419}
+,
+// [2026-SUMMER] TV: サンダー３
+// https://annict.com/works/17092
+{"annict_id":17092}
 ,
 ]
