@@ -66222,4 +66222,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17090
 {"annict_id":17090}
 ,
+// [2027-WINTER] TV: 魔入りました！入間くん if Episode of 魔フィア
+// https://annict.com/works/17091
+{"annict_id":17091}
+,
 ]
