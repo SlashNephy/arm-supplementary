@@ -66236,6 +66236,6 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] TV: 悠久の愚者アズリーの、賢者のすゝめ
 // https://annict.com/works/17094
-{"annict_id":17094}
+{"annict_id":17094,"mal_id":63424}
 ,
 ]
