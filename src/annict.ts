@@ -63974,7 +63974,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16523
 {"annict_id":16523,"mal_id":60776}
 ,
-// [null-null] TV: 世界最強の後衛 ～迷宮国の新人探索者～
+// [2026-SUMMER] TV: 世界最強の後衛 ～迷宮国の新人探索者～
 // https://annict.com/works/16524
 {"annict_id":16524,"mal_id":62435}
 ,
@@ -66233,5 +66233,9 @@ export const annict: ArmEntry[] = [
 // [2013-WINTER] WEB: 001
 // https://annict.com/works/17093
 {"annict_id":17093,"mal_id":29978}
+,
+// [null-null] TV: 悠久の愚者アズリーの、賢者のすゝめ
+// https://annict.com/works/17094
+{"annict_id":17094}
 ,
 ]
