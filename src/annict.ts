@@ -29558,7 +29558,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/7668
 {"annict_id":7668}
 ,
-// [2021-AUTUMN] MOVIE: 劇場版 ソードアート・オンライン プログレッシブ 星なき夜のアリア
+// [2021-AUTUMN] MOVIE: 劇場版 ソードアート・オンライン -プログレッシブ- 星なき夜のアリア
 // https://annict.com/works/7669
 {"annict_id":7669,"mal_id":42916,"syobocal_tid":6071}
 ,
