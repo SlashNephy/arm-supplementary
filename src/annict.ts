@@ -66238,4 +66238,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17094
 {"annict_id":17094,"mal_id":63424}
 ,
+// [2006-WINTER] MOVIE: アニマ
+// https://annict.com/works/17095
+{"annict_id":17095,"mal_id":13513}
+,
 ]
