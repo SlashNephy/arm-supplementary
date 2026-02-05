@@ -66242,4 +66242,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17095
 {"annict_id":17095,"mal_id":13513}
 ,
+// [2012-SUMMER] WEB: とおりゃんせ
+// https://annict.com/works/17096
+{"annict_id":17096}
+,
 ]
