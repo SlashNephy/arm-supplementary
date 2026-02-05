@@ -60786,7 +60786,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15723
 {"annict_id":15723,"mal_id":10693,"syobocal_tid":2619}
 ,
-// [2026-SPRING] TV: ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ伝～
+// [2026-SUMMER] TV: ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ伝～
 // https://annict.com/works/15724
 {"annict_id":15724,"mal_id":61240}
 ,
