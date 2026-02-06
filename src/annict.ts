@@ -64294,7 +64294,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16605
 {"annict_id":16605}
 ,
-// [2026-null] TV: ここは俺に任せて先に行けと言ってから10年がたったら伝説になっていた。
+// [2026-SPRING] TV: ここは俺に任せて先に行けと言ってから10年がたったら伝説になっていた。
 // https://annict.com/works/16606
 {"annict_id":16606,"mal_id":62617}
 ,
@@ -66248,6 +66248,6 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] OTHER: 追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。 ～俺は武器だけじゃなく、あらゆるものに『強化ポイント』を付与できるし、俺の意思でいつでも効果を解除できるけど、残った人たち大丈夫？～
 // https://annict.com/works/17097
-{"annict_id":17097}
+{"annict_id":17097,"mal_id":63431}
 ,
 ]
