@@ -66246,4 +66246,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17096
 {"annict_id":17096}
 ,
+// [null-null] OTHER: 追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。 ～俺は武器だけじゃなく、あらゆるものに『強化ポイント』を付与できるし、俺の意思でいつでも効果を解除できるけど、残った人たち大丈夫？～
+// https://annict.com/works/17097
+{"annict_id":17097}
+,
 ]
