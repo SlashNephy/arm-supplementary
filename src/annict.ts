@@ -66250,4 +66250,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17097
 {"annict_id":17097,"mal_id":63431}
 ,
+// [null-null] TV: ダンジョンに出会いを求めるのは間違っているだろうかⅥ
+// https://annict.com/works/17098
+{"annict_id":17098}
+,
 ]
