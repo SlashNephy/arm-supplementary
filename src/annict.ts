@@ -66252,6 +66252,10 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] TV: ダンジョンに出会いを求めるのは間違っているだろうかⅥ
 // https://annict.com/works/17098
-{"annict_id":17098}
+{"annict_id":17098,"mal_id":63442}
+,
+// [2026-SPRING] TV: 大賢者リドルの時間逆行
+// https://annict.com/works/17099
+{"annict_id":17099,"mal_id":63433}
 ,
 ]
