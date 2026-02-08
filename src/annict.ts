@@ -39582,7 +39582,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/10403
 {"annict_id":10403,"mal_id":54233,"syobocal_tid":7020}
 ,
-// [2026-null] MOVIE: メイドインアビス 目覚める神秘
+// [2026-AUTUMN] MOVIE: メイドインアビス 目覚める神秘
 // https://annict.com/works/10404
 {"annict_id":10404,"mal_id":54250}
 ,
