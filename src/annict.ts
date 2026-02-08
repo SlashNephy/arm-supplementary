@@ -64906,7 +64906,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16760
 {"annict_id":16760,"mal_id":10627,"syobocal_tid":1327}
 ,
-// [2026-SPRING] MOVIE: 映画ひみつのアイプリ まんかいバズリウムライブ！
+// [2026-WINTER] MOVIE: 映画ひみつのアイプリ まんかいバズリウムライブ！
 // https://annict.com/works/16761
 {"annict_id":16761,"mal_id":63033}
 ,
