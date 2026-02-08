@@ -66258,4 +66258,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17099
 {"annict_id":17099,"mal_id":63433}
 ,
+// [2020-AUTUMN] WEB: MARS REDミニアニメ「ぜろきかん日報」
+// https://annict.com/works/17100
+{"annict_id":17100,"mal_id":41265,"syobocal_tid":5976}
+,
 ]
