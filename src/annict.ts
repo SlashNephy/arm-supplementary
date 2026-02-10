@@ -66266,4 +66266,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17101
 {"annict_id":17101,"mal_id":27379}
 ,
+// [2020-SPRING] TV: マオマオ ピュアハートのヒーロー
+// https://annict.com/works/17102
+{"annict_id":17102}
+,
+// [2020-SPRING] WEB: セントラル・パーク
+// https://annict.com/works/17103
+{"annict_id":17103}
+,
 ]
