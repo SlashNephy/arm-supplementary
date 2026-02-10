@@ -66286,4 +66286,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17106
 {"annict_id":17106}
 ,
+// [2025-SUMMER] WEB: 銀河特急 ミルキー☆サブウェイ PARCOオリジナルアニメーション
+// https://annict.com/works/17107
+{"annict_id":17107,"mal_id":61972}
+,
 ]
