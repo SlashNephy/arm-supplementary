@@ -66262,4 +66262,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17100
 {"annict_id":17100,"mal_id":41265,"syobocal_tid":5976}
 ,
+// [1966-AUTUMN] TV: 世界の王者 キングコング大会
+// https://annict.com/works/17101
+{"annict_id":17101,"mal_id":27379}
+,
 ]
