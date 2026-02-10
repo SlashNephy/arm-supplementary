@@ -66274,4 +66274,16 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17103
 {"annict_id":17103}
 ,
+// [2020-SPRING] WEB: スタービーム
+// https://annict.com/works/17104
+{"annict_id":17104}
+,
+// [2020-SPRING] WEB: チコ・ボンボンとすてきなどうぐベルト
+// https://annict.com/works/17105
+{"annict_id":17105}
+,
+// [2020-SPRING] WEB: ライム・タイム・タウン
+// https://annict.com/works/17106
+{"annict_id":17106}
+,
 ]
