@@ -66298,4 +66298,20 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17109
 {"annict_id":17109,"mal_id":40838}
 ,
+// [2020-SUMMER] WEB: Hoops -フープス-
+// https://annict.com/works/17110
+{"annict_id":17110}
+,
+// [2020-SUMMER] WEB: ぼくらのスーパーヒーロー・パンツマン 〜宇宙で大暴れ〜
+// https://annict.com/works/17111
+{"annict_id":17111}
+,
+// [2020-SUMMER] WEB: マイティ・エクスプレス
+// https://annict.com/works/17112
+{"annict_id":17112}
+,
+// [2020-SUMMER] WEB: エイリアン・テレビ
+// https://annict.com/works/17113
+{"annict_id":17113}
+,
 ]
