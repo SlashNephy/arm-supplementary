@@ -66292,7 +66292,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] MOVIE: どこよりも遠い場所にいる君へ
 // https://annict.com/works/17108
-{"annict_id":17108}
+{"annict_id":17108,"mal_id":63423}
 ,
 // [2019-AUTUMN] WEB: キリン 午後の紅茶 × バンドリ！コラボCM
 // https://annict.com/works/17109
