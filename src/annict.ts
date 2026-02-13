@@ -66316,10 +66316,14 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: うしろの正面カムイさん
 // https://annict.com/works/17114
-{"annict_id":17114,"mal_id":126798}
+{"annict_id":17114,"mal_id":63468}
 ,
 // [2026-WINTER] WEB: 【3分でわかる！】 呪術廻戦 死滅回游 攻略動画
 // https://annict.com/works/17115
 {"annict_id":17115}
+,
+// [2026-SPRING] TV: 百鬼夜行抄
+// https://annict.com/works/17116
+{"annict_id":17116,"mal_id":63469}
 ,
 ]
