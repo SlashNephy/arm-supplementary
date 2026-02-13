@@ -66318,4 +66318,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17114
 {"annict_id":17114,"mal_id":126798}
 ,
+// [2026-WINTER] WEB: 【3分でわかる！】 呪術廻戦 死滅回游 攻略動画
+// https://annict.com/works/17115
+{"annict_id":17115}
+,
 ]
