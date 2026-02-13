@@ -66316,6 +66316,6 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: うしろの正面カムイさん
 // https://annict.com/works/17114
-{"annict_id":17114}
+{"annict_id":17114,"mal_id":126798}
 ,
 ]
