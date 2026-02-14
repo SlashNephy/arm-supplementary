@@ -64810,7 +64810,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16736
 {"annict_id":16736,"syobocal_tid":1272}
 ,
-// [2026-null] TV: ただいま、おじゃまされます！
+// [2026-SPRING] TV: ただいま、おじゃまされます！
 // https://annict.com/works/16737
 {"annict_id":16737,"mal_id":63014}
 ,
