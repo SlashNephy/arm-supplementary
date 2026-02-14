@@ -60326,7 +60326,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15608
 {"annict_id":15608}
 ,
-// [2025-WINTER] MOVIE: ペリカンブルー
+// [2025-WINTER] MOVIE: ペリカン・ブルー 〜自由への切符〜
 // https://annict.com/works/15609
 {"annict_id":15609}
 ,
@@ -64262,7 +64262,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16596
 {"annict_id":16596,"mal_id":62601}
 ,
-// [2026-null] TV: オタクに優しいギャルはいない!?
+// [2026-SPRING] TV: オタクに優しいギャルはいない!?
 // https://annict.com/works/16598
 {"annict_id":16598,"mal_id":62604}
 ,
