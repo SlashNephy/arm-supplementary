@@ -66326,4 +66326,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17116
 {"annict_id":17116,"mal_id":63469}
 ,
+// [2014-SPRING] OVA: ミス・モノクローム OVA サッカー篇 SUPPORTER
+// https://annict.com/works/17117
+{"annict_id":17117,"mal_id":24713}
+,
+// [2014-SUMMER] OVA: ミス・モノクローム OVA MANAGER
+// https://annict.com/works/17118
+{"annict_id":17118,"mal_id":28179}
+,
 ]
