@@ -66338,12 +66338,16 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17119
 {"annict_id":17119}
 ,
-// [2025-WINTER] MOVIE: スペルマゲドン 精なる大冒険
+// [2026-WINTER] MOVIE: スペルマゲドン 精なる大冒険
 // https://annict.com/works/17120
 {"annict_id":17120}
 ,
 // [2026-SUMMER] TV: 天は赤い河のほとり
 // https://annict.com/works/17121
 {"annict_id":17121,"mal_id":63489}
+,
+// [2026-WINTER] WEB: イキヅライブ！ LOVELIVE! BLUEBIRD いきづらい部！ 「Dou-Da? DOING!」 アニメーションMV
+// https://annict.com/works/17122
+{"annict_id":17122}
 ,
 ]
