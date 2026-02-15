@@ -66334,4 +66334,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17118
 {"annict_id":17118,"mal_id":28179}
 ,
+// [2026-WINTER] WEB: 精霊が息づく、群馬。
+// https://annict.com/works/17119
+{"annict_id":17119}
+,
 ]
