@@ -65382,7 +65382,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16880
 {"annict_id":16880,"mal_id":63125}
 ,
-// [2026-WINTER] MOVIE: エヴァンゲリオン放送30周年記念特別興行
+// [2026-WINTER] OTHER: エヴァンゲリオン放送30周年記念特別興行
 // https://annict.com/works/16881
 {"annict_id":16881}
 ,
@@ -66341,5 +66341,9 @@ export const annict: ArmEntry[] = [
 // [2025-WINTER] MOVIE: スペルマゲドン 精なる大冒険
 // https://annict.com/works/17120
 {"annict_id":17120}
+,
+// [2026-SUMMER] TV: 天は赤い河のほとり
+// https://annict.com/works/17121
+{"annict_id":17121,"mal_id":63489}
 ,
 ]
