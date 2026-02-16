@@ -58756,7 +58756,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: 氷の城壁
 // https://annict.com/works/15216
-{"annict_id":15216,"mal_id":60852}
+{"annict_id":15216,"mal_id":60852,"syobocal_tid":7739}
 ,
 // [1965-AUTUMN] TV: 少年シンドバッド
 // https://annict.com/works/15217
