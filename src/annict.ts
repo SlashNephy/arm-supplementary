@@ -66350,4 +66350,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17122
 {"annict_id":17122}
 ,
+// [2011-SPRING] WEB: 名探偵コナン vs Wooo
+// https://annict.com/works/17123
+{"annict_id":17123,"mal_id":10766}
+,
 ]
