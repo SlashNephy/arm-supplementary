@@ -66348,10 +66348,18 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] WEB: イキヅライブ！ LOVELIVE! BLUEBIRD いきづらい部！ 「Dou-Da? DOING!」 アニメーションMV
 // https://annict.com/works/17122
-{"annict_id":17122}
+{"annict_id":17122,"mal_id":63493}
 ,
 // [2011-SPRING] WEB: 名探偵コナン vs Wooo
 // https://annict.com/works/17123
 {"annict_id":17123,"mal_id":10766}
+,
+// [null-null] TV: おデブ悪女に転生したら、なぜかラスボス王子様に執着されています
+// https://annict.com/works/17124
+{"annict_id":17124,"mal_id":63476}
+,
+// [2027-null] TV: 涙雨とセレナーデ
+// https://annict.com/works/17125
+{"annict_id":17125,"mal_id":63472}
 ,
 ]
