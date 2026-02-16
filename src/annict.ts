@@ -64030,7 +64030,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16537
 {"annict_id":16537,"mal_id":59662,"syobocal_tid":7613}
 ,
-// [null-null] TV: 手札が多めのビクトリア
+// [2025-SUMMER] TV: 手札が多めのビクトリア
 // https://annict.com/works/16538
 {"annict_id":16538,"mal_id":62476}
 ,
