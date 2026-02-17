@@ -66362,4 +66362,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17125
 {"annict_id":17125,"mal_id":63472}
 ,
+// [2026-WINTER] WEB: うたう！おどる！チルタリス！
+// https://annict.com/works/17126
+{"annict_id":17126}
+,
 ]
