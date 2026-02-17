@@ -44978,7 +44978,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/11757
 {"annict_id":11757,"mal_id":2317}
 ,
-// [1997-SUMMER] OVA: ねずみくんのチョッキ
+// [1997-SUMMER] OVA: ねずみくんのチョッキ（OVA）
 // https://annict.com/works/11758
 {"annict_id":11758,"mal_id":27849}
 ,
@@ -63994,7 +63994,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16528
 {"annict_id":16528}
 ,
-// [null-null] TV: ねずみくんのチョッキ シリーズ
+// [2026-SPRING] TV: ねずみくんのチョッキ
 // https://annict.com/works/16529
 {"annict_id":16529,"mal_id":62495}
 ,
