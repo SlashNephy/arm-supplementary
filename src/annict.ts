@@ -63192,7 +63192,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-null] TV: ドッジ弾子
 // https://annict.com/works/16328
-{"annict_id":16328}
+{"annict_id":16328,"mal_id":62031}
 ,
 // [2025-SUMMER] MOVIE: 劇場編集版 Summer Pockets 紬ヴェンダース編
 // https://annict.com/works/16329
@@ -64094,7 +64094,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16553
 {"annict_id":16553,"mal_id":62507}
 ,
-// [null-null] TV: 自動販売機に生まれ変わった俺は迷宮を彷徨う 3rd season
+// [2026-SPRING] TV: 自動販売機に生まれ変わった俺は迷宮を彷徨う 3rd season
 // https://annict.com/works/16554
 {"annict_id":16554,"mal_id":62512}
 ,
