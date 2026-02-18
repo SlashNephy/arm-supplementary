@@ -66366,4 +66366,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17126
 {"annict_id":17126}
 ,
+// [2025-AUTUMN] MOVIE: くまじろう！ちきゅうをすくえ！　～熊出没～
+// https://annict.com/works/17127
+{"annict_id":17127,"mal_id":55589}
+,
 ]
