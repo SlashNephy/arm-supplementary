@@ -64030,7 +64030,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16537
 {"annict_id":16537,"mal_id":59662,"syobocal_tid":7613}
 ,
-// [2025-SUMMER] TV: 手札が多めのビクトリア
+// [2026-SUMMER] TV: 手札が多めのビクトリア
 // https://annict.com/works/16538
 {"annict_id":16538,"mal_id":62476}
 ,
@@ -64782,7 +64782,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16729
 {"annict_id":16729,"mal_id":62981}
 ,
-// [2026-null] TV: 茉莉花ちゃんの好感度はぶっ壊れている
+// [2026-SPRING] TV: 茉莉花ちゃんの好感度はぶっ壊れている
 // https://annict.com/works/16730
 {"annict_id":16730,"mal_id":62983}
 ,
