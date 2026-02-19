@@ -63790,7 +63790,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16477
 {"annict_id":16477,"mal_id":62579}
 ,
-// [2026-null] TV: LV999の村人
+// [2026-SUMMER] TV: LV999の村人
 // https://annict.com/works/16478
 {"annict_id":16478,"mal_id":62322}
 ,
@@ -66369,5 +66369,13 @@ export const annict: ArmEntry[] = [
 // [2025-AUTUMN] MOVIE: くまじろう！ちきゅうをすくえ！　～熊出没～
 // https://annict.com/works/17127
 {"annict_id":17127,"mal_id":55589}
+,
+// [2026-SPRING] OVA: 異世界の沙汰は社畜次第 OVA「思いを馳せました」
+// https://annict.com/works/17128
+{"annict_id":17128,"mal_id":63503}
+,
+// [2026-SPRING] TV: こんなこいるかな（新作）
+// https://annict.com/works/17129
+{"annict_id":17129}
 ,
 ]
