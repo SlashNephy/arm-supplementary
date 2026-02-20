@@ -66390,4 +66390,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17132
 {"annict_id":17132,"mal_id":63509}
 ,
+// [2026-WINTER] WEB: SHIBUYA♡HACHI　「ハチと渋谷を歩こう！」
+// https://annict.com/works/17133
+{"annict_id":17133}
+,
 ]
