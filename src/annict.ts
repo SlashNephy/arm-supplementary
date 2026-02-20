@@ -66382,7 +66382,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17130
 {"annict_id":17130}
 ,
-// [2026-SUMMER] TV: 落第賢者 の学院無双 ～二度目の転生、Sランクチート魔術師冒険録～
+// [2026-SUMMER] TV: 落第賢者の学院無双 ～二度目の転生、Sランクチート魔術師冒険録～
 // https://annict.com/works/17131
 {"annict_id":17131,"mal_id":63508}
 ,
