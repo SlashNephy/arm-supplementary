@@ -65406,9 +65406,9 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16886
 {"annict_id":16886}
 ,
-// [null-null] TV: 大きい女の子は好きですか？
+// [2026-SPRING] TV: 大きい女の子は好きですか？
 // https://annict.com/works/16887
-{"annict_id":16887}
+{"annict_id":16887,"mal_id":63248}
 ,
 // [2017-WINTER] WEB: わたしたち、ララループシー!
 // https://annict.com/works/16888
@@ -66401,5 +66401,9 @@ export const annict: ArmEntry[] = [
 // [2025-AUTUMN] WEB: 同志社創立150周年記念アニメーション「二百年の夢を見た。」
 // https://annict.com/works/17135
 {"annict_id":17135,"mal_id":63511}
+,
+// [2026-AUTUMN] TV: 百妖譜 京師篇
+// https://annict.com/works/17136
+{"annict_id":17136,"mal_id":50537}
 ,
 ]
