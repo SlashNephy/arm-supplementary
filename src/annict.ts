@@ -66394,4 +66394,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17133
 {"annict_id":17133}
 ,
+// [null-null] OTHER: パーフェクトアディクション
+// https://annict.com/works/17134
+{"annict_id":17134,"mal_id":63514}
+,
+// [2025-AUTUMN] WEB: 同志社創立150周年記念アニメーション「二百年の夢を見た。」
+// https://annict.com/works/17135
+{"annict_id":17135,"mal_id":63511}
+,
 ]
