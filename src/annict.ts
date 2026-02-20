@@ -64404,7 +64404,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] OVA: プリンセス・プリンシパル Crown Handler OVA「Fabulous Platypus」
 // https://annict.com/works/16634
-{"annict_id":16634}
+{"annict_id":16634,"mal_id":63504}
 ,
 // [2026-null] TV: 超巡！超条先輩
 // https://annict.com/works/16635
