@@ -66378,4 +66378,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17129
 {"annict_id":17129}
 ,
+// [2026-SUMMER] MOVIE: 映画クレヨンしんちゃん 奇々怪々！オラの妖怪バケ～ション
+// https://annict.com/works/17130
+{"annict_id":17130}
+,
 ]
