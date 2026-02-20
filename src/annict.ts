@@ -66406,4 +66406,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17136
 {"annict_id":17136,"mal_id":50537}
 ,
+// [2026-SPRING] TV: 百妖譜 第1期・第2期 傑作選
+// https://annict.com/works/17137
+{"annict_id":17137}
+,
+// [2016-WINTER] WEB: 考える時間
+// https://annict.com/works/17138
+{"annict_id":17138,"mal_id":41797}
+,
 ]
