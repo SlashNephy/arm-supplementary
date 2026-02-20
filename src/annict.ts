@@ -61430,7 +61430,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15885
 {"annict_id":15885,"mal_id":61501}
 ,
-// [2026-null] MOVIE: 映画 えんとつ町のプペル 〜約束の時計台〜
+// [2026-WINTER] MOVIE: えんとつ町のプペル 〜約束の時計台〜
 // https://annict.com/works/15886
 {"annict_id":15886,"mal_id":61492}
 ,
