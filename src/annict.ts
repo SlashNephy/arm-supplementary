@@ -66414,4 +66414,16 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17138
 {"annict_id":17138,"mal_id":41797}
 ,
+// [2024-SUMMER] WEB: 藍の約束
+// https://annict.com/works/17139
+{"annict_id":17139,"mal_id":59901}
+,
+// [2025-SUMMER] WEB: 夏でした。
+// https://annict.com/works/17140
+{"annict_id":17140}
+,
+// [2026-null] WEB: ヴェンデッタ・おんぶれった
+// https://annict.com/works/17141
+{"annict_id":17141}
+,
 ]
