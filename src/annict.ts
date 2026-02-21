@@ -35054,7 +35054,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/9235
 {"annict_id":9235,"mal_id":50663,"syobocal_tid":6438}
 ,
-// [null-null] MOVIE: 魔法使いの夜
+// [2026-null] MOVIE: 魔法使いの夜
 // https://annict.com/works/9236
 {"annict_id":9236,"mal_id":50668}
 ,
