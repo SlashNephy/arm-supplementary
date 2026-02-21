@@ -42430,7 +42430,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/11118
 {"annict_id":11118,"mal_id":56609}
 ,
-// [2026-null] TV: アズールレーン びそくぜんしんっ！にっ！！
+// [2026-SUMMER] TV: アズールレーン びそくぜんしんっ！にっ！！
 // https://annict.com/works/11119
 {"annict_id":11119,"mal_id":56613}
 ,
