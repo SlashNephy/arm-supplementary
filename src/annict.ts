@@ -66426,4 +66426,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17141
 {"annict_id":17141}
 ,
+// [2026-WINTER] WEB: ヤニねこ ミニアニメ
+// https://annict.com/works/17142
+{"annict_id":17142}
+,
 ]
