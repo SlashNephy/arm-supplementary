@@ -59454,7 +59454,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15390
 {"annict_id":15390,"mal_id":61012}
 ,
-// [null-null] TV: とある暗部の少女共棲
+// [2026-null] TV: とある暗部の少女共棲
 // https://annict.com/works/15391
 {"annict_id":15391,"mal_id":61014}
 ,
