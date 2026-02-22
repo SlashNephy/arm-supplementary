@@ -36064,7 +36064,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: とんがり帽子のアトリエ
 // https://annict.com/works/9521
-{"annict_id":9521,"mal_id":51553}
+{"annict_id":9521,"mal_id":51553,"syobocal_tid":7741}
 ,
 // [2022-SPRING] WEB: カッコウの許嫁 ミニアニメ「カッコウのいいかげん！」
 // https://annict.com/works/9522
@@ -43032,7 +43032,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: お隣の天使様にいつの間にか駄目人間にされていた件2
 // https://annict.com/works/11269
-{"annict_id":11269,"mal_id":56876}
+{"annict_id":11269,"mal_id":56876,"syobocal_tid":7745}
 ,
 // [2025-AUTUMN] TV: 青のオーケストラ Season 2
 // https://annict.com/works/11270
@@ -54336,7 +54336,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: 姫騎士は蛮族の嫁
 // https://annict.com/works/14109
-{"annict_id":14109,"mal_id":60028}
+{"annict_id":14109,"mal_id":60028,"syobocal_tid":7744}
 ,
 // [1994-SUMMER] OVA: GO!GO!ACKMAN
 // https://annict.com/works/14110
@@ -61428,7 +61428,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: カナン様はあくまでチョロい
 // https://annict.com/works/15885
-{"annict_id":15885,"mal_id":61501}
+{"annict_id":15885,"mal_id":61501,"syobocal_tid":7742}
 ,
 // [2026-WINTER] MOVIE: えんとつ町のプペル 〜約束の時計台〜
 // https://annict.com/works/15886
@@ -61984,7 +61984,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: 自称悪役令嬢な婚約者の観察記録。
 // https://annict.com/works/16024
-{"annict_id":16024,"mal_id":61687}
+{"annict_id":16024,"mal_id":61687,"syobocal_tid":7746}
 ,
 // [2014-AUTUMN] OVA: 甘城ブリリアントパーク わくわくミニシアター らくがきバックステージ
 // https://annict.com/works/16025
@@ -64264,7 +64264,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: オタクに優しいギャルはいない!?
 // https://annict.com/works/16598
-{"annict_id":16598,"mal_id":62604}
+{"annict_id":16598,"mal_id":62604,"syobocal_tid":7743}
 ,
 // [null-null] TV: 茉莉花官吏伝
 // https://annict.com/works/16599
