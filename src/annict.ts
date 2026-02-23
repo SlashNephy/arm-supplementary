@@ -66430,9 +66430,9 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17142
 {"annict_id":17142}
 ,
-// [null-null] OTHER: エヴァンゲリオン完全新作シリーズ
+// [null-null] OTHER: エヴァンゲリオン 完全新作シリーズ
 // https://annict.com/works/17143
-{"annict_id":17143}
+{"annict_id":17143,"mal_id":63534}
 ,
 // [null-null] TV: 魔法使いロゼの佐渡ライフ
 // https://annict.com/works/17144
