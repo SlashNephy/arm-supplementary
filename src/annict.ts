@@ -60524,7 +60524,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: 上伊那ぼたん、酔へる姿は百合の花
 // https://annict.com/works/15658
-{"annict_id":15658,"mal_id":61186}
+{"annict_id":15658,"mal_id":61186,"syobocal_tid":7747}
 ,
 // [2025-AUTUMN] WEB: イン・ユア・ドリームズ: 願いがかなうなら
 // https://annict.com/works/15659
