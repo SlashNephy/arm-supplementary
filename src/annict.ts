@@ -66434,4 +66434,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17143
 {"annict_id":17143}
 ,
+// [null-null] TV: 魔法使いロゼの佐渡ライフ
+// https://annict.com/works/17144
+{"annict_id":17144}
+,
+// [2026-WINTER] WEB: 限界OL霧切ギリ子 ショートアニメ第2弾
+// https://annict.com/works/17145
+{"annict_id":17145}
+,
 ]
