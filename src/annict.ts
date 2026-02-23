@@ -66442,4 +66442,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17145
 {"annict_id":17145}
 ,
+// [2026-SPRING] OVA: アンドロイドは経験人数に入りますか？？ OVA
+// https://annict.com/works/17146
+{"annict_id":17146,"mal_id":63330}
+,
 ]
