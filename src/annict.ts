@@ -66430,4 +66430,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17142
 {"annict_id":17142}
 ,
+// [null-null] OTHER: エヴァンゲリオン完全新作シリーズ
+// https://annict.com/works/17143
+{"annict_id":17143}
+,
 ]
