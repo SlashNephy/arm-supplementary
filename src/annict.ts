@@ -66450,4 +66450,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17147
 {"annict_id":17147,"mal_id":63537}
 ,
+// [2026-WINTER] MOVIE: 超かぐや姫！(劇場版)
+// https://annict.com/works/17148
+{"annict_id":17148,"mal_id":62896}
+,
 ]
