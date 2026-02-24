@@ -63462,7 +63462,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16395
 {"annict_id":16395,"mal_id":62078}
 ,
-// [null-null] TV: 無自覚聖女は今日も無意識に力を垂れ流す
+// [2026-null] TV: 無自覚聖女は今日も無意識に力を垂れ流す
 // https://annict.com/works/16396
 {"annict_id":16396,"mal_id":62080}
 ,
@@ -66436,7 +66436,7 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] TV: 魔法使いロゼの佐渡ライフ
 // https://annict.com/works/17144
-{"annict_id":17144}
+{"annict_id":17144,"mal_id":63536}
 ,
 // [2026-WINTER] WEB: 限界OL霧切ギリ子 ショートアニメ第2弾
 // https://annict.com/works/17145
@@ -66445,5 +66445,9 @@ export const annict: ArmEntry[] = [
 // [2026-SPRING] OVA: アンドロイドは経験人数に入りますか？？ OVA
 // https://annict.com/works/17146
 {"annict_id":17146,"mal_id":63330}
+,
+// [2026-SUMMER] TV: 「きみを愛する気はない」と言った次期公爵様がなぜか溺愛してきます
+// https://annict.com/works/17147
+{"annict_id":17147,"mal_id":63537}
 ,
 ]
