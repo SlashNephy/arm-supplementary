@@ -66458,4 +66458,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17149
 {"annict_id":17149,"mal_id":63559}
 ,
+// [2026-WINTER] WEB: 「ray 超かぐや姫！Version」MV
+// https://annict.com/works/17150
+{"annict_id":17150,"mal_id":63398}
+,
 ]
