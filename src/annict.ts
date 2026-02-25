@@ -66454,4 +66454,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17148
 {"annict_id":17148,"mal_id":62896}
 ,
+// [null-null] OTHER: バッドエンド目前のヒロインに転生した私、今世では恋愛するつもりがチートな兄が離してくれません！？
+// https://annict.com/works/17149
+{"annict_id":17149,"mal_id":63559}
+,
 ]
