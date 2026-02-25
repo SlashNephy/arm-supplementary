@@ -64530,7 +64530,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16665
 {"annict_id":16665,"mal_id":62863}
 ,
-// [2026-null] TV: ゴーストコンサート : missing Songs
+// [2026-SPRING] TV: ゴーストコンサート : missing Songs
 // https://annict.com/works/16666
 {"annict_id":16666,"mal_id":62852}
 ,
