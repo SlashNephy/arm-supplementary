@@ -66478,4 +66478,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17154
 {"annict_id":17154,"mal_id":63558}
 ,
+// [2026-WINTER] WEB: 桑田佳祐×TVアニメ『あかね噺』スペシャルアニメ映像
+// https://annict.com/works/17155
+{"annict_id":17155}
+,
 ]
