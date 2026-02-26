@@ -66462,4 +66462,20 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17150
 {"annict_id":17150,"mal_id":63398}
 ,
+// [2011-SPRING] OVA: METAL BLADE HIGH-SCHOOL
+// https://annict.com/works/17151
+{"annict_id":17151,"mal_id":63488}
+,
+// [2026-WINTER] WEB: Poppin-Play Kitchen
+// https://annict.com/works/17152
+{"annict_id":17152}
+,
+// [2026-WINTER] WEB: Gluttomy
+// https://annict.com/works/17153
+{"annict_id":17153}
+,
+// [2026-WINTER] WEB: ザ・ホラーズ・ホラー・ホーム
+// https://annict.com/works/17154
+{"annict_id":17154,"mal_id":63558}
+,
 ]
