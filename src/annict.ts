@@ -59462,7 +59462,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15392
 {"annict_id":15392,"mal_id":61015}
 ,
-// [2026-null] TV: レプリカだって、恋をする。
+// [2026-SPRING] TV: レプリカだって、恋をする。
 // https://annict.com/works/15393
 {"annict_id":15393,"mal_id":61013}
 ,
