@@ -59464,7 +59464,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: レプリカだって、恋をする。
 // https://annict.com/works/15393
-{"annict_id":15393,"mal_id":61013}
+{"annict_id":15393,"mal_id":61013,"syobocal_tid":7749}
 ,
 // [1993-null] OVA: 鉄腕アトムの交通安全
 // https://annict.com/works/15394
@@ -62940,7 +62940,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: 悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。Season２
 // https://annict.com/works/16264
-{"annict_id":16264,"mal_id":61931}
+{"annict_id":16264,"mal_id":61931,"syobocal_tid":7748}
 ,
 // [1991-AUTUMN] OVA: 装甲巨神Zナイト
 // https://annict.com/works/16265
