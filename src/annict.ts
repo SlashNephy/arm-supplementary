@@ -32270,7 +32270,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/8409
 {"annict_id":8409,"mal_id":48790,"syobocal_tid":6011}
 ,
-// [null-null] MOVIE: 劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉
+// [2026-SUMMER] MOVIE: 劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉
 // https://annict.com/works/8410
 {"annict_id":8410,"mal_id":48820}
 ,
