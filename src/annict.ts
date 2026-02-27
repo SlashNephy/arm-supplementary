@@ -18078,7 +18078,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/4545
 {"annict_id":4545,"mal_id":31848,"syobocal_tid":4011}
 ,
-// [2016-WINTER] TV: GATE 自衛隊 彼の地にて、斯く戦えり（第2期）
+// [2016-WINTER] TV: GATE 自衛隊 彼の地にて、斯く戦えり 第2クール
 // https://annict.com/works/4546
 {"annict_id":4546,"mal_id":31637,"syobocal_tid":4008}
 ,
@@ -63034,7 +63034,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16287
 {"annict_id":16287,"mal_id":62111}
 ,
-// [null-null] TV: GATE SEASON2 自衛隊 彼の海にて、斯く戦えり
+// [2027-null] TV: GATE SEASON2 自衛隊 彼の海にて、斯く戦えり
 // https://annict.com/works/16288
 {"annict_id":16288,"mal_id":61973}
 ,
