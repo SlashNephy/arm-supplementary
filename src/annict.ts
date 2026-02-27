@@ -66484,6 +66484,10 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] WEB: だんでらいおん
 // https://annict.com/works/17156
-{"annict_id":17156}
+{"annict_id":17156,"mal_id":63572}
+,
+// [2026-WINTER] WEB: 餓狼伝説 City of the Wolves「ナイトメアギース」ロングアニメーショントレーラー
+// https://annict.com/works/17157
+{"annict_id":17157,"mal_id":63567}
 ,
 ]
