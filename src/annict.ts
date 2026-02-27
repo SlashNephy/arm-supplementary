@@ -53050,7 +53050,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/13782
 {"annict_id":13782}
 ,
-// [2026-null] TV: ガンバレ！中村くん！！
+// [2026-SPRING] TV: ガンバレ！中村くん！！
 // https://annict.com/works/13783
 {"annict_id":13783,"mal_id":59551}
 ,
