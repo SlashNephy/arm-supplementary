@@ -53904,7 +53904,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: 霧尾ファンクラブ
 // https://annict.com/works/14000
-{"annict_id":14000,"mal_id":59835}
+{"annict_id":14000,"mal_id":59835,"syobocal_tid":7751}
 ,
 // [2025-SUMMER] TV: 薫る花は凛と咲く
 // https://annict.com/works/14001
@@ -63576,7 +63576,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: あかね噺
 // https://annict.com/works/16424
-{"annict_id":16424,"mal_id":62164}
+{"annict_id":16424,"mal_id":62164,"syobocal_tid":7750}
 ,
 // [2025-AUTUMN] TV: JOCHUM シーズン2
 // https://annict.com/works/16425
@@ -64812,7 +64812,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: ただいま、おじゃまされます！
 // https://annict.com/works/16737
-{"annict_id":16737,"mal_id":63014}
+{"annict_id":16737,"mal_id":63014,"syobocal_tid":7752}
 ,
 // [null-null] TV: ガールクラッシュ
 // https://annict.com/works/16738
