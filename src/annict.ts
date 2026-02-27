@@ -49962,7 +49962,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/13009
 {"annict_id":13009,"mal_id":58879}
 ,
-// [2026-null] TV: さよならララ
+// [2026-SUMMER] TV: さよならララ
 // https://annict.com/works/13010
 {"annict_id":13010,"mal_id":58878}
 ,
