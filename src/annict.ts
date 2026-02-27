@@ -66482,4 +66482,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17155
 {"annict_id":17155}
 ,
+// [2026-SPRING] WEB: だんでらいおん
+// https://annict.com/works/17156
+{"annict_id":17156}
+,
 ]
