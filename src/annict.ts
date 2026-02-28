@@ -66490,4 +66490,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17157
 {"annict_id":17157,"mal_id":63567}
 ,
+// [null-null] TV: 税金で買った本
+// https://annict.com/works/17158
+{"annict_id":17158,"mal_id":63573}
+,
 ]
