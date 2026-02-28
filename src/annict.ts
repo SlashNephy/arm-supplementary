@@ -49912,7 +49912,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: ダイヤのA actⅡ -Second Season-
 // https://annict.com/works/12997
-{"annict_id":12997,"mal_id":58877}
+{"annict_id":12997,"mal_id":58877,"syobocal_tid":7754}
 ,
 // [1931-AUTUMN] MOVIE: クモとハエ
 // https://annict.com/works/12998
@@ -53300,7 +53300,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: ようこそ実力至上主義の教室へ 4th Season 2年生編1学期
 // https://annict.com/works/13846
-{"annict_id":13846,"mal_id":59708}
+{"annict_id":13846,"mal_id":59708,"syobocal_tid":7753}
 ,
 // [2024-AUTUMN] MOVIE: 映画イナズマイレブン総集編 伝説のキックオフ
 // https://annict.com/works/13847
@@ -64532,7 +64532,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: ゴーストコンサート : missing Songs
 // https://annict.com/works/16666
-{"annict_id":16666,"mal_id":62852}
+{"annict_id":16666,"mal_id":62852,"syobocal_tid":7755}
 ,
 // [2025-AUTUMN] WEB: あたしンちNEXT 新作エピソード
 // https://annict.com/works/16667
@@ -66156,7 +66156,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: 日本三國
 // https://annict.com/works/17074
-{"annict_id":17074,"mal_id":63375}
+{"annict_id":17074,"mal_id":63375,"syobocal_tid":7756}
 ,
 // [2026-SPRING] TV: 女神「異世界転生何になりたいですか」俺「勇者の肋骨で」
 // https://annict.com/works/17075
