@@ -55118,7 +55118,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/14304
 {"annict_id":14304,"mal_id":60146,"syobocal_tid":7403}
 ,
-// [2026-SPRING] TV: リラックマ
+// [2026-SPRING] TV: リラックマ ～ごゆるり夢の旅～
 // https://annict.com/works/14305
 {"annict_id":14305,"mal_id":60153}
 ,
@@ -66442,7 +66442,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17145
 {"annict_id":17145}
 ,
-// [2026-SPRING] OVA: アンドロイドは経験人数に入りますか？？ OVA
+// [2026-SPRING] OVA: アンドロイドは経験人数に入りますか？？ 第9話「5日間続けて……？」
 // https://annict.com/works/17146
 {"annict_id":17146,"mal_id":63330}
 ,
