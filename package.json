@@ -38,7 +38,7 @@
     "@slashnephy/eslint-config": "3.0.229",
     "@types/mdast": "4.0.4",
     "@types/node": "25.3.0",
-    "eslint": "9.39.3",
+    "eslint": "10.0.2",
     "graphql": "16.13.0",
     "typescript": "5.9.3"
   },
