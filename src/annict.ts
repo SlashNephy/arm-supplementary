@@ -66494,4 +66494,24 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17158
 {"annict_id":17158,"mal_id":63573}
 ,
+// [2020-AUTUMN] WEB: プラグの抜けたダグ
+// https://annict.com/works/17159
+{"annict_id":17159}
+,
+// [2020-AUTUMN] WEB: パンダのシズカ
+// https://annict.com/works/17160
+{"annict_id":17160}
+,
+// [2020-AUTUMN] WEB: リベレーター: 勝利へ、地獄の行軍500日
+// https://annict.com/works/17161
+{"annict_id":17161}
+,
+// [2020-AUTUMN] WEB: バッド・エクソシスト
+// https://annict.com/works/17162
+{"annict_id":17162}
+,
+// [2020-AUTUMN] WEB: ハンクとトラッシュトラック
+// https://annict.com/works/17163
+{"annict_id":17163}
+,
 ]
