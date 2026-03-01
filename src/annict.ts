@@ -61398,7 +61398,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15877
 {"annict_id":15877,"mal_id":6671}
 ,
-// [2026-WINTER] WEB: スティール・ボール・ラン ジョジョの奇妙な冒険
+// [2026-WINTER] WEB: スティール・ボール・ラン ジョジョの奇妙な冒険 1st STAGE
 // https://annict.com/works/15878
 {"annict_id":15878,"mal_id":61469}
 ,
