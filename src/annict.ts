@@ -61062,7 +61062,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15792
 {"annict_id":15792,"mal_id":61322,"syobocal_tid":7494}
 ,
-// [null-null] OTHER: 「BanG Dream! It's MyGO!!!!! / BanG Dream! Ave Mujica」アニメ続編シリーズ
+// [2027-WINTER] TV: 「BanG Dream! It's MyGO!!!!! / BanG Dream! Ave Mujica」アニメ続編シリーズ
 // https://annict.com/works/15793
 {"annict_id":15793,"mal_id":61324}
 ,
