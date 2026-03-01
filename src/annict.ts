@@ -56374,7 +56374,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/14619
 {"annict_id":14619,"mal_id":1345}
 ,
-// [null-null] TV: ゆるキャン△ SEASON４
+// [2027-null] TV: ゆるキャン△ SEASON４
 // https://annict.com/works/14620
 {"annict_id":14620,"mal_id":60267}
 ,
