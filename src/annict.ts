@@ -66514,4 +66514,16 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17163
 {"annict_id":17163}
 ,
+// [2021-WINTER] WEB: それいけ、わんちゃん!
+// https://annict.com/works/17164
+{"annict_id":17164}
+,
+// [2021-WINTER] WEB: スティーブン・ユニバース・フューチャー
+// https://annict.com/works/17165
+{"annict_id":17165}
+,
+// [2021-WINTER] WEB: オバケの町
+// https://annict.com/works/17166
+{"annict_id":17166}
+,
 ]
