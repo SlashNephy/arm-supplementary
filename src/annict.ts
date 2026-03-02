@@ -66534,4 +66534,16 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17168
 {"annict_id":17168}
 ,
+// [2025-SUMMER] WEB: ヘルヴァ・ボス ミッション：ゼロ
+// https://annict.com/works/17169
+{"annict_id":17169}
+,
+// [2025-SUMMER] WEB: ヘルヴァ・ボス
+// https://annict.com/works/17170
+{"annict_id":17170}
+,
+// [2025-SUMMER] WEB: ヘルヴァ・ボス シーズン2
+// https://annict.com/works/17171
+{"annict_id":17171}
+,
 ]
