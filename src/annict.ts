@@ -42732,7 +42732,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: クラスで2番目に可愛い女の子と友だちになった
 // https://annict.com/works/11194
-{"annict_id":11194,"mal_id":56734}
+{"annict_id":11194,"mal_id":56734,"syobocal_tid":7761}
 ,
 // [null-null] OTHER: 最強出涸らし皇子の暗躍帝位争い
 // https://annict.com/works/11195
@@ -52808,7 +52808,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: ニワトリ・ファイター
 // https://annict.com/works/13722
-{"annict_id":13722,"mal_id":59393}
+{"annict_id":13722,"mal_id":59393,"syobocal_tid":7762}
 ,
 // [2025-SUMMER] TV: カッコウの許嫁 Season2
 // https://annict.com/works/13723
@@ -61348,7 +61348,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: ポンコツ風紀委員とスカート丈が不適切なJKの話
 // https://annict.com/works/15865
-{"annict_id":15865,"mal_id":61425}
+{"annict_id":15865,"mal_id":61425,"syobocal_tid":7763}
 ,
 // [1994-SPRING] TV: スラムダンク 決意の湘北バスケ部
 // https://annict.com/works/15866
@@ -63240,7 +63240,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: 神の庭付き楠木邸
 // https://annict.com/works/16340
-{"annict_id":16340,"mal_id":62050}
+{"annict_id":16340,"mal_id":62050,"syobocal_tid":7764}
 ,
 // [2015-SUMMER] TV: 団地ともお スペシャル ～夏休みの宿題は終わったのかよ？ともお～
 // https://annict.com/works/16341
