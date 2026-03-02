@@ -66530,4 +66530,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17167
 {"annict_id":17167,"mal_id":31507}
 ,
+// [2026-AUTUMN] TV: ポップパップポルターズ
+// https://annict.com/works/17168
+{"annict_id":17168}
+,
 ]
