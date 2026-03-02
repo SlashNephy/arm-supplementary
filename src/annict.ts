@@ -66546,4 +66546,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17171
 {"annict_id":17171}
 ,
+// [2026-WINTER] WEB: ギャビーのドールハウス シーズン13
+// https://annict.com/works/17172
+{"annict_id":17172}
+,
 ]
