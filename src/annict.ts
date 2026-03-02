@@ -66526,4 +66526,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17166
 {"annict_id":17166}
 ,
+// [2008-SPRING] WEB: 蟻人間物語　future man
+// https://annict.com/works/17167
+{"annict_id":17167,"mal_id":31507}
+,
 ]
