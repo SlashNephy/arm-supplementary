@@ -57506,7 +57506,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/14902
 {"annict_id":14902,"mal_id":60510}
 ,
-// [2026-null] TV: 魔法少女育成計画 restart
+// [2026-AUTUMN] TV: 魔法少女育成計画 restart
 // https://annict.com/works/14903
 {"annict_id":14903,"mal_id":54344}
 ,
