@@ -66550,4 +66550,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17172
 {"annict_id":17172}
 ,
+// [2011-AUTUMN] MOVIE: ランゴ おしゃべりカメレオンの不思議な冒険
+// https://annict.com/works/17173
+{"annict_id":17173}
+,
+// [2018-SUMMER] OVA: 名探偵シャーロック･ノームズ
+// https://annict.com/works/17174
+{"annict_id":17174}
+,
 ]
