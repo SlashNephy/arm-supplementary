@@ -66574,4 +66574,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17178
 {"annict_id":17178}
 ,
+// [2021-SUMMER] TV: おかしなガムボール:とっておきのガムボール
+// https://annict.com/works/17179
+{"annict_id":17179}
+,
 ]
