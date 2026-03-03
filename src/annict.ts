@@ -64508,7 +64508,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: 最強の職業は勇者でも賢者でもなく鑑定士（仮）らしいですよ？
 // https://annict.com/works/16660
-{"annict_id":16660,"mal_id":62825}
+{"annict_id":16660,"mal_id":62825,"syobocal_tid":7766}
 ,
 // [2015-SUMMER] WEB: MILPOM★
 // https://annict.com/works/16661
