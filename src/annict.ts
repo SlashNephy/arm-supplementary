@@ -60952,7 +60952,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2020-AUTUMN] WEB: TAMAYA CM 「託された想い篇」
 // https://annict.com/works/15765
-{"annict_id":15765,"mal_id":50349}
+{"annict_id":15765,"mal_id":44063}
 ,
 // [2021-WINTER] WEB: dアニメストアCM「キミの好きに出会おう（告白）」篇
 // https://annict.com/works/15766
@@ -66577,5 +66577,9 @@ export const annict: ArmEntry[] = [
 // [2021-SUMMER] TV: おかしなガムボール:とっておきのガムボール
 // https://annict.com/works/17179
 {"annict_id":17179}
+,
+// [2026-AUTUMN] MOVIE: 映画 ひつじのショーン かぼちゃ畑の怪物！
+// https://annict.com/works/17180
+{"annict_id":17180}
 ,
 ]
