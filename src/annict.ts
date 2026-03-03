@@ -66558,4 +66558,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17174
 {"annict_id":17174}
 ,
+// [2026-WINTER] WEB: Welcome to Sucre Town ~The Cinnamoroll Friends’ Happy Discovery~
+// https://annict.com/works/17175
+{"annict_id":17175}
+,
 ]
