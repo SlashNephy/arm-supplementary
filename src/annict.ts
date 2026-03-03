@@ -66562,4 +66562,16 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17175
 {"annict_id":17175}
 ,
+// [2006-SPRING] TV: ポンポン ポロロ
+// https://annict.com/works/17176
+{"annict_id":17176,"mal_id":6523}
+,
+// [2021-SPRING] TV: ロングのゆかいなレストラン
+// https://annict.com/works/17177
+{"annict_id":17177,"mal_id":48192}
+,
+// [2021-SUMMER] TV: ルーニー・テューンズ・カートゥーンズ
+// https://annict.com/works/17178
+{"annict_id":17178}
+,
 ]
