@@ -64294,7 +64294,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16605
 {"annict_id":16605}
 ,
-// [2026-SPRING] TV: ここは俺に任せて先に行けと言ってから10年がたったら伝説になっていた。
+// [2026-SUMMER] TV: ここは俺に任せて先に行けと言ってから10年がたったら伝説になっていた。
 // https://annict.com/works/16606
 {"annict_id":16606,"mal_id":62617}
 ,
@@ -66612,10 +66612,10 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] TV: 骨ドラゴンのマナ娘
 // https://annict.com/works/17188
-{"annict_id":17188}
+{"annict_id":17188,"mal_id":63601}
 ,
 // [null-null] TV: 菌と鉄
 // https://annict.com/works/17189
-{"annict_id":17189}
+{"annict_id":17189,"mal_id":63600}
 ,
 ]
