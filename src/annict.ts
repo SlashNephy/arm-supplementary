@@ -65150,7 +65150,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16821
 {"annict_id":16821}
 ,
-// [2026-null] TV: 令和のダラさん
+// [2026-SUMMER] TV: 令和のダラさん
 // https://annict.com/works/16822
 {"annict_id":16822,"mal_id":63082}
 ,
@@ -66609,5 +66609,9 @@ export const annict: ArmEntry[] = [
 // [2021-SUMMER] WEB: ド レ ミ♪ 〜みんなでうたおう〜
 // https://annict.com/works/17187
 {"annict_id":17187}
+,
+// [null-null] TV: 骨ドラゴンのマナ娘
+// https://annict.com/works/17188
+{"annict_id":17188}
 ,
 ]
