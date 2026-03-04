@@ -33810,7 +33810,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/8860
 {"annict_id":8860}
 ,
-// [2021-SUMMER] WEB: ダイアン姉さんは今日もイケイケ
+// [2021-SUMMER] WEB: ダイアンねえさんは今日もイケイケ
 // https://annict.com/works/8861
 {"annict_id":8861}
 ,
@@ -66581,5 +66581,29 @@ export const annict: ArmEntry[] = [
 // [2026-AUTUMN] MOVIE: 映画 ひつじのショーン かぼちゃ畑の怪物！
 // https://annict.com/works/17180
 {"annict_id":17180}
+,
+// [2021-SUMMER] WEB: マスターズ・オブ・ユニバース: 黙示録
+// https://annict.com/works/17181
+{"annict_id":17181}
+,
+// [2021-SUMMER] WEB: ヒーマンとマスターズ・オブ・ユニバース
+// https://annict.com/works/17182
+{"annict_id":17182}
+,
+// [2021-SUMMER] WEB: リドリー・ジョーンズの冒険
+// https://annict.com/works/17183
+{"annict_id":17183}
+,
+// [2021-SUMMER] WEB: シャークドッグ
+// https://annict.com/works/17184
+{"annict_id":17184}
+,
+// [2021-SUMMER] WEB: オギー・オギー
+// https://annict.com/works/17185
+{"annict_id":17185}
+,
+// [2021-SUMMER] WEB: 大好きHeartアーロ
+// https://annict.com/works/17186
+{"annict_id":17186}
 ,
 ]
