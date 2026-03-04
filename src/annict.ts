@@ -66606,4 +66606,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17186
 {"annict_id":17186}
 ,
+// [2021-SUMMER] WEB: ド レ ミ♪ 〜みんなでうたおう〜
+// https://annict.com/works/17187
+{"annict_id":17187}
+,
 ]
