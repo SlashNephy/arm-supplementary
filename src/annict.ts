@@ -66614,4 +66614,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17188
 {"annict_id":17188}
 ,
+// [null-null] TV: 菌と鉄
+// https://annict.com/works/17189
+{"annict_id":17189}
+,
 ]
