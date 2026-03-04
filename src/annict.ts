@@ -26142,7 +26142,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/6616
 {"annict_id":6616,"mal_id":38390,"syobocal_tid":5441}
 ,
-// [2021-WINTER] TV: 転生したらスライムだった件 第2期 第1部
+// [2021-WINTER] TV: 転生したらスライムだった件 第2期
 // https://annict.com/works/6617
 {"annict_id":6617,"mal_id":39551,"syobocal_tid":5844}
 ,
