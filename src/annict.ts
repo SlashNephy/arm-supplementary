@@ -53052,7 +53052,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: ガンバレ！中村くん！！
 // https://annict.com/works/13783
-{"annict_id":13783,"mal_id":59551}
+{"annict_id":13783,"mal_id":59551,"syobocal_tid":7769}
 ,
 // [2025-WINTER] TV: アラフォー男の異世界通販
 // https://annict.com/works/13784
@@ -61380,7 +61380,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: 春夏秋冬代行者 春の舞
 // https://annict.com/works/15873
-{"annict_id":15873,"mal_id":61443}
+{"annict_id":15873,"mal_id":61443,"syobocal_tid":7768}
 ,
 // [2026-null] WEB: Devil May Cry シーズン2
 // https://annict.com/works/15874
