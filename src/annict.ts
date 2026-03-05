@@ -60050,7 +60050,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15539
 {"annict_id":15539}
 ,
-// [null-null] MOVIE: 劇場版 ご注文はうさぎですか？
+// [null-null] MOVIE: 劇場版 ご注文はうさぎですか？ ～We Are Family!～
 // https://annict.com/works/15540
 {"annict_id":15540,"mal_id":61115}
 ,
