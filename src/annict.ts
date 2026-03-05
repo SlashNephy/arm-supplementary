@@ -56772,7 +56772,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: 魔入りました！入間くん 第4シリーズ
 // https://annict.com/works/14719
-{"annict_id":14719,"mal_id":60310}
+{"annict_id":14719,"mal_id":60310,"syobocal_tid":7770}
 ,
 // [1951-SUMMER] MOVIE: わが心にかくも愛しき
 // https://annict.com/works/14720
@@ -57304,7 +57304,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: よわよわ先生
 // https://annict.com/works/14852
-{"annict_id":14852,"mal_id":60444}
+{"annict_id":14852,"mal_id":60444,"syobocal_tid":7771}
 ,
 // [2025-SPRING] TV: 機動戦士Gundam GQuuuuuuX
 // https://annict.com/works/14853
@@ -63228,7 +63228,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: MAO
 // https://annict.com/works/16337
-{"annict_id":16337,"mal_id":62048}
+{"annict_id":16337,"mal_id":62048,"syobocal_tid":7772}
 ,
 // [2025-AUTUMN] TV: モンスターストライク デッドバースリローデッド
 // https://annict.com/works/16338
@@ -64200,7 +64200,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: Dr.STONE SCIENCE FUTURE 第3クール
 // https://annict.com/works/16581
-{"annict_id":16581,"mal_id":62568}
+{"annict_id":16581,"mal_id":62568,"syobocal_tid":7774}
 ,
 // [2025-AUTUMN] WEB: ギャビーのドールハウス シーズン12
 // https://annict.com/works/16582
@@ -64260,7 +64260,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: マリッジトキシン
 // https://annict.com/works/16596
-{"annict_id":16596,"mal_id":62601}
+{"annict_id":16596,"mal_id":62601,"syobocal_tid":7773}
 ,
 // [2026-SPRING] TV: オタクに優しいギャルはいない!?
 // https://annict.com/works/16598
@@ -64704,7 +64704,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: 左ききのエレン
 // https://annict.com/works/16710
-{"annict_id":16710,"mal_id":53732}
+{"annict_id":16710,"mal_id":53732,"syobocal_tid":7775}
 ,
 // [2026-SPRING] TV: 小３アシベ QQゴマちゃん
 // https://annict.com/works/16711
@@ -64780,7 +64780,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: 神の雫
 // https://annict.com/works/16729
-{"annict_id":16729,"mal_id":62981}
+{"annict_id":16729,"mal_id":62981,"syobocal_tid":7776}
 ,
 // [2026-SPRING] TV: 茉莉花ちゃんの好感度はぶっ壊れている
 // https://annict.com/works/16730
@@ -66621,5 +66621,9 @@ export const annict: ArmEntry[] = [
 // [2026-SUMMER] MOVIE: しらぬひ
 // https://annict.com/works/17190
 {"annict_id":17190}
+,
+// [2026-WINTER] TV: 劇場版 ポロロ コンピュータ王国大冒険 日本語版
+// https://annict.com/works/17191
+{"annict_id":17191}
 ,
 ]
