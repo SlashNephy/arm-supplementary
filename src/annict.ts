@@ -66626,4 +66626,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17191
 {"annict_id":17191,"mal_id":48240}
 ,
+// [2026-null] TV: 同じゼミの染谷さんがセクシー女優だった話。
+// https://annict.com/works/17192
+{"annict_id":17192}
+,
 ]
