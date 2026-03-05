@@ -60186,7 +60186,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15573
 {"annict_id":15573,"mal_id":61139}
 ,
-// [2026-null] OTHER: 幻想水滸伝
+// [2026-AUTUMN] TV: 幻想水滸伝
 // https://annict.com/works/15574
 {"annict_id":15574,"mal_id":61140}
 ,
