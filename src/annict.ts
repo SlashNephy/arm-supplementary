@@ -53466,7 +53466,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/13888
 {"annict_id":13888}
 ,
-// [2026-null] TV: 追放された転生重騎士はゲーム知識で無双する
+// [2026-SUMMER] TV: 追放された転生重騎士はゲーム知識で無双する
 // https://annict.com/works/13889
 {"annict_id":13889,"mal_id":59741}
 ,
