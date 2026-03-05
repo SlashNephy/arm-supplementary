@@ -66624,6 +66624,6 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] TV: 劇場版 ポロロ コンピュータ王国大冒険 日本語版
 // https://annict.com/works/17191
-{"annict_id":17191}
+{"annict_id":17191,"mal_id":48240}
 ,
 ]
