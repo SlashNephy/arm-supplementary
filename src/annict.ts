@@ -66618,4 +66618,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17189
 {"annict_id":17189,"mal_id":63600}
 ,
+// [2026-SUMMER] MOVIE: しらぬひ
+// https://annict.com/works/17190
+{"annict_id":17190}
+,
 ]
