@@ -64266,7 +64266,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16598
 {"annict_id":16598,"mal_id":62604,"syobocal_tid":7743}
 ,
-// [null-null] TV: 茉莉花官吏伝
+// [2027-WINTER] TV: 茉莉花官吏伝
 // https://annict.com/works/16599
 {"annict_id":16599,"mal_id":62605}
 ,
