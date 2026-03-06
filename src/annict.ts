@@ -60720,7 +60720,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2025-AUTUMN] WEB: 終末のワルキューレⅢ
 // https://annict.com/works/15707
-{"annict_id":15707,"mal_id":61200}
+{"annict_id":15707,"mal_id":61200,"syobocal_tid":7778}
 ,
 // [2025-AUTUMN] TV: 顔に出ない柏田さんと顔に出る太田君
 // https://annict.com/works/15708
@@ -63908,7 +63908,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: キルアオ
 // https://annict.com/works/16507
-{"annict_id":16507,"mal_id":62391}
+{"annict_id":16507,"mal_id":62391,"syobocal_tid":7779}
 ,
 // [2025-SUMMER] WEB: MyGO!!!!!×推し旅 コラボミニアニメ
 // https://annict.com/works/16508
@@ -66637,5 +66637,9 @@ export const annict: ArmEntry[] = [
 // [2027-null] TV: ブレス
 // https://annict.com/works/17194
 {"annict_id":17194}
+,
+// [2026-SPRING] TV: デザート キャッチ！ティニピン
+// https://annict.com/works/17195
+{"annict_id":17195}
 ,
 ]
