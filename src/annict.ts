@@ -64246,7 +64246,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16592
 {"annict_id":16592}
 ,
-// [null-null] TV: ホテル・インヒューマンズ 第2期
+// [2026-AUTUMN] TV: ホテル・インヒューマンズ 第2期
 // https://annict.com/works/16593
 {"annict_id":16593,"mal_id":62590}
 ,
@@ -65378,7 +65378,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16879
 {"annict_id":16879}
 ,
-// [2026-SPRING] WEB: おでかけ子ザメ シーズン2
+// [2026-SPRING] TV: おでかけ子ザメ シーズン2
 // https://annict.com/works/16880
 {"annict_id":16880,"mal_id":63125}
 ,
@@ -66020,7 +66020,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: インゴクダンチ
 // https://annict.com/works/17040
-{"annict_id":17040,"mal_id":63310}
+{"annict_id":17040,"mal_id":63310,"syobocal_tid":7777}
 ,
 // [2026-WINTER] WEB: お姉ちゃんごっこ
 // https://annict.com/works/17041
@@ -66636,7 +66636,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2027-null] TV: ブレス
 // https://annict.com/works/17194
-{"annict_id":17194}
+{"annict_id":17194,"mal_id":63640}
 ,
 // [2026-SPRING] TV: デザート キャッチ！ティニピン
 // https://annict.com/works/17195
