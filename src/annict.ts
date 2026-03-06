@@ -66628,10 +66628,14 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-null] TV: 同じゼミの染谷さんがセクシー女優だった話。
 // https://annict.com/works/17192
-{"annict_id":17192}
+{"annict_id":17192,"mal_id":63619}
 ,
 // [2026-SPRING] MOVIE: 傘少女
 // https://annict.com/works/17193
 {"annict_id":17193,"mal_id":59236}
+,
+// [2027-null] TV: ブレス
+// https://annict.com/works/17194
+{"annict_id":17194}
 ,
 ]
