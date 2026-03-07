@@ -66650,4 +66650,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17197
 {"annict_id":17197,"mal_id":61316,"syobocal_tid":7780}
 ,
+// [2026-WINTER] OTHER: 『エヴァンゲリオン放送30周年記念特別興行』短編アニメーション
+// https://annict.com/works/17198
+{"annict_id":17198}
+,
 ]
