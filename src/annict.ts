@@ -61040,7 +61040,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: Re:ゼロから始める異世界生活 4th season
 // https://annict.com/works/15787
-{"annict_id":15787,"mal_id":61316}
+{"annict_id":15787,"mal_id":61316,"syobocal_tid":7780}
 ,
 // [2025-SPRING] WEB: 葬送のフリーレン 〜●●の魔法〜 (第12回～)
 // https://annict.com/works/15788
