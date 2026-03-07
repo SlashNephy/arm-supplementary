@@ -61038,7 +61038,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15786
 {"annict_id":15786}
 ,
-// [2026-SPRING] TV: Re:ゼロから始める異世界生活 4th season
+// [2026-SPRING] TV: Re:ゼロから始める異世界生活 4th season 喪失編
 // https://annict.com/works/15787
 {"annict_id":15787,"mal_id":61316,"syobocal_tid":7780}
 ,
@@ -66645,5 +66645,9 @@ export const annict: ArmEntry[] = [
 // [2026-SUMMER] TV: プラノサウルス ガチコセイブツ部
 // https://annict.com/works/17196
 {"annict_id":17196,"mal_id":63641}
+,
+// [2026-SUMMER] TV: Re:ゼロから始める異世界生活 4th season 奪還編
+// https://annict.com/works/17197
+{"annict_id":17197,"mal_id":61316,"syobocal_tid":7780}
 ,
 ]
