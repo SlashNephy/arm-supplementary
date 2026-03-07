@@ -66642,4 +66642,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17195
 {"annict_id":17195}
 ,
+// [2026-SUMMER] TV: プラノサウルス ガチコセイブツ部
+// https://annict.com/works/17196
+{"annict_id":17196,"mal_id":63641}
+,
 ]
