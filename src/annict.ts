@@ -65382,7 +65382,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16880
 {"annict_id":16880,"mal_id":63125}
 ,
-// [2026-WINTER] OTHER: エヴァンゲリオン放送30周年記念特別興行
+// [2026-WINTER] OTHER: 『エヴァンゲリオン放送30周年記念特別興行』短編アニメーション
 // https://annict.com/works/16881
 {"annict_id":16881,"mal_id":63392}
 ,
@@ -66649,5 +66649,25 @@ export const annict: ArmEntry[] = [
 // [2026-SUMMER] TV: Re:ゼロから始める異世界生活 4th season 奪還編
 // https://annict.com/works/17197
 {"annict_id":17197,"mal_id":61316,"syobocal_tid":7780}
+,
+// [2021-AUTUMN] TV: トムとジェリー ショート
+// https://annict.com/works/17199
+{"annict_id":17199}
+,
+// [2021-AUTUMN] TV: トムとジェリー in ニューヨーク
+// https://annict.com/works/17200
+{"annict_id":17200}
+,
+// [2021-AUTUMN] WEB: オーティスといっしょ
+// https://annict.com/works/17201
+{"annict_id":17201}
+,
+// [2021-AUTUMN] WEB: ハリエットはスパイ
+// https://annict.com/works/17202
+{"annict_id":17202}
+,
+// [2018-null] OTHER: トキノ交差
+// https://annict.com/works/17203
+{"annict_id":17203}
 ,
 ]
