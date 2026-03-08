@@ -54196,7 +54196,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: 杖と剣のウィストリア Season2
 // https://annict.com/works/14074
-{"annict_id":14074,"mal_id":59983}
+{"annict_id":14074,"mal_id":59983,"syobocal_tid":7781}
 ,
 // [2026-WINTER] MOVIE: 劇場版 僕の心のヤバイやつ
 // https://annict.com/works/14075
@@ -54416,7 +54416,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: 夜桜さんちの大作戦 第2期
 // https://annict.com/works/14129
-{"annict_id":14129,"mal_id":60055}
+{"annict_id":14129,"mal_id":60055,"syobocal_tid":7783}
 ,
 // [2026-WINTER] TV: 【推しの子】第3期
 // https://annict.com/works/14130
@@ -66084,7 +66084,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: おねがいアイプリ
 // https://annict.com/works/17056
-{"annict_id":17056}
+{"annict_id":17056,"mal_id":63352,"syobocal_tid":7782}
 ,
 // [2026-SUMMER] TV: ワールド イズ ダンシング
 // https://annict.com/works/17057
