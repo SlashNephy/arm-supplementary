@@ -66668,6 +66668,10 @@ export const annict: ArmEntry[] = [
 ,
 // [2018-null] OTHER: トキノ交差
 // https://annict.com/works/17203
-{"annict_id":17203}
+{"annict_id":17203,"mal_id":37784}
+,
+// [2023-AUTUMN] WEB: こめかみっ！ガールズ パイロットアニメ「いきなりおいなり勝負」
+// https://annict.com/works/17204
+{"annict_id":17204}
 ,
 ]
