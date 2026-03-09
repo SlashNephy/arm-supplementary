@@ -62340,7 +62340,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2022-WINTER] WEB: ディア・スクワッド
 // https://annict.com/works/16113
-{"annict_id":16113}
+{"annict_id":16113,"mal_id":47475}
 ,
 // [2022-SPRING] WEB: やんちゃなポニー
 // https://annict.com/works/16114
@@ -66673,5 +66673,17 @@ export const annict: ArmEntry[] = [
 // [2023-AUTUMN] WEB: こめかみっ！ガールズ パイロットアニメ「いきなりおいなり勝負」
 // https://annict.com/works/17204
 {"annict_id":17204}
+,
+// [2021-AUTUMN] WEB: グリムの国のおそろし物語
+// https://annict.com/works/17205
+{"annict_id":17205}
+,
+// [2021-AUTUMN] WEB: フェアファクス ～目指せ！ インフルエンサー～
+// https://annict.com/works/17206
+{"annict_id":17206}
+,
+// [2021-AUTUMN] TV: ノディ おもちゃの国のめいたんてい
+// https://annict.com/works/17207
+{"annict_id":17207}
 ,
 ]
