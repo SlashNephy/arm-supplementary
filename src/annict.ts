@@ -64206,7 +64206,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16582
 {"annict_id":16582}
 ,
-// [2026-SPRING] TV: こめかみっ！ガールズ
+// [2026-SPRING] TV: こめかみっ！ Girl’s
 // https://annict.com/works/16583
 {"annict_id":16583}
 ,
