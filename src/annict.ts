@@ -66690,4 +66690,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17208
 {"annict_id":17208}
 ,
+// [2026-WINTER] WEB: ムゲン∞アニメ
+// https://annict.com/works/17209
+{"annict_id":17209}
+,
 ]
