@@ -66686,4 +66686,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17207
 {"annict_id":17207}
 ,
+// [2003-AUTUMN] TV: ヘビーギア
+// https://annict.com/works/17208
+{"annict_id":17208}
+,
 ]
