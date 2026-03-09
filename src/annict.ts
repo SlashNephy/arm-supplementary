@@ -52068,7 +52068,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: 魔法の姉妹ルルットリリィ
 // https://annict.com/works/13537
-{"annict_id":13537,"mal_id":59176}
+{"annict_id":13537,"mal_id":59176,"syobocal_tid":7786}
 ,
 // [1923-AUTUMN] OTHER: アリスの不思議の国
 // https://annict.com/works/13538
@@ -63128,7 +63128,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: 一畳間まんきつ暮らし！
 // https://annict.com/works/16311
-{"annict_id":16311,"mal_id":62018}
+{"annict_id":16311,"mal_id":62018,"syobocal_tid":7784}
 ,
 // [2025-SUMMER] TV: ちいかわ 新シリーズ
 // https://annict.com/works/16312
@@ -63584,7 +63584,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: 黒猫と魔女の教室
 // https://annict.com/works/16426
-{"annict_id":16426,"mal_id":62171}
+{"annict_id":16426,"mal_id":62171,"syobocal_tid":7785}
 ,
 // [2026-WINTER] TV: ほっぺちゃん ～サン王国と黒ほっぺ団の秘密～
 // https://annict.com/works/16427
