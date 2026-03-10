@@ -63828,7 +63828,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: メイドさんは食べるだけ
 // https://annict.com/works/16487
-{"annict_id":16487,"mal_id":62342}
+{"annict_id":16487,"mal_id":62342,"syobocal_tid":7792}
 ,
 // [1995-AUTUMN] OVA: 愛天使伝説ウェディングピーチ 映像特典
 // https://annict.com/works/16488
