@@ -37,7 +37,7 @@
     "@graphql-typed-document-node/core": "3.2.0",
     "@slashnephy/eslint-config": "3.0.250",
     "@types/mdast": "4.0.4",
-    "@types/node": "25.3.3",
+    "@types/node": "25.3.5",
     "eslint": "9.39.3",
     "graphql": "16.13.1",
     "typescript": "5.9.3"
