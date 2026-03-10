@@ -66718,4 +66718,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17215
 {"annict_id":17215}
 ,
+// [2022-SUMMER] WEB: Barbie: Mermaid Power
+// https://annict.com/works/17216
+{"annict_id":17216}
+,
+// [2026-SPRING] MOVIE: トムとジェリー 時をこえる魔法の羅針盤
+// https://annict.com/works/17217
+{"annict_id":17217}
+,
 ]
