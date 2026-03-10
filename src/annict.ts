@@ -66694,4 +66694,16 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17209
 {"annict_id":17209}
 ,
+// [2022-WINTER] WEB: エル・デフォ
+// https://annict.com/works/17210
+{"annict_id":17210}
+,
+// [2022-WINTER] WEB: プレッツェルとこいぬたち
+// https://annict.com/works/17211
+{"annict_id":17211}
+,
+// [2022-WINTER] WEB: アクション・パック
+// https://annict.com/works/17212
+{"annict_id":17212}
+,
 ]
