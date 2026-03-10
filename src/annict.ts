@@ -66706,4 +66706,16 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17212
 {"annict_id":17212}
 ,
+// [2022-WINTER] WEB: Barbie: It Takes Two
+// https://annict.com/works/17213
+{"annict_id":17213}
+,
+// [2022-WINTER] WEB: チーム ゼンコー ゴー
+// https://annict.com/works/17214
+{"annict_id":17214}
+,
+// [2022-WINTER] WEB: プリンセス・パワー
+// https://annict.com/works/17215
+{"annict_id":17215}
+,
 ]
