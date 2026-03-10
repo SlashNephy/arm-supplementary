@@ -54164,7 +54164,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: 転生したらスライムだった件 第4期
 // https://annict.com/works/14066
-{"annict_id":14066,"mal_id":59970}
+{"annict_id":14066,"mal_id":59970,"syobocal_tid":7787}
 ,
 // [1981-null] MOVIE: りゅうの目のなみだ
 // https://annict.com/works/14067
@@ -64596,7 +64596,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: 逃がした魚は大きかったが釣りあげた魚が大きすぎた件
 // https://annict.com/works/16682
-{"annict_id":16682,"mal_id":62893}
+{"annict_id":16682,"mal_id":62893,"syobocal_tid":7789}
 ,
 // [2025-AUTUMN] TV: そろ谷のけいばっち シーズン3
 // https://annict.com/works/16683
@@ -64656,7 +64656,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: クジマ歌えば家ほろろ
 // https://annict.com/works/16697
-{"annict_id":16697,"mal_id":58832}
+{"annict_id":16697,"mal_id":58832,"syobocal_tid":7790}
 ,
 // [2008-null] OVA: なみだのそつえんスペシャル　ありがとうばあば
 // https://annict.com/works/16698
