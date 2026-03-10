@@ -66726,4 +66726,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17217
 {"annict_id":17217}
 ,
+// [null-null] TV: Ｊ⇔Ｍ ジェイエム
+// https://annict.com/works/17218
+{"annict_id":17218,"mal_id":63697}
+,
 ]
