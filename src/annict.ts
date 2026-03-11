@@ -66768,7 +66768,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: ジャンケットバンク
 // https://annict.com/works/17228
-{"annict_id":17228}
+{"annict_id":17228,"mal_id":63713}
 ,
 // [2026-AUTUMN] TV: 転生ゴブリンだけど質問ある？
 // https://annict.com/works/17229
