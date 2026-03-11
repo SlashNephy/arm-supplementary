@@ -66774,4 +66774,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17229
 {"annict_id":17229,"mal_id":63712}
 ,
+// [2026-SPRING] MOVIE: チ。 ―地球の運動について― プラネタリウム版
+// https://annict.com/works/17230
+{"annict_id":17230}
+,
 ]
