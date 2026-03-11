@@ -45404,7 +45404,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: 本好きの下剋上 司書になるためには手段を選んでいられません 領主の養女
 // https://annict.com/works/11864
-{"annict_id":11864,"mal_id":57466}
+{"annict_id":11864,"mal_id":57466,"syobocal_tid":7794}
 ,
 // [1966-SUMMER] MOVIE: 長編漫画映画 ジャングル大帝
 // https://annict.com/works/11865
@@ -57914,7 +57914,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15004
 {"annict_id":15004,"syobocal_tid":7344}
 ,
-// [2025-null] TV: クマーバ シーズン3
+// [2026-SPRING] TV: クマーバ シーズン3
 // https://annict.com/works/15005
 {"annict_id":15005,"mal_id":63383}
 ,
@@ -62528,7 +62528,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: 愛してるゲームを終わらせたい
 // https://annict.com/works/16160
-{"annict_id":16160,"mal_id":61839}
+{"annict_id":16160,"mal_id":61839,"syobocal_tid":7793}
 ,
 // [2025-SUMMER] TV: 傷心タイムリープ
 // https://annict.com/works/16161
@@ -64688,7 +64688,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: NEEDY GIRL OVERDOSE
 // https://annict.com/works/16706
-{"annict_id":16706,"mal_id":62913}
+{"annict_id":16706,"mal_id":62913,"syobocal_tid":7795}
 ,
 // [2025-AUTUMN] WEB: 虫日和～人生で大事なことは全てムシが教えてくれた～
 // https://annict.com/works/16707
@@ -66438,7 +66438,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17144
 {"annict_id":17144,"mal_id":63536}
 ,
-// [2026-WINTER] WEB: 限界OL霧切ギリ子 ショートアニメ第2弾
+// [2026-WINTER] WEB: 限界OL霧切ギリ子 2期
 // https://annict.com/works/17145
 {"annict_id":17145}
 ,
