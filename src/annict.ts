@@ -66730,4 +66730,16 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17218
 {"annict_id":17218,"mal_id":63697}
 ,
+// [null-null] TV: ゲーム世界転生〈ダン活〉～ゲーマーは【ダンジョン就活のススメ】を〈はじめから〉プレイする～
+// https://annict.com/works/17219
+{"annict_id":17219,"mal_id":63706}
+,
+// [2022-SPRING] TV: ジェリーストーン!
+// https://annict.com/works/17220
+{"annict_id":17220}
+,
+// [2022-SPRING] TV: マッシュマッシュとなかまたち
+// https://annict.com/works/17221
+{"annict_id":17221}
+,
 ]
