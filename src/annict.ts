@@ -66742,4 +66742,24 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17221
 {"annict_id":17221}
 ,
+// [2022-SPRING] TV: アドベンチャー・タイム:遥か遠い世界で
+// https://annict.com/works/17222
+{"annict_id":17222}
+,
+// [2022-SPRING] WEB: パインコーン&ポニー
+// https://annict.com/works/17223
+{"annict_id":17223}
+,
+// [2022-SPRING] WEB: バトル・キティ
+// https://annict.com/works/17224
+{"annict_id":17224}
+,
+// [2022-SPRING] WEB: うみうみだいすき!
+// https://annict.com/works/17225
+{"annict_id":17225}
+,
+// [2022-SPRING] WEB: こちら、どうぶつたんていきょく
+// https://annict.com/works/17226
+{"annict_id":17226}
+,
 ]
