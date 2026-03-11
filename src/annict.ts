@@ -66762,4 +66762,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17226
 {"annict_id":17226}
 ,
+// [2011-WINTER] WEB: rain town
+// https://annict.com/works/17227
+{"annict_id":17227,"mal_id":10448}
+,
 ]
