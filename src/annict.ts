@@ -66724,7 +66724,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] MOVIE: トムとジェリー 時をこえる魔法の羅針盤
 // https://annict.com/works/17217
-{"annict_id":17217}
+{"annict_id":17217,"mal_id":63696}
 ,
 // [null-null] TV: Ｊ⇔Ｍ ジェイエム
 // https://annict.com/works/17218
