@@ -66814,4 +66814,20 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17239
 {"annict_id":17239}
 ,
+// [1994-AUTUMN] TV: マンフィーのふしぎな冒険
+// https://annict.com/works/17240
+{"annict_id":17240}
+,
+// [1998-SPRING] TV: キッパー
+// https://annict.com/works/17241
+{"annict_id":17241}
+,
+// [2002-SUMMER] TV: コアラの探偵アーチボルド
+// https://annict.com/works/17242
+{"annict_id":17242}
+,
+// [2019-AUTUMN] WEB: セイス・マノス
+// https://annict.com/works/17243
+{"annict_id":17243}
+,
 ]
