@@ -42446,7 +42446,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/11122
 {"annict_id":11122,"mal_id":1336}
 ,
-// [2026-null] OTHER: 北斗の拳 -FIST OF THE NORTH STAR-
+// [2026-SPRING] TV: 北斗の拳 -FIST OF THE NORTH STAR-
 // https://annict.com/works/11123
 {"annict_id":11123,"mal_id":56646}
 ,
