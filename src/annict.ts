@@ -61798,7 +61798,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15977
 {"annict_id":15977,"mal_id":7029}
 ,
-// [2026-AUTUMN] TV: アオアシ 第2期
+// [2026-AUTUMN] TV: アオアシ Season2
 // https://annict.com/works/15978
 {"annict_id":15978,"mal_id":61603}
 ,
