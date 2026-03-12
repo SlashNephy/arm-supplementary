@@ -66778,4 +66778,24 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17230
 {"annict_id":17230}
 ,
+// [2025-SUMMER] TV: アキュラホーム　あきゅりんアニメCM
+// https://annict.com/works/17231
+{"annict_id":17231,"mal_id":62514}
+,
+// [2018-SUMMER] TV: 共栄鍛工所 CM
+// https://annict.com/works/17232
+{"annict_id":17232,"mal_id":39841}
+,
+// [2017-AUTUMN] WEB: ロート製薬 メンソレータムCM「ママへ、いつもありがとう。」
+// https://annict.com/works/17233
+{"annict_id":17233}
+,
+// [2019-SPRING] WEB: はとバス70周年アニメ
+// https://annict.com/works/17234
+{"annict_id":17234}
+,
+// [2016-SUMMER] TV: サントリー天然水×君の名は。CM「この夏、きっと逢える。」
+// https://annict.com/works/17235
+{"annict_id":17235,"mal_id":33902}
+,
 ]
