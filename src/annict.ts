@@ -61798,7 +61798,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15977
 {"annict_id":15977,"mal_id":7029}
 ,
-// [2026-null] TV: アオアシ 第2期
+// [2026-AUTUMN] TV: アオアシ 第2期
 // https://annict.com/works/15978
 {"annict_id":15978,"mal_id":61603}
 ,
@@ -64096,7 +64096,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: 自動販売機に生まれ変わった俺は迷宮を彷徨う 3rd season
 // https://annict.com/works/16554
-{"annict_id":16554,"mal_id":62512}
+{"annict_id":16554,"mal_id":62512,"syobocal_tid":7797}
 ,
 // [2026-SUMMER] TV: クレバテスⅡ-魔獣の王と偽りの勇者伝承-
 // https://annict.com/works/16555
