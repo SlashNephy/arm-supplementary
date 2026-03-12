@@ -66798,4 +66798,20 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17235
 {"annict_id":17235,"mal_id":33902}
 ,
+// [2020-WINTER] WEB: Eve×ガーナ「ガーナピンクバレンタイン」
+// https://annict.com/works/17236
+{"annict_id":17236,"mal_id":41195}
+,
+// [2021-SUMMER] WEB: カロリーメイト web movie「夏がはじまる。」篇
+// https://annict.com/works/17237
+{"annict_id":17237,"mal_id":49581}
+,
+// [2023-AUTUMN] WEB: 走馬灯バス
+// https://annict.com/works/17238
+{"annict_id":17238}
+,
+// [2025-SPRING] WEB: うっちゃり！
+// https://annict.com/works/17239
+{"annict_id":17239}
+,
 ]
