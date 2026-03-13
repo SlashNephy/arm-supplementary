@@ -62286,7 +62286,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16099
 {"annict_id":16099}
 ,
-// [null-null] OTHER: 悪役令嬢の中の人
+// [2027-null] TV: 悪役令嬢の中の人
 // https://annict.com/works/16100
 {"annict_id":16100,"mal_id":61758}
 ,
@@ -62968,7 +62968,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: 灰原くんの強くて青春ニューゲーム
 // https://annict.com/works/16271
-{"annict_id":16271,"mal_id":61943}
+{"annict_id":16271,"mal_id":61943,"syobocal_tid":7798}
 ,
 // [2026-null] TV: エレキシード（ELECEED）
 // https://annict.com/works/16272
