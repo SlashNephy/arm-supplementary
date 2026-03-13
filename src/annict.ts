@@ -66862,4 +66862,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17251
 {"annict_id":17251}
 ,
+// [null-null] TV: 異世界転生騒動記
+// https://annict.com/works/17252
+{"annict_id":17252,"mal_id":63730}
+,
 ]
