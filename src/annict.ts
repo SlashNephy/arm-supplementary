@@ -64144,7 +64144,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: 彼女、お借りします 第5期
 // https://annict.com/works/16566
-{"annict_id":16566,"mal_id":62485}
+{"annict_id":16566,"mal_id":62485,"syobocal_tid":7799}
 ,
 // [2022-SUMMER] WEB: 魔法のない世界で生きるということ
 // https://annict.com/works/16568
