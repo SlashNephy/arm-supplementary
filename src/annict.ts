@@ -66846,4 +66846,20 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17247
 {"annict_id":17247}
 ,
+// [2022-SUMMER] WEB: カンフー・パンダ: 龍の戦士たち
+// https://annict.com/works/17248
+{"annict_id":17248}
+,
+// [2022-SUMMER] WEB: ビッグツリー・シティ
+// https://annict.com/works/17249
+{"annict_id":17249}
+,
+// [2022-SUMMER] WEB: セサミストリート・メカビルダーズ
+// https://annict.com/works/17250
+{"annict_id":17250}
+,
+// [2023-WINTER] WEB: Barbie: Skipper and the Big Babysitting Adventure
+// https://annict.com/works/17251
+{"annict_id":17251}
+,
 ]
