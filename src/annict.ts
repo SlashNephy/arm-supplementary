@@ -58030,7 +58030,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15033
 {"annict_id":15033}
 ,
-// [2022-AUTUMN] WEB: ビーとパピーキャット
+// [2022-SUMMER] WEB: ビーとパピーキャット
 // https://annict.com/works/15034
 {"annict_id":15034}
 ,
@@ -64852,7 +64852,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2006-SPRING] TV: モンチッチとあいちゃんのベビチッチえいご
 // https://annict.com/works/16747
-{"annict_id":16747,"syobocal_tid":914}
+{"annict_id":16747,"mal_id":63636,"syobocal_tid":914}
 ,
 // [1995-SUMMER] TV: だいすき！ムスティ
 // https://annict.com/works/16748
@@ -66829,5 +66829,21 @@ export const annict: ArmEntry[] = [
 // [2019-AUTUMN] WEB: セイス・マノス
 // https://annict.com/works/17243
 {"annict_id":17243}
+,
+// [2022-SUMMER] WEB: アーくんとガーくん
+// https://annict.com/works/17244
+{"annict_id":17244}
+,
+// [2022-SUMMER] WEB: サゴミニフレンズ
+// https://annict.com/works/17245
+{"annict_id":17245}
+,
+// [2022-SUMMER] WEB: 超巨大ロボットブラザーズ
+// https://annict.com/works/17246
+{"annict_id":17246}
+,
+// [2022-SUMMER] WEB: ディーパとアヌープ
+// https://annict.com/works/17247
+{"annict_id":17247}
 ,
 ]
