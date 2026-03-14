@@ -66866,4 +66866,56 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17252
 {"annict_id":17252,"mal_id":63730}
 ,
+// [2026-SPRING] WEB: The Bloody Mary
+// https://annict.com/works/17253
+{"annict_id":17253}
+,
+// [2022-AUTUMN] WEB: おしゃべり ピーヨ
+// https://annict.com/works/17254
+{"annict_id":17254}
+,
+// [2006-WINTER] OVA: スチュアート・リトル3 森の仲間と大冒険
+// https://annict.com/works/17255
+{"annict_id":17255}
+,
+// [2022-AUTUMN] WEB: ドラゴンエイジ: 罪のあがない
+// https://annict.com/works/17256
+{"annict_id":17256}
+,
+// [2022-AUTUMN] WEB: スピリット・レンジャーズ 〜森のおたすけ隊〜
+// https://annict.com/works/17257
+{"annict_id":17257}
+,
+// [2022-AUTUMN] WEB: オッドボールズ
+// https://annict.com/works/17258
+{"annict_id":17258}
+,
+// [2022-AUTUMN] WEB: マジックハンター: ダニエル・スペルバウンド
+// https://annict.com/works/17259
+{"annict_id":17259}
+,
+// [2022-AUTUMN] WEB: ドラゴン：レスキューライダーズ／空のヒーロー
+// https://annict.com/works/17260
+{"annict_id":17260}
+,
+// [2023-WINTER] TV: バッグス・バニー ビルダーズ
+// https://annict.com/works/17261
+{"annict_id":17261}
+,
+// [2023-WINTER] WEB: カタチの島
+// https://annict.com/works/17262
+{"annict_id":17262}
+,
+// [2023-WINTER] WEB: フクロウのエヴァ
+// https://annict.com/works/17263
+{"annict_id":17263}
+,
+// [2023-WINTER] WEB: パパはバウンティ・ハンター
+// https://annict.com/works/17264
+{"annict_id":17264}
+,
+// [2023-WINTER] TV: スーパーナチュラル・アカデミー
+// https://annict.com/works/17265
+{"annict_id":17265}
+,
 ]
