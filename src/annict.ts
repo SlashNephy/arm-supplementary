@@ -66190,7 +66190,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17082
 {"annict_id":17082,"mal_id":62075}
 ,
-// [2025-AUTUMN] OVA: まじかるすいーと プリズム・ナナ THE ANIMATION 夢叶えたい…!? 希望のアドバンス (後編)
+// [2025-AUTUMN] OVA: まじかるすいーとプリズム・ナナ 星に願いを!! それぞれのタイセツ
 // https://annict.com/works/17083
 {"annict_id":17083,"mal_id":15407}
 ,
