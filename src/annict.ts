@@ -60754,7 +60754,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15715
 {"annict_id":15715}
 ,
-// [null-null] TV: バトルスピリッツ テレビアニメ新シリーズ
+// [2026-AUTUMN] TV: Battle Spirits [Re] 絶界の空
 // https://annict.com/works/15716
 {"annict_id":15716}
 ,
