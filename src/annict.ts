@@ -66918,4 +66918,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17265
 {"annict_id":17265}
 ,
+// [2023-WINTER] WEB: ちびっこマダガスカル
+// https://annict.com/works/17266
+{"annict_id":17266}
+,
 ]
