@@ -66922,4 +66922,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17266
 {"annict_id":17266}
 ,
+// [2027-null] TV: 僕の心のヤバイやつ 第3期
+// https://annict.com/works/17267
+{"annict_id":17267}
+,
 ]
