@@ -63080,7 +63080,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: 黄泉のツガイ
 // https://annict.com/works/16299
-{"annict_id":16299,"mal_id":62001}
+{"annict_id":16299,"mal_id":62001,"syobocal_tid":7800}
 ,
 // [null-null] OTHER: 99回断罪されたループ令嬢ですが今世は「超絶愛されモード」ですって!?
 // https://annict.com/works/16300
@@ -66925,5 +66925,9 @@ export const annict: ArmEntry[] = [
 // [2027-null] TV: 僕の心のヤバイやつ 第3期
 // https://annict.com/works/17267
 {"annict_id":17267,"mal_id":63735}
+,
+// [2026-SPRING] TV: ピノ＆シノビー
+// https://annict.com/works/17269
+{"annict_id":17269}
 ,
 ]
