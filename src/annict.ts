@@ -64726,7 +64726,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16715
 {"annict_id":16715}
 ,
-// [2026-null] MOVIE: ガールズ&パンツァー 最終章 第5話
+// [2026-AUTUMN] MOVIE: ガールズ&パンツァー 最終章 第5話
 // https://annict.com/works/16716
 {"annict_id":16716,"mal_id":39168}
 ,
@@ -66957,5 +66957,9 @@ export const annict: ArmEntry[] = [
 // [2023-SPRING] WEB: ラーバとたのしいかぞく
 // https://annict.com/works/17276
 {"annict_id":17276,"mal_id":56996}
+,
+// [2026-SPRING] MOVIE: ガールズ＆パンツァー リボンの武者
+// https://annict.com/works/17277
+{"annict_id":17277}
 ,
 ]
