@@ -66930,4 +66930,32 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17269
 {"annict_id":17269}
 ,
+// [2022-SUMMER] TV: タラ・ダンカン(2022年)
+// https://annict.com/works/17270
+{"annict_id":17270}
+,
+// [2022-SPRING] TV: ひらめき！ユリーカ
+// https://annict.com/works/17271
+{"annict_id":17271}
+,
+// [2022-AUTUMN] TV: デニスとおれさま
+// https://annict.com/works/17272
+{"annict_id":17272}
+,
+// [2023-SPRING] TV: バットウィール
+// https://annict.com/works/17273
+{"annict_id":17273}
+,
+// [2023-SPRING] WEB: レゴニンジャゴー ドラゴンライジング
+// https://annict.com/works/17274
+{"annict_id":17274}
+,
+// [2022-SPRING] WEB: ラーバとまほうのペンダント
+// https://annict.com/works/17275
+{"annict_id":17275,"mal_id":56988}
+,
+// [2023-SPRING] WEB: ラーバとたのしいかぞく
+// https://annict.com/works/17276
+{"annict_id":17276,"mal_id":56996}
+,
 ]
