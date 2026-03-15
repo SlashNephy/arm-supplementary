@@ -62712,7 +62712,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: 最強の王様、二度目の人生は何をする？ SEASON2
 // https://annict.com/works/16207
-{"annict_id":16207,"mal_id":61831}
+{"annict_id":16207,"mal_id":61831,"syobocal_tid":7805}
 ,
 // [2007-SPRING] TV: 王さまものがたり
 // https://annict.com/works/16208
@@ -66160,7 +66160,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: 女神「異世界転生何になりたいですか」俺「勇者の肋骨で」
 // https://annict.com/works/17075
-{"annict_id":17075,"mal_id":63376}
+{"annict_id":17075,"mal_id":63376,"syobocal_tid":7806}
 ,
 // [1996-SUMMER] OVA: ほんとにあった学校怪談
 // https://annict.com/works/17076
