@@ -36986,7 +36986,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/9752
 {"annict_id":9752,"mal_id":35746}
 ,
-// [2026-SUMMER] TV: 探偵はもう、死んでいる。Season2
+// [2026-AUTUMN] TV: 探偵はもう、死んでいる。Season2
 // https://annict.com/works/9753
 {"annict_id":9753,"mal_id":52480}
 ,
