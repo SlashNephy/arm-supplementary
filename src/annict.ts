@@ -43180,7 +43180,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] TV: 異世界でチート能力を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～ TVSP
 // https://annict.com/works/11306
-{"annict_id":11306,"mal_id":56906}
+{"annict_id":11306,"mal_id":56906,"syobocal_tid":7804}
 ,
 // [2025-SUMMER] TV: 公女殿下の家庭教師
 // https://annict.com/works/11307
@@ -63824,7 +63824,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: 異世界のんびり農家２
 // https://annict.com/works/16486
-{"annict_id":16486,"mal_id":62146}
+{"annict_id":16486,"mal_id":62146,"syobocal_tid":7803}
 ,
 // [2026-SPRING] TV: メイドさんは食べるだけ
 // https://annict.com/works/16487
