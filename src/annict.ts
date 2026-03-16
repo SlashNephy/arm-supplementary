@@ -66962,4 +66962,28 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17277
 {"annict_id":17277}
 ,
+// [2023-SPRING] WEB: キティ・キャッツ
+// https://annict.com/works/17278
+{"annict_id":17278}
+,
+// [2023-SPRING] WEB: ぼくケルプ ～うみのユニコーン～
+// https://annict.com/works/17279
+{"annict_id":17279}
+,
+// [2023-SUMMER] WEB: ストレンジ・プラネット
+// https://annict.com/works/17280
+{"annict_id":17280}
+,
+// [2023-SUMMER] WEB: デュードロップ・ダイアリーズ
+// https://annict.com/works/17281
+{"annict_id":17281}
+,
+// [2023-SUMMER] WEB: スーパーチームフォー
+// https://annict.com/works/17282
+{"annict_id":17282}
+,
+// [2023-SUMMER] WEB: Barbie: A Touch of Magic
+// https://annict.com/works/17283
+{"annict_id":17283}
+,
 ]
