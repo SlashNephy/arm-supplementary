@@ -66986,4 +66986,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17283
 {"annict_id":17283}
 ,
+// [2026-WINTER] WEB: ポニータと駆ける
+// https://annict.com/works/17284
+{"annict_id":17284}
+,
 ]
