@@ -66990,4 +66990,36 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17284
 {"annict_id":17284}
 ,
+// [2023-AUTUMN] WEB: カース! ～呪われた秘宝～
+// https://annict.com/works/17285
+{"annict_id":17285}
+,
+// [2018-AUTUMN] TV: ラビッツ・インベージョン
+// https://annict.com/works/17286
+{"annict_id":17286}
+,
+// [2023-AUTUMN] WEB: キャプテン・レーザーホーク: ブラッドドラゴン Remix
+// https://annict.com/works/17287
+{"annict_id":17287}
+,
+// [2023-AUTUMN] WEB: ユニコーン・アカデミー
+// https://annict.com/works/17288
+{"annict_id":17288}
+,
+// [2023-AUTUMN] WEB: ココメロン通り
+// https://annict.com/works/17289
+{"annict_id":17289}
+,
+// [2024-WINTER] WEB: ディーとなかまのオズの国
+// https://annict.com/works/17290
+{"annict_id":17290}
+,
+// [2024-WINTER] WEB: バッドダイナソー
+// https://annict.com/works/17291
+{"annict_id":17291}
+,
+// [2024-WINTER] WEB: 銀河系で2番目にイケてる病院
+// https://annict.com/works/17292
+{"annict_id":17292}
+,
 ]
