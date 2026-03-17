@@ -63458,7 +63458,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16394
 {"annict_id":16394}
 ,
-// [null-null] TV: 領民０人スタートの辺境領主様
+// [2026-SUMMER] TV: 領民０人スタートの辺境領主様
 // https://annict.com/works/16395
 {"annict_id":16395,"mal_id":62078}
 ,
