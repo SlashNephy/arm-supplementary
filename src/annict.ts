@@ -39808,7 +39808,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2022-SUMMER] WEB: シンデレラ・シェフ ～萌妻食神～ シーズン3
 // https://annict.com/works/10461
-{"annict_id":10461,"mal_id":51203}
+{"annict_id":10461,"mal_id":51203,"syobocal_tid":7807}
 ,
 // [2023-AUTUMN] TV: でこぼこ魔女の親子事情
 // https://annict.com/works/10462
