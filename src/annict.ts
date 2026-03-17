@@ -63778,7 +63778,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16474
 {"annict_id":16474,"mal_id":62311}
 ,
-// [null-null] OTHER: SEKIRO: NO DEFEAT
+// [2026-null] MOVIE: SEKIRO: NO DEFEAT
 // https://annict.com/works/16475
 {"annict_id":16475,"mal_id":62312}
 ,
@@ -66196,7 +66196,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] MOVIE: もし、これから生まれるのなら
 // https://annict.com/works/17084
-{"annict_id":17084}
+{"annict_id":17084,"mal_id":63739}
 ,
 // [2026-WINTER] MOVIE: ギャビーのドールハウス ザ・ムービー
 // https://annict.com/works/17085
