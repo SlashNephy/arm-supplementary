@@ -63494,7 +63494,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16403
 {"annict_id":16403}
 ,
-// [null-null] OTHER: ひらやすみ
+// [2027-WINTER] TV: ひらやすみ
 // https://annict.com/works/16404
 {"annict_id":16404,"mal_id":62100}
 ,
