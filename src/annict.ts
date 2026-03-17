@@ -20642,9 +20642,9 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/5193
 {"annict_id":5193,"mal_id":34257,"syobocal_tid":4496}
 ,
-// [2016-AUTUMN] WEB: 殺せんせーＱ！
+// [2017-WINTER] WEB: 殺せんせーＱ！
 // https://annict.com/works/5194
-{"annict_id":5194,"mal_id":33511,"syobocal_tid":4735}
+{"annict_id":5194,"mal_id":34389,"syobocal_tid":4735}
 ,
 // [2017-SUMMER] TV: 恋と嘘
 // https://annict.com/works/5195
@@ -67021,5 +67021,9 @@ export const annict: ArmEntry[] = [
 // [2024-WINTER] WEB: 銀河系で2番目にイケてる病院
 // https://annict.com/works/17292
 {"annict_id":17292}
+,
+// [2016-AUTUMN] MOVIE: 劇場版 殺せんせーＱ！
+// https://annict.com/works/17293
+{"annict_id":17293}
 ,
 ]
