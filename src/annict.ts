@@ -52998,7 +52998,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/13769
 {"annict_id":13769,"mal_id":10547}
 ,
-// [2026-SPRING] MOVIE: 私がビーバーになる時
+// [2026-WINTER] MOVIE: 私がビーバーになる時
 // https://annict.com/works/13770
 {"annict_id":13770}
 ,
