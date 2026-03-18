@@ -67034,4 +67034,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17295
 {"annict_id":17295,"mal_id":63751}
 ,
+// [2026-null] TV: 捨てられ聖女の異世界ごはん旅
+// https://annict.com/works/17296
+{"annict_id":17296}
+,
+// [2026-null] TV: 彼方から
+// https://annict.com/works/17297
+{"annict_id":17297}
+,
 ]
