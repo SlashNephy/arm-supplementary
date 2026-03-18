@@ -63820,7 +63820,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: LIAR GAME -ライアーゲーム-
 // https://annict.com/works/16485
-{"annict_id":16485,"mal_id":62331}
+{"annict_id":16485,"mal_id":62331,"syobocal_tid":7810}
 ,
 // [2026-SPRING] TV: 異世界のんびり農家２
 // https://annict.com/works/16486
@@ -64158,7 +64158,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16570
 {"annict_id":16570,"mal_id":62534}
 ,
-// [null-null] TV: ぐらんぶる Season 3
+// [2026-SUMMER] TV: ぐらんぶる Season 3
 // https://annict.com/works/16571
 {"annict_id":16571,"mal_id":62542}
 ,
@@ -67034,7 +67034,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17295
 {"annict_id":17295,"mal_id":63751}
 ,
-// [2026-null] TV: 捨てられ聖女の異世界ごはん旅
+// [2026-null] TV: 捨てられ聖女の異世界ごはん旅 隠れスキルでキャンピングカーを召喚しました
 // https://annict.com/works/17296
 {"annict_id":17296,"mal_id":63752}
 ,
