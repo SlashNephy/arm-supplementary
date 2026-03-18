@@ -67046,4 +67046,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17298
 {"annict_id":17298,"mal_id":63754}
 ,
+// [2010-AUTUMN] WEB: Calm
+// https://annict.com/works/17299
+{"annict_id":17299,"mal_id":29772}
+,
 ]
