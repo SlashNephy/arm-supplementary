@@ -67028,6 +67028,10 @@ export const annict: ArmEntry[] = [
 ,
 // [2027-null] TV: 尚善
 // https://annict.com/works/17294
-{"annict_id":17294}
+{"annict_id":17294,"mal_id":62951}
+,
+// [2026-AUTUMN] TV: TANK CHAIR-戦車椅子-
+// https://annict.com/works/17295
+{"annict_id":17295,"mal_id":63751}
 ,
 ]
