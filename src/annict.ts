@@ -67040,6 +67040,10 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-null] TV: 彼方から
 // https://annict.com/works/17297
-{"annict_id":17297}
+{"annict_id":17297,"mal_id":63753}
+,
+// [2026-null] TV: 塩対応の佐藤さんが俺にだけ甘い
+// https://annict.com/works/17298
+{"annict_id":17298,"mal_id":63754}
 ,
 ]
