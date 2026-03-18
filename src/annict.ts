@@ -67026,4 +67026,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17293
 {"annict_id":17293}
 ,
+// [2027-null] TV: 尚善
+// https://annict.com/works/17294
+{"annict_id":17294}
+,
 ]
