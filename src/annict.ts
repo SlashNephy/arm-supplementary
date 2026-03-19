@@ -64166,7 +64166,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16572
 {"annict_id":16572}
 ,
-// [2026-WINTER] TV: わたしが恋人になれるわけないじゃん、ムリムリ!（※ムリじゃなかった!?）第13話〜第17話
+// [2026-WINTER] TV: わたしが恋人になれるわけないじゃん、ムリムリ!（※ムリじゃなかった!?）続編
 // https://annict.com/works/16573
 {"annict_id":16573,"mal_id":62543,"syobocal_tid":7700}
 ,
@@ -67049,5 +67049,33 @@ export const annict: ArmEntry[] = [
 // [2010-AUTUMN] WEB: Calm
 // https://annict.com/works/17299
 {"annict_id":17299,"mal_id":29772}
+,
+// [2024-SPRING] TV: タイニー・トゥーンズのハチャメチャ学園
+// https://annict.com/works/17300
+{"annict_id":17300}
+,
+// [2024-SPRING] WEB: ワンダラ
+// https://annict.com/works/17301
+{"annict_id":17301}
+,
+// [2024-SPRING] WEB: ラーバと火星のぼうけん
+// https://annict.com/works/17302
+{"annict_id":17302,"mal_id":58379}
+,
+// [2024-SUMMER] WEB: トワイライト・オブ・ザ・ゴッズ ～神々の黄昏～
+// https://annict.com/works/17303
+{"annict_id":17303}
+,
+// [2024-SUMMER] WEB: こねこばくはつ
+// https://annict.com/works/17304
+{"annict_id":17304}
+,
+// [2024-SUMMER] WEB: ワンダルーズ
+// https://annict.com/works/17305
+{"annict_id":17305}
+,
+// [2024-SUMMER] WEB: マーメイド・マジック
+// https://annict.com/works/17306
+{"annict_id":17306}
 ,
 ]
