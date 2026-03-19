@@ -64130,7 +64130,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16562
 {"annict_id":16562,"mal_id":62516}
 ,
-// [2026-null] TV: #ゾンビさがしてます
+// [2026-AUTUMN] TV: #ゾンビさがしてます
 // https://annict.com/works/16563
 {"annict_id":16563,"mal_id":62524}
 ,
