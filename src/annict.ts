@@ -67078,4 +67078,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17306
 {"annict_id":17306}
 ,
+// [2026-SPRING] WEB: ぷちきゅあ～Precure Fairies～ シーズン3
+// https://annict.com/works/17307
+{"annict_id":17307}
+,
 ]
