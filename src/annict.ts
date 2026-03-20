@@ -67086,4 +67086,16 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17309
 {"annict_id":17309}
 ,
+// [2025-SUMMER] WEB: 新機動戦記ガンダムW-Operation30th-
+// https://annict.com/works/17310
+{"annict_id":17310}
+,
+// [2025-SPRING] WEB: BLUE GALE XABUNGLE SIDE L
+// https://annict.com/works/17311
+{"annict_id":17311}
+,
+// [2025-AUTUMN] WEB: BLUE GALE XABUNGLE SIDE R
+// https://annict.com/works/17312
+{"annict_id":17312}
+,
 ]
