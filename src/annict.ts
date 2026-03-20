@@ -67098,4 +67098,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17312
 {"annict_id":17312}
 ,
+// [2027-WINTER] TV: 雑用付与術師が自分の最強に気付くまで
+// https://annict.com/works/17313
+{"annict_id":17313,"mal_id":63763}
+,
+// [2026-null] TV: バーテックスフォース
+// https://annict.com/works/17314
+{"annict_id":17314,"mal_id":63764}
+,
 ]
