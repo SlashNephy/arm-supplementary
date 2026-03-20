@@ -67106,4 +67106,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17314
 {"annict_id":17314,"mal_id":63764}
 ,
+// [2024-SPRING] TV: 今からでも楽しめる！響け！ユーフォニアム
+// https://annict.com/works/17315
+{"annict_id":17315}
+,
 ]
