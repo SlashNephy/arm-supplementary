@@ -67082,4 +67082,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17307
 {"annict_id":17307}
 ,
+// [2026-SUMMER] MOVIE: ミニオンズ＆モンスターズ
+// https://annict.com/works/17308
+{"annict_id":17308}
+,
 ]
