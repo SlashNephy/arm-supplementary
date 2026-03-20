@@ -35,7 +35,7 @@
     "@graphql-codegen/cli": "6.2.1",
     "@graphql-codegen/client-preset": "5.2.4",
     "@graphql-typed-document-node/core": "3.2.0",
-    "@slashnephy/eslint-config": "3.0.269",
+    "@slashnephy/eslint-config": "3.0.273",
     "@types/mdast": "4.0.4",
     "@types/node": "25.5.0",
     "eslint": "9.39.4",
