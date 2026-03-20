@@ -67082,4 +67082,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17308
 {"annict_id":17308}
 ,
+// [2026-WINTER] WEB: 機動武闘伝Gガンダム 30周年記念ファイティングムービー
+// https://annict.com/works/17309
+{"annict_id":17309}
+,
 ]
