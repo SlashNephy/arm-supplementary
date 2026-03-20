@@ -66442,10 +66442,6 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17145
 {"annict_id":17145}
 ,
-// [2026-SPRING] OVA: アンドロイドは経験人数に入りますか？？ 第9話「5日間続けて……？」
-// https://annict.com/works/17146
-{"annict_id":17146,"mal_id":63330}
-,
 // [2026-SUMMER] TV: 「きみを愛する気はない」と言った次期公爵様がなぜか溺愛してきます
 // https://annict.com/works/17147
 {"annict_id":17147,"mal_id":63537}
