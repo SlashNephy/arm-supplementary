@@ -67114,4 +67114,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17316
 {"annict_id":17316,"mal_id":63772}
 ,
+// [2026-SPRING] TV: らぶいーず
+// https://annict.com/works/17317
+{"annict_id":17317}
+,
+// [2026-WINTER] WEB: Mr.War -最強の元軍人-
+// https://annict.com/works/17318
+{"annict_id":17318}
+,
 ]
