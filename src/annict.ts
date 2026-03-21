@@ -67122,4 +67122,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17318
 {"annict_id":17318}
 ,
+// [2026-WINTER] WEB: 心臓に復讐を誓って
+// https://annict.com/works/17319
+{"annict_id":17319}
+,
 ]
