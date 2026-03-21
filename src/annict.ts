@@ -67110,4 +67110,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17315
 {"annict_id":17315}
 ,
+// [null-null] MOVIE: 『前橋ウィッチーズ』劇場総集編
+// https://annict.com/works/17316
+{"annict_id":17316}
+,
 ]
