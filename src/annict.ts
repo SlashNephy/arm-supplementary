@@ -67122,4 +67122,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17319
 {"annict_id":17319}
 ,
+// [2026-WINTER] MOVIE: きかんしゃトーマス いっしょに歌おう! ドレミファ♪ソドー島
+// https://annict.com/works/17320
+{"annict_id":17320}
+,
 ]
