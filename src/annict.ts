@@ -47662,7 +47662,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/12431
 {"annict_id":12431}
 ,
-// [null-null] MOVIE: ヤマトよ永遠に REBEL3199 第六章
+// [2026-SPRING] MOVIE: ヤマトよ永遠に REBEL3199 第六章 碧い迷宮
 // https://annict.com/works/12432
 {"annict_id":12432}
 ,
