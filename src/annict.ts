@@ -67126,4 +67126,16 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17320
 {"annict_id":17320}
 ,
+// [2012-AUTUMN] WEB: 婆ちゃの金魚
+// https://annict.com/works/17321
+{"annict_id":17321,"mal_id":37923}
+,
+// [null-null] TV: 勇者パーティを追い出された器用貧乏 2期
+// https://annict.com/works/17322
+{"annict_id":17322,"mal_id":63778}
+,
+// [null-null] TV: 花ざかりの君たちへ 第2期
+// https://annict.com/works/17323
+{"annict_id":17323,"mal_id":63780}
+,
 ]
