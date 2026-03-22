@@ -63234,7 +63234,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16338
 {"annict_id":16338,"mal_id":62066,"syobocal_tid":7592}
 ,
-// [2026-null] OTHER: グロウアップショウ ～ひまわりのサーカス団～
+// [2026-SUMMER] TV: グロウアップショウ ～ひまわりのサーカス団～
 // https://annict.com/works/16339
 {"annict_id":16339,"mal_id":62051}
 ,
