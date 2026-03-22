@@ -67142,4 +67142,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17324
 {"annict_id":17324,"mal_id":63762}
 ,
+// [2020-WINTER] TV: ひつじのショーン (シリーズ6)
+// https://annict.com/works/17325
+{"annict_id":17325}
+,
+// [2026-WINTER] TV: ひつじのショーン (シリーズ7)
+// https://annict.com/works/17326
+{"annict_id":17326}
+,
 ]
