@@ -67166,4 +67166,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17330
 {"annict_id":17330}
 ,
+// [2013-SPRING] WEB: ZAWAZAWA
+// https://annict.com/works/17331
+{"annict_id":17331,"mal_id":31832}
+,
+// [2013-SUMMER] WEB: 義足のMoses
+// https://annict.com/works/17332
+{"annict_id":17332,"mal_id":42104}
+,
 ]
