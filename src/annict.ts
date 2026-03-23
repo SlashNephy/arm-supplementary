@@ -67158,4 +67158,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17328
 {"annict_id":17328}
 ,
+// [2026-AUTUMN] TV: しろたん
+// https://annict.com/works/17329
+{"annict_id":17329}
+,
+// [2026-WINTER] WEB: 3分でわかる魔法科
+// https://annict.com/works/17330
+{"annict_id":17330}
+,
 ]
