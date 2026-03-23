@@ -65042,7 +65042,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16795
 {"annict_id":16795,"mal_id":12065,"syobocal_tid":6095}
 ,
-// [null-null] OTHER: デモンズ・クレスト
+// [2026-null] TV: デモンズ・クレスト
 // https://annict.com/works/16796
 {"annict_id":16796,"mal_id":63045}
 ,
