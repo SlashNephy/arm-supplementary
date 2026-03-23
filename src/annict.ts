@@ -67150,4 +67150,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17326
 {"annict_id":17326}
 ,
+// [2026-SPRING] TV: おじゃる丸（第29シリーズ）
+// https://annict.com/works/17327
+{"annict_id":17327}
+,
+// [2026-WINTER] TV: ルカと太陽の花 第3章
+// https://annict.com/works/17328
+{"annict_id":17328}
+,
 ]
