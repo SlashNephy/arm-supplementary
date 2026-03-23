@@ -64780,7 +64780,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: 茉莉花ちゃんの好感度はぶっ壊れている
 // https://annict.com/works/16730
-{"annict_id":16730,"mal_id":62983}
+{"annict_id":16730,"mal_id":62983,"syobocal_tid":7815}
 ,
 // [2025-SUMMER] TV: ヤドカリくん
 // https://annict.com/works/16731
@@ -67072,7 +67072,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] WEB: ぷちきゅあ～Precure Fairies～ シーズン3
 // https://annict.com/works/17307
-{"annict_id":17307,"mal_id":63773}
+{"annict_id":17307,"mal_id":63773,"syobocal_tid":7817}
 ,
 // [2026-SUMMER] MOVIE: ミニオンズ＆モンスターズ
 // https://annict.com/works/17308
@@ -67140,7 +67140,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: おしりたんてい (第10シリーズ)
 // https://annict.com/works/17324
-{"annict_id":17324,"mal_id":63762}
+{"annict_id":17324,"mal_id":63762,"syobocal_tid":7816}
 ,
 // [2020-WINTER] TV: ひつじのショーン (シリーズ6)
 // https://annict.com/works/17325
