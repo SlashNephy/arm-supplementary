@@ -66142,7 +66142,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17071
 {"annict_id":17071,"mal_id":63381}
 ,
-// [2026-WINTER] OTHER: ふくふくの地図
+// [2026-WINTER] WEB: ふくふくの地図
 // https://annict.com/works/17072
 {"annict_id":17072,"mal_id":63411}
 ,
@@ -67173,5 +67173,13 @@ export const annict: ArmEntry[] = [
 // [2013-SUMMER] WEB: 義足のMoses
 // https://annict.com/works/17332
 {"annict_id":17332,"mal_id":42104}
+,
+// [2026-SUMMER] TV: 北斗の拳 拳王軍ザコたちの挽歌 第2クール
+// https://annict.com/works/17333
+{"annict_id":17333}
+,
+// [null-null] TV: 真夜中ハートチューン 第2期
+// https://annict.com/works/17334
+{"annict_id":17334}
 ,
 ]
