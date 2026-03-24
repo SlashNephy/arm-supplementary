@@ -66950,7 +66950,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17276
 {"annict_id":17276,"mal_id":56996}
 ,
-// [2026-SPRING] MOVIE: ガールズ＆パンツァー リボンの武者
+// [2026-SPRING] MOVIE: ガールズ＆パンツァー リボンの武者 パイロット版
 // https://annict.com/works/17277
 {"annict_id":17277}
 ,
@@ -67180,6 +67180,6 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] TV: 真夜中ハートチューン 第2期
 // https://annict.com/works/17334
-{"annict_id":17334}
+{"annict_id":17334,"mal_id":63789}
 ,
 ]
