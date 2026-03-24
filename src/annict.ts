@@ -59030,7 +59030,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15284
 {"annict_id":15284,"mal_id":60987}
 ,
-// [null-null] OTHER: 目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい
+// [2026-AUTUMN] TV: 目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい
 // https://annict.com/works/15285
 {"annict_id":15285,"mal_id":60948}
 ,
