@@ -67214,4 +67214,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17342
 {"annict_id":17342}
 ,
+// [2026-SUMMER] WEB: マツケンアニメ
+// https://annict.com/works/17343
+{"annict_id":17343}
+,
 ]
