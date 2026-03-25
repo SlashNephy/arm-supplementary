@@ -67182,4 +67182,20 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17334
 {"annict_id":17334,"mal_id":63789}
 ,
+// [2025-AUTUMN] WEB: うそ探偵トマント ベジフル“プチっ”と情報編
+// https://annict.com/works/17335
+{"annict_id":17335,"mal_id":62523}
+,
+// [2026-SPRING] TV: うそ探偵トマント
+// https://annict.com/works/17336
+{"annict_id":17336}
+,
+// [2025-SUMMER] MOVIE: スポンジ・ボブ: いっちょあがり！
+// https://annict.com/works/17337
+{"annict_id":17337}
+,
+// [2026-SPRING] MOVIE: 劇場版スポンジ・ボブ 呪われた海賊と大冒険だワワワワワ！
+// https://annict.com/works/17338
+{"annict_id":17338}
+,
 ]
