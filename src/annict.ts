@@ -47516,7 +47516,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] WEB: ドロヘドロ Season2
 // https://annict.com/works/12395
-{"annict_id":12395,"mal_id":57779}
+{"annict_id":12395,"mal_id":57779,"syobocal_tid":7820}
 ,
 // [2023-AUTUMN] WEB: 365日の明日
 // https://annict.com/works/12396
