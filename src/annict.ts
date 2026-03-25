@@ -30410,7 +30410,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/7914
 {"annict_id":7914,"mal_id":46587}
 ,
-// [2026-null] TV: 対ありでした。 ～お嬢さまは格闘ゲームなんてしない～
+// [2026-SUMMER] TV: 対ありでした。 ～お嬢さまは格闘ゲームなんてしない～
 // https://annict.com/works/7915
 {"annict_id":7915,"mal_id":46488}
 ,
