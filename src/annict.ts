@@ -52868,7 +52868,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: リィンカーネーションの花弁
 // https://annict.com/works/13737
-{"annict_id":13737,"mal_id":59443}
+{"annict_id":13737,"mal_id":59443,"syobocal_tid":7812}
 ,
 // [2025-SPRING] TV: 片田舎のおっさん、剣聖になる
 // https://annict.com/works/13738
@@ -63256,7 +63256,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: スノウボールアース
 // https://annict.com/works/16344
-{"annict_id":16344,"mal_id":62068}
+{"annict_id":16344,"mal_id":62068,"syobocal_tid":7796}
 ,
 // [2025-AUTUMN] MOVIE: 劇場先行版 ゴールデンカムイ 札幌ビール工場編【前編】
 // https://annict.com/works/16345
@@ -63822,7 +63822,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16485
 {"annict_id":16485,"mal_id":62331,"syobocal_tid":7810}
 ,
-// [2026-SPRING] TV: 異世界のんびり農家２
+// [2026-SPRING] TV: 異世界のんびり農家2
 // https://annict.com/works/16486
 {"annict_id":16486,"mal_id":62146,"syobocal_tid":7803}
 ,
@@ -63992,7 +63992,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: ねずみくんのチョッキ
 // https://annict.com/works/16529
-{"annict_id":16529,"mal_id":62495}
+{"annict_id":16529,"mal_id":62495,"syobocal_tid":7819}
 ,
 // [2008-AUTUMN] TV: マックスバリュ九州CM
 // https://annict.com/works/16530
@@ -64760,7 +64760,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: また殺されてしまったのですね、探偵様
 // https://annict.com/works/16725
-{"annict_id":16725,"mal_id":62964}
+{"annict_id":16725,"mal_id":62964,"syobocal_tid":7811}
 ,
 // [2026-null] MOVIE: 我々は宇宙人
 // https://annict.com/works/16726
@@ -67205,5 +67205,13 @@ export const annict: ArmEntry[] = [
 // [null-null] TV: 【推しの子】第4期 Final Season
 // https://annict.com/works/17340
 {"annict_id":17340,"mal_id":63794}
+,
+// [2026-WINTER] TV: ホロのぐらふぃてぃ (TV版)
+// https://annict.com/works/17341
+{"annict_id":17341,"syobocal_tid":7757}
+,
+// [2026-SPRING] TV: カードファイト!! ヴァンガード 15thリマスター
+// https://annict.com/works/17342
+{"annict_id":17342}
 ,
 ]
