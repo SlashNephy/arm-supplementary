@@ -67198,4 +67198,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17338
 {"annict_id":17338}
 ,
+// [2007-SUMMER] OVA: アイドルマスター XENOGLOSSIA OVA
+// https://annict.com/works/17339
+{"annict_id":17339,"mal_id":3406}
+,
 ]
