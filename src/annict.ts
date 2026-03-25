@@ -57796,7 +57796,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2025-SPRING] TV: 遊☆戯☆王デュエルモンスターズGX 20th Remaster
 // https://annict.com/works/14975
-{"annict_id":14975,"syobocal_tid":329}
+{"annict_id":14975,"syobocal_tid":7728}
 ,
 // [2025-SPRING] WEB: Yu-Gi-Oh! CARD GAME THE CHRONICLES
 // https://annict.com/works/14976
@@ -67201,5 +67201,9 @@ export const annict: ArmEntry[] = [
 // [2007-SUMMER] OVA: アイドルマスター XENOGLOSSIA OVA
 // https://annict.com/works/17339
 {"annict_id":17339,"mal_id":3406}
+,
+// [null-null] TV: 【推しの子】第4期 Final Season
+// https://annict.com/works/17340
+{"annict_id":17340,"mal_id":63794}
 ,
 ]
