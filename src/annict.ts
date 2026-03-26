@@ -64150,7 +64150,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16569
 {"annict_id":16569,"mal_id":62535}
 ,
-// [null-null] OTHER: 新テニスの王子様 U-17 WORLD CUP 決勝メンバー決定戦
+// [2026-AUTUMN] TV: 新テニスの王子様 U-17 WORLD CUP 決勝メンバー決定戦
 // https://annict.com/works/16570
 {"annict_id":16570,"mal_id":62534}
 ,
