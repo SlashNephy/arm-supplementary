@@ -67222,4 +67222,16 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17344
 {"annict_id":17344,"mal_id":63801}
 ,
+// [null-null] TV: 呪術廻戦 死滅回游 後編
+// https://annict.com/works/17345
+{"annict_id":17345}
+,
+// [null-null] TV: MFゴースト Final Season
+// https://annict.com/works/17346
+{"annict_id":17346,"mal_id":63807}
+,
+// [2026-AUTUMN] MOVIE: 縁の手紙
+// https://annict.com/works/17347
+{"annict_id":17347,"mal_id":60020}
+,
 ]
