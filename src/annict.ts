@@ -67218,4 +67218,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17343
 {"annict_id":17343}
 ,
+// [2026-AUTUMN] TV: らんま1/2 第3期
+// https://annict.com/works/17344
+{"annict_id":17344}
+,
 ]
