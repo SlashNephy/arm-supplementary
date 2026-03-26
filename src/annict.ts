@@ -65530,7 +65530,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16918
 {"annict_id":16918}
 ,
-// [null-null] OVA: 魔法のプリンセス ミンキーモモ 新作OVA
+// [null-null] OVA: 魔法のプリンセス ミンキーモモ 憧れの夢へ まごころの二重奏
 // https://annict.com/works/16919
 {"annict_id":16919,"mal_id":63167}
 ,
