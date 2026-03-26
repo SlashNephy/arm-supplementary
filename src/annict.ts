@@ -25920,7 +25920,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-null] TV: メビウス・ダスト
 // https://annict.com/works/6528
-{"annict_id":6528,"mal_id":39473}
+{"annict_id":6528,"mal_id":63802}
 ,
 // [2019-SUMMER] TV: ソウナンですか？
 // https://annict.com/works/6529
@@ -42738,7 +42738,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/11195
 {"annict_id":11195,"mal_id":56736}
 ,
-// [null-null] OTHER: マジカル★エクスプローラー エロゲの友人キャラに転生したけど、ゲーム知識使って自由に生きる
+// [2026-AUTUMN] TV: マジカル★エクスプローラー
 // https://annict.com/works/11196
 {"annict_id":11196,"mal_id":56733}
 ,
@@ -67220,6 +67220,6 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: らんま1/2 第3期
 // https://annict.com/works/17344
-{"annict_id":17344}
+{"annict_id":17344,"mal_id":63801}
 ,
 ]
