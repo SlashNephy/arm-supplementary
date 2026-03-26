@@ -25918,7 +25918,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/6527
 {"annict_id":6527,"mal_id":39463,"syobocal_tid":5636}
 ,
-// [null-null] OTHER: メビウス・ダスト
+// [2026-null] TV: メビウス・ダスト
 // https://annict.com/works/6528
 {"annict_id":6528,"mal_id":39473}
 ,
