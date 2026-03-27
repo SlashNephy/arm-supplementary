@@ -67234,4 +67234,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17347
 {"annict_id":17347,"mal_id":60020}
 ,
+// [2026-SPRING] MOVIE: ミュータント・タートルズ/おもちゃ大パニック!
+// https://annict.com/works/17348
+{"annict_id":17348}
+,
 ]
