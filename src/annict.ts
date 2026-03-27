@@ -67254,4 +67254,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17352
 {"annict_id":17352}
 ,
+// [2026-SUMMER] TV: ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ 2nd Season
+// https://annict.com/works/17353
+{"annict_id":17353,"mal_id":63817}
+,
 ]
