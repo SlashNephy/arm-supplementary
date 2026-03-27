@@ -63462,7 +63462,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16395
 {"annict_id":16395,"mal_id":62078}
 ,
-// [2026-null] TV: 無自覚聖女は今日も無意識に力を垂れ流す
+// [2026-SUMMER] TV: 無自覚聖女は今日も無意識に力を垂れ流す
 // https://annict.com/works/16396
 {"annict_id":16396,"mal_id":62080}
 ,
@@ -67244,6 +67244,6 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] OTHER: 断罪された悪役令嬢は、逆行して完璧な悪女を目指す
 // https://annict.com/works/17350
-{"annict_id":17350}
+{"annict_id":17350,"mal_id":63813}
 ,
 ]
