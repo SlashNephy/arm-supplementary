@@ -59454,7 +59454,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15390
 {"annict_id":15390,"mal_id":61012}
 ,
-// [2026-null] TV: とある暗部の少女共棲
+// [2026-AUTUMN] TV: とある暗部の少女共棲
 // https://annict.com/works/15391
 {"annict_id":15391,"mal_id":61014}
 ,
@@ -63062,7 +63062,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16294
 {"annict_id":16294,"mal_id":59217}
 ,
-// [null-null] OTHER: 朱色の仮面
+// [2026-AUTUMN] TV: 朱色の仮面
 // https://annict.com/works/16295
 {"annict_id":16295,"mal_id":61999}
 ,
@@ -67084,15 +67084,15 @@ export const annict: ArmEntry[] = [
 ,
 // [2025-SUMMER] WEB: 新機動戦記ガンダムW-Operation30th-
 // https://annict.com/works/17310
-{"annict_id":17310}
+{"annict_id":17310,"mal_id":62120}
 ,
 // [2025-SPRING] WEB: BLUE GALE XABUNGLE SIDE L
 // https://annict.com/works/17311
-{"annict_id":17311}
+{"annict_id":17311,"mal_id":62530}
 ,
 // [2025-AUTUMN] WEB: BLUE GALE XABUNGLE SIDE R
 // https://annict.com/works/17312
-{"annict_id":17312}
+{"annict_id":17312,"mal_id":62965}
 ,
 // [2027-WINTER] TV: 雑用付与術師が自分の最強に気付くまで
 // https://annict.com/works/17313
@@ -67237,5 +67237,13 @@ export const annict: ArmEntry[] = [
 // [2026-SPRING] MOVIE: ミュータント・タートルズ/おもちゃ大パニック!
 // https://annict.com/works/17348
 {"annict_id":17348}
+,
+// [2026-WINTER] OVA: Fate/Grand Order 藤丸立香はわからない Season3 OVA
+// https://annict.com/works/17349
+{"annict_id":17349,"mal_id":63806}
+,
+// [null-null] OTHER: 断罪された悪役令嬢は、逆行して完璧な悪女を目指す
+// https://annict.com/works/17350
+{"annict_id":17350}
 ,
 ]
