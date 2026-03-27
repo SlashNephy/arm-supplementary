@@ -22558,7 +22558,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/5678
 {"annict_id":5678,"mal_id":32827}
 ,
-// [2018-WINTER] WEB: タヌキとキツネ
+// [2018-WINTER] WEB: タヌキとキツネ（ショートアニメ）
 // https://annict.com/works/5679
 {"annict_id":5679,"mal_id":36979}
 ,
@@ -67245,5 +67245,13 @@ export const annict: ArmEntry[] = [
 // [null-null] OTHER: 断罪された悪役令嬢は、逆行して完璧な悪女を目指す
 // https://annict.com/works/17350
 {"annict_id":17350,"mal_id":63813}
+,
+// [2027-AUTUMN] TV: 葬送のフリーレン 第3期
+// https://annict.com/works/17351
+{"annict_id":17351,"mal_id":63816}
+,
+// [2026-AUTUMN] TV: タヌキとキツネ
+// https://annict.com/works/17352
+{"annict_id":17352}
 ,
 ]
