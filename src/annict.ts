@@ -67276,6 +67276,6 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] TV: ぷにるんず ぷに4
 // https://annict.com/works/17358
-{"annict_id":17358}
+{"annict_id":17358,"mal_id":63823}
 ,
 ]
