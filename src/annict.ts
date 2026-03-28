@@ -65262,7 +65262,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16850
 {"annict_id":16850}
 ,
-// [2026-null] TV: PSYREN -サイレン-
+// [2026-AUTUMN] TV: PSYREN -サイレン-
 // https://annict.com/works/16852
 {"annict_id":16852,"mal_id":63098}
 ,
@@ -67273,5 +67273,9 @@ export const annict: ArmEntry[] = [
 // [null-null] TV: 異世界でチート能力を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～ 第2期
 // https://annict.com/works/17357
 {"annict_id":17357,"mal_id":63822}
+,
+// [null-null] TV: ぷにるんず ぷに4
+// https://annict.com/works/17358
+{"annict_id":17358}
 ,
 ]
