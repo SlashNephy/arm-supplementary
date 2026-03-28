@@ -64274,7 +64274,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16601
 {"annict_id":16601,"mal_id":59640}
 ,
-// [2026-null] TV: てつりょー！meet with 鉄道むすめ
+// [2026-AUTUMN] TV: てつりょー！meet with 鉄道むすめ
 // https://annict.com/works/16602
 {"annict_id":16602,"mal_id":62615}
 ,
