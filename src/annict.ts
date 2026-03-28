@@ -39002,7 +39002,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/10257
 {"annict_id":10257}
 ,
-// [2026-null] TV: 転生したら剣でしたII
+// [2026-AUTUMN] TV: 転生したら剣でしたII
 // https://annict.com/works/10258
 {"annict_id":10258,"mal_id":53913}
 ,
@@ -64034,7 +64034,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16539
 {"annict_id":16539,"mal_id":62987,"syobocal_tid":7721}
 ,
-// [null-null] TV: 風を継ぐもの
+// [2027-WINTER] TV: 風を継ぐもの
 // https://annict.com/works/16540
 {"annict_id":16540,"mal_id":62483}
 ,
@@ -64146,7 +64146,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16568
 {"annict_id":16568,"mal_id":54909}
 ,
-// [2026-null] TV: 花織さんは転生しても喧嘩がしたい
+// [2026-SUMMER] TV: 花織さんは転生しても喧嘩がしたい
 // https://annict.com/works/16569
 {"annict_id":16569,"mal_id":62535}
 ,
@@ -65494,7 +65494,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16909
 {"annict_id":16909,"mal_id":63147}
 ,
-// [2026-null] TV: 乙女怪獣キャラメリゼ
+// [2026-SUMMER] TV: 乙女怪獣キャラメリゼ
 // https://annict.com/works/16910
 {"annict_id":16910,"mal_id":63150}
 ,
@@ -67265,5 +67265,9 @@ export const annict: ArmEntry[] = [
 // [null-null] TV: 勇者刑に処す 懲罰勇者9004隊刑務記録 第2期
 // https://annict.com/works/17355
 {"annict_id":17355,"mal_id":63820}
+,
+// [2026-null] MOVIE: 風を継ぐもの 劇場先行版
+// https://annict.com/works/17356
+{"annict_id":17356}
 ,
 ]
