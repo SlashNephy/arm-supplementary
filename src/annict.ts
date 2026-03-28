@@ -67270,12 +67270,16 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17356
 {"annict_id":17356}
 ,
-// [null-null] TV: 異世界でチート能力を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～ 第2期
+// [null-null] TV: 異世界でチート能力を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～ 2nd Season
 // https://annict.com/works/17357
 {"annict_id":17357,"mal_id":63822}
 ,
 // [null-null] TV: ぷにるんず ぷに4
 // https://annict.com/works/17358
 {"annict_id":17358,"mal_id":63823}
+,
+// [2026-null] WEB: スティール・ボール・ラン ジョジョの奇妙な冒険 2nd STAGE
+// https://annict.com/works/17359
+{"annict_id":17359}
 ,
 ]
