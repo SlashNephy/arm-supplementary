@@ -63190,7 +63190,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16326
 {"annict_id":16326}
 ,
-// [2026-null] TV: ドッジ弾子
+// [2026-SUMMER] TV: 炎の闘球女 ドッジ弾子
 // https://annict.com/works/16328
 {"annict_id":16328,"mal_id":62031}
 ,
