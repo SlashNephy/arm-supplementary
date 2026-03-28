@@ -50130,7 +50130,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/13051
 {"annict_id":13051}
 ,
-// [2026-null] TV: 攻殻機動隊 THE GHOST IN THE SHELL
+// [2026-SUMMER] TV: 攻殻機動隊 THE GHOST IN THE SHELL
 // https://annict.com/works/13052
 {"annict_id":13052,"mal_id":58929}
 ,
@@ -61070,7 +61070,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15794
 {"annict_id":15794,"mal_id":61379,"syobocal_tid":7427}
 ,
-// [2026-AUTUMN] TV: アオのハコ 第2期
+// [2026-AUTUMN] TV: アオのハコ Season2
 // https://annict.com/works/15795
 {"annict_id":15795,"mal_id":61323}
 ,
