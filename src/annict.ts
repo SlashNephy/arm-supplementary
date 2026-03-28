@@ -33026,7 +33026,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/8631
 {"annict_id":8631,"mal_id":49220,"syobocal_tid":6384}
 ,
-// [2026-null] TV: 幼女戦記Ⅱ
+// [2026-SUMMER] TV: 幼女戦記Ⅱ
 // https://annict.com/works/8632
 {"annict_id":8632,"mal_id":49233}
 ,
@@ -65090,7 +65090,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16807
 {"annict_id":16807}
 ,
-// [2026-null] TV: うちの弟どもがすみません
+// [2026-SUMMER] TV: うちの弟どもがすみません
 // https://annict.com/works/16808
 {"annict_id":16808,"mal_id":63061}
 ,
@@ -67269,5 +67269,9 @@ export const annict: ArmEntry[] = [
 // [2026-null] MOVIE: 風を継ぐもの 劇場先行版
 // https://annict.com/works/17356
 {"annict_id":17356}
+,
+// [null-null] TV: 異世界でチート能力を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～ 第2期
+// https://annict.com/works/17357
+{"annict_id":17357,"mal_id":63822}
 ,
 ]
