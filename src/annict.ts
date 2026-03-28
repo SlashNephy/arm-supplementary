@@ -67258,4 +67258,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17353
 {"annict_id":17353,"mal_id":63817}
 ,
+// [2026-SUMMER] MOVIE: 死亡遊戯で飯を食う。 44:CLOUDY BEACH
+// https://annict.com/works/17354
+{"annict_id":17354,"mal_id":63819}
+,
+// [null-null] TV: 勇者刑に処す 懲罰勇者9004隊刑務記録 第2期
+// https://annict.com/works/17355
+{"annict_id":17355,"mal_id":63820}
+,
 ]
