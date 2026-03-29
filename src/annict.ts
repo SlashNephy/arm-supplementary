@@ -57796,7 +57796,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2025-SPRING] TV: 遊☆戯☆王デュエルモンスターズGX 20th Remaster
 // https://annict.com/works/14975
-{"annict_id":14975,"syobocal_tid":7728}
+{"annict_id":14975,"syobocal_tid":329}
 ,
 // [2025-SPRING] WEB: Yu-Gi-Oh! CARD GAME THE CHRONICLES
 // https://annict.com/works/14976
