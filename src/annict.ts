@@ -49398,7 +49398,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/12867
 {"annict_id":12867,"syobocal_tid":7055}
 ,
-// [2026-SUMMER] MOVIE: 新劇場版☆ケロロ軍曹 復活して速攻地球滅亡の危機であります！
+// [2026-SPRING] MOVIE: 新劇場版☆ケロロ軍曹 復活して速攻地球滅亡の危機であります！
 // https://annict.com/works/12868
 {"annict_id":12868,"mal_id":58773}
 ,
@@ -67282,7 +67282,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17359
 {"annict_id":17359}
 ,
-// [2026-SPRING] TV: Re:ゼロから始める休憩時間 4th season
+// [2026-SPRING] WEB: Re:ゼロから始める休憩時間 4th season
 // https://annict.com/works/17360
 {"annict_id":17360,"mal_id":63830}
 ,
