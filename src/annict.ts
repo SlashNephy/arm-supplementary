@@ -64278,7 +64278,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16602
 {"annict_id":16602,"mal_id":62615}
 ,
-// [null-null] TV: 幼稚園WARS
+// [2027-SPRING] TV: 幼稚園WARS
 // https://annict.com/works/16603
 {"annict_id":16603,"mal_id":62613}
 ,
@@ -67281,5 +67281,13 @@ export const annict: ArmEntry[] = [
 // [2026-null] WEB: スティール・ボール・ラン ジョジョの奇妙な冒険 2nd STAGE
 // https://annict.com/works/17359
 {"annict_id":17359}
+,
+// [2026-SPRING] TV: Re:ゼロから始める休憩時間 4th season
+// https://annict.com/works/17360
+{"annict_id":17360,"mal_id":63830}
+,
+// [2026-SUMMER] TV: 正反対な君と僕 第2期
+// https://annict.com/works/17361
+{"annict_id":17361,"mal_id":63832}
 ,
 ]
