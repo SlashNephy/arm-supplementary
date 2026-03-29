@@ -58040,7 +58040,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: 魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance
 // https://annict.com/works/15036
-{"annict_id":15036,"mal_id":60637}
+{"annict_id":15036,"mal_id":60637,"syobocal_tid":7823}
 ,
 // [2024-AUTUMN] WEB: モンスターストライク エル 堕天の覚醒
 // https://annict.com/works/15037
