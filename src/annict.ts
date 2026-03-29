@@ -51062,7 +51062,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/13285
 {"annict_id":13285}
 ,
-// [2026-null] TV: 東京リベンジャーズ 三天戦争編
+// [2026-AUTUMN] TV: 東京リベンジャーズ 三天戦争編
 // https://annict.com/works/13286
 {"annict_id":13286,"mal_id":59088}
 ,
@@ -64390,7 +64390,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16630
 {"annict_id":16630}
 ,
-// [2026-null] TV: レッツゴー怪奇組
+// [2026-SUMMER] TV: レッツゴー怪奇組
 // https://annict.com/works/16632
 {"annict_id":16632,"mal_id":62683}
 ,
@@ -65622,7 +65622,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16941
 {"annict_id":16941,"mal_id":58780}
 ,
-// [null-null] OTHER: 桃源暗鬼 日光・華厳の滝編
+// [2026-AUTUMN] TV: 桃源暗鬼 ～日光・華厳の滝編～
 // https://annict.com/works/16942
 {"annict_id":16942,"mal_id":63181}
 ,
@@ -65970,7 +65970,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17028
 {"annict_id":17028,"mal_id":63284}
 ,
-// [2026-WINTER] WEB: ちょびっと！じごくらく
+// [2026-WINTER] WEB: ちょびっと！じごくらく！
 // https://annict.com/works/17029
 {"annict_id":17029}
 ,
@@ -67288,6 +67288,14 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: 正反対な君と僕 第2期
 // https://annict.com/works/17361
-{"annict_id":17361,"mal_id":63832}
+{"annict_id":17361,"mal_id":63832,"syobocal_tid":7825}
+,
+// [null-null] WEB: 刃牙道 第2クール
+// https://annict.com/works/17362
+{"annict_id":17362,"mal_id":63833}
+,
+// [null-null] WEB: 童話リベンジャーズ ぷち
+// https://annict.com/works/17363
+{"annict_id":17363,"mal_id":63834}
 ,
 ]
