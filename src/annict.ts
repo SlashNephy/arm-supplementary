@@ -46634,7 +46634,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/12173
 {"annict_id":12173,"mal_id":22275}
 ,
-// [null-null] MOVIE: 劇場版 陰の実力者になりたくて！ 残響編
+// [2027-null] MOVIE: 劇場版 陰の実力者になりたくて！ 残響編
 // https://annict.com/works/12174
 {"annict_id":12174,"mal_id":57584}
 ,
@@ -61978,7 +61978,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16022
 {"annict_id":16022,"mal_id":61663,"syobocal_tid":7704}
 ,
-// [null-null] TV: ヒロイン？聖女？いいえ、オールワークスメイドです（誇）！
+// [2026-SUMMER] TV: ヒロイン？聖女？いいえ、オールワークスメイドです（誇）！
 // https://annict.com/works/16023
 {"annict_id":16023,"mal_id":61686}
 ,
