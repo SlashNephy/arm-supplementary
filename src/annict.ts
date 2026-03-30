@@ -64204,7 +64204,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: こめかみっ！ Girl’s
 // https://annict.com/works/16583
-{"annict_id":16583}
+{"annict_id":16583,"syobocal_tid":7828}
 ,
 // [null-null] TV: 真･侍伝 YAIBA 第2期
 // https://annict.com/works/16584
@@ -65404,7 +65404,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: 大きい女の子は好きですか？
 // https://annict.com/works/16887
-{"annict_id":16887,"mal_id":63248}
+{"annict_id":16887,"mal_id":63248,"syobocal_tid":7826}
 ,
 // [2017-WINTER] WEB: わたしたち、ララループシー!
 // https://annict.com/works/16888
@@ -65988,7 +65988,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: 魔物喰らいの冒険者～俺だけ魔物を喰らって強くなる～
 // https://annict.com/works/17033
-{"annict_id":17033,"mal_id":63304}
+{"annict_id":17033,"mal_id":63304,"syobocal_tid":7827}
 ,
 // [2026-WINTER] MOVIE: NEEDY GIRL OVERDOSE -OVERTURE-
 // https://annict.com/works/17034
@@ -66252,7 +66252,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: 大賢者リドルの時間逆行
 // https://annict.com/works/17099
-{"annict_id":17099,"mal_id":63433}
+{"annict_id":17099,"mal_id":63433,"syobocal_tid":7830}
 ,
 // [2020-AUTUMN] WEB: MARS REDミニアニメ「ぜろきかん日報」
 // https://annict.com/works/17100
@@ -67297,5 +67297,13 @@ export const annict: ArmEntry[] = [
 // [null-null] WEB: 童話リベンジャーズ ぷち
 // https://annict.com/works/17363
 {"annict_id":17363,"mal_id":63834}
+,
+// [1994-AUTUMN] TV: ストレイシープの大冒険
+// https://annict.com/works/17364
+{"annict_id":17364}
+,
+// [2026-AUTUMN] OTHER: ゴールデンカムイ 暴走列車編
+// https://annict.com/works/17365
+{"annict_id":17365}
 ,
 ]
