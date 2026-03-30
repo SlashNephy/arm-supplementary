@@ -67300,7 +67300,7 @@ export const annict: ArmEntry[] = [
 ,
 // [1994-AUTUMN] TV: ストレイシープの大冒険
 // https://annict.com/works/17364
-{"annict_id":17364}
+{"annict_id":17364,"mal_id":55285}
 ,
 // [2026-AUTUMN] OTHER: ゴールデンカムイ 暴走列車編
 // https://annict.com/works/17365
