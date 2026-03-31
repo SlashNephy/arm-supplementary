@@ -67314,4 +67314,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17367
 {"annict_id":17367,"mal_id":62484}
 ,
+// [2026-WINTER] MOVIE: キング・オブ・キングス
+// https://annict.com/works/17368
+{"annict_id":17368}
+,
+// [2026-SPRING] TV: ネコのクラちゃん～クラレ王国 大陸のLutte Amor～
+// https://annict.com/works/17369
+{"annict_id":17369}
+,
 ]
