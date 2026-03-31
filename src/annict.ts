@@ -67310,4 +67310,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17366
 {"annict_id":17366}
 ,
+// [2026-null] TV: 千歳くんはラムネ瓶のなか 第2クール
+// https://annict.com/works/17367
+{"annict_id":17367,"mal_id":62484}
+,
 ]
