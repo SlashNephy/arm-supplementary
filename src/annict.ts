@@ -42734,7 +42734,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/11194
 {"annict_id":11194,"mal_id":56734,"syobocal_tid":7761}
 ,
-// [null-null] OTHER: 最強出涸らし皇子の暗躍帝位争い
+// [2026-SUMMER] TV: 最強出涸らし皇子の暗躍帝位争い
 // https://annict.com/works/11195
 {"annict_id":11195,"mal_id":56736}
 ,
@@ -67304,11 +67304,11 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] OTHER: ゴールデンカムイ 暴走列車編
 // https://annict.com/works/17365
-{"annict_id":17365}
+{"annict_id":17365,"mal_id":63850}
 ,
 // [2027-WINTER] TV: ラブライブ！蓮ノ空女学院スクールアイドルクラブ
 // https://annict.com/works/17366
-{"annict_id":17366}
+{"annict_id":17366,"mal_id":63851}
 ,
 // [2026-null] TV: 千歳くんはラムネ瓶のなか 第2クール
 // https://annict.com/works/17367
@@ -67321,5 +67321,9 @@ export const annict: ArmEntry[] = [
 // [2026-SPRING] TV: ネコのクラちゃん～クラレ王国 大陸のLutte Amor～
 // https://annict.com/works/17369
 {"annict_id":17369}
+,
+// [2026-SUMMER] MOVIE: パウ・パトロール ザ・ダイノ・ムービー
+// https://annict.com/works/17370
+{"annict_id":17370}
 ,
 ]
