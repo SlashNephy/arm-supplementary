@@ -67306,4 +67306,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17365
 {"annict_id":17365}
 ,
+// [2027-WINTER] TV: ラブライブ！蓮ノ空女学院スクールアイドルクラブ
+// https://annict.com/works/17366
+{"annict_id":17366}
+,
 ]
