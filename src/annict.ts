@@ -67330,4 +67330,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17371
 {"annict_id":17371}
 ,
+// [2026-SPRING] WEB: おねがい！ポコタ村長
+// https://annict.com/works/17372
+{"annict_id":17372}
+,
 ]
