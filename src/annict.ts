@@ -67336,6 +67336,6 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] TV: ザ・ファブル 第2期
 // https://annict.com/works/17373
-{"annict_id":17373}
+{"annict_id":17373,"mal_id":63885}
 ,
 ]
