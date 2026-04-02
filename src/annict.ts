@@ -67328,7 +67328,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: 身代わり令嬢を救ったのは冷酷無慈悲な氷の王子の愛でした
 // https://annict.com/works/17371
-{"annict_id":17371}
+{"annict_id":17371,"mal_id":63878}
 ,
 // [2026-SPRING] WEB: おねがい！ポコタ村長
 // https://annict.com/works/17372
