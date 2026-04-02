@@ -49244,7 +49244,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2024-SUMMER] MOVIE: KING OF PRISM -Dramatic PRISM.1-
 // https://annict.com/works/12829
-{"annict_id":12829,"mal_id":59275}
+{"annict_id":12829,"mal_id":63877}
 ,
 // [2025-WINTER] TV: 全修。
 // https://annict.com/works/12830
@@ -67337,5 +67337,17 @@ export const annict: ArmEntry[] = [
 // [null-null] TV: ザ・ファブル 第2期
 // https://annict.com/works/17373
 {"annict_id":17373,"mal_id":63885}
+,
+// [2026-WINTER] WEB: AnimeCanvas コマーシャルフィルム
+// https://annict.com/works/17374
+{"annict_id":17374,"mal_id":63859}
+,
+// [2026-WINTER] WEB: dアニメストアCM「#アニメとススメ」シーズン3
+// https://annict.com/works/17375
+{"annict_id":17375}
+,
+// [2026-WINTER] WEB: AnimeJapan新人クリエイター大賞2026
+// https://annict.com/works/17376
+{"annict_id":17376,"mal_id":63827}
 ,
 ]
