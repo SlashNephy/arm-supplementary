@@ -62400,7 +62400,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2025-SPRING] MOVIE: 忘星のヴァリシア 第二章：群青
 // https://annict.com/works/16128
-{"annict_id":16128}
+{"annict_id":16128,"mal_id":61865}
 ,
 // [2026-SPRING] MOVIE: 映画 ラブライブ！蓮ノ空女学院スクールアイドルクラブ Bloom Garden Party 
 // https://annict.com/works/16129
