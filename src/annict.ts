@@ -67350,4 +67350,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17376
 {"annict_id":17376,"mal_id":63827}
 ,
+// [2026-SPRING] WEB: ダイヤのAactII inパワプロ
+// https://annict.com/works/17377
+{"annict_id":17377}
+,
 ]
