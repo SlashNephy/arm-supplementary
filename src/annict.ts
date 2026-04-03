@@ -66920,7 +66920,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: ピノ＆シノビー
 // https://annict.com/works/17269
-{"annict_id":17269}
+{"annict_id":17269,"syobocal_tid":7833}
 ,
 // [2022-SUMMER] TV: タラ・ダンカン(2022年)
 // https://annict.com/works/17270
