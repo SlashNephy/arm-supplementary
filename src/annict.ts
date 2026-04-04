@@ -43040,7 +43040,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2023-SUMMER] WEB: 不死身な僕の日常 シーズン3
 // https://annict.com/works/11271
-{"annict_id":11271,"mal_id":50404}
+{"annict_id":11271,"mal_id":50404,"syobocal_tid":7835}
 ,
 // [1999-AUTUMN] TV: フューチュラマ シーズン2
 // https://annict.com/works/11272
