@@ -44,11 +44,11 @@ Currently, arm-supplementary has 47308 entries (+11288).
 | :--------------------------------------- | :---------------: | :--------------------------: |
 | [Annict](https://annict.com)             |    16838 (+256)   |             16582            |
 | [AniList](https://anilist.co)            |   24375 (+2212)   |             22163            |
-| [MyAnimeList](https://myanimelist.net)   |    30507 (+624)   |             29883            |
+| [MyAnimeList](https://myanimelist.net)   |    30509 (+626)   |             29883            |
 | [しょぼいカレンダー](https://cal.syoboi.jp)       |     6730 (+70)    |             6660             |
-| [AniDB](https://anidb.net)               |    14551 (+187)   |             14364            |
+| [AniDB](https://anidb.net)               |    14552 (+188)   |             14364            |
 | [Anime-Planet](https://anime-planet.com) |    26859 (+209)   |             26650            |
-| [aniSearch](https://anisearch.com)       |    20893 (+200)   |             20693            |
+| [aniSearch](https://anisearch.com)       |    20894 (+201)   |             20693            |
 | [Kitsu](https://kitsu.io)                |       0 (±0)      |               0              |
-| [LiveChart.me](https://livechart.me)     |    12345 (+190)   |             12155            |
+| [LiveChart.me](https://livechart.me)     |    12346 (+191)   |             12155            |
 | [Anime Notifier](https://notify.moe)     |       0 (±0)      |               0              |

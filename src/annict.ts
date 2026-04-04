@@ -62556,7 +62556,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2025-SPRING] WEB: 深夜ラーメンの誘惑
 // https://annict.com/works/16167
-{"annict_id":16167}
+{"annict_id":16167,"mal_id":61863}
 ,
 // [2025-AUTUMN] TV: 異世界かるてっと3
 // https://annict.com/works/16168
@@ -63516,7 +63516,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2025-AUTUMN] MOVIE: 機動戦士ガンダム 鉄血のオルフェンズ ウルズハント -小さな挑戦者の軌跡-
 // https://annict.com/works/16409
-{"annict_id":16409}
+{"annict_id":16409,"mal_id":62805}
 ,
 // [2023-WINTER] TV: Spicy Candy
 // https://annict.com/works/16410
@@ -64578,7 +64578,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16678
 {"annict_id":16678,"mal_id":3525}
 ,
-// [2025-AUTUMN] WEB: ザ・レンチキュラーズ a/
+// [2025-AUTUMN] WEB: ザ・レンチキュラーズ
 // https://annict.com/works/16679
 {"annict_id":16679}
 ,
@@ -65434,7 +65434,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16894
 {"annict_id":16894}
 ,
-// [null-null] OTHER: ザ・レンチキュラーズ a/b
+// [2026-SPRING] MOVIE: 完全版 ザ・レンチキュラーズ a/b
 // https://annict.com/works/16895
 {"annict_id":16895}
 ,
