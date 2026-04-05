@@ -67358,4 +67358,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17378
 {"annict_id":17378}
 ,
+// [2026-SUMMER] MOVIE: 映画名探偵プリキュア！
+// https://annict.com/works/17379
+{"annict_id":17379}
+,
 ]
