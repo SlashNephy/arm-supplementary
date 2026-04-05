@@ -67374,4 +67374,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17382
 {"annict_id":17382}
 ,
+// [2026-WINTER] WEB: マルちゃん ZUBAAAN！アニメ
+// https://annict.com/works/17383
+{"annict_id":17383}
+,
+// [2026-SPRING] WEB: 君を紡ぐ
+// https://annict.com/works/17384
+{"annict_id":17384}
+,
 ]
