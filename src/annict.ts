@@ -67360,7 +67360,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] MOVIE: 映画名探偵プリキュア！
 // https://annict.com/works/17379
-{"annict_id":17379}
+{"annict_id":17379,"mal_id":63903}
 ,
 // [2025-null] TV: 女体化した僕を騎士様達がねらってます 3rd
 // https://annict.com/works/17380
@@ -67369,5 +67369,9 @@ export const annict: ArmEntry[] = [
 // [2026-AUTUMN] MOVIE: ポールプリンセス‼︎ 新作CGポールダンスショー映像
 // https://annict.com/works/17381
 {"annict_id":17381}
+,
+// [2026-SPRING] WEB: どこにでもいるのに、どこにもいないアイツら(仮)
+// https://annict.com/works/17382
+{"annict_id":17382}
 ,
 ]
