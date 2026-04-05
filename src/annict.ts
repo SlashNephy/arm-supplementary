@@ -67362,4 +67362,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17379
 {"annict_id":17379}
 ,
+// [2025-null] TV: 女体化した僕を騎士様達がねらってます 3rd
+// https://annict.com/works/17380
+{"annict_id":17380}
+,
 ]
