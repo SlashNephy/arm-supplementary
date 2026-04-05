@@ -67382,4 +67382,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17384
 {"annict_id":17384}
 ,
+// [2026-SPRING] WEB: あかね小噺
+// https://annict.com/works/17385
+{"annict_id":17385}
+,
+// [2026-WINTER] WEB: 特装合体ロボ ジョブレイバー 逆襲のジョーカー！
+// https://annict.com/works/17386
+{"annict_id":17386,"mal_id":63896}
+,
 ]
