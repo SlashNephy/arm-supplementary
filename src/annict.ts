@@ -67366,4 +67366,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17380
 {"annict_id":17380}
 ,
+// [2026-AUTUMN] MOVIE: ポールプリンセス‼︎ 新作CGポールダンスショー映像
+// https://annict.com/works/17381
+{"annict_id":17381}
+,
 ]
