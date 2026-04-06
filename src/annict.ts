@@ -67394,4 +67394,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17387
 {"annict_id":17387}
 ,
+// [2022-WINTER] WEB: スターズこれくしょん！
+// https://annict.com/works/17388
+{"annict_id":17388,"mal_id":50934}
+,
+// [2013-SUMMER] MOVIE: 革命機ヴァルヴレイヴ スペシャルエディション
+// https://annict.com/works/17389
+{"annict_id":17389,"mal_id":21077}
+,
 ]
