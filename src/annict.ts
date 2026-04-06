@@ -67392,7 +67392,7 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] TV: 異世界魔王と召喚少女の奴隷魔術ULT
 // https://annict.com/works/17387
-{"annict_id":17387}
+{"annict_id":17387,"mal_id":63912}
 ,
 // [2022-WINTER] WEB: スターズこれくしょん！
 // https://annict.com/works/17388
