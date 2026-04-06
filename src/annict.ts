@@ -67278,7 +67278,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17358
 {"annict_id":17358,"mal_id":63823}
 ,
-// [2026-null] WEB: スティール・ボール・ラン ジョジョの奇妙な冒険 2nd STAGE
+// [2026-AUTUMN] WEB: スティール・ボール・ラン ジョジョの奇妙な冒険 2nd STAGE
 // https://annict.com/works/17359
 {"annict_id":17359}
 ,
@@ -67389,5 +67389,9 @@ export const annict: ArmEntry[] = [
 // [2026-WINTER] WEB: 特装合体ロボ ジョブレイバー 逆襲のジョーカー！
 // https://annict.com/works/17386
 {"annict_id":17386,"mal_id":63896}
+,
+// [null-null] TV: 異世界魔王と召喚少女の奴隷魔術ULT
+// https://annict.com/works/17387
+{"annict_id":17387}
 ,
 ]
