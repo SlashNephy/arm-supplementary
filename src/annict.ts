@@ -57886,7 +57886,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/14997
 {"annict_id":14997,"mal_id":51655}
 ,
-// [null-null] TV: 転生貴族、鑑定スキルで成り上がる 第3期
+// [2026-AUTUMN] TV: 転生貴族、鑑定スキルで成り上がる 第3期
 // https://annict.com/works/14998
 {"annict_id":14998,"mal_id":60601}
 ,
