@@ -67402,4 +67402,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17389
 {"annict_id":17389,"mal_id":21077}
 ,
+// [2026-SUMMER] WEB: LEGO ONE PIECE
+// https://annict.com/works/17390
+{"annict_id":17390}
+,
 ]
