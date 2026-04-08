@@ -64202,9 +64202,9 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16582
 {"annict_id":16582}
 ,
-// [2026-SPRING] TV: こめかみっ！ Girl’s
+// [2026-SPRING] TV: こめかみっ！ Girls
 // https://annict.com/works/16583
-{"annict_id":16583,"syobocal_tid":7828}
+{"annict_id":16583,"mal_id":63709,"syobocal_tid":7828}
 ,
 // [null-null] TV: 真･侍伝 YAIBA 第2期
 // https://annict.com/works/16584
