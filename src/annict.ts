@@ -42448,7 +42448,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: 北斗の拳 -FIST OF THE NORTH STAR-
 // https://annict.com/works/11123
-{"annict_id":11123,"mal_id":56646}
+{"annict_id":11123,"mal_id":56646,"syobocal_tid":7841}
 ,
 // [2024-WINTER] TV: 貼りまわれ！こいぬ
 // https://annict.com/works/11124
@@ -65376,7 +65376,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: おでかけ子ザメ シーズン2
 // https://annict.com/works/16880
-{"annict_id":16880,"mal_id":63125}
+{"annict_id":16880,"mal_id":63125,"syobocal_tid":7842}
 ,
 // [2026-WINTER] OTHER: エヴァンゲリオン放送30周年記念特別興行
 // https://annict.com/works/16881
@@ -66320,7 +66320,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: 百鬼夜行抄
 // https://annict.com/works/17116
-{"annict_id":17116,"mal_id":63469}
+{"annict_id":17116,"mal_id":63469,"syobocal_tid":7840}
 ,
 // [2014-SPRING] OVA: ミス・モノクローム OVA サッカー篇 SUPPORTER
 // https://annict.com/works/17117
