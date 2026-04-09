@@ -25092,7 +25092,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2018-SPRING] OVA: Free!-Dive to the Future- 第0話「早春のビルドアップ！」
 // https://annict.com/works/6316
-{"annict_id":6316}
+{"annict_id":6316,"mal_id":38027}
 ,
 // [2019-SPRING] MOVIE: きみと、波にのれたら
 // https://annict.com/works/6317
@@ -67409,5 +67409,41 @@ export const annict: ArmEntry[] = [
 // [2017-SPRING] OVA: ユーリ!!! on ICE Yuri Plisetsky GPF in Barcelona EX “Welcome to The Madness”
 // https://annict.com/works/17391
 {"annict_id":17391,"mal_id":35382}
+,
+// [2011-AUTUMN] OVA: うさぎドロップ OVA
+// https://annict.com/works/17392
+{"annict_id":17392,"mal_id":11113}
+,
+// [2009-SUMMER] OVA: うらおん!
+// https://annict.com/works/17393
+{"annict_id":17393,"mal_id":7017}
+,
+// [2010-SUMMER] OVA: うらおん!!
+// https://annict.com/works/17394
+{"annict_id":17394,"mal_id":9203}
+,
+// [2012-SPRING] OVA: 男子高校生の日常 OVA
+// https://annict.com/works/17395
+{"annict_id":17395,"mal_id":12893}
+,
+// [2011-SPRING] OVA: 屍鬼 OVA
+// https://annict.com/works/17396
+{"annict_id":17396,"mal_id":10083}
+,
+// [2017-SUMMER] OVA: 「劇場版 黒子のバスケ」NG集
+// https://annict.com/works/17397
+{"annict_id":17397,"mal_id":35658}
+,
+// [2012-SUMMER] OVA: 黒子のバスケNG集
+// https://annict.com/works/17398
+{"annict_id":17398,"mal_id":15487}
+,
+// [2014-WINTER] OVA: 黒子のバスケ 第2期NG集
+// https://annict.com/works/17399
+{"annict_id":17399,"mal_id":22673}
+,
+// [2015-SPRING] OVA: 黒子のバスケ 第3期NG集
+// https://annict.com/works/17400
+{"annict_id":17400,"mal_id":30311}
 ,
 ]
