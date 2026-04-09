@@ -34028,7 +34028,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2021-AUTUMN] TV: ヴァイオレット・エヴァーガーデン 特別編集版
 // https://annict.com/works/8947
-{"annict_id":8947}
+{"annict_id":8947,"mal_id":53672}
 ,
 // [2022-AUTUMN] MOVIE: 僕が愛したすべての君へ
 // https://annict.com/works/8948
@@ -67405,5 +67405,9 @@ export const annict: ArmEntry[] = [
 // [2026-SUMMER] WEB: LEGO ONE PIECE
 // https://annict.com/works/17390
 {"annict_id":17390}
+,
+// [2017-SPRING] OVA: ユーリ!!! on ICE Yuri Plisetsky GPF in Barcelona EX “Welcome to The Madness”
+// https://annict.com/works/17391
+{"annict_id":17391,"mal_id":35382}
 ,
 ]
