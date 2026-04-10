@@ -49496,7 +49496,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2024-SPRING] OVA: ゆるキャン△ SEASON3 映像特典
 // https://annict.com/works/12893
-{"annict_id":12893}
+{"annict_id":12893,"mal_id":58855}
 ,
 // [2016-SUMMER] WEB: イタダキノサキ
 // https://annict.com/works/12894
