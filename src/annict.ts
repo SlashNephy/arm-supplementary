@@ -67454,4 +67454,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17402
 {"annict_id":17402}
 ,
+// [2006-SUMMER] OVA: うたわれるもの ショートエピソード
+// https://annict.com/works/17403
+{"annict_id":17403,"mal_id":1830}
+,
 ]
