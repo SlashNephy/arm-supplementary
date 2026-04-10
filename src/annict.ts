@@ -67446,4 +67446,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17400
 {"annict_id":17400,"mal_id":30311}
 ,
+// [null-null] OTHER: デート・ア・ライブF Last Date
+// https://annict.com/works/17401
+{"annict_id":17401}
+,
 ]
