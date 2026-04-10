@@ -67450,4 +67450,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17401
 {"annict_id":17401}
 ,
+// [2026-SPRING] WEB: 崩壊：スターレイル x MAPPA オリジナルアニメ·コンセプトPV 「午後の死」
+// https://annict.com/works/17402
+{"annict_id":17402}
+,
 ]
