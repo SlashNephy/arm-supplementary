@@ -67458,4 +67458,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17403
 {"annict_id":17403,"mal_id":1830}
 ,
+// [2016-WINTER] OVA: うたわれるもの 偽りの仮面 オリジナルエピソードムービー
+// https://annict.com/works/17404
+{"annict_id":17404,"mal_id":33208}
+,
+// [2018-SPRING] OVA: うたわれるもの 散りゆく者への子守唄「トゥスクル皇女の華麗なる日々」
+// https://annict.com/works/17405
+{"annict_id":17405,"mal_id":36777}
+,
 ]
