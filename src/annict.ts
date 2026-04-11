@@ -66858,7 +66858,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17252
 {"annict_id":17252,"mal_id":63730}
 ,
-// [2026-SPRING] WEB: The Bloody Mary
+// [2026-SPRING] WEB: ブラッディ・メアリー
 // https://annict.com/works/17253
 {"annict_id":17253}
 ,
