@@ -67546,4 +67546,28 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17425
 {"annict_id":17425,"mal_id":9673}
 ,
+// [2012-AUTUMN] OVA: 中二病でも恋がしたい！未放送ショートムービー「DEPTH OF FIELD ～ 愛と憎しみ劇場」
+// https://annict.com/works/17426
+{"annict_id":17426,"mal_id":15879}
+,
+// [2014-WINTER] OVA: 中二病でも恋がしたい！戀 未放送ショートムービー
+// https://annict.com/works/17427
+{"annict_id":17427,"mal_id":23237}
+,
+// [2011-SUMMER] OVA: HELLSING THE DAWN
+// https://annict.com/works/17428
+{"annict_id":17428,"mal_id":11077}
+,
+// [2014-SUMMER] OVA: 僕らはみんな河合荘 映像特典
+// https://annict.com/works/17429
+{"annict_id":17429,"mal_id":24973}
+,
+// [2009-SPRING] OVA: テニスの王子様 OVA ANOTHER STORY～過去と未来のメッセージ ちびキャラフラッシュアニメ
+// https://annict.com/works/17430
+{"annict_id":17430,"mal_id":6999}
+,
+// [2011-SUMMER] OVA: テニスの王子様 OVA ANOTHER STORYⅡ～アノトキノボクラ ちびキャラフラッシュアニメ
+// https://annict.com/works/17431
+{"annict_id":17431,"mal_id":13073}
+,
 ]
