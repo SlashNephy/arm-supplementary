@@ -52876,7 +52876,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2023-AUTUMN] WEB: 10分くらいで振り返る『君に届け』
 // https://annict.com/works/13739
-{"annict_id":13739}
+{"annict_id":13739,"mal_id":58978}
 ,
 // [1962-SUMMER] MOVIE: おとぎの世界旅行
 // https://annict.com/works/13740
@@ -67473,5 +67473,21 @@ export const annict: ArmEntry[] = [
 // [2012-WINTER] OVA: さよなら絶望先生 Blu-ray BOX 記念盤 完全新作話
 // https://annict.com/works/17407
 {"annict_id":17407,"mal_id":10469}
+,
+// [2011-SPRING] OVA: 君に届け ミニトド劇場
+// https://annict.com/works/17408
+{"annict_id":17408,"mal_id":10536}
+,
+// [2009-SUMMER] OVA: PandoraHearts おまけ
+// https://annict.com/works/17409
+{"annict_id":17409,"mal_id":6896}
+,
+// [2011-SPRING] OVA: べるぜバブ ショートコンテンツ
+// https://annict.com/works/17410
+{"annict_id":17410,"mal_id":10479}
+,
+// [2010-SPRING] OVA: 家庭教師ヒットマンREBORN! ミスターリボックのちゃおちゃおインタビュー
+// https://annict.com/works/17411
+{"annict_id":17411,"mal_id":9023}
 ,
 ]
