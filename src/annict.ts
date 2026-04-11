@@ -67534,4 +67534,16 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17422
 {"annict_id":17422,"mal_id":6299}
 ,
+// [2014-AUTUMN] OVA: 繰繰れ！コックリさん OVA
+// https://annict.com/works/17423
+{"annict_id":17423,"mal_id":27945}
+,
+// [2010-WINTER] OVA: テガミバチ学園
+// https://annict.com/works/17424
+{"annict_id":17424,"mal_id":8022}
+,
+// [2010-AUTUMN] OVA: 裏テガミバチ
+// https://annict.com/works/17425
+{"annict_id":17425,"mal_id":9673}
+,
 ]
