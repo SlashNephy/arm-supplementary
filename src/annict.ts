@@ -67586,4 +67586,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17435
 {"annict_id":17435,"mal_id":24727}
 ,
+// [2015-SUMMER] OVA: ヤンキー君な山田くんとメガネちゃんと魔女
+// https://annict.com/works/17436
+{"annict_id":17436,"mal_id":30641}
+,
 ]
