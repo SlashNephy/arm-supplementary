@@ -67466,4 +67466,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17405
 {"annict_id":17405,"mal_id":36777}
 ,
+// [1998-SUMMER] OVA: すてきですわ、さくらちゃん！ 知世のカードキャプターさくら 活躍ビデオ日記！
+// https://annict.com/works/17406
+{"annict_id":17406,"mal_id":2424}
+,
+// [2012-WINTER] OVA: さよなら絶望先生 Blu-ray BOX 記念盤 完全新作話
+// https://annict.com/works/17407
+{"annict_id":17407,"mal_id":10469}
+,
 ]
