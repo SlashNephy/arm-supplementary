@@ -67574,4 +67574,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17432
 {"annict_id":17432}
 ,
+// [2026-AUTUMN] MOVIE: カードファイト!! ヴァンガード Divinez 運命星戦編
+// https://annict.com/works/17433
+{"annict_id":17433,"mal_id":63938}
+,
+// [2027-null] TV: カードファイト!! ヴァンガード 完全新作
+// https://annict.com/works/17434
+{"annict_id":17434}
+,
 ]
