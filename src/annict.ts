@@ -67494,4 +67494,44 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17412
 {"annict_id":17412,"mal_id":12067}
 ,
+// [2012-SPRING] OVA: ハイスクールD×D 妄想爆揺解除オリジナルビデオ
+// https://annict.com/works/17413
+{"annict_id":17413,"mal_id":13357}
+,
+// [2015-SUMMER] OVA: ハイスクールD×D BorN 妄想爆揺解除オリジナルビデオ
+// https://annict.com/works/17414
+{"annict_id":17414,"mal_id":31326}
+,
+// [2011-WINTER] OVA: 侵略！イカ娘 ミニイカ娘 ショートストーリー
+// https://annict.com/works/17415
+{"annict_id":17415,"mal_id":9888}
+,
+// [2012-AUTUMN] OVA: 黒子のバスケ「お喋りしよっか」
+// https://annict.com/works/17416
+{"annict_id":17416,"mal_id":17259}
+,
+// [2014-AUTUMN] OVA: 黒子のバスケ「お喋りでもしませんか」
+// https://annict.com/works/17417
+{"annict_id":17417,"mal_id":29583}
+,
+// [2017-WINTER] OVA: 黒子のバスケ「お喋りしようか」
+// https://annict.com/works/17418
+{"annict_id":17418,"mal_id":34784}
+,
+// [2004-SPRING] OVA: マリア様にはないしょ。
+// https://annict.com/works/17419
+{"annict_id":17419,"mal_id":3468}
+,
+// [2004-AUTUMN] OVA: マリア様にはないしょ。(第2期)
+// https://annict.com/works/17420
+{"annict_id":17420,"mal_id":3469}
+,
+// [2006-AUTUMN] OVA: マリア様にはないしょ。(第3期)
+// https://annict.com/works/17421
+{"annict_id":17421,"mal_id":2954}
+,
+// [2009-WINTER] OVA: マリア様にはないしょ。(第4期)
+// https://annict.com/works/17422
+{"annict_id":17422,"mal_id":6299}
+,
 ]
