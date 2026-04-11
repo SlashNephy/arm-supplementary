@@ -67570,4 +67570,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17431
 {"annict_id":17431,"mal_id":13073}
 ,
+// [2025-SPRING] WEB: りんとらわーるど
+// https://annict.com/works/17432
+{"annict_id":17432}
+,
 ]
