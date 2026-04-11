@@ -67490,4 +67490,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17411
 {"annict_id":17411,"mal_id":9023}
 ,
+// [1998-AUTUMN] OVA: るろうに剣心 -明治剣客浪漫譚- 第95話「流浪の最果て・緋と瑠璃の絆は潮騒の中に」
+// https://annict.com/works/17412
+{"annict_id":17412,"mal_id":12067}
+,
 ]
