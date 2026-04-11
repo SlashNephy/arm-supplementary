@@ -67212,9 +67212,9 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: カードファイト!! ヴァンガード 15thリマスター
 // https://annict.com/works/17342
-{"annict_id":17342}
+{"annict_id":17342,"syobocal_tid":2088}
 ,
-// [2026-SUMMER] WEB: マツケンアニメ
+// [2026-SUMMER] WEB: マツケンアニメ〜コレ成敗してもいいですか？〜
 // https://annict.com/works/17343
 {"annict_id":17343}
 ,
