@@ -23552,7 +23552,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2014-WINTER] OVA: 未確認で進行形 OVA
 // https://annict.com/works/5928
-{"annict_id":5928}
+{"annict_id":5928,"mal_id":22071}
 ,
 // [2015-WINTER] OVA: ウィッチクラフトワークス OAD「多華宮君と妹の悪巧み」
 // https://annict.com/works/5929
@@ -66860,7 +66860,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] WEB: ブラッディ・メアリー
 // https://annict.com/works/17253
-{"annict_id":17253}
+{"annict_id":17253,"mal_id":63939}
 ,
 // [2022-AUTUMN] WEB: おしゃべり ピーヨ
 // https://annict.com/works/17254
@@ -67581,5 +67581,9 @@ export const annict: ArmEntry[] = [
 // [2027-null] TV: カードファイト!! ヴァンガード 完全新作
 // https://annict.com/works/17434
 {"annict_id":17434}
+,
+// [2011-SUMMER] WEB: バカとテストと召喚獣にっ！ 『魔法秀吉ひでよし』
+// https://annict.com/works/17435
+{"annict_id":17435,"mal_id":24727}
 ,
 ]
