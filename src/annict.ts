@@ -67594,4 +67594,52 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17437
 {"annict_id":17437,"mal_id":37103}
 ,
+// [2008-SUMMER] OVA: キミキス pure rouge 特別編「love fighter」
+// https://annict.com/works/17438
+{"annict_id":17438,"mal_id":4205}
+,
+// [2008-SUMMER] OVA: 瀬戸の花嫁 ファンディスク 新規制作映像
+// https://annict.com/works/17439
+{"annict_id":17439,"mal_id":5199}
+,
+// [2012-WINTER] OVA: ギルクラ4コマ劇場 ぎる亭くら雲
+// https://annict.com/works/17440
+{"annict_id":17440,"mal_id":13561}
+,
+// [2015-WINTER] OVA: 「ちび☆ローリング☆ガールズ」コロコロ劇場
+// https://annict.com/works/17441
+{"annict_id":17441,"mal_id":30499}
+,
+// [2016-SUMMER] OVA: ばくおん!!の小部屋
+// https://annict.com/works/17442
+{"annict_id":17442,"mal_id":34623}
+,
+// [2011-SUMMER] WEB: 境界線上のホライゾン 極東なるほど講座
+// https://annict.com/works/17443
+{"annict_id":17443,"mal_id":22113}
+,
+// [2018-AUTUMN] OVA: 境界線上のホライゾンXXI-PV
+// https://annict.com/works/17444
+{"annict_id":17444,"mal_id":38046}
+,
+// [2016-AUTUMN] WEB: アッカァくんのACCA講座
+// https://annict.com/works/17445
+{"annict_id":17445,"mal_id":55326}
+,
+// [2017-AUTUMN] WEB: ○○さえいればいい。
+// https://annict.com/works/17446
+{"annict_id":17446,"mal_id":37045}
+,
+// [2016-AUTUMN] OVA: SERVAMP-サーヴァンプ- オリジナルビデオアニメーション
+// https://annict.com/works/17447
+{"annict_id":17447,"mal_id":33994}
+,
+// [2016-AUTUMN] OVA: 91Daze
+// https://annict.com/works/17448
+{"annict_id":17448,"mal_id":36756}
+,
+// [2003-AUTUMN] OVA: 藍より青し～縁～ 「美雪」
+// https://annict.com/works/17449
+{"annict_id":17449,"mal_id":3266}
+,
 ]
