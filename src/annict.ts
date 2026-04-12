@@ -67590,4 +67590,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17436
 {"annict_id":17436,"mal_id":30641}
 ,
+// [2016-AUTUMN] OVA: ダンガンロンパ３ -The End of 希望ヶ峰学園- モノクマ劇場
+// https://annict.com/works/17437
+{"annict_id":17437,"mal_id":37103}
+,
 ]

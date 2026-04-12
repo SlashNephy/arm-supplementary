@@ -38,17 +38,17 @@ export const fetchArmEntries = async (): Promise<ArmEntry[]> => {
 
 ## Statistics
 
-Currently, arm-supplementary has 47245 entries (+11210).
+Currently, arm-supplementary has 47246 entries (+11211).
 
 | Service                                  | arm-supplementary | arm / anime-offline-database |
 | :--------------------------------------- | :---------------: | :--------------------------: |
-| [Annict](https://annict.com)             |    16897 (+295)   |             16602            |
-| [AniList](https://anilist.co)            |   24417 (+2245)   |             22172            |
-| [MyAnimeList](https://myanimelist.net)   |    30556 (+660)   |             29896            |
+| [Annict](https://annict.com)             |    16898 (+296)   |             16602            |
+| [AniList](https://anilist.co)            |   24418 (+2246)   |             22172            |
+| [MyAnimeList](https://myanimelist.net)   |    30557 (+661)   |             29896            |
 | [しょぼいカレンダー](https://cal.syoboi.jp)       |     6740 (+74)    |             6666             |
 | [AniDB](https://anidb.net)               |    14550 (+186)   |             14364            |
-| [Anime-Planet](https://anime-planet.com) |    26902 (+253)   |             26649            |
-| [aniSearch](https://anisearch.com)       |    20933 (+238)   |             20695            |
+| [Anime-Planet](https://anime-planet.com) |    26903 (+254)   |             26649            |
+| [aniSearch](https://anisearch.com)       |    20934 (+239)   |             20695            |
 | [Kitsu](https://kitsu.io)                |       0 (±0)      |               0              |
-| [LiveChart.me](https://livechart.me)     |    12386 (+231)   |             12155            |
+| [LiveChart.me](https://livechart.me)     |    12387 (+232)   |             12155            |
 | [Anime Notifier](https://notify.moe)     |       0 (±0)      |               0              |
