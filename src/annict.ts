@@ -52488,7 +52488,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2017-SUMMER] MOVIE: 劇場版 響け！ユーフォニアム～フォトセッションへようこそ
 // https://annict.com/works/13642
-{"annict_id":13642}
+{"annict_id":13642,"mal_id":37577}
 ,
 // [1972-SPRING] TV: アニメ・ドキュメント ミュンヘンへの道
 // https://annict.com/works/13643
@@ -67645,5 +67645,17 @@ export const annict: ArmEntry[] = [
 // [2003-SUMMER] OVA: ヒートガイジェイ 第EX話「虜(とりこ) -ANGEL-」
 // https://annict.com/works/17450
 {"annict_id":17450,"mal_id":1774}
+,
+// [2007-SUMMER] OVA: ときめきメモリアル Only Love TV未放送話
+// https://annict.com/works/17451
+{"annict_id":17451,"mal_id":3686}
+,
+// [2014-AUTUMN] OVA: 放課後の王子様
+// https://annict.com/works/17452
+{"annict_id":17452,"mal_id":24457}
+,
+// [2006-SPRING] OVA: 錬金3級 まじかる？ぽか～ん OVA
+// https://annict.com/works/17453
+{"annict_id":17453,"mal_id":1489}
 ,
 ]
