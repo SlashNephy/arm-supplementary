@@ -67642,4 +67642,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17449
 {"annict_id":17449,"mal_id":3266}
 ,
+// [2003-SUMMER] OVA: ヒートガイジェイ 第EX話「虜(とりこ) -ANGEL-」
+// https://annict.com/works/17450
+{"annict_id":17450,"mal_id":1774}
+,
 ]
