@@ -67658,4 +67658,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17453
 {"annict_id":17453,"mal_id":1489}
 ,
+// [null-null] TV: ブラックチャンネル
+// https://annict.com/works/17454
+{"annict_id":17454}
+,
 ]
