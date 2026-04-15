@@ -67026,7 +67026,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17295
 {"annict_id":17295,"mal_id":63751}
 ,
-// [2026-null] TV: 捨てられ聖女の異世界ごはん旅 隠れスキルでキャンピングカーを召喚しました
+// [2026-SUMMER] TV: 捨てられ聖女の異世界ごはん旅 隠れスキルでキャンピングカーを召喚しました
 // https://annict.com/works/17296
 {"annict_id":17296,"mal_id":63752}
 ,
