@@ -67662,4 +67662,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17454
 {"annict_id":17454}
 ,
+// [2027-null] TV: 魔女と傭兵
+// https://annict.com/works/17455
+{"annict_id":17455,"mal_id":63958}
+,
 ]
