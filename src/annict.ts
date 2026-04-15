@@ -67666,4 +67666,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17455
 {"annict_id":17455,"mal_id":63958}
 ,
+// [null-null] OTHER: 緋弾のアリア 新作ショートアニメ
+// https://annict.com/works/17456
+{"annict_id":17456}
+,
 ]
