@@ -67668,10 +67668,14 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] OTHER: 緋弾のアリア 新作ショートアニメ
 // https://annict.com/works/17456
-{"annict_id":17456}
+{"annict_id":17456,"mal_id":63960}
 ,
 // [2013-SUMMER] MOVIE: 劇場版 中二病でも恋がしたい！Lite 「わたしのお兄ちゃん2」
 // https://annict.com/works/17457
 {"annict_id":17457,"mal_id":22859}
+,
+// [2026-SPRING] WEB: 『彼女、お借りします』第5期振り返りミニアニメ
+// https://annict.com/works/17458
+{"annict_id":17458}
 ,
 ]
