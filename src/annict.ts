@@ -67670,4 +67670,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17456
 {"annict_id":17456}
 ,
+// [2013-SUMMER] MOVIE: 劇場版 中二病でも恋がしたい！Lite 「わたしのお兄ちゃん2」
+// https://annict.com/works/17457
+{"annict_id":17457,"mal_id":22859}
+,
 ]
