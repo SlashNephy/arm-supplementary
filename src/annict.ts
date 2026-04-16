@@ -67682,4 +67682,24 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17459
 {"annict_id":17459,"mal_id":11911}
 ,
+// [2012-AUTUMN] OVA: そーどあーと・おふらいん
+// https://annict.com/works/17460
+{"annict_id":17460,"mal_id":16099}
+,
+// [2014-SPRING] OVA: そーどあーと・おふらいん Extra Edition
+// https://annict.com/works/17461
+{"annict_id":17461,"mal_id":21879}
+,
+// [2014-AUTUMN] OVA: そーどあーと・おふらいん つー
+// https://annict.com/works/17462
+{"annict_id":17462,"mal_id":28063}
+,
+// [2017-SUMMER] OVA: そーどあーと・おふらいん -おーでぃなる・すけーる-
+// https://annict.com/works/17463
+{"annict_id":17463,"mal_id":36439}
+,
+// [2021-SUMMER] OVA: ヘタリア World★Stars 初収録新作エピソード
+// https://annict.com/works/17464
+{"annict_id":17464,"mal_id":48627}
+,
 ]
