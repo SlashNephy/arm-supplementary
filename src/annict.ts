@@ -67678,4 +67678,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17458
 {"annict_id":17458}
 ,
+// [2011-SUMMER] OVA: プリティーリズム・オーロラドリーム プリズム笑劇場
+// https://annict.com/works/17459
+{"annict_id":17459,"mal_id":11911}
+,
 ]
