@@ -43654,7 +43654,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/11424
 {"annict_id":11424}
 ,
-// [1981-SUMMER] MOVIE: ヘビーメタル
+// [1981-SUMMER] MOVIE: ヘビー・メタル
 // https://annict.com/works/11425
 {"annict_id":11425}
 ,
