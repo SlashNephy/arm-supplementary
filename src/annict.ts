@@ -67702,4 +67702,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17464
 {"annict_id":17464,"mal_id":48627}
 ,
+// [null-null] TV: ペンと手錠と事実婚
+// https://annict.com/works/17465
+{"annict_id":17465,"mal_id":63970}
+,
 ]
