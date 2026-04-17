@@ -67674,7 +67674,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17457
 {"annict_id":17457,"mal_id":22859}
 ,
-// [2026-SPRING] WEB: 『彼女、お借りします』第5期振り返りミニアニメ
+// [2026-SPRING] WEB: 彼女、お借りします 第5期振り返りミニアニメ
 // https://annict.com/works/17458
 {"annict_id":17458}
 ,
