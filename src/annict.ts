@@ -67706,4 +67706,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17465
 {"annict_id":17465,"mal_id":63970}
 ,
+// [2010-WINTER] OVA: はじめてのこばと。
+// https://annict.com/works/17466
+{"annict_id":17466,"mal_id":10098}
+,
+// [2013-WINTER] OVA: 恋と選挙とチョコレート 第13話「恋妹！」
+// https://annict.com/works/17467
+{"annict_id":17467,"mal_id":18045}
+,
 ]
