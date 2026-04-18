@@ -67714,4 +67714,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17467
 {"annict_id":17467,"mal_id":18045}
 ,
+// [2024-SPRING] WEB: 夢充夜
+// https://annict.com/works/17469
+{"annict_id":17469}
+,
 ]
