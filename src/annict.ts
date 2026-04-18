@@ -67730,4 +67730,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17472
 {"annict_id":17472,"mal_id":3620}
 ,
+// [2023-WINTER] OVA: 嫌な顔されながらおパンツ見せてもらいたい Ver.3.0(仮)
+// https://annict.com/works/17473
+{"annict_id":17473,"mal_id":55629}
+,
 ]
