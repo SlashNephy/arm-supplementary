@@ -63566,7 +63566,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16421
 {"annict_id":16421,"mal_id":62149}
 ,
-// [null-null] OTHER: 嫌な顔されながらおパンツ見せてもらいたいR
+// [2026-SPRING] WEB: 嫌な顔されながらおパンツ見せてもらいたいR
 // https://annict.com/works/16422
 {"annict_id":16422,"mal_id":62155}
 ,
@@ -67717,5 +67717,17 @@ export const annict: ArmEntry[] = [
 // [2024-SPRING] WEB: 夢充夜
 // https://annict.com/works/17469
 {"annict_id":17469}
+,
+// [2005-WINTER] OVA: DearS 第10話「金の玉ですの？」
+// https://annict.com/works/17470
+{"annict_id":17470,"mal_id":1817}
+,
+// [2009-AUTUMN] OVA: BLACK LAGOON オマケ漫画アニメ
+// https://annict.com/works/17471
+{"annict_id":17471,"mal_id":8440}
+,
+// [1995-WINTER] OVA: BLUE SEED OMAKE THEATER
+// https://annict.com/works/17472
+{"annict_id":17472,"mal_id":3620}
 ,
 ]
