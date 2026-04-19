@@ -67160,7 +67160,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: しろたん
 // https://annict.com/works/17329
-{"annict_id":17329}
+{"annict_id":17329,"mal_id":63901}
 ,
 // [2026-WINTER] WEB: 3分でわかる魔法科
 // https://annict.com/works/17330
@@ -67733,5 +67733,13 @@ export const annict: ArmEntry[] = [
 // [2023-WINTER] OVA: 嫌な顔されながらおパンツ見せてもらいたい Ver.3.0(仮)
 // https://annict.com/works/17473
 {"annict_id":17473,"mal_id":55629}
+,
+// [2026-SPRING] WEB: 『神の雫』ミニアニメ「みやびのソムリエノート」
+// https://annict.com/works/17474
+{"annict_id":17474}
+,
+// [2026-SPRING] MOVIE: ARCO／アルコ
+// https://annict.com/works/17475
+{"annict_id":17475}
 ,
 ]
