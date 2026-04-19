@@ -67766,4 +67766,20 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17481
 {"annict_id":17481,"mal_id":1996}
 ,
+// [2012-SUMMER] OVA: バクマン。2「ラッコ11号」オリジナルショートアニメ
+// https://annict.com/works/17482
+{"annict_id":17482,"mal_id":23369}
+,
+// [2013-SPRING] OVA: バクマン。3「ラッコ11号・最終回」ショートアニメ
+// https://annict.com/works/17483
+{"annict_id":17483,"mal_id":23361}
+,
+// [2018-AUTUMN] OVA: はたらく細胞 オリジナルショートアニメ
+// https://annict.com/works/17484
+{"annict_id":17484,"mal_id":39605}
+,
+// [2020-SUMMER] MOVIE: はたらく細胞 ショートアニメ「血小板 映画館へ行く」
+// https://annict.com/works/17485
+{"annict_id":17485,"mal_id":42593}
+,
 ]
