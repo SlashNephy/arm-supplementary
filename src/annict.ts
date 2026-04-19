@@ -23664,7 +23664,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2015-SUMMER] OVA: 失われた未来を求めて （ＯＶＡ）第13話「失われた夏休みを求めて」
 // https://annict.com/works/5956
-{"annict_id":5956}
+{"annict_id":5956,"mal_id":31521}
 ,
 // [2014-AUTUMN] WEB: ティグルくんとヴァナディーちゅ
 // https://annict.com/works/5957
@@ -23712,7 +23712,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2016-WINTER] OVA: おくさまが生徒会長! EX「生徒会長とお風呂遊び」
 // https://annict.com/works/5968
-{"annict_id":5968}
+{"annict_id":5968,"mal_id":31980}
 ,
 // [2018-SPRING] TV: SNSポリス
 // https://annict.com/works/5969
@@ -67741,5 +67741,29 @@ export const annict: ArmEntry[] = [
 // [2026-SPRING] MOVIE: ARCO／アルコ
 // https://annict.com/works/17475
 {"annict_id":17475}
+,
+// [2002-SPRING] OVA: 藍より青し「夢語り」
+// https://annict.com/works/17476
+{"annict_id":17476,"mal_id":6709}
+,
+// [2007-AUTUMN] OVA: もやしもん 菌劇場デラックス
+// https://annict.com/works/17477
+{"annict_id":17477,"mal_id":3618}
+,
+// [2012-SPRING] OVA: テルマエ・ロマエ OVA
+// https://annict.com/works/17478
+{"annict_id":17478,"mal_id":12727}
+,
+// [2014-WINTER] OVA: なぜなに！？うぃっちくらふとわ～くす
+// https://annict.com/works/17479
+{"annict_id":17479,"mal_id":23487}
+,
+// [2002-SUMMER] OVA: ウルトラマニアック(OVA)
+// https://annict.com/works/17480
+{"annict_id":17480,"mal_id":179}
+,
+// [2002-SUMMER] OVA: 満月をさがして かわいい かわいい 大冒険
+// https://annict.com/works/17481
+{"annict_id":17481,"mal_id":1996}
 ,
 ]
