@@ -66388,7 +66388,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] WEB: SHIBUYA♡HACHI　「ハチと渋谷を歩こう！」
 // https://annict.com/works/17133
-{"annict_id":17133}
+{"annict_id":17133,"mal_id":63976}
 ,
 // [null-null] OTHER: パーフェクトアディクション
 // https://annict.com/works/17134
@@ -66612,7 +66612,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] MOVIE: しらぬひ
 // https://annict.com/works/17190
-{"annict_id":17190}
+{"annict_id":17190,"mal_id":63973}
 ,
 // [2026-WINTER] TV: 劇場版 ポロロ コンピュータ王国大冒険 日本語版
 // https://annict.com/works/17191
