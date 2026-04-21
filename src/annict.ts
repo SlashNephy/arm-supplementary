@@ -67786,4 +67786,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17486
 {"annict_id":17486}
 ,
+// [2026-SPRING] WEB: 【崩壊：スターレイル】ショートアニメ「このゲーム、まともに遊べるの？」
+// https://annict.com/works/17487
+{"annict_id":17487}
+,
 ]
