@@ -10904,7 +10904,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2010-AUTUMN] OVA: G-taste
 // https://annict.com/works/2735
-{"annict_id":2735,"mal_id":2530}
+{"annict_id":2735,"mal_id":9600}
 ,
 // [1987-AUTUMN] OVA: JUNK BOY
 // https://annict.com/works/2736
@@ -67861,5 +67861,9 @@ export const annict: ArmEntry[] = [
 // [2006-SPRING] OVA: あまえないでよっ!!喝!! 特別編「ダマされないでよっ!!」	
 // https://annict.com/works/17505
 {"annict_id":17505,"mal_id":1750}
+,
+// [2020-SUMMER] OVA: GRANBLUE FANTASY The Animation Season 2 Extra2 「降臨！サイファーマスク！/聖アルビオン女学園物語」
+// https://annict.com/works/17506
+{"annict_id":17506,"mal_id":40873}
 ,
 ]
