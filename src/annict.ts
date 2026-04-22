@@ -67794,4 +67794,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17488
 {"annict_id":17488,"mal_id":63997}
 ,
+// [null-null] TV: アラフォー賢者の異世界生活日記
+// https://annict.com/works/17489
+{"annict_id":17489,"mal_id":63998}
+,
+// [2007-SPRING] OVA: 恋する天使アンジェリーク ～かがやきの明日～ 完結編
+// https://annict.com/works/17490
+{"annict_id":17490,"mal_id":7333}
+,
 ]
