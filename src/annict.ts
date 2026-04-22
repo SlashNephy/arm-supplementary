@@ -25386,9 +25386,9 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/6391
 {"annict_id":6391,"mal_id":38629}
 ,
-// [null-null] MOVIE: ビブリア古書堂の事件手帖
+// [null-null] MOVIE: 映画 ビブリア古書堂の事件手帖
 // https://annict.com/works/6392
-{"annict_id":6392,"mal_id":34900}
+{"annict_id":6392}
 ,
 // [2019-SPRING] TV: ノブナガ先生の幼な妻
 // https://annict.com/works/6393
@@ -67790,7 +67790,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17487
 {"annict_id":17487}
 ,
-// [2027-null] TV: TVアニメ『ビブリア古書堂の事件手帖』
+// [2027-null] TV: ビブリア古書堂の事件手帖
 // https://annict.com/works/17488
 {"annict_id":17488,"mal_id":63997}
 ,
@@ -67801,5 +67801,37 @@ export const annict: ArmEntry[] = [
 // [2007-SPRING] OVA: 恋する天使アンジェリーク ～かがやきの明日～ 完結編
 // https://annict.com/works/17490
 {"annict_id":17490,"mal_id":7333}
+,
+// [2006-SUMMER] OVA: 恋する天使アンジェリーク～心のめざめる時～ ちびキャラアニメ「アンジェワールド図鑑」
+// https://annict.com/works/17491
+{"annict_id":17491}
+,
+// [2006-SUMMER] OVA: 恋する天使アンジェリーク～心のめざめる時～ スペシャルアニメ「ちびキャラ♥Adventure」
+// https://annict.com/works/17492
+{"annict_id":17492,"mal_id":5783}
+,
+// [2007-SPRING] OVA: 恋する天使アンジェリーク ～かがやきの明日～ ちびキャラアニメ「アンジェワールド図鑑」
+// https://annict.com/works/17493
+{"annict_id":17493}
+,
+// [2007-SPRING] OVA: 恋する天使アンジェリーク ～かがやきの明日～ スペシャルアニメ「ちびキャラ♥Adventure」
+// https://annict.com/works/17494
+{"annict_id":17494,"mal_id":8180}
+,
+// [1990-AUTUMN] OVA: アーシアンⅡ
+// https://annict.com/works/17495
+{"annict_id":17495}
+,
+// [2010-SPRING] OVA: 迷い猫ネコネコ動画
+// https://annict.com/works/17496
+{"annict_id":17496,"mal_id":8599}
+,
+// [1996-SUMMER] OVA: アーシアンⅢ
+// https://annict.com/works/17497
+{"annict_id":17497}
+,
+// [2004-SPRING] OVA: 光と水のダフネ TV未放映特別編
+// https://annict.com/works/17498
+{"annict_id":17498,"mal_id":1898}
 ,
 ]
