@@ -67834,4 +67834,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17498
 {"annict_id":17498,"mal_id":1898}
 ,
+// [2010-AUTUMN] OVA: 百花繚乱 サムライガールズ ～乙女♥嬉し恥ずかし将士の契り～
+// https://annict.com/works/17499
+{"annict_id":17499,"mal_id":9362}
+,
 ]
