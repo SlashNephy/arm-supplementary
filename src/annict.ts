@@ -67838,4 +67838,28 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17499
 {"annict_id":17499,"mal_id":9362}
 ,
+// [2013-SPRING] OVA: 百花繚乱 サムライブライド 桃色満開オリジナルアニメーション
+// https://annict.com/works/17500
+{"annict_id":17500,"mal_id":19255}
+,
+// [2015-WINTER] OVA: 百花繚乱 サムライアフター 映像特典
+// https://annict.com/works/17501
+{"annict_id":17501,"mal_id":30237}
+,
+// [2006-SUMMER] OVA: 学園ヘヴン はむはむヘヴン
+// https://annict.com/works/17502
+{"annict_id":17502,"mal_id":4353}
+,
+// [2012-WINTER] WEB: CR大海物語2×さまぁ～ず×Peeping Life
+// https://annict.com/works/17503
+{"annict_id":17503,"mal_id":63607}
+,
+// [2005-AUTUMN] OVA: あまえないでよっ!! 特別編「休まないでよっ!!」
+// https://annict.com/works/17504
+{"annict_id":17504,"mal_id":1749}
+,
+// [2006-SPRING] OVA: あまえないでよっ!!喝!! 特別編「ダマされないでよっ!!」	
+// https://annict.com/works/17505
+{"annict_id":17505,"mal_id":1750}
+,
 ]
