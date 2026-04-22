@@ -39374,7 +39374,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/10351
 {"annict_id":10351,"mal_id":53998,"syobocal_tid":6742}
 ,
-// [2026-null] TV: 乙女ゲー世界はモブに厳しい世界です 第2期
+// [2026-SUMMER] TV: 乙女ゲー世界はモブに厳しい世界です2
 // https://annict.com/works/10352
 {"annict_id":10352,"mal_id":54000}
 ,
@@ -67792,6 +67792,6 @@ export const annict: ArmEntry[] = [
 ,
 // [2027-null] TV: TVアニメ『ビブリア古書堂の事件手帖』
 // https://annict.com/works/17488
-{"annict_id":17488}
+{"annict_id":17488,"mal_id":63997}
 ,
 ]
