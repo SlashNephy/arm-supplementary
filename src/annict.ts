@@ -67790,4 +67790,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17487
 {"annict_id":17487}
 ,
+// [2027-null] TV: TVアニメ『ビブリア古書堂の事件手帖』
+// https://annict.com/works/17488
+{"annict_id":17488}
+,
 ]
