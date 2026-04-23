@@ -42722,7 +42722,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/11191
 {"annict_id":11191,"mal_id":56731,"syobocal_tid":6920}
 ,
-// [null-null] TV: 世界最高の暗殺者、異世界貴族に転生する 第2期
+// [2027-null] TV: 世界最高の暗殺者、異世界貴族に転生する 第2期
 // https://annict.com/works/11192
 {"annict_id":11192,"mal_id":56732}
 ,
