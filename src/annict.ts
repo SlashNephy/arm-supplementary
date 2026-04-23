@@ -66478,7 +66478,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17156
 {"annict_id":17156,"mal_id":63572}
 ,
-// [2026-WINTER] WEB: 餓狼伝説 City of the Wolves「ナイトメアギース」ロングアニメーショントレーラー
+// [2026-WINTER] WEB: 餓狼伝説 CotW｜ナイトメアギース｜ロングアニメーショントレーラー
 // https://annict.com/works/17157
 {"annict_id":17157,"mal_id":63567}
 ,
@@ -67897,5 +67897,17 @@ export const annict: ArmEntry[] = [
 // [2026-SUMMER] WEB: THE RIBBON HERO リボンヒーロー
 // https://annict.com/works/17514
 {"annict_id":17514,"mal_id":64012}
+,
+// [null-null] TV: メガネ、時々、ヤンキーくん
+// https://annict.com/works/17515
+{"annict_id":17515,"mal_id":64006}
+,
+// [2026-SPRING] WEB: 鯨を夢む
+// https://annict.com/works/17516
+{"annict_id":17516}
+,
+// [2026-SPRING] WEB: 餓狼伝説 CotW｜ヴォルフガング・クラウザー｜ロングアニメーショントレーラー
+// https://annict.com/works/17517
+{"annict_id":17517}
 ,
 ]
