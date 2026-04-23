@@ -67866,4 +67866,32 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17506
 {"annict_id":17506,"mal_id":40873}
 ,
+// [2007-SPRING] OVA: 一騎当千 Dragon Destiny 赤壁温泉大決戦
+// https://annict.com/works/17507
+{"annict_id":17507,"mal_id":2905}
+,
+// [2008-SUMMER] OVA: 一騎当千 Great Guardians バトルツアークラブ♥セクシーコスプレ危険なアルバイト♥
+// https://annict.com/works/17508
+{"annict_id":17508,"mal_id":5333}
+,
+// [2010-SPRING] OVA: 一騎当千 XTREME XECUTOR 〜ユメ六景〜
+// https://annict.com/works/17509
+{"annict_id":17509,"mal_id":8507}
+,
+// [2004-WINTER] OVA: HAPPY☆LESSON ADVANCE 番外編「バウバウ☆カンナのX'マス騒動」
+// https://annict.com/works/17510
+{"annict_id":17510}
+,
+// [2011-WINTER] OVA: 海月姫 英雄列伝
+// https://annict.com/works/17511
+{"annict_id":17511,"mal_id":9754}
+,
+// [2011-WINTER] OVA: はじけちゃう! ドキドキトラブル♥フリージング
+// https://annict.com/works/17512
+{"annict_id":17512,"mal_id":10172}
+,
+// [2013-AUTUMN] OVA: 震えちゃう♥フリージング ヴァイブレーションOVA
+// https://annict.com/works/17513
+{"annict_id":17513,"mal_id":21373}
+,
 ]
