@@ -67894,4 +67894,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17513
 {"annict_id":17513,"mal_id":21373}
 ,
+// [2026-SUMMER] WEB: THE RIBBON HERO リボンヒーロー
+// https://annict.com/works/17514
+{"annict_id":17514,"mal_id":64012}
+,
 ]
