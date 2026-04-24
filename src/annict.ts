@@ -53778,7 +53778,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/13968
 {"annict_id":13968,"mal_id":24363}
 ,
-// [2024-SUMMER] WEB: 『おそ松さん』超ショートアニメ
+// [2024-SUMMER] WEB: おそ松さん 超ショートアニメ
 // https://annict.com/works/13969
 {"annict_id":13969,"mal_id":59790}
 ,
@@ -67917,5 +67917,9 @@ export const annict: ArmEntry[] = [
 // [2026-SUMMER] MOVIE: 最終楽章 響け！ユーフォニアム 後編
 // https://annict.com/works/17519
 {"annict_id":17519,"mal_id":64019}
+,
+// [2026-SPRING] MOVIE: 10th ANNIVERSARY OSOMATSUSAN SPECIAL 6DAYS
+// https://annict.com/works/17520
+{"annict_id":17520}
 ,
 ]
