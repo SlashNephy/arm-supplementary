@@ -67914,4 +67914,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17518
 {"annict_id":17518}
 ,
+// [2026-SUMMER] MOVIE: 最終楽章 響け！ユーフォニアム 後編
+// https://annict.com/works/17519
+{"annict_id":17519}
+,
 ]
