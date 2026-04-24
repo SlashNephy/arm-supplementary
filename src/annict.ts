@@ -39736,7 +39736,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2000-WINTER] MOVIE: 銀河鉄道999 ガラスのクレア(2000年)
 // https://annict.com/works/10443
-{"annict_id":10443}
+{"annict_id":10443,"mal_id":63999}
 ,
 // [2001-SUMMER] MOVIE: 銀河鉄道999 虹の道標
 // https://annict.com/works/10444
@@ -67909,5 +67909,9 @@ export const annict: ArmEntry[] = [
 // [2026-SPRING] WEB: 餓狼伝説 CotW｜ヴォルフガング・クラウザー｜ロングアニメーショントレーラー
 // https://annict.com/works/17517
 {"annict_id":17517}
+,
+// [null-null] TV: 可哀想に！劇場
+// https://annict.com/works/17518
+{"annict_id":17518}
 ,
 ]
