@@ -67908,7 +67908,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] WEB: 餓狼伝説 CotW｜ヴォルフガング・クラウザー｜ロングアニメーショントレーラー
 // https://annict.com/works/17517
-{"annict_id":17517}
+{"annict_id":17517,"mal_id":64011}
 ,
 // [null-null] TV: 可哀想に！劇場
 // https://annict.com/works/17518
@@ -67916,6 +67916,6 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] MOVIE: 最終楽章 響け！ユーフォニアム 後編
 // https://annict.com/works/17519
-{"annict_id":17519}
+{"annict_id":17519,"mal_id":64019}
 ,
 ]
