@@ -67734,7 +67734,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17473
 {"annict_id":17473,"mal_id":55629}
 ,
-// [2026-SPRING] WEB: みやびのソムリエノート
+// [2026-SPRING] WEB: 神の雫 ミニ
 // https://annict.com/works/17474
 {"annict_id":17474}
 ,
