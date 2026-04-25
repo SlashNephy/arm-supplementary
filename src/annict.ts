@@ -66424,7 +66424,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] WEB: ヤニねこ ミニアニメ
 // https://annict.com/works/17142
-{"annict_id":17142}
+{"annict_id":17142,"mal_id":64008}
 ,
 // [null-null] OTHER: エヴァンゲリオン 完全新作シリーズ
 // https://annict.com/works/17143
@@ -67252,7 +67252,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: タヌキとキツネ
 // https://annict.com/works/17352
-{"annict_id":17352}
+{"annict_id":17352,"mal_id":64028}
 ,
 // [2026-SUMMER] TV: ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ 2nd Season
 // https://annict.com/works/17353
