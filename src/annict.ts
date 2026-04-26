@@ -67922,4 +67922,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17520
 {"annict_id":17520}
 ,
+// [2026-SUMMER] TV: 地球大好き！きっくん
+// https://annict.com/works/17521
+{"annict_id":17521}
+,
 ]
