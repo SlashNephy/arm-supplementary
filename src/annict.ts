@@ -65046,7 +65046,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16796
 {"annict_id":16796,"mal_id":63045}
 ,
-// [null-null] OTHER: ワールドトリガー REBOOTプロジェクト
+// [null-null] OTHER: ワールドトリガー 1stシーズン
 // https://annict.com/works/16797
 {"annict_id":16797,"mal_id":63048}
 ,
