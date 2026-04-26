@@ -64586,7 +64586,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16680
 {"annict_id":16680}
 ,
-// [2026-null] TV: 文豪ストレイドッグス わん！２
+// [2026-SUMMER] TV: 文豪ストレイドッグス わん！２
 // https://annict.com/works/16681
 {"annict_id":16681,"mal_id":62883}
 ,
