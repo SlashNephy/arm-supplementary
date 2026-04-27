@@ -67934,4 +67934,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17523
 {"annict_id":17523}
 ,
+// [2026-SPRING] WEB: TVアニメ『ちびゴジラの逆襲』＆Bリーグアルバルク東京コラボアニメ
+// https://annict.com/works/17524
+{"annict_id":17524}
+,
 ]
