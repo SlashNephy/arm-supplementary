@@ -35016,7 +35016,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2022-WINTER] MOVIE: 映画しまじろう しまじろうとキラキラおうこくのおうじさま
 // https://annict.com/works/9226
-{"annict_id":9226}
+{"annict_id":9226,"mal_id":54269}
 ,
 // [2022-WINTER] MOVIE: 映画おしりたんてい 夢のジャンボスイートポテトまつり
 // https://annict.com/works/9227
@@ -67934,12 +67934,16 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17523
 {"annict_id":17523}
 ,
-// [2026-SPRING] WEB: TVアニメ『ちびゴジラの逆襲』＆Bリーグアルバルク東京コラボアニメ
+// [2026-SPRING] WEB: ちびゴジラの逆襲＆Bリーグアルバルク東京コラボアニメ
 // https://annict.com/works/17524
 {"annict_id":17524}
 ,
 // [null-null] TV: 暴食のベルセルク 第2期
 // https://annict.com/works/17525
-{"annict_id":17525}
+{"annict_id":17525,"mal_id":64059}
+,
+// [2027-SPRING] TV: カグラバチ
+// https://annict.com/works/17526
+{"annict_id":17526,"mal_id":64058}
 ,
 ]
