@@ -67926,4 +67926,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17521
 {"annict_id":17521}
 ,
+// [2026-SPRING] WEB: あんた私のことを好きだったの？
+// https://annict.com/works/17522
+{"annict_id":17522}
+,
+// [2026-SPRING] WEB: これは二度目で最後の初恋
+// https://annict.com/works/17523
+{"annict_id":17523}
+,
 ]
