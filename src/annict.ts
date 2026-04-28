@@ -63444,7 +63444,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: スーパーの裏でヤニ吸うふたり
 // https://annict.com/works/16391
-{"annict_id":16391,"mal_id":62076}
+{"annict_id":16391,"mal_id":62076,"syobocal_tid":7850}
 ,
 // [2020-WINTER] WEB: KiraKira増刊号！
 // https://annict.com/works/16392
@@ -67965,5 +67965,9 @@ export const annict: ArmEntry[] = [
 // [2018-AUTUMN] TV: ラララ ララちゃん ～ララっとまいにち～
 // https://annict.com/works/17531
 {"annict_id":17531,"mal_id":37472}
+,
+// [2026-SPRING] WEB: スーパーの裏でヤニ吸うふたり ABEMA限定先行配信版
+// https://annict.com/works/17532
+{"annict_id":17532}
 ,
 ]
