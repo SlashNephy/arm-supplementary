@@ -67946,4 +67946,24 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17526
 {"annict_id":17526,"mal_id":64058}
 ,
+// [2015-SUMMER] WEB: ぽすくまスペシャルアニメ
+// https://annict.com/works/17527
+{"annict_id":17527}
+,
+// [2015-WINTER] WEB: ラララ ララちゃん
+// https://annict.com/works/17528
+{"annict_id":17528,"mal_id":36549}
+,
+// [2016-AUTUMN] TV: ラララ ララちゃん～パタパタだいせんそう～
+// https://annict.com/works/17529
+{"annict_id":17529,"mal_id":36551}
+,
+// [2017-AUTUMN] TV: ラララ ララちゃん★ウチュ～にムチュ～★
+// https://annict.com/works/17530
+{"annict_id":17530,"mal_id":36486}
+,
+// [2018-AUTUMN] TV: ラララ ララちゃん ～ララっとまいにち～
+// https://annict.com/works/17531
+{"annict_id":17531,"mal_id":37472}
+,
 ]
