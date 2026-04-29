@@ -67986,4 +67986,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17536
 {"annict_id":17536,"mal_id":53529}
 ,
+// [null-null] TV: 北北西に曇と往け
+// https://annict.com/works/17537
+{"annict_id":17537,"mal_id":64064}
+,
 ]
