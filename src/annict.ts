@@ -67982,4 +67982,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17535
 {"annict_id":17535}
 ,
+// [null-null] MOVIE: ソードアート・オンライン 完全新作オリジナル劇場版
+// https://annict.com/works/17536
+{"annict_id":17536,"mal_id":53529}
+,
 ]
