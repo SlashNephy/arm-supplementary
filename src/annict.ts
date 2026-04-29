@@ -67970,4 +67970,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17532
 {"annict_id":17532}
 ,
+// [2020-WINTER] WEB: しまじろう3DCGエディション
+// https://annict.com/works/17533
+{"annict_id":17533,"mal_id":54402}
+,
+// [2024-null] WEB: しまじろう3DCGエディション Season2
+// https://annict.com/works/17534
+{"annict_id":17534,"mal_id":54403}
+,
 ]
