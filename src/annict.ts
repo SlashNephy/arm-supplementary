@@ -67978,7 +67978,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17534
 {"annict_id":17534,"mal_id":54403}
 ,
-// [null-null] OTHER: るーにー・てゅーんずごっこ
+// [2026-SPRING] WEB: るーにー・てゅーんずごっこ
 // https://annict.com/works/17535
 {"annict_id":17535}
 ,
