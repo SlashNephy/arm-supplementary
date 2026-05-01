@@ -45888,7 +45888,7 @@ export const annict: ArmEntry[] = [
 ,
 // [1981-AUTUMN] TV: 杜子春
 // https://annict.com/works/11985
-{"annict_id":11985,"mal_id":6124}
+{"annict_id":11985,"mal_id":64063}
 ,
 // [2023-SUMMER] WEB: PUNCH PUNCH FOREVER!
 // https://annict.com/works/11986
@@ -67997,5 +67997,9 @@ export const annict: ArmEntry[] = [
 // [2026-AUTUMN] TV: 世界最強の魔女、始めました
 // https://annict.com/works/17539
 {"annict_id":17539,"mal_id":64084}
+,
+// [null-null] OTHER: 愛さないといわれましても ～元魔王の伯爵令嬢は生真面目軍人に餌付けをされて幸せになる～
+// https://annict.com/works/17540
+{"annict_id":17540,"mal_id":64091}
 ,
 ]
