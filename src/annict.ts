@@ -67996,6 +67996,6 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: 世界最強の魔女、始めました
 // https://annict.com/works/17539
-{"annict_id":17539}
+{"annict_id":17539,"mal_id":64084}
 ,
 ]
