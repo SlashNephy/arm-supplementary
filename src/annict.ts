@@ -67990,4 +67990,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17537
 {"annict_id":17537,"mal_id":64064}
 ,
+// [2026-SUMMER] WEB: HELLO OSAKA シーズン2.5
+// https://annict.com/works/17538
+{"annict_id":17538}
+,
+// [2026-AUTUMN] TV: 世界最強の魔女、始めました
+// https://annict.com/works/17539
+{"annict_id":17539}
+,
 ]
