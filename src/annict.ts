@@ -57572,7 +57572,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2024-WINTER] MOVIE: すみっコぐらし ひろい宇宙とオーロラのひかり
 // https://annict.com/works/14919
-{"annict_id":14919}
+{"annict_id":14919,"mal_id":64100}
 ,
 // [2009-null] MOVIE: ハッピークリスマス キャンドルマンの素敵な魔法
 // https://annict.com/works/14920
@@ -67716,7 +67716,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2024-SPRING] WEB: 夢充夜
 // https://annict.com/works/17469
-{"annict_id":17469}
+{"annict_id":17469,"mal_id":57890}
 ,
 // [2005-WINTER] OVA: DearS 第10話「金の玉ですの？」
 // https://annict.com/works/17470
@@ -68004,6 +68004,10 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] WEB: 『呪術廻戦≡』最終3巻発売記念 スペシャルPV
 // https://annict.com/works/17541
-{"annict_id":17541}
+{"annict_id":17541,"mal_id":64080}
+,
+// [2024-WINTER] WEB: ある日の午後
+// https://annict.com/works/17542
+{"annict_id":17542,"mal_id":57889}
 ,
 ]
