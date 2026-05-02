@@ -63568,7 +63568,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] WEB: 嫌な顔されながらおパンツ見せてもらいたいR
 // https://annict.com/works/16422
-{"annict_id":16422,"mal_id":62155}
+{"annict_id":16422,"mal_id":62155,"syobocal_tid":7851}
 ,
 // [null-null] TV: キン肉マン 完璧超人始祖編 Season 3
 // https://annict.com/works/16423
@@ -68016,10 +68016,10 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] TV: 五等分の花嫁【春夏秋冬】
 // https://annict.com/works/17544
-{"annict_id":17544}
+{"annict_id":17544,"mal_id":64104}
 ,
 // [null-null] OVA: 五等分の花嫁 新作OVA
 // https://annict.com/works/17545
-{"annict_id":17545}
+{"annict_id":17545,"mal_id":64105}
 ,
 ]
