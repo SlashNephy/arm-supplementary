@@ -68002,4 +68002,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17540
 {"annict_id":17540,"mal_id":64091}
 ,
+// [2026-SPRING] WEB: 『呪術廻戦≡』最終3巻発売記念 スペシャルPV
+// https://annict.com/works/17541
+{"annict_id":17541}
+,
 ]
