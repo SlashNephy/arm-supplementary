@@ -68010,7 +68010,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17542
 {"annict_id":17542,"mal_id":57889}
 ,
-// [null-null] OTHER: 僕のヒーローアカデミア I am a hero too
+// [2026-SUMMER] OTHER: 僕のヒーローアカデミア I am a hero too
 // https://annict.com/works/17543
 {"annict_id":17543}
 ,
@@ -68021,5 +68021,9 @@ export const annict: ArmEntry[] = [
 // [null-null] OVA: 五等分の花嫁 新作OVA
 // https://annict.com/works/17545
 {"annict_id":17545,"mal_id":64105}
+,
+// [2026-SPRING] WEB: MFゴースト 3rd Season BATTLE DIGEST
+// https://annict.com/works/17546
+{"annict_id":17546}
 ,
 ]
