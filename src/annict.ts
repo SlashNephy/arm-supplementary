@@ -46430,7 +46430,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/12122
 {"annict_id":12122,"mal_id":57555}
 ,
-// [null-null] WEB: THE ONE PIECE
+// [2027-WINTER] WEB: THE ONE PIECE
 // https://annict.com/works/12123
 {"annict_id":12123,"mal_id":57557}
 ,
@@ -67378,7 +67378,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17383
 {"annict_id":17383}
 ,
-// [2026-SPRING] WEB: 君を紡ぐ
+// [2026-null] WEB: 君を紡ぐ
 // https://annict.com/works/17384
 {"annict_id":17384}
 ,
