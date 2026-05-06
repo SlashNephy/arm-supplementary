@@ -67980,7 +67980,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] WEB: るーにー・てゅーんずごっこ
 // https://annict.com/works/17535
-{"annict_id":17535}
+{"annict_id":17535,"mal_id":64079}
 ,
 // [null-null] MOVIE: ソードアート・オンライン 完全新作オリジナル劇場版
 // https://annict.com/works/17536
@@ -68012,7 +68012,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] OTHER: 僕のヒーローアカデミア I am a hero too
 // https://annict.com/works/17543
-{"annict_id":17543}
+{"annict_id":17543,"mal_id":64107}
 ,
 // [null-null] TV: 五等分の花嫁【春夏秋冬】
 // https://annict.com/works/17544
