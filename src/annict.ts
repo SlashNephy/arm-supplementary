@@ -61382,7 +61382,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15873
 {"annict_id":15873,"mal_id":61443,"syobocal_tid":7768}
 ,
-// [2026-null] WEB: Devil May Cry シーズン2
+// [2026-SPRING] WEB: Devil May Cry シーズン2
 // https://annict.com/works/15874
 {"annict_id":15874}
 ,
@@ -68025,5 +68025,9 @@ export const annict: ArmEntry[] = [
 // [2026-SPRING] WEB: MFゴースト 3rd Season BATTLE DIGEST
 // https://annict.com/works/17546
 {"annict_id":17546}
+,
+// [2026-null] TV: 彼女の友達
+// https://annict.com/works/17547
+{"annict_id":17547,"mal_id":64131}
 ,
 ]
