@@ -68030,4 +68030,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17547
 {"annict_id":17547,"mal_id":64131}
 ,
+// [2026-SPRING] MOVIE: 臨時増発 ミルキー☆サブウェイ 各駅停車劇場行き
+// https://annict.com/works/17548
+{"annict_id":17548}
+,
 ]
