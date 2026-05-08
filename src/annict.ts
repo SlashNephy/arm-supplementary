@@ -66382,7 +66382,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17131
 {"annict_id":17131,"mal_id":63508}
 ,
-// [null-null] TV: ダークサモナーとデキている
+// [2026-null] TV: ダークサモナーとデキている
 // https://annict.com/works/17132
 {"annict_id":17132,"mal_id":63509}
 ,
