@@ -68034,4 +68034,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17548
 {"annict_id":17548}
 ,
+// [2026-SPRING] WEB: スター・ウォーズ：モール／シャドウ・ロード
+// https://annict.com/works/17549
+{"annict_id":17549}
+,
 ]
