@@ -67098,7 +67098,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17313
 {"annict_id":17313,"mal_id":63763}
 ,
-// [2026-null] TV: バーテックスフォース
+// [2026-AUTUMN] TV: バーテックスフォース
 // https://annict.com/works/17314
 {"annict_id":17314,"mal_id":63764}
 ,
