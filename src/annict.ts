@@ -63778,7 +63778,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16474
 {"annict_id":16474,"mal_id":62311}
 ,
-// [2026-null] MOVIE: SEKIRO: NO DEFEAT
+// [2026-SUMMER] MOVIE: SEKIRO: NO DEFEAT
 // https://annict.com/works/16475
 {"annict_id":16475,"mal_id":62312}
 ,
