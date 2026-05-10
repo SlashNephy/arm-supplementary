@@ -68042,4 +68042,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17550
 {"annict_id":17550}
 ,
+// [2025-SUMMER] OVA: 白雪姫と7人の小人
+// https://annict.com/works/17551
+{"annict_id":17551}
+,
 ]
