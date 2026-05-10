@@ -68038,4 +68038,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17549
 {"annict_id":17549}
 ,
+// [2025-null] WEB: 異世界転生したと思ったら早速オークションへ出品されてしまいました
+// https://annict.com/works/17550
+{"annict_id":17550}
+,
 ]
