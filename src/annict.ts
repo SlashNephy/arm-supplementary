@@ -68048,7 +68048,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2027-null] MOVIE: 海が走るエンドロール
 // https://annict.com/works/17552
-{"annict_id":17552}
+{"annict_id":17552,"mal_id":64154}
 ,
 // [2024-AUTUMN] WEB: クリーチャー・コマンドーズ
 // https://annict.com/works/17553
