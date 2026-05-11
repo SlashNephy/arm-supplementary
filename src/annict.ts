@@ -68054,4 +68054,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17553
 {"annict_id":17553}
 ,
+// [2008-WINTER] OVA: さよなら絶望先生 序〜絶望少女撰集〜
+// https://annict.com/works/17554
+{"annict_id":17554,"mal_id":3674}
+,
+// [2008-SUMMER] OVA: さよなら絶望先生 序〜俗・絶望少女撰集〜
+// https://annict.com/works/17555
+{"annict_id":17555,"mal_id":8317}
+,
 ]
