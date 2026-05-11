@@ -68050,4 +68050,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17552
 {"annict_id":17552}
 ,
+// [2024-AUTUMN] WEB: クリーチャー・コマンドーズ
+// https://annict.com/works/17553
+{"annict_id":17553}
+,
 ]
