@@ -68064,7 +68064,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: 傷だらけ聖女より報復をこめて Season2
 // https://annict.com/works/17556
-{"annict_id":17556}
+{"annict_id":17556,"mal_id":64180}
 ,
 // [2026-SPRING] WEB: トランスフォーマー ワイルドキングW
 // https://annict.com/works/17557
