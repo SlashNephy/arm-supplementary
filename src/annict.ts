@@ -59548,7 +59548,7 @@ export const annict: ArmEntry[] = [
 ,
 // [1937-null] MOVIE: だんごの行方
 // https://annict.com/works/15414
-{"annict_id":15414}
+{"annict_id":15414,"mal_id":64138}
 ,
 // [1939-null] MOVIE: 海の荒鷲
 // https://annict.com/works/15415
@@ -66010,7 +66010,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17038
 {"annict_id":17038,"mal_id":38497}
 ,
-// [2026-null] OTHER: 装甲騎兵ボトムズ 灰色の魔女
+// [2026-AUTUMN] MOVIE: 装甲騎兵ボトムズ 灰色の魔女
 // https://annict.com/works/17039
 {"annict_id":17039,"mal_id":63323}
 ,
@@ -68061,5 +68061,21 @@ export const annict: ArmEntry[] = [
 // [2008-SUMMER] OVA: さよなら絶望先生 序〜俗・絶望少女撰集〜
 // https://annict.com/works/17555
 {"annict_id":17555,"mal_id":8317}
+,
+// [2026-AUTUMN] TV: 傷だらけ聖女より報復をこめて Season2
+// https://annict.com/works/17556
+{"annict_id":17556}
+,
+// [2026-SPRING] WEB: トランスフォーマー ワイルドキングW
+// https://annict.com/works/17557
+{"annict_id":17557}
+,
+// [2025-WINTER] MOVIE: I
+// https://annict.com/works/17558
+{"annict_id":17558,"mal_id":64110}
+,
+// [null-null] MOVIE: 装甲騎兵ボトムズ 灰色の魔女 第2部
+// https://annict.com/works/17559
+{"annict_id":17559}
 ,
 ]
