@@ -68068,7 +68068,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] WEB: トランスフォーマー ワイルドキングW
 // https://annict.com/works/17557
-{"annict_id":17557}
+{"annict_id":17557,"mal_id":64181}
 ,
 // [2025-WINTER] MOVIE: I
 // https://annict.com/works/17558
