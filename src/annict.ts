@@ -25918,7 +25918,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/6527
 {"annict_id":6527,"mal_id":39463,"syobocal_tid":5636}
 ,
-// [2026-null] TV: メビウス・ダスト
+// [2026-SUMMER] TV: メビウス・ダスト
 // https://annict.com/works/6528
 {"annict_id":6528,"mal_id":63802}
 ,
@@ -60990,7 +60990,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15774
 {"annict_id":15774,"mal_id":61300}
 ,
-// [null-null] TV: 黒岩メダカに私の可愛いが通じない 第2期
+// [null-null] TV: 黒岩メダカに私の可愛いが通じない Season2
 // https://annict.com/works/15775
 {"annict_id":15775,"mal_id":61304}
 ,
