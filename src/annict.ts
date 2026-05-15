@@ -55946,7 +55946,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/14512
 {"annict_id":14512}
 ,
-// [null-null] OTHER: 機動戦士ガンダムSEED FREEDOM ZERO
+// [null-null] MOVIE: 機動戦士ガンダムSEED FREEDOM ZERO
 // https://annict.com/works/14513
 {"annict_id":14513,"mal_id":60230}
 ,
@@ -65278,7 +65278,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16855
 {"annict_id":16855}
 ,
-// [2026-null] TV: 鉄鍋のジャン！
+// [2026-SUMMER] TV: 鉄鍋のジャン！
 // https://annict.com/works/16856
 {"annict_id":16856,"mal_id":63100}
 ,
@@ -68077,5 +68077,13 @@ export const annict: ArmEntry[] = [
 // [null-null] MOVIE: 装甲騎兵ボトムズ 灰色の魔女 第2部
 // https://annict.com/works/17559
 {"annict_id":17559}
+,
+// [null-null] OTHER: 新機動戦記ガンダムW 新作
+// https://annict.com/works/17560
+{"annict_id":17560}
+,
+// [2026-SPRING] WEB: 少年とガンダム
+// https://annict.com/works/17561
+{"annict_id":17561}
 ,
 ]
