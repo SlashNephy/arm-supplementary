@@ -42638,7 +42638,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/11170
 {"annict_id":11170,"mal_id":54805}
 ,
-// [2023-AUTUMN] OVA: 僕のヒーローアカデミア 雄英ヒーローズ・バトル
+// [2023-AUTUMN] OTHER: 僕のヒーローアカデミア 雄英ヒーローズ・バトル
 // https://annict.com/works/11171
 {"annict_id":11171,"mal_id":56685}
 ,
