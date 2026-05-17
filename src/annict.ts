@@ -68090,4 +68090,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17562
 {"annict_id":17562}
 ,
+// [null-null] MOVIE: HIDARI
+// https://annict.com/works/17563
+{"annict_id":17563}
+,
 ]
