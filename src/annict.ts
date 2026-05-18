@@ -68098,4 +68098,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17564
 {"annict_id":17564,"mal_id":55566}
 ,
+// [null-null] MOVIE: GIGANT
+// https://annict.com/works/17565
+{"annict_id":17565,"mal_id":64213}
+,
 ]
