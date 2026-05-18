@@ -68094,4 +68094,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17563
 {"annict_id":17563}
 ,
+// [null-null] MOVIE: WASTED CHEF
+// https://annict.com/works/17564
+{"annict_id":17564,"mal_id":55566}
+,
 ]
