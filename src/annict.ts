@@ -64490,7 +64490,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16656
 {"annict_id":16656}
 ,
-// [2025-AUTUMN] WEB: 『鳴潮』リナシータ編記念アニメ
+// [2025-AUTUMN] WEB: 『鳴潮』リナシータ編記念アニメ｜Beautiful Tomorrow
 // https://annict.com/works/16657
 {"annict_id":16657}
 ,
@@ -68101,5 +68101,17 @@ export const annict: ArmEntry[] = [
 // [null-null] MOVIE: GIGANT
 // https://annict.com/works/17565
 {"annict_id":17565,"mal_id":64213}
+,
+// [2026-SPRING] WEB: 【NTE】ナナリ キャラアニメ｜「ボス」からのお誘い
+// https://annict.com/works/17566
+{"annict_id":17566}
+,
+// [2026-SPRING] WEB: 【NTE】潯 キャラアニメ｜懐表に刻まれた、時の全景を
+// https://annict.com/works/17567
+{"annict_id":17567}
+,
+// [2026-SPRING] WEB: 『鳴潮』ラハイロイ編記念アニメ｜The Watchers
+// https://annict.com/works/17568
+{"annict_id":17568}
 ,
 ]
