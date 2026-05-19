@@ -68114,4 +68114,60 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17568
 {"annict_id":17568}
 ,
+// [2016-WINTER] WEB: ガルーダエキスプレス
+// https://annict.com/works/17569
+{"annict_id":17569}
+,
+// [2020-AUTUMN] WEB: 棘ヌキのアリム
+// https://annict.com/works/17570
+{"annict_id":17570}
+,
+// [2024-SPRING] WEB: 本気女ですか？
+// https://annict.com/works/17571
+{"annict_id":17571}
+,
+// [2025-AUTUMN] WEB: 今日から無能メイド
+// https://annict.com/works/17572
+{"annict_id":17572}
+,
+// [2025-AUTUMN] WEB: アラバスター
+// https://annict.com/works/17573
+{"annict_id":17573}
+,
+// [2025-AUTUMN] WEB: 留守宅管理人
+// https://annict.com/works/17574
+{"annict_id":17574}
+,
+// [2025-AUTUMN] WEB: タイムカプセル屋モドリ
+// https://annict.com/works/17575
+{"annict_id":17575}
+,
+// [2025-AUTUMN] WEB: Co
+// https://annict.com/works/17576
+{"annict_id":17576}
+,
+// [2026-WINTER] WEB: クレイジーリペアラー グラハム
+// https://annict.com/works/17577
+{"annict_id":17577}
+,
+// [2026-WINTER] WEB: 退職代行サービス モーヤダ
+// https://annict.com/works/17578
+{"annict_id":17578}
+,
+// [2026-WINTER] WEB: 神の人事
+// https://annict.com/works/17579
+{"annict_id":17579}
+,
+// [2026-WINTER] WEB: ケータリング専門料理人ケータ
+// https://annict.com/works/17580
+{"annict_id":17580}
+,
+// [2026-WINTER] WEB: 魔法装士ミカド（短編）
+// https://annict.com/works/17581
+{"annict_id":17581}
+,
+// [2026-WINTER] WEB: 魔法装士ミカド
+// https://annict.com/works/17582
+{"annict_id":17582}
+,
 ]
