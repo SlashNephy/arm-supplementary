@@ -66390,7 +66390,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17133
 {"annict_id":17133,"mal_id":63976}
 ,
-// [null-null] OTHER: パーフェクトアディクション
+// [2026-SUMMER] TV: パーフェクトアディクション
 // https://annict.com/works/17134
 {"annict_id":17134,"mal_id":63514}
 ,
