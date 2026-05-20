@@ -9100,7 +9100,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2010-AUTUMN] TV: ユメミル、アニメ onちゃん シーズン2
 // https://annict.com/works/2280
-{"annict_id":2280,"syobocal_tid":2192}
+{"annict_id":2280,"mal_id":64216,"syobocal_tid":2192}
 ,
 // [2002-SUMMER] TV: 円盤皇女ワるきゅーレ
 // https://annict.com/works/2281
