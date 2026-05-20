@@ -68170,4 +68170,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17582
 {"annict_id":17582}
 ,
+// [null-null] TV: お前、タヌキにならねーか？
+// https://annict.com/works/17583
+{"annict_id":17583}
+,
 ]
