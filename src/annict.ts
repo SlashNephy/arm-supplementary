@@ -68174,4 +68174,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17583
 {"annict_id":17583,"mal_id":64235}
 ,
+// [2026-SPRING] MOVIE: アメイジング・デジタル・サーカス ザ・ラストアクト
+// https://annict.com/works/17584
+{"annict_id":17584}
+,
 ]
