@@ -54272,7 +54272,7 @@ export const annict: ArmEntry[] = [
 ,
 // [1933-null] MOVIE: 特急艦隊
 // https://annict.com/works/14093
-{"annict_id":14093}
+{"annict_id":14093,"mal_id":64231}
 ,
 // [1933-null] MOVIE: 黒猫萬歳
 // https://annict.com/works/14094
