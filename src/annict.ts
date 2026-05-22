@@ -64470,7 +64470,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16651
 {"annict_id":16651,"mal_id":62804,"syobocal_tid":7665}
 ,
-// [null-null] TV: 一式さんは恋を知りたい。
+// [2027-WINTER] TV: 一式さんは恋を知りたい。
 // https://annict.com/works/16652
 {"annict_id":16652,"mal_id":62808}
 ,
@@ -68184,10 +68184,14 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: 冰剣の魔術師が世界を統べるⅡ
 // https://annict.com/works/17586
-{"annict_id":17586}
+{"annict_id":17586,"mal_id":64254}
 ,
 // [null-null] TV: 月華国奇医伝
 // https://annict.com/works/17587
-{"annict_id":17587}
+{"annict_id":17587,"mal_id":64253}
+,
+// [2026-SPRING] WEB: にけにち！のんのん前哨基地
+// https://annict.com/works/17588
+{"annict_id":17588}
 ,
 ]
