@@ -68182,4 +68182,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17585
 {"annict_id":17585}
 ,
+// [2026-AUTUMN] TV: 冰剣の魔術師が世界を統べるⅡ
+// https://annict.com/works/17586
+{"annict_id":17586}
+,
+// [null-null] TV: 月華国奇医伝
+// https://annict.com/works/17587
+{"annict_id":17587}
+,
 ]
