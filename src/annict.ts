@@ -68178,4 +68178,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17584
 {"annict_id":17584}
 ,
+// [2026-SPRING] WEB: 葬送のフリーレン 〜●●の魔法〜 USJ特別編：「憧れにひたれる魔法」
+// https://annict.com/works/17585
+{"annict_id":17585}
+,
 ]
