@@ -68196,6 +68196,6 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] MOVIE: タコピーの原罪 -ありがとう、また明日-
 // https://annict.com/works/17589
-{"annict_id":17589}
+{"annict_id":17589,"mal_id":64266}
 ,
 ]
