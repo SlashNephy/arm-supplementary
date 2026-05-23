@@ -7860,7 +7860,7 @@ export const annict: ArmEntry[] = [
 ,
 // [1980-SPRING] TV: ほえろブンブン（特番）
 // https://annict.com/works/1968
-{"annict_id":1968}
+{"annict_id":1968,"mal_id":64249}
 ,
 // [2011-SPRING] TV: ほんとにあった！霊媒先生
 // https://annict.com/works/1969
@@ -67912,7 +67912,7 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] TV: 可哀想に！劇場
 // https://annict.com/works/17518
-{"annict_id":17518}
+{"annict_id":17518,"mal_id":64230}
 ,
 // [2026-SUMMER] MOVIE: 最終楽章 響け！ユーフォニアム 後編
 // https://annict.com/works/17519
