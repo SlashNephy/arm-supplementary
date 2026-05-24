@@ -68198,4 +68198,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17589
 {"annict_id":17589,"mal_id":64266}
 ,
+// [2026-SPRING] MOVIE: ボーイズ・ゴー・トゥ・ジュピター
+// https://annict.com/works/17590
+{"annict_id":17590}
+,
 ]
