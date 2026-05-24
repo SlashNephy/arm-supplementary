@@ -67106,7 +67106,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17315
 {"annict_id":17315}
 ,
-// [null-null] MOVIE: 前橋ウィッチーズ 劇場総集編
+// [2026-AUTUMN] MOVIE: 劇場版 前橋ウィッチーズ ～魔女見習いのエモエモリーズ～
 // https://annict.com/works/17316
 {"annict_id":17316,"mal_id":63772}
 ,
