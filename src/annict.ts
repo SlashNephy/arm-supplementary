@@ -65786,7 +65786,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16982
 {"annict_id":16982,"mal_id":63219}
 ,
-// [null-null] TV: ヒストリエ
+// [2027-WINTER] TV: ヒストリエ
 // https://annict.com/works/16983
 {"annict_id":16983,"mal_id":63215}
 ,
