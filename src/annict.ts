@@ -68202,4 +68202,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17590
 {"annict_id":17590}
 ,
+// [2026-SPRING] WEB: 武豊騎手デビュー40年記念ムービー『The Derby Dream Goes On～鳴りやまない、ダービーの夢～』
+// https://annict.com/works/17591
+{"annict_id":17591}
+,
+// [null-null] OTHER: Poppin-Play Kitchen 続編
+// https://annict.com/works/17592
+{"annict_id":17592}
+,
 ]
