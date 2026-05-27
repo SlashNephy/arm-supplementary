@@ -68210,4 +68210,24 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17592
 {"annict_id":17592}
 ,
+// [2026-WINTER] WEB: 『鳴潮』ショートアニメ「救う」
+// https://annict.com/works/17593
+{"annict_id":17593}
+,
+// [2026-WINTER] WEB: 『鳴潮』旅立つ星 記念アニメ「あなたと私」
+// https://annict.com/works/17594
+{"annict_id":17594}
+,
+// [2024-AUTUMN] WEB:  『鳴潮』Ver2.0 ショートアニメ「カルネヴァーレの序幕」
+// https://annict.com/works/17595
+{"annict_id":17595}
+,
+// [2025-SPRING] WEB:  『鳴潮』一周年記念EP 「Everflow」
+// https://annict.com/works/17596
+{"annict_id":17596}
+,
+// [2026-SPRING] WEB: 『鳴潮』二周年記念アニメ「Turning Around」
+// https://annict.com/works/17597
+{"annict_id":17597}
+,
 ]
