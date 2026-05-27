@@ -68230,4 +68230,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17597
 {"annict_id":17597}
 ,
+// [null-null] WEB: ドロヘドロ Season3
+// https://annict.com/works/17598
+{"annict_id":17598}
+,
 ]
