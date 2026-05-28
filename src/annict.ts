@@ -68234,4 +68234,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17598
 {"annict_id":17598,"mal_id":64290}
 ,
+// [null-null] WEB: 天穂のサクナヒメ～ヒヌカ巡霊譚～
+// https://annict.com/works/17599
+{"annict_id":17599}
+,
 ]
