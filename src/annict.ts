@@ -67290,7 +67290,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17361
 {"annict_id":17361,"mal_id":63832,"syobocal_tid":7825}
 ,
-// [null-null] WEB: 刃牙道 第2クール
+// [2026-SPRING] WEB: 刃牙道 第2クール
 // https://annict.com/works/17362
 {"annict_id":17362,"mal_id":63833}
 ,
