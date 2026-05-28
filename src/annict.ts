@@ -67134,7 +67134,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17322
 {"annict_id":17322,"mal_id":63778}
 ,
-// [null-null] TV: 花ざかりの君たちへ 第2期
+// [2026-SUMMER] TV: 花ざかりの君たちへ 第2期
 // https://annict.com/works/17323
 {"annict_id":17323,"mal_id":63780}
 ,
