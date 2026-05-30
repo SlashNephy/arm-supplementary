@@ -68242,4 +68242,44 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17600
 {"annict_id":17600,"mal_id":64298}
 ,
+// [2004-WINTER] WEB: BATTLE OF CLAY/ねんどのたたかい
+// https://annict.com/works/17601
+{"annict_id":17601,"mal_id":11897}
+,
+// [2004-WINTER] WEB: BATTLE OF CLAY 2/ねんどのたたかい２
+// https://annict.com/works/17602
+{"annict_id":17602,"mal_id":11883}
+,
+// [2006-SPRING] WEB: BLOODY NIGHT/血みどろの夜
+// https://annict.com/works/17603
+{"annict_id":17603,"mal_id":11869}
+,
+// [2006-SPRING] WEB: WITHIN THE BLOODY WOODS 1/血みどろの森 その1
+// https://annict.com/works/17604
+{"annict_id":17604,"mal_id":11915}
+,
+// [2006-SUMMER] WEB: WITHIN THE BLOODY WOODS 2/血みどろの森 その2
+// https://annict.com/works/17605
+{"annict_id":17605,"mal_id":11915}
+,
+// [2006-AUTUMN] WEB: BloodyDate/血みどろデート
+// https://annict.com/works/17606
+{"annict_id":17606,"mal_id":11691}
+,
+// [2007-SPRING] WEB: CCW : Crazy Clay Wrestling/クレイジー・クレイ・レスリング
+// https://annict.com/works/17607
+{"annict_id":17607,"mal_id":11689}
+,
+// [2007-AUTUMN] WEB: CHAINSAW MAID/チェーンソー・メイド
+// https://annict.com/works/17608
+{"annict_id":17608,"mal_id":11679}
+,
+// [2008-AUTUMN] WEB: PUSSYCAT/プッシーキャット
+// https://annict.com/works/17609
+{"annict_id":17609,"mal_id":11687}
+,
+// [2010-AUTUMN] OVA: CHAINSAW MAID episode.zero
+// https://annict.com/works/17610
+{"annict_id":17610,"mal_id":37742}
+,
 ]
