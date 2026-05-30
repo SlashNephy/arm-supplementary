@@ -68282,4 +68282,56 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17610
 {"annict_id":17610,"mal_id":37742}
 ,
+// [2011-SPRING] WEB: DEAD GIRL Trailer
+// https://annict.com/works/17611
+{"annict_id":17611,"mal_id":16602}
+,
+// [2012-WINTER] WEB: PINKY
+// https://annict.com/works/17612
+{"annict_id":17612,"mal_id":16604}
+,
+// [2012-SPRING] WEB: C.L.A.Y.
+// https://annict.com/works/17613
+{"annict_id":17613,"mal_id":16606}
+,
+// [2012-SUMMER] WEB: Shitcom
+// https://annict.com/works/17614
+{"annict_id":17614,"mal_id":16608}
+,
+// [2012-AUTUMN] WEB: NO LITTERING
+// https://annict.com/works/17615
+{"annict_id":17615,"mal_id":16610}
+,
+// [2013-AUTUMN] WEB: MAID OF THE DEAD
+// https://annict.com/works/17616
+{"annict_id":17616,"mal_id":20811}
+,
+// [2016-SUMMER] WEB: Dead World
+// https://annict.com/works/17617
+{"annict_id":17617,"mal_id":34060}
+,
+// [2013-SUMMER] WEB: レモンホームアニメ劇場
+// https://annict.com/works/17618
+{"annict_id":17618,"mal_id":30367}
+,
+// [2018-SUMMER] WEB: CHAINSAW BUNNY
+// https://annict.com/works/17619
+{"annict_id":17619,"mal_id":38181}
+,
+// [2019-SUMMER] WEB: Girl X
+// https://annict.com/works/17620
+{"annict_id":17620,"mal_id":41851}
+,
+// [2024-SUMMER] WEB: Midnight Vampire
+// https://annict.com/works/17621
+{"annict_id":17621,"mal_id":59564}
+,
+// [2024-AUTUMN] WEB: Agent Blue
+// https://annict.com/works/17622
+{"annict_id":17622,"mal_id":60263}
+,
+// [2025-SUMMER] WEB: SUPER NINJA NEKO
+// https://annict.com/works/17623
+{"annict_id":17623,"mal_id":62341}
+,
 ]
