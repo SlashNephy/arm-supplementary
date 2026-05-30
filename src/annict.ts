@@ -68240,6 +68240,6 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] TV: 人付き合いが苦手な未亡人の雪女さんと呪いの指輪
 // https://annict.com/works/17600
-{"annict_id":17600}
+{"annict_id":17600,"mal_id":64298}
 ,
 ]
