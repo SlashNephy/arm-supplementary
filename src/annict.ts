@@ -68334,4 +68334,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17623
 {"annict_id":17623,"mal_id":62341}
 ,
+// [2026-SPRING] WEB: LYRICA：ロストコード
+// https://annict.com/works/17624
+{"annict_id":17624}
+,
+// [null-null] MOVIE: 劇場版 Paradox Live THE ANIMATION
+// https://annict.com/works/17625
+{"annict_id":17625,"mal_id":64317}
+,
 ]
