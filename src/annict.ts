@@ -68346,4 +68346,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17626
 {"annict_id":17626}
 ,
+// [2026-AUTUMN] TV: マロニエ王国の七人の騎士
+// https://annict.com/works/17627
+{"annict_id":17627,"mal_id":64326}
+,
+// [2026-SPRING] TV: ちいさなプリンセス ソフィア マジカルフレンズ
+// https://annict.com/works/17628
+{"annict_id":17628}
+,
 ]
