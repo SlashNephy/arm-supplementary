@@ -68342,4 +68342,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17625
 {"annict_id":17625,"mal_id":64317}
 ,
+// [2026-SPRING] WEB: パイの実 おしの森へようこそ！
+// https://annict.com/works/17626
+{"annict_id":17626}
+,
 ]
