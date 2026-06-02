@@ -45860,7 +45860,7 @@ export const annict: ArmEntry[] = [
 ,
 // [1977-SPRING] TV: アルプスの音楽少女 ネッティのふしぎな物語
 // https://annict.com/works/11978
-{"annict_id":11978}
+{"annict_id":11978,"mal_id":64320}
 ,
 // [1978-AUTUMN] TV: 町一番のけちんぼう
 // https://annict.com/works/11979
@@ -68361,5 +68361,9 @@ export const annict: ArmEntry[] = [
 // [2022-AUTUMN] WEB: 「パニシング：グレイレイヴン」ショートアニメ『ぱにぐれ劇場』
 // https://annict.com/works/17630
 {"annict_id":17630,"mal_id":42966}
+,
+// [2026-SPRING] WEB: ブープ
+// https://annict.com/works/17631
+{"annict_id":17631}
 ,
 ]
