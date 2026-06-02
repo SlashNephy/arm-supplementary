@@ -68354,4 +68354,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17628
 {"annict_id":17628}
 ,
+// [2026-SPRING] WEB: 【NTE】レクイエムキャラアニメ｜おやすみ　優しい星のひかり
+// https://annict.com/works/17629
+{"annict_id":17629}
+,
+// [2022-AUTUMN] WEB: 「パニシング：グレイレイヴン」ショートアニメ『ぱにぐれ劇場』
+// https://annict.com/works/17630
+{"annict_id":17630,"mal_id":42966}
+,
 ]
