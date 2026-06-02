@@ -68366,4 +68366,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17631
 {"annict_id":17631}
 ,
+// [2022-WINTER] WEB: 転生したらスライムだった件 ショートストーリー「救われるラミリス」
+// https://annict.com/works/17632
+{"annict_id":17632,"mal_id":51309}
+,
 ]
