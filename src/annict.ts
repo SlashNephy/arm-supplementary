@@ -39832,7 +39832,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2008-SUMMER] TV: チョロQデッキシステム Qファイターズ!
 // https://annict.com/works/10467
-{"annict_id":10467}
+{"annict_id":10467,"mal_id":64331}
 ,
 // [2010-WINTER] TV: ケシカスくん
 // https://annict.com/works/10468
@@ -58628,7 +58628,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2001-null] OVA: 電動作戦ガッタイオー
 // https://annict.com/works/15184
-{"annict_id":15184}
+{"annict_id":15184,"mal_id":64332}
 ,
 // [1979-SUMMER] MOVIE: 野球狂の詩 北の狼南の虎
 // https://annict.com/works/15185
@@ -63192,7 +63192,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: 炎の闘球女 ドッジ弾子
 // https://annict.com/works/16328
-{"annict_id":16328,"mal_id":62031}
+{"annict_id":16328,"mal_id":62031,"syobocal_tid":7876}
 ,
 // [2025-SUMMER] MOVIE: 劇場編集版 Summer Pockets 紬ヴェンダース編
 // https://annict.com/works/16329
@@ -68344,7 +68344,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] WEB: パイの実 おしの森へようこそ！
 // https://annict.com/works/17626
-{"annict_id":17626}
+{"annict_id":17626,"mal_id":64325}
 ,
 // [2026-AUTUMN] TV: マロニエ王国の七人の騎士
 // https://annict.com/works/17627
@@ -68369,5 +68369,9 @@ export const annict: ArmEntry[] = [
 // [2022-WINTER] WEB: 転生したらスライムだった件 ショートストーリー「救われるラミリス」
 // https://annict.com/works/17632
 {"annict_id":17632,"mal_id":51309}
+,
+// [1990-null] OVA: トミカ未来緊急隊アースコマンダー
+// https://annict.com/works/17633
+{"annict_id":17633,"mal_id":64333}
 ,
 ]
