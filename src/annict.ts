@@ -68376,7 +68376,7 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] TV: え、社内システム全てワンオペしている私を解雇ですか？
 // https://annict.com/works/17634
-{"annict_id":17634}
+{"annict_id":17634,"mal_id":64341}
 ,
 // [2026-AUTUMN] TV: テムパル～アイテムの力～
 // https://annict.com/works/17635
