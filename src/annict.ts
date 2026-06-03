@@ -68382,4 +68382,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17635
 {"annict_id":17635}
 ,
+// [2026-AUTUMN] TV: 獣王武神ダンデヴァイン
+// https://annict.com/works/17636
+{"annict_id":17636}
+,
 ]
