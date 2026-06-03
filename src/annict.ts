@@ -48236,7 +48236,7 @@ export const annict: ArmEntry[] = [
 ,
 // [1990-AUTUMN] OVA: 悟空の著作権入門
 // https://annict.com/works/12576
-{"annict_id":12576}
+{"annict_id":12576,"mal_id":64337}
 ,
 // [2014-WINTER] MOVIE: BUDDHA2 手塚治虫のブッダ -終わりなき旅-
 // https://annict.com/works/12577
@@ -60136,11 +60136,11 @@ export const annict: ArmEntry[] = [
 ,
 // [1968-SPRING] OTHER: ガムガムパンチ
 // https://annict.com/works/15561
-{"annict_id":15561}
+{"annict_id":15561,"mal_id":64336}
 ,
 // [1967-SUMMER] OTHER: フライング・ベン
 // https://annict.com/works/15562
-{"annict_id":15562}
+{"annict_id":15562,"mal_id":64335}
 ,
 // [1968-SPRING] OTHER: 0マン
 // https://annict.com/works/15563
@@ -68380,7 +68380,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: テムパル～アイテムの力～
 // https://annict.com/works/17635
-{"annict_id":17635}
+{"annict_id":17635,"mal_id":64340}
 ,
 // [2026-AUTUMN] TV: 獣王武神ダンデヴァイン
 // https://annict.com/works/17636
