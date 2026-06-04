@@ -65028,7 +65028,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: 鎧真伝サムライトルーパー 第2クール
 // https://annict.com/works/16792
-{"annict_id":16792,"mal_id":63047}
+{"annict_id":16792,"mal_id":63047,"syobocal_tid":7881}
 ,
 // [2011-SUMMER] WEB: カッコカワイイ宣言！(第2期)
 // https://annict.com/works/16793
