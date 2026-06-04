@@ -68192,7 +68192,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] WEB: にけにち！のんのん前哨基地
 // https://annict.com/works/17588
-{"annict_id":17588}
+{"annict_id":17588,"mal_id":64217}
 ,
 // [null-null] MOVIE: タコピーの原罪 -ありがとう、また明日-
 // https://annict.com/works/17589
@@ -68385,5 +68385,9 @@ export const annict: ArmEntry[] = [
 // [2026-AUTUMN] TV: 獣王武神ダンデヴァイン
 // https://annict.com/works/17636
 {"annict_id":17636,"mal_id":64344}
+,
+// [2027-null] TV: ギフテッド
+// https://annict.com/works/17637
+{"annict_id":17637}
 ,
 ]
