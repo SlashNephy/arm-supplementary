@@ -59816,7 +59816,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: 猫と竜
 // https://annict.com/works/15481
-{"annict_id":15481,"mal_id":61048}
+{"annict_id":15481,"mal_id":61048,"syobocal_tid":7887}
 ,
 // [2025-WINTER] MOVIE: ギャラクシーアパート☆コスモヒルズ
 // https://annict.com/works/15482
@@ -61980,7 +61980,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: ヒロイン？聖女？いいえ、オールワークスメイドです（誇）！
 // https://annict.com/works/16023
-{"annict_id":16023,"mal_id":61686}
+{"annict_id":16023,"mal_id":61686,"syobocal_tid":7886}
 ,
 // [2026-SPRING] TV: 自称悪役令嬢な婚約者の観察記録。
 // https://annict.com/works/16024
