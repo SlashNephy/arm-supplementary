@@ -57612,7 +57612,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: 骸骨騎士様、只今異世界へお出掛け中Ⅱ
 // https://annict.com/works/14929
-{"annict_id":14929,"mal_id":60522}
+{"annict_id":14929,"mal_id":60522,"syobocal_tid":7877}
 ,
 // [2025-SUMMER] TV: 追放者食堂へようこそ！
 // https://annict.com/works/14930
