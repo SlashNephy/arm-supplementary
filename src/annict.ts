@@ -39376,7 +39376,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: 乙女ゲー世界はモブに厳しい世界です2
 // https://annict.com/works/10352
-{"annict_id":10352,"mal_id":54000}
+{"annict_id":10352,"mal_id":54000,"syobocal_tid":7884}
 ,
 // [2025-SUMMER] TV: Turkey!
 // https://annict.com/works/10353
@@ -62876,7 +62876,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: 片田舎のおっさん、剣聖になるⅡ
 // https://annict.com/works/16248
-{"annict_id":16248,"mal_id":61897}
+{"annict_id":16248,"mal_id":61897,"syobocal_tid":7883}
 ,
 // [2025-SUMMER] WEB: おにもももも
 // https://annict.com/works/16249
@@ -64716,7 +64716,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: 透明な夜に駆ける君と、目に見えない恋をした。
 // https://annict.com/works/16714
-{"annict_id":16714,"mal_id":62936}
+{"annict_id":16714,"mal_id":62936,"syobocal_tid":7885}
 ,
 // [2026-WINTER] TV: 学園アイドルマスター Story of Re;IRIS
 // https://annict.com/works/16715
