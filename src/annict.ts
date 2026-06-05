@@ -60896,7 +60896,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: これ描いて死ね
 // https://annict.com/works/15751
-{"annict_id":15751,"mal_id":61280}
+{"annict_id":15751,"mal_id":61280,"syobocal_tid":7889}
 ,
 // [null-null] TV: 俺と悠兄！
 // https://annict.com/works/15752
@@ -66208,7 +66208,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: ヤニねこ
 // https://annict.com/works/17088
-{"annict_id":17088,"mal_id":63403}
+{"annict_id":17088,"mal_id":63403,"syobocal_tid":7888}
 ,
 // [2026-null] TV: どうも、好きな人に惚れ薬を依頼された魔女です。
 // https://annict.com/works/17089
