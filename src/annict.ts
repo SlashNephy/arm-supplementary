@@ -68388,7 +68388,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2027-null] TV: ギフテッド
 // https://annict.com/works/17637
-{"annict_id":17637}
+{"annict_id":17637,"mal_id":64348}
 ,
 // [null-null] TV: 魔法科高校の劣等生 第二部
 // https://annict.com/works/17638
