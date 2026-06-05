@@ -68398,4 +68398,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17639
 {"annict_id":17639}
 ,
+// [2022-AUTUMN] WEB: ナイト ミュージアム／カームンラーの大脱走
+// https://annict.com/works/17640
+{"annict_id":17640}
+,
 ]
