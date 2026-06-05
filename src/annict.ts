@@ -68402,4 +68402,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17640
 {"annict_id":17640}
 ,
+// [2027-null] TV: 重兵装型女子高生
+// https://annict.com/works/17641
+{"annict_id":17641}
+,
 ]
