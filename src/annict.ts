@@ -68462,4 +68462,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17655
 {"annict_id":17655}
 ,
+// [2025-SPRING] TV: いらっしゃいませ、ゆうやけ！２
+// https://annict.com/works/17656
+{"annict_id":17656}
+,
+// [2019-WINTER] WEB: 朱
+// https://annict.com/works/17657
+{"annict_id":17657}
+,
 ]
