@@ -68392,7 +68392,7 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] TV: 魔法科高校の劣等生 第二部
 // https://annict.com/works/17638
-{"annict_id":17638}
+{"annict_id":17638,"mal_id":64350}
 ,
 // [2027-null] MOVIE: アイス・エイジ：ぐつぐつロストワールド
 // https://annict.com/works/17639
@@ -68404,6 +68404,6 @@ export const annict: ArmEntry[] = [
 ,
 // [2027-null] TV: 重兵装型女子高生
 // https://annict.com/works/17641
-{"annict_id":17641}
+{"annict_id":17641,"mal_id":64354}
 ,
 ]
