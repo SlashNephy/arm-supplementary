@@ -68422,4 +68422,44 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17645
 {"annict_id":17645}
 ,
+// [2026-SPRING] OTHER: 緑陰の冠
+// https://annict.com/works/17646
+{"annict_id":17646}
+,
+// [2026-SPRING] OTHER: 悪役に仕立てあげられた令嬢は財力を隠す
+// https://annict.com/works/17647
+{"annict_id":17647}
+,
+// [2026-SPRING] OTHER: 邪魔者に転生してしまいました
+// https://annict.com/works/17648
+{"annict_id":17648}
+,
+// [2026-SPRING] OTHER: 捨てたゴミは二度と拾いません
+// https://annict.com/works/17649
+{"annict_id":17649}
+,
+// [2026-SPRING] OTHER: 逆ハーレムゲームの中に落ちたようです
+// https://annict.com/works/17650
+{"annict_id":17650}
+,
+// [2026-SPRING] OTHER: 養女の役をうまくやり過ぎました
+// https://annict.com/works/17651
+{"annict_id":17651}
+,
+// [2026-SPRING] OTHER: 公女様は未来を見通す
+// https://annict.com/works/17652
+{"annict_id":17652}
+,
+// [2026-SPRING] OTHER: 政略結婚なのにどうして執着するのですか？
+// https://annict.com/works/17653
+{"annict_id":17653}
+,
+// [2026-SPRING] OTHER: 侯爵家の歴代最強の末息子
+// https://annict.com/works/17654
+{"annict_id":17654}
+,
+// [2026-SPRING] OTHER: 生き残りプレイヤー、二度目のデスゲームで最強無双
+// https://annict.com/works/17655
+{"annict_id":17655}
+,
 ]
