@@ -68406,4 +68406,20 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17641
 {"annict_id":17641,"mal_id":64354}
 ,
+// [2026-SUMMER] TV: トミカとトム シーズン2
+// https://annict.com/works/17642
+{"annict_id":17642,"mal_id":64357}
+,
+// [2026-SUMMER] WEB: ようじょしぇんき2
+// https://annict.com/works/17643
+{"annict_id":17643}
+,
+// [2026-SPRING] OTHER: 転生した暗殺者は剣術の天才
+// https://annict.com/works/17644
+{"annict_id":17644}
+,
+// [2026-SPRING] OTHER: 誰かが私に憑依した
+// https://annict.com/works/17645
+{"annict_id":17645}
+,
 ]
