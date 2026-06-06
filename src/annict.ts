@@ -33028,7 +33028,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: 幼女戦記Ⅱ
 // https://annict.com/works/8632
-{"annict_id":8632,"mal_id":49233}
+{"annict_id":8632,"mal_id":49233,"syobocal_tid":7890}
 ,
 // [2020-SUMMER] MOVIE: マロナの幻想的な物語り
 // https://annict.com/works/8633
@@ -52248,7 +52248,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: 無職転生Ⅲ ～異世界行ったら本気だす～
 // https://annict.com/works/13582
-{"annict_id":13582,"mal_id":59193}
+{"annict_id":13582,"mal_id":59193,"syobocal_tid":7891}
 ,
 // [2024-AUTUMN] MOVIE: 劇場総集編 幻日のヨハネ -SUNSHINE in the MIRROR-
 // https://annict.com/works/13583
@@ -57772,7 +57772,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: 株式会社マジルミエ 第2期
 // https://annict.com/works/14969
-{"annict_id":14969,"mal_id":60552}
+{"annict_id":14969,"mal_id":60552,"syobocal_tid":7892}
 ,
 // [null-null] TV: アルカナディア
 // https://annict.com/works/14970
@@ -63752,7 +63752,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: ブチ切れ令嬢は報復を誓いました。～魔導書の力で祖国を叩き潰します～
 // https://annict.com/works/16468
-{"annict_id":16468,"mal_id":62289}
+{"annict_id":16468,"mal_id":62289,"syobocal_tid":7894}
 ,
 // [1991-AUTUMN] MOVIE: ぞうのババール・ザ・ムービー
 // https://annict.com/works/16469
@@ -64028,7 +64028,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: 手札が多めのビクトリア
 // https://annict.com/works/16538
-{"annict_id":16538,"mal_id":62476}
+{"annict_id":16538,"mal_id":62476,"syobocal_tid":7896}
 ,
 // [2026-WINTER] TV: 北斗の拳 拳王軍ザコたちの挽歌
 // https://annict.com/works/16539
@@ -64496,7 +64496,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: 君のことが大大大大大好きな100人の彼女 第3期
 // https://annict.com/works/16658
-{"annict_id":16658,"mal_id":62811}
+{"annict_id":16658,"mal_id":62811,"syobocal_tid":7893}
 ,
 // [2025-AUTUMN] WEB: LEGO ディズニー アナと雪の女王：お城のピンチ！
 // https://annict.com/works/16659
@@ -66380,7 +66380,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: 落第賢者の学院無双 ～二度目の転生、Sランクチート魔術師冒険録～
 // https://annict.com/works/17131
-{"annict_id":17131,"mal_id":63508}
+{"annict_id":17131,"mal_id":63508,"syobocal_tid":7897}
 ,
 // [2026-null] TV: ダークサモナーとデキている
 // https://annict.com/works/17132
@@ -66440,7 +66440,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: 「きみを愛する気はない」と言った次期公爵様がなぜか溺愛してきます
 // https://annict.com/works/17147
-{"annict_id":17147,"mal_id":63537}
+{"annict_id":17147,"mal_id":63537,"syobocal_tid":7898}
 ,
 // [2026-WINTER] MOVIE: 超かぐや姫！(劇場版)
 // https://annict.com/works/17148
@@ -67256,7 +67256,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ 2nd Season
 // https://annict.com/works/17353
-{"annict_id":17353,"mal_id":63817}
+{"annict_id":17353,"mal_id":63817,"syobocal_tid":7895}
 ,
 // [2026-SUMMER] MOVIE: 死亡遊戯で飯を食う。 44:CLOUDY BEACH
 // https://annict.com/works/17354
