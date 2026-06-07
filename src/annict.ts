@@ -46750,7 +46750,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/12203
 {"annict_id":12203,"mal_id":57611,"syobocal_tid":7177}
 ,
-// [2026-null] TV: 帰還者の魔法は特別です 第2期
+// [2026-AUTUMN] TV: 帰還者の魔法は特別です 第二期
 // https://annict.com/works/12204
 {"annict_id":12204,"mal_id":57612}
 ,
@@ -68473,5 +68473,9 @@ export const annict: ArmEntry[] = [
 // [2005-WINTER] WEB: 星宿海
 // https://annict.com/works/17658
 {"annict_id":17658}
+,
+// [2026-SPRING] WEB: そのワイヤレス機器、電波トラブル起こしてるかも!? 10秒でわかるマナーレッスン！
+// https://annict.com/works/17659
+{"annict_id":17659}
 ,
 ]
