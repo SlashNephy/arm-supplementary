@@ -66094,7 +66094,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17059
 {"annict_id":17059,"mal_id":31918}
 ,
-// [2005-null] WEB: 吉野の姫
+// [2005-SUMMER] WEB: 吉野の姫
 // https://annict.com/works/17060
 {"annict_id":17060,"mal_id":4660}
 ,
@@ -68469,5 +68469,9 @@ export const annict: ArmEntry[] = [
 // [2019-WINTER] WEB: 朱
 // https://annict.com/works/17657
 {"annict_id":17657}
+,
+// [2005-WINTER] WEB: 星宿海
+// https://annict.com/works/17658
+{"annict_id":17658}
 ,
 ]
