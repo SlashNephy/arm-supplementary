@@ -63792,7 +63792,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: LV999の村人
 // https://annict.com/works/16478
-{"annict_id":16478,"mal_id":62322}
+{"annict_id":16478,"mal_id":62322,"syobocal_tid":7899}
 ,
 // [2022-WINTER] TV: きっかけは、キットカットで。
 // https://annict.com/works/16479
