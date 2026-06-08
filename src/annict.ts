@@ -64222,7 +64222,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16587
 {"annict_id":16587,"mal_id":62584}
 ,
-// [null-null] TV: ブルーロック 続編
+// [null-null] TV: ブルーロック ネオ・エゴイストリーグ
 // https://annict.com/works/16588
 {"annict_id":16588,"mal_id":62589}
 ,
@@ -68477,5 +68477,17 @@ export const annict: ArmEntry[] = [
 // [2026-SPRING] WEB: そのワイヤレス機器、電波トラブル起こしてるかも!? 10秒でわかるマナーレッスン！
 // https://annict.com/works/17659
 {"annict_id":17659}
+,
+// [2026-SPRING] WEB: GOAT／ゴート 史上最高をめざせ！
+// https://annict.com/works/17660
+{"annict_id":17660}
+,
+// [2025-SUMMER] WEB: チョッキン！
+// https://annict.com/works/17661
+{"annict_id":17661}
+,
+// [2026-SPRING] WEB: 餓狼伝説 CotW｜Mr.KARATE｜ロングアニメーショントレーラー
+// https://annict.com/works/17662
+{"annict_id":17662,"mal_id":64289}
 ,
 ]
