@@ -63464,7 +63464,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: 無自覚聖女は今日も無意識に力を垂れ流す
 // https://annict.com/works/16396
-{"annict_id":16396,"mal_id":62080}
+{"annict_id":16396,"mal_id":62080,"syobocal_tid":7901}
 ,
 // [null-null] TV: 俺は全てを【パリイ】する ～逆勘違いの世界最強は冒険者になりたい～ 第2期
 // https://annict.com/works/16397
@@ -63972,7 +63972,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: 世界最強の後衛 ～迷宮国の新人探索者～
 // https://annict.com/works/16524
-{"annict_id":16524,"mal_id":62435}
+{"annict_id":16524,"mal_id":62435,"syobocal_tid":7902}
 ,
 // [2005-null] TV: アスカコーポレーションCM「森のココロコロ」
 // https://annict.com/works/16525
@@ -65148,7 +65148,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: 令和のダラさん
 // https://annict.com/works/16822
-{"annict_id":16822,"mal_id":63082}
+{"annict_id":16822,"mal_id":63082,"syobocal_tid":7900}
 ,
 // [2013-SPRING] WEB: クリエイティブ・ギャラクシー
 // https://annict.com/works/16823
@@ -65496,7 +65496,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: 乙女怪獣キャラメリゼ
 // https://annict.com/works/16910
-{"annict_id":16910,"mal_id":63150}
+{"annict_id":16910,"mal_id":63150,"syobocal_tid":7903}
 ,
 // [2026-WINTER] WEB: mofusand
 // https://annict.com/works/16911
