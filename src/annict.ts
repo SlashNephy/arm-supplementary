@@ -61412,7 +61412,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: 天幕のジャードゥーガル
 // https://annict.com/works/15881
-{"annict_id":15881,"mal_id":61483}
+{"annict_id":15881,"mal_id":61483,"syobocal_tid":7907}
 ,
 // [2002-null] TV: シャドウレイダース
 // https://annict.com/works/15882
@@ -64148,7 +64148,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: 花織さんは転生しても喧嘩がしたい
 // https://annict.com/works/16569
-{"annict_id":16569,"mal_id":62535}
+{"annict_id":16569,"mal_id":62535,"syobocal_tid":7908}
 ,
 // [2026-AUTUMN] TV: 新テニスの王子様 U-17 WORLD CUP 決勝メンバー決定戦
 // https://annict.com/works/16570
@@ -65092,7 +65092,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: うちの弟どもがすみません
 // https://annict.com/works/16808
-{"annict_id":16808,"mal_id":63061}
+{"annict_id":16808,"mal_id":63061,"syobocal_tid":7906}
 ,
 // [null-null] OTHER: コードギアス 星追いのアスパル
 // https://annict.com/works/16809
