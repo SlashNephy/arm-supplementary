@@ -68540,7 +68540,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2020-WINTER] TV: 新ニッポンヒストリー
 // https://annict.com/works/17675
-{"annict_id":17675}
+{"annict_id":17675,"mal_id":54871}
 ,
 // [2020-WINTER] TV: らぶみぃ
 // https://annict.com/works/17676
@@ -68585,5 +68585,21 @@ export const annict: ArmEntry[] = [
 // [2020-AUTUMN] TV: 届け！FM83〇！マンデーナイトシンフォニーR！
 // https://annict.com/works/17686
 {"annict_id":17686}
+,
+// [2021-SPRING] TV: 届け！FM83〇！マンデーナイトシンフォニーS！
+// https://annict.com/works/17687
+{"annict_id":17687}
+,
+// [2021-SUMMER] TV: 届け！FM83〇！マンデーナイトシンフォニーSS！
+// https://annict.com/works/17688
+{"annict_id":17688}
+,
+// [2021-WINTER] TV: まにまに3
+// https://annict.com/works/17689
+{"annict_id":17689}
+,
+// [2026-SPRING] WEB: バンチ２５周年記念「極主夫道」スペシャルアニメPV
+// https://annict.com/works/17690
+{"annict_id":17690}
 ,
 ]
