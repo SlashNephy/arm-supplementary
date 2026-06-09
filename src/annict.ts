@@ -68490,4 +68490,100 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17662
 {"annict_id":17662,"mal_id":64289}
 ,
+// [2022-SPRING] TV: 夜舞魍魎
+// https://annict.com/works/17663
+{"annict_id":17663}
+,
+// [2023-SUMMER] TV: Nostalgic Rain Love -ノスタルジック・レインラブ-
+// https://annict.com/works/17664
+{"annict_id":17664}
+,
+// [2023-SUMMER] TV: オカルティックな喫茶店へようこそ！
+// https://annict.com/works/17665
+{"annict_id":17665}
+,
+// [2024-WINTER] TV: まいどっ!!
+// https://annict.com/works/17666
+{"annict_id":17666}
+,
+// [2024-SPRING] TV: まいどっ!!リターンズ
+// https://annict.com/works/17667
+{"annict_id":17667}
+,
+// [2024-AUTUMN] TV: 進め！Ｄタワー
+// https://annict.com/works/17668
+{"annict_id":17668}
+,
+// [2024-AUTUMN] TV: 奉行の目録
+// https://annict.com/works/17669
+{"annict_id":17669}
+,
+// [2026-SPRING] TV: 君とクリームソーダ
+// https://annict.com/works/17670
+{"annict_id":17670}
+,
+// [2026-SPRING] TV: ギャル令嬢のひみつ日和！
+// https://annict.com/works/17671
+{"annict_id":17671}
+,
+// [2026-SPRING] TV: 魔法少女ふらぴゅあ
+// https://annict.com/works/17672
+{"annict_id":17672}
+,
+// [2019-SUMMER] TV: ふーるぶっくふーる
+// https://annict.com/works/17673
+{"annict_id":17673}
+,
+// [2019-AUTUMN] TV: あしたの隙間
+// https://annict.com/works/17674
+{"annict_id":17674}
+,
+// [2020-WINTER] TV: 新ニッポンヒストリー
+// https://annict.com/works/17675
+{"annict_id":17675}
+,
+// [2020-WINTER] TV: らぶみぃ
+// https://annict.com/works/17676
+{"annict_id":17676}
+,
+// [2020-WINTER] TV: あーばんれじぇんだーず
+// https://annict.com/works/17677
+{"annict_id":17677}
+,
+// [2020-WINTER] TV: 世界は意外と小さくできている
+// https://annict.com/works/17678
+{"annict_id":17678}
+,
+// [2027-null] TV: 電撃デイジー
+// https://annict.com/works/17679
+{"annict_id":17679,"mal_id":64374}
+,
+// [2020-SPRING] TV: 12星座たちの歩み方
+// https://annict.com/works/17680
+{"annict_id":17680}
+,
+// [2020-SPRING] TV: コスプレ魔王と9人の勇者
+// https://annict.com/works/17681
+{"annict_id":17681}
+,
+// [2020-SUMMER] TV: 届け！FM83〇！マンデーナイトシンフォニー！
+// https://annict.com/works/17682
+{"annict_id":17682}
+,
+// [2020-SUMMER] TV: For my dearest～忘れた夏の僕の記憶〜
+// https://annict.com/works/17683
+{"annict_id":17683}
+,
+// [2020-SUMMER] TV: まにまに
+// https://annict.com/works/17684
+{"annict_id":17684}
+,
+// [2020-SUMMER] TV: まにまに2
+// https://annict.com/works/17685
+{"annict_id":17685}
+,
+// [2020-AUTUMN] TV: 届け！FM83〇！マンデーナイトシンフォニーR！
+// https://annict.com/works/17686
+{"annict_id":17686}
+,
 ]
