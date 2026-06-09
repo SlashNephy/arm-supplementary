@@ -67378,7 +67378,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17383
 {"annict_id":17383}
 ,
-// [2026-null] WEB: 君を紡ぐ
+// [2026-SPRING] WEB: 君を紡ぐ
 // https://annict.com/works/17384
 {"annict_id":17384}
 ,
@@ -68600,6 +68600,6 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] WEB: バンチ２５周年記念「極主夫道」スペシャルアニメPV
 // https://annict.com/works/17690
-{"annict_id":17690}
+{"annict_id":17690,"mal_id":64376}
 ,
 ]
