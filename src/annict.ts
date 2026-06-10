@@ -60120,7 +60120,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: きみが死ぬまで恋をしたい
 // https://annict.com/works/15557
-{"annict_id":15557,"mal_id":61126}
+{"annict_id":15557,"mal_id":61126,"syobocal_tid":7910}
 ,
 // [2026-WINTER] TV: 勇者パーティを追い出された器用貧乏
 // https://annict.com/works/15558
@@ -67176,7 +67176,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: 北斗の拳 拳王軍ザコたちの挽歌 第2クール
 // https://annict.com/works/17333
-{"annict_id":17333}
+{"annict_id":17333,"syobocal_tid":7911}
 ,
 // [null-null] TV: 真夜中ハートチューン 第2期
 // https://annict.com/works/17334
@@ -68617,5 +68617,9 @@ export const annict: ArmEntry[] = [
 // [2026-WINTER] WEB: カノンとスバルの3つの願い
 // https://annict.com/works/17694
 {"annict_id":17694}
+,
+// [2027-null] TV: 最強魔法師の隠遁計画
+// https://annict.com/works/17695
+{"annict_id":17695,"mal_id":64379}
 ,
 ]
