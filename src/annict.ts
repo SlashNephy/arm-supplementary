@@ -46976,7 +46976,7 @@ export const annict: ArmEntry[] = [
 ,
 // [1996-WINTER] OVA: 残された名刺－ある在日一世の軌跡－
 // https://annict.com/works/12260
-{"annict_id":12260}
+{"annict_id":12260,"mal_id":64372}
 ,
 // [1997-WINTER] OVA: 二匹の猫と元気な家族
 // https://annict.com/works/12261
@@ -68621,5 +68621,17 @@ export const annict: ArmEntry[] = [
 // [2027-null] TV: 最強魔法師の隠遁計画
 // https://annict.com/works/17695
 {"annict_id":17695,"mal_id":64379}
+,
+// [2023-WINTER] WEB: イブラヒム3周年記念アニメ -Ibrahim 3rd Anniversary Animation-
+// https://annict.com/works/17696
+{"annict_id":17696,"mal_id":58034}
+,
+// [2026-SPRING] WEB: ほくとと影マル
+// https://annict.com/works/17697
+{"annict_id":17697}
+,
+// [2026-null] TV: ルパン三世傑作選
+// https://annict.com/works/17698
+{"annict_id":17698}
 ,
 ]
