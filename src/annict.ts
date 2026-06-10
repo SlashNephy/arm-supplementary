@@ -68474,7 +68474,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17658
 {"annict_id":17658}
 ,
-// [2026-SPRING] WEB: そのワイヤレス機器、電波トラブル起こしてるかも!? 10秒でわかるマナーレッスン！
+// [2026-SPRING] WEB: 「そのワイヤレス機器、電波トラブル起こしてるかも!?」総務省 令和8年度電波利用環境保護周知啓発強化期間 10秒でわかるマナーレッスン！
 // https://annict.com/works/17659
 {"annict_id":17659}
 ,
@@ -68601,5 +68601,21 @@ export const annict: ArmEntry[] = [
 // [2026-SPRING] WEB: バンチ２５周年記念「極主夫道」スペシャルアニメPV
 // https://annict.com/works/17690
 {"annict_id":17690,"mal_id":64376}
+,
+// [2024-SPRING] WEB: 「守ろう！電波のルール」総務省 令和6年度電波利用環境保護周知啓発強化期間 アニメCM
+// https://annict.com/works/17691
+{"annict_id":17691}
+,
+// [2025-SPRING] WEB: 「STOP THE 不法電波！」総務省 令和7年度電波利用環境保護周知啓発強化期間 アニメCM
+// https://annict.com/works/17692
+{"annict_id":17692}
+,
+// [2015-SPRING] OVA: ボーエもんの防衛だもん～よくわかる自衛隊～
+// https://annict.com/works/17693
+{"annict_id":17693}
+,
+// [2026-WINTER] WEB: カノンとスバルの3つの願い
+// https://annict.com/works/17694
+{"annict_id":17694}
 ,
 ]
