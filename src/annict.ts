@@ -31918,7 +31918,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/8321
 {"annict_id":8321}
 ,
-// [2013-null] OVA: トムとジェリー オズの魔法使
+// [2011-SUMMER] OVA: トムとジェリー オズの魔法使
 // https://annict.com/works/8322
 {"annict_id":8322}
 ,
@@ -57934,7 +57934,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15009
 {"annict_id":15009,"mal_id":61742,"syobocal_tid":7530}
 ,
-// [2019-SUMMER] OVA: トムとジェリー 夢のチョコレート工場
+// [2017-AUTUMN] OVA: トムとジェリー 夢のチョコレート工場
 // https://annict.com/works/15010
 {"annict_id":15010}
 ,
@@ -68633,5 +68633,61 @@ export const annict: ArmEntry[] = [
 // [2026-null] TV: ルパン三世傑作選
 // https://annict.com/works/17698
 {"annict_id":17698}
+,
+// [2002-SUMMER] OVA: トムとジェリー魔法の指輪
+// https://annict.com/works/17699
+{"annict_id":17699}
+,
+// [2005-WINTER] OVA: トムとジェリー 火星へ行く
+// https://annict.com/works/17700
+{"annict_id":17700}
+,
+// [2005-AUTUMN] OVA: トムとジェリー ワイルドスピード
+// https://annict.com/works/17701
+{"annict_id":17701}
+,
+// [2006-AUTUMN] OVA: トムとジェリーの宝島
+// https://annict.com/works/17702
+{"annict_id":17702}
+,
+// [2007-AUTUMN] OVA: トムとジェリーのくるみ割り人形
+// https://annict.com/works/17703
+{"annict_id":17703}
+,
+// [2010-SUMMER] OVA: トムとジェリー シャーロック・ホームズ
+// https://annict.com/works/17704
+{"annict_id":17704}
+,
+// [2012-AUTUMN] OVA: トムとジェリー ロビン・フッド
+// https://annict.com/works/17705
+{"annict_id":17705}
+,
+// [2013-SUMMER] OVA: トムとジェリー ジャックと豆の木
+// https://annict.com/works/17706
+{"annict_id":17706}
+,
+// [2014-SUMMER] OVA: トムとジェリーと迷子のドラゴン
+// https://annict.com/works/17707
+{"annict_id":17707}
+,
+// [2014-AUTUMN] OVA: トムとジェリー サンタの小さなお手伝いさん
+// https://annict.com/works/17708
+{"annict_id":17708}
+,
+// [2015-SUMMER] OVA: トムとジェリー スパイ・クエスト
+// https://annict.com/works/17709
+{"annict_id":17709}
+,
+// [2016-AUTUMN] OVA: トムとジェリー すくえ!魔法の国オズ
+// https://annict.com/works/17710
+{"annict_id":17710}
+,
+// [2022-WINTER] OVA: トムとジェリー カウボーイ・アップ!
+// https://annict.com/works/17711
+{"annict_id":17711}
+,
+// [2022-AUTUMN] OVA: トムとジェリー スノーマウスと雪の魔法
+// https://annict.com/works/17712
+{"annict_id":17712}
 ,
 ]
