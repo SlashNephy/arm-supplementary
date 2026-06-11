@@ -68468,7 +68468,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2019-WINTER] WEB: 朱
 // https://annict.com/works/17657
-{"annict_id":17657}
+{"annict_id":17657,"mal_id":41222}
 ,
 // [2005-WINTER] WEB: 星宿海
 // https://annict.com/works/17658
@@ -68689,5 +68689,29 @@ export const annict: ArmEntry[] = [
 // [2022-AUTUMN] OVA: トムとジェリー スノーマウスと雪の魔法
 // https://annict.com/works/17712
 {"annict_id":17712}
+,
+// [2003-SPRING] WEB: 二二九
+// https://annict.com/works/17713
+{"annict_id":17713}
+,
+// [2004-SPRING] WEB: 十一月
+// https://annict.com/works/17714
+{"annict_id":17714}
+,
+// [2006-WINTER] WEB: 海防点景
+// https://annict.com/works/17715
+{"annict_id":17715}
+,
+// [2017-SPRING] WEB: 地図のない冒険
+// https://annict.com/works/17716
+{"annict_id":17716,"mal_id":35610}
+,
+// [2012-AUTUMN] WEB: MY LIFE
+// https://annict.com/works/17717
+{"annict_id":17717,"mal_id":16690}
+,
+// [2019-SPRING] WEB: GANMA!×モンスト超絶感謝タップ祭『猫娘症候群』アニメPV
+// https://annict.com/works/17718
+{"annict_id":17718}
 ,
 ]
