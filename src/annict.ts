@@ -68724,6 +68724,6 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] OVA: Unanswered//butterfly
 // https://annict.com/works/17721
-{"annict_id":17721}
+{"annict_id":17721,"mal_id":63736}
 ,
 ]
