@@ -68026,7 +68026,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17546
 {"annict_id":17546}
 ,
-// [2026-null] TV: 彼女の友達
+// [2026-AUTUMN] TV: 彼女の友達
 // https://annict.com/works/17547
 {"annict_id":17547,"mal_id":64131}
 ,
@@ -68713,5 +68713,17 @@ export const annict: ArmEntry[] = [
 // [2019-SPRING] WEB: GANMA!×モンスト超絶感謝タップ祭『猫娘症候群』アニメPV
 // https://annict.com/works/17718
 {"annict_id":17718}
+,
+// [2026-SPRING] OTHER: 転生したら医者から聖者になりました
+// https://annict.com/works/17719
+{"annict_id":17719}
+,
+// [2027-null] TV: 恋せよまやかし天使ども
+// https://annict.com/works/17720
+{"annict_id":17720,"mal_id":64380}
+,
+// [2026-SUMMER] OVA: Unanswered//butterfly
+// https://annict.com/works/17721
+{"annict_id":17721}
 ,
 ]
