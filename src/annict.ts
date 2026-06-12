@@ -24580,7 +24580,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: 二十世紀電氣目録-ユーレカ・エヴリカ-
 // https://annict.com/works/6187
-{"annict_id":6187,"mal_id":62856}
+{"annict_id":6187,"mal_id":62856,"syobocal_tid":7913}
 ,
 // [2018-AUTUMN] TV: 閃乱カグラ SHINOVI MASTER -東京妖魔篇-
 // https://annict.com/works/6188
@@ -49964,7 +49964,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: さよならララ
 // https://annict.com/works/13010
-{"annict_id":13010,"mal_id":58878}
+{"annict_id":13010,"mal_id":58878,"syobocal_tid":7917}
 ,
 // [2024-SPRING] TV: こうしす！EE 総集編映画版 ～こちら京姫鉄道広報部システム課～
 // https://annict.com/works/13011
@@ -60788,7 +60788,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ伝～
 // https://annict.com/works/15724
-{"annict_id":15724,"mal_id":61240}
+{"annict_id":15724,"mal_id":61240,"syobocal_tid":7914}
 ,
 // [2025-SUMMER] TV: 美男高校地球防衛部ハイカラ！
 // https://annict.com/works/15725
@@ -64156,7 +64156,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: ぐらんぶる Season 3
 // https://annict.com/works/16571
-{"annict_id":16571,"mal_id":62542}
+{"annict_id":16571,"mal_id":62542,"syobocal_tid":7916}
 ,
 // [2025-AUTUMN] MOVIE: わたしが恋人になれるわけないじゃん、ムリムリ!（※ムリじゃなかった!?） ～ネクストシャイン！～
 // https://annict.com/works/16572
@@ -67028,7 +67028,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: 捨てられ聖女の異世界ごはん旅 隠れスキルでキャンピングカーを召喚しました
 // https://annict.com/works/17296
-{"annict_id":17296,"mal_id":63752}
+{"annict_id":17296,"mal_id":63752,"syobocal_tid":7915}
 ,
 // [2026-null] TV: 彼方から
 // https://annict.com/works/17297
