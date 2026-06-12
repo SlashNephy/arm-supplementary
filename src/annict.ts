@@ -68730,4 +68730,16 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17722
 {"annict_id":17722}
 ,
+// [2024-AUTUMN] TV: バーニーの世界
+// https://annict.com/works/17723
+{"annict_id":17723}
+,
+// [2024-AUTUMN] WEB: キャンプ・コーラル: スポンジ・ボブのアンダーイヤー
+// https://annict.com/works/17724
+{"annict_id":17724}
+,
+// [2024-AUTUMN] WEB: シークレット・レベル
+// https://annict.com/works/17725
+{"annict_id":17725}
+,
 ]
