@@ -63774,7 +63774,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16473
 {"annict_id":16473}
 ,
-// [null-null] TV: 結界師の一輪華
+// [2027-WINTER] TV: 結界師の一輪華
 // https://annict.com/works/16474
 {"annict_id":16474,"mal_id":62311}
 ,
@@ -68741,5 +68741,17 @@ export const annict: ArmEntry[] = [
 // [2024-AUTUMN] WEB: シークレット・レベル
 // https://annict.com/works/17725
 {"annict_id":17725}
+,
+// [2009-AUTUMN] TV: ポペッツタウン
+// https://annict.com/works/17726
+{"annict_id":17726}
+,
+// [2013-SUMMER] TV: パンdeグータン
+// https://annict.com/works/17727
+{"annict_id":17727}
+,
+// [2014-WINTER] TV: JEWELINCLE じゅえりんくる～12の妖精とふしぎな宝石箱～
+// https://annict.com/works/17728
+{"annict_id":17728}
 ,
 ]
