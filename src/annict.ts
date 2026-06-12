@@ -68726,4 +68726,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17721
 {"annict_id":17721,"mal_id":63736}
 ,
+// [2027-SPRING] MOVIE: 水の都のネロ
+// https://annict.com/works/17722
+{"annict_id":17722}
+,
 ]
