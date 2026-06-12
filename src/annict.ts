@@ -68754,4 +68754,24 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17728
 {"annict_id":17728}
 ,
+// [2026-SUMMER] WEB: うしろの正面カムイさん ミニアニメ
+// https://annict.com/works/17729
+{"annict_id":17729}
+,
+// [null-null] OTHER: 別れるために色仕掛けしてみた
+// https://annict.com/works/17730
+{"annict_id":17730,"mal_id":64386}
+,
+// [2024-AUTUMN] WEB: バービー・ミステリー 馬どろぼうを追いかけろ
+// https://annict.com/works/17731
+{"annict_id":17731}
+,
+// [2024-AUTUMN] WEB: ジェントリー・チャウvs魔界のモンスター
+// https://annict.com/works/17732
+{"annict_id":17732}
+,
+// [2024-AUTUMN] WEB: ドラゴンズ 9つの王国
+// https://annict.com/works/17733
+{"annict_id":17733}
+,
 ]
