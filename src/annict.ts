@@ -63952,7 +63952,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: バンドリ！ ゆめ∞みた
 // https://annict.com/works/16519
-{"annict_id":16519,"mal_id":62430}
+{"annict_id":16519,"mal_id":62430,"syobocal_tid":7919}
 ,
 // [2026-WINTER] TV: 人外教室の人間嫌い教師
 // https://annict.com/works/16520
@@ -66084,7 +66084,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: ワールド イズ ダンシング
 // https://annict.com/works/17057
-{"annict_id":17057,"mal_id":63347}
+{"annict_id":17057,"mal_id":63347,"syobocal_tid":7918}
 ,
 // [2015-SPRING] OVA: 終わらないセラフ
 // https://annict.com/works/17058
