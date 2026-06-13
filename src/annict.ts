@@ -68790,4 +68790,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17737
 {"annict_id":17737}
 ,
+// [2025-SPRING] WEB: 高知けいば場40周年記念PV
+// https://annict.com/works/17738
+{"annict_id":17738}
+,
 ]
