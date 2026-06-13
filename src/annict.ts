@@ -65280,7 +65280,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: 鉄鍋のジャン！
 // https://annict.com/works/16856
-{"annict_id":16856,"mal_id":63100}
+{"annict_id":16856,"mal_id":63100,"syobocal_tid":7920}
 ,
 // [2025-AUTUMN] WEB: ウェイン＆ラニー クリスマスを守れ！／スノーボール大作戦
 // https://annict.com/works/16857
