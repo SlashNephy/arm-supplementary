@@ -68774,4 +68774,20 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17733
 {"annict_id":17733}
 ,
+// [2025-WINTER] WEB: パトリック・スター・ショー
+// https://annict.com/works/17734
+{"annict_id":17734}
+,
+// [2025-WINTER] WEB: ゴールディ 大きなハートの女の子
+// https://annict.com/works/17735
+{"annict_id":17735}
+,
+// [2025-WINTER] WEB: ウルフ・キング
+// https://annict.com/works/17736
+{"annict_id":17736}
+,
+// [2016-null] TV: てのひらヒーロー アトミック・パペット
+// https://annict.com/works/17737
+{"annict_id":17737}
+,
 ]
