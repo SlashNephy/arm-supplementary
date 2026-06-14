@@ -60384,7 +60384,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: BLACK TORCH
 // https://annict.com/works/15623
-{"annict_id":15623,"mal_id":61169}
+{"annict_id":15623,"mal_id":61169,"syobocal_tid":7923}
 ,
 // [2000-WINTER] TV: スポンジ・ボブ(シーズン1)
 // https://annict.com/works/15624
@@ -63236,7 +63236,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: グロウアップショウ ～ひまわりのサーカス団～
 // https://annict.com/works/16339
-{"annict_id":16339,"mal_id":62051}
+{"annict_id":16339,"mal_id":62051,"syobocal_tid":7925}
 ,
 // [2026-SPRING] TV: 神の庭付き楠木邸
 // https://annict.com/works/16340
@@ -64588,7 +64588,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: 文豪ストレイドッグス わん！２
 // https://annict.com/works/16681
-{"annict_id":16681,"mal_id":62883}
+{"annict_id":16681,"mal_id":62883,"syobocal_tid":7922}
 ,
 // [2026-SPRING] TV: 逃がした魚は大きかったが釣りあげた魚が大きすぎた件
 // https://annict.com/works/16682
@@ -66028,7 +66028,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: 岩元先輩ノ推薦
 // https://annict.com/works/17043
-{"annict_id":17043,"mal_id":63324}
+{"annict_id":17043,"mal_id":63324,"syobocal_tid":7924}
 ,
 // [2021-AUTUMN] WEB: ぴよりびよりのゆるアニメ
 // https://annict.com/works/17044
