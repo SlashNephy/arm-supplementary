@@ -25920,7 +25920,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: メビウス・ダスト
 // https://annict.com/works/6528
-{"annict_id":6528,"mal_id":63802}
+{"annict_id":6528,"mal_id":63802,"syobocal_tid":7928}
 ,
 // [2019-SUMMER] TV: ソウナンですか？
 // https://annict.com/works/6529
@@ -66024,7 +66024,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: 盗掘王
 // https://annict.com/works/17042
-{"annict_id":17042,"mal_id":63316}
+{"annict_id":17042,"mal_id":63316,"syobocal_tid":7926}
 ,
 // [2026-SUMMER] TV: 岩元先輩ノ推薦
 // https://annict.com/works/17043
@@ -66224,7 +66224,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: サンダー３
 // https://annict.com/works/17092
-{"annict_id":17092,"mal_id":63418}
+{"annict_id":17092,"mal_id":63418,"syobocal_tid":7927}
 ,
 // [2013-WINTER] WEB: 001
 // https://annict.com/works/17093
@@ -68821,5 +68821,9 @@ export const annict: ArmEntry[] = [
 // [2024-WINTER] WEB: スクールロマンス
 // https://annict.com/works/17745
 {"annict_id":17745}
+,
+// [1998-SPRING] TV: ペコラ
+// https://annict.com/works/17746
+{"annict_id":17746}
 ,
 ]
