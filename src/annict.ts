@@ -68794,4 +68794,28 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17738
 {"annict_id":17738}
 ,
+// [1956-SPRING] TV: テレビ坊やの冒険
+// https://annict.com/works/17739
+{"annict_id":17739}
+,
+// [2025-SPRING] WEB: アステリックスとオベリックス: 史上最大のバトル
+// https://annict.com/works/17740
+{"annict_id":17740}
+,
+// [2025-SPRING] WEB: ライリーの箱じゃないハコ
+// https://annict.com/works/17741
+{"annict_id":17741}
+,
+// [2025-SUMMER] WEB: 7ひきのコグマ
+// https://annict.com/works/17742
+{"annict_id":17742}
+,
+// [2025-SUMMER] WEB: あかいさかな、あおいさかな
+// https://annict.com/works/17743
+{"annict_id":17743}
+,
+// [2025-SUMMER] WEB: バービー・ミステリー ビーチ探偵
+// https://annict.com/works/17744
+{"annict_id":17744}
+,
 ]
