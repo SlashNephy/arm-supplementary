@@ -68818,4 +68818,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17744
 {"annict_id":17744}
 ,
+// [2024-WINTER] WEB: スクールロマンス
+// https://annict.com/works/17745
+{"annict_id":17745}
+,
 ]
