@@ -49322,7 +49322,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/12848
 {"annict_id":12848,"mal_id":58516,"syobocal_tid":7211}
 ,
-// [2026-null] TV: 佐々木とピーちゃん シーズン2
+// [2026-AUTUMN] TV: 佐々木とピーちゃん Season2
 // https://annict.com/works/12849
 {"annict_id":12849,"mal_id":58518}
 ,
@@ -68825,5 +68825,25 @@ export const annict: ArmEntry[] = [
 // [1998-SPRING] TV: ペコラ
 // https://annict.com/works/17746
 {"annict_id":17746}
+,
+// [2027-WINTER] TV: じょせまる
+// https://annict.com/works/17747
+{"annict_id":17747}
+,
+// [2027-WINTER] TV: モモモ！ニニモ
+// https://annict.com/works/17748
+{"annict_id":17748}
+,
+// [2026-WINTER] WEB: 【原神】ショートアニメ「Another Prologue」
+// https://annict.com/works/17749
+{"annict_id":17749}
+,
+// [2026-SPRING] WEB: 【原神】ショートアニメ「最後の遺産」
+// https://annict.com/works/17750
+{"annict_id":17750}
+,
+// [2026-SPRING] OTHER: ちびっ子リスは頑張り屋さん
+// https://annict.com/works/17751
+{"annict_id":17751}
 ,
 ]
