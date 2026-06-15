@@ -63086,7 +63086,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16300
 {"annict_id":16300,"mal_id":62002}
 ,
-// [2026-null] TV: ブラッククローバー 2nd Season
+// [2026-AUTUMN] TV: ブラッククローバー 2nd Season
 // https://annict.com/works/16301
 {"annict_id":16301,"mal_id":61967}
 ,
@@ -63500,7 +63500,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: いびってこない義母と義姉
 // https://annict.com/works/16405
-{"annict_id":16405,"mal_id":62102}
+{"annict_id":16405,"mal_id":62102,"syobocal_tid":7930}
 ,
 // [2027-null] OTHER: ポケモンテイルズ ネギガナイトとピチューの冒険
 // https://annict.com/works/16406
