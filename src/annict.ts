@@ -64392,7 +64392,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: レッツゴー怪奇組
 // https://annict.com/works/16632
-{"annict_id":16632,"mal_id":62683}
+{"annict_id":16632,"mal_id":62683,"syobocal_tid":7932}
 ,
 // [2025-SPRING] WEB: どーまんぶ！
 // https://annict.com/works/16633
@@ -67136,7 +67136,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: 花ざかりの君たちへ 第2期
 // https://annict.com/works/17323
-{"annict_id":17323,"mal_id":63780}
+{"annict_id":17323,"mal_id":63780,"syobocal_tid":7931}
 ,
 // [2026-SPRING] TV: おしりたんてい (第10シリーズ)
 // https://annict.com/works/17324
