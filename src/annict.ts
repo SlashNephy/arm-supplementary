@@ -68870,4 +68870,44 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17757
 {"annict_id":17757}
 ,
+// [2007-SUMMER] MOVIE: 大ちゃん、だいすき。
+// https://annict.com/works/17758
+{"annict_id":17758,"mal_id":19905}
+,
+// [1970-null] MOVIE: 花ともぐら
+// https://annict.com/works/17759
+{"annict_id":17759,"mal_id":13089}
+,
+// [1972-null] MOVIE: モチモチの木
+// https://annict.com/works/17760
+{"annict_id":17760,"mal_id":29833}
+,
+// [1976-null] MOVIE: サクラより愛をのせて
+// https://annict.com/works/17761
+{"annict_id":17761,"mal_id":29798}
+,
+// [1982-null] MOVIE: おこんじょうるり
+// https://annict.com/works/17762
+{"annict_id":17762,"mal_id":4220}
+,
+// [2006-AUTUMN] MOVIE: アントブリー
+// https://annict.com/works/17763
+{"annict_id":17763}
+,
+// [2021-SUMMER] OVA: バッドキャット
+// https://annict.com/works/17764
+{"annict_id":17764}
+,
+// [1996-SUMMER] MOVIE: バルト
+// https://annict.com/works/17765
+{"annict_id":17765}
+,
+// [1992-SUMMER] MOVIE: アメリカ物語2/ファイベル西へ行く
+// https://annict.com/works/17766
+{"annict_id":17766}
+,
+// [1994-SUMMER] MOVIE: 恐竜大行進
+// https://annict.com/works/17767
+{"annict_id":17767}
+,
 ]
