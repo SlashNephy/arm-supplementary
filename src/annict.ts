@@ -42728,7 +42728,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: 転校先の清楚可憐な美少女が、昔男子と思って一緒に遊んだ幼馴染だった件
 // https://annict.com/works/11193
-{"annict_id":11193,"mal_id":56735}
+{"annict_id":11193,"mal_id":56735,"syobocal_tid":7934}
 ,
 // [2026-SPRING] TV: クラスで2番目に可愛い女の子と友だちになった
 // https://annict.com/works/11194
@@ -64292,7 +64292,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: ここは俺に任せて先に行けと言ってから10年がたったら伝説になっていた。
 // https://annict.com/works/16606
-{"annict_id":16606,"mal_id":62617}
+{"annict_id":16606,"mal_id":62617,"syobocal_tid":7935}
 ,
 // [2025-AUTUMN] TV: ベベフィン (TV放送)
 // https://annict.com/works/16607
@@ -68909,5 +68909,9 @@ export const annict: ArmEntry[] = [
 // [1994-SUMMER] MOVIE: 恐竜大行進
 // https://annict.com/works/17767
 {"annict_id":17767}
+,
+// [2026-SPRING] WEB: 【僕のヒーローアカデミア The Animation 10th Anniversary】PLUS ULTRA MOVIE “君はヒーローになれる”
+// https://annict.com/works/17768
+{"annict_id":17768}
 ,
 ]
