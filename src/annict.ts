@@ -68914,4 +68914,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17768
 {"annict_id":17768}
 ,
+// [2025-SUMMER] WEB: スヌーピー プレゼンツ：サマー・ミュージカル
+// https://annict.com/works/17769
+{"annict_id":17769}
+,
 ]
