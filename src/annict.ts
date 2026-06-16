@@ -68846,4 +68846,28 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17751
 {"annict_id":17751}
 ,
+// [2025-SUMMER] TV: ミッキーマウス クラブハウス プラス
+// https://annict.com/works/17752
+{"annict_id":17752}
+,
+// [2025-SUMMER] TV: アイアンマンとさいこうのなかまたち
+// https://annict.com/works/17753
+{"annict_id":17753}
+,
+// [2025-SUMMER] TV: よろしく! アイアンマンとさいこうのなかまたち
+// https://annict.com/works/17754
+{"annict_id":17754}
+,
+// [2025-SUMMER] WEB: マーベル・ゾンビーズ
+// https://annict.com/works/17755
+{"annict_id":17755}
+,
+// [2026-SPRING] TV: ヘイA.J.！
+// https://annict.com/works/17756
+{"annict_id":17756}
+,
+// [2026-WINTER] TV: まほうのしまのマジックキャンパーズ
+// https://annict.com/works/17757
+{"annict_id":17757}
+,
 ]
