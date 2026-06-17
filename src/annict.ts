@@ -63026,7 +63026,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16285
 {"annict_id":16285,"mal_id":61969,"syobocal_tid":7723}
 ,
-// [null-null] OTHER: Project M
+// [null-null] TV: 性別「モナリザ」の君へ。
 // https://annict.com/works/16286
 {"annict_id":16286,"mal_id":61966}
 ,
@@ -68921,5 +68921,33 @@ export const annict: ArmEntry[] = [
 // [2025-AUTUMN] WEB: ちびっこホートンのだいぼうけん
 // https://annict.com/works/17770
 {"annict_id":17770}
+,
+// [2025-AUTUMN] WEB: グリム姉妹の事件簿
+// https://annict.com/works/17771
+{"annict_id":17771}
+,
+// [2025-AUTUMN] WEB: バッドガイズ2
+// https://annict.com/works/17772
+{"annict_id":17772}
+,
+// [2023-AUTUMN] WEB: バッドガイズ: めっちゃバッドなクリスマス!?
+// https://annict.com/works/17773
+{"annict_id":17773}
+,
+// [2024-AUTUMN] WEB: バッドガイズ: 身の毛もよだつ大強盗
+// https://annict.com/works/17774
+{"annict_id":17774}
+,
+// [2025-AUTUMN] WEB: バッドガイズ: ザ・シリーズ
+// https://annict.com/works/17775
+{"annict_id":17775}
+,
+// [2026-WINTER] WEB: シャシャ&マイロ
+// https://annict.com/works/17776
+{"annict_id":17776}
+,
+// [2020-SUMMER] TV: ヘイ！ダギー
+// https://annict.com/works/17777
+{"annict_id":17777}
 ,
 ]
