@@ -68952,6 +68952,6 @@ export const annict: ArmEntry[] = [
 ,
 // [2025-SPRING] WEB: 【#ホロアース】アニメーションPV「さあ、あなたのもうひとつのセカイへ」
 // https://annict.com/works/17778
-{"annict_id":17778}
+{"annict_id":17778,"mal_id":61555}
 ,
 ]
