@@ -50132,7 +50132,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: 攻殻機動隊 THE GHOST IN THE SHELL
 // https://annict.com/works/13052
-{"annict_id":13052,"mal_id":58929}
+{"annict_id":13052,"mal_id":58929,"syobocal_tid":7936}
 ,
 // [2024-SPRING] WEB: コードギアス 奪還のロゼ
 // https://annict.com/works/13053
