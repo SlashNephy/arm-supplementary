@@ -68918,4 +68918,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17769
 {"annict_id":17769}
 ,
+// [2025-AUTUMN] WEB: ちびっこホートンのだいぼうけん
+// https://annict.com/works/17770
+{"annict_id":17770}
+,
 ]
