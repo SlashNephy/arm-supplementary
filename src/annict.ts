@@ -64690,7 +64690,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16707
 {"annict_id":16707}
 ,
-// [2026-null] TV: 貸した魔力は【リボ払い】で強制徴収
+// [2026-AUTUMN] TV: 貸した魔力は【リボ払い】で強制徴収
 // https://annict.com/works/16708
 {"annict_id":16708,"mal_id":62922}
 ,
