@@ -19610,7 +19610,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/4933
 {"annict_id":4933,"mal_id":33048,"syobocal_tid":4356}
 ,
-// [2016-AUTUMN] MOVIE: 艦隊これくしょん -艦これ- 劇場版
+// [2016-AUTUMN] MOVIE: 劇場版 艦これ
 // https://annict.com/works/4934
 {"annict_id":4934,"mal_id":31418}
 ,
@@ -68953,5 +68953,21 @@ export const annict: ArmEntry[] = [
 // [2025-SPRING] WEB: 【#ホロアース】アニメーションPV「さあ、あなたのもうひとつのセカイへ」
 // https://annict.com/works/17778
 {"annict_id":17778,"mal_id":61555}
+,
+// [2026-SPRING] WEB: ストレンジャー・シングス: 1985年の冒険
+// https://annict.com/works/17779
+{"annict_id":17779}
+,
+// [2026-SPRING] WEB: ケヴィン
+// https://annict.com/works/17780
+{"annict_id":17780}
+,
+// [2026-SPRING] WEB: がんばれ！スタンリー
+// https://annict.com/works/17781
+{"annict_id":17781}
+,
+// [2026-SPRING] WEB: やさいのヒーロー スーパーポテト
+// https://annict.com/works/17782
+{"annict_id":17782}
 ,
 ]
