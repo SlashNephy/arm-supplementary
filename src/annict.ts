@@ -1770,7 +1770,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/442
 {"annict_id":442,"mal_id":145,"syobocal_tid":446}
 ,
-// [1998-AUTUMN] TV: 快傑蒸気探偵団
+// [1998-AUTUMN] TV: 快傑！蒸気探偵団 TV Animation Series
 // https://annict.com/works/443
 {"annict_id":443,"mal_id":2704,"syobocal_tid":241}
 ,
