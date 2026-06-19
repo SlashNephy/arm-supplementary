@@ -68974,4 +68974,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17783
 {"annict_id":17783,"mal_id":64419}
 ,
+// [2026-AUTUMN] MOVIE: ビリーと魔法のはじまり
+// https://annict.com/works/17785
+{"annict_id":17785}
+,
 ]
