@@ -58610,7 +58610,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15179
 {"annict_id":15179,"mal_id":60831}
 ,
-// [null-null] WEB: BEAT＆MOTION
+// [2027-null] WEB: BEAT&MOTION
 // https://annict.com/works/15180
 {"annict_id":15180}
 ,
@@ -68993,5 +68993,9 @@ export const annict: ArmEntry[] = [
 // [2023-SPRING] WEB: ニモーナ
 // https://annict.com/works/17789
 {"annict_id":17789}
+,
+// [null-null] WEB: 地元最高！
+// https://annict.com/works/17790
+{"annict_id":17790}
 ,
 ]
