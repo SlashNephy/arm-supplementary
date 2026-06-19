@@ -42736,7 +42736,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: 最強出涸らし皇子の暗躍帝位争い
 // https://annict.com/works/11195
-{"annict_id":11195,"mal_id":56736}
+{"annict_id":11195,"mal_id":56736,"syobocal_tid":7938}
 ,
 // [2026-AUTUMN] TV: マジカル★エクスプローラー
 // https://annict.com/works/11196
@@ -66340,7 +66340,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: 天は赤い河のほとり
 // https://annict.com/works/17121
-{"annict_id":17121,"mal_id":63489}
+{"annict_id":17121,"mal_id":63489,"syobocal_tid":7939}
 ,
 // [2026-WINTER] WEB: イキヅライブ！ LOVELIVE! BLUEBIRD いきづらい部！ 「Dou-Da? DOING!」 アニメーションMV
 // https://annict.com/works/17122
