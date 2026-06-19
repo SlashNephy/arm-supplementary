@@ -29150,7 +29150,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/7534
 {"annict_id":7534,"mal_id":53651,"syobocal_tid":5690}
 ,
-// [2019-WINTER] TV: DCスーパーヒーローガールズ (TVシリーズ)
+// [2020-SPRING] TV: DCスーパーヒーロー・ガールズ(2019年)
 // https://annict.com/works/7535
 {"annict_id":7535}
 ,
@@ -65782,7 +65782,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16981
 {"annict_id":16981,"mal_id":60988}
 ,
-// [2026-null] TV: あはれ！名作くん (完全新作アニメ)
+// [2026-SUMMER] TV: あはれ！名作くん (完全新作アニメ)
 // https://annict.com/works/16982
 {"annict_id":16982,"mal_id":63219}
 ,
@@ -68977,5 +68977,21 @@ export const annict: ArmEntry[] = [
 // [2026-AUTUMN] MOVIE: ビリーと魔法のはじまり
 // https://annict.com/works/17785
 {"annict_id":17785}
+,
+// [1998-AUTUMN] OVA: キャッツ・ドント・ダンス
+// https://annict.com/works/17786
+{"annict_id":17786}
+,
+// [2002-AUTUMN] OVA: バクテリア・ウォーズ
+// https://annict.com/works/17787
+{"annict_id":17787}
+,
+// [2026-SPRING] OTHER: 医員、蘇る
+// https://annict.com/works/17788
+{"annict_id":17788}
+,
+// [2023-SPRING] WEB: ニモーナ
+// https://annict.com/works/17789
+{"annict_id":17789}
 ,
 ]
