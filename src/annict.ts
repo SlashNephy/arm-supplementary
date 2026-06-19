@@ -68998,4 +68998,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17790
 {"annict_id":17790,"mal_id":64428}
 ,
+// [2026-SPRING] WEB: MAPPA 15th Anniversary Movie
+// https://annict.com/works/17791
+{"annict_id":17791}
+,
 ]
