@@ -69028,10 +69028,22 @@ export const annict: ArmEntry[] = [
 ,
 // [2027-WINTER] TV: あかね噺 第2期
 // https://annict.com/works/17799
-{"annict_id":17799}
+{"annict_id":17799,"mal_id":64439}
 ,
 // [null-null] TV: カナン様はあくまでチョロい 第2期
 // https://annict.com/works/17800
 {"annict_id":17800}
+,
+// [2021-AUTUMN] WEB: 愛しのザコ配信者ちゃん
+// https://annict.com/works/17801
+{"annict_id":17801,"mal_id":64433}
+,
+// [2026-SUMMER] MOVIE: 魔女の谷の夜
+// https://annict.com/works/17802
+{"annict_id":17802,"mal_id":64431}
+,
+// [2026-AUTUMN] TV: ゆるゆる図鑑
+// https://annict.com/works/17803
+{"annict_id":17803,"mal_id":64430}
 ,
 ]
