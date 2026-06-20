@@ -69030,4 +69030,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17799
 {"annict_id":17799}
 ,
+// [null-null] TV: カナン様はあくまでチョロい 第2期
+// https://annict.com/works/17800
+{"annict_id":17800}
+,
 ]
