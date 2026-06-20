@@ -53468,7 +53468,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: 追放された転生重騎士はゲーム知識で無双する
 // https://annict.com/works/13889
-{"annict_id":13889,"mal_id":59741}
+{"annict_id":13889,"mal_id":59741,"syobocal_tid":7878}
 ,
 // [2025-WINTER] TV: Aランクパーティを離脱した俺は、元教え子たちと迷宮深部を目指す。
 // https://annict.com/works/13890
@@ -63460,7 +63460,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: 領民０人スタートの辺境領主様
 // https://annict.com/works/16395
-{"annict_id":16395,"mal_id":62078}
+{"annict_id":16395,"mal_id":62078,"syobocal_tid":7880}
 ,
 // [2026-SUMMER] TV: 無自覚聖女は今日も無意識に力を垂れ流す
 // https://annict.com/works/16396
@@ -64572,7 +64572,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: 才女のお世話 高嶺の花だらけな名門校で、学院一のお嬢様(生活能力皆無)を陰ながらお世話することになりました
 // https://annict.com/works/16677
-{"annict_id":16677,"mal_id":62876}
+{"annict_id":16677,"mal_id":62876,"syobocal_tid":7879}
 ,
 // [1995-AUTUMN] OTHER: Extra
 // https://annict.com/works/16678
