@@ -69000,7 +69000,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] WEB: MAPPA 15th Anniversary Movie
 // https://annict.com/works/17791
-{"annict_id":17791}
+{"annict_id":17791,"mal_id":64429}
 ,
 // [2001-WINTER] OVA: らめんちゃいにゃん
 // https://annict.com/works/17793
@@ -69025,5 +69025,9 @@ export const annict: ArmEntry[] = [
 // [2008-AUTUMN] OVA: すのこタン　プロモーションアニメ
 // https://annict.com/works/17798
 {"annict_id":17798,"mal_id":35502}
+,
+// [2027-WINTER] TV: あかね噺 第2期
+// https://annict.com/works/17799
+{"annict_id":17799}
 ,
 ]
