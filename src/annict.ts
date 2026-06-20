@@ -54148,7 +54148,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2024-SUMMER] WEB: ひみつどうし
 // https://annict.com/works/14062
-{"annict_id":14062}
+{"annict_id":14062,"mal_id":64422}
 ,
 // [2025-SUMMER] TV: 傷だらけ聖女より報復をこめて
 // https://annict.com/works/14063
@@ -67224,7 +67224,7 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] TV: 呪術廻戦 死滅回游 後編
 // https://annict.com/works/17345
-{"annict_id":17345}
+{"annict_id":17345,"mal_id":63824}
 ,
 // [null-null] TV: MFゴースト Final Season
 // https://annict.com/works/17346
@@ -69001,5 +69001,9 @@ export const annict: ArmEntry[] = [
 // [2026-SPRING] WEB: MAPPA 15th Anniversary Movie
 // https://annict.com/works/17791
 {"annict_id":17791}
+,
+// [2026-SUMMER] MOVIE: 超かぐや姫！(特別フォーマット版)
+// https://annict.com/works/17792
+{"annict_id":17792}
 ,
 ]
