@@ -57790,7 +57790,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/14973
 {"annict_id":14973}
 ,
-// [null-null] TV: ラーメン赤猫 第2期
+// [2027-WINTER] TV: ラーメン赤猫 其の二
 // https://annict.com/works/14974
 {"annict_id":14974,"mal_id":60555}
 ,
@@ -66210,7 +66210,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17088
 {"annict_id":17088,"mal_id":63403,"syobocal_tid":7888}
 ,
-// [2026-null] TV: どうも、好きな人に惚れ薬を依頼された魔女です。
+// [2026-AUTUMN] TV: どうも、好きな人に惚れ薬を依頼された魔女です。
 // https://annict.com/works/17089
 {"annict_id":17089,"mal_id":63409}
 ,
@@ -69002,8 +69002,28 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17791
 {"annict_id":17791}
 ,
-// [2026-SUMMER] MOVIE: 超かぐや姫！(特別フォーマット版)
-// https://annict.com/works/17792
-{"annict_id":17792}
+// [2001-WINTER] OVA: らめんちゃいにゃん
+// https://annict.com/works/17793
+{"annict_id":17793,"mal_id":49498}
+,
+// [2001-SUMMER] OVA: 魔法のチョコレート
+// https://annict.com/works/17794
+{"annict_id":17794,"mal_id":1949}
+,
+// [2004-null] WEB: お父さんの靴
+// https://annict.com/works/17795
+{"annict_id":17795}
+,
+// [2005-SUMMER] OVA: びんちょうタン自主制作ムービー
+// https://annict.com/works/17796
+{"annict_id":17796,"mal_id":1926}
+,
+// [2005-null] WEB: 魔法使いのメロディー
+// https://annict.com/works/17797
+{"annict_id":17797}
+,
+// [2008-AUTUMN] OVA: すのこタン　プロモーションアニメ
+// https://annict.com/works/17798
+{"annict_id":17798,"mal_id":35502}
 ,
 ]
