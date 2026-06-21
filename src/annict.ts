@@ -69032,7 +69032,7 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] TV: カナン様はあくまでチョロい 第2期
 // https://annict.com/works/17800
-{"annict_id":17800}
+{"annict_id":17800,"mal_id":64441}
 ,
 // [2021-AUTUMN] WEB: 愛しのザコ配信者ちゃん
 // https://annict.com/works/17801
@@ -69045,5 +69045,33 @@ export const annict: ArmEntry[] = [
 // [2026-AUTUMN] TV: ゆるゆる図鑑
 // https://annict.com/works/17803
 {"annict_id":17803,"mal_id":64430}
+,
+// [2014-SUMMER] TV: ティーン・タイタンズGO!
+// https://annict.com/works/17804
+{"annict_id":17804}
+,
+// [2016-AUTUMN] TV: ビー・クール スクービー・ドゥー！
+// https://annict.com/works/17805
+{"annict_id":17805}
+,
+// [2017-SUMMER] WEB: ジャスティス・リーグ・アクション
+// https://annict.com/works/17806
+{"annict_id":17806}
+,
+// [2018-WINTER] WEB: チキチキマシン猛レース!
+// https://annict.com/works/17807
+{"annict_id":17807}
+,
+// [2018-SPRING] TV: プリンセス ユニキャット
+// https://annict.com/works/17808
+{"annict_id":17808}
+,
+// [2025-AUTUMN] TV: グレムリン：ギズモたちの秘密
+// https://annict.com/works/17809
+{"annict_id":17809}
+,
+// [2026-SPRING] TV: グレムリン：本・能・覚・醒
+// https://annict.com/works/17810
+{"annict_id":17810}
 ,
 ]
