@@ -68088,7 +68088,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: パンの赤ちゃん（TV）
 // https://annict.com/works/17562
-{"annict_id":17562}
+{"annict_id":17562,"mal_id":64210}
 ,
 // [null-null] MOVIE: HIDARI
 // https://annict.com/works/17563
@@ -69073,5 +69073,13 @@ export const annict: ArmEntry[] = [
 // [2026-SPRING] TV: グレムリン：本・能・覚・醒
 // https://annict.com/works/17810
 {"annict_id":17810}
+,
+// [null-null] TV: ひぐらしのなく頃に 新作TVアニメーション
+// https://annict.com/works/17811
+{"annict_id":17811}
+,
+// [2026-SUMMER] TV: 闇芝居 十七期
+// https://annict.com/works/17812
+{"annict_id":17812,"mal_id":64435}
 ,
 ]
