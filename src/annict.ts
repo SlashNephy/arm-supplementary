@@ -55118,7 +55118,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/14304
 {"annict_id":14304,"mal_id":60146,"syobocal_tid":7403}
 ,
-// [2026-SPRING] TV: リラックマ ～ごゆるり夢の旅～
+// [2026-SPRING] TV: リラックマ
 // https://annict.com/works/14305
 {"annict_id":14305,"mal_id":60153}
 ,
@@ -58036,7 +58036,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: BLEACH 千年血戦篇-禍進譚-
 // https://annict.com/works/15035
-{"annict_id":15035,"mal_id":60636}
+{"annict_id":15035,"mal_id":60636,"syobocal_tid":7941}
 ,
 // [2026-SUMMER] TV: 魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance
 // https://annict.com/works/15036
