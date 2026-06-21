@@ -69082,4 +69082,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17812
 {"annict_id":17812,"mal_id":64435}
 ,
+// [2026-AUTUMN] TV: 魔法の姉妹ルルットリリィ 第2クール
+// https://annict.com/works/17813
+{"annict_id":17813}
+,
 ]
