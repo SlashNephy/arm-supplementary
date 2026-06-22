@@ -30412,7 +30412,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: 対ありでした。 ～お嬢さまは格闘ゲームなんてしない～
 // https://annict.com/works/7915
-{"annict_id":7915,"mal_id":46488}
+{"annict_id":7915,"mal_id":46488,"syobocal_tid":7945}
 ,
 // [2023-SPRING] TV: 贄姫と獣の王
 // https://annict.com/works/7916
@@ -42432,7 +42432,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: アズールレーン びそくぜんしんっ！にっ！！
 // https://annict.com/works/11119
-{"annict_id":11119,"mal_id":56613}
+{"annict_id":11119,"mal_id":56613,"syobocal_tid":7944}
 ,
 // [1986-AUTUMN] MOVIE: 強殖装甲ガイバー(映画)
 // https://annict.com/works/11120
@@ -49388,7 +49388,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] WEB: 刃牙道
 // https://annict.com/works/12865
-{"annict_id":12865,"mal_id":58573}
+{"annict_id":12865,"mal_id":58573,"syobocal_tid":7943}
 ,
 // [2024-AUTUMN] TV: シャングリラ・フロンティア〜クソゲーハンター、神ゲーに挑まんとす〜 2nd season
 // https://annict.com/works/12866
@@ -62416,7 +62416,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: 鬼の花嫁
 // https://annict.com/works/16132
-{"annict_id":16132,"mal_id":61814}
+{"annict_id":16132,"mal_id":61814,"syobocal_tid":7946}
 ,
 // [2006-AUTUMN] MOVIE: オープン・シーズン
 // https://annict.com/works/16133
@@ -64096,7 +64096,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: クレバテスⅡ-魔獣の王と偽りの勇者伝承-
 // https://annict.com/works/16555
-{"annict_id":16555,"mal_id":62513}
+{"annict_id":16555,"mal_id":62513,"syobocal_tid":7942}
 ,
 // [null-null] OTHER: 【私のおふるで悪いんだけど】とお母様(ヒロイン)に取り巻きを押し付けられ、嫁いだ辺境でも嫁扱いされませんが、おかげで自由に生きれます！
 // https://annict.com/works/16556
@@ -69076,7 +69076,7 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] TV: ひぐらしのなく頃に 新作TVアニメーション
 // https://annict.com/works/17811
-{"annict_id":17811}
+{"annict_id":17811,"mal_id":64449}
 ,
 // [2026-SUMMER] TV: 闇芝居 十七期
 // https://annict.com/works/17812
@@ -69084,7 +69084,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: 魔法の姉妹ルルットリリィ 第2クール
 // https://annict.com/works/17813
-{"annict_id":17813}
+{"annict_id":17813,"mal_id":63667}
 ,
 // [null-null] TV: 恋する(おとめ)の作り方
 // https://annict.com/works/17814
