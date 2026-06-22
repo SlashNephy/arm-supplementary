@@ -69086,4 +69086,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17813
 {"annict_id":17813}
 ,
+// [null-null] TV: 恋する(おとめ)の作り方
+// https://annict.com/works/17814
+{"annict_id":17814,"mal_id":64452}
+,
 ]
