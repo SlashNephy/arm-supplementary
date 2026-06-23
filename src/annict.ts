@@ -69090,4 +69090,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17814
 {"annict_id":17814,"mal_id":64452}
 ,
+// [2016-AUTUMN] MOVIE: フェリシーと夢のトウシューズ
+// https://annict.com/works/17815
+{"annict_id":17815}
+,
 ]
