@@ -69098,4 +69098,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17816
 {"annict_id":17816}
 ,
+// [2026-SPRING] WEB: ヴォクス・マキナの伝説 シーズン4
+// https://annict.com/works/17817
+{"annict_id":17817}
+,
 ]
