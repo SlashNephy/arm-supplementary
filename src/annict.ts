@@ -69094,4 +69094,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17815
 {"annict_id":17815}
 ,
+// [2012-SPRING] WEB: ひつじのショーン "モッシー・ボトム・ショート"
+// https://annict.com/works/17816
+{"annict_id":17816}
+,
 ]
