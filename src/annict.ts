@@ -64082,7 +64082,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16551
 {"annict_id":16551,"mal_id":18919}
 ,
-// [null-null] TV: 不運からの最強男
+// [2027-null] TV: 不運からの最強男
 // https://annict.com/works/16552
 {"annict_id":16552,"mal_id":62503}
 ,
@@ -69101,5 +69101,9 @@ export const annict: ArmEntry[] = [
 // [2026-SPRING] WEB: ヴォクス・マキナの伝説 シーズン4
 // https://annict.com/works/17817
 {"annict_id":17817}
+,
+// [2026-null] WEB: フールナイト
+// https://annict.com/works/17818
+{"annict_id":17818,"mal_id":64459}
 ,
 ]
