@@ -69110,4 +69110,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17819
 {"annict_id":17819}
 ,
+// [2026-SUMMER] WEB: 不死身な僕の日常 シーズン4
+// https://annict.com/works/17820
+{"annict_id":17820}
+,
 ]
