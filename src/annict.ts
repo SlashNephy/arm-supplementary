@@ -69114,4 +69114,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17820
 {"annict_id":17820}
 ,
+// [null-null] TV: ようこそ実力至上主義の教室へ 5th Season
+// https://annict.com/works/17821
+{"annict_id":17821}
+,
 ]
