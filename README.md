@@ -38,17 +38,17 @@ export const fetchArmEntries = async (): Promise<ArmEntry[]> => {
 
 ## Statistics
 
-Currently, arm-supplementary has 47567 entries (+11498).
+Currently, arm-supplementary has 47568 entries (+11499).
 
 | Service                                  | arm-supplementary | arm / anime-offline-database |
 | :--------------------------------------- | :---------------: | :--------------------------: |
-| [Annict](https://annict.com)             |    17279 (+581)   |             16698            |
-| [AniList](https://anilist.co)            |   24455 (+2268)   |             22187            |
-| [MyAnimeList](https://myanimelist.net)   |    30695 (+765)   |             29930            |
+| [Annict](https://annict.com)             |    17280 (+582)   |             16698            |
+| [AniList](https://anilist.co)            |   24456 (+2269)   |             22187            |
+| [MyAnimeList](https://myanimelist.net)   |    30698 (+768)   |             29930            |
 | [しょぼいカレンダー](https://cal.syoboi.jp)       |    6808 (+134)    |             6674             |
-| [AniDB](https://anidb.net)               |    14583 (+219)   |             14364            |
-| [Anime-Planet](https://anime-planet.com) |    26927 (+278)   |             26649            |
-| [aniSearch](https://anisearch.com)       |    20954 (+259)   |             20695            |
+| [AniDB](https://anidb.net)               |    14584 (+220)   |             14364            |
+| [Anime-Planet](https://anime-planet.com) |    26928 (+279)   |             26649            |
+| [aniSearch](https://anisearch.com)       |    20955 (+260)   |             20695            |
 | [Kitsu](https://kitsu.io)                |       0 (±0)      |               0              |
-| [LiveChart.me](https://livechart.me)     |    12385 (+230)   |             12155            |
+| [LiveChart.me](https://livechart.me)     |    12386 (+231)   |             12155            |
 | [Anime Notifier](https://notify.moe)     |       0 (±0)      |               0              |

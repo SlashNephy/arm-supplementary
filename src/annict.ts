@@ -69106,16 +69106,20 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17818
 {"annict_id":17818,"mal_id":64459}
 ,
-// [2026-SUMMER] MOVIE: 映画「宇宙なんちゃら こてつくん」うっかり出てきた宇宙人を探せ！
+// [2026-SUMMER] MOVIE: 映画 宇宙なんちゃら こてつくん うっかり出てきた宇宙人を探せ！
 // https://annict.com/works/17819
 {"annict_id":17819}
 ,
 // [2026-SUMMER] WEB: 不死身な僕の日常 シーズン4
 // https://annict.com/works/17820
-{"annict_id":17820}
+{"annict_id":17820,"mal_id":53450}
 ,
 // [null-null] TV: ようこそ実力至上主義の教室へ 5th Season
 // https://annict.com/works/17821
-{"annict_id":17821}
+{"annict_id":17821,"mal_id":64463}
+,
+// [null-null] TV: レベルロボチカ
+// https://annict.com/works/17822
+{"annict_id":17822,"mal_id":64462}
 ,
 ]
