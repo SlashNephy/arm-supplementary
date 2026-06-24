@@ -65462,7 +65462,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16901
 {"annict_id":16901,"mal_id":63130}
 ,
-// [null-null] TV: SAKAMOTO DAYS 第2期
+// [2027-WINTER] TV: SAKAMOTO DAYS 第2期
 // https://annict.com/works/16902
 {"annict_id":16902,"mal_id":63139}
 ,
@@ -69105,5 +69105,9 @@ export const annict: ArmEntry[] = [
 // [2026-null] WEB: フールナイト
 // https://annict.com/works/17818
 {"annict_id":17818,"mal_id":64459}
+,
+// [2026-SUMMER] MOVIE: 映画「宇宙なんちゃら こてつくん」うっかり出てきた宇宙人を探せ！
+// https://annict.com/works/17819
+{"annict_id":17819}
 ,
 ]
