@@ -62306,7 +62306,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16104
 {"annict_id":16104,"mal_id":61765,"syobocal_tid":7534}
 ,
-// [null-null] OTHER: ガチャを回して仲間を増やす 最強の美少女軍団を作り上げろ
+// [2027-WINTER] TV: ガチャを回して仲間を増やす 最強の美少女軍団を作り上げろ
 // https://annict.com/works/16105
 {"annict_id":16105,"mal_id":61756}
 ,
@@ -65574,7 +65574,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16929
 {"annict_id":16929}
 ,
-// [2026-null] TV: 地雷なんですか？地原さん
+// [2027-WINTER] TV: 地雷なんですか？地原さん
 // https://annict.com/works/16930
 {"annict_id":16930,"mal_id":63174}
 ,
@@ -69121,5 +69121,13 @@ export const annict: ArmEntry[] = [
 // [null-null] TV: レベルロボチカ
 // https://annict.com/works/17822
 {"annict_id":17822,"mal_id":64462}
+,
+// [2027-WINTER] TV: すだちの魔王城
+// https://annict.com/works/17823
+{"annict_id":17823}
+,
+// [2027-null] TV: 鍋に弾丸を受けながら
+// https://annict.com/works/17824
+{"annict_id":17824}
 ,
 ]
