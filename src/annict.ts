@@ -47846,7 +47846,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/12477
 {"annict_id":12477,"mal_id":57871}
 ,
-// [2026-null] TV: ゾンビのあふれた世界で俺だけが襲われない
+// [2027-WINTER] TV: ゾンビのあふれた世界で俺だけが襲われない
 // https://annict.com/works/12478
 {"annict_id":12478,"mal_id":57990}
 ,
