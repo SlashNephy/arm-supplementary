@@ -69130,4 +69130,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17824
 {"annict_id":17824,"mal_id":64466}
 ,
+// [null-null] TV: ごきげんよう、一局いかが？
+// https://annict.com/works/17825
+{"annict_id":17825,"mal_id":64468}
+,
 ]
