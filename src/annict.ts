@@ -69124,10 +69124,10 @@ export const annict: ArmEntry[] = [
 ,
 // [2027-WINTER] TV: すだちの魔王城
 // https://annict.com/works/17823
-{"annict_id":17823}
+{"annict_id":17823,"mal_id":64467}
 ,
 // [2027-null] TV: 鍋に弾丸を受けながら
 // https://annict.com/works/17824
-{"annict_id":17824}
+{"annict_id":17824,"mal_id":64466}
 ,
 ]
