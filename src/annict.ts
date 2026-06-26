@@ -69152,6 +69152,6 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] TV: スノウボールアース 第2期
 // https://annict.com/works/17830
-{"annict_id":17830}
+{"annict_id":17830,"mal_id":64482}
 ,
 ]
