@@ -67034,7 +67034,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17297
 {"annict_id":17297,"mal_id":63753}
 ,
-// [2026-null] TV: 塩対応の佐藤さんが俺にだけ甘い
+// [2026-AUTUMN] TV: 塩対応の佐藤さんが俺にだけ甘い
 // https://annict.com/works/17298
 {"annict_id":17298,"mal_id":63754}
 ,
@@ -69137,5 +69137,17 @@ export const annict: ArmEntry[] = [
 // [2026-null] OTHER: きつねつき
 // https://annict.com/works/17826
 {"annict_id":17826,"mal_id":61783}
+,
+// [2002-AUTUMN] OVA: バルト 新たなる旅立ち
+// https://annict.com/works/17827
+{"annict_id":17827}
+,
+// [2012-AUTUMN] OVA: ねずみの騎士デスペローの物語
+// https://annict.com/works/17828
+{"annict_id":17828}
+,
+// [2023-AUTUMN] OVA: ルビー・ギルマン、ティーンエイジ・クラーケン
+// https://annict.com/works/17829
+{"annict_id":17829}
 ,
 ]
