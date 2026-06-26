@@ -69134,4 +69134,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17825
 {"annict_id":17825,"mal_id":64468}
 ,
+// [2026-null] OTHER: きつねつき
+// https://annict.com/works/17826
+{"annict_id":17826,"mal_id":61783}
+,
 ]
