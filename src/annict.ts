@@ -67176,7 +67176,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: 北斗の拳 拳王軍ザコたちの挽歌 第2クール
 // https://annict.com/works/17333
-{"annict_id":17333,"syobocal_tid":7911}
+{"annict_id":17333,"mal_id":64378,"syobocal_tid":7911}
 ,
 // [null-null] TV: 真夜中ハートチューン 第2期
 // https://annict.com/works/17334
@@ -69153,5 +69153,17 @@ export const annict: ArmEntry[] = [
 // [null-null] TV: スノウボールアース 第2期
 // https://annict.com/works/17830
 {"annict_id":17830,"mal_id":64482}
+,
+// [null-null] TV: 彼女、お借りします 第6期
+// https://annict.com/works/17831
+{"annict_id":17831}
+,
+// [2026-SPRING] WEB: 「彼女、お借りします 第5期」 × m HOLD'EMコラボミニアニメ
+// https://annict.com/works/17832
+{"annict_id":17832}
+,
+// [2027-null] TV: 北斗の拳 -FIST OF THE NORTH STAR- 第2クール
+// https://annict.com/works/17833
+{"annict_id":17833}
 ,
 ]
