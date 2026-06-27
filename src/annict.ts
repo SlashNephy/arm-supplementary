@@ -69218,4 +69218,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17846
 {"annict_id":17846}
 ,
+// [null-null] TV: キルアオ 第2期
+// https://annict.com/works/17847
+{"annict_id":17847,"mal_id":64495}
+,
 ]
