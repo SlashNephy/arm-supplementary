@@ -64762,7 +64762,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16725
 {"annict_id":16725,"mal_id":62964,"syobocal_tid":7811}
 ,
-// [2026-null] MOVIE: 我々は宇宙人
+// [2026-SUMMER] MOVIE: 我々は宇宙人
 // https://annict.com/works/16726
 {"annict_id":16726,"mal_id":62973}
 ,
@@ -69156,7 +69156,7 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] TV: 彼女、お借りします 第6期
 // https://annict.com/works/17831
-{"annict_id":17831}
+{"annict_id":17831,"mal_id":64484}
 ,
 // [2026-SPRING] WEB: 「彼女、お借りします 第5期」 × m HOLD'EMコラボミニアニメ
 // https://annict.com/works/17832
@@ -69165,5 +69165,21 @@ export const annict: ArmEntry[] = [
 // [2027-null] TV: 北斗の拳 -FIST OF THE NORTH STAR- 第2クール
 // https://annict.com/works/17833
 {"annict_id":17833}
+,
+// [null-null] OTHER: 終末のワルキューレⅣ
+// https://annict.com/works/17834
+{"annict_id":17834,"mal_id":64481}
+,
+// [2025-SPRING] WEB: ウッディー・ウッドペッカー(2017年)
+// https://annict.com/works/17835
+{"annict_id":17835}
+,
+// [2024-SPRING] WEB: ウッディー・ウッドペッカー サマーキャンプ
+// https://annict.com/works/17836
+{"annict_id":17836}
+,
+// [1996-AUTUMN] OVA: リトルフット 赤ちゃん恐竜の大冒険
+// https://annict.com/works/17837
+{"annict_id":17837}
 ,
 ]
