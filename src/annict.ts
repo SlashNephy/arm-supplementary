@@ -69206,4 +69206,16 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17843
 {"annict_id":17843}
 ,
+// [2026-SPRING] WEB: スティッチ＆エンジェルのパーフェクト・サマー・デー
+// https://annict.com/works/17844
+{"annict_id":17844}
+,
+// [2026-WINTER] WEB: ヴァーサ：命のダンス
+// https://annict.com/works/17845
+{"annict_id":17845}
+,
+// [2026-SPRING] WEB: ドゥーミーズ
+// https://annict.com/works/17846
+{"annict_id":17846}
+,
 ]
