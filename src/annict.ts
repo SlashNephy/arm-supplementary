@@ -69182,4 +69182,28 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17837
 {"annict_id":17837}
 ,
+// [1997-SPRING] OVA: リトルフット いんせきに気をつけろ
+// https://annict.com/works/17838
+{"annict_id":17838}
+,
+// [1997-SPRING] OVA: リトルフット クビナガ恐竜がやってきた
+// https://annict.com/works/17839
+{"annict_id":17839}
+,
+// [1998-WINTER] OVA: リトルフット はっぱ食い虫で大災難
+// https://annict.com/works/17840
+{"annict_id":17840}
+,
+// [1991-SUMMER] MOVIE: スペースファミリー/ジェットソンズ
+// https://annict.com/works/17841
+{"annict_id":17841}
+,
+// [2008-SPRING] TV: 腰抜けヒーロー大冒険!!
+// https://annict.com/works/17842
+{"annict_id":17842}
+,
+// [1999-WINTER] OVA: リトルフット 龍の岩の伝説
+// https://annict.com/works/17843
+{"annict_id":17843}
+,
 ]
