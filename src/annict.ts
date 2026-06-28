@@ -69234,4 +69234,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17850
 {"annict_id":17850}
 ,
+// [2026-AUTUMN] TV: ガールズ＆パンツァー もっとらぶらぶ作戦です！
+// https://annict.com/works/17851
+{"annict_id":17851}
+,
 ]
