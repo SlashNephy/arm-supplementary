@@ -54030,7 +54030,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/14031
 {"annict_id":14031}
 ,
-// [null-null] WEB: サイバーパンク: エッジランナーズ２
+// [2026-AUTUMN] WEB: サイバーパンク: エッジランナーズ２
 // https://annict.com/works/14032
 {"annict_id":14032,"mal_id":61990}
 ,
@@ -69237,5 +69237,9 @@ export const annict: ArmEntry[] = [
 // [2026-AUTUMN] TV: ガールズ＆パンツァー もっとらぶらぶ作戦です！
 // https://annict.com/works/17851
 {"annict_id":17851}
+,
+// [null-null] MOVIE: KING OF PRISM-Tri-Star Act-
+// https://annict.com/works/17852
+{"annict_id":17852}
 ,
 ]
