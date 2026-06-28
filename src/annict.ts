@@ -69222,4 +69222,16 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17847
 {"annict_id":17847,"mal_id":64495}
 ,
+// [2027-SPRING] TV: LONA
+// https://annict.com/works/17848
+{"annict_id":17848}
+,
+// [null-null] TV: 杖と剣のウィストリア Season3
+// https://annict.com/works/17849
+{"annict_id":17849}
+,
+// [2026-AUTUMN] TV: 夜桜さんちの大作戦 第2期 第2クール
+// https://annict.com/works/17850
+{"annict_id":17850}
+,
 ]
