@@ -66620,7 +66620,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: 同じゼミの染谷さんがセクシー女優だった話。
 // https://annict.com/works/17192
-{"annict_id":17192,"mal_id":63619}
+{"annict_id":17192,"mal_id":63619,"syobocal_tid":7947}
 ,
 // [2026-SPRING] MOVIE: 傘少女
 // https://annict.com/works/17193
@@ -69080,7 +69080,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: 闇芝居 十七期
 // https://annict.com/works/17812
-{"annict_id":17812,"mal_id":64435}
+{"annict_id":17812,"mal_id":64435,"syobocal_tid":7948}
 ,
 // [2026-AUTUMN] TV: 魔法の姉妹ルルットリリィ 第2クール
 // https://annict.com/works/17813
