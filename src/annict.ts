@@ -69164,7 +69164,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2027-null] TV: 北斗の拳 -FIST OF THE NORTH STAR- 第2クール
 // https://annict.com/works/17833
-{"annict_id":17833}
+{"annict_id":17833,"mal_id":64487}
 ,
 // [null-null] OTHER: 終末のワルキューレⅣ
 // https://annict.com/works/17834
@@ -69224,15 +69224,15 @@ export const annict: ArmEntry[] = [
 ,
 // [2027-SPRING] TV: LONA
 // https://annict.com/works/17848
-{"annict_id":17848}
+{"annict_id":17848,"mal_id":64501}
 ,
 // [null-null] TV: 杖と剣のウィストリア Season3
 // https://annict.com/works/17849
-{"annict_id":17849}
+{"annict_id":17849,"mal_id":64500}
 ,
 // [2026-AUTUMN] TV: 夜桜さんちの大作戦 第2期 第2クール
 // https://annict.com/works/17850
-{"annict_id":17850}
+{"annict_id":17850,"mal_id":64503}
 ,
 // [2026-AUTUMN] TV: ガールズ＆パンツァー もっとらぶらぶ作戦です！
 // https://annict.com/works/17851
@@ -69241,5 +69241,9 @@ export const annict: ArmEntry[] = [
 // [null-null] MOVIE: KING OF PRISM-Tri-Star Act-
 // https://annict.com/works/17852
 {"annict_id":17852}
+,
+// [2026-AUTUMN] TV: ダイヤのA actⅡ -Second Season- 第2クール
+// https://annict.com/works/17853
+{"annict_id":17853,"mal_id":64505}
 ,
 ]
