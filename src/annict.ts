@@ -59458,7 +59458,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15391
 {"annict_id":15391,"mal_id":61014}
 ,
-// [null-null] TV: 姫騎士様のヒモ
+// [2027-WINTER] TV: 姫騎士様のヒモ
 // https://annict.com/works/15392
 {"annict_id":15392,"mal_id":61015}
 ,
@@ -69245,5 +69245,9 @@ export const annict: ArmEntry[] = [
 // [2026-AUTUMN] TV: ダイヤのA actⅡ -Second Season- 第2クール
 // https://annict.com/works/17853
 {"annict_id":17853,"mal_id":64505}
+,
+// [null-null] TV: とんがり帽子のアトリエ 第2期
+// https://annict.com/works/17854
+{"annict_id":17854}
 ,
 ]
