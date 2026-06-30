@@ -65784,7 +65784,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: あはれ！名作くん (完全新作アニメ)
 // https://annict.com/works/16982
-{"annict_id":16982,"mal_id":63219}
+{"annict_id":16982,"mal_id":63219,"syobocal_tid":7951}
 ,
 // [2027-WINTER] TV: ヒストリエ
 // https://annict.com/works/16983
@@ -69249,5 +69249,9 @@ export const annict: ArmEntry[] = [
 // [null-null] TV: とんがり帽子のアトリエ 第2期
 // https://annict.com/works/17854
 {"annict_id":17854}
+,
+// [2027-null] TV: 戦奏教室
+// https://annict.com/works/17855
+{"annict_id":17855}
 ,
 ]
