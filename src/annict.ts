@@ -55130,7 +55130,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/14307
 {"annict_id":14307,"mal_id":60157,"syobocal_tid":7393}
 ,
-// [null-null] OTHER: ブレイド＆バスタード
+// [2027-null] OTHER: ブレイド＆バスタード
 // https://annict.com/works/14308
 {"annict_id":14308,"mal_id":60152}
 ,
@@ -69236,7 +69236,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: ガールズ＆パンツァー もっとらぶらぶ作戦です！
 // https://annict.com/works/17851
-{"annict_id":17851}
+{"annict_id":17851,"mal_id":61227}
 ,
 // [null-null] MOVIE: KING OF PRISM-Tri-Star Act-
 // https://annict.com/works/17852
@@ -69248,10 +69248,14 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] TV: とんがり帽子のアトリエ 第2期
 // https://annict.com/works/17854
-{"annict_id":17854}
+{"annict_id":17854,"mal_id":64516}
 ,
 // [2027-null] TV: 戦奏教室
 // https://annict.com/works/17855
-{"annict_id":17855}
+{"annict_id":17855,"mal_id":64520}
+,
+// [2027-WINTER] TV: マリッジトキシン 第2期
+// https://annict.com/works/17856
+{"annict_id":17856,"mal_id":64524}
 ,
 ]
