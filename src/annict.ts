@@ -69262,4 +69262,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17857
 {"annict_id":17857}
 ,
+// [2025-null] TV: メカアマト シーズン4
+// https://annict.com/works/17858
+{"annict_id":17858}
+,
 ]
