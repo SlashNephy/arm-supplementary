@@ -69258,4 +69258,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17856
 {"annict_id":17856,"mal_id":64524}
 ,
+// [2026-SUMMER] WEB: こうしす！EE「山形出張特別編ミニアニメ（第9001レ）」
+// https://annict.com/works/17857
+{"annict_id":17857}
+,
 ]
