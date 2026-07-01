@@ -69270,4 +69270,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17859
 {"annict_id":17859}
 ,
+// [2022-AUTUMN] TV: 夜舞魍魎2
+// https://annict.com/works/17860
+{"annict_id":17860}
+,
 ]
