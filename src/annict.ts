@@ -62406,7 +62406,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16129
 {"annict_id":16129,"mal_id":61806}
 ,
-// [2027-null] MOVIE: ghost（仮題）
+// [2027-null] MOVIE: ghost／夜の果て
 // https://annict.com/works/16130
 {"annict_id":16130,"mal_id":61813}
 ,
@@ -69265,5 +69265,9 @@ export const annict: ArmEntry[] = [
 // [2025-null] TV: メカアマト シーズン4
 // https://annict.com/works/17858
 {"annict_id":17858}
+,
+// [2027-null] TV: ソアラと魔物の家
+// https://annict.com/works/17859
+{"annict_id":17859}
 ,
 ]
