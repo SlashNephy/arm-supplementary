@@ -54030,7 +54030,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/14031
 {"annict_id":14031}
 ,
-// [2026-AUTUMN] WEB: サイバーパンク: エッジランナーズ２
+// [2026-AUTUMN] WEB: サイバーパンク: エッジランナーズ2
 // https://annict.com/works/14032
 {"annict_id":14032,"mal_id":61990}
 ,
@@ -62406,7 +62406,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16129
 {"annict_id":16129,"mal_id":61806}
 ,
-// [2027-null] MOVIE: ghost／夜の果て
+// [2027-WINTER] MOVIE: ghost／夜の果て
 // https://annict.com/works/16130
 {"annict_id":16130,"mal_id":61813}
 ,
@@ -69112,7 +69112,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] WEB: 不死身な僕の日常 シーズン4
 // https://annict.com/works/17820
-{"annict_id":17820,"mal_id":53450}
+{"annict_id":17820,"mal_id":53450,"syobocal_tid":7952}
 ,
 // [null-null] TV: ようこそ実力至上主義の教室へ 5th Season
 // https://annict.com/works/17821
@@ -69273,5 +69273,13 @@ export const annict: ArmEntry[] = [
 // [2022-AUTUMN] TV: 夜舞魍魎2
 // https://annict.com/works/17860
 {"annict_id":17860}
+,
+// [null-null] WEB: BLUE EYE SAMURAI/ブルーアイ・サムライ シーズン2
+// https://annict.com/works/17861
+{"annict_id":17861}
+,
+// [null-null] WEB: Bass X Machina: バスXマキナ
+// https://annict.com/works/17862
+{"annict_id":17862}
 ,
 ]
