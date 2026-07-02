@@ -63018,7 +63018,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16283
 {"annict_id":16283}
 ,
-// [null-null] OTHER: 〈物語〉シリーズ オフ&モンスターシーズン 新エピソード
+// [2026-AUTUMN] OTHER: 〈物語〉シリーズ オフ&モンスターシーズン 業物語 かれんオウガ
 // https://annict.com/works/16284
 {"annict_id":16284,"mal_id":61968}
 ,
@@ -69285,5 +69285,17 @@ export const annict: ArmEntry[] = [
 // [null-null] TV: 魔女と猟犬
 // https://annict.com/works/17863
 {"annict_id":17863,"mal_id":64528}
+,
+// [2026-AUTUMN] TV: 氷の城壁 第2期
+// https://annict.com/works/17864
+{"annict_id":17864}
+,
+// [2026-SUMMER] MOVIE: るすばん
+// https://annict.com/works/17865
+{"annict_id":17865}
+,
+// [2004-WINTER] MOVIE: ピノキオ3000
+// https://annict.com/works/17866
+{"annict_id":17866}
 ,
 ]
