@@ -69268,7 +69268,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2027-null] TV: ソアラと魔物の家
 // https://annict.com/works/17859
-{"annict_id":17859}
+{"annict_id":17859,"mal_id":64527}
 ,
 // [2022-AUTUMN] TV: 夜舞魍魎2
 // https://annict.com/works/17860
