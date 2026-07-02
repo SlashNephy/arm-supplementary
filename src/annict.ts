@@ -64510,7 +64510,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16661
 {"annict_id":16661,"mal_id":31471}
 ,
-// [2026-AUTUMN] MOVIE: 劇場版 薬屋のひとりごと
+// [2026-AUTUMN] MOVIE: 劇場版 薬屋のひとりごと 亡妃の秘宝
 // https://annict.com/works/16662
 {"annict_id":16662,"mal_id":62844}
 ,
