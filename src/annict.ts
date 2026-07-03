@@ -49196,7 +49196,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2024-SPRING] TV: ARNOLD & PUPPETS
 // https://annict.com/works/12817
-{"annict_id":12817,"syobocal_tid":7060}
+{"annict_id":12817,"mal_id":60116,"syobocal_tid":7060}
 ,
 // [2025-WINTER] TV: Sランクモンスターの《ベヒーモス》だけど、猫と間違われてエルフ娘の騎士として暮らしてます
 // https://annict.com/works/12818
@@ -69309,5 +69309,9 @@ export const annict: ArmEntry[] = [
 // [2027-WINTER] MOVIE: アイカツスターズ！ ～星々のProgress～
 // https://annict.com/works/17869
 {"annict_id":17869}
+,
+// [null-null] TV: 魔物使いの娘
+// https://annict.com/works/17870
+{"annict_id":17870}
 ,
 ]
