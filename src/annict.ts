@@ -60990,7 +60990,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15774
 {"annict_id":15774,"mal_id":61300}
 ,
-// [null-null] TV: 黒岩メダカに私の可愛いが通じない Season2
+// [2027-WINTER] TV: 黒岩メダカに私の可愛いが通じない Season2
 // https://annict.com/works/15775
 {"annict_id":15775,"mal_id":61304}
 ,
@@ -69288,7 +69288,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: 氷の城壁 第2期
 // https://annict.com/works/17864
-{"annict_id":17864}
+{"annict_id":17864,"mal_id":64534}
 ,
 // [2026-SUMMER] MOVIE: るすばん
 // https://annict.com/works/17865
@@ -69312,6 +69312,38 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] TV: 魔物使いの娘
 // https://annict.com/works/17870
-{"annict_id":17870}
+{"annict_id":17870,"mal_id":64540}
+,
+// [2026-WINTER] WEB: 聖女なのに国を追い出されたので、崩壊寸前の隣国へ来ました～力を解放したので国が平和になってきましたが元の国まで加護は届きませんよ～ シーズン3
+// https://annict.com/works/17871
+{"annict_id":17871}
+,
+// [1999-null] MOVIE: SiNK
+// https://annict.com/works/17872
+{"annict_id":17872,"mal_id":51858}
+,
+// [2000-null] TV: コインランドリーXYZ
+// https://annict.com/works/17873
+{"annict_id":17873}
+,
+// [2001-null] TV: ガスタンクマニア
+// https://annict.com/works/17874
+{"annict_id":17874}
+,
+// [2002-null] TV: スノッビーズ
+// https://annict.com/works/17875
+{"annict_id":17875}
+,
+// [2002-null] MOVIE: ジャスティスランナーズ
+// https://annict.com/works/17876
+{"annict_id":17876,"mal_id":56669}
+,
+// [null-null] OTHER: ミルキー☆バイウェイ スプリングスペシャル "恐怖のチェロビン・パーティー"
+// https://annict.com/works/17877
+{"annict_id":17877}
+,
+// [2026-null] MOVIE: 砂塵ノ中デ
+// https://annict.com/works/17878
+{"annict_id":17878}
 ,
 ]
