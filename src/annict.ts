@@ -50158,7 +50158,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/13058
 {"annict_id":13058}
 ,
-// [2027-null] TV: マッシュル-MASHLE- 三魔対争神覚者最終試験編
+// [2027-WINTER] TV: マッシュル-MASHLE- 三魔対争神覚者最終試験編
 // https://annict.com/works/13059
 {"annict_id":13059,"mal_id":58934}
 ,
