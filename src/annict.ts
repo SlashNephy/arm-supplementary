@@ -62970,7 +62970,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16271
 {"annict_id":16271,"mal_id":61943,"syobocal_tid":7798}
 ,
-// [2026-null] TV: エレキシード（ELECEED）
+// [2027-null] TV: ELECEED／エレキシード
 // https://annict.com/works/16272
 {"annict_id":16272,"mal_id":61944}
 ,
@@ -69345,5 +69345,9 @@ export const annict: ArmEntry[] = [
 // [2026-null] MOVIE: 砂塵ノ中デ
 // https://annict.com/works/17878
 {"annict_id":17878}
+,
+// [2003-null] OTHER: メンタンピンタワレコ
+// https://annict.com/works/17879
+{"annict_id":17879}
 ,
 ]
