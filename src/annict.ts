@@ -69298,4 +69298,16 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17866
 {"annict_id":17866}
 ,
+// [2026-SPRING] WEB: FBKINGDOM STORY アニメーショントレーラー
+// https://annict.com/works/17867
+{"annict_id":17867,"mal_id":64522}
+,
+// [2026-SUMMER] WEB: ばなにゃ あっとほーむぱーてぃー
+// https://annict.com/works/17868
+{"annict_id":17868,"mal_id":64519}
+,
+// [2027-WINTER] MOVIE: アイカツスターズ！ ～星々のProgress～
+// https://annict.com/works/17869
+{"annict_id":17869}
+,
 ]
