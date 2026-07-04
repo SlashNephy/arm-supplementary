@@ -71,8 +71,23 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2026-WINTER] SPECIAL: 'Arirang' Animation Trailer: What Is Your Love Song?
 {"mal_id":63727}
 ,
+// [2026-SPRING] SPECIAL: 'LEMONADE (2Spade Remix)'
+{"mal_id":64358}
+,
+// [2026-SPRING] SPECIAL: 'LEMONADE (Feat. Becky G)' Visualizer
+{"mal_id":64316}
+,
+// [2026-SPRING] SPECIAL: 'LEMONADE (Marlon Hoffstadt Remix)'
+{"mal_id":64353}
+,
+// [2026-SPRING] SPECIAL: 'LEMONADE (Zedd Remix)'
+{"mal_id":64327}
+,
 // [2014-WINTER] SPECIAL: 'Skool Luv Affair' Comeback Trailer
 {"mal_id":55928}
+,
+// [2024-FALL] SPECIAL: 'Supernova (KENZIE RE:WORKS)'
+{"mal_id":64352}
 ,
 // [1974-WINTER] MOVIE: 'Twas the Night Before Christmas
 {}
@@ -125,17 +140,20 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2019-FALL] SPECIAL: "Hitori de Ikirare Sou" tte Sore tte Nee, Homete Iru no?
 {"anisearch_id":18676}
 ,
+// [2025-FALL] SPECIAL: "IDOLIC no Mahou"
+{"mal_id":63914}
+,
 // [2019-FALL] SPECIAL: "Inochi Sketch" Movie Jabow x Mameshiba Collab CM
 {"animeplanet_id":"inochi-sketch-x-mameshiba","mal_id":41060}
 ,
-// [2026-SPRING] TV: "Kimi o Aisuru Ki wa Nai" to Itta Jiki Koushaku-sama ga Nazeka Dekiai Shite Kimasu
+// [2026-SUMMER] TV: "Kimi o Aisuru Ki wa Nai" to Itta Jiki Koushaku-sama ga Nazeka Dekiai Shite Kimasu
 {"anidb_id":19909}
 ,
 // [2026-SUMMER] TV: “Kimi o Aisuru Ki wa Nai“ to Itta Jiki Koushaku-sama ga Nazeka Dekiai Shite Kimasu
 {"anisearch_id":21336}
 ,
 // [2026-SUMMER] TV: "Kimi wo Aisuru Ki wa Nai" to Itta Jiki Koushaku-sama ga Nazeka Dekiai shitekimasu
-{"anilist_id":208225,"animeplanet_id":"kimi-wo-aisuru-ki-wa-nai-to-itta-jiki-koushaku-sama-ga-nazeka-dekiaishitekimasu","livechart_id":13532,"mal_id":63537}
+{"anilist_id":208225,"animeplanet_id":"the-dukes-son-claims-he-wont-love-me-yet-showers-me-with-adoration","livechart_id":13532,"mal_id":63537}
 ,
 // [2010-SUMMER] SPECIAL: "Kinako" Movie x Mameshiba
 {"animeplanet_id":"kinako-movie-x-mameshiba","mal_id":35632}
@@ -164,9 +182,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2019-FALL] SPECIAL: "Star"t
 {"animeplanet_id":"irodorimidori-star-t","anisearch_id":18459,"mal_id":41090}
 ,
-// [2022-SPRING] UNKNOWN: “Sumikko Style Cafe Base RAP Compilation”
-{"mal_id":60183}
-,
 // [2017-FALL] MOVIE: "Tokyo"
 {"anilist_id":113199,"animeplanet_id":"tokyo","mal_id":38748}
 ,
@@ -193,6 +208,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2027-UNDEFINED] MOVIE: (Title to be Announced)
 {"anilist_id":187479}
+,
+// [undefined-UNDEFINED] UNKNOWN: [Godzilla]
+{}
 ,
 // [2019-FALL] SPECIAL: [Hobonichi Techo] Monthly notebook planner "day-free" completion commemorative video
 {"mal_id":61526}
@@ -324,7 +342,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"mal_id":57313}
 ,
 // [2024-FALL] TV: 1 Cho
-{"anilist_id":170631,"animeplanet_id":"1-second","mal_id":57101}
+{"anilist_id":170631,"animeplanet_id":"1-second","anisearch_id":21707,"mal_id":57101}
 ,
 // [2018-FALL] SPECIAL: 1 Day Outside Pass Foreman: Excursion
 {}
@@ -392,6 +410,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2021-SUMMER] SPECIAL: 100-man no Inochi no Ue ni Ore wa Tatteiru Recap
 {"animeplanet_id":"im-standing-on-a-million-lives-recap","mal_id":48976}
 ,
+// [2021-SUMMER] TV: 100-man no Inochi no Ue ni Ore wa Tatteiru: Dai 1 Season Soushuuhen
+{"anisearch_id":21529}
+,
 // [1978-SUMMER] SPECIAL: 100-man-nen Chikyuu no Tabi: Bander Book
 {"anidb_id":2991,"anilist_id":5133,"animeplanet_id":"one-million-year-trip-bander-book","anisearch_id":3435,"livechart_id":12035,"mal_id":5133}
 ,
@@ -415,9 +436,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2025-WINTER] SPECIAL: 100%
 {}
-,
-// [2012-SPRING] SPECIAL: 100% no Uta
-{"mal_id":58175}
 ,
 // [2016-FALL] ONA: 100% Pascal-sensei
 {"anidb_id":13560,"anilist_id":188038,"animeplanet_id":"100-pascal-sensei","anisearch_id":12221,"livechart_id":8979,"mal_id":35447}
@@ -1046,11 +1064,20 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2022-SPRING] MOVIE: 5-toubun no Hanayome Movie
 {"anidb_id":16165,"anilist_id":131520,"animeplanet_id":"the-quintessential-quintuplets-movie","anisearch_id":16091,"livechart_id":10488,"mal_id":48548}
 ,
+// [undefined-UNDEFINED] OVA: 5-toubun no Hanayome OVA
+{"livechart_id":13627,"mal_id":64105}
+,
+// [undefined-UNDEFINED] TV: 5-toubun no Hanayome: [Shunkashuutou]
+{"livechart_id":13625,"mal_id":64104}
+,
 // [2024-FALL] SPECIAL: 5-toubun no Hanayome*
 {"anidb_id":18603,"anilist_id":177191,"animeplanet_id":"the-quintessential-quintuplets-specials-2","anisearch_id":19242,"livechart_id":12646,"mal_id":58755}
 ,
 // [2023-SUMMER] SPECIAL: 5-toubun no Hanayome∽
 {"anidb_id":17968,"anilist_id":163327,"animeplanet_id":"the-quintessential-quintuplets-reversed-tilde","anisearch_id":18327,"livechart_id":11921,"mal_id":54915}
+,
+// [2025-SUMMER] OVA: 5-toubun no Princess: Gensou to Shinen to Mahou Gakuin
+{"mal_id":64106}
 ,
 // [2025-UNDEFINED] ONA: 5-toubun no Princess: Gensou to Shinen to Mahou Gakuin OP
 {"animeplanet_id":"5-toubun-no-princess-gensou-to-shinen-to-mahou-gakuin-op"}
@@ -1150,6 +1177,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2022-SUMMER] SPECIAL: 7Fates: Chakho with BTS Official Trailer
 {"animeplanet_id":"7fates-chakho-with-bts-official-trailer","mal_id":56405}
+,
+// [2024-WINTER] TV: 7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy! Mini Anime
+{"anilist_id":177062,"animeplanet_id":"7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy-mini-anime","livechart_id":12489}
 ,
 // [2009-SUMMER] MOVIE: 8-gatsu no Symphony: Shibuya 2002-2003
 {"anidb_id":6621,"anilist_id":6670,"animeplanet_id":"symphony-in-august-shibuya-2002-2003","anisearch_id":5452,"livechart_id":7812,"mal_id":6670}
@@ -1301,9 +1331,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-SPRING] SPECIAL: A Horny Money World: Densetsu no Yoru
 {"anilist_id":191734,"animeplanet_id":"marine-houshou-a-horny-money-world-densetsu-no-yoru","anisearch_id":20480,"mal_id":61601}
 ,
-// [2026-SPRING] TV: A Hundred Scenes of AWAJIMA
-{"animeplanet_id":"a-hundred-scenes-of-awajima"}
-,
 // [1998-WINTER] OVA: A Kite
 {"animeplanet_id":"kite","anisearch_id":749,"mal_id":320}
 ,
@@ -1346,6 +1373,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2019-WINTER] MOVIE: A Pawn
 {"anilist_id":140871,"animeplanet_id":"a-pawn"}
 ,
+// [undefined-UNDEFINED] TV: A Pen, Handcuffs, and a Common-Law Marriage
+{}
+,
 // [2009-UNDEFINED] MOVIE: A Piece of Cake
 {"animeplanet_id":"a-piece-of-cake"}
 ,
@@ -1367,11 +1397,17 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2021-SUMMER] ONA: A Qi Aoyou Ji
 {"animeplanet_id":"a-qi-aoyou-ji","anisearch_id":20071,"mal_id":55052}
 ,
+// [2026-SPRING] ONA: A Record Of Mortal's Journey To Immortality 5th Season
+{}
+,
 // [2022-WINTER] ONA: A Ripple in Time
 {"anilist_id":145059,"animeplanet_id":"a-ripple-in-time","anisearch_id":17084,"mal_id":51013}
 ,
 // [2008-WINTER] MOVIE: A Sea Doesn't Tell Much
 {"anilist_id":136492,"animeplanet_id":"a-sea-doesnt-tell-much","mal_id":41449}
+,
+// [2020-SUMMER] ONA: A Si yu Xiao Lingdang
+{"anilist_id":149074,"animeplanet_id":"asi-yu-xiao-liangdang","mal_id":52610}
 ,
 // [2006-WINTER] SPECIAL: A Smart Experiment
 {"anidb_id":13364,"anilist_id":102158,"animeplanet_id":"a-smart-experiment","anisearch_id":10302,"mal_id":30214}
@@ -1408,6 +1444,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2022-SUMMER] SPECIAL: A Walk With the Colors
 {"mal_id":53208}
+,
+// [2026-UNDEFINED] ONA: A Will Eternal 4th Season
+{"animeplanet_id":"a-will-eternal-4th-season"}
 ,
 // [2015-WINTER] MOVIE: A Woman in a Fashion Building
 {"anilist_id":119790,"animeplanet_id":"a-woman-in-a-fashion-building","mal_id":37452}
@@ -1541,11 +1580,14 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2007-FALL] SPECIAL: Aa! Megami-sama! Tatakau Tsubasa
 {"anidb_id":5426,"anilist_id":3090,"animeplanet_id":"ah-my-goddess-fighting-wings","anisearch_id":4487,"livechart_id":4993,"mal_id":3090}
 ,
-// [1998-SPRING] TV: Aa! Megami-sama!: Chichaitte Koto wa Benri da ne
+// [1998-SPRING] TV: Aa! Megami-sama!: Chicchai tte Koto wa Benri da ne
 {"anidb_id":186,"anilist_id":303,"animeplanet_id":"oh-my-goddess-the-adventures-of-mini-goddess","anisearch_id":130,"livechart_id":6044,"mal_id":303}
 ,
 // [2007-SUMMER] OVA: AAA de Ikou!!: Yuuna & Akiko
 {"anidb_id":13686,"animeplanet_id":"aaa-de-ikou-yuuna-akiko","anisearch_id":13684,"mal_id":29750}
+,
+// [2026-SPRING] SPECIAL: AAA Shang Shang Qian Pi Fa
+{"mal_id":64310}
 ,
 // [2023-SUMMER] SPECIAL: Aaaaaaaaaaa
 {"mal_id":58874}
@@ -1607,6 +1649,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2021-SPRING] MOVIE: About You
 {"anilist_id":140027,"animeplanet_id":"about-you","mal_id":54323}
 ,
+// [2026-SPRING] ONA: Above Myriads
+{}
+,
 // [2015-WINTER] TV: Absolute Duo
 {"anidb_id":10745,"anilist_id":20785,"animeplanet_id":"absolute-duo","anisearch_id":9733,"livechart_id":708,"mal_id":25397}
 ,
@@ -1621,6 +1666,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2009-WINTER] OVA: Abunai Sisters: Koko & Mika
 {"anidb_id":6287,"anilist_id":5877,"animeplanet_id":"abunai-sisters-koko-and-mika","anisearch_id":5318,"livechart_id":9084,"mal_id":5877}
+,
+// [2026-SPRING] SPECIAL: Abyss in the World
+{"mal_id":64477}
 ,
 // [2022-SPRING] SPECIAL: Abyssal Zone
 {"anilist_id":152308,"animeplanet_id":"nornis-abyssal-zone","anisearch_id":17869,"mal_id":55336}
@@ -1672,6 +1720,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1961-WINTER] MOVIE: Acchi wa Kocchi
 {"anilist_id":101819,"animeplanet_id":"acchi-wa-kocchi","anisearch_id":6801,"livechart_id":8142,"mal_id":22419}
+,
+// [2026-FALL] TV: Ace of Diamond Act II Second Season
+{}
 ,
 // [1973-FALL] TV: Ace wo Nerae!
 {"anidb_id":1072,"anilist_id":311,"animeplanet_id":"ace-wo-nerae","anisearch_id":85,"livechart_id":6521,"mal_id":311}
@@ -1784,6 +1835,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2026-WINTER] SPECIAL: Adrena
 {"anisearch_id":21234,"mal_id":63267}
 ,
+// [2026-WINTER] SPECIAL: Adrenaline (NO1 Ver.)
+{"mal_id":64032}
+,
 // [2025-FALL] SPECIAL: Adult Chick Children
 {"mal_id":62637}
 ,
@@ -1856,6 +1910,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2015-SUMMER] SPECIAL: Adventure Time: Graybles Allsorts
 {}
 ,
+// [2026-SUMMER] ONA: Adventure Time: Side Quests
+{}
+,
 // [2012-SUMMER] ONA: Adventure Time: The Wand
 {}
 ,
@@ -1887,7 +1944,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {}
 ,
 // [2018-FALL] TV: Aerover: Pinigseuui Buhwal
-{"animeplanet_id":"aerover-rebirth-of-the-phoenix","mal_id":48290}
+{"animeplanet_id":"aerover-rebirth-of-the-phoenix","anisearch_id":21710,"mal_id":48290}
 ,
 // [2018-WINTER] TV: Aerover: Seupeiseu Drone Gwihwan
 {"animeplanet_id":"aerover-return-of-the-space-drones","anisearch_id":20079,"mal_id":48510}
@@ -1907,11 +1964,11 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2014-FALL] ONA: AFA2014: Welcome Promo Video - Featuring Seika Project
 {"anisearch_id":13292}
 ,
-// [2002-SPRING] TV: Affordance
-{"anidb_id":14578,"anisearch_id":14073}
-,
 // [2016-WINTER] MOVIE: Affordance
 {"anilist_id":177223,"animeplanet_id":"affordance","mal_id":54581}
+,
+// [2002-SPRING] SPECIAL: Affordance
+{"anidb_id":14578,"anisearch_id":14073}
 ,
 // [2002-WINTER] OVA: Afghanistan Paghman-mura no Monogatari: Boku no Mura ni Circus ga Kita
 {"animeplanet_id":"afghanistan-paghman-mura-no-monogatari-boku-no-mura-ni-circus-ga-kita","anisearch_id":10677,"mal_id":26137}
@@ -1933,9 +1990,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2006-UNDEFINED] OVA: AFRO
 {"animeplanet_id":"afro"}
-,
-// [2015-FALL] ONA: Afro Ken “One More Fever!”
-{"mal_id":60161}
 ,
 // [2007-SPRING] TV: Afro Samurai
 {"anidb_id":2656,"anilist_id":1292,"animeplanet_id":"afro-samurai","anisearch_id":1119,"livechart_id":3756,"mal_id":1292}
@@ -1994,6 +2048,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2019-SPRING] ONA: Against the Gods
 {"anilist_id":131073,"animeplanet_id":"against-the-gods"}
 ,
+// [2026-SPRING] ONA: Against the Gods 2nd Season
+{}
+,
 // [undefined-UNDEFINED] MOVIE: Agami
 {"anilist_id":183418,"animeplanet_id":"gill","anisearch_id":19262,"mal_id":59878}
 ,
@@ -2005,6 +2062,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2016-WINTER] MOVIE: Age of Obscure: Boubaku Jidai
 {"anidb_id":13930,"anilist_id":103406,"animeplanet_id":"age-of-obscure-boubaku-jidai","mal_id":34436}
+,
+// [2019-UNDEFINED] OVA: Ageha ga Tonda: 1945 3-gatsu 10-nichi Tokyo Daikuushuu
+{"mal_id":63947}
 ,
 // [2019-UNDEFINED] OVA: Ageha ga Tonda: 1945.3.10 Tokyodai Kuushuu
 {"anisearch_id":18663}
@@ -2178,7 +2238,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"mal_id":63770}
 ,
 // [2026-WINTER] SPECIAL: Ai Ai Ai Ai♡Ai Love You
-{"anilist_id":207474,"mal_id":63300}
+{"anilist_id":207474,"anisearch_id":21368,"mal_id":63300}
 ,
 // [1986-SUMMER] MOVIE: Ai City
 {"anidb_id":2902,"anilist_id":5053,"animeplanet_id":"ai-city","anisearch_id":1857,"livechart_id":7669,"mal_id":5053}
@@ -2190,7 +2250,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anisearch_id":2003,"mal_id":1791}
 ,
 // [2022-SUMMER] SPECIAL: Ai ga Oshigoto
-{"anilist_id":169030,"animeplanet_id":"ai-ga-oshigoto","mal_id":53765}
+{"anilist_id":169030,"animeplanet_id":"ai-ga-oshigoto","anisearch_id":21395,"mal_id":53765}
 ,
 // [2019-WINTER] SPECIAL: Ai ga Tarinai
 {"anisearch_id":14753}
@@ -2294,7 +2354,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2001-SPRING] OVA: Ai Shimai: Futari no Kajitsu
 {"anisearch_id":2539,"mal_id":1634}
 ,
-// [2020-FALL] MOVIE: AI Shitteru
+// [2024-FALL] MOVIE: AI Shitteru
 {"mal_id":63492}
 ,
 // [1986-WINTER] TV: Ai Shoujo Pollyanna Story
@@ -2341,9 +2401,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2013-UNDEFINED] MOVIE: Ai to Yuuto: Hajimete no Otsukai
 {"animeplanet_id":"hajimete-no-otsukai","mal_id":50711}
-,
-// [2023-FALL] SPECIAL: Ai Tsutsumi Dance Hall
-{"mal_id":57535}
 ,
 // [2016-FALL] SPECIAL: Ai Uta: Since 2007
 {"anilist_id":104941,"animeplanet_id":"whiteeeen-ai-uta-since-2007","mal_id":34656}
@@ -2471,6 +2528,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2016-SUMMER] MOVIE: Aikatsu Stars! Movie
 {"anidb_id":11526,"anilist_id":21697,"animeplanet_id":"aikatsu-stars-the-movie","anisearch_id":11150,"livechart_id":1785,"mal_id":31485}
 ,
+// [2027-SPRING] MOVIE: Aikatsu Stars!: Hoshiboshi no Progress
+{"anilist_id":213814}
+,
+// [2027-UNDEFINED] MOVIE: Aikatsu Stars!: Shinshin no Progress
+{"mal_id":64541}
+,
 // [2012-FALL] TV: Aikatsu!
 {"anilist_id":15061,"animeplanet_id":"aikatsu"}
 ,
@@ -2594,6 +2657,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2005-SPRING] SPECIAL: Air Recap
 {"anisearch_id":13250,"livechart_id":5628,"mal_id":36032}
 ,
+// [2026-SPRING] SPECIAL: Airman ga Taosenai Team.Nekokan [Neko] Premium Version
+{"mal_id":64279}
+,
 // [2005-WINTER] MOVIE: Airs
 {"anilist_id":130374,"animeplanet_id":"airs","mal_id":45583}
 ,
@@ -2606,8 +2672,17 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2010-FALL] OVA: Aisai Nikki
 {"anisearch_id":6534,"mal_id":9721}
 ,
-// [2020-SUMMER] SPECIAL: Aisarenakute mo Kimi ga Iru feat. Hatsune Miku
-{"anilist_id":204399,"mal_id":63554}
+// [undefined-UNDEFINED] TV: Aisanai to Iwaremashite mo: Moto Maou no Hakushaku Reijou wa Kimajime Gunjin ni Ezuke o Sarete Shiawase ni Naru
+{}
+,
+// [undefined-UNDEFINED] UNKNOWN: Aisanai to Iwaremashite mo: Moto Maou no Hakushaku Reijou wa Kimajime Gunjin ni Ezuke o Sarete Shiawase ni Naru
+{"anidb_id":20036,"anisearch_id":21542}
+,
+// [undefined-UNDEFINED] UNKNOWN: Aisanai to Iwaremashitemo: Moto Maou no Hakushaku Reijou wa Kimajime Gunjin ni Ezuke wo Sarete Shiawase ni Naru
+{"livechart_id":13624,"mal_id":64091}
+,
+// [2020-UNDEFINED] SPECIAL: Aisarenakute mo Kimi ga Iru feat. Hatsune Miku
+{"anilist_id":204399}
 ,
 // [2020-SUMMER] SPECIAL: Aisarenakutemo Kimi ga Iru
 {"animeplanet_id":"pinocchio-p-aisarenakutemo-kimi-ga-iru","mal_id":44246}
@@ -2868,7 +2943,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":1385,"anilist_id":2688,"animeplanet_id":"akai-koudan-zillion","anisearch_id":3257,"livechart_id":8385,"mal_id":2688}
 ,
 // [1987-SUMMER] SPECIAL: Akai Koudan Zillion Recaps
-{"anilist_id":17167,"animeplanet_id":"akai-koudan-zillion-specials","anisearch_id":8521,"mal_id":17167}
+{"animeplanet_id":"akai-koudan-zillion-specials","anisearch_id":8521,"mal_id":17167}
 ,
 // [1988-SPRING] OVA: Akai Koudan Zillion: Utahime Yakyoku
 {"anidb_id":1386,"anilist_id":2689,"animeplanet_id":"akai-koudan-zillion-utahime-yakyoku","anisearch_id":23,"livechart_id":11241,"mal_id":2689}
@@ -2906,14 +2981,29 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-UNDEFINED] SPECIAL: Akami Karubi Henshin Movie
 {"anilist_id":207484}
 ,
+// [2026-SPRING] SPECIAL: Akane
+{"anisearch_id":21422,"mal_id":63887}
+,
 // [2004-FALL] OVA: Akane Maniax
 {"anidb_id":2425,"anilist_id":281,"animeplanet_id":"akane-maniax","anisearch_id":2930,"livechart_id":3576,"mal_id":281}
 ,
 // [2022-WINTER] OVA: Akane wa Tsumare Somerareru
 {"anisearch_id":16668,"mal_id":50192}
 ,
+// [2026-FALL] TV: Akane-banashi
+{}
+,
 // [2026-SPRING] TV: Akane-banashi
 {"anidb_id":19513,"anilist_id":196935,"animeplanet_id":"akane-banashi","anisearch_id":20808,"livechart_id":13262,"mal_id":62164}
+,
+// [2027-WINTER] TV: Akane-banashi (2027)
+{"anidb_id":20117}
+,
+// [2027-WINTER] TV: Akane-banashi 2nd Season
+{"anilist_id":213360,"livechart_id":13675,"mal_id":64439}
+,
+// [2027-WINTER] TV: Akane-banashi Dai 2 Ki
+{"anisearch_id":21743}
 ,
 // [1968-SPRING] TV: Akane-chan
 {"anidb_id":1892,"anilist_id":18635,"animeplanet_id":"akane-chan","anisearch_id":1584,"livechart_id":11665,"mal_id":18635}
@@ -2986,6 +3076,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2007-WINTER] MOVIE: Akazukin to Kenkou
 {"anidb_id":11016,"anilist_id":103327,"animeplanet_id":"akazukin-to-kenkou","anisearch_id":12356,"mal_id":30446}
+,
+// [undefined-UNDEFINED] OVA: Akazukin-chan
+{"anisearch_id":21463}
+,
+// [1998-WINTER] OVA: Akazukin-chan Chanto Check
+{"anisearch_id":21455}
 ,
 // [2014-WINTER] OVA: Akazukin-chan to Manabou! Koutsuu Rule
 {"animeplanet_id":"akazukin-chan-to-manabou-koutsuu-rule","mal_id":30926}
@@ -3230,7 +3326,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2027-WINTER] TV: Akuyaku Reijou no Naka no Hito
 {"anidb_id":19360,"anilist_id":193699,"animeplanet_id":"akuyaku-reijou-no-naka-no-hito","anisearch_id":20677,"livechart_id":13176,"mal_id":61758}
 ,
-// [undefined-UNDEFINED] TV: Akuyaku Reijou no Tsuihougo!: Kyoukai Kaikaku Gohan de Yuuyuu Sister-gurashi
+// [undefined-UNDEFINED] TV: Akuyaku Reijou no Tsuihougo! Kyoukai Kaikaku Gohan de Yuuyuu Sister-gurashi
 {"anidb_id":19519,"anilist_id":197022,"animeplanet_id":"i-was-exiled-as-a-villainess-i-am-now-a-sister-living-the-good-life-through-a-culinary-reform","anisearch_id":20811,"livechart_id":13263,"mal_id":62187}
 ,
 // [2025-WINTER] TV: Akuyaku Reijou Tensei Ojisan
@@ -3316,6 +3412,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2000-FALL] MOVIE: Alexander Senki Movie
 {"anidb_id":7528,"anilist_id":5157,"animeplanet_id":"reign-the-conqueror-movie","anisearch_id":6235,"livechart_id":9074,"mal_id":5157}
+,
+// [1997-UNDEFINED] SPECIAL: Alexander Senki Promo
+{"mal_id":64127}
 ,
 // [2003-SPRING] OVA: Alexandros no Ketsudan
 {"anidb_id":7122,"anilist_id":10112,"animeplanet_id":"alexanders-decision","anisearch_id":5820,"mal_id":10112}
@@ -3437,6 +3536,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2022-SUMMER] SPECIAL: Alien Stage
 {"animeplanet_id":"alien-stage","anisearch_id":19979,"mal_id":55255}
 ,
+// [undefined-UNDEFINED] UNKNOWN: Alien Stage The Animation
+{"mal_id":64539}
+,
 // [2022-UNDEFINED] ONA: ALIEN STAGE: PROLOGUE
 {"animeplanet_id":"alien-stage-prologue"}
 ,
@@ -3521,6 +3623,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2016-FALL] SPECIAL: Alluptoyou
 {"anilist_id":103511,"animeplanet_id":"mndsgn-alluptoyou","mal_id":36092}
 ,
+// [2027-UNDEFINED] MOVIE: Ally
+{"anisearch_id":20684}
+,
 // [2025-FALL] TV: Alma-chan wa Kazoku ni Naritai
 {"anidb_id":19116,"anilist_id":186190,"animeplanet_id":"alma-chan-wants-to-be-a-family","anisearch_id":20074,"livechart_id":13022,"mal_id":60781}
 ,
@@ -3550,6 +3655,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2001-SPRING] SPECIAL: Alps Monogatari: Watashi no Annette Specials
 {"anidb_id":7146,"animeplanet_id":"sekai-meisaku-gekijou-kanketsu-ban-alps-monogatari-watashi-no-annette","anisearch_id":6131,"mal_id":24647}
+,
+// [1977-SPRING] SPECIAL: Alps no Ongaku Shoujo Netty no Fushigi na Monogatari: Tyrol no Ongaku Ikka Angel Family
+{"mal_id":64320}
 ,
 // [2024-FALL] ONA: Alps no Roujin Heidi no Ojii-san
 {"anilist_id":185539,"animeplanet_id":"alps-no-roujin-heidi-no-ojii-san","anisearch_id":19965,"mal_id":61016}
@@ -3686,6 +3794,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2013-FALL] OVA: Amanee!: Tomodachinchi de Konna Koto ni Naru Nante!
 {"anisearch_id":9239,"mal_id":21069}
 ,
+// [undefined-UNDEFINED] OVA: Amano Iwato
+{"mal_id":64188}
+,
 // [2011-SUMMER] ONA: Amanogawa Meteor Shower
 {"anisearch_id":13830}
 ,
@@ -3721,6 +3832,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2018-SUMMER] TV: Amber wa Hamkkehaneun Saenghwalanjeon Iyagi
 {"mal_id":56366}
+,
+// [2018-SUMMER] TV: Amberwa Hamkkehaneun Saenghwaranjeon Iyagi
+{"anisearch_id":21518}
 ,
 // [2019-SPRING] SPECIAL: Ame Furi
 {"anisearch_id":18407}
@@ -3905,6 +4019,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2017-SPRING] TV: An Ling Yu Shi Di Qi
 {"anilist_id":108746,"animeplanet_id":"stitch-and-ai","anisearch_id":18228,"livechart_id":8045,"mal_id":36666}
 ,
+// [2018-SUMMER] ONA: An Tu! An Tu!
+{"anidb_id":14778,"anilist_id":105899,"animeplanet_id":"and2-girls","anisearch_id":14337,"mal_id":38346}
+,
 // [2018-UNDEFINED] TV: An Xiaodou Yu Fu Xiao Le
 {"animeplanet_id":"an-xiaodou-yu-fu-xiao-le","mal_id":47754}
 ,
@@ -3915,7 +4032,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anisearch_id":9920,"mal_id":27881}
 ,
 // [2026-WINTER] OVA: Anal Mania Otaku to Ananii Daisuki na Ojou-sama
-{"anisearch_id":21132,"mal_id":63159}
+{"mal_id":63159}
+,
+// [2026-WINTER] OVA: Anal Mania Otaku to Ananii Daisuki na Ojou-sama
+{"anisearch_id":21132}
 ,
 // [2021-FALL] SPECIAL: Anaphylaxis
 {"anilist_id":148150,"mal_id":55425}
@@ -3986,9 +4106,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2021-FALL] SPECIAL: Anata Yuzuri
 {"animeplanet_id":"penthouse-anata-yuzuri","mal_id":53207}
 ,
-// [2025-WINTER] SPECIAL: Anchi Yuu
-{"mal_id":61065}
-,
 // [2017-WINTER] ONA: Ancien to Mahou no Tablet: Mou Hitotsu no Hirune Hime
 {"anidb_id":12807,"anilist_id":98451,"animeplanet_id":"ancien-to-mahou-no-tablet-mou-hitotsu-no-hirune-hime","anisearch_id":12215,"livechart_id":2543,"mal_id":34893}
 ,
@@ -4003,9 +4120,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2017-UNDEFINED] SPECIAL: And2 Girls: Prelude to Phoenix
 {"animeplanet_id":"and2-girls-prelude-to-phoenix"}
-,
-// [2018-SUMMER] ONA: And2! And2!
-{"anidb_id":14778,"anilist_id":105899,"animeplanet_id":"and2-girls","anisearch_id":14337,"mal_id":38346}
 ,
 // [2023-UNDEFINED] MOVIE: Andal Chronicles
 {"animeplanet_id":"andal-chronicles"}
@@ -4037,7 +4151,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2026-WINTER] TV: Android wa Keiken Ninzuu ni Hairimasu ka??
 {"animeplanet_id":"does-it-count-if-you-lose-your-virginity-to-an-android","anisearch_id":20493,"livechart_id":13168,"mal_id":61694}
 ,
-// [2026-WINTER] SPECIAL: Android wa Keiken Ninzuu ni Hairimasu ka?? Special
+// [2026-SPRING] SPECIAL: Android wa Keiken Ninzuu ni Hairimasu ka?? Special
 {"anisearch_id":21306,"mal_id":63330}
 ,
 // [1982-SUMMER] SPECIAL: Andromeda Stories
@@ -4209,7 +4323,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":169491,"mal_id":56683}
 ,
 // [2023-SUMMER] ONA: Anhe Zhuan
-{"anidb_id":18383,"anilist_id":133772,"animeplanet_id":"tales-of-dark-river","mal_id":51727}
+{"anidb_id":18383,"anilist_id":133772,"animeplanet_id":"tales-of-dark-river","anisearch_id":21703,"mal_id":51727}
 ,
 // [2024-SPRING] ONA: Anhe Zhuan Part 2
 {"anidb_id":18763,"anilist_id":175786,"animeplanet_id":"tales-of-dark-river-part-ii","mal_id":58681}
@@ -4277,8 +4391,17 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1988-WINTER] MOVIE: Animated Self Portraits: A Portrait of Kawamoto
 {"anidb_id":7045,"anilist_id":8647,"animeplanet_id":"self-portrait-kihachiro-kawamoto","anisearch_id":8771,"mal_id":8647}
 ,
+// [1988-UNDEFINED] MOVIE: Animated Self Portraits: Renzo Kinoshita
+{"anilist_id":168563,"mal_id":61225}
+,
+// [2026-SUMMER] TV: Animatica "Hokuto no Ken: Kenougun Zako-tachi no Banka" 2nd Cour
+{"livechart_id":13663}
+,
 // [2017-SUMMER] ONA: Animation de Tsutaeru: Hibakusha kara no Tegami
 {"animeplanet_id":"letters-from-hibakusha","anisearch_id":13053,"livechart_id":10438,"mal_id":36127}
+,
+// [2025-WINTER] TV: Animation Documentary: Iwata Kunchi no Obaa-chan
+{"anisearch_id":21369}
 ,
 // [1979-SPRING] TV: Animation Kikou: Marco Polo no Bouken
 {"anidb_id":3090,"anilist_id":5935,"animeplanet_id":"animation-kikou-marco-polo-no-bouken","anisearch_id":2127,"livechart_id":6948,"mal_id":5935}
@@ -4358,6 +4481,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1981-FALL] TV: Anime Oyako Gekijou
 {"anidb_id":3081,"anilist_id":2882,"animeplanet_id":"superbook","anisearch_id":335,"livechart_id":12153,"mal_id":2882}
 ,
+// [2020-SPRING] ONA: Anime Puso Ni Comi Okawari
+{"anidb_id":15635}
+,
 // [1992-SUMMER] OVA: Anime Rakugo Kan
 {"anidb_id":5136,"anilist_id":8723,"animeplanet_id":"anime-rakugo-kan","anisearch_id":4245,"mal_id":8723}
 ,
@@ -4416,7 +4542,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":209962,"mal_id":63859}
 ,
 // [2025-WINTER] SPECIAL: AnimeCanvas Concept Movie
-{"anilist_id":187596,"mal_id":63858}
+{"anilist_id":187596,"anisearch_id":21718,"mal_id":63858}
 ,
 // [2015-SPRING] MOVIE: Animegatari
 {"anidb_id":11195,"anilist_id":105973,"animeplanet_id":"anime-gatari","anisearch_id":10395,"livechart_id":1379,"mal_id":30617}
@@ -4433,7 +4559,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2017-FALL] ONA: Animegataris: Yuku Toshi, Kuru Toshi
 {"anilist_id":123056,"animeplanet_id":"anime-gataris-yuku-toshi-kuru-toshi","mal_id":37037}
 ,
-// [2026-WINTER] ONA: AnimeJapan Awards 2026
+// [2026-WINTER] MOVIE: AnimeJapan Awards 2026
 {"livechart_id":13584,"mal_id":63827}
 ,
 // [2012-SUMMER] OVA: Animeka
@@ -4682,6 +4808,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2012-WINTER] TV: Another
 {"anidb_id":8556,"anilist_id":11111,"animeplanet_id":"another","anisearch_id":7231,"livechart_id":1395,"mal_id":11111}
 ,
+// [2025-FALL] ONA: Another Day with Gardevoir
+{}
+,
 // [2004-SPRING] SPECIAL: Another Day, Another Place
 {"animeplanet_id":"mellowhead-another-day-another-place","mal_id":55687}
 ,
@@ -4795,9 +4924,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2011-SUMMER] SPECIAL: Antinotice
 {"anidb_id":11407,"anilist_id":15423,"animeplanet_id":"wowaka-antinotice","anisearch_id":9087,"mal_id":15423}
-,
-// [1988-SPRING] OVA: Antique Heart
-{"anidb_id":2648,"anilist_id":5926,"animeplanet_id":"antique-heart","anisearch_id":1838,"livechart_id":7731,"mal_id":5926}
 ,
 // [2011-WINTER] MOVIE: Ants in the sky
 {"anilist_id":103178,"animeplanet_id":"ants-in-the-sky"}
@@ -4937,7 +5063,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [undefined-UNDEFINED] ONA: Aoao Dai Bu
 {"anilist_id":137697,"animeplanet_id":"aoao-dai-bu"}
 ,
-// [2026-UNDEFINED] TV: Aoashi
+// [2026-FALL] TV: Aoashi
 {}
 ,
 // [2023-WINTER] OVA: Aoharu Snatch
@@ -5088,13 +5214,19 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"animeplanet_id":"aotu-shijie-3-tebie-pian","mal_id":56033}
 ,
 // [2022-SPRING] ONA: AOTU Shijie 4
-{"anilist_id":146553,"animeplanet_id":"aotu-shijie-4","anisearch_id":20572,"mal_id":52368}
+{"anidb_id":19860,"anilist_id":146553,"animeplanet_id":"aotu-shijie-4","anisearch_id":20572,"mal_id":52368}
 ,
 // [2021-UNDEFINED] ONA: AOTU Shijie Fan Wai Pian
 {"anilist_id":131675}
 ,
 // [2025-WINTER] ONA: AOTU Shijie Reborn
 {"anilist_id":188036,"animeplanet_id":"aotu-shijie-reborn","mal_id":61214}
+,
+// [2025-WINTER] ONA: AOTU Shijie REBORN
+{"anidb_id":20037}
+,
+// [2025-WINTER] ONA: AOTU World Reborn
+{}
 ,
 // [2019-SUMMER] ONA: AOTU Xueyuan
 {"anilist_id":129547,"animeplanet_id":"aotu-xueyuan","mal_id":53685}
@@ -5162,14 +5294,8 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1996-SPRING] MOVIE: Apo Apo World: Giant Baba 90-pun 1-pon Shoubu
 {"anidb_id":7188,"anilist_id":154976,"animeplanet_id":"apo-apo-world-giant-baba-90-bun-ippon-shoubu","anisearch_id":5908,"mal_id":22851}
 ,
-// [2025-SUMMER] TV: Apocalypse Bringer Mynoghra
-{}
-,
 // [2025-SPRING] TV: Apocalypse Hotel
 {"anidb_id":18838,"anilist_id":180675,"animeplanet_id":"apocalypse-hotel","anisearch_id":19623,"livechart_id":12810,"mal_id":59675}
-,
-// [2026-WINTER] ONA: Apocalypse: I Dominate with My S-Rank Mech
-{}
 ,
 // [2021-UNDEFINED] SPECIAL: APOKI: Coming Back
 {"animeplanet_id":"apoki-coming-back"}
@@ -5179,12 +5305,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2024-FALL] SPECIAL: Aporia
 {"anilist_id":206054,"animeplanet_id":"yorushika-aporia","anisearch_id":20109,"mal_id":60068}
-,
-// [2026-UNDEFINED] ONA: Apotheosis 3
-{"animeplanet_id":"apotheosis-3"}
-,
-// [2025-FALL] ONA: Apotheosis 3
-{}
 ,
 // [2016-WINTER] TV: Appa eolil Jeog-en
 {"animeplanet_id":"appa-eoril-jeogen","mal_id":48276}
@@ -5234,9 +5354,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-SPRING] SPECIAL: April
 {"anisearch_id":19588}
 ,
-// [2025-SUMMER] TV: April Showers Bring May Flowers
-{}
-,
 // [1995-FALL] SPECIAL: Apron Hero
 {"anilist_id":103978,"animeplanet_id":"apron-hero","mal_id":36292}
 ,
@@ -5263,6 +5380,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2007-SUMMER] MOVIE: Aquarion Movie: Ippatsu Gyakuten-hen
 {"anidb_id":5390,"anilist_id":6032,"animeplanet_id":"aquarion-movie","anisearch_id":4421,"livechart_id":5092,"mal_id":6032}
+,
+// [2025-SUMMER] SPECIAL: Aqura Home Akyurin Anime CM
+{"anisearch_id":21523}
 ,
 // [2025-UNDEFINED] ONA: Aqura Home Aqurin Anime CM
 {"anilist_id":207222}
@@ -5299,6 +5419,15 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2017-SPRING] ONA: Arad: Suming Zhi Men
 {"anidb_id":14560,"anilist_id":99884,"animeplanet_id":"the-fate-of-arad","anisearch_id":13005,"livechart_id":8199,"mal_id":38413}
+,
+// [undefined-UNDEFINED] TV: Arafoo Kenja no Isekai Seikatsu Nikki
+{}
+,
+// [undefined-UNDEFINED] TV: Arafoo Kenja no Isekai Seikatsu Nikki
+{"anisearch_id":21488}
+,
+// [2026-WINTER] TV: Arafou Kenja no Isekai Seikatsu Nikki
+{"anilist_id":211258}
 ,
 // [2018-SUMMER] MOVIE: Aragne no Mushikago
 {"anidb_id":12898,"anilist_id":104330,"animeplanet_id":"aragne-sign-of-vermillion","anisearch_id":12373,"livechart_id":2567,"mal_id":34974}
@@ -5384,6 +5513,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2021-FALL] ONA: Arcane
 {}
 ,
+// [2021-FALL] ONA: Arcane
+{"mal_id":64465}
+,
 // [2024-FALL] ONA: Arcane Season 2
 {}
 ,
@@ -5442,7 +5574,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":7633,"animeplanet_id":"ari-no-seikatsu","mal_id":7633}
 ,
 // [1918-SUMMER] MOVIE: Ari to Hato
-{"anidb_id":6928,"animeplanet_id":"ari-to-hato","anisearch_id":8691,"mal_id":21761}
+{"anidb_id":6928,"anilist_id":213712,"animeplanet_id":"ari-to-hato","anisearch_id":8691,"mal_id":21761}
 ,
 // [1953-SUMMER] MOVIE: Ari to Hato (1953)
 {"anidb_id":6872,"animeplanet_id":"ari-to-hato-1953","anisearch_id":9309,"mal_id":21763}
@@ -5526,7 +5658,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"animeplanet_id":"arifureta-from-commonplace-to-worlds-strongest-season-3-picture-drama","mal_id":61029}
 ,
 // [2019-SUMMER] ONA: Arifureta Shokugyou de Sekai Saikyou Picture Drama
-{"animeplanet_id":"arifureta-from-commonplace-to-worlds-strongest-picture-drama","mal_id":49700}
+{"anilist_id":213514,"animeplanet_id":"arifureta-from-commonplace-to-worlds-strongest-picture-drama","mal_id":49700}
 ,
 // [2019-SUMMER] SPECIAL: Arifureta Shokugyou de Sekai Saikyou Recap
 {"animeplanet_id":"arifureta-from-commonplace-to-worlds-strongest-omnibus-the-great-orcus-labyrinth","anisearch_id":14555,"mal_id":40239}
@@ -5629,6 +5761,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2020-UNDEFINED] ONA: Arknights PV
 {"animeplanet_id":"arknights-pv"}
+,
+// [2026-SPRING] SPECIAL: Arknights Special PV - Gyakufuu wo Saku Gin no Mine
+{"mal_id":63965}
 ,
 // [2025-FALL] SPECIAL: Arknights Special PV - Yume kara Samete
 {"mal_id":62778}
@@ -5735,9 +5870,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-SUMMER] TV: Arknights: Rise from Ember
 {"anidb_id":18602,"anilist_id":177175,"animeplanet_id":"arknights-rise-from-ember","anisearch_id":19243,"livechart_id":12644,"mal_id":58749}
 ,
-// [2025-SUMMER] TV: Arknights: RISE FROM EMBER
-{}
-,
 // [2022-UNDEFINED] ONA: Arknights: Stultifera Navis Event PV
 {"animeplanet_id":"arknights-stultifera-navis-event-pv"}
 ,
@@ -5781,7 +5913,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {}
 ,
 // [2006-WINTER] ONA: Armored Core: Fort Tower Song
-{"anidb_id":4690,"anilist_id":3960,"animeplanet_id":"armored-core-fort-tower-song","anisearch_id":3827,"livechart_id":6471,"mal_id":3960}
+{"anidb_id":4690,"anilist_id":3960,"animeplanet_id":"armored-core-fort-tower-song","anisearch_id":3827,"livechart_id":6471}
 ,
 // [2012-SPRING] TV: Arms Micron Gekijou
 {"mal_id":60414}
@@ -5803,6 +5935,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2007-WINTER] MOVIE: Around
 {"anidb_id":11024,"anilist_id":19233,"animeplanet_id":"around","anisearch_id":10133,"mal_id":19233}
+,
+// [undefined-UNDEFINED] TV: Around 40 Kenja no Isekai Seikatsu Nikki
+{"anidb_id":20020,"livechart_id":13609,"mal_id":63998}
 ,
 // [2025-WINTER] TV: Around 40 Otoko no Isekai Tsuuhan
 {"anidb_id":18818,"anilist_id":180292,"animeplanet_id":"the-daily-life-of-a-middle-aged-online-shopper-in-another-world","anisearch_id":19547,"livechart_id":12800,"mal_id":59561}
@@ -5830,6 +5965,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1977-FALL] TV: Arrow Emblem Grand Prix no Taka
 {"anidb_id":1681,"anilist_id":3800,"animeplanet_id":"arrow-emblem-grand-prix-no-taka","anisearch_id":679,"mal_id":3800}
+,
+// [undefined-UNDEFINED] MOVIE: Ars Gratia
+{}
 ,
 // [2023-WINTER] TV: Ars no Kyojuu
 {"anidb_id":17646,"anilist_id":155089,"animeplanet_id":"giant-beasts-of-ars","anisearch_id":17746,"livechart_id":11530,"mal_id":53179}
@@ -5924,6 +6062,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-SUMMER] SPECIAL: Aru Mirai yori Ai wo Komete
 {"mal_id":61945}
 ,
+// [2002-UNDEFINED] OVA: Aru Mori no o Hanashi: Rururu no Rule
+{"anisearch_id":21459}
+,
 // [2010-WINTER] OVA: Aru Mori no wo Hanashi: Rururu no Rule
 {"animeplanet_id":"aru-mori-no-wo-hanashi-rururu-no-rule","mal_id":35278}
 ,
@@ -5972,7 +6113,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2013-WINTER] MOVIE: Arve Rezzle: Kikaijikake no Yousei-tachi
 {"anidb_id":8878,"anilist_id":13863,"animeplanet_id":"arve-rezzle-kikaijikake-no-yousei-tachi","anisearch_id":7501,"livechart_id":899,"mal_id":13863}
 ,
-// [undefined-UNDEFINED] TV: As a Reincarnated Aristocrat, I'll Use My Appraisal Skill
+// [2026-FALL] TV: As a Reincarnated Aristocrat, I'll Use My Appraisal Skill
 {}
 ,
 // [2025-SUMMER] MOVIE: As One
@@ -6056,10 +6197,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2008-WINTER] SPECIAL: Asayake wa Ame no Kizashi
 {"mal_id":61037}
 ,
-// [2026-SPRING] TV: Ascendance of a Bookworm
+// [2020-WINTER] OVA: Ascendance of a Bookworm
 {}
 ,
-// [2020-WINTER] OVA: Ascendance of a Bookworm
+// [2026-SPRING] TV: Ascendance of a Bookworm Part 3: Adopted Daughter of an Archduke
 {}
 ,
 // [2007-SPRING] SPECIAL: Ascension from the Hell
@@ -6115,9 +6256,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2004-WINTER] OVA: Ashita Kirarin
 {"anidb_id":10119,"anilist_id":162693,"animeplanet_id":"ashita-kirarin","anisearch_id":9037,"mal_id":32255}
-,
-// [2025-FALL] ONA: Ashita mo Sirnight to
-{}
 ,
 // [1969-FALL] SPECIAL: Ashita ni Kakeru Kazoeuta
 {"anilist_id":176064,"mal_id":58386}
@@ -6202,9 +6340,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2021-FALL] SPECIAL: Ashura-chan
 {"animeplanet_id":"ado-ashura-chan","mal_id":52989}
-,
-// [2020-SUMMER] ONA: Asi Yu Xiao Liangdang
-{"anilist_id":149074,"animeplanet_id":"asi-yu-xiao-liangdang","mal_id":52610}
 ,
 // [2007-WINTER] OVA: Asience: Kami wa Onna no Inochi
 {}
@@ -6404,7 +6539,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2008-WINTER] SPECIAL: Atarashii Sekai
 {"anidb_id":11417,"anilist_id":6533,"animeplanet_id":"asian-kung-fu-generation-atarashii-sekai","anisearch_id":5488,"mal_id":6533}
 ,
-// [undefined-UNDEFINED] MOVIE: Atarashii wo Uchi ni Chu
+// [2025-FALL] MOVIE: Atarashii wo Uchi ni Chu
 {"animeplanet_id":"atarashii-wo-uchi-ni-chu","mal_id":58217}
 ,
 // [2025-SUMMER] SPECIAL: Atarayo Hanabi
@@ -6448,6 +6583,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2025-FALL] ONA: Atashinchi Next (2025)
 {"anidb_id":19895}
+,
+// [2021-UNDEFINED] MOVIE: Atatakai te
+{"mal_id":64283}
 ,
 // [2023-SUMMER] SPECIAL: Atelier
 {"anilist_id":169519,"animeplanet_id":"flare-shiranui-atelier","mal_id":56720}
@@ -6520,9 +6658,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2023-WINTER] TV: Attack on Titan Final Season THE FINAL CHAPTERS
 {}
-,
-// [2013-FALL] OVA: Attack on Titan OAD
-{"anidb_id":9826}
 ,
 // [2014-FALL] MOVIE: Attack on Titan Part 1 – Guren no Yumiya
 {}
@@ -6677,6 +6812,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-FALL] SPECIAL: Avant
 {"anilist_id":170986,"animeplanet_id":"eve-avant","mal_id":57253}
 ,
+// [2026-FALL] MOVIE: Avatar Aang: The Last Airbender
+{}
+,
 // [2006-FALL] SPECIAL: Avatar Pilot
 {}
 ,
@@ -6701,8 +6839,8 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2014-WINTER] MOVIE: Avengers Confidential: Black Widow to Punisher
 {"anidb_id":10409,"anilist_id":108815,"animeplanet_id":"avengers-confidential-black-widow-and-punisher","anisearch_id":9462,"livechart_id":7275,"mal_id":25457}
 ,
-// [2023-SUMMER] SPECIAL: Aventure❤Holic
-{"mal_id":56124}
+// [2023-SUMMER] SPECIAL: Aventure♡Holic
+{}
 ,
 // [1970-FALL] SPECIAL: Avignon no Hashi de
 {"anidb_id":12588,"anilist_id":8778,"animeplanet_id":"avignon-no-hashi-de","anisearch_id":6295,"mal_id":8778}
@@ -6711,7 +6849,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":115520,"animeplanet_id":"awaiting","mal_id":60536}
 ,
 // [2026-SPRING] TV: Awajima Hyakkei
-{"anidb_id":18618,"anilist_id":177501,"animeplanet_id":"awajima-hyakkei","anisearch_id":19289,"livechart_id":11038,"mal_id":58820}
+{"anidb_id":18618,"anilist_id":177501,"animeplanet_id":"a-hundred-scenes-of-awajima","anisearch_id":19289,"livechart_id":11038,"mal_id":58820}
 ,
 // [2020-FALL] TV: Awajishima no Shichifukujin
 {"anidb_id":15754,"anilist_id":126271,"animeplanet_id":"awajishima-no-shichifukujin","anisearch_id":15607,"livechart_id":10176,"mal_id":42998}
@@ -6746,7 +6884,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2020-UNDEFINED] ONA: Aware! Meisaku-kun - 9-nensei ni Nattara
 {"animeplanet_id":"aware-meisaku-kun-9-nensei-ni-nattara"}
 ,
-// [2026-UNDEFINED] TV: Aware! Meisaku-kun (2026)
+// [2026-SUMMER] TV: Aware! Meisaku-kun (2026)
 {"anilist_id":205116,"mal_id":63219}
 ,
 // [2017-SPRING] TV: Aware! Meisaku-kun 2
@@ -6855,7 +6993,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anisearch_id":10136}
 ,
 // [2025-SUMMER] ONA: Azarashi no Eru Aru
-{"mal_id":61994}
+{"anilist_id":213102,"mal_id":61994}
 ,
 // [2003-WINTER] OVA: Azarashi Tama-chan no Hi no Youjin
 {"animeplanet_id":"azarashi-tama-chan-no-hi-no-youjin","anisearch_id":12560,"mal_id":28567}
@@ -6972,7 +7110,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {}
 ,
 // [2014-WINTER] SPECIAL: Azure Nihon Data Center
-{"animeplanet_id":"azure-nihon-data-center","mal_id":32377}
+{"animeplanet_id":"azure-nihon-data-center","anisearch_id":21687,"mal_id":32377}
 ,
 // [2017-WINTER] ONA: Azure Striker Gunvolt
 {}
@@ -7027,9 +7165,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1994-WINTER] OVA: B.B. Fish
 {"anidb_id":3515,"anilist_id":5904,"animeplanet_id":"b-b-fish","anisearch_id":2563,"mal_id":5904}
-,
-// [2026-WINTER] ONA: B.King
-{}
 ,
 // [2014-SPRING] SPECIAL: B.O.Y.
 {"anilist_id":123996,"animeplanet_id":"koji-nakamura-boy","mal_id":38796}
@@ -7161,7 +7296,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":7082,"anilist_id":8220,"animeplanet_id":"baby-felix","anisearch_id":4907,"mal_id":8220}
 ,
 // [2003-SPRING] OVA: Baby First Class
-{"mal_id":63638}
+{"anilist_id":213430,"mal_id":63638}
 ,
 // [2014-SUMMER] TV: Baby Gamba
 {"anidb_id":11768,"anilist_id":108994,"animeplanet_id":"baby-gamba","anisearch_id":11921,"livechart_id":11367,"mal_id":35710}
@@ -7203,7 +7338,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":2005,"anilist_id":722,"animeplanet_id":"baby-love","anisearch_id":890,"livechart_id":7507,"mal_id":722}
 ,
 // [2006-FALL] OVA: Babychhichi Eigo
-{"mal_id":63636}
+{"anilist_id":213434,"mal_id":63636}
 ,
 // [2019-FALL] TV: Babylon
 {"anidb_id":13948,"anilist_id":101349,"animeplanet_id":"babylon","anisearch_id":13495,"livechart_id":3170,"mal_id":37525}
@@ -7240,6 +7375,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2020-SUMMER] ONA: Back to the Palace
 {"anilist_id":154156}
+,
+// [2025-FALL] SPECIAL: Back To The Stars
+{"mal_id":64370}
 ,
 // [2022-SUMMER] SPECIAL: Back to You
 {"anilist_id":156865,"animeplanet_id":"mason-lieberman-back-to-you","anisearch_id":17649,"mal_id":52928}
@@ -7357,6 +7495,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2023-FALL] SPECIAL: Baggy Jeans (Kim Mincheol & Hayate Remix)
 {"mal_id":61822}
+,
+// [1948-UNDEFINED] MOVIE: Baghdad Hime
+{"mal_id":64175}
 ,
 // [1948-WINTER] MOVIE: Baghdad-hime
 {"anidb_id":6884,"anisearch_id":9635}
@@ -7485,7 +7626,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"mal_id":46463}
 ,
 // [2024-WINTER] ONA: Bai Jia Jue: Jianghu Gui Shi Lu
-{"anidb_id":18524,"anilist_id":166439,"animeplanet_id":"bai-jia-jue-zhi-jianghu-gui-shi-lu","mal_id":58295}
+{"anidb_id":18524,"anilist_id":166439,"animeplanet_id":"bai-jia-jue-zhi-jianghu-gui-shi-lu","anisearch_id":21561,"mal_id":58295}
 ,
 // [2011-UNDEFINED] TV: Bai Li Xiong
 {"mal_id":46449}
@@ -7509,7 +7650,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {}
 ,
 // [2025-FALL] ONA: Bai Lian Cheng Shen 3
-{"anidb_id":19761,"anilist_id":195877,"mal_id":62703}
+{"anidb_id":19761,"anilist_id":195877,"animeplanet_id":"apotheosis-3","mal_id":62703}
 ,
 // [2023-WINTER] ONA: Bai Lian Feisheng Lu
 {"anilist_id":166217,"animeplanet_id":"hundred-refining-soaring-record","anisearch_id":18588,"mal_id":54737}
@@ -7529,11 +7670,11 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [undefined-UNDEFINED] ONA: Bai Ri Cheng Cai
 {"animeplanet_id":"bai-ri-cheng-cai","mal_id":60578}
 ,
-// [2026-UNDEFINED] ONA: Bai Ri Cheng Cai
+// [undefined-UNDEFINED] ONA: Bai Ri Cheng Cai
 {"anilist_id":199431}
 ,
-// [2026-UNDEFINED] ONA: Bai Ri Cheng Wang
-{"mal_id":62957}
+// [2026-SUMMER] ONA: Bai Ri Cheng Wang
+{"anidb_id":20151,"anilist_id":213484,"mal_id":62957}
 ,
 // [2021-SUMMER] MOVIE: Bai She II: Qing She Jie Qi
 {"anidb_id":16646,"anilist_id":130190,"animeplanet_id":"white-snake-ii-green-snake","anisearch_id":16812,"livechart_id":11090,"mal_id":49409}
@@ -7772,13 +7913,13 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2016-FALL] OVA: Baki-Dou
 {}
 ,
-// [2026-WINTER] ONA: Baki-dou Part 2
+// [2026-SPRING] ONA: Baki-dou Part 2
 {"anilist_id":210032,"mal_id":63833}
 ,
-// [undefined-UNDEFINED] ONA: BAKI-DOU: The Invincible Samurai
-{}
+// [2026-SPRING] ONA: Baki-dou: Dai 2 Cour
+{"anisearch_id":21361}
 ,
-// [undefined-UNDEFINED] ONA: BAKI-DOU: The Invincible Samurai - Part II
+// [2026-SPRING] ONA: BAKI-DOU: The Invincible Samurai - Part II
 {"animeplanet_id":"baki-dou-the-invincible-samurai-part-ii"}
 ,
 // [2020-SPRING] ONA: Baki: Dai Raitaisai-hen
@@ -7923,7 +8064,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":102608,"animeplanet_id":"bakuman-3-specials","anisearch_id":9788,"livechart_id":7712,"mal_id":23361}
 ,
 // [2012-SUMMER] SPECIAL: Bakuman. Deraman.
-{"anilist_id":15711,"animeplanet_id":"bakuman-deraman","anisearch_id":8848,"livechart_id":6215,"mal_id":15711}
+{"animeplanet_id":"bakuman-deraman","anisearch_id":8848,"livechart_id":6215,"mal_id":15711}
 ,
 // [2018-FALL] TV: Bakumatsu
 {"anidb_id":13971,"anilist_id":101373,"animeplanet_id":"bakumatsu","anisearch_id":13511,"livechart_id":3184,"mal_id":37584}
@@ -7945,6 +8086,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2014-SUMMER] OVA: Bakumatsu Rock: Mystery! Onsen Kaijiken ze yo!!
 {"anidb_id":10728,"anilist_id":107189,"animeplanet_id":"bakumatsu-rock-mystery-onsen-kaijiken-ze-yo","anisearch_id":9780,"livechart_id":673,"mal_id":25077}
+,
+// [2026-SPRING] SPECIAL: Bakumei Diver!!!!
+{"mal_id":64020}
 ,
 // [2009-SPRING] OVA: Bakunyū Maid Kari
 {}
@@ -7990,6 +8134,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2007-WINTER] SPECIAL: Bakuretsu Tenshi: Infinity Special
 {"anilist_id":2212,"animeplanet_id":"burst-angel-infinity-specials","anisearch_id":13301,"livechart_id":8461,"mal_id":2212}
+,
+// [2025-WINTER] SPECIAL: Bakusoku Ronriness
+{"mal_id":64122}
 ,
 // [1989-WINTER] OVA: Bakusou Circuit Roman Twin
 {"anidb_id":9039,"anilist_id":13553,"animeplanet_id":"bakusou-circuit-roman-twin","anisearch_id":1497,"mal_id":13553}
@@ -8100,7 +8247,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":3445,"anilist_id":1682,"animeplanet_id":"baldr-force-exe","anisearch_id":2661,"livechart_id":5140,"mal_id":1682}
 ,
 // [2014-SUMMER] ONA: Balgwanghaneun Hyeondaesa
-{"anidb_id":11185,"anilist_id":103746,"animeplanet_id":"balgwanghaneun-hyeondaesa","anisearch_id":10524,"livechart_id":7092,"mal_id":30249}
+{"anidb_id":11185,"animeplanet_id":"balgwanghaneun-hyeondaesa","anisearch_id":10524,"livechart_id":7092,"mal_id":30249}
 ,
 // [2014-SUMMER] ONA: Ball yo Doko e Yuku
 {"anidb_id":11557,"animeplanet_id":"ball-yo-doko-e-yuku","anisearch_id":10281,"mal_id":30093}
@@ -8219,6 +8366,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-FALL] ONA: Bananya: Around the World
 {"anidb_id":18837,"anilist_id":180599,"animeplanet_id":"bananya-around-the-world","anisearch_id":19602,"livechart_id":12809,"mal_id":59666}
 ,
+// [2026-SUMMER] ONA: Bananya: At-Home Party
+{"anilist_id":213750,"livechart_id":13705,"mal_id":64519}
+,
 // [2019-FALL] TV: Bananya: Fushigi na Nakama-tachi
 {"anidb_id":15036,"anilist_id":110881,"animeplanet_id":"bananya-and-the-curious-bunch","anisearch_id":14610,"livechart_id":9559,"mal_id":40228}
 ,
@@ -8334,7 +8484,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":15517,"anilist_id":117765,"animeplanet_id":"bang-dream-movie-poppin-dream","anisearch_id":15214,"livechart_id":9897,"mal_id":41782}
 ,
 // [2026-SUMMER] TV: BanG Dream! Yume∞Mita
-{"anidb_id":19566,"anilist_id":198376,"animeplanet_id":"bang-dream-yumemita","anisearch_id":20880,"livechart_id":13311,"mal_id":62430}
+{"anidb_id":19566,"anilist_id":198376,"animeplanet_id":"bang-dream-yume-mita","anisearch_id":20880,"livechart_id":13311,"mal_id":62430}
 ,
 // [2017-FALL] OVA: BanG Dream!: Asonjatta!
 {}
@@ -8364,10 +8514,19 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"mal_id":48211}
 ,
 // [2021-FALL] TV: Banjjagbanjjag Catch! Tiniping
-{"anilist_id":157304,"animeplanet_id":"twinkle-catch-teenieping","mal_id":55659}
+{"anidb_id":20129,"anilist_id":157304,"animeplanet_id":"twinkle-catch-teenieping","mal_id":55659}
 ,
 // [2021-SUMMER] TV: Banjjakbanjjak Catch! Teenieping
 {"anisearch_id":16904}
+,
+// [2021-SPRING] TV: Banjjakbanjjak Dallimi
+{"anisearch_id":21499}
+,
+// [2025-FALL] MOVIE: Banjjakbanjjak Dallimi (2025)
+{"anisearch_id":21511}
+,
+// [2022-FALL] TV: Banjjakbanjjak Dallimi: Season 2
+{"anisearch_id":21512}
 ,
 // [2025-UNDEFINED] SPECIAL: Banjjakineun Ujeong Racing: Racer Hachuupinggwa Kkangchongpingui Tansaeng
 {"anilist_id":206038}
@@ -8463,10 +8622,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"mal_id":44699}
 ,
 // [2017-WINTER] TV: Bao Shou Lieren
-{"animeplanet_id":"bao-shou-lieren","mal_id":47448}
+{"anidb_id":17103,"animeplanet_id":"bao-shou-lieren","mal_id":47448}
 ,
 // [2025-SPRING] ONA: Bao Ya de Kuaile Shenghuo
-{"animeplanet_id":"bao-ya-de-kuaile-shenghuo","mal_id":61956}
+{"animeplanet_id":"bao-ya-de-kuaile-shenghuo","anisearch_id":21620,"mal_id":61956}
 ,
 // [2016-UNDEFINED] ONA: Baobao Bashi: Qimiao de Jieri
 {"mal_id":45500}
@@ -8543,8 +8702,11 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-SPRING] ONA: Baokemeng Qiyu Shatanjie
 {"anisearch_id":21230,"mal_id":62004}
 ,
+// [2017-SPRING] ONA: Baolie Feiche 2: Xing Neng Juexing
+{"anidb_id":16522}
+,
 // [2018-WINTER] ONA: Baolie Feiche 3: Shou Shen Heti
-{"anilist_id":129178,"animeplanet_id":"baolie-feiche-3-shou-shen-heti","mal_id":42761}
+{"anidb_id":16523,"anilist_id":129178,"animeplanet_id":"baolie-feiche-3-shou-shen-heti","mal_id":42761}
 ,
 // [2021-SUMMER] ONA: Baolie Feiche 4: Shou Shen Chuji
 {"animeplanet_id":"baolie-feiche-4-shou-shen-chuji","mal_id":59824}
@@ -8918,6 +9080,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1988-WINTER] MOVIE: Baxian Yu Tiaozao
 {"anidb_id":15213,"anilist_id":140278,"animeplanet_id":"baxian-yu-tiaozao","mal_id":43652}
 ,
+// [2026-SUMMER] MOVIE: Baxian!
+{"mal_id":64382}
+,
 // [2014-FALL] SPECIAL: Baymax
 {"anidb_id":11421,"anilist_id":125034,"animeplanet_id":"baymax","anisearch_id":9974,"mal_id":28433}
 ,
@@ -8980,6 +9145,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2012-SUMMER] SPECIAL: Be My Bride
 {"mal_id":57250}
+,
+// [2026-SPRING] SPECIAL: Be My Star
+{"mal_id":64001}
 ,
 // [2006-SPRING] ONA: Be Rockin'
 {"anidb_id":5129,"animeplanet_id":"be-rockin","anisearch_id":4224,"mal_id":39037}
@@ -9065,9 +9233,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2019-FALL] TV: Beastars
 {"anidb_id":14659,"anilist_id":107660,"animeplanet_id":"beastars","anisearch_id":14153,"livechart_id":9214,"mal_id":39195}
 ,
-// [2026-WINTER] TV: BEASTARS
-{}
-,
 // [2024-FALL] TV: BEASTARS
 {}
 ,
@@ -9086,7 +9251,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2020-SUMMER] ONA: Beasty
 {"anidb_id":16858,"anisearch_id":16966}
 ,
-// [undefined-UNDEFINED] ONA: Beat & Motion
+// [2027-UNDEFINED] ONA: Beat & Motion
+{"mal_id":64427}
+,
+// [2027-WINTER] ONA: Beat & Motion
 {"anidb_id":16544,"anilist_id":169102,"animeplanet_id":"beat-and-motion","anisearch_id":16589,"livechart_id":10758}
 ,
 // [2008-SUMMER] SPECIAL: Beat in Love
@@ -9173,6 +9341,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2020-FALL] SPECIAL: Beelzebuz
 {"animeplanet_id":"fake-type-beelzebuz","mal_id":49529}
 ,
+// [2026-SPRING] SPECIAL: Beep Beep
+{"mal_id":63972}
+,
 // [1935-SPRING] MOVIE: Beer Banzai
 {"anidb_id":6942,"anisearch_id":11961}
 ,
@@ -9190,9 +9361,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2010-SPRING] SPECIAL: Behind a Smile
 {"anidb_id":13089,"anilist_id":102053,"animeplanet_id":"fact-behind-a-smile","anisearch_id":10540,"mal_id":29291}
-,
-// [2026-SUMMER] TV: Behind the Supermarket, Smoking with You.
-{}
 ,
 // [2019-WINTER] MOVIE: Behind Us
 {"anilist_id":169759,"animeplanet_id":"behind-us"}
@@ -9252,7 +9420,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {}
 ,
 // [1976-WINTER] MOVIE: Belle to Kaijuu Ouji
-{"anidb_id":14265,"anilist_id":117801,"animeplanet_id":"belle-to-kaijuu-ouji","mal_id":34227}
+{"anidb_id":14265,"anilist_id":117801,"animeplanet_id":"belle-to-kaijuu-ouji","anisearch_id":21696,"mal_id":34227}
 ,
 // [2011-WINTER] MOVIE: Beluga
 {"anidb_id":11358,"anilist_id":101430,"animeplanet_id":"beluga","anisearch_id":10153,"mal_id":28951}
@@ -9356,8 +9524,14 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2019-SPRING] ONA: Benghuai Xinghe
 {"anidb_id":15218,"anilist_id":109483,"animeplanet_id":"beng-huai-xing-he","anisearch_id":15071,"mal_id":42132}
 ,
+// [2024-WINTER] ONA: Benghuai: Taiping Lin Xin Sui
+{"anisearch_id":21476}
+,
 // [2025-SUMMER] ONA: Benghuai: Xing Qiong Tiedao - Bashe
 {"mal_id":63666}
+,
+// [2025-SPRING] SPECIAL: Benghuai: Xing Qiong Tiedao - Er Zhounian Tebie Donghua: Bu Xu Cixing
+{"mal_id":61575}
 ,
 // [2023-SPRING] ONA: Benghuai: Xing Qiong Tiedao - Fei Guang
 {"anilist_id":169370,"animeplanet_id":"honkai-star-rail-a-flash","anisearch_id":18413,"livechart_id":12020,"mal_id":55303}
@@ -9386,9 +9560,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-SUMMER] ONA: Benghuai: Xing Qiong Tiedao - Qingxian Zizai Shen
 {"anilist_id":187087,"mal_id":59761}
 ,
-// [2025-SPRING] SPECIAL: Benghuai: Xing Qiong Tiedao - Second Anniversary Special Animation ''On the Journey''
-{"mal_id":61575}
-,
 // [2024-WINTER] ONA: Benghuai: Xing Qiong Tiedao - Taiping Lin Xin Sui
 {"anilist_id":184751,"mal_id":58062}
 ,
@@ -9413,6 +9584,15 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-WINTER] ONA: Benghuai: Xing Qiong Tiedao - Yongjie Lun Wu
 {"anilist_id":177514,"animeplanet_id":"honkai-star-rail-rondo-across-countless-kalpas","mal_id":58477}
 ,
+// [2026-SPRING] ONA: Benghuai: Xing Qiong Tiedao - Zhe Youxi Hai Neng Buneng Wanle?
+{"mal_id":63991}
+,
+// [2026-SPRING] ONA: Benghuai: Xing Qiong Tiedao San Zhounian Zhuti Qu: Tiansheng Guicai
+{"mal_id":63936}
+,
+// [2026-SPRING] SPECIAL: Benghuai: Xing Qiong Tiedao x MAPPA Yuanchuang Donghua Gainian PV - Si Yu Wuhou
+{"mal_id":63935}
+,
 // [2025-UNDEFINED] SPECIAL: Benghuai: Xingqiong Tiedao - Bu Xu Ci Xing
 {"anilist_id":204551}
 ,
@@ -9431,8 +9611,11 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-UNDEFINED] ONA: Benghuai: Xingqiong Tiedao - Yilun Zhaoyang de Mingyun
 {"anilist_id":206290}
 ,
-// [1976-UNDEFINED] MOVIE: Benibara Shirobara
-{"anilist_id":182554}
+// [undefined-UNDEFINED] OVA: Beni Bara Shiro Bara
+{"anisearch_id":21480}
+,
+// [1974-UNDEFINED] MOVIE: Beni Bara, Shiro Bara
+{"anilist_id":182554,"mal_id":64065}
 ,
 // [2005-SPRING] SPECIAL: Beniimo Musume
 {"anilist_id":178524,"animeplanet_id":"beniimo-musume","mal_id":42682}
@@ -9494,6 +9677,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-FALL] TV: Berserk of Gluttony
 {}
 ,
+// [undefined-UNDEFINED] TV: Berserk of Gluttony Season 2
+{}
+,
 // [2017-WINTER] SPECIAL: Berserk Recap
 {"animeplanet_id":"berserk-2016-recap","anisearch_id":12249,"mal_id":35009}
 ,
@@ -9533,11 +9719,11 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2018-FALL] ONA: Best Partner Ever
 {}
 ,
+// [1992-UNDEFINED] MOVIE: BEST WISHES
+{"mal_id":64242}
+,
 // [2022-FALL] SPECIAL: Betelgeuse no Yoru ni
 {"mal_id":54334}
-,
-// [2025-SUMMER] TV: Betrothed to My Sister's Ex
-{}
 ,
 // [2011-SPRING] OVA: Betsu ni Anta no Tame ni Ookiku Natta n ja Nai n Dakara ne!!
 {"anisearch_id":6979,"mal_id":10553}
@@ -9581,6 +9767,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [undefined-UNDEFINED] ONA: Beva Qimeng Yingwen Yanse
 {"mal_id":46719}
 ,
+// [2026-FALL] SPECIAL: Bewitched - 'The Witch of Yerasah' Animated Film
+{"mal_id":64190}
+,
 // [2001-WINTER] TV: Beyblade
 {}
 ,
@@ -9620,6 +9809,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-FALL] TV: Beyblade X
 {"anidb_id":18181,"anilist_id":165159,"animeplanet_id":"beyblade-x","anisearch_id":18438,"livechart_id":12038,"mal_id":56566}
 ,
+// [2026-SPRING] ONA: Beyblade X Shin Mirai Hen
+{}
+,
 // [2011-SPRING] TV: Beyblade: Metal Fury
 {}
 ,
@@ -9650,6 +9842,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-WINTER] SPECIAL: Beyond the Way
 {"mal_id":58049}
 ,
+// [2026-SPRING] ONA: Beyond Time's Gaze 2
+{}
+,
+// [2026-SPRING] ONA: Beyond Twilight
+{}
+,
 // [2014-WINTER] TV: BeyWarriors: BeyRaiderz
 {"anilist_id":138985}
 ,
@@ -9663,7 +9861,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"mal_id":62552}
 ,
 // [2012-SUMMER] TV: Beywheelz
-{"anilist_id":136668,"anisearch_id":14517}
+{"anidb_id":14915,"anilist_id":136668,"anisearch_id":14517}
 ,
 // [2003-FALL] SPECIAL: BGM
 {"mal_id":55606}
@@ -9704,14 +9902,17 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-SPRING] ONA: Biao Ren
 {"anidb_id":16355,"anilist_id":122508,"animeplanet_id":"blades-of-the-guardians","anisearch_id":16697,"livechart_id":11200,"mal_id":44388}
 ,
-// [2026-UNDEFINED] ONA: Biao Ren Er
-{"animeplanet_id":"blades-of-the-guardians-2nd-season","mal_id":62241}
+// [2026-SPRING] ONA: Biao Ren Er
+{"anidb_id":20099,"anisearch_id":21590,"livechart_id":13694,"mal_id":62241}
 ,
-// [undefined-UNDEFINED] ONA: Biaoren 2
+// [2026-UNDEFINED] ONA: Biaoren 2
 {"anilist_id":168179}
 ,
 // [2024-FALL] ONA: Biaozhun Guige Zhanshi
 {"anilist_id":137699,"animeplanet_id":"biaozhun-guige-zhanshi","mal_id":60257}
+,
+// [2024-FALL] ONA: Biaozhunguige Zhanshi
+{"anisearch_id":21659}
 ,
 // [1961-FALL] SPECIAL: Bibbidi-Bobbidi-Boo
 {"anilist_id":179260,"mal_id":56608}
@@ -9740,7 +9941,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2008-SPRING] OVA: Bible Black: New Testament Recap
 {"anisearch_id":16214,"mal_id":13223}
 ,
-// [undefined-UNDEFINED] MOVIE: Biblia Koshodou no Jiken Techou
+// [2027-UNDEFINED] TV: Biblia Koshodou no Jiken Techou
+{"mal_id":63997}
+,
+// [2027-WINTER] TV: Biblia Koshodou no Jiken Techou
 {"anidb_id":12808,"anilist_id":98476,"anisearch_id":12224,"livechart_id":2544}
 ,
 // [2013-SPRING] MOVIE: Bibliomania
@@ -9759,7 +9963,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"animeplanet_id":"bidoofs-big-stand"}
 ,
 // [1988-WINTER] SPECIAL: Bidulgi Habchang
-{"mal_id":48164}
+{"anisearch_id":21715,"mal_id":48164}
+,
+// [2027-UNDEFINED] ONA: Bie Jiao Wo Emo
+{"mal_id":63993}
 ,
 // [2018-WINTER] ONA: Bie Re Liumang Tu Ma Xiu
 {"animeplanet_id":"bie-re-liumang-tu-ma-xiu","mal_id":47714}
@@ -9878,6 +10085,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1988-UNDEFINED] OVA: Bikkuriman: Rococo & Maria Kiseki
 {"animeplanet_id":"bikkuriman-rococo-and-maria-kiseki","mal_id":56763}
 ,
+// [1988-UNDEFINED] OVA: Bikkuriman: Rococo & Maria Miracle
+{"anisearch_id":21430}
+,
 // [1988-WINTER] MOVIE: Bikkuriman: Taiichiji Seima Taisen
 {}
 ,
@@ -9914,8 +10124,14 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-WINTER] SPECIAL: Billimillion
 {"anilist_id":160547,"anisearch_id":18203,"mal_id":54341}
 ,
+// [2026-SPRING] SPECIAL: Billy Mode
+{"mal_id":64286}
+,
 // [2021-SUMMER] SPECIAL: Bilny: Ouchi o Tabi Suru Chiisana Kobito
 {"anisearch_id":16587}
+,
+// [2016-UNDEFINED] ONA: Bimo Xinglu
+{"mal_id":64549}
 ,
 // [2020-SUMMER] SPECIAL: Bin to Sukouru
 {"anisearch_id":17832}
@@ -9927,7 +10143,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":18776,"anilist_id":179838,"animeplanet_id":"cute-high-earth-defense-club-movie-eternal-love","anisearch_id":19503,"livechart_id":12767,"mal_id":59406}
 ,
 // [2025-SUMMER] TV: Binan Koukou Chikyuu Bouei-bu Haikara!
-{"anidb_id":19227,"anilist_id":188138,"animeplanet_id":"binan-koukou-chikyuu-bouei-bu-haikara","anisearch_id":20611,"livechart_id":13096,"mal_id":61239}
+{"anidb_id":19227,"anilist_id":188138,"animeplanet_id":"cute-high-earth-defense-haikara","anisearch_id":20611,"livechart_id":13096,"mal_id":61239}
 ,
 // [2018-SPRING] TV: Binan Koukou Chikyuu Bouei-bu Happy Kiss!
 {"anidb_id":13706,"anilist_id":101046,"animeplanet_id":"cute-high-earth-defense-club-happy-kiss","anisearch_id":13170,"livechart_id":3037,"mal_id":37036}
@@ -9969,7 +10185,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anisearch_id":1935,"mal_id":4011}
 ,
 // [2025-SPRING] SPECIAL: Binetsuma
-{"anisearch_id":20467,"mal_id":61537}
+{"anilist_id":213512,"anisearch_id":20467,"mal_id":61537}
 ,
 // [2011-WINTER] TV: Binfen Baobao
 {"animeplanet_id":"binfen-baobao","mal_id":45525}
@@ -10244,6 +10460,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2022-SUMMER] SPECIAL: Bite
 {"mal_id":54478}
 ,
+// [2024-WINTER] SPECIAL: Bite (2024)
+{"mal_id":64262}
+,
 // [2022-WINTER] ONA: Bite the Bullet
 {"animeplanet_id":"bite-the-bullet","anisearch_id":17093}
 ,
@@ -10280,9 +10499,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2010-FALL] OVA: Black Butler II
 {}
 ,
-// [2025-SPRING] TV: Black Butler: Emerald Witch Arc
-{}
-,
 // [2009-SUMMER] OVA: Black Butler: His Butler, Performer
 {}
 ,
@@ -10295,13 +10511,22 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2006-SUMMER] SPECIAL: Black Cat: Toozakaru Neko
 {"anilist_id":2589,"animeplanet_id":"black-cat-special","anisearch_id":8361,"livechart_id":4966,"mal_id":2589}
 ,
+// [undefined-UNDEFINED] TV: Black Channel
+{"anilist_id":210918,"livechart_id":13601,"mal_id":63956}
+,
+// [undefined-UNDEFINED] TV: Black Channel
+{"anisearch_id":21487}
+,
 // [2020-SUMMER] ONA: Black Channel
+{}
+,
+// [2020-SUMMER] ONA: Black Channel (ONA)
 {"livechart_id":10134,"mal_id":42812}
 ,
 // [2017-FALL] TV: Black Clover
 {"anidb_id":12665,"anilist_id":97940,"animeplanet_id":"black-clover","anisearch_id":12131,"livechart_id":2478,"mal_id":34572}
 ,
-// [2026-WINTER] TV: Black Clover 2nd Season
+// [2026-FALL] TV: Black Clover 2nd Season
 {"anidb_id":19433,"anilist_id":195604,"animeplanet_id":"black-clover-2nd-season","anisearch_id":20716,"livechart_id":13232,"mal_id":61967}
 ,
 // [2016-FALL] OVA: Black Clover: Jump Festa 2016 Special
@@ -10359,10 +10584,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":686,"anilist_id":1521,"animeplanet_id":"black-jack-the-movie","anisearch_id":1912,"livechart_id":7305,"mal_id":1521}
 ,
 // [2026-WINTER] ONA: Black Jack Yanen
-{"mal_id":63275}
-,
-// [2026-WINTER] ONA: Black Jack Yanen
-{"anilist_id":205676}
+{"anilist_id":205676,"mal_id":63275}
 ,
 // [1996-UNDEFINED] MOVIE: Black Jack: Capital Transfer To Heian
 {}
@@ -10457,7 +10679,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [undefined-UNDEFINED] TV: Blade & Bastard
 {}
 ,
-// [undefined-UNDEFINED] SPECIAL: Blade & Bastard
+// [2027-WINTER] SPECIAL: Blade & Bastard
 {"anidb_id":18937,"anilist_id":183272,"animeplanet_id":"blade-and-bastard","anisearch_id":19714,"livechart_id":12890,"mal_id":60152}
 ,
 // [2014-SPRING] TV: Blade & Soul
@@ -10474,6 +10696,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2017-SUMMER] ONA: Blade Runner: Black Out 2022
 {"anidb_id":13436,"anilist_id":100168,"animeplanet_id":"blade-runner-black-out-2022","anisearch_id":12812,"livechart_id":2870,"mal_id":36308}
+,
+// [2026-SPRING] ONA: Blades of the Guardians 2
+{}
+,
+// [2026-UNDEFINED] ONA: Blades of the Guardians 2nd Season
+{"animeplanet_id":"blades-of-the-guardians-2nd-season"}
 ,
 // [2003-FALL] ONA: Blame!
 {"anidb_id":1050,"anilist_id":1055,"animeplanet_id":"blame","anisearch_id":3253,"livechart_id":4424,"mal_id":1055}
@@ -10577,7 +10805,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2021-SUMMER] MOVIE: Blink in the Desert
 {"anilist_id":140114,"animeplanet_id":"blink-in-the-desert","mal_id":52230}
 ,
-// [2023-WINTER] ONA: Blockbusters
+// [2023-SPRING] ONA: Blockbusters
 {"anidb_id":17960}
 ,
 // [1976-SPRING] TV: Blocker Corps
@@ -10645,6 +10873,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2024-WINTER] MOVIE: Bloody Escape: Jigoku no Tousou Geki
 {"anidb_id":17144,"anilist_id":144770,"animeplanet_id":"bloody-escape-bats-out-of-hell","anisearch_id":17060,"livechart_id":11892,"mal_id":54793}
+,
+// [2026-SPRING] ONA: Bloody Mary
+{"anisearch_id":21482}
 ,
 // [2021-WINTER] SPECIAL: Bloody Mary
 {"anilist_id":148289,"animeplanet_id":"kankan-bloody-mary","mal_id":55673}
@@ -10736,7 +10967,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-FALL] ONA: Blue Eye Samurai
 {}
 ,
-// [undefined-UNDEFINED] ONA: Blue Eye Samurai Season 2
+// [2027-WINTER] ONA: Blue Eye Samurai Season 2
 {}
 ,
 // [2014-WINTER] MOVIE: Blue Eyes: In Harbor Tale
@@ -10772,23 +11003,8 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2022-FALL] TV: Blue Lock
 {"anidb_id":16519,"anilist_id":137822,"animeplanet_id":"blue-lock","anisearch_id":16520,"livechart_id":10687,"mal_id":49596}
 ,
-// [undefined-UNDEFINED] TV: BLUE LOCK
-{}
-,
-// [undefined-UNDEFINED] TV: Blue Lock (New)
-{"animeplanet_id":"blue-lock-new"}
-,
-// [undefined-UNDEFINED] TV: Blue Lock (Shin Series)
-{"anidb_id":19620,"mal_id":62589}
-,
-// [undefined-UNDEFINED] TV: Blue Lock (Shin Series)
-{}
-,
-// [undefined-UNDEFINED] TV: Blue Lock (Shin Series)
-{"anisearch_id":20930}
-,
 // [undefined-UNDEFINED] TV: Blue Lock (Zoku-hen)
-{"anilist_id":199404,"livechart_id":13343}
+{}
 ,
 // [2024-FALL] ONA: Blue Lock Additional Time
 {"mal_id":60775}
@@ -10808,6 +11024,15 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-SPRING] MOVIE: Blue Lock: Episode Nagi - Additional Time!
 {"anilist_id":176317,"animeplanet_id":"blue-lock-movie-episode-nagi-additional-time","anisearch_id":19727,"livechart_id":12610,"mal_id":60076}
 ,
+// [undefined-UNDEFINED] TV: Blue Lock: Neo Egoist League
+{"anidb_id":19620,"anilist_id":199404,"animeplanet_id":"blue-lock-neo-egoist-league","livechart_id":13343,"mal_id":62589}
+,
+// [undefined-UNDEFINED] TV: Blue Lock: Neo Egoist League
+{}
+,
+// [undefined-UNDEFINED] TV: Blue Lock: Neo Egoist League
+{"anisearch_id":20930}
+,
 // [2025-FALL] TV: Blue Miburo
 {}
 ,
@@ -10819,6 +11044,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2021-FALL] TV: Blue Period
 {"anidb_id":15993,"anilist_id":128705,"animeplanet_id":"blue-period","anisearch_id":15904,"livechart_id":10353,"mal_id":46352}
+,
+// [1989-UNDEFINED] MOVIE: Blue Pigeon
+{"mal_id":64241}
 ,
 // [2023-SUMMER] SPECIAL: Blue Planet
 {"anilist_id":169448,"animeplanet_id":"deco-27-blue-planet","anisearch_id":20944,"mal_id":56474}
@@ -10918,6 +11146,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [undefined-UNDEFINED] TV: Bobo Xiongmao Jiji Hu
 {"mal_id":47587}
+,
+// [2002-UNDEFINED] MOVIE: Bobo-kun
+{"anilist_id":211262}
 ,
 // [2003-FALL] TV: Bobobo-bo Bo-bobo
 {"anidb_id":1180,"anilist_id":1050,"animeplanet_id":"bobobo-bo-bo-bobo","anisearch_id":1326,"livechart_id":4514,"mal_id":1050}
@@ -11058,7 +11289,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anisearch_id":17521,"mal_id":52402}
 ,
 // [1997-WINTER] OVA: Boku no Aozora
-{"animeplanet_id":"boku-no-aozora","mal_id":31003}
+{"animeplanet_id":"boku-no-aozora","anisearch_id":21447,"mal_id":31003}
 ,
 // [2005-SUMMER] SPECIAL: Boku no Boukuugou
 {"anidb_id":3567,"anilist_id":20207,"animeplanet_id":"boku-no-boukuugou","anisearch_id":583,"mal_id":20207}
@@ -11081,11 +11312,11 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2016-SPRING] TV: Boku no Hero Academia
 {"anidb_id":11739,"anilist_id":21459,"animeplanet_id":"my-hero-academia","anisearch_id":10978,"livechart_id":1895,"mal_id":31964}
 ,
+// [2016-FALL] OVA: Boku no Hero Academia (2016)
+{"anidb_id":12344,"livechart_id":2292}
+,
 // [2022-SPRING] ONA: Boku no Hero Academia (ONA)
 {"anidb_id":17356,"anilist_id":149073,"animeplanet_id":"my-hero-academia-web","anisearch_id":17447,"livechart_id":11210,"mal_id":51781}
-,
-// [2026-SPRING] SPECIAL: Boku no Hero Academia 170+1 "More"
-{"livechart_id":13435}
 ,
 // [2017-SPRING] TV: Boku no Hero Academia 2nd Season
 {"anidb_id":12233,"anilist_id":21856,"animeplanet_id":"my-hero-academia-2","anisearch_id":11549,"livechart_id":2225,"mal_id":33486}
@@ -11150,17 +11381,17 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2017-WINTER] SPECIAL: Boku no Hero Academia: Hero Note
 {"animeplanet_id":"my-hero-academia-hero-notebook","anisearch_id":12341,"mal_id":35262}
 ,
+// [2026-SUMMER] ONA: Boku no Hero Academia: I Am a Hero Too
+{"anilist_id":211711,"anisearch_id":21544,"livechart_id":13626,"mal_id":64107}
+,
 // [2020-SUMMER] ONA: Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren
 {"anidb_id":15672,"anilist_id":122349,"animeplanet_id":"my-hero-academia-make-it-do-or-die-survival-training","anisearch_id":15480,"livechart_id":10100,"mal_id":42603}
 ,
 // [2024-SPRING] SPECIAL: Boku no Hero Academia: Memories
 {"animeplanet_id":"my-hero-academia-memories","anisearch_id":19221,"mal_id":57519}
 ,
-// [2026-SPRING] TV: Boku no Hero Academia: More
-{"anisearch_id":21118}
-,
 // [2026-SPRING] SPECIAL: Boku no Hero Academia: More
-{"mal_id":63130}
+{"anidb_id":20039,"anisearch_id":21118,"mal_id":63130}
 ,
 // [2017-SPRING] OVA: Boku no Hero Academia: Sukue! Kyuujo Kunren!
 {"anilist_id":87486,"animeplanet_id":"my-hero-academia-jump-festa-2016-special","anisearch_id":11696,"mal_id":33929}
@@ -11340,7 +11571,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anisearch_id":17454,"mal_id":52104}
 ,
 // [2019-WINTER] SPECIAL: Boku wa Hero
-{"anilist_id":178652,"animeplanet_id":"boku-wa-hero","mal_id":53804}
+{"anilist_id":178652,"animeplanet_id":"boku-wa-hero","anisearch_id":21399,"mal_id":53804}
 ,
 // [2005-SPRING] OVA: Boku wa Imōto ni Koi o Suru: Secret Sweethearts - Kono Koi wa Himitsu
 {}
@@ -11492,9 +11723,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2010-SUMMER] SPECIAL: Bokura no Live Kimi to no Life
 {"anidb_id":7956,"anilist_id":9907,"animeplanet_id":"bokura-no-live-kimi-to-no-life","anisearch_id":6518,"mal_id":9907}
 ,
-// [2024-FALL] SPECIAL: Bokura no Motte Iru Mono
-{"animeplanet_id":"bokura-no-motte-iru-mono","anisearch_id":20059,"mal_id":60627}
-,
 // [2019-FALL] MOVIE: Bokura no Nanokakan Sensou
 {"anidb_id":14071,"anilist_id":101610,"animeplanet_id":"seven-days-war","anisearch_id":13614,"livechart_id":3236,"mal_id":37828}
 ,
@@ -11630,8 +11858,11 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2003-SUMMER] SPECIAL: Bondage Game: Shinsou no Reijou-tachi - Shinsou no Dorei-tachi
 {"anisearch_id":17292,"mal_id":6328}
 ,
+// [2025-FALL] ONA: Bonding with Kangaskhan
+{}
+,
 // [2022-SUMMER] ONA: Bongchon Gaksi
-{"mal_id":62425}
+{"anilist_id":212435,"mal_id":62425}
 ,
 // [2014-FALL] TV: BONJOUR Sweet Love Patisserie
 {}
@@ -11677,6 +11908,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2023-WINTER] OVA: Bonyuu-chan wa Dashitai.
 {"anisearch_id":17923,"mal_id":53677}
+,
+// [2029-UNDEFINED] MOVIE: Boo
+{"anisearch_id":21576}
 ,
 // [2033-UNDEFINED] MOVIE: BOO
 {"anilist_id":199375}
@@ -11780,9 +12014,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2021-FALL] ONA: Boss, Let Me Go
 {}
 ,
-// [2026-SPRING] TV: Botan Kamiina Fully Blossoms When Drunk
-{}
-,
 // [2021-UNDEFINED] MOVIE: Botanical garden
 {"animeplanet_id":"botanical-garden"}
 ,
@@ -11845,6 +12076,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2024-SUMMER] TV: Bouken Tairiku Ania Kingdom: Densetsu no Guardian-hen
 {"anilist_id":177160}
+,
+// [2026-SPRING] SPECIAL: Bouken wa Tsuzuite iru. FINAL FANTASY XI 24th Anniversary Movie
+{"anilist_id":212280,"mal_id":64218}
 ,
 // [2003-SPRING] TV: Bouken Yuuki Pluster World
 {"anidb_id":585,"anilist_id":3637,"animeplanet_id":"bouken-yuuki-pluster-world","anisearch_id":1520,"livechart_id":8257,"mal_id":3637}
@@ -11924,6 +12158,15 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-FALL] TV: Boushoku no Berserk
 {"anidb_id":17687,"anilist_id":156039,"animeplanet_id":"berserk-of-gluttony","anisearch_id":17801,"livechart_id":11567,"mal_id":53439}
 ,
+// [undefined-UNDEFINED] TV: Boushoku no Berserk 2
+{"anidb_id":20026}
+,
+// [undefined-UNDEFINED] TV: Boushoku no Berserk 2nd Season
+{"anilist_id":211495,"livechart_id":13616,"mal_id":64059}
+,
+// [undefined-UNDEFINED] TV: Boushoku no Berserk Dai 2 Ki
+{"anisearch_id":21504}
+,
 // [1991-WINTER] OVA: Bousou Sengokushi
 {"anidb_id":7601,"anilist_id":9343,"animeplanet_id":"bousou-sengokushi","anisearch_id":6699,"mal_id":9343}
 ,
@@ -11974,6 +12217,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1998-SPRING] TV: Brain Powerd
 {"anidb_id":372,"anilist_id":1542,"animeplanet_id":"brain-powered","anisearch_id":2216,"livechart_id":6200,"mal_id":1542}
+,
+// [2026-WINTER] SPECIAL: Brain Rot
+{"mal_id":64194}
 ,
 // [2001-WINTER] SPECIAL: Brand New Day
 {"mal_id":53523}
@@ -12031,9 +12277,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2021-FALL] SPECIAL: Braver
 {"anisearch_id":16830}
-,
-// [2024-WINTER] ONA: Bravern Frypan
-{"mal_id":58579}
 ,
 // [2013-SUMMER] ONA: Bravest Warriors Mini-sodes
 {}
@@ -12645,7 +12888,13 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"mal_id":61000}
 ,
 // [1958-WINTER] MOVIE: Bunbuku Chagama (1958)
-{"anidb_id":14338,"anilist_id":114439,"animeplanet_id":"bunbuku-chagama-1958","mal_id":29921}
+{"anidb_id":14338,"anilist_id":114439,"animeplanet_id":"bunbuku-chagama-1958","anisearch_id":21700,"mal_id":29921}
+,
+// [2026-SPRING] ONA: Bunch 25 Shūnen Kinen "Gokushufudō" Special Anime PV
+{}
+,
+// [2026-SPRING] SPECIAL: Bunch 25-shuunen Kinen Special PV: Gokushufudou
+{"mal_id":64376}
 ,
 // [2024-SUMMER] ONA: Bunchou Colors
 {"animeplanet_id":"bunchou-colors","mal_id":59714}
@@ -12683,7 +12932,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2021-WINTER] TV: Bungou Stray Dogs Wan!
 {"anidb_id":15602,"anilist_id":120150,"animeplanet_id":"bungo-stray-dogs-wan","anisearch_id":15337,"livechart_id":10021,"mal_id":42250}
 ,
-// [2026-WINTER] TV: Bungou Stray Dogs Wan! 2
+// [2026-SUMMER] TV: Bungou Stray Dogs Wan! 2
 {"anidb_id":19698,"anilist_id":201667,"animeplanet_id":"bungo-stray-dogs-wan-2","anisearch_id":21002,"livechart_id":13378,"mal_id":62883}
 ,
 // [2018-WINTER] MOVIE: Bungou Stray Dogs: Dead Apple
@@ -12706,6 +12955,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2011-SUMMER] TV: Bunny Drop
 {}
+,
+// [2024-FALL] SPECIAL: Bunny Girl
+{"mal_id":64121}
+,
+// [2022-WINTER] SPECIAL: Bunshin
+{"mal_id":63890}
 ,
 // [1964-SPRING] MOVIE: Bunsue Majge Salja
 {"animeplanet_id":"bunsue-majge-salja","mal_id":57278}
@@ -12949,9 +13204,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2021-FALL] SPECIAL: Bye Bye Rainy
 {"mal_id":50669}
-,
-// [2025-SPRING] TV: Bye Bye, Earth
-{}
 ,
 // [2024-SUMMER] TV: Bye Bye, Earth
 {"anidb_id":17723,"anilist_id":157371,"animeplanet_id":"bye-bye-earth","anisearch_id":17856,"livechart_id":11627,"mal_id":53626}
@@ -13325,8 +13577,8 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2000-FALL] OVA: Campus
 {"anisearch_id":1201,"mal_id":3039}
 ,
-// [2025-SPRING] TV: Can a Boy-Girl Friendship Survive?
-{}
+// [2026-SPRING] SPECIAL: Campus mode!!
+{"anisearch_id":21557,"mal_id":64093}
 ,
 // [undefined-UNDEFINED] TV: Can Bao
 {"mal_id":46636}
@@ -13398,7 +13650,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":2193,"anilist_id":2801,"animeplanet_id":"candy-candy-the-call-of-spring","anisearch_id":2843,"livechart_id":7440,"mal_id":2801}
 ,
 // [2026-SPRING] TV: Candy Caries
-{"anilist_id":205772,"mal_id":63276}
+{"anidb_id":20012,"anilist_id":205772,"mal_id":63276}
 ,
 // [2026-SPRING] TV: Candy Caries (2026)
 {"anisearch_id":21208}
@@ -13428,6 +13680,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":146565,"animeplanet_id":"love-between-fairy-and-devil","mal_id":51280}
 ,
 // [2022-SUMMER] ONA: Cang Lan Jue
+{"anidb_id":17597,"livechart_id":11589}
+,
+// [2022-SUMMER] ONA: Cang Lan Jue
 {"anisearch_id":17542}
 ,
 // [2025-SUMMER] ONA: Cang Lan Jue 2
@@ -13437,7 +13692,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":155221,"animeplanet_id":"love-between-fairy-and-devil-part-ii","mal_id":53905}
 ,
 // [2023-SPRING] ONA: Cang Yuan Tu
-{"anidb_id":18078,"anilist_id":155244,"animeplanet_id":"the-demon-hunter","livechart_id":12274,"mal_id":55655}
+{"anidb_id":18078,"anilist_id":155244,"animeplanet_id":"the-demon-hunter","anisearch_id":21708,"livechart_id":12274,"mal_id":55655}
 ,
 // [2024-FALL] ONA: Cang Yuan Tu 2
 {"anidb_id":19030,"anilist_id":185719,"animeplanet_id":"the-demon-hunter-2","mal_id":60420}
@@ -13446,10 +13701,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":195882}
 ,
 // [2026-SPRING] ONA: Cang Yuan Tu 3
-{"anidb_id":19946,"anilist_id":206270,"animeplanet_id":"the-demon-hunter-3","mal_id":62651}
+{"anidb_id":19946,"anilist_id":206270,"mal_id":62651}
 ,
 // [2026-WINTER] ONA: Cang Yuan Tu Qianzhuan: Dongning Fu de Xiatian
-{"anidb_id":19947,"animeplanet_id":"prelude-of-the-demon-hunter-dongning-prefecture-in-summer","mal_id":63595}
+{"anidb_id":19947,"anilist_id":213663,"animeplanet_id":"prelude-of-the-demon-hunter-dongning-prefecture-in-summer","anisearch_id":21381,"mal_id":63595}
 ,
 // [2024-SUMMER] ONA: Cang Yuan Tu: Dongning Fu Fanwai Pian
 {"anidb_id":18764,"anilist_id":176865,"animeplanet_id":"the-demon-hunter-dongning-mansion-special","anisearch_id":19536,"mal_id":59245}
@@ -13471,6 +13726,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2016-SUMMER] SPECIAL: Cannon Busters
 {"animeplanet_id":"cannon-busters"}
+,
+// [2016-SUMMER] OVA: Cannon Busters - The Animated Pilot
+{"mal_id":64136}
 ,
 // [1995-FALL] MOVIE: Cannon Fodder
 {}
@@ -13649,9 +13907,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2021-SPRING] ONA: Captain Yajima
 {}
 ,
-// [2025-SUMMER] TV: Captivated, by You
-{}
-,
 // [2013-SPRING] ONA: Capybara Clay Anime
 {"mal_id":61542}
 ,
@@ -13700,11 +13955,17 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2000-SUMMER] MOVIE: Cardcaptor Sakura: Kero-chan ni Omakase!
 {"anilist_id":1078,"animeplanet_id":"cardcaptor-sakura-leave-it-to-kero","anisearch_id":8381,"livechart_id":4488,"mal_id":1078}
 ,
+// [undefined-UNDEFINED] TV: Cardfight!! Vanguard
+{}
+,
 // [2011-WINTER] TV: Cardfight!! Vanguard
 {"anidb_id":7989,"anilist_id":9539,"animeplanet_id":"cardfight-vanguard","anisearch_id":6549,"livechart_id":1572,"mal_id":9539}
 ,
 // [2018-SPRING] TV: Cardfight!! Vanguard (2018)
 {"anidb_id":13635,"anilist_id":101594,"animeplanet_id":"cardfight-vanguard-2018","anisearch_id":13499,"livechart_id":3005,"mal_id":37476}
+,
+// [2027-WINTER] TV: Cardfight!! Vanguard (2027)
+{"anidb_id":20003,"livechart_id":13600}
 ,
 // [2026-WINTER] SPECIAL: Cardfight!! Vanguard 15-shuunen Kinen PV
 {"anilist_id":207082,"mal_id":63336}
@@ -13756,6 +14017,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2024-SUMMER] TV: Cardfight!! Vanguard: Divinez Season 2
 {"anidb_id":18591,"anilist_id":165681,"animeplanet_id":"cardfight-vanguard-divinez-season-2","anisearch_id":19247,"livechart_id":11775,"mal_id":54143}
+,
+// [2026-FALL] MOVIE: Cardfight!! Vanguard: Divinez Unmei Seisen Hen
+{"anidb_id":20002,"livechart_id":13599}
+,
+// [2026-FALL] TV: Cardfight!! Vanguard: Divinez Unmei Seisen-hen
+{"mal_id":63938}
 ,
 // [2014-SPRING] TV: Cardfight!! Vanguard: Legion Mate-hen
 {"anidb_id":10483,"anilist_id":20564,"animeplanet_id":"cardfight-vanguard-legion-mate","anisearch_id":9492,"livechart_id":361,"mal_id":21729}
@@ -13868,6 +14135,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2015-FALL] ONA: Cassette Girl
 {"animeplanet_id":"cassette-girl","anisearch_id":10812}
 ,
+// [undefined-UNDEFINED] ONA: Casshan 2045
+{}
+,
 // [2008-FALL] TV: Casshern Sins
 {"anidb_id":6032,"anilist_id":4981,"animeplanet_id":"casshern-sins","anisearch_id":4951,"livechart_id":3777,"mal_id":4981}
 ,
@@ -13876,9 +14146,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2007-UNDEFINED] SPECIAL: Cassis to Arles no Monogatari
 {"mal_id":60776}
-,
-// [2026-WINTER] ONA: Cast Out by My Family, I Awakened 900 Million Stat Points
-{}
 ,
 // [2019-UNDEFINED] MOVIE: Castle
 {"anilist_id":138560,"animeplanet_id":"castle","mal_id":52195}
@@ -13919,6 +14186,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2019-WINTER] SPECIAL: Cat Step
 {"anilist_id":111997,"animeplanet_id":"daisuke-tanabe-cat-step","mal_id":39706}
 ,
+// [2025-FALL] ONA: Cat Tales
+{}
+,
 // [2020-UNDEFINED] SPECIAL: Cat Transform
 {"animeplanet_id":"cat-transform"}
 ,
@@ -13927,6 +14197,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2025-FALL] SPECIAL: Cat's Eye (Music)
 {"animeplanet_id":"ado-cats-eye","mal_id":63246}
+,
+// [2025-FALL] SPECIAL: Cat’s Eye (MV)
+{"anisearch_id":21394}
 ,
 // [1978-WINTER] SPECIAL: Cat's Eye Love
 {"anilist_id":139905,"animeplanet_id":"cats-eye-love","mal_id":36348}
@@ -13949,9 +14222,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2016-SPRING] SPECIAL: Catch
 {"anilist_id":113434,"animeplanet_id":"group-inou-catch","mal_id":53502}
 ,
-// [2025-SPRING] TV: Catch Me at the Ballpark!
-{}
-,
 // [2020-SPRING] ONA: Catch Me If You Can
 {}
 ,
@@ -13962,7 +14232,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":169788,"animeplanet_id":"catch-tsugi-no-natsu-ga-kuru-you-ni","mal_id":35782}
 ,
 // [2020-SPRING] TV: Catch! Tiniping
-{"anilist_id":132034,"animeplanet_id":"catch-teenieping","anisearch_id":15294,"mal_id":48343}
+{"anidb_id":19336,"anilist_id":132034,"animeplanet_id":"catch-teenieping","anisearch_id":15294,"mal_id":48343}
 ,
 // [2017-SUMMER] TV: Catchy-kun no Nice Catch!
 {"anidb_id":13280,"anilist_id":114420,"animeplanet_id":"catchy-kun-no-nice-catch","anisearch_id":12702,"mal_id":35914}
@@ -14003,6 +14273,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1991-WINTER] OVA: CB Chara Go Nagai World
 {"anidb_id":2968,"anilist_id":2692,"animeplanet_id":"cb-chara-go-nagai-world","anisearch_id":2613,"livechart_id":6838,"mal_id":2692}
 ,
+// [2026-SPRING] SPECIAL: CCGG MADNESS
+{}
+,
 // [2020-SPRING] ONA: Cchim Sang
 {"anisearch_id":15849}
 ,
@@ -14028,7 +14301,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":136946,"animeplanet_id":"celia-sensei-no-wakuwaku-magical-kyoushitsu","anisearch_id":16657,"livechart_id":10606,"mal_id":49215}
 ,
 // [2023-SUMMER] ONA: Celia-sensei no Wakuwaku Magical Kyoushitsu Season 2
-{"anilist_id":167990,"animeplanet_id":"celia-sensei-no-wakuwaku-magical-kyoushitsu-season-2","livechart_id":12287,"mal_id":56178}
+{"anilist_id":167990,"animeplanet_id":"celia-sensei-no-wakuwaku-magical-kyoushitsu-season-2","anisearch_id":21681,"livechart_id":12287,"mal_id":56178}
 ,
 // [2005-SUMMER] SPECIAL: Cell no Koi
 {"anilist_id":103790,"animeplanet_id":"cell-no-koi","anisearch_id":6758,"mal_id":35785}
@@ -14096,6 +14369,15 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-SUMMER] ONA: Cha A Er Zhong 5th Season
 {"animeplanet_id":"cha-a-er-zhong-5th-season","mal_id":59381}
 ,
+// [2016-SUMMER] ONA: Cha A Er Zhong Di 3 jI
+{"anisearch_id":21640}
+,
+// [2024-SUMMER] ONA: Cha A Er Zhong Di-si Ji
+{"anisearch_id":21639}
+,
+// [2024-SUMMER] ONA: Cha A Er Zhong Di-wu Ji
+{"anisearch_id":21638}
+,
 // [2023-SUMMER] MOVIE: Cha A Er Zhong Movie
 {"animeplanet_id":"cha-a-er-zhong-movie","mal_id":56334}
 ,
@@ -14122,6 +14404,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1964-UNDEFINED] MOVIE: Cha Bu Duo
 {"anilist_id":145547,"animeplanet_id":"cha-bu-duo","mal_id":43361}
+,
+// [2025-SUMMER] SPECIAL: Cha Cha Cha feat. G-Dragon
+{"mal_id":64014}
 ,
 // [undefined-UNDEFINED] TV: Cha Gan Hu Xiao Jingling
 {"mal_id":47015}
@@ -14336,6 +14621,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2015-UNDEFINED] TV: Changjiang 7 Hao: Qi Zi Ai Diqiu
 {"mal_id":44924}
 ,
+// [2024-FALL] ONA: Changsheng Jie
+{"anisearch_id":21654}
+,
+// [2027-UNDEFINED] ONA: Changsheng Xianyou
+{"mal_id":63996}
+,
 // [2022-FALL] ONA: Changye Kaita Zhe
 {"anidb_id":18415,"anilist_id":141861,"animeplanet_id":"changye-kaita-zhe","anisearch_id":17697,"mal_id":50446}
 ,
@@ -14453,6 +14744,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2014-SUMMER] ONA: Chao Shen Xueyuan 2nd Season
 {"anilist_id":130759,"animeplanet_id":"chao-shen-xueyuan-2nd-season"}
 ,
+// [2014-SPRING] ONA: Chao Shen Xueyuan 2nd Season: Ju Xia Hao
+{"mal_id":64229}
+,
 // [2015-WINTER] ONA: Chao Shen Xueyuan 3rd Season: Shen yu Shen
 {"anilist_id":130761,"animeplanet_id":"chao-shen-xueyuan-shen-yu-shen","mal_id":48749}
 ,
@@ -14511,7 +14805,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"animeplanet_id":"chaofan-chong-chong-dui","mal_id":48102}
 ,
 // [2025-FALL] ONA: Chaofan Jinhua
-{"anidb_id":19784,"anilist_id":168252,"animeplanet_id":"transcend-evolution","mal_id":63164}
+{"anidb_id":19784,"anilist_id":168252,"animeplanet_id":"transcend-evolution","anisearch_id":21729,"mal_id":63164}
 ,
 // [2012-SUMMER] ONA: Chaohu Chuanshuo
 {"mal_id":46507}
@@ -14605,9 +14899,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [undefined-UNDEFINED] MOVIE: Chaplin to Coogan
 {"animeplanet_id":"chaplin-to-coogan","mal_id":51803}
-,
-// [2023-SPRING] SPECIAL: Char Senyou McDonald's e, Yokoso.
-{"mal_id":58188}
 ,
 // [2018-SPRING] TV: Chara to Otamajakushi Shima
 {"anidb_id":13870,"anilist_id":115669,"animeplanet_id":"cara-to-otamajakushi-shima","anisearch_id":14191,"mal_id":37428}
@@ -14705,6 +14996,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2019-UNDEFINED] ONA: Chawa Chuanqi
 {"mal_id":47750}
 ,
+// [2026-SUMMER] OVA: Cheat Item Kanrikyoku no Oshigoto EX
+{"mal_id":64542}
+,
 // [2021-SUMMER] TV: Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore
 {"anidb_id":15339,"anilist_id":114302,"animeplanet_id":"drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist","anisearch_id":14853,"livechart_id":9749,"mal_id":40960}
 ,
@@ -14762,14 +15056,23 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2026-WINTER] ONA: Cheng He Titong 2nd Season
 {"anidb_id":19869,"anilist_id":185870,"animeplanet_id":"how-dare-you-2nd-season","mal_id":60191}
 ,
-// [undefined-UNDEFINED] ONA: Cheng Huang Lu
+// [2026-UNDEFINED] ONA: Cheng Huang Lu
 {"anilist_id":137664}
+,
+// [2026-SPRING] ONA: Cheng Huang Lu
+{"mal_id":64375}
 ,
 // [undefined-UNDEFINED] ONA: Cheng Li Laile Liao Yi Tiao Long
 {"anilist_id":138563,"animeplanet_id":"cheng-li-laile-liao-yi-tiao-long","mal_id":50234}
 ,
 // [2025-UNDEFINED] ONA: Cheng Ye Xiao He
 {"anilist_id":166444,"animeplanet_id":"cheng-ye-xiao-he","mal_id":61634}
+,
+// [2026-WINTER] ONA: Chenghetitong Di 2 Ji
+{"anisearch_id":21534}
+,
+// [2026-SPRING] ONA: Chenghuang Lu
+{"anisearch_id":21593}
 ,
 // [2009-UNDEFINED] ONA: Chengshi Huanxiang Qu
 {"animeplanet_id":"chengshi-huanxiang-qu","mal_id":55896}
@@ -14807,7 +15110,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1988-WINTER] TV: Cheonbangjichuk Hani
 {"anidb_id":15750,"anilist_id":17893,"animeplanet_id":"cheonbangjichuk-hani","anisearch_id":20367,"livechart_id":8283,"mal_id":17893}
 ,
-// [undefined-UNDEFINED] TV: Cheongchun Blossom
+// [2026-SPRING] TV: Cheongchun Blossom: Uliui Bom
+{"anidb_id":20064,"livechart_id":13642,"mal_id":63964}
+,
+// [2026-UNDEFINED] TV: Cheongchun Blossom: Uriui Bom
 {"anilist_id":163793}
 ,
 // [2007-WINTER] MOVIE: Cheonnyeon-yeowoo Yeowoobi
@@ -14825,8 +15131,8 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2018-WINTER] OVA: Cherry & Gal's↑↑
 {"anisearch_id":13228,"mal_id":37089}
 ,
-// [2027-UNDEFINED] MOVIE: Cherry and Virgin
-{"anidb_id":16279,"animeplanet_id":"cherry-and-virgin","anisearch_id":16260,"livechart_id":10557,"mal_id":48832}
+// [2027-WINTER] MOVIE: Cherry and Virgin
+{"anidb_id":16279,"anilist_id":210309,"animeplanet_id":"cherry-and-virgin","anisearch_id":16260,"livechart_id":10557,"mal_id":48832}
 ,
 // [undefined-UNDEFINED] OVA: Cherry Blossom
 {"animeplanet_id":"cherry-blossom","mal_id":26237}
@@ -14915,11 +15221,20 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-SPRING] TV: Chibi Godzilla no Gyakushuu
 {"anidb_id":17889,"anilist_id":162312,"animeplanet_id":"chibi-godzilla-raids-again","anisearch_id":18277,"livechart_id":11829,"mal_id":54644}
 ,
+// [2026-SPRING] TV: Chibi Godzilla no Gyakushuu (2026)
+{"anidb_id":20149}
+,
 // [2024-SPRING] TV: Chibi Godzilla no Gyakushuu 2nd Season
 {"anidb_id":18631,"anilist_id":175869,"animeplanet_id":"chibi-godzilla-raids-again-2nd-season","anisearch_id":19114,"livechart_id":12554,"mal_id":58351}
 ,
 // [2025-SUMMER] TV: Chibi Godzilla no Gyakushuu 3rd Season
 {"anidb_id":19427,"anilist_id":193883,"animeplanet_id":"chibi-godzilla-raids-again-3rd-season","anisearch_id":20642,"livechart_id":13178,"mal_id":61765}
+,
+// [2026-SPRING] TV: Chibi Godzilla no Gyakushuu 4th Season
+{"mal_id":64502}
+,
+// [2023-SPRING] ONA: Chibi Godzilla no Gyakushuu Manner Movie
+{"anisearch_id":21698}
 ,
 // [2024-SPRING] TV: Chibi Godzilla Raids Again
 {}
@@ -15019,6 +15334,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2008-SUMMER] TV: Chibinacs 3
 {"animeplanet_id":"chibinacs-3","mal_id":32419}
+,
+// [1994-FALL] OVA: Chibira no Jitensha Anzen Kyoushitsu
+{"anisearch_id":21440}
 ,
 // [2025-SPRING] ONA: Chibizenji-sensei Inokori Kougiroku
 {"anilist_id":193242,"animeplanet_id":"chibizenji-sensei-inokori-kougiroku","anisearch_id":20553,"livechart_id":13132,"mal_id":61491}
@@ -15138,7 +15456,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anisearch_id":20736}
 ,
 // [2026-SUMMER] MOVIE: Chiikawa Movie: Ningyo no Shima no Himitsu
-{"anilist_id":202717,"animeplanet_id":"eiga-chiikawa-ningyo-no-shima-no-himitsu","anisearch_id":21019,"livechart_id":13401,"mal_id":63011}
+{"anidb_id":20111,"anilist_id":202717,"animeplanet_id":"eiga-chiikawa-ningyo-no-shima-no-himitsu","anisearch_id":21019,"livechart_id":13401,"mal_id":63011}
 ,
 // [2025-SPRING] SPECIAL: Chiikawa Park TV CMs
 {"animeplanet_id":"chiikawa-park-tv-cms","mal_id":61815}
@@ -15326,6 +15644,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-SPRING] TV: Chikuwa Senki: Ore no Kawaii de Chikyuu Shinryaku
 {"anilist_id":188131,"animeplanet_id":"chikuwa-senki-ore-no-kawaii-de-chikyuu-shinryaku","anisearch_id":20401,"mal_id":61238}
 ,
+// [2026-SUMMER] TV: Chikyū Daisuki! Kikkun
+{}
+,
 // [1992-SPRING] TV: Chikyū SOS Soreike Kororin
 {}
 ,
@@ -15340,6 +15661,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1999-FALL] TV: Chikyuu Bouei Kigyou Dai-Guard
 {"anidb_id":428,"anilist_id":1312,"animeplanet_id":"dai-guard","anisearch_id":2196,"livechart_id":7251,"mal_id":1312}
+,
+// [2026-SUMMER] TV: Chikyuu Daisuki! Kikkun
+{"anidb_id":20148,"anilist_id":213426}
 ,
 // [2023-SPRING] SPECIAL: Chikyuu ga Ichimai no Ita Dattara
 {"anilist_id":181473,"anisearch_id":18781,"mal_id":56158}
@@ -15365,6 +15689,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1992-SPRING] TV: Chikyuu SOS Sore Ike Kororin
 {"anidb_id":7328,"anilist_id":14623,"animeplanet_id":"chikyuu-sos-sore-ike-kororin","anisearch_id":3642,"mal_id":14623}
 ,
+// [2003-UNDEFINED] OVA: Chikyuu SOS: Chikyuu ga Netsu o Dashite Iru
+{"anisearch_id":21457}
+,
 // [2003-UNDEFINED] OVA: Chikyuu SOS: Chikyuu ga Netsu wo Dashite Iru
 {"animeplanet_id":"chikyuu-sos-chikyuu-ga-netsu-wo-dashiteiru","mal_id":39144}
 ,
@@ -15382,6 +15709,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1973-WINTER] SPECIAL: Chikyuu wo Nana-kai Han Maware
 {"anilist_id":179781,"mal_id":57215}
+,
+// [1992-UNDEFINED] MOVIE: Chikyuu-gou SOS
+{"anisearch_id":21451,"mal_id":64268}
 ,
 // [2022-WINTER] ONA: Chikyuugai Shounen Shoujo
 {"anidb_id":14091,"anilist_id":101705,"animeplanet_id":"the-orbital-children","anisearch_id":13631,"livechart_id":3270,"mal_id":37914}
@@ -15423,7 +15753,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"mal_id":61253}
 ,
 // [2026-SPRING] OVA: Chimimonryou
-{"anisearch_id":21180,"mal_id":63394}
+{"mal_id":63394}
+,
+// [2026-SPRING] OVA: Chimimonryou
+{"anisearch_id":21180}
 ,
 // [2022-UNDEFINED] MOVIE: Chinatown, Whereabouts Unknown
 {"animeplanet_id":"chinatown-whereabouts-unknown"}
@@ -15442,6 +15775,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1971-WINTER] TV: Chingou Muchabee
 {"anidb_id":6973,"anilist_id":17457,"animeplanet_id":"chingou-muchabee","anisearch_id":3641,"livechart_id":11929,"mal_id":17457}
+,
+// [2026-SPRING] ONA: Chinhage Jinaeja
+{"anisearch_id":21508}
 ,
 // [2010-WINTER] SPECIAL: Chinka
 {"anidb_id":7476,"animeplanet_id":"chinka","anisearch_id":6223,"mal_id":29609}
@@ -15536,7 +15872,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2026-UNDEFINED] TV: Chitose Is in the Ramune Bottle
 {}
 ,
-// [undefined-UNDEFINED] TV: Chitose Is in the Ramune Bottle: Part II
+// [2026-UNDEFINED] TV: Chitose Is in the Ramune Bottle: Part II
 {"animeplanet_id":"chitose-is-in-the-ramune-bottle-part-ii"}
 ,
 // [2025-FALL] TV: Chitose-kun wa Ramune Bin no Naka
@@ -15621,7 +15957,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":12506,"anilist_id":97818,"animeplanet_id":"ai-mai-mii-surgical-friends","anisearch_id":12030,"livechart_id":2393,"mal_id":34295}
 ,
 // [2017-SPRING] SPECIAL: Choboraunyopomi Gekijou Dai San Maku Ai Mai Mii: Surgical Friends - Konetashuu 2017, Haru.
-{"animeplanet_id":"ai-mai-mii-surgical-friends-konetashuu-2017-haru","mal_id":58810}
+{"animeplanet_id":"ai-mai-mii-surgical-friends-konetashuu-2017-haru","anisearch_id":21525,"mal_id":58810}
 ,
 // [1996-WINTER] MOVIE: Chocchan Monogatari
 {"anidb_id":4002,"anilist_id":4201,"animeplanet_id":"chocchans-story","anisearch_id":2711,"livechart_id":8564,"mal_id":4201}
@@ -15719,7 +16055,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-SPRING] ONA: Choi ni Naritai Chamcharium RAqours
 {"anisearch_id":19176}
 ,
-// [2024-WINTER] SPECIAL: Choi ni Naritai CHAMCHARIUM RAquors
+// [2024-WINTER] SPECIAL: Choi ni Naritai Chamcharium RAquors
 {"mal_id":58708}
 ,
 // [2007-SPRING] OVA: Choisuji
@@ -15782,6 +16118,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2012-FALL] MOVIE: Chong Fan Da Hai
 {"anisearch_id":14011}
 ,
+// [2023-SPRING] ONA: Chong Gu Huo Niao Kaishi: Longcheng Fengyung
+{"anisearch_id":21677}
+,
 // [2020-UNDEFINED] ONA: Chong Qi Chengyin: Lu Shao de Xinjian Chong
 {"anilist_id":131413}
 ,
@@ -15827,6 +16166,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1983-SUMMER] MOVIE: Choro Q Dougram
 {"anidb_id":2356,"anilist_id":2258,"animeplanet_id":"choro-q-dougram","anisearch_id":1045,"livechart_id":7068,"mal_id":2258}
 ,
+// [2008-SUMMER] TV: Choro-Q Deck System Q Fighters!
+{"anilist_id":213437,"mal_id":64331}
+,
 // [2009-WINTER] MOVIE: Chorus
 {"animeplanet_id":"chorus","mal_id":54111}
 ,
@@ -15837,7 +16179,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":189832,"animeplanet_id":"yandere-dark-elf-she-chased-me-all-the-way-from-another-world-mini-anime-gekijou","anisearch_id":20564,"livechart_id":13072,"mal_id":61410}
 ,
 // [2012-SUMMER] OVA: Chotto Ugoku!? "Futeneko"
-{"anilist_id":131043,"animeplanet_id":"chotto-ugoku-futeneko","mal_id":34259}
+{"anidb_id":15246,"anilist_id":131043,"animeplanet_id":"chotto-ugoku-futeneko","mal_id":34259}
 ,
 // [2013-SPRING] ONA: Chotto Warareru Gag Gaiden
 {"animeplanet_id":"chotto-warareru-gag-gaiden","mal_id":51156}
@@ -16286,6 +16628,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2019-UNDEFINED] ONA: Chuanyue Shihun De Lilian: Rimururu de Kuaile Ningmeng Da Maoxian
 {"animeplanet_id":"chuanyue-shihun-de-lilian-rimururu-de-kuaile-ningmeng-da-maoxian"}
 ,
+// [2026-SPRING] ONA: Chuanyue Shou Shi, Shenshou Nan Pu Zhu Wo Cheng Hou
+{"anidb_id":20043}
+,
 // [2021-UNDEFINED] ONA: Chuanyue Yunnan Sanqiannian: Yun Xiao Zhi Man Youji
 {"animeplanet_id":"chuanyue-yunnan-sanqiannian-yun-xiao-zhi-man-youji","mal_id":48110}
 ,
@@ -16313,7 +16658,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1980-UNDEFINED] MOVIE: Chui Gu Shou
 {"animeplanet_id":"chui-gu-shou","mal_id":43460}
 ,
-// [2019-SPRING] ONA: Chuizhi Shijie
+// [2019-SPRING] ONA: Chuizhi Shijie: Dizhonghai Meishaonian
 {"anidb_id":14954,"anilist_id":121225,"animeplanet_id":"chuizhi-shijie","anisearch_id":15053,"livechart_id":9477,"mal_id":39677}
 ,
 // [2018-WINTER] MOVIE: Chuju
@@ -16330,6 +16675,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2013-FALL] TV: Chuldong! Super Wings
 {"anidb_id":13278,"animeplanet_id":"super-wings","anisearch_id":12621,"mal_id":38525}
+,
+// [2026-SPRING] TV: Chuldong! Super Wings 10
+{"anidb_id":19985}
 ,
 // [2017-SPRING] TV: Chuldong! Super Wings 2
 {"anidb_id":19529,"animeplanet_id":"super-wings-2","anisearch_id":14353,"mal_id":38526}
@@ -16517,6 +16865,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2014-SUMMER] SPECIAL: Chuunibyou demo Koi ga Shitai! Ren: The Rikka Wars
 {"anilist_id":20889,"animeplanet_id":"love-chunibyo-and-other-delusions-heart-throb-the-rikka-wars","anisearch_id":9912,"livechart_id":1051,"mal_id":27601}
 ,
+// [1952-UNDEFINED] MOVIE: Chuuou Kishodai Shidou: Otenki Gakkou
+{"mal_id":64140}
+,
+// [1952-UNDEFINED] MOVIE: Chuuou Kishoudai Shidou: Otenki Gakkou
+{"anilist_id":213710}
+,
 // [2021-UNDEFINED] MOVIE: Chuushajou de Ame wo Tabete ne
 {"anilist_id":145434}
 ,
@@ -16567,6 +16921,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2018-SUMMER] ONA: Cike Wu Liuqi Fanwai
 {"anilist_id":107913,"animeplanet_id":"scissor-seven-specials","anisearch_id":16076,"mal_id":38410}
+,
+// [2021-WINTER] SPECIAL: Cin Sai Syu
+{"mal_id":64345}
 ,
 // [2021-FALL] SPECIAL: Cinderella
 {"anilist_id":141055,"animeplanet_id":"cider-girl-cinderella","anisearch_id":17304,"mal_id":50288}
@@ -16633,6 +16990,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2011-WINTER] SPECIAL: Cinnamon Birthday Song
 {"mal_id":58336}
+,
+// [2011-WINTER] ONA: Cinnamon no Halloween March
+{}
 ,
 // [2011-WINTER] SPECIAL: Cinnamon no Halloween March
 {"mal_id":58338}
@@ -16739,9 +17099,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-SUMMER] TV: City The Animation
 {"anidb_id":18874,"anilist_id":181841,"animeplanet_id":"city-the-animation","anisearch_id":19609,"livechart_id":12846,"mal_id":59898}
 ,
-// [2025-SUMMER] TV: CITY The Animation
-{}
-,
 // [2016-SUMMER] MOVIE: Ciwei Xiao Zi: Tiansheng Wo Ci
 {"animeplanet_id":"hedgehogs","anisearch_id":13124,"mal_id":44953}
 ,
@@ -16809,7 +17166,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"mal_id":58019}
 ,
 // [2026-SPRING] TV: Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta
-{"anidb_id":18209,"anilist_id":169580,"animeplanet_id":"class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta","anisearch_id":18710,"livechart_id":12342,"mal_id":56734}
+{"anidb_id":18209,"anilist_id":169580,"animeplanet_id":"i-made-friends-with-the-second-prettiest-girl-in-my-class","anisearch_id":18710,"livechart_id":12342,"mal_id":56734}
 ,
 // [2023-WINTER] OVA: Class de Otoko wa Boku Hitori!?
 {"anisearch_id":17920,"mal_id":53725}
@@ -16835,10 +17192,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2007-SPRING] OVA: Classmate no Okaasan
 {"anisearch_id":4244,"mal_id":2989}
 ,
-// [2024-WINTER] TV: Classroom of the Elite
+// [undefined-UNDEFINED] TV: Classroom of the Elite
 {}
 ,
-// [2026-SPRING] TV: Classroom of the Elite 4th Season: Second Year, First Semester
+// [2024-WINTER] TV: Classroom of the Elite
 {}
 ,
 // [2015-SUMMER] TV: Classroom☆Crisis
@@ -16925,9 +17282,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2020-UNDEFINED] MOVIE: Clown's dream
 {"animeplanet_id":"clowns-dream"}
 ,
-// [2025-WINTER] SPECIAL: ClubBlueFireのモーションを配布します
-{"mal_id":63263}
-,
 // [2016-SPRING] SPECIAL: Cluster A
 {"anilist_id":103442,"animeplanet_id":"in-the-blue-shirt-cluster-a","anisearch_id":15437,"mal_id":34856}
 ,
@@ -16997,7 +17351,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2020-FALL] SPECIAL: Cocoon
 {"anilist_id":148302,"mal_id":55435}
 ,
-// [2025-WINTER] TV: cocoon Aru Natsu no Shōjo-tachi Yori
+// [2025-WINTER] TV: cocoon – One Summer of Girlhood
 {}
 ,
 // [2025-WINTER] SPECIAL: Cocoon: Aru Natsu no Shoujo-tachi yori
@@ -17206,6 +17560,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2017-SUMMER] ONA: Cogimyun
 {"anidb_id":13326,"anilist_id":117960,"animeplanet_id":"cogimyun","anisearch_id":12804,"mal_id":36016}
+,
+// [2026-SPRING] ONA: Coiling Dragon
+{}
 ,
 // [2020-SPRING] MOVIE: COIN ADVENTURE
 {"anilist_id":143302,"animeplanet_id":"coin-adventure"}
@@ -17444,9 +17801,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-WINTER] SPECIAL: Conecommu
 {"mal_id":61058}
 ,
-// [2015-FALL] SPECIAL: Confession Song
-{"mal_id":55969}
-,
 // [2009-SUMMER] TV: Confucius
 {"animeplanet_id":"confucius","mal_id":45705}
 ,
@@ -17530,6 +17884,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2006-WINTER] SPECIAL: Contact 2
 {"animeplanet_id":"contact-2","anisearch_id":14763,"mal_id":25977}
+,
+// [2026-SPRING] SPECIAL: Contemporary Dance
+{"mal_id":64295}
 ,
 // [2013-FALL] ONA: Control Bear
 {}
@@ -17623,9 +17980,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2019-FALL] ONA: Corocoro Coronya
 {"animeplanet_id":"corocoro-coronya","livechart_id":9833,"mal_id":41412}
-,
-// [2018-WINTER] SPECIAL: Corocoro Coronya × TOWER RECORDS
-{"mal_id":60225}
 ,
 // [2019-WINTER] ONA: CoroCoro Monster Ball
 {"animeplanet_id":"rolling-poke-balls","mal_id":51866}
@@ -17990,7 +18344,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2026-SUMMER] MOVIE: Crayon Shin-chan: Kikikaikai! Ora no Youkai Vacation
 {"anilist_id":208829}
 ,
-// [2022-SPRING] MOVIE: Crayon Shin-chan: Uchuu kara no Raihousha Kasube Dai Panic
+// [2022-SPRING] MOVIE: Crayon Shin-chan: Uchuu kara no Raihousha Kasukabe Dai Panic
 {"animeplanet_id":"crayon-shin-chan-uchuu-kara-no-raihousha-kasube-dai-panic","mal_id":53971}
 ,
 // [1995-SPRING] MOVIE: Crayon Shin-chan: Unkokusai no Yabō
@@ -18055,6 +18409,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2025-UNDEFINED] TV: Creature Hunters
 {"animeplanet_id":"creature-hunters","mal_id":57150}
+,
+// [2027-UNDEFINED] MOVIE: Credits Roll Into the Sea
+{}
 ,
 // [2025-FALL] SPECIAL: Creep
 {"mal_id":63605}
@@ -18131,9 +18488,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2021-FALL] SPECIAL: CROWN
 {}
 ,
-// [1994-SPRING] OVA: Crows
-{"anidb_id":5183}
-,
 // [2003-WINTER] TV: Crush Gear Nitro
 {"anidb_id":714,"anilist_id":7048,"animeplanet_id":"crush-gear-nitro","anisearch_id":2019,"livechart_id":11033,"mal_id":7048}
 ,
@@ -18209,9 +18563,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-FALL] SPECIAL: Cult.
 {"anilist_id":170989,"mal_id":58701}
 ,
-// [2025-SUMMER] TV: Cultural Exchange With a Game Centre Girl
-{}
-,
 // [2025-WINTER] SPECIAL: Cup Noodle "Umeharagaa"
 {"mal_id":61306}
 ,
@@ -18226,6 +18577,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2017-FALL] SPECIAL: Cup of Smoke
 {"animeplanet_id":"your-gay-thoughts-alphabets-heaven-cup-of-smoke","mal_id":38758}
+,
+// [2020-SPRING] SPECIAL: Cupcake feat. punchnello
+{"mal_id":64030}
 ,
 // [2007-UNDEFINED] TV: Cupid Da Nao Shi Er Xingzuo
 {"mal_id":45952}
@@ -18308,7 +18662,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2022-SUMMER] ONA: Cyberpunk: Edgerunners
 {"anidb_id":15610,"anilist_id":120377,"animeplanet_id":"cyberpunk-edgerunners","anisearch_id":15360,"livechart_id":10042,"mal_id":42310}
 ,
-// [undefined-UNDEFINED] ONA: Cyberpunk: Edgerunners 2
+// [2026-FALL] ONA: Cyberpunk: Edgerunners 2
 {"anidb_id":19445,"anilist_id":195539,"animeplanet_id":"cyberpunk-edgerunners-2","anisearch_id":20705,"livechart_id":13230,"mal_id":61990}
 ,
 // [1999-FALL] TV: Cybersix
@@ -18328,9 +18682,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1968-SPRING] TV: Cyborg 009 (TV)
 {"anidb_id":1527,"anilist_id":8394,"animeplanet_id":"cyborg-009-1968","anisearch_id":1426,"livechart_id":6271,"mal_id":8394}
-,
-// [1980-UNDEFINED] MOVIE: Cyborg 009 Gekijō Ban: Chō Ginga Densetsu
-{}
 ,
 // [2015-FALL] OVA: Cyborg 009 VS Devilman
 {"anidb_id":11169,"anilist_id":21231,"animeplanet_id":"cyborg-009-vs-devilman","anisearch_id":10486,"livechart_id":1668,"mal_id":31050}
@@ -18518,9 +18869,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1975-WINTER] MOVIE: Da Chao Xun Zhi Ye
 {"anilist_id":143750,"animeplanet_id":"da-chao-xun-zhi-ye","mal_id":43383}
 ,
-// [undefined-UNDEFINED] ONA: Da Dao Di Xong: Die Long Bian
-{"anilist_id":156090,"animeplanet_id":"da-dao-di-xong-die-long-bian"}
-,
 // [1989-UNDEFINED] TV: Da Daozei
 {"animeplanet_id":"da-daozei","mal_id":43803}
 ,
@@ -18638,6 +18986,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2018-FALL] MOVIE: Da Tang Fengyun 2
 {"animeplanet_id":"da-tang-fengyun-2","mal_id":44666}
 ,
+// [2026-SUMMER] MOVIE: Da Tang Yao Tan
+{"mal_id":64383}
+,
 // [undefined-UNDEFINED] ONA: Da Tianzun
 {"anilist_id":155308}
 ,
@@ -18663,7 +19014,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"mal_id":58585}
 ,
 // [2025-SPRING] ONA: Da Xia Qing Shang Gong
-{"anidb_id":19340,"anilist_id":191978,"animeplanet_id":"gowest-overworked","mal_id":60589}
+{"anidb_id":19340,"anilist_id":191978,"animeplanet_id":"gowest-overworked","anisearch_id":21635,"mal_id":60589}
 ,
 // [2016-FALL] TV: Da Xia Shanmao He Jimi
 {"mal_id":45846}
@@ -18700,6 +19051,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2025-SPRING] ONA: Da Yuan Hun
 {"anidb_id":19371,"anilist_id":137681,"animeplanet_id":"the-westward-da-yuan-hun","mal_id":61752}
+,
+// [2025-SPRING] ONA: Da Yuan Hunn
+{"anisearch_id":21622}
 ,
 // [2024-WINTER] ONA: Da Yuzhou Shidai
 {"anidb_id":18443,"anilist_id":141856,"animeplanet_id":"da-yuzhou-shidai","anisearch_id":20023,"mal_id":57629}
@@ -18768,7 +19122,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":18927,"anilist_id":156084,"animeplanet_id":"one-way-or-another","anisearch_id":19731,"mal_id":59916}
 ,
 // [2026-SPRING] ONA: Dadao Duxing: Die Long Bian
-{"animeplanet_id":"dadao-duxing-zhi-die-long-bian","mal_id":60592}
+{"anidb_id":19997,"anilist_id":156090,"animeplanet_id":"dadao-duxing-zhi-die-long-bian","anisearch_id":21472,"mal_id":60592}
 ,
 // [2026-UNDEFINED] ONA: Dadao Zhishang
 {"mal_id":62742}
@@ -18891,7 +19245,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":2780,"anisearch_id":1163,"livechart_id":5669,"mal_id":2724}
 ,
 // [2025-WINTER] SPECIAL: Daidaidaidaidaikirai
-{"mal_id":63484}
+{"anisearch_id":21558,"mal_id":63484}
 ,
 // [2018-FALL] TV: Daifuku-kun@Kin Tele
 {"anidb_id":14419,"animeplanet_id":"daifuku-kun-kin-tele","anisearch_id":13927,"mal_id":38427}
@@ -18930,10 +19284,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":168962,"animeplanet_id":"nights-with-a-cat-x-gamera-rebirth-dai-kaijuu-gamenya-shuurai","anisearch_id":20142,"mal_id":56562}
 ,
 // [2026-SPRING] TV: Daikenja Riddle no Jikan Gyakkou
-{"livechart_id":13515,"mal_id":63433}
+{"anidb_id":19994,"anilist_id":210375,"mal_id":63433}
 ,
 // [2026-SPRING] TV: Daikenja Ryddel no Jikan Gyakkou
-{"anisearch_id":21235}
+{"anisearch_id":21235,"livechart_id":13515}
 ,
 // [1991-SUMMER] OVA: Daiki
 {"mal_id":52548}
@@ -19190,9 +19544,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-SUMMER] ONA: Dan Yuan Meng Changjiu
 {"anilist_id":204473,"animeplanet_id":"pokemon-chasing-the-moon","anisearch_id":19981,"mal_id":59875}
 ,
-// [2010-SUMMER] TV: Dan Zhu Chuan Shuo
-{"anidb_id":15488,"animeplanet_id":"dan-zhu-chuan-shuo","anisearch_id":14141,"mal_id":43309}
-,
 // [2012-WINTER] MOVIE: Danao Tiangong 3D
 {"anidb_id":19727,"animeplanet_id":"danao-tiangong-3d","anisearch_id":19106}
 ,
@@ -19219,6 +19570,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2019-WINTER] SPECIAL: Danbou to Reibou
 {"animeplanet_id":"kinako-nishinakajima-danbou-to-reibou","mal_id":39096}
+,
+// [2020-SUMMER] SPECIAL: Dance at the Moonlight feat. kojikoji
+{"mal_id":64112}
 ,
 // [2022-SPRING] TV: Dance Dance Danseur
 {"anidb_id":16196,"anilist_id":132171,"animeplanet_id":"dance-dance-danseur","anisearch_id":16181,"livechart_id":10518,"mal_id":48702}
@@ -19346,6 +19700,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2003-SPRING] ONA: Dango Gonta
 {}
 ,
+// [1937-UNDEFINED] MOVIE: Dango no Yukue
+{"mal_id":64138}
+,
 // [1999-FALL] TV: Dango San Kyoudai Attoiuma Gekijou
 {"animeplanet_id":"dango-3-kyoudai-attoiuma-gekijou","mal_id":23799}
 ,
@@ -19400,8 +19757,14 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2010-WINTER] OVA: Dante's Inferno
 {"animeplanet_id":"dantes-inferno","anisearch_id":5407}
 ,
+// [undefined-UNDEFINED] TV: Danzai Sareta Akuyaku Reijou wa, Gyakkou Shite Kanpeki na Akujo o Mezasu
+{"anisearch_id":21366}
+,
 // [undefined-UNDEFINED] UNKNOWN: Danzai sareta Akuyaku Reijou wa, Gyakkou shite Kanpeki na Akujo wo Mezasu
-{"livechart_id":13575,"mal_id":63813}
+{"anilist_id":212555,"livechart_id":13575,"mal_id":63813}
+,
+// [2010-FALL] TV: Danzhu Chuanshuo
+{"anidb_id":15488,"animeplanet_id":"dan-zhu-chuan-shuo","anisearch_id":14141,"mal_id":43309}
 ,
 // [2007-FALL] TV: Dao Baejji Bumhil Daesodong
 {"mal_id":48160}
@@ -19484,9 +19847,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2014-FALL] SPECIAL: Dareka no Santa Claus
 {"anilist_id":103779,"animeplanet_id":"twin-cross-dareka-no-santa-claus","mal_id":32858}
 ,
-// [2025-FALL] SPECIAL: Dareka no Tame ni
-{"mal_id":63197}
-,
 // [1969-SUMMER] SPECIAL: Daremo Inai Umi
 {"anilist_id":179789,"mal_id":57203}
 ,
@@ -19535,7 +19895,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2003-SPRING] OVA: Dark Shell: Ori no Naka no Namameki
 {"anisearch_id":2001,"mal_id":3107}
 ,
-// [undefined-UNDEFINED] TV: Dark Summoner to Dekiteiru
+// [2026-FALL] TV: Dark Summoner to Dekiteiru
 {"anidb_id":19908,"anilist_id":208025,"animeplanet_id":"dark-summoner-to-dekiteiru","anisearch_id":21286,"livechart_id":13526,"mal_id":63509}
 ,
 // [2013-WINTER] MOVIE: Darkeling
@@ -19598,6 +19958,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2010-WINTER] ONA: Daseot Beonjjae Gyejeol
 {"anisearch_id":20519}
 ,
+// [2025-WINTER] SPECIAL: Dash
+{"anisearch_id":21408}
+,
+// [2025-WINTER] SPECIAL: Dash (Performance Ver.)
+{"anisearch_id":21407}
+,
 // [1981-FALL] TV: Dash! Kappei
 {"anidb_id":1822,"anilist_id":2748,"animeplanet_id":"dash-kappei","anisearch_id":1879,"livechart_id":9172,"mal_id":2748}
 ,
@@ -19631,8 +19997,14 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2013-SPRING] TV: Date A Live
 {"anidb_id":8808,"anilist_id":15583,"animeplanet_id":"date-a-live","anisearch_id":8071,"livechart_id":808,"mal_id":15583}
 ,
-// [undefined-UNDEFINED] SPECIAL: Date A Live (New)
-{"anidb_id":19284,"anilist_id":190244,"animeplanet_id":"date-a-live-new","livechart_id":13137}
+// [undefined-UNDEFINED] TV: Date A Live F Last Date
+{}
+,
+// [undefined-UNDEFINED] SPECIAL: Date A Live F Last Date
+{"anidb_id":19284,"anilist_id":190244,"animeplanet_id":"date-a-live-f-last-date","livechart_id":13137}
+,
+// [undefined-UNDEFINED] UNKNOWN: Date A Live F: Last Date
+{"anisearch_id":21479,"mal_id":63934}
 ,
 // [2014-SPRING] TV: Date A Live II
 {"anidb_id":9935,"anilist_id":19163,"animeplanet_id":"date-a-live-ii","anisearch_id":8673,"livechart_id":110,"mal_id":19163}
@@ -19859,6 +20231,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-SUMMER] ONA: Dead or Arrive 2: Dance of Auto
 {"mal_id":56629}
 ,
+// [2026-SPRING] SPECIAL: Dead or Love
+{"mal_id":63974}
+,
 // [2011-WINTER] MOVIE: Dead Space: Aftermath
 {}
 ,
@@ -19882,9 +20257,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2022-SPRING] TV: Deaimon
 {"anidb_id":16270,"anilist_id":132532,"animeplanet_id":"deaimon-recipe-for-happiness","anisearch_id":16204,"livechart_id":10541,"mal_id":48779}
-,
-// [2025-SUMMER] TV: Dealing with Mikadono Sisters Is a Breeze
-{}
 ,
 // [2003-SPRING] TV: Dear Boys
 {"anidb_id":641,"anilist_id":292,"animeplanet_id":"dear-boys","anisearch_id":1818,"livechart_id":5812,"mal_id":292}
@@ -19918,6 +20290,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2018-WINTER] TV: Death March kara Hajimaru Isekai Kyousoukyoku
 {"anidb_id":12603,"anilist_id":97907,"animeplanet_id":"death-march-to-the-parallel-world-rhapsody","anisearch_id":12080,"livechart_id":2444,"mal_id":34497}
+,
+// [undefined-UNDEFINED] UNKNOWN: Death March kara Hajimaru Isekai Kyousoukyoku (Sequel)
+{"livechart_id":13643}
 ,
 // [undefined-UNDEFINED] TV: Death March to the Parallel World Rhapsody Season 2
 {"anidb_id":18991,"anilist_id":184376,"animeplanet_id":"death-march-to-the-parallel-world-rhapsody-season-2","anisearch_id":19763}
@@ -19978,6 +20353,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2026-UNDEFINED] TV: DECAPOLICE
 {}
+,
+// [2026-SUMMER] OVA: Deco x Deco The Animation
+{"anisearch_id":21572,"mal_id":64250}
 ,
 // [2020-UNDEFINED] SPECIAL: DECO*27 & kemu: SEKAI
 {"animeplanet_id":"deco-27-and-kemu-sekai"}
@@ -20270,17 +20648,20 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2014-FALL] OVA: Demonion: Gaiden
 {"anisearch_id":9765,"mal_id":25877}
 ,
+// [2026-UNDEFINED] TV: Demons' Crest
+{"anilist_id":203275,"animeplanet_id":"demons-crest","mal_id":63045}
+,
 // [undefined-UNDEFINED] TV: Demons' Crest
 {}
-,
-// [2026-UNDEFINED] TV: Demons' Crest
-{"anidb_id":19751,"anilist_id":203275,"animeplanet_id":"demons-crest","mal_id":63045}
 ,
 // [undefined-UNDEFINED] UNKNOWN: Demons' Crest
 {"livechart_id":13412}
 ,
 // [2026-UNDEFINED] TV: Demons’ Crest
 {"anisearch_id":21051}
+,
+// [2026-WINTER] TV: Demons` Crest
+{"anidb_id":19751}
 ,
 // [2025-SPRING] SPECIAL: Dempatomatoma
 {"mal_id":63228}
@@ -20300,11 +20681,23 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2002-WINTER] OVA: Dendou Sakusen Gattaiou
 {"anidb_id":9779,"animeplanet_id":"dendou-sakusen-gattaiou","anisearch_id":8964}
 ,
+// [2002-UNDEFINED] OVA: Dendou Sakusen Gattaiou
+{"mal_id":64332}
+,
 // [1962-UNDEFINED] MOVIE: Deng Mingtian
 {"animeplanet_id":"deng-mingtian","mal_id":43287}
 ,
+// [2026-SPRING] SPECIAL: Dengeki
+{"mal_id":64009}
+,
 // [2007-SPRING] SPECIAL: Dengeki Bunko 2007 Movie Festival Special
 {"anilist_id":6628,"animeplanet_id":"dengeki-bunko-2007-movie-festival-special","anisearch_id":5540,"livechart_id":7136,"mal_id":6628}
+,
+// [undefined-UNDEFINED] TV: Dengeki Daisy
+{}
+,
+// [2027-WINTER] TV: Dengeki Daisy
+{"anidb_id":20086,"anilist_id":213052,"anisearch_id":21730,"livechart_id":13662,"mal_id":64374}
 ,
 // [1994-FALL] OVA: Dengeki Oshioki Musume Gootaman R: Ai to Kanashimi no Final Battle
 {"anidb_id":5214,"anilist_id":5549,"animeplanet_id":"butt-attack-punisher-girl-gautaman-r","anisearch_id":4295,"mal_id":5549}
@@ -20606,14 +20999,17 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2007-SUMMER] TV: Devil May Cry
 {"anidb_id":4776,"anilist_id":1726,"animeplanet_id":"devil-may-cry","anisearch_id":3907,"livechart_id":3864,"mal_id":1726}
 ,
-// [2026-SPRING] ONA: Devil May Cry
+// [undefined-UNDEFINED] ONA: Devil May Cry
 {}
 ,
 // [2025-SPRING] ONA: Devil May Cry (2025)
 {"animeplanet_id":"devil-may-cry-2025","anisearch_id":20483}
 ,
-// [2026-SPRING] ONA: Devil May Cry (New)
-{"animeplanet_id":"devil-may-cry-new","anisearch_id":20916}
+// [2026-SPRING] ONA: Devil May Cry (2025) 2nd Season
+{"animeplanet_id":"devil-may-cry-2025-2nd-season","anisearch_id":20916}
+,
+// [undefined-UNDEFINED] ONA: Devil May Cry Season 3
+{}
 ,
 // [2013-SPRING] TV: Devil Survivor 2 The Animation
 {"anidb_id":9554,"anilist_id":16512,"animeplanet_id":"devil-survivor-2-the-animation","anisearch_id":8224,"livechart_id":810,"mal_id":16512}
@@ -20665,6 +21061,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2008-WINTER] MOVIE: Devour Dinner
 {"anidb_id":12209,"anilist_id":19209,"animeplanet_id":"devour-dinner","anisearch_id":12035,"mal_id":19209}
+,
+// [2020-SUMMER] ONA: Devour Eternity
+{"anilist_id":139535,"animeplanet_id":"devour-eternity"}
 ,
 // [2000-UNDEFINED] OVA: Dewi Mayangsari
 {"anisearch_id":20874}
@@ -20739,7 +21138,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":18255,"anilist_id":141857,"animeplanet_id":"di-yi-xulie","anisearch_id":16946,"mal_id":55733}
 ,
 // [2026-UNDEFINED] ONA: Di Yi Xulie 2
-{"anilist_id":206283,"mal_id":62945}
+{"anilist_id":206283,"anisearch_id":21535,"mal_id":62945}
 ,
 // [undefined-UNDEFINED] ONA: Di Yi Xulie 2nd season
 {"anidb_id":19264,"animeplanet_id":"di-yi-xulie-2nd-season"}
@@ -20749,6 +21148,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2017-FALL] TV: Dia Horizon (Kabu)
 {"anidb_id":13311,"anilist_id":99636,"animeplanet_id":"dia-horizon-kabu","anisearch_id":12657,"livechart_id":2808,"mal_id":35999}
+,
+// [2026-FALL] TV: Dia no Ace: Act II Second Season (2026)
+{"anidb_id":20143}
+,
+// [2026-FALL] TV: Dia no Ace: Act II Second Season Dai 2 Cour
+{"anisearch_id":21757}
 ,
 // [2016-SUMMER] OVA: Dia no Ace: Second Season OAD
 {"anisearch_id":12110}
@@ -20786,6 +21191,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2013-FALL] TV: Diamond no Ace
 {"anidb_id":9881,"anilist_id":18689,"animeplanet_id":"ace-of-the-diamond","anisearch_id":8674,"livechart_id":63,"mal_id":18689}
 ,
+// [undefined-UNDEFINED] TV: Diamond no Ace act II -Second Season- Cour 2
+{"livechart_id":13701}
+,
 // [2014-FALL] OVA: Diamond no Ace OVA
 {"anidb_id":10739,"anilist_id":20861,"animeplanet_id":"ace-of-the-diamond-ova","anisearch_id":9831,"livechart_id":701,"mal_id":25341}
 ,
@@ -20794,6 +21202,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: Diamond no Ace: Act II Second Season
 {"anidb_id":18638,"anilist_id":177634,"animeplanet_id":"ace-of-the-diamond-act-ii-2nd-season","anisearch_id":19291,"livechart_id":12666,"mal_id":58877}
+,
+// [2026-FALL] TV: Diamond no Ace: Act II Second Season Part 2
+{"anilist_id":213658,"mal_id":64505}
 ,
 // [2015-SPRING] TV: Diamond no Ace: Second Season
 {"anidb_id":11115,"anilist_id":21085,"animeplanet_id":"ace-of-diamond-second-season","anisearch_id":10250,"livechart_id":1426,"mal_id":30230}
@@ -20863,6 +21274,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [undefined-UNDEFINED] ONA: DICE
 {"anilist_id":169374}
+,
+// [undefined-UNDEFINED] MOVIE: Dice with Demon
+{}
 ,
 // [undefined-UNDEFINED] ONA: DICE: The Cube that Changes Everything
 {"animeplanet_id":"dice-the-cube-that-changes-everything"}
@@ -21200,6 +21614,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-WINTER] SPECIAL: Dinner Bell
 {"anilist_id":163257,"animeplanet_id":"harumaki-gohan-dinner-bell","mal_id":54890}
 ,
+// [undefined-UNDEFINED] TV: Dinners with My Darling
+{}
+,
 // [2019-FALL] ONA: Dino Girl Gauko
 {}
 ,
@@ -21274,6 +21691,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1987-WINTER] MOVIE: Direct Animation
 {"anilist_id":102516,"animeplanet_id":"direct-animation","mal_id":30340}
+,
+// [2026-SPRING] SPECIAL: Dirty Look
+{"mal_id":64391}
 ,
 // [1985-SUMMER] TV: Dirty Pair
 {"anidb_id":401,"anilist_id":424,"animeplanet_id":"dirty-pair","anisearch_id":1788,"livechart_id":5865,"mal_id":424}
@@ -21376,6 +21796,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2020-SUMMER] SPECIAL: Disney Twisted Wonderland CM
 {"anisearch_id":15705}
+,
+// [2023-WINTER] SPECIAL: Disney Twisted-Wonderland 3-shuunen Kinen PV
+{"anisearch_id":21739}
 ,
 // [2020-SUMMER] SPECIAL: Disney Twisted-Wonderland CMs
 {"mal_id":57738}
@@ -21675,7 +22098,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":8882,"anilist_id":11783,"animeplanet_id":"dog-days-2","anisearch_id":7565,"livechart_id":1024,"mal_id":11783}
 ,
 // [2012-FALL] SPECIAL: Dog Days' Specials
-{"anilist_id":17419,"animeplanet_id":"dog-days-2-specials","anisearch_id":8790,"livechart_id":4769}
+{"animeplanet_id":"dog-days-2-specials","anisearch_id":8790,"livechart_id":4769}
 ,
 // [2015-WINTER] TV: Dog Days''
 {"anidb_id":9517,"anilist_id":16385,"animeplanet_id":"dog-days-3","anisearch_id":8199,"livechart_id":191,"mal_id":16385}
@@ -21728,14 +22151,8 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2009-SPRING] OVA: Dogs: Bullets & Carnage
 {"anidb_id":6436,"anilist_id":5593,"animeplanet_id":"dogs-bullets-and-carnage","anisearch_id":5284,"livechart_id":4867,"mal_id":5593}
 ,
-// [2026-SUMMER] TV: Dogul Wang
-{"anilist_id":184356}
-,
 // [2026-SUMMER] TV: Dogulwang
-{"anidb_id":19838,"animeplanet_id":"tomb-raider-king","livechart_id":13486,"mal_id":63316}
-,
-// [2026-SUMMER] TV: Dogurwang
-{"anisearch_id":21171}
+{"anilist_id":184356,"animeplanet_id":"tomb-raider-king","anisearch_id":21171,"livechart_id":13486,"mal_id":63316}
 ,
 // [1994-SPRING] MOVIE: Dohyou no Oni-tachi
 {"anidb_id":7493,"anilist_id":17665,"animeplanet_id":"dohyou-no-oni-tachi","anisearch_id":6221,"mal_id":17665}
@@ -21819,7 +22236,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":4655,"anilist_id":4554,"animeplanet_id":"dokkiri-doctor","anisearch_id":3656,"livechart_id":11299,"mal_id":4554}
 ,
 // [1999-SUMMER] SPECIAL: Dokkiri Doctor Special
-{"anilist_id":13781,"animeplanet_id":"dokkiri-doctor-otome-no-maruhi-kenkoushindan","livechart_id":11300,"mal_id":13781}
+{"anilist_id":13781,"animeplanet_id":"dokkiri-doctor-otome-no-maruhi-kenkoushindan","anisearch_id":21605,"livechart_id":11300,"mal_id":13781}
 ,
 // [2003-SUMMER] TV: Dokkoida?!
 {}
@@ -21830,7 +22247,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1989-WINTER] SPECIAL: Doko kara Kita no
 {"anilist_id":116782,"animeplanet_id":"doko-kara-kita-no","mal_id":40928}
 ,
-// [2026-FALL] MOVIE: Doko yori mo Tooi Basho ni Iru Kimi e
+// [2026-SUMMER] MOVIE: Doko yori mo Tooi Basho ni Iru Kimi e
 {"anidb_id":19890,"anilist_id":207327,"animeplanet_id":"doko-yori-mo-tooi-basho-ni-iru-kimi-e","anisearch_id":21228,"livechart_id":13516,"mal_id":63423}
 ,
 // [2026-WINTER] SPECIAL: Doko? Doko?
@@ -21843,7 +22260,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {}
 ,
 // [2025-FALL] ONA: Dokodemo Makibao: World Tour
-{"anilist_id":199931,"mal_id":62662}
+{"anilist_id":199931,"anisearch_id":21599,"mal_id":62662}
 ,
 // [2024-WINTER] ONA: Dokonjo Gaeru Yanen
 {"anilist_id":174912,"animeplanet_id":"dokonjo-gaeru-yanen","mal_id":58499}
@@ -21892,6 +22309,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1998-WINTER] TV: Dolittle-sensei Monogatari
 {"anidb_id":11229,"anilist_id":204484,"animeplanet_id":"dolittle-sensei-monogatari","anisearch_id":10602,"mal_id":30034}
+,
+// [2026-SPRING] SPECIAL: Doll
+{}
 ,
 // [2001-SUMMER] OVA: Doll Saaya
 {"anisearch_id":5353,"mal_id":9317}
@@ -21968,6 +22388,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2004-SPRING] SPECIAL: Don't Tell Mother Maria
 {}
 ,
+// [2017-SUMMER] SPECIAL: Don’t Worry, Be Happy!
+{"anisearch_id":21402}
+,
 // [2017-FALL] SPECIAL: Don't Worry: Monotarinai Monogatari
 {"anilist_id":108053,"animeplanet_id":"kenji-nojima-dont-worry-monotarinai-monogatari","anisearch_id":13469,"mal_id":39242}
 ,
@@ -22017,7 +22440,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"animeplanet_id":"dongbei-yijia-ren","mal_id":45895}
 ,
 // [2026-UNDEFINED] ONA: Dongda Gao Wu Xueyuan
-{"animeplanet_id":"oriental-martial-academy","mal_id":62707}
+{"anilist_id":212969,"animeplanet_id":"oriental-martial-academy","mal_id":62707}
 ,
 // [2024-FALL] MOVIE: Dongeng Sang Kancil
 {"anisearch_id":20383}
@@ -22100,7 +22523,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1995-WINTER] OVA: Donguri to Yamaneko (1995)
 {"anidb_id":14443,"anilist_id":118675,"animeplanet_id":"donguri-to-yamaneko-1995","anisearch_id":14045,"mal_id":26301}
 ,
-// [2016-UNDEFINED] TV: Dongwu Hechang Tuan
+// [2018-SUMMER] TV: Dongwu Hechang Tuan
 {"animeplanet_id":"dongwu-hechang-tuan","mal_id":47703}
 ,
 // [2018-UNDEFINED] ONA: Dongwu Jiuyuan Dui
@@ -22430,9 +22853,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2014-WINTER] MOVIE: Doraemon the Movie: Nobita in the New Haunts of Evil - Peko and the Five Explore
 {}
 ,
-// [2013-WINTER] MOVIE: Doraemon the Movie: Nobita in the Secret Gadgets Museum
-{}
-,
 // [1995-WINTER] MOVIE: Doraemon the Movie: Nobita's Diary on the Creation of the World
 {}
 ,
@@ -22483,9 +22903,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1999-WINTER] MOVIE: Doraemon: Nobita's the Night Before a Wedding
 {"anidb_id":4765,"anilist_id":2660,"animeplanet_id":"doraemon-nobita-no-kekkon-zenya","anisearch_id":3912,"livechart_id":8895,"mal_id":2660}
-,
-// [1987-WINTER] SPECIAL: Doraemon: Norainu Ichi no Kuni
-{}
 ,
 // [2000-WINTER] MOVIE: Doraemon: Obaachan no Omoide
 {"anidb_id":3314,"anilist_id":2649,"animeplanet_id":"doraemon-obaa-chan-no-omoide","anisearch_id":105,"livechart_id":8741,"mal_id":2649}
@@ -22586,14 +23003,26 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2018-UNDEFINED] SPECIAL: Doritos Collide CM
 {"animeplanet_id":"doritos-collide-cm"}
 ,
+// [undefined-UNDEFINED] TV: Dorohedoro
+{}
+,
 // [2020-WINTER] TV: Dorohedoro
 {"anidb_id":14483,"anilist_id":105228,"animeplanet_id":"dorohedoro","anisearch_id":13982,"livechart_id":8350,"mal_id":38668}
 ,
-// [2026-SPRING] ONA: Dorohedoro
-{}
-,
 // [2026-SPRING] ONA: Dorohedoro Season 2
 {"anidb_id":18397,"anilist_id":173172,"animeplanet_id":"dorohedoro-2","anisearch_id":18998,"livechart_id":12492,"mal_id":57779}
+,
+// [undefined-UNDEFINED] TV: Dorohedoro Season 3
+{}
+,
+// [undefined-UNDEFINED] UNKNOWN: Dorohedoro Season 3
+{"anidb_id":20072,"anilist_id":212618,"mal_id":64290}
+,
+// [undefined-UNDEFINED] UNKNOWN: Dorohedoro Season 3
+{"anisearch_id":21580}
+,
+// [undefined-UNDEFINED] ONA: Dorohedoro Season3
+{"livechart_id":13646}
 ,
 // [2020-SPRING] SPECIAL: Dorohedoro: Ma no Omake
 {"anilist_id":114622,"animeplanet_id":"dorohedoro-ma-no-omake","anisearch_id":15107,"livechart_id":9766,"mal_id":41053}
@@ -22680,10 +23109,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":1780,"anilist_id":20083,"animeplanet_id":"doteraman","anisearch_id":2641,"mal_id":20083}
 ,
 // [2025-SUMMER] TV: Dotoli Munhwasenteo
-{"anilist_id":194033,"animeplanet_id":"dotoli-munhwasenteo","mal_id":61778}
+{"anilist_id":194033,"animeplanet_id":"dotoli-munhwasenteo","anisearch_id":20784,"mal_id":61778}
 ,
-// [2025-SPRING] TV: Dotori Munhwasenteo
-{"anisearch_id":20784}
+// [2025-FALL] MOVIE: Dotori Munhwasenteo: Part1 - Goduri, Chwimi Jioge Ppajida
+{"anisearch_id":21516}
 ,
 // [2025-SUMMER] SPECIAL: Dottabatta Chin Douchuu!
 {"mal_id":62321}
@@ -22854,7 +23283,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"animeplanet_id":"doubutsu-mura-no-jishin-youjin-hi-no-youjin","mal_id":39404}
 ,
 // [1969-WINTER] MOVIE: Doubutsu Mura no Kodomo-tachi
-{"anidb_id":14274,"anilist_id":117973,"animeplanet_id":"doubutsu-mura-no-kodomo-tachi","mal_id":34224}
+{"anidb_id":14274,"anilist_id":117973,"animeplanet_id":"doubutsu-mura-no-kodomo-tachi","anisearch_id":21690,"mal_id":34224}
 ,
 // [1972-UNDEFINED] MOVIE: Doubutsu Mura no Shouboutai
 {"anilist_id":169950,"animeplanet_id":"doubutsu-mura-no-shouboutai","mal_id":39408}
@@ -23066,14 +23495,17 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-WINTER] SPECIAL: Doumei
 {"mal_id":58326}
 ,
-// [2026-UNDEFINED] TV: Doumo, Suki na Hito ni Horegusuri o Irai Sareta Majo desu.
+// [2026-FALL] TV: Doumo, Suki na Hito ni Horegusuri o Irai Sareta Majo desu.
 {"anisearch_id":21219}
 ,
-// [2026-WINTER] TV: Doumo, Suki na Hito ni Horegusuri o Irai Sareta Majo Desu.
+// [2026-FALL] TV: Doumo, Suki na Hito ni Horegusuri o Irai Sareta Majo Desu.
 {"anidb_id":19876}
 ,
-// [2026-UNDEFINED] TV: Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu.
+// [2026-FALL] TV: Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu.
 {"anilist_id":207191,"animeplanet_id":"hi-im-a-witch-and-my-crush-wants-me-to-make-a-love-potion","livechart_id":13508,"mal_id":63409}
+,
+// [2026-SPRING] SPECIAL: Dounika Nacchaisou! (Kurumi Noah Cover)
+{"mal_id":63891}
 ,
 // [2024-SUMMER] SPECIAL: Dounika Naichaisou!
 {"mal_id":60107}
@@ -23092,6 +23524,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2021-WINTER] ONA: Doupo Cangqiong 4th Season
 {"anidb_id":16179,"anilist_id":122639,"animeplanet_id":"fights-break-sphere-4th-season","anisearch_id":16715,"livechart_id":10496,"mal_id":44412}
+,
+// [undefined-UNDEFINED] ONA: Doupo Cangqiong Movie: Shuang Di Zhi Zhan
+{"mal_id":64448}
 ,
 // [2017-SUMMER] ONA: Doupo Cangqiong Special 1
 {"anilist_id":102462,"animeplanet_id":"fights-break-sphere-specials","anisearch_id":13245,"mal_id":36561}
@@ -23291,11 +23726,14 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1981-SUMMER] SPECIAL: Dr. Slump: Arale-chan Ayaya!? Penguin Mura de TV Jack
 {"animeplanet_id":"dr-slump-arale-chan-ayaya-penguin-mura-de-tv-jack","mal_id":30453}
 ,
+// [1983-UNDEFINED] OVA: Dr. Slump: Arale-chan Koutsuu Rule o Mamorou yo!!
+{"anisearch_id":21432}
+,
 // [1983-SPRING] OVA: Dr. Slump: Arale-chan no Koutsuu Anzen
 {"anilist_id":139062,"animeplanet_id":"dr-slump-arale-chan-no-koutsuu-anzen"}
 ,
 // [1983-WINTER] SPECIAL: Dr. Slump: Arale-chan no Koutsuu Anzen
-{"mal_id":30420}
+{"anisearch_id":21603,"mal_id":30420}
 ,
 // [1981-UNDEFINED] SPECIAL: Dr. Slump: Arale-chan Special
 {"animeplanet_id":"dr-slump-arale-chan-special"}
@@ -23406,7 +23844,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":147996,"animeplanet_id":"dragon-ball-super-annecy-festival-60th-anniversary","anisearch_id":21107}
 ,
 // [2026-FALL] TV: Dragon Ball Super: Beerus
-{"anilist_id":206814,"animeplanet_id":"dragon-ball-super-beerus","livechart_id":13497,"mal_id":63367}
+{"anilist_id":206814,"animeplanet_id":"dragon-ball-super-beerus","anisearch_id":21566,"livechart_id":13497,"mal_id":63367}
 ,
 // [2018-FALL] MOVIE: Dragon Ball Super: Broly
 {"anidb_id":13657,"anilist_id":101302,"animeplanet_id":"dragon-ball-super-movie-broly","anisearch_id":13114,"livechart_id":3016,"mal_id":36946}
@@ -23639,8 +24077,14 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1992-FALL] OVA: Dragon Slayer Eiyuu Densetsu: Ouji no Tabidachi
 {"anidb_id":1826,"anilist_id":3025,"animeplanet_id":"dragon-slayer-the-legend-of-heroes","anisearch_id":3484,"livechart_id":7747,"mal_id":3025}
 ,
+// [2026-SUMMER] SPECIAL: Dragon Striker
+{}
+,
 // [2021-SPRING] TV: Dragon, Ie wo Kau.
 {"anidb_id":15142,"anilist_id":112376,"animeplanet_id":"dragon-goes-house-hunting","anisearch_id":14667,"livechart_id":9637,"mal_id":40526}
+,
+// [2023-WINTER] ONA: Dragon's Delusion Assassination
+{}
 ,
 // [2020-UNDEFINED] MOVIE: Dragon's Delusion: Preface
 {"animeplanet_id":"dragons-delusion-preface"}
@@ -23670,7 +24114,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {}
 ,
 // [2022-SPRING] TV: Dramatic Nounai
-{"animeplanet_id":"dra-uma-tic-nounai","mal_id":56345}
+{"anilist_id":213379,"animeplanet_id":"dra-uma-tic-nounai","mal_id":56345}
 ,
 // [2014-SUMMER] TV: DRAMAtical Murder
 {"anidb_id":10554,"anilist_id":20677,"animeplanet_id":"dramatical-murder","anisearch_id":9584,"livechart_id":490,"mal_id":23333}
@@ -23680,6 +24124,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2017-FALL] SPECIAL: Dramaturgy
 {"anilist_id":107179,"animeplanet_id":"eve-dramaturgy","anisearch_id":13669,"mal_id":39164}
+,
+// [2026-SPRING] SPECIAL: Draw.
+{}
 ,
 // [2007-SUMMER] ONA: Drawing!!
 {"anilist_id":127890,"animeplanet_id":"drawing","mal_id":45614}
@@ -24027,10 +24474,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":19884,"anilist_id":187508,"animeplanet_id":"duel-masters-lost-boukyaku-no-taiyou","anisearch_id":20294,"livechart_id":13056,"mal_id":61119}
 ,
 // [undefined-UNDEFINED] ONA: Duel Masters Lost: Danzai no Shounen
-{"anidb_id":19913}
+{}
 ,
 // [undefined-UNDEFINED] ONA: Duel Masters LOST: Danzai no Shounen
-{"animeplanet_id":"duel-masters-lost-danzai-no-shounen"}
+{"anidb_id":19913,"animeplanet_id":"duel-masters-lost-danzai-no-shounen"}
 ,
 // [undefined-UNDEFINED] UNKNOWN: Duel Masters LOST: Danzai no Shounen
 {"anilist_id":208367}
@@ -24087,7 +24534,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":17921,"anilist_id":163256,"animeplanet_id":"duel-masters-win-duel-wars-hen","anisearch_id":18281,"livechart_id":11852,"mal_id":54762}
 ,
 // [2007-FALL] TV: Duel Masters Zero
-{"anidb_id":5525,"anilist_id":10526,"animeplanet_id":"duel-masters-zero","anisearch_id":5082,"mal_id":10526}
+{"anidb_id":5525,"anilist_id":10526,"animeplanet_id":"duel-masters-zero","anisearch_id":5082,"livechart_id":13615,"mal_id":10526}
 ,
 // [2008-WINTER] SPECIAL: Duel Masters Zero: Tokubetsu-hen - Tamashii Shoukan Special!
 {"mal_id":41019}
@@ -24206,7 +24653,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-SUMMER] ONA: Dungeons & Television
 {"anidb_id":19526,"anilist_id":198560,"animeplanet_id":"dungeons-and-television","anisearch_id":20707,"livechart_id":13281,"mal_id":62238}
 ,
-// [2024-UNDEFINED] ONA: Dungeons & Television Pilot Film
+// [2024-SPRING] ONA: Dungeons & Television Pilot Film
 {"anilist_id":206051}
 ,
 // [2021-FALL] SPECIAL: Dunpa Mobile
@@ -24244,6 +24691,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2018-UNDEFINED] TV: Duo Le Yijia
 {"animeplanet_id":"duo-le-yijia","mal_id":47959}
+,
+// [2026-SPRING] ONA: Duo Mei Ka Lianhe Jiuyuan
+{"anisearch_id":21509}
 ,
 // [undefined-UNDEFINED] TV: Duo Na Qingjing Yingyu
 {"mal_id":46978}
@@ -24348,7 +24798,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":12885,"animeplanet_id":"dynamic-super-robots-soushingekki","anisearch_id":8473,"mal_id":12885}
 ,
 // [2014-WINTER] MOVIE: Dynamic Venus
-{"animeplanet_id":"dynamic-venus","anisearch_id":18388,"mal_id":55625}
+{"animeplanet_id":"dynamic-venus","anisearch_id":18388,"livechart_id":13645,"mal_id":55625}
 ,
 // [2021-SPRING] SPECIAL: Dynamite
 {"mal_id":55924}
@@ -24376,6 +24826,18 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2021-WINTER] SPECIAL: e-ma Nodo Ame CMs
 {"animeplanet_id":"e-ma-nodo-ame-cm-vtuber","mal_id":48432}
+,
+// [undefined-UNDEFINED] TV: E, Shanai System Subete One Ope Shiteiru Watashi wo Kaiko desu ka?
+{"anilist_id":212876}
+,
+// [undefined-UNDEFINED] TV: E, Shanai System Subete One Operation shiteiru Watashi wo Kaiko desu ka?
+{"livechart_id":13654,"mal_id":64341}
+,
+// [undefined-UNDEFINED] TV: E, Shanai System Subete Wanope Shiteiru Watashi o Kaiko desu ka?
+{"anisearch_id":21587}
+,
+// [undefined-UNDEFINED] TV: E, Shanai System Subete Wanope Shiteiru Watashi o Kaiko Desuka?
+{"anidb_id":20079}
 ,
 // [2003-SPRING] TV: E's Otherwise
 {"anidb_id":624,"anilist_id":236,"animeplanet_id":"es-otherwise","anisearch_id":1745,"livechart_id":7840,"mal_id":236}
@@ -24482,6 +24944,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2014-WINTER] SPECIAL: Echolocation
 {"anilist_id":102932,"animeplanet_id":"lite-echolocation","mal_id":36069}
 ,
+// [2026-SPRING] ONA: Eclipse of Illusion SP: The Miasma War
+{}
+,
 // [2010-FALL] UNKNOWN: Eco Drive
 {"anisearch_id":10327}
 ,
@@ -24535,6 +25000,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2021-SUMMER] SPECIAL: Ee ja Nai ka
 {"anilist_id":148352,"animeplanet_id":"dannie-may-dont-mind-dance","anisearch_id":16572,"mal_id":52344}
+,
+// [2023-UNDEFINED] OVA: Ee Koto Suru no wa, Ee Mon ya!
+{"anisearch_id":21468}
 ,
 // [2018-WINTER] ONA: Een
 {"anilist_id":105858,"animeplanet_id":"waaah","mal_id":38727}
@@ -24626,6 +25094,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2017-UNDEFINED] MOVIE: EGGY (2017)
 {"animeplanet_id":"eggy-2017"}
 ,
+// [2026-SPRING] SPECIAL: Ego
+{"mal_id":63893}
+,
 // [2019-UNDEFINED] SPECIAL: Ego mo Id mo Tanjun ni
 {"anilist_id":139043}
 ,
@@ -24716,11 +25187,8 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2013-SPRING] MOVIE: Eiga Crayon Shin-chan: Bakauma—! B-Kyū Gourmet Survival!!
 {}
 ,
-// [2025-WINTER] MOVIE: Eiga Crayon Shin-chan: Kikikaikai! Ora no Youkai Vacation
-{"anidb_id":19766}
-,
 // [2026-SUMMER] MOVIE: Eiga Crayon Shin-chan: Kikikaikai! Ora no Youkai Vacation
-{"anisearch_id":21194}
+{"anidb_id":19766,"anisearch_id":21194}
 ,
 // [2024-SUMMER] MOVIE: Eiga Crayon Shin-chan: Ora-tachi no Kyōryū Nikki
 {}
@@ -24738,10 +25206,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {}
 ,
 // [undefined-UNDEFINED] MOVIE: Eiga Girls Band Cry
-{"anidb_id":19608}
+{}
 ,
 // [undefined-UNDEFINED] MOVIE: Eiga Girls Band Cry
-{"anisearch_id":20911}
+{"anidb_id":19608,"anisearch_id":20911}
 ,
 // [2013-SPRING] MOVIE: Eiga Hana Kappa Hana-sake! Pakkaan Chō no Kuni no Daibōken
 {}
@@ -24754,6 +25222,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2025-FALL] MOVIE: Eiga Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsuhen Dai 2 Shou
 {"anisearch_id":20889}
+,
+// [2026-SUMMER] MOVIE: Eiga Meitantei Precure! Fushigi na Niwa to Futari no Himitsu
+{}
 ,
 // [2017-UNDEFINED] MOVIE: Eiga no Yousei: Fill and Moo
 {"animeplanet_id":"eiga-no-yousei-fill-and-moo","mal_id":53125}
@@ -24773,11 +25244,11 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2020-WINTER] MOVIE: Eiga Precure Miracle Leap: Minna to Fushigi na 1-nichi
 {}
 ,
-// [2026-UNDEFINED] MOVIE: Eiga Precure Saishinsaku (Provisional Title)
-{"anilist_id":198654}
-,
 // [2024-WINTER] MOVIE: Eiga Shimajirō Miracle-jima no Nanairo Carnation
 {}
+,
+// [2026-SUMMER] MOVIE: Eiga Sore Ike! Anpanman: Pantan to Yakusoku no Hoshi
+{"anidb_id":20110}
 ,
 // [2021-SPRING] MOVIE: Eiga Soreike! Anpanman Fuwafuwa Fuwari to Kumo no Kuni
 {}
@@ -24832,6 +25303,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1997-SPRING] MOVIE: Eikyuu Kazoku
 {"anidb_id":2777,"anilist_id":1106,"animeplanet_id":"eternal-family","anisearch_id":12,"livechart_id":5941,"mal_id":1106}
+,
+// [2026-SPRING] SPECIAL: Eikyuu ni Karenu Hana
+{"mal_id":64094}
 ,
 // [2024-UNDEFINED] MOVIE: Eikyuu Ten
 {"anilist_id":178387}
@@ -24950,7 +25424,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2007-FALL] TV: Elec-king The Animation
 {"anidb_id":9463,"anilist_id":3243,"animeplanet_id":"elec-king-the-animation","anisearch_id":5630,"mal_id":3243}
 ,
-// [2026-WINTER] TV: Eleceed
+// [2027-WINTER] TV: Eleceed
 {"anidb_id":19425,"anilist_id":195350,"animeplanet_id":"eleceed","anisearch_id":20688,"livechart_id":13218,"mal_id":61944}
 ,
 // [undefined-UNDEFINED] MOVIE: Electone Vostok
@@ -25085,9 +25559,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1993-FALL] OVA: Emblem Take 2
 {"anidb_id":4234,"anilist_id":9837,"animeplanet_id":"emblem-take-2","anisearch_id":1308,"livechart_id":9130,"mal_id":9837}
 ,
-// [2025-FALL] ONA: Embrace in the Dark Night
-{}
-,
 // [1988-WINTER] MOVIE: Embryo
 {"animeplanet_id":"embryo"}
 ,
@@ -25141,6 +25612,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2006-SPRING] OVA: Emono wa Doko da
 {"animeplanet_id":"emono-wa-doko-da","mal_id":52152}
+,
+// [2021-WINTER] SPECIAL: Emotion feat. Wild Nothing
+{"mal_id":64396}
 ,
 // [2020-WINTER] MOVIE: Empty Hands
 {"anilist_id":169382,"animeplanet_id":"empty-hands"}
@@ -25478,8 +25952,11 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2014-SPRING] TV: Er Tu Da Mengxiang
 {"mal_id":45194}
 ,
-// [2020-SPRING] SPECIAL: Erase
-{"anilist_id":138161,"mal_id":56114}
+// [2026-SPRING] SPECIAL: Erai Cypher
+{"mal_id":64086}
+,
+// [2020-UNDEFINED] SPECIAL: Erase
+{"anilist_id":138161}
 ,
 // [2016-WINTER] TV: ERASED
 {}
@@ -25496,14 +25973,11 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2005-WINTER] SPECIAL: Erementar Gerad: Aozora no Senki
 {"anidb_id":8347,"anilist_id":17693,"animeplanet_id":"elemental-gelade-aozora-no-senki","anisearch_id":6982,"mal_id":17693}
 ,
-// [2026-SPRING] TV: Eren the Southpaw
-{}
-,
 // [2006-WINTER] TV: Ergo Proxy
 {"anidb_id":3302,"anilist_id":790,"animeplanet_id":"ergo-proxy","anisearch_id":619,"livechart_id":3603,"mal_id":790}
 ,
-// [undefined-UNDEFINED] MOVIE: Eri
-{"animeplanet_id":"eri","mal_id":58205}
+// [2026-SPRING] MOVIE: Eri
+{"anilist_id":213668,"animeplanet_id":"eri","mal_id":58205}
 ,
 // [2006-WINTER] TV: Erico
 {"anidb_id":4355,"animeplanet_id":"erico","anisearch_id":3579}
@@ -25613,6 +26087,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2020-WINTER] ONA: espresso
 {"anilist_id":158644}
 ,
+// [2012-SUMMER] SPECIAL: Espressoda × Taka no Tsume-dan: Kaijin Seizou-hen
+{"anisearch_id":21719}
+,
 // [2019-SPRING] SPECIAL: Essential Free & Easy
 {"animeplanet_id":"essential-free-easy-cool-wax-danshi","mal_id":39650}
 ,
@@ -25624,9 +26101,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2016-SPRING] SPECIAL: Estima: Sense of Wonder
 {"animeplanet_id":"estima-sense-of-wonder","mal_id":33871}
-,
-// [2016-SPRING] MOVIE: Etaspe Komuy
-{"mal_id":58864}
 ,
 // [1997-SPRING] OVA: Etches
 {}
@@ -25754,7 +26228,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2026-WINTER] MOVIE: Evangelion 30th Anniversary Special
 {}
 ,
-// [2012-SPRING] TV: Evangelion 3D
+// [2012-SPRING] SPECIAL: Evangelion 3D
 {"anidb_id":9200,"anisearch_id":13065}
 ,
 // [undefined-UNDEFINED] UNKNOWN: Evangelion Kanzen Shinsaku Series
@@ -25763,7 +26237,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2007-SUMMER] MOVIE: Evangelion Movie 1: Jo
 {"anidb_id":4847,"anilist_id":2759,"animeplanet_id":"evangelion-1-0-you-are-not-alone","anisearch_id":3879,"livechart_id":3244,"mal_id":2759}
 ,
-// [2009-SUMMER] MOVIE: Evangelion Movie 2: Ha
+// [2009-SPRING] MOVIE: Evangelion Movie 2: Ha
 {"anidb_id":6171,"anilist_id":3784,"animeplanet_id":"evangelion-2-0-you-can-not-advance","anisearch_id":4678,"livechart_id":3243,"mal_id":3784}
 ,
 // [2012-FALL] MOVIE: Evangelion Movie 3: Q
@@ -25835,17 +26309,20 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2019-WINTER] TV: Even a Dad Still Wants It...
 {}
 ,
-// [2026-UNDEFINED] TV: Even a Replica Can Fall in Love
-{}
-,
 // [2017-UNDEFINED] SPECIAL: evening cinema: Wagamama
 {"animeplanet_id":"evening-cinema-wagamama"}
 ,
 // [2019-SPRING] SPECIAL: Ever Green Never End
 {"animeplanet_id":"irodorimidori-ever-green-never-end","mal_id":39793}
 ,
+// [2026-SPRING] ONA: Ever Night
+{}
+,
 // [2019-FALL] SPECIAL: Evergreen
 {}
+,
+// [2021-FALL] ONA: Everlasting God of Sword
+{"anidb_id":16957,"anilist_id":146348,"animeplanet_id":"everlasting-god-of-sword","anisearch_id":17701}
 ,
 // [2011-SPRING] ONA: Everlasting Heart
 {}
@@ -25913,9 +26390,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2002-SPRING] MOVIE: eX-Driver: Nina & Rei Danger Zone
 {"anidb_id":694,"anilist_id":1733,"animeplanet_id":"ex-driver-danger-zone","anisearch_id":881,"livechart_id":8779,"mal_id":1733}
 ,
-// [2025-FALL] SPECIAL: Ex-Otogibanashi
-{"mal_id":63054}
-,
 // [2012-WINTER] OVA: Exaella
 {}
 ,
@@ -25963,6 +26437,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2012-FALL] SPECIAL: Express feat. Silla (múm)
 {"anisearch_id":10154}
+,
+// [2023-SPRING] SPECIAL: Expressions
+{"mal_id":64265}
 ,
 // [1995-UNDEFINED] OVA: Extra
 {}
@@ -26016,10 +26493,13 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"animeplanet_id":"f-chara-all-stars-daishuugou-doraemon-and-perman-kikiippatsu","mal_id":59844}
 ,
 // [2003-FALL] TV: F-Zero: Falcon Densetsu
-{"anidb_id":1058,"anilist_id":3101,"animeplanet_id":"f-zero-falcon-densetsu","anisearch_id":1741,"mal_id":3101}
+{"anidb_id":1058,"anilist_id":3101,"animeplanet_id":"f-zero-falcon-densetsu","anisearch_id":1741,"livechart_id":13668,"mal_id":3101}
 ,
 // [2025-SPRING] SPECIAL: F/ACE Off
 {"anilist_id":210068,"anisearch_id":20939,"mal_id":62317}
+,
+// [2026-SPRING] SPECIAL: F2F
+{"anisearch_id":21556}
 ,
 // [1994-SUMMER] OVA: F3
 {}
@@ -26171,7 +26651,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2012-FALL] OVA: Fairy Tail: Yousei-tachi no Gasshuku
 {"anisearch_id":8291}
 ,
-// [undefined-UNDEFINED] ONA: Fairy Tale Revengers
+// [2024-FALL] ONA: Fairy Tale Revengers
 {}
 ,
 // [1988-FALL] OVA: Fairy Tale Special Selection
@@ -26198,6 +26678,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2019-SPRING] SPECIAL: Fake.Fake.Fake
 {"mal_id":51811}
 ,
+// [2027-UNDEFINED] TV: Fall in Love, You False Angels
+{}
+,
+// [undefined-UNDEFINED] TV: Fall in Love, You False Angels
+{}
+,
 // [2020-SUMMER] SPECIAL: Fall in Sunset
 {"anilist_id":133397,"mal_id":58044}
 ,
@@ -26215,6 +26701,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2004-SPRING] OVA: Famiresu Senshi Purin
 {"anisearch_id":366,"mal_id":2134}
+,
+// [2021-WINTER] SPECIAL: Famous
+{"mal_id":64081}
 ,
 // [2010-FALL] MOVIE: Fan Dou Gao Bi Wan Zhuan Sheng Dan Cheng 3D
 {"animeplanet_id":"little-gobie","mal_id":43317}
@@ -26243,9 +26732,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2021-FALL] SPECIAL: Fanfare!
 {"mal_id":55760}
 ,
-// [undefined-UNDEFINED] ONA: Fang Kai Nage Nuwu (Web)
-{"anidb_id":19716}
-,
 // [1992-UNDEFINED] MOVIE: Fang Lian Yeye He Yuan Lian Nainai
 {"animeplanet_id":"fang-lian-yeye-he-yuan-lian-nainai","mal_id":43904}
 ,
@@ -26260,6 +26746,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2026-WINTER] ONA: Fangkai Nage Nuwu
 {"anidb_id":15583,"anilist_id":137662,"animeplanet_id":"release-that-witch","anisearch_id":16711,"livechart_id":13385,"mal_id":62927}
+,
+// [2026-WINTER] ONA: Fangkai Nage Nuwu (2026)
+{"anidb_id":19716}
 ,
 // [2023-WINTER] ONA: Fangkemeng: Bu Yuan Zhi Dao de Fangxing Baokemeng?!
 {"anilist_id":163619,"animeplanet_id":"cube-shaped-pokemon-on-cubie-island","livechart_id":12112,"mal_id":54648}
@@ -26285,6 +26774,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2026-UNDEFINED] ONA: Fanren Xiu Xian Chuan: Mu Lan Zhi Zhan
 {"animeplanet_id":"fanren-xiu-xian-chuan-mu-lan-zhi-zhan"}
 ,
+// [2026-SUMMER] ONA: Fanren Xiu Xian Chuan: Mulan Zhi Zhan
+{"anidb_id":20098}
+,
 // [2023-UNDEFINED] ONA: Fanren Xiu Xian Chuan: Xing Hai Fei Chi
 {"anilist_id":156062,"animeplanet_id":"fanren-xiu-xian-chuan-xing-hai-fei-chi"}
 ,
@@ -26309,7 +26801,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-WINTER] ONA: Fanren Xiu Xian Zhuan: Chongzhi Ban
 {"anilist_id":159599,"mal_id":54444}
 ,
-// [2026-UNDEFINED] ONA: Fanren Xiu Xian Zhuan: Mulan Zhi Zhan
+// [2026-SPRING] ONA: Fanren Xiu Xian Zhuan: Mulan Zhi Zhan
 {"mal_id":63240}
 ,
 // [2023-FALL] ONA: Fanren Xiu Xian Zhuan: Xinghai Feichi
@@ -26422,9 +26914,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1986-UNDEFINED] SPECIAL: Fat Ma Is Cleanin' the Room: Osouji Mama no Uta
 {"anilist_id":170568}
-,
-// [2025-SUMMER] SPECIAL: FATAL FURY x STREET FIGHTER
-{"mal_id":62170}
 ,
 // [2025-SPRING] SPECIAL: Fatal Fury: City of the Wolves
 {"animeplanet_id":"fatal-fury-city-of-the-wolves","mal_id":61543}
@@ -26556,7 +27045,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":18796,"anilist_id":179991,"animeplanet_id":"fate-grand-order-fujimaru-ritsuka-wa-wakaranai-season-2","anisearch_id":19518,"livechart_id":12786,"mal_id":59465}
 ,
 // [2025-WINTER] SPECIAL: Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Season 2 Specials
-{"animeplanet_id":"fate-grand-order-fujimaru-ritsuka-wa-wakaranai-season-2-specials","anisearch_id":20826,"livechart_id":13001,"mal_id":61167}
+{"anilist_id":213461,"animeplanet_id":"fate-grand-order-fujimaru-ritsuka-wa-wakaranai-season-2-specials","anisearch_id":20826,"livechart_id":13001,"mal_id":61167}
 ,
 // [2025-SUMMER] ONA: Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Season 3
 {"anilist_id":197094,"animeplanet_id":"fategrand-order-fujimaru-ritsuka-wa-wakaranai-season-3","anisearch_id":20807,"livechart_id":13260,"mal_id":62149}
@@ -26618,7 +27107,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2019-FALL] SPECIAL: Fate/Grand Order: Zettai Majuu Sensen Babylonia Recaps
 {"animeplanet_id":"fate-grand-order-absolute-demonic-front-babylonia-recaps","anisearch_id":15056,"mal_id":40761}
 ,
-// [2021-SUMMER] SPECIAL: Fate/Grand Order: Zettai Majuu Sensen Babylonia Summary
+// [2021-SUMMER] SPECIAL: Fate/Grand Order: Zettai Majuu Sensen Babylonia Soushuuhen
 {"anidb_id":18092}
 ,
 // [2014-WINTER] OVA: Fate/kaleid liner Prisma Illya
@@ -26699,6 +27188,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-UNDEFINED] ONA: Fate/Samurai Remnant OP
 {"animeplanet_id":"fatesamurai-remnant-op"}
 ,
+// [2023-SUMMER] SPECIAL: Fate/Samurai Remnant Opening Animation
+{"anisearch_id":21473}
+,
 // [2006-WINTER] TV: Fate/stay night
 {"anidb_id":3348,"anilist_id":356,"animeplanet_id":"fate-stay-night","anisearch_id":3538,"livechart_id":3586,"mal_id":356}
 ,
@@ -26732,11 +27224,8 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2026-WINTER] TV: Fate/strange Fake
 {"anidb_id":18093,"anilist_id":166617,"animeplanet_id":"fate-strange-fake","anisearch_id":18510,"livechart_id":12237,"mal_id":55830}
 ,
-// [undefined-UNDEFINED] TV: Fate/strange Fake (Sequel)
-{"livechart_id":13583}
-,
 // [undefined-UNDEFINED] TV: Fate/strange Fake (Zoku-hen)
-{"anilist_id":209984}
+{"anilist_id":209984,"livechart_id":13583}
 ,
 // [2019-FALL] SPECIAL: Fate/strange Fake PV
 {"anilist_id":114389,"animeplanet_id":"fate-strange-fake-pv","anisearch_id":14895,"mal_id":40982}
@@ -26767,6 +27256,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2020-SUMMER] ONA: Favour
 {}
+,
+// [2026-SPRING] SPECIAL: FBKingdom Story
+{"mal_id":64522}
 ,
 // [2024-FALL] SPECIAL: Fearless
 {"mal_id":63675}
@@ -26801,6 +27293,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-SUMMER] SPECIAL: Feeling Gradation
 {"anilist_id":180936,"anisearch_id":19689,"mal_id":59789}
 ,
+// [2026-WINTER] ONA: FEHxFES: Sakura no o Hanami Picnic
+{"mal_id":63899}
+,
 // [2009-SUMMER] MOVIE: Fei Ba, Pili
 {"animeplanet_id":"fei-ba-pili","mal_id":44680}
 ,
@@ -26834,6 +27329,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2018-SPRING] ONA: Fei Ren Xueyuan
 {"animeplanet_id":"fei-ren-xue-yuan","mal_id":39223}
 ,
+// [2018-SPRING] ONA: Fei Ren Zai
+{"anidb_id":16607}
+,
 // [2018-WINTER] ONA: Fei Ren Zai
 {"anilist_id":103350,"animeplanet_id":"deviant","anisearch_id":14188,"livechart_id":10029,"mal_id":37292}
 ,
@@ -26843,29 +27341,32 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-FALL] ONA: Fei Ren Zai 2 Part 3
 {}
 ,
-// [2024-SUMMER] ONA: Fei Ren Zai 2 Part 3
+// [2024-FALL] ONA: Fei Ren Zai 2 Part 3
 {"anidb_id":18169,"anilist_id":168084}
 ,
 // [2022-SUMMER] ONA: Fei Ren Zai 2nd Season
 {"anidb_id":17816,"anilist_id":151691,"animeplanet_id":"deviant-6th-season","anisearch_id":17601,"mal_id":52523}
 ,
-// [2025-SUMMER] ONA: Fei Ren Zai 3
-{"anilist_id":195886}
-,
 // [2025-SUMMER] ONA: Fei Ren Zai 3rd Season
-{"mal_id":61950}
+{"anilist_id":195886,"mal_id":61950}
 ,
 // [2026-SPRING] ONA: Fei Ren Zai 3rd Season Part 2
-{"mal_id":63788}
+{"anilist_id":211270,"mal_id":63788}
 ,
 // [2025-SUMMER] ONA: Fei Ren Zai Di San Ji
 {"anidb_id":19500}
+,
+// [2026-SPRING] ONA: Fei Ren Zai Di San Ji part 2
+{"anidb_id":20055}
 ,
 // [2024-SUMMER] ONA: Fei Ren Zai Di-er Ji (2024)
 {"anisearch_id":21072}
 ,
 // [2025-SUMMER] ONA: Fei Ren Zai Di-san Ji
 {"anisearch_id":21073}
+,
+// [2018-SPRING] ONA: Fei Ren Zai Part 2
+{"anidb_id":13852}
 ,
 // [2024-WINTER] ONA: Fei Ren Zai Spring Festival Special
 {"animeplanet_id":"deviant-spring-festival-special","mal_id":58048}
@@ -26885,7 +27386,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2020-FALL] ONA: Fei Zhi Baike
 {"anidb_id":16642,"anilist_id":124339,"animeplanet_id":"fei-zhi-baike-yuanlai-ni-shi-zheyang-de-zhiwu","livechart_id":10591,"mal_id":42967}
 ,
-// [2021-SUMMER] ONA: Fei Zhi Baike Yuanlai Ni Shi Zheyang Di Zhiwu
+// [2021-SUMMER] ONA: Fei Zhi Baike Yuanlai Ni Shi Zheyang Di Zhiwu (2021)
 {"anidb_id":16644}
 ,
 // [2024-UNDEFINED] ONA: Fei Zhi Baike: Yuanlai Ni Shi Zheyang de Fa Ming 9th Season
@@ -27114,7 +27615,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":137741,"animeplanet_id":"fengyu-lang-qiao-kunlun-mo-lei","anisearch_id":19525,"mal_id":59367}
 ,
 // [2024-SPRING] ONA: Fengyun Bian
-{"anidb_id":18645,"anilist_id":137649,"animeplanet_id":"fengyun-bian","mal_id":51274}
+{"anidb_id":18645,"anilist_id":137649,"animeplanet_id":"fengyun-bian","anisearch_id":21671,"mal_id":51274}
 ,
 // [2011-SUMMER] TV: Fengyun Qi Dui
 {"animeplanet_id":"fengyun-qi-dui","mal_id":46392}
@@ -27323,6 +27824,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2012-FALL] SPECIAL: Fire Bomber 2012
 {"mal_id":56760}
 ,
+// [2025-WINTER] SPECIAL: Fire Em Up
+{"mal_id":64314}
+,
 // [1996-WINTER] OVA: Fire Emblem
 {"anidb_id":1471,"anilist_id":2782,"animeplanet_id":"fire-emblem","anisearch_id":1224,"livechart_id":6068,"mal_id":2782}
 ,
@@ -27358,6 +27862,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2021-FALL] ONA: Fire Emblem Heroes: Fuyu no Mini Chara Theater
 {"anilist_id":144811}
+,
+// [2025-SPRING] SPECIAL: Fire Emblem Heroes: Kanpeki na Ane-sama desu wa
+{"anisearch_id":21418}
 ,
 // [2022-SPRING] SPECIAL: Fire Emblem Heroes: Lonely Puppeteer (Spring Remix)
 {"animeplanet_id":"fire-emblem-heroes-lonely-puppeteer-spring-remix","anisearch_id":17617,"mal_id":51545}
@@ -27411,10 +27918,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":1080,"anilist_id":725,"animeplanet_id":"first-kiss-story","anisearch_id":1875,"mal_id":725}
 ,
 // [2025-SPRING] MOVIE: First Light
-{"anilist_id":200446,"mal_id":62072}
+{"anilist_id":200446,"anisearch_id":21577,"mal_id":62072}
 ,
 // [2024-SPRING] MOVIE: First Line
-{"anidb_id":19577,"animeplanet_id":"first-line","anisearch_id":19305,"livechart_id":12724,"mal_id":59231}
+{"anidb_id":19577,"anilist_id":211328,"animeplanet_id":"first-line","anisearch_id":19305,"livechart_id":12724,"mal_id":59231}
 ,
 // [2012-WINTER] OVA: First Love
 {"anisearch_id":7737,"mal_id":12957}
@@ -27438,6 +27945,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"animeplanet_id":"fish"}
 ,
 // [2007-SPRING] MOVIE: Fist of the North Star - Legend of Raoh: Chapter of Fierce Fighting
+{}
+,
+// [2027-UNDEFINED] TV: Fist of the North Star: Hokuto no Ken
 {}
 ,
 // [2006-SUMMER] MOVIE: Fist of the North Star: Legend of Heroes
@@ -27501,7 +28011,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"animeplanet_id":"mori-calliope-x-pes-flash-bang","mal_id":60278}
 ,
 // [2002-SPRING] OVA: Flash Eigo
-{"mal_id":63633}
+{"anilist_id":213431,"mal_id":63633}
 ,
 // [2012-WINTER] SPECIAL: FlashBack
 {"anilist_id":13281,"animeplanet_id":"akane-aki-flashback","anisearch_id":8102,"mal_id":13281}
@@ -27557,6 +28067,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1965-SUMMER] SPECIAL: Flipper
 {"anilist_id":179738,"mal_id":56952}
 ,
+// [2026-SPRING] SPECIAL: Flipper (2026)
+{"mal_id":64088}
+,
 // [2015-WINTER] MOVIE: Float
 {"anilist_id":113639,"animeplanet_id":"float","mal_id":42844}
 ,
@@ -27580,9 +28093,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2022-SPRING] ONA: Flow
 {"animeplanet_id":"flow","mal_id":57142}
-,
-// [2021-SUMMER] ONA: Flow Machines
-{"mal_id":55038}
 ,
 // [2019-WINTER] MOVIE: Flow of Life
 {"anilist_id":169669,"animeplanet_id":"flow-of-life"}
@@ -27656,6 +28166,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2021-FALL] SPECIAL: Fly with the Night
 {"anilist_id":141904,"animeplanet_id":"morfonica-fly-with-the-night","mal_id":50169}
 ,
+// [2026-FALL] MOVIE: Flying Ben
+{}
+,
+// [1967-SUMMER] MOVIE: Flying Ben
+{"mal_id":64335}
+,
 // [2009-WINTER] SPECIAL: Flying Messenger
 {"anilist_id":111999,"animeplanet_id":"yumi-matsutoya-flying-messenger","mal_id":39297}
 ,
@@ -27695,17 +28211,11 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-SUMMER] TV: Food Court de, Mata Ashita.
 {"anidb_id":19045,"anilist_id":185519,"animeplanet_id":"see-you-tomorrow-at-the-food-court","anisearch_id":19958,"livechart_id":12966,"mal_id":60508}
 ,
-// [2025-SPRING] TV: Food for the Soul
-{}
-,
 // [2015-UNDEFINED] SPECIAL: Food Wars! Jump Festa 2015 Special
 {"animeplanet_id":"food-wars-jump-festa-2015-special"}
 ,
 // [2016-UNDEFINED] SPECIAL: Food Wars! Jump Festa 2016 Special
 {"animeplanet_id":"food-wars-jump-festa-2016-special"}
-,
-// [2015-FALL] OVA: Food Wars! OVAs
-{"anidb_id":11664}
 ,
 // [2016-UNDEFINED] OVA: Food Wars! Shokugeki no Souma OVA
 {"animeplanet_id":"food-wars-shokugeki-no-souma-ova"}
@@ -27713,7 +28223,16 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2017-UNDEFINED] OVA: Food Wars! Toutsuki Juukketsu
 {"animeplanet_id":"food-wars-toutsuki-juukketsu"}
 ,
-// [2023-UNDEFINED] MOVIE: Football Animals
+// [2026-WINTER] ONA: Fool Night
+{"anidb_id":20121}
+,
+// [2026-WINTER] ONA: Fool Night
+{"anilist_id":213457,"anisearch_id":21751,"mal_id":64459}
+,
+// [undefined-UNDEFINED] ONA: FOOL NIGHT
+{"livechart_id":13682}
+,
+// [2023-WINTER] MOVIE: Football Animals
 {"mal_id":63646}
 ,
 // [2008-FALL] SPECIAL: For
@@ -27778,6 +28297,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2017-WINTER] SPECIAL: Fortissimo Bell
 {"animeplanet_id":"irodorimidori-fortissimo-bell","anisearch_id":16379,"mal_id":36595}
+,
+// [2011-WINTER] OVA: Fortune Arterial
+{}
 ,
 // [2010-FALL] TV: Fortune Arterial: Akai Yakusoku
 {"anidb_id":7890,"anilist_id":8536,"animeplanet_id":"fortune-arterial","anisearch_id":6448,"livechart_id":3785,"mal_id":8536}
@@ -27902,17 +28424,23 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2022-WINTER] ONA: FreakAngels
 {}
 ,
+// [2026-SPRING] SPECIAL: Freaky Deaky Love
+{"mal_id":64272}
+,
 // [2016-SUMMER] TV: Freaky Highschool
 {"animeplanet_id":"freaky-highschool","mal_id":35319}
 ,
 // [2003-UNDEFINED] SPECIAL: Free
 {"anilist_id":124393,"animeplanet_id":"boris-free","mal_id":41708}
 ,
+// [2020-FALL] SPECIAL: Free Fall
+{"mal_id":64185}
+,
 // [2022-SUMMER] SPECIAL: Free Falling
 {"mal_id":55229}
 ,
-// [2019-SPRING] SPECIAL: Free to Go
-{"anisearch_id":18170}
+// [2019-SPRING] SPECIAL: Free To Go
+{"anisearch_id":18170,"mal_id":64277}
 ,
 // [2007-WINTER] OVA: Free Zone
 {}
@@ -28064,7 +28592,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2008-WINTER] ONA: From Osaka with Cheer!
 {"animeplanet_id":"from-osaka-with-cheer","anisearch_id":9822,"mal_id":26347}
 ,
-// [2026-SUMMER] TV: From Overshadowed to Overpowered
+// [2026-SPRING] TV: From Overshadowed to Overpowered
+{}
+,
+// [2026-SPRING] TV: From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage
 {}
 ,
 // [2024-SPRING] SPECIAL: From Tengoku feat. EMA
@@ -28084,6 +28615,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1976-WINTER] MOVIE: Frosty's Winter Wonderland
 {}
+,
+// [2024-WINTER] SPECIAL: Frozen Hands
+{"mal_id":64442}
 ,
 // [2018-UNDEFINED] MOVIE: Fruit In The Bathroom
 {"animeplanet_id":"fruit-in-the-bathroom"}
@@ -28238,6 +28772,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-SUMMER] ONA: Fuji Lieren
 {"anilist_id":199412,"animeplanet_id":"fuji-lieren","mal_id":60234}
 ,
+// [2024-FALL] SPECIAL: Fuji-Q Highland × Aogiri Koukou
+{"anisearch_id":21721}
+,
 // [1990-WINTER] OVA: Fujiko F Fujio no SF Tanpen Theater
 {}
 ,
@@ -28314,7 +28851,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":118110,"animeplanet_id":"man-in-the-tunnel-alley","anisearch_id":19841,"mal_id":41725}
 ,
 // [2025-FALL] SPECIAL: Fukashi
-{"mal_id":62891}
+{"anisearch_id":21367,"mal_id":62891}
 ,
 // [2012-SUMMER] ONA: Fukashigi no Kazoekata
 {"anidb_id":11588,"anilist_id":138990,"animeplanet_id":"fukashigi-no-kazoekata","anisearch_id":11673,"mal_id":30105}
@@ -28360,6 +28897,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2020-FALL] ONA: Fukui-ken × 2.43 Seiin Koukou Danshi Volley-bu Collabo PV
 {"anisearch_id":18890}
+,
+// [1990-UNDEFINED] OVA: Fukuji to Yumihiko: Umi o Watatte Kita Ushikai Shounen
+{"anisearch_id":21387}
 ,
 // [1990-UNDEFINED] MOVIE: Fukuji to Yumihiko: Umi wo Watatte Kita Ushikai Shounen
 {"anilist_id":186857,"mal_id":61111}
@@ -28436,10 +28976,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2002-FALL] SPECIAL: Full Moon wo Sagashite: Kawaii Kawaii Daibouken
 {"anidb_id":13478,"anilist_id":1996,"animeplanet_id":"full-moon-wo-sagashite-cute-cute-adventure","anisearch_id":3915,"livechart_id":7829,"mal_id":1996}
 ,
-// [undefined-UNDEFINED] ONA: Full-Time Magister 7th Season
-{}
-,
-// [2025-UNDEFINED] ONA: Full-Time Magister VII
+// [2026-UNDEFINED] ONA: Full-Time Magister VII
 {"animeplanet_id":"full-time-magister-vii"}
 ,
 // [2003-FALL] TV: Fullmetal Alchemist
@@ -28567,6 +29104,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2006-FALL] TV: Funny Pets 2nd Season
 {"anidb_id":4784,"anilist_id":102032,"animeplanet_id":"funny-pets-2","anisearch_id":3919,"livechart_id":8831,"mal_id":22345}
+,
+// [2026-SPRING] OVA: Furachi
+{"mal_id":64070}
 ,
 // [2010-FALL] SPECIAL: Fure! Fure! Daijoubu!
 {"anilist_id":103931,"animeplanet_id":"fure-fure-daijoubu","mal_id":37690}
@@ -28709,7 +29249,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-SUMMER] MOVIE: Fushigi no Kuni de Alice to: Dive in Wonderland
 {"anidb_id":19110,"anilist_id":186181,"animeplanet_id":"fushigi-no-kuni-de-alice-to-dive-in-wonderland","anisearch_id":20073,"livechart_id":13021,"mal_id":60778}
 ,
-// [2009-FALL] SPECIAL: Fushigi no Kuni e
+// [2010-WINTER] SPECIAL: Fushigi no Kuni e
 {"anidb_id":14157}
 ,
 // [1983-FALL] TV: Fushigi no Kuni no Alice
@@ -29006,6 +29546,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1998-FALL] OVA: Future GPX Cyber Formula Sin
 {"anidb_id":2438,"anilist_id":1395,"animeplanet_id":"cyber-formula-sin","anisearch_id":2484,"livechart_id":8404,"mal_id":1395}
 ,
+// [undefined-UNDEFINED] UNKNOWN: Future GPX Cyber Formula Sin (Sequel Short)
+{"livechart_id":13604}
+,
 // [1994-SPRING] OVA: Future GPX Cyber Formula Zero
 {"anidb_id":2462,"anilist_id":1393,"animeplanet_id":"cyber-formula-zero","anisearch_id":1728,"livechart_id":8403,"mal_id":1393}
 ,
@@ -29046,7 +29589,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":148517,"animeplanet_id":"fuukei-no-shimetsu","mal_id":49195}
 ,
 // [2025-SPRING] OVA: Fuuki Iin to Fuuzoku Katsudou
-{"anisearch_id":20498,"mal_id":61232}
+{"mal_id":61232}
+,
+// [2025-SPRING] ONA: Fuuki Iin to Fuuzoku Katsudou
+{"anisearch_id":20498}
 ,
 // [1992-FALL] OVA: Fuuma no Kojirou: Fuuma Hanran-hen
 {"anidb_id":3096,"anilist_id":4856,"animeplanet_id":"fuma-no-kojirou-fuma-hanran-hen","anisearch_id":1249,"livechart_id":12413,"mal_id":4856}
@@ -29057,7 +29603,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1989-SPRING] OVA: Fuuma no Kojirou: Yasha-hen
 {"anidb_id":3097,"anilist_id":4854,"animeplanet_id":"fuma-no-kojirou-yasha-hen","anisearch_id":2655,"livechart_id":12411,"mal_id":4854}
 ,
-// [undefined-UNDEFINED] TV: Fuun kara no Saikyou Otoko
+// [2027-WINTER] TV: Fuun kara no Saikyou Otoko
 {"anidb_id":19579,"anilist_id":199006,"animeplanet_id":"fuun-kara-no-saikyou-otoko","anisearch_id":20888,"livechart_id":13320,"mal_id":62503}
 ,
 // [2013-SUMMER] OVA: Fuurinkanzan
@@ -29074,6 +29620,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2017-SUMMER] MOVIE: Fuusen Inu Tinny: Nandaka Fushigi na - Kyouryuu no Kuni
 {"anidb_id":12728,"anilist_id":115345,"animeplanet_id":"fuusen-inu-tinny-nandaka-fushigi-na-kyouryuu-no-kuni","anisearch_id":12740,"livechart_id":2680,"mal_id":34756}
+,
+// [2017-SUMMER] MOVIE: Fuusen Inu Tinny: Nandaka Fushigi na - Kyouryuu no Kuni/Kuma no Gakkou: Patissier Jackie to Ohisama no Sweets Makuai Eizou
+{"mal_id":63950}
 ,
 // [1981-SPRING] TV: Fuusen no Doratarou
 {"anidb_id":6310,"anilist_id":5594,"animeplanet_id":"fuusen-no-doratarou","anisearch_id":5220,"mal_id":5594}
@@ -29252,10 +29801,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2021-SUMMER] SPECIAL: Gabuli
 {"anidb_id":16442,"animeplanet_id":"gabuli","mal_id":49454}
 ,
-// [undefined-UNDEFINED] UNKNOWN: Gacha o Mawashite Nakama o Fuyasu Saikyou no Bishoujo Gundan o Tsukuriagero
+// [2027-WINTER] TV: Gacha o Mawashite Nakama o Fuyasu Saikyou no Bishoujo Gundan o Tsukuriagero
 {"anisearch_id":20648}
 ,
-// [undefined-UNDEFINED] SPECIAL: Gacha wo Mawashite Nakama wo Fuyasu: Saikyou no Bishoujo Gundan wo Tsukuriagero
+// [2027-WINTER] TV: Gacha wo Mawashite Nakama wo Fuyasu: Saikyou no Bishoujo Gundan wo Tsukuriagero
 {"anidb_id":19358,"anilist_id":194030,"animeplanet_id":"gacha-girls-corps","livechart_id":13175,"mal_id":61756}
 ,
 // [1965-SUMMER] SPECIAL: Gachagacha Band
@@ -29281,6 +29830,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [undefined-UNDEFINED] SPECIAL: GAEA-TIMA the Gigantis
 {"animeplanet_id":"gaea-tima-the-gigantis"}
+,
+// [1993-WINTER] MOVIE: Gaegeuteukgongdae Robot Twins
+{"anisearch_id":21713}
 ,
 // [1980-WINTER] MOVIE: Gaegujang-i Cheonsa-deul
 {"anidb_id":11806,"anilist_id":16838,"animeplanet_id":"gaegujangi-cheonsadeul","anisearch_id":8551,"mal_id":16838}
@@ -29420,6 +29972,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1984-SPRING] SPECIAL: Gakkou Sakamichi
 {"anilist_id":181469,"mal_id":59405}
 ,
+// [undefined-UNDEFINED] OVA: Gakkou Toire Demae Kyoushitsu
+{"anisearch_id":21454}
+,
 // [2015-SUMMER] TV: Gakkougurashi!
 {"anidb_id":10697,"anilist_id":20754,"animeplanet_id":"school-live","anisearch_id":9804,"livechart_id":627,"mal_id":24765}
 ,
@@ -29430,7 +29985,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"mal_id":29445}
 ,
 // [1986-FALL] MOVIE: Gaksital
-{"animeplanet_id":"gaksital","mal_id":52032}
+{"anilist_id":213164,"animeplanet_id":"gaksital","mal_id":52032}
 ,
 // [2007-SPRING] OVA: Gakuen 2
 {"anisearch_id":4311,"mal_id":4816}
@@ -29452,6 +30007,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2018-FALL] TV: Gakuen Basara
 {"anidb_id":14001,"anilist_id":101470,"animeplanet_id":"gakuen-basara-samurai-high-school","anisearch_id":13538,"livechart_id":3204,"mal_id":37657}
+,
+// [1988-SPRING] OVA: Gakuen Benriya Antique Heart
+{"anidb_id":2648,"anilist_id":5926,"animeplanet_id":"antique-heart","anisearch_id":1838,"livechart_id":7731,"mal_id":5926}
 ,
 // [2015-SPRING] OVA: Gakuen de Jikan yo Tomare
 {"anisearch_id":10267,"mal_id":30243}
@@ -29518,6 +30076,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2002-WINTER] OVA: Gakuen Senki Muryou: Yorinuki Muryou-san Girls Selection
 {"mal_id":38174}
+,
+// [2026-SPRING] SPECIAL: Gakuen Sensen
+{"mal_id":64285}
 ,
 // [2008-SUMMER] OVA: Gakuen Shimai
 {"anisearch_id":4937,"mal_id":5214}
@@ -29804,8 +30365,14 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1980-SPRING] TV: Ganbare Gonbe
 {"anidb_id":6519,"anilist_id":20199,"animeplanet_id":"ganbare-gonbe","anisearch_id":5565,"mal_id":20199}
 ,
+// [1987-UNDEFINED] MOVIE: Ganbare Goshiki Sakura
+{"mal_id":64184}
+,
 // [1992-FALL] SPECIAL: Ganbare My Boy
 {"anilist_id":178412,"mal_id":58403}
+,
+// [1993-UNDEFINED] MOVIE: Ganbare Rockman: Jishin Youjin - Hi no Youjin
+{"mal_id":63897}
 ,
 // [1986-SUMMER] MOVIE: Ganbare Swimmy
 {"anidb_id":7330,"anilist_id":186205,"animeplanet_id":"ganbare-swimmy","anisearch_id":6038,"mal_id":23863}
@@ -29903,6 +30470,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-FALL] MOVIE: Ganbatte Ikimasshoi
 {"anidb_id":18544,"anilist_id":176245,"animeplanet_id":"ganbatte-ikimasshoi","anisearch_id":19140,"livechart_id":12599,"mal_id":58491}
 ,
+// [1979-SUMMER] MOVIE: Gancheob Jabneun Ttoli Janggun
+{"anidb_id":20050}
+,
 // [1979-SUMMER] MOVIE: Gancheopjamneun Ttorijanggun
 {"anilist_id":18319,"animeplanet_id":"gancheopjamneun-ttorijanggun","anisearch_id":9953,"mal_id":18319}
 ,
@@ -29993,11 +30563,11 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2011-SUMMER] TV: Gaotie Xia
 {"mal_id":46505}
 ,
-// [2025-SUMMER] SPECIAL: Gaotteko!
-{"mal_id":62439}
-,
 // [2019-UNDEFINED] ONA: Gaoxiao de Ai Lun
 {"mal_id":47928}
+,
+// [2026-SPRING] SPECIAL: Garakuta Road
+{"mal_id":64209}
 ,
 // [2003-WINTER] TV: Garakuta-doori no Stain
 {"anidb_id":5119,"anilist_id":3519,"animeplanet_id":"ga-ra-ku-ta-mr-stain-on-junk-alley","anisearch_id":4237,"mal_id":3519}
@@ -30068,11 +30638,17 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-SUMMER] SPECIAL: Garou Densetsu x Street Fighter
 {"anilist_id":208049,"mal_id":62976}
 ,
+// [2026-SPRING] ONA: Garou Densetsu: CotW - Mr. Karate
+{"mal_id":64289}
+,
 // [2026-WINTER] ONA: Garou Densetsu: CotW - Nightmare Geese
 {"mal_id":63567}
 ,
 // [2025-SPRING] SPECIAL: Garou Densetsu: CotW - Special Music Video
 {"anisearch_id":20632}
+,
+// [2026-SPRING] ONA: Garou Densetsu: CotW - Wolfgang Krauser
+{"mal_id":64011}
 ,
 // [1994-SUMMER] MOVIE: Garou Densetsu: The Motion Picture
 {"anidb_id":873,"anilist_id":504,"animeplanet_id":"fatal-fury-the-motion-picture","anisearch_id":2949,"livechart_id":7282,"mal_id":504}
@@ -30215,6 +30791,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2006-SUMMER] MOVIE: Ged Senki
 {"anidb_id":4193,"anilist_id":1829,"animeplanet_id":"tales-from-earthsea","anisearch_id":1385,"livechart_id":3090,"mal_id":1829}
 ,
+// [2026-SPRING] SPECIAL: Gedoku Funou Datta
+{"mal_id":64275}
+,
 // [1994-FALL] OVA: Gedou Gakuen
 {"anisearch_id":3150,"mal_id":2340}
 ,
@@ -30317,7 +30896,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [undefined-UNDEFINED] TV: Gei Dou Dou Hu De Xin
 {"mal_id":45742}
 ,
-// [2023-SUMMER] ONA: Gei wo Lai ge Xiao Huli
+// [2023-SUMMER] ONA: Gei Wo Lai Ge Xiao Huli
 {"anidb_id":18634,"anilist_id":137684,"animeplanet_id":"gei-wo-lai-ge-xiao-heshang","mal_id":57078}
 ,
 // [2002-SUMMER] MOVIE: Geisters Movie: Hikari no Shou
@@ -30377,6 +30956,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2027-UNDEFINED] MOVIE: Gekijōban Haikyū!! VS Chiisana Kyojin
 {}
 ,
+// [2026-UNDEFINED] MOVIE: Gekijōban Maebashi Witches: Majo Minarai no Emoemories
+{}
+,
 // [2015-SUMMER] MOVIE: Gekijōban Meiji Tokyo Renka: Yumihari no Serenade
 {}
 ,
@@ -30401,7 +30983,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2015-WINTER] MOVIE: Gekijouban Aoki Hagane no Arpeggio
 {"anidb_id":10715,"anisearch_id":9798}
 ,
-// [2024-UNDEFINED] MOVIE: Gekijouban Banana no Kawa de Subette Korobu Usagi
+// [2024-WINTER] MOVIE: Gekijouban Banana no Kawa de Subette Korobu Usagi
 {"anilist_id":178356}
 ,
 // [2021-SPRING] MOVIE: Gekijouban Bang Dream! Episode of Roselia
@@ -30434,7 +31016,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2002-SUMMER] MOVIE: Gekijouban Geisters: Fractions of the Earth
 {"anidb_id":8610}
 ,
-// [undefined-UNDEFINED] MOVIE: Gekijouban Gochuumon wa Usagi Desuka?
+// [undefined-UNDEFINED] MOVIE: Gekijouban Gochuumon wa Usagi Desuka? We Are Family!
 {}
 ,
 // [2019-FALL] MOVIE: Gekijouban Gundam G no Reconguista
@@ -30452,8 +31034,17 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-FALL] MOVIE: Gekijouban Jujutsu Kaisen "Shibuya Jihen Tokubetsu Henshuuban" x "Shimetsu Kaiyuu Senkou Jouei"
 {"anidb_id":19819}
 ,
+// [2007-FALL] MOVIE: Gekijouban Kara no Kyoukai: The Garden of Sinners
+{"anidb_id":4932}
+,
+// [undefined-UNDEFINED] MOVIE: Gekijouban Kimetsu no Yaiba: Mugen-jou Hen - Dai 2 Shou
+{"anisearch_id":21375}
+,
 // [2015-WINTER] MOVIE: Gekijouban Kyoukai no Kanata: I’ll Be Here
 {"anidb_id":10726,"anisearch_id":9819}
+,
+// [2012-FALL] MOVIE: Gekijouban Mahou Shoujo Madoka Magica
+{"anidb_id":8778}
 ,
 // [2015-SUMMER] MOVIE: Gekijouban Meiji Tokyo Renka
 {"anidb_id":10240,"anisearch_id":9268}
@@ -30463,6 +31054,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2024-SUMMER] ONA: Gekijouban Nintama Rantarou: Dokutake Ninja Tai Saikyou no Gunshi - Gekijou Manner CM
 {"anisearch_id":20201}
+,
+// [undefined-UNDEFINED] MOVIE: Gekijouban Ore dake Level Up na Ken: Beyond the System
+{"anidb_id":20162}
 ,
 // [2014-FALL] MOVIE: Gekijouban Shingeki no Kyojin
 {"anidb_id":10583,"anisearch_id":9587}
@@ -30478,6 +31072,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2019-WINTER] MOVIE: Gekijouban Soushuuhen Made in Abyss
 {"anidb_id":13941,"anisearch_id":13491}
+,
+// [2012-SUMMER] MOVIE: Gekijouban Tiger & Bunny
+{"anidb_id":8805}
 ,
 // [2024-FALL] MOVIE: Gekijо̄-ban Nintama Rantaro Dokutake Ninja-tai Saikyо̄ no Gunshi
 {}
@@ -30518,6 +31115,15 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2020-FALL] SPECIAL: Gekka Bijin (Music)
 {"anilist_id":126201,"animeplanet_id":"gekka-bijin","mal_id":43521}
 ,
+// [undefined-UNDEFINED] TV: Gekkakoku Kiiden
+{"anidb_id":20063,"anilist_id":212507,"livechart_id":13638,"mal_id":64253}
+,
+// [undefined-UNDEFINED] TV: Gekkakoku Kiiden
+{}
+,
+// [undefined-UNDEFINED] TV: Gekkakoku Kiiden
+{"anisearch_id":21574}
+,
 // [2024-WINTER] TV: Gekkan Mousou Kagaku
 {"anidb_id":18202,"anilist_id":169418,"animeplanet_id":"delusional-monthly-magazine","anisearch_id":18699,"livechart_id":12335,"mal_id":56691}
 ,
@@ -30528,10 +31134,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":20869,"animeplanet_id":"monthly-girls-nozaki-kun-specials","anisearch_id":9903,"livechart_id":1083,"mal_id":27633}
 ,
 // [2025-SPRING] ONA: Gekkan! Nanmono Anime
-{"anilist_id":188753,"animeplanet_id":"gekkan-nanmono-anime","anisearch_id":20400,"livechart_id":13111,"mal_id":61297}
+{"anidb_id":19870}
 ,
 // [2025-SPRING] ONA: Gekkan! Nanmono Anime
-{"anidb_id":19870}
+{"anilist_id":188753,"animeplanet_id":"gekkan-nanmono-anime","anisearch_id":20400,"livechart_id":13111,"mal_id":61297}
 ,
 // [1991-FALL] OVA: Gekkō no Pierce: Yumemi to Gin no Bara no Kishi-dan
 {}
@@ -30705,19 +31311,22 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":10172,"anilist_id":181826,"animeplanet_id":"genki-genki-nontan-2006","anisearch_id":9222,"mal_id":25615}
 ,
 // [2009-WINTER] OVA: Genki Genki Non-tan: Deka Deka Arigatou
-{"animeplanet_id":"genki-genki-nontan-deka-deka-arigatou","mal_id":25617}
+{"anilist_id":213631,"animeplanet_id":"genki-genki-nontan-deka-deka-arigatou","mal_id":25617}
 ,
 // [2020-SUMMER] MOVIE: Genki Genki Non-tan: Kirakira Shanshan Ohoshisama☆
 {"anisearch_id":18397,"mal_id":58814}
 ,
 // [2015-SPRING] OVA: Genki Genki Non-tan: Obake Mura Meiro
-{"animeplanet_id":"genki-genki-non-tan-obake-mura-meiro","mal_id":37255}
+{"anilist_id":213633,"animeplanet_id":"genki-genki-non-tan-obake-mura-meiro","mal_id":37255}
 ,
 // [2013-SPRING] OVA: Genki Genki Non-tan: Spoon Tan Tan Tan
-{"animeplanet_id":"genki-genki-nontan-spoon-tan-tan-tan","mal_id":25619}
+{"anilist_id":213632,"animeplanet_id":"genki-genki-nontan-spoon-tan-tan-tan","mal_id":25619}
 ,
 // [2004-FALL] OVA: Genki Genki Non-tan: Utaou! Christmas
-{"animeplanet_id":"genki-genki-nontan-utaou-christmas","mal_id":25613}
+{"anilist_id":213630,"animeplanet_id":"genki-genki-nontan-utaou-christmas","mal_id":25613}
+,
+// [2023-SPRING] OVA: Genki Genki Nontan: Kirakira Shanshan Ohoshisama☆
+{"anilist_id":213634}
 ,
 // [1995-SUMMER] SPECIAL: Genki no Deru Uta
 {"anilist_id":170700,"mal_id":57053}
@@ -30806,14 +31415,14 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [undefined-UNDEFINED] SPECIAL: Genshin Impact
 {"anilist_id":154765,"animeplanet_id":"genshin-impact","livechart_id":11510}
 ,
-// [2025-FALL] SPECIAL: Genshin Impact ✖ Duolingo Korabo PV - Kyukyoku no Ressun
-{"mal_id":63663}
-,
 // [2022-UNDEFINED] ONA: Genshin Impact Chouki Project Shidou Collab PV
 {"animeplanet_id":"genshin-impact-chouki-project-shidou-collab-pv"}
 ,
 // [undefined-UNDEFINED] UNKNOWN: Genshin Impact The Animation
 {"mal_id":63522}
+,
+// [2025-FALL] SPECIAL: Genshin Impact x Duolingo Collab PV - Kyukyoku no Lesson
+{"mal_id":63663}
 ,
 // [2024-UNDEFINED] ONA: Genshin Impact x McDonald's Collab Teaser: Double the Friends, Double the Flavor, Triple the Fun!
 {"animeplanet_id":"genshin-impact-x-mcdonalds-collab-teaser-double-the-friends-double-the-flavor-triple-the-fun"}
@@ -30950,6 +31559,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2002-SUMMER] OVA: Gensoumaden Saiyuuki: Kibou no Zaika
 {"anidb_id":4973,"anilist_id":4476,"animeplanet_id":"saiyuki-interactive","anisearch_id":3487,"livechart_id":9058,"mal_id":4476}
 ,
+// [2025-SUMMER] SPECIAL: Gentle Teaching
+{"mal_id":64513}
+,
 // [1999-SPRING] OVA: Genzai Byoto
 {"anisearch_id":273,"mal_id":4817}
 ,
@@ -31015,6 +31627,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1974-UNDEFINED] MOVIE: Get Back on the Hill
 {"animeplanet_id":"get-back-on-the-hill","mal_id":38877}
+,
+// [2024-SUMMER] SPECIAL: Get It Hot
+{"mal_id":64072}
 ,
 // [2025-FALL] SPECIAL: get lucky
 {}
@@ -31112,6 +31727,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2019-SUMMER] MOVIE: Geukjangpan Banjiui Bimirilgi
 {"anisearch_id":14920}
 ,
+// [2026-SPRING] MOVIE: Geukjangpan Banjjakbanjjak Dallimi: Sing-Along Party
+{"anisearch_id":21501}
+,
 // [2018-SUMMER] MOVIE: Geukjangpan Boing: Super Byeonsinui Bimil
 {"anisearch_id":15770}
 ,
@@ -31136,6 +31754,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2018-WINTER] MOVIE: Geukjangpan Lady Bug 2: Miracle Stone Bimil
 {"anisearch_id":14205}
 ,
+// [2026-SPRING] MOVIE: Geukjangpan MapleStory: Dear My Hero
+{"anisearch_id":21589}
+,
 // [2018-UNDEFINED] MOVIE: Geukjangpan Mini Teukgongdae X
 {"anilist_id":188820}
 ,
@@ -31150,6 +31771,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2017-SPRING] MOVIE: Geukjangpan Ttobot: Robotgundanui Seupgyeok
 {"anisearch_id":12637}
+,
+// [2025-FALL] MOVIE: Geukjangpan Ttolttori: Agigongnyongui Bimil
+{"anisearch_id":21521}
 ,
 // [2022-SPRING] MOVIE: Geukjangpan WillBengers: Susanghan Campingdaesodong
 {"anisearch_id":17857}
@@ -31204,6 +31828,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2021-SPRING] SPECIAL: Ghost (Music)
 {"anilist_id":132692,"animeplanet_id":"suisei-hoshimachi-ghost","mal_id":50030}
+,
+// [2027-WINTER] MOVIE: ghost (Provisional Title)
+{}
 ,
 // [undefined-UNDEFINED] MOVIE: ghost (Working Title)
 {"livechart_id":13189}
@@ -31316,6 +31943,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-WINTER] SPECIAL: Gidalilge
 {"mal_id":54780}
 ,
+// [2023-WINTER] SPECIAL: Gidarilge
+{"anisearch_id":21400}
+,
 // [2018-SPRING] SPECIAL: Giddy Up
 {"mal_id":55154}
 ,
@@ -31337,8 +31967,14 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2018-SUMMER] ONA: Gift±
 {"anidb_id":14404,"anilist_id":126322,"animeplanet_id":"gift-plus-minus","anisearch_id":13905,"livechart_id":3517,"mal_id":38348}
 ,
-// [2018-UNDEFINED] MOVIE: GIFTED
-{"anilist_id":114621,"animeplanet_id":"gifted","anisearch_id":16346}
+// [2027-UNDEFINED] TV: Gifted
+{"anilist_id":212944,"livechart_id":13657,"mal_id":64348}
+,
+// [undefined-UNDEFINED] TV: Gifted
+{}
+,
+// [2027-WINTER] TV: Gifted
+{"anidb_id":20082,"anilist_id":114621,"animeplanet_id":"gifted","anisearch_id":16346}
 ,
 // [2018-SUMMER] SPECIAL: Gifts
 {"anilist_id":140142,"animeplanet_id":"gifts","mal_id":43768}
@@ -31363,6 +31999,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2021-UNDEFINED] SPECIAL: Giga: CH4NGE
 {"animeplanet_id":"giga-ch4nge"}
+,
+// [undefined-UNDEFINED] MOVIE: Gigant
+{"anilist_id":212391,"anisearch_id":21570,"livechart_id":13635,"mal_id":64213}
 ,
 // [1963-FALL] TV: Gigantor
 {}
@@ -31475,6 +32114,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2019-FALL] MOVIE: Ginga Eiyuu Densetsu: Die Neue These - Seiran 3
 {"animeplanet_id":"legend-of-the-galactic-heroes-die-neue-these-second-3","livechart_id":2889,"mal_id":36371}
 ,
+// [2019-FALL] MOVIE: Ginga Eiyuu Densetsu: Die Neue These (2019)
+{"anidb_id":13473}
+,
 // [undefined-UNDEFINED] TV: Ginga Eiyuu Densetsu: Die Neue These (Zoku-hen)
 {"anidb_id":18268,"anilist_id":170816,"animeplanet_id":"legend-of-the-galactic-heroes-die-neue-these-new","anisearch_id":18846,"livechart_id":12399,"mal_id":57071}
 ,
@@ -31586,8 +32228,8 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2000-WINTER] UNKNOWN: Ginga Tetsudou 999: Glass no Clair (2000)
 {"anisearch_id":20020}
 ,
-// [2000-WINTER] MOVIE: Ginga Tetsudou 999: Glass no Clair (3D)
-{"anilist_id":207486}
+// [2000-WINTER] MOVIE: Ginga Tetsudou 999: Glass no Clair 3D
+{"anilist_id":207486,"mal_id":63999}
 ,
 // [2007-SUMMER] MOVIE: Ginga Tetsudou 999: Hoshizora wa Time Machine
 {"anilist_id":12163,"animeplanet_id":"galaxy-express-999-hoshizora-wa-time-machine","anisearch_id":6797,"mal_id":12163}
@@ -31639,6 +32281,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2026-WINTER] MOVIE: Ginga Tokkyuu Milky☆Subway Movie: Kakueki Teisha Gekijou Yuki
 {"anidb_id":19807,"anilist_id":204949,"animeplanet_id":"milkysubway-the-galactic-limited-express-movie","anisearch_id":21094,"livechart_id":13325,"mal_id":62518}
+,
+// [2025-UNDEFINED] ONA: Ginga Tokkyuu Milky☆Subway: PARCO Original Animation
+{"anilist_id":213648}
 ,
 // [2015-UNDEFINED] SPECIAL: Gingahoumen-P: Ashita no Password
 {"animeplanet_id":"gingahoumen-p-ashita-no-password"}
@@ -31727,9 +32372,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2008-SUMMER] SPECIAL: Gintama: Shiroyasha Koutan
 {"anilist_id":6945,"animeplanet_id":"gintama-jump-festa-2008","anisearch_id":5529,"livechart_id":3999,"mal_id":6945}
 ,
-// [2017-FALL] TV: Gintama: Slip Arc
-{"anidb_id":13263}
-,
 // [2021-WINTER] MOVIE: Gintama: The Final
 {"anidb_id":14719,"anilist_id":114129,"animeplanet_id":"gintama-the-very-final","anisearch_id":15184,"livechart_id":9254,"mal_id":39486}
 ,
@@ -31744,6 +32386,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2017-WINTER] TV: Gintama.
 {"anidb_id":12419,"anilist_id":97889,"animeplanet_id":"gintama-2017","anisearch_id":11789,"livechart_id":2336,"mal_id":34096}
+,
+// [2017-FALL] TV: Gintama. (2017)
+{"anidb_id":13263}
 ,
 // [2017-FALL] TV: Gintama. Porori-hen
 {"anilist_id":99714,"animeplanet_id":"gintama-porori-hen","anisearch_id":12704,"livechart_id":2776,"mal_id":35843}
@@ -31798,6 +32443,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2016-SUMMER] SPECIAL: Girl Electric
 {"anilist_id":102648,"animeplanet_id":"the-breakaways-girl-electric","mal_id":35554}
+,
+// [2020-SPRING] SPECIAL: Girl feat. kojikoji
+{"mal_id":64083}
 ,
 // [2024-SPRING] SPECIAL: Girl with pink hair
 {}
@@ -31955,6 +32603,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-FALL] SPECIAL: Girls und Panzer: Motto Love Love Sakusen desu! Specials
 {"mal_id":63598}
 ,
+// [undefined-UNDEFINED] TV: Girls und Panzer: Princess Samurai
+{}
+,
 // [2026-SPRING] MOVIE: Girls und Panzer: Ribbon no Musha
 {"mal_id":63742}
 ,
@@ -32031,10 +32682,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"mal_id":61511}
 ,
 // [2024-SUMMER] MOVIE: Given Movie 3: Umi e
-{"anilist_id":175199,"animeplanet_id":"given-movie-3-umi-e","anisearch_id":19101,"livechart_id":12543,"mal_id":58222}
+{"anilist_id":175199,"animeplanet_id":"given-movie-3-to-the-sea","anisearch_id":19101,"livechart_id":12543,"mal_id":58222}
 ,
 // [2025-FALL] OVA: Given: 10th Mix
-{"mal_id":62634}
+{"anidb_id":19703,"anilist_id":213353,"mal_id":62634}
 ,
 // [2024-SUMMER] SPECIAL: Given: Hiiragi mix Specials
 {"anilist_id":207594}
@@ -32067,7 +32718,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":4888,"anisearch_id":4036}
 ,
 // [2023-FALL] SPECIAL: Glass Mado
-{"mal_id":57326}
+{"animeplanet_id":"king-gnu-glass-window","anisearch_id":21415,"mal_id":57326}
 ,
 // [2005-SPRING] TV: Glass Mask
 {}
@@ -32159,9 +32810,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2016-SUMMER] SPECIAL: Go for 2020
 {"anilist_id":126167,"animeplanet_id":"nihonbashi-city-dressing-for-tokyo-2020","anisearch_id":12515,"mal_id":41298}
 ,
-// [2026-UNDEFINED] TV: Go for It, Nakamura!
-{}
-,
 // [2013-SPRING] SPECIAL: Go Go Smile Anime
 {"anilist_id":104577,"animeplanet_id":"go-go-smile-anime","mal_id":33501}
 ,
@@ -32228,6 +32876,18 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1986-SPRING] TV: Go-Q-Choji Ikkiman
 {"anidb_id":2082,"anilist_id":3433,"animeplanet_id":"gou-q-chouji-ikkiman","anisearch_id":2010,"mal_id":3433}
 ,
+// [undefined-UNDEFINED] OVA: Go-toubun no Hanayome (Shinsaku OVA)
+{"anilist_id":211710}
+,
+// [undefined-UNDEFINED] OVA: Go-Toubun no Hanayome OVA
+{"anisearch_id":21537}
+,
+// [undefined-UNDEFINED] TV: Go-Toubun no Hanayome: [Shunkashuutou]
+{"anisearch_id":21538}
+,
+// [undefined-UNDEFINED] TV: Go-toubun no Hanayome: Shunkashuutou
+{"anilist_id":211709}
+,
 // [2014-WINTER] TV: Go! Go! 575
 {"anidb_id":10255,"anilist_id":20516,"animeplanet_id":"go-go-575","anisearch_id":9260,"livechart_id":301,"mal_id":21267}
 ,
@@ -32260,6 +32920,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2022-WINTER] ONA: Go! Go! Tokyo MER: Kinkyuujitai to Tatakau Nakama-tachi
 {"anilist_id":189717,"animeplanet_id":"gogotokyo-mer-kinkyuujitai-to-tatakau-nakama-tachi","livechart_id":11023,"mal_id":51211}
+,
+// [2022-WINTER] ONA: Go! Go! Tokyo MER: Kinkyuujitai to Tatakau Nakama-tachi
+{"anisearch_id":21704}
 ,
 // [1996-SPRING] SPECIAL: Go! Go! Veggie-tan
 {"animeplanet_id":"go-go-veggie-tan","mal_id":29497}
@@ -32426,6 +33089,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-SPRING] SPECIAL: Goemuli Pineun Sup
 {"mal_id":59958}
 ,
+// [2024-SPRING] SPECIAL: Goemuri Pineun Sup
+{"anisearch_id":21404}
+,
 // [2023-UNDEFINED] MOVIE: Goen to Hokori
 {"anilist_id":175200}
 ,
@@ -32440,6 +33106,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2022-FALL] MOVIE: GoGo Dino Geukjangpan: Eoreumgongnyongui Bimil
 {"anisearch_id":17871}
+,
+// [2025-SUMMER] MOVIE: GoGo Dino Geukjangpan: Gekodomabaemui Kkum
+{"anisearch_id":21522}
+,
+// [2026-WINTER] MOVIE: GoGo Dino Geukjangpan: Gonchungsegye Daemoheom
+{"anisearch_id":21502}
 ,
 // [2017-SUMMER] TV: GoGo Dino Gongnyong Tamheomdae
 {"anisearch_id":16771}
@@ -32525,6 +33197,15 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2012-SUMMER] ONA: Gokicha!!
 {"anidb_id":9434,"anilist_id":10258,"animeplanet_id":"gokicha-cockroach-girls","anisearch_id":8069,"livechart_id":989,"mal_id":10258}
 ,
+// [undefined-UNDEFINED] TV: Gokigen You, Ikkyoku Ikaga?
+{"anidb_id":20128,"anilist_id":213507,"livechart_id":13688,"mal_id":64468}
+,
+// [undefined-UNDEFINED] TV: Gokigen'you, Ikkyoku Ikaga?
+{}
+,
+// [undefined-UNDEFINED] TV: Gokigenyou, Ikkyoku Ikaga?
+{"anisearch_id":21750}
+,
 // [1995-FALL] TV: Gokinjo Monogatari
 {"anidb_id":1387,"anilist_id":852,"animeplanet_id":"gokinjo-monogatari","anisearch_id":1079,"livechart_id":7453,"mal_id":852}
 ,
@@ -32533,6 +33214,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1989-FALL] OVA: Goku II - Midnight Eye
 {}
+,
+// [1990-FALL] OVA: Goku no Chosakken Nyuumon
+{"anidb_id":15434}
 ,
 // [1988-SPRING] SPECIAL: Gokū no Kōtsū Anzen
 {}
@@ -32600,6 +33284,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-WINTER] ONA: Gokushufudou Season 2
 {"anidb_id":17643,"anilist_id":154982,"animeplanet_id":"the-way-of-the-househusband-2","anisearch_id":17743,"livechart_id":11525,"mal_id":53148}
 ,
+// [2026-FALL] MOVIE: Gokuu no Chosakken Nyuumon
+{}
+,
+// [1990-FALL] OVA: Gokuu no Chosakken Nyuumon
+{"mal_id":64337}
+,
 // [1967-WINTER] TV: Gokuu no Daibouken
 {"anidb_id":1517,"anilist_id":2687,"animeplanet_id":"gokuu-no-daibouken","anisearch_id":3094,"livechart_id":12032,"mal_id":2687}
 ,
@@ -32639,9 +33329,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2018-SUMMER] OVA: Golden Kamuy
 {}
 ,
-// [2027-WINTER] UNKNOWN: Golden Kamuy (Saishuushou): Bousou ressha-hen
-{"livechart_id":13589}
-,
 // [2018-FALL] TV: Golden Kamuy 2nd Season
 {"anidb_id":14185,"anilist_id":102977,"animeplanet_id":"golden-kamuy-season-2","anisearch_id":13714,"livechart_id":3357,"mal_id":37989}
 ,
@@ -32656,6 +33343,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2026-UNDEFINED] SPECIAL: Golden Kamuy Final Season: Runaway Train Arc
 {"animeplanet_id":"golden-kamuy-final-season-runaway-train-arc"}
+,
+// [2018-SUMMER] OVA: Golden Kamuy OAD
+{"anidb_id":14085}
 ,
 // [2018-SUMMER] OVA: Golden Kamuy: Barato no Youjinbou/Kaiki! Nazo no Kyodai Tori
 {"anilist_id":101830,"animeplanet_id":"golden-kamuy-ova","anisearch_id":13622,"livechart_id":3247,"mal_id":37884}
@@ -32682,16 +33372,16 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":18081,"anilist_id":166521,"animeplanet_id":"golden-kamuy-final-season","anisearch_id":18483,"livechart_id":12220,"mal_id":55772}
 ,
 // [2027-WINTER] SPECIAL: Golden Kamuy: Saishuushou - Bousou Ressha-hen
-{"anilist_id":210073}
+{}
+,
+// [2027-WINTER] UNKNOWN: Golden Kamuy: Saishuushou - Bousou Resshahen
+{"anilist_id":210073,"anisearch_id":21360,"livechart_id":13589}
 ,
 // [2025-FALL] MOVIE: Golden Kamuy: Sapporo Beer Koujou-hen
 {"anidb_id":19475,"anilist_id":196115,"anisearch_id":20772,"livechart_id":13245}
 ,
 // [2020-SUMMER] OVA: Golden Kamuy: Shiton Doubutsuki
 {"anisearch_id":15964}
-,
-// [2018-SUMMER] OVA: Golden Kamuy: The Bodyguards of Barato/Terror! The Mysterious Giant Bird
-{"anidb_id":14085}
 ,
 // [2023-SUMMER] SPECIAL: Golden Ray
 {"anilist_id":166974,"animeplanet_id":"sangatsu-no-phantasia-golden-ray","mal_id":55908}
@@ -32725,6 +33415,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2019-UNDEFINED] MOVIE: Gomen ne
 {"mal_id":62396}
+,
+// [2022-SPRING] SPECIAL: Gomen ne
+{"anisearch_id":21397}
 ,
 // [2022-SPRING] SPECIAL: Gomen ne (Music)
 {"mal_id":57134}
@@ -32816,6 +33509,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2022-FALL] SPECIAL: Good Day
 {"animeplanet_id":"knowname-good-day","anisearch_id":17991,"mal_id":53270}
 ,
+// [1985-UNDEFINED] MOVIE: Good Kasem and Clever Manee
+{"mal_id":64239}
+,
 // [2019-UNDEFINED] ONA: Good Life
 {"animeplanet_id":"good-life"}
 ,
@@ -32867,7 +33563,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2022-WINTER] MOVIE: Goodbye, Don Glees!
 {"anidb_id":16418,"anilist_id":136302,"animeplanet_id":"goodbye-don-glees","anisearch_id":16439,"livechart_id":10673,"mal_id":49345}
 ,
-// [2026-UNDEFINED] TV: Goodbye, Lara
+// [2026-SUMMER] TV: Goodbye, Lara
 {}
 ,
 // [2023-WINTER] ONA: Goodme: Citron Tea
@@ -32953,6 +33649,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2012-FALL] MOVIE: Gothicmade: Hana no Utame
 {"anidb_id":8618,"anilist_id":7781,"animeplanet_id":"gothicmade-hana-no-utame","anisearch_id":3614,"livechart_id":970,"mal_id":7781}
+,
+// [undefined-UNDEFINED] OVA: Gotōbun no Hanayome
+{}
+,
+// [undefined-UNDEFINED] TV: Gotōbun no Hanayome: Shunkashūtō
+{}
 ,
 // [1995-FALL] MOVIE: Gotou ni Naritai.
 {"anidb_id":4184,"anilist_id":20539,"animeplanet_id":"5-tou-ni-naritai","anisearch_id":1242,"livechart_id":7387,"mal_id":8120}
@@ -33395,17 +34097,14 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2007-FALL] OVA: Grope: Yami no naka no Kotori-tachi
 {"anisearch_id":4575,"mal_id":4732}
 ,
-// [2026-UNDEFINED] MOVIE: Grotesqqque
-{}
-,
-// [2026-WINTER] MOVIE: Grotesque
+// [2026-WINTER] MOVIE: Grotesqqque
 {"anidb_id":18734,"anilist_id":178972,"animeplanet_id":"grotesque","anisearch_id":19756,"livechart_id":12740,"mal_id":59217}
 ,
 // [2015-UNDEFINED] SPECIAL: group_inou: EYE
 {"animeplanet_id":"group-inou-eye"}
 ,
 // [2026-SUMMER] TV: Grow Up Show: Himawari no Circus-dan
-{"anidb_id":19473,"anilist_id":196017,"animeplanet_id":"grow-up-show-himawari-no-circus-dan","anisearch_id":20792,"livechart_id":13244,"mal_id":62051}
+{"anidb_id":19473,"anilist_id":196017,"animeplanet_id":"grow-up-show-sunflower-circus","anisearch_id":20792,"livechart_id":13244,"mal_id":62051}
 ,
 // [1986-SUMMER] SPECIAL: Growing Up
 {}
@@ -33457,6 +34156,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2025-SUMMER] ONA: Gu Wei Nan Ting
 {"anidb_id":19660,"anilist_id":168087,"animeplanet_id":"gu-wei-nan-ting","anisearch_id":18620,"mal_id":62216}
+,
+// [undefined-UNDEFINED] ONA: Gu Wei Nan Ting 2nd Season
+{"mal_id":64456}
 ,
 // [2025-FALL] ONA: Gu Xiong
 {"anidb_id":16717,"anilist_id":120406,"animeplanet_id":"gu-xiong","livechart_id":9955,"mal_id":41912}
@@ -33566,6 +34268,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-FALL] ONA: Guangyin Zhi Wai
 {"anidb_id":19835,"anilist_id":205905,"animeplanet_id":"beyond-times-gaze","mal_id":62340}
 ,
+// [2026-SPRING] ONA: Guangyin Zhi Wai 2
+{"anidb_id":20115,"anilist_id":213356,"mal_id":64398}
+,
 // [2024-FALL] ONA: Guangying Tian Yan Zhan Jia
 {"anilist_id":195890,"animeplanet_id":"guangying-tian-yan-zhan-jia","mal_id":60691}
 ,
@@ -33587,11 +34292,8 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2022-FALL] SPECIAL: Guardian Tales 1-shuunen Kinen Anime PV
 {"anisearch_id":18099}
 ,
-// [2022-FALL] SPECIAL: Guardian Tales 1st Anniversary Anime PV
-{"mal_id":58956}
-,
-// [2021-SUMMER] SPECIAL: Guardian Tales: Anime PV
-{"anilist_id":185776,"mal_id":58968}
+// [2021-UNDEFINED] SPECIAL: Guardian Tales Anime PVs
+{"anilist_id":185776}
 ,
 // [1993-WINTER] SPECIAL: Guardians of the Cosmos
 {}
@@ -33704,14 +34406,17 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-FALL] ONA: Guilty Hole
 {"anisearch_id":20900,"mal_id":62379}
 ,
-// [2026-WINTER] ONA: Guimi Zhi Zhu Tebie Pian: Liewu
-{"anilist_id":199448,"animeplanet_id":"guimi-zhi-zhu-tebie-pian-liewu","anisearch_id":20885,"mal_id":62276}
+// [2026-SPRING] ONA: Guimi Zhi Zhu Specials
+{"anilist_id":199448,"animeplanet_id":"lord-of-mysteries-specials","anisearch_id":20885,"mal_id":62276}
 ,
-// [2025-SPRING] ONA: Guimi Zhi Zhu: Caidan
+// [2025-SPRING] ONA: Guimi Zhi Zhu: Q Ban Xiao Juchang
 {"anilist_id":206875,"anisearch_id":20984,"mal_id":62286}
 ,
-// [2027-UNDEFINED] ONA: Guimi Zhi Zhu: Wu Mian Ren
+// [2027-UNDEFINED] ONA: Guimi Zhi Zhu: Wu Mian Ren Pian
 {"anilist_id":206874,"animeplanet_id":"lord-of-mysteries-2nd-season","mal_id":63632}
+,
+// [2026-SUMMER] ONA: Guimi Zhi Zhu: Xiaochou Pian
+{"livechart_id":13618}
 ,
 // [2025-SPRING] ONA: Guimi Zhi Zhu: Xiaochou Pian
 {"anidb_id":19357,"anilist_id":137667,"animeplanet_id":"lord-of-mysteries","anisearch_id":18606,"livechart_id":13201,"mal_id":49818}
@@ -33772,6 +34477,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1998-UNDEFINED] TV: Gulu Xiansheng
 {"animeplanet_id":"gulu-xiansheng","mal_id":43949}
+,
+// [1968-SPRING] MOVIE: Gum Gum Punch
+{"anilist_id":213436,"mal_id":64336}
 ,
 // [1991-SUMMER] SPECIAL: Gum Shaara
 {"anilist_id":140846,"animeplanet_id":"gum-shaara","mal_id":36349}
@@ -33965,7 +34673,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2006-SUMMER] OVA: Gunparade Orchestra: Ao no Shou - Hikari no Umi kara Tegami o Okurimasu
 {"anidb_id":7298,"animeplanet_id":"gunparade-orchestra-ao-no-shou-hikari-no-umi-kara-tegami-o-okurimasu"}
 ,
-// [2006-WINTER] OVA: Gunparade Orchestra: Midori no Shou - Ookami to Kano Shounen
+// [2006-SPRING] OVA: Gunparade Orchestra: Midori no Shou - Ookami to Kano Shounen
 {"anidb_id":7297}
 ,
 // [2006-WINTER] OVA: Gunparade Orchestra: Shiro no Shou - Aomori Penguin Densetsu
@@ -34202,6 +34910,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2020-WINTER] SPECIAL: Gyakusou Shoujo
 {"anilist_id":177466,"animeplanet_id":"akari-nanawo-gyakusou-shoujo","mal_id":56148}
 ,
+// [2026-SPRING] SPECIAL: Gyakuten
+{"mal_id":64013}
+,
 // [2015-SUMMER] OVA: Gyakuten Majo Saiban: Chijo na Majo ni Sabakarechau The Animation
 {"anisearch_id":10455,"mal_id":30812}
 ,
@@ -34266,10 +34977,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":108646,"animeplanet_id":"gyuunyuu-no-fumoto"}
 ,
 // [2025-FALL] OVA: H na Ane Series The Animation
-{"mal_id":62145}
-,
-// [2025-FALL] OVA: H na Gishi Series The Animation
 {"anisearch_id":20790}
+,
+// [2025-FALL] OVA: H na Onee Series The Animation
+{"mal_id":62145}
 ,
 // [2022-UNDEFINED] SPECIAL: H. Takahashi: Emerald
 {"animeplanet_id":"h-takahashi-emerald"}
@@ -34314,7 +35025,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":180966,"animeplanet_id":"ha-na-ku-so"}
 ,
 // [1985-SPRING] TV: Haai Step Jun
-{"anidb_id":1936,"anilist_id":3022,"animeplanet_id":"haai-step-jun","anisearch_id":3296,"mal_id":3022}
+{"anidb_id":1936,"anilist_id":3022,"animeplanet_id":"haai-step-jun","anisearch_id":3296,"livechart_id":13651,"mal_id":3022}
 ,
 // [2007-UNDEFINED] SPECIAL: Haai! Grasshopper
 {"anilist_id":178520}
@@ -34436,14 +35147,14 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2002-WINTER] TV: Haerowa Toremi
 {"mal_id":48215}
 ,
-// [1991-SUMMER] TV: Haetsal Namu
-{"anisearch_id":18820}
+// [1991-SUMMER] SPECIAL: Haetsal Namu
+{"anisearch_id":18820,"mal_id":64151}
 ,
 // [2016-FALL] TV: Hagane Orchestra
 {"anidb_id":12387,"anilist_id":97608,"animeplanet_id":"hagane-orchestra","anisearch_id":11752,"livechart_id":2315,"mal_id":34013}
 ,
 // [2000-WINTER] OVA: Hage
-{"animeplanet_id":"hage","mal_id":26289}
+{"animeplanet_id":"hage","anisearch_id":21466,"mal_id":26289}
 ,
 // [2012-SUMMER] TV: Hagure Yuusha no Aesthetica
 {"anidb_id":9015,"anilist_id":13161,"animeplanet_id":"aesthetica-of-a-rogue-hero","anisearch_id":7697,"livechart_id":1025,"mal_id":13161}
@@ -34604,6 +35315,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2020-FALL] SPECIAL: Haiiro no Saga
 {"anilist_id":129839,"animeplanet_id":"haiiro-no-saga","mal_id":43438}
 ,
+// [2026-SPRING] SPECIAL: Haiiro no Shoumei
+{"anilist_id":212992,"mal_id":64361}
+,
 // [1978-SUMMER] TV: Haikara-san ga Tooru
 {"anidb_id":2019,"anilist_id":3335,"animeplanet_id":"haikara-san-ga-tooru","anisearch_id":3124,"livechart_id":8735,"mal_id":3335}
 ,
@@ -34622,9 +35336,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2027-UNDEFINED] SPECIAL: Haikyū!! Bakemono-tachi no Iku Tokoro
 {}
 ,
-// [2014-FALL] TV: Haikyu!! OADs
-{"anidb_id":10954}
-,
 // [2017-SUMMER] MOVIE: Haikyu!! Sainō to Sense
 {}
 ,
@@ -34633,6 +35344,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2014-SPRING] TV: Haikyuu!!
 {"anidb_id":10145,"anilist_id":20464,"animeplanet_id":"haikyuu","anisearch_id":9011,"livechart_id":251,"mal_id":20583}
+,
+// [2014-FALL] SPECIAL: Haikyuu!! (2014)
+{"anidb_id":10954}
 ,
 // [2020-WINTER] OVA: Haikyuu!! (OVA)
 {"anilist_id":115217,"animeplanet_id":"haikyuu-ningyou-anime","anisearch_id":16106,"livechart_id":9589,"mal_id":40372}
@@ -35150,8 +35864,8 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1996-WINTER] SPECIAL: Hamburger no Tsukurikata
 {"anilist_id":140737,"animeplanet_id":"hamburger-no-tsukurikata","mal_id":36362}
 ,
-// [2020-SPRING] ONA: Hamefura, 10 Questions For The Student Council Members
-{"mal_id":60379}
+// [2026-SPRING] OVA: Hamehara: Sore Sekuhara desu!
+{"anisearch_id":21545,"mal_id":64301}
 ,
 // [1996-FALL] TV: Hamelin no Violin Hiki
 {"anidb_id":775,"anilist_id":1325,"animeplanet_id":"violinist-of-hamelin","anisearch_id":775,"livechart_id":8397,"mal_id":1325}
@@ -35369,9 +36083,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-SPRING] TV: Hana-Doll*: Reinterpretation of Flowering
 {"anidb_id":18802,"anilist_id":166371,"animeplanet_id":"hanadoll-reinterpretation-of-flowering","anisearch_id":19499,"livechart_id":12115,"mal_id":55710}
 ,
-// [2026-WINTER] TV: Hana-Kimi
-{}
-,
 // [undefined-UNDEFINED] UNKNOWN: Hana, The Last Diviner
 {"anisearch_id":18217}
 ,
@@ -35399,11 +36110,17 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2006-SPRING] SPECIAL: Hanafuusha no Mori
 {"mal_id":58418}
 ,
+// [2026-SPRING] SPECIAL: Hanaikada
+{"anisearch_id":21495,"mal_id":63975}
+,
 // [2010-SPRING] TV: Hanakappa
 {"anidb_id":7415,"anilist_id":8336,"animeplanet_id":"hana-kappa","anisearch_id":6152,"livechart_id":10051,"mal_id":8336}
 ,
 // [2013-SPRING] MOVIE: Hanakappa Movie: Hanasake! Pakkaan♪ Chou no Kuni no Daibouken
 {"anidb_id":9527,"anilist_id":17263,"animeplanet_id":"hana-kappa-movie-hana-sake-pakkaan-chou-no-kuni-no-daibouken","anisearch_id":8209,"mal_id":17263}
+,
+// [2010-UNDEFINED] OVA: Hanakappa no Bousai Kunren: ”Okashi Mochi” de Inochi o Mamorou
+{"anisearch_id":21467}
 ,
 // [2010-WINTER] OVA: Hanakappa no Koutsuu Anzen: Cake wo Momomete Migi, Hidari, Migi
 {"animeplanet_id":"hanakappa-no-koutsuu-anzen-cake-wo-momomete-migi-hidari-migi","mal_id":30927}
@@ -35439,7 +36156,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":6988,"anilist_id":7255,"animeplanet_id":"hanaori","anisearch_id":5775,"mal_id":7255}
 ,
 // [2026-SUMMER] TV: Hanaori-san wa Tensei shitemo Kenka ga Shitai
-{"anidb_id":19594,"anilist_id":199066,"animeplanet_id":"hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai","anisearch_id":20895,"livechart_id":13329,"mal_id":62535}
+{"anidb_id":19594,"anilist_id":199066,"animeplanet_id":"hanaori-san-still-wants-to-fight-in-the-next-life","anisearch_id":20895,"livechart_id":13329,"mal_id":62535}
 ,
 // [1992-SUMMER] OVA: Hanappe Bazooka
 {"anidb_id":2109,"animeplanet_id":"hanappe-bazooka","anisearch_id":1524,"mal_id":4042}
@@ -35462,6 +36179,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1998-FALL] TV: Hanasaka Tenshi Tenten-kun
 {"anidb_id":2240,"anilist_id":9811,"animeplanet_id":"hanasaka-tenshi-tenten-kun","anisearch_id":1107,"mal_id":9811}
 ,
+// [undefined-UNDEFINED] MOVIE: Hanasaka-jiisan
+{"anidb_id":12408}
+,
 // [2009-SPRING] TV: Hanasakeru Seishounen
 {"anidb_id":6329,"anilist_id":5835,"animeplanet_id":"hanasakeru-seishounen","anisearch_id":5177,"livechart_id":5602,"mal_id":5835}
 ,
@@ -35482,9 +36202,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2024-WINTER] SPECIAL: Hanataba
 {"anisearch_id":20097,"mal_id":58536}
-,
-// [2025-SPRING] SPECIAL: hanataba no yo ni aibo shite
-{"mal_id":61739}
 ,
 // [2017-WINTER] UNKNOWN: Hanataba Shima Monogatari
 {"anisearch_id":16308}
@@ -35525,7 +36242,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2026-WINTER] TV: Hanazakari no Kimitachi e
 {"anidb_id":18636,"anilist_id":177580,"animeplanet_id":"hana-kimi","anisearch_id":19267,"livechart_id":12661,"mal_id":58861}
 ,
-// [undefined-UNDEFINED] TV: Hanazakari no Kimitachi e 2nd Season
+// [2026-SUMMER] TV: Hanazakari no Kimitachi e 2nd Season
 {"anidb_id":19961,"anilist_id":209669,"animeplanet_id":"hana-kimi-season-2","anisearch_id":21327,"livechart_id":13564,"mal_id":63780}
 ,
 // [2006-SUMMER] TV: Hanbagui De Gushi
@@ -35909,6 +36626,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2003-SUMMER] TV: Happy☆Lesson Advance
 {"anidb_id":835,"anilist_id":261,"animeplanet_id":"happy-lesson-advance","anisearch_id":2402,"livechart_id":8166,"mal_id":261}
 ,
+// [2004-WINTER] OVA: HAPPY☆LESSON ADVANCE: Bau Bau★Kanna no X'mas Soudou
+{"anilist_id":213365}
+,
 // [2004-SPRING] OVA: Happy☆Lesson The Final
 {"anidb_id":2118,"anilist_id":262,"animeplanet_id":"happy-lesson-the-final","anisearch_id":2077,"livechart_id":8167,"mal_id":262}
 ,
@@ -36002,6 +36722,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2022-FALL] OVA: Harem in the Labyrinth of Another World
 {}
 ,
+// [2026-SUMMER] OVA: Harem Shima e Youkoso!
+{"anisearch_id":21539,"mal_id":64095}
+,
 // [2012-FALL] OVA: Harem Time The Animation
 {"anisearch_id":7972,"mal_id":14991}
 ,
@@ -36047,9 +36770,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2026-WINTER] SPECIAL: Harmony feat. Sasuke Haraguchi, Hatsune Miku
 {"mal_id":63593}
 ,
-// [2025-SUMMER] TV: Harmony of Mille-Feuille
-{}
-,
 // [2022-WINTER] TV: Harpwa Chingudeul
 {"anisearch_id":17362}
 ,
@@ -36072,7 +36792,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":131701,"animeplanet_id":"yorushika-haru-dorobou","anisearch_id":15899,"mal_id":48945}
 ,
 // [2020-SPRING] SPECIAL: Haru Hisagi
-{"anilist_id":120079,"animeplanet_id":"yorushika-haru-hisagi","mal_id":44224}
+{"anilist_id":120079,"animeplanet_id":"yorushika-haru-hisagi","anisearch_id":21414,"mal_id":44224}
 ,
 // [2021-WINTER] SPECIAL: Haru Matsu Waltz
 {"anilist_id":143552,"animeplanet_id":"togo-kiyomaru-haru-matsu-waltz","mal_id":51512}
@@ -36116,13 +36836,19 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2010-WINTER] MOVIE: Haru no Shikumi
 {"anidb_id":11379,"anilist_id":103450,"animeplanet_id":"haru-no-shikumi","anisearch_id":10161,"mal_id":28645}
 ,
+// [2025-FALL] MOVIE: Haru no Umi
+{"mal_id":64179}
+,
 // [1931-WINTER] MOVIE: Haru no Uta
 {"anidb_id":6743,"anilist_id":5868,"animeplanet_id":"haru-no-uta","anisearch_id":5685,"mal_id":5868}
+,
+// [2025-WINTER] SPECIAL: Haru no Yokan
+{"anisearch_id":21393}
 ,
 // [2012-WINTER] SPECIAL: Haru wa Kuru
 {"anidb_id":9029,"anilist_id":13255,"animeplanet_id":"haru-wa-kuru","anisearch_id":7652,"livechart_id":7842,"mal_id":13255}
 ,
-// [2005-WINTER] OVA: Haru wo Daite Ita
+// [2005-WINTER] OVA: Haru wo Daiteita
 {"anidb_id":2600,"anilist_id":747,"animeplanet_id":"embracing-love-cherished-spring","anisearch_id":936,"livechart_id":5322,"mal_id":747}
 ,
 // [2015-WINTER] MOVIE: Haru wo Irodoru
@@ -36245,6 +36971,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2018-SUMMER] OVA: Hasande Ageru
 {"anisearch_id":13670,"mal_id":38036}
 ,
+// [undefined-UNDEFINED] ONA: Haseo Sugoroku
+{"anidb_id":20108}
+,
+// [undefined-UNDEFINED] SPECIAL: Haseo Sugoroku
+{"livechart_id":13670}
+,
 // [2012-SUMMER] ONA: Hashi no Mukou
 {"anidb_id":10649,"anilist_id":20911,"animeplanet_id":"hashi-no-mukou","anisearch_id":9706,"livechart_id":6963,"mal_id":24127}
 ,
@@ -36255,7 +36987,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"animeplanet_id":"hashire-john","mal_id":35021}
 ,
 // [1979-WINTER] MOVIE: Hashire Melos
-{"anidb_id":15058,"animeplanet_id":"run-melos-1979","mal_id":35497}
+{"anidb_id":15058,"anilist_id":213369,"animeplanet_id":"run-melos-1979","mal_id":35497}
 ,
 // [1981-WINTER] SPECIAL: Hashire Melos (1981)
 {"anidb_id":2385,"anilist_id":8554,"animeplanet_id":"run-melos-1981","anisearch_id":2612,"mal_id":8554}
@@ -36289,6 +37021,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2019-FALL] TV: Hataage! Kemono Michi
 {"anidb_id":14618,"anilist_id":107339,"animeplanet_id":"kemono-michi-rise-up","anisearch_id":14109,"livechart_id":9197,"mal_id":39030}
+,
+// [2024-FALL] SPECIAL: Hatachi no Kenketsu CMs
+{"animeplanet_id":"bokura-no-motte-iru-mono","anisearch_id":20059,"mal_id":60627}
 ,
 // [2018-SUMMER] ONA: Hatachi no Ryouma with Kurofune-kun!
 {"animeplanet_id":"hatachi-no-ryouma-with-kurofune-kun","mal_id":38097}
@@ -36372,7 +37107,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":5533,"anilist_id":3298,"animeplanet_id":"hatenkou-yuugi","anisearch_id":4586,"livechart_id":5135,"mal_id":3298}
 ,
 // [2025-FALL] MOVIE: Hateshinaki Scarlet
-{"anidb_id":19073,"anilist_id":185773,"animeplanet_id":"hateshi-naki-scarlet","anisearch_id":20000,"livechart_id":12992,"mal_id":60610}
+{"anidb_id":19073,"anilist_id":185773,"animeplanet_id":"scarlet","anisearch_id":20000,"livechart_id":12992,"mal_id":60610}
 ,
 // [2019-SPRING] SPECIAL: Hato Bus: 70 Shuunen Anime
 {"anisearch_id":14568}
@@ -36597,7 +37332,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"animeplanet_id":"he-wei-dao-x-re-zero-starting-life-in-another-world","anisearch_id":14135,"mal_id":38389}
 ,
 // [2024-FALL] ONA: He Zhong Zhi Hai
-{"anidb_id":19106,"anilist_id":187509,"animeplanet_id":"he-zhong-zhi-hai","mal_id":60246}
+{"anidb_id":19106,"anilist_id":187509,"animeplanet_id":"he-zhong-zhi-hai","anisearch_id":21651,"mal_id":60246}
 ,
 // [1972-WINTER] MOVIE: Head Spoon
 {"anidb_id":11439,"anilist_id":102594,"animeplanet_id":"head-spoon","anisearch_id":11087,"mal_id":30328}
@@ -36677,6 +37412,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-SPRING] SPECIAL: Heart111
 {"mal_id":63108}
 ,
+// [2021-FALL] SPECIAL: Heartache
+{"mal_id":63944}
+,
 // [2022-SPRING] SPECIAL: Heartbeat
 {"anilist_id":154117,"mal_id":55490}
 ,
@@ -36712,6 +37450,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2006-SUMMER] SPECIAL: Heavenly Star
 {"animeplanet_id":"genki-rockets-heavenly-star","mal_id":50225}
+,
+// [undefined-UNDEFINED] TV: Heavily Armed High School Girls
+{}
 ,
 // [1990-SPRING] MOVIE: Heavy
 {"anidb_id":5230,"anilist_id":10964,"animeplanet_id":"heavy","anisearch_id":4316,"mal_id":10964}
@@ -36909,6 +37650,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {}
 ,
 // [2026-SUMMER] TV: Hell Mode
+{}
+,
+// [2026-WINTER] TV: Hell Mode
+{}
+,
+// [2026-SUMMER] TV: Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing
 {}
 ,
 // [2026-SUMMER] TV: Hell Mode: Yarikomi Suki no Gamer wa Hai Settei no Isekai de Musou Suru - Hajimari no Shoukan Samurai Dai 2 Ki
@@ -37292,9 +38039,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2019-SUMMER] SPECIAL: Hello, Happy World! Alien Alien
 {"animeplanet_id":"hello-happy-world-alien-alien"}
 ,
-// [2026-UNDEFINED] TV: Hello, I am a Witch and my Crush Wants me to Make a Love Potion!
-{}
-,
 // [2025-WINTER] SPECIAL: Hello, Sekai
 {"anisearch_id":21247}
 ,
@@ -37508,6 +38252,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2004-UNDEFINED] SPECIAL: Here Comes the Akakage
 {"mal_id":55797}
 ,
+// [undefined-UNDEFINED] TV: Here U Are
+{"anidb_id":20163,"anilist_id":213845,"mal_id":64544}
+,
 // [2017-UNDEFINED] MOVIE: here winter
 {"animeplanet_id":"here-winter"}
 ,
@@ -37601,7 +38348,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2022-WINTER] ONA: Heroine Tarumono! Kiraware Heroine to Naisho no Oshigoto Mini Anime
 {"anilist_id":151985,"animeplanet_id":"heroines-run-the-show-the-unpopular-girl-and-the-secret-task-mini-anime","anisearch_id":20080,"livechart_id":11160,"mal_id":51439}
 ,
-// [undefined-UNDEFINED] TV: Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!
+// [2026-SPRING] TV: Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!
 {}
 ,
 // [2026-SUMMER] TV: Heroine? Seijo? Iie, All Works Maid desu (Hokori)!
@@ -37677,7 +38424,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":165984}
 ,
 // [1991-FALL] SPECIAL: Heukkkokdujanggun
-{"animeplanet_id":"heukkkokdu-janggun","mal_id":42286}
+{"animeplanet_id":"heukkkokdu-janggun","anisearch_id":21714,"mal_id":42286}
 ,
 // [2008-WINTER] MOVIE: Heungbujeon
 {"anidb_id":13264,"anisearch_id":12764}
@@ -37768,6 +38515,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1980-WINTER] MOVIE: Hi no Tori 2772: Ai no CosmoZone
 {"anidb_id":1315,"anilist_id":2793,"animeplanet_id":"phoenix-2772","anisearch_id":2487,"mal_id":2793}
+,
+// [2006-WINTER] ONA: Hi no Tori: Earthkeepers-hen
+{"animeplanet_id":"tezuka-productions-x-timberland-hi-no-tori-earthkeepers-hen","mal_id":64338}
 ,
 // [2023-FALL] MOVIE: Hi no Tori: Eden no Hana
 {"anidb_id":18113,"animeplanet_id":"phoenix-reminiscence-of-flower","anisearch_id":18542,"livechart_id":12262,"mal_id":55970}
@@ -37883,6 +38633,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-SPRING] TV: Hibi wa Sugiredo Meshi Umashi
 {"anidb_id":19083,"anilist_id":185939,"animeplanet_id":"food-for-the-soul","anisearch_id":20045,"livechart_id":13000,"mal_id":60658}
 ,
+// [2026-UNDEFINED] ONA: Hibi Yōyō to.
+{}
+,
 // [2015-SPRING] TV: Hibike! Euphonium
 {"anidb_id":10889,"anilist_id":20912,"animeplanet_id":"sound-euphonium","anisearch_id":10076,"livechart_id":1267,"mal_id":27989}
 ,
@@ -37988,6 +38741,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2011-SPRING] TV: Hidan no Aria
 {"anidb_id":8109,"anilist_id":8630,"animeplanet_id":"aria-the-scarlet-ammo","anisearch_id":6226,"livechart_id":1528,"mal_id":8630}
 ,
+// [undefined-UNDEFINED] UNKNOWN: Hidan no Aria (Shinsaku Short Anime)
+{"mal_id":63960}
+,
+// [undefined-UNDEFINED] UNKNOWN: Hidan no Aria (Short Anime)
+{"livechart_id":13603}
+,
 // [2015-FALL] TV: Hidan no Aria AA
 {"anidb_id":10980,"anilist_id":20991,"animeplanet_id":"aria-the-scarlet-ammo-aa","anisearch_id":10088,"livechart_id":1331,"mal_id":28883}
 ,
@@ -38004,7 +38763,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":156059,"animeplanet_id":"hidari-pilot","anisearch_id":18719,"mal_id":55191}
 ,
 // [2026-SPRING] TV: Hidarikiki no Eren
-{"anidb_id":17751,"anilist_id":158036,"animeplanet_id":"hidarikiki-no-eren","anisearch_id":17926,"livechart_id":11690,"mal_id":53732}
+{"anidb_id":17751,"anilist_id":158036,"animeplanet_id":"eren-the-southpaw","anisearch_id":17926,"livechart_id":11690,"mal_id":53732}
 ,
 // [2022-SUMMER] SPECIAL: Hidden Region
 {"anilist_id":155841,"animeplanet_id":"trigger-hidden-region","mal_id":53071}
@@ -38202,7 +38961,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":14418,"anilist_id":104307,"animeplanet_id":"hi-score-girl-extra-stage","anisearch_id":13914,"livechart_id":3542,"mal_id":38422}
 ,
 // [2012-WINTER] SPECIAL: High Score Specials
-{"animeplanet_id":"high-score-specials","mal_id":59991}
+{"animeplanet_id":"high-score-specials","anisearch_id":21694,"mal_id":59991}
 ,
 // [2022-WINTER] SPECIAL: High Tide
 {}
@@ -38212,6 +38971,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2015-FALL] MOVIE: High☆Speed! Movie: Free! Starting Days
 {"anidb_id":11155,"anilist_id":21158,"animeplanet_id":"high-speed-free-starting-days","anisearch_id":10312,"livechart_id":1466,"mal_id":30415}
+,
+// [2023-SPRING] SPECIAL: Higher
+{"mal_id":64315}
 ,
 // [2014-WINTER] ONA: Higher Sky
 {}
@@ -38249,6 +39011,18 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2006-SPRING] TV: Higurashi no Naku Koro ni
 {"anidb_id":3574,"anilist_id":934,"animeplanet_id":"when-they-cry-higurashi","anisearch_id":1931,"livechart_id":3604,"mal_id":934}
 ,
+// [undefined-UNDEFINED] UNKNOWN: Higurashi no Naku Koro ni
+{"anisearch_id":21744}
+,
+// [undefined-UNDEFINED] TV: Higurashi no Naku Koro ni (Shin Anime)
+{"anilist_id":213396}
+,
+// [undefined-UNDEFINED] TV: Higurashi no Naku Koro ni (Shinsaku TV Animation)
+{"mal_id":64449}
+,
+// [undefined-UNDEFINED] TV: Higurashi no Naku Koro ni (shinsaku TV anime)
+{"anidb_id":20119}
+,
 // [2020-FALL] TV: Higurashi no Naku Koro ni Gou
 {"anidb_id":15350,"anilist_id":114446,"animeplanet_id":"higurashi-when-they-cry-gou","anisearch_id":14878,"livechart_id":9758,"mal_id":41006}
 ,
@@ -38275,6 +39049,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2007-SUMMER] SPECIAL: Higurashi no Naku Koro ni Special: Nekogoroshi-hen
 {"anilist_id":2899,"animeplanet_id":"when-they-cry-higurashi-nekogoroshi-hen","anisearch_id":4677,"livechart_id":3996,"mal_id":2899}
+,
+// [undefined-UNDEFINED] TV: Higurashi: When They Cry
+{"livechart_id":13677}
 ,
 // [2025-SUMMER] SPECIAL: Hihifoo
 {"anilist_id":196283,"mal_id":62041}
@@ -38514,9 +39291,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anisearch_id":9157,"mal_id":20995}
 ,
 // [2026-SPRING] TV: Himekishi wa Barbaroi no Yome
-{"anidb_id":18898,"anilist_id":182483,"animeplanet_id":"the-barbarians-bride","anisearch_id":19669,"livechart_id":12867,"mal_id":60028}
+{"anidb_id":18898,"anilist_id":182483,"animeplanet_id":"the-warrior-princess-and-the-barbaric-king","anisearch_id":19669,"livechart_id":12867,"mal_id":60028}
 ,
-// [undefined-UNDEFINED] TV: Himekishi-sama no Himo
+// [2027-WINTER] TV: Himekishi-sama no Himo
 {"anidb_id":19160,"anilist_id":186741,"animeplanet_id":"the-kept-man-of-the-princess-knight","anisearch_id":20182,"livechart_id":13042,"mal_id":61015}
 ,
 // [2024-WINTER] TV: Himesama "Goumon" no Jikan desu
@@ -38553,7 +39330,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"mal_id":57098}
 ,
 // [2024-SUMMER] ONA: Himitsu Doushi
-{"anisearch_id":19688}
+{"anilist_id":213429,"anisearch_id":19688,"mal_id":64422}
 ,
 // [2013-SUMMER] MOVIE: Himitsu Kessha Taka no Tsume GO: Utsukushiki Elleair Shōshū Plus
 {}
@@ -38755,6 +39532,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1993-WINTER] OVA: Hinamatsuri (OVA)
 {"anidb_id":13435,"animeplanet_id":"hinamatsuri-1993","anisearch_id":12808,"livechart_id":6408,"mal_id":35102}
+,
+// [1983-WINTER] SPECIAL: Hinamatsuri Anime Fantasy! Uchuu no Hate made Bouken Ryokoi Romantic Ginga Tour e no wo Shoutai!!
+{"mal_id":64323}
 ,
 // [2013-FALL] MOVIE: Hinata no Aoshigure
 {"anidb_id":10086,"anilist_id":20471,"animeplanet_id":"hinata-no-aoshigure","anisearch_id":9026,"livechart_id":289,"mal_id":20673}
@@ -38981,9 +39761,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2018-WINTER] ONA: Hitori no Shita: The Outcast 2nd Season Episode 0
 {}
 ,
-// [2026-UNDEFINED] ONA: Hitori no Shita: The Outcast 6
-{"animeplanet_id":"hitori-no-shita-the-outcast-6"}
-,
 // [2025-WINTER] SPECIAL: Hitori no Yoru to Sekiryoku
 {"anilist_id":192634,"animeplanet_id":"hitori-no-yoru-to-sekiryoku","anisearch_id":20502,"mal_id":61097}
 ,
@@ -38995,6 +39772,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2024-FALL] TV: Hitoribocchi no Isekai Kouryaku
 {"anidb_id":18432,"anilist_id":173693,"animeplanet_id":"loner-life-in-another-world","anisearch_id":19025,"livechart_id":12508,"mal_id":57891}
+,
+// [undefined-UNDEFINED] TV: Hitoribocchi no Isekai Kouryaku 2
+{"anidb_id":20166}
 ,
 // [2019-SPRING] TV: Hitoribocchi no Marumaru Seikatsu
 {"anidb_id":13989,"anilist_id":101386,"animeplanet_id":"hitoribocchi-no-oo-seikatsu","anisearch_id":13528,"livechart_id":3193,"mal_id":37614}
@@ -39088,6 +39868,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2006-WINTER] OVA: Hitou Meguri The Animation: Wakaokami, Rachiru
 {"anisearch_id":3029,"mal_id":4365}
+,
+// [undefined-UNDEFINED] TV: Hitozukiai ga Nigate na Miboujin no Yukionna-san to Noroi no Yubiwa
+{"anilist_id":212667,"livechart_id":13647,"mal_id":64298}
+,
+// [undefined-UNDEFINED] TV: Hitozukiai ga Nigate na Miboujin no Yukionna-san to Noroi no Yubiwa
+{"anisearch_id":21584}
 ,
 // [2004-WINTER] OVA: Hitozuma Cosplay Kissa
 {"anisearch_id":199,"mal_id":2958}
@@ -39185,11 +39971,17 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2022-FALL] MOVIE: Hodong Wangjawa Laglang Gongju (2022)
 {"mal_id":58527}
 ,
-// [1980-FALL] TV: Hoero! Bun Bun
+// [1980-FALL] TV: Hoero Bunbun
 {"anidb_id":3304,"anilist_id":4511,"animeplanet_id":"hoero-bun-bun","anisearch_id":1901,"mal_id":4511}
 ,
-// [1987-SPRING] MOVIE: Hoero! Bun Bun (Movie)
+// [1980-SPRING] SPECIAL: Hoero Bunbun
+{"anilist_id":213641}
+,
+// [1987-SPRING] MOVIE: Hoero Bunbun (Movie)
 {"anidb_id":3956,"anilist_id":10509,"animeplanet_id":"hoero-bun-bun-movie","anisearch_id":2267,"mal_id":10509}
+,
+// [1980-SPRING] SPECIAL: Hoero Bunbun (TV Special)
+{"mal_id":64249}
 ,
 // [1964-SPRING] SPECIAL: Hogaraka Sonchou-san
 {"anilist_id":179282,"mal_id":57177}
@@ -39221,6 +40013,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1999-SUMMER] OVA: Hokenshitsu de Aimashou
 {"anisearch_id":6219,"mal_id":9503}
 ,
+// [2026-SPRING] TV: Hokkai Doubutsu
+{"anisearch_id":21362}
+,
 // [2024-WINTER] TV: Hokkaido Gals Are Super Adorable!
 {}
 ,
@@ -39245,17 +40040,32 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1982-WINTER] MOVIE: Hokseong Robot Sseondeo A
 {"anidb_id":9652,"anilist_id":16828,"animeplanet_id":"hokseong-robot-sseondeo-a","anisearch_id":8904,"mal_id":16828}
 ,
+// [undefined-UNDEFINED] TV: Hokuhokusei ni Kumo to Ike
+{"anilist_id":211538,"livechart_id":13620,"mal_id":64064}
+,
+// [undefined-UNDEFINED] TV: Hokuhokusei ni Kumo to Yuke
+{"anisearch_id":21506}
+,
+// [undefined-UNDEFINED] TV: Hokuhokusei ni Kumori to Yuke
+{"anidb_id":20029}
+,
 // [2007-SPRING] OVA: Hokuro Brother's The Origin
 {}
 ,
 // [2007-SPRING] ONA: Hokuro Kyoudai Full Throttle!!!!
 {"anidb_id":5239,"anilist_id":5207,"animeplanet_id":"hokuro-kyodai-full-throttle","anisearch_id":4309,"mal_id":5207}
 ,
+// [undefined-UNDEFINED] TV: Hokuto no Ken
+{}
+,
 // [1984-FALL] TV: Hokuto no Ken
 {"anidb_id":386,"anilist_id":967,"animeplanet_id":"fist-of-the-north-star","anisearch_id":3053,"livechart_id":4523,"mal_id":967}
 ,
-// [2026-UNDEFINED] TV: Hokuto no Ken -Fist of the North Star-
-{}
+// [undefined-UNDEFINED] TV: Hokuto no Ken -Fist of the North Star- Cour 2
+{"livechart_id":13691}
+,
+// [2027-WINTER] TV: Hokuto no Ken (2027)
+{"anidb_id":20134}
 ,
 // [1987-SPRING] TV: Hokuto no Ken 2
 {"anidb_id":984,"anilist_id":1356,"animeplanet_id":"fist-of-the-north-star-2","anisearch_id":1672,"livechart_id":6672,"mal_id":1356}
@@ -39269,8 +40079,20 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2026-SPRING] TV: Hokuto no Ken: Fist of the North Star
 {"anidb_id":18190,"anilist_id":169228,"animeplanet_id":"fist-of-the-north-star-2026","anisearch_id":18686,"livechart_id":12325,"mal_id":56646}
 ,
+// [2027-UNDEFINED] TV: Hokuto no Ken: Fist of the North Star - Dai 2 Cour
+{"anisearch_id":21755}
+,
+// [2027-UNDEFINED] TV: Hokuto no Ken: Fist of the North Star Part 2
+{"anilist_id":213627,"mal_id":64487}
+,
+// [2026-SUMMER] TV: Hokuto no Ken: Kenou-gun Zako-tachi no Banka 2
+{"anilist_id":213506,"anisearch_id":21736}
+,
 // [2026-WINTER] TV: Hokuto no Ken: Kenougun Zako-tachi no Banka
 {"anilist_id":198720,"animeplanet_id":"elegy-for-the-henchmen-fist-of-the-north-star","anisearch_id":21064,"livechart_id":13316,"mal_id":62987}
+,
+// [2026-SUMMER] TV: Hokuto no Ken: Kenougun Zako-tachi no Banka Part 2
+{"mal_id":64378}
 ,
 // [2006-SUMMER] SPECIAL: Hokuto no Ken: Legend of Heroes
 {"anidb_id":9159,"anilist_id":7363,"animeplanet_id":"hokuto-no-ken-legend-of-heroes","anisearch_id":5943,"livechart_id":6822,"mal_id":7363}
@@ -39316,6 +40138,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2018-SUMMER] SPECIAL: Hollowness
 {"anilist_id":107740,"animeplanet_id":"minami-hollowness","anisearch_id":15872,"mal_id":39114}
+,
+// [2019-SPRING] ONA: Holo no Graffiti
+{}
 ,
 // [2019-SPRING] ONA: Holo no Graffiti
 {"anidb_id":15971,"anilist_id":118123,"animeplanet_id":"holo-no-graffiti","anisearch_id":16354,"livechart_id":10320,"mal_id":44042}
@@ -39407,6 +40232,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2021-WINTER] MOVIE: HOME!
 {}
 ,
+// [2026-SPRING] SPECIAL: Homie's Tie!!
+{"mal_id":64506}
+,
 // [2015-SUMMER] SPECIAL: Hommexit
 {"mal_id":55927}
 ,
@@ -39435,7 +40263,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"mal_id":56075}
 ,
 // [2023-WINTER] SPECIAL: Honey
-{"mal_id":63314}
+{"anisearch_id":21372,"mal_id":63314}
 ,
 // [2025-FALL] OVA: Honey Blonde 2
 {"mal_id":62339}
@@ -39752,6 +40580,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-FALL] SPECIAL: Hongami Precious Moment
 {"anilist_id":184896,"mal_id":60368}
 ,
+// [2021-FALL] SPECIAL: Hongcheongi
+{"anisearch_id":21709}
+,
 // [2006-UNDEFINED] TV: Hongdou Ya
 {"mal_id":46066}
 ,
@@ -39992,6 +40823,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2013-SPRING] SPECIAL: HORIZON feat. Hatsune Miku
 {"anilist_id":19185,"animeplanet_id":"hachioji-p-horizon","anisearch_id":11860,"mal_id":19185}
 ,
+// [2026-WINTER] SPECIAL: Hormel x Jue Qu Ling Liandong PV: Shi Lai YUnzhuan, Chun Zhi Yunkui!
+{"mal_id":63905}
+,
 // [2017-FALL] SPECIAL: Horny
 {"anilist_id":103391,"animeplanet_id":"mtv-horny-id","mal_id":36750}
 ,
@@ -40166,9 +41000,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-WINTER] ONA: Hoshi X kara no Rakko
 {"anilist_id":199488,"animeplanet_id":"hoshi-x-kara-no-rakko","mal_id":59640}
 ,
-// [2024-FALL] SPECIAL: Hoshi-gai sui sei o tokiakase! Stellar Stellar
-{"mal_id":60540}
-,
 // [2019-FALL] TV: Hoshiai no Sora
 {"anidb_id":14200,"anilist_id":104052,"animeplanet_id":"stars-align","anisearch_id":13732,"livechart_id":3318,"mal_id":37972}
 ,
@@ -40284,7 +41115,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":112127,"animeplanet_id":"oresama-hotohashiru","anisearch_id":14582,"mal_id":38106}
 ,
 // [2005-SUMMER] SPECIAL: Hotori: Tada Saiwai wo Koinegau
-{"anidb_id":2842,"anilist_id":475,"animeplanet_id":"hotori-tada-saiwai-wo-koinegau","anisearch_id":1731,"mal_id":475}
+{"anidb_id":2842,"anilist_id":475,"animeplanet_id":"hotori-tada-saiwai-wo-koinegau","anisearch_id":1731,"livechart_id":13610,"mal_id":475}
 ,
 // [2020-UNDEFINED] MOVIE: Hotsure ni Fureru
 {"animeplanet_id":"hotsure-ni-fureru"}
@@ -40442,8 +41273,8 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1981-WINTER] MOVIE: Houzi Lao Yue
 {"anidb_id":12556,"anilist_id":150584,"animeplanet_id":"houzi-lao-yue","anisearch_id":13404,"mal_id":43503}
 ,
-// [2026-WINTER] ONA: How dare you!? Season 2
-{}
+// [2025-WINTER] SPECIAL: How Easy
+{"anisearch_id":21405}
 ,
 // [2019-SUMMER] SPECIAL: How Ge Yuzhou
 {"anisearch_id":15169}
@@ -40453,6 +41284,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2014-WINTER] SPECIAL: How Low Sympathy
 {"animeplanet_id":"scenarioart-how-low-sympathy","mal_id":34424}
+,
+// [undefined-UNDEFINED] TV: How Not to Summon a Demon Lord Season 3
+{}
 ,
 // [2011-UNDEFINED] MOVIE: How to Eat Your Apple
 {"animeplanet_id":"how-to-eat-your-apple"}
@@ -40487,6 +41321,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-SPRING] ONA: HoYoFair: Shinkou no Sakai - Shinjitsu no Eneki
 {"anisearch_id":19352}
 ,
+// [2026-SPRING] SPECIAL: HoYoHoYo ni Shite Ageru♪
+{"mal_id":64010}
+,
 // [2014-FALL] OVA: Hōzuki no Reitetsu
 {}
 ,
@@ -40517,9 +41354,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1978-UNDEFINED] MOVIE: Hu Li Da Lieren
 {"animeplanet_id":"huli-da-lieren","mal_id":43399}
 ,
-// [2024-SPRING] ONA: Hu Ming: Fenghuo Sanyue
-{"anisearch_id":19215}
-,
 // [1993-UNDEFINED] MOVIE: Hu Seng
 {"anilist_id":149119,"animeplanet_id":"hu-seng","mal_id":43829}
 ,
@@ -40534,6 +41368,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2025-WINTER] ONA: Hu Yao Xiao Hongniang: Huang Feng Ling Pian
 {"anidb_id":18928}
+,
+// [2024-SUMMER] ONA: Hu Yao Xiao Hongniang: Jinghuayuan Pian
+{"anisearch_id":21667}
 ,
 // [2016-SPRING] ONA: Hu Yao Xiao Hongniang: Yue Hong Pian
 {"anisearch_id":18635,"livechart_id":4704}
@@ -40616,11 +41453,17 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2020-WINTER] ONA: Hua Qian Gu: Hua Hun Zhi Lu
 {"anilist_id":206074,"animeplanet_id":"hua-qian-gu-hua-hun-zhi-lu","mal_id":45121}
 ,
-// [undefined-UNDEFINED] ONA: Hua Xianzi: Mofa Xiang Dui Lun
-{"anilist_id":168134,"animeplanet_id":"hua-xianzi-mofa-xiang-dui-lun","anisearch_id":20273,"livechart_id":12295,"mal_id":56234}
+// [2026-SUMMER] ONA: Hua Xianzi: Mofa Xiang Dui Lun
+{"anidb_id":20164,"anilist_id":168134,"animeplanet_id":"hua-xianzi-mofa-xiang-dui-lun","anisearch_id":20273,"livechart_id":12295,"mal_id":56234}
 ,
 // [undefined-UNDEFINED] TV: Huahua Shizhe
 {"mal_id":47744}
+,
+// [2012-SPRING] TV: Huainanzi Chuanqi
+{"anidb_id":14676,"anilist_id":103757,"animeplanet_id":"huainanzi-chuanqi","anisearch_id":16153,"mal_id":31892}
+,
+// [2014-WINTER] TV: Huainanzi Chuanqi 2nd Season
+{"anidb_id":14677,"anilist_id":103756,"animeplanet_id":"huainanzi-chuanqi-2nd-season","anisearch_id":16318,"mal_id":31893}
 ,
 // [2012-FALL] TV: Huan Bian Jingling: Dangao Tianxin
 {"anilist_id":108020,"animeplanet_id":"vary-peri","mal_id":35641}
@@ -40683,7 +41526,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":203006,"animeplanet_id":"huang-jin-meng","mal_id":43358}
 ,
 // [2024-WINTER] MOVIE: Huang Pi: Tian Jiang Caishen Mao
-{"mal_id":58322}
+{"anisearch_id":21474,"mal_id":58322}
+,
+// [2025-SPRING] ONA: Huang Shen Lu: Linglong Shan
+{"anisearch_id":21629}
 ,
 // [2022-SPRING] ONA: Huang Yan
 {"anidb_id":17349,"anilist_id":141898,"animeplanet_id":"face-on-lie","anisearch_id":17138,"mal_id":50575}
@@ -40752,7 +41598,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"mal_id":46485}
 ,
 // [2022-SUMMER] ONA: Huanmeng Shan Hai Yao
-{"anidb_id":17048,"anilist_id":122522,"animeplanet_id":"huanmeng-shan-hai-yao","mal_id":50025}
+{"anidb_id":17048,"anilist_id":122522,"animeplanet_id":"huanmeng-shan-hai-yao","anisearch_id":21647,"mal_id":50025}
 ,
 // [2018-UNDEFINED] TV: Huanqiu Da Maoxian: Zhongguo Pian
 {"animeplanet_id":"huangqiu-da-maoxian-zhi-zhongguo-pian","mal_id":47776}
@@ -40826,11 +41672,17 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2018-SPRING] SPECIAL: HuGoo.n Story
 {"mal_id":59336}
 ,
-// [2026-UNDEFINED] ONA: Huhuan Shaonu
-{"anilist_id":186751,"mal_id":63500}
+// [undefined-UNDEFINED] ONA: Huhuan Shaonu
+{"mal_id":63500}
+,
+// [undefined-UNDEFINED] ONA: Huhuan Shaonü
+{"anilist_id":186751}
 ,
 // [2026-WINTER] ONA: Huhuan Shaonu Special: Xiang Zuo de Shi Daodi Shi Shenme
 {"mal_id":63533}
+,
+// [2026-UNDEFINED] SPECIAL: Huhuan Shaonü Special: Xiang Zuo de Shi Daodi Shi Shenme
+{"anilist_id":210376}
 ,
 // [2019-UNDEFINED] TV: Hui Dao Konglong Shidai
 {"animeplanet_id":"hui-dao-konglong-shidai","mal_id":47957}
@@ -40842,7 +41694,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":122514}
 ,
 // [2024-SPRING] ONA: Hui Ming: Fenghuo San Yue
-{"anidb_id":18624,"anilist_id":156103,"animeplanet_id":"back-to-the-great-ming","mal_id":58551}
+{"anidb_id":18624,"anilist_id":156103,"animeplanet_id":"back-to-the-great-ming","anisearch_id":19215,"mal_id":58551}
 ,
 // [1982-UNDEFINED] MOVIE: Hui Sheng: Xiao Tu Tao Tao De Gushi
 {"animeplanet_id":"hui-sheng-xiao-tu-tao-tao-de-gushi","mal_id":43513}
@@ -41029,6 +41881,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2027-UNDEFINED] ONA: Huo Feng Liao Yuan San
 {"animeplanet_id":"huo-feng-liao-yuan-3rd-season","mal_id":62946}
+,
+// [2025-WINTER] ONA: Huo Feng Liaoyuan Di-er Ji
+{"anisearch_id":21645}
 ,
 // [2023-SUMMER] MOVIE: Huo Feng Zhong Tian
 {"mal_id":57439}
@@ -41270,11 +42125,8 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2003-WINTER] OVA: Hyakki
 {"anisearch_id":1227,"mal_id":1782}
 ,
-// [2026-SPRING] TV: Hyakki Yakou Shou
-{"anilist_id":207675}
-,
 // [2026-SPRING] TV: Hyakki Yakoushou
-{"animeplanet_id":"hyakki-yakoushou","anisearch_id":21264,"livechart_id":13520,"mal_id":63469}
+{"anidb_id":20000,"anilist_id":207675,"animeplanet_id":"hyakki-yakoushou","anisearch_id":21264,"livechart_id":13520,"mal_id":63469}
 ,
 // [2000-FALL] OVA: Hyakkiyakou: Warashi
 {"anisearch_id":830,"mal_id":4495}
@@ -41390,8 +42242,14 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2012-SUMMER] OVA: Hyouka: Motsubeki Mono wa
 {"anidb_id":9102,"anilist_id":13469,"animeplanet_id":"hyouka-what-should-be-had","anisearch_id":7732,"livechart_id":1072,"mal_id":13469}
 ,
+// [2026-FALL] TV: Hyouken no Majutsushi ga Sekai o Suberu II
+{"anidb_id":20065,"anisearch_id":21575}
+,
 // [2023-WINTER] TV: Hyouken no Majutsushi ga Sekai wo Suberu
 {"anidb_id":17341,"anilist_id":148116,"animeplanet_id":"the-iceblade-sorcerer-shall-rule-the-world","anisearch_id":17335,"livechart_id":11197,"mal_id":51711}
+,
+// [2026-FALL] TV: Hyouken no Majutsushi ga Sekai wo Suberu II
+{"anilist_id":212503,"livechart_id":13639,"mal_id":64254}
 ,
 // [2016-SUMMER] ONA: Hyouketsu
 {}
@@ -41429,7 +42287,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2022-FALL] OVA: Hyperdimension Neptunia: Nepu Nepu Darake no Festival
 {"anilist_id":139806,"animeplanet_id":"hyperdimension-neptunia-nepu-nepu-darake-no-festival","anisearch_id":16809,"livechart_id":10820}
 ,
-// [undefined-UNDEFINED] MOVIE: Hypergalactic
+// [2027-UNDEFINED] MOVIE: Hypergalactic
 {"anisearch_id":19060}
 ,
 // [2022-SPRING] SPECIAL: Hyperinflation PV
@@ -41456,8 +42314,8 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-SUMMER] SPECIAL: Hyururirapappa
 {"anilist_id":184760,"animeplanet_id":"tuki-hyururirapappa","anisearch_id":19742,"mal_id":59513}
 ,
-// [2025-UNDEFINED] MOVIE: I
-{"anilist_id":205842}
+// [2025-WINTER] MOVIE: I
+{"anilist_id":205842,"mal_id":64110}
 ,
 // [2020-FALL] SPECIAL: I "Witch" You A Happy Halloween!
 {"animeplanet_id":"switch-i-witch-you-a-happy-halloween","mal_id":49147}
@@ -41478,6 +42336,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":113267,"animeplanet_id":"i-am-alone-walking-on-the-straight-road"}
 ,
 // [2022-SPRING] SPECIAL: I Am Not Maternal
+{}
+,
+// [2027-WINTER] TV: I am the only one who is not attacked in the world filled with zombies
 {}
 ,
 // [2025-SPRING] ONA: I Byeol-e Pil-yohan
@@ -41518,6 +42379,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [undefined-UNDEFINED] TV: I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too Season 2
 {}
+,
+// [2020-SUMMER] SPECIAL: I Got feat. Woodie Gochild
+{"mal_id":64149}
 ,
 // [2013-FALL] SPECIAL: I Got Socks for Christmas
 {"mal_id":54030}
@@ -41567,8 +42431,8 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1994-SPRING] SPECIAL: I Love Tofu
 {"anidb_id":17399,"anilist_id":169789,"animeplanet_id":"i-love-tofu","mal_id":42843}
 ,
-// [2026-SPRING] TV: I Made Friends with the Second Prettiest Girl in My Class
-{}
+// [2023-WINTER] SPECIAL: I Love You (Feat. Silica Gel)
+{"mal_id":64039}
 ,
 // [2022-FALL] SPECIAL: I Miss My Friends feat. Phum Viphurit
 {"mal_id":57795}
@@ -41615,7 +42479,19 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2020-SUMMER] TV: I Want to Be His Prey
 {}
 ,
+// [2026-WINTER] TV: I Want to Live a Long Life to Dote on My Favorite Stepbrother
+{}
+,
 // [2026-SUMMER] TV: I Want to Love You Till Your Dying Day
+{}
+,
+// [2018-SUMMER] OVA: I Want You To Make a Disgusted Face and Show Me Your Underwear
+{}
+,
+// [2019-FALL] OVA: I Want You To Make a Disgusted Face and Show Me Your Underwear 2
+{}
+,
+// [2026-SPRING] ONA: I Want You To Show Me Your Panties With a Disgusted Face Returns
 {}
 ,
 // [2022-WINTER] MOVIE: I wanted to be wanted.
@@ -41624,10 +42500,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2016-FALL] SPECIAL: I Was King
 {"anilist_id":102095,"animeplanet_id":"one-ok-rock-i-was-king","mal_id":34655}
 ,
-// [2025-SUMMER] TV: I Was Reincarnated as the 7th Prince
-{}
-,
-// [2005-FALL] TV: I-Cheng
+// [2005-FALL] SPECIAL: I-Cheng
 {"anidb_id":10989,"anisearch_id":10227}
 ,
 // [2018-SPRING] ONA: I-O Data x Taka no Tsume
@@ -41659,9 +42532,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2024-SPRING] SPECIAL: I'll Be There
 {"anilist_id":177813,"anisearch_id":19656,"mal_id":58982}
-,
-// [2024-FALL] TV: I’ll Become a Villainess Who Goes Down in History
-{}
 ,
 // [2025-FALL] SPECIAL: I’ll still be here
 {"mal_id":63264}
@@ -41714,9 +42584,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2014-WINTER] ONA: I'm Stuck!!: Life of the Dead
 {"animeplanet_id":"zombie-clay-animation-im-stuck","mal_id":32557}
 ,
-// [2025-SPRING] TV: I'm the Evil Lord of an Intergalactic Empire!
-{}
-,
 // [2022-SUMMER] SPECIAL: I'm Your Treasure Box: Anata wa Marine Senchou wo Takarabako kara Mitsuketa.
 {"anilist_id":152962,"animeplanet_id":"marine-houshou-im-your-treasure-box-anata-wa-marine-senchou-wo-takarabako-kara-mitsuketa","anisearch_id":17611,"mal_id":52575}
 ,
@@ -41753,7 +42620,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2003-UNDEFINED] SPECIAL: Ibitsu
 {"anilist_id":124635,"animeplanet_id":"boris-ibitsu","mal_id":41709}
 ,
-// [2026-WINTER] TV: Ibitte Konai Gibo to Gishi
+// [2026-SUMMER] TV: Ibitte Konai Gibo to Gishi
 {"anidb_id":19492,"anilist_id":196356,"animeplanet_id":"my-stepmother-and-stepsisters-arent-wicked","anisearch_id":20783,"livechart_id":13253,"mal_id":62102}
 ,
 // [2020-WINTER] SPECIAL: Ibiza
@@ -41803,6 +42670,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2017-UNDEFINED] SPECIAL: Ice Skate
 {"animeplanet_id":"ice-skate"}
+,
+// [2026-SPRING] SPECIAL: Ichi Ni no San
+{"mal_id":64034}
 ,
 // [2021-WINTER] ONA: Ichi Nichi Shite Narazu
 {}
@@ -41876,11 +42746,8 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2026-WINTER] TV: Ichigo Aika: Strawberry Elegy
 {"animeplanet_id":"ichigo-aika-strawberry-elegy"}
 ,
-// [2025-FALL] ONA: Ichigo Aika: Zatsu de Namaiki na Imouto to Warikirenai Ani
-{"anisearch_id":20925}
-,
 // [2026-WINTER] ONA: Ichigo Aika: Zatsu de Namaiki na Imouto to Warikirenai Ani
-{"mal_id":62897}
+{"anisearch_id":20925,"mal_id":62897}
 ,
 // [2020-WINTER] MOVIE: Ichigo Ame
 {"anilist_id":151091,"animeplanet_id":"ichigo-ame","mal_id":54012}
@@ -41915,11 +42782,8 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2017-SUMMER] MOVIE: Ichijo Kujiji☆Shin Eiga
 {"animeplanet_id":"ichijo-kujiji-shin-eiga","mal_id":55347}
 ,
-// [2026-SPRING] TV: Ichijōma Mankitsu Gurashi!
-{}
-,
 // [2026-SPRING] TV: Ichijouma Mankitsugurashi!
-{"anidb_id":19455,"anilist_id":195734,"animeplanet_id":"ichijouma-mankitsugurashi","anisearch_id":20745,"livechart_id":13235,"mal_id":62018}
+{"anidb_id":19455,"anilist_id":195734,"animeplanet_id":"ichijyoma-mankitsu-gurashi","anisearch_id":20745,"livechart_id":13235,"mal_id":62018}
 ,
 // [2000-WINTER] OVA: Ichimai no Etegami
 {"anilist_id":129840,"animeplanet_id":"ichimai-no-etegami","anisearch_id":20761,"mal_id":26309}
@@ -41970,7 +42834,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {}
 ,
 // [2021-WINTER] ONA: Id:Indeed
-{"anilist_id":131923,"animeplanet_id":"id-indeed","anisearch_id":16490,"mal_id":46084}
+{"anidb_id":15978,"anilist_id":131923,"animeplanet_id":"id-indeed","anisearch_id":16490,"mal_id":46084}
 ,
 // [2020-WINTER] TV: Id:Invaded
 {"anidb_id":14987,"anilist_id":110350,"animeplanet_id":"id-invaded","anisearch_id":14488,"livechart_id":9501,"mal_id":40046}
@@ -42173,6 +43037,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2010-SUMMER] SPECIAL: Ievan Polkka
 {"mal_id":41853}
 ,
+// [2023-FALL] ONA: Igai na Kankei
+{"anisearch_id":21686}
+,
 // [1983-FALL] TV: Igano Kabamaru
 {"anidb_id":2007,"anilist_id":2762,"animeplanet_id":"iga-no-kagamaru","anisearch_id":139,"livechart_id":7097,"mal_id":2762}
 ,
@@ -42194,7 +43061,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [undefined-UNDEFINED] TV: Igye Geomwang Saengjongi
 {"anilist_id":163790}
 ,
-// [1996-FALL] MOVIE: Ihatov Gensou: Kenji no Haru
+// [1996-FALL] SPECIAL: Ihatov Gensou: Kenji no Haru
 {"anidb_id":820,"anilist_id":1206,"animeplanet_id":"spring-and-chaos","anisearch_id":1735,"livechart_id":6485,"mal_id":1206}
 ,
 // [2021-SPRING] SPECIAL: Ihoujin
@@ -42270,7 +43137,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"animeplanet_id":"ijime-14-sai-no-message","anisearch_id":17560,"mal_id":30938}
 ,
 // [2002-WINTER] OVA: Ijime Stop! Kintarou Kokoro Chikaramochi
-{"animeplanet_id":"ijime-stop-kintarou-kokoro-chikaramochi","mal_id":35281}
+{"animeplanet_id":"ijime-stop-kintarou-kokoro-chikaramochi","anisearch_id":21443,"mal_id":35281}
 ,
 // [2007-WINTER] OVA: Ijime wa Zettai Warui!
 {"anidb_id":10153,"animeplanet_id":"ijime-wa-zettai-warui","anisearch_id":9121,"mal_id":28483}
@@ -42406,6 +43273,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2021-WINTER] ONA: Ikinuke! Bakusou! Kusohamu-chan! Episode 0
 {"animeplanet_id":"ikinuke-bakusou-kusohamu-chan-episode-0","mal_id":48988}
+,
+// [2023-FALL] TV: Ikinuki Hololive: HoloX 2024-nen no Yabo-hen
+{"anisearch_id":21477}
 ,
 // [2021-SPRING] MOVIE: Ikinuki no Susume
 {"anilist_id":172818,"animeplanet_id":"ikinuki-no-susume"}
@@ -42644,6 +43514,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2014-WINTER] OVA: Imako System
 {"anisearch_id":9282,"mal_id":21513}
 ,
+// [2026-WINTER] SPECIAL: Imamura Shoken CMs
+{"mal_id":64512}
+,
 // [2011-WINTER] MOVIE: Imamura Store
 {"anilist_id":104375,"animeplanet_id":"imamura-store"}
 ,
@@ -42683,8 +43556,8 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2005-FALL] TV: Immortal Grand Prix
 {}
 ,
-// [2025-UNDEFINED] ONA: Immortality 5th Season
-{"animeplanet_id":"immortality-5th-season"}
+// [2025-FALL] ONA: Immortality 5th Season
+{}
 ,
 // [1917-SPRING] MOVIE: Imokawa Mukuzo: Chuugaeri no Maki
 {"anidb_id":12122,"animeplanet_id":"imokawa-mukuzo-chuugaeri-no-maki","anisearch_id":9528,"mal_id":24577}
@@ -42779,11 +43652,8 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1989-WINTER] SPECIAL: In Search of Axis
 {"anidb_id":14457,"anilist_id":102567,"animeplanet_id":"in-search-of-axis","anisearch_id":13415,"mal_id":34720}
 ,
-// [2026-UNDEFINED] ONA: In Search of Gods
-{"animeplanet_id":"in-search-of-gods"}
-,
 // [2026-WINTER] ONA: In Search of Gods
-{}
+{"anilist_id":166437,"animeplanet_id":"in-search-of-gods"}
 ,
 // [2011-UNDEFINED] MOVIE: In Search of the Blue Sky
 {"animeplanet_id":"in-search-of-the-blue-sky"}
@@ -42792,9 +43662,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":18479,"anilist_id":157173,"animeplanet_id":"syudou-in-the-back-room","mal_id":53581}
 ,
 // [1992-FALL] TV: In The Beginning - The Bible Stories
-{}
-,
-// [2026-WINTER] TV: In the Clear Moonlit Dusk
 {}
 ,
 // [2026-FALL] MOVIE: In the Clear Moonlit Dusk
@@ -42844,6 +43711,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1959-WINTER] MOVIE: Inaka Nezumi to Machi Nezumi
 {"anidb_id":13073,"anilist_id":114306,"animeplanet_id":"inaka-nezumi-to-machi-nezumi","anisearch_id":10365,"mal_id":29926}
+,
+// [2026-SUMMER] OVA: Inaka ni wa Kore Kurai Shika Goraku ga Nai
+{"anisearch_id":21582,"mal_id":64373}
 ,
 // [1970-FALL] TV: Inakappe Taishou
 {"anidb_id":3095,"anilist_id":8786,"animeplanet_id":"inakappe-taishou","anisearch_id":2876,"livechart_id":11741,"mal_id":8786}
@@ -42965,10 +43835,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2019-UNDEFINED] ONA: Indivisible OP
 {"animeplanet_id":"indivisible-op"}
 ,
-// [2025-WINTER] ONA: Indoor na Chiba New Joshi no Watashi ni Sugu Karande Kuru Kinoshita Danshi ga Yatara Uzai
+// [2025-SPRING] ONA: Indoor na Chiba New Joshi no Watashi ni Sugu Karande Kuru Kinoshita Danshi ga Yatara Uzai
 {"anidb_id":18944}
 ,
-// [2000-FALL] UNKNOWN: Indra Pilot Film
+// [1981-UNDEFINED] UNKNOWN: Indra Pilot Film
 {"anisearch_id":21290}
 ,
 // [1959-WINTER] MOVIE: Inemuri Buu-chan
@@ -43026,7 +43896,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anisearch_id":1626,"mal_id":3628}
 ,
 // [2026-SPRING] TV: Ingoku Danchi
-{"anidb_id":19879,"anilist_id":206166,"animeplanet_id":"ingoku-danchi","anisearch_id":21170,"livechart_id":13482,"mal_id":63310}
+{"anidb_id":19879,"anilist_id":206166,"animeplanet_id":"ingoku-danchi-deviants-apartment-complex","anisearch_id":21170,"livechart_id":13482,"mal_id":63310}
 ,
 // [2018-FALL] TV: Ingress the Animation
 {"anidb_id":13890,"anilist_id":101500,"animeplanet_id":"ingress-the-animation","anisearch_id":13449,"livechart_id":3137,"mal_id":37438}
@@ -43281,7 +44151,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anisearch_id":7001,"mal_id":10570}
 ,
 // [2025-SPRING] OVA: Inshoku Ou Demar
-{"anisearch_id":20619,"mal_id":61164}
+{"mal_id":61164}
+,
+// [2025-SPRING] OVA: Inshoku Ou Demar: Higyaku no Seijo Rosalia
+{"anisearch_id":20619}
 ,
 // [undefined-UNDEFINED] MOVIE: Inside
 {"animeplanet_id":"inside"}
@@ -43336,6 +44209,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2011-WINTER] ONA: Interior
 {"anidb_id":9441,"anilist_id":102163,"animeplanet_id":"interior","anisearch_id":8087,"mal_id":24051}
+,
+// [2025-WINTER] SPECIAL: Interior Dream
+{"anisearch_id":21761}
 ,
 // [2004-WINTER] OVA: Interlude
 {"anidb_id":1645,"anilist_id":1085,"animeplanet_id":"interlude","anisearch_id":3396,"livechart_id":6231,"mal_id":1085}
@@ -43548,7 +44424,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"mal_id":62354}
 ,
 // [2025-FALL] SPECIAL: Iolite
-{"mal_id":62885}
+{"anilist_id":212517,"mal_id":62885}
 ,
 // [2012-FALL] OVA: Ippatsu Hicchuu!! Devander
 {"anidb_id":9082,"anilist_id":13693,"animeplanet_id":"ippatsu-hicchuu-devander","anisearch_id":7726,"livechart_id":993,"mal_id":13693}
@@ -43661,9 +44537,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2021-UNDEFINED] MOVIE: Irreplaceable
 {"animeplanet_id":"irreplaceable"}
 ,
-// [1994-SUMMER] OVA: Irresponsible Captain Tylor
-{"anidb_id":71}
-,
 // [1994-UNDEFINED] SPECIAL: Irresponsible Captain Tylor Music Video Collection
 {"animeplanet_id":"irresponsible-captain-tylor-music-video-collection"}
 ,
@@ -43687,9 +44560,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [undefined-UNDEFINED] TV: Is It Wrong to Try to Pick Up Girls in a Dungeon? VI
 {"animeplanet_id":"is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-vi"}
-,
-// [undefined-UNDEFINED] MOVIE: Is the order a rabbit?
-{}
 ,
 // [2017-FALL] SPECIAL: Is the order a rabbit?? Dear My Sister
 {}
@@ -43772,6 +44642,15 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2018-SUMMER] TV: Isekai Maou to Shoukan Shoujo no Dorei Majutsu
 {"anidb_id":13757,"anilist_id":101004,"animeplanet_id":"how-not-to-summon-a-demon-lord","anisearch_id":13283,"livechart_id":3061,"mal_id":37210}
 ,
+// [undefined-UNDEFINED] TV: Isekai Maou to Shoukan Shoujo no Dorei Majutsu 3rd Season
+{"mal_id":63912}
+,
+// [undefined-UNDEFINED] TV: Isekai Maou to Shoukan Shoujo no Dorei Majutsu ULT
+{"anidb_id":19999,"anilist_id":210483,"livechart_id":13598}
+,
+// [undefined-UNDEFINED] TV: Isekai Maou to Shoukan Shoujo no Dorei Majutsu ULT
+{"anisearch_id":21478}
+,
 // [2021-SPRING] TV: Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω
 {"anidb_id":15493,"anilist_id":117448,"animeplanet_id":"how-not-to-summon-a-demon-lord-omega","anisearch_id":15148,"livechart_id":9882,"mal_id":41623}
 ,
@@ -43799,8 +44678,11 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2026-SPRING] OVA: Isekai no Sata wa Shachiku Shidai OVA: Omoi wo Hasemashita
 {"livechart_id":13473}
 ,
+// [2026-SPRING] SPECIAL: Isekai no Sata wa Shachiku Shidai: Omoi o Hasemashita
+{"anisearch_id":21359}
+,
 // [2026-SPRING] SPECIAL: Isekai no Sata wa Shachiku Shidai: Omoi wo Hasemashita
-{"animeplanet_id":"isekai-office-worker-the-other-worlds-books-depend-on-the-bean-counter-special","mal_id":63503}
+{"anilist_id":212563,"animeplanet_id":"isekai-office-worker-the-other-worlds-books-depend-on-the-bean-counter-special","mal_id":63503}
 ,
 // [2009-SPRING] OVA: Isekai no Seikishi Monogatari
 {"anidb_id":6304,"anilist_id":5781,"animeplanet_id":"tenchi-muyo-war-on-geminar","anisearch_id":5148,"livechart_id":3716,"mal_id":5781}
@@ -43810,6 +44692,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: Isekai Nonbiri Nouka 2
 {"anidb_id":19506,"anilist_id":197824,"animeplanet_id":"farming-life-in-another-world-2","anisearch_id":20857,"livechart_id":13258,"mal_id":62146}
+,
+// [2026-SPRING] OVA: Isekai Office Worker: The Other World's Books Depend on the Bean Counter
+{}
 ,
 // [2022-SUMMER] TV: Isekai Ojisan
 {"anidb_id":16389,"anilist_id":135806,"animeplanet_id":"uncle-from-another-world","anisearch_id":16420,"livechart_id":10599,"mal_id":49220}
@@ -43985,7 +44870,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2019-SPRING] SPECIAL: Issei Kiyuukyoku: Divertimento
 {"animeplanet_id":"irodorimidori-issei-kiyuukyoku-divertimento","mal_id":40140}
 ,
-// [undefined-UNDEFINED] TV: Isshiki-san wa Koi wo Shiritai.
+// [2027-WINTER] TV: Isshiki-san wa Koi wo Shiritai.
 {"anidb_id":19661,"anilist_id":200578,"animeplanet_id":"isshiki-san-wa-koi-wo-shiritai","anisearch_id":20992,"livechart_id":13367,"mal_id":62808}
 ,
 // [2020-SUMMER] SPECIAL: Issho na Futari
@@ -44046,7 +44931,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":6924,"anilist_id":10760,"animeplanet_id":"issunboushi","anisearch_id":8720,"mal_id":10760}
 ,
 // [1956-SPRING] MOVIE: Issunboushi (1956)
-{"anidb_id":6950,"anisearch_id":11987}
+{"anidb_id":6950,"anilist_id":213708,"anisearch_id":11987}
 ,
 // [2007-WINTER] MOVIE: Issunboushi (2007)
 {"anilist_id":179537,"mal_id":38862}
@@ -44204,6 +45089,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2016-SPRING] OVA: Itoshi no Muco OVA
 {"anidb_id":11786,"anilist_id":21572,"animeplanet_id":"lovely-muuuuuuuco-ova","anisearch_id":11538,"livechart_id":1928,"mal_id":32107}
 ,
+// [2021-FALL] ONA: Itoshi no Zako Haishinsha-chan
+{"anilist_id":213428,"mal_id":64433}
+,
 // [2022-FALL] ONA: Itoshii Itoshii Itoshi no Pan-hen
 {"animeplanet_id":"itoshii-itoshii-itoshi-no-pan-hen","mal_id":59812}
 ,
@@ -44351,26 +45239,14 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2019-FALL] ONA: Iya na Kao sare nagara Opantsu Misete Moraitai 2
 {"anidb_id":14259,"anilist_id":104979,"animeplanet_id":"iya-na-kao-sarenagara-opantsu-misete-moraitai-2nd-season","anisearch_id":13806,"livechart_id":3461,"mal_id":38163}
 ,
-// [2026-UNDEFINED] OVA: Iya na Kao Sare Nagara Opantsu Misete Moraitai R
-{}
-,
-// [undefined-UNDEFINED] OVA: Iya na Kao sare nagara Opantsu Misete Moraitai Returns
+// [2026-SPRING] OVA: Iya na Kao sare nagara Opantsu Misete Moraitai Returns
 {}
 ,
 // [2026-SPRING] ONA: Iya na Kao sare nagara Opantsu Misete Moraitai Returns
-{"animeplanet_id":"iya-na-kao-sarenagara-opantsu-misete-moraitai-returns","anisearch_id":20815,"mal_id":62155}
-,
-// [2026-SPRING] UNKNOWN: Iya na Kao sare nagara Opantsu Misete Moraitai Returns
-{"anilist_id":196840}
+{"anidb_id":19508,"anilist_id":196840,"animeplanet_id":"iya-na-kao-sarenagara-opantsu-misete-moraitai-returns","anisearch_id":20815,"mal_id":62155}
 ,
 // [2023-WINTER] OVA: Iya na Kao sare nagara Opantsu Misete Moraitai ver 3.0
-{"anilist_id":166050,"animeplanet_id":"iya-na-kao-sarenagara-opantsu-misete-moraitai-ver-30","mal_id":55629}
-,
-// [undefined-UNDEFINED] ONA: Iya na Kao Sarenagara Opantsu Misete Moraitai Returns
-{}
-,
-// [2025-WINTER] ONA: Iya na Kao Sarenagara Opantsu Misete Moraitai Returns
-{"anidb_id":19508}
+{"anilist_id":166050,"animeplanet_id":"iya-na-kao-sarenagara-opantsu-misete-moraitai-ver-30","livechart_id":13606,"mal_id":55629}
 ,
 // [2014-FALL] TV: Iyab! Space Jungle
 {"mal_id":48311}
@@ -44456,8 +45332,8 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2009-FALL] MOVIE: JAA Meets Yokohama
 {"anidb_id":11400,"anilist_id":104099,"animeplanet_id":"akai-kutsu-onnanoko","anisearch_id":10924,"mal_id":30396}
 ,
-// [2026-SUMMER] TV: Jaadugar: A Witch in Mongolia
-{}
+// [2023-SUMMER] SPECIAL: Jaa Tokyo Kaeru ne
+{"anisearch_id":21720}
 ,
 // [1989-SUMMER] SPECIAL: Jab Jab Ondo
 {"anilist_id":178374,"mal_id":57684}
@@ -44477,7 +45353,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1974-SUMMER] MOVIE: Jack to Mame no Ki
 {"anidb_id":4293,"anilist_id":3720,"animeplanet_id":"jack-and-the-beanstalk","anisearch_id":4019,"mal_id":3720}
 ,
-// [2025-FALL] TV: Jack-of-All-Trades, Party of None
+// [undefined-UNDEFINED] TV: Jack-of-All-Trades, Party of None
 {}
 ,
 // [2026-WINTER] ONA: Jack-of-All-Trades, Party of None
@@ -44676,7 +45552,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":5775,"anilist_id":5900,"animeplanet_id":"jean-valjean-monogatari","anisearch_id":4123,"mal_id":5900}
 ,
 // [2025-SUMMER] ONA: Jebal Joyonghi Jom Hae!
-{"anilist_id":201961,"animeplanet_id":"quiet-please","anisearch_id":20876,"mal_id":62419}
+{"anidb_id":19562,"anilist_id":201961,"animeplanet_id":"quiet-please","anisearch_id":20876,"mal_id":62419}
 ,
 // [2015-FALL] ONA: Jedi Shi Ri
 {"animeplanet_id":"jedi-shi-ri","mal_id":47211}
@@ -44796,7 +45672,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":129212,"animeplanet_id":"the-mechnimals-2","mal_id":42766}
 ,
 // [2016-SPRING] TV: Ji Jia Shou Shen: Baolie Feiche
-{"anilist_id":129175,"animeplanet_id":"ji-jia-shou-shen-zhi-baolie-feiche","anisearch_id":14980,"mal_id":42740}
+{"anidb_id":16520,"anilist_id":129175,"animeplanet_id":"ji-jia-shou-shen-zhi-baolie-feiche","anisearch_id":14980,"mal_id":42740}
 ,
 // [2013-UNDEFINED] ONA: Ji Jia Xuanfeng Jizhan Pian
 {"mal_id":46657}
@@ -44844,7 +45720,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"mal_id":47145}
 ,
 // [2024-SPRING] ONA: Jiadao Zhong Er
-{"anilist_id":166454,"animeplanet_id":"jiadao-zhong-er","mal_id":58897}
+{"anilist_id":166454,"animeplanet_id":"jiadao-zhong-er","anisearch_id":21669,"mal_id":58897}
 ,
 // [2009-UNDEFINED] TV: Jian Er Moshu Shi
 {"mal_id":47740}
@@ -44858,14 +45734,23 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-SUMMER] ONA: Jian Lai
 {"anidb_id":18828,"anilist_id":137672,"animeplanet_id":"the-swords","anisearch_id":19533,"mal_id":59389}
 ,
-// [2026-WINTER] ONA: Jian Lai 2
-{"anidb_id":19794}
+// [2025-WINTER] ONA: Jian Lai 2
+{"anidb_id":19794,"anilist_id":205290}
 ,
 // [2025-FALL] ONA: Jian Lai 2nd Season
-{"anilist_id":205290,"mal_id":62728}
+{"animeplanet_id":"the-swords-2nd-season","mal_id":62728}
+,
+// [undefined-UNDEFINED] ONA: Jian Lai 3rd Season
+{"mal_id":64387}
+,
+// [2027-UNDEFINED] MOVIE: Jian Lai Movie: Shisan Zhi Zheng
+{"anilist_id":213518}
 ,
 // [2027-UNDEFINED] ONA: Jian Lai Movie: Shisan Zhi Zheng
-{"mal_id":62729}
+{"animeplanet_id":"the-swords-the-13th-sword","mal_id":62729}
+,
+// [undefined-UNDEFINED] ONA: Jian Lai Movie: Wen Sheng Yi Mai
+{"mal_id":64457}
 ,
 // [undefined-UNDEFINED] ONA: Jian Ling Tongju Riji
 {"anilist_id":137687}
@@ -44946,7 +45831,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"mal_id":47662}
 ,
 // [2026-SPRING] ONA: Jiang Ye
-{"anilist_id":186833,"animeplanet_id":"jiang-ye","mal_id":60571}
+{"anidb_id":20024,"anilist_id":186833,"animeplanet_id":"jiang-ye","anisearch_id":21378,"mal_id":60571}
 ,
 // [2020-FALL] MOVIE: Jiang Ziya
 {"anidb_id":15375,"anilist_id":114120,"animeplanet_id":"jiang-ziya","anisearch_id":14903,"livechart_id":9963,"mal_id":42106}
@@ -44963,6 +45848,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2019-SUMMER] MOVIE: Jiangnan
 {"anilist_id":129503,"animeplanet_id":"jiangnan","anisearch_id":15133,"mal_id":52770}
 ,
+// [2020-FALL] SPECIAL: Jiangshi Wang
+{"mal_id":64183}
+,
 // [2024-WINTER] MOVIE: Jiangtun: Feng Shi Wu
 {"anilist_id":206223,"animeplanet_id":"dance-with-the-finless-promise","anisearch_id":21253,"mal_id":57418}
 ,
@@ -44971,6 +45859,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2010-UNDEFINED] TV: Jiankang Zhiduoxing
 {"mal_id":46288}
+,
+// [2024-SPRING] ONA: Jiantian De Wancan Jiushi Ni
+{"anisearch_id":21676}
 ,
 // [2010-SPRING] MOVIE: Jianzhen da Heshang
 {"anidb_id":13235,"animeplanet_id":"jianzhen-da-he-shang","mal_id":54529}
@@ -44996,8 +45887,8 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-FALL] ONA: Jiaonang Jihua II
 {"anidb_id":19598,"anilist_id":157071,"animeplanet_id":"capsules-2nd-season","anisearch_id":18916,"mal_id":57233}
 ,
-// [2026-UNDEFINED] ONA: Jiaonang Jihua: Qiji
-{"mal_id":62948}
+// [2026-SUMMER] ONA: Jiaonang Jihua: Qiji
+{"anilist_id":213703,"mal_id":62948}
 ,
 // [2024-FALL] ONA: Jiaonang Jihua: Yingxiong
 {"anidb_id":19599,"anilist_id":187833,"animeplanet_id":"capsules-3rd-season","mal_id":60442}
@@ -45221,6 +46112,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2006-SPRING] SPECIAL: Jigueseo Chikyuu no Sora no Shita de
 {"anilist_id":128060,"animeplanet_id":"jigueseo-chikyuu-no-sora-no-shita-de","mal_id":41656}
 ,
+// [2025-FALL] MOVIE: Jiguui Juineun Goyangida
+{"anisearch_id":21513}
+,
 // [2020-UNDEFINED] MOVIE: Jihyeloun Bangguseog Saenghwal
 {"mal_id":56386}
 ,
@@ -45307,6 +46201,15 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2019-SPRING] TV: Jimoto ga Japan
 {"anidb_id":14550,"anilist_id":106607,"animeplanet_id":"im-from-japan","anisearch_id":14038,"livechart_id":8680,"mal_id":38881}
+,
+// [undefined-UNDEFINED] ONA: JIMOTO SAIKO!
+{"livechart_id":13673}
+,
+// [undefined-UNDEFINED] ONA: Jimoto Saikou!
+{}
+,
+// [undefined-UNDEFINED] ONA: Jimoto Saikou!
+{"anidb_id":20114,"anilist_id":213338,"anisearch_id":21767,"mal_id":64428}
 ,
 // [2011-UNDEFINED] TV: Jimu Gushi Hui
 {"mal_id":46414}
@@ -45593,7 +46496,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2017-SPRING] ONA: Jingling Meng Xie Luo Li Di 5 Ji
 {"anidb_id":16769}
 ,
-// [2018-SPRING] ONA: Jingling Meng Xie Luo Li Di 6 Ji
+// [2018-SUMMER] ONA: Jingling Meng Xie Luo Li Di 6 Ji
 {"anidb_id":16770}
 ,
 // [2019-SUMMER] ONA: Jingling Meng Xie Luo Li Di 7 Ji
@@ -45648,7 +46551,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anisearch_id":5251,"mal_id":6122}
 ,
 // [2024-SUMMER] MOVIE: Jinling Yu Mao
-{"animeplanet_id":"jinling-yu-mao","mal_id":59696}
+{"animeplanet_id":"jinling-yu-mao","anisearch_id":21374,"mal_id":59696}
 ,
 // [2015-WINTER] MOVIE: Jinmen Touka
 {"anilist_id":109357,"animeplanet_id":"jinmen-touka","anisearch_id":13206}
@@ -45690,7 +46593,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anisearch_id":17698}
 ,
 // [2022-WINTER] ONA: Jinshan Cheng Cai Qiu Hua Hui Yi Shi
-{"animeplanet_id":"feng-ling-yu-xiu-tebie-pian","mal_id":55534}
+{"animeplanet_id":"feng-ling-yu-xiu-tebie-pian","anisearch_id":21666,"mal_id":55534}
 ,
 // [2001-WINTER] OVA: Jinshin Yuugi
 {"anisearch_id":2533,"mal_id":828}
@@ -45705,7 +46608,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":18695,"anilist_id":156097,"animeplanet_id":"jintian-de-wancan-jiushi-ni","anisearch_id":20289,"mal_id":58554}
 ,
 // [2023-WINTER] ONA: Jintian Kaishi Shanyao Dengchang
-{"anidb_id":18144,"anilist_id":116805,"animeplanet_id":"jintian-kaishi-zuo-mingxing-2nd-season","mal_id":41503}
+{"anidb_id":18144,"anilist_id":116805,"animeplanet_id":"jintian-kaishi-zuo-mingxing-2nd-season","anisearch_id":21732,"mal_id":41503}
 ,
 // [2019-FALL] ONA: Jintian Kaishi Zuo Mingxing
 {"anidb_id":15538,"anilist_id":115877,"animeplanet_id":"jintian-kaishi-zuo-mingxing","anisearch_id":15624,"livechart_id":11825,"mal_id":40969}
@@ -45723,7 +46626,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":158480,"animeplanet_id":"jintian-shao-zhu-bu-zaijia","anisearch_id":18095,"mal_id":55059}
 ,
 // [2024-SPRING] ONA: Jinwu Wei: Feng Qi Jinling
-{"anidb_id":18667,"anilist_id":166413,"animeplanet_id":"jinwu-wei-zhi-feng-qi-jingling","mal_id":58876}
+{"anidb_id":18667,"anilist_id":166413,"animeplanet_id":"jinwu-wei-zhi-feng-qi-jingling","anisearch_id":21672,"mal_id":58876}
 ,
 // [2018-WINTER] MOVIE: Jinxes
 {"anilist_id":169752,"animeplanet_id":"jinxes"}
@@ -45785,7 +46688,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2019-UNDEFINED] TV: Jiqiren Xueyuan
 {"mal_id":47888}
 ,
-// [2026-WINTER] TV: Jirai nan desu ka? Chihara-san
+// [2027-WINTER] TV: Jirai nan desu ka? Chihara-san
 {"anidb_id":19791,"anilist_id":204579,"animeplanet_id":"jirai-nan-desu-ka-chihara-san","anisearch_id":21135,"livechart_id":13451,"mal_id":63174}
 ,
 // [2012-SPRING] SPECIAL: Jirijiri
@@ -45953,7 +46856,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2020-SUMMER] ONA: Jiyi Guanli Ju
 {"anidb_id":16760,"anilist_id":141950,"animeplanet_id":"jiyi-guanli-ju","anisearch_id":16987,"mal_id":50462}
 ,
-// [2026-UNDEFINED] ONA: Jiyi Guanli Ju (2026)
+// [2026-SUMMER] ONA: Jiyi Guanli Ju (2026)
 {"anilist_id":141953,"animeplanet_id":"jiyi-guanli-ju-2025","anisearch_id":20009,"mal_id":60568}
 ,
 // [2018-SUMMER] ONA: Jiyi U-Pan
@@ -46094,6 +46997,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2004-WINTER] SPECIAL: JoJo no Kimyou na Bouken: Phantom Blood Pilot
 {"animeplanet_id":"jojos-bizarre-adventure-phantom-blood-pilot","mal_id":41306}
 ,
+// [2026-FALL] ONA: JoJo no Kimyou na Bouken: Steel Ball Run - 2nd STAGE
+{"anilist_id":210482}
+,
 // [1993-FALL] OVA: JoJo's Bizarre Adventure
 {}
 ,
@@ -46123,6 +47029,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2016-SUMMER] SPECIAL: Joker Game: Kuroneko Yoru no Bouken
 {"anilist_id":21790,"animeplanet_id":"joker-game-kuroneko-yoru-no-bouken","anisearch_id":11524,"livechart_id":2149,"mal_id":33129}
+,
+// [undefined-UNDEFINED] ONA: Joker: Laugh Riot
+{}
+,
+// [undefined-UNDEFINED] UNKNOWN: Joker: Laugh Riot
+{"livechart_id":13689}
 ,
 // [1992-SPRING] OVA: Joker: Marginal City
 {"anidb_id":4206,"anilist_id":3661,"animeplanet_id":"joker-marginal-city","anisearch_id":2697,"livechart_id":7828,"mal_id":3661}
@@ -46208,6 +47120,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2014-SUMMER] MOVIE: Joseito (Movie)
 {"animeplanet_id":"joseito-2014","mal_id":54193}
 ,
+// [2027-WINTER] TV: Josemaru
+{}
+,
 // [2019-SUMMER] OVA: Joshi Luck!
 {"anisearch_id":14402,"mal_id":39800}
 ,
@@ -46279,9 +47194,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [undefined-UNDEFINED] ONA: Journal of the Mysterious Creatures Special
 {"animeplanet_id":"journal-of-the-mysterious-creatures-special"}
-,
-// [2026-WINTER] TV: Journal with Witch
-{}
 ,
 // [2018-WINTER] ONA: Journey
 {"anisearch_id":16769}
@@ -46388,6 +47300,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2012-SPRING] SPECIAL: Judge
 {"animeplanet_id":"group-inou-judge","mal_id":53504}
 ,
+// [2025-WINTER] SPECIAL: Judgement?
+{"mal_id":64042}
+,
 // [1974-SPRING] TV: Judo Sanka
 {"anidb_id":3110,"anilist_id":11857,"animeplanet_id":"judo-sanka","anisearch_id":1544,"mal_id":11857}
 ,
@@ -46405,6 +47320,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2025-SPRING] SPECIAL: Jue Qu Ling - Dier Jj Xiandao PV |Suo Hui Zhe Mu Zhang Wan Zhong
 {"mal_id":62308}
+,
+// [2025-SPRING] SPECIAL: Jue Qu Ling - Huashu Ban de Juanlian
+{"mal_id":61739}
 ,
 // [2025-WINTER] SPECIAL: Jue Qu Ling - Mujian PV｜Bokena De Touxian Yike
 {"mal_id":61245}
@@ -46427,6 +47345,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-FALL] SPECIAL: Jue Qu Ling Mujian PV: Bo Ye Zhen Dou de Richang
 {"mal_id":63671}
 ,
+// [2026-SPRING] SPECIAL: Jue Qu Ling: Di San Ji Xiandao PV - Feng Qi Zhiqian
+{"mal_id":64219}
+,
 // [2024-SUMMER] ONA: Jue Qu Ling: Jinghun Wuye
 {"anilist_id":204407,"mal_id":63670}
 ,
@@ -46434,10 +47355,13 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"mal_id":60699}
 ,
 // [2025-FALL] ONA: Jue Qu Ling: Ruoneng Hua Zuo Guangmang
-{"mal_id":63684}
+{"anilist_id":213642,"mal_id":63684}
 ,
 // [2025-FALL] SPECIAL: Jue Qu Ling: Tutu Jieyou Shi
 {"mal_id":63686}
+,
+// [2026-SPRING] ONA: Jue Qu Ling: Zhiming Paipin
+{"mal_id":64220}
 ,
 // [2020-FALL] ONA: Jue Shi Wu Hun
 {"anidb_id":16612,"anilist_id":122521,"animeplanet_id":"jueshi-wu-hun","livechart_id":10259,"mal_id":43626}
@@ -46478,8 +47402,23 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-SPRING] ONA: Jueshi Zhan Hun
 {"anidb_id":18604,"anilist_id":179807,"animeplanet_id":"peerless-battle-spirit-2024","mal_id":58711}
 ,
+// [2026-UNDEFINED] ONA: Jueshi Zhan Hun 2
+{"anilist_id":213188}
+,
+// [2026-SPRING] ONA: Jueshi Zhan Hun 2nd Season
+{"mal_id":64388}
+,
 // [2021-SUMMER] SPECIAL: Juewang Shi Yizhong Shenme Ganjue
 {"anisearch_id":17728}
+,
+// [2022-FALL] TV: Jufeng Zhan Hun: Jian Xuan Tuoluo
+{"mal_id":57866}
+,
+// [2025-FALL] TV: Jufeng Zhan Hun: Xuan Li Qi Yuan
+{"mal_id":64137}
+,
+// [undefined-UNDEFINED] TV: Juheiso-gata Joshikousei
+{"livechart_id":13659}
 ,
 // [2019-SPRING] SPECIAL: Juice
 {"animeplanet_id":"natsu-to-suisei-juice","anisearch_id":16837,"mal_id":52596}
@@ -46502,6 +47441,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2020-FALL] TV: Jujutsu Kaisen
 {"anidb_id":15275,"anilist_id":113415,"animeplanet_id":"jujutsu-kaisen","anisearch_id":14790,"livechart_id":9680,"mal_id":40748}
 ,
+// [2026-SPRING] ONA: Jujutsu Kaisen ≡ Saishū 3 Kan Hatsubai Kinen Special PV
+{}
+,
 // [2021-FALL] MOVIE: Jujutsu Kaisen 0 Movie
 {"anidb_id":16169,"anilist_id":131573,"animeplanet_id":"jujutsu-kaisen-0-the-movie","anisearch_id":16092,"livechart_id":10491,"mal_id":48561}
 ,
@@ -46510,6 +47452,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2023-SUMMER] SPECIAL: Jujutsu Kaisen 2nd Season Recaps
 {"animeplanet_id":"jujutsu-kaisen-season-2-recaps","anisearch_id":18640,"mal_id":56243}
+,
+// [2026-SPRING] SPECIAL: Jujutsu Kaisen Modulo PV
+{"anilist_id":211607}
+,
+// [2026-SPRING] SPECIAL: Jujutsu Kaisen Modulo Saishuu Sankan Hatsubai Kinen Special PV
+{"mal_id":64080}
 ,
 // [2025-FALL] MOVIE: Jujutsu Kaisen Movie: Shibuya Jihen Tokubetsu Henshuu-ban x Shimetsu Kaiyuu Senkou Jouei
 {"anilist_id":204066,"animeplanet_id":"jujutsu-kaisen-execution-shibuya-incident-x-the-culling-game-begins","anisearch_id":20983,"livechart_id":13300,"mal_id":62392}
@@ -46532,17 +47480,14 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [undefined-UNDEFINED] TV: Jujutsu Kaisen: Shimetsu Kaiyū Kōhen
 {}
 ,
+// [undefined-UNDEFINED] TV: Jujutsu Kaisen: Shimetsu Kaiyuu - Kouhen
+{"anidb_id":19975,"mal_id":63824}
+,
 // [undefined-UNDEFINED] UNKNOWN: Jujutsu Kaisen: Shimetsu Kaiyuu - Kouhen
 {"anilist_id":209895}
 ,
 // [2026-WINTER] TV: Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen
 {"anidb_id":18363,"anilist_id":172463,"animeplanet_id":"jujutsu-kaisen-the-culling-game","anisearch_id":18987,"livechart_id":12482,"mal_id":57658}
-,
-// [undefined-UNDEFINED] TV: Jujutsu Kaisen: Shimetsu Kaiyuu – Kouhen
-{"anidb_id":19975,"mal_id":63824}
-,
-// [undefined-UNDEFINED] TV: Jujutsu Kaisen: Shimetsu Kaiyuu Kouhen
-{}
 ,
 // [2026-WINTER] TV: Jujutsu Kaisen: Shimetsu Kaiyuu Zenpen - Kanwa
 {"anisearch_id":21167}
@@ -46590,7 +47535,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":17595,"anilist_id":141869,"animeplanet_id":"word-of-honor","anisearch_id":17279,"mal_id":50433}
 ,
 // [2025-SPRING] ONA: Jun You Yun II
-{"anidb_id":19363,"anilist_id":186835,"animeplanet_id":"word-of-honor-ii","mal_id":53205}
+{"anidb_id":19363,"anilist_id":186835,"animeplanet_id":"word-of-honor-ii","anisearch_id":21630,"mal_id":53205}
 ,
 // [2015-SPRING] OVA: Junai Maniac
 {"anisearch_id":10207,"mal_id":29915}
@@ -46799,6 +47744,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-SUMMER] SPECIAL: JUST KENTY☆
 {"mal_id":62519}
 ,
+// [undefined-UNDEFINED] TV: Just Like Mona Lisa
+{}
+,
 // [2024-WINTER] SPECIAL: Just You and I
 {"mal_id":58124}
 ,
@@ -46856,6 +47804,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2013-FALL] MOVIE: Juugo Shounen Hyouryuuki: Kaizokujima de! Daibouken
 {"anidb_id":10225,"anilist_id":149036,"animeplanet_id":"juugo-shounen-hyouryuuki-kaizokujima-de-daibouken","anisearch_id":9214,"mal_id":21021}
 ,
+// [2027-WINTER] TV: Juuheisou-gata Joshikousei
+{"anidb_id":20084,"anilist_id":213020,"mal_id":64354}
+,
 // [2010-SUMMER] SPECIAL: Juujika You and I
 {"anidb_id":13104,"anilist_id":19481,"animeplanet_id":"base-ball-bear-juujika-you-and-i","anisearch_id":6525,"mal_id":19481}
 ,
@@ -46877,8 +47828,17 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2008-SPRING] OVA: Juuninin no Onna Kyoushi
 {"anisearch_id":4727,"mal_id":5522}
 ,
+// [2026-FALL] TV: Juuou Bushin Dandivine
+{"anidb_id":20081}
+,
+// [2026-FALL] TV: Juuou Mujin Dandivine
+{"mal_id":64344}
+,
 // [2015-WINTER] TV: Juuou Mujin no Fafnir
 {"anidb_id":10710,"anilist_id":20758,"animeplanet_id":"unlimited-fafnir","anisearch_id":9900,"livechart_id":641,"mal_id":24873}
+,
+// [2026-SUMMER] OVA: Juurin Oukoku
+{"anisearch_id":21550,"mal_id":64053}
 ,
 // [1991-WINTER] OVA: Juuroku Jizou Monogatari: Sensou no Gisei ni Natta Kodomo-tachi
 {"animeplanet_id":"juuroku-jizou-monogatari-sensou-no-gisei-ni-natta-kodomo-tachi","anisearch_id":20537,"mal_id":31016}
@@ -46937,6 +47897,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2020-SPRING] SPECIAL: Jyou Jyou
 {"anilist_id":138521,"animeplanet_id":"nino-and-evan-call-jyou-jyou","mal_id":42619}
 ,
+// [2026-FALL] TV: Jyu-Oh Mujin DANDIVINE
+{"livechart_id":13656}
+,
 // [2018-SPRING] TV: Jyulagi Cops
 {"anisearch_id":17965,"mal_id":59584}
 ,
@@ -46960,6 +47923,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2024-FALL] SPECIAL: Jyuugoya
 {"anisearch_id":20170,"mal_id":63273}
+,
+// [2026-FALL] TV: Jyuо̄ Mujin Dandivine
+{}
+,
+// [2026-FALL] TV: Jyuоu Mujin Dandivine
+{"anilist_id":213068}
 ,
 // [2012-FALL] TV: K
 {"anidb_id":9043,"anilist_id":14467,"animeplanet_id":"k-anime","anisearch_id":7651,"livechart_id":948,"mal_id":14467}
@@ -47351,7 +48320,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-FALL] TV: Kage no Jitsuryokusha ni Naritakute! 2nd Season
 {"anidb_id":17877,"anilist_id":161964,"animeplanet_id":"the-eminence-in-shadow-2nd-season","anisearch_id":18236,"livechart_id":3450,"mal_id":54595}
 ,
-// [2027-UNDEFINED] MOVIE: Kage no Jitsuryokusha ni Naritakute! Movie: Zankyou-hen
+// [2027-WINTER] MOVIE: Kage no Jitsuryokusha ni Naritakute! Movie: Zankyou-hen
 {"anidb_id":18333,"anilist_id":171952,"animeplanet_id":"the-eminence-in-shadow-lost-echoes","anisearch_id":18945,"livechart_id":12464,"mal_id":57584}
 ,
 // [2006-WINTER] MOVIE: Kage no Kodomo
@@ -47438,8 +48407,14 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2008-WINTER] OVA: Kago Shintarou Anime Sakuhin Shuu
 {"anidb_id":8745,"animeplanet_id":"short-animation-of-shintaro-kago","anisearch_id":7408,"livechart_id":6689,"mal_id":10003}
 ,
-// [2019-FALL] SPECIAL: Kagome
-{"anilist_id":138412,"mal_id":56113}
+// [2019-UNDEFINED] SPECIAL: Kagome
+{"anilist_id":138412}
+,
+// [2027-SPRING] TV: Kagurabachi
+{"anidb_id":20027,"anilist_id":211496,"anisearch_id":21498,"mal_id":64058}
+,
+// [2027-SPRING] TV: KAGURABACHI
+{"livechart_id":13617}
 ,
 // [1942-WINTER] MOVIE: Kaguya-hime
 {"anidb_id":6821,"anilist_id":193617,"animeplanet_id":"kaguya-hime-1942","anisearch_id":5749,"mal_id":59930}
@@ -47517,7 +48492,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":13010,"anilist_id":103340,"animeplanet_id":"kai-feng-qitan-zhege-baogong-bu-taixing","anisearch_id":13118,"mal_id":36226}
 ,
 // [2026-SPRING] ONA: Kai Pai La! Guaishou Da Dianying
-{"anilist_id":206145,"animeplanet_id":"kai-pai-la-guaishou-da-dianying","mal_id":60588}
+{"anidb_id":20038,"anilist_id":206145,"animeplanet_id":"kai-pai-la-guaishou-da-dianying","anisearch_id":21491,"mal_id":60588}
 ,
 // [2015-FALL] SPECIAL: Kai Ten Ryo Kou Ki with Tavito Nanao
 {"anilist_id":139029,"mal_id":41490}
@@ -47585,9 +48560,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2010-SUMMER] SPECIAL: Kaichou wa Maid-sama!: Goshujinsama to Asonjao♥
 {"anilist_id":10298,"animeplanet_id":"maid-sama-its-an-extra","anisearch_id":7145,"livechart_id":4181,"mal_id":10298}
 ,
-// [2011-SPRING] SPECIAL: Kaichou wa Maid-sama!: It`s an Extra
-{}
-,
 // [2011-SPRING] SPECIAL: Kaichou wa Maid-sama!: Omake da yo!
 {"anilist_id":9366,"animeplanet_id":"maid-sama-omake-dayo","anisearch_id":7129,"livechart_id":1568,"mal_id":9366}
 ,
@@ -47630,17 +48602,14 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2021-FALL] ONA: Kaiju Decode
 {"anidb_id":15269,"anilist_id":113363,"animeplanet_id":"kaijuu-decode","anisearch_id":15091,"livechart_id":9675,"mal_id":40717}
 ,
-// [undefined-UNDEFINED] UNKNOWN: Kaiju Decode: Aidara no Ring
-{"livechart_id":13322}
-,
 // [undefined-UNDEFINED] TV: Kaiju Decode: Aidara no Yubiwa
 {}
 ,
+// [undefined-UNDEFINED] UNKNOWN: Kaiju Decode: Aidara no Yubiwa
+{"anilist_id":198663,"anisearch_id":21740,"livechart_id":13322}
+,
 // [2026-WINTER] UNKNOWN: Kaiju Decode: Aidara no Yubiwa
 {"anidb_id":19582}
-,
-// [undefined-UNDEFINED] UNKNOWN: KAIJU DECODE: Aidara no Yubiwa
-{"anilist_id":198663}
 ,
 // [undefined-UNDEFINED] TV: Kaiju Decode: The Ring of Aidara
 {}
@@ -47655,15 +48624,15 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {}
 ,
 // [2025-FALL] ONA: Kaiju Jiu You Wangzhe Zhanghao
-{"anilist_id":168195,"animeplanet_id":"kaiju-jiu-you-wangzhe-zhanghao","mal_id":62738}
+{"anidb_id":20073,"anilist_id":168195,"animeplanet_id":"kaiju-jiu-you-wangzhe-zhanghao","mal_id":62738}
 ,
 // [2025-WINTER] OVA: Kaiju No. 8: Hoshina's Day Off
 {}
 ,
-// [undefined-UNDEFINED] SPECIAL: Kaiju No. 8: Narumi's Week at Work
-{"animeplanet_id":"kaiju-no-8-narumis-week-at-work"}
+// [2026-FALL] SPECIAL: Kaiju No. 8: Narumi's Week at Work
+{"anilist_id":204431,"animeplanet_id":"kaiju-no-8-narumis-week-at-work"}
 ,
-// [undefined-UNDEFINED] OVA: Kaiju No. 8: Narumi's Weekday
+// [2026-UNDEFINED] OVA: Kaiju No. 8: Narumi's Weekday
 {}
 ,
 // [2025-SPRING] TV: Kaijū Sekai Seifuku
@@ -47702,7 +48671,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [undefined-UNDEFINED] ONA: Kaijuu 8-gou: Narumi no Heijitsu
 {}
 ,
-// [undefined-UNDEFINED] UNKNOWN: Kaijuu 8-gou: Narumi no Heijitsu
+// [2026-FALL] UNKNOWN: Kaijuu 8-gou: Narumi no Heijitsu
 {"livechart_id":13439,"mal_id":63138}
 ,
 // [undefined-UNDEFINED] UNKNOWN: Kaijuu Decode: Aidara no Yubiwa
@@ -47840,6 +48809,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-WINTER] ONA: Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life Mini Anime Episode 0
 {"animeplanet_id":"chillin-in-my-30s-after-getting-fired-from-the-demon-kings-army-mini-chara-anime-episode-0","anisearch_id":18351,"mal_id":55004}
 ,
+// [2026-SPRING] SPECIAL: Kaikoshugi Watashi feat. Sae Hiratsuka
+{"mal_id":64024}
+,
 // [2015-UNDEFINED] OVA: Kainar Asy-Tac Fronteer OVA
 {"animeplanet_id":"kainar-asy-tac-fronteer-ova"}
 ,
@@ -47856,7 +48828,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"animeplanet_id":"kairisei-million-arthur","mal_id":36643}
 ,
 // [2025-WINTER] ONA: Kairyuu to Yuubinyasan
-{"anidb_id":19182,"anilist_id":186559,"animeplanet_id":"kairyuu-to-yuubinya-san","anisearch_id":20154,"livechart_id":13031,"mal_id":60946}
+{"anidb_id":19182,"anilist_id":186559,"animeplanet_id":"pokemon-dragonite-and-the-special-delivery","anisearch_id":20154,"livechart_id":13031,"mal_id":60946}
 ,
 // [2017-SUMMER] SPECIAL: Kaisei
 {"animeplanet_id":"orangestar-kaisei","mal_id":39172}
@@ -47901,7 +48873,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":5481,"anilist_id":8899,"animeplanet_id":"kaitei-shounen-marine","anisearch_id":4516,"livechart_id":11641,"mal_id":8899}
 ,
 // [1969-WINTER] SPECIAL: Kaitei Toshi no Dekiru made
-{"anidb_id":7345,"animeplanet_id":"kaitei-toshi-no-dekiru-made","anisearch_id":6042,"mal_id":21551}
+{"anidb_id":7345,"anilist_id":213372,"animeplanet_id":"kaitei-toshi-no-dekiru-made","anisearch_id":6042,"mal_id":21551}
 ,
 // [1990-UNDEFINED] OVA: Kaitei-koku no Koutsuu Anzen
 {"animeplanet_id":"kaitei-koku-no-koutsuu-anzen","mal_id":39405}
@@ -48033,7 +49005,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"animeplanet_id":"kaixin-chaoren-baoxiao-xing-xingqiu","mal_id":44121}
 ,
 // [2025-SPRING] MOVIE: Kaixin Chaoren: Ni Shi Yingjiu
-{"animeplanet_id":"kaixin-chaoren-zhi-ni-shi-yingjiu","mal_id":61591}
+{"animeplanet_id":"kaixin-chaoren-zhi-ni-shi-yingjiu","anisearch_id":21632,"mal_id":61591}
 ,
 // [2024-WINTER] MOVIE: Kaixin Chaoren: Shikong Yingjiu
 {"animeplanet_id":"kaixin-chaoren-zhi-shikong-yingjiu","anisearch_id":21251,"mal_id":57743}
@@ -48381,7 +49353,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"mal_id":57176}
 ,
 // [1991-SPRING] SPECIAL: Kamekame Dance
-{"anilist_id":148018,"mal_id":56019}
+{"anilist_id":148018,"anisearch_id":21398,"mal_id":56019}
 ,
 // [2023-SPRING] SPECIAL: Kamen
 {"mal_id":56231}
@@ -48555,7 +49527,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"mal_id":59805}
 ,
 // [2026-SPRING] TV: Kamiina Botan, Yoeru Sugata wa Yuri no Hana
-{"anidb_id":19206,"anilist_id":187869,"animeplanet_id":"kamiina-botan-yoeru-sugata-wa-yuri-no-hana","anisearch_id":20277,"livechart_id":13079,"mal_id":61186}
+{"anidb_id":19206,"anilist_id":187869,"animeplanet_id":"botan-kamiina-fully-blossoms-when-drunk","anisearch_id":20277,"livechart_id":13079,"mal_id":61186}
 ,
 // [2025-UNDEFINED] ONA: Kamiina Botan, Yoeru Sugata wa Yuri no Hana Concept Movie
 {"animeplanet_id":"kamiina-botan-yoeru-sugata-wa-yuri-no-hana-concept-movie"}
@@ -48599,6 +49571,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2012-FALL] TV: Kamisama Hajimemashita
 {"anidb_id":9298,"anilist_id":14713,"animeplanet_id":"kamisama-kiss","anisearch_id":7944,"livechart_id":949,"mal_id":14713}
 ,
+// [2013-SUMMER] OVA: Kamisama Hajimemashita (2013)
+{"anidb_id":9873}
+,
+// [2026-SPRING] SPECIAL: Kamisama Hajimemashita (Music)
+{"mal_id":64425}
+,
 // [2013-SUMMER] OVA: Kamisama Hajimemashita OVA
 {"anilist_id":18661,"animeplanet_id":"kamisama-kiss-ova","anisearch_id":8722,"livechart_id":175,"mal_id":18661}
 ,
@@ -48619,9 +49597,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2013-SUMMER] OVA: Kamisama Kiss
 {}
-,
-// [2013-SUMMER] OVA: Kamisama Kiss OVA
-{"anidb_id":9873}
 ,
 // [2015-FALL] TV: Kamisama Minarai: Himitsu no Cocotama
 {"anidb_id":11293,"anilist_id":21237,"animeplanet_id":"kamisama-minarai-himitsu-no-cocotama","anisearch_id":10719,"livechart_id":1667,"mal_id":31044}
@@ -48667,9 +49642,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2025-SUMMER] SPECIAL: Kamitanomi
 {"mal_id":62172}
-,
-// [2025-SUMMER] TV: Kamitsubaki City Under Construction
-{}
 ,
 // [2025-SUMMER] TV: Kamitsubaki City Under Construction: Witchling - Part 1
 {"animeplanet_id":"kamitsubaki-city-under-construction-witchling-part-1"}
@@ -48771,7 +49743,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":18350,"anilist_id":172355,"animeplanet_id":"ron-kamonohashis-forbidden-deductions-season-2","anisearch_id":18984,"livechart_id":12477,"mal_id":57635}
 ,
 // [1961-WINTER] MOVIE: Kamotori Gonbee
-{"anidb_id":14283,"anilist_id":120872,"animeplanet_id":"kamotori-gonbee","mal_id":33177}
+{"anidb_id":14283,"anilist_id":120872,"animeplanet_id":"kamotori-gonbee","anisearch_id":21695,"mal_id":33177}
 ,
 // [2009-FALL] TV: Kämpfer
 {"anidb_id":6685,"anilist_id":6205,"animeplanet_id":"kampfer","anisearch_id":5307,"livechart_id":3361,"mal_id":6205}
@@ -48793,6 +49765,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1985-WINTER] MOVIE: Kamui no Ken
 {"anidb_id":1525,"anilist_id":496,"animeplanet_id":"the-dagger-of-kamui","anisearch_id":483,"livechart_id":8573,"mal_id":496}
+,
+// [2026-SUMMER] TV: KAMUI: He's Behind You
+{}
 ,
 // [2002-SPRING] OVA: Kamyla
 {"anisearch_id":3240,"mal_id":3921}
@@ -48871,6 +49846,15 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: Kanan-sama wa Akumade Choroi
 {"anidb_id":19293,"anilist_id":190704,"animeplanet_id":"mistress-kanan-is-devilishly-easy","anisearch_id":20461,"livechart_id":13143,"mal_id":61501}
+,
+// [undefined-UNDEFINED] TV: Kanan-sama wa Akumade Choroi 2
+{"anidb_id":20118}
+,
+// [undefined-UNDEFINED] TV: Kanan-sama wa Akumade Choroi 2nd Season
+{"anilist_id":213363,"livechart_id":13676,"mal_id":64441}
+,
+// [undefined-UNDEFINED] TV: Kanan-sama wa Akumade Choroi Dai 2 Ki
+{"anisearch_id":21742}
 ,
 // [2006-UNDEFINED] OVA: Kanashii Asa Gohan
 {"animeplanet_id":"kanashii-asa-gohan"}
@@ -49115,6 +50099,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1972-WINTER] MOVIE: Kanojo no Dokushinsha-tachi ni Yotte Hadaka ni Sareta Seifuku no Shojo Kenkyuu
 {"anilist_id":102673,"animeplanet_id":"kanojo-no-dokushinshatachi-ni-yotte-hadaka-ni-sareta-seifuku-no-shojo-kenkyuu","mal_id":22255}
 ,
+// [2026-FALL] TV: Kanojo no Tomodachi
+{"anidb_id":20040,"anilist_id":211877,"anisearch_id":21562,"livechart_id":13628,"mal_id":64131}
+,
+// [2026-SUMMER] OVA: Kanojo Saimin
+{"mal_id":64531}
+,
 // [1999-SPRING] OVA: Kanojo to Kanojo no Neko
 {"anidb_id":461,"anilist_id":1004,"animeplanet_id":"she-and-her-cat","anisearch_id":1542,"livechart_id":3768,"mal_id":1004}
 ,
@@ -49166,8 +50156,20 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2026-SPRING] TV: Kanojo, Okarishimasu 5th Season
 {"anidb_id":19587,"anilist_id":199029,"animeplanet_id":"rent-a-girlfriend-season-5","anisearch_id":20904,"livechart_id":13018,"mal_id":62485}
 ,
+// [undefined-UNDEFINED] TV: Kanojo, Okarishimasu 6
+{"anidb_id":20136}
+,
+// [undefined-UNDEFINED] TV: Kanojo, Okarishimasu 6th Season
+{"livechart_id":13692,"mal_id":64484}
+,
+// [undefined-UNDEFINED] UNKNOWN: Kanojo, Okarishimasu 6th Season
+{"anilist_id":213581}
+,
 // [2020-SUMMER] ONA: Kanojo, Okarishimasu Collab Mini Animation
 {"anilist_id":123464}
+,
+// [undefined-UNDEFINED] TV: Kanojo, Okarishimasu Dai 6 Ki
+{"anisearch_id":21752}
 ,
 // [2020-SUMMER] ONA: Kanojo, Okarishimasu Petit
 {"anilist_id":123901,"animeplanet_id":"rent-a-girlfriend-mini-anime","anisearch_id":18446,"livechart_id":10568,"mal_id":42867}
@@ -49260,7 +50262,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anisearch_id":20445}
 ,
 // [1997-WINTER] MOVIE: Kansuke-san to Fushigi na Jitensha
-{"anidb_id":10094,"animeplanet_id":"kansuke-san-to-fushigi-na-jitensha","anisearch_id":9180,"mal_id":23727}
+{"anidb_id":10094,"anilist_id":212566,"animeplanet_id":"kansuke-san-to-fushigi-na-jitensha","anisearch_id":9180,"mal_id":23727}
 ,
 // [2015-WINTER] TV: Kantai Collection: KanColle
 {"anidb_id":10161,"anilist_id":20553,"animeplanet_id":"kantai-collection-kan-colle","anisearch_id":9021,"livechart_id":252,"mal_id":21511}
@@ -49508,6 +50510,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1992-WINTER] MOVIE: Karasu
 {"anilist_id":121048,"animeplanet_id":"karasu","mal_id":42272}
 ,
+// [2026-SPRING] SPECIAL: Karasu
+{"mal_id":64478}
+,
 // [1940-WINTER] MOVIE: Karasu no Hoken Kanyuin
 {"anidb_id":6865,"anisearch_id":11957}
 ,
@@ -49543,6 +50548,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2015-FALL] ONA: Kare Baka: Wagahai no Kare wa Baka de R
 {"anidb_id":11219,"anilist_id":21183,"animeplanet_id":"kare-baka-wagahai-no-kare-wa-baka-de-r","anisearch_id":10408,"livechart_id":1582,"mal_id":31865}
+,
+// [2026-SPRING] OVA: Kare no Shiranai Himitsu o Irete. The Animation
+{"anisearch_id":21546}
+,
+// [2026-SPRING] OVA: Kare no Shiranai Himitsu wo Irete. The Animation
+{"mal_id":64146}
 ,
 // [2008-WINTER] MOVIE: Kare wa Genjitsu no Sekai ni…
 {"anilist_id":151647,"animeplanet_id":"kare-wa-genjitsu-no-sekai-ni","mal_id":52271}
@@ -49641,7 +50652,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":107530,"animeplanet_id":"kasa","mal_id":57073}
 ,
 // [1960-WINTER] MOVIE: Kasa Jizou
-{"anidb_id":14286,"anilist_id":120770,"animeplanet_id":"kasa-jizou","mal_id":32623}
+{"anidb_id":14286,"anilist_id":120770,"animeplanet_id":"kasa-jizou","anisearch_id":21693,"mal_id":32623}
 ,
 // [2017-SPRING] SPECIAL: Kasa no Sasenai Roji
 {"mal_id":59521}
@@ -49697,26 +50708,23 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2017-SPRING] UNKNOWN: Kashisu to Aruru no Monogatari
 {"anisearch_id":12669}
 ,
-// [2026-UNDEFINED] TV: Kashita Maryoku wa "Revo Barai" de Kyousei Choushuu
-{"mal_id":62922}
+// [2026-FALL] TV: Kashita Maryoku wa "Revo Barai" de Kyousei Choushuu
+{"anilist_id":202250,"mal_id":62922}
 ,
-// [2026-UNDEFINED] TV: Kashita Maryoku wa "Revolving Barai" de Kyousei Choushuu
+// [2026-FALL] TV: Kashita Maryoku wa "Revolving Barai" de Kyousei Choushuu
 {"animeplanet_id":"kashita-maryoku-wa-revolving-barai-de-kyousei-choushuu"}
 ,
-// [undefined-UNDEFINED] TV: Kashita Maryoku wa "Ribobarai" de Kyousei Choushuu ~Youzumi to Party Tsuihousareta Ore wa, Kawaii Support Yousei to Issho ni Toritateta Maryoku wo Unyou shite Saikyou wo Mezasu.~
+// [2026-FALL] TV: Kashita Maryoku wa “Ribobarai” de Kyousei Choushuu
+{"anisearch_id":21005}
+,
+// [2026-FALL] TV: Kashita Maryoku wa "Ribobarai" de Kyousei Choushuu ~Youzumi to Party Tsuihousareta Ore wa, Kawaii Support Yousei to Issho ni Toritateta Maryoku wo Unyou shite Saikyou wo Mezasu.~
 {"livechart_id":13386}
 ,
 // [undefined-UNDEFINED] TV: Kashita Maryoku wa "Ribobarai" de Kyousei Choushuu: Youzumi to Party Tsuihou Sareta Ore wa, Kawaii Support Yousei to Issho ni Toritateta Maryoku o Un'you Shite Saikyou o Mezasu.
 {}
 ,
-// [2026-UNDEFINED] TV: Kashita Maryoku wa "Ribobarai" de Kyousei Choushuu: Youzumi to Party Tsuihou Sareta Ore wa, Kawaii Support Yousei to Issho ni Toritateta Maryoku o Un’you Shite Saikyou o Mezasu.
-{"anisearch_id":21005}
-,
-// [2026-WINTER] TV: Kashita Maryoku wa "Ribobarai" de Kyousei Choushuu: Youzumi to Party Tsuihou Sareta Ore wa, Kawaii Support Yousei to Issho ni Toritateta Maryoku o Un`you Shite Saikyou o Mezasu.
+// [2026-FALL] TV: Kashita Maryoku wa "Ribobarai" de Kyousei Choushuu: Youzumi to Party Tsuihou Sareta Ore wa, Kawaii Support Yousei to Issho ni Toritateta Maryoku o Un`you Shite Saikyou o Mezasu.
 {"anidb_id":19714}
-,
-// [2026-UNDEFINED] TV: Kashita Maryoku wa [Ribo Harai] de Kyousei Choushuu
-{"anilist_id":202250}
 ,
 // [1998-FALL] OVA: Kashou no Tsuki: Aki Kyougen
 {"anidb_id":168,"anilist_id":1036,"animeplanet_id":"kasho-no-tsuki","anisearch_id":1723,"livechart_id":7512,"mal_id":1036}
@@ -49955,6 +50963,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2017-WINTER] SPECIAL: Kawaiku Naritai
 {"animeplanet_id":"honeyworks-kawaiku-naritai","mal_id":38852}
 ,
+// [undefined-UNDEFINED] TV: Kawaisouni! Theater
+{"mal_id":64230}
+,
 // [2023-SPRING] TV: Kawaisugi Crisis
 {"anidb_id":17645,"anilist_id":155070,"animeplanet_id":"too-cute-crisis","anisearch_id":17745,"livechart_id":11529,"mal_id":53163}
 ,
@@ -50045,6 +51056,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2019-SPRING] SPECIAL: Kaze ni nare Koigokoro
 {}
 ,
+// [2026-SPRING] SPECIAL: Kaze no Anthem
+{"anilist_id":211301,"anisearch_id":21496,"mal_id":64018}
+,
 // [2010-SPRING] SPECIAL: Kaze no Buranko
 {"anilist_id":178614,"animeplanet_id":"kaze-no-buranko","mal_id":57147}
 ,
@@ -50101,6 +51115,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2004-FALL] SPECIAL: Kaze no Toori Michi
 {"anidb_id":4886,"anilist_id":4689,"animeplanet_id":"kaze-no-toori-michi","anisearch_id":6776,"mal_id":4689}
+,
+// [1969-UNDEFINED] SPECIAL: Kaze no Uta
+{"anilist_id":213378}
 ,
 // [2016-SUMMER] MOVIE: Kaze no You ni
 {"anidb_id":11986,"anilist_id":105974,"animeplanet_id":"kaze-no-you-ni","anisearch_id":11276,"livechart_id":2165,"mal_id":32832}
@@ -50228,14 +51245,14 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-FALL] OVA: Kegareboshi
 {"mal_id":62921}
 ,
-// [2009-WINTER] ONA: Kehin Kazoku
-{"animeplanet_id":"kehin-kazoku","anisearch_id":5370,"mal_id":59325}
-,
 // [2000-FALL] OVA: Keibiin
 {"anisearch_id":1715,"mal_id":5664}
 ,
 // [2017-FALL] ONA: Keifuku-san
 {"anidb_id":13697,"anilist_id":101034,"animeplanet_id":"keifuku-san","anisearch_id":13156,"livechart_id":6467,"mal_id":36156}
+,
+// [2009-WINTER] ONA: Keihin Kazoku
+{"animeplanet_id":"kehin-kazoku","anisearch_id":5370,"mal_id":59325}
 ,
 // [2010-SPRING] SPECIAL: Keihin Kazoku Specials
 {"mal_id":59326}
@@ -50345,11 +51362,8 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2006-FALL] TV: Kekkaishi
 {"anidb_id":4574,"anilist_id":1606,"animeplanet_id":"kekkaishi","anisearch_id":3712,"livechart_id":4762,"mal_id":1606}
 ,
-// [undefined-UNDEFINED] TV: Kekkaishi no Ichirinka
-{"anidb_id":19531,"anilist_id":197619,"livechart_id":13285,"mal_id":62311}
-,
-// [undefined-UNDEFINED] TV: Kekkaishi no Ichirinka
-{"anisearch_id":20841}
+// [2027-WINTER] TV: Kekkaishi no Ichirinka
+{"anidb_id":19531,"anilist_id":197619,"anisearch_id":20841,"livechart_id":13285,"mal_id":62311}
 ,
 // [2007-SPRING] SPECIAL: Kekkaishi: Yoshimori no Omoi
 {"animeplanet_id":"kekkaishi-yoshimori-no-omoi","mal_id":39315}
@@ -50786,7 +51800,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2004-SPRING] TV: Keroro Gunsou
 {"anidb_id":1552,"anilist_id":516,"animeplanet_id":"sgt-frog","anisearch_id":3076,"livechart_id":5040,"mal_id":516}
 ,
-// [2026-UNDEFINED] TV: Keroro Gunsou ☆
+// [2026-FALL] TV: Keroro Gunsou ☆
 {"anisearch_id":21260}
 ,
 // [2010-SPRING] MOVIE: Keroro Gunsou Chou Rittai-ban: Hoshizora wo Torimodose! Taiyoukei Daitsuiseki de Arimasu!!
@@ -51041,6 +52055,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1993-SUMMER] MOVIE: Kidou Keisatsu Patlabor 2 the Movie
 {"anidb_id":395,"anilist_id":1096,"animeplanet_id":"patlabor-2-the-movie","anisearch_id":2835,"livechart_id":4863,"mal_id":1096}
 ,
+// [2026-SUMMER] OVA: Kidou Keisatsu Patlabor EZY File 2
+{"anilist_id":212652}
+,
+// [2027-SPRING] OVA: Kidou Keisatsu Patlabor EZY File 3
+{"anilist_id":212653}
+,
 // [1989-SUMMER] MOVIE: Kidou Keisatsu Patlabor the Movie
 {"anidb_id":777,"anilist_id":1095,"animeplanet_id":"patlabor-the-movie","anisearch_id":3318,"livechart_id":4526,"mal_id":1095}
 ,
@@ -51158,7 +52178,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-WINTER] MOVIE: Kidou Senshi Gundam SEED Freedom
 {"anidb_id":14032,"anilist_id":134761,"animeplanet_id":"mobile-suit-gundam-seed-freedom","anisearch_id":17009,"livechart_id":10613,"mal_id":49073}
 ,
-// [undefined-UNDEFINED] SPECIAL: Kidou Senshi Gundam SEED Freedom Zero
+// [undefined-UNDEFINED] MOVIE: Kidou Senshi Gundam SEED Freedom Zero
 {"anidb_id":18958,"anilist_id":183692,"animeplanet_id":"mobile-suit-gundam-seed-freedom-zero","anisearch_id":19876,"livechart_id":12905,"mal_id":60230}
 ,
 // [2004-WINTER] OVA: Kidou Senshi Gundam SEED MSV Astray
@@ -51271,6 +52291,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2021-SPRING] MOVIE: Kidou Senshi Gundam: Senkou no Hathaway
 {"anilist_id":105595,"animeplanet_id":"mobile-suit-gundam-hathaways-flash-i","anisearch_id":13580,"livechart_id":8364,"mal_id":37765}
+,
+// [2021-SPRING] MOVIE: Kidou Senshi Gundam: Senkou no Hathaway
+{"anidb_id":14043}
 ,
 // [2026-WINTER] MOVIE: Kidou Senshi Gundam: Senkou no Hathaway - Circe no Majo
 {"anilist_id":113971,"animeplanet_id":"mobile-suit-gundam-hathaways-flash-the-sorcery-of-nymph-circe","anisearch_id":16863,"livechart_id":8377,"mal_id":38716}
@@ -51395,11 +52418,11 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2022-SPRING] SPECIAL: Kienai feat. Harutya
 {"mal_id":54083}
 ,
-// [2011-FALL] TV: Kieta Akazukin-chan
-{"anidb_id":11483,"anisearch_id":11561}
-,
 // [2001-SUMMER] MOVIE: Kieta Akazukin-chan
 {"mal_id":62213}
+,
+// [2011-FALL] SPECIAL: Kieta Akazukin-chan
+{"anidb_id":11483,"anisearch_id":11561}
 ,
 // [1996-SUMMER] OVA: Kigurumi Sentai Quiltian
 {"anisearch_id":4389,"mal_id":4832}
@@ -51482,7 +52505,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-FALL] TV: Kikansha no Mahou wa Tokubetsu desu
 {"anidb_id":17944,"anilist_id":163142,"animeplanet_id":"a-returners-magic-should-be-special","anisearch_id":18314,"livechart_id":11905,"mal_id":54852}
 ,
-// [2026-WINTER] TV: Kikansha no Mahou wa Tokubetsu desu 2nd Season
+// [2026-FALL] TV: Kikansha no Mahou wa Tokubetsu desu 2nd Season
 {"anidb_id":18345,"anilist_id":172192,"animeplanet_id":"a-returners-magic-should-be-special-season-2","anisearch_id":18981,"livechart_id":12474,"mal_id":57612}
 ,
 // [1997-WINTER] MOVIE: Kikansha Sensei
@@ -51611,8 +52634,20 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2026-SPRING] TV: Kill Ao
 {"anidb_id":19546,"anilist_id":198113,"animeplanet_id":"kill-blue","anisearch_id":20865,"livechart_id":13301,"mal_id":62391}
 ,
+// [undefined-UNDEFINED] TV: Kill Ao 2
+{"anidb_id":20139}
+,
+// [undefined-UNDEFINED] TV: Kill Ao 2nd Season
+{"anilist_id":213628,"livechart_id":13695,"mal_id":64495}
+,
+// [undefined-UNDEFINED] TV: Kill Ao Dai 2 Ki
+{"anisearch_id":21756}
+,
 // [2003-FALL] MOVIE: Kill Bill Chapter 3: The Origin of O-Ren
 {"animeplanet_id":"kill-bill-chapter-3-the-origin-of-o-ren"}
+,
+// [undefined-UNDEFINED] TV: Kill Blue
+{}
 ,
 // [2013-FALL] TV: Kill la Kill
 {"anidb_id":9875,"anilist_id":18679,"animeplanet_id":"kill-la-kill","anisearch_id":8645,"livechart_id":94,"mal_id":18679}
@@ -51776,7 +52811,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2021-FALL] SPECIAL: Kimetsu no Yaiba: Asakusa Hen
 {"anidb_id":17069,"anisearch_id":16658}
 ,
-// [2025-SPRING] MOVIE: Kimetsu no Yaiba: Hashira Geiko Hen - Tokubetsu Henshuuban
+// [2025-SUMMER] MOVIE: Kimetsu no Yaiba: Hashira Geiko Hen - Tokubetsu Henshuuban
 {"anidb_id":19418}
 ,
 // [2024-SPRING] TV: Kimetsu no Yaiba: Hashira Geiko-hen
@@ -51815,7 +52850,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2021-FALL] SPECIAL: Kimetsu no Yaiba: Tsuzumi Yashiki Hen
 {"anidb_id":17070,"anisearch_id":16659}
 ,
-// [2023-WINTER] SPECIAL: Kimetsu no Yaiba: Yuukaku Hen - Tokubetsu Henshuu Ban
+// [2023-SPRING] SPECIAL: Kimetsu no Yaiba: Yuukaku Hen - Tokubetsu Henshuuban
 {"anidb_id":17976}
 ,
 // [2022-WINTER] TV: Kimetsu no Yaiba: Yuukaku-hen
@@ -52106,6 +53141,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2022-WINTER] SPECIAL: Kimi to Soda
 {"anilist_id":147857,"animeplanet_id":"airi-miyakawa-kimi-to-soda","mal_id":51202}
 ,
+// [2026-SPRING] SPECIAL: Kimi to Tabikaze
+{"mal_id":64195}
+,
 // [2020-FALL] SPECIAL: Kimi to Tsunaga Renai Jinsei Nante
 {"anilist_id":127508}
 ,
@@ -52150,6 +53188,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2015-SUMMER] SPECIAL: Kimi wo Matsu
 {"anilist_id":140865,"animeplanet_id":"aimer-kimi-wo-matsu","anisearch_id":11114,"mal_id":42436}
+,
+// [undefined-UNDEFINED] ONA: Kimi wo Tsumugu
+{"mal_id":63902}
+,
+// [2026-SUMMER] ONA: Kimi wo Tsumugu
+{"livechart_id":13595}
 ,
 // [2022-UNDEFINED] SPECIAL: Kimi wo ugatsu
 {"anilist_id":148365}
@@ -52207,6 +53251,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2003-SPRING] SPECIAL: Kin no Makiba (Music)
 {"animeplanet_id":"kin-no-makiba-2003","mal_id":42009}
+,
+// [2026-SPRING] SPECIAL: Kin no Ono, Gin no Ono, Emerald no Ono
+{"mal_id":64177}
 ,
 // [undefined-UNDEFINED] TV: Kin to Tetsu
 {"anidb_id":19924,"anilist_id":208610,"animeplanet_id":"fungus-and-iron","anisearch_id":21301,"livechart_id":13538,"mal_id":63600}
@@ -52283,9 +53330,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2022-SPRING] SPECIAL: Kinemaquia PV
 {"animeplanet_id":"kinemaquia-pv","anisearch_id":17379,"mal_id":52762}
 ,
-// [2023-UNDEFINED] SPECIAL: King Gnu: Glass Window
-{"animeplanet_id":"king-gnu-glass-window"}
-,
 // [1967-SPRING] TV: King Kong: 001/7 Tom Thumb
 {"anidb_id":3642,"anilist_id":19995,"animeplanet_id":"king-kong-00-1-7-tom-thumb","anisearch_id":2388,"livechart_id":11648,"mal_id":19995}
 ,
@@ -52294,6 +53338,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2025-SUMMER] MOVIE: King of Kings
 {"anisearch_id":21150,"mal_id":63262}
+,
+// [undefined-UNDEFINED] MOVIE: KING OF PRISM -Tri-Star Act-
+{"anilist_id":213660,"livechart_id":13702}
 ,
 // [2020-WINTER] MOVIE: King of Prism All Stars: Prism Show☆Best Ten
 {"anidb_id":15155,"anilist_id":112480,"animeplanet_id":"king-of-prism-all-stars-prism-show-best-10","anisearch_id":14819,"livechart_id":9640,"mal_id":40543}
@@ -52451,7 +53498,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [undefined-UNDEFINED] TV: Kininatteru Hito ga Otoko ja Nakatta
 {}
 ,
-// [undefined-UNDEFINED] SPECIAL: Kininatteru Hito ga Otoko ja Nakatta
+// [2027-WINTER] SPECIAL: Kininatteru Hito ga Otoko ja Nakatta
 {"anidb_id":19167,"anilist_id":186822,"animeplanet_id":"the-guy-she-was-interested-in-wasnt-a-guy-at-all","anisearch_id":20190,"livechart_id":13047,"mal_id":61035}
 ,
 // [2013-SUMMER] TV: Kiniro Mosaic
@@ -52479,7 +53526,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":6311,"anilist_id":5717,"animeplanet_id":"la-cordo-d-oro-secondo-passo","anisearch_id":5241,"livechart_id":5502,"mal_id":5717}
 ,
 // [1998-WINTER] OVA: Kiniro no Kujira
-{"animeplanet_id":"kiniro-no-kujira","mal_id":26231}
+{"animeplanet_id":"kiniro-no-kujira","anisearch_id":21458,"mal_id":26231}
 ,
 // [2025-UNDEFINED] MOVIE: Kinjo no Numa
 {"anilist_id":205832}
@@ -52694,6 +53741,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2020-FALL] ONA: Kipo and the Age of Wonderbeasts Season 3
 {}
 ,
+// [2026-SPRING] SPECIAL: Kira
+{"anilist_id":211479,"anisearch_id":21497,"mal_id":64047}
+,
 // [2022-FALL] SPECIAL: Kira Killer
 {"anilist_id":158829,"animeplanet_id":"zutomayo-kira-killer","anisearch_id":17951,"mal_id":53858}
 ,
@@ -52865,6 +53915,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1932-WINTER] MOVIE: Kisha no Hattatsu
 {"anidb_id":12880,"anilist_id":113703,"animeplanet_id":"kisha-no-hattatsu","anisearch_id":12282}
 ,
+// [2026-SPRING] SPECIAL: Kishi Kaisen
+{"mal_id":64491}
+,
 // [2017-SUMMER] OVA: Kishibe Rohan wa Ugokanai
 {"anidb_id":13812,"anilist_id":21778,"animeplanet_id":"thus-spoke-kishibe-rohan","mal_id":33191}
 ,
@@ -52931,6 +53984,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1964-WINTER] MOVIE: Kiss Kiss Kiss
 {"anidb_id":5003,"anilist_id":8663,"animeplanet_id":"kiss-kiss-kiss","anisearch_id":4102}
 ,
+// [2025-SUMMER] SPECIAL: Kiss Kiss Kiss
+{"mal_id":64124}
+,
 // [2025-WINTER] SPECIAL: Kiss Kitsune
 {"mal_id":61223}
 ,
@@ -52987,9 +54043,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2012-FALL] SPECIAL: Kita no Kaze to Taiyou to
 {"anilist_id":126270,"animeplanet_id":"kita-no-kaze-to-taiyou-to","mal_id":43485}
-,
-// [2026-SPRING] SPECIAL: Kita no Majo to Yeti
-{"mal_id":63860}
 ,
 // [1974-FALL] SPECIAL: Kitakaze Kozou no Kantarou
 {"anidb_id":12629,"anilist_id":8681,"animeplanet_id":"kitakaze-kozou-no-kantarou","anisearch_id":6778,"mal_id":8681}
@@ -53050,6 +54103,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1948-WINTER] MOVIE: Kitsune to Circus
 {"anidb_id":10651,"anilist_id":102091,"animeplanet_id":"kitsune-to-circus","anisearch_id":10000,"mal_id":24363}
+,
+// [1947-UNDEFINED] MOVIE: Kitsune to Hiyoko
+{"mal_id":64193}
+,
+// [1948-UNDEFINED] MOVIE: Kitsune to Kotori
+{"mal_id":64173}
 ,
 // [2015-WINTER] MOVIE: Kitsune Tsuki
 {"anidb_id":13604,"anilist_id":104128,"animeplanet_id":"fox-fears","anisearch_id":12540,"mal_id":34840}
@@ -53135,8 +54194,14 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1990-WINTER] OVA: Kizu darake no Tenshi-tachi
 {"anilist_id":103377,"animeplanet_id":"kizu-darake-no-tenshi-tachi","mal_id":25061}
 ,
+// [2026-FALL] TV: Kizu Darake Seijo yori Houfuku o Komete Season 2
+{"anisearch_id":21564}
+,
 // [2025-SUMMER] TV: Kizu darake Seijo yori Houfuku wo Komete
 {"anidb_id":19442,"anilist_id":195209,"anisearch_id":19648,"livechart_id":12856,"mal_id":59961}
+,
+// [2026-FALL] TV: Kizu darake Seijo yori Houfuku wo Komete Season 2
+{"anilist_id":212144,"livechart_id":13631,"mal_id":64180}
 ,
 // [2021-WINTER] SPECIAL: Kizu to Mitsu
 {"anilist_id":151053,"anisearch_id":16989}
@@ -53190,7 +54255,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":3459,"anilist_id":734,"animeplanet_id":"kizuna-much-ado-about-nothing","anisearch_id":2098,"livechart_id":7713,"mal_id":734}
 ,
 // [1990-WINTER] OVA: Kizuna: Ningen no Uta Part 2
-{"anilist_id":121881,"animeplanet_id":"kizuna-ningen-no-uta-part-2","mal_id":31000}
+{"anilist_id":121881,"animeplanet_id":"kizuna-ningen-no-uta-part-2","anisearch_id":21446,"mal_id":31000}
 ,
 // [2020-WINTER] SPECIAL: Kizunaism
 {}
@@ -53798,7 +54863,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2014-FALL] SPECIAL: Kogepan “Yasagure Eki Uta♪”
 {"mal_id":60245}
 ,
-// [2022-SPRING] SPECIAL: Kogidasou, Ji no Sekai e!
+// [2022-SPRING] SPECIAL: Kogidasou, Tsugi no Sekai e!
 {"anisearch_id":18198}
 ,
 // [1997-SUMMER] OVA: Kogitsune no Koutsuu Anzen
@@ -53818,9 +54883,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1997-WINTER] OVA: Kōgyō Aika Volley Boys
 {}
-,
-// [1991-SPRING] OVA: Koha Ginjiro
-{"anidb_id":7580,"anilist_id":104569,"animeplanet_id":"trusty-ginjiro","anisearch_id":5648,"mal_id":24489}
 ,
 // [1993-FALL] SPECIAL: Kohaku no Mahou
 {"anilist_id":145273,"animeplanet_id":"kohaku-no-mahou","mal_id":50145}
@@ -53876,11 +54938,17 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2003-SUMMER] SPECIAL: Koi no Subesube Manjuu Gani
 {"anilist_id":169790,"animeplanet_id":"koi-no-sube-sube-manjuu-gani","mal_id":39858}
 ,
+// [2012-SPRING] SPECIAL: Koi no Tamashii
+{"mal_id":64133}
+,
 // [2025-WINTER] ONA: Koi no Yu♨️Talk
 {"animeplanet_id":"koi-no-yu-talk","anisearch_id":20084,"livechart_id":13008,"mal_id":60729}
 ,
 // [2007-UNDEFINED] SPECIAL: Koi Nobori
 {"anilist_id":148468,"animeplanet_id":"jitterin-jinn-koi-nobori","mal_id":41496}
+,
+// [2027-WINTER] TV: Koi Seyo Mayakashi Tenshi-domo
+{"anidb_id":20091,"livechart_id":13665}
 ,
 // [undefined-UNDEFINED] TV: Koi Shita Hito wa, Imouto no Kawari ni Shindekure to Itta.
 {}
@@ -53896,9 +54964,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2012-SUMMER] TV: Koi to Senkyo to Chocolate
 {"anidb_id":8820,"anilist_id":12175,"animeplanet_id":"love-election-and-chocolate","anisearch_id":7455,"livechart_id":1029,"mal_id":12175}
-,
-// [2012-WINTER] SPECIAL: Koi to Senkyo to Chocolate PV
-{"mal_id":60299}
 ,
 // [2012-SUMMER] SPECIAL: Koi to Senkyo to Chocolate: Ikenai Hazuki-sensei
 {"anilist_id":18053,"animeplanet_id":"love-election-chocolate-ikenai-hazuki-sensei","anisearch_id":8531,"livechart_id":5009,"mal_id":18053}
@@ -54005,6 +55070,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1972-WINTER] SPECIAL: Koinu no Plue
 {"anilist_id":140216,"animeplanet_id":"koinu-no-blue","mal_id":36400}
 ,
+// [2027-WINTER] TV: Koiseyo Mayakashi Tenshi-domo
+{"anilist_id":213131,"anisearch_id":21731,"mal_id":64380}
+,
 // [2009-UNDEFINED] TV: Koishigure ~Yoshitaka Yuriko to 6-tsu no Koi
 {}
 ,
@@ -54016,6 +55084,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2015-WINTER] TV: Koishite!! Namashi-chan
 {"mal_id":24775}
+,
+// [undefined-UNDEFINED] TV: Koisuru (Otome) no Tsukurikata
+{"anilist_id":213422,"livechart_id":13679,"mal_id":64452}
 ,
 // [2020-WINTER] TV: Koisuru Asteroid
 {"anidb_id":14707,"anilist_id":108092,"animeplanet_id":"asteroid-in-love","anisearch_id":14210,"livechart_id":9244,"mal_id":39388}
@@ -54157,9 +55228,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.
 {"anidb_id":19635,"anilist_id":199748,"animeplanet_id":"i-became-a-legend-after-my-10-year-long-last-stand","anisearch_id":20962,"livechart_id":13355,"mal_id":62617}
-,
-// [2024-WINTER] ONA: Kokokara Hajimeru Monogatari
-{"mal_id":58798}
 ,
 // [2020-SPRING] TV: Kokoko Allu
 {"anisearch_id":15276}
@@ -54309,7 +55377,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"mal_id":63083}
 ,
 // [2026-SPRING] TV: Komekami! Girls
-{"anidb_id":19932,"anilist_id":209940,"animeplanet_id":"komekami-girls","anisearch_id":19743,"livechart_id":13568,"mal_id":63709}
+{"anilist_id":209940}
+,
+// [2026-SPRING] TV: Komekami! Girls
+{"anidb_id":19932,"animeplanet_id":"komekami-girls","anisearch_id":19743,"livechart_id":13568,"mal_id":63709}
 ,
 // [2021-FALL] TV: Komi-san wa, Comyushou desu.
 {"anidb_id":16300,"anilist_id":133965,"animeplanet_id":"komi-cant-communicate","anisearch_id":16277,"livechart_id":10570,"mal_id":48926}
@@ -54732,7 +55803,13 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"animeplanet_id":"kookmin-bank-cm","mal_id":50486}
 ,
 // [2026-SPRING] TV: Koori no Jouheki
-{"anidb_id":19139,"anilist_id":186497,"animeplanet_id":"koori-no-jouheki","anisearch_id":20149,"livechart_id":13028,"mal_id":60852}
+{"anidb_id":19139,"anilist_id":186497,"animeplanet_id":"the-ramparts-of-ice","anisearch_id":20149,"livechart_id":13028,"mal_id":60852}
+,
+// [2026-FALL] TV: Koori no Jouheki (2026)
+{"anidb_id":20168}
+,
+// [2026-FALL] TV: Koori no Jouheki 2nd Season
+{"anilist_id":213805,"mal_id":64534}
 ,
 // [1970-SUMMER] MOVIE: Koori no Kuni no Misuke
 {"anidb_id":10787,"anilist_id":111855,"animeplanet_id":"koori-no-kuni-no-misuke","anisearch_id":9852,"mal_id":25921}
@@ -54800,7 +55877,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-SPRING] SPECIAL: Korekara ga, Omoshiroi
 {"anisearch_id":18528}
 ,
-// [2015-SUMMER] SPECIAL: Korekarasaki, Nando Anata to.
+// [2015-SPRING] SPECIAL: Korekarasaki, Nando Anata to.
 {"anidb_id":11377,"anilist_id":104631,"animeplanet_id":"korekarasaki-nando-anata-to","anisearch_id":10553,"mal_id":31252}
 ,
 // [2011-SPRING] SPECIAL: Korekuraide Utau
@@ -54864,10 +55941,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":5474,"anilist_id":3214,"animeplanet_id":"kosuke-and-rikimaru-dragon-of-konpei-island","anisearch_id":4497,"livechart_id":6881,"mal_id":3214}
 ,
 // [2014-SPRING] ONA: KoSys! Kochira Keihime Tetsudou: Kouhou System-ka
-{"animeplanet_id":"kosys-kochira-keihime-tetsudou-kouhou-system-ka","mal_id":23733}
+{"anilist_id":213424,"animeplanet_id":"kosys-kochira-keihime-tetsudou-kouhou-system-ka","mal_id":23733}
 ,
 // [2015-SUMMER] ONA: KoSys! Lite
-{"animeplanet_id":"kosys-lite","mal_id":33854}
+{"anilist_id":213425,"animeplanet_id":"kosys-lite","mal_id":33854}
 ,
 // [2020-WINTER] SPECIAL: Kotae wo Dasu no Da
 {"anilist_id":139190,"animeplanet_id":"kotae-wo-dasu-no-da","mal_id":48894}
@@ -54926,6 +56003,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2009-WINTER] TV: Kotonakare Hero Gingerman
 {}
 ,
+// [2020-WINTER] SPECIAL: Kotone Tenjin: PUNISHMENT
+{"anilist_id":132319,"animeplanet_id":"kotone-tenjin-punishment"}
+,
 // [2020-WINTER] SPECIAL: Kotonoha
 {}
 ,
@@ -54977,6 +56057,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-WINTER] SPECIAL: Kouchou Sense Uchuujinsetsu
 {"mal_id":60974}
 ,
+// [1996-SPRING] OVA: Kouchou Sensei ga Oyoida
+{"anisearch_id":21386}
+,
 // [2007-WINTER] SPECIAL: Kouchou-sensei to Kujira
 {"anidb_id":8282,"anilist_id":4461,"animeplanet_id":"man-and-whale","anisearch_id":6510,"mal_id":4461}
 ,
@@ -55006,6 +56089,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1997-WINTER] OVA: Kougyou Aika Volley Boys
 {"anidb_id":7692,"anilist_id":126071,"animeplanet_id":"kougyou-aika-volley-boys","anisearch_id":5646,"mal_id":24159}
+,
+// [1991-SPRING] OVA: Kouha Ginjirou
+{"anidb_id":7580,"anilist_id":104569,"animeplanet_id":"trusty-ginjiro","anisearch_id":5648,"mal_id":24489}
 ,
 // [1998-FALL] OVA: Kouin Tenshi: Haitoku no Lycéenne
 {"anisearch_id":1427,"mal_id":3541}
@@ -55132,6 +56218,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1994-WINTER] OVA: Koukou Butouden Crows
 {"anidb_id":9345,"anilist_id":6293,"animeplanet_id":"koukou-butouden-crows","anisearch_id":4279,"livechart_id":7707,"mal_id":6293}
+,
+// [1994-SUMMER] OVA: Koukou Butouden Crows 2
+{"anidb_id":5183}
 ,
 // [1923-UNDEFINED] MOVIE: Koukou Eisei
 {"anilist_id":177503,"animeplanet_id":"koukou-eisei","anisearch_id":20364,"mal_id":58828}
@@ -55304,6 +56393,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2007-SPRING] TV: Koutetsushin Jeeg
 {"anidb_id":5022,"anilist_id":2157,"animeplanet_id":"kotetsushin-jeeg","anisearch_id":4143,"livechart_id":6684,"mal_id":2157}
 ,
+// [2002-UNDEFINED] OVA: Koutsuu Anzen Chikara Mochi: Kintarou no Koutsuu Anzen
+{"anisearch_id":21433}
+,
 // [1981-UNDEFINED] MOVIE: Koutsuu Anzen da yo Doraemon
 {"animeplanet_id":"koutsuu-anzen-da-yo-doraemon","mal_id":39369}
 ,
@@ -55462,6 +56554,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2021-SUMMER] SPECIAL: KU-RU-KU-RU Cruller!
 {"anilist_id":136143,"animeplanet_id":"aquors-ku-ru-ku-ru-cruller","anisearch_id":16454,"mal_id":49880}
+,
+// [2019-FALL] ONA: Kua Fu Zhui Ri
+{"mal_id":64533}
 ,
 // [2009-SUMMER] TV: Kuai Kuaile Le Cheng
 {"animeplanet_id":"kuai-kuaile-le-cheng","mal_id":46050}
@@ -55757,9 +56852,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2026-SPRING] TV: Kujima Utaeba Ie Hororo
 {"anidb_id":18622,"anilist_id":177508,"animeplanet_id":"kujima-why-sing-when-you-can-warble","anisearch_id":19290,"livechart_id":12082,"mal_id":58832}
 ,
-// [2026-SPRING] TV: Kujima: Why Sing, When You Can Warble?
-{}
-,
 // [1927-WINTER] MOVIE: Kujira
 {"anidb_id":6838,"anisearch_id":5752,"mal_id":30176}
 ,
@@ -55798,6 +56890,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2019-WINTER] MOVIE: Kujira no Yu
 {"anilist_id":122184,"animeplanet_id":"bath-house-of-whales","mal_id":42027}
+,
+// [2026-SPRING] MOVIE: Kujira wo Yumemu
+{"anilist_id":211331,"mal_id":64102}
 ,
 // [2024-UNDEFINED] SPECIAL: Kujiragi: TOXY!
 {"animeplanet_id":"kujiragi-toxy"}
@@ -55848,7 +56943,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":148608,"animeplanet_id":"kuma-no-nuigurumi","anisearch_id":13447,"mal_id":36350}
 ,
 // [1991-SPRING] OVA: Kuma no Oisha-san
-{"anisearch_id":20250}
+{"anisearch_id":20250,"mal_id":63933}
 ,
 // [1995-SPRING] OVA: Kuma no Oisha-san Suteki na Concert
 {"anisearch_id":20283}
@@ -55887,7 +56982,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":178395,"animeplanet_id":"kumarba-season-2","anisearch_id":19664,"livechart_id":12710,"mal_id":59123}
 ,
 // [2026-SPRING] TV: Kumarba Season 3
-{"anilist_id":206950,"anisearch_id":21311,"livechart_id":13075,"mal_id":63383}
+{"livechart_id":13075}
+,
+// [2026-SPRING] TV: Kumarba Season 3
+{"anilist_id":206950,"anisearch_id":21311,"mal_id":63383}
 ,
 // [2015-WINTER] MOVIE: Kumi to Tulip
 {"anidb_id":11103,"anilist_id":21072,"animeplanet_id":"kumi-to-tulip","anisearch_id":10248,"livechart_id":686,"mal_id":29517}
@@ -56030,9 +57128,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2018-SUMMER] SPECIAL: Kunoichi Tsubaki no Mune no Uchi x Karakai Jouzu no Takagi-san
 {"livechart_id":8719}
 ,
-// [2026-WINTER] TV: Kunon the Sorcerer Can See
-{}
-,
 // [2025-SUMMER] ONA: Kunshu-sama ni Muneyake
 {"mal_id":62473}
 ,
@@ -56106,7 +57201,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":1810,"anilist_id":483,"animeplanet_id":"kurau-phantom-memory","anisearch_id":443,"livechart_id":5284,"mal_id":483}
 ,
 // [1974-FALL] SPECIAL: Kurayami
-{"anilist_id":169032,"animeplanet_id":"kurayami","mal_id":53823}
+{"anilist_id":169032,"animeplanet_id":"kurayami","anisearch_id":21390,"mal_id":53823}
 ,
 // [2015-SUMMER] TV: Kurayami Santa
 {"anidb_id":11283,"anilist_id":21223,"animeplanet_id":"kurayami-santa","anisearch_id":10473,"livechart_id":1653,"mal_id":30947}
@@ -56237,7 +57332,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-WINTER] TV: Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai
 {"anidb_id":18627,"anilist_id":177552,"animeplanet_id":"medaka-kuroiwa-is-impervious-to-my-charms","anisearch_id":19303,"livechart_id":12658,"mal_id":58853}
 ,
-// [undefined-UNDEFINED] TV: Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai 2nd Season
+// [2027-WINTER] TV: Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai 2nd Season
 {"anidb_id":19238,"anilist_id":188892,"animeplanet_id":"medaka-kuroiwa-is-impervious-to-my-charms-season-2","anisearch_id":20348,"livechart_id":13113,"mal_id":61304}
 ,
 // [2009-WINTER] TV: Kurokami The Animation
@@ -56538,7 +57633,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anisearch_id":15283,"mal_id":41512}
 ,
 // [1960-WINTER] MOVIE: Kutsuya to Kobito
-{"anidb_id":14285,"anilist_id":120772,"animeplanet_id":"kutsuya-to-kobito","mal_id":33115}
+{"anidb_id":14285,"anilist_id":120772,"animeplanet_id":"kutsuya-to-kobito","anisearch_id":21692,"mal_id":33115}
 ,
 // [2010-SUMMER] OVA: Kuttsukiboshi
 {"anidb_id":7602,"anilist_id":9014,"animeplanet_id":"kuttsukiboshi","anisearch_id":6441,"livechart_id":4080,"mal_id":9014}
@@ -56557,6 +57652,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1992-UNDEFINED] MOVIE: Kuuchuu no Ongaku II
 {"animeplanet_id":"kuuchuu-no-ongaku-ii","mal_id":60873}
+,
+// [1985-UNDEFINED] OVA: Kuuki ga Nakunaru Hi
+{"anisearch_id":21385}
 ,
 // [undefined-UNDEFINED] OVA: Kuunyan no Koutsuu Anzen: Tadashii Jitensha no Norikata
 {"animeplanet_id":"kuunyan-no-koutsuu-anzen-tadashii-jitensha-no-norikata","mal_id":35161}
@@ -56618,7 +57716,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1990-WINTER] TV: Kyattou Ninden Teyandee
 {"anidb_id":2382,"anilist_id":1261,"animeplanet_id":"samurai-pizza-cats","anisearch_id":196,"livechart_id":7047,"mal_id":1261}
 ,
-// [undefined-UNDEFINED] SPECIAL: Kyo Ani Fes Opening Movie
+// [2023-FALL] SPECIAL: Kyo Ani Fes Opening Movie
 {"mal_id":57146}
 ,
 // [2021-WINTER] MOVIE: Kyo mo Chanto Ningen ni Narou
@@ -56704,6 +57802,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2012-SPRING] OVA: Kyonyuu Fantasy
 {"anisearch_id":7690,"mal_id":13221}
+,
+// [2026-SPRING] OVA: Kyonyuu ga Futari Inai to Bokki Shinai Otto no Tame ni Tomodachi o Tsurete Kita Tsuma
+{"anisearch_id":21547}
 ,
 // [2026-SPRING] OVA: Kyonyuu ga Futari Inai to Bokki Shinai Otto no Tame ni Tomodachi wo Tsuretekita Tsuma
 {"mal_id":63582}
@@ -56915,7 +58016,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-WINTER] SPECIAL: Kyoufuu All Back (Himemori Luna Cover)
 {"mal_id":63880}
 ,
-// [undefined-UNDEFINED] SPECIAL: Kyoufuu All Back (Kakumaki wa Tame x Shigurei Cover)
+// [2023-SUMMER] SPECIAL: Kyoufuu All Back (Kakumaki wa Tame x Shigurei Cover)
 {"mal_id":56226}
 ,
 // [2023-SPRING] SPECIAL: Kyoufuu All Back (Miko Sakura Cover)
@@ -56923,9 +58024,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2023-SPRING] SPECIAL: Kyoufuu All Back (Natsuiro Matsuri Cover)
 {"mal_id":63879}
-,
-// [undefined-UNDEFINED] SPECIAL: Kyoufuu All Back (Pain Cover)
-{"mal_id":56224}
 ,
 // [undefined-UNDEFINED] SPECIAL: Kyoufuu All Back (Raon Cover)
 {"mal_id":56227}
@@ -56947,6 +58045,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1986-WINTER] OVA: Kyouiku Eiga-sai Jushou Anime Series
 {"animeplanet_id":"kyouiku-eiga-sai-jushou-anime-series","mal_id":35085}
+,
+// [1989-UNDEFINED] OVA: Kyouiku Eigamatsuri Jushou Anime Series
+{"mal_id":64186}
 ,
 // [2010-FALL] OVA: Kyouiku Shidou The Animation
 {"anisearch_id":6531,"mal_id":9588}
@@ -57019,6 +58120,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2008-SPRING] TV: Kyouran Kazoku Nikki
 {"anidb_id":5580,"anilist_id":3577,"animeplanet_id":"the-diary-of-a-crazed-family","anisearch_id":4697,"livechart_id":5598,"mal_id":3577}
+,
+// [2026-FALL] TV: Kyouran Reijou Nia Liston
+{}
 ,
 // [2026-FALL] TV: Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku
 {"anidb_id":19865,"anilist_id":206949,"animeplanet_id":"nia-liston-the-merciless-maiden","anisearch_id":21199,"livechart_id":13504,"mal_id":63382}
@@ -57260,6 +58364,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2009-SPRING] SPECIAL: La Vilaine LuLu
 {"anilist_id":6206,"mal_id":6206}
 ,
+// [2025-FALL] MOVIE: Labyrinth
+{}
+,
 // [1986-SPRING] MOVIE: Labyrinth Story
 {}
 ,
@@ -57311,7 +58418,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2020-SUMMER] SPECIAL: Lagtrain
 {"anilist_id":139809,"animeplanet_id":"inabakumori-lagtrain","mal_id":51487}
 ,
-// [undefined-UNDEFINED] TV: Laid-Back Camp
+// [2027-UNDEFINED] TV: Laid-Back Camp
 {}
 ,
 // [2021-SUMMER] OVA: Laid-Back Camp
@@ -57322,9 +58429,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2019-SPRING] MOVIE: Laidbackers
 {"anidb_id":14450,"anilist_id":104721,"animeplanet_id":"laidbackers","anisearch_id":13945,"livechart_id":3564,"mal_id":38558}
-,
-// [1994-WINTER] MOVIE: Láiyáng Cílí no Uta
-{}
 ,
 // [2026-WINTER] SPECIAL: Lakenaria no Yume
 {"mal_id":63257}
@@ -57474,7 +58578,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":168249,"animeplanet_id":"lang-lang-shaonu-lan","mal_id":62750}
 ,
 // [2025-SUMMER] MOVIE: Langlang Shan Xiao Yaoguai
-{"anilist_id":199356,"animeplanet_id":"lang-lang-shan-xiao-yaoguai","mal_id":61617}
+{"anilist_id":199356,"animeplanet_id":"lang-lang-shan-xiao-yaoguai","anisearch_id":21560,"mal_id":61617}
 ,
 // [1989-UNDEFINED] MOVIE: Lanhua Hua
 {"animeplanet_id":"lanhua-hua","mal_id":43655}
@@ -57484,6 +58588,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2024-SUMMER] TV: Lanqiu Xuanfeng 2nd Season
 {"animeplanet_id":"lanqiu-xuanfeng-2nd-season","mal_id":61475}
+,
+// [2024-SPRING] SPECIAL: Lanternoid
+{"mal_id":64074}
 ,
 // [2024-SPRING] SPECIAL: Lanthanoid
 {"anisearch_id":19394}
@@ -57522,7 +58629,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"mal_id":45328}
 ,
 // [2025-SPRING] ONA: Lao Ma Yu Xiao Bai
-{"mal_id":60590}
+{"anisearch_id":21636,"mal_id":60590}
 ,
 // [1958-UNDEFINED] MOVIE: Lao Po Po De Zao Shu
 {"animeplanet_id":"lao-po-po-de-zao-shu","mal_id":43236}
@@ -57582,7 +58689,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"animeplanet_id":"laozi-shuo","mal_id":44675}
 ,
 // [2023-SUMMER] SPECIAL: Lapis no Oningyou
-{"anilist_id":169514,"animeplanet_id":"isekaijoucho-a-doll-of-lapis","mal_id":56718}
+{"anilist_id":169514,"animeplanet_id":"isekaijoucho-a-doll-of-lapis","anisearch_id":21416,"mal_id":56718}
 ,
 // [2020-SUMMER] TV: Lapis Re:LiGHTs
 {"anidb_id":13973,"anilist_id":104937,"animeplanet_id":"lapis-relights","anisearch_id":14821,"livechart_id":3451,"mal_id":37587}
@@ -57590,7 +58697,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-WINTER] SPECIAL: LaRiLaRu
 {"mal_id":55332}
 ,
-// [2011-WINTER] TV: Larva
+// [2011-SPRING] TV: Larva
 {"anidb_id":11629}
 ,
 // [2011-SPRING] TV: Larva
@@ -57770,6 +58877,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-FALL] SPECIAL: Lazy Cat
 {"animeplanet_id":"eve-lazy-cat","mal_id":60396}
 ,
+// [2021-SUMMER] SPECIAL: Lazy River
+{"mal_id":64067}
+,
 // [2020-SUMMER] SPECIAL: LB Commerce: Omoi yo Todoke!
 {"animeplanet_id":"lb-commerce-cm","mal_id":50480}
 ,
@@ -57863,9 +58973,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1998-UNDEFINED] OVA: Legend of the Galactic Heroes: A Hundred Billion Stars, A Hundred Billion Lights
 {}
 ,
-// [2019-SUMMER] MOVIE: Legend of the Galactic Heroes: Die Neue These
-{"anidb_id":13473}
-,
 // [2022-SUMMER] MOVIE: Legend of the Galactic Heroes: Die Neue These - Intrigue
 {}
 ,
@@ -57917,6 +59024,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2017-FALL] ONA: Lego Elves: Secrets of Elvendale
 {}
 ,
+// [2026-FALL] ONA: LEGO ONE PIECE
+{}
+,
 // [2011-WINTER] TV: Lei Bi Baobei Yu Ha Pai Leyuan
 {"mal_id":46366}
 ,
@@ -57951,7 +59061,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":16879,"anisearch_id":16941}
 ,
 // [2026-WINTER] ONA: Lele Bianlidian
-{"anilist_id":208065,"animeplanet_id":"lele-bianlidian","mal_id":63415}
+{"anidb_id":20031,"anilist_id":208065,"animeplanet_id":"lele-bianlidian","anisearch_id":21492,"mal_id":63415}
 ,
 // [undefined-UNDEFINED] TV: Lele Hu da Shijie
 {"mal_id":47967}
@@ -58058,6 +59168,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2020-FALL] SPECIAL: LET IT BURN
 {}
 ,
+// [2026-SPRING] ONA: Let Me Fix You
+{}
+,
 // [1999-UNDEFINED] SPECIAL: Let Me Know
 {"mal_id":60138}
 ,
@@ -58102,6 +59215,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2025-WINTER] ONA: Let's Roll, Cinnamoroll!
 {"anilist_id":187514,"animeplanet_id":"lets-roll-cinnamoroll","mal_id":61151}
+,
+// [2026-SUMMER] ONA: Let's Roll, Cinnamoroll! 2
+{"anilist_id":213861}
+,
+// [2026-SPRING] ONA: Let's Roll, Cinnamoroll! 2nd Season
+{"mal_id":64537}
 ,
 // [2000-WINTER] MOVIE: Let's Star Watching
 {"anidb_id":16349,"animeplanet_id":"lets-star-watching"}
@@ -58152,7 +59271,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"animeplanet_id":"leyuan-shuang-bao","mal_id":46039}
 ,
 // [2025-WINTER] SPECIAL: Leyuan You Meng Ji
-{"mal_id":60834}
+{"anisearch_id":21410,"mal_id":60834}
+,
+// [2025-WINTER] SPECIAL: Leyuan You Meng Ji (Rearrange ver.)
+{"anisearch_id":21409}
 ,
 // [2022-SUMMER] ONA: LG gram 360 x Julia Ryu: Shimcheong Dive
 {"mal_id":56944}
@@ -58184,11 +59306,17 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-WINTER] ONA: Li Shi Zhentan Shiwusuo: A Day in Lungmen - Once Upon a Time in Lungmen
 {"anilist_id":169911,"animeplanet_id":"lees-detective-agency-once-upon-a-time-in-lungmen","anisearch_id":18420,"livechart_id":11809,"mal_id":54340}
 ,
+// [2028-UNDEFINED] ONA: Li Shiya
+{"mal_id":64535}
+,
 // [2009-FALL] MOVIE: Li Xianji Lixian Ji
 {"animeplanet_id":"li-xianji-lixian-ji","mal_id":44531}
 ,
 // [undefined-UNDEFINED] ONA: Li Xin Zhan Ji
 {"anilist_id":114122,"animeplanet_id":"li-xin-zhan-ji"}
+,
+// [2026-UNDEFINED] ONA: Li Xiongmao
+{"anilist_id":211220,"mal_id":63987}
 ,
 // [2011-UNDEFINED] MOVIE: LI.LI.TA.AL.
 {"animeplanet_id":"lilitaal"}
@@ -58206,7 +59334,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":17874,"anilist_id":141870,"animeplanet_id":"qi-refining-for-3000-years","anisearch_id":17821,"mal_id":50538}
 ,
 // [2023-WINTER] ONA: Lian Qi Shi Wan Nian
-{"anidb_id":18369,"anilist_id":165524,"animeplanet_id":"lian-qi-shi-wan-nian","anisearch_id":18587,"mal_id":54437}
+{"anidb_id":18369,"anilist_id":165524,"animeplanet_id":"one-hundred-thousand-years-of-qi-training","anisearch_id":18587,"mal_id":54437}
+,
+// [undefined-UNDEFINED] ONA: Lian Qi Shi Wan Nian Special: Yangji Tianxia
+{"mal_id":64451}
 ,
 // [1985-UNDEFINED] MOVIE: Lian Sheng San Ji
 {"animeplanet_id":"lian-sheng-san-ji","mal_id":43593}
@@ -58218,7 +59349,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":16298,"anilist_id":114114,"animeplanet_id":"no-doubt-in-us","anisearch_id":16080,"livechart_id":11111,"mal_id":41221}
 ,
 // [2022-FALL] ONA: Liang Bu Yi 2nd Season
-{"anilist_id":141877,"animeplanet_id":"no-doubt-in-us-2","anisearch_id":17735,"mal_id":50403}
+{"anidb_id":17988,"anilist_id":141877,"animeplanet_id":"no-doubt-in-us-2","anisearch_id":17735,"mal_id":50403}
 ,
 // [2022-FALL] ONA: Liang Bu Yi 2nd Season Small Theater
 {"mal_id":60370}
@@ -58315,6 +59446,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2020-SUMMER] SPECIAL: Lie For You
 {"anisearch_id":15668}
+,
+// [2021-SUMMER] SPECIAL: Lie Machine
+{"mal_id":64517}
 ,
 // [2020-SUMMER] ONA: Lie Yang Tiandao I
 {"anidb_id":15686,"anilist_id":120126,"animeplanet_id":"lie-yang-tiandiao-i","anisearch_id":16585,"mal_id":44571}
@@ -58553,6 +59687,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1998-UNDEFINED] TV: Ling Jue Xiao Heshang
 {"mal_id":45870}
 ,
+// [2023-UNDEFINED] ONA: Ling Long 2 Qianzhan Pian: Changye Jiangzhi
+{"anilist_id":213544}
+,
 // [2025-SPRING] ONA: Ling Long 2nd Season
 {"anidb_id":19346,"anilist_id":135580,"animeplanet_id":"ling-long-2nd-season","mal_id":60570}
 ,
@@ -58561,6 +59698,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2025-SPRING] ONA: Ling Long Di Yi Ji Jing Bian Ban
 {"mal_id":61747}
+,
+// [2025-SPRING] ONA: Ling Long Di-er Ji
+{"anisearch_id":21634}
 ,
 // [2019-SUMMER] ONA: Ling Long: Incarnation
 {"anidb_id":15632,"anilist_id":110459,"animeplanet_id":"ling-cage","anisearch_id":14750,"livechart_id":9485,"mal_id":39675}
@@ -58573,9 +59713,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2020-SUMMER] ONA: Ling Long: Incarnation Part 2
 {"anidb_id":15674,"anilist_id":120300,"animeplanet_id":"ling-cage-part-ii","livechart_id":10045,"mal_id":42290}
-,
-// [2023-FALL] ONA: Ling Long: Incarnation Season 2 Special PV
-{}
 ,
 // [2021-SPRING] ONA: Ling Long: Incarnation Special
 {"anidb_id":16329,"anilist_id":134045,"animeplanet_id":"ling-cage-incarnation-special","anisearch_id":19857,"mal_id":48890}
@@ -58645,9 +59782,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2025-FALL] ONA: Link Click: Waypoint
 {}
-,
-// [undefined-UNDEFINED] ONA: Link Planets
-{"anidb_id":13014}
 ,
 // [2004-SUMMER] SPECIAL: Linkin Park: Breaking the Habit
 {"anidb_id":12491,"animeplanet_id":"linkin-park-breaking-the-habit","anisearch_id":6185}
@@ -58734,7 +59868,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":8026,"anilist_id":13179,"animeplanet_id":"little-charo-2","anisearch_id":6793,"livechart_id":11028,"mal_id":13179}
 ,
 // [2013-SPRING] TV: Little Charo 4: Eigo de Aruku New York
-{"anilist_id":116908,"animeplanet_id":"little-charo-4-new-york-again","livechart_id":11030,"mal_id":35476}
+{"anilist_id":116908,"animeplanet_id":"little-charo-4-new-york-again","anisearch_id":21373,"livechart_id":11030,"mal_id":35476}
 ,
 // [2012-SPRING] TV: Little Charo: Tohoku-hen
 {}
@@ -58760,6 +59894,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2002-SPRING] OVA: Little Monica Monogatari
 {"anisearch_id":1492,"mal_id":1785}
 ,
+// [2026-SPRING] TV: Little Mouse's Red Vest
+{}
+,
 // [1989-SUMMER] MOVIE: Little Nemo
 {"anidb_id":2530,"anilist_id":2286,"animeplanet_id":"little-nemo-adventures-in-slumberland","anisearch_id":886,"livechart_id":8339,"mal_id":2286}
 ,
@@ -58780,6 +59917,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2015-SUMMER] SPECIAL: Little Scarlet Bad Girl feat. Hatsune Miku
 {"animeplanet_id":"hachioji-p-little-scarlet-bad-girl","mal_id":40558}
+,
+// [2026-SPRING] TV: Little Shark's Outings
+{}
 ,
 // [2011-UNDEFINED] SPECIAL: Little Shy Bear
 {"animeplanet_id":"little-shy-bear"}
@@ -58864,6 +60004,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [undefined-UNDEFINED] MOVIE: Living and Breathing
 {"animeplanet_id":"living-and-breathing"}
+,
+// [2022-SUMMER] ONA: Living in a World Without Magic
+{}
 ,
 // [2021-SPRING] SPECIAL: Living Live
 {"anisearch_id":16321}
@@ -58964,6 +60107,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [undefined-UNDEFINED] UNKNOWN: LOLLIPOP CHAINSAW Shin Project
 {"anilist_id":196402}
 ,
+// [2027-SPRING] TV: LONA
+{"anidb_id":20140,"anilist_id":213655,"anisearch_id":21759,"livechart_id":13698,"mal_id":64501}
+,
 // [2024-SUMMER] SPECIAL: Loneliness Will Shine
 {"anilist_id":183537,"mal_id":62075}
 ,
@@ -59004,13 +60150,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":169028,"animeplanet_id":"long-live-the-cat"}
 ,
 // [2026-UNDEFINED] ONA: Long Po Jiutian
-{"animeplanet_id":"long-po-jiutian"}
-,
-// [2026-UNDEFINED] ONA: Long Po Jiutian
 {"anilist_id":155331}
 ,
 // [2026-WINTER] ONA: Long Po Jiutian
-{"anidb_id":19888,"mal_id":63416}
+{"anidb_id":19888,"animeplanet_id":"dragons-triumph-in-the-celestial-realm","mal_id":63416}
 ,
 // [2017-SUMMER] ONA: Long Qi Shi Episode 0
 {"animeplanet_id":"long-qi-shi","mal_id":47579}
@@ -59135,14 +60278,14 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2019-SUMMER] SPECIAL: Look Plus One Piece Special Movie
 {"animeplanet_id":"look-plus-x-one-piece-cm","anisearch_id":14571,"mal_id":40181}
 ,
+// [2026-SPRING] ONA: Looney Tunes Gokko
+{"anilist_id":212557,"livechart_id":13622,"mal_id":64079}
+,
 // [2008-SUMMER] SPECIAL: Loony's Anthem
 {"anisearch_id":6753}
 ,
 // [2024-WINTER] TV: Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru
 {"anidb_id":18164,"anilist_id":168374,"animeplanet_id":"7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy","anisearch_id":18629,"livechart_id":12302,"mal_id":56352}
-,
-// [2024-WINTER] ONA: Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru Mini Anime
-{"anilist_id":177062,"animeplanet_id":"7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy-mini-anime","livechart_id":12489,"mal_id":60256}
 ,
 // [2019-SUMMER] TV: Lord El-Melloi II-sei no Jikenbo: Rail Zeppelin Grace Note
 {"anidb_id":14580,"anilist_id":106918,"animeplanet_id":"lord-el-melloi-iis-case-files-rail-zeppelin-grace-note","anisearch_id":14075,"livechart_id":8698,"mal_id":38959}
@@ -59171,11 +60314,11 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2018-SUMMER] TV: Lord of Vermilion: Guren no Ou
 {"anidb_id":13958,"anilist_id":101384,"animeplanet_id":"lord-of-vermilion-the-crimson-king","anisearch_id":13505,"livechart_id":3178,"mal_id":37601}
 ,
+// [2025-WINTER] SPECIAL: LOS ANGELES LAKERS x ONE PIECE
+{"anilist_id":187225}
+,
 // [2025-UNDEFINED] SPECIAL: Los Angeles Lakers x One Piece Collab Anime
 {"animeplanet_id":"los-angeles-lakers-x-one-piece-collab-anime"}
-,
-// [2025-WINTER] SPECIAL: LOS ANGELES LAKERS x ONE PIECE Collab Anime
-{"anilist_id":187225,"mal_id":61123}
 ,
 // [2018-WINTER] SPECIAL: Lose It
 {"anilist_id":102945,"animeplanet_id":"super-junior-d-and-e-lose-it","mal_id":37639}
@@ -59269,9 +60412,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2012-WINTER] ONA: Love at first sight
 {"anisearch_id":12519}
-,
-// [2022-SUMMER] ONA: Love Between Fairy and Devil
-{"anidb_id":17597,"livechart_id":11589}
 ,
 // [2011-FALL] OVA: Love Bitch: Yasashii Onna
 {"anisearch_id":7372,"mal_id":11969}
@@ -59375,9 +60515,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2019-WINTER] ONA: Love Like Cherry Blossoms
 {"anilist_id":169889}
 ,
-// [2026-SPRING] MOVIE: Love Live! Hasu no Sora Jogakuin School Idol Club: Bloom Garden Party
-{"anidb_id":19376,"anilist_id":194167,"livechart_id":13187}
-,
 // [2027-WINTER] TV: Love Live! Hasunosora Jogakuin School Idol Club
 {"anidb_id":19989,"anilist_id":210157,"anisearch_id":21419,"livechart_id":13590,"mal_id":63851}
 ,
@@ -59389,6 +60526,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2026-SPRING] MOVIE: Love Live! Hasunosora Jogakuin School Idol Club: Bloom Garden Party
 {"animeplanet_id":"love-live-hasunosora-jogakuin-school-idol-club-bloom-garden-party"}
+,
+// [2026-SPRING] MOVIE: Love Live! Hasunosora Jogakuin School Idol Club: Bloom Garden Party
+{"anidb_id":19376,"anilist_id":194167,"livechart_id":13187}
 ,
 // [2015-FALL] SPECIAL: Love Live! Kouhaku Special Anime
 {"animeplanet_id":"love-live-kouhaku-special-anime","livechart_id":7553,"mal_id":32481}
@@ -59509,6 +60649,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2002-SPRING] OVA: Love Machine: Animaid Shoufu 23-gou
 {"anisearch_id":1277,"mal_id":5607}
+,
+// [2023-FALL] TV: Love Magic Grocery
+{}
 ,
 // [2022-WINTER] SPECIAL: Love Me Love Me
 {}
@@ -59724,7 +60867,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anisearch_id":18766}
 ,
 // [2026-WINTER] ONA: Luca
-{"mal_id":63414}
+{"anisearch_id":21565,"mal_id":63414}
+,
+// [2026-UNDEFINED] MOVIE: LUCA
+{"anilist_id":213667}
 ,
 // [2013-UNDEFINED] SPECIAL: Lucidalabrador: Softly
 {"animeplanet_id":"lucidalabrador-softly"}
@@ -59743,6 +60889,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2024-FALL] SPECIAL: Lucky Doki
 {"mal_id":60079}
+,
+// [2026-SPRING] SPECIAL: Lucky Loud
+{"mal_id":63904}
 ,
 // [2024-FALL] ONA: Lucky na Safari de Oni Gokko!?
 {}
@@ -59767,6 +60916,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2009-UNDEFINED] ONA: Ludou Wa: Gongyi Xilie
 {"animeplanet_id":"ludou-wa-gongyi-xilie"}
+,
+// [2023-FALL] SPECIAL: Lüe Ying Fenzheng: Shou Pu PV
+{"anisearch_id":21726}
 ,
 // [2025-WINTER] MOVIE: Luffy, Law
 {"anilist_id":187380,"animeplanet_id":"luffy-law","anisearch_id":20096,"mal_id":60790}
@@ -59874,7 +61026,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":102664,"animeplanet_id":"luo-xiaohei-zhan-ji-fan-wai","mal_id":36588}
 ,
 // [2021-SPRING] ONA: Luo Xiaohei Zhanji: Zhongsheng Zhi Men
-{"anidb_id":16687,"anilist_id":131239,"animeplanet_id":"luo-xiaohei-zhan-ji-zhongsheng-zhi-men","mal_id":48791}
+{"anidb_id":16687,"anilist_id":131239,"animeplanet_id":"luo-xiaohei-zhan-ji-zhongsheng-zhi-men","anisearch_id":21377,"mal_id":48791}
 ,
 // [undefined-UNDEFINED] TV: Luobo Tu Ai Faxian
 {"mal_id":45017}
@@ -60119,11 +61271,17 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-SUMMER] TV: Lv1 Maou to One Room Yuusha
 {"anidb_id":17288,"anilist_id":146836,"animeplanet_id":"level-1-demon-lord-and-one-room-hero","anisearch_id":17254,"livechart_id":11164,"mal_id":51458}
 ,
+// [undefined-UNDEFINED] TV: Lv2 kara Cheat Datta Moto Yuusha Kouho no Mattari Isekai Life 2
+{"anidb_id":20167}
+,
+// [undefined-UNDEFINED] TV: Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life 2nd Season
+{"anilist_id":213860}
+,
 // [2024-SPRING] TV: Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life
 {"anidb_id":18247,"anilist_id":170130,"animeplanet_id":"chillin-in-another-world-with-level-2-super-cheat-powers","anisearch_id":18759,"livechart_id":12375,"mal_id":56923}
 ,
 // [2026-SUMMER] TV: Lv999 no Murabito
-{"anidb_id":19534,"anilist_id":197715,"animeplanet_id":"lv999-no-murabito","anisearch_id":20844,"livechart_id":13288,"mal_id":62322}
+{"anidb_id":19534,"anilist_id":197715,"animeplanet_id":"the-villager-of-level-999","anisearch_id":20844,"livechart_id":13288,"mal_id":62322}
 ,
 // [2022-SUMMER] TV: Lycoris Recoil
 {"anidb_id":17097,"anilist_id":143270,"animeplanet_id":"lycoris-recoil","anisearch_id":16976,"livechart_id":11004,"mal_id":50709}
@@ -60142,6 +61300,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2021-UNDEFINED] TV: Lyeonglihan Neoguli (2021)
 {"animeplanet_id":"lyeonglihan-neoguli-2021"}
+,
+// [2026-SUMMER] ONA: LYRICA: Lost Code
+{"livechart_id":13649}
 ,
 // [2001-SPRING] SPECIAL: Lyrical Magic: Suteki na Mahou
 {"anidb_id":12810,"anilist_id":12101,"animeplanet_id":"nanoha-takamichi-lyrical-magic-sutekina-mahou","anisearch_id":8537,"mal_id":12101}
@@ -60224,12 +61385,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1948-SPRING] MOVIE: Maabou Kasei wo Iku
 {"anidb_id":6961,"animeplanet_id":"maabou-kasei-wo-iku","anisearch_id":11933}
 ,
-// [1936-WINTER] MOVIE: Maabou no Daikyousou
-{"anidb_id":6724,"anilist_id":6840,"animeplanet_id":"maabou-no-daikyousou","anisearch_id":5666,"mal_id":6840}
-,
-// [1938-FALL] MOVIE: Maabou no Kinoshita Toukichirou
-{"anidb_id":6725,"anilist_id":6841,"animeplanet_id":"maabou-no-kinoshita-toukichirou","anisearch_id":5664,"mal_id":6841}
-,
 // [1939-SUMMER] MOVIE: Maabou no Muteki Kaigun
 {"anidb_id":6861,"anisearch_id":7020}
 ,
@@ -60241,9 +61396,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1942-WINTER] MOVIE: Maabou no Shiken Hikou
 {"anidb_id":6962,"anisearch_id":7025}
-,
-// [1937-FALL] MOVIE: Maabou no Shounen Koukuu Tsuwamono
-{"anidb_id":6856,"anilist_id":7500,"animeplanet_id":"maabou-no-shounen-koukuu-tsuwamono","anisearch_id":5971,"mal_id":7500}
 ,
 // [1938-SPRING] MOVIE: Maabou no Tairiku Hikyou Tanken
 {"anidb_id":6858,"anisearch_id":7019}
@@ -60301,6 +61453,18 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2020-SUMMER] TV: Mabeop Sonyeo Didi
 {"anisearch_id":15498}
+,
+// [1936-WINTER] MOVIE: Mabo no Daikyousou
+{"anidb_id":6724,"anilist_id":6840,"animeplanet_id":"maabou-no-daikyousou","anisearch_id":5666,"mal_id":6840}
+,
+// [1938-FALL] MOVIE: Mabo no Kinoshita Toukichirou
+{"anidb_id":6725,"anilist_id":6841,"animeplanet_id":"maabou-no-kinoshita-toukichirou","anisearch_id":5664,"mal_id":6841}
+,
+// [1943-SUMMER] MOVIE: Mabo no Rakkasan Butai
+{"mal_id":64201}
+,
+// [1937-FALL] MOVIE: Mabo no Shounen Koukuu Tsuwamono
+{"anidb_id":6856,"anilist_id":7500,"animeplanet_id":"maabou-no-shounen-koukuu-tsuwamono","anisearch_id":5971,"mal_id":7500}
 ,
 // [1992-SPRING] TV: Maboroshi Mabo-chan
 {"anidb_id":7339,"anilist_id":182550,"animeplanet_id":"maboroshi-mabo-chan","anisearch_id":4874,"mal_id":27965}
@@ -60603,7 +61767,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":13612,"anilist_id":100643,"animeplanet_id":"made-in-abyss-movie-dawn-of-the-deep-soul","anisearch_id":13071,"livechart_id":2993,"mal_id":36862}
 ,
 // [2026-FALL] MOVIE: Made in Abyss: Mezameru Shinpi
-{"anidb_id":17824,"anilist_id":160275,"animeplanet_id":"made-in-abyss-new","anisearch_id":18119,"livechart_id":11785,"mal_id":54250}
+{"anidb_id":17824,"anilist_id":160275,"animeplanet_id":"made-in-abyss-movie-mezameru-shinpi","anisearch_id":18119,"livechart_id":11785,"mal_id":54250}
 ,
 // [2022-SUMMER] TV: Made in Abyss: Retsujitsu no Ougonkyou
 {"anidb_id":15359,"anilist_id":114745,"animeplanet_id":"made-in-abyss-the-golden-city-of-the-scorching-sun","anisearch_id":14893,"livechart_id":9772,"mal_id":41084}
@@ -60701,14 +61865,11 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-SPRING] TV: Maebashi Witches
 {"anidb_id":18855,"anilist_id":180825,"animeplanet_id":"maebashi-witches","anisearch_id":19580,"livechart_id":12824,"mal_id":59744}
 ,
-// [undefined-UNDEFINED] MOVIE: Maebashi Witches
-{}
+// [2026-FALL] TV: Maebashi Witches Movie: Majo Minarai no Emoemories
+{"animeplanet_id":"maebashi-witches-movie-majo-minarai-no-emoemories"}
 ,
-// [undefined-UNDEFINED] TV: Maebashi Witches Movie
-{"animeplanet_id":"maebashi-witches-movie"}
-,
-// [undefined-UNDEFINED] MOVIE: Maebashi Witches Movie
-{"anilist_id":209642,"mal_id":63772}
+// [2026-FALL] MOVIE: Maebashi Witches: Majo Minarai no Emoemories
+{"anilist_id":209642,"livechart_id":13563,"mal_id":63772}
 ,
 // [2011-WINTER] SPECIAL: Maeda Jun x Yanagi Nagi: Killer Song
 {"animeplanet_id":"maeda-jun-x-yanagi-nagi-killer-song"}
@@ -60917,7 +62078,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2014-FALL] TV: Magic Kaito 1412
 {"anidb_id":10749,"anilist_id":20790,"animeplanet_id":"magic-kaito-1412","anisearch_id":9799,"livechart_id":721,"mal_id":25517}
 ,
-// [2026-UNDEFINED] TV: Magic Knight Rayearth
+// [2026-FALL] TV: Magic Knight Rayearth
 {}
 ,
 // [1994-FALL] TV: Magic Knight Rayearth
@@ -60940,9 +62101,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2025-WINTER] TV: Magic Maker: Isekai Mahou no Tsukurikata
 {"anidb_id":18750,"anilist_id":179297,"animeplanet_id":"magic-maker-how-to-make-magic-in-another-world","anisearch_id":19470,"livechart_id":12749,"mal_id":59265}
-,
-// [2023-WINTER] SPECIAL: Magic Rock'n Roll Maker
-{"mal_id":57255}
 ,
 // [2012-WINTER] MOVIE: Magic Tree House
 {"anidb_id":8318,"anilist_id":10690,"animeplanet_id":"magic-tree-house","anisearch_id":6941,"livechart_id":5819,"mal_id":10690}
@@ -60968,7 +62126,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2004-UNDEFINED] SPECIAL: Magical Death
 {"anilist_id":109066,"animeplanet_id":"zamagi-magical-death","mal_id":42989}
 ,
-// [undefined-UNDEFINED] TV: Magical Explorer
+// [2026-FALL] TV: Magical Explorer
 {}
 ,
 // [2024-WINTER] TV: Magical Fang
@@ -60980,13 +62138,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2020-WINTER] TV: Magical Girl Friendship Squad: Origins
 {}
 ,
-// [2026-SUMMER] TV: Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance
-{}
-,
 // [1997-UNDEFINED] OVA: Magical Girl Pretty Sammy Bonus Theatre
 {}
 ,
-// [2026-UNDEFINED] TV: Magical Girl Raising Project Restart
+// [2026-FALL] TV: Magical Girl Raising Project Restart
 {}
 ,
 // [2011-FALL] SPECIAL: Magical Halloween: Miracle★Quartet
@@ -61016,7 +62171,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2012-WINTER] OVA: Magical Puuta no Hi Asobi wa Abunai yo
 {"animeplanet_id":"magical-puuta-no-hi-asobi-wa-abunai-yo","mal_id":28559}
 ,
-// [2026-SPRING] TV: Magical Sisters Lulutto Lilly
+// [2026-SUMMER] TV: Magical Sisters Lulutto Lilly
 {}
 ,
 // [2015-FALL] OVA: Magical Suite Prism Nana
@@ -61094,6 +62249,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2013-UNDEFINED] SPECIAL: Mah: Kurage Nasu
 {"animeplanet_id":"mah-kurage-nasu"}
 ,
+// [2024-UNDEFINED] MOVIE: Mahiru no Obake
+{"mal_id":64111}
+,
 // [2013-UNDEFINED] MOVIE: Mahjong
 {"animeplanet_id":"mahjong"}
 ,
@@ -61112,7 +62270,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2022-UNDEFINED] SPECIAL: Mahjong Soul Pon☆ Blu-ray Gentei Episode
 {"animeplanet_id":"mahjong-soul-pon-blu-ray-gentei-episode"}
 ,
-// [2026-UNDEFINED] OVA: Mahō no Princess Minky Momo Akogare no Yume e Magokoro no Duo
+// [2026-FALL] OVA: Mahō no Princess Minky Momo Akogare no Yume e Magokoro no Duo
 {}
 ,
 // [1985-SUMMER] OVA: Maho no Rouge Lipstick
@@ -61220,7 +62378,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1985-SUMMER] MOVIE: Mahou no Princess Minky Momo vs. Mahou no Tenshi Creamy Mami
 {"anidb_id":7388,"anilist_id":8972,"animeplanet_id":"magical-princess-minky-momo-vs-magical-angel-creamy-mami","anisearch_id":6101,"livechart_id":6419,"mal_id":8972}
 ,
-// [2026-UNDEFINED] OVA: Mahou no Princess Minky Momo: Akogare no Yume e - Magokoro no Duo
+// [2026-FALL] OVA: Mahou no Princess Minky Momo: Akogare no Yume e - Magokoro no Duo
 {"anidb_id":19786,"anilist_id":204561,"animeplanet_id":"mahou-no-princess-minky-momo-akogare-no-yume-e-magokoro-no-duo","anisearch_id":21139,"livechart_id":13449,"mal_id":63167}
 ,
 // [1987-WINTER] SPECIAL: Mahou no Princess Minky Momo: Hitomi no Seiza - Minky Momo Song Special
@@ -61245,13 +62403,19 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anisearch_id":2948,"mal_id":5400}
 ,
 // [2026-SPRING] TV: Mahou no Shimai Lulutto Lilly
-{"anidb_id":19214,"anilist_id":178749,"animeplanet_id":"mahou-no-shimai-lulutto-lilly","anisearch_id":20296,"livechart_id":12729,"mal_id":59176}
+{"anidb_id":19214,"anilist_id":178749,"animeplanet_id":"magical-sisters-luluttolilly","anisearch_id":20296,"livechart_id":12729,"mal_id":59176}
 ,
-// [undefined-UNDEFINED] TV: Mahou no Shimai Lulutto Lilly Cour 2
+// [2026-FALL] TV: Mahou no Shimai Lulutto Lilly (2026)
+{"anidb_id":20120}
+,
+// [2026-FALL] TV: Mahou no Shimai Lulutto Lilly Cour 2
 {"livechart_id":13544}
 ,
-// [undefined-UNDEFINED] TV: Mahou no Shimai Lulutto Lilly Part 2
+// [2026-FALL] TV: Mahou no Shimai Lulutto Lilly Part 2
 {"anilist_id":209032,"animeplanet_id":"mahou-no-shimai-lulutto-lilly-part-ii","mal_id":63667}
+,
+// [2026-FALL] TV: Mahou no Shimai Lulutto Lily Cour 2
+{"anisearch_id":21376}
 ,
 // [1998-SPRING] TV: Mahou no Stage Fancy Lala
 {"anidb_id":246,"anilist_id":604,"animeplanet_id":"fancy-lala","anisearch_id":2023,"livechart_id":7757,"mal_id":604}
@@ -61360,6 +62524,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2015-FALL] SPECIAL: Mahou Shoujo Elena DVD-BOX Special
 {"mal_id":49876}
+,
+// [2024-SPRING] ONA: Mahou Shoujo holoWitch! Animation PV
+{"anisearch_id":21705}
 ,
 // [2024-SPRING] SPECIAL: Mahou Shoujo holoWitch! PV
 {"anilist_id":177583,"animeplanet_id":"magical-girl-holowitches-pv","mal_id":58866}
@@ -61574,6 +62741,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2014-SPRING] TV: Mahouka Koukou no Rettousei
 {"anidb_id":10182,"anilist_id":20458,"animeplanet_id":"the-irregular-at-magic-high-school","anisearch_id":9057,"livechart_id":265,"mal_id":20785}
 ,
+// [undefined-UNDEFINED] TV: Mahouka Koukou no Rettousei (Dai Ni Bu)
+{}
+,
+// [undefined-UNDEFINED] UNKNOWN: Mahouka Koukou no Rettousei (Dai Ni Bu)
+{"anidb_id":20083}
+,
 // [2021-SUMMER] SPECIAL: Mahouka Koukou no Rettousei 10-shuunen Kinen PV
 {"anilist_id":139106,"animeplanet_id":"the-irregular-at-magic-high-school-10th-anniversary-pv","mal_id":50097}
 ,
@@ -61583,11 +62756,20 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-FALL] SPECIAL: Mahouka Koukou no Rettousei 3rd Season Special
 {"mal_id":61366}
 ,
+// [undefined-UNDEFINED] TV: Mahouka Koukou no Rettousei Anime Part 2
+{}
+,
+// [undefined-UNDEFINED] UNKNOWN: Mahouka Koukou no Rettousei Anime Part 2
+{"anilist_id":212955}
+,
 // [2017-SPRING] MOVIE: Mahouka Koukou no Rettousei Movie: Hoshi wo Yobu Shoujo
 {"anidb_id":11980,"anilist_id":21684,"animeplanet_id":"the-irregular-at-magic-high-school-movie-the-girl-who-summons-the-stars","anisearch_id":11186,"livechart_id":2068,"mal_id":32900}
 ,
 // [2026-SPRING] MOVIE: Mahouka Koukou no Rettousei Movie: Yotsuba Keishou-hen
 {"anidb_id":18720,"anilist_id":178707,"animeplanet_id":"the-irregular-at-magic-high-school-movie-yotsuba-succession","anisearch_id":19429,"livechart_id":12728,"mal_id":59174}
+,
+// [undefined-UNDEFINED] UNKNOWN: Mahouka Koukou no Rettousei Part 2
+{"livechart_id":13658,"mal_id":64350}
 ,
 // [2020-FALL] TV: Mahouka Koukou no Rettousei: Raihousha-hen
 {"anidb_id":15132,"anilist_id":112300,"animeplanet_id":"the-irregular-at-magic-high-school-visitor-arc","anisearch_id":14657,"livechart_id":9626,"mal_id":40497}
@@ -61851,7 +63033,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"livechart_id":8136}
 ,
 // [2009-SPRING] TV: Mainichi Kaasan
-{"anidb_id":6391,"anilist_id":6116,"animeplanet_id":"mainichi-kaasan","anisearch_id":5246,"mal_id":6116}
+{"anidb_id":6391,"anilist_id":6116,"animeplanet_id":"mainichi-kaasan","anisearch_id":5246,"livechart_id":13629,"mal_id":6116}
 ,
 // [2022-WINTER] SPECIAL: Mainichi na Hitobito.
 {"anisearch_id":20593}
@@ -62009,8 +63191,20 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-SPRING] SPECIAL: Majo no Takkyuubin x McDonald's CMs
 {"mal_id":59105}
 ,
+// [2026-SUMMER] MOVIE: Majo no Tani no Yoru
+{"anidb_id":20019,"anilist_id":211232,"livechart_id":13607,"mal_id":64431}
+,
+// [undefined-UNDEFINED] TV: Majo to Ryouken
+{"anidb_id":20154,"anilist_id":213796,"mal_id":64528}
+,
 // [2024-WINTER] TV: Majo to Yajuu
 {"anidb_id":17575,"anilist_id":153818,"animeplanet_id":"the-witch-and-the-beast","anisearch_id":17621,"livechart_id":11381,"mal_id":52816}
+,
+// [undefined-UNDEFINED] TV: Majo to Youhei
+{"livechart_id":13602}
+,
+// [2027-WINTER] TV: Majo to Youhei
+{"anidb_id":20010,"anilist_id":210945,"anisearch_id":21485,"mal_id":63958}
 ,
 // [2023-WINTER] OVA: Majo wa Kekkyoku Sono Kyaku to... The Animation
 {"anisearch_id":17912,"mal_id":53724}
@@ -62078,7 +63272,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2008-FALL] MOVIE: Major: Yūjō no Winning Shot
 {}
 ,
-// [undefined-UNDEFINED] TV: Majutsu wo Kiwamete Tabi ni Deta Tensei Elf, Moteamashita Jumyou de Ikeru Densetsu to Naru
+// [2027-WINTER] TV: Majutsu wo Kiwamete Tabi ni Deta Tensei Elf, Moteamashita Jumyou de Ikeru Densetsu to Naru
 {"anidb_id":19726,"anilist_id":202503,"animeplanet_id":"majutsu-wo-kiwamete-tabi-ni-deta-tensei-elf-moteamashita-jumyou-de-ikeru-densetsu-to-naru","anisearch_id":21012,"livechart_id":13396,"mal_id":62978}
 ,
 // [2026-WINTER] TV: Majutsushi Kunon wa Mieteiru
@@ -62264,9 +63458,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2018-SUMMER] SPECIAL: Makin’ Moves
 {}
 ,
-// [2025-SPRING] TV: Makina-san’s a Love Bot?!
-{}
-,
 // [1984-SUMMER] SPECIAL: Making of Lensman
 {}
 ,
@@ -62300,6 +63491,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2015-SUMMER] TV: Makura no Danshi
 {"anidb_id":11213,"anilist_id":21179,"animeplanet_id":"makura-no-danshi","anisearch_id":10392,"livechart_id":1578,"mal_id":30705}
 ,
+// [2015-FALL] SPECIAL: Makura no Danshi: Sono Ato no ”Makura Danshi”
+{"anisearch_id":21685}
+,
 // [2015-FALL] SPECIAL: Makura no Danshi: Sono Ato no Makura no Danshi
 {"anilist_id":21337,"animeplanet_id":"makura-no-danshi-sono-ato-no-makura-no-danshi","livechart_id":1727,"mal_id":31244}
 ,
@@ -62332,6 +63526,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2023-SUMMER] ONA: Maldan Byeongsaeseo Gunjukkaji
 {"anisearch_id":19286}
+,
+// [2015-FALL] SPECIAL: Malhae Yes Or No
+{"mal_id":64025}
 ,
 // [2001-SPRING] OVA: Malice@Doll
 {"anidb_id":4101,"anilist_id":2261,"animeplanet_id":"malice-doll","anisearch_id":1899,"livechart_id":6750,"mal_id":2261}
@@ -62420,6 +63617,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-SPRING] TV: Mamekichi Mameko NEET no Nichijou 2nd Season
 {"anidb_id":18023,"anilist_id":164441,"animeplanet_id":"mameko-mamekichis-neet-everyday-life-2nd-season","anisearch_id":18484,"livechart_id":11994,"mal_id":55195}
 ,
+// [2023-WINTER] SPECIAL: Mamemaki
+{"anisearch_id":21411}
+,
 // [2018-WINTER] TV: Mameneko
 {"anidb_id":13559,"anilist_id":100871,"animeplanet_id":"mameneko","anisearch_id":12965,"livechart_id":2963,"mal_id":36728}
 ,
@@ -62495,8 +63695,8 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2009-WINTER] OVA: Mameushi-kun no Koutsuu Anzen
 {"animeplanet_id":"mameushi-kun-no-koutsuu-anzen","mal_id":30930}
 ,
-// [2025-WINTER] MOVIE: Mamiko no Unko
-{"mal_id":63239}
+// [2025-SPRING] MOVIE: Mamiko no Unko
+{"anilist_id":212568,"mal_id":63829}
 ,
 // [2001-SUMMER] TV: Mamimume★Mogacho
 {"anidb_id":4094,"anilist_id":11525,"animeplanet_id":"mamimume-mogacho","anisearch_id":1646,"mal_id":11525}
@@ -62511,7 +63711,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":19831,"anisearch_id":21200}
 ,
 // [2026-SPRING] TV: Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru
-{"livechart_id":13480,"mal_id":63304}
+{"anilist_id":210234,"livechart_id":13480,"mal_id":63304}
+,
+// [undefined-UNDEFINED] TV: Mamonotsukai no Musume
+{"anidb_id":20159,"anilist_id":213815,"mal_id":64540}
 ,
 // [2020-SPRING] ONA: Mamoru Hikitsugu Watashitachi no Kurashi
 {"anilist_id":119086,"animeplanet_id":"tekken-x-customs-mamoru-hikitsugu-watashi-tachi-no-kurashi","mal_id":42507}
@@ -62766,7 +63969,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anisearch_id":18964}
 ,
 // [2014-WINTER] OVA: Manichi ga Tsurai Kimochi Wakarimasu ka: Yurusenai! Net Ijime
-{"animeplanet_id":"manichi-ga-tsurai-kimochi-wakarimasu-ka-yurusenai-net-ijime","mal_id":36272}
+{"animeplanet_id":"manichi-ga-tsurai-kimochi-wakarimasu-ka-yurusenai-net-ijime","anisearch_id":21442,"mal_id":36272}
 ,
 // [1987-SUMMER] MOVIE: Manie Manie: Neo Tokyo
 {}
@@ -62804,6 +64007,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2022-SPRING] SPECIAL: Mantra Hujan
 {}
 ,
+// [2024-UNDEFINED] MOVIE: Manual Complex
+{"mal_id":64280}
+,
 // [2018-FALL] TV: Manul no Yuube
 {"mal_id":38776}
 ,
@@ -62837,6 +64043,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1981-FALL] MOVIE: Manzai Taikouki
 {"anidb_id":4586,"anilist_id":188041,"animeplanet_id":"manzai-taikouki","anisearch_id":3722,"mal_id":24683}
 ,
+// [2026-SPRING] SPECIAL: Manzoku desu
+{"mal_id":64004}
+,
 // [2026-SPRING] TV: Mao
 {"anidb_id":19469,"anilist_id":196012,"animeplanet_id":"mao","anisearch_id":20789,"livechart_id":13241,"mal_id":62048}
 ,
@@ -62853,7 +64062,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anisearch_id":14124,"mal_id":45092}
 ,
 // [2025-SUMMER] MOVIE: Mao he Lao Shu: Xing Pan qi Yuan
-{"anilist_id":206919,"mal_id":63696}
+{"anilist_id":206919,"anisearch_id":21505,"mal_id":63696}
 ,
 // [2021-SUMMER] ONA: Mao Ling Xiangce
 {"anidb_id":16645,"anilist_id":126397,"animeplanet_id":"mao-ling-xiangce","anisearch_id":16458,"livechart_id":10737,"mal_id":49276}
@@ -62879,11 +64088,11 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2011-UNDEFINED] MOVIE: Mao Tian Mao Di
 {"animeplanet_id":"mao-tian-mao-di","anisearch_id":8622}
 ,
-// [2022-WINTER] ONA: Mao Xian Dong De Shou!
+// [2022-WINTER] ONA: Mao Xian Dong de Shou!
 {"anilist_id":143483,"animeplanet_id":"mao-xian-dong-de-shou","anisearch_id":18230,"mal_id":50797}
 ,
 // [2025-WINTER] ONA: Mao Xing Dongfang
-{"anidb_id":19132,"anilist_id":186206,"animeplanet_id":"cat-god","mal_id":60690}
+{"anidb_id":19132,"anilist_id":186206,"animeplanet_id":"cat-god","anisearch_id":21644,"mal_id":60690}
 ,
 // [2018-FALL] ONA: Mao Yao de Huo Han
 {"anidb_id":14919,"anilist_id":110249,"animeplanet_id":"mao-yao-de-youhuo","anisearch_id":18660,"mal_id":39767}
@@ -62898,7 +64107,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":16775,"anilist_id":116010,"animeplanet_id":"cats-tea","anisearch_id":16641,"livechart_id":10924,"mal_id":49380}
 ,
 // [2023-SPRING] ONA: Mao Zhi Ming 2nd Season
-{"anilist_id":159452,"animeplanet_id":"cats-tea-2nd-season","anisearch_id":19177,"mal_id":54949}
+{"anidb_id":18701,"anilist_id":159452,"animeplanet_id":"cats-tea-2nd-season","anisearch_id":19177,"mal_id":54949}
+,
+// [2023-SPRING] ONA: Mao Zhi Ming 2nd Season: Xiao Juchang
+{"mal_id":64251}
 ,
 // [2021-FALL] ONA: Mao Zhi Ming Episode 5.5
 {"animeplanet_id":"cats-tea-episode-5-5","mal_id":50810}
@@ -63012,7 +64224,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {}
 ,
 // [1986-SUMMER] MOVIE: Maple Town Monogatari (Movie)
-{"anidb_id":2080,"animeplanet_id":"maple-town-movie","anisearch_id":944,"mal_id":34826}
+{"anidb_id":2080,"anilist_id":213098,"animeplanet_id":"maple-town-movie","anisearch_id":944,"mal_id":34826}
 ,
 // [1987-UNDEFINED] OVA: Maple Town no Koutsuu Anzen
 {"anilist_id":168570,"animeplanet_id":"maple-town-no-koutsuu-anzen","mal_id":39158}
@@ -63028,6 +64240,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2008-SUMMER] SPECIAL: MapleStory Special
 {"animeplanet_id":"maple-story-special","anisearch_id":10260,"mal_id":28237}
+,
+// [2026-SUMMER] SPECIAL: MAPPA 15th Anniversary Movie
+{"anilist_id":213343}
+,
+// [2026-SPRING] SPECIAL: MAPPA 15th Anniversary Movie: Seikatsu
+{"mal_id":64429}
 ,
 // [2019-SUMMER] SPECIAL: Mappa Show Case Logo Movie
 {"mal_id":61342}
@@ -63242,17 +64460,29 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2013-WINTER] OVA: Marriage Blue: "Konyakusha ga Iru no ni, Doushite Konna Otoko ni......"
 {"anisearch_id":8186,"mal_id":16187}
 ,
+// [2027-WINTER] TV: Marriage Toxin (2027)
+{"anidb_id":20150}
+,
 // [1996-WINTER] OVA: Marriage: Kekkon
 {"anidb_id":2689,"anilist_id":2082,"animeplanet_id":"marriage","anisearch_id":1569,"mal_id":2082}
 ,
 // [2026-SPRING] TV: Marriagetoxin
 {"anidb_id":19625,"anilist_id":199547,"animeplanet_id":"marriagetoxin","anisearch_id":20938,"livechart_id":13346,"mal_id":62601}
 ,
+// [2027-WINTER] TV: Marriagetoxin 2nd Season
+{"anilist_id":213752,"mal_id":64524}
+,
+// [2027-WINTER] TV: Marriagetoxin Dai 2 Ki
+{"anisearch_id":21766}
+,
 // [2023-SUMMER] TV: Married Couple Swap
 {}
 ,
 // [2016-UNDEFINED] SPECIAL: Marron Ball
 {"animeplanet_id":"marron-ball"}
+,
+// [2026-FALL] TV: Marronnier Oukoku no Shichinin no Kishi
+{"anidb_id":20074,"anilist_id":212799,"anisearch_id":21585,"livechart_id":13653,"mal_id":64326}
 ,
 // [2021-FALL] SPECIAL: Marry Me
 {"anisearch_id":17370}
@@ -63275,12 +64505,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2016-WINTER] OVA: Marshmallow★Imouto★Succubus★
 {"anisearch_id":11118,"mal_id":32405}
 ,
-// [2026-UNDEFINED] ONA: Martial God Asura 2
-{"animeplanet_id":"martial-god-asura-2"}
-,
-// [2026-WINTER] ONA: Martial God Asura 2
-{}
-,
 // [1998-UNDEFINED] MOVIE: Martian Successor Nadesico: The Motion Picture - Prince of Darkness
 {}
 ,
@@ -63291,7 +64515,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {}
 ,
 // [2025-FALL] ONA: Maru-neun Gangjwi
-{"anilist_id":207855,"mal_id":62539}
+{"anilist_id":207855,"anisearch_id":21728,"mal_id":62539}
 ,
 // [2023-WINTER] SPECIAL: Maru-neun Gangjwi (Music)
 {"mal_id":54422}
@@ -63323,6 +64547,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2011-UNDEFINED] SPECIAL: Maruosa: Arson Hacks
 {"animeplanet_id":"maruosa-arson-hacks"}
 ,
+// [2026-SPRING] SPECIAL: Marutai Saki
+{"anisearch_id":21598}
+,
 // [2014-SPRING] TV: Marvel Disk Wars: The Avengers
 {"anidb_id":10281,"anilist_id":20548,"animeplanet_id":"marvel-disk-wars-the-avengers","anisearch_id":9196,"livechart_id":337,"mal_id":21013}
 ,
@@ -63333,10 +64560,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":13744,"anilist_id":101697,"animeplanet_id":"marvel-future-avengers-2nd-season","anisearch_id":13261,"livechart_id":3055,"mal_id":37151}
 ,
 // [1993-WINTER] OVA: Mary Bell no Hi no Youjin: Guratto Kitara Dousuru
-{"animeplanet_id":"mary-bell-no-hi-no-youjin-guratto-kitara-dousuru","anisearch_id":18225,"mal_id":39153}
+{"anilist_id":213100,"animeplanet_id":"mary-bell-no-hi-no-youjin-guratto-kitara-dousuru","anisearch_id":18225,"mal_id":39153}
 ,
 // [1993-WINTER] OVA: Mary Bell no Koutsuu Anzen
-{"animeplanet_id":"mary-bell-no-koutsuu-anzen","anisearch_id":15196,"mal_id":39154}
+{"anilist_id":213099,"animeplanet_id":"mary-bell-no-koutsuu-anzen","anisearch_id":15196,"mal_id":39154}
 ,
 // [2017-SUMMER] MOVIE: Mary to Majo no Hana
 {"anidb_id":12649,"anilist_id":97981,"animeplanet_id":"mary-and-the-witchs-flower","anisearch_id":12107,"livechart_id":2465,"mal_id":34541}
@@ -63373,6 +64600,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2023-SUMMER] ONA: Mash Burnedead-tachi to School Life
 {"animeplanet_id":"mash-burnedead-tachi-to-school-life","anisearch_id":19484,"mal_id":59138}
+,
+// [2023-FALL] SPECIAL: Mash Burnedead-tachi to School Life Special
+{"mal_id":63980}
 ,
 // [2020-SPRING] ONA: Mashin Eiyūden Wataru Shichi Tamashii no Ryūjinmaru
 {}
@@ -63448,6 +64678,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2023-FALL] OVA: Mask Danshi wa Koishitakunai noni
 {"anidb_id":17928,"anilist_id":162989,"animeplanet_id":"mask-danshi-this-shouldnt-lead-to-love","anisearch_id":18288,"livechart_id":11889,"mal_id":54792}
+,
+// [2026-SPRING] SPECIAL: Mask de Camelo
+{"mal_id":63982}
 ,
 // [2005-SUMMER] TV: Mask Man
 {"animeplanet_id":"mask-man","mal_id":48195}
@@ -63563,14 +64796,17 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2021-SPRING] MOVIE: Masui
 {"anilist_id":158611,"animeplanet_id":"masui"}
 ,
+// [2025-SPRING] SPECIAL: Mat Jau Daai Si
+{"mal_id":64369}
+,
+// [2026-SPRING] TV: Mata Korosarete Shimatta no desu ne, Tantei-sama
+{}
+,
 // [2026-SPRING] TV: Mata Korosarete Shimatta no desu ne, Tantei-sama
 {"anidb_id":19722,"anilist_id":202381,"animeplanet_id":"killed-again-mr-detective","anisearch_id":21015,"livechart_id":13392,"mal_id":62964}
 ,
 // [2025-SUMMER] SPECIAL: Mata Raishuu
 {"mal_id":62433}
-,
-// [2024-FALL] SPECIAL: Mata, Okaeri.
-{"mal_id":60625}
 ,
 // [2003-SPRING] TV: Matantei Loki Ragnarok
 {"anidb_id":632,"anilist_id":335,"animeplanet_id":"mythical-detective-loki-ragnarok","anisearch_id":625,"livechart_id":5340,"mal_id":335}
@@ -63824,7 +65060,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2001-WINTER] SPECIAL: Mayonaka wa Junketsu
 {"anidb_id":12802,"anilist_id":104100,"animeplanet_id":"ringo-sheena-mayonaka-wa-junketsu","anisearch_id":9167,"mal_id":22093}
 ,
-// [2023-UNDEFINED] MOVIE: Mayu
+// [2023-SPRING] MOVIE: Mayu
 {"anilist_id":175104}
 ,
 // [2016-FALL] SPECIAL: Mayuge Dance
@@ -63977,13 +65213,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2022-FALL] MOVIE: Me and Me
 {"animeplanet_id":"me-and-me","anisearch_id":17931}
 ,
-// [2025-SPRING] TV: Me and the Alien MuMu
-{}
-,
 // [2018-SPRING] SPECIAL: Me and You and Everyone!
-{}
-,
-// [2025-FALL] ONA: Me ga Hanasenai ne Garura
 {}
 ,
 // [2025-WINTER] SPECIAL: Me Me Me no Me
@@ -64010,11 +65240,20 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2015-SPRING] ONA: Me! Me! Me! Chronic
 {"animeplanet_id":"me-me-me-chronic","anisearch_id":10388}
 ,
+// [2026-SPRING] SPECIAL: Mean
+{"mal_id":63940}
+,
+// [2018-SPRING] SPECIAL: Mebae feat. Phoka
+{"mal_id":64390}
+,
 // [2003-WINTER] OVA: Mebae no Ashita
 {"anidb_id":10130,"animeplanet_id":"mebae-no-ashita","anisearch_id":9146,"mal_id":26221}
 ,
-// [2026-UNDEFINED] TV: Mebius Dust
+// [2026-SUMMER] TV: Mebius Dust
 {"mal_id":63802}
+,
+// [2026-SUMMER] TV: Mebius Dust
+{"anidb_id":14730,"anilist_id":108992,"animeplanet_id":"mebius-dust","anisearch_id":15978,"livechart_id":9260}
 ,
 // [1994-WINTER] OVA: Mebuki
 {"animeplanet_id":"mebuki","anisearch_id":19807,"mal_id":31009}
@@ -64146,7 +65385,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {}
 ,
 // [2026-SPRING] TV: Megami "Isekai Tensei Nani ni Naritai desu ka" Ore "Yuusha no Rokkotsu de"
-{"anidb_id":19862,"anilist_id":206951,"animeplanet_id":"megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de","anisearch_id":21201,"livechart_id":13500,"mal_id":63376}
+{"anidb_id":19862,"anilist_id":206951,"animeplanet_id":"my-ribdiculous-reincarnation","anisearch_id":21201,"livechart_id":13500,"mal_id":63376}
 ,
 // [2025-WINTER] MOVIE: Megami Kōrin Before Kōkō Debut-hen / After Proposal-hen
 {}
@@ -64207,6 +65446,15 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2013-FALL] TV: Megane-bu!
 {"anidb_id":9948,"anilist_id":19257,"animeplanet_id":"meganebu","anisearch_id":8838,"livechart_id":125,"mal_id":19257}
+,
+// [undefined-UNDEFINED] TV: Megane, Tokidoki, Yankee-kun
+{}
+,
+// [2026-WINTER] TV: Megane, Tokidoki, Yankee-kun
+{"anidb_id":20022,"anilist_id":211304,"livechart_id":13611,"mal_id":64006}
+,
+// [undefined-UNDEFINED] TV: Megane, Tokidoki, Yankee-kun
+{"anisearch_id":21563}
 ,
 // [2004-SPRING] TV: Megas XLR
 {}
@@ -64406,9 +65654,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-WINTER] SPECIAL: Meikyuu Denshi Kairou
 {"mal_id":60194}
 ,
-// [2025-FALL] MOVIE: Meikyuu no Shiori
-{}
-,
 // [2026-WINTER] MOVIE: Meikyuu no Shiori
 {"anidb_id":19429,"anilist_id":195384,"animeplanet_id":"labyrinth","anisearch_id":20694,"livechart_id":13219,"mal_id":61964}
 ,
@@ -64425,7 +65670,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":3048,"anilist_id":4121,"animeplanet_id":"meimon-daisan-yakyuubu","anisearch_id":137,"livechart_id":12011,"mal_id":4121}
 ,
 // [2024-FALL] MOVIE: Meirenyu de Xiatian
-{"mal_id":60450}
+{"anisearch_id":21643,"mal_id":60450}
 ,
 // [2015-SUMMER] MOVIE: Meirenyu: Haidao Laixi
 {"animeplanet_id":"the-little-mermaid-attack-of-the-pirates","anisearch_id":12128,"mal_id":49144}
@@ -64584,7 +65829,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":19025,"anilist_id":185212,"animeplanet_id":"meitantei-conan-movie-28-sekigan-no-flashback","anisearch_id":19934,"livechart_id":12954,"mal_id":60445}
 ,
 // [2026-SPRING] MOVIE: Meitantei Conan Movie 29: Highway no Datenshi
-{"animeplanet_id":"meitantei-conan-movie-29-highway-no-datenshi","livechart_id":13299,"mal_id":62387}
+{"animeplanet_id":"detective-conan-movie-29-fallen-angel-of-the-highway","livechart_id":13299,"mal_id":62387}
 ,
 // [2000-FALL] OVA: Meitantei Conan OVA 01: Conan vs. Kid vs. Yaiba - Houtou Soudatsu Daikessen!!
 {"anidb_id":3390,"anilist_id":1369,"animeplanet_id":"detective-conan-conan-vs-kid-vs-yaiba-houtou-soudatsu-daikessen","anisearch_id":2450,"livechart_id":6391,"mal_id":1369}
@@ -64648,6 +65893,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2023-WINTER] MOVIE: Meitantei Conan: Haibara Ai Monogatari - Kurogane no Mystery Train
 {"anidb_id":17755,"anilist_id":158997,"animeplanet_id":"detective-conan-haibara-ai-monogatari-kurogane-no-mystery-train","anisearch_id":17917,"livechart_id":11715,"mal_id":53780}
+,
+// [2026-SPRING] SPECIAL: Meitantei Conan: Hanamaru na Answer
+{"anilist_id":212994,"anisearch_id":21737,"livechart_id":13661,"mal_id":64359}
 ,
 // [2022-FALL] TV: Meitantei Conan: Hannin no Hanzawa-san
 {"anidb_id":16841,"anilist_id":140005,"animeplanet_id":"detective-conan-the-culprit-hanzawa","anisearch_id":16786,"livechart_id":10828,"mal_id":50010}
@@ -64749,10 +65997,19 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":170535,"animeplanet_id":"detective-pikachu-and-the-mystery-of-the-missing-flan","anisearch_id":18933,"livechart_id":12385,"mal_id":57003}
 ,
 // [2016-UNDEFINED] MOVIE: Meitantei Pork
-{"animeplanet_id":"meitantei-pork","mal_id":55758}
+{"anilist_id":213104,"animeplanet_id":"meitantei-pork","mal_id":55758}
+,
+// [2026-FALL] MOVIE: Meitantei Precure Movie
+{"livechart_id":13596}
 ,
 // [2026-WINTER] TV: Meitantei Precure!
 {"anidb_id":19742,"anilist_id":202957,"animeplanet_id":"star-detective-pretty-cure","anisearch_id":21033,"livechart_id":13405,"mal_id":63042}
+,
+// [2026-FALL] MOVIE: Meitantei Precure! Fushigi na Niwa to Futari no Himitsu
+{"anilist_id":198654}
+,
+// [2026-SUMMER] MOVIE: Meitantei Precure! Movie: Fushigi na Niwa to 2-ri no Himitsu
+{"mal_id":63903}
 ,
 // [2014-WINTER] TV: Meitantei Rascal
 {"anidb_id":10294,"animeplanet_id":"meitantei-rascal","anisearch_id":9258,"livechart_id":7198,"mal_id":21447}
@@ -65099,6 +66356,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2011-SPRING] OVA: Menkui!
 {"anisearch_id":6934,"mal_id":10419}
 ,
+// [2025-SPRING] ONA: MENSCHEN KARTOS
+{}
+,
 // [2017-FALL] ONA: Mentori
 {"anidb_id":13638,"animeplanet_id":"mentori","anisearch_id":13135,"livechart_id":3032,"mal_id":36905}
 ,
@@ -65168,6 +66428,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-WINTER] SPECIAL: Merry Holy Date♡
 {}
 ,
+// [2021-SPRING] SPECIAL: MERRY MERRY GO ROUND
+{"mal_id":63907}
+,
 // [2023-FALL] SPECIAL: Merry PLLIstmas
 {"mal_id":57643}
 ,
@@ -65227,6 +66490,15 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2024-FALL] SPECIAL: Meta
 {"anilist_id":183066,"anisearch_id":19711,"mal_id":60125}
+,
+// [undefined-UNDEFINED] MOVIE: Metafear
+{}
+,
+// [undefined-UNDEFINED] ONA: Metafear
+{"anidb_id":20109}
+,
+// [undefined-UNDEFINED] SPECIAL: Metafear
+{"livechart_id":13671}
 ,
 // [2009-WINTER] TV: MetaJets
 {"anidb_id":13180,"anisearch_id":12498}
@@ -65675,8 +66947,11 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2016-WINTER] ONA: Mietchi Cuisine
 {"animeplanet_id":"mietchi-cuisine-hachis-parmentier-no-tsukurikata","mal_id":54442}
 ,
+// [2026-SUMMER] TV: Migawari Reijou o Sukutta no wa Reikoku Mujihi na Kouri no Ooji no Ai deshita
+{"anisearch_id":21421}
+,
 // [2026-SUMMER] TV: Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita
-{"livechart_id":13591,"mal_id":63878}
+{"anilist_id":213665,"livechart_id":13591,"mal_id":63878}
 ,
 // [1984-FALL] TV: Mighty Orbots
 {"anidb_id":5195,"anilist_id":8130,"animeplanet_id":"mighty-orbots","anisearch_id":4361,"mal_id":8130}
@@ -65870,6 +67145,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2021-SUMMER] MOVIE: Milk no Kevin the Movie
 {"anidb_id":16529,"anilist_id":206845,"animeplanet_id":"milk-no-kevin-the-movie","anisearch_id":16531,"mal_id":55618}
 ,
+// [2025-SUMMER] SPECIAL: Milk Tea Love
+{"mal_id":63909}
+,
 // [1985-SPRING] OVA: Milky Gal: Cats Ai
 {"anisearch_id":5380,"mal_id":13959}
 ,
@@ -66000,7 +67278,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"animeplanet_id":"minagoroshi"}
 ,
 // [1971-SUMMER] MOVIE: Minami e Itta Misuke
-{"animeplanet_id":"misuke-in-southern","mal_id":48909}
+{"anilist_id":213511,"animeplanet_id":"misuke-in-southern","mal_id":48909}
 ,
 // [2017-WINTER] TV: Minami Kamakura Koukou Joshi Jitensha-bu
 {"anidb_id":11492,"anilist_id":21298,"animeplanet_id":"minami-kamakura-high-school-girls-cycling-club","anisearch_id":11489,"livechart_id":1773,"mal_id":31422}
@@ -66122,11 +67400,17 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1994-FALL] OVA: Minerva no Kenshi
 {"anisearch_id":2511,"mal_id":3074}
 ,
+// [2025-SPRING] ONA: Ming Chao Gongming Zhe Zhandou Yanshi
+{"mal_id":64222}
+,
 // [2025-FALL] ONA: Ming Chao: Beautiful Tomorrow
 {"mal_id":63691}
 ,
 // [2024-SPRING] SPECIAL: Ming Chao: Jinxi
 {"anisearch_id":19370}
+,
+// [2026-SPRING] ONA: Ming Chao: Tiaowang Zhemen
+{"mal_id":64221}
 ,
 // [2025-SUMMER] SPECIAL: Ming Chao: Wei An Zhī Guang
 {"mal_id":63690}
@@ -66587,6 +67871,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2015-FALL] SPECIAL: Mirai e no Kakehashi: Bridge for Future
 {"anisearch_id":14786,"mal_id":32251}
 ,
+// [undefined-UNDEFINED] MOVIE: Mirai e no Kouro
+{"mal_id":64424}
+,
 // [2024-SPRING] SPECIAL: Mirai e no Michi
 {"anilist_id":178127,"mal_id":58963}
 ,
@@ -66646,6 +67933,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2024-SUMMER] TV: Mirai no Kuromaku-kei Akuyaku Reijou Moriarty no Isekai Kanzen Hanzai Hakusho
 {"anidb_id":18817,"anilist_id":179954,"animeplanet_id":"mirai-no-kuromaku-kei-akuyaku-reijou-moriarty-no-isekai-kanzen-hanzai-hakusho","anisearch_id":19372,"livechart_id":12699,"mal_id":59148}
+,
+// [2026-SPRING] SPECIAL: Mirai no Lemon Sour x Final Fantasy VII Rebirth CM
+{"mal_id":64056}
 ,
 // [2018-SUMMER] MOVIE: Mirai no Mirai
 {"anidb_id":13174,"anilist_id":100749,"animeplanet_id":"mirai","anisearch_id":12463,"livechart_id":2702,"mal_id":36936}
@@ -66818,13 +68108,16 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2015-UNDEFINED] MOVIE: Missing one player
 {"animeplanet_id":"missing-one-player"}
 ,
+// [2026-SPRING] SPECIAL: Mission
+{"mal_id":64082}
+,
 // [2006-FALL] SPECIAL: Mission School
 {"anidb_id":12969,"anilist_id":102758,"animeplanet_id":"moka-mission-school","anisearch_id":15618,"mal_id":21055}
 ,
 // [2008-SUMMER] TV: Mission-E
 {"anidb_id":5870,"anilist_id":4209,"animeplanet_id":"mission-e","anisearch_id":4814,"livechart_id":7389,"mal_id":4209}
 ,
-// [2026-SPRING] TV: Mission: Yozakura Family
+// [2026-FALL] TV: Mission: Yozakura Family
 {}
 ,
 // [1987-FALL] TV: Mister Ajikko
@@ -66839,7 +68132,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1981-SPRING] SPECIAL: Mister Giants Eikou no Sebangou 3
 {"anilist_id":178151}
 ,
-// [1981-WINTER] SPECIAL: Mister Giants Eikou no Sebangou San
+// [1981-SPRING] SPECIAL: Mister Giants Eikou no Sebangou San
 {"anidb_id":19454}
 ,
 // [2020-SUMMER] SPECIAL: Mister Jewel Box
@@ -66854,11 +68147,11 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1980-FALL] SPECIAL: Mister Synthesizer
 {"anilist_id":148068,"animeplanet_id":"mister-synthesizer","mal_id":51797}
 ,
-// [2026-SPRING] TV: Mistress Kanan is Devilishly Easy
+// [undefined-UNDEFINED] TV: Mistress Kanan is Devilishly Easy
 {}
 ,
 // [2025-SPRING] SPECIAL: Misty Rainbow
-{"mal_id":62399}
+{"anisearch_id":21364,"mal_id":62399}
 ,
 // [2024-SPRING] SPECIAL: Misui
 {"mal_id":58910}
@@ -67059,7 +68352,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":572,"anilist_id":1040,"animeplanet_id":"mizuiro-jidai","anisearch_id":2050,"livechart_id":12092,"mal_id":1040}
 ,
 // [1982-SUMMER] SPECIAL: Mizuiro no One-Piece
-{"anilist_id":139862,"animeplanet_id":"mizuiro-no-one-piece","mal_id":39885}
+{"anilist_id":139862,"animeplanet_id":"mizuiro-no-one-piece","anisearch_id":21396,"mal_id":39885}
 ,
 // [2010-SPRING] MOVIE: Mizuki Shigeru no Toono Monogatari
 {"anilist_id":8243,"animeplanet_id":"mizuki-shigeru-no-toono-monogatari","mal_id":8243}
@@ -67169,6 +68462,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [undefined-UNDEFINED] TV: Mo Lin Chuanqi: Yuangu Shenshou
 {"mal_id":46224}
 ,
+// [2025-SUMMER] ONA: Mo Ling Ai: Mo Shui Ling long
+{"anisearch_id":21612}
+,
 // [2009-SUMMER] TV: Mo Mo
 {"anidb_id":13628,"anisearch_id":13085,"mal_id":45886}
 ,
@@ -67253,7 +68549,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2009-FALL] OVA: Mobile Suit Gundam 00 Special Edition I: Celestial Being
 {"anidb_id":7183,"animeplanet_id":"mobile-suit-gundam-00-special-edition-i-celestial-being"}
 ,
-// [2009-FALL] OVA: Mobile Suit Gundam 00 Special Edition II: End of World
+// [2009-WINTER] OVA: Mobile Suit Gundam 00 Special Edition II: End of World
 {"anidb_id":7184,"animeplanet_id":"mobile-suit-gundam-00-special-edition-ii-end-of-world"}
 ,
 // [2010-WINTER] OVA: Mobile Suit Gundam 00 Special Edition III: Return the World
@@ -67301,13 +68597,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2007-WINTER] SPECIAL: Mobile Suit Gundam SEED Destiny Special Edition IV: The Cost of Freedom
 {"anidb_id":4905,"animeplanet_id":"mobile-suit-gundam-seed-destiny-special-edition-iv-the-cost-of-freedom"}
 ,
-// [undefined-UNDEFINED] MOVIE: Mobile Suit Gundam Seed FREEDOM ZERO
-{}
-,
 // [2012-WINTER] TV: Mobile Suit Gundam Seed HD Remaster
 {"livechart_id":10615}
 ,
-// [2004-WINTER] SPECIAL: Mobile Suit Gundam SEED Movie I: The Empty Battlefield
+// [2004-SPRING] SPECIAL: Mobile Suit Gundam SEED Movie I: The Empty Battlefield
 {"anidb_id":4169,"animeplanet_id":"mobile-suit-gundam-seed-movie-i-the-empty-battlefield"}
 ,
 // [2004-SUMMER] SPECIAL: Mobile Suit Gundam SEED Movie II: The Far-Away Dawn
@@ -67330,9 +68623,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2015-UNDEFINED] SPECIAL: Mobile Suit Gundam-san: Manner Movies CMs
 {"animeplanet_id":"mobile-suit-gundam-san-manner-movies-cms"}
-,
-// [2021-SPRING] MOVIE: Mobile Suit Gundam: Hathaway
-{"anidb_id":14043}
 ,
 // [2022-SPRING] SPECIAL: Mobile Suit Gundam: Iron-Blooded Orphans
 {}
@@ -67375,9 +68665,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2004-UNDEFINED] MOVIE: Mobile Suit Zeta Gundam: A New Translation
 {}
-,
-// [2026-UNDEFINED] TV: Mobius Dust
-{"anidb_id":14730,"anilist_id":108992,"animeplanet_id":"mobius-dust","anisearch_id":15978,"livechart_id":9260}
 ,
 // [2018-UNDEFINED] ONA: Mochi wo Tsuku Yatsu
 {"anilist_id":127990,"animeplanet_id":"mochi-wo-tsuku-yatsu"}
@@ -67424,11 +68711,17 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2022-FALL] ONA: Modern Love Tokyo: Kare ga Kanaderu Futari no Shirabe
 {"anidb_id":17710,"animeplanet_id":"modern-love-tokyo-kare-ga-kanaderu-futari-no-shirabe","mal_id":53585}
 ,
+// [2022-FALL] ONA: Modern Love Tokyo: Samazama na Ai no Katachi - Kare ga Kanaderu Futari no Shirabe
+{"anisearch_id":21510}
+,
 // [2011-WINTER] MOVIE: Modern No.2
 {"anidb_id":11383,"anilist_id":19219,"animeplanet_id":"modern-no2","anisearch_id":10171,"mal_id":19219}
 ,
 // [2012-SPRING] OVA: Moe Can Change!
 {}
+,
+// [2024-SUMMER] SPECIAL: MoeChakkaFire
+{"anisearch_id":21401}
 ,
 // [2008-WINTER] TV: Moegaku*5
 {}
@@ -67496,7 +68789,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2010-UNDEFINED] TV: Mofa Zhu Liye
 {"animeplanet_id":"mofa-zhu-liye","mal_id":45897}
 ,
-// [1990-SUMMER] TV: Mofang Dasha
+// [1990-FALL] TV: Mofang Dasha
 {"anidb_id":14894,"animeplanet_id":"mofang-dasha","mal_id":43672}
 ,
 // [2023-SPRING] ONA: Moffun to Issho
@@ -67523,6 +68816,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2010-FALL] OVA: Mofukuzuma
 {"anisearch_id":6359,"mal_id":9312}
 ,
+// [2025-SPRING] ONA: Mofumofu Man
+{"mal_id":63953}
+,
 // [2015-SPRING] ONA: Mofumofu TV
 {"animeplanet_id":"mofumofu-tv"}
 ,
@@ -67534,9 +68830,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2025-FALL] ONA: Mofusand
 {"anidb_id":19783,"livechart_id":13447,"mal_id":63151}
-,
-// [2025-FALL] ONA: Mofusand
-{}
 ,
 // [2015-UNDEFINED] SPECIAL: Moga CMs
 {"mal_id":59256}
@@ -67751,6 +69044,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2017-SPRING] SPECIAL: Momomo Mozzarella Alien Again
 {"mal_id":57446}
 ,
+// [2027-WINTER] TV: Momomo! Ninimo
+{}
+,
 // [2014-SPRING] ONA: Momon's Sand Witch
 {"anilist_id":143288,"animeplanet_id":"momons-sand-witch","mal_id":23881}
 ,
@@ -67859,6 +69155,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2022-SPRING] SPECIAL: Mondainai Tripper!
 {"anilist_id":149915,"animeplanet_id":"sana-natori-mondainai-tripper","anisearch_id":17678,"mal_id":53684}
 ,
+// [2025-WINTER] SPECIAL: Money
+{"mal_id":64271}
+,
 // [1991-SUMMER] OVA: Money Wars: Nerawareta Waterfront Keikaku
 {"anidb_id":5267,"anilist_id":18743,"animeplanet_id":"money-wars-nerawareta-waterfront-keikaku","anisearch_id":4340,"mal_id":18743}
 ,
@@ -67887,7 +69186,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":168553,"animeplanet_id":"monk-seishin","mal_id":56419}
 ,
 // [2017-SUMMER] TV: Monkateu
-{"anilist_id":154246,"animeplanet_id":"monkateu","anisearch_id":14688,"mal_id":41667}
+{"anidb_id":15205,"anilist_id":154246,"animeplanet_id":"monkateu","anisearch_id":14688,"mal_id":41667}
 ,
 // [undefined-UNDEFINED] MOVIE: Monkey Gang Anarchy
 {"anidb_id":14565,"animeplanet_id":"monkey-gang-anarchy"}
@@ -67991,7 +69290,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-SUMMER] ONA: Monogatari Series: Off & Monster Season - Zankoku Douwa: Utsukushi-hime
 {"anilist_id":180332,"animeplanet_id":"monogatari-series-off-and-monster-season-a-cruel-fairy-tale-the-beautiful-princess","anisearch_id":20765,"livechart_id":12803,"mal_id":59612}
 ,
-// [undefined-UNDEFINED] SPECIAL: Monogatari Series: Off & Monster Season (Shin Episode)
+// [2027-WINTER] SPECIAL: Monogatari Series: Off & Monster Season (Shin Episode)
 {"anidb_id":19436,"anilist_id":195448,"animeplanet_id":"monogatari-series-off-monster-season-new","anisearch_id":20697,"livechart_id":13221,"mal_id":61968}
 ,
 // [2013-SUMMER] TV: Monogatari Series: Second Season
@@ -68002,6 +69301,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2021-SPRING] SPECIAL: Monogatari wo kimi e: Fukaku ni Q2 Ending Animation
 {"anilist_id":133146,"animeplanet_id":"monogatari-wo-kimi-e-fukaku-ni-q2-ending-animation"}
+,
+// [1988-UNDEFINED] OVA: Monogatari: Flanders no Inu
+{"anilist_id":212567}
 ,
 // [2022-WINTER] MOVIE: Monolith
 {}
@@ -68019,13 +69321,16 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":7,"anilist_id":164,"animeplanet_id":"princess-mononoke","anisearch_id":3320,"livechart_id":3081,"mal_id":164}
 ,
 // [2024-SUMMER] MOVIE: Mononoke Movie 1: Karakasa
-{"anidb_id":17466,"anilist_id":151117,"animeplanet_id":"mononoke-movie-1-the-phantom-in-the-rain","anisearch_id":17455,"livechart_id":11275,"mal_id":52107}
+{"anidb_id":17466,"anilist_id":151117,"animeplanet_id":"mononoke-the-movie-the-phantom-in-the-rain","anisearch_id":17455,"livechart_id":11275,"mal_id":52107}
 ,
 // [2025-WINTER] MOVIE: Mononoke Movie 2: Hinezumi
-{"anilist_id":179852,"animeplanet_id":"mononoke-movie-2-hinezumi","anisearch_id":20403,"livechart_id":12773,"mal_id":59408}
+{"anilist_id":179852,"animeplanet_id":"mononoke-the-movie-chapter-ii-the-ashes-of-rage","anisearch_id":20403,"livechart_id":12773,"mal_id":59408}
 ,
 // [2026-SPRING] MOVIE: Mononoke Movie 3: Hebigami
 {"anilist_id":179874,"animeplanet_id":"mononoke-movie-3-hebigami","livechart_id":13085,"mal_id":61202}
+,
+// [2026-SPRING] MOVIE: Mononoke The Movie: Chapter III – The Curse of the Serpent Anime
+{}
 ,
 // [2012-SPRING] TV: Mononokuma
 {}
@@ -68074,6 +69379,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2022-SUMMER] SPECIAL: Monster Disco
 {"anilist_id":159052,"mal_id":53265}
+,
+// [2026-SPRING] TV: Monster Eater
+{}
+,
+// [2026-SPRING] TV: Monster Eater
+{}
 ,
 // [2004-SUMMER] SPECIAL: Monster Extra: Hottan
 {"animeplanet_id":"monster-extra","anisearch_id":13144,"mal_id":1109}
@@ -68339,6 +69650,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2011-WINTER] SPECIAL: Mori no e
 {"anidb_id":13133,"anilist_id":103413,"animeplanet_id":"mori-no-e","mal_id":29757}
 ,
+// [1994-UNDEFINED] OVA: Mori no Hazureshi: Shakkuri no Bouken
+{"anisearch_id":21452}
+,
 // [2014-WINTER] SPECIAL: Mori no Hito to Shoutengu-chan
 {"animeplanet_id":"mori-no-hito-to-shoutengu-chan","mal_id":35703}
 ,
@@ -68356,6 +69670,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2022-SUMMER] ONA: Mori no Kuma-san, Toumin-chuu.
 {"animeplanet_id":"caressing-the-nipples-of-my-hibernating-bear","anisearch_id":17391,"mal_id":49460}
+,
+// [1967-UNDEFINED] SPECIAL: Mori no Kyoukai
+{"anilist_id":213377}
 ,
 // [2020-WINTER] MOVIE: Mori no Obake
 {"anilist_id":140347,"animeplanet_id":"mori-no-obake"}
@@ -68474,7 +69791,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2019-SUMMER] ONA: Moshi Juexing: Ruqin Part 2
 {"anidb_id":16491,"anilist_id":120231,"animeplanet_id":"moshi-juexing-zhi-ruqin-2nd-season","mal_id":45445}
 ,
-// [2020-FALL] ONA: Moshi Juexing: Suyuan
+// [2020-WINTER] ONA: Moshi Juexing: Suyuan
 {"anidb_id":16492,"anilist_id":122691}
 ,
 // [2020-FALL] ONA: Moshi Juexing: Suyuan
@@ -68567,6 +69884,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-SPRING] OVA: Motokare to wa Dekinakatta Sex Shitemo Ii desu ka?
 {"anisearch_id":20749,"mal_id":60993}
 ,
+// [2022-FALL] SPECIAL: Motor Queen
+{"anisearch_id":21722}
+,
 // [2012-SPRING] TV: Motorcity
 {}
 ,
@@ -68629,6 +69949,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2014-WINTER] SPECIAL: Mou Hasamazu ni wa Irarenai♥: Hoshi ni Onegai shitara Konnani Okkiku Nacchatta! Special
 {"mal_id":52734}
+,
+// [2026-SPRING] MOVIE: Mou Hitori no Alice
+{"mal_id":64225}
 ,
 // [2009-WINTER] OVA: Mou Hitotsu no Doubutsuen: Zetsumetsu Doubutsu Monogatari
 {"anidb_id":8339,"anisearch_id":7014}
@@ -68750,7 +70073,13 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2018-WINTER] SPECIAL: Mousou Teikoku Chikuonki
 {"anilist_id":116585,"animeplanet_id":"eri-kitamura-mousou-teikoku-chikuonki","mal_id":39690}
 ,
-// [2010-SPRING] SPECIAL: Move On
+// [2007-UNDEFINED] SPECIAL: Mouth Music feat. Takkyu Ishino, Shinco
+{"mal_id":64027}
+,
+// [2002-UNDEFINED] SPECIAL: Move On
+{"mal_id":64016}
+,
+// [2010-SPRING] SPECIAL: Move On (2010)
 {"mal_id":55695}
 ,
 // [2019-WINTER] ONA: Move to the Future
@@ -68832,6 +70161,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anisearch_id":19388}
 ,
 // [2025-SUMMER] TV: Mr. Osomatsu
+{}
+,
+// [2026-SPRING] OVA: Mr. Osomatsu
 {}
 ,
 // [1986-WINTER] SPECIAL: Mr. Pen Pen
@@ -68945,6 +70277,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-UNDEFINED] ONA: Mu Shen Ji 3
 {"anilist_id":203953}
 ,
+// [2026-UNDEFINED] ONA: Mu Shen Ji 4
+{"anilist_id":211181}
+,
 // [1960-UNDEFINED] MOVIE: Mu Tong Yu Gongzhu
 {"animeplanet_id":"mu-tong-yu-gongzhu","anisearch_id":19845,"mal_id":43279}
 ,
@@ -68968,6 +70303,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2018-SUMMER] ONA: Muchi Muchi Kyousei Seichouchuu!!!
 {"anisearch_id":13817,"mal_id":38030}
+,
+// [2026-SPRING] OVA: Muchuu no Tou
+{"anisearch_id":21540,"mal_id":64297}
 ,
 // [2025-SUMMER] TV: Muchuu sa, Kimi ni.
 {"anidb_id":18930,"anilist_id":183128,"animeplanet_id":"captivated-by-you","anisearch_id":19703,"livechart_id":12885,"mal_id":60130}
@@ -69077,6 +70415,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1985-SUMMER] OVA: Mujigen Hunter Fandora
 {"anidb_id":4445,"anilist_id":5907,"animeplanet_id":"dream-dimension-hunter-fandora","anisearch_id":3698,"livechart_id":9085,"mal_id":5907}
 ,
+// [2026-SUMMER] OVA: Mujikaku na Osananajimi to Kyoumi Honi de Yattemitara The Animation
+{"mal_id":64530}
+,
 // [2026-SUMMER] TV: Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu
 {"anidb_id":19485,"anilist_id":196219,"animeplanet_id":"the-oblivious-saint-cant-contain-her-power","anisearch_id":20778,"livechart_id":13250,"mal_id":62080}
 ,
@@ -69094,6 +70435,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1999-FALL] OVA: Mujintou Monogatari XX
 {"anisearch_id":3200,"mal_id":5190}
+,
+// [2025-SUMMER] SPECIAL: Mujiseong Daenseu Jeunghugun
+{"mal_id":64085}
 ,
 // [1993-FALL] TV: Mukamuka Paradise
 {"anidb_id":3686,"anilist_id":4086,"animeplanet_id":"muka-muka-paradise","anisearch_id":608,"livechart_id":8260,"mal_id":4086}
@@ -69171,7 +70515,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":170059,"animeplanet_id":"mumei-nanashi-mumei","mal_id":56886}
 ,
 // [2025-SPRING] MOVIE: Mumei no Jinsei
-{"anidb_id":19183,"anilist_id":194879,"animeplanet_id":"mumei-no-jinsei","anisearch_id":20225,"mal_id":61108}
+{"anidb_id":19183,"anilist_id":194879,"animeplanet_id":"mumei-no-jinsei","anisearch_id":20225,"livechart_id":13608,"mal_id":61108}
 ,
 // [2008-FALL] TV: Mumu Baobao
 {"anisearch_id":16878}
@@ -69239,6 +70583,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1987-SUMMER] MOVIE: Muramasa
 {"anidb_id":3479,"anilist_id":3475,"animeplanet_id":"muramasa","anisearch_id":1733,"mal_id":3475}
 ,
+// [2026-SUMMER] OVA: Muramata-san no Aijou
+{"anisearch_id":21734,"mal_id":64404}
+,
 // [2020-SUMMER] OVA: Muramata-san no Himitsu
 {"anisearch_id":15271,"mal_id":42031}
 ,
@@ -69299,11 +70646,20 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1993-WINTER] TV: Musekinin Kanchou Tylor
 {"anidb_id":18,"anilist_id":569,"animeplanet_id":"irresponsible-captain-tylor","anisearch_id":3182,"livechart_id":5044,"mal_id":569}
 ,
+// [1995-SUMMER] OVA: Musekinin Kanchou Tylor (1995)
+{"anidb_id":8732}
+,
 // [1993-SUMMER] SPECIAL: Musekinin Kanchou Tylor Complete Music Clip Collection
 {"anilist_id":119919,"mal_id":41806}
 ,
 // [1994-FALL] OVA: Musekinin Kanchou Tylor OVA
 {"anilist_id":1168,"animeplanet_id":"irresponsible-captain-tylor-ova","anisearch_id":2676,"livechart_id":6116,"mal_id":1168}
+,
+// [1996-SUMMER] OVA: Musekinin Kanchou Tylor: Chijou yori Eien ni
+{"anidb_id":8733}
+,
+// [1994-FALL] OVA: Musekinin Kanchou Tylor: Tokubetsu Hen - Hitoribocchi no Sensou
+{"anidb_id":71}
 ,
 // [1991-WINTER] MOVIE: Musha Knight Commando: SD Gundam Scramble
 {"anidb_id":3344,"anilist_id":9087,"animeplanet_id":"mobile-suit-sd-gundam-the-movie-musha-knight-commando-sd-gundam-scramble","anisearch_id":1862,"livechart_id":7423,"mal_id":9087}
@@ -69507,7 +70863,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":15698,"animeplanet_id":"muteki-kyuubeliever-mirai-harmony","mal_id":42889}
 ,
 // [2025-FALL] SPECIAL: Muteki☆Honki Da Survivor!
-{"mal_id":62947}
+{"anilist_id":212518,"mal_id":62947}
 ,
 // [2021-FALL] TV: Muteking the Dancing Hero
 {"anidb_id":14934,"anilist_id":109745,"animeplanet_id":"muteking-the-dancing-hero","anisearch_id":14432,"livechart_id":9455,"mal_id":39893}
@@ -69539,11 +70895,8 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2018-SPRING] OVA: Muttsuri Dosukebe Tsuyu Gibo Shimai no Honshitsu Minuite Sex Sanmai
 {"anisearch_id":13295,"mal_id":37233}
 ,
-// [2024-UNDEFINED] SPECIAL: Muu
-{"anilist_id":204409}
-,
-// [2024-FALL] UNKNOWN: Muu
-{"mal_id":63553}
+// [2024-FALL] SPECIAL: Muu
+{"anilist_id":204409,"mal_id":63553}
 ,
 // [1980-SPRING] TV: Muu no Hakugei
 {"anidb_id":3659,"anilist_id":4933,"animeplanet_id":"muu-no-hakugei","anisearch_id":747,"livechart_id":13506,"mal_id":4933}
@@ -69623,7 +70976,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-FALL] TV: Muzik Tiger In the Forest 2nd Season
 {"animeplanet_id":"muzik-tiger-in-the-forest-2nd-season","mal_id":61924}
 ,
-// [2025-SUMMER] TV: Muzik Tiger: In the Forest
+// [2025-FALL] TV: Muzik Tiger: In the Forest
 {}
 ,
 // [2025-FALL] TV: Muzik Tiger: In the Forest (2025)
@@ -69641,13 +70994,13 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2018-SPRING] SPECIAL: Mwonga Iss-eo
 {"mal_id":54555}
 ,
-// [2025-WINTER] SPECIAL: My Abyss
-{"mal_id":61113}
-,
 // [2023-SUMMER] TV: My Adventures with Superman
 {}
 ,
 // [2024-SPRING] TV: My Adventures with Superman Season 2
+{}
+,
+// [2026-SUMMER] TV: My Adventures with Superman Season 3
 {}
 ,
 // [2025-FALL] TV: My Awkward Senpai
@@ -69658,6 +71011,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2024-UNDEFINED] MOVIE: My boyfriend is a teddy bear!
 {"animeplanet_id":"my-boyfriend-is-a-teddy-bear"}
+,
+// [2026-SUMMER] TV: My Classmate's a Sexy Actress, and Now We Live Together?!
+{}
 ,
 // [1991-SPRING] OVA: My Crossroad
 {"anilist_id":204627,"mal_id":52545}
@@ -69701,6 +71057,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-FALL] TV: My Gift Lvl 9999 Unlimited Gacha
 {}
 ,
+// [undefined-UNDEFINED] TV: My Girlfriend's Friend
+{}
+,
 // [1992-SUMMER] SPECIAL: My Graduation: Mirai
 {"anilist_id":148476,"animeplanet_id":"my-graduation-mirai","mal_id":42733}
 ,
@@ -69716,14 +71075,11 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2016-FALL] SPECIAL: My Hero Academia
 {}
 ,
-// [2026-SPRING] ONA: My Hero Academia 170+1: More
-{"animeplanet_id":"my-hero-academia-1701-more"}
+// [2026-SPRING] SPECIAL: My Hero Academia 170+1: More
+{"animeplanet_id":"my-hero-academia-1701-more","livechart_id":13435}
 ,
 // [2019-UNDEFINED] SPECIAL: My Hero Academia Movie: Two Heroes Picture Drama
 {"animeplanet_id":"my-hero-academia-movie-two-heroes-picture-drama"}
-,
-// [2016-FALL] OVA: My Hero Academia OVA
-{"anidb_id":12344,"livechart_id":2292}
 ,
 // [2023-FALL] OVA: My Hero Academia UA Heroes Battle
 {}
@@ -69968,6 +71324,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-SPRING] TV: Mysterious Disappearances
 {}
 ,
+// [2025-UNDEFINED] SPECIAL: MYSTERIOUS STAR
+{"anilist_id":211864}
+,
 // [undefined-UNDEFINED] MOVIE: Mystery of Kumamon
 {"animeplanet_id":"mystery-of-kumamon","anisearch_id":16996,"livechart_id":3569}
 ,
@@ -70040,8 +71399,23 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2020-UNDEFINED] TV: Na Sa Er Ding Dong Youji
 {"animeplanet_id":"na-sa-er-ding-dong-youji","mal_id":45818}
 ,
+// [2024-SPRING] SPECIAL: Naan Tabetai
+{"mal_id":58870}
+,
 // [2008-SPRING] TV: Nabari no Ou
 {"anidb_id":5630,"anilist_id":3655,"animeplanet_id":"nabari-no-ou","anisearch_id":4653,"livechart_id":3485,"mal_id":3655}
+,
+// [2027-UNDEFINED] TV: Nabe ni Dangan wo Uke Nagara
+{"anilist_id":213498,"livechart_id":13687}
+,
+// [undefined-UNDEFINED] TV: Nabe ni Tama o Ukenagara
+{}
+,
+// [2027-WINTER] TV: Nabe ni Tama o Ukenagara
+{"anidb_id":20127,"anisearch_id":21747}
+,
+// [2027-UNDEFINED] TV: Nabe ni Tama wo Ukenagara
+{"mal_id":64466}
 ,
 // [2023-SPRING] TV: Nabiui Moheom
 {"mal_id":56475}
@@ -70172,9 +71546,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1994-SUMMER] OVA: Nageki no Kenkou Yuuryouji
 {"anisearch_id":3006,"mal_id":316}
 ,
-// [undefined-UNDEFINED] OVA: Nageki no Ryū
-{}
-,
 // [2013-FALL] TV: Nagi no Asu kara
 {"anidb_id":9387,"anilist_id":16067,"animeplanet_id":"a-lull-in-the-sea","anisearch_id":8016,"livechart_id":87,"mal_id":16067}
 ,
@@ -70234,6 +71605,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1964-WINTER] MOVIE: Naita Aka Oni
 {"anidb_id":14279,"anilist_id":119455,"animeplanet_id":"naita-aka-oni","anisearch_id":13906,"mal_id":33485}
+,
+// [1985-UNDEFINED] OVA: Naita Aka Oni (1985)
+{"anisearch_id":21437}
 ,
 // [1997-WINTER] OVA: Naita Aka Oni (OVA)
 {"anilist_id":118203,"animeplanet_id":"naita-aka-oni-1997","anisearch_id":14785,"mal_id":26305}
@@ -70478,6 +71852,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1965-UNDEFINED] MOVIE: Nan Fang Shao Nian
 {"animeplanet_id":"nan-fang-shao-nian","mal_id":43372}
 ,
+// [2026-SPRING] SPECIAL: NaN Game
+{"mal_id":64148}
+,
 // [1981-UNDEFINED] MOVIE: Nan Guo Xian Sheng
 {"animeplanet_id":"nan-guo-xian-sheng","mal_id":43499}
 ,
@@ -70486,9 +71863,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2007-FALL] SPECIAL: Nan no Koreshiki Furoshikiman
 {"anilist_id":179686,"mal_id":59333}
-,
-// [2024-SPRING] SPECIAL: Nan Tabetai
-{"mal_id":58870}
 ,
 // [undefined-UNDEFINED] OVA: Nan-chan no Koutsuu Anzen
 {"mal_id":39627}
@@ -70881,7 +72255,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":102779,"animeplanet_id":"nanocore-nanos-daily-life","mal_id":33279}
 ,
 // [1995-WINTER] OVA: Nanoha
-{"animeplanet_id":"nanoha","mal_id":30975}
+{"animeplanet_id":"nanoha","anisearch_id":21461,"mal_id":30975}
 ,
 // [2024-FALL] SPECIAL: Nansen Kounen
 {"anisearch_id":19758}
@@ -70916,11 +72290,14 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1985-SPRING] OVA: Naoko no Tropic Angel: Hyouryuu
 {"anisearch_id":5308,"mal_id":8471}
 ,
+// [undefined-UNDEFINED] OVA: Naomi-san wa Futari Mae!?
+{"anisearch_id":21465}
+,
 // [2022-SPRING] SPECIAL: Napolitan
 {"mal_id":54157}
 ,
 // [2014-UNDEFINED] MOVIE: Napolitan no Yoru
-{"animeplanet_id":"napolitan-no-yoru","mal_id":57319}
+{"anilist_id":211473,"animeplanet_id":"napolitan-no-yoru","mal_id":57319}
 ,
 // [2018-SUMMER] MOVIE: Nappeun Sangsa
 {"anisearch_id":14035}
@@ -70952,7 +72329,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1990-UNDEFINED] TV: Narara Superboard
 {"anilist_id":205608}
 ,
-// [1990-SUMMER] TV: Narara Superboard
+// [1990-FALL] TV: Narara Superboard
 {"anidb_id":10799,"animeplanet_id":"narara-superboard"}
 ,
 // [1990-SUMMER] TV: Narara Superboard
@@ -71010,7 +72387,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"animeplanet_id":"naruheso-kun","mal_id":60313}
 ,
 // [undefined-UNDEFINED] UNKNOWN: Narumi no Heijitsu
-{"anilist_id":204431,"anisearch_id":21114}
+{"anisearch_id":21114}
 ,
 // [2003-SUMMER] TV: Narutaru: Mukuro Naru Hoshi Tama Taru Ko
 {"anidb_id":782,"anilist_id":838,"animeplanet_id":"shadow-star-narutaru","anisearch_id":2230,"livechart_id":4437,"mal_id":838}
@@ -71033,7 +72410,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2005-SUMMER] MOVIE: Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo!
 {"anidb_id":3030,"anilist_id":936,"animeplanet_id":"naruto-movie-2-legend-of-the-stone-of-gelel","anisearch_id":2988,"livechart_id":3881,"mal_id":936}
 ,
-// [2006-SUMMER] MOVIE: Naruto Movie 3: Dai Koufun! Mikazuki Jima no Animaru Panic Dattebayo!
+// [2006-SUMMER] MOVIE: Naruto Movie 3: Dai Koufun! Mikazuki-jima no Animal Panic Dattebayo!
 {"anidb_id":4421,"anilist_id":2144,"animeplanet_id":"naruto-movie-3-guardians-of-the-crescent-moon-kingdom","anisearch_id":3574,"livechart_id":3883,"mal_id":2144}
 ,
 // [2005-FALL] OVA: Naruto Narutimate Hero 3: Tsuini Gekitotsu! Jounin vs. Genin!! Musabetsu Dairansen Taikai Kaisai!!
@@ -71074,9 +72451,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2011-WINTER] OVA: Naruto x UT
 {"anidb_id":8159,"anilist_id":10075,"animeplanet_id":"naruto-shippuden-ova-sage-naruto-vs-sasuke","anisearch_id":6730,"livechart_id":4416,"mal_id":10075}
-,
-// [2010-SUMMER] MOVIE: Naruto, the Genie, and the Three Wishes, Believe It!
-{}
 ,
 // [2003-SPRING] SPECIAL: Naruto: Akaki Yotsuba no Clover wo Sagase
 {"anilist_id":761,"animeplanet_id":"naruto-special-1-find-the-crimson-four-leaf-clover","anisearch_id":4097,"livechart_id":4182,"mal_id":761}
@@ -71131,6 +72505,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2010-WINTER] SPECIAL: Nashimoto-P: Shinitagari
 {"animeplanet_id":"nashimoto-p-shinitagari"}
+,
+// [1991-UNDEFINED] MOVIE: Nasu Sosui Monogatari: Heita Jiichan no Mizu no Hanashi
+{"anisearch_id":21450,"mal_id":64267}
 ,
 // [2003-SUMMER] MOVIE: Nasu: Andalusia no Natsu
 {"anidb_id":1292,"anilist_id":1209,"animeplanet_id":"nasu-summer-in-andalusia","anisearch_id":673,"livechart_id":5776,"mal_id":1209}
@@ -71203,6 +72580,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2026-WINTER] ONA: Natsu no Omokage
 {"anisearch_id":21349}
+,
+// [2025-UNDEFINED] SPECIAL: Natsu no Owari
+{"anilist_id":212519}
 ,
 // [2002-WINTER] MOVIE: Natsu no Shisen 1942
 {"anilist_id":102634,"animeplanet_id":"a-gaze-in-summer-1942","mal_id":22163}
@@ -71649,13 +73029,13 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":6282,"anilist_id":5925,"animeplanet_id":"neko-hiki-no-ororane","anisearch_id":4006,"livechart_id":5909,"mal_id":5925}
 ,
 // [2021-SPRING] TV: Neko Jockey
-{"animeplanet_id":"neko-jockey","anisearch_id":16738,"livechart_id":10545,"mal_id":48790}
+{"anilist_id":213462,"animeplanet_id":"neko-jockey","anisearch_id":16738,"livechart_id":10545,"mal_id":48790}
 ,
 // [2021-FALL] TV: Neko Jockey 2nd Season
-{"animeplanet_id":"neko-jockey-2nd-season","anisearch_id":16764,"livechart_id":10821,"mal_id":50052}
+{"anilist_id":213463,"animeplanet_id":"neko-jockey-2nd-season","anisearch_id":16764,"livechart_id":10821,"mal_id":50052}
 ,
 // [2018-FALL] MOVIE: Neko Kikaku
-{"anidb_id":14070,"animeplanet_id":"neko-kikaku","anisearch_id":13994,"mal_id":37827}
+{"anidb_id":14070,"anilist_id":213101,"animeplanet_id":"neko-kikaku","anisearch_id":13994,"mal_id":37827}
 ,
 // [2016-SUMMER] TV: Neko Konogoro
 {"anidb_id":13858,"anilist_id":199485,"animeplanet_id":"neko-konogoro","anisearch_id":20662,"livechart_id":9486,"mal_id":33398}
@@ -71799,7 +73179,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":6912,"anilist_id":177126,"animeplanet_id":"neko-to-nezumi","anisearch_id":8692,"mal_id":24573}
 ,
 // [2026-SUMMER] TV: Neko to Ryuu
-{"anidb_id":19172,"anilist_id":186863,"animeplanet_id":"neko-to-ryuu","anisearch_id":20222,"livechart_id":13050,"mal_id":61048}
+{"anidb_id":19172,"anilist_id":186863,"animeplanet_id":"the-cat-and-the-dragon","anisearch_id":20222,"livechart_id":13050,"mal_id":61048}
 ,
 // [2023-WINTER] ONA: Neko to Wakai se na
 {"anidb_id":17900,"anilist_id":159727,"animeplanet_id":"neko-to-wakaisena","anisearch_id":18001,"livechart_id":11883,"mal_id":54809}
@@ -72140,6 +73520,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1994-SUMMER] OVA: Nessa no Wakusei
 {"anisearch_id":1282,"mal_id":2551}
 ,
+// [2015-SPRING] SPECIAL: Nestlé CMs
+{"mal_id":64244}
+,
 // [2008-SPRING] TV: Net Ghost Pipopa
 {"anidb_id":5773,"anilist_id":4051,"animeplanet_id":"web-ghosts-pipopa","anisearch_id":4766,"livechart_id":8259,"mal_id":4051}
 ,
@@ -72175,6 +73558,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2025-SUMMER] OVA: Netorareta Bakunyuu Tsuma-tachi
 {"mal_id":61788}
+,
+// [2026-SUMMER] OVA: Netorareta Bakunyuu Tsuma-tachi 2
+{"anisearch_id":21733,"mal_id":64405}
 ,
 // [2025-SUMMER] OVA: Netorareta Bakunyuu Tsuma-tachi: Gagarin-kichi
 {"anisearch_id":20674}
@@ -72302,9 +73688,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-SUMMER] ONA: New Jersey and Enterprise's Beach Vacation
 {"mal_id":59543}
 ,
-// [2026-SUMMER] TV: New Legendary Armor Samurai Troopers - Part II
-{"animeplanet_id":"new-legendary-armor-samurai-troopers-part-ii"}
-,
 // [1987-WINTER] TV: New Maple Town Stories
 {}
 ,
@@ -72320,9 +73703,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-SUMMER] TV: New Panty & Stocking with Garterbelt
 {"anidb_id":17493,"anilist_id":151799,"animeplanet_id":"new-panty-and-stocking-with-garterbelt","anisearch_id":17494,"livechart_id":11317,"mal_id":52293}
 ,
-// [2025-SUMMER] TV: New PANTY & STOCKING with GARTERBELT
-{}
-,
 // [2019-UNDEFINED] ONA: New Recruit
 {"animeplanet_id":"new-recruit"}
 ,
@@ -72331,9 +73711,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2020-UNDEFINED] ONA: New Recruit Season 2
 {"animeplanet_id":"new-recruit-season-2"}
-,
-// [2025-SUMMER] TV: New Saga
-{}
 ,
 // [2022-WINTER] SPECIAL: New Start de Ready Go!
 {"animeplanet_id":"irodorimidori-new-start-de-ready-go","mal_id":52540}
@@ -72370,6 +73747,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2012-FALL] SPECIAL: Next A-Class
 {"anidb_id":9504,"anilist_id":16331,"animeplanet_id":"next-a-class","anisearch_id":8188,"livechart_id":1008,"mal_id":16331}
+,
+// [2026-SPRING] SPECIAL: Next Card
+{"mal_id":64261}
 ,
 // [2020-WINTER] SPECIAL: Next Color Planet
 {"animeplanet_id":"suisei-hoshimachi-next-color-planet","mal_id":44259}
@@ -72422,6 +73802,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2026-SPRING] TV: Nezumi-kun no Chokki
 {"anisearch_id":21265}
 ,
+// [2026-SPRING] TV: Nezumi-kun no Chokki
+{"livechart_id":13305}
+,
 // [1997-SUMMER] OVA: Nezumi-kun no Chokki
 {"animeplanet_id":"nezumi-kun-no-chokki","mal_id":27849}
 ,
@@ -72432,10 +73815,13 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"animeplanet_id":"nezumi-kun-no-chokki-2026"}
 ,
 // [2026-SPRING] TV: Nezumi-kun no Chokki (TV)
-{"anilist_id":198411,"livechart_id":13305,"mal_id":62495}
+{"anilist_id":198411}
+,
+// [2026-SPRING] TV: Nezumi-kun no Chokki (TV)
+{"mal_id":62495}
 ,
 // [2008-WINTER] OVA: Nezumi-kun no Kimochi
-{"animeplanet_id":"nezumi-kun-no-kimochi","mal_id":34183}
+{"animeplanet_id":"nezumi-kun-no-kimochi","anisearch_id":21464,"mal_id":34183}
 ,
 // [2023-FALL] TV: Nezurite: Nezumi Oyako to Manabu Net Literacy
 {"animeplanet_id":"nezurite-nezumi-oyako-to-manabu-net-literacy","mal_id":61187}
@@ -72482,6 +73868,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2019-SUMMER] MOVIE: Ni no Kuni
 {"anidb_id":14679,"anilist_id":107727,"animeplanet_id":"ni-no-kuni","anisearch_id":14170,"livechart_id":9223,"mal_id":39235}
 ,
+// [2019-FALL] ONA: Ni Shi Shijian Zui Meihao De Secai Donghua Demo
+{"anisearch_id":21727}
+,
 // [2011-WINTER] SPECIAL: Ni Soku Ho Kou
 {}
 ,
@@ -72512,9 +73901,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2017-WINTER] MOVIE: Ni Yao Relie de Qin Qin Die
 {"animeplanet_id":"whos-the-daddy","mal_id":53028}
 ,
-// [2020-SPRING] ONA: Ni Yian Jian Shen
-{"animeplanet_id":"the-fabulous-sword-god","mal_id":50343}
-,
 // [2007-UNDEFINED] SPECIAL: Ni Yizhi Meiyou Rang wo de Naozi Xiuxigou
 {"mal_id":58863}
 ,
@@ -72536,10 +73922,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2013-UNDEFINED] SPECIAL: Nia: Luna Virus+
 {"animeplanet_id":"nia-luna-virus-plus"}
 ,
-// [2026-UNDEFINED] ONA: Nian Fan Chen
+// [2026-UNDEFINED] ONA: Nian Fanchen
 {"anilist_id":168245,"animeplanet_id":"nian-fan-chen","mal_id":62751}
 ,
-// [2016-WINTER] MOVIE: Nian Shou da Zuozhan
+// [2016-WINTER] MOVIE: Nian Shou Da Zuozhan
 {"animeplanet_id":"mr-nian","anisearch_id":11429,"mal_id":52926}
 ,
 // [2024-SUMMER] ONA: Nian Wushuang
@@ -72764,6 +74150,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2011-FALL] TV: Nihon Omoshiro Mukashibanashi
 {"anilist_id":12181,"animeplanet_id":"nihon-omoshiro-mukashibanashi","mal_id":12181}
 ,
+// [1996-SPRING] OVA: Nihon’ichi Mijikai ”Ai” no Tegami
+{"anisearch_id":21453}
+,
 // [2012-SPRING] SPECIAL: Nihonbashi Koukashita R Keikaku
 {"anilist_id":102006,"animeplanet_id":"jin-nihonbashi-koukashita-r-keikaku","anisearch_id":7807,"mal_id":21451}
 ,
@@ -72774,7 +74163,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":6699,"anilist_id":5632,"animeplanet_id":"nihon-ichi-momotaro","anisearch_id":5249,"mal_id":5632}
 ,
 // [2025-FALL] ONA: Nihyaku-nen no Yume wo Mita.
-{"livechart_id":13507,"mal_id":63511}
+{"anilist_id":213095,"livechart_id":13507,"mal_id":63511}
 ,
 // [2019-SPRING] ONA: Niigata no Edamame-ou Shiba
 {"animeplanet_id":"niigata-no-edamame-ou-shiba","mal_id":39696}
@@ -72789,7 +74178,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":11091,"anilist_id":4218,"animeplanet_id":"niji-ni-mukatte","anisearch_id":10428,"mal_id":4218}
 ,
 // [1990-WINTER] OVA: Niji no Kakehashi
-{"animeplanet_id":"niji-no-kakehashi","mal_id":31004}
+{"animeplanet_id":"niji-no-kakehashi","anisearch_id":21445,"mal_id":31004}
 ,
 // [1986-SPRING] SPECIAL: Niji no Kanata e! Shōjo Diana-hi Monogatari
 {}
@@ -72871,6 +74260,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2018-SPRING] ONA: Nike Japan: Just Do It
 {"animeplanet_id":"nike-japan-just-do-it"}
+,
+// [2026-SPRING] ONA: Nikenichi! Non Non Zenshou Kichi
+{"anilist_id":212319,"mal_id":64217}
+,
+// [2026-SPRING] ONA: Nikenichi! Non Non Zenshou Kichi
+{"anidb_id":20066}
 ,
 // [2024-FALL] ONA: NIKKE: Old Tales Special Animation
 {"animeplanet_id":"nikke-old-tales-special-animation","livechart_id":12938}
@@ -72954,7 +74349,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":13125,"anilist_id":19237,"animeplanet_id":"people-in-the-box-nimrod","mal_id":19237}
 ,
 // [2015-UNDEFINED] MOVIE: Nin City
-{"mal_id":61978}
+{"anilist_id":213105,"mal_id":61978}
 ,
 // [2013-FALL] SPECIAL: Nina
 {"anilist_id":108876,"animeplanet_id":"pinocchio-p-nina","mal_id":58106}
@@ -73011,7 +74406,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"mal_id":57994}
 ,
 // [1988-WINTER] OVA: Ningen no Uta
-{"anilist_id":121880,"animeplanet_id":"ningen-no-uta","mal_id":30999}
+{"anilist_id":121880,"animeplanet_id":"ningen-no-uta","anisearch_id":21448,"mal_id":30999}
 ,
 // [2009-FALL] MOVIE: Ningen Shikkaku: Director's Cut-ban
 {"anidb_id":7189,"anilist_id":7651,"anisearch_id":5909,"livechart_id":6258,"mal_id":7651}
@@ -73035,7 +74430,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anisearch_id":19261}
 ,
 // [1974-WINTER] MOVIE: Ningyohime
-{"anidb_id":14266,"anilist_id":117800,"animeplanet_id":"ningyo-hime","mal_id":34815}
+{"anidb_id":14266,"anilist_id":117800,"animeplanet_id":"ningyo-hime","anisearch_id":21688,"mal_id":34815}
 ,
 // [1991-WINTER] TV: Ningyohime Marina no Bouken
 {"anidb_id":3497,"anilist_id":3194,"animeplanet_id":"adventures-of-the-little-mermaid","anisearch_id":1443,"mal_id":3194}
@@ -73149,10 +74544,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {}
 ,
 // [undefined-UNDEFINED] TV: Ninja Kamui: Red Vendetta
-{"anilist_id":194453}
+{"anidb_id":19384,"anilist_id":194453}
 ,
 // [undefined-UNDEFINED] TV: Ninja Kamui: Red Vendetta
-{"anidb_id":19384}
+{}
 ,
 // [undefined-UNDEFINED] TV: Ninja Kamui: Red Vendetta
 {"anisearch_id":20680}
@@ -73229,7 +74624,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [undefined-UNDEFINED] OVA: NINJAXIS (Pilot)
 {"livechart_id":10577}
 ,
-// [2023-UNDEFINED] MOVIE: Ninjin wa Matte Kurenai
+// [2023-WINTER] MOVIE: Ninjin wa Matte Kurenai
 {"anilist_id":207488}
 ,
 // [1935-FALL] MOVIE: Ninjutsu Hinotama Kozou: Edo no Maki
@@ -73332,7 +74727,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"animeplanet_id":"nintama-rantarou-no-jishin-youjin-hi-no-youjin","mal_id":28581}
 ,
 // [1997-WINTER] OVA: Nintama Rantarou no Jitensha Anzen Kyoushitsu
-{"animeplanet_id":"nintama-rantarou-no-jitensha-anzen-kyoushitsu","mal_id":39371}
+{"animeplanet_id":"nintama-rantarou-no-jitensha-anzen-kyoushitsu","anisearch_id":21436,"mal_id":39371}
 ,
 // [1995-FALL] OVA: Nintama Rantarou no Koutsuu Anzen
 {"animeplanet_id":"nintama-rantarou-no-koutsuu-anzen","mal_id":39372}
@@ -73404,13 +74799,13 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"animeplanet_id":"nippon-mukashibanashi-sannen-netarou","anisearch_id":18336,"mal_id":34193}
 ,
 // [2026-SPRING] TV: Nippon Sangoku
-{"anidb_id":19861,"anilist_id":206914,"animeplanet_id":"nippon-sangoku","anisearch_id":21198,"livechart_id":13499,"mal_id":63375}
+{"anidb_id":19861,"anilist_id":206914,"animeplanet_id":"nippon-sangoku-the-three-nations-of-the-crimson-sun","anisearch_id":21198,"livechart_id":13499,"mal_id":63375}
 ,
 // [1994-UNDEFINED] SPECIAL: Nippon Seimei CM
 {"anilist_id":151627}
 ,
 // [1970-SUMMER] TV: Nippon Tanjou
-{"anidb_id":3509,"animeplanet_id":"nihon-tanjou","anisearch_id":1997,"mal_id":22999}
+{"anidb_id":3509,"anilist_id":213370,"animeplanet_id":"nihon-tanjou","anisearch_id":1997,"mal_id":22999}
 ,
 // [1999-WINTER] TV: Nippon-ichi no Otoko no Tamashii
 {"anidb_id":3582,"anilist_id":8890,"animeplanet_id":"nippon-ichi-no-otoko-no-tamashii","anisearch_id":598,"mal_id":8890}
@@ -73477,6 +74872,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2024-FALL] SPECIAL: Nisemono
 {"mal_id":60663}
+,
+// [undefined-UNDEFINED] TV: Nisemono no Renkinjutsushi
+{"anilist_id":213316,"livechart_id":13672,"mal_id":64419}
+,
+// [undefined-UNDEFINED] TV: Nisemono no Renkinjutsushi
+{"anisearch_id":21741}
 ,
 // [2012-WINTER] TV: Nisemonogatari
 {"anidb_id":8658,"anilist_id":11597,"animeplanet_id":"nisemonogatari","anisearch_id":7306,"livechart_id":1156,"mal_id":11597}
@@ -73563,7 +74964,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":131078,"animeplanet_id":"nitian-xie-shen-2nd-season"}
 ,
 // [2026-SPRING] ONA: Nitian Xie Shen: Nian Fan
-{"anilist_id":184872,"animeplanet_id":"against-the-gods-2023-2nd-season","mal_id":61557}
+{"anidb_id":20011,"anilist_id":184872,"animeplanet_id":"against-the-gods-2023-2nd-season","mal_id":61557}
 ,
 // [undefined-UNDEFINED] ONA: Nitian Zhan Shen
 {"anilist_id":155324}
@@ -73664,6 +75065,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2009-SPRING] SPECIAL: No Shiba no Shiba
 {"mal_id":34698}
 ,
+// [2026-SPRING] SPECIAL: No Thank Cute!
+{"mal_id":64223}
+,
 // [2024-WINTER] OVA: No Waifu No Life!
 {"anisearch_id":18682,"mal_id":56778}
 ,
@@ -73699,9 +75103,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2007-SPRING] SPECIAL: Nobiro Nobiro Daisuki na Ki
 {"anidb_id":12998,"anilist_id":8724,"animeplanet_id":"nobiro-nobiro-daisuki-na-ki","anisearch_id":9326,"mal_id":8724}
-,
-// [2026-WINTER] TV: Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power
-{}
 ,
 // [2020-FALL] TV: Noblesse
 {"anidb_id":15409,"anilist_id":116005,"animeplanet_id":"noblesse","anisearch_id":15478,"livechart_id":9809,"mal_id":41345}
@@ -73772,7 +75173,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2007-WINTER] TV: Nodame Cantabile
 {"anidb_id":4691,"anilist_id":1698,"animeplanet_id":"nodame-cantabile","anisearch_id":3783,"livechart_id":3674,"mal_id":1698}
 ,
-// [2009-SUMMER] OVA: Nodame Cantabile
+// [2009-SUMMER] OVA: Nodame Cantabile (2009)
 {"anidb_id":6779}
 ,
 // [2010-WINTER] TV: Nodame Cantabile Finale
@@ -73865,6 +75266,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-WINTER] TV: Nokemono-tachi no Yoru
 {"anidb_id":17488,"anilist_id":151679,"animeplanet_id":"the-tale-of-the-outcasts","anisearch_id":17499,"livechart_id":11307,"mal_id":52274}
 ,
+// [1996-UNDEFINED] OVA: Nokosareta Meishi: Aru Zainichi Issei no Kiseki
+{"mal_id":64372}
+,
 // [2020-SUMMER] SPECIAL: Nolaehago Sip-eo
 {"animeplanet_id":"eun-sang-lee-i-just-wanna-sing","mal_id":42911}
 ,
@@ -73876,9 +75280,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1968-SUMMER] SPECIAL: Noman
 {"animeplanet_id":"norman","mal_id":52397}
-,
-// [2022-FALL] ONA: Nombiri de daijobu.
-{"mal_id":60224}
 ,
 // [2021-FALL] MOVIE: Nomino Sukune
 {"anilist_id":147013,"animeplanet_id":"nomino-sukune","mal_id":51589}
@@ -73933,12 +75334,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2022-FALL] SPECIAL: Non-Fiction
 {}
-,
-// [2018-WINTER] ONA: Non-Human
-{"anidb_id":16607}
-,
-// [2018-SUMMER] ONA: Non-Human
-{"anidb_id":13852}
 ,
 // [2024-WINTER] SPECIAL: Non-Reflection
 {"anilist_id":173549,"anisearch_id":20132,"mal_id":57869}
@@ -74291,6 +75686,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1992-SUMMER] OVA: Nozomi Witches
 {"anidb_id":2704,"anilist_id":2052,"animeplanet_id":"nozomi-witches","anisearch_id":2139,"livechart_id":6772,"mal_id":2052}
 ,
+// [2026-SUMMER] OVA: NTR Kishi
+{"anisearch_id":21765,"mal_id":64529}
+,
 // [1985-UNDEFINED] MOVIE: Nu Huo Bu Tian
 {"animeplanet_id":"nu-huo-bu-tian","mal_id":43587}
 ,
@@ -74364,7 +75762,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anisearch_id":12094,"mal_id":34492}
 ,
 // [2026-SPRING] OVA: Nuki Nuki Zupposism
-{"mal_id":63765}
+{"anisearch_id":21549,"mal_id":63765}
 ,
 // [2025-SUMMER] TV: Nukitashi the Animation
 {"anidb_id":18459,"animeplanet_id":"nukitashi-the-animation","anisearch_id":19045,"livechart_id":12517,"mal_id":57969}
@@ -74392,6 +75790,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1933-FALL] MOVIE: Numa no Taishou
 {"anidb_id":10899,"anilist_id":109365,"animeplanet_id":"numa-no-taishou","anisearch_id":10216,"mal_id":28049}
+,
+// [2026-SPRING] SPECIAL: Numb Numb feat. Hatsune Miku, Kasane Teto
+{"mal_id":64248}
 ,
 // [2020-WINTER] SPECIAL: Number Nine
 {"mal_id":62036}
@@ -74531,6 +75932,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2014-WINTER] TV: Nyanda? Full Channel
 {"anidb_id":10712,"animeplanet_id":"nyanda-full-channel","anisearch_id":10041}
 ,
+// [2024-WINTER] SPECIAL: Nyandemic!
+{"mal_id":63908}
+,
 // [2014-WINTER] TV: Nyanfuru
 {"livechart_id":8739,"mal_id":24845}
 ,
@@ -74557,6 +75961,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2024-SPRING] SPECIAL: Nyanko no Tetsugaku
 {"mal_id":59016}
+,
+// [2026-SPRING] ONA: Nyanko to Asobou! Akachan no Tame no Chiiku Douga
+{"mal_id":64514}
 ,
 // [1995-WINTER] SPECIAL: Nyankoro Komoriuta
 {"anilist_id":185846,"mal_id":59304}
@@ -74729,6 +76136,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2021-WINTER] MOVIE: Object
 {"anilist_id":148826,"animeplanet_id":"object","mal_id":56755}
 ,
+// [2022-SUMMER] SPECIAL: Oblivion
+{"mal_id":64263}
+,
 // [2027-UNDEFINED] TV: Oblivion Battery
 {}
 ,
@@ -74765,8 +76175,8 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2022-FALL] SPECIAL: Ocean Bby
 {"animeplanet_id":"mili-ocean-bby","mal_id":54068}
 ,
-// [2023-SUMMER] SPECIAL: Ocean Wave Party☆Live
-{"mal_id":56389}
+// [2023-SUMMER] SPECIAL: Ocean wave Party☆Live
+{}
 ,
 // [1993-SPRING] MOVIE: Ocean Waves
 {}
@@ -74864,7 +76274,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [undefined-UNDEFINED] TV: Odebu Akujo ni Tensei shitara, Nazeka Last Boss Oujisama ni Shuuchaku sareteimasu
 {"anidb_id":19981,"anilist_id":207782,"animeplanet_id":"the-final-boss-prince-is-somehow-obsessed-with-the-chubby-villainess-reincarnated-me","livechart_id":13522,"mal_id":63476}
 ,
-// [2026-SPRING] TV: Odekake Kozame
+// [2026-SPRING] ONA: Odekake Kozame
 {}
 ,
 // [2023-SUMMER] ONA: Odekake Kozame
@@ -74881,6 +76291,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2026-SPRING] ONA: Odekake Kozame 2nd Season
 {"mal_id":63125}
+,
+// [2025-FALL] ONA: Odekake Kozame Kurashiki-shi Collab Movie
+{"anilist_id":211271}
 ,
 // [2025-SUMMER] MOVIE: Odekake Kozame Movie: Tokai no Otomodachi
 {"anidb_id":19062,"anilist_id":177518,"animeplanet_id":"odekake-kozame-movie-tokai-no-otomodachi","anisearch_id":19999,"livechart_id":12656,"mal_id":58837}
@@ -74938,12 +76351,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2014-SUMMER] SPECIAL: Odoru Pompokolin: Animation Clip
 {"anisearch_id":9944}
-,
-// [2026-WINTER] SPECIAL: Odoru Ponpokorin (2026)
-{"mal_id":63792}
-,
-// [2026-WINTER] TV: Oedo Fire Slayer -The Legend of Phoenix-
-{}
 ,
 // [2013-SPRING] ONA: Oedo Hikeshi Zue
 {}
@@ -75020,6 +76427,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2003-UNDEFINED] SPECIAL: Oh Baby Plus
 {"animeplanet_id":"great3-oh-baby-plus","mal_id":37731}
 ,
+// [2026-SUMMER] TV: Oh Boy, Was I Wrong About Her
+{}
+,
 // [2014-FALL] SPECIAL: Oh My God
 {"mal_id":55807}
 ,
@@ -75079,6 +76489,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2006-FALL] MOVIE: Ohanashi no Hana
 {"anilist_id":121964,"animeplanet_id":"bloomed-words","anisearch_id":13338,"mal_id":39206}
+,
+// [2026-SPRING] SPECIAL: Ohanashi no Tsuzuki wa, Mata Ashita.
+{"mal_id":64197}
 ,
 // [2011-SPRING] TV: Ohayō Ninja-Tai Gatchaman
 {}
@@ -75152,7 +76565,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1995-FALL] SPECIAL: Ohirune no Yurikago
 {"anilist_id":140735,"animeplanet_id":"ohirune-no-yurikago","mal_id":43787}
 ,
-// [2024-SUMMER] MOVIE: Ohngkhrakphithakjiiap
+// [2025-SUMMER] SPECIAL: Ohitorisama
+{"anilist_id":213508,"mal_id":64470}
+,
+// [2024-SUMMER] MOVIE: Ohngkhrak Phithak Chiap
 {"anisearch_id":20787}
 ,
 // [1993-SUMMER] MOVIE: Ohoshi-sama no Rail
@@ -75178,6 +76594,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2016-FALL] OVA: Oide yo! Shiritsu Yarimakuri Gakuen
 {"anisearch_id":11705,"mal_id":33768}
+,
+// [2015-FALL] TV: Oidon to
+{"anisearch_id":21428}
 ,
 // [2015-FALL] SPECIAL: Oidon to
 {"mal_id":35698}
@@ -75330,7 +76749,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":12679,"anilist_id":169331,"mal_id":32229}
 ,
 // [1998-WINTER] OVA: Ojiichan no Tomato
-{"animeplanet_id":"ojii-chan-no-tomato","mal_id":30997}
+{"animeplanet_id":"ojii-chan-no-tomato","anisearch_id":21449,"mal_id":30997}
 ,
 // [1988-SPRING] SPECIAL: Ojiichan tte Ii na
 {"anilist_id":169333,"mal_id":55614}
@@ -75365,7 +76784,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2019-SPRING] SPECIAL: Ojisan to Sakana
 {"animeplanet_id":"dear-natura-gold-cm-oji-san-to-sakana","mal_id":42042}
 ,
-// [2026-WINTER] TV: Ojisan wa Kawaii Mono ga Osuki.
+// [2026-FALL] TV: Ojisan wa Kawaii Mono ga Osuki.
 {"anidb_id":19705,"anilist_id":202079,"animeplanet_id":"oji-san-wa-kawaii-mono-ga-osuki","anisearch_id":21007,"livechart_id":13382,"mal_id":62907}
 ,
 // [2023-FALL] TV: Ojou to Banken-kun
@@ -75452,6 +76871,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2016-WINTER] SPECIAL: Okamoto Zero One CM Kyouryuu-hen
 {"animeplanet_id":"okamoto-zero-one-dinosaur-edition","mal_id":55561}
 ,
+// [2016-UNDEFINED] ONA: Okamoto Zero One CM: Kyouryuu-hen
+{"anilist_id":213364}
+,
 // [2007-WINTER] OVA: Okane ga Nai
 {"anidb_id":4645,"animeplanet_id":"no-money","anisearch_id":3928,"mal_id":2148}
 ,
@@ -75466,6 +76888,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2023-SUMMER] TV: Okashi na Tensei
 {"anidb_id":17553,"anilist_id":153339,"animeplanet_id":"sweet-reincarnation","anisearch_id":17581,"livechart_id":11354,"mal_id":52611}
+,
+// [1970-WINTER] MOVIE: Okashi na Tsuitachi
+{"mal_id":64236}
 ,
 // [2010-WINTER] MOVIE: Okashi no Rocket de Shuppatsu!
 {"anidb_id":16340,"animeplanet_id":"okashi-no-rocket-de-shuppatsu","mal_id":54086}
@@ -75482,8 +76907,8 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1984-WINTER] TV: Okawari-Boy Starzan-S
 {"anidb_id":1778,"anilist_id":8799,"animeplanet_id":"okawari-boy-starzan-s","anisearch_id":420,"mal_id":8799}
 ,
-// [1987-UNDEFINED] MOVIE: Okazaki City in 70 Years
-{}
+// [1987-UNDEFINED] MOVIE: Okazaki no 70-nen-go
+{"mal_id":64237}
 ,
 // [2017-FALL] SPECIAL: Oki ni Mesu mama
 {"anilist_id":107176,"animeplanet_id":"eve-as-you-like-it","anisearch_id":13659,"mal_id":39165}
@@ -75578,9 +77003,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2015-UNDEFINED] MOVIE: OLD CLOCKMAN’s PARK
 {"animeplanet_id":"old-clockmans-park"}
 ,
-// [2025-SUMMER] ONA: Old Neil's Mysticism Class
-{"animeplanet_id":"old-neils-mysticism-class"}
-,
 // [2015-WINTER] MOVIE: oldman youngman
 {"anilist_id":140724,"animeplanet_id":"oldman-youngman","anisearch_id":13240}
 ,
@@ -75595,6 +77017,15 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2026-WINTER] TV: Omae wa Mada Gunma wo Shiranai: Reiwa-ban
 {"anidb_id":19821,"anilist_id":202419,"anisearch_id":21001,"livechart_id":13375,"mal_id":62864}
+,
+// [undefined-UNDEFINED] TV: Omae, Tanuki ni Naranee ka?
+{"anidb_id":20060,"anilist_id":212456,"livechart_id":13637,"mal_id":64235}
+,
+// [undefined-UNDEFINED] TV: Omae, Tanuki ni Naranee ka?
+{}
+,
+// [undefined-UNDEFINED] TV: Omae, Tanuki ni Naranee ka?
+{"anisearch_id":21571}
 ,
 // [2025-SUMMER] SPECIAL: Omajinai
 {"mal_id":58039}
@@ -75637,6 +77068,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1934-SPRING] MOVIE: Omocha Bako Series Dai 3-wa: Ehon 1936-nen
 {"anidb_id":5957,"anilist_id":6823,"animeplanet_id":"omocha-bako-series-dai-3-wa-ehon-1936-nen","anisearch_id":8770,"livechart_id":9427,"mal_id":6823}
+,
+// [1934-SPRING] MOVIE: Omocha Bako Series: Tokkyuu Kantai
+{"mal_id":64231}
 ,
 // [2011-FALL] SPECIAL: Omoi Au Christmas 2011
 {"animeplanet_id":"omoi-au-christmas-2011","mal_id":33888}
@@ -75701,9 +77135,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2022-WINTER] SPECIAL: Omoikou
 {"anilist_id":144251,"anisearch_id":17695,"mal_id":50931}
 ,
-// [2022-SPRING] SPECIAL: Omoiyari Jokin
-{"mal_id":59340}
-,
 // [2007-WINTER] MOVIE: Omukaisan
 {"anilist_id":116250,"animeplanet_id":"face-to-face","mal_id":41796}
 ,
@@ -75761,10 +77192,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2021-FALL] OVA: Onaho Kyoushitsu: Joshi Zenin Ninshin Keikaku - The Animation
 {"anisearch_id":16517,"mal_id":49524}
 ,
-// [undefined-UNDEFINED] TV: Onaji Semi no Someya-san ga Sexy Joyū datta Hanashi.
-{}
+// [2026-SPRING] TV: Onaji Semi no Someya-san ga Sexy Joyuu datta Hanashi.
+{"anisearch_id":21548}
 ,
-// [2026-UNDEFINED] TV: Onaji Semi no Someya-san ga Sexy Joyuu datta Hanashi.
+// [2026-SUMMER] ONA: Onaji Semi no Someya-san ga Sexy Joyuu datta Hanashi.
 {"mal_id":63619}
 ,
 // [2024-SUMMER] ONA: Onaka ga Guuguu Island
@@ -75790,12 +77221,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1955-FALL] MOVIE: Onbu Obake
 {"anidb_id":6868,"anilist_id":7531,"animeplanet_id":"onbu-obake","anisearch_id":5969,"mal_id":7531}
-,
-// [1970-WINTER] MOVIE: Once Upon A Time
-{}
-,
-// [2025-SPRING] TV: Once Upon a Witch's Death
-{}
 ,
 // [2020-SPRING] SPECIAL: One
 {"mal_id":56042}
@@ -76175,9 +77600,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2020-FALL] TV: One Room: Third Season
 {"anidb_id":15411,"anilist_id":116147,"animeplanet_id":"one-room-3rd-season","anisearch_id":15029,"livechart_id":9813,"mal_id":41364}
 ,
-// [2023-SUMMER] SPECIAL: One Same Goal
-{"mal_id":57259}
-,
 // [2018-UNDEFINED] ONA: One Small Step
 {"animeplanet_id":"one-small-step"}
 ,
@@ -76223,11 +77645,20 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2026-WINTER] ONA: Oneechan Gokko
 {"anidb_id":19871,"anilist_id":207084,"livechart_id":13487,"mal_id":63396}
 ,
-// [2026-SPRING] TV: Onegai AiPri
-{"anidb_id":19850,"anilist_id":206523,"animeplanet_id":"onegai-aipri","anisearch_id":21193,"mal_id":63352}
+// [2026-SPRING] SPECIAL: Oneesama♡Love Call
+{"mal_id":64276}
 ,
-// [2026-SPRING] TV: Onegai AIPRI
-{"livechart_id":13492}
+// [2026-SPRING] TV: Onegai AiPri
+{}
+,
+// [2026-SPRING] TV: Onegai AiPri
+{"animeplanet_id":"onegai-aipri"}
+,
+// [2026-SPRING] TV: Onegai AiPri
+{}
+,
+// [2026-SPRING] TV: Onegai AiPri
+{"anidb_id":19850,"anilist_id":206523,"anisearch_id":21193,"livechart_id":13492,"mal_id":63352}
 ,
 // [2005-SPRING] TV: Onegai My Melody
 {"anidb_id":2966,"anilist_id":2489,"animeplanet_id":"onegai-no-melody","anisearch_id":3247,"livechart_id":7654,"mal_id":2489}
@@ -76286,9 +77717,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2002-WINTER] TV: Onegai☆Teacher
 {"anidb_id":16,"anilist_id":195,"animeplanet_id":"please-teacher","anisearch_id":3285,"livechart_id":3925,"mal_id":195}
 ,
-// [2002-FALL] OVA: Onegai☆Teacher Music Collection
-{"mal_id":56049}
-,
 // [2026-UNDEFINED] OVA: Onegai☆Teacher Shinsaku Animation (Provisional Title)
 {"anilist_id":203368}
 ,
@@ -76300,6 +77728,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2002-FALL] SPECIAL: Onegai☆Teacher: Marie, Ai no Gekijou
 {"anilist_id":7474,"animeplanet_id":"please-teacher-marie-love-theater","livechart_id":7240,"mal_id":7474}
+,
+// [2002-FALL] SPECIAL: Onegai☆Teacher: Music Collection
+{}
 ,
 // [2003-WINTER] OVA: Onegai☆Teacher: Reminiscence Disc
 {"anilist_id":14685,"animeplanet_id":"please-teacher-reminiscence","anisearch_id":7999,"livechart_id":8754,"mal_id":14685}
@@ -76508,11 +77939,8 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1990-SPRING] OVA: Onimaru: Senjou ni Kakeru Itsutsu no Seishun
 {"anidb_id":5260,"anilist_id":177069,"animeplanet_id":"onimaru-senjou-ni-kakeru-itsutsu-no-seishun","anisearch_id":4323,"mal_id":23819}
 ,
-// [2025-UNDEFINED] ONA: Onimomomomo
-{"anilist_id":194835}
-,
 // [2025-SPRING] ONA: Onimomomomo
-{"animeplanet_id":"oni-mo-momo-mo","livechart_id":13208,"mal_id":61891}
+{"anilist_id":194835,"animeplanet_id":"oni-mo-momo-mo","livechart_id":13208,"mal_id":61891}
 ,
 // [2023-FALL] ONA: Onimusha
 {"anidb_id":17642,"anilist_id":155015,"animeplanet_id":"onimusha","anisearch_id":17747,"livechart_id":11526,"mal_id":53150}
@@ -76769,11 +78197,8 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2014-WINTER] MOVIE: Ookii 1-nensei to Chiisana 2-nensei
 {"anidb_id":10200,"anilist_id":20504,"animeplanet_id":"a-big-first-year-student-and-a-small-second-year-student","anisearch_id":9229,"livechart_id":328,"mal_id":20907}
 ,
-// [2026-SPRING] TV: Ookii Onnanoko wa Suki desu ka?
-{"livechart_id":13433}
-,
 // [2026-SPRING] ONA: Ookii Onnanoko wa Suki desu ka?
-{"anisearch_id":21108,"mal_id":63248}
+{"anisearch_id":21108,"livechart_id":13433,"mal_id":63248}
 ,
 // [2007-SPRING] TV: Ookiku Furikabutte
 {"anidb_id":4923,"anilist_id":2159,"animeplanet_id":"big-windup","anisearch_id":4029,"livechart_id":5005,"mal_id":2159}
@@ -76966,6 +78391,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2024-WINTER] TV: Ore dake Level Up na Ken
 {"anidb_id":17495,"anilist_id":151807,"animeplanet_id":"solo-leveling","anisearch_id":17496,"livechart_id":11320,"mal_id":52299}
+,
+// [undefined-UNDEFINED] MOVIE: Ore dake Level Up na Ken -Beyond the System-
+{"anilist_id":213846,"mal_id":64545}
 ,
 // [2025-WINTER] TV: Ore dake Level Up na Ken Season 2: Arise from the Shadow
 {"anidb_id":18576,"anilist_id":176496,"animeplanet_id":"solo-leveling-season-2-arise-from-the-shadow","anisearch_id":19152,"livechart_id":12618,"mal_id":58567}
@@ -77237,7 +78665,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1999-SUMMER] TV: Oruchuban Ebichu
 {"anidb_id":150,"animeplanet_id":"ebichu","anisearch_id":1148,"livechart_id":5712,"mal_id":1060}
 ,
-// [2012-UNDEFINED] SPECIAL: Orushipe Suopu
+// [2012-UNDEFINED] MOVIE: Oruspe Suwop
 {"animeplanet_id":"orushipe-suopu","mal_id":39091}
 ,
 // [2013-UNDEFINED] ONA: Osaka Sahanji
@@ -77259,7 +78687,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":102514,"animeplanet_id":"osamishi-tani-no-wakare-uta","anisearch_id":10306,"mal_id":30065}
 ,
 // [2006-SPRING] SPECIAL: Osampo
-{"anilist_id":169891,"animeplanet_id":"osampo","mal_id":43551}
+{"anilist_id":169891,"animeplanet_id":"osampo","anisearch_id":21391,"mal_id":43551}
 ,
 // [1999-FALL] SPECIAL: Osamu Tezuka Academy Award
 {"animeplanet_id":"tezuka-osamu-academy-taishou","mal_id":48853}
@@ -77302,6 +78730,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1943-WINTER] MOVIE: Osaru Sankichi: Funsenki
 {"anidb_id":6901,"anisearch_id":7045}
+,
+// [1943-SUMMER] MOVIE: Osaru Sankichi: Tatakau Sensuikan
+{"mal_id":64200}
 ,
 // [1943-SUMMER] MOVIE: Osaru Sankichi: Tatakau Sensuikan
 {"anidb_id":6899,"anisearch_id":7078}
@@ -77398,6 +78829,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2011-FALL] OVA: Oshioki: Gakuen Reijou Kousei Keikaku
 {"anisearch_id":7433,"mal_id":11749}
+,
+// [2026-SPRING] TV: Oshiri Dandy the Young
+{}
 ,
 // [2026-SPRING] TV: Oshiri Dandy the Young
 {"anilist_id":201910,"anisearch_id":21158}
@@ -77499,7 +78933,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":17054,"animeplanet_id":"eiga-oshiri-tantei-yume-no-jumbo-sweet-potato-matsuri","anisearch_id":17143,"mal_id":61313}
 ,
 // [2018-SPRING] ONA: Oshirimae Man
-{"animeplanet_id":"oshiri-mae-man","mal_id":42208}
+{"anilist_id":213636,"animeplanet_id":"oshiri-mae-man","anisearch_id":21429,"mal_id":42208}
 ,
 // [2026-WINTER] MOVIE: Oshirimae Man: Fukkatsu no Oshirimae Teikoku
 {"anilist_id":206857,"anisearch_id":21261,"mal_id":62690}
@@ -77555,11 +78989,17 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2020-FALL] SPECIAL: Osomatsu-san 3rd Season Specials
 {"mal_id":44409}
 ,
+// [2025-FALL] TV: Osomatsu-san 4: Sou, Shuu, Hen
+{"anisearch_id":21601}
+,
 // [2025-SUMMER] TV: Osomatsu-san 4th Season
 {"anidb_id":18673,"anilist_id":177880,"animeplanet_id":"mr-osomatsu-4th-season","anisearch_id":19335,"livechart_id":12686,"mal_id":58996}
 ,
 // [2025-FALL] SPECIAL: Osomatsu-san 4th Season: Sou, Shuu, Hen
 {"mal_id":62603}
+,
+// [2026-SPRING] SPECIAL: Osomatsu-san 4th Season: The Matsuno Ten
+{"livechart_id":13666,"mal_id":64381}
 ,
 // [2019-WINTER] MOVIE: Osomatsu-san Movie
 {"anidb_id":14293,"anilist_id":104213,"animeplanet_id":"osomatsu-san-the-movie","anisearch_id":13841,"livechart_id":3468,"mal_id":38201}
@@ -77581,6 +79021,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2018-WINTER] SPECIAL: Osomatsu-san Short Film Series 2nd Season
 {"anilist_id":145985,"animeplanet_id":"osomatsu-san-2nd-season-short-film-series","livechart_id":8800,"mal_id":36761}
+,
+// [2018-WINTER] TV: Osomatsu-san Short Film Series Dai 2 Ki
+{"anisearch_id":21604}
 ,
 // [2016-WINTER] SPECIAL: Osomatsu-san Special
 {"anilist_id":21510,"animeplanet_id":"mr-osomatsu-virgin-hero","anisearch_id":11389,"livechart_id":1917,"mal_id":32026}
@@ -77698,6 +79141,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: Otaku ni Yasashii Gal wa Inai!?
 {"anidb_id":19628,"anilist_id":199588,"animeplanet_id":"gals-cant-be-kind-to-otaku","anisearch_id":20953,"livechart_id":13347,"mal_id":62604}
+,
+// [2026-SPRING] ONA: Otaku no Boku ga Ichigun Gal to Tsukiaerumade no Hanashi
+{"anisearch_id":21541,"mal_id":64128}
 ,
 // [1994-FALL] OVA: Otaku no Seiza
 {"anidb_id":3533,"anilist_id":7915,"animeplanet_id":"otaku-no-seiza","anisearch_id":226,"livechart_id":11671,"mal_id":7915}
@@ -77828,6 +79274,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2011-WINTER] OVA: Otoko no Ko Ojō-sama
 {}
 ,
+// [undefined-UNDEFINED] MOVIE: Otoko to Christmas Tree
+{"mal_id":64187}
+,
 // [1964-WINTER] MOVIE: Otoko to Onna to Inu
 {"anidb_id":14351,"anilist_id":104176,"animeplanet_id":"otoko-to-onna-to-inu","anisearch_id":6800,"mal_id":29635}
 ,
@@ -77876,7 +79325,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2022-SPRING] TV: Otome Game Sekai wa Mob ni Kibishii Sekai desu
 {"anidb_id":17005,"anilist_id":142074,"animeplanet_id":"trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs","anisearch_id":16820,"livechart_id":10906,"mal_id":50461}
 ,
-// [2026-WINTER] TV: Otome Game Sekai wa Mob ni Kibishii Sekai desu 2
+// [2026-SUMMER] TV: Otome Game Sekai wa Mob ni Kibishii Sekai desu 2
 {"anidb_id":17796,"anilist_id":159309,"animeplanet_id":"trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs-2nd-season","anisearch_id":17984,"livechart_id":11761,"mal_id":54000}
 ,
 // [2014-FALL] OVA: Otome Hime
@@ -77995,6 +79444,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1999-FALL] SPECIAL: Otousan
 {"anilist_id":169465,"animeplanet_id":"otou-san","mal_id":53778}
+,
+// [2023-UNDEFINED] OVA: Otousan e no Senbazuru
+{"anisearch_id":21471}
 ,
 // [2004-UNDEFINED] OVA: Otousan no Kutsu
 {"anilist_id":133912,"animeplanet_id":"otousan-no-kutsu"}
@@ -78129,10 +79581,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {}
 ,
 // [undefined-UNDEFINED] UNKNOWN: Ousama no Proposal
-{"anidb_id":19679,"anilist_id":201140,"anisearch_id":20999}
+{"anidb_id":19679,"anisearch_id":20999}
 ,
 // [undefined-UNDEFINED] UNKNOWN: Ousama no Propose
-{"livechart_id":13373,"mal_id":62857}
+{"anilist_id":201140,"livechart_id":13373,"mal_id":62857}
 ,
 // [1949-FALL] MOVIE: Ousama no Shippo
 {"anidb_id":6880,"anilist_id":7526,"animeplanet_id":"ousama-no-shippo","anisearch_id":5963,"mal_id":7526}
@@ -78194,6 +79646,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1986-FALL] OVA: Outlanders
 {"anidb_id":748,"anilist_id":1940,"animeplanet_id":"outlanders","anisearch_id":2308,"livechart_id":8798,"mal_id":1940}
 ,
+// [2026-SPRING] ONA: Outpost: Off-Duty Tales
+{}
+,
 // [2021-WINTER] SPECIAL: Outro: Cross the Line
 {"mal_id":57352}
 ,
@@ -78202,6 +79657,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2024-SPRING] OVA: OVA Boku ni Harem Sexfriend ga Dekita Riyuu
 {"anisearch_id":19248}
+,
+// [2026-SPRING] OVA: OVA Furachi
+{"anisearch_id":21551}
+,
+// [2026-SPRING] OVA: OVA Heart Mark Oome.
+{"anisearch_id":21363}
 ,
 // [2025-FALL] OVA: OVA Kegareboshi
 {"anisearch_id":21081}
@@ -78212,8 +79673,17 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-FALL] OVA: OVA Oshikake! Bakunyuu Gal Harem Seikatsu
 {"anisearch_id":21056}
 ,
+// [2026-SPRING] OVA: OVA Paihame Kazoku
+{"anisearch_id":21552}
+,
+// [2025-SUMMER] OVA: OVA Pure Pure Pero Pero Princess
+{"anisearch_id":20693}
+,
 // [2025-SUMMER] OVA: OVA Sister Breeder
 {"anisearch_id":20918}
+,
+// [2015-SUMMER] OVA: OVA Tokyo Ghoul
+{"anidb_id":11268}
 ,
 // [2025-SPRING] OVA: OVA Tonari no Kanojo
 {"anisearch_id":20769}
@@ -78250,6 +79720,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2024-WINTER] SPECIAL: Overkill
 {"mal_id":58310}
+,
+// [2026-SPRING] SPECIAL: Overlay
+{"mal_id":64005}
 ,
 // [2015-SUMMER] TV: Overlord
 {"anidb_id":10816,"anilist_id":20832,"animeplanet_id":"overlord","anisearch_id":9855,"livechart_id":784,"mal_id":29803}
@@ -78320,7 +79793,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-FALL] ONA: Overtake! Extra
 {"anilist_id":170507,"livechart_id":12354}
 ,
-// [2024-UNDEFINED] SPECIAL: Overtake! Extra Special Edition
+// [2024-UNDEFINED] SPECIAL: Overtake! Extra Tokubetsu-hen
 {"anilist_id":183797}
 ,
 // [2023-SUMMER] ONA: Overwatch 2: Genesis
@@ -78653,8 +80126,17 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2017-SUMMER] TV: Pan Hu Chuanqi
 {"mal_id":47349}
 ,
+// [2026-SUMMER] TV: Pan no Akachan
+{"anidb_id":20054,"livechart_id":13632}
+,
 // [2024-FALL] MOVIE: Pan no Akachan
 {"anilist_id":206844,"animeplanet_id":"pan-no-akachan","anisearch_id":19926,"mal_id":61462}
+,
+// [2026-SUMMER] TV: Pan no Akachan (TV)
+{"anilist_id":212308,"mal_id":64210}
+,
+// [2025-WINTER] ONA: Pan no Akachan (Web)
+{"livechart_id":13633}
 ,
 // [1969-FALL] SPECIAL: Pan no March
 {"anilist_id":140235,"animeplanet_id":"pan-no-march","mal_id":47913}
@@ -78782,8 +80264,11 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2007-WINTER] ONA: Pankunchi
 {"anidb_id":8129,"anilist_id":5260,"animeplanet_id":"pankunchi","anisearch_id":6665,"mal_id":5260}
 ,
-// [undefined-UNDEFINED] ONA: Panlong
+// [2026-SPRING] ONA: Panlong
 {"anilist_id":153466,"animeplanet_id":"panlong","anisearch_id":17614}
+,
+// [2026-SPRING] ONA: Panlong
+{"anidb_id":20041,"mal_id":63967}
 ,
 // [2013-UNDEFINED] MOVIE: Panorama
 {"animeplanet_id":"panorama"}
@@ -78971,6 +80456,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2013-WINTER] SPECIAL: Paper Moon
 {"animeplanet_id":"meotome-paper-moon","mal_id":35732}
 ,
+// [2026-SPRING] SPECIAL: Paper Plane
+{"mal_id":63977}
+,
 // [2011-SUMMER] ONA: Paperman
 {"anidb_id":8580,"animeplanet_id":"paperman","anisearch_id":7250,"mal_id":35527}
 ,
@@ -79030,6 +80518,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2023-FALL] TV: Paradox Live The Animation
 {}
+,
+// [undefined-UNDEFINED] MOVIE: Paradox Live The Animation
+{}
+,
+// [undefined-UNDEFINED] MOVIE: Paradox Live the Animation Movie
+{"anilist_id":212812,"mal_id":64317}
 ,
 // [2023-FALL] ONA: Paradox Live the Animation Recap
 {"animeplanet_id":"paradox-live-the-animation-recap"}
@@ -79385,6 +80879,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2019-UNDEFINED] MOVIE: Pen & Magic
 {"animeplanet_id":"pen-and-magic","mal_id":53842}
 ,
+// [undefined-UNDEFINED] TV: Pen to Wappa to Jijitsu Kon
+{"anisearch_id":21486}
+,
+// [undefined-UNDEFINED] TV: Pen to Wappa to Jijitsukon
+{"anidb_id":20018,"anilist_id":211070,"livechart_id":13605,"mal_id":63970}
+,
 // [1997-SUMMER] OVA: Pendant
 {"anisearch_id":146,"mal_id":4822}
 ,
@@ -79472,11 +80972,11 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2008-FALL] OVA: Perestroika
 {"anidb_id":7192,"animeplanet_id":"perestroika","anisearch_id":5886,"mal_id":35270}
 ,
-// [undefined-UNDEFINED] TV: Perfect Addiction
-{}
-,
-// [undefined-UNDEFINED] UNKNOWN: Perfect Addiction
+// [2026-SUMMER] TV: Perfect Addiction
 {"anisearch_id":21285,"livechart_id":13528,"mal_id":63514}
+,
+// [2026-SUMMER] ONA: Perfect Addiction
+{"anilist_id":213666}
 ,
 // [1998-WINTER] MOVIE: Perfect Blue
 {"anidb_id":154,"anilist_id":437,"animeplanet_id":"perfect-blue","anisearch_id":1192,"livechart_id":3399,"mal_id":437}
@@ -79676,6 +81176,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2016-UNDEFINED] SPECIAL: Petal
 {"animeplanet_id":"petal"}
 ,
+// [2026-SPRING] SPECIAL: Petals
+{"anilist_id":210823,"anisearch_id":21483,"mal_id":63946}
+,
 // [2026-SPRING] TV: Petals of Reincarnation
 {}
 ,
@@ -79817,6 +81320,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-WINTER] SPECIAL: Phase Connect Nihon Jouriku!! Phase KALEiDO Debut!
 {"mal_id":58211}
 ,
+// [2026-SPRING] SPECIAL: PHD
+{"mal_id":64471}
+,
 // [2011-FALL] TV: Phi Brain: Kami no Puzzle
 {"anidb_id":8131,"anilist_id":9981,"animeplanet_id":"phi-brain-puzzle-of-god","anisearch_id":6667,"livechart_id":1200,"mal_id":9981}
 ,
@@ -79830,7 +81336,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":132658,"animeplanet_id":"millennium-parade-philip","anisearch_id":16240,"mal_id":45053}
 ,
 // [2010-FALL] OVA: Phonics Eigo
-{"mal_id":63635}
+{"anilist_id":213433,"mal_id":63635}
 ,
 // [2022-UNDEFINED] SPECIAL: PHONO TONES: A walk with the colors
 {"animeplanet_id":"phono-tones-a-walk-with-the-colors"}
@@ -79908,7 +81414,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":14193,"anilist_id":103049,"animeplanet_id":"forest-of-piano-2nd-season","anisearch_id":13724,"livechart_id":3372,"mal_id":37975}
 ,
 // [2003-WINTER] SPECIAL: Piano: The Melody of a Young Girl's Heart Specials
-{"anilist_id":107627,"animeplanet_id":"piano-the-melody-of-a-young-girls-heart-specials"}
+{"animeplanet_id":"piano-the-melody-of-a-young-girls-heart-specials"}
 ,
 // [2020-WINTER] ONA: Pianoman
 {"anidb_id":15469,"anilist_id":116978,"animeplanet_id":"pianoman","anisearch_id":14970,"mal_id":41217}
@@ -79926,7 +81432,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"mal_id":45223}
 ,
 // [2025-SUMMER] ONA: Piaomiao Jian Xian Zhuan
-{"anidb_id":19525,"anilist_id":206256,"animeplanet_id":"piaomiao-jian-xian-chuan","mal_id":62167}
+{"anidb_id":19525,"anilist_id":206256,"animeplanet_id":"piaomiao-jian-xian-chuan","anisearch_id":21611,"mal_id":62167}
 ,
 // [2016-WINTER] TV: Piaoyi Dao: Tiankong Lixian Ji
 {"mal_id":47293}
@@ -79959,7 +81465,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"animeplanet_id":"pick-me-up-pilot","mal_id":53341}
 ,
 // [2025-FALL] SPECIAL: Pickles
-{"mal_id":63109}
+{"anisearch_id":21554,"mal_id":63109}
 ,
 // [1990-SPRING] SPECIAL: Picnic
 {"anilist_id":148477,"mal_id":55950}
@@ -79980,6 +81486,15 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":11456,"anilist_id":98567,"animeplanet_id":"picotopia","anisearch_id":11018,"mal_id":21607}
 ,
 // [1966-FALL] MOVIE: Pictures at an Exhibition
+{}
+,
+// [2026-SPRING] ONA: Pie no Mi: Oshi no Mori e Yokoso!
+{"anisearch_id":21588,"livechart_id":13652}
+,
+// [2026-SPRING] ONA: Pie no Mi: Oshi no Mori e Youkoso!
+{"anilist_id":213427,"mal_id":64325}
+,
+// [2026-SPRING] ONA: Pie no Mi: Oshi no Mori he Yōkoso
 {}
 ,
 // [2009-WINTER] SPECIAL: Piece
@@ -80006,8 +81521,8 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-SUMMER] ONA: Pihotek
 {"anilist_id":180847,"animeplanet_id":"pihotek","mal_id":59754}
 ,
-// [2024-SUMMER] ONA: Pihotek: Walking With the Wind in the North Pole
-{}
+// [2024-SUMMER] ONA: Pihotek: Hokkyoku o Kaze to Aruku
+{"anisearch_id":21723}
 ,
 // [2017-WINTER] ONA: Piipo-kun Animation
 {"anisearch_id":12984}
@@ -80044,6 +81559,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2022-WINTER] ONA: Pikachu, Pochama to Fushigi na Nendo!?
 {"animeplanet_id":"pikachu-piplup-and-the-playful-clay","mal_id":51885}
+,
+// [2014-SUMMER] MOVIE: Pikachu, What's This Key For?
+{}
 ,
 // [2015-SPRING] TV: Pikaia!
 {"anidb_id":11149,"anilist_id":98223,"animeplanet_id":"pikaia","anisearch_id":10403,"livechart_id":1461,"mal_id":30386}
@@ -80307,7 +81825,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"mal_id":58959}
 ,
 // [2024-FALL] MOVIE: Pipilu He Lu Xixi: 309 Anshi
-{"mal_id":60454}
+{"anisearch_id":21661,"mal_id":60454}
 ,
 // [2022-UNDEFINED] ONA: Pipilu He Luxixi Diqiu Zhi Zhong Qiyu Ji
 {"animeplanet_id":"pipilu-he-luxixi-diqiu-zhi-zhong-qiyu-ji"}
@@ -80385,7 +81903,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":3991,"anilist_id":1748,"animeplanet_id":"leave-it-to-piyoko","anisearch_id":3197,"mal_id":1748}
 ,
 // [2002-FALL] MOVIE: Piyopiyo Baba
-{}
+{"anilist_id":211260}
 ,
 // [2017-WINTER] SPECIAL: Pizza
 {"animeplanet_id":"oohyo-pizza","mal_id":52567}
@@ -80507,6 +82025,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1983-SUMMER] TV: Plawres Sanshirou
 {"anidb_id":3324,"anilist_id":1873,"animeplanet_id":"plawres-sanshiro","anisearch_id":465,"livechart_id":8792,"mal_id":1873}
 ,
+// [2012-WINTER] SPECIAL: Play
+{"mal_id":64412}
+,
 // [2020-SUMMER] SPECIAL: Play "Tag"
 {"animeplanet_id":"2wink-play-tag","mal_id":48560}
 ,
@@ -80568,9 +82089,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anisearch_id":7627,"mal_id":12997}
 ,
 // [2020-SPRING] ONA: Please don't stop
-{}
-,
-// [2025-SPRING] TV: Please Put Them On, Takamine-san!
 {}
 ,
 // [2011-SPRING] SPECIAL: Please Repeat After Me
@@ -80664,9 +82182,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"animeplanet_id":"pochama-sweets","mal_id":51018}
 ,
 // [2024-FALL] TV: Pochars
-{}
-,
-// [2024-FALL] TV: Pochars
 {"anidb_id":18912,"anilist_id":182772,"animeplanet_id":"pochars","anisearch_id":19653,"livechart_id":12821,"mal_id":59732}
 ,
 // [2016-FALL] MOVIE: Pochi Hana
@@ -80687,7 +82202,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2013-FALL] SPECIAL: Pocket Monsters Best Wishes! Season 2: Decolora Adventure Specials
 {"anilist_id":20570}
 ,
-// [2017-SUMMER] TV: Pocket Monsters Sun & Moon Planetarium
+// [2017-SUMMER] SPECIAL: Pocket Monsters Sun & Moon Planetarium
 {"anidb_id":13432,"anisearch_id":13078}
 ,
 // [2016-FALL] TV: Pocket Monsters XY & Z: Saikyou no Futari! Citron to Dent!!
@@ -80714,7 +82229,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [undefined-UNDEFINED] MOVIE: Pogyuu!
 {"animeplanet_id":"pogyuu"}
 ,
-// [2025-SUMMER] SPECIAL: POI POI POI
+// [2025-SUMMER] SPECIAL: Poi Poi Poi
 {"mal_id":62424}
 ,
 // [2021-SUMMER] ONA: Poka Poka Magmag House
@@ -81044,7 +82559,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2017-SUMMER] MOVIE: Pokemon Sun & Moon Planetarium
 {"animeplanet_id":"pokemon-sun-and-moon-planetarium","mal_id":42139}
 ,
-// [undefined-UNDEFINED] ONA: Pokémon Tales: The Misadventures of Sirfetch’d & Pichu
+// [2027-WINTER] ONA: Pokémon Tales: The Misadventures of Sirfetch’d & Pichu
 {}
 ,
 // [2027-UNDEFINED] TV: Pokémon Tales: The Misadventures of Sirfetch'd and Pichu
@@ -81296,9 +82811,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2013-FALL] SPECIAL: Polaris
 {"anilist_id":140864,"animeplanet_id":"aimer-polaris","mal_id":42435}
 ,
-// [2022-FALL] SPECIAL: Polaris
-{"mal_id":55212}
-,
 // [2023-FALL] MOVIE: Pole Princess!!
 {}
 ,
@@ -81318,13 +82830,16 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":161927}
 ,
 // [2011-FALL] TV: Poli wa Hamkkehaneun Gyotonganjeon Iyagi
-{"mal_id":56363}
+{"anisearch_id":21519,"mal_id":56363}
 ,
 // [2022-WINTER] TV: Police in a Pod
 {}
 ,
 // [2026-WINTER] ONA: Police Men
 {"anisearch_id":21353}
+,
+// [2013-WINTER] TV: Poliwa Hamkkehaneun Gyotonganjeon Iyagi (2013)
+{"anisearch_id":21517}
 ,
 // [2018-WINTER] SPECIAL: Polka Dot
 {"animeplanet_id":"irodorimidori-polka-dot","anisearch_id":14499,"mal_id":37413}
@@ -81334,6 +82849,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2023-UNDEFINED] SPECIAL: POLKADOT STINGRAY: Ghost Dive
 {"animeplanet_id":"polkadot-stingray-ghost-dive"}
+,
+// [2026-SPRING] SPECIAL: Poltergeist
+{"mal_id":64488}
 ,
 // [2001-FALL] OVA: Pom Pom Purin no Kitakaze to Taiyou
 {"anidb_id":7853,"animeplanet_id":"pom-pom-purin-in-the-north-wind-and-the-sun","anisearch_id":15709,"mal_id":22577}
@@ -81347,6 +82865,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-WINTER] TV: Pon no Michi
 {"anidb_id":18043,"anilist_id":165314,"animeplanet_id":"pon-no-michi","anisearch_id":18422,"livechart_id":12062,"mal_id":55397}
 ,
+// [2018-UNDEFINED] MOVIE: Pon-chan no 1-nichi
+{"anilist_id":213103}
+,
 // [2018-UNDEFINED] MOVIE: Pon-chan no Ichinichi
 {"animeplanet_id":"pon-chan-no-ichinichi","mal_id":55759}
 ,
@@ -81357,10 +82878,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"animeplanet_id":"ponkaman-no-animation-no-dekiru-made","mal_id":35273}
 ,
 // [2026-SPRING] TV: Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi
-{"anidb_id":19277,"anilist_id":189987,"animeplanet_id":"ponkotsu-fuukiin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi","livechart_id":13134,"mal_id":61425}
-,
-// [2026-SPRING] TV: Ponkotsu Fuukiin to Skirt Take ga Futekisetsu na JK no Hanashi
-{"anisearch_id":21190}
+{"anidb_id":19277,"anilist_id":189987,"animeplanet_id":"the-klutzy-class-monitor-and-the-girl-with-the-short-skirt","anisearch_id":21190,"livechart_id":13134,"mal_id":61425}
 ,
 // [2014-WINTER] ONA: Ponkotsu Quest Specials
 {"mal_id":34845}
@@ -81474,13 +82992,16 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":173254,"animeplanet_id":"pop-junkie"}
 ,
 // [2026-FALL] TV: Pop Pap Polters
-{"livechart_id":13537}
+{"livechart_id":13537,"mal_id":64211}
 ,
 // [2024-WINTER] ONA: Pop Pop City
 {"anidb_id":18510,"anilist_id":185889,"animeplanet_id":"pop-pop-city","anisearch_id":19185,"livechart_id":12296,"mal_id":58318}
 ,
 // [2020-WINTER] MOVIE: POP UP TO YOU
 {"anilist_id":140378,"animeplanet_id":"pop-up-to-you"}
+,
+// [2026-SPRING] SPECIAL: Pop-Snack-Junk na Hunny
+{"mal_id":64057}
 ,
 // [2018-FALL] SPECIAL: POP/STARS
 {}
@@ -81505,9 +83026,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2026-WINTER] SPECIAL: Popin no Zundoko-bushi
 {"mal_id":63461}
-,
-// [2009-WINTER] SPECIAL: Popipo
-{"mal_id":57618}
 ,
 // [2023-FALL] SPECIAL: Popipo (Momosuzu Nene Cover)
 {"mal_id":57228}
@@ -81860,6 +83378,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2017-SPRING] TV: Pporongpporong Ppororo New 1
 {"anisearch_id":17301}
 ,
+// [2025-FALL] MOVIE: Ppororo Geukjangpan: The Sweet Castle Daemoheom
+{"anisearch_id":21515}
+,
 // [2022-SUMMER] MOVIE: Ppukkaui Jjajangmyeon Party
 {"anisearch_id":17870}
 ,
@@ -81874,6 +83395,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2009-UNDEFINED] MOVIE: Practice for Henteko
 {"mal_id":60556}
+,
+// [2026-WINTER] SPECIAL: Prank!
+{"anisearch_id":21423}
 ,
 // [2007-FALL] MOVIE: Prawat Phra Phutthachao
 {"anisearch_id":14595}
@@ -81952,6 +83476,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2018-WINTER] MOVIE: Precure Super Stars! Movie
 {"anidb_id":13688,"anilist_id":101101,"animeplanet_id":"pretty-cure-movie-super-stars","anisearch_id":13189,"livechart_id":3043,"mal_id":36995}
+,
+// [2025-SPRING] SPECIAL: Predator
+{"mal_id":64123}
 ,
 // [1986-WINTER] OVA: Prefectural Earth Defense Force
 {}
@@ -82050,16 +83577,13 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"animeplanet_id":"kano-prima-stella","mal_id":50318}
 ,
 // [2026-WINTER] SPECIAL: Primadonna
-{"anilist_id":209662,"mal_id":63781}
+{"anilist_id":209662,"anisearch_id":21371,"mal_id":63781}
 ,
 // [2019-FALL] TV: Primal
 {}
 ,
 // [2022-SUMMER] TV: Primal Season 2
 {}
-,
-// [2023-SPRING] SPECIAL: Primary Shinkaron
-{"mal_id":57256}
 ,
 // [1985-UNDEFINED] MOVIE: Prime Time
 {"animeplanet_id":"prime-time","mal_id":60814}
@@ -82089,13 +83613,16 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"animeplanet_id":"princess-aya","anisearch_id":15150,"mal_id":42235}
 ,
 // [2025-SPRING] OVA: Princess Burst!
-{"anisearch_id":20352,"mal_id":61539}
+{"mal_id":61539}
+,
+// [2025-SPRING] OVA: Princess Burst!
+{"anisearch_id":20352}
 ,
 // [2024-SUMMER] SPECIAL: Princess Carry
 {}
 ,
 // [2025-FALL] TV: Princess Catch! Tiniping
-{"anilist_id":199603,"mal_id":62654}
+{"anidb_id":20137,"anilist_id":199603,"mal_id":62654}
 ,
 // [2015-WINTER] ONA: Princess Connect!
 {"anisearch_id":15575,"mal_id":34455}
@@ -82328,9 +83855,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1995-SUMMER] SPECIAL: Private Eye Dol
 {"anidb_id":8458,"anilist_id":126890,"animeplanet_id":"private-eye-dol","anisearch_id":7168,"mal_id":25983}
 ,
-// [2025-SPRING] TV: Private Tutor to the Duke's Daughter
-{}
-,
 // [1985-SPRING] TV: Pro Golfer Saru
 {}
 ,
@@ -82397,12 +83921,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2018-WINTER] ONA: Project LUX
 {}
 ,
-// [undefined-UNDEFINED] TV: Project M
-{}
-,
-// [undefined-UNDEFINED] SPECIAL: Project M
-{"anidb_id":19431,"anilist_id":195436,"animeplanet_id":"project-m","livechart_id":13220,"mal_id":61966}
-,
 // [undefined-UNDEFINED] TV: Project OneLeaf
 {}
 ,
@@ -82417,6 +83935,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2025-WINTER] MOVIE: Project Sekai Movie: Kowareta Sekai to Utaenai Miku
 {"anidb_id":18780,"anilist_id":179878,"animeplanet_id":"colorful-stage-the-movie-a-miku-who-cant-sing","anisearch_id":19500,"livechart_id":12776,"mal_id":59419}
+,
+// [2026-SPRING] ONA: Project Spark
+{}
 ,
 // [undefined-UNDEFINED] MOVIE: Project Symphogear: Next
 {"anidb_id":18298,"animeplanet_id":"project-symphogear-next","mal_id":53646}
@@ -82513,6 +84034,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2021-SUMMER] SPECIAL: Propo Dance!
 {"animeplanet_id":"idolish7-propo-dance","mal_id":49442}
+,
+// [2025-UNDEFINED] SPECIAL: Propose
+{"anilist_id":210630}
 ,
 // [2022-FALL] ONA: Protector
 {"anilist_id":157425,"animeplanet_id":"overwatch-2-protector","mal_id":53783}
@@ -82612,9 +84136,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2022-SUMMER] SPECIAL: Psychotic Polka
 {"anilist_id":153775,"animeplanet_id":"polka-omaru-psychotic-polka","anisearch_id":17612,"mal_id":52827}
-,
-// [2026-UNDEFINED] TV: Psyren
-{}
 ,
 // [2026-FALL] TV: Psyren
 {"anidb_id":19765,"animeplanet_id":"psyren","anisearch_id":21084,"mal_id":63098}
@@ -82721,12 +84242,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-FALL] ONA: Puella Magi Madoka Magica scene0
 {}
 ,
-// [2012-FALL] MOVIE: Puella Magi Madoka Magica the Movie
-{"anidb_id":8778}
-,
-// [2026-UNDEFINED] MOVIE: Puella Magi Madoka Magica The Movie: Walpurgisnacht: Rising
-{}
-,
 // [2025-FALL] TV: Puella Magi Madoka Magica: Beginnings / Eternal TV Edition
 {"animeplanet_id":"puella-magi-madoka-magica-beginnings-eternal-tv-edition"}
 ,
@@ -82768,6 +84283,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2024-SPRING] TV: Pumeog
 {"mal_id":58574}
+,
+// [2024-SUMMER] SPECIAL: Pump Up The Volume!
+{"anisearch_id":21403}
 ,
 // [2006-FALL] TV: Pumpkin Scissors
 {"anidb_id":4473,"anilist_id":1538,"animeplanet_id":"pumpkin-scissors","anisearch_id":3619,"livechart_id":5564,"mal_id":1538}
@@ -82813,9 +84331,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2020-FALL] SPECIAL: Punishing: Gray Raven
 {"anisearch_id":16213}
-,
-// [2020-FALL] SPECIAL: Punishment
-{"anilist_id":132319,"animeplanet_id":"kotone-tenjin-punishment","mal_id":56115}
 ,
 // [1985-SPRING] OVA: Punky Funky Baby
 {"anisearch_id":5372,"mal_id":12563}
@@ -82863,10 +84378,13 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anisearch_id":2415,"mal_id":211}
 ,
 // [2025-SUMMER] OVA: Pure Pure Pero Pero Princess
-{"anisearch_id":20693,"mal_id":61935}
+{"mal_id":61935}
 ,
 // [2010-FALL] SPECIAL: Pure Shield
 {"animeplanet_id":"nome-pure-shield","mal_id":42748}
+,
+// [2026-SUMMER] OVA: Pure x Holic: Junketsu Otome to Konin Kankei!? The Animation
+{"anisearch_id":21583,"mal_id":64292}
 ,
 // [1983-SUMMER] TV: Pure-tou no Nakama-tachi
 {"anidb_id":4200,"anilist_id":3201,"animeplanet_id":"serendipity-the-pink-dragon","anisearch_id":552,"mal_id":3201}
@@ -83106,7 +84624,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"animeplanet_id":"qi-yu-chengyu-gushi-guwu-pian","mal_id":48089}
 ,
 // [2024-FALL] ONA: Qia Tongxue Shaonian
-{"anidb_id":19016,"anilist_id":126370,"animeplanet_id":"qia-tongxue-shaonian","mal_id":60311}
+{"anidb_id":19016,"anilist_id":126370,"animeplanet_id":"qia-tongxue-shaonian","anisearch_id":21660,"mal_id":60311}
 ,
 // [2022-WINTER] ONA: Qian Cong Shou
 {"anidb_id":17163,"anilist_id":126400,"animeplanet_id":"the-indomitable","anisearch_id":17485,"mal_id":50441}
@@ -83142,7 +84660,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"animeplanet_id":"qian-ting-zong-dong-yuan-wai-xing-baobei-jihua","anisearch_id":14435,"mal_id":44664}
 ,
 // [2024-SPRING] MOVIE: Qian Ting Zong Dong Yuan: Xun Long
-{"mal_id":59041}
+{"anisearch_id":21675,"mal_id":59041}
 ,
 // [2019-UNDEFINED] TV: Qian Tongxing Jiazu
 {"animeplanet_id":"qian-tongxing-jiazu","mal_id":47978}
@@ -83294,7 +84812,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [undefined-UNDEFINED] TV: Qimiao Xiao Shijie
 {"mal_id":47968}
 ,
-// [2011-WINTER] TV: Qin Han Ying Xiong Zhuan
+// [2011-WINTER] TV: Qin Han Yingxiong Zhuan
 {"anidb_id":14895,"anilist_id":186755,"animeplanet_id":"qinhan-yingxiong-chuan","mal_id":44179}
 ,
 // [1987-UNDEFINED] TV: Qin Mo Zhuan
@@ -83417,9 +84935,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2015-UNDEFINED] ONA: Qing Ping Chuanshuo: Dao Tu
 {"animeplanet_id":"qing-ping-chuanshuo-dao-tu","mal_id":45366}
 ,
-// [2026-UNDEFINED] ONA: Qing Shan
-{"mal_id":62743}
-,
 // [undefined-UNDEFINED] TV: Qingchun Hao Shiguang
 {"mal_id":45719}
 ,
@@ -83437,6 +84952,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [undefined-UNDEFINED] TV: Qingqing Qi E Leyuan
 {"mal_id":46625}
+,
+// [2026-UNDEFINED] ONA: Qingshan
+{"mal_id":62743}
 ,
 // [undefined-UNDEFINED] TV: Qingsong Shifen
 {"mal_id":46212}
@@ -83498,6 +85016,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2007-UNDEFINED] TV: Qiu Gazi
 {"mal_id":46068}
 ,
+// [undefined-UNDEFINED] ONA: Qiu Mo
+{"mal_id":64444}
+,
 // [undefined-UNDEFINED] ONA: Qiu Niang
 {"anilist_id":141921}
 ,
@@ -83528,6 +85049,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2012-WINTER] MOVIE: QQQ
 {"anilist_id":113272,"animeplanet_id":"qqq"}
 ,
+// [2026-SUMMER] MOVIE: Qu Ni de Dao
+{"mal_id":64536}
+,
 // [1982-UNDEFINED] MOVIE: Qu Qu
 {"animeplanet_id":"qu-qu","mal_id":43518}
 ,
@@ -83544,7 +85068,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":11846,"anilist_id":21557,"animeplanet_id":"qualidea-code","anisearch_id":11038,"livechart_id":1967,"mal_id":32360}
 ,
 // [2023-FALL] ONA: Quan Zhi Ming
-{"anilist_id":174709,"animeplanet_id":"quan-zhi-ming","anisearch_id":18796,"mal_id":56772}
+{"anidb_id":20007,"anilist_id":174709,"animeplanet_id":"quan-zhi-ming","anisearch_id":18796,"mal_id":56772}
 ,
 // [2025-FALL] ONA: Quanneng Gaoshou
 {"anilist_id":206277,"animeplanet_id":"quanneng-gaoshou","mal_id":63020}
@@ -83574,7 +85098,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"animeplanet_id":"full-time-magister-special-chapter-beiyuan-crisis","mal_id":62720}
 ,
 // [2024-SUMMER] ONA: Quanzhi Fashi Tebie Pian: Shenmi Weituo
-{"anidb_id":19503,"anilist_id":168081,"animeplanet_id":"full-time-magister-special-chapter-mysterious-commission","mal_id":56207}
+{"anidb_id":19503,"anilist_id":168081,"animeplanet_id":"full-time-magister-special-chapter-mysterious-commission","anisearch_id":21578,"mal_id":56207}
 ,
 // [2021-SUMMER] ONA: Quanzhi Fashi V
 {"anidb_id":16490,"anilist_id":122671,"animeplanet_id":"full-time-magister-v","anisearch_id":16542,"livechart_id":10744,"mal_id":48941}
@@ -83582,8 +85106,8 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-SPRING] ONA: Quanzhi Fashi VI
 {"anidb_id":16579,"anilist_id":137726,"animeplanet_id":"full-time-magister-vi","anisearch_id":16664,"livechart_id":12252,"mal_id":49572}
 ,
-// [2026-UNDEFINED] ONA: Quanzhi Fashi VII
-{"anidb_id":19920,"mal_id":62719}
+// [2026-SPRING] ONA: Quanzhi Fashi VII
+{"anidb_id":19920,"anisearch_id":21579,"livechart_id":13644,"mal_id":62719}
 ,
 // [2016-SUMMER] ONA: Quanzhi Fashi: Q Ban Xiao Juchang
 {"animeplanet_id":"quanzhi-fashi-q-ban-xiao-juchang","anisearch_id":13030,"mal_id":44627}
@@ -83600,8 +85124,11 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-SPRING] ONA: Quanzhi Gaoshou 3
 {"anidb_id":16589,"anilist_id":137735,"animeplanet_id":"the-kings-avatar-3","anisearch_id":16713,"livechart_id":11385,"mal_id":49559}
 ,
+// [undefined-UNDEFINED] ONA: Quanzhi Gaoshou 4
+{}
+,
 // [2026-UNDEFINED] ONA: Quanzhi Gaoshou 4
-{"anilist_id":198705,"animeplanet_id":"the-kings-avatar-4","mal_id":62244}
+{"anidb_id":20078,"anilist_id":198705,"animeplanet_id":"the-kings-avatar-4","mal_id":62244}
 ,
 // [2024-FALL] ONA: Quanzhi Gaoshou Q
 {"anidb_id":19122}
@@ -83682,10 +85209,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":119662,"animeplanet_id":"sasakure-uk-qui","anisearch_id":18151,"mal_id":49004}
 ,
 // [2015-SUMMER] ONA: Qui Shui Yi Yun
-{"anidb_id":15835,"anilist_id":99845,"animeplanet_id":"qui-shui-yi-yun","mal_id":33761}
+{"anidb_id":15835,"anilist_id":99845,"animeplanet_id":"qui-shui-yi-yun","anisearch_id":21725,"mal_id":33761}
 ,
 // [2016-WINTER] OVA: Quiz de Manabu Pinocchio no Koutsuu Ansen
-{"animeplanet_id":"quiz-de-manabu-pinocchio-no-koutsuu-anzen","mal_id":35151}
+{"animeplanet_id":"quiz-de-manabu-pinocchio-no-koutsuu-anzen","anisearch_id":21434,"mal_id":35151}
 ,
 // [2008-SUMMER] OVA: Quiz Magic Academy: The Original Animation
 {"anidb_id":6071,"anilist_id":5080,"animeplanet_id":"quiz-magic-academy","anisearch_id":4813,"livechart_id":6845,"mal_id":5080}
@@ -83829,7 +85356,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":580,"anilist_id":758,"animeplanet_id":"rahxephon-the-motion-picture","anisearch_id":1830,"livechart_id":8076,"mal_id":758}
 ,
 // [2002-SPRING] SPECIAL: RahXephon: Tsubasa no Kioku - Memory
-{"anilist_id":5288,"animeplanet_id":"rahxephon-tsubasa-no-kioku-memory","livechart_id":9078,"mal_id":5288}
+{"animeplanet_id":"rahxephon-tsubasa-no-kioku-memory","livechart_id":9078,"mal_id":5288}
 ,
 // [2022-FALL] OVA: Raikou Shinki Aigis Magia: Pandra Saga 3rd Ignition - The Animation
 {"anisearch_id":17561,"mal_id":52561}
@@ -83940,13 +85467,16 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"mal_id":59755}
 ,
 // [2023-WINTER] MOVIE: Raise Unicorn no Kubisuji Ushiro no Hokuro ni Naritai
-{"animeplanet_id":"raise-unicorn-no-kubisuji-ushiro-no-hokuro-ni-naritai","mal_id":56501}
+{"animeplanet_id":"raise-unicorn-no-kubisuji-ushiro-no-hokuro-ni-naritai","anisearch_id":21527,"mal_id":56501}
 ,
 // [2024-FALL] TV: Raise wa Tanin ga Ii
 {"anidb_id":18249,"anilist_id":170468,"animeplanet_id":"yakuza-fiance-raise-wa-tanin-ga-ii","anisearch_id":18788,"livechart_id":12378,"mal_id":56964}
 ,
 // [2019-FALL] SPECIAL: Raison d'être
 {"anilist_id":112381,"animeplanet_id":"eve-raison-detre","anisearch_id":14780,"mal_id":40569}
+,
+// [1994-WINTER] MOVIE: Raiyantsūrii no Uta
+{}
 ,
 // [1994-SUMMER] MOVIE: Raiyantsuuri no Uta
 {"anidb_id":4186,"anilist_id":9959,"animeplanet_id":"raiyantsuuri-no-uta","anisearch_id":2153,"mal_id":9959}
@@ -83960,13 +85490,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-SPRING] SPECIAL: Rakko Rap
 {"mal_id":59664}
 ,
-// [2019-FALL] ONA: Rakshasa Street 2
-{"anidb_id":16372}
-,
 // [2018-UNDEFINED] MOVIE: Raku Neko
 {"animeplanet_id":"raku-neko"}
 ,
-// [2026-SUMMER] TV: Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S Rank Cheat Majutsushi Bouken Roku
+// [2026-SPRING] TV: Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S Rank Cheat Majutsushi Bouken Roku
 {"anisearch_id":21287}
 ,
 // [2026-SUMMER] TV: Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku
@@ -83997,7 +85524,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":18457,"anilist_id":157330,"animeplanet_id":"liberated-from-paradise","anisearch_id":19046,"livechart_id":11612,"mal_id":57961}
 ,
 // [2025-SPRING] MOVIE: Rakugaki
-{"mal_id":62777}
+{"anilist_id":213367,"mal_id":62777}
 ,
 // [2014-SPRING] SPECIAL: Rakugaki Picasso
 {"anilist_id":102302,"animeplanet_id":"40meterp-rakugaki-picasso","mal_id":24201}
@@ -84014,6 +85541,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2018-UNDEFINED] SPECIAL: Rakuhaku Food
 {"anilist_id":122761}
 ,
+// [2022-SPRING] SPECIAL: Rakuraku Fukuyaku Jelly: Oshaberi na Ningen no Tame ni
+{"mal_id":64245}
+,
 // [1995-SUMMER] OVA: Rakushou! Hyper Doll
 {"anidb_id":918,"anilist_id":2522,"animeplanet_id":"hyper-doll","anisearch_id":3405,"livechart_id":13171,"mal_id":2522}
 ,
@@ -84029,7 +85559,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-SUMMER] TV: Ramen Akaneko
 {"anidb_id":18289,"anilist_id":170998,"animeplanet_id":"red-cat-ramen","anisearch_id":18893,"livechart_id":12427,"mal_id":57325}
 ,
-// [2025-UNDEFINED] TV: Ramen Akaneko 2nd Season
+// [2027-WINTER] TV: Ramen Akaneko 2nd Season
 {"anidb_id":19066,"anilist_id":185699,"animeplanet_id":"red-cat-ramen-2nd-season","anisearch_id":19994,"livechart_id":12986,"mal_id":60555}
 ,
 // [2001-WINTER] OVA: Ramen Chai-nyan
@@ -84046,9 +85576,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2008-WINTER] SPECIAL: Ramen Tenshi Pretty Menma
 {"anilist_id":7882,"animeplanet_id":"ramen-angel-pretty-menma","anisearch_id":6843,"livechart_id":7476,"mal_id":7882}
-,
-// [2020-SPRING] SPECIAL: Ramen Time!
-{"mal_id":57363}
 ,
 // [2024-WINTER] SPECIAL: Ramen wo Tabete Iru Toki dake Naze ka Nounai de Kaiwa ga Dekiru Futari
 {"anilist_id":174400,"mal_id":57909}
@@ -84129,7 +85656,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":19067,"anilist_id":185731,"animeplanet_id":"ranma-12-season-2","anisearch_id":19989,"livechart_id":12987,"mal_id":60564}
 ,
 // [2026-FALL] TV: Ranma ½ (2024) 3rd Season
-{"anilist_id":209872,"animeplanet_id":"ranma-12-season-3","livechart_id":13571,"mal_id":63801}
+{"anilist_id":209872,"animeplanet_id":"ranma-12-season-3","mal_id":63801}
 ,
 // [1993-FALL] OVA: Ranma ½ OVA
 {"anidb_id":405,"anilist_id":1007,"animeplanet_id":"ranma-ova","anisearch_id":357,"livechart_id":5372,"mal_id":1007}
@@ -84173,6 +85700,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1994-FALL] OVA: Ranma ½: Yomigaeru Kioku
 {"anidb_id":2995,"anilist_id":1008,"animeplanet_id":"ranma-special","anisearch_id":988,"livechart_id":6728,"mal_id":1008}
 ,
+// [2026-FALL] TV: Ranma1/2 3rd Season
+{"livechart_id":13571}
+,
 // [2021-SUMMER] SPECIAL: Ranman Romantan
 {"anisearch_id":17725}
 ,
@@ -84206,6 +85736,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2022-UNDEFINED] SPECIAL: Raon: Wiggle Wiggle
 {"animeplanet_id":"raon-wiggle-wiggle"}
 ,
+// [2026-SUMMER] OVA: Raonui Namja
+{"anisearch_id":21567}
+,
 // [2018-SUMMER] ONA: Rape Gouhouka!!!
 {"anisearch_id":13890,"mal_id":38513}
 ,
@@ -84230,14 +85763,14 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2017-WINTER] ONA: Rara Maji
 {"anilist_id":102647,"anisearch_id":15216,"mal_id":35625}
 ,
+// [1977-WINTER] TV: Rascal
+{}
+,
 // [2023-UNDEFINED] SPECIAL: Rascal Does Not Dream of a Knapsack Kid: Fukashigi no Karute
 {"animeplanet_id":"rascal-does-not-dream-of-a-knapsack-kid-fukashigi-no-karute"}
 ,
 // [2018-WINTER] SPECIAL: Rascal Does Not Dream of Bunny Girl Senpai Picture Drama
 {"animeplanet_id":"rascal-does-not-dream-of-bunny-girl-senpai-picture-drama","livechart_id":8711}
-,
-// [2025-SUMMER] TV: Rascal Does Not Dream of Santa Claus
-{}
 ,
 // [2002-SPRING] OVA: Rasen Kairou
 {"anisearch_id":1549,"mal_id":5610}
@@ -84262,6 +85795,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2023-WINTER] SPECIAL: Ratpark feat. Kei Sugawara
 {"anilist_id":169163,"anisearch_id":18773,"mal_id":56699}
+,
+// [2024-SUMMER] SPECIAL: Rave In My Ears
+{"mal_id":64073}
 ,
 // [1992-SUMMER] OVA: Raven Tengu Kabuto
 {}
@@ -84326,6 +85862,15 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2014-SUMMER] TV: Re:␣Hamatora
 {"anidb_id":10620,"anilist_id":20711,"animeplanet_id":"re-hamatora","anisearch_id":9631,"livechart_id":500,"mal_id":23421}
 ,
+// [undefined-UNDEFINED] TV: Re:bel Robotica
+{"anidb_id":20122,"anilist_id":213469,"livechart_id":13683,"mal_id":64462}
+,
+// [undefined-UNDEFINED] TV: Re:bel Robotica
+{}
+,
+// [undefined-UNDEFINED] TV: Re:bel Robotica
+{"anisearch_id":21748}
+,
 // [2017-SPRING] TV: Re:Creators
 {"anidb_id":12657,"anilist_id":97980,"animeplanet_id":"re-creators","anisearch_id":12137,"livechart_id":2470,"mal_id":34561}
 ,
@@ -84365,6 +85910,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2016-SPRING] SPECIAL: Re:Petit kara Hajimeru Isekai Seikatsu
 {"anilist_id":21891,"animeplanet_id":"re-petit-kara-hajimeru-isekai-seikatsu","anisearch_id":11611,"livechart_id":4047,"mal_id":33569}
 ,
+// [2026-SPRING] SPECIAL: Re:Prism
+{"mal_id":64060}
+,
 // [2023-SPRING] SPECIAL: Re:Searchlight
 {"anilist_id":164353,"mal_id":55128}
 ,
@@ -84398,7 +85946,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-FALL] SPECIAL: Re:Zero kara Hajimeru Break Time 3rd Season
 {"anilist_id":182417,"animeplanet_id":"re-zero-starting-break-time-from-zero-3rd-season","anisearch_id":19685,"livechart_id":12865,"mal_id":60012}
 ,
-// [undefined-UNDEFINED] SPECIAL: Re:Zero kara Hajimeru Break Time 4th Season
+// [2026-SPRING] ONA: Re:Zero kara Hajimeru Break Time 4th Season
+{"anisearch_id":21503}
+,
+// [2026-SPRING] SPECIAL: Re:Zero kara Hajimeru Break Time 4th Season
 {"mal_id":63830}
 ,
 // [2016-SPRING] TV: Re:Zero kara Hajimeru Isekai Seikatsu
@@ -84440,6 +85991,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2026-SPRING] TV: Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season
 {"livechart_id":13586}
 ,
+// [2026-SPRING] ONA: Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season
+{"anilist_id":210687}
+,
 // [2025-WINTER] TV: Re:ZERO: Starting Life in Another World Season 3: Part II
 {"animeplanet_id":"rezero-starting-life-in-another-world-season-3-part-ii"}
 ,
@@ -84457,9 +86011,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2018-SUMMER] ONA: Readyyy!
 {"animeplanet_id":"readyyy-op","anisearch_id":14069,"mal_id":38485}
-,
-// [1998-SUMMER] SPECIAL: Real Bout Fatal Fury Special - Dominated Mind
-{"mal_id":56155}
 ,
 // [2021-WINTER] OVA: Real Eroge Situation! 2 The Animation
 {"anisearch_id":15799,"mal_id":48449}
@@ -84521,7 +86072,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2003-FALL] OVA: Rebiya
 {"anisearch_id":4729,"mal_id":5552}
 ,
-// [undefined-UNDEFINED] TV: Reborn as a Space Mercenary
+// [2026-FALL] TV: Reborn as a Space Mercenary
 {}
 ,
 // [2020-FALL] ONA: Reborn to Master the Blade: From Hero-King to Extraordinary Squire
@@ -84555,6 +86106,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {}
 ,
 // [2025-FALL] TV: Record of Ragnarok III
+{}
+,
+// [undefined-UNDEFINED] TV: Record of Ragnarok IV
 {}
 ,
 // [2021-UNDEFINED] ONA: Record of Ragnarok Mini Countdown Anime
@@ -84605,7 +86159,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1994-SPRING] TV: Red Baron
 {"anidb_id":1818,"anilist_id":2283,"animeplanet_id":"red-baron","anisearch_id":2074,"livechart_id":8467,"mal_id":2283}
 ,
-// [undefined-UNDEFINED] TV: Red Cat Ramen
+// [2023-SPRING] SPECIAL: Red Carpet
+{"anisearch_id":21392}
+,
+// [2027-WINTER] TV: Red Cat Ramen
 {}
 ,
 // [2021-FALL] SPECIAL: Red Club
@@ -84674,6 +86231,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1993-UNDEFINED] OVA: Refrain
 {"anilist_id":182147,"animeplanet_id":"refrain","anisearch_id":21102,"mal_id":42240}
 ,
+// [2023-FALL] SPECIAL: Refrain (2023)
+{"anisearch_id":21469}
+,
 // [2009-WINTER] SPECIAL: Refrain (Music)
 {"anidb_id":13062,"anilist_id":103457,"animeplanet_id":"nabowa-refrain","anisearch_id":12948,"mal_id":32781}
 ,
@@ -84687,16 +86247,13 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":12003,"anilist_id":21707,"animeplanet_id":"regalia-the-three-sacred-stars","anisearch_id":11237,"livechart_id":2089,"mal_id":32961}
 ,
 // [2016-SUMMER] SPECIAL: Regalia: The Three Sacred Stars Recaps
-{"animeplanet_id":"regalia-the-three-sacred-stars-recaps","mal_id":49199}
+{"animeplanet_id":"regalia-the-three-sacred-stars-recaps","anisearch_id":21531,"mal_id":49199}
 ,
 // [2018-UNDEFINED] SPECIAL: Regent-san Doko e Iku?
 {"animeplanet_id":"regent-san-doko-e-iku"}
 ,
 // [2024-SUMMER] OVA: Reginetta-san no Bouken
 {"anisearch_id":19308,"mal_id":59118}
-,
-// [2023-SUMMER] SPECIAL: Rehearsal Time
-{"mal_id":57258}
 ,
 // [2010-SPRING] OVA: Rei Zero
 {"anisearch_id":6254,"mal_id":9006}
@@ -84736,9 +86293,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2023-UNDEFINED] ONA: REIN
 {"animeplanet_id":"rein"}
-,
-// [2026-WINTER] TV: Reincarnated as a Dragon Hatchling
-{}
 ,
 // [2026-FALL] TV: Reincarnated as a Sword
 {}
@@ -84788,7 +86342,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2013-SUMMER] SPECIAL: Relaxin'
 {"animeplanet_id":"yakenohara-relaxin","mal_id":38503}
 ,
-// [undefined-UNDEFINED] ONA: Release That Witch (Web)
+// [2026-WINTER] ONA: Release That Witch (Web)
 {}
 ,
 // [2018-FALL] TV: Release the Spyce
@@ -84816,7 +86370,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"animeplanet_id":"remember"}
 ,
 // [2025-FALL] SPECIAL: Remember
-{"anilist_id":113347,"mal_id":63179}
+{"anilist_id":113347,"anisearch_id":21365,"mal_id":63179}
 ,
 // [2010-SUMMER] ONA: Remi la Boheme
 {"anidb_id":7626,"anisearch_id":12121}
@@ -84923,8 +86477,11 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1961-UNDEFINED] MOVIE: Renshen Wawa
 {"animeplanet_id":"renshen-wawa","mal_id":43282}
 ,
-// [1981-WINTER] MOVIE: Renshenguo
+// [1981-SPRING] MOVIE: Renshenguo
 {"anidb_id":7386,"anilist_id":9416,"animeplanet_id":"ren-shen-guo","anisearch_id":6575,"mal_id":9416}
+,
+// [undefined-UNDEFINED] TV: Rent-A-Girlfriend
+{}
 ,
 // [2023-SUMMER] ONA: Rent-a-Girlfriend Season 3 x Amber's Collab Mini Animation
 {"animeplanet_id":"rent-a-girlfriend-season-3-x-ambers-collab-mini-animation"}
@@ -85260,7 +86817,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":12875,"anilist_id":98967,"animeplanet_id":"rhythm","anisearch_id":12278,"mal_id":35407}
 ,
 // [2012-WINTER] OVA: Rhythm Eigo
-{"mal_id":63634}
+{"anilist_id":213432,"mal_id":63634}
 ,
 // [1998-SPRING] OVA: Rhythm: Koi no Rhythm
 {"anisearch_id":2438,"mal_id":5573}
@@ -85304,6 +86861,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2026-SUMMER] TV: Rich Girl Caretaker
 {}
 ,
+// [2026-SUMMER] TV: Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School
+{}
+,
 // [2021-FALL] ONA: Rich Keikan Cash!
 {"anidb_id":16534,"animeplanet_id":"rich-keikan-cash","anisearch_id":16529,"livechart_id":10747,"mal_id":49598}
 ,
@@ -85339,9 +86899,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2009-WINTER] TV: RideBack
 {"anidb_id":6235,"anilist_id":4618,"animeplanet_id":"ride-back","anisearch_id":3176,"livechart_id":4964,"mal_id":4618}
-,
-// [2020-SPRING] SPECIAL: Ridin' (IMLAY Remix)
-{"mal_id":55178}
 ,
 // [2023-SPRING] SPECIAL: Riding a T-Rex
 {"mal_id":58264}
@@ -85414,6 +86971,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2021-WINTER] OVA: Rikujoubu Joshi wa Ore no Nama Onaho!!! The Animation
 {"anisearch_id":15784,"mal_id":44211}
+,
+// [2026-SPRING] TV: Rilakkuma
+{}
 ,
 // [2026-SPRING] TV: Rilakkuma
 {"anidb_id":18936,"anilist_id":183231,"animeplanet_id":"rilakkuma","anisearch_id":19730,"livechart_id":12891,"mal_id":60153}
@@ -85529,6 +87089,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-FALL] TV: Rimouto☆Hosuto petit
 {"mal_id":62545}
 ,
+// [2018-SUMMER] ONA: Rimu Zhi Xi
+{"mal_id":64525}
+,
 // [undefined-UNDEFINED] TV: Rin
 {}
 ,
@@ -85541,11 +87104,17 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2010-SPRING] OVA: RIN×SEN: Hakudaku Jokyōshi to Yarōdomo
 {}
 ,
+// [1988-UNDEFINED] MOVIE: Rina’s Dream
+{"mal_id":64240}
+,
 // [2016-FALL] SPECIAL: Ring a Bell
 {"anilist_id":178666,"anisearch_id":19861,"mal_id":56012}
 ,
 // [2005-FALL] SPECIAL: Ring a Rose
 {"mal_id":55778}
+,
+// [2026-SPRING] SPECIAL: Ring My Name
+{"mal_id":64302}
 ,
 // [2004-FALL] TV: Ring ni Kakero 1
 {"anidb_id":2579,"anilist_id":23,"animeplanet_id":"ring-ni-kakero-1","anisearch_id":1141,"livechart_id":11624,"mal_id":23}
@@ -85597,6 +87166,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1982-FALL] MOVIE: Ringo to Shoujo
 {"anilist_id":121045,"animeplanet_id":"ringo-to-shoujo","mal_id":42234}
+,
+// [2026-SPRING] MOVIE: Rinji Zōhatsu Milky☆Subway Kakueki Teisha Gekijō Iki
+{}
 ,
 // [2023-SUMMER] SPECIAL: Rinjin-san
 {"anisearch_id":19997,"mal_id":56489}
@@ -85715,7 +87287,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2010-FALL] TV: Rita to Nantoka
 {"anidb_id":7958,"anilist_id":6195,"animeplanet_id":"rita-et-machin","anisearch_id":6514,"mal_id":6195}
 ,
-// [2022-FALL] SPECIAL: Riverside Friend
+// [2022-FALL] ONA: Riverside Friend
 {"mal_id":58685}
 ,
 // [1996-UNDEFINED] MOVIE: Riyuetan
@@ -85815,7 +87387,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":9731,"animeplanet_id":"robocar-poli"}
 ,
 // [2011-WINTER] TV: Robocar Poli
-{"anisearch_id":8912,"mal_id":31898}
+{"anilist_id":213464,"anisearch_id":8912,"mal_id":31898}
 ,
 // [2012-WINTER] TV: Robocar Poli 2
 {"animeplanet_id":"robocar-poli-2nd-season","anisearch_id":15135,"mal_id":32221}
@@ -85828,6 +87400,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2022-SPRING] TV: Robocar Poli 5
 {"animeplanet_id":"robocar-poli-5th-season","anisearch_id":17357,"mal_id":56362}
+,
+// [2023-FALL] TV: Robocar Poli: Samak Gujodae Iyagi
+{"anisearch_id":21520}
 ,
 // [2020-SUMMER] TV: Robocar Poli: Song Song Museum
 {"mal_id":56368}
@@ -85872,7 +87447,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":204629}
 ,
 // [2019-WINTER] SPECIAL: Robot Girls Z Petit Character Short Anime
-{"mal_id":63092}
+{"anisearch_id":21524,"mal_id":63092}
 ,
 // [2015-SPRING] ONA: Robot Girls Z Plus
 {"anidb_id":10999,"anilist_id":20998,"animeplanet_id":"robot-girls-z-plus","anisearch_id":10056,"livechart_id":1345,"mal_id":29035}
@@ -85979,9 +87554,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2022-SUMMER] SPECIAL: Rock de Kiss
 {"mal_id":62698}
 ,
-// [2025-SPRING] TV: Rock is a Lady's Modesty
-{}
-,
 // [2025-SPRING] TV: Rock wa Lady no Tashinami deshite
 {"anidb_id":18769,"anilist_id":179694,"animeplanet_id":"rock-is-a-ladys-modesty","anisearch_id":19510,"livechart_id":12762,"mal_id":59360}
 ,
@@ -86008,6 +87580,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2001-SUMMER] UNKNOWN: Rocket Girls Pilot-ban
 {"anisearch_id":14076}
+,
+// [2026-SPRING] SPECIAL: Rocket Science
+{"mal_id":63945}
 ,
 // [undefined-UNDEFINED] ONA: Rocket-dan (Kari)
 {"anidb_id":12131,"anisearch_id":11567}
@@ -86180,6 +87755,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2022-FALL] ONA: Roly Poly Peoples
 {"anidb_id":17736,"anilist_id":168564,"animeplanet_id":"roly-poly-peoples","mal_id":52421}
 ,
+// [2026-SPRING] SPECIAL: Roman Jet Charisma
+{"anilist_id":213317,"mal_id":64469}
+,
 // [2017-WINTER] MOVIE: Romance Of The Turn
 {"animeplanet_id":"romance-of-the-turn","anisearch_id":12926}
 ,
@@ -86252,9 +87830,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-SPRING] SPECIAL: Room501
 {"anisearch_id":20054,"mal_id":60635}
 ,
-// [2026-WINTER] TV: Rooster Fighter
-{}
-,
 // [2023-WINTER] MOVIE: Roots
 {}
 ,
@@ -86311,6 +87886,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1991-SUMMER] MOVIE: Roujin Z
 {"anidb_id":812,"anilist_id":2000,"animeplanet_id":"roujin-z","anisearch_id":2165,"livechart_id":5418,"mal_id":2000}
+,
+// [2026-SPRING] SPECIAL: Round n Round
+{"mal_id":64309}
 ,
 // [2021-WINTER] MOVIE: Round Trip
 {"anilist_id":171771,"animeplanet_id":"round-trip"}
@@ -86381,7 +87959,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2018-SPRING] TV: Rubi Yoyo: Dayang Huan Youji
 {"mal_id":45667}
 ,
-// [undefined-UNDEFINED] TV: Rubi Yoyo: Lele Laile
+// [2019-SUMMER] TV: Rubi Yoyo: Lele Laile
 {"mal_id":45676}
 ,
 // [2001-UNDEFINED] SPECIAL: Ruby
@@ -86403,7 +87981,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":16693,"anilist_id":115902,"animeplanet_id":"ruguo-lishi-shi-yiqun-miao","mal_id":47620}
 ,
 // [2023-SUMMER] ONA: Ruguo Lishi Shi Yiqun Miao 10th Season
-{"animeplanet_id":"ruguo-lishi-shi-yiqun-miao-10","mal_id":56576}
+{"anilist_id":213699,"animeplanet_id":"ruguo-lishi-shi-yiqun-miao-10","mal_id":56576}
 ,
 // [2024-SUMMER] ONA: Ruguo Lishi Shi Yiqun Miao 11th Season
 {"animeplanet_id":"ruguo-lishi-shi-yiqun-miao-11","mal_id":59653}
@@ -86437,6 +88015,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2018-FALL] ONA: Ruguo Lishi Shi Yiqun Miao Fanwai
 {"animeplanet_id":"ruguo-lishi-shi-yiqun-miao-fanwai","mal_id":47624}
+,
+// [2026-SUMMER] ONA: Ruguo Lishi Shi Yiqun Miao: Daming Huangchao Pian
+{"mal_id":64510}
 ,
 // [2020-FALL] SPECIAL: Ruguo Lishi Shi Yiqun Miao: Miao Miao Mi Ya
 {"animeplanet_id":"ruguo-lishi-shi-yiqun-miao-miao-miao-mi-ya","mal_id":51152}
@@ -86503,6 +88084,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2019-WINTER] TV: Running Man Season 2
 {"mal_id":63786}
+,
+// [2026-SPRING] MOVIE: Running Man: Light & Shadow
+{"anisearch_id":21481}
 ,
 // [2018-FALL] MOVIE: Running Man: Pullulluui Yeogseub
 {"animeplanet_id":"running-man-the-ultimate-challenge","anisearch_id":14861,"mal_id":48183}
@@ -86658,7 +88242,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"mal_id":45433}
 ,
 // [2025-SUMMER] SPECIAL: Ruyue Er Zhi Jin Gongmen
-{"mal_id":62641}
+{"anisearch_id":21600,"mal_id":62641}
 ,
 // [2013-SUMMER] ONA: RWBY
 {}
@@ -86807,14 +88391,14 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2021-SUMMER] MOVIE: Ryouma! The Prince of Tennis Shinsei Movie: Tennis no Oujisama
 {"anidb_id":14551,"anilist_id":113254,"animeplanet_id":"ryoma-the-prince-of-tennis","anisearch_id":14042,"livechart_id":8681,"mal_id":38882}
 ,
-// [undefined-UNDEFINED] TV: Ryoumin 0-nin Start no Henkyou Ryoushu-sama
-{}
+// [2026-SUMMER] TV: Ryoumin 0-nin Start no Henkyou Ryoushu-sama
+{"anidb_id":19484}
 ,
 // [2026-SUMMER] TV: Ryoumin 0-nin Start no Henkyou Ryoushu-sama
-{"anidb_id":19484,"anilist_id":196218,"animeplanet_id":"the-frontier-lord-begins-with-zero-subjects","livechart_id":13249,"mal_id":62078}
+{"animeplanet_id":"the-frontier-lord-begins-with-zero-subjects","anisearch_id":20779,"livechart_id":13249,"mal_id":62078}
 ,
-// [undefined-UNDEFINED] TV: Ryoumin 0-nin Start no Henkyou Ryoushu-sama
-{"anisearch_id":20779}
+// [2026-SUMMER] ONA: Ryoumin 0-Nin Start no Henkyou Ryoushu-sama
+{"anilist_id":196218}
 ,
 // [1994-FALL] SPECIAL: Ryouri Kinenbi
 {"anilist_id":170699,"mal_id":57055}
@@ -86909,11 +88493,11 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1991-SPRING] OVA: Ryuujin Kappei
 {"mal_id":52475}
 ,
-// [2011-FALL] TV: Ryuujinnuma
-{"anidb_id":11484,"anisearch_id":11139}
-,
 // [2001-SUMMER] MOVIE: Ryuujinnuma
 {"mal_id":62212}
+,
+// [2011-FALL] SPECIAL: Ryuujinnuma
+{"anidb_id":11484,"anisearch_id":11139}
 ,
 // [1997-SUMMER] OVA: Ryuuki Denshou
 {"anidb_id":614,"anilist_id":3968,"animeplanet_id":"dragoon","anisearch_id":537,"livechart_id":12040,"mal_id":3968}
@@ -86965,6 +88549,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2014-WINTER] MOVIE: S - The Birth of Psycho
 {"anilist_id":140721,"animeplanet_id":"s-the-birth-of-psycho","anisearch_id":13184}
+,
+// [undefined-UNDEFINED] TV: S Rank Boukensha de Aru Ore no Musume-tachi wa Juudo no Father-con Deshita
+{"anidb_id":20165}
 ,
 // [2023-SUMMER] SPECIAL: S-Class (SKZOO ver.)
 {"mal_id":55929}
@@ -87167,7 +88754,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2017-WINTER] TV: Saga of Tanya the Evil
 {}
 ,
-// [2026-UNDEFINED] TV: Saga of Tanya the Evil II
+// [2026-SUMMER] TV: Saga of Tanya the Evil II
 {}
 ,
 // [2016-SPRING] MOVIE: Saga-ken wo Meguru Animation
@@ -87254,6 +88841,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-WINTER] ONA: Sai Ji Chuanshuo
 {"animeplanet_id":"sai-ji-chuanshuo","anisearch_id":20238,"mal_id":60898}
 ,
+// [2019-WINTER] MOVIE: Sai Ngoi
+{"animeplanet_id":"another-world-2019","anisearch_id":18673,"mal_id":52841}
+,
+// [2025-FALL] MOVIE: Sai Ngoi (2025)
+{"mal_id":62497}
+,
 // [2016-SUMMER] TV: Sai Ya Lixian Ji
 {"mal_id":47359}
 ,
@@ -87323,6 +88916,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-FALL] TV: Saihate no Paladin: Tetsusabi no Yama no Ou
 {"anidb_id":17078,"anilist_id":143085,"animeplanet_id":"the-faraway-paladin-2nd-season","anisearch_id":16958,"livechart_id":10969,"mal_id":50664}
 ,
+// [2026-SPRING] SPECIAL: Saihousou, Sai Load.
+{"mal_id":64196}
+,
 // [2016-WINTER] TV: Saijaku Muhai no Bahamut
 {"anidb_id":11233,"anilist_id":21188,"animeplanet_id":"undefeated-bahamut-chronicle","anisearch_id":10435,"livechart_id":1591,"mal_id":30749}
 ,
@@ -87335,6 +88931,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [undefined-UNDEFINED] TV: Saijaku na Boku wa “Kabenuke Bug“ de Nariagaru: Kabe o Surinuketara, Shokai Clear Houshuu o Mugen Kaishuu Dekimashita!
 {"anisearch_id":21095}
 ,
+// [undefined-UNDEFINED] TV: Saijaku na Boku wa "Kabenuke Bug" de Nariagaru: Kabe wo Surinuketara Shokai Clear Houshuu wo Mugen Kaishuu Dekimashita!
+{"anilist_id":213465}
+,
 // [2024-WINTER] TV: Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.
 {"anidb_id":17712,"anilist_id":156891,"animeplanet_id":"the-weakest-tamer-began-a-journey-to-pick-up-trash","anisearch_id":17830,"livechart_id":11564,"mal_id":53590}
 ,
@@ -87342,16 +88941,13 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":19763,"anilist_id":203855,"animeplanet_id":"the-weakest-tamer-began-a-journey-to-pick-up-trash-2nd-season","anisearch_id":21068,"livechart_id":13419,"mal_id":63078}
 ,
 // [2026-SUMMER] TV: Saijo no Osewa: Takane no Hana Darake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) o Kagenagara Osewa Suru Koto ni Narimashita
-{"anisearch_id":20997}
-,
-// [undefined-UNDEFINED] TV: Saijo no Osewa: Takane no Hana-darake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) o Kagenagara Osewa Suru Koto ni Narimashita
-{}
+{"anilist_id":201514,"anisearch_id":20997}
 ,
 // [2026-SUMMER] TV: Saijo no Osewa: Takane no Hana-darake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) o Kagenagara Osewa Suru Koto ni Narimashita
 {"anidb_id":19690}
 ,
 // [2026-SUMMER] TV: Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojousama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita
-{"anilist_id":201514,"animeplanet_id":"rich-girl-caretaker-im-secretly-the-caregiver-of-the-most-popular-girl-in-this-rich-kid-school","livechart_id":13377,"mal_id":62876}
+{"animeplanet_id":"rich-girl-caretaker-im-secretly-the-caregiver-of-the-most-popular-girl-in-this-rich-kid-school","livechart_id":13377,"mal_id":62876}
 ,
 // [2019-SPRING] SPECIAL: Saikai
 {"mal_id":41498}
@@ -87422,6 +89018,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2020-SUMMER] ONA: Saikyou Kamizmode!
 {"anidb_id":15651,"anilist_id":122632,"animeplanet_id":"saikyou-kamizmode","anisearch_id":15602,"livechart_id":10084,"mal_id":42522}
 ,
+// [undefined-UNDEFINED] TV: Saikyou Mahoushi no Inton Keikaku
+{"livechart_id":13664}
+,
+// [2027-WINTER] TV: Saikyou Mahoushi no Inton Keikaku
+{"anidb_id":20089,"anilist_id":213106,"anisearch_id":21735,"mal_id":64379}
+,
 // [2022-FALL] SPECIAL: Saikyou no Don Gitsune Genru Tutu
 {"anisearch_id":18992}
 ,
@@ -87434,17 +89036,8 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-FALL] TV: Saikyou no Shienshoku "Wajutsushi" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru
 {"anidb_id":18592,"anilist_id":177104,"animeplanet_id":"the-most-notorious-talker-runs-the-worlds-greatest-clan","anisearch_id":19232,"livechart_id":12638,"mal_id":58714}
 ,
-// [2026-SPRING] TV: Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) rashii desu yo?
-{"anisearch_id":20987}
-,
 // [2026-SPRING] TV: Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?
-{}
-,
-// [2026-SPRING] TV: Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?
-{"anidb_id":19667,"animeplanet_id":"the-strongest-job-is-apparently-not-a-hero-or-a-sage-but-an-appraiser-provisional","livechart_id":13369,"mal_id":62825}
-,
-// [2026-SPRING] ONA: Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?
-{"anilist_id":200769}
+{"anidb_id":19667,"anilist_id":200769,"animeplanet_id":"the-strongest-job-is-apparently-not-a-hero-or-a-sage-but-an-appraiser-provisional","anisearch_id":20987,"livechart_id":13369,"mal_id":62825}
 ,
 // [2022-FALL] ONA: Saikyou Onmyouji Mini
 {"anilist_id":162802,"animeplanet_id":"the-reincarnation-of-the-strongest-exorcist-in-another-world-mini-anime","anisearch_id":19222,"mal_id":54683}
@@ -87551,9 +89144,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2004-WINTER] MOVIE: Saint Seiya Tenkai-hen
 {}
 ,
-// [2009-SPRING] OVA: Saint Seiya The Lost Canvas
-{"anidb_id":6470}
-,
 // [2006-FALL] SPECIAL: Saint Seiya: Gold Saints Data File
 {"mal_id":35326}
 ,
@@ -87611,6 +89201,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2009-SPRING] OVA: Saint Seiya: The Lost Canvas - Meiou Shinwa
 {"anilist_id":6171,"animeplanet_id":"saint-seiya-the-lost-canvas-meiou-shinwa","anisearch_id":5190,"livechart_id":5236,"mal_id":6171}
 ,
+// [2009-SUMMER] OVA: Saint Seiya: The Lost Canvas - Meiou Shinwa
+{"anidb_id":6470}
+,
 // [2011-WINTER] OVA: Saint Seiya: The Lost Canvas - Meiou Shinwa 2
 {"anilist_id":9130,"animeplanet_id":"saint-seiya-the-lost-canvas-meiou-shinwa-2nd-chapter","anisearch_id":6673,"livechart_id":5381,"mal_id":9130}
 ,
@@ -87632,9 +89225,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2026-WINTER] TV: Saioshi no Gikei o Mederu Tame, Nagaiki Shimasu!
 {"anidb_id":19809,"anisearch_id":20723}
 ,
-// [2026-WINTER] TV: Saioshi no Gikei o Mederu Tame, Nagaikishimasu!
-{}
-,
 // [2026-WINTER] TV: Saioshi no Gikei wo Mederu Tame, Nagaiki shimasu!
 {"livechart_id":13217,"mal_id":61969}
 ,
@@ -87650,6 +89240,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-FALL] SPECIAL: Saishinwa
 {"anilist_id":204732,"mal_id":62663}
 ,
+// [2026-SPRING] SPECIAL: Saisho wa Kyun!
+{"mal_id":63911}
+,
 // [2002-SUMMER] OVA: Saishuu Chikan Densha
 {"anisearch_id":123,"mal_id":2275}
 ,
@@ -87659,11 +89252,14 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2013-SPRING] SPECIAL: Saishuu Densha featuring Izumi Makura
 {"anilist_id":103501,"animeplanet_id":"makura-izumi-saishuu-densha","mal_id":36114}
 ,
-// [2026-SPRING] MOVIE: Saishuu Gakushou Hibike! Euphonium
-{"anidb_id":19221,"anilist_id":188035,"animeplanet_id":"saishuu-gakushou-hibike-euphonium","anisearch_id":20298,"livechart_id":13094,"mal_id":61230}
-,
-// [undefined-UNDEFINED] MOVIE: Saishuu Gakushou Hibike! Euphonium - Kouhen
+// [2026-FALL] MOVIE: Saishuu Gakushou Hibike! Euphonium - Kouhen
 {"anilist_id":194116}
+,
+// [2026-SUMMER] MOVIE: Saishuu Gakushou Hibike! Euphonium: Kouhen
+{"mal_id":64019}
+,
+// [2026-SPRING] MOVIE: Saishuu Gakushou Hibike! Euphonium: Zenpen
+{"anidb_id":19221,"anilist_id":188035,"animeplanet_id":"sound-euphonium-the-final-movie","anisearch_id":20298,"livechart_id":13094,"mal_id":61230}
 ,
 // [2002-SUMMER] TV: Saishuu Heiki Kanojo
 {"anidb_id":113,"anilist_id":529,"animeplanet_id":"saikano","anisearch_id":780,"livechart_id":4041,"mal_id":529}
@@ -87761,7 +89357,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-WINTER] TV: Sakamoto Days
 {"anidb_id":18654,"anilist_id":177709,"animeplanet_id":"sakamoto-days","anisearch_id":19307,"livechart_id":12681,"mal_id":58939}
 ,
-// [2026-UNDEFINED] TV: Sakamoto Days 2nd Season
+// [2027-WINTER] TV: Sakamoto Days 2nd Season
 {"anidb_id":19775,"anilist_id":204363,"animeplanet_id":"sakamoto-days-season-2","anisearch_id":21111,"livechart_id":13441,"mal_id":63139}
 ,
 // [2025-SUMMER] TV: Sakamoto Days Part 2
@@ -87785,7 +89381,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1928-WINTER] MOVIE: Sakana no Kuni
 {"anidb_id":12855,"anilist_id":104546,"animeplanet_id":"manga-sakana-no-kuni","anisearch_id":12265,"mal_id":34958}
 ,
-// [2001-FALL] MOVIE: Sakana no sakana
+// [2001-FALL] MOVIE: Sakana no Sakana
 {"anilist_id":177065}
 ,
 // [2021-UNDEFINED] SPECIAL: Sakananishitajodan
@@ -87857,6 +89453,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1983-WINTER] MOVIE: Sakuhin
 {"anilist_id":185829,"animeplanet_id":"sakuhin","mal_id":51921}
 ,
+// [2026-SPRING] SPECIAL: Sakujitsu
+{"mal_id":64490}
+,
 // [1946-WINTER] MOVIE: Sakura
 {"anidb_id":6892,"anilist_id":15455,"animeplanet_id":"sakura-haru-no-gensou","anisearch_id":5966,"livechart_id":6876,"mal_id":15455}
 ,
@@ -87865,6 +89464,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2017-WINTER] SPECIAL: Sakura Internet
 {"anidb_id":12756,"anilist_id":98578,"animeplanet_id":"sakura-internet","anisearch_id":12193,"livechart_id":2523,"mal_id":34818}
+,
+// [2017-WINTER] ONA: Sakura Internet Rebirth
+{}
 ,
 // [2020-SUMMER] ONA: Sakura Kakumei: Hanasaku Otome-tachi
 {"anidb_id":15710,"anilist_id":123612,"animeplanet_id":"sakura-kakumei-hana-saku-otome-tachi","anisearch_id":15660,"livechart_id":10132,"mal_id":42791}
@@ -87983,6 +89585,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2021-SPRING] OVA: Sakusei Byoutou The Animation
 {"anisearch_id":15941,"mal_id":48651}
 ,
+// [2026-SPRING] ONA: Sakuyama Chocojiro
+{"livechart_id":13650}
+,
 // [1992-SPRING] TV: Salad Juu Yuushi Tomatoman
 {"anidb_id":7204,"anilist_id":5201,"animeplanet_id":"tomato-man-and-the-knights-of-the-salad-table","anisearch_id":5864,"mal_id":5201}
 ,
@@ -88024,6 +89629,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2021-UNDEFINED] MOVIE: Salaryman Madness
 {"animeplanet_id":"salaryman-madness"}
+,
+// [1970-SPRING] TV: Salaryman Mini Mini Sakusen
+{"anilist_id":213439,"mal_id":64319}
 ,
 // [2001-UNDEFINED] MOVIE: Salaryman Mudaeri Yonghada Yonghae
 {"mal_id":58762}
@@ -88076,9 +89684,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2021-UNDEFINED] ONA: Samsung Grande Brand Film CM
 {"animeplanet_id":"samsung-grande-brand-film-cm"}
 ,
-// [2011-SPRING] SPECIAL: Samsung NX100 CM
-{"mal_id":60043}
-,
 // [1965-WINTER] MOVIE: Samurai
 {"anidb_id":13131,"anilist_id":104180,"animeplanet_id":"samurai","anisearch_id":10338,"mal_id":29637}
 ,
@@ -88125,6 +89730,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":13938,"anilist_id":102646,"animeplanet_id":"samurai-noodles-the-originator","anisearch_id":15465,"mal_id":33734}
 ,
 // [1990-WINTER] TV: Samurai Pizza Cats
+{}
+,
+// [2003-SPRING] MOVIE: Samurai Resurrection
 {}
 ,
 // [1999-SPRING] OVA: Samurai Spirits 2: Asura Zanmaden
@@ -88182,7 +89790,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"mal_id":43255}
 ,
 // [2024-SUMMER] MOVIE: San Shaonu
-{"anidb_id":18842,"anilist_id":179214,"animeplanet_id":"san-shaonu","anisearch_id":19420,"mal_id":59236}
+{"anidb_id":18842,"anilist_id":179214,"animeplanet_id":"san-shaonu","anisearch_id":19420,"livechart_id":13621,"mal_id":59236}
 ,
 // [1984-UNDEFINED] MOVIE: San Shi Liu Ge Zi
 {"anilist_id":150585,"animeplanet_id":"san-shi-liu-ge-zi","mal_id":43544}
@@ -88257,7 +89865,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":179231,"mal_id":57706}
 ,
 // [2018-UNDEFINED] OVA: Sanbiki no Kobuta no Koutsuu Anzen
-{"animeplanet_id":"sanbiki-no-kobuta-no-koutsuu-anzen","mal_id":39103}
+{"animeplanet_id":"sanbiki-no-kobuta-no-koutsuu-anzen","anisearch_id":21435,"mal_id":39103}
 ,
 // [2021-FALL] SPECIAL: Sanbunteki Life
 {"anilist_id":141325,"mal_id":50639}
@@ -88377,7 +89985,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anisearch_id":15708,"mal_id":55135}
 ,
 // [2017-SPRING] ONA: Sankou Gakuen Iryou Hisho Senmon Gakkou
-{"mal_id":54072}
+{"anisearch_id":21475,"mal_id":54072}
 ,
 // [1933-WINTER] MOVIE: Sankou to Tako: Hyakumanryou Chinsoudou
 {"anidb_id":6693,"anilist_id":5874,"animeplanet_id":"sanko-to-tako-hyakuman-ryo-chinsodo","anisearch_id":5671,"mal_id":5874}
@@ -88441,6 +90049,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2001-SUMMER] OVA: Sanrio Anime Sekai Gekijou
 {"anilist_id":4024}
+,
+// [2008-SUMMER] OVA: Sanrio Character to Utaou: Tanoshii Douyou
+{"anilist_id":213635}
+,
+// [2008-SUMMER] OVA: Sanrio Character to Utau: Tanoshii Douyou
+{"mal_id":63981}
 ,
 // [1992-FALL] OVA: Sanrio Christmas Fantasia
 {"animeplanet_id":"sanrio-christmas-fantasia","mal_id":29547}
@@ -88595,6 +90209,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2019-SPRING] TV: Sarazanmai
 {"anidb_id":13869,"anilist_id":101261,"animeplanet_id":"sarazanmai","anisearch_id":13435,"livechart_id":3127,"mal_id":37426}
 ,
+// [2026-SUMMER] OVA: Sare Tsuma wa Ubawaretai
+{"anisearch_id":21581,"mal_id":64291}
+,
 // [2018-SPRING] TV: Saredo Tsumibito wa Ryuu to Odoru
 {"anidb_id":12337,"anilist_id":87504,"animeplanet_id":"dances-with-the-dragons","anisearch_id":11835,"livechart_id":2288,"mal_id":33889}
 ,
@@ -88610,11 +90227,11 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1920-WINTER] MOVIE: Saru Kani Gassen
 {"anidb_id":11507,"animeplanet_id":"saru-kani-gassen","anisearch_id":10651,"mal_id":30059}
 ,
-// [1996-WINTER] OVA: Saru Kani Gassen
-{"anidb_id":11509}
-,
 // [1927-SPRING] MOVIE: Saru Kani Gassen (1927)
 {"anidb_id":12864,"anilist_id":104547,"animeplanet_id":"saru-kani-gassen-1927","anisearch_id":14314,"mal_id":35391}
+,
+// [1996-WINTER] OVA: Saru Kani Gassen (1996)
+{"anidb_id":11509}
 ,
 // [2012-SUMMER] ONA: Saru Kani Gassen (Yokoku)
 {"animeplanet_id":"saru-kani-gassen-yokoku","mal_id":33860}
@@ -88658,7 +90275,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-WINTER] TV: Sasaki to Pii-chan
 {"anidb_id":17530,"anilist_id":152682,"animeplanet_id":"sasaki-and-peeps","anisearch_id":17545,"livechart_id":11345,"mal_id":52482}
 ,
-// [2026-WINTER] TV: Sasaki to Pii-chan Season 2
+// [2026-FALL] TV: Sasaki to Pii-chan Season 2
 {"anidb_id":18563,"anilist_id":176314,"animeplanet_id":"sasaki-and-peeps-season-2","anisearch_id":19129,"livechart_id":12611,"mal_id":58518}
 ,
 // [2012-SUMMER] SPECIAL: sasakure.UK & DECO*27: 39
@@ -88899,7 +90516,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":206865,"animeplanet_id":"sayonara-koinu-no-marvin-nyuugaku-chokuzen-special","mal_id":54419}
 ,
 // [2026-SUMMER] TV: Sayonara Lara
-{"anidb_id":18643,"anilist_id":177637,"animeplanet_id":"sayonara-lara","anisearch_id":19300,"livechart_id":12668,"mal_id":58878}
+{"anidb_id":18643,"anilist_id":177637,"animeplanet_id":"goodbye-lara","anisearch_id":19300,"livechart_id":12668,"mal_id":58878}
 ,
 // [2024-SUMMER] SPECIAL: Sayonara Mata Itsuka!
 {"mal_id":60104}
@@ -89108,8 +90725,8 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2000-FALL] TV: Sci-Fi Harry
 {"anidb_id":1349,"anilist_id":1508,"animeplanet_id":"sci-fi-harry","anisearch_id":1573,"livechart_id":7370,"mal_id":1508}
 ,
-// [2024-FALL] SPECIAL: Science (feat. Kasane Teto)
-{"anilist_id":204481,"mal_id":63551}
+// [2024-UNDEFINED] SPECIAL: Science (feat. Kasane Teto)
+{"anilist_id":204481}
 ,
 // [1988-WINTER] SPECIAL: Science Anime: Choudendou Monogatari
 {"animeplanet_id":"science-anime-choudendou-monogatari","mal_id":27961}
@@ -89165,6 +90782,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2016-SPRING] SPECIAL: Scratch x One Piece Film: Gold
 {"animeplanet_id":"scratch-x-one-piece-film-gold","livechart_id":8529,"mal_id":36240}
 ,
+// [2018-WINTER] ONA: Screechers Wild! 3rd Season
+{}
+,
 // [2002-UNDEFINED] MOVIE: Screen no Maboroshi
 {"animeplanet_id":"screen-no-maboroshi","mal_id":62407}
 ,
@@ -89185,9 +90805,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2023-SPRING] SPECIAL: Scuffing no Uta
 {"mal_id":57110}
-,
-// [2026-WINTER] TV: Scum of the Brave
-{}
 ,
 // [2026-WINTER] TV: Scum of the Brave
 {}
@@ -89300,9 +90917,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2012-SPRING] OVA: Secretarial Section Drop
 {}
 ,
-// [2025-SUMMER] TV: Secrets of the Silent Witch
-{}
-,
 // [2014-SPRING] SPECIAL: Sect
 {"animeplanet_id":"mah-sect","mal_id":39171}
 ,
@@ -89351,6 +90965,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2015-WINTER] OVA: Sei Yariman Sisters Pakopako Nikki The Animation
 {"anisearch_id":10070,"mal_id":29085}
 ,
+// [undefined-UNDEFINED] TV: Seibetsu "Mona Lisa" no Kimi e.
+{"anidb_id":19431,"anilist_id":195436,"animeplanet_id":"just-like-mona-lisa","livechart_id":13220,"mal_id":61966}
+,
+// [undefined-UNDEFINED] TV: Seibetsu “Mona Lisa” no Kimi e.
+{"anisearch_id":21738}
+,
 // [2011-SPRING] ONA: Seibu Tetsudō Ekiin Tako-chan
 {}
 ,
@@ -89367,10 +90987,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anisearch_id":257,"mal_id":2861}
 ,
 // [2026-WINTER] OVA: Seifuku wa Kita mama de
-{"mal_id":62686}
-,
-// [2026-WINTER] OVA: Seifuku wa Kita Mama de
-{"anisearch_id":21078}
+{"anisearch_id":21078,"mal_id":62686}
 ,
 // [2019-SPRING] SPECIAL: Seigi
 {"anilist_id":139511,"animeplanet_id":"zutomayo-seigi","mal_id":50007}
@@ -89386,9 +91003,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1972-WINTER] TV: Seigi wo Aisuru Mono Gekkou Kamen
 {"anidb_id":1576,"anilist_id":4332,"animeplanet_id":"seigi-o-aisuru-mono-gekko-kamen","anisearch_id":2482,"mal_id":4332}
-,
-// [2026-SUMMER] TV: Seihantai na Kimi to Boku
-{}
 ,
 // [2026-WINTER] TV: Seihantai na Kimi to Boku
 {"anidb_id":19010,"anilist_id":184951,"animeplanet_id":"you-and-i-are-polar-opposites","anisearch_id":19963,"livechart_id":12939,"mal_id":60371}
@@ -89726,7 +91340,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [undefined-UNDEFINED] TV: Seitokai ni mo Ana wa Aru!
 {}
 ,
-// [undefined-UNDEFINED] TV: Seitokai ni mo Ana wa Aru!
+// [2026-FALL] TV: Seitokai ni mo Ana wa Aru!
 {"anidb_id":19308,"anilist_id":191656,"animeplanet_id":"seitokai-ni-mo-ana-wa-aru","anisearch_id":20474,"livechart_id":13150,"mal_id":61578}
 ,
 // [2024-SUMMER] SPECIAL: Seitokai ni mo Ana wa Aru! PV
@@ -89747,11 +91361,11 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2017-SUMMER] MOVIE: Seitokai Yakuindomo
 {}
 ,
-// [2012-SPRING] OVA: Seitokai Yakuindomo
-{"anidb_id":8996}
-,
-// [2011-SPRING] OVA: Seitokai Yakuindomo
+// [2011-SPRING] OVA: Seitokai Yakuindomo (2011)
 {"anidb_id":8204}
+,
+// [2012-SPRING] OVA: Seitokai Yakuindomo (2012)
+{"anidb_id":8996}
 ,
 // [2014-FALL] OVA: Seitokai Yakuindomo * OVA
 {"anidb_id":10810}
@@ -89924,14 +91538,17 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2021-FALL] TV: Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru
 {"anidb_id":16055,"anilist_id":129898,"animeplanet_id":"the-worlds-finest-assassin-gets-reincarnated-in-another-world-as-an-aristocrat","anisearch_id":15983,"livechart_id":10383,"mal_id":47790}
 ,
-// [undefined-UNDEFINED] TV: Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru 2nd Season
+// [2027-WINTER] TV: Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru Season 2
 {"anidb_id":18207,"anilist_id":169579,"animeplanet_id":"the-worlds-finest-assassin-gets-reincarnated-in-another-world-as-an-aristocrat-2nd-season","anisearch_id":18713,"livechart_id":12346,"mal_id":56732}
 ,
-// [undefined-UNDEFINED] TV: Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha
-{}
+// [2026-SUMMER] TV: Sekai Saikyou no Kouei
+{"livechart_id":13312}
 ,
 // [2026-SUMMER] TV: Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha
-{"anidb_id":19569,"anilist_id":198409,"animeplanet_id":"the-worlds-strongest-rearguard-labyrinth-countrys-novice-seeker","anisearch_id":20869,"livechart_id":13312,"mal_id":62435}
+{"anidb_id":19569,"anilist_id":198409,"anisearch_id":20869,"mal_id":62435}
+,
+// [2026-FALL] TV: Sekai Saikyou no Majo, Hajimemashita
+{"anidb_id":20035,"anilist_id":211778,"anisearch_id":21543,"livechart_id":13623,"mal_id":64084}
 ,
 // [2014-WINTER] TV: Sekai Seifuku: Bouryaku no Zvezda
 {"anidb_id":10212,"anilist_id":20496,"animeplanet_id":"world-conquest-zvezda-plot","anisearch_id":9230,"livechart_id":282,"mal_id":20973}
@@ -90008,7 +91625,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2010-SUMMER] SPECIAL: Sekirei: Pure Engagement Episode 0
 {"anilist_id":9355,"animeplanet_id":"sekirei-pure-engagement-special","anisearch_id":7219,"livechart_id":4113,"mal_id":9355}
 ,
-// [2026-WINTER] MOVIE: Sekiro: No Defeat
+// [2026-SUMMER] MOVIE: Sekiro: No Defeat
 {"anidb_id":19532,"anilist_id":197620,"animeplanet_id":"sekiro-no-defeat","anisearch_id":20850,"livechart_id":13286,"mal_id":62312}
 ,
 // [2007-SPRING] OVA: Sekishoku Elegy
@@ -90046,9 +91663,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2013-WINTER] MOVIE: SELF Image
 {"anilist_id":104359,"animeplanet_id":"self-image"}
-,
-// [1988-UNDEFINED] MOVIE: Self Portrait
-{"anilist_id":168563,"mal_id":61225}
 ,
 // [2017-WINTER] MOVIE: Self-Honest Me
 {"anilist_id":113719,"animeplanet_id":"self-honest-me"}
@@ -90422,6 +92036,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1990-FALL] MOVIE: Sensou ga Owatta Natsu ni 1945 Karafuto
 {"anidb_id":8639,"animeplanet_id":"sensou-ga-owatta-natsu-ni-1945-karafuto","anisearch_id":7273,"mal_id":25035}
 ,
+// [undefined-UNDEFINED] TV: Sensou Kyoushitsu
+{"livechart_id":13706}
+,
+// [2027-WINTER] TV: Sensou Kyoushitsu
+{"anidb_id":20147,"anilist_id":213740,"anisearch_id":21763,"mal_id":64520}
+,
 // [2015-FALL] MOVIE: Sensou no Tsukurikata
 {"anidb_id":11936,"anilist_id":103402,"animeplanet_id":"what-happens-before-war","anisearch_id":11285,"mal_id":32728}
 ,
@@ -90457,9 +92077,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [undefined-UNDEFINED] TV: Sentenced to Be a Hero
 {}
-,
-// [2021-WINTER] ONA: Sentimental Circus × Corocoro Coronya no supesharukorabo
-{"mal_id":61527}
 ,
 // [1998-SPRING] TV: Sentimental Journey
 {"anidb_id":1298,"anilist_id":677,"animeplanet_id":"sentimental-journey","anisearch_id":1210,"livechart_id":7548,"mal_id":677}
@@ -90517,6 +92134,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2004-UNDEFINED] TV: Seonmulgonglyong Dibo
 {"mal_id":48255}
+,
+// [2024-SUMMER] SPECIAL: Seoul Phonk feat. Skyminhyuk
+{"mal_id":64031}
 ,
 // [2016-SUMMER] MOVIE: Seoul-yeok
 {"anidb_id":12732,"anilist_id":101874,"animeplanet_id":"seoul-station","anisearch_id":11606,"livechart_id":8969,"mal_id":34048}
@@ -90629,6 +92249,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2014-FALL] TV: Setsuzoku Muyou
 {"animeplanet_id":"setsuzoku-muyou","mal_id":28887}
 ,
+// [2026-SPRING] ONA: Seungri-ui Yeosin: NIKKE Jeonchogiji, Oneureun Swimnida
+{"livechart_id":13634}
+,
 // [1998-SPRING] TV: Seupideuwang Beongae
 {"anidb_id":12902,"anilist_id":9424,"animeplanet_id":"seupideuwang-beongae","mal_id":9424}
 ,
@@ -90714,6 +92337,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anisearch_id":5138,"mal_id":7864}
 ,
 // [1978-SPRING] TV: SF Saiyuuki Starzinger
+{"anidb_id":1593}
+,
+// [1978-SPRING] TV: SF Saiyuuki Starzinger
 {"anilist_id":1236,"livechart_id":9147,"mal_id":1236}
 ,
 // [1979-WINTER] MOVIE: SF Saiyuuki Starzinger (Movie)
@@ -90726,7 +92352,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":185940,"anisearch_id":20639,"mal_id":60660}
 ,
 // [2026-FALL] TV: Sgt. Frog (2026)
-{"animeplanet_id":"sgt-frog-2026"}
+{"anidb_id":20085,"animeplanet_id":"sgt-frog-2026"}
 ,
 // [2025-FALL] TV: Shabake
 {"anidb_id":19013,"anilist_id":184997,"animeplanet_id":"shabake","anisearch_id":19836,"livechart_id":12943,"mal_id":60378}
@@ -90753,10 +92379,13 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":15285,"anilist_id":113570,"animeplanet_id":"shachibato-president-its-time-for-battle","anisearch_id":14914,"livechart_id":9698,"mal_id":40783}
 ,
 // [2025-WINTER] SPECIAL: Shade no Hokori wa Enchou
-{"anilist_id":204375,"mal_id":61106}
+{"anilist_id":204375,"anisearch_id":21406,"mal_id":61106}
 ,
 // [2024-WINTER] SPECIAL: Shadow
 {"anisearch_id":19446}
+,
+// [2026-WINTER] ONA: Shadow Beat
+{"mal_id":64304}
 ,
 // [2005-SUMMER] TV: Shadow Fighter
 {"animeplanet_id":"shadow-fighter","mal_id":48254}
@@ -90784,9 +92413,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2020-SPRING] TV: Shadowverse
 {"anidb_id":15134,"anilist_id":112325,"animeplanet_id":"shadowverse","anisearch_id":15027,"livechart_id":9629,"mal_id":40506}
-,
-// [2018-SPRING] ONA: Shadowverse
-{"anidb_id":14106}
 ,
 // [2022-SPRING] TV: Shadowverse Flame
 {"anidb_id":16855,"anilist_id":140085,"animeplanet_id":"shadowverse-flame","anisearch_id":16646,"livechart_id":10830,"mal_id":50060}
@@ -90817,6 +92443,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2020-SPRING] SPECIAL: Shadowverse Recaps
 {"animeplanet_id":"shadowverse-special-shadowverse-episode","anisearch_id":16228,"mal_id":42486}
+,
+// [2018-SPRING] ONA: Shadowverse: 1 Shou Joshou
+{"anidb_id":14106}
 ,
 // [2025-SPRING] SPECIAL: Shadowverse: Worlds Beyond
 {"anisearch_id":20652}
@@ -91010,6 +92639,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2022-SPRING] MOVIE: Shan Gaogao
 {"mal_id":57079}
 ,
+// [2024-FALL] ONA: Shan Hai Fu Mo Lu
+{"anisearch_id":21655}
+,
 // [undefined-UNDEFINED] ONA: Shan Hai Ji Hui: Part II
 {"animeplanet_id":"shan-hai-ji-hui-part-ii"}
 ,
@@ -91107,7 +92739,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":18982,"anilist_id":185830,"animeplanet_id":"shanhai-fu-mo-lu-wu-huang","mal_id":60248}
 ,
 // [2023-SPRING] ONA: Shanhai Jihui
-{"anidb_id":18826,"anilist_id":156100,"animeplanet_id":"shan-hai-ji-hui","mal_id":54895}
+{"anidb_id":18826,"anilist_id":156100,"animeplanet_id":"shan-hai-ji-hui","anisearch_id":21637,"mal_id":54895}
 ,
 // [2025-FALL] ONA: Shanhai Jing Mima
 {"anidb_id":19797,"mal_id":62708}
@@ -91253,10 +92885,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2017-FALL] ONA: Shaonian Jinyiwei 2nd Season
 {"anidb_id":13820,"anilist_id":102432,"animeplanet_id":"the-young-imperial-guards-2nd-season","anisearch_id":13347,"mal_id":37152}
 ,
-// [2017-SUMMER] ONA: Shaonian Jinyiwei 2nd Season Xuzhang
+// [2017-SUMMER] ONA: Shaonian Jinyiwei 2nd Season: Xuzhang
 {"animeplanet_id":"the-young-imperial-guards-2nd-season-prologue","mal_id":52182}
 ,
-// [2016-FALL] ONA: Shaonian Jinyiwei Xuzhang
+// [2016-FALL] ONA: Shaonian Jinyiwei: Xuzhang
 {"animeplanet_id":"the-young-imperial-guards-prologue","mal_id":48910}
 ,
 // [2015-SPRING] MOVIE: Shaonian Mao Zedong
@@ -91351,6 +92983,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2022-SUMMER] ONA: Shark'd
 {"animeplanet_id":"gawr-gura-sharkd","mal_id":53074}
+,
+// [2023-FALL] TV: Shasha & Milo
+{"anisearch_id":21514}
+,
+// [2025-FALL] MOVIE: Shasha & Milo (2025)
+{"anisearch_id":21500}
 ,
 // [2023-FALL] TV: Shasha and Milo
 {"mal_id":56485}
@@ -91559,11 +93197,20 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2022-FALL] ONA: Shen Yin Wangzuo 2nd Season
 {"anidb_id":18458,"anilist_id":153499,"animeplanet_id":"throne-of-seal-2nd-season","anisearch_id":18246,"mal_id":52684}
 ,
-// [2025-SPRING] ONA: Shen Yin Wangzuo 3
+// [2025-UNDEFINED] ONA: Shen Yin Wangzuo 3
 {"anilist_id":185729}
+,
+// [2025-SPRING] ONA: Shen Yin Wangzuo 3
+{}
+,
+// [2025-SPRING] ONA: Shen Yin Wangzuo Juchang Ban: Yilaikesi Chuanqi
+{"anisearch_id":21627}
 ,
 // [2025-SPRING] ONA: Shen Yin Wangzuo Movie: Yi Lai Ke Si Chuanqi
 {"anidb_id":19319,"anilist_id":195879,"animeplanet_id":"throne-of-seal-movie-the-crownless-god","mal_id":61508}
+,
+// [undefined-UNDEFINED] ONA: Shen Yin Wangzuo: Sheng Babie Zhi Zhan
+{"mal_id":64460}
 ,
 // [undefined-UNDEFINED] ONA: Shen Yu: Zui Qiang Jian Shen
 {"anilist_id":153453}
@@ -91602,7 +93249,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":13406,"anisearch_id":12756}
 ,
 // [2026-UNDEFINED] ONA: Sheng Xu
-{"animeplanet_id":"sheng-xu","mal_id":62715}
+{"anilist_id":210465,"animeplanet_id":"sheng-xu","mal_id":62715}
+,
+// [undefined-UNDEFINED] ONA: Sheng Xu Movie: Lu Jin Liaoyuan
+{"mal_id":64454}
 ,
 // [2024-WINTER] ONA: Sheng Zu
 {"anidb_id":18446,"anilist_id":155313,"animeplanet_id":"lord-of-all-lords","mal_id":57877}
@@ -91623,10 +93273,13 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":18428,"anilist_id":108576,"animeplanet_id":"sheng-si-hui-fang","mal_id":47231}
 ,
 // [2025-SPRING] ONA: Shenguo Zhi Shang
-{"anidb_id":19388,"anilist_id":195883,"animeplanet_id":"over-the-divine-realms","mal_id":61564}
+{"anidb_id":19388,"anilist_id":195883,"animeplanet_id":"over-the-divine-realms","anisearch_id":21623,"mal_id":61564}
 ,
 // [2026-UNDEFINED] ONA: Shenguo Zhi Shang 2
 {"anilist_id":199088}
+,
+// [2026-UNDEFINED] ONA: Shenguo Zhi Shang 2nd Season
+{"mal_id":63989}
 ,
 // [2013-UNDEFINED] TV: Shengwu Wangguo Qihuan Zhi Lu
 {"mal_id":46967}
@@ -91700,6 +93353,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2018-SUMMER] MOVIE: Shenmi Shijie Lixian Ji 4
 {"anilist_id":131223,"animeplanet_id":"shenmi-shijie-lixian-ji-movie-4","mal_id":44816}
 ,
+// [2025-SUMMER] ONA: Shenmi Xue Ketang
+{"animeplanet_id":"old-neils-mysticism-class","mal_id":64526}
+,
 // [2022-WINTER] TV: Shenmue the Animation
 {"anidb_id":15713,"anilist_id":123752,"animeplanet_id":"shenmue-the-animation","anisearch_id":15519,"livechart_id":10137,"mal_id":42808}
 ,
@@ -91747,6 +93403,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2020-UNDEFINED] TV: Shenqi Zhihui Dao
 {"animeplanet_id":"shenqi-zhihui-dao","mal_id":48082}
+,
+// [2020-SPRING] SPECIAL: Shenshi Mowang: Gentleman Devil
+{"anidb_id":15979}
 ,
 // [undefined-UNDEFINED] ONA: Shentan Chou Lian Mao
 {"mal_id":47980}
@@ -91853,6 +93512,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [undefined-UNDEFINED] ONA: Shi Ren Huixiang
 {"animeplanet_id":"destinys-echo","mal_id":62792}
 ,
+// [undefined-UNDEFINED] ONA: Shi Ri Zhong Yan
+{"mal_id":64446}
+,
 // [2022-SUMMER] ONA: Shi Shaoxia Ganjue Hao Gudan
 {"anilist_id":134102,"animeplanet_id":"shi-shaoxia-gunjue-hao-gudan","anisearch_id":20590,"mal_id":50920}
 ,
@@ -91876,12 +93538,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2017-SPRING] MOVIE: Shi Tu
 {"animeplanet_id":"shi-tu","mal_id":52772}
-,
-// [2019-WINTER] MOVIE: Shi Wai
-{"animeplanet_id":"another-world-2019","anisearch_id":18673,"mal_id":52841}
-,
-// [2025-FALL] MOVIE: Shi Wai (2025)
-{"mal_id":62497}
 ,
 // [2012-SUMMER] ONA: Shi Wan Ge Leng Xiaohua
 {"anidb_id":14311,"anilist_id":103363,"animeplanet_id":"shi-wan-ge-leng-xiaohua","anisearch_id":11693,"mal_id":33193}
@@ -91907,6 +93563,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2010-UNDEFINED] TV: Shi Wan Ge Weisheme Juchang: Haiyang Ban
 {"animeplanet_id":"shi-wan-ge-weisheme-juchang-haiyang-ban","mal_id":46078}
 ,
+// [2024-UNDEFINED] ONA: Shi Wang Zhe A? 4
+{"anilist_id":213696}
+,
+// [2025-UNDEFINED] ONA: Shi Wang Zhe A? 5
+{"anilist_id":213697}
+,
 // [2022-WINTER] ONA: Shi Wangzhe A?
 {"anidb_id":18704,"anilist_id":140955,"animeplanet_id":"shi-wangzhe-a","anisearch_id":17225,"mal_id":51405}
 ,
@@ -91922,7 +93584,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-SUMMER] ONA: Shi Wangzhe A? 5th Season
 {"animeplanet_id":"shi-wangzhe-a-5th-season","mal_id":63173}
 ,
-// [2025-SUMMER] ONA: Shi Wangzhe A? Di 5 Ji: Feng Wu Leiting Chang'an Juan
+// [2026-SUMMER] ONA: Shi Wangzhe A? 6th Season
+{"mal_id":64509}
+,
+// [2025-SUMMER] ONA: Shi Wangzhe A? Di 5 Ji: Feng Wu Leiting Chang`an Juan
 {"anidb_id":19654}
 ,
 // [2017-SUMMER] ONA: Shi Xian
@@ -91953,7 +93618,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"mal_id":62799}
 ,
 // [2020-SUMMER] ONA: Shi Zhi Ge: Hua Yu Yan De Kuangxiang Shi
-{"anidb_id":15664,"anilist_id":114116,"animeplanet_id":"song-of-time","livechart_id":10040,"mal_id":42285}
+{"anidb_id":15664,"anilist_id":114116,"animeplanet_id":"song-of-time","anisearch_id":21706,"livechart_id":10040,"mal_id":42285}
 ,
 // [2007-FALL] SPECIAL: Shiawase Daifuku
 {"anilist_id":145287,"animeplanet_id":"shiawase-daifuku","anisearch_id":6759,"mal_id":37059}
@@ -91994,6 +93659,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2010-FALL] ONA: Shiawase Pasta Story
 {"animeplanet_id":"shiawase-pasta-story","anisearch_id":12799,"livechart_id":9009,"mal_id":37423}
 ,
+// [2026-SPRING] SPECIAL: Shiawase Shinryaku Keikaku
+{"mal_id":64472}
+,
 // [2001-FALL] TV: Shiawase Sou no Okojo-san
 {"anidb_id":1947,"anilist_id":2934,"animeplanet_id":"shiawase-sou-no-okojo-san","anisearch_id":2475,"livechart_id":8494,"mal_id":2934}
 ,
@@ -92017,6 +93685,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2010-SUMMER] MOVIE: Shibo Zongdongyuan
 {"anisearch_id":10415,"mal_id":44746}
+,
+// [2026-SUMMER] MOVIE: Shibou Yuugi de Meshi o Kuu. 44: Cloudy Beach
+{"anidb_id":19993,"anisearch_id":21573}
 ,
 // [2026-WINTER] TV: Shibou Yuugi de Meshi wo Kuu.
 {"anidb_id":18845,"anilist_id":180746,"animeplanet_id":"shiboyugi-playing-death-games-to-put-food-on-the-table","anisearch_id":19568,"livechart_id":12815,"mal_id":59711}
@@ -92051,8 +93722,11 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-FALL] TV: Shibuya♡Hachi Part 4
 {"anilist_id":195173,"livechart_id":13212,"mal_id":61922}
 ,
+// [2026-WINTER] ONA: Shibuya♡Hachi Part 4: Hachi to Shibuya wo Arukou!
+{"mal_id":63976}
+,
 // [2001-WINTER] OVA: Shibuzome Ikki: Ashita ni Kakeru Niji
-{"animeplanet_id":"shibuzome-ikki-ashita-ni-kakeru-niji","mal_id":30983}
+{"animeplanet_id":"shibuzome-ikki-ashita-ni-kakeru-niji","anisearch_id":21456,"mal_id":30983}
 ,
 // [2023-SUMMER] SPECIAL: Shichifukujin
 {"mal_id":61665}
@@ -92120,8 +93794,8 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-SUMMER] ONA: Shiguang Dailiren II
 {"anidb_id":16531,"anilist_id":136484,"animeplanet_id":"link-click-2nd-season","anisearch_id":16584,"livechart_id":10696,"mal_id":49413}
 ,
-// [2026-FALL] ONA: Shiguang Dailiren III
-{"anilist_id":191832,"animeplanet_id":"link-click-3rd-season","anisearch_id":20484,"livechart_id":13155,"mal_id":61607}
+// [2026-SUMMER] ONA: Shiguang Dailiren III
+{"anidb_id":19882,"anilist_id":191832,"animeplanet_id":"link-click-3rd-season","anisearch_id":20484,"livechart_id":13155,"mal_id":61607}
 ,
 // [2021-SUMMER] ONA: Shiguang Dailiren Special: Xiaoyao Sanren de Weituo
 {"anilist_id":138260,"animeplanet_id":"link-click-troubles-of-ordinary-people","anisearch_id":16898,"livechart_id":10763,"mal_id":49652}
@@ -92149,6 +93823,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2016-SPRING] MOVIE: Shiguang Guiyu: Juchang Ban
 {}
+,
+// [2026-SPRING] ONA: Shiguang Xiao Juchang
+{"anisearch_id":21380}
+,
+// [2026-SPRING] ONA: Shiguang Xiao Juchang
+{"anilist_id":210932,"mal_id":63957}
 ,
 // [2021-FALL] ONA: Shiguang Zhaoxiangguan de Richang
 {"anilist_id":140175,"animeplanet_id":"link-click-the-daily-life-in-lightime","anisearch_id":16650,"livechart_id":10836,"mal_id":50105}
@@ -92199,7 +93879,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":18392,"anilist_id":147886,"animeplanet_id":"time-prisoner-2","anisearch_id":18017,"mal_id":51746}
 ,
 // [2025-SPRING] MOVIE: Shijian Zhizi
-{"anidb_id":19498,"anilist_id":199372,"animeplanet_id":"endless-journey-of-love","mal_id":60877}
+{"anidb_id":19498,"anilist_id":199372,"animeplanet_id":"endless-journey-of-love","anisearch_id":21628,"mal_id":60877}
 ,
 // [1974-WINTER] MOVIE: Shijin no Shougai
 {"anidb_id":4400,"anilist_id":7257,"animeplanet_id":"shijin-no-shougai","anisearch_id":10629,"mal_id":7257}
@@ -92436,7 +94116,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":9131,"anilist_id":18941,"animeplanet_id":"shimajirou-no-wow","anisearch_id":7761,"livechart_id":10106,"mal_id":18941}
 ,
 // [2013-WINTER] MOVIE: Shimajirou no Wow! Movie 1: Shimajirou to Fufu no Daibouken: Sukue! Nanairo no Hana
-{"anidb_id":9500,"anilist_id":18943,"animeplanet_id":"shimajirou-to-fufu-no-daibouken-movie-sukue-nana-iro-no-hana","anisearch_id":8185,"mal_id":18943}
+{"anidb_id":9500,"anilist_id":18943,"animeplanet_id":"shimajirou-to-fufu-no-daibouken-movie-sukue-nana-iro-no-hana","anisearch_id":8185,"livechart_id":13619,"mal_id":18943}
 ,
 // [2022-WINTER] MOVIE: Shimajirou no Wow! Movie 10: Shimajirou to Kirakira Oukoku no Oujisama
 {"anidb_id":17068,"anilist_id":172973,"animeplanet_id":"shimajirou-to-kirakira-oukoku-no-ouji-sama","anisearch_id":17175,"livechart_id":11122,"mal_id":54269}
@@ -92975,6 +94655,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2017-SUMMER] ONA: Shine Time!
 {"animeplanet_id":"shine-time","mal_id":53192}
 ,
+// [2026-SPRING] SPECIAL: Shine Together
+{"mal_id":64307}
+,
 // [2019-FALL] SPECIAL: Shingata Jii (5-daime) LT-AM-3501
 {"animeplanet_id":"usb-lighter-jii-cm","mal_id":42181}
 ,
@@ -93004,6 +94687,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2024-FALL] MOVIE: Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack
 {"anidb_id":18820,"anisearch_id":19527,"livechart_id":12802,"mal_id":59571}
+,
+// [2013-FALL] OVA: Shingeki no Kyojin OAD
+{"anidb_id":9826}
 ,
 // [2013-FALL] OVA: Shingeki no Kyojin OVA
 {"anilist_id":18397,"animeplanet_id":"attack-on-titan-ova","anisearch_id":8677,"livechart_id":139,"mal_id":18397}
@@ -93120,10 +94806,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anisearch_id":18822}
 ,
 // [undefined-UNDEFINED] TV: Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku
-{"anidb_id":19822,"anilist_id":205896,"animeplanet_id":"full-clearing-another-world-under-a-goddess-with-zero-believers","livechart_id":13477,"mal_id":63292}
-,
-// [undefined-UNDEFINED] TV: Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku
 {}
+,
+// [2026-FALL] TV: Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku
+{"anidb_id":19822,"anilist_id":205896,"animeplanet_id":"full-clearing-another-world-under-a-goddess-with-zero-believers","livechart_id":13477,"mal_id":63292}
 ,
 // [undefined-UNDEFINED] TV: Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku
 {"anisearch_id":21163}
@@ -93247,6 +94933,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2023-FALL] SPECIAL: Shinkiro
 {"anidb_id":18276,"anilist_id":170917,"animeplanet_id":"marine-houshou-x-gawr-gura-shinkiro","anisearch_id":18864,"mal_id":57145}
+,
+// [2026-SPRING] SPECIAL: Shinkirou
+{"mal_id":64306}
 ,
 // [2025-WINTER] SPECIAL: Shinkokyuu no Riyuu
 {"mal_id":60958}
@@ -93429,7 +95118,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anisearch_id":6406,"mal_id":9325}
 ,
 // [2006-SPRING] TV: Shinseiki Duel Masters Flash
-{"anidb_id":5527,"anilist_id":10525,"animeplanet_id":"shinseiki-duel-masters-flash","anisearch_id":4563,"mal_id":10525}
+{"anidb_id":5527,"anilist_id":10525,"animeplanet_id":"shinseiki-duel-masters-flash","anisearch_id":4563,"livechart_id":13614,"mal_id":10525}
 ,
 // [1995-FALL] TV: Shinseiki Evangelion
 {"anidb_id":22,"anilist_id":30,"animeplanet_id":"neon-genesis-evangelion","anisearch_id":345,"livechart_id":3590,"mal_id":30}
@@ -93608,17 +95297,11 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2018-WINTER] MOVIE: Shiosai-bound
 {"anilist_id":169939,"animeplanet_id":"shiosai-bound"}
 ,
-// [undefined-UNDEFINED] TV: Shiotaiou no Satou-san ga Ore ni dake Amai
-{"livechart_id":13559}
-,
-// [2026-WINTER] TV: Shiotaiou no Satou-san ga Ore ni dake Amai
-{"anidb_id":19955}
-,
-// [2026-UNDEFINED] TV: Shiotaiou no Satou-san ga Ore ni dake Amai
-{"anilist_id":209502,"animeplanet_id":"shio-taiou-no-sato-san-ga-ore-ni-dake-amai","anisearch_id":21312,"mal_id":63754}
+// [2026-FALL] TV: Shiotaiou no Satou-san ga Ore ni dake Amai
+{"anidb_id":19955,"anilist_id":209502,"animeplanet_id":"shio-taiou-no-sato-san-ga-ore-ni-dake-amai","anisearch_id":21312,"livechart_id":13559,"mal_id":63754}
 ,
 // [2003-WINTER] OVA: Shippai Ippai mo Ikkai
-{"animeplanet_id":"shippai-ippai-mo-ikkai","mal_id":36322}
+{"animeplanet_id":"shippai-ippai-mo-ikkai","anisearch_id":21444,"mal_id":36322}
 ,
 // [1986-SUMMER] SPECIAL: Shippo no Kimochi
 {"anilist_id":118051,"animeplanet_id":"shippo-no-kimochi","anisearch_id":11798,"mal_id":37197}
@@ -93645,13 +95328,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":8466,"anilist_id":13175,"animeplanet_id":"shiranpuri","anisearch_id":7140,"livechart_id":5768,"mal_id":13175}
 ,
 // [2026-SUMMER] MOVIE: Shiranuhi
+{"anidb_id":20112,"animeplanet_id":"shiranuhi","livechart_id":13540,"mal_id":63973}
+,
+// [2026-SUMMER] MOVIE: Shiranuhi
 {"anilist_id":176373}
-,
-// [2026-UNDEFINED] MOVIE: SHIRANUHI
-{"animeplanet_id":"shiranuhi"}
-,
-// [2026-SUMMER] MOVIE: Shiranui
-{"livechart_id":13540}
 ,
 // [2024-WINTER] ONA: Shirarezaru "Momowarou Monogatari"
 {"animeplanet_id":"the-untold-story-of-pecharunt","anisearch_id":19036,"mal_id":57858}
@@ -93685,6 +95365,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2016-SPRING] ONA: Shiritsu Liyon Gakuen
 {"anidb_id":12193,"animeplanet_id":"shiritsu-liyon-gakuen","anisearch_id":11503,"mal_id":33415}
+,
+// [1992-SUMMER] OVA: Shiritsu Tantei Toki Shōzō no Trouble Note - Hard & Loose
+{}
 ,
 // [1992-WINTER] OVA: Shiritsutantei: Toki Shouzou Trouble Note - Hard & Loose
 {"anidb_id":4482,"anilist_id":6091,"animeplanet_id":"shiritsutantei-toki-shouzou-trouble-note-hard-and-loose","anisearch_id":3703,"mal_id":6091}
@@ -93806,12 +95489,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2020-SPRING] TV: Shironeko Project: Zero Chronicle
 {"anidb_id":14540,"anilist_id":110458,"animeplanet_id":"shironeko-project-zero-chronicle","anisearch_id":14516,"livechart_id":8676,"mal_id":38843}
 ,
-// [2026-FALL] TV: Shirotan
-{"animeplanet_id":"shirotan"}
-,
-// [2017-SUMMER] ONA: Shirotan: Shirotan ga Ippai!
-{"anidb_id":13377,"anilist_id":99966,"animeplanet_id":"shirotan-shirotan-ga-ippai","anisearch_id":12739,"livechart_id":8328,"mal_id":36107}
-,
 // [2003-SUMMER] OVA: Shirouto Club: Hamedori Anime Kanzen Mushuusei!!
 {"anisearch_id":4862,"mal_id":5551}
 ,
@@ -93840,7 +95517,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":153480}
 ,
 // [2026-WINTER] ONA: Shishang Zui Qiang Lian Ti Lao Zu
-{"anidb_id":19863,"anilist_id":206895,"mal_id":63360}
+{"anidb_id":19863,"anilist_id":206895,"animeplanet_id":"the-supreme-body-refining-master","anisearch_id":21532,"mal_id":63360}
 ,
 // [2022-SPRING] ONA: Shishang Zui Qiang Nan Zhujiao
 {"anidb_id":17447,"anilist_id":149810,"animeplanet_id":"shishang-zui-qiang-nan-zhujiao","mal_id":51863}
@@ -93894,7 +95571,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"mal_id":61004}
 ,
 // [1974-WINTER] MOVIE: Shita-kiri Suzume (1974)
-{"anidb_id":14267,"anilist_id":117799,"animeplanet_id":"shita-kiri-suzume-1974","mal_id":34743}
+{"anidb_id":14267,"anilist_id":117799,"animeplanet_id":"shita-kiri-suzume-1974","anisearch_id":21691,"mal_id":34743}
 ,
 // [2003-SPRING] OVA: Shitai wo Arau The Animation
 {"anisearch_id":1477,"mal_id":2348}
@@ -93950,11 +95627,17 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-FALL] ONA: Shixiong A Shixiong 2nd Season
 {"animeplanet_id":"big-brother-2nd-season","mal_id":57442}
 ,
-// [2024-SPRING] ONA: Shixiong A Shixiong 3rd Season
+// [2025-SPRING] ONA: Shixiong A Shixiong Nian Fan 2
+{"anisearch_id":21617}
+,
+// [2024-SPRING] ONA: Shixiong A Shixiong: Nian Fan
 {"anidb_id":18691,"anilist_id":182556,"animeplanet_id":"big-brother-3rd-season","anisearch_id":19369,"mal_id":61730}
 ,
 // [2025-SPRING] ONA: Shixiong A Shixiong: Nian Fan 2
 {"anidb_id":19375,"anilist_id":195885,"animeplanet_id":"big-brother-4th-season","mal_id":61753}
+,
+// [2026-SPRING] ONA: Shixiong A Shixiong: Zuizhong Ji
+{"anidb_id":20153,"mal_id":64394}
 ,
 // [2021-UNDEFINED] ONA: Shixiong, Qing An Juben Lai!
 {"anilist_id":132516,"animeplanet_id":"shixiong-qing-an-juben-lai"}
@@ -94079,6 +95762,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2015-FALL] OVA: Shokugeki no Souma OAD
 {"anisearch_id":10898,"livechart_id":1735}
 ,
+// [2015-FALL] OVA: Shokugeki no Souma OAD
+{"anidb_id":11664}
+,
 // [2016-SPRING] OVA: Shokugeki no Souma OVA
 {"anilist_id":21691,"mal_id":31327}
 ,
@@ -94143,7 +95829,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":12672,"anilist_id":116155,"animeplanet_id":"shooting-hero","mal_id":31942}
 ,
 // [2024-FALL] TV: Shooting Star Catch! Tiniping
-{"anilist_id":182159,"animeplanet_id":"shooting-star-catch-teenieping","mal_id":59894}
+{"anidb_id":20133,"anilist_id":182159,"animeplanet_id":"shooting-star-catch-teenieping","mal_id":59894}
 ,
 // [2019-SPRING] SPECIAL: Shooting Stars
 {"anisearch_id":14606}
@@ -94163,20 +95849,17 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2013-SUMMER] SPECIAL: Short Peace Opening
 {"animeplanet_id":"short-peace-op","anisearch_id":9656,"livechart_id":6139,"mal_id":19573}
 ,
-// [2025-SPRING] TV: SHOSHIMIN: How to become Ordinary
-{}
-,
 // [2005-UNDEFINED] SPECIAL: Shota Sakamoto: what I cry for...
 {"animeplanet_id":"shota-sakamoto-what-i-cry-for"}
 ,
 // [2026-SPRING] TV: Shou 3 Ashibe QQ Goma-chan
-{"anidb_id":19930,"anilist_id":202386,"animeplanet_id":"shou-3-ashibe-qq-goma-chan","anisearch_id":21037,"mal_id":62933}
+{"anidb_id":19930,"anilist_id":202386,"animeplanet_id":"shou-3-ashibe-qq-goma-chan","anisearch_id":21037,"livechart_id":13389,"mal_id":62933}
+,
+// [2024-SUMMER] MOVIE: Shou Long Zhe
+{"anisearch_id":21597}
 ,
 // [undefined-UNDEFINED] ONA: Shou Mu Biji
 {"anilist_id":129236}
-,
-// [2026-SPRING] TV: Shou-3 Ashibe QQ Goma-chan
-{"livechart_id":13389}
 ,
 // [1924-WINTER] MOVIE: Shou-chan no Bouken
 {"anidb_id":6834,"animeplanet_id":"shou-chan-no-bouken","anisearch_id":5793,"mal_id":49249}
@@ -94231,6 +95914,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1999-SUMMER] MOVIE: Shoujo Kakumei Utena: Adolescence Mokushiroku
 {"anidb_id":256,"anilist_id":441,"animeplanet_id":"revolutionary-girl-utena-the-adolescence-of-utena","anisearch_id":1159,"livechart_id":4737,"mal_id":441}
+,
+// [2024-FALL] ONA: Shoujo Kakumeikeikaku
+{"anisearch_id":21684}
 ,
 // [2016-WINTER] OVA: Shoujo kara Shoujo e...
 {"anisearch_id":11123,"mal_id":32518}
@@ -94407,7 +96093,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":7359,"anilist_id":179750,"animeplanet_id":"shounen-miyamoto-musashi","anisearch_id":6056,"mal_id":57166}
 ,
 // [2000-WINTER] OVA: Shounen Muku Hatojuu Monogatari
-{"animeplanet_id":"shounen-muku-hatojuu-monogatari","mal_id":30940}
+{"animeplanet_id":"shounen-muku-hatojuu-monogatari","anisearch_id":21460,"mal_id":30940}
 ,
 // [1964-SUMMER] TV: Shounen Ninja Kaze no Fujimaru
 {"anidb_id":1881,"anilist_id":13307,"animeplanet_id":"shounen-ninja-kaze-no-fujimaru","anisearch_id":2043,"livechart_id":6832,"mal_id":13307}
@@ -94529,6 +96215,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2008-WINTER] SPECIAL: Shounen Sunday CM: Zettai Karen Children
 {"animeplanet_id":"shounen-sunday-cm-zettai-karen-children","mal_id":52688}
 ,
+// [2026-SPRING] ONA: Shounen to Gundam
+{"anidb_id":20056,"anisearch_id":21568,"mal_id":64205}
+,
+// [2026-SPRING] ONA: Shounen to Gundam - Kidou Senshi Gundam 50-shuunen: Road to 50 - Prologue Movie
+{"anilist_id":212323}
+,
 // [2013-SUMMER] SPECIAL: Shounen to Mahou no Robot
 {"anilist_id":178595,"animeplanet_id":"shounen-to-mahou-no-robot","mal_id":37607}
 ,
@@ -94649,6 +96341,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2022-FALL] SPECIAL: Show in Backrooms
 {"mal_id":55356}
 ,
+// [2019-WINTER] SPECIAL: Show Love
+{"mal_id":64392}
+,
 // [2021-FALL] TV: Show Time!
 {}
 ,
@@ -94682,6 +96377,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2026-UNDEFINED] MOVIE: Shrouding the Heavens Movie: Fighting Against Wang Teng with Copper Coffin
 {"animeplanet_id":"shrouding-the-heavens-movie-fighting-against-wang-teng-with-copper-coffin"}
 ,
+// [2026-SPRING] MOVIE: Shrouding the Heavens: The Imperial Path
+{}
+,
 // [2019-WINTER] ONA: Shu
 {"anilist_id":113204,"mal_id":41222}
 ,
@@ -94697,7 +96395,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2020-FALL] ONA: Shu Ling Ji 2nd Season
 {"anidb_id":16753,"anilist_id":127996,"animeplanet_id":"shu-ling-ji-2nd-season","mal_id":45612}
 ,
-// [2022-SPRING] ONA: Shu Ling Ji 3
+// [2022-SPRING] ONA: Shu Ling Ji 3rd Season
 {"anidb_id":17426,"anilist_id":149498,"animeplanet_id":"shu-ling-ji-3rd-season","mal_id":51821}
 ,
 // [2021-FALL] ONA: Shu Shan Qi Xian Lu
@@ -94726,6 +96424,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2016-SUMMER] ONA: Shuangsheng Lingtan
 {"anidb_id":13351,"anilist_id":98863,"animeplanet_id":"shuangsheng-ling-tan","anisearch_id":13268,"livechart_id":5425,"mal_id":33969}
+,
+// [2025-SPRING] ONA: Shuangsheng Wu Hun
+{"anisearch_id":21624}
 ,
 // [2025-SUMMER] ONA: Shuangsheng Wu Hun
 {"anidb_id":19496,"anilist_id":166422,"animeplanet_id":"the-rise-of-twin-souls","mal_id":61657}
@@ -94926,7 +96627,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anisearch_id":21269,"mal_id":57455}
 ,
 // [1989-FALL] TV: Shuke He Beita
-{"anidb_id":15221,"animeplanet_id":"shuke-he-beita","mal_id":43662}
+{"anidb_id":15221,"animeplanet_id":"shuke-he-beita","anisearch_id":21424,"mal_id":43662}
 ,
 // [2014-FALL] SPECIAL: Shukka Fuufu
 {"anilist_id":139001,"animeplanet_id":"shukka-fuufu","mal_id":36674}
@@ -94961,6 +96662,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2026-SPRING] TV: Shunkashuutou Daikousha: Haru no Mai
 {"anidb_id":19283,"anilist_id":190143,"animeplanet_id":"agents-of-the-four-seasons-dance-of-spring","anisearch_id":20450,"livechart_id":13136,"mal_id":61443}
 ,
+// [2026-SPRING] SPECIAL: Shunpatsu-teki ni Koi Shiyou
+{"mal_id":63915}
+,
 // [2023-WINTER] SPECIAL: Shunsoku 20-shuunen XDreamers-hen
 {"anisearch_id":18728}
 ,
@@ -94991,14 +96695,8 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1990-FALL] OVA: Shuranosuke Zanmaken: Shikamamon no Otoko
 {"anidb_id":1262,"anilist_id":1451,"animeplanet_id":"sword-for-truth","anisearch_id":2006,"livechart_id":7083,"mal_id":1451}
 ,
-// [1999-WINTER] OVA: Shusaku
-{"anisearch_id":2057,"mal_id":2374}
-,
-// [2003-WINTER] OVA: Shusaku Liberty
-{"anisearch_id":556,"mal_id":2376}
-,
-// [2000-SUMMER] OVA: Shusaku Replay
-{"anisearch_id":804,"mal_id":2375}
+// [2024-SUMMER] ONA: Shushan Qi Xian Lu Di-er Ji
+{"anisearch_id":21664}
 ,
 // [2024-UNDEFINED] ONA: Shushan Qi Xian Lu Part 2
 {"anilist_id":193469}
@@ -95075,6 +96773,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2016-FALL] TV: Shuumatsu no Izetta
 {"anidb_id":12201,"anilist_id":21838,"animeplanet_id":"izetta-the-last-witch","anisearch_id":11506,"livechart_id":2214,"mal_id":33433}
 ,
+// [undefined-UNDEFINED] TV: Shuumatsu no Valkyrie IV
+{}
+,
+// [undefined-UNDEFINED] UNKNOWN: Shuumatsu no Valkyrie IV
+{"anilist_id":213580}
+,
 // [2021-SPRING] ONA: Shuumatsu no Walküre
 {"anidb_id":15932,"anilist_id":127399,"animeplanet_id":"record-of-ragnarok","anisearch_id":15822,"livechart_id":10281,"mal_id":44942}
 ,
@@ -95093,6 +96797,15 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-FALL] ONA: Shuumatsu no Walküre III
 {"anidb_id":19212,"anilist_id":187921,"animeplanet_id":"record-of-ragnarok-iii","anisearch_id":20852,"livechart_id":13083,"mal_id":61200}
 ,
+// [undefined-UNDEFINED] ONA: Shuumatsu no Walkure IV
+{"anidb_id":20135}
+,
+// [undefined-UNDEFINED] ONA: Shuumatsu no Walküre IV
+{"anisearch_id":21754}
+,
+// [undefined-UNDEFINED] UNKNOWN: Shuumatsu no Walküre IV
+{"livechart_id":13693,"mal_id":64481}
+,
 // [2021-SUMMER] ONA: Shuumatsu no Walküre Mini Anime
 {"anilist_id":138106,"animeplanet_id":"record-of-ragnarok-mini-anime","anisearch_id":16957,"livechart_id":10720,"mal_id":49507}
 ,
@@ -95110,6 +96823,15 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2024-SPRING] SPECIAL: Shuumatsu Train Doko e Iku? Recap
 {"animeplanet_id":"train-to-the-end-of-the-world-so-far-on-train-to-the-end-of-the-world","anisearch_id":19355,"mal_id":59094}
+,
+// [1999-WINTER] OVA: Shuusaku
+{"anisearch_id":2057,"mal_id":2374}
+,
+// [2003-WINTER] OVA: Shuusaku Liberty
+{"anisearch_id":556,"mal_id":2376}
+,
+// [2000-SUMMER] OVA: Shuusaku Replay
+{"anisearch_id":804,"mal_id":2375}
 ,
 // [2012-UNDEFINED] SPECIAL: Shuuseki Life
 {"anilist_id":116272,"animeplanet_id":"handsome-kenya-shuuseki-life","mal_id":39544}
@@ -95208,9 +96930,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"animeplanet_id":"si-zhi-xiao-ye-ya","mal_id":43249}
 ,
 // [2025-FALL] TV: SI-VIS: The Sound of Heroes
-{}
-,
-// [2025-FALL] TV: SI-VIS: The Sound of Heroes
 {"anidb_id":19501,"anilist_id":196553,"animeplanet_id":"si-vis-the-sound-of-heroes","anisearch_id":20794,"livechart_id":13256,"mal_id":62126}
 ,
 // [2002-SPRING] OVA: Sibling Secret
@@ -95227,6 +96946,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2024-WINTER] SPECIAL: Sidaeyugam (2024 Remastered Ver.)
 {"mal_id":59907}
+,
+// [2026-SPRING] SPECIAL: Side Quest King (KISAI remix)
+{"mal_id":64044}
 ,
 // [2014-SPRING] TV: Sidonia no Kishi
 {"anidb_id":9892,"anilist_id":19775,"animeplanet_id":"knights-of-sidonia","anisearch_id":8876,"livechart_id":155,"mal_id":19775}
@@ -95245,6 +96967,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2020-SPRING] TV: Sigan Yeohaengja Luke
 {"animeplanet_id":"sigan-yeohaengja-luke","anisearch_id":15324,"mal_id":48262}
+,
+// [2021-FALL] SPECIAL: Sigan Yeokhaeng
+{"mal_id":64117}
 ,
 // [2022-FALL] TV: Sigantamheomdae Dinoman
 {"mal_id":62457}
@@ -95296,6 +97021,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2000-SUMMER] OVA: Silent Chaser Kagami
 {"anisearch_id":6807,"mal_id":29992}
+,
+// [2026-SPRING] SPECIAL: Silent Flame, Never Fade
+{"mal_id":63892}
 ,
 // [1998-SPRING] TV: Silent Möbius
 {"anidb_id":455,"anilist_id":1517,"animeplanet_id":"silent-mobius","anisearch_id":1642,"livechart_id":5774,"mal_id":1517}
@@ -95418,7 +97146,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":143307,"animeplanet_id":"sinbad-a-flying-princess-and-a-secret-island-pilot","anisearch_id":20022,"mal_id":32609}
 ,
 // [2026-WINTER] MOVIE: Sinbi Apartment 10-junyeon Geugjangpan: Han Beon Deo, Sohwan
-{"anilist_id":206856,"mal_id":63317}
+{"mal_id":63317}
 ,
 // [2026-WINTER] MOVIE: Sinbi Apartment 10-junyeon Geukjangpan: Han Beon Deo, Sohwan
 {"anisearch_id":21211}
@@ -95481,7 +97209,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"mal_id":55047}
 ,
 // [2023-FALL] TV: Sinbi Apartment: Ghost Ball Zero - Du Beonjjae Iyagi
-{"anilist_id":206854,"mal_id":57006}
+{"mal_id":57006}
 ,
 // [2019-SUMMER] SPECIAL: Sinbi Apartment: Haliui Teugbyeolhan Halu
 {"animeplanet_id":"sinbi-apartment-haliui-teugbyeolhan-halu","mal_id":48268}
@@ -95489,14 +97217,20 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2020-WINTER] SPECIAL: Sinbi Apartment: Halmeoniui Sowon, Bug-eseo On Mildong-gwi
 {"mal_id":48269}
 ,
-// [2019-UNDEFINED] MOVIE: Sinbi Apartment: Haneuldokkaebi Dae Yoleumungandeu
-{"anilist_id":206855}
-,
 // [2023-SUMMER] ONA: Sinbi Apartment: Joseontoemasillog
 {"mal_id":56293}
 ,
+// [2026-UNDEFINED] MOVIE: Sinbi Apateu 10-junyeon Geugjangpan: Han Beon Deo, Sohwan
+{"anilist_id":206856}
+,
 // [2023-UNDEFINED] TV: Sinbi Apateu: Ghost Ball ZERO
 {"anilist_id":206853}
+,
+// [2023-UNDEFINED] TV: Sinbi Apateu: Ghost Ball ZERO - Du Beonjjae Iyagi
+{"anilist_id":206854}
+,
+// [2019-UNDEFINED] MOVIE: Sinbi Apateu: Haneuldokkaebi Dae Yoleumungandeu
+{"anilist_id":206855}
 ,
 // [undefined-UNDEFINED] ONA: Sinbo Dog & Hami Rabbit
 {"mal_id":47352}
@@ -95517,6 +97251,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {}
 ,
 // [2020-SPRING] TV: Sing "Yesterday" for Me
+{}
+,
+// [2026-WINTER] ONA: Sing! Dance! Altaria!
 {}
 ,
 // [1993-SPRING] OVA: Singles
@@ -95565,10 +97302,13 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"animeplanet_id":"siropd-yu"}
 ,
 // [2026-FALL] TV: Sirotan
-{"anilist_id":209709}
+{"anilist_id":209709,"animeplanet_id":"shirotan","mal_id":63901}
 ,
 // [2026-FALL] TV: Sirotan (TV)
 {"livechart_id":13566}
+,
+// [2017-SUMMER] ONA: Sirotan: Shirotan ga Ippai!
+{"anidb_id":13377,"anilist_id":99966,"animeplanet_id":"shirotan-shirotan-ga-ippai","anisearch_id":12739,"livechart_id":8328,"mal_id":36107}
 ,
 // [2020-SUMMER] MOVIE: Sirotsumekusa
 {"anilist_id":125331,"animeplanet_id":"sirotsumekusa","mal_id":45935}
@@ -95694,7 +97434,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"mal_id":55985}
 ,
 // [2026-WINTER] SPECIAL: Sky Clipper
-{"mal_id":63612}
+{"mal_id":63840}
 ,
 // [2007-SUMMER] TV: Sky Girls
 {"anidb_id":5269,"anilist_id":2604,"animeplanet_id":"sky-girls-tv","anisearch_id":4325,"livechart_id":5194,"mal_id":2604}
@@ -95853,7 +97593,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":127225}
 ,
 // [1987-SUMMER] TV: Slippy Dandy
-{"animeplanet_id":"slippy-dandy","mal_id":28019}
+{"anilist_id":213373,"animeplanet_id":"slippy-dandy","mal_id":28019}
 ,
 // [1993-UNDEFINED] OVA: Slipstream
 {}
@@ -95933,6 +97673,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-SPRING] ONA: Snack Basue: Risen' To the Top / Just One Look
 {"animeplanet_id":"snack-basue-risen-to-the-top-just-one-look","anisearch_id":19228}
 ,
+// [2026-SUMMER] TV: Snack HAZAMA
+{"anilist_id":213831}
+,
 // [2019-UNDEFINED] MOVIE: Snail Man
 {"animeplanet_id":"snail-man","mal_id":56385}
 ,
@@ -95954,20 +97697,29 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2021-FALL] ONA: Snorunt's Summer Vacation
 {}
 ,
-// [2023-SPRING] SPECIAL: Snow Colored Score
-{"mal_id":57257}
-,
 // [2010-FALL] SPECIAL: Snow Halation
 {"anidb_id":8071,"anilist_id":9930,"animeplanet_id":"love-live-snow-halation","anisearch_id":6630,"mal_id":9930}
 ,
 // [2003-SUMMER] OVA: Snow Jiko wa No! No! Yuki Daruman no Fuyumichi Koutsuu Anzen
 {"animeplanet_id":"yuki-daruman-no-fuyumichi-koutsuu-anzen","anisearch_id":20835,"mal_id":35166}
 ,
-// [2026-SPRING] TV: Snowball Earth
-{"anidb_id":19477,"anilist_id":196144,"animeplanet_id":"snowball-earth","anisearch_id":20768,"mal_id":62068}
+// [undefined-UNDEFINED] TV: Snowball Earth
+{}
 ,
-// [2026-SPRING] TV: SNOWBALL EARTH
-{"livechart_id":13246}
+// [2026-SPRING] TV: Snowball Earth
+{"anidb_id":19477,"anilist_id":196144,"animeplanet_id":"snowball-earth","anisearch_id":20768,"livechart_id":13246,"mal_id":62068}
+,
+// [undefined-UNDEFINED] TV: Snowball Earth 2
+{"anidb_id":20131}
+,
+// [undefined-UNDEFINED] TV: Snowball Earth 2nd Season
+{"anilist_id":213579,"livechart_id":13690,"mal_id":64482}
+,
+// [undefined-UNDEFINED] TV: Snowball Earth Dai 2 Ki
+{"anisearch_id":21753}
+,
+// [undefined-UNDEFINED] TV: Snowball Earth Season 2
+{}
 ,
 // [2004-FALL] SPECIAL: Snowdrop
 {"anilist_id":176143,"animeplanet_id":"snowdrop","mal_id":36355}
@@ -96010,6 +97762,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1996-SPRING] OVA: Soap no Moko-chan
 {"anisearch_id":122,"mal_id":4490}
+,
+// [2027-WINTER] TV: Soara to Mamono no Ie
+{"anidb_id":20152,"anilist_id":213782,"mal_id":64527}
 ,
 // [2009-WINTER] SPECIAL: Soba Dokan
 {"mal_id":41113}
@@ -96086,9 +97841,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1992-SUMMER] SPECIAL: Sokkuri Oyako
 {"anilist_id":145275,"animeplanet_id":"sokkuri-oyako","mal_id":50146}
 ,
-// [2025-SUMMER] SPECIAL: Sokkuri-san
-{"mal_id":63057}
-,
 // [2017-SPRING] SPECIAL: Soko ni wa Mata Meikyuu
 {"anilist_id":137760,"animeplanet_id":"soko-ni-wa-mata-meikyuu","mal_id":41764}
 ,
@@ -96122,7 +97874,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2007-SUMMER] SPECIAL: Sola Specials
 {"anilist_id":3174,"animeplanet_id":"sola-specials","anisearch_id":7343,"livechart_id":4999,"mal_id":3174}
 ,
-// [1982-FALL] MOVIE: Solar I.II.III
+// [1983-WINTER] MOVIE: Solar I.II.III
 {"anidb_id":14588,"anilist_id":16804,"animeplanet_id":"super-alloy-robot-solar","anisearch_id":10683,"mal_id":16804}
 ,
 // [undefined-UNDEFINED] SPECIAL: Solidarieta wa Mahou no Hana
@@ -96136,9 +97888,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2015-FALL] MOVIE: Sollo Talchul Gwi
 {"anilist_id":121119,"animeplanet_id":"my-ghost-girlfriend","anisearch_id":20776,"mal_id":42297}
-,
-// [2025-SUMMER] TV: Solo Camping for Two
-{}
 ,
 // [2005-FALL] TV: Solty Rei
 {"anidb_id":2858,"anilist_id":152,"animeplanet_id":"solty-rei","anisearch_id":2702,"livechart_id":4736,"mal_id":152}
@@ -96159,7 +97908,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {}
 ,
 // [1996-WINTER] OVA: Somei-ka no Hi no Youjin: Bouka no Tebiki Katei-hen
-{"animeplanet_id":"somei-ka-no-hi-no-youjin-bouka-no-tebiki-katei-hen","mal_id":28573}
+{"animeplanet_id":"somei-ka-no-hi-no-youjin-bouka-no-tebiki-katei-hen","anisearch_id":21438,"mal_id":28573}
 ,
 // [2018-UNDEFINED] ONA: Someone Else’s BL Cartoon Prologue
 {"animeplanet_id":"someone-elses-bl-cartoon-prologue"}
@@ -96173,7 +97922,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1966-SPRING] SPECIAL: Son Gokū ga Hajimaru yo - Kōfū Daiō no Maki
 {}
 ,
-// [1966-SPRING] MOVIE: Son Gokuu ga Hajimaru yoo: Koufuu Daiou no Maki
+// [1966-SPRING] MOVIE: Son Gokuu ga Hajimaru yo: Koufuu Daiou no Maki
 {"anilist_id":168578}
 ,
 // [2010-WINTER] OVA: Son Gokuu no Hi no Youjin
@@ -96201,7 +97950,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {}
 ,
 // [2002-FALL] OVA: Song of EQ
-{"mal_id":63637}
+{"anilist_id":213435,"mal_id":63637}
 ,
 // [2014-WINTER] MOVIE: Song of the Sea
 {}
@@ -96971,6 +98720,15 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2021-SUMMER] ONA: Sorotani no Animetchi
 {"mal_id":58799}
 ,
+// [2024-FALL] TV: Sorotani no Keibacchi
+{"anilist_id":213458}
+,
+// [2025-SPRING] TV: Sorotani no Keibacchi Season 2
+{"anilist_id":213459}
+,
+// [2025-FALL] TV: Sorotani no Keibacchi Season 3
+{"anilist_id":213460}
+,
 // [2024-FALL] TV: Sorotani no Keibatchi
 {"animeplanet_id":"sorotani-no-keibatchi","anisearch_id":20159,"mal_id":61289}
 ,
@@ -96984,7 +98742,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"mal_id":56859}
 ,
 // [1987-SPRING] MOVIE: SOS Kochira Chikyuu
-{"animeplanet_id":"sos-kochira-chikyuu","mal_id":30024}
+{"animeplanet_id":"sos-kochira-chikyuu","anisearch_id":21689,"mal_id":30024}
 ,
 // [2010-WINTER] ONA: SOS TV Walpurgis Night Fever
 {"anidb_id":7567,"anilist_id":8706,"animeplanet_id":"sos-tv-walpurgis-night-fever","anisearch_id":6687,"mal_id":8706}
@@ -97040,7 +98798,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2004-WINTER] ONA: Sou Ashi Sensha no Yuuutsu
 {"animeplanet_id":"two-legged-tank","mal_id":54169}
 ,
-// [2006-UNDEFINED] TV: Sou Shen Ji
+// [2006-WINTER] TV: Sou Shen Ji
 {"animeplanet_id":"sou-shen-ji","mal_id":45416}
 ,
 // [2026-SPRING] ONA: Sou Shen Ji
@@ -97122,22 +98880,22 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":9847,"anilist_id":12441,"animeplanet_id":"armored-trooper-votoms-vol-2-highlights-from-the-at-votoms","anisearch_id":8971,"mal_id":12441}
 ,
 // [1986-SUMMER] OVA: Soukou Kihei Votoms: Big Battle
-{"anidb_id":5126,"anilist_id":2584,"animeplanet_id":"armored-trooper-votoms-big-battle","anisearch_id":5152,"mal_id":2584}
+{"anidb_id":5126,"anilist_id":2584,"animeplanet_id":"armored-trooper-votoms-big-battle","anisearch_id":5152,"livechart_id":13696,"mal_id":2584}
 ,
 // [2010-FALL] OVA: Soukou Kihei Votoms: Case;Irvine
 {"anidb_id":7918,"anilist_id":8248,"animeplanet_id":"armored-trooper-votoms-case-irvine","anisearch_id":6477,"livechart_id":10798,"mal_id":8248}
 ,
 // [2011-WINTER] SPECIAL: Soukou Kihei Votoms: Case;Irvine - Tenmatsu
-{"anilist_id":145751,"animeplanet_id":"armored-trooper-votoms-case-irvine-tenmatsu","mal_id":49936}
+{"anilist_id":145751,"animeplanet_id":"armored-trooper-votoms-case-irvine-tenmatsu","anisearch_id":21528,"mal_id":49936}
 ,
 // [2010-WINTER] OVA: Soukou Kihei Votoms: Genei-hen
-{"anidb_id":7279,"anilist_id":8017,"animeplanet_id":"armored-tropper-votoms-phantom-arc","anisearch_id":5937,"mal_id":8017}
+{"anidb_id":7279,"anilist_id":8017,"animeplanet_id":"armored-tropper-votoms-phantom-arc","anisearch_id":5937,"livechart_id":13703,"mal_id":8017}
 ,
-// [2026-WINTER] SPECIAL: Soukou Kihei Votoms: Haiiro no Hexe
+// [2026-FALL] MOVIE: Soukou Kihei Votoms: Haiiro no Hexe
 {"anidb_id":19834,"anilist_id":206163,"animeplanet_id":"armored-trooper-votoms-die-graue-hexe","anisearch_id":21165,"livechart_id":13481,"mal_id":63323}
 ,
 // [1994-WINTER] OVA: Soukou Kihei Votoms: Kakuyaku taru Itan
-{"anidb_id":3998,"anilist_id":2586,"animeplanet_id":"armored-trooper-votoms-the-brilliant-heretic","anisearch_id":2070,"mal_id":2586}
+{"anidb_id":3998,"anilist_id":2586,"animeplanet_id":"armored-trooper-votoms-the-brilliant-heretic","anisearch_id":2070,"livechart_id":13697,"mal_id":2586}
 ,
 // [2011-WINTER] OVA: Soukou Kihei Votoms: Koei Futatabi
 {"anidb_id":7920,"anilist_id":8250,"animeplanet_id":"armored-trooper-votoms-alone-again","anisearch_id":6482,"livechart_id":10285,"mal_id":8250}
@@ -97231,6 +98989,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2008-SPRING] SPECIAL: Soul Eater: Late Night Show
 {"anilist_id":21687,"animeplanet_id":"soul-eater-late-night-show","anisearch_id":9212,"livechart_id":5116,"mal_id":21195}
+,
+// [2025-UNDEFINED] MOVIE: Soul Kitchen
+{"mal_id":64395}
 ,
 // [2006-SPRING] TV: Soul Link
 {"anidb_id":4224,"anilist_id":854,"animeplanet_id":"soul-link","anisearch_id":687,"livechart_id":5104,"mal_id":854}
@@ -97336,9 +99097,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2017-FALL] SPECIAL: Sousha wa Tada Senaka to Teikin de Kataru Nomi
 {"animeplanet_id":"irodorimidori-sousha-wa-tada-senaka-to-teikin-de-kataru-nomi","mal_id":36841}
-,
-// [2026-UNDEFINED] ONA: Soushen Ji
-{"anilist_id":166437}
 ,
 // [2013-WINTER] OVA: Soushi Souai: Junai Mellow yori
 {"anisearch_id":8192,"mal_id":16644}
@@ -97580,9 +99338,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2014-SUMMER] SPECIAL: Space☆Dandy Picture Drama
 {"anilist_id":20893,"animeplanet_id":"space-dandy-picture-drama","anisearch_id":10179,"livechart_id":6285,"mal_id":25635}
 ,
-// [1978-SPRING] TV: Spaceketeers
-{"anidb_id":1593}
-,
 // [2023-UNDEFINED] MOVIE: Spaceman X ~Sugoi Uchū Daibōken~
 {}
 ,
@@ -97783,9 +99538,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2022-WINTER] ONA: SpoGomi: World Cup Exhibition Match-hen
 {"anilist_id":146485,"animeplanet_id":"spogomi-world-cup-exhibition-match-arc","anisearch_id":17262,"livechart_id":11350,"mal_id":51300}
-,
-// [2022-FALL] SPECIAL: Spoo King
-{"mal_id":56149}
 ,
 // [2014-FALL] ONA: Spookiz
 {"anilist_id":188050,"animeplanet_id":"spookiz","mal_id":47373}
@@ -98093,6 +99845,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-SPRING] SPECIAL: Star Star Start
 {}
 ,
+// [2026-SPRING] SPECIAL: Star Trail
+{"mal_id":64142}
+,
 // [2015-WINTER] TV: Star vs. the Forces of Evil
 {}
 ,
@@ -98129,8 +99884,17 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-SPRING] ONA: Star Wars: Visions - Journey to the Dark Head
 {"anidb_id":18140}
 ,
-// [2026-UNDEFINED] MOVIE: Star Wars: Visions Presents - The Ninth Jedi
+// [2026-SUMMER] ONA: Star Wars: Visions - Kyuuninme no Jedi
+{"anilist_id":213847}
+,
+// [2026-SUMMER] ONA: Star Wars: Visions / Kyuuhitome no Jedi
+{"anidb_id":20156}
+,
+// [2026-SUMMER] MOVIE: Star Wars: Visions Presents - The Ninth Jedi
 {"animeplanet_id":"star-wars-visions-the-ninth-jedi","livechart_id":13146,"mal_id":61546}
+,
+// [2026-UNDEFINED] ONA: Star Wars: Visions Presents - The Ninth Jedi
+{"anisearch_id":21717}
 ,
 // [2023-SPRING] ONA: Star Wars: Visions Volume 2
 {"animeplanet_id":"star-wars-visions-volume-2"}
@@ -98306,6 +100070,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2026-SPRING] SPECIAL: Stay Focused
 {}
 ,
+// [2026-SPRING] ONA: Stay Low Profile, Sect Chief
+{}
+,
 // [2012-WINTER] SPECIAL: Stay the Same
 {"anidb_id":8933,"anilist_id":15653,"animeplanet_id":"kuraki-mai-stay-the-same","anisearch_id":7591,"mal_id":15653}
 ,
@@ -98328,13 +100095,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {}
 ,
 // [2026-WINTER] ONA: Steel Ball Run: JoJo no Kimyou na Bouken
-{"anidb_id":19287,"anilist_id":190327,"animeplanet_id":"jojos-bizarre-adventure-steel-ball-run","anisearch_id":20466,"livechart_id":13139,"mal_id":61469}
+{"anidb_id":19287,"anilist_id":190327,"animeplanet_id":"jojos-bizarre-adventure-steel-ball-run-1st-stage","anisearch_id":20466,"livechart_id":13139,"mal_id":61469}
 ,
-// [2026-UNDEFINED] ONA: Steel Ball Run: JoJo no Kimyou na Bouken 2nd Stage
+// [2026-SUMMER] ONA: Steel Ball Run: JoJo no Kimyou na Bouken 2nd Stage
 {"mal_id":63825}
-,
-// [2026-WINTER] ONA: Steel Ball Run: JoJo's Bizarre Adventure
-{}
 ,
 // [2016-SUMMER] TV: Steel Fire Brigade Fire Robo
 {"animeplanet_id":"steel-fire-brigade-fire-robo","anisearch_id":17826,"mal_id":48333}
@@ -98474,6 +100238,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1975-WINTER] MOVIE: Stone
 {"anilist_id":103951,"animeplanet_id":"stone","anisearch_id":10349,"mal_id":29657}
 ,
+// [2023-WINTER] SPECIAL: Stone Age
+{"mal_id":64393}
+,
 // [2017-SPRING] SPECIAL: Stone Age Episode 0
 {}
 ,
@@ -98510,7 +100277,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2007-FALL] OVA: Strait Jacket
 {"anidb_id":4072,"anilist_id":3086,"animeplanet_id":"strait-jacket","anisearch_id":4374,"livechart_id":5086,"mal_id":3086}
 ,
-// [2008-SPRING] MOVIE: Strait Jacket International Ver.
+// [2008-SUMMER] MOVIE: Strait Jacket International Ver.
 {"anidb_id":8635}
 ,
 // [2000-SUMMER] TV: Strange Dawn
@@ -98769,7 +100536,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {}
 ,
 // [2020-FALL] ONA: Su Shen Xiao Ren
-{"anidb_id":16761,"anilist_id":124340,"animeplanet_id":"my-little-invisible-being","mal_id":42948}
+{"anidb_id":16761,"anilist_id":124340,"animeplanet_id":"my-little-invisible-being","anisearch_id":21641,"mal_id":42948}
 ,
 // [1985-WINTER] OVA: Suashi no Houkago
 {"anisearch_id":4857,"mal_id":5544}
@@ -98779,6 +100546,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1967-WINTER] SPECIAL: Subarashii Sekai Ryokou: Alaska no Tabi "Daigo Hyougaki"
 {"animeplanet_id":"subarashii-sekai-ryokou-alaska-no-tabi-daigo-hyougaki","mal_id":23911}
+,
+// [1967-WINTER] TV: Subarashii Sekai Ryokou: Mirai Series
+{"mal_id":64318}
 ,
 // [1968-WINTER] SPECIAL: Subarashii Sekai Ryokou: New York Tabi "Computopia Seireki Nisennen no Monogatari"
 {"animeplanet_id":"subarashii-sekai-ryokou-new-york-tabi-computopia-seireki-2000-nen-no-monogatari","mal_id":32629}
@@ -98827,6 +100597,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2012-FALL] SPECIAL: Sucre Town Terminal PV
 {"mal_id":58339}
+,
+// [2027-WINTER] TV: Sudachi no Maou-jou
+{"anisearch_id":21746}
+,
+// [2027-WINTER] TV: Sudachi no Maoujou
+{"anidb_id":20126,"anilist_id":213497,"livechart_id":13686,"mal_id":64467}
 ,
 // [undefined-UNDEFINED] TV: Sudden Death
 {"anilist_id":20622}
@@ -98957,7 +100733,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2004-SPRING] OVA: Suika: Manatsu no Okurimono
 {"anisearch_id":9745,"mal_id":5411}
 ,
-// [2026-UNDEFINED] TV: Suikoden: The Anime
+// [2026-FALL] TV: Suikoden: The Anime
 {}
 ,
 // [2000-WINTER] MOVIE: Suiren no Hito
@@ -99164,6 +100940,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2011-UNDEFINED] MOVIE: Sulinna Qiyu Ji
 {"mal_id":44797}
 ,
+// [2026-SPRING] MOVIE: Sullyejadeureun Wae Doraoji Anneunga
+{"anisearch_id":21594}
+,
 // [2022-FALL] SPECIAL: Sum
 {"mal_id":55202}
 ,
@@ -99185,6 +100964,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-FALL] MOVIE: Sumikko Gurashi Movie 4: Sora no Oukoku to Futari no Ko
 {"anidb_id":19639,"anilist_id":188522,"animeplanet_id":"sumikko-gurashi-movie-4","anisearch_id":20698,"livechart_id":13105,"mal_id":61278}
 ,
+// [2024-UNDEFINED] MOVIE: Sumikko Gurashi: Hiroi Uchuu to Aurora no Hikari
+{"mal_id":64100}
+,
 // [2024-WINTER] UNKNOWN: Sumikko Gurashi: Hiroi Uchuu to Ourora no Hikari
 {"anisearch_id":20371}
 ,
@@ -99205,6 +100987,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2017-WINTER] MOVIE: Sumikko no Ko
 {"anilist_id":115842,"animeplanet_id":"my-secret-school-days","mal_id":50751}
+,
+// [2022-SPRING] SPECIAL: Sumikko Style Cafe Base Rap Compilation
+{"mal_id":60183}
 ,
 // [2008-WINTER] SPECIAL: Sumiko
 {"anilist_id":119542,"anisearch_id":9782,"mal_id":25101}
@@ -99268,6 +101053,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2017-SUMMER] SPECIAL: Summertime (2017)
 {"mal_id":56652}
+,
+// [2025-SPRING] ONA: Summertime Girl with Awesome Robot
+{"mal_id":64126}
 ,
 // [2022-SPRING] TV: Summertime Render
 {"anidb_id":16033,"anilist_id":129201,"animeplanet_id":"summer-time-rendering","anisearch_id":15935,"livechart_id":10388,"mal_id":47194}
@@ -99516,7 +101304,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":198380,"animeplanet_id":"super-ninja-neko","anisearch_id":20964,"mal_id":62341}
 ,
 // [2026-SUMMER] TV: Super no Ura de Yani Suu Futari
-{"anidb_id":19479,"anilist_id":196187,"animeplanet_id":"smoking-behind-the-supermarket-with-you","anisearch_id":20774,"livechart_id":13247,"mal_id":62076}
+{"anidb_id":19479,"anilist_id":196187,"animeplanet_id":"smoking-behind-the-supermarket-with-you","livechart_id":13247,"mal_id":62076}
+,
+// [2026-SPRING] ONA: Super no Ura de Yani Suu Futari
+{"anisearch_id":20774}
 ,
 // [2020-SUMMER] SPECIAL: Super Nova Revolu5tar
 {"animeplanet_id":"ryuseitai-super-nova-revolu5tar","mal_id":48557}
@@ -99536,7 +101327,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2015-SUMMER] MOVIE: Super Racer Enzy
 {"anisearch_id":11201}
 ,
-// [1990-WINTER] OVA: Super Real Mahjong
+// [1990-SPRING] OVA: Super Real Mahjong
 {"anidb_id":5259,"animeplanet_id":"super-real-mahjong"}
 ,
 // [1990-WINTER] OVA: Super Real Mahjong: Kasumi Miki Shouko no Hajimemashite
@@ -99611,7 +101402,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-SUMMER] MOVIE: Super Wings the Movie: Maximum Speed
 {"anidb_id":19638,"anisearch_id":19348,"mal_id":56262}
 ,
-// [2022-FALL] TV: Super Wings: China Culture
+// [2023-WINTER] TV: Super Wings: China Culture
 {"anidb_id":19664}
 ,
 // [1992-FALL] TV: Super Zugan
@@ -99653,11 +101444,17 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-SUMMER] SPECIAL: Supernova (Grimes Remix)
 {"mal_id":59902}
 ,
+// [2026-SUMMER] SPECIAL: SUPERNOVA SUPER GIRL
+{}
+,
 // [1993-FALL] SPECIAL: Superstar wo Yumemite
 {"anilist_id":145289,"animeplanet_id":"superstar-wo-yumemite","mal_id":50005}
 ,
 // [2023-SUMMER] TV: Supertrons
 {"mal_id":56572}
+,
+// [2025-SPRING] TV: Supertrons 2
+{"mal_id":64521}
 ,
 // [2022-FALL] SPECIAL: Supirira
 {"anisearch_id":17921}
@@ -99673,9 +101470,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2016-SPRING] SPECIAL: Suppon Pon Pon
 {"anilist_id":139054,"animeplanet_id":"suppon-pon-pon","mal_id":40619}
-,
-// [2004-FALL] SPECIAL: Suppuration -core-
-{"mal_id":56152}
 ,
 // [2020-FALL] SPECIAL: Supraizu Paradise
 {}
@@ -99809,14 +101603,11 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1947-SUMMER] MOVIE: Suteneko Tora-chan
 {"anidb_id":6888,"anilist_id":5662,"animeplanet_id":"suteneko-tora-chan","anisearch_id":6731,"mal_id":5662}
 ,
-// [2026-WINTER] TV: Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car o Shoukan Shimashita
-{"anidb_id":19954}
+// [2026-SUMMER] TV: Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car o Shoukan Shimashita
+{"anidb_id":19954,"anisearch_id":21317}
 ,
-// [2026-UNDEFINED] TV: Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car o Shoukan Shimashita
-{"anisearch_id":21317}
-,
-// [2026-UNDEFINED] TV: Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan shimashita
-{"anilist_id":209504,"animeplanet_id":"suterare-seijo-no-isekai-gohan-tabi-kakure-skill-de-camping-car-wo-shoukan-shimashita","livechart_id":13558,"mal_id":63752}
+// [2026-SUMMER] TV: Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan shimashita
+{"anilist_id":209504,"animeplanet_id":"the-forsaken-saintess-and-her-foodie-roadtrip-in-another-world","livechart_id":13558,"mal_id":63752}
 ,
 // [2022-WINTER] SPECIAL: SutoPuri Anime CM
 {"anisearch_id":19062}
@@ -99881,6 +101672,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2011-FALL] SPECIAL: Suzy's Zoo: Daisuki! Witzy - Happy Birthday
 {"anilist_id":120131,"animeplanet_id":"suzys-zoo-daisuki-witzy-special","anisearch_id":8349,"mal_id":17209}
 ,
+// [2026-SPRING] MOVIE: Swallowed Star: Showdown on Primeval Star
+{}
+,
 // [2017-SUMMER] OVA: Swamp Stamp Anime Edition
 {"anisearch_id":12571,"mal_id":35726}
 ,
@@ -99895,6 +101689,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2015-UNDEFINED] MOVIE: Swap Meet
 {"animeplanet_id":"swap-meet"}
+,
+// [2016-FALL] SPECIAL: Sweat
+{"mal_id":64305}
 ,
 // [2002-WINTER] OVA: Sweat Punch
 {"anidb_id":1054,"anilist_id":1072,"animeplanet_id":"comedy","anisearch_id":978,"livechart_id":4957,"mal_id":1072}
@@ -99980,8 +101777,8 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2012-SPRING] SPECIAL: Switch (Music)
 {"mal_id":61661}
 ,
-// [2025-UNDEFINED] ONA: Sword and Fairy 3
-{"animeplanet_id":"sword-and-fairy-3"}
+// [2025-FALL] ONA: Sword and Fairy 3
+{}
 ,
 // [2012-SUMMER] TV: Sword Art Online
 {"anidb_id":8692,"anilist_id":11757,"animeplanet_id":"sword-art-online","anisearch_id":7335,"livechart_id":1038,"mal_id":11757}
@@ -100067,8 +101864,8 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2014-SPRING] SPECIAL: Sword Art Online: Sword Art Offline - Extra Edition
 {"anilist_id":20895,"animeplanet_id":"sword-art-online-sword-art-offline-extra-edition","anisearch_id":9475,"livechart_id":392,"mal_id":21879}
 ,
-// [2026-UNDEFINED] OVA: Sword Art Online: Unanswered//butterfly
-{"animeplanet_id":"sword-art-online-unanswered-butterfly"}
+// [2026-SUMMER] MOVIE: Sword Art Online: Unanswered//butterfly
+{"anidb_id":20025,"anilist_id":208754,"animeplanet_id":"sword-art-online-unanswered-butterfly","mal_id":63736}
 ,
 // [2018-WINTER] TV: Sword Dynasty
 {}
@@ -100234,6 +102031,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2025-FALL] SPECIAL: SYUJINKOU+
 {"mal_id":63133}
+,
+// [2020-SPRING] ONA: Syupeo Sikeurit
+{"anisearch_id":21716}
 ,
 // [2015-WINTER] SPECIAL: SYZ Project
 {"animeplanet_id":"syz-project","mal_id":35350}
@@ -100484,6 +102284,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-FALL] ONA: Tai Yi Jian Xian Zhuan
 {"anidb_id":18389,"anilist_id":174708,"animeplanet_id":"the-legend-of-the-taiyi-sword-immortal","anisearch_id":18813,"mal_id":56958}
 ,
+// [2021-SPRING] ONA: Tai Yi Xian Mo Lu IV
+{"anidb_id":16382,"anilist_id":129222,"animeplanet_id":"taiyi-xianmo-lu-zhi-ling-fei-ji-4th-season","livechart_id":10643,"mal_id":48873}
+,
 // [2016-WINTER] ONA: Tai Yi Xian Mo Lu: Ling Fei Ji
 {"anidb_id":15541,"anilist_id":129219,"animeplanet_id":"taiyi-xianmo-lu-zhi-ling-fei-ji","anisearch_id":16123,"mal_id":44615}
 ,
@@ -100493,11 +102296,8 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2019-SUMMER] ONA: Tai Yi Xian Mo Lu: Ling Fei Ji III
 {"anidb_id":15543,"anilist_id":129221,"animeplanet_id":"taiyi-xianmo-lu-zhi-ling-fei-ji-3rd-season","anisearch_id":16148,"mal_id":45040}
 ,
-// [2021-SPRING] ONA: Tai Yi Xian Mo Lu: Ling Fei Ji IV
-{"anidb_id":16382,"anilist_id":129222,"animeplanet_id":"taiyi-xianmo-lu-zhi-ling-fei-ji-4th-season","livechart_id":10643,"mal_id":48873}
-,
-// [2026-SUMMER] TV: Tai-Ari deshita.: Ojousama wa Kakutou Game nante Shinai
-{"anidb_id":16000,"anilist_id":128757,"animeplanet_id":"tai-ari-deshita-ojou-sama-wa-kakutou-game-nante-shinai","anisearch_id":15911,"livechart_id":10360,"mal_id":46488}
+// [2026-SUMMER] TV: Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai
+{"anidb_id":16000,"anilist_id":128757,"animeplanet_id":"young-ladies-dont-play-fighting-games","anisearch_id":15911,"livechart_id":10360,"mal_id":46488}
 ,
 // [1982-UNDEFINED] SPECIAL: Taian Kichijitsu
 {"anilist_id":176890}
@@ -100679,6 +102479,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [undefined-UNDEFINED] SPECIAL: Taimashin
 {"anidb_id":13230,"animeplanet_id":"taimashin","livechart_id":2731}
 ,
+// [2024-SPRING] ONA: Taiping Tianshu: Jiang Hun Juexing
+{"anisearch_id":21670}
+,
 // [1928-WINTER] MOVIE: Tairiki Tarou no Mucha Shuugyou
 {"anidb_id":6700,"anilist_id":4462,"animeplanet_id":"tairiki-taro-no-mucha-shugyo","anisearch_id":5248,"mal_id":4462}
 ,
@@ -100847,6 +102650,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2020-UNDEFINED] ONA: Taka no Tsume-dan no JBC Daisakusen: Koi no Road to JBC
 {"animeplanet_id":"taka-no-tsume-dan-no-jbc-daisakusen-koi-no-road-to-jbc"}
 ,
+// [2016-SUMMER] ONA: Taka no Tsume-dan Presents Shin Nippon Puroresu Manner no Okite
+{"anisearch_id":21702}
+,
 // [2014-UNDEFINED] ONA: Taka no Tsume-dan, Kono Natsu, Mura Hajimemasu.
 {"animeplanet_id":"taka-no-tsume-dan-kono-natsu-mura-hajimemasu"}
 ,
@@ -100973,6 +102779,15 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-SPRING] ONA: Takopii no Genzai
 {"anidb_id":19038,"anilist_id":185407,"animeplanet_id":"takopis-original-sin","anisearch_id":19933,"livechart_id":12962,"mal_id":60489}
 ,
+// [undefined-UNDEFINED] MOVIE: Takopii no Genzai -Arigato, Mata Ashita-
+{"livechart_id":13640}
+,
+// [undefined-UNDEFINED] MOVIE: Takopii no Genzai -Arigatō, Mata Ashita-
+{}
+,
+// [undefined-UNDEFINED] MOVIE: Takopii no Genzai: Arigatou, Mata Ashita
+{"anilist_id":212539,"mal_id":64266}
+,
 // [2007-WINTER] MOVIE: Takoru the Movie
 {"animeplanet_id":"takoru-the-movie","mal_id":54872}
 ,
@@ -100983,7 +102798,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":119819}
 ,
 // [1998-SPRING] TV: Takoyaki Mant-Man
-{"anidb_id":3578,"anilist_id":3937,"animeplanet_id":"takoyaki-mant-man","anisearch_id":554,"mal_id":3937}
+{"anidb_id":3578,"anilist_id":3937,"animeplanet_id":"takoyaki-mant-man","anisearch_id":554,"livechart_id":13678,"mal_id":3937}
 ,
 // [1998-SPRING] TV: Takoyaki Mantle Man
 {}
@@ -101207,6 +103022,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2012-FALL] TV: Tamagotchi! Yume Kira Dream
 {"anidb_id":9420,"anilist_id":15865,"animeplanet_id":"tamagotchi-yume-kira-dream","anisearch_id":8061,"livechart_id":8419,"mal_id":15865}
 ,
+// [2023-UNDEFINED] MOVIE: Tamagoyaki no Asa
+{"anilist_id":212092}
+,
 // [2014-SPRING] MOVIE: Tamako Love Story
 {"anidb_id":10326,"anilist_id":20519,"animeplanet_id":"tamako-love-story","anisearch_id":9312,"livechart_id":227,"mal_id":21647}
 ,
@@ -101233,9 +103051,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2025-SUMMER] MOVIE: Tamala 2030: A Punk Cat in Dark
 {"anidb_id":19490,"anilist_id":120756,"anisearch_id":20667,"mal_id":61699}
-,
-// [2023-SUMMER] SPECIAL: TAMAPOP
-{"mal_id":60251}
 ,
 // [2025-SPRING] SPECIAL: Tamaranai no wa Koi nano ka
 {"anidb_id":19279,"anilist_id":187362,"animeplanet_id":"a-love-too-captivating","anisearch_id":20317,"livechart_id":13082,"mal_id":61146}
@@ -101302,9 +103117,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2026-WINTER] TV: Tamon-kun Ima Docchi!?
 {"anidb_id":18681,"anilist_id":178005,"animeplanet_id":"tamons-b-side","anisearch_id":19573,"livechart_id":12695,"mal_id":59047}
-,
-// [2025-FALL] TV: Tamon’s B-Side
-{}
 ,
 // [2016-UNDEFINED] SPECIAL: TAMTAM: Coffee People
 {"animeplanet_id":"tamtam-coffee-people"}
@@ -101407,9 +103219,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2007-UNDEFINED] TV: Tangshi Gushi
 {"mal_id":45930}
-,
-// [1999-WINTER] OVA: Tanima Yumeji no Zekkyou Gekijou
-{"mal_id":63608}
 ,
 // [1994-SUMMER] OVA: Tanin no Kankei
 {"anidb_id":3417,"anilist_id":4451,"animeplanet_id":"homeroom-affairs","anisearch_id":1056,"livechart_id":8570,"mal_id":4451}
@@ -101594,6 +103403,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2026-FALL] ONA: Tanuki to Kitsune (2026)
 {"animeplanet_id":"tanuki-to-kitsune-2026"}
 ,
+// [2026-FALL] TV: Tanuki to Kitsune (TV)
+{"mal_id":64028}
+,
 // [2018-SPRING] SPECIAL: Tanuki to Kitsune Specials
 {"animeplanet_id":"tanuki-to-kitsune-specials","anisearch_id":13667,"mal_id":37284}
 ,
@@ -101714,8 +103526,8 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2005-FALL] OVA: Tarou no Odekake
 {"animeplanet_id":"tarou-no-odekake","mal_id":52338}
 ,
-// [1981-UNDEFINED] OVA: Tarou no Tanjou
-{"anisearch_id":20275}
+// [1981-UNDEFINED] MOVIE: Tarou no Tanjou
+{"anisearch_id":20275,"mal_id":64238}
 ,
 // [2005-FALL] OVA: Tarou no Tomodachi
 {"animeplanet_id":"tarou-no-tomodachi","mal_id":56378}
@@ -101750,8 +103562,8 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2022-WINTER] SPECIAL: Taste of Death
 {}
 ,
-// [2025-FALL] SPECIAL: Tasty
-{"mal_id":63707}
+// [2025-SUMMER] SPECIAL: TASTY
+{}
 ,
 // [1976-WINTER] MOVIE: Tasukeai no Rekishi: Seimei Hoken no Hajimari
 {"anidb_id":14343,"anilist_id":121665,"animeplanet_id":"tasukeai-no-rekishi-seimei-hoken-no-hajimari","anisearch_id":10532,"mal_id":26311}
@@ -101971,9 +103783,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2023-FALL] ONA: Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story Mini Anime
 {"anilist_id":176858,"animeplanet_id":"tearmoon-empire-mini-anime","anisearch_id":18840,"livechart_id":12372,"mal_id":56978}
-,
-// [2008-SPRING] SPECIAL: Tears Infection
-{"mal_id":58409}
 ,
 // [2009-SPRING] TV: Tears to Tiara
 {"anidb_id":5596,"anilist_id":3594,"animeplanet_id":"tears-to-tiara","anisearch_id":4617,"livechart_id":3945,"mal_id":3594}
@@ -102233,6 +104042,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2022-SUMMER] ONA: Tekken: Bloodline
 {"anidb_id":17578,"anilist_id":153906,"animeplanet_id":"tekken-bloodline","anisearch_id":17622,"livechart_id":11359,"mal_id":51347}
 ,
+// [undefined-UNDEFINED] ONA: Tekken! Cartoon
+{}
+,
 // [2022-SPRING] SPECIAL: Tekketsu Gravity
 {"anilist_id":147777,"anisearch_id":17476}
 ,
@@ -102299,6 +104111,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2012-WINTER] SPECIAL: Tell Your World
 {"anidb_id":11450,"anilist_id":15673,"animeplanet_id":"tell-your-world","anisearch_id":11533,"mal_id":15673}
 ,
+// [2026-FALL] TV: Tempal: Item no Chikara
+{"anidb_id":20077,"anisearch_id":21586,"mal_id":64340}
+,
 // [2022-WINTER] SPECIAL: Template
 {"anilist_id":146934,"animeplanet_id":"suisei-hoshimachi-template","mal_id":51494}
 ,
@@ -102313,6 +104128,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2015-SPRING] MOVIE: Templex
 {"anilist_id":104431,"animeplanet_id":"templex","anisearch_id":13893,"mal_id":40721}
+,
+// [2026-FALL] TV: Temppal: Item no Chikara
+{"anilist_id":212888,"livechart_id":13655}
 ,
 // [2014-SPRING] MOVIE: Tempura
 {"anilist_id":135589}
@@ -102560,14 +104378,11 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1995-FALL] TV: Tenko and the Guardians of the Magic
 {}
 ,
-// [2026-UNDEFINED] TV: Tenkō-saki no Seiso Karen na Bishōjo ga, Mukashi Danshi to Omotte
-{}
-,
 // [2011-SUMMER] ONA: Tenkou Kotofumi
 {"anidb_id":14055,"anilist_id":103420,"animeplanet_id":"tenkou-kotofumi","mal_id":32297}
 ,
 // [2026-SUMMER] TV: Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken
-{"anidb_id":18211,"anilist_id":169583,"animeplanet_id":"tenkousaki-no-seiso-karen-na-bishoujo-ga-mukashi-danshi-to-omotte-issho-ni-asonda-osananajimi-datta-ken","anisearch_id":18714,"livechart_id":12343,"mal_id":56735}
+{"anidb_id":18211,"anilist_id":169583,"animeplanet_id":"oh-boy-was-i-wrong-about-her","anisearch_id":18714,"livechart_id":12343,"mal_id":56735}
 ,
 // [1996-WINTER] OVA: Tenkousei
 {"anisearch_id":4288,"mal_id":4825}
@@ -102615,7 +104430,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":11090,"anilist_id":111943,"animeplanet_id":"tenma-no-torayan","anisearch_id":10427,"mal_id":49422}
 ,
 // [2026-SUMMER] TV: Tenmaku no Jaadugar
-{"anidb_id":19290,"anilist_id":190569,"animeplanet_id":"tenmaku-no-jaadugar","anisearch_id":21044,"livechart_id":13140,"mal_id":61483}
+{"anidb_id":19290,"anilist_id":190569,"animeplanet_id":"jaadugar-a-witch-in-mongolia","anisearch_id":21044,"livechart_id":13140,"mal_id":61483}
 ,
 // [2014-SPRING] OVA: Tennen Koi-iro Alcohol
 {"anisearch_id":9500,"mal_id":23047}
@@ -102626,7 +104441,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2018-SUMMER] OVA: Tennis no Ōjisama BEST GAMES!!
 {}
 ,
-// [2010-SPRING] OVA: Tennis no Ouji-sama: TV Anime Ban Pair Puri
+// [2010-SUMMER] OVA: Tennis no Ouji-sama: TV Anime Ban Pair Puri
 {"anidb_id":14771}
 ,
 // [2001-FALL] TV: Tennis no Oujisama
@@ -102719,6 +104534,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2015-SPRING] MOVIE: Tensai Bakavon: Yomigaeru Flanders no Inu
 {"anidb_id":10762,"anilist_id":147462,"animeplanet_id":"tensai-bakavon-yomigaeru-flanders-no-inu","anisearch_id":9841,"livechart_id":743,"mal_id":25987}
 ,
+// [2015-SPRING] ONA: Tensai Bakavon: Yomigaeru Flanders no Inu - Gekijou Manner Yokoku
+{"anisearch_id":21701}
+,
 // [2014-FALL] ONA: Tensai Banpaku Opening
 {"anidb_id":12215,"anilist_id":114436,"animeplanet_id":"tensai-banpaku-opening-animation","anisearch_id":12359,"mal_id":29173}
 ,
@@ -102729,7 +104547,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":16028,"anilist_id":129190,"animeplanet_id":"the-genius-princes-guide-to-raising-a-nation-out-of-debt","anisearch_id":15929,"livechart_id":10386,"mal_id":47159}
 ,
 // [2021-SUMMER] ONA: Tensai Ouji no Akaji Kokka Saisei Jutsu: Short Drama
-{"anilist_id":137898,"animeplanet_id":"the-genius-princes-guide-to-raising-a-nation-out-of-debt-short-drama","livechart_id":10746,"mal_id":49592}
+{"anilist_id":137898,"animeplanet_id":"the-genius-princes-guide-to-raising-a-nation-out-of-debt-short-drama","anisearch_id":21724,"livechart_id":10746,"mal_id":49592}
 ,
 // [2022-WINTER] SPECIAL: Tensai Ouji no Akaji Kokka Saisei Jutsu: Short Drama Specials
 {"anilist_id":144336,"animeplanet_id":"the-genius-princes-guide-to-raising-a-nation-out-of-debt-short-drama-specials","mal_id":50905}
@@ -102749,8 +104567,8 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2026-SPRING] OVA: Tensei Akujo no Kuro Rekishi OVA
 {"anilist_id":205054,"animeplanet_id":"the-dark-history-of-the-reincarnated-villainess-ova","mal_id":63266}
 ,
-// [2026-SPRING] OVA: Tensei Akujo no Kurorekishi (2026)
-{"anisearch_id":20978}
+// [2026-SPRING] OVA: Tensei Akujo no Kurorekishi: Bangai-hen - Yomi to Shitto to Tanjoubi / Iana to Sol Netsuppoi Ichinichi
+{"anidb_id":19996,"anisearch_id":20978}
 ,
 // [2026-FALL] TV: Tensei Goblin da kedo Shitsumon Aru?
 {"anisearch_id":21308}
@@ -102773,7 +104591,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-FALL] TV: Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season
 {"anidb_id":18707,"anilist_id":178434,"animeplanet_id":"as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-season-2","anisearch_id":19379,"livechart_id":12713,"mal_id":59131}
 ,
-// [undefined-UNDEFINED] TV: Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season
+// [2026-FALL] TV: Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season
 {"anidb_id":19070,"anilist_id":185756,"animeplanet_id":"as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-season-3","anisearch_id":19993,"livechart_id":12991,"mal_id":60601}
 ,
 // [2020-SUMMER] ONA: Tensei Mae no Ryouma to Tabuchi
@@ -102805,6 +104623,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2018-FALL] TV: Tensei shitara Slime Datta Ken
 {"anidb_id":13871,"anilist_id":101280,"animeplanet_id":"that-time-i-got-reincarnated-as-a-slime","anisearch_id":13436,"livechart_id":3132,"mal_id":37430}
+,
+// [undefined-UNDEFINED] TV: Tensei Shitara Slime Datta Ken (2027)
+{"anidb_id":20052}
 ,
 // [2021-WINTER] TV: Tensei shitara Slime Datta Ken 2nd Season
 {"anidb_id":14767,"anilist_id":108511,"animeplanet_id":"that-time-i-got-reincarnated-as-a-slime-season-2","anisearch_id":14266,"livechart_id":9364,"mal_id":39551}
@@ -102908,6 +104729,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-SPRING] SPECIAL: Tenshi to Akuma
 {"mal_id":63224}
 ,
+// [2023-UNDEFINED] OVA: Tenshi to Akuma no Koutsuu Anzen
+{"anisearch_id":21470}
+,
 // [2024-SUMMER] TV: Tensui no Sakuna-hime
 {"anidb_id":18527,"anilist_id":175868,"animeplanet_id":"sakuna-of-rice-and-ruin","anisearch_id":19142,"livechart_id":12583,"mal_id":58357}
 ,
@@ -102978,7 +104802,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"mal_id":53291}
 ,
 // [1992-WINTER] OVA: Terajima-chou Kidan: Ginnagashi
-{"anidb_id":12717,"animeplanet_id":"terajima-chou-kidan-ginnagashi","anisearch_id":12152,"mal_id":33077}
+{"anidb_id":12717,"anilist_id":213510,"animeplanet_id":"terajima-chou-kidan-ginnagashi","anisearch_id":12152,"mal_id":33077}
 ,
 // [2024-WINTER] TV: Terapagos no Kirakira Tanken-ki
 {"livechart_id":12425}
@@ -103115,7 +104939,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2007-SUMMER] TV: Tetsuko no Tabi
 {"anidb_id":5197,"anilist_id":2552,"animeplanet_id":"tetsuko-no-tabi","anisearch_id":4166,"mal_id":2552}
 ,
-// [2026-WINTER] TV: Tetsunabe no Jan!
+// [2026-SUMMER] TV: Tetsunabe no Jan!
 {"anidb_id":19768,"anilist_id":204060,"animeplanet_id":"iron-wok-jan","anisearch_id":21083,"livechart_id":13427,"mal_id":63100}
 ,
 // [2005-WINTER] MOVIE: Tetsuro no Kanata
@@ -103211,14 +105035,14 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1999-SPRING] MOVIE: Tezuka Osamu no Uchuu Wonder 3: Ginga Renmei no Shisha
 {"animeplanet_id":"tezuka-osamu-no-uchuu-wonder-3-ginga-renmei-no-shisha","mal_id":39359}
 ,
-// [2006-UNDEFINED] ONA: Tezuka Productions x Timberland: Hi no Tori - Earthkeepers-hen
-{"animeplanet_id":"tezuka-productions-x-timberland-hi-no-tori-earthkeepers-hen"}
-,
 // [2021-FALL] SPECIAL: Thank You Dropkick!
 {"mal_id":52649}
 ,
 // [2017-WINTER] SPECIAL: That Is How I Roll!
 {"anilist_id":102826,"animeplanet_id":"afterglow-that-is-how-i-roll","mal_id":36921}
+,
+// [2026-SPRING] TV: That Time I Got Reincarnated as a Slime
+{}
 ,
 // [2026-SPRING] TV: That Time I Got Reincarnated as a Slime
 {}
@@ -103253,10 +105077,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2011-UNDEFINED] SPECIAL: The 09th Independent Animation Festival Opening Animation
 {"animeplanet_id":"the-09th-independent-animation-festival-opening-animation"}
 ,
-// [2026-UNDEFINED] TV: The 100 Girlfriends Who Really, Really, Really, Really, Really Love You
-{}
-,
-// [undefined-UNDEFINED] TV: The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3
+// [2026-SUMMER] TV: The 100 Girlfriends Who Really, Really, Really, Really, Really Love You
 {}
 ,
 // [2012-UNDEFINED] SPECIAL: The 10th Independent Animation Festival Opening Animation
@@ -103319,9 +105140,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2021-SUMMER] OVA: The Ancient Magus' Bride
 {}
 ,
-// [2026-SPRING] TV: The Angel Next Door Spoils Me Rotten
-{}
-,
 // [2018-FALL] MOVIE: The Angler
 {"animeplanet_id":"the-angler","mal_id":51750}
 ,
@@ -103333,9 +105151,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2022-UNDEFINED] MOVIE: The Ant Tower
 {"animeplanet_id":"the-ant-tower"}
-,
-// [2026-FALL] TV: The Apothecary Diaries
-{}
 ,
 // [2027-SPRING] TV: The Apothecary Diaries 3rd Season - Part II
 {"animeplanet_id":"the-apothecary-diaries-3rd-season-part-ii"}
@@ -103370,9 +105185,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1970-WINTER] MOVIE: The Bathroom
 {"anidb_id":10730,"anilist_id":9895,"animeplanet_id":"the-bathroom","anisearch_id":9818,"mal_id":9895}
 ,
-// [2025-SPRING] TV: The Beginning After The End
-{}
-,
 // [2012-UNDEFINED] MOVIE: THE BIG BOY
 {"animeplanet_id":"the-big-boy"}
 ,
@@ -103391,11 +105203,11 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-SUMMER] ONA: The Birth of Nævis
 {"mal_id":60102}
 ,
+// [2026-SPRING] ONA: The Bloody Mary
+{"mal_id":63939}
+,
 // [2013-WINTER] MOVIE: The Blooms
 {"anilist_id":115488,"animeplanet_id":"the-blooms"}
-,
-// [undefined-UNDEFINED] MOVIE: The Blossom Man
-{"anidb_id":12408}
 ,
 // [2019-WINTER] MOVIE: The Body in the Mind
 {"anilist_id":139263,"animeplanet_id":"the-body-in-the-mind"}
@@ -103430,14 +105242,14 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1994-WINTER] TV: The Brave Police J-Decker
 {}
 ,
+// [2027-UNDEFINED] TV: The Bugle Call
+{"mal_id":64518}
+,
 // [1992-WINTER] TV: The Bush Baby
 {}
 ,
 // [1964-UNDEFINED] MOVIE: The Button
 {"animeplanet_id":"the-button","mal_id":57040}
-,
-// [2026-WINTER] TV: The Case Book of Arne
-{}
 ,
 // [2025-SUMMER] ONA: The Case of the Sweet Scent Incident
 {"mal_id":62326}
@@ -103445,7 +105257,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2022-WINTER] TV: The Case Study of Vanitas
 {}
 ,
-// [2026-SUMMER] TV: The Cat and the Dragon
+// [2026-SPRING] TV: The Cat and the Dragon
 {}
 ,
 // [2018-WINTER] ONA: The Catcher
@@ -103487,6 +105299,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2006-WINTER] OVA: The Collected Animations of ICAF (2001-2006)
 {"anidb_id":13204,"anilist_id":7459,"mal_id":7459}
 ,
+// [2025-WINTER] ONA: The Collision
+{"anisearch_id":21484}
+,
 // [1987-UNDEFINED] MOVIE: The Color of Spring
 {"animeplanet_id":"the-color-of-spring","mal_id":60832}
 ,
@@ -103501,6 +105316,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2019-WINTER] SPECIAL: The Crater
 {"mal_id":39087}
+,
+// [2003-UNDEFINED] SPECIAL: The Creatures From Planet 66: Roppongi Hills Story
+{"anilist_id":213523}
 ,
 // [2020-FALL] ONA: The Crystal Gems Say Be Anti-Racist
 {}
@@ -103551,6 +105369,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anisearch_id":3765}
 ,
 // [2022-SPRING] TV: The Demon Girl Next Door
+{}
+,
+// [2026-UNDEFINED] ONA: The Demon Hunter 3
+{"animeplanet_id":"the-demon-hunter-3"}
+,
+// [2026-SPRING] ONA: The Demon Hunter 3
 {}
 ,
 // [2024-WINTER] TV: The Demon Prince of Momochi House
@@ -103622,7 +105446,13 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2006-UNDEFINED] MOVIE: The Drawer of Memory
 {"animeplanet_id":"the-drawer-of-memory"}
 ,
+// [2026-SUMMER] TV: The Duke's Son Claims He Won't Love Me Yet Showers Me with Adoration
+{}
+,
 // [2021-SUMMER] TV: The Dungeon of Black Company
+{}
+,
+// [undefined-UNDEFINED] TV: The Eccentric Doctor of the Moon Flower Kingdom
 {}
 ,
 // [2017-SPRING] TV: The Eccentric Family 2
@@ -103673,9 +105503,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2011-SUMMER] TV: The Everyday Tales of a Cat God
 {}
 ,
-// [2026-UNDEFINED] TV: The Exiled Heavy Knight Knows How to Game the System
-{}
-,
 // [undefined-UNDEFINED] TV: The Fable
 {}
 ,
@@ -103688,8 +105515,14 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [undefined-UNDEFINED] TV: The Fable 2nd Season
 {"anilist_id":210199,"livechart_id":13592,"mal_id":63885}
 ,
+// [undefined-UNDEFINED] TV: The Fable Dai 2 Ki
+{"anisearch_id":21420}
+,
 // [undefined-UNDEFINED] TV: The Fable Season 2
 {}
+,
+// [2020-SPRING] ONA: The Fabulous Sword God
+{"animeplanet_id":"the-fabulous-sword-god"}
 ,
 // [2022-WINTER] MOVIE: THE FACTORY
 {}
@@ -103748,14 +105581,14 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2019-FALL] SPECIAL: The Forge
 {}
 ,
-// [2026-UNDEFINED] TV: The Forsaken Saintess and Her Foodie Roadtrip in Another World
-{}
-,
 // [2012-WINTER] ONA: The Four Seasons
 {}
 ,
 // [2012-WINTER] SPECIAL: The Four Seasons
 {"anidb_id":9115,"anilist_id":13563,"animeplanet_id":"the-four-seasons","anisearch_id":7783,"livechart_id":5918,"mal_id":13563}
+,
+// [2026-SUMMER] TV: The Frontier Lord Begins with Zero Subjects
+{}
 ,
 // [1981-WINTER] MOVIE: The Fullmoon Tradition: Indra Pilot Film
 {"anilist_id":143154,"animeplanet_id":"the-fullmoon-tradition-indra-pilot","mal_id":49351}
@@ -103765,9 +105598,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1991-SPRING] OVA: The Gakuen Choujo-tai
 {"anidb_id":7033,"anilist_id":12401,"animeplanet_id":"the-gakuen-choujotai","anisearch_id":5995,"mal_id":12401}
-,
-// [2007-FALL] MOVIE: The Garden of Sinners
-{"anidb_id":4932}
 ,
 // [2026-SUMMER] TV: The Ghost in the Shell
 {}
@@ -103808,10 +105638,16 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2016-SPRING] SPECIAL: The God of High School PV
 {"animeplanet_id":"the-god-of-high-school-pv","anisearch_id":16971,"mal_id":42893}
 ,
-// [2025-SPRING] TV: The Gorilla God's Go-To Girl
+// [2016-FALL] TV: The Great Passage
 {}
 ,
-// [2016-FALL] TV: The Great Passage
+// [2026-SPRING] TV: The Great Sage Ryddel and the Hands of Time
+{}
+,
+// [2027-UNDEFINED] TV: The Greatest Magicmaster's Retirement Plan
+{}
+,
+// [undefined-UNDEFINED] TV: The Greatest Magicmaster's Retirement Plan
 {}
 ,
 // [undefined-UNDEFINED] SPECIAL: The Green Land
@@ -103894,6 +105730,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2017-UNDEFINED] MOVIE: THE HUNTER
 {"anilist_id":109356,"animeplanet_id":"the-hunter"}
+,
+// [2026-FALL] TV: The Iceblade Sorcerer Shall Rule the World
+{}
 ,
 // [undefined-UNDEFINED] TV: The Ideal Sponger Life
 {}
@@ -104024,8 +105863,14 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2019-WINTER] SPECIAL: The iDOLM@STER SideM: Wake Atte Mini! Specials
 {"anilist_id":203021,"animeplanet_id":"the-idolmaster-side-m-wake-atte-mini-specials","mal_id":49735}
 ,
+// [2019-WINTER] SPECIAL: The iDOLM@STER SideM: Wake Atte Mini! Tokubetsu Ban
+{"anisearch_id":21530}
+,
 // [2012-SPRING] SPECIAL: The iDOLM@STER: 765 Pro to Iu Monogatari
 {"anilist_id":11889,"animeplanet_id":"the-idolmaster-765-pro-to-iu-monogatari","anisearch_id":8778,"livechart_id":4369,"mal_id":11889}
+,
+// [2026-SPRING] OVA: The Idolmaster Million Live! Itsuka, Mannaka de
+{"anidb_id":20008}
 ,
 // [1998-SUMMER] SPECIAL: The Impression of First Gundam
 {"anidb_id":7466,"anilist_id":19977,"animeplanet_id":"the-impression-of-first-gundam","anisearch_id":8926,"livechart_id":7231,"mal_id":19977}
@@ -104042,17 +105887,8 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2016-FALL] SPECIAL: The Intruder III
 {}
 ,
-// [2026-WINTER] TV: The Invisible Man and His Soon-to-Be Wife
-{}
-,
 // [2024-UNDEFINED] SPECIAL: The Irregular at Magic High School Season 3: Miyuki & Mizunami Onsen Scene
 {"animeplanet_id":"the-irregular-at-magic-high-school-season-3-miyuki-and-mizunami-onsen-scene"}
-,
-// [1995-SUMMER] OVA: The Irresponsible Captain Tylor OVA
-{"anidb_id":8732}
-,
-// [1996-SPRING] OVA: The Irresponsible Captain Tylor: From Here to Eternity
-{"anidb_id":8733}
 ,
 // [1996-SUMMER] OVA: The Item
 {}
@@ -104102,13 +105938,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-FALL] TV: The Kingdoms of Ruin
 {}
 ,
-// [2026-SPRING] TV: The Klutzy Class Monitor and the Girl with the Short Skirt
-{}
-,
 // [2023-WINTER] MOVIE: The Klutzy Witch: Fukka and the Witch of Darkness
-{}
-,
-// [undefined-UNDEFINED] TV: The Laid-Off Cheat-Granting Mage Enjoys a New Life
 {}
 ,
 // [2017-FALL] ONA: The Lamp Man
@@ -104143,12 +105973,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2023-WINTER] TV: The Legend of Heroes: Trails of Cold Steel - Northern War
 {}
-,
-// [2012-SPRING] TV: The Legend of Huainanzi
-{"anidb_id":14676,"anilist_id":103757,"animeplanet_id":"huainanzi-chuanqi","anisearch_id":16153,"mal_id":31892}
-,
-// [2014-WINTER] TV: The Legend of Huainanzi 2nd Season
-{"anidb_id":14677,"anilist_id":103756,"animeplanet_id":"huainanzi-chuanqi-2nd-season","anisearch_id":16318,"mal_id":31893}
 ,
 // [2012-SPRING] TV: The Legend of Korra Book 1: Air
 {}
@@ -104195,11 +106019,17 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-FALL] ONA: The Legend of Vox Machina Season 3
 {}
 ,
+// [2026-SUMMER] ONA: The Legend of Vox Machina Season 4
+{}
+,
 // [1993-SPRING] TV: The Legend of Zorro
 {}
 ,
 // [2025-FALL] ONA: THE LENTICULARS
 {"anidb_id":19694,"anilist_id":201151,"anisearch_id":21055,"livechart_id":13400}
+,
+// [2026-SPRING] MOVIE: THE LENTICULARS a/b COMPLETE VERSION
+{"livechart_id":13594}
 ,
 // [2010-SUMMER] OVA: The Lewd Boat
 {}
@@ -104372,7 +106202,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2018-UNDEFINED] ONA: The North Face Japan: Pack Your Dream
 {"animeplanet_id":"the-north-face-japan-pack-your-dream"}
 ,
-// [2026-UNDEFINED] TV: The Ogre's Bride
+// [2026-SUMMER] TV: The Ogre's Bride
 {}
 ,
 // [1999-SUMMER] MOVIE: The Old Man and the Sea
@@ -104387,10 +106217,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-UNDEFINED] MOVIE: The One for Me
 {"anilist_id":177222}
 ,
-// [undefined-UNDEFINED] ONA: The One Piece
-{}
-,
-// [undefined-UNDEFINED] ONA: The One Piece
+// [2027-WINTER] ONA: The One Piece
 {"anidb_id":18325,"anilist_id":171630,"animeplanet_id":"the-one-piece","anisearch_id":18939,"livechart_id":12460,"mal_id":57557}
 ,
 // [2022-WINTER] MOVIE: The Orbital Children
@@ -104400,9 +106227,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {}
 ,
 // [undefined-UNDEFINED] TV: The Otome Heroine's Fight for Survival
-{}
-,
-// [2026-WINTER] ONA: The Outcast Season 6
 {}
 ,
 // [2020-WINTER] TV: The Owl House
@@ -104444,7 +106268,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2008-WINTER] MOVIE: The Place Where We Were
 {"anilist_id":7844,"animeplanet_id":"the-place-where-we-were","mal_id":7844}
 ,
-// [2023-WINTER] SPECIAL: The Planet
+// [2023-SPRING] SPECIAL: The Planet
 {"mal_id":56408}
 ,
 // [2015-FALL] OVA: The Planet of Stray Cats
@@ -104522,6 +106346,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2017-SUMMER] TV: The Reflection
 {"anidb_id":11745,"anilist_id":21461,"animeplanet_id":"the-reflection","anisearch_id":12145,"livechart_id":1900,"mal_id":34449}
 ,
+// [2026-SUMMER] ONA: The Ribbon Hero
+{"anidb_id":20023,"anisearch_id":21489,"mal_id":64012}
+,
+// [2026-SUMMER] MOVIE: THE RIBBON HERO
+{"anilist_id":211308,"livechart_id":13612}
+,
 // [undefined-UNDEFINED] TV: The Rising of the Shield Hero
 {}
 ,
@@ -104546,7 +106376,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2012-WINTER] MOVIE: The Sakuramoto Broom Workshop
 {"anilist_id":113262,"animeplanet_id":"the-sakuramoto-broom-workshop"}
 ,
-// [2026-UNDEFINED] TV: The Salty Koharu Has a Soft Spot for Me
+// [2026-FALL] TV: The Salty Koharu Has a Soft Spot for Me
 {}
 ,
 // [2015-UNDEFINED] MOVIE: The Same River Twice
@@ -104564,20 +106394,17 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2022-FALL] MOVIE: The Seven Deadly Sins: Grudge of Edinburgh
 {}
 ,
+// [2026-SUMMER] TV: The Seven Knights of the Marronnier Kingdom
+{}
+,
 // [2025-WINTER] TV: The Share House's Secret Rule
 {}
 ,
 // [2025-WINTER] TV: The Share House's Secret Rule.
 {"animeplanet_id":"the-share-houses-secret-rule","livechart_id":12932}
 ,
-// [2025-SPRING] TV: The Shiunji Family Children
-{}
-,
 // [2025-SPRING] ONA: The Shiunji Family Children Short Drama
 {"animeplanet_id":"the-shiunji-family-children-short-drama"}
-,
-// [2025-SUMMER] TV: The Shy Hero and the Assassin Princesses
-{}
 ,
 // [2001-FALL] MOVIE: The Siamese: First Mission
 {"anidb_id":5539,"anilist_id":15399,"animeplanet_id":"the-siamese-first-mission","anisearch_id":4571,"mal_id":15399}
@@ -104624,6 +106451,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-SPRING] SPECIAL: The Spider Within: A Spider-Verse Story
 {}
 ,
+// [2024-FALL] SPECIAL: The Star
+{"mal_id":64041}
+,
 // [2025-SPRING] ONA: The Star Seekers: Hoshi wo Ou Shounen-tachi
 {"anidb_id":19271,"anilist_id":189576,"animeplanet_id":"the-star-seekers-hoshi-wo-ou-shounen-tachi","anisearch_id":20404,"mal_id":61364}
 ,
@@ -104636,20 +106466,11 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-FALL] TV: The Stories of Girls Who Couldn't Be Magicians
 {}
 ,
-// [2026-SPRING] TV: The Strongest Job is Apparently Not a Hero or a Sage
-{}
-,
-// [2026-SPRING] TV: The Strongest Job Is Apparently Not a Hero or a Sage, but an Appraiser (Provisional)!
-{}
-,
 // [2024-WINTER] TV: The Strongest Tank's Labyrinth Raids
 {}
 ,
 // [2008-UNDEFINED] SPECIAL: The Sukkiri Crawlers
 {"animeplanet_id":"the-sukkiri-crawlers","mal_id":54972}
-,
-// [2025-SUMMER] TV: The Summer Hikaru Died
-{}
 ,
 // [2021-FALL] MOVIE: The Summit of the Gods
 {}
@@ -104663,9 +106484,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1986-SPRING] OVA: The Supergal
 {"anidb_id":1035,"anilist_id":3787,"animeplanet_id":"maris-the-chojo","anisearch_id":3509,"mal_id":3787}
 ,
-// [2026-UNDEFINED] ONA: The Supreme Body Refining Master
-{"animeplanet_id":"the-supreme-body-refining-master"}
-,
 // [2006-FALL] OVA: The Supreme Hecate-tan
 {}
 ,
@@ -104674,15 +106492,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2014-UNDEFINED] MOVIE: The Swallow
 {"animeplanet_id":"the-swallow"}
-,
-// [2025-FALL] ONA: The Swords 2
-{}
-,
-// [2025-UNDEFINED] ONA: The Swords 2nd Season
-{"animeplanet_id":"the-swords-2nd-season"}
-,
-// [undefined-UNDEFINED] ONA: The Swords: The 13th Sword
-{"animeplanet_id":"the-swords-the-13th-sword"}
 ,
 // [2019-SPRING] SPECIAL: THE SxPLAY: For Kimi ni Okuro Uta
 {"anidb_id":14898,"animeplanet_id":"the-sxplay-for-kimi-ni-okuro-uta","anisearch_id":14352}
@@ -104733,7 +106542,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anisearch_id":1787,"mal_id":1353}
 ,
 // [2027-UNDEFINED] MOVIE: The Valley
-{"anisearch_id":20684,"mal_id":61775}
+{"mal_id":61775}
 ,
 // [2023-WINTER] TV: The Vampire Dies in No Time
 {}
@@ -104753,9 +106562,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1996-FALL] OVA: The Vision of Escaflowne: Best Collection
 {}
 ,
-// [2026-SPRING] TV: The Warrior Princess and the Barbaric King
-{}
-,
 // [2011-UNDEFINED] MOVIE: THE WAY TO FLY
 {"animeplanet_id":"the-way-to-fly"}
 ,
@@ -104767,6 +106573,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1958-FALL] MOVIE: The White Snake
 {}
+,
+// [2026-SPRING] SPECIAL: The Whole Blue World
+{"mal_id":64440}
 ,
 // [2012-SPRING] OVA: The Wife is Micael
 {}
@@ -104804,13 +106613,16 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-FALL] TV: The World of Lafcadio Hearn's Kwaidan
 {}
 ,
-// [undefined-UNDEFINED] TV: The World's Finest Assassin
+// [2027-UNDEFINED] TV: The World's Finest Assassin
 {}
 ,
 // [2021-FALL] TV: The World's Finest Assassin
 {}
 ,
-// [2026-SUMMER] TV: The World's Strongest Rearguard - Labyrinth Country's Novice Seeker
+// [2026-SUMMER] TV: The World's Strongest Rearguard: Labyrinth Country's Novice Seeker
+{"animeplanet_id":"the-worlds-strongest-rearguard-labyrinth-countrys-novice-seeker"}
+,
+// [2026-FALL] TV: The World's Strongest Witch
 {}
 ,
 // [1983-FALL] TV: The Yearling
@@ -104821,6 +106633,15 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [undefined-UNDEFINED] MOVIE: The Zero Century
 {"anidb_id":13265}
+,
+// [undefined-UNDEFINED] MOVIE: The Zero Century: Emeraldas
+{"anilist_id":100081,"animeplanet_id":"the-zero-century-emeraldas","anisearch_id":12613,"livechart_id":2778}
+,
+// [undefined-UNDEFINED] MOVIE: The Zero Century: Herlock
+{"anilist_id":100148,"animeplanet_id":"the-zero-century-herlock","anisearch_id":13006,"livechart_id":2779}
+,
+// [undefined-UNDEFINED] MOVIE: The Zero Century: Maetel
+{"anilist_id":107623,"animeplanet_id":"the-zero-century-maetel","anisearch_id":13007,"livechart_id":2780}
 ,
 // [2017-UNDEFINED] ONA: the_Filmament
 {"animeplanet_id":"the-filmament"}
@@ -104867,14 +106688,14 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2010-UNDEFINED] SPECIAL: Therapy
 {"anilist_id":106222,"animeplanet_id":"group-inou-therapy","mal_id":50126}
 ,
-// [2026-UNDEFINED] ONA: There Are Beasts 5th Season
-{"animeplanet_id":"there-are-beasts-5th-season"}
-,
 // [2020-SUMMER] ONA: There She Is!! another step
 {"anilist_id":118637}
 ,
 // [2017-SUMMER] MOVIE: There was a man
 {"anilist_id":111344,"animeplanet_id":"there-was-a-man"}
+,
+// [2025-FALL] MOVIE: There's No Freaking Way I'll be Your Lover! Unless...
+{}
 ,
 // [2025-SUMMER] TV: There's No Freaking Way I'll Be Your Lover! Unless...
 {}
@@ -105185,6 +107006,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2019-SUMMER] TV: Tianmi Tegong Dui
 {"mal_id":47869}
 ,
+// [2025-WINTER] ONA: Tianming Da Zhuazhai
+{"anisearch_id":21646}
+,
 // [2025-WINTER] ONA: Tianming Da Zhuzai
 {"anidb_id":19128,"anilist_id":186836,"animeplanet_id":"tianming-da-zhuzai","mal_id":60766}
 ,
@@ -105235,6 +107059,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [undefined-UNDEFINED] ONA: Tianwang
 {"anilist_id":166441}
+,
+// [2027-UNDEFINED] ONA: Tianxia Wushuang: Fubing Cheng Pian
+{"mal_id":63994}
 ,
 // [2011-FALL] TV: Tianxin Gege
 {"anisearch_id":11260}
@@ -105364,9 +107191,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2012-FALL] OVA: Tiger & Bunny Recaps
 {"animeplanet_id":"tiger-and-bunny-recaps","anisearch_id":16014,"mal_id":30178}
-,
-// [2012-SUMMER] MOVIE: Tiger & Bunny the Movie
-{"anidb_id":8805}
 ,
 // [2013-WINTER] SPECIAL: Tiger & Bunny: Special Edition - Side Tiger
 {}
@@ -105532,6 +107356,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2018-SUMMER] OVA: Tiny Evil
 {"anisearch_id":13725,"mal_id":38034}
+,
+// [2026-WINTER] SPECIAL: Tiny Light
+{"mal_id":63898}
 ,
 // [2013-WINTER] MOVIE: Tiny Tot Adventures
 {"anilist_id":117076,"animeplanet_id":"tiny-tot-adventures"}
@@ -105846,7 +107673,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"animeplanet_id":"tobidashi-wa-abunaizo-mushi-mushi-mura-no-koutsuu-anzen","mal_id":30928}
 ,
 // [2000-WINTER] OVA: Tobidashicha dame!
-{"animeplanet_id":"tobidashicha-dame","mal_id":26339}
+{"animeplanet_id":"tobidashicha-dame","anisearch_id":21383,"mal_id":26339}
 ,
 // [2010-FALL] MOVIE: Tobidasu Ehon 3D
 {"anidb_id":7925,"anilist_id":187214,"animeplanet_id":"tobidasu-ehon-3d","anisearch_id":6479,"mal_id":24803}
@@ -105914,6 +107741,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-SUMMER] TV: Tobot: Daedosiui Yeongungdeul Season 3 Part 2
 {"mal_id":62456}
 ,
+// [2025-FALL] TV: Tobot: Daedosiui Yeongungdeul Season 3 Part 3
+{"mal_id":64130}
+,
 // [2023-UNDEFINED] SPECIAL: Toby Fox & Hana Itoki: The Greatest Living Show
 {"animeplanet_id":"toby-fox-and-hana-itoki-the-greatest-living-show"}
 ,
@@ -105952,6 +107782,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2022-SPRING] TV: Tōgane! Omatsuri-Bu
 {}
+,
+// [2025-SUMMER] SPECIAL: Toge
+{"mal_id":64125}
 ,
 // [2019-FALL] SPECIAL: Togemeku Spica
 {"anilist_id":126263,"animeplanet_id":"togemeku-spica","mal_id":49769}
@@ -106085,6 +107918,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2013-WINTER] SPECIAL: Tokimeki ni Shinda Koibito yo
 {"anilist_id":153769,"animeplanet_id":"tokimeki-ni-shinda-koibito-yo","mal_id":58179}
 ,
+// [2026-SPRING] SPECIAL: Tokimeki no Solfege
+{"mal_id":63961}
+,
 // [2023-SPRING] SPECIAL: Tokimeki Rainbow
 {"anilist_id":168997,"mal_id":58328}
 ,
@@ -106177,6 +108013,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2025-SUMMER] TV: Tokusou Gattai Robo Jobraver
 {"anisearch_id":20669}
+,
+// [2026-WINTER] ONA: Tokusou Gattai Robo Jobraver: Gyakushuu no Joker!
+{"mal_id":63896}
 ,
 // [1983-FALL] TV: Tokusou Kihei Dorvack
 {"anidb_id":4359,"anilist_id":5143,"animeplanet_id":"powered-armor-dorvack","anisearch_id":5229,"livechart_id":11842,"mal_id":5143}
@@ -106299,7 +108138,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":9880,"anilist_id":19199,"animeplanet_id":"tokyo-esp","anisearch_id":9042,"livechart_id":111,"mal_id":21353}
 ,
 // [2005-WINTER] MOVIE: Tokyo Fantasia
-{"anilist_id":103163,"animeplanet_id":"tokyo-fantasia","mal_id":29780}
+{"anilist_id":103163,"animeplanet_id":"tokyo-fantasia","anisearch_id":21431,"mal_id":29780}
 ,
 // [2024-SPRING] SPECIAL: Tokyo Friday Night
 {"anilist_id":178051,"mal_id":59079}
@@ -106324,9 +108163,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2015-FALL] OVA: Tokyo Ghoul: "Pinto"
 {"anilist_id":21326,"animeplanet_id":"tokyo-ghoul-pinto","anisearch_id":10576,"livechart_id":1729,"mal_id":31297}
-,
-// [2015-SUMMER] OVA: Tokyo Ghoul: Jack
-{"anidb_id":11268}
 ,
 // [2018-SPRING] TV: Tokyo Ghoul:re
 {"anidb_id":13499,"anilist_id":100240,"animeplanet_id":"tokyo-ghoul-re","anisearch_id":12880,"livechart_id":2913,"mal_id":36511}
@@ -106391,6 +108227,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2006-UNDEFINED] MOVIE: Tokyo Montage
 {"anilist_id":152134,"mal_id":59774}
 ,
+// [2024-FALL] SPECIAL: Tokyo Night Dreaming feat. No Rome
+{"mal_id":64269}
+,
 // [2016-FALL] MOVIE: Tokyo One Piece Tower: Tongari Shima no Dai Hihou
 {"anidb_id":14737,"anilist_id":126649,"animeplanet_id":"tokyo-one-piece-tower-tongari-shima-no-dai-hihou","anisearch_id":15516,"livechart_id":8509,"mal_id":38419}
 ,
@@ -106433,7 +108272,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-FALL] TV: Tokyo Revengers: Tenjiku-hen
 {"anidb_id":17969,"anilist_id":163329,"animeplanet_id":"tokyo-revengers-tenjiku-hen","anisearch_id":18331,"livechart_id":11923,"mal_id":54918}
 ,
-// [2026-UNDEFINED] TV: Tokyo Revengers: War of the Three Titans Arc
+// [2026-FALL] TV: Tokyo Revengers: War of the Three Titans Arc
 {}
 ,
 // [2022-FALL] SPECIAL: Tokyo Shinya
@@ -106452,7 +108291,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":2795,"anilist_id":2003,"animeplanet_id":"the-tokyo-project","anisearch_id":676,"livechart_id":8807,"mal_id":2003}
 ,
 // [2023-FALL] SPECIAL: Tokyo Wabi-Sabi Lullaby
-{"anilist_id":170992,"animeplanet_id":"gawr-gura-tokyo-wabi-sabi-lullaby","mal_id":57292}
+{"anilist_id":170992,"animeplanet_id":"gawr-gura-tokyo-wabi-sabi-lullaby","anisearch_id":21412,"mal_id":57292}
 ,
 // [2020-UNDEFINED] SPECIAL: TOKYO-STATION
 {"anilist_id":121236}
@@ -106511,7 +108350,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-SPRING] SPECIAL: Tomato Trauma
 {"mal_id":57267}
 ,
-// [2025-SUMMER] ONA: Tomb of Fallen Gods 3rd Season
+// [2026-SUMMER] TV: Tomb Raider King
 {}
 ,
 // [2024-FALL] ONA: Tomb Raider: The Legend of Lara Croft
@@ -106526,8 +108365,17 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2020-SUMMER] SPECIAL: Tomedo Naki Hakujou
 {"mal_id":62877}
 ,
-// [2025-SUMMER] TV: TOMICA & TOM
-{"anilist_id":196227}
+// [2025-SUMMER] TV: Tomica & Tom
+{}
+,
+// [2026-SUMMER] TV: Tomica & Tom
+{}
+,
+// [2026-SUMMER] TV: TOMICA & TOM Season 2
+{"anilist_id":213097}
+,
+// [2026-SUMMER] ONA: TOMICA & TOM Season 2
+{}
 ,
 // [2025-SUMMER] TV: Tomica Heroes Jobraver: Tokusō Gattai Robo
 {}
@@ -106536,10 +108384,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {}
 ,
 // [2022-SPRING] ONA: Tomica Heroes Jobraver: Tokusou Gattai Robo
-{"anilist_id":172896,"animeplanet_id":"tomica-heroes-jobraver-tokusou-gattai-robo","anisearch_id":17432,"mal_id":51682}
+{"anidb_id":18788}
 ,
 // [2022-SPRING] ONA: Tomica Heroes Jobraver: Tokusou Gattai Robo
-{"anidb_id":18788}
+{"anilist_id":172896,"animeplanet_id":"tomica-heroes-jobraver-tokusou-gattai-robo","anisearch_id":17432,"mal_id":51682}
 ,
 // [2025-SPRING] TV: Tomica Heroes Jobraver: Tokusou Gattai Robo - Job Labor Selection
 {"anidb_id":19647}
@@ -106552,6 +108400,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2025-SUMMER] TV: Tomica Heroes Jobraver: Tokusou Gattai Robo (TV)
 {"anilist_id":196229,"animeplanet_id":"tomica-heroes-jobraver-tokusou-gattai-robo-tv","mal_id":62046}
+,
+// [2024-WINTER] ONA: Tomica Heroes Jobraver: Tokusou Gattai Robo Soushuuhen
+{"mal_id":63979}
 ,
 // [2015-WINTER] ONA: Tomica Hyper Blue Police
 {"mal_id":60331}
@@ -106577,14 +108428,20 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2020-SPRING] TV: Tomica Kizuna Gattai: Earth Granner
 {"anidb_id":15355,"anilist_id":114717,"animeplanet_id":"tomica-kizuna-gattai-earth-granner","anisearch_id":15036,"livechart_id":9769,"mal_id":41062}
 ,
+// [1990-WINTER] OVA: Tomica Mirai Kinkyuu Tai Earth Commander
+{"mal_id":64333}
+,
 // [2025-SUMMER] TV: Tomica to Tom
-{"anisearch_id":20660}
+{"anilist_id":196227,"anisearch_id":20660}
 ,
 // [2023-SPRING] ONA: Tomica to Tom
 {"mal_id":62082}
 ,
 // [2025-SUMMER] TV: Tomica to Tom (TV)
 {"mal_id":62083}
+,
+// [2026-SUMMER] TV: Tomica to Tom (TV) Season 2
+{"mal_id":64357}
 ,
 // [1990-WINTER] OVA: Tomika Mirai Kinkyuu Tai Earth Commander
 {"anidb_id":8741,"anisearch_id":7407}
@@ -106826,6 +108683,15 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2026-SPRING] TV: Tongari Boushi no Atelier
 {"anidb_id":17305,"anilist_id":147105,"animeplanet_id":"witch-hat-atelier","anisearch_id":17281,"livechart_id":11157,"mal_id":51553}
 ,
+// [undefined-UNDEFINED] TV: Tongari Boushi no Atelier 2
+{"anidb_id":20145}
+,
+// [undefined-UNDEFINED] TV: Tongari Boushi no Atelier 2nd Season
+{"anilist_id":213702,"livechart_id":13704,"mal_id":64516}
+,
+// [undefined-UNDEFINED] TV: Tongari Boushi no Atelier Dai 2 Ki
+{"anisearch_id":21762}
+,
 // [1984-SPRING] TV: Tongari Boushi no Memole
 {"anidb_id":1933,"anilist_id":3754,"animeplanet_id":"tongari-boushi-no-memoru","anisearch_id":2700,"livechart_id":11959,"mal_id":3754}
 ,
@@ -107006,6 +108872,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2014-WINTER] SPECIAL: Tooryanse (Music)
 {"anilist_id":103314,"animeplanet_id":"handsome-kenya-tooryanse","mal_id":24109}
 ,
+// [2026-SPRING] SPECIAL: Top Secret
+{"mal_id":64256}
+,
 // [2008-SPRING] TV: Top Secret: The Revelation
 {"anidb_id":5658,"anilist_id":3859,"animeplanet_id":"himitsu-the-revelation","anisearch_id":4691,"livechart_id":5722,"mal_id":3859}
 ,
@@ -107044,6 +108913,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2021-SUMMER] ONA: Tora to Mike
 {"anidb_id":16567,"animeplanet_id":"tora-to-mike","anisearch_id":16546,"livechart_id":10704,"mal_id":49445}
+,
+// [1955-UNDEFINED] MOVIE: Tora-chan no Bouken
+{"anilist_id":213709}
 ,
 // [1950-WINTER] MOVIE: Tora-chan no Kankan Mushi
 {"anidb_id":6877,"anilist_id":10743,"animeplanet_id":"tora-chan-no-kankan-mushi","anisearch_id":7583,"mal_id":10743}
@@ -107138,6 +109010,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2009-FALL] SPECIAL: Toriko: Jump Super Anime Tour 2009 Special
 {"anidb_id":7227,"anilist_id":6941,"animeplanet_id":"toriko","anisearch_id":5855,"livechart_id":6015,"mal_id":6941}
 ,
+// [2026-WINTER] SPECIAL: Torimodosou, Ichiban Taisetsu na Mono wo: GIST Project
+{"mal_id":64281}
+,
 // [2025-FALL] MOVIE: Toritsukare Otoko
 {"anidb_id":19344,"anilist_id":193294,"animeplanet_id":"toritsukare-otoko","anisearch_id":20497,"livechart_id":13170,"mal_id":61736}
 ,
@@ -107158,6 +109033,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2014-WINTER] MOVIE: Toruru's Adventure
 {"anidb_id":10532,"animeplanet_id":"torurus-adventure","anisearch_id":9595,"mal_id":34258}
+,
+// [2014-WINTER] MOVIE: Toruru's Adventure
+{"anilist_id":213515}
 ,
 // [2010-SUMMER] MOVIE: Tosca
 {"anilist_id":128370,"animeplanet_id":"tosca","mal_id":48969}
@@ -107180,8 +109058,11 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-FALL] SPECIAL: Toshikoshi Idol
 {"anisearch_id":20673}
 ,
-// [1981-FALL] SPECIAL: Toshishun
+// [1981-WINTER] OVA: Toshishun
 {"anidb_id":7471,"anilist_id":6124,"animeplanet_id":"toshishun","anisearch_id":20026,"mal_id":6124}
+,
+// [1981-FALL] SPECIAL: Toshishun (TV Special)
+{"mal_id":64063}
 ,
 // [2016-FALL] SPECIAL: Toshiwasure Guda Guda Order 2016
 {"anilist_id":132424,"animeplanet_id":"toshiwasure-guda-guda-order-2016","mal_id":40469}
@@ -107328,7 +109209,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":145406}
 ,
 // [2005-SUMMER] OVA: Tottoko Hamtarou: Hiragana Tanken
-{"animeplanet_id":"tottoko-hamtarou-hiragana-tanken","anisearch_id":18617,"mal_id":39107}
+{"anidb_id":15529,"animeplanet_id":"tottoko-hamtarou-hiragana-tanken","anisearch_id":18617,"mal_id":39107}
 ,
 // [2002-FALL] MOVIE: Tottoko Hamutarō: Ham Ham Ham - Jya! Maboroshi no Princess
 {}
@@ -107396,7 +109277,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2026-FALL] TV: Tougen Anki: Nikko・Kegon no Taki-hen
 {"anilist_id":204650,"livechart_id":13454}
 ,
-// [undefined-UNDEFINED] TV: Tougen Anki: Nikkou Kegon no Taki Hen
+// [2026-FALL] TV: Tougen Anki: Nikkou Kegon no Taki Hen
 {"anidb_id":19795}
 ,
 // [2022-SPRING] SPECIAL: Tougenkyou
@@ -107471,6 +109352,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2007-SPRING] TV: Touka Gettan
 {"anidb_id":4971,"anilist_id":2105,"animeplanet_id":"touka-gettan","anisearch_id":4072,"livechart_id":5277,"mal_id":2105}
 ,
+// [2022-FALL] SPECIAL: Toukai Compliance
+{"anisearch_id":21413}
+,
 // [2024-SUMMER] MOVIE: Touken Ranbu Kai -Dо̄den Chikashi Haberau Monora-
 {}
 ,
@@ -107500,6 +109384,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2014-SUMMER] ONA: Toukiden Kiwami
 {"anidb_id":10781,"anilist_id":20898,"animeplanet_id":"toukiden-kiwami","anisearch_id":9856,"mal_id":25873}
+,
+// [2026-SUMMER] TV: Toukutsu Ou
+{"anidb_id":19838}
 ,
 // [1995-FALL] TV: Touma Kishinden Oni
 {"anidb_id":2554,"anilist_id":2366,"animeplanet_id":"touma-kijin-den-oni","anisearch_id":2860,"livechart_id":8338,"mal_id":2366}
@@ -107642,7 +109529,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2026-WINTER] SPECIAL: Tower Dungeon Manga PV
 {"mal_id":63854}
 ,
-// [2026-UNDEFINED] ONA: Tower Dungeon Volume 6 Release Commemorative PV
+// [2026-SPRING] ONA: Tower Dungeon Volume 6 Release Commemorative PV
 {"anilist_id":210115}
 ,
 // [2003-SPRING] OVA: Tower of Etruria
@@ -107831,6 +109718,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-WINTER] ONA: Transformers: Wild King
 {"anidb_id":19767,"anilist_id":188239,"animeplanet_id":"transformers-wild-king","anisearch_id":20303,"livechart_id":13097,"mal_id":61258}
 ,
+// [2026-SPRING] ONA: Transformers: Wild King W
+{"anilist_id":212309,"mal_id":64181}
+,
 // [2022-UNDEFINED] SPECIAL: Transparent Blue
 {"anilist_id":170074}
 ,
@@ -107843,7 +109733,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2001-SPRING] SPECIAL: Trapp Ikka Monogatari Specials
 {"anidb_id":7154,"animeplanet_id":"sekai-meisaku-gekijou-kanketsu-ban-trapp-ikka-monogatari","anisearch_id":6144,"mal_id":25079}
 ,
-// [2026-UNDEFINED] TV: Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs
+// [2026-SUMMER] TV: Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs
 {}
 ,
 // [2002-FALL] SPECIAL: Trapped in Hyperspace
@@ -108062,6 +109952,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2000-SPRING] OVA: Try Z
 {"anisearch_id":4856,"mal_id":9341}
 ,
+// [undefined-UNDEFINED] TV: Trying to Break up With Sex
+{}
+,
 // [2011-FALL] OVA: TSF Monogatari
 {"anisearch_id":7270,"mal_id":11467}
 ,
@@ -108134,11 +110027,17 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-SUMMER] TV: Tsue to Tsurugi no Wistoria
 {"anidb_id":18482,"anilist_id":174576,"animeplanet_id":"wistoria-wand-and-sword","anisearch_id":19058,"livechart_id":12521,"mal_id":58059}
 ,
+// [undefined-UNDEFINED] TV: Tsue to Tsurugi no Wistoria Dai 3 Ki
+{"anisearch_id":21758}
+,
 // [2026-SPRING] SPECIAL: Tsue to Tsurugi no Wistoria Recap
 {"mal_id":63857}
 ,
 // [2026-SPRING] TV: Tsue to Tsurugi no Wistoria Season 2
 {"anidb_id":18889,"anilist_id":182300,"animeplanet_id":"wistoria-wand-and-sword-2nd-season","anisearch_id":19638,"livechart_id":12861,"mal_id":59983}
+,
+// [undefined-UNDEFINED] TV: Tsue to Tsurugi no Wistoria Season 3
+{"anidb_id":20141,"anilist_id":213656,"livechart_id":13699,"mal_id":64500}
 ,
 // [2024-FALL] SPECIAL: Tsugi no Jidai mo, Atarashii Kenshiki o Minna ni.
 {"anisearch_id":20087}
@@ -108179,13 +110078,13 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1987-FALL] TV: Tsuideni Tonchinkan
 {"anidb_id":5568,"anilist_id":6917,"animeplanet_id":"tsuide-ni-tonchinkan","anisearch_id":4172,"livechart_id":12095,"mal_id":6917}
 ,
-// [undefined-UNDEFINED] TV: Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life o Ouka Suru. Ore wa Buki dake Janaku, Arayuru Mono ni "Kyouka Point" o Fuyo Dekirushi, Ore no Ishi de Itsu demo Kouka o Kaijo Dekiru Kedo, Nokotta Hitotachi Daijoubu?
-{"anidb_id":19881}
-,
-// [undefined-UNDEFINED] TV: Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life o Ouka Suru. Ore wa Buki dake Janaku, Arayuru Mono ni ”Kyouka Point” o Fuyo Dekirushi, Ore no Ishi de Itsu demo Kouka o Kaijo Dekiru Kedo, Nokotta Hitotachi Daijoubu?
+// [2026-FALL] TV: Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life o Ouka Suru. Ore wa Buki dake ja Naku, Arayuru Mono ni ”Kyouka Point” o Fuyo Dekirushi, Ore no Ishi de Itsudemo Kouka o Kaijo Dekiru kedo, Nokotta Hito-tachi Daijoubu?
 {"anisearch_id":21236}
 ,
-// [undefined-UNDEFINED] TV: Tsuihou sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka suru. Ore wa Buki dake ja Naku, Arayuru Mono ni "Kyouka Point" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?
+// [2026-FALL] TV: Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life o Ouka Suru. Ore wa Buki dake Janaku, Arayuru Mono ni "Kyouka Point" o Fuyo Dekirushi, Ore no Ishi de Itsu demo Kouka o Kaijo Dekiru Kedo, Nokotta Hitotachi Daijoubu?
+{"anidb_id":19881}
+,
+// [2026-FALL] TV: Tsuihou sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka suru. Ore wa Buki dake ja Naku, Arayuru Mono ni "Kyouka Point" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?
 {"anilist_id":207329,"animeplanet_id":"tsuihousareta-cheat-fuyo-majutsushi-wa-kimama-na-second-life-wo-oukasuru-ore-wa-buki-dake-ja-naku-arayuru-mono-ni-kyouka-point-wo-fuyo-dekiru-shi-ore-no-ishi-de-itsudemo-kouka-wo-kaijo-dekiru-kedo-nokotta-hito-tachi-daijoubu","livechart_id":13514,"mal_id":63431}
 ,
 // [2026-SUMMER] TV: Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru
@@ -108282,7 +110181,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":166110,"animeplanet_id":"daoko-tsuki-no-hana","mal_id":55637}
 ,
 // [1982-WINTER] MOVIE: Tsuki no Mine no Ookami
-{"animeplanet_id":"tsuki-no-mine-no-ookami","mal_id":35056}
+{"animeplanet_id":"tsuki-no-mine-no-ookami","anisearch_id":21441,"mal_id":35056}
 ,
 // [1934-FALL] MOVIE: Tsuki no Miya no Oujosama
 {"anidb_id":6853,"anilist_id":15139,"animeplanet_id":"tsuki-no-miya-no-oujo-sama","anisearch_id":11930,"mal_id":15139}
@@ -108385,9 +110284,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2013-WINTER] OVA: Tsukushi no Iwai
 {"anidb_id":11741,"animeplanet_id":"tsukushi-no-iwai","anisearch_id":12055,"mal_id":32598}
-,
-// [2023-WINTER] ONA: Tsukuyo no Nakama Atsume
-{"mal_id":55081}
 ,
 // [2004-FALL] TV: Tsukuyomi: Moon Phase
 {"anidb_id":2478,"anilist_id":343,"animeplanet_id":"tsukuyomi-moon-phase","anisearch_id":1218,"livechart_id":4275,"mal_id":343}
@@ -108626,6 +110522,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2010-SPRING] SPECIAL: Tsuzuki wo Kangaeru Monogatari
 {"mal_id":32646}
 ,
+// [2026-SPRING] SPECIAL: Tsuzuku Tousou
+{"mal_id":64284}
+,
 // [1987-SPRING] SPECIAL: Tteodori Kkachi
 {"anidb_id":8250,"animeplanet_id":"tteodori-kkachi","anisearch_id":11914,"mal_id":35528}
 ,
@@ -108649,6 +110548,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1978-WINTER] MOVIE: Ttoli Janggun
 {"anilist_id":19555,"animeplanet_id":"ttoli-janggun","anisearch_id":8851,"mal_id":19555}
+,
+// [1978-WINTER] MOVIE: Ttoli Janggun: Je 3 Ttanggul Pyeon
+{"anidb_id":15404}
 ,
 // [1985-WINTER] MOVIE: Ttori wa Zeta Robot
 {"anidb_id":9597,"anilist_id":16798,"animeplanet_id":"ttori-wa-zeta-robot","anisearch_id":8560,"livechart_id":6801,"mal_id":16798}
@@ -108758,6 +110660,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-FALL] ONA: Tudi Ge Ge Shi Da Lao
 {"anidb_id":18948,"anilist_id":185728,"animeplanet_id":"tudi-ge-ge-shi-da-lao","mal_id":60137}
 ,
+// [2024-FALL] ONA: Tudi Gege Shi Dalao
+{"anisearch_id":21652}
+,
 // [2019-UNDEFINED] ONA: Tudou Dori: Yi Meng Yilu
 {"mal_id":47926}
 ,
@@ -108816,9 +110721,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":133862,"animeplanet_id":"tun-hai"}
 ,
 // [2025-SPRING] ONA: Tun Tian Ji
-{"anidb_id":19342,"anilist_id":193240,"animeplanet_id":"tun-tian-ji","mal_id":61704}
+{"anidb_id":19342,"anilist_id":193240,"animeplanet_id":"tun-tian-ji","anisearch_id":21625,"mal_id":61704}
 ,
 // [undefined-UNDEFINED] TV: Tune In to the Midnight Heart
+{}
+,
+// [undefined-UNDEFINED] TV: Tune In to the Midnight Heart Season 2
 {}
 ,
 // [2025-SUMMER] SPECIAL: Tuning
@@ -108836,17 +110744,20 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-FALL] ONA: Tunshi Xingkong 4th Season
 {"anidb_id":18365,"anilist_id":166219,"animeplanet_id":"swallowed-star-4th-season","anisearch_id":18815,"mal_id":56524}
 ,
-// [2026-UNDEFINED] ONA: Tunshi Xingkong Movie: Juezhan Yuanshi Xing
-{"animeplanet_id":"swallowed-star-movie-juezhan-yuanshi-xing","mal_id":62726}
+// [2026-SPRING] ONA: Tunshi Xingkong Ban: Juezhan Yuanshi Xing
+{"anisearch_id":21507}
+,
+// [undefined-UNDEFINED] ONA: Tunshi Xingkong Movie: Jie Shou Weiji
+{"mal_id":64458}
+,
+// [2026-SPRING] ONA: Tunshi Xingkong Movie: Juezhan Yuanshi Xing
+{"anidb_id":20042,"anilist_id":213516,"animeplanet_id":"swallowed-star-movie-juezhan-yuanshi-xing","mal_id":62726}
 ,
 // [2024-FALL] ONA: Tunshi Xingkong Movie: Xueluo Dalu
-{"anidb_id":19039,"anilist_id":185724,"animeplanet_id":"swallowed-star-movie-blood-luo-continent","mal_id":59939}
+{"anidb_id":19039,"anilist_id":185724,"animeplanet_id":"swallowed-star-movie-blood-luo-continent","anisearch_id":21656,"mal_id":59939}
 ,
 // [2021-FALL] ONA: Tunshi Xingkong: Zhuangzhi Lingyun
 {"anisearch_id":18770}
-,
-// [2020-SPRING] ONA: Tunshi Yongheng
-{"anilist_id":139535,"animeplanet_id":"devour-eternity","mal_id":50300}
 ,
 // [2011-UNDEFINED] TV: Tunshu Buluo
 {"mal_id":46403}
@@ -108893,9 +110804,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-SUMMER] TV: Turkey!
 {"anidb_id":17801,"anilist_id":159483,"animeplanet_id":"turkey-time-to-strike","anisearch_id":17997,"livechart_id":11762,"mal_id":54028}
 ,
-// [2025-SUMMER] TV: Turkey!-Time to Strike-
-{}
-,
 // [1999-SPRING] TV: Turn A Gundam
 {"anidb_id":916,"anilist_id":95,"animeplanet_id":"turn-a-gundam","anisearch_id":1440,"livechart_id":5293,"mal_id":95}
 ,
@@ -108910,6 +110818,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2002-WINTER] MOVIE: Turn A Gundam: Moon Butterfly
 {}
+,
+// [2024-SPRING] SPECIAL: Turn Around For Me
+{"mal_id":64511}
+,
+// [2026-SPRING] ONA: Turning Around Yujin Chong Ran: Ming Chao ER Zhounian Jinian Donghua
+{"mal_id":64264}
 ,
 // [2013-SPRING] ONA: Turning Girls
 {"anilist_id":19133,"animeplanet_id":"turning-girls","anisearch_id":8859,"livechart_id":868,"mal_id":19133}
@@ -109112,18 +111026,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-WINTER] SPECIAL: Twisted-Wonderland 3-shuunen Kinen PV
 {"animeplanet_id":"disney-twisted-wonderland-3-shuunen-kinen-pv","mal_id":54745}
 ,
-// [2022-FALL] SPECIAL: Twisted-Wonderland: Glorious Masquerade PV
-{"mal_id":57746}
-,
-// [2023-FALL] SPECIAL: Twisted-Wonderland: Playful Land's Miraculous Marionettes CM
-{"mal_id":62692}
-,
-// [2020-FALL] SPECIAL: Twisted-Wonderland: Scary Monsters CM
-{"mal_id":58882}
-,
-// [2025-FALL] SPECIAL: Twisted-Wonderland: Twisted Thrills Vs. Classic Chills A Storybook Adventure PV
-{"mal_id":62691}
-,
 // [2017-FALL] TV: Two Car
 {"anidb_id":13322,"anilist_id":99672,"animeplanet_id":"two-car","anisearch_id":12664,"livechart_id":2812,"mal_id":36009}
 ,
@@ -109134,7 +111036,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":8912,"anilist_id":179752,"animeplanet_id":"two-down-full-base","anisearch_id":7559,"mal_id":23537}
 ,
 // [2026-WINTER] SPECIAL: Two Faced
-{"mal_id":63746}
+{"anisearch_id":21555,"mal_id":63746}
 ,
 // [1992-SPRING] OVA: Two on the Road: Itsumo Futari de
 {"anilist_id":120265,"animeplanet_id":"two-on-the-road-itsumo-futari-de","mal_id":35368}
@@ -109271,6 +111173,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2021-SPRING] TV: Uchū Nanchara Kotetsu-kun
 {}
 ,
+// [2026-SUMMER] MOVIE: Uchū Nanchara Kotetsu-kun: Ukkari Detekita Uchūjin o Sagase!
+{}
+,
 // [2014-FALL] MOVIE: Uchū Senkan Yamato 2199: Tsuioku no Kōkai
 {}
 ,
@@ -109334,7 +111239,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1988-FALL] OVA: Uchuu Kazoku Carlvinson
 {"anidb_id":3556,"anilist_id":4533,"animeplanet_id":"uchuu-kazoku-carlvinson","anisearch_id":2705,"livechart_id":7199,"mal_id":4533}
 ,
-// [1992-WINTER] SPECIAL: Uchuu Kishi Tekkaman Blade: Nagaki no Jyokoku
+// [1992-WINTER] SPECIAL: Uchuu Kishi Tekkaman Blade: Nagaki Tatakai no Jokyoku
 {"mal_id":63331}
 ,
 // [2004-SUMMER] TV: Uchuu Koukyoushi Maetel: Ginga Tetsudou 999 Gaiden
@@ -109360,6 +111265,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2021-SPRING] TV: Uchuu Nanchara Kotetsu-kun
 {"anidb_id":15726,"anilist_id":130516,"animeplanet_id":"uchuu-nanchara-kotetsu-kun","anisearch_id":15721,"livechart_id":10148,"mal_id":42870}
+,
+// [2026-FALL] MOVIE: Uchuu Nanchara Kotetsu-kun Movie
+{"livechart_id":13684}
 ,
 // [2022-SUMMER] MOVIE: Uchuu Nanchara Kotetsu-kun Planetarium
 {"animeplanet_id":"uchuu-nanchara-kotetsu-kun-planetarium","mal_id":54091}
@@ -109670,9 +111578,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2005-WINTER] TV: UG☆Ultimate Girls
 {"anidb_id":2602,"anilist_id":354,"animeplanet_id":"ultimate-girls","anisearch_id":3195,"livechart_id":6563,"mal_id":354}
 ,
-// [2025-SUMMER] TV: Uglymug, Epicfighter
-{}
-,
 // [2019-SUMMER] ONA: Ugoite Hamidase! Machikado Mazoku
 {"animeplanet_id":"ugoite-hamidase-machikado-mazoku","mal_id":40756}
 ,
@@ -109691,7 +111596,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-FALL] ONA: Ugoku! Neko Mukashibanashi
 {"anidb_id":19588,"anilist_id":188529,"animeplanet_id":"ugoku-neko-mukashibanashi","anisearch_id":20152,"livechart_id":13029,"mal_id":61254}
 ,
-// [2012-UNDEFINED] SPECIAL: UHA Mikakutou x One Piece
+// [2012-WINTER] SPECIAL: UHA Mikakutou x One Piece
 {"mal_id":59801}
 ,
 // [2012-SPRING] OVA: Uhou Renka
@@ -109991,6 +111896,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1984-SUMMER] SPECIAL: Umi e Kite
 {"anilist_id":103996,"animeplanet_id":"umi-e-kite","mal_id":39886}
 ,
+// [2027-WINTER] MOVIE: Umi ga Hashiru End Roll
+{"anidb_id":20046,"anilist_id":212105,"anisearch_id":21559,"livechart_id":13630,"mal_id":64154}
+,
 // [1993-SPRING] SPECIAL: Umi ga Kikoeru
 {"anidb_id":335,"anilist_id":743,"animeplanet_id":"ocean-waves","anisearch_id":2885,"livechart_id":3079,"mal_id":743}
 ,
@@ -110105,6 +112013,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2007-WINTER] SPECIAL: Umo
 {"anidb_id":7894,"animeplanet_id":"ooioo-umo","anisearch_id":6579,"mal_id":30241}
 ,
+// [2026-SPRING] SPECIAL: Umya Unya Happy Life
+{"mal_id":64409}
+,
 // [2011-FALL] TV: Un-Go
 {"anidb_id":8485,"anilist_id":10798,"animeplanet_id":"un-go","anisearch_id":7164,"livechart_id":1205,"mal_id":10798}
 ,
@@ -110117,17 +112028,8 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2022-WINTER] SPECIAL: UnAlive
 {"animeplanet_id":"calliope-mori-unalive","mal_id":52454}
 ,
-// [2026-UNDEFINED] OVA: Unanswered//butterfly
-{"animeplanet_id":"unanswered-butterfly"}
-,
-// [2026-SPRING] SPECIAL: Unanswered//butterfly
-{"livechart_id":13542}
-,
-// [2026-SUMMER] MOVIE: Unanswered//butterfly: Sword Art Online
-{"anilist_id":208754}
-,
-// [2026-SUMMER] SPECIAL: Unanswered//butterfly: Sword Art Online
-{"mal_id":63736}
+// [2026-SUMMER] OVA: Unanswered//Butterfly
+{"anisearch_id":21370,"livechart_id":13542}
 ,
 // [2002-SPRING] OVA: Unbalance
 {"anisearch_id":295,"mal_id":1770}
@@ -110185,6 +112087,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2025-FALL] SPECIAL: Underdog (Music)
 {"mal_id":63032}
+,
+// [2025-FALL] ONA: Underdog Short Animations
+{"anilist_id":213509}
 ,
 // [1979-SUMMER] MOVIE: Undersea Super Train: Marine Express
 {}
@@ -110271,7 +112176,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":7451,"anilist_id":6658,"animeplanet_id":"unko-san-tsuiteru-hito-ni-shika-mienai-yousei","anisearch_id":6176,"mal_id":6658}
 ,
 // [2010-WINTER] TV: Unko-san: Tsuiteru Hito ni Shika Mienai Yousei Junjou Ha
-{"anidb_id":9443,"animeplanet_id":"unko-san-tsuiteru-hito-ni-shika-mienai-yousei-junjou-ha","anisearch_id":8068,"mal_id":33085}
+{"anidb_id":9443,"anilist_id":213096,"animeplanet_id":"unko-san-tsuiteru-hito-ni-shika-mienai-yousei-junjou-ha","anisearch_id":8068,"mal_id":33085}
 ,
 // [2022-SUMMER] SPECIAL: Unleash!!!!!
 {"anilist_id":155005,"animeplanet_id":"band-maid-unleash","anisearch_id":17593,"mal_id":52708}
@@ -110315,8 +112220,8 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2012-WINTER] ONA: Unpi
 {"anilist_id":127986,"animeplanet_id":"unpi","mal_id":53062}
 ,
-// [2025-SUMMER] SPECIAL: unravel x Tokyo Ghoul
-{"anilist_id":195457,"animeplanet_id":"unravel-x-tokyo-ghoul-tv-animation-10th-anniversary-collaboration-mv","mal_id":62302}
+// [2025-UNDEFINED] SPECIAL: unravel x Tokyo Ghoul TV Animation 10th Anniversary Collaboration MV
+{"anilist_id":195457,"animeplanet_id":"unravel-x-tokyo-ghoul-tv-animation-10th-anniversary-collaboration-mv"}
 ,
 // [2012-UNDEFINED] SPECIAL: Unstoppable School Bus
 {"animeplanet_id":"unstoppable-school-bus"}
@@ -110345,6 +112250,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [undefined-UNDEFINED] UNKNOWN: Untitled Godzilla Anime Series
 {"livechart_id":13408}
 ,
+// [undefined-UNDEFINED] UNKNOWN: Untitled Kamen Rider Project
+{"livechart_id":13593}
+,
 // [undefined-UNDEFINED] MOVIE: Untitled Keiichi Sato Project
 {"livechart_id":10313}
 ,
@@ -110354,7 +112262,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2022-SPRING] SPECIAL: Untouchable
 {"animeplanet_id":"chogakusei-untouchable","mal_id":56346}
 ,
-// [2012-FALL] ONA: Uobbuchou
+// [2007-WINTER] ONA: Uobbuchou
 {"anilist_id":104107,"animeplanet_id":"uobbuchou","mal_id":34124}
 ,
 // [2014-UNDEFINED] TV: UP Miao Zhiwu Kepu
@@ -110446,6 +112354,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1984-SUMMER] SPECIAL: Uracon III Opening Animation
 {"anilist_id":135560,"animeplanet_id":"uracon-iii-opening-animation","mal_id":42390}
+,
+// [1983-SUMMER] UNKNOWN: Uracon Opening Animations
+{"anisearch_id":21683}
 ,
 // [2010-SPRING] TV: Uragiri wa Boku no Namae wo Shitteiru
 {"anidb_id":6818,"anilist_id":7058,"animeplanet_id":"the-betrayal-knows-my-name","anisearch_id":5596,"livechart_id":4133,"mal_id":7058}
@@ -110729,6 +112640,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2011-FALL] SPECIAL: Usagi to Kame (Music)
 {"animeplanet_id":"usagi-to-kame-2011","mal_id":29153}
 ,
+// [1952-UNDEFINED] MOVIE: Usagi to Kame no Kesshousen
+{"anilist_id":213711}
+,
 // [2008-WINTER] OVA: Usagi to Kame no Koutsuu Anzen
 {"animeplanet_id":"usagi-to-kame-no-koutsuu-anzen","anisearch_id":20668,"mal_id":30931}
 ,
@@ -110843,14 +112757,14 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1991-UNDEFINED] MOVIE: Ushiro no Shōmen Daare
 {}
 ,
-// [2026-SUMMER] TV: Ushiro no Shōmen Kamui-san
-{}
-,
 // [1991-WINTER] MOVIE: Ushiro no Shoumen Daare
 {"anidb_id":3630,"anilist_id":2753,"animeplanet_id":"ushiro-no-shoumen-dare","anisearch_id":76,"livechart_id":6026,"mal_id":2753}
 ,
 // [2026-SUMMER] TV: Ushiro no Shoumen Kamui-san
-{"anidb_id":19889,"animeplanet_id":"ushirou-no-shoumen-kamui-san","livechart_id":13519,"mal_id":63468}
+{"anidb_id":19889,"animeplanet_id":"ushirou-no-shoumen-kamui-san","anisearch_id":21490,"livechart_id":13519,"mal_id":63468}
+,
+// [2026-SUMMER] TV: Ushiro no Shoumen Kamui-san Mini Anime
+{"mal_id":64543}
 ,
 // [2025-WINTER] SPECIAL: Ushirojikan
 {"mal_id":60945}
@@ -110868,10 +112782,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {}
 ,
 // [2025-FALL] TV: Uso Tantei Tomanto
-{"anilist_id":199008,"anisearch_id":20969,"livechart_id":13337,"mal_id":62523}
+{"anidb_id":19875,"anilist_id":199008,"anisearch_id":20969,"livechart_id":13337,"mal_id":62523}
 ,
 // [2025-FALL] ONA: Uso Tantei Tomanto
-{"anidb_id":19875}
+{}
 ,
 // [2012-UNDEFINED] SPECIAL: Uso to Nuigurumi
 {"anilist_id":110120}
@@ -110896,6 +112810,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2011-FALL] SPECIAL: Uta no Uta
 {"anilist_id":125154,"animeplanet_id":"uta-no-uta","mal_id":42958}
+,
+// [2026-SPRING] SPECIAL: Uta no Uta (2026)
+{"mal_id":64055}
 ,
 // [2011-SUMMER] TV: Uta no☆Prince-sama♪ Maji Love 1000%
 {"anidb_id":8259,"anilist_id":10321,"animeplanet_id":"uta-no-prince-sama-maji-love-1000","anisearch_id":6897,"livechart_id":1231,"mal_id":10321}
@@ -110983,6 +112900,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2014-FALL] SPECIAL: Utatte Oboeru yo! Kuku no Uta, Kenchoushozaichi
 {"animeplanet_id":"utatte-oboeru-yo-kuku-no-uta-kenchoushozaichi","mal_id":52986}
+,
+// [2007-WINTER] OVA: Utatte Odotte Yuukai Boushi Ika no Usushi
+{"anisearch_id":21439}
 ,
 // [2017-WINTER] ONA: Utau Semi
 {"anisearch_id":13064}
@@ -111125,7 +113045,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2006-FALL] OVA: Uzura-chan no Kakurenbo
 {"animeplanet_id":"uzura-chan-no-kakurenbo","mal_id":53136}
 ,
-// [2016-SPRING] SPECIAL: Uzushiodenki Kabushiki Gaisha Shin CM
+// [2016-SPRING] SPECIAL: Uzushiodenki Kabushikigaisha Shin CM
 {"anisearch_id":12906}
 ,
 // [2004-WINTER] OVA: V.G.Neo The Animation
@@ -111350,16 +113270,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2021-FALL] ONA: VERSEⁿ: Episodeⁿ - Kuusou
 {"anilist_id":141528,"animeplanet_id":"verse-n-episode-n-kuusou","anisearch_id":18955,"mal_id":50383}
 ,
-// [2026-UNDEFINED] TV: Vertex Force
-{}
+// [2026-FALL] TV: Vertex Force
+{"anidb_id":19957,"anilist_id":209562,"animeplanet_id":"vertex-force","anisearch_id":21334,"mal_id":63764}
 ,
-// [2026-WINTER] TV: Vertex Force
-{"anidb_id":19957}
-,
-// [2026-UNDEFINED] TV: Vertex Force
-{"anilist_id":209562,"animeplanet_id":"vertex-force","anisearch_id":21334,"mal_id":63764}
-,
-// [undefined-UNDEFINED] TV: VERTEX FORCE
+// [2026-FALL] TV: VERTEX FORCE
 {"livechart_id":13562}
 ,
 // [2025-UNDEFINED] MOVIE: Very Chubby Belly
@@ -111562,6 +113476,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2023-WINTER] MOVIE: Vision
 {"anilist_id":205287,"mal_id":60816}
+,
+// [1986-UNDEFINED] SPECIAL: Vision Megane CMs
+{"mal_id":64389}
 ,
 // [1995-SUMMER] OVA: Visionary
 {"anisearch_id":595,"mal_id":4700}
@@ -111769,6 +113686,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [undefined-UNDEFINED] SPECIAL: VSPO!
 {"animeplanet_id":"vspo","livechart_id":12899,"mal_id":60186}
+,
+// [2023-SUMMER] SPECIAL: VSPO! Bunka Taiikumatsuri Kaisai Kettei Animation PV
+{"anisearch_id":21682}
 ,
 // [2022-FALL] SPECIAL: VSPO! PVs
 {"anilist_id":160236,"anisearch_id":18110,"mal_id":56118}
@@ -112016,6 +113936,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-UNDEFINED] SPECIAL: Wakarebana
 {"anilist_id":169827}
 ,
+// [undefined-UNDEFINED] UNKNOWN: Wakareru Tame ni Irojikake shitemita
+{"mal_id":64386}
+,
 // [2021-SPRING] SPECIAL: Wake Me Up
 {"animeplanet_id":"tacitly-wake-me-up","mal_id":56091}
 ,
@@ -112176,7 +114099,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"livechart_id":10161}
 ,
 // [2025-SUMMER] ONA: Wan Jian Wangzuo
-{"anidb_id":19589,"anilist_id":199419,"animeplanet_id":"wan-jian-wangzuo","mal_id":62165}
+{"anidb_id":19589,"anilist_id":199419,"animeplanet_id":"wan-jian-wangzuo","anisearch_id":21610,"mal_id":62165}
 ,
 // [2020-SPRING] ONA: Wan Jie Chun Qiu
 {"anidb_id":15521,"anilist_id":119926,"animeplanet_id":"wan-jie-chun-qiu","anisearch_id":15348,"mal_id":41802}
@@ -112238,8 +114161,8 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2017-SUMMER] MOVIE: Wan Ou Qibing
 {"animeplanet_id":"wan-ou-qibing","anisearch_id":15269,"mal_id":45033}
 ,
-// [2025-UNDEFINED] ONA: Wan Ren Zhi Shang
-{"anilist_id":199418,"animeplanet_id":"wan-ren-zhi-shang","mal_id":61642}
+// [2026-SPRING] ONA: Wan Ren Zhi Shang
+{"anidb_id":20101,"anilist_id":199418,"animeplanet_id":"wan-ren-zhi-shang","anisearch_id":21596,"mal_id":61642}
 ,
 // [2017-UNDEFINED] SPECIAL: Wan Shen Ji
 {"animeplanet_id":"wan-shen-ji"}
@@ -112292,7 +114215,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2021-UNDEFINED] MOVIE: Wander
 {"animeplanet_id":"wander"}
 ,
-// [2023-WINTER] ONA: WANDER BURABURA BAKKAMU
+// [2023-WINTER] ONA: Wander Burabura Bakkamu
 {"anidb_id":17893,"anilist_id":184758,"animeplanet_id":"wander-burabura-bakkamu","anisearch_id":18263,"livechart_id":11846,"mal_id":55300}
 ,
 // [2018-WINTER] MOVIE: Wander in Wonder
@@ -112340,6 +114263,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-FALL] ONA: Wang You Guo
 {"animeplanet_id":"the-land-of-forgetting-worries","mal_id":63299}
 ,
+// [2025-SPRING] ONA: Wang Zhe Rongxao: Rongxao Zhi Zhang Mingyun Pian
+{"anisearch_id":21626}
+,
 // [2018-WINTER] ONA: Wang Zhe Wai Chuan
 {"anidb_id":13850,"anilist_id":121232,"animeplanet_id":"wang-zhe-wai-chuan","anisearch_id":20469,"mal_id":39190}
 ,
@@ -112350,7 +114276,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":5088,"anilist_id":2608,"animeplanet_id":"wangan-midnight","anisearch_id":4226,"livechart_id":6440,"mal_id":2608}
 ,
 // [1996-SUMMER] MOVIE: Wanghu Esther
-{"mal_id":61020}
+{"anisearch_id":21712,"mal_id":61020}
 ,
 // [2005-SUMMER] MOVIE: Wanghu Sim Cheong
 {"anidb_id":8047,"animeplanet_id":"empress-chung","anisearch_id":6785,"mal_id":4544}
@@ -112367,10 +114293,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-SUMMER] ONA: Wangu Jian Di
 {"anidb_id":19545,"anilist_id":198704,"animeplanet_id":"wangu-jian-di","mal_id":62279}
 ,
-// [2021-FALL] ONA: Wangu Jian Shen
-{"anidb_id":16957,"anilist_id":146348,"animeplanet_id":"everlasting-god-of-sword","anisearch_id":17701,"mal_id":50398}
-,
-// [2022-SUMMER] ONA: Wangu Jian Shen (2022)
+// [2022-SUMMER] ONA: Wangu Jian Shen
 {"anidb_id":18421,"anilist_id":129244,"animeplanet_id":"everlasting-god-of-sword-2022","anisearch_id":17702,"mal_id":51726}
 ,
 // [2024-WINTER] ONA: Wangu Kuang Di
@@ -112397,7 +114320,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-UNDEFINED] ONA: Wangu Xie Di
 {"anilist_id":155323}
 ,
-// [2026-UNDEFINED] ONA: Wangu Zhizun: Li Yunxiao Zhuan
+// [2026-SUMMER] ONA: Wangu Zhizun: Li Yunxiao Zhuan
 {"anilist_id":206282,"mal_id":62954}
 ,
 // [2024-FALL] ONA: Wangu Zui Qiang Zong
@@ -112472,7 +114395,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-SUMMER] ONA: Wanmei Shijie Movie: Huo Zhi Huijin
 {"anidb_id":18871,"anilist_id":182563,"animeplanet_id":"perfect-world-movie-ashes-of-fire","mal_id":58797}
 ,
-// [2026-UNDEFINED] ONA: Wanmei Shijie Movie: Jiu Jie Fen Tian
+// [2026-SUMMER] ONA: Wanmei Shijie Movie: Jiu Jie Fen Tian
 {"anilist_id":187594,"mal_id":62723}
 ,
 // [2016-SPRING] ONA: Wanmei Shijie: Shuang Shi Ji
@@ -112503,7 +114426,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"animeplanet_id":"wannabe","mal_id":50242}
 ,
 // [2023-FALL] ONA: Wanneng Lian Ai Zahuo Dian
-{"anilist_id":166455,"animeplanet_id":"love-magic-grocery","mal_id":57097}
+{"anidb_id":19302,"anilist_id":166455,"animeplanet_id":"love-magic-grocery","mal_id":57097}
 ,
 // [1975-FALL] TV: Wanpaku Oomukashi Kum Kum
 {"anidb_id":2343,"anilist_id":8240,"animeplanet_id":"wanpaku-oomukashi-kum-kum","anisearch_id":1938,"mal_id":8240}
@@ -112623,7 +114546,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anisearch_id":18753}
 ,
 // [2024-SUMMER] TV: Warau Red List
-{"animeplanet_id":"warau-red-list","mal_id":59752}
+{"animeplanet_id":"warau-red-list","anisearch_id":21425,"mal_id":59752}
 ,
 // [1989-FALL] TV: Warau Salesman
 {"anidb_id":2106,"anilist_id":3077,"animeplanet_id":"warau-salesman","anisearch_id":2717,"livechart_id":7495,"mal_id":3077}
@@ -112653,7 +114576,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":12642,"anilist_id":104341,"animeplanet_id":"warenai-tamago","mal_id":30083}
 ,
 // [1970-FALL] TV: Warera Salaryman Tou
-{"anidb_id":7646,"animeplanet_id":"warera-salaryman-tou","anisearch_id":6320,"mal_id":22219}
+{"anidb_id":7646,"anilist_id":213438,"animeplanet_id":"warera-salaryman-tou","anisearch_id":6320,"mal_id":22219}
 ,
 // [2017-FALL] ONA: Wares: Beyond
 {"anidb_id":13622,"mal_id":36883}
@@ -112670,7 +114593,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2016-WINTER] MOVIE: Wareware no Heya
 {"anilist_id":121796,"animeplanet_id":"echo-chamber","anisearch_id":11946,"mal_id":33319}
 ,
-// [2026-WINTER] MOVIE: Wareware wa Uchuujin
+// [2026-SUMMER] MOVIE: Wareware wa Uchuujin
 {"anidb_id":19724,"anilist_id":202429,"animeplanet_id":"wareware-wa-uchuujin","anisearch_id":21192,"livechart_id":13394,"mal_id":62973}
 ,
 // [2014-SPRING] SPECIAL: Wareware wa Uchuujin da!
@@ -112734,7 +114657,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":126269,"animeplanet_id":"wasshoi-nippon","mal_id":43517}
 ,
 // [undefined-UNDEFINED] MOVIE: Wasted Chef
-{"anidb_id":18962,"anilist_id":165670,"livechart_id":12080,"mal_id":55566}
+{"anidb_id":18962,"anilist_id":165670,"anisearch_id":21569,"livechart_id":12080,"mal_id":55566}
+,
+// [2026-SPRING] MOVIE: Wasted Chef
+{}
 ,
 // [2018-WINTER] MOVIE: Wasure Tamari
 {"anilist_id":120263,"animeplanet_id":"wasure-tamari"}
@@ -112804,12 +114730,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2025-SUMMER] TV: Watari-kun no xx ga Houkai Sunzen
 {"anidb_id":18203,"anilist_id":169420,"animeplanet_id":"watari-kuns-is-about-to-collapse","anisearch_id":18702,"livechart_id":12336,"mal_id":56693}
-,
-// [2025-SUMMER] TV: Watari-kun's ****** Is About to Collapse
-{}
-,
-// [undefined-UNDEFINED] TV: Wataridori to Katatsumuri
-{}
 ,
 // [2027-WINTER] TV: Wataridori to Katatsumuri
 {"anidb_id":18749,"anilist_id":179294,"animeplanet_id":"watari-tori-to-katatsumuri","anisearch_id":19515,"livechart_id":12750,"mal_id":59266}
@@ -112893,7 +114813,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":11432,"anilist_id":103316,"animeplanet_id":"watashi-no-kao","anisearch_id":10169,"livechart_id":7183,"mal_id":28843}
 ,
 // [2023-SUMMER] SPECIAL: Watashi no Koe
-{"mal_id":57808}
+{"anisearch_id":21417,"mal_id":57808}
 ,
 // [2011-UNDEFINED] MOVIE: Watashi no Mannaka
 {"anilist_id":129590,"animeplanet_id":"watashi-no-mannaka"}
@@ -112937,7 +114857,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-WINTER] OVA: Watashi no Shiawase na Kekkon: Watashi no Shiawase na Katachi
 {"anidb_id":18545,"anilist_id":167486,"animeplanet_id":"my-happy-marriage-the-shape-of-my-happiness","anisearch_id":18914,"livechart_id":12250,"mal_id":55889}
 ,
-// [undefined-UNDEFINED] OVA: Watashi no shinri jissen-ki
+// [undefined-UNDEFINED] OVA: Watashi no Shinri Jissenki
 {"mal_id":55611}
 ,
 // [2010-WINTER] OVA: Watashi no Shiranai Mesu no Kao
@@ -113069,6 +114989,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2021-FALL] SPECIAL: Way
 {"mal_id":55127}
 ,
+// [2026-SPRING] SPECIAL: Way 2 U
+{}
+,
 // [2024-WINTER] SPECIAL: Way 4 Luv
 {"anisearch_id":20940,"mal_id":58330}
 ,
@@ -113077,9 +115000,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2008-UNDEFINED] MOVIE: Way Home
 {"animeplanet_id":"way-home"}
-,
-// [2026-WINTER] ONA: Way of Choices 3D
-{}
 ,
 // [2024-SUMMER] SPECIAL: Wayfinder - Grendel
 {}
@@ -113156,6 +115076,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-WINTER] ONA: Wei Jiang
 {"anilist_id":159869,"animeplanet_id":"wei-jiang","anisearch_id":18092,"mal_id":55196}
 ,
+// [2024-FALL] ONA: Wei Jiang: Xiangfu Qi Xin
+{"anisearch_id":21649}
+,
 // [2021-WINTER] ONA: Wei Jin Xiao Juchang
 {"anidb_id":16744,"anilist_id":132479,"animeplanet_id":"wei-jin-xiao-juchang","mal_id":55066}
 ,
@@ -113207,10 +115130,13 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2015-UNDEFINED] TV: Weiyu Ye Fengkuang
 {"mal_id":47086}
 ,
-// [2026-SPRING] TV: Welcome to Demon School, Iruma-kun
+// [2026-SPRING] ONA: Welcome Back, Star Wars
 {}
 ,
 // [2022-FALL] TV: Welcome to Demon School, Iruma-kun
+{}
+,
+// [2026-SPRING] TV: Welcome to Demon School, Iruma-kun
 {}
 ,
 // [2009-FALL] TV: Welcome to Irabu's Office
@@ -113221,6 +115147,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2022-FALL] SPECIAL: Welcome to Rainbow Wonderland!
 {"mal_id":53244}
+,
+// [2026-WINTER] ONA: Welcome to Sucre Town
+{"mal_id":64538}
 ,
 // [2007-FALL] OVA: Wellber no Monogatari: Kanashimi no Senshi Galahad no Banka
 {"anidb_id":9019,"anilist_id":9365,"anisearch_id":6284,"livechart_id":8035,"mal_id":9365}
@@ -113331,7 +115260,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":102998,"animeplanet_id":"white-fantasy","anisearch_id":10079,"mal_id":28775}
 ,
 // [2016-SPRING] MOVIE: White Fireworks
-{"animeplanet_id":"white-fireworks","mal_id":53172}
+{"animeplanet_id":"white-fireworks","anisearch_id":21699,"mal_id":53172}
 ,
 // [2020-SUMMER] SPECIAL: White Lily Light
 {"animeplanet_id":"yogee-new-waves-white-lily-light","mal_id":42618}
@@ -113373,7 +115302,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {}
 ,
 // [2025-SPRING] ONA: Wiheomhan Pyeonuijeom
-{"anidb_id":19374,"anilist_id":168632,"animeplanet_id":"the-dangerous-convenience-store","mal_id":61764}
+{"anidb_id":19374,"anilist_id":168632,"animeplanet_id":"the-dangerous-convenience-store","anisearch_id":21388,"mal_id":61764}
 ,
 // [1994-FALL] OVA: Wild 7
 {"anidb_id":4098,"anilist_id":1959,"animeplanet_id":"wild-7","anisearch_id":1082,"livechart_id":8804,"mal_id":1959}
@@ -113409,7 +115338,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anisearch_id":6754}
 ,
 // [2026-WINTER] SPECIAL: Wildest Flower
-{"anisearch_id":21331,"mal_id":63758}
+{"anilist_id":210347,"anisearch_id":21331,"mal_id":63758}
 ,
 // [2022-SPRING] SPECIAL: Wildfire
 {"mal_id":58040}
@@ -113421,6 +115350,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":104430,"animeplanet_id":"will-hatching-day-come","anisearch_id":13489}
 ,
 // [2019-SUMMER] SPECIAL: Will You Marry Me?
+{}
+,
+// [1993-FALL] TV: Willow Town
 {}
 ,
 // [1993-UNDEFINED] TV: Willy Fog 2: Part 1
@@ -113555,11 +115487,17 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2017-FALL] SPECIAL: Wishing
 {"anilist_id":103744,"animeplanet_id":"haitoku-pistols-wishing","anisearch_id":13527,"mal_id":39465}
 ,
-// [2026-SPRING] TV: Wistoria: Wand and Sword
+// [undefined-UNDEFINED] TV: Wistoria: Wand and Sword
 {}
 ,
 // [2022-SPRING] SPECIAL: Wit Studio 10th Aim Higher
 {"anisearch_id":17511}
+,
+// [2027-UNDEFINED] TV: Witch and Mercenary
+{}
+,
+// [undefined-UNDEFINED] TV: Witch and Mercenary
+{}
 ,
 // [2014-WINTER] TV: Witch Craft Works
 {"anidb_id":9496,"anilist_id":20503,"animeplanet_id":"witch-craft-works","anisearch_id":8259,"livechart_id":233,"mal_id":21085}
@@ -113569,9 +115507,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2015-WINTER] OVA: Witch Craft Works: Takamiya-kun to Imouto no Warudakumi
 {"anidb_id":10397,"anilist_id":20601,"animeplanet_id":"witch-craft-works-ova","anisearch_id":9419,"livechart_id":404,"mal_id":22117}
-,
-// [2026-SPRING] TV: Witch Hat Atelier
-{}
 ,
 // [2014-SPRING] SPECIAL: Witch Hat: Majo to Boushi no Waltz
 {"animeplanet_id":"fake-type-witch-hat-majo-to-boushi-no-waltz","mal_id":40378}
@@ -113609,7 +115544,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2017-WINTER] ONA: With Pochi! Yoshi's Woolly World Special Anime
 {"anilist_id":126612,"animeplanet_id":"with-pochi-yoshis-woolly-world-special-anime","mal_id":48872}
 ,
-// [2025-SUMMER] TV: With You and the Rain
+// [2026-FALL] TV: With Vengeance, Sincerely, Your Broken Saintess
 {}
 ,
 // [2025-FALL] TV: With You, Our Love Will Make it Through
@@ -113641,6 +115576,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1991-WINTER] OVA: Wizardry
 {"anidb_id":3133,"anilist_id":1076,"animeplanet_id":"wizardry","anisearch_id":450,"mal_id":1076}
+,
+// [2026-SPRING] ONA: Wo Ba Mori Shang Jiao Geile Guojia
+{"anidb_id":20102}
+,
+// [2027-UNDEFINED] ONA: Wo Bushi Xi Shen
+{"anilist_id":211219,"mal_id":63984}
 ,
 // [2021-UNDEFINED] ONA: Wo Cong Zhu Tian Wan Jie Guilai
 {"anilist_id":151778,"animeplanet_id":"wo-cong-zhu-tian-wan-jie-guilai"}
@@ -113807,6 +115748,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2017-SPRING] SPECIAL: Wo Mengjian ni Mengjian wo
 {"mal_id":55728}
 ,
+// [2024-FALL] ONA: Wo Neng Wuxian Dun Wu
+{"anisearch_id":21650}
+,
 // [2024-FALL] ONA: Wo Neng Wuxian Dunwu
 {"anidb_id":18953,"anilist_id":185831,"animeplanet_id":"wo-neng-wuxian-dunwu","mal_id":60143}
 ,
@@ -113814,7 +115758,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":16630,"anilist_id":138064,"animeplanet_id":"wo-qi-ku-le-baiwan-xiulianzhe","anisearch_id":19908,"mal_id":49952}
 ,
 // [2024-FALL] ONA: Wo Qi Ku Le Baiwan Xiulian Zhe 2nd Season
-{"animeplanet_id":"wo-qi-ku-le-baiwan-xiulianzhe-2nd-season","mal_id":60374}
+{"anidb_id":19991,"animeplanet_id":"wo-qi-ku-le-baiwan-xiulianzhe-2nd-season","mal_id":60374}
 ,
 // [2022-FALL] MOVIE: Wo Shi Bawang Long
 {"anisearch_id":18036,"mal_id":57932}
@@ -113903,14 +115847,17 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [undefined-UNDEFINED] ONA: Wo You Tebie De Yan Yi Jiqiao
 {"anilist_id":141925}
 ,
-// [2026-UNDEFINED] ONA: Wo You Yi Jian
+// [2027-UNDEFINED] ONA: Wo You Yi Jian
 {"animeplanet_id":"wo-you-yi-jian","mal_id":61613}
+,
+// [undefined-UNDEFINED] ONA: Wo You Yi Zuo Maoxian Wu
+{"mal_id":64447}
 ,
 // [2012-SPRING] MOVIE: Wo Yu LaLa
 {"mal_id":44820}
 ,
 // [2026-UNDEFINED] ONA: Wo Zai Feitu Shijie Sao Laji
-{"anilist_id":206275,"mal_id":62953}
+{"anilist_id":206275,"anisearch_id":21536,"mal_id":62953}
 ,
 // [2018-UNDEFINED] ONA: Wo Zai Hougong Dang Ju Ju
 {"animeplanet_id":"wo-zai-hougong-dang-ju-ju"}
@@ -113932,6 +115879,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2024-SUMMER] ONA: Wode Santi: Di-si Ji
 {"anisearch_id":19562}
+,
+// [2025-SPRING] ONA: Wode Shizun Shi Wukong
+{"anisearch_id":21619}
 ,
 // [2020-WINTER] MOVIE: WOKE
 {"anilist_id":168834,"animeplanet_id":"woke"}
@@ -114147,7 +116097,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":5920,"anilist_id":4415,"animeplanet_id":"sands-of-destruction","anisearch_id":4917,"livechart_id":4328,"mal_id":4415}
 ,
 // [2008-SUMMER] SPECIAL: World Destruction: Sekai Bokumetsu no Rokunin Specials
-{"mal_id":60724}
+{"anisearch_id":21526,"mal_id":60724}
 ,
 // [2020-SPRING] MOVIE: World End Economica
 {"anidb_id":15618,"anilist_id":120815,"animeplanet_id":"world-end-economica","anisearch_id":15418,"livechart_id":10059,"mal_id":56929}
@@ -114168,7 +116118,13 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"animeplanet_id":"world-heroes","mal_id":51677}
 ,
 // [2026-SUMMER] TV: World Is Dancing
-{"anidb_id":19849,"anilist_id":206521,"animeplanet_id":"world-is-dancing","anisearch_id":21173,"livechart_id":13491,"mal_id":63347}
+{"anidb_id":19849,"animeplanet_id":"the-world-is-dancing","anisearch_id":21173,"livechart_id":13491,"mal_id":63347}
+,
+// [2026-SUMMER] TV: World Is Dancing
+{}
+,
+// [2026-SUMMER] ONA: World Is Dancing
+{"anilist_id":206521}
 ,
 // [2014-SPRING] ONA: World is Mine MV
 {"anisearch_id":9502}
@@ -114332,7 +116288,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [undefined-UNDEFINED] ONA: Wu Kong Zhuan
 {"anilist_id":166420}
 ,
-// [2007-WINTER] TV: Wu Lan Qi Qi Ge
+// [2007-SPRING] TV: Wu Lan Qi Qi Ge
 {"anidb_id":11650,"anilist_id":104556,"animeplanet_id":"wu-lan-qi-qi-ge","anisearch_id":11998,"mal_id":31701}
 ,
 // [2024-FALL] ONA: Wu Lian Dianfeng
@@ -114366,12 +116322,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":18784,"anilist_id":174702,"animeplanet_id":"wu-nao-monu-2nd-season","anisearch_id":19744,"mal_id":57575}
 ,
 // [2024-FALL] ONA: Wu Ni
-{"anidb_id":18977,"anilist_id":168243,"animeplanet_id":"wu-ni","mal_id":60235}
+{"anidb_id":18977,"anilist_id":168243,"animeplanet_id":"wu-ni","anisearch_id":21657,"mal_id":60235}
 ,
 // [2006-UNDEFINED] TV: Wu Ren Dao Da Maoxian
 {"animeplanet_id":"wu-ren-dao-da-maoxian","mal_id":45297}
 ,
-// [2015-SUMMER] ONA: Wu Ren Shen Chuanshuo
+// [2015-FALL] ONA: Wu Ren Shen Chuanshuo
 {"anidb_id":15631}
 ,
 // [2016-FALL] ONA: Wu Shan Wu Xing
@@ -114507,7 +116463,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"animeplanet_id":"wupo-eyu-he-xiao-gu-niang","mal_id":43582}
 ,
 // [2025-SPRING] ONA: Wushen Jue Dian
-{"mal_id":61888}
+{"anisearch_id":21618,"mal_id":61888}
 ,
 // [2020-WINTER] ONA: Wushen Zhuzai
 {"anidb_id":15443,"anilist_id":117168,"animeplanet_id":"the-god-of-war-dominates","anisearch_id":20081,"livechart_id":10268,"mal_id":41409}
@@ -114536,6 +116492,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2022-FALL] ONA: Wuxian Shijie
 {"anidb_id":17750,"anilist_id":141864,"animeplanet_id":"the-infinitors","mal_id":50432}
 ,
+// [2022-FALL] ONA: Wuxian ShjJie
+{"anisearch_id":21648}
+,
 // [1955-UNDEFINED] MOVIE: Wuya Weisheme shi Hei de
 {"anilist_id":113178,"animeplanet_id":"wuya-weishenme-shi-hei-de","anisearch_id":19847,"mal_id":43217}
 ,
@@ -114551,7 +116510,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2015-SUMMER] SPECIAL: Wuzi Pao: Yuanziya Baowei Zhan
 {"mal_id":45215}
 ,
-// [undefined-UNDEFINED] TV: Wuzi Shuo
+// [2005-UNDEFINED] TV: Wuzi Shuo
 {"mal_id":45467}
 ,
 // [2016-FALL] TV: WWW.WAGNARIA!!
@@ -114588,6 +116547,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":8058,"anilist_id":6919,"animeplanet_id":"x-men","anisearch_id":5571,"livechart_id":1558,"mal_id":6919}
 ,
 // [2024-SPRING] ONA: X-Men '97
+{}
+,
+// [2026-SUMMER] ONA: X-Men '97 Season 2
 {}
 ,
 // [1994-SPRING] SPECIAL: X-Men Openings
@@ -114767,8 +116729,14 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2009-WINTER] MOVIE: Xi Yangyang Yu Hui Tailang: Niu Qi Chong Tian
 {"anidb_id":8430,"anilist_id":6156,"animeplanet_id":"pleasant-goat-and-big-big-wolf-movie-1-the-super-snail-adventure","anisearch_id":7116,"mal_id":6156}
 ,
+// [2026-UNDEFINED] TV: Xi Yangyang Yu Hui Tailang: Po Jie Shanhai Jue
+{"anilist_id":213638}
+,
 // [2025-WINTER] TV: Xi Yangyang Yu Hui Tailang: Qi Xia da Yingjiu
 {"anilist_id":196249,"animeplanet_id":"pleasant-goat-and-big-big-wolf-martial-world-rescue","mal_id":60712}
+,
+// [undefined-UNDEFINED] TV: Xi Yangyang Yu Hui Tailang: Qi Xia da Yingjiu Zhi Feng Juan Weicheng
+{"anilist_id":213639}
 ,
 // [2018-WINTER] TV: Xi Yangyang Yu Hui Tailang: Qihuan Tiankong Dao
 {"anidb_id":16477,"anilist_id":131726,"animeplanet_id":"pleasant-goat-and-big-big-wolf-the-sky-adventure","mal_id":43998}
@@ -114831,7 +116799,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":16481,"anilist_id":131731,"animeplanet_id":"pleasant-goat-and-big-big-wolf-against-the-dark-force","mal_id":44002}
 ,
 // [2025-SUMMER] MOVIE: Xi Yangyang Yu Hui Tailang: Yiguo Poxiao
-{"animeplanet_id":"pleasant-goat-and-big-big-wolf-bright-new-dawn","mal_id":61949}
+{"anilist_id":213640,"animeplanet_id":"pleasant-goat-and-big-big-wolf-bright-new-dawn","anisearch_id":21616,"mal_id":61949}
 ,
 // [2023-WINTER] TV: Xi Yangyang Yu Hui Tailang: Yong Chuang Siji Cheng
 {"anilist_id":196245,"animeplanet_id":"pleasant-goat-and-big-big-wolf-mighty-little-defenders-6","mal_id":60708}
@@ -114842,11 +116810,11 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1999-SUMMER] TV: Xi You Ji
 {"anidb_id":13562,"anilist_id":102765,"animeplanet_id":"xi-you-ji","mal_id":32230}
 ,
-// [2010-WINTER] TV: Xi You Ji
-{"mal_id":63845}
-,
 // [undefined-UNDEFINED] ONA: Xi You Ji
 {"anilist_id":168259}
+,
+// [2010-WINTER] TV: Xi You Ji (2010)
+{"mal_id":63845}
 ,
 // [2022-FALL] MOVIE: Xi You Ji: Qi Shi Er Bian
 {"anilist_id":166251,"animeplanet_id":"xi-you-ji-qi-shi-er-bian","mal_id":54388}
@@ -114897,7 +116865,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"animeplanet_id":"xian-bu-chuanqi","mal_id":44979}
 ,
 // [2025-SPRING] ONA: Xian Chong
-{"anidb_id":19393,"animeplanet_id":"celestial-bonds","mal_id":61625}
+{"anidb_id":19393,"animeplanet_id":"celestial-bonds","anisearch_id":21621,"mal_id":61625}
+,
+// [2025-FALL] ONA: Xian Di Gui Lai
+{"anisearch_id":21602}
 ,
 // [2025-FALL] ONA: Xian Di Guilai
 {"anidb_id":19689,"anilist_id":185858,"animeplanet_id":"xian-di-gui-lai","mal_id":60583}
@@ -114921,7 +116892,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":141933}
 ,
 // [2025-FALL] ONA: Xian Jian Qi Xia Zhuan San
-{"mal_id":63062}
+{"anidb_id":20006,"animeplanet_id":"sword-and-fairy-3","mal_id":63062}
 ,
 // [2027-UNDEFINED] ONA: Xian Jian Qi Xia Zhuan Si
 {"mal_id":62952}
@@ -114937,6 +116908,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2025-SPRING] ONA: Xian Ni Movie: Shenlin Zhi Zhan
 {"anidb_id":19372,"anilist_id":185121,"animeplanet_id":"xian-ni-shenlin-zhi-zhan","anisearch_id":20751,"mal_id":60279}
+,
+// [undefined-UNDEFINED] ONA: Xian Ni Movie: Shi Xian Zhi Zhan
+{"mal_id":64445}
 ,
 // [2020-WINTER] ONA: Xian Wang de Richang Shenghuo
 {"anidb_id":14718,"anilist_id":114121,"animeplanet_id":"the-daily-life-of-the-immortal-king","anisearch_id":14226,"livechart_id":9794,"mal_id":41094}
@@ -114979,6 +116953,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1986-UNDEFINED] MOVIE: Xiang Hu
 {"animeplanet_id":"xiang-hu","mal_id":43633}
+,
+// [2024-WINTER] ONA: Xiang Huo Er Sheng
+{"anisearch_id":21642}
 ,
 // [2025-WINTER] ONA: Xiang Huo Er Sheng
 {"anilist_id":166438,"animeplanet_id":"rising-in-the-fire","mal_id":60772}
@@ -115274,7 +117251,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2017-UNDEFINED] TV: Xiao Laba: Tanxian Qiyu
 {"animeplanet_id":"xiao-laba-tanxian-qiyu","mal_id":47563}
 ,
-// [2021-SUMMER] ONA: Xiao Li yu Hupo
+// [2021-SUMMER] ONA: Xiao Li yu Hu Po
 {"animeplanet_id":"xiao-li-yu-hupo","mal_id":54065}
 ,
 // [1958-UNDEFINED] MOVIE: Xiao Li Yu Tiao Long Men
@@ -115301,17 +117278,20 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2018-SUMMER] ONA: Xiao Lu He Xiao Lan
 {"anidb_id":14373,"anilist_id":104074,"animeplanet_id":"beryl-and-sapphire","anisearch_id":13961,"livechart_id":9035,"mal_id":38250}
 ,
+// [2023-SUMMER] ONA: Xiao Lu He Xiao Lan II
+{"anidb_id":18923}
+,
 // [2023-SUMMER] ONA: Xiao Lu He Xiao Lan II: Mo Wang Pian
 {"anilist_id":156105,"animeplanet_id":"beryl-and-sapphire-ii-mowang-pian","anisearch_id":19485,"livechart_id":11592,"mal_id":53448}
 ,
 // [2023-SUMMER] ONA: Xiao Lu He Xiao Lan III: Mo Wang Pian
-{"animeplanet_id":"beryl-and-sapphire-iii","livechart_id":12530,"mal_id":56695}
+{"anidb_id":18924,"animeplanet_id":"beryl-and-sapphire-iii","livechart_id":12530,"mal_id":56695}
 ,
 // [2023-FALL] ONA: Xiao Lu He Xiao Lan IV: Mofa Pian
-{"anilist_id":174713,"animeplanet_id":"beryl-and-sapphire-iv","livechart_id":12531,"mal_id":57520}
+{"anidb_id":18925,"anilist_id":174713,"animeplanet_id":"beryl-and-sapphire-iv","livechart_id":12531,"mal_id":57520}
 ,
 // [2024-WINTER] ONA: Xiao Lu He Xiao Lan V: Mofa Pian
-{"anilist_id":175744,"animeplanet_id":"beryl-and-sapphire-v","livechart_id":12548,"mal_id":58325}
+{"anidb_id":18926,"anilist_id":175744,"animeplanet_id":"beryl-and-sapphire-v","livechart_id":12548,"mal_id":58325}
 ,
 // [undefined-UNDEFINED] TV: Xiao Luobo Tou
 {"mal_id":47590}
@@ -115341,10 +117321,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"animeplanet_id":"xiao-mayi-huanqiu-da-maoxian","mal_id":44969}
 ,
 // [2021-SPRING] MOVIE: Xiao Meirenyu de Qihuan Maoxian
-{"animeplanet_id":"xiao-meirenyu-de-qihuan-maoxian","mal_id":45112}
+{"animeplanet_id":"xiao-meirenyu-de-qihuan-maoxian","anisearch_id":21426,"mal_id":45112}
 ,
 // [2023-SUMMER] MOVIE: Xiao Meirenyu: Dahai Guai Chuanshuo
-{"animeplanet_id":"xiao-meirenyu-dahai-guai-chuanshuo","mal_id":56799}
+{"animeplanet_id":"xiao-meirenyu-dahai-guai-chuanshuo","anisearch_id":21427,"mal_id":56799}
 ,
 // [2016-WINTER] MOVIE: Xiao Men Shen
 {"anidb_id":12191,"anilist_id":102062,"animeplanet_id":"the-guardian-brothers","anisearch_id":11206,"mal_id":32751}
@@ -115513,6 +117493,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2015-UNDEFINED] ONA: Xiao Xian Min Zi
 {"mal_id":47142}
+,
+// [2025-SPRING] ONA: Xiao Xian Zhi Yao
+{"anisearch_id":21633}
 ,
 // [2025-SPRING] ONA: Xiao Xian Zhiyao
 {"anidb_id":19303,"anilist_id":195880,"animeplanet_id":"xiao-xian-zhi-yao","mal_id":61496}
@@ -115847,6 +117830,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2022-WINTER] SPECIAL: Xiaoyuan Xiyou
 {"mal_id":63435}
 ,
+// [2026-UNDEFINED] MOVIE: Xiaozhu Peppa Pig Wanmei Jiaqi
+{"anilist_id":211189}
+,
 // [2018-UNDEFINED] TV: Xiatian Qu
 {"animeplanet_id":"xiatian-qu","mal_id":47760}
 ,
@@ -116063,7 +118049,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2022-SUMMER] MOVIE: Xin Shen Bang: Yang Jian
 {"anidb_id":17136,"anilist_id":138065,"animeplanet_id":"new-gods-yang-jian","anisearch_id":16033,"livechart_id":11094,"mal_id":51334}
 ,
-// [2022-SPRING] ONA: Xin Weiqi Shaonian
+// [2022-SUMMER] TV: Xin Weiqi Shaonian
 {"anilist_id":149703,"animeplanet_id":"xin-weiqi-shaonian","anisearch_id":17428,"mal_id":51862}
 ,
 // [2024-WINTER] TV: Xin Xiyou Lixian Ji
@@ -116083,6 +118069,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2016-FALL] MOVIE: Xindongfang Shen Wa (Movie)
 {"animeplanet_id":"xin-dongfang-shenwa","anisearch_id":12031,"mal_id":44170}
+,
+// [2026-SPRING] ONA: Xing Chen Bian Di Qi Ji
+{"anidb_id":20044}
 ,
 // [2012-UNDEFINED] TV: Xing Da Donghua Xilie: Shuguo Leyuan
 {"animeplanet_id":"xing-da-donghua-xilie-shuguo-leyuan","mal_id":46748}
@@ -116107,6 +118096,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2022-WINTER] ONA: Xing Hai Qishi: Xinghuo Chongran
 {"anilist_id":137745,"animeplanet_id":"xing-hai-qishi-part-iii","mal_id":51198}
+,
+// [undefined-UNDEFINED] ONA: Xing Ji
+{"anidb_id":13014}
 ,
 // [undefined-UNDEFINED] MOVIE: Xing Ji (Movie)
 {"anidb_id":13015}
@@ -116261,11 +118253,11 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-WINTER] ONA: Xingchen Bian 6th Season
 {"anidb_id":19137,"anilist_id":168082,"animeplanet_id":"stellar-transformation-6th-season","mal_id":60787}
 ,
-// [2026-UNDEFINED] ONA: Xingchen Bian 7th Season
-{"animeplanet_id":"stellar-transformation-7th-season","mal_id":62718}
-,
 // [2026-UNDEFINED] ONA: Xingchen Bian Final
 {"anilist_id":206356}
+,
+// [2026-SPRING] ONA: Xingchen Bian: Zuizhong Ji
+{"animeplanet_id":"stellar-transformation-7th-season","mal_id":62718}
 ,
 // [2018-WINTER] MOVIE: Xingfu Lushang
 {"anidb_id":13707,"anilist_id":103785,"animeplanet_id":"on-happiness-road","anisearch_id":13174,"mal_id":51992}
@@ -116522,6 +118514,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-WINTER] TV: Xiong Chumo: Xiao Xiao Shijie 2
 {"animeplanet_id":"boonie-bears-shrunk-2","mal_id":61593}
 ,
+// [2024-WINTER] TV: Xiong Chumo: Xiaoxiao Shijie
+{"anisearch_id":21679}
+,
 // [2025-WINTER] TV: Xiong Chumo: Xiaoxiao Shijie 2
 {"anisearch_id":20802}
 ,
@@ -116583,7 +118578,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":16633,"anilist_id":131994,"animeplanet_id":"i-am-what-i-am","anisearch_id":16394,"mal_id":52769}
 ,
 // [2024-FALL] MOVIE: Xiong Shi Shaonian 2
-{"anilist_id":166511,"animeplanet_id":"i-am-what-i-am-2","mal_id":60452}
+{"anilist_id":166511,"animeplanet_id":"i-am-what-i-am-2","anisearch_id":21665,"mal_id":60452}
 ,
 // [2020-UNDEFINED] TV: Xiong Tuzi Beibei
 {"mal_id":47891}
@@ -116678,9 +118673,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2020-SPRING] MOVIE: Xiu Rong Zhen
 {"anidb_id":16885,"anilist_id":129466,"animeplanet_id":"xiurong-zhen","anisearch_id":20010,"mal_id":48056}
 ,
-// [2026-UNDEFINED] ONA: Xiu Xian Zhe Da Zhan Chao Neng Li
-{"animeplanet_id":"xiu-xian-zhe-da-zhan-chao-neng-li"}
-,
 // [2021-UNDEFINED] ONA: Xiuluo Jian Zun
 {"anilist_id":130974,"animeplanet_id":"xiuluo-jian-zun","mal_id":48116}
 ,
@@ -116694,10 +118686,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":18614,"anilist_id":137674,"animeplanet_id":"martial-god-asura","anisearch_id":21177,"mal_id":49742}
 ,
 // [2026-WINTER] ONA: Xiuluo Wushen 2
-{"anidb_id":19923,"anilist_id":206358,"mal_id":62280}
+{"anidb_id":19923,"anilist_id":206358,"animeplanet_id":"martial-god-asura-2","mal_id":62280}
 ,
 // [2026-WINTER] ONA: Xiuxian Zhe Dazhan Chaonengli
-{"mal_id":63485}
+{"anidb_id":20067,"animeplanet_id":"xiu-xian-zhe-da-zhan-chao-neng-li","mal_id":63485}
 ,
 // [2026-UNDEFINED] ONA: Xiuxianzhe Dazhan Chaonengli
 {"anilist_id":155304}
@@ -117258,7 +119250,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":115872,"animeplanet_id":"yamanashi-kenritsu-bijutsukan-charles-francois-daubigny-ten"}
 ,
 // [2025-SPRING] SPECIAL: Yamanba Mambo
-{"animeplanet_id":"yamanba-mambo","mal_id":61368}
+{"animeplanet_id":"yamanba-mambo","anisearch_id":21389,"mal_id":61368}
 ,
 // [2013-WINTER] SPECIAL: Yamasuki, Yamazaki
 {"animeplanet_id":"yamasuki-yamazaki","mal_id":40523}
@@ -117334,6 +119326,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2026-WINTER] TV: Yami Shibai 16
 {"anidb_id":19825,"anilist_id":203939,"animeplanet_id":"yamishibai-japanese-ghost-stories-16th-season","anisearch_id":21076,"livechart_id":13421,"mal_id":63087}
+,
+// [2026-SUMMER] TV: Yami Shibai 17
+{"anilist_id":213359,"anisearch_id":21749,"livechart_id":13674,"mal_id":64435}
 ,
 // [2014-SUMMER] TV: Yami Shibai 2
 {"anidb_id":10717,"anilist_id":20669,"animeplanet_id":"yamishibai-japanese-ghost-stories-2nd-season","anisearch_id":9692,"livechart_id":429,"mal_id":22537}
@@ -117459,10 +119454,16 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"animeplanet_id":"gender-equality-2","mal_id":53146}
 ,
 // [2026-SUMMER] TV: Yani Neko
-{"anidb_id":19873,"anilist_id":207141,"animeplanet_id":"chainsmoker-cat","anisearch_id":21218,"livechart_id":13505,"mal_id":63403}
+{"anidb_id":19873}
+,
+// [2026-SUMMER] TV: Yani Neko
+{"anilist_id":207141,"animeplanet_id":"chainsmoker-cat","anisearch_id":21218,"livechart_id":13505,"mal_id":63403}
 ,
 // [2026-WINTER] ONA: Yani Neko Mini
-{"anilist_id":208105,"livechart_id":13529}
+{"anilist_id":208105}
+,
+// [2026-WINTER] ONA: Yani Neko Mini Anime
+{"livechart_id":13529,"mal_id":64008}
 ,
 // [2013-WINTER] ONA: Yankee Hamster
 {"anidb_id":12945,"anilist_id":111859,"animeplanet_id":"delinquent-hamsters","anisearch_id":14392,"mal_id":35011}
@@ -117532,6 +119533,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2017-SPRING] ONA: Yao Shen Ji
 {"anidb_id":13191,"anilist_id":101916,"animeplanet_id":"tales-of-demon-and-god","anisearch_id":12748,"livechart_id":8157,"mal_id":35626}
+,
+// [undefined-UNDEFINED] ONA: Yao Shen Ji 10th Season
+{"mal_id":64455}
 ,
 // [2018-WINTER] ONA: Yao Shen Ji 2nd Season
 {"anidb_id":13868,"anilist_id":101917,"animeplanet_id":"tales-of-demon-and-god-2nd-season","anisearch_id":14057,"livechart_id":8188,"mal_id":37164}
@@ -117813,7 +119817,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":142044,"animeplanet_id":"night-bus","mal_id":52585}
 ,
 // [2025-UNDEFINED] ONA: Ye de Mingming Shu
-{"anilist_id":198696,"animeplanet_id":"ye-de-ming-ming-shu","mal_id":60563}
+{"anilist_id":198696,"animeplanet_id":"ye-de-ming-ming-shu","anisearch_id":21615,"mal_id":60563}
+,
+// [2026-SPRING] ONA: Ye Luoli - Jin Liuxin
+{"anidb_id":20048}
 ,
 // [2018-UNDEFINED] ONA: Ye Si
 {"anilist_id":129733,"animeplanet_id":"ye-si"}
@@ -117845,7 +119852,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2009-SUMMER] SPECIAL: Yell
 {"anidb_id":13065,"anilist_id":145374,"animeplanet_id":"yell","mal_id":29970}
 ,
-// [2025-UNDEFINED] MOVIE: Yell For You
+// [2025-WINTER] MOVIE: Yell For You
 {"anilist_id":187582}
 ,
 // [2003-WINTER] MOVIE: Yellow
@@ -117889,6 +119896,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1990-WINTER] TV: Yeongsimi
 {"anidb_id":10796,"animeplanet_id":"yeongsimi","anisearch_id":9734,"mal_id":25589}
+,
+// [2018-SUMMER] SPECIAL: Yeonui Pyeonji PV
+{"anisearch_id":21711}
 ,
 // [2023-SUMMER] SPECIAL: Yeoseos Beonjjae Yeoleum
 {"mal_id":56628}
@@ -117992,6 +120002,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2018-SUMMER] SPECIAL: Yi Hua Yi Shijie
 {"animeplanet_id":"yi-hua-yi-shijie"}
 ,
+// [2027-UNDEFINED] ONA: Yi Jian Du Zun
+{"mal_id":63995}
+,
 // [2024-SUMMER] SPECIAL: Yi ke Fang Tang Xuan Zhi de Shijian
 {"mal_id":63672}
 ,
@@ -118007,11 +120020,8 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-WINTER] ONA: Yi Na He Qiaqia
 {"animeplanet_id":"yi-na-he-qiaqia","mal_id":60927}
 ,
-// [2025-UNDEFINED] ONA: Yi Na He Qiaqia 2nd Season
-{"animeplanet_id":"yi-na-he-qiaqia-2nd-season"}
-,
 // [2025-SPRING] ONA: Yi Na He Qiaqia 2nd Season
-{"mal_id":61654}
+{"animeplanet_id":"yi-na-he-qiaqia-2nd-season","mal_id":61654}
 ,
 // [2020-SUMMER] ONA: Yi Nian Yong Heng
 {"anidb_id":15693,"anilist_id":110595,"animeplanet_id":"a-will-eternal","anisearch_id":15521,"livechart_id":9984,"mal_id":41923}
@@ -118022,14 +120032,17 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-SUMMER] ONA: Yi Nian Yong Heng 3rd Season
 {"anidb_id":18384,"anilist_id":168104,"animeplanet_id":"a-will-eternal-3rd-season","anisearch_id":19404,"livechart_id":12305,"mal_id":56215}
 ,
-// [2026-UNDEFINED] ONA: Yi Nian Yong Heng 4th Season
-{"animeplanet_id":"a-will-eternal-4th-season","mal_id":62248}
-,
 // [2021-WINTER] ONA: Yi Nian Yong Heng Xiao Juchang
 {"animeplanet_id":"a-will-eternal-xiao-juchang","mal_id":52519}
 ,
-// [undefined-UNDEFINED] ONA: Yi Nian Yongheng 4
+// [2026-SUMMER] ONA: Yi Nian Yong Heng: Wanjie Ji
+{"mal_id":62248}
+,
+// [2026-UNDEFINED] ONA: Yi Nian Yongheng 4
 {"anilist_id":199409}
+,
+// [2024-SPRING] ONA: YI Nian Yongheng: He Ji Pian
+{"anisearch_id":21673}
 ,
 // [2022-FALL] ONA: Yi Nian Yongheng: Hezong Pian
 {"anilist_id":153496}
@@ -118056,7 +120069,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":17095,"anilist_id":142298,"animeplanet_id":"hitori-no-shita-the-outcast-5","anisearch_id":17942,"livechart_id":12013,"mal_id":51191}
 ,
 // [2026-WINTER] ONA: Yi Ren Zhi Xia 6
-{"anidb_id":19808,"anilist_id":198749,"anisearch_id":21097,"livechart_id":13428,"mal_id":62246}
+{"anidb_id":19808,"anilist_id":198749,"animeplanet_id":"hitori-no-shita-the-outcast-6","livechart_id":13428,"mal_id":62246}
 ,
 // [2018-WINTER] SPECIAL: Yi Ren Zhi Xia Recap
 {"animeplanet_id":"hitori-no-shita-the-outcast-recap","anisearch_id":13224,"mal_id":37090}
@@ -118067,6 +120080,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-WINTER] ONA: Yi Ren Zhi Xia: Xiu Tie Chong Xian
 {"anidb_id":19840,"anilist_id":168251,"animeplanet_id":"hitori-no-shita-the-outcast-xiutie-chongxian","mal_id":58056}
 ,
+// [2026-WINTER] ONA: Yi Ren Zhixia 6
+{"anisearch_id":21097}
+,
+// [undefined-UNDEFINED] ONA: Yi Ren Zhixia 7
+{"anidb_id":20144}
+,
 // [2011-SPRING] MOVIE: Yi Shi Jie Da Mao Xian
 {"anisearch_id":14384}
 ,
@@ -118075,6 +120094,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2021-SPRING] ONA: Yi Shijie Zhongyao Pu 2nd Season
 {"anidb_id":16676,"anilist_id":139297,"animeplanet_id":"yi-shijie-zhongyao-pu-part-ii","anisearch_id":20412,"mal_id":50794}
+,
+// [undefined-UNDEFINED] ONA: Yi Shou Mi Cheng
+{"anilist_id":211217,"mal_id":63985}
 ,
 // [2008-UNDEFINED] TV: Yi Tang Gelin Tonghua Gushi
 {"mal_id":46116}
@@ -118217,7 +120239,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2015-SUMMER] ONA: Ying Xiong Bie Nao
 {"anidb_id":15859,"anilist_id":102688,"animeplanet_id":"ying-xiong-bie-nao","anisearch_id":16057,"mal_id":33764}
 ,
-// [2022-WINTER] MOVIE: Yingtao Xiao Wanzi: Qihuan Biji
+// [2030-WINTER] MOVIE: Yingtao Xiao Wanzi: Qihuan Biji
 {"anidb_id":16023,"anilist_id":129134,"anisearch_id":15984}
 ,
 // [2014-FALL] TV: Yingxiong Fengzicai
@@ -118267,6 +120289,27 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2000-SUMMER] TV: Yinyue Chuan
 {"animeplanet_id":"yinyue-chuan","mal_id":43962}
+,
+// [2021-FALL] TV: Yinyue Gongzhu Ai Meili
+{"anidb_id":20013}
+,
+// [2022-SPRING] TV: Yinyue Gongzhu Ai Meili 2
+{"anidb_id":20015}
+,
+// [2023-SUMMER] TV: Yinyue Gongzhu Ai Meili 3
+{"anidb_id":20016}
+,
+// [2025-SPRING] TV: Yinyue Gongzhu Ai Meili 4
+{"anidb_id":20017}
+,
+// [2025-SPRING] TV: Yinyue Gongzhu Ai Meili 4
+{}
+,
+// [2026-SPRING] TV: Yinyue Gongzhu Aimeili zhi Gongzhu Shangxue Ji
+{"anidb_id":20058}
+,
+// [2026-SPRING] TV: Yinyue Gongzhu Aimeili zhi Gongzhu Shangxue Ji
+{}
 ,
 // [2010-FALL] TV: Yinyue Qi Xia
 {"animeplanet_id":"yinyue-qi-xia","mal_id":46310}
@@ -118377,7 +120420,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anisearch_id":18925}
 ,
 // [2024-UNDEFINED] MOVIE: Yobi to Amari
-{"anilist_id":205278}
+{"anilist_id":205278,"mal_id":64178}
 ,
 // [2006-UNDEFINED] ONA: Yobou-san to Yoboushiyou
 {"animeplanet_id":"yobou-san-to-yoboushiyou"}
@@ -118523,6 +120566,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2009-SUMMER] OVA: Yokorenbo: Immoral Mother
 {"anisearch_id":5481,"mal_id":6892}
 ,
+// [undefined-UNDEFINED] ONA: Yokoso Scooby-Doo!
+{"livechart_id":13636}
+,
 // [1991-FALL] TV: Yokoyama Mitsuteru Sangokushi
 {"anidb_id":943,"anilist_id":970,"animeplanet_id":"romance-of-the-three-kingdoms","anisearch_id":2468,"livechart_id":8211,"mal_id":970}
 ,
@@ -118640,20 +120686,17 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-SUMMER] ONA: Yong Sheng: Shi Nian Zhi Yue
 {"anidb_id":18122,"anilist_id":156099,"animeplanet_id":"immortality-2nd-season","anisearch_id":18560,"mal_id":55684}
 ,
+// [2025-WINTER] ONA: Yong Sheng: Tai Yuan Xian Fu
+{}
+,
 // [2025-FALL] ONA: Yong Sheng: Tai Yuan Xian Fu
-{"anidb_id":19781,"anilist_id":186834,"anisearch_id":21045,"mal_id":62911}
+{"anidb_id":19781,"anilist_id":186834,"animeplanet_id":"immortality-5th-season","anisearch_id":21045,"mal_id":62911}
 ,
 // [undefined-UNDEFINED] ONA: Yong Wang Zhi Qian - FAST BREAK
 {"anilist_id":155332}
 ,
 // [2016-SUMMER] MOVIE: Yong Yitian de Shijian Huiyi Wo
 {"animeplanet_id":"reminisce-me-with-the-time-of-a-day","mal_id":52908}
-,
-// [2015-WINTER] ONA: Yong Zhe Da Maoxian
-{"anidb_id":18642,"anilist_id":103352,"animeplanet_id":"yong-zhe-da-mao-xian","anisearch_id":14086,"mal_id":33762}
-,
-// [2016-WINTER] ONA: Yong Zhe Da Maoxian 2nd Season
-{"anidb_id":18674,"anilist_id":103351,"animeplanet_id":"yong-zhe-da-mao-xian-2nd-season","anisearch_id":14136,"mal_id":33763}
 ,
 // [2021-SUMMER] MOVIE: Yong Zhi Cheng
 {"anidb_id":16651,"animeplanet_id":"yong-zhi-cheng","anisearch_id":16775,"mal_id":51601}
@@ -118671,7 +120714,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {}
 ,
 // [2025-FALL] ONA: Yonghansonyeo
-{"animeplanet_id":"yonghansonyeo","mal_id":62540}
+{"anilist_id":213094,"animeplanet_id":"yonghansonyeo","anisearch_id":21608,"mal_id":62540}
+,
+// [2025-SUMMER] ONA: Yonghansonyeo 0 Hwa
+{"anisearch_id":21609}
 ,
 // [2024-FALL] ONA: Yongheng Jian Zu
 {"anidb_id":19109,"anilist_id":185832,"animeplanet_id":"rebirth-of-the-sword-patriarch","mal_id":60529}
@@ -118684,6 +120730,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2018-WINTER] MOVIE: Yongzhe Chuang Mo Cheng
 {"animeplanet_id":"yongzhe-chuang-mo-cheng","mal_id":45059}
+,
+// [2015-WINTER] ONA: Yongzhe Da Maoxian
+{"anidb_id":18642,"anilist_id":103352,"animeplanet_id":"yong-zhe-da-mao-xian","anisearch_id":14086,"mal_id":33762}
+,
+// [2016-WINTER] ONA: Yongzhe Da Maoxian 2nd Season
+{"anidb_id":18674,"anilist_id":103351,"animeplanet_id":"yong-zhe-da-mao-xian-2nd-season","anisearch_id":14136,"mal_id":33763}
 ,
 // [2021-SUMMER] ONA: Yongzhe Donghua Xilie
 {"anidb_id":16653,"animeplanet_id":"brave-animated-series","anisearch_id":16469,"mal_id":53032}
@@ -118733,20 +120785,23 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2026-WINTER] TV: Yoroi Shin Den Samurai Troopers
 {"anidb_id":19380,"anilist_id":194318,"animeplanet_id":"yoroi-shinden-samurai-troopers","anisearch_id":20617,"livechart_id":13191,"mal_id":61830}
 ,
-// [undefined-UNDEFINED] TV: Yoroi Shin Den Samurai Troopers 2
+// [2026-SUMMER] TV: Yoroi Shin Den Samurai Troopers (2026)
 {"anidb_id":19816}
 ,
-// [2026-SUMMER] TV: Yoroi Shin Den Samurai Troopers 2
-{"anisearch_id":21164}
-,
-// [undefined-UNDEFINED] TV: Yoroi Shin Den Samurai Troopers 2nd Cour
+// [2026-SUMMER] TV: Yoroi Shin Den Samurai Troopers 2nd Cour
 {"livechart_id":13413}
+,
+// [2026-SUMMER] TV: Yoroi Shin Den Samurai Troopers Dai 2 Cour
+{"anisearch_id":21164}
 ,
 // [2026-SUMMER] TV: Yoroi Shin Den Samurai Troopers Part 2
 {"anilist_id":209800,"mal_id":63047}
 ,
 // [2026-SUMMER] TV: Yoroi-Shinden Samurai Troopers
 {}
+,
+// [2026-SUMMER] TV: Yoroi-Shinden Samurai Troopers - Part II
+{"animeplanet_id":"yoroi-shinden-samurai-troopers-part-ii"}
 ,
 // [1988-SPRING] TV: Yoroiden Samurai Troopers
 {"anidb_id":460,"anilist_id":1264,"animeplanet_id":"legendary-armor-samurai-troopers","anisearch_id":1483,"livechart_id":7034,"mal_id":1264}
@@ -118934,6 +120989,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2010-WINTER] MOVIE: Yotsuya Alpha Beta
 {"anilist_id":114294,"animeplanet_id":"yotsuya-alpha-beta","anisearch_id":10743}
 ,
+// [2026-SPRING] SPECIAL: You & Aizu
+{"mal_id":63986}
+,
 // [2026-SUMMER] TV: You and I Are Polar Opposites
 {}
 ,
@@ -118986,7 +121044,16 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":19897,"anilist_id":204394}
 ,
 // [2026-WINTER] ONA: You Shou Yan 5th Season
-{"mal_id":62955}
+{"animeplanet_id":"there-are-beasts-5th-season","mal_id":62955}
+,
+// [2026-SUMMER] ONA: You Shou Yan 6th Season
+{"anilist_id":213486,"mal_id":64461}
+,
+// [2024-SUMMER] ONA: You Shou Yan Di-si Ji
+{"anisearch_id":21493}
+,
+// [2026-WINTER] ONA: You Shou Yan Di-wu Ji
+{"anisearch_id":21494}
 ,
 // [2019-WINTER] SPECIAL: You Should See Me in a Crown
 {"anilist_id":110147,"animeplanet_id":"billie-eilish-you-should-see-me-in-a-crown","anisearch_id":14339,"mal_id":39623}
@@ -119037,10 +121104,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anilist_id":157801}
 ,
 // [2027-SPRING] TV: Youchien Wars
-{"animeplanet_id":"kindergarten-wars","anisearch_id":20960,"livechart_id":13351,"mal_id":62613}
+{"anidb_id":19631,"animeplanet_id":"kindergarten-wars","anisearch_id":20960,"livechart_id":13351,"mal_id":62613}
 ,
 // [2027-SPRING] TV: Youchien WARS
-{"anidb_id":19631,"anilist_id":199597}
+{"anilist_id":199597}
 ,
 // [2006-WINTER] TV: Youji Shen Bing
 {"animeplanet_id":"youji-shen-bing","mal_id":45903}
@@ -119071,6 +121138,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2017-WINTER] ONA: Youjo Shenki
 {"anilist_id":98186,"animeplanet_id":"youjo-shenki","anisearch_id":12421,"livechart_id":2509,"mal_id":34742}
+,
+// [2026-SUMMER] ONA: Youjo Shenki 2
+{"anisearch_id":21764,"livechart_id":13660}
 ,
 // [2017-WINTER] ONA: Youjo Shenki Episode 0
 {"animeplanet_id":"youjo-shenki-episode-0","anisearch_id":12418,"livechart_id":4405,"mal_id":34723}
@@ -119195,6 +121265,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2026-SPRING] TV: Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki
 {"anidb_id":18844,"anilist_id":180745,"animeplanet_id":"classroom-of-the-elite-4th-season","anisearch_id":19569,"livechart_id":12814,"mal_id":59708}
 ,
+// [undefined-UNDEFINED] TV: Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 5th Season
+{"anidb_id":20123,"anilist_id":213477,"livechart_id":13685,"mal_id":64463}
+,
+// [undefined-UNDEFINED] TV: Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 5th Season
+{"anisearch_id":21745}
+,
 // [2015-SPRING] SPECIAL: Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e PV
 {"animeplanet_id":"classroom-of-the-elite-special-anime","anisearch_id":15598,"mal_id":30813}
 ,
@@ -119237,7 +121313,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2019-UNDEFINED] SPECIAL: Young Jump x Gundam 40-shuunen Special Anime Movie
 {"animeplanet_id":"young-jump-x-gundam-40-shuunen-special-anime-movie"}
 ,
-// [2026-UNDEFINED] TV: Young Ladies Don't Play Fighting Games
+// [2026-SUMMER] TV: Young Ladies Don't Play Fighting Games
 {}
 ,
 // [2021-FALL] ONA: Young Tong Report
@@ -119351,7 +121427,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2022-SUMMER] ONA: Yowaki Hakanaki Mono-tachi Pilot Movie
 {"animeplanet_id":"yowaki-hakanaki-mono-tachi-pilot-movie","mal_id":59811}
 ,
-// [undefined-UNDEFINED] TV: Yowaki Max Reijou nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta
+// [2026-FALL] TV: Yowaki Max Reijou nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta
 {"anidb_id":19650,"anilist_id":200455,"animeplanet_id":"yowaki-max-reijou-nano-ni-ratsuwan-konyakusha-sama-no-kake-ni-notte-shimatta","anisearch_id":20986,"livechart_id":13364,"mal_id":62753}
 ,
 // [1935-FALL] MOVIE: Yowamushi Chinsengumi
@@ -119363,11 +121439,11 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2012-FALL] SPECIAL: Yowamushi Monsters
 {"anisearch_id":11064,"mal_id":30119}
 ,
+// [2010-SPRING] SPECIAL: Yowamushi Mont Blanc
+{"animeplanet_id":"deco-27-yowamushi-mont-blanc","mal_id":41244}
+,
 // [2025-SPRING] SPECIAL: Yowamushi Mont Blanc (Reloaded)
 {"mal_id":61500}
-,
-// [2010-SPRING] SPECIAL: Yowamushi Montblanc
-{"animeplanet_id":"deco-27-yowamushi-mont-blanc","mal_id":41244}
 ,
 // [2013-FALL] TV: Yowamushi Pedal
 {"anidb_id":9591,"anilist_id":18179,"animeplanet_id":"yowamushi-pedal","anisearch_id":8308,"livechart_id":68,"mal_id":18179}
@@ -119408,6 +121484,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2013-SUMMER] OVA: Yowamushi Pedal: Special Ride
 {"anidb_id":9790,"anilist_id":18177,"animeplanet_id":"yowamushi-pedal-special-ride","anisearch_id":8697,"livechart_id":53,"mal_id":18177}
 ,
+// [1984-UNDEFINED] OVA: Yowamushi Tarou
+{"anisearch_id":21384}
+,
 // [2026-SPRING] TV: Yowayowa Sensei
 {"anidb_id":19024,"anilist_id":185211,"animeplanet_id":"yowayowa-sensei","anisearch_id":19935,"livechart_id":12955,"mal_id":60444}
 ,
@@ -119432,8 +121511,17 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-SPRING] TV: Yozakura-san Chi no Daisakusen
 {"anidb_id":17773,"anilist_id":158898,"animeplanet_id":"mission-yozakura-family","anisearch_id":17940,"livechart_id":11637,"mal_id":53865}
 ,
+// [2026-FALL] TV: Yozakura-san Chi no Daisakusen (2026 2 Cour)
+{"anidb_id":20142}
+,
 // [2026-SPRING] TV: Yozakura-san Chi no Daisakusen 2nd Season
 {"anidb_id":18900,"anilist_id":182578,"animeplanet_id":"mission-yozakura-family-season-2","anisearch_id":19687,"livechart_id":12872,"mal_id":60055}
+,
+// [2026-FALL] TV: Yozakura-san Chi no Daisakusen 2nd Season Cour 2
+{"livechart_id":13700}
+,
+// [2026-FALL] TV: Yozakura-san Chi no Daisakusen 2nd Season Part 2
+{"anilist_id":213657,"mal_id":64503}
 ,
 // [2024-SPRING] ONA: Yozakura-san Chi no Mini Sakusen
 {"anilist_id":176909,"animeplanet_id":"yozakura-san-chi-no-minisakusen","anisearch_id":19256,"livechart_id":12628,"mal_id":58644}
@@ -119463,7 +121551,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"animeplanet_id":"shenye-yu-tang-yu-laoban-de-richang","mal_id":47560}
 ,
 // [2026-WINTER] ONA: Yu Ling Shi
-{"anidb_id":19914,"anilist_id":199411,"animeplanet_id":"bking","anisearch_id":21120,"mal_id":60587}
+{"anidb_id":19914,"anilist_id":199411,"animeplanet_id":"bking","anisearch_id":21120,"livechart_id":13597,"mal_id":60587}
 ,
 // [2013-SUMMER] TV: Yu Liu Li
 {"animeplanet_id":"yu-liu-li","mal_id":46759}
@@ -119664,7 +121752,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":18671,"anilist_id":137673,"animeplanet_id":"dragon-prince-yuan","anisearch_id":19551,"mal_id":50114}
 ,
 // [2027-UNDEFINED] ONA: Yuan Zun (2027)
-{"anilist_id":198707,"mal_id":61610}
+{"anilist_id":198707}
+,
+// [2027-UNDEFINED] ONA: Yuan Zun: Nian Fan
+{"mal_id":61610}
 ,
 // [undefined-UNDEFINED] TV: Yuanlai Shi Zheyang
 {"mal_id":46468}
@@ -119678,11 +121769,20 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2016-SPRING] TV: Yuanqi Zhengjiu Dui
 {"animeplanet_id":"yuanqi-zhengjiu-dui","mal_id":44466}
 ,
+// [2026-SPRING] SPECIAL: Yuanshen PV
+{"mal_id":64475}
+,
 // [2022-SUMMER] SPECIAL: Yuanshen Tiwate Pian: Mu Jian PV - Dong Ye Yu Xi
 {"mal_id":58537}
 ,
 // [2025-SUMMER] SPECIAL: Yuanshen Tiwate Pian: Mu Jian PV - Shen de Juxianxing
 {"mal_id":62022}
+,
+// [2025-UNDEFINED] ONA: Yuanshen: Baoshi de Pianju
+{"anilist_id":213646}
+,
+// [2026-SPRING] SPECIAL: Yuanshen: Chaoyue PV - Zhou Xue
+{"mal_id":64473}
 ,
 // [2025-SPRING] ONA: Yuanshen: Chen Jian Xing Lu
 {"anilist_id":205941,"animeplanet_id":"genshin-impact-star-odyssey","mal_id":61840}
@@ -119696,11 +121796,14 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-FALL] ONA: Yuanshen: Huanghun
 {"anilist_id":187676,"animeplanet_id":"genshin-impact-sunset","mal_id":60624}
 ,
+// [2025-UNDEFINED] ONA: Yuanshen: Ineffa Da Gaizao
+{"anilist_id":213647}
+,
 // [2023-SUMMER] SPECIAL: Yuanshen: Jiaoxiang Yinyue Hui CM Duanpian
 {"animeplanet_id":"genshin-impact-genshin-concert-promotional-video","mal_id":56273}
 ,
 // [2024-SPRING] ONA: Yuanshen: Jinzhong Ge
-{"anilist_id":184624,"animeplanet_id":"genshin-impact-the-song-burning-in-the-embers","mal_id":58689}
+{"anilist_id":184624,"animeplanet_id":"genshin-impact-the-song-burning-in-the-embers","anisearch_id":21668,"mal_id":58689}
 ,
 // [2020-SPRING] SPECIAL: Yuanshen: Juese PVs
 {"mal_id":60421}
@@ -119753,6 +121856,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-UNDEFINED] ONA: Yuanshen: Yuanye Denghuo
 {"anilist_id":204525}
 ,
+// [2026-SPRING] ONA: Yuanshen: Zuihou De Yichan
+{"mal_id":64403}
+,
 // [2025-FALL] SPECIAL: Yuanshen☆FES 2026 Huodong PV
 {"mal_id":62997}
 ,
@@ -119767,6 +121873,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2022-SPRING] SPECIAL: Yubikiri Genman
 {"anisearch_id":17865}
+,
+// [2026-SPRING] SPECIAL: Yubikiri Rain
+{"anisearch_id":21553}
 ,
 // [2010-SUMMER] OVA: Yubisaki Annainin Shirudaku Settai Okawari Sanbaime
 {"anisearch_id":6346,"mal_id":9326}
@@ -119892,7 +122001,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":12601,"anilist_id":103403,"animeplanet_id":"yuki-no-hi-no-tayori","anisearch_id":10296,"mal_id":30075}
 ,
 // [1978-WINTER] MOVIE: Yuki no Joou
-{"anidb_id":14264,"anilist_id":117930,"animeplanet_id":"yuki-no-joou-1978","livechart_id":8975,"mal_id":34946}
+{"anidb_id":14264,"anilist_id":117930,"animeplanet_id":"yuki-no-joou-1978","anisearch_id":21697,"livechart_id":8975,"mal_id":34946}
 ,
 // [2005-SPRING] TV: Yuki no Joou (TV)
 {"anidb_id":2828,"anilist_id":754,"animeplanet_id":"the-snow-queen","anisearch_id":2752,"livechart_id":8616,"mal_id":754}
@@ -119923,6 +122032,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1969-FALL] SPECIAL: Yuki wa Non Non: Kumakko-tachi no Komori Uta
 {"anilist_id":170950,"mal_id":57204}
+,
+// [1986-WINTER] OVA: Yuki-chan no Konnichiwa
+{"anisearch_id":21462}
 ,
 // [2017-UNDEFINED] SPECIAL: Yuki-san: Cutlery
 {"animeplanet_id":"yuki-san-cutlery"}
@@ -120043,6 +122155,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2010-FALL] TV: Yume Miru, Anime: On-chan Season 2
 {"anidb_id":8078,"anilist_id":178147,"anisearch_id":6609}
+,
+// [2010-FALL] TV: Yume Miru, Anime: On-chan Season 2
+{"mal_id":64216}
 ,
 // [1978-FALL] SPECIAL: Yume Miteru Wake ja Nai yo
 {"anilist_id":140367,"animeplanet_id":"yume-miteru-wake-ja-nai-yo","mal_id":43550}
@@ -120233,17 +122348,20 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2020-UNDEFINED] TV: Yun Qi Feixing Riji 3
 {"mal_id":46496}
 ,
+// [2023-SUMMER] ONA: Yun Shang Youchai
+{"anisearch_id":21680}
+,
 // [2025-SUMMER] ONA: Yun Shen Buzhi Meng
-{"anidb_id":19446,"anilist_id":198697,"animeplanet_id":"eclipse-of-illusion","mal_id":61621}
+{"anidb_id":19446,"anilist_id":198697,"animeplanet_id":"eclipse-of-illusion","anisearch_id":21613,"mal_id":61621}
 ,
 // [2026-UNDEFINED] ONA: Yun Shen Buzhi Meng 2
 {"anilist_id":206160}
 ,
 // [undefined-UNDEFINED] ONA: Yun Shen Buzhi Meng II
-{"animeplanet_id":"eclipse-of-illusion-ii","mal_id":63148}
+{"anidb_id":20107,"animeplanet_id":"eclipse-of-illusion-ii","mal_id":63148}
 ,
-// [undefined-UNDEFINED] ONA: Yun Shen Buzhi Meng Special: Zhu Ming Zhi Yi
-{"mal_id":63149}
+// [2026-SPRING] ONA: Yun Shen Buzhi Meng Special: Zhu Ming Zhi Yi
+{"anidb_id":20106,"anilist_id":213297,"mal_id":63149}
 ,
 // [undefined-UNDEFINED] ONA: Yun Shen Ji
 {"anilist_id":122034}
@@ -120253,6 +122371,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2019-UNDEFINED] MOVIE: Yun Zhongju San Zi: Ni Nu Po
 {"mal_id":57837}
+,
+// [2026-SPRING] SPECIAL: Yuna First Live
+{"mal_id":64076}
 ,
 // [2012-WINTER] TV: Yuncai Mianbao
 {"animeplanet_id":"yuncai-mianbao","mal_id":45367}
@@ -120341,7 +122462,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2024-SPRING] SPECIAL: Yuru Camp△ Season 3 Specials
 {"anilist_id":177007,"animeplanet_id":"laid-back-camp-3rd-season-specials","anisearch_id":19738,"livechart_id":12627,"mal_id":58855}
 ,
-// [2027-UNDEFINED] TV: Yuru Camp△ Season 4
+// [2027-WINTER] TV: Yuru Camp△ Season 4
 {"anidb_id":18974,"anilist_id":184072,"animeplanet_id":"laid-back-camp-4th-season","anisearch_id":19745,"livechart_id":12911,"mal_id":60267}
 ,
 // [2018-WINTER] SPECIAL: Yuru Camp△ Specials
@@ -120370,6 +122491,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2025-SPRING] TV: Yurukawa Mell-chan
 {"anilist_id":189716,"animeplanet_id":"yurukawa-mell-chan","mal_id":61379}
+,
+// [2026-SUMMER] UNKNOWN: Yurukawa Mell-chan
+{"mal_id":64416}
 ,
 // [2009-SPRING] OVA: Yurumates
 {"anidb_id":6355,"anilist_id":6148,"animeplanet_id":"yurumates","anisearch_id":5210,"livechart_id":6251,"mal_id":6148}
@@ -120400,6 +122524,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2017-FALL] SPECIAL: Yuruyuru Menokurage
 {"animeplanet_id":"yuruyuru-menokurage","anisearch_id":13104}
+,
+// [2026-FALL] TV: Yuruyuru Zukan
+{"anilist_id":213298,"livechart_id":13669,"mal_id":64430}
 ,
 // [2019-SUMMER] SPECIAL: Yuryeong Geukdan PV
 {"animeplanet_id":"ghost-theater-pv","mal_id":52885}
@@ -120515,7 +122642,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2019-WINTER] SPECIAL: Yuuki no Hana ga Hiraku Toki: Yanase Takashi to Anpanman no Monogatari
 {"anidb_id":14634,"anilist_id":179875,"animeplanet_id":"yuuki-no-hana-ga-hiraku-toki-yanase-takashi-to-anpanman-no-monogatari","anisearch_id":14377,"mal_id":39109}
 ,
-// [undefined-UNDEFINED] OVA: Yuuki no Kakkoi 1-nensei ni Daihenshin DVD: Besse Aka Pen Sensei
+// [undefined-UNDEFINED] OVA: Yuuki no Kakkoi 1-nensei ni Daihenshin DVD: Besse Aka-Pen Sensei
 {"mal_id":56138}
 ,
 // [2011-WINTER] OVA: Yuuki no Omamori
@@ -120827,6 +122954,12 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2012-UNDEFINED] SPECIAL: Z Densetsu: Owari Naki Kakumei
 {"anilist_id":123347}
 ,
+// [2001-SPRING] TV: Z.O.E Dolores, I
+{"anidb_id":412,"anilist_id":1249,"animeplanet_id":"zone-of-the-enders-dolores","anisearch_id":1410,"livechart_id":6103,"mal_id":1249}
+,
+// [2001-WINTER] OVA: Z.O.E. 2167 Idolo
+{"anidb_id":408,"anilist_id":1248,"animeplanet_id":"zone-of-the-enders-idolo","anisearch_id":3433,"livechart_id":6723,"mal_id":1248}
+,
 // [2019-FALL] TV: Z/X: Code Reunion
 {"anidb_id":13441,"anilist_id":100246,"animeplanet_id":"zx-code-reunion","anisearch_id":12817,"livechart_id":1416,"mal_id":37268}
 ,
@@ -120865,6 +122998,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2015-FALL] MOVIE: Zang Ling Wangzhixue Yu Jingling
 {"animeplanet_id":"zang-ling-wangzhixue-yu-jingling","anisearch_id":14276,"mal_id":44896}
+,
+// [2024-FALL] ONA: Zangtian Zhi Xu Chongzu
+{"anisearch_id":21658}
 ,
 // [2022-FALL] SPECIAL: Zanki
 {"anidb_id":18480,"anilist_id":155884,"animeplanet_id":"zutomayo-zanki","mal_id":53405}
@@ -120957,7 +123093,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anidb_id":13466,"anilist_id":101409,"animeplanet_id":"fighter-of-the-destiny","anisearch_id":12625,"livechart_id":7633,"mal_id":31838}
 ,
 // [2026-WINTER] ONA: Ze Tian Ji (2026)
-{"anidb_id":19868,"anilist_id":199410,"animeplanet_id":"fighter-of-the-destiny-3d","mal_id":61562}
+{"anidb_id":19868,"anilist_id":199410,"animeplanet_id":"fighter-of-the-destiny-3d","anisearch_id":21533,"mal_id":61562}
 ,
 // [2016-SUMMER] ONA: Ze Tian Ji 2nd Season
 {"anidb_id":13467,"anilist_id":102165,"animeplanet_id":"fighter-of-the-destiny-2nd-season","anisearch_id":13122,"livechart_id":8190,"mal_id":37184}
@@ -121022,7 +123158,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2014-WINTER] MOVIE: Zenbu Wakatteru
 {"anilist_id":106539,"animeplanet_id":"scape-escape","anisearch_id":13385,"mal_id":40816}
 ,
-// [undefined-UNDEFINED] TV: Zenchi-teki na Dokusha no Shiten kara
+// [2027-UNDEFINED] TV: Zenchi-teki na Dokusha no Shiten kara
 {"anidb_id":18741,"anilist_id":179068,"animeplanet_id":"omniscient-reader","anisearch_id":19464,"livechart_id":12741,"mal_id":59230}
 ,
 // [2004-WINTER] MOVIE: Zenchuu Maite
@@ -121033,6 +123169,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2026-WINTER] SPECIAL: Zenkoutei!
 {"mal_id":63698}
+,
+// [2024-SUMMER] SPECIAL: Zenless
+{"mal_id":64043}
 ,
 // [2006-SPRING] TV: Zenmai Zamurai
 {"anidb_id":5817,"anilist_id":5821,"animeplanet_id":"zenmai-zamurai","anisearch_id":3505,"mal_id":5821}
@@ -121135,15 +123274,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [undefined-UNDEFINED] TV: Zero Rise
 {"anisearch_id":21162}
-,
-// [undefined-UNDEFINED] MOVIE: Zero Seiki Movie 1: Emeraldas
-{"anilist_id":100081,"animeplanet_id":"the-zero-century-emeraldas","anisearch_id":12613,"livechart_id":2778,"mal_id":35853}
-,
-// [undefined-UNDEFINED] MOVIE: Zero Seiki Movie 2: Herlock
-{"anilist_id":100148,"animeplanet_id":"the-zero-century-herlock","anisearch_id":13006,"livechart_id":2779,"mal_id":35854}
-,
-// [undefined-UNDEFINED] MOVIE: Zero Seiki Movie 3: Maetel
-{"anilist_id":107623,"animeplanet_id":"the-zero-century-maetel","anisearch_id":13007,"livechart_id":2780,"mal_id":35855}
 ,
 // [2023-WINTER] SPECIAL: Zero Step
 {"anilist_id":156053,"animeplanet_id":"kurokos-basketball-zero-step","mal_id":55374}
@@ -121292,17 +123422,23 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2022-SUMMER] ONA: Zhan Qiannian
 {"anidb_id":17541,"anilist_id":141900,"animeplanet_id":"millenniums-of-warring-states","anisearch_id":17144,"mal_id":51517}
 ,
-// [2026-UNDEFINED] ONA: Zhan Shen Movie: Cang Nan Zhi Shang
+// [2026-UNDEFINED] ONA: Zhan Shen Movie: Cangnan Zhi Shang
 {"animeplanet_id":"slay-the-gods-movie-the-dead-of-cangnan","mal_id":62727}
 ,
-// [2026-UNDEFINED] ONA: Zhan Shen: Fanchen Shen Yu 2
+// [2026-SPRING] ONA: Zhan Shen: Fanchen Shen Yu 2
 {"anilist_id":206194}
+,
+// [2026-UNDEFINED] ONA: Zhan Shen: Fanchen Shen Yu Movie - Cangnan Zhi Shang
+{"anilist_id":213362}
 ,
 // [2024-SUMMER] ONA: Zhan Shen: Fanchen Shenyu
 {"anidb_id":18801,"anilist_id":168105,"animeplanet_id":"slay-the-gods","mal_id":59306}
 ,
 // [undefined-UNDEFINED] ONA: Zhan Shen: Fanchen Shenyu II
-{"mal_id":62234}
+{}
+,
+// [2026-SPRING] ONA: Zhan Shen: Fanchen Shenyu II
+{"anidb_id":20124,"anisearch_id":21591,"mal_id":62234}
 ,
 // [2018-FALL] ONA: Zhan Shou Zhi Ren
 {"anidb_id":15563,"anilist_id":108985,"animeplanet_id":"zhan-shou-zhi-ren","mal_id":38557}
@@ -121316,23 +123452,20 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2016-SPRING] TV: Zhandou Ba Ling Shou
 {"animeplanet_id":"zhandou-ba-ling-shou","mal_id":44493}
 ,
-// [2012-SUMMER] TV: Zhandou Wang Zhi Jufeng Zhan Hun
+// [2012-SUMMER] TV: Zhandou Wang: Jufeng Zhan Hun
 {"anidb_id":12920,"anilist_id":103425,"animeplanet_id":"infinity-nado","anisearch_id":12329,"livechart_id":8044,"mal_id":36423}
 ,
-// [2013-FALL] TV: Zhandou Wang Zhi Jufeng Zhan Hun 2
+// [2014-WINTER] TV: Zhandou Wang: Jufeng Zhan Hun II
 {"anidb_id":12958,"anilist_id":103424,"animeplanet_id":"infinity-nado-2","anisearch_id":12330,"mal_id":36425}
 ,
-// [2015-FALL] TV: Zhandou Wang Zhi Jufeng Zhan Hun 3
+// [2015-FALL] TV: Zhandou Wang: Jufeng Zhan Hun III
 {"anidb_id":12960,"anilist_id":103423,"animeplanet_id":"infinity-nado-3","anisearch_id":12331,"livechart_id":8034,"mal_id":36427}
 ,
-// [2018-FALL] TV: Zhandou Wang Zhi Jufeng Zhan Hun 5
+// [2018-FALL] TV: Zhandou Wang: Jufeng Zhan Hun V
 {"anidb_id":15265,"anilist_id":121384,"animeplanet_id":"zhandou-wang-zhi-jufeng-zhan-hun-5","mal_id":42468}
 ,
-// [2020-WINTER] TV: Zhandou Wang Zhi Jufeng Zhan Hun 5: Heti Fanwai Pian
+// [2020-WINTER] TV: Zhandou Wang: Jufeng Zhan Hun V - Heti Fanwai Pian
 {"anilist_id":121388,"animeplanet_id":"zhandou-wang-zhi-jufeng-zhan-hun-5-heti-fanwai-pian","mal_id":42979}
-,
-// [2022-FALL] TV: Zhandou Wang Zhi Jufeng Zhan Hun 6
-{"mal_id":57866}
 ,
 // [2018-FALL] ONA: Zhandouban Geji!
 {"anidb_id":15226,"anilist_id":129634,"animeplanet_id":"zhandou-ba-geji","mal_id":42513}
@@ -121366,6 +123499,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [1987-UNDEFINED] MOVIE: Zhangda Weiba De Tuzi
 {"anilist_id":142011,"animeplanet_id":"zhangda-weiba-de-tuzi","mal_id":49139}
+,
+// [2026-SPRING] ONA: Zhangmen Didiao Dian
+{"anidb_id":20080,"mal_id":64384}
 ,
 // [2016-SUMMER] ONA: Zhanguo Fan
 {"anidb_id":14867,"anilist_id":101907,"animeplanet_id":"zhanguo-fan","anisearch_id":12620,"livechart_id":8331,"mal_id":36428}
@@ -121415,8 +123551,11 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-SPRING] ONA: Zhe Tian
 {"anidb_id":18005,"anilist_id":137671,"animeplanet_id":"shrouding-the-heavens","anisearch_id":18390,"livechart_id":12414,"mal_id":51289}
 ,
+// [2026-SPRING] ONA: Zhe Tian Juchang Ban Bei Guan Zhan Wang Teng
+{"anisearch_id":21379}
+,
 // [2026-SPRING] ONA: Zhe Tian Movie: Bei Guan Zhan Wang Teng
-{"mal_id":63606}
+{"anidb_id":20005,"anilist_id":213664,"mal_id":63606}
 ,
 // [2024-FALL] ONA: Zhedie de Tangshi
 {"animeplanet_id":"zhedie-de-tangshi","mal_id":60901}
@@ -121427,6 +123566,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2025-SUMMER] ONA: Zhege Nianji Huan Neng Dang Daxia Ma 2nd Season
 {"anilist_id":195887,"animeplanet_id":"zhege-nianji-huan-neng-dang-daxia-ma-2nd-season","mal_id":61948}
 ,
+// [2025-SUMMER] ONA: Zhege Nianji Huan Neng Dang Daxia Ma Di-er Ji
+{"anisearch_id":21614}
+,
 // [2015-UNDEFINED] ONA: Zhege Nusheng Hen Putong
 {"mal_id":47140}
 ,
@@ -121436,7 +123578,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2023-FALL] ONA: Zhen Dao Ge 2nd Season
 {"anidb_id":18338,"anilist_id":137747,"animeplanet_id":"zhen-dao-ge-2nd-season","mal_id":57468}
 ,
-// [2025-SUMMER] ONA: Zhen Dao Ge 3
+// [2025-FALL] ONA: Zhen Dao Ge 3
 {"anidb_id":19915,"anilist_id":199358}
 ,
 // [2025-FALL] ONA: Zhen Dao Ge 3rd Season
@@ -121486,6 +123628,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2021-SPRING] ONA: Zhen Hun Jie: Bei Luo Shi Men Pian (2021)
 {"anisearch_id":20670}
+,
+// [2020-WINTER] ONA: Zhen Hun Jie: Bei Luo Shi Men Pian 2021
+{"anidb_id":16372}
 ,
 // [1981-UNDEFINED] MOVIE: Zhen Jia Li Kui
 {"animeplanet_id":"zhen-jia-li-kui","mal_id":43502}
@@ -121538,6 +123683,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1988-UNDEFINED] MOVIE: Zhengzhi
 {"animeplanet_id":"zhengzhi","mal_id":43649}
 ,
+// [2024-FALL] ONA: Zhenzhen Nanwei
+{"anisearch_id":21653}
+,
 // [2015-UNDEFINED] TV: Zhezhi Zongdongyuan: Zhi Bao Qibing
 {"animeplanet_id":"zhezhi-zongdongyuan-zhi-bao-qibing","mal_id":47157}
 ,
@@ -121554,7 +123702,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"animeplanet_id":"zhi-duoduo-jieri-jianianhua","mal_id":43308}
 ,
 // [2026-UNDEFINED] ONA: Zhi Jia Yi
-{"mal_id":62739}
+{"anilist_id":213704,"mal_id":62739}
 ,
 // [2008-UNDEFINED] TV: Zhi Pengyou
 {"animeplanet_id":"zhi-pengyou","mal_id":48113}
@@ -121640,6 +123788,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2006-FALL] TV: Zhong Hua Xiao Zi
 {"anidb_id":14037,"anilist_id":102501,"animeplanet_id":"zhonghua-xiaozi","anisearch_id":11642,"mal_id":27811}
 ,
+// [2026-SPRING] MOVIE: Zhong Kui
+{"mal_id":56321}
+,
 // [1985-UNDEFINED] MOVIE: Zhong Li
 {"animeplanet_id":"zhong-li","mal_id":43592}
 ,
@@ -121709,7 +123860,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [1997-UNDEFINED] TV: Zhonghua Chuanshuo Meide Gushi
 {"animeplanet_id":"zhonghua-chuanshuo-meide-gushi","mal_id":43952}
 ,
-// [undefined-UNDEFINED] TV: Zhonghua Da Jiangtan
+// [2008-UNDEFINED] TV: Zhonghua Da Jiangtan
 {"animeplanet_id":"zhonghua-da-jiangtan","mal_id":46367}
 ,
 // [2008-UNDEFINED] TV: Zhonghua Deyu Gushi
@@ -121747,9 +123898,6 @@ export const animeOfflineDatabase: ArmEntry[] = [
 ,
 // [2013-SUMMER] MOVIE: Zhongji Da Maoxian
 {"animeplanet_id":"zhongji-da-maoxian","mal_id":52704}
-,
-// [2023-SPRING] MOVIE: Zhongkui
-{"mal_id":56321}
 ,
 // [2017-FALL] MOVIE: Zhongkui Chuanqi: Sui Han Sanyou
 {"anidb_id":13711,"animeplanet_id":"zhongkui-chuanqi-sui-han-sanyou","anisearch_id":13177,"mal_id":45011}
@@ -121811,6 +123959,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2016-SUMMER] ONA: Zhu shen de zicai baofan
 {}
 ,
+// [2027-UNDEFINED] ONA: Zhu Shen Yu Xi
+{"mal_id":63992}
+,
 // [2019-SPRING] SPECIAL: Zhu Shu Zhushou Shu
 {}
 ,
@@ -121832,6 +123983,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2026-UNDEFINED] ONA: Zhu Xian Final
 {"anilist_id":206189}
 ,
+// [undefined-UNDEFINED] ONA: Zhu Xian Movie: Shi Nian Shu Tu
+{"mal_id":64450}
+,
 // [undefined-UNDEFINED] ONA: Zhu Xian: Zuizhong Ji
 {"mal_id":62990}
 ,
@@ -121845,7 +123999,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"anisearch_id":17609}
 ,
 // [2024-SPRING] MOVIE: Zhu Zhu Xia Da Dianying: Xingji Xingdong
-{"mal_id":57464}
+{"anisearch_id":21678,"mal_id":57464}
 ,
 // [2015-WINTER] TV: Zhu Zhu Xia: Bai Bian Lian Meng
 {"anidb_id":13456,"anilist_id":103963,"animeplanet_id":"zhu-zhu-xia-bai-bian-lian-meng","anisearch_id":13252,"mal_id":38126}
@@ -121979,6 +124133,9 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2018-SUMMER] TV: Zhuanzhan Zhi Chao Xuan Doushi
 {"mal_id":47650}
 ,
+// [2026-SPRING] ONA: Zhuazhou
+{"anisearch_id":21595}
+,
 // [2015-FALL] TV: Zhugong Zai Na
 {"mal_id":46862}
 ,
@@ -122010,7 +124167,10 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"animeplanet_id":"zi-baobao-leyuan","mal_id":46458}
 ,
 // [2021-FALL] ONA: Zi Chuan
-{"anidb_id":16594,"anilist_id":118201,"animeplanet_id":"purple-river","mal_id":44389}
+{"anidb_id":16594,"anilist_id":118201,"animeplanet_id":"purple-river","anisearch_id":21606,"mal_id":44389}
+,
+// [2025-SUMMER] ONA: Zi Chuan (2025)
+{"anisearch_id":21607}
 ,
 // [2025-SUMMER] ONA: Zi Chuan 2
 {"anidb_id":19504}
@@ -122037,7 +124197,7 @@ export const animeOfflineDatabase: ArmEntry[] = [
 {"animeplanet_id":"zi-zuo-zi-shou","mal_id":43818}
 ,
 // [2025-SPRING] SPECIAL: Zig-Zag
-{"anilist_id":206032,"mal_id":61828}
+{"anilist_id":206032,"mal_id":63542}
 ,
 // [1991-SUMMER] MOVIE: Ziggy: Soreyuke! R&R Band
 {"anidb_id":6602,"anilist_id":11093,"animeplanet_id":"ziggy-soreyuke-rr-band","anisearch_id":9197,"mal_id":11093}
@@ -122177,11 +124337,11 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2014-SPRING] ONA: Zombie Ehon
 {"animeplanet_id":"zombie-ehon","mal_id":30090}
 ,
-// [2026-WINTER] TV: Zombie no Afureta Sekai de Ore dake ga Osowarenai
+// [2027-WINTER] TV: Zombie no Afureta Sekai de Ore dake ga Osowarenai
 {"anidb_id":18462,"anilist_id":174427,"animeplanet_id":"zombie-no-afureta-sekai-de-ore-dake-ga-osowarenai","anisearch_id":19055,"livechart_id":12518,"mal_id":57990}
 ,
-// [2026-UNDEFINED] TV: Zombie no Afureta Sekai de Ore Dake ga Osowarenai
-{}
+// [2026-SPRING] SPECIAL: Zombie Stage
+{"mal_id":64483}
 ,
 // [2022-SPRING] TV: Zombie Zoo
 {}
@@ -122213,14 +124373,11 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2001-SPRING] TV: Zone of the Enders
 {}
 ,
-// [2001-WINTER] OVA: Zone of the Enders: 2167 Idolo
-{"anidb_id":408,"anilist_id":1248,"animeplanet_id":"zone-of-the-enders-idolo","anisearch_id":3433,"livechart_id":6723,"mal_id":1248}
-,
-// [2001-SPRING] TV: Zone of the Enders: Dolores, I
-{"anidb_id":412,"anilist_id":1249,"animeplanet_id":"zone-of-the-enders-dolores","anisearch_id":1410,"livechart_id":6103,"mal_id":1249}
-,
 // [2020-WINTER] SPECIAL: Zone: Intro
 {"animeplanet_id":"way-zone-intro","mal_id":42809}
+,
+// [2024-FALL] ONA: Zong Men Li Chule Wo Dou Wodi
+{"anisearch_id":21662}
 ,
 // [2024-FALL] ONA: Zongmen Li Chule Wo Dou Shi Wodi
 {"anidb_id":18933,"anilist_id":185727,"animeplanet_id":"spy-x-sect","mal_id":59938}
@@ -122414,16 +124571,46 @@ export const animeOfflineDatabase: ArmEntry[] = [
 // [2020-UNDEFINED] ONA: εpsilonΦ PV
 {"animeplanet_id":"epsilon-phi-pv"}
 ,
-// [2023-FALL] SPECIAL: Λlteration
-{"mal_id":57260}
-,
-// [2021-SPRING] SPECIAL: 맛 (Hot Sauce) (MINIMONSTER Remix)
-{"mal_id":55172}
+// [1982-SUMMER] SPECIAL: オバケ
+{"mal_id":64322}
 ,
 // [undefined-UNDEFINED] ONA: サラリーマン山崎シゲル
 {"mal_id":63329}
 ,
-// [2025-SPRING] SPECIAL: バグラブ
-{"mal_id":61913}
+// [1967-UNDEFINED] MOVIE: ずるい狐
+{"mal_id":64164}
+,
+// [1989-UNDEFINED] UNKNOWN: たのしいおはなしシリーズ
+{"mal_id":64145}
+,
+// [undefined-UNDEFINED] MOVIE: トム君の漫画 腕白日記
+{"mal_id":64169}
+,
+// [1964-UNDEFINED] MOVIE: 三びきのこぶた
+{"mal_id":64165}
+,
+// [1931-UNDEFINED] MOVIE: 三角の世界
+{"mal_id":64366}
+,
+// [1953-UNDEFINED] MOVIE: 小人の電話
+{"mal_id":64166}
+,
+// [undefined-UNDEFINED] MOVIE: 日乃丸旗之助 ギヤング討伐
+{"mal_id":64170}
+,
+// [1930-UNDEFINED] MOVIE: 火の用心
+{"mal_id":64172}
+,
+// [2006-UNDEFINED] MOVIE: 熊野古道民話集
+{"mal_id":64243}
+,
+// [undefined-UNDEFINED] MOVIE: 熱河爆撃隊
+{"mal_id":64168}
+,
+// [1995-SUMMER] TV: 野坂昭如 戦争童話集 忘れてはイケナイ物語り
+{"mal_id":64202}
+,
+// [undefined-UNDEFINED] MOVIE: 飛行家の夢
+{"mal_id":64167}
 ,
 ]
