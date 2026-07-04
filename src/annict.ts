@@ -65954,7 +65954,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17024
 {"annict_id":17024,"mal_id":29771}
 ,
-// [null-null] TV: 信者ゼロの女神サマと始める異世界攻略
+// [2026-AUTUMN] TV: 信者ゼロの女神サマと始める異世界攻略
 // https://annict.com/works/17025
 {"annict_id":17025,"mal_id":63292}
 ,
@@ -69412,14 +69412,14 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] TV: Lv2からチートだった元勇者候補のまったり異世界ライフ 第2期
 // https://annict.com/works/17895
-{"annict_id":17895}
+{"annict_id":17895,"mal_id":64553}
 ,
 // [null-null] TV: ひとりぼっちの異世界攻略 第2期
 // https://annict.com/works/17896
-{"annict_id":17896}
+{"annict_id":17896,"mal_id":64551}
 ,
 // [null-null] TV: Sランク冒険者である俺の娘たちは重度のファザコンでした
 // https://annict.com/works/17897
-{"annict_id":17897}
+{"annict_id":17897,"mal_id":64552}
 ,
 ]
