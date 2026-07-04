@@ -10178,7 +10178,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/2550
 {"annict_id":2550,"mal_id":991,"syobocal_tid":6420}
 ,
-// [1992-SUMMER] OVA: うしおととら
+// [1992-SUMMER] OVA: うしおととら (OVA)
 // https://annict.com/works/2551
 {"annict_id":2551,"mal_id":842,"syobocal_tid":1702}
 ,
@@ -17230,7 +17230,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/4327
 {"annict_id":4327,"mal_id":29865}
 ,
-// [2015-SUMMER] TV: うしおととら (TVシリーズ)
+// [2015-SUMMER] TV: うしおととら
 // https://annict.com/works/4328
 {"annict_id":4328,"mal_id":29854,"syobocal_tid":3816}
 ,
@@ -18990,7 +18990,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/4776
 {"annict_id":4776,"mal_id":32954}
 ,
-// [2016-SPRING] TV: うしおととら (TVシリーズ・第3クール)
+// [2016-SPRING] TV: うしおととら (第2シーズン)
 // https://annict.com/works/4777
 {"annict_id":4777,"mal_id":31098,"syobocal_tid":4115}
 ,
@@ -69409,5 +69409,13 @@ export const annict: ArmEntry[] = [
 // [1994-AUTUMN] MOVIE: 蒼き伝説シュート！(劇場版)
 // https://annict.com/works/17894
 {"annict_id":17894}
+,
+// [null-null] TV: Lv2からチートだった元勇者候補のまったり異世界ライフ 第2期
+// https://annict.com/works/17895
+{"annict_id":17895}
+,
+// [null-null] TV: ひとりぼっちの異世界攻略 第2期
+// https://annict.com/works/17896
+{"annict_id":17896}
 ,
 ]
