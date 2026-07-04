@@ -59734,7 +59734,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15460
 {"annict_id":15460,"mal_id":40111}
 ,
-// [null-null] OTHER: 気になってる人が男じゃなかった
+// [2027-WINTER] TV: 気になってる人が男じゃなかった
 // https://annict.com/works/15461
 {"annict_id":15461,"mal_id":61035}
 ,
@@ -63182,7 +63182,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16324
 {"annict_id":16324}
 ,
-// [null-null] TV: 運命の巻戻士
+// [2027-SPRING] TV: 運命の巻戻士
 // https://annict.com/works/16325
 {"annict_id":16325,"mal_id":62024}
 ,
@@ -64178,7 +64178,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16576
 {"annict_id":16576}
 ,
-// [null-null] TV: 盾の勇者の成り上がり Season5
+// [2027-null] TV: 盾の勇者の成り上がり Season5
 // https://annict.com/works/16577
 {"annict_id":16577,"mal_id":62564}
 ,
@@ -67278,7 +67278,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17358
 {"annict_id":17358,"mal_id":63823}
 ,
-// [2026-AUTUMN] WEB: スティール・ボール・ラン ジョジョの奇妙な冒険 2nd STAGE
+// [2026-AUTUMN] WEB: スティール・ボール・ラン ジョジョの奇妙な冒険 2nd STAGE & 3rd STAGE
 // https://annict.com/works/17359
 {"annict_id":17359}
 ,
@@ -69349,5 +69349,45 @@ export const annict: ArmEntry[] = [
 // [2003-null] OTHER: メンタンピンタワレコ
 // https://annict.com/works/17879
 {"annict_id":17879}
+,
+// [null-null] MOVIE: 劇場版 俺だけレベルアップな件 -Beyond the System-
+// https://annict.com/works/17880
+{"annict_id":17880,"mal_id":64546}
+,
+// [2026-SUMMER] WEB: スター・ウォーズ：ビジョンズ／九人目のジェダイ
+// https://annict.com/works/17881
+{"annict_id":17881,"mal_id":61546}
+,
+// [2002-AUTUMN] OVA: HAL&BONS
+// https://annict.com/works/17882
+{"annict_id":17882,"mal_id":3516}
+,
+// [2006-SPRING] OVA: new HAL&BONS
+// https://annict.com/works/17883
+{"annict_id":17883,"mal_id":3517}
+,
+// [null-null] TV: Here U Are
+// https://annict.com/works/17884
+{"annict_id":17884,"mal_id":64544}
+,
+// [2015-SPRING] WEB: BART＆CHAPY
+// https://annict.com/works/17885
+{"annict_id":17885}
+,
+// [2015-SUMMER] WEB: BART＆CHAPY SEASON2
+// https://annict.com/works/17886
+{"annict_id":17886}
+,
+// [2016-SPRING] WEB: YOKOHAMA DeNA BAYSTARS VS BART&CHAPY 2016
+// https://annict.com/works/17887
+{"annict_id":17887}
+,
+// [2016-SPRING] WEB: BART&CHAPY SEASON3
+// https://annict.com/works/17888
+{"annict_id":17888}
+,
+// [2016-SUMMER] WEB: BART&CHAPY SEASON4
+// https://annict.com/works/17889
+{"annict_id":17889}
 ,
 ]
