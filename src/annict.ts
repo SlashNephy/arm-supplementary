@@ -67278,7 +67278,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17358
 {"annict_id":17358,"mal_id":63823}
 ,
-// [2026-AUTUMN] WEB: スティール・ボール・ラン ジョジョの奇妙な冒険 2nd STAGE & 3rd STAGE
+// [2026-AUTUMN] WEB: スティール・ボール・ラン ジョジョの奇妙な冒険 2nd & 3rd STAGE
 // https://annict.com/works/17359
 {"annict_id":17359}
 ,
@@ -69389,5 +69389,21 @@ export const annict: ArmEntry[] = [
 // [2016-SUMMER] WEB: BART&CHAPY SEASON4
 // https://annict.com/works/17889
 {"annict_id":17889}
+,
+// [2016-AUTUMN] WEB: BART&CHAPY SEASON5
+// https://annict.com/works/17890
+{"annict_id":17890}
+,
+// [2017-SPRING] WEB: YOKOHAMA DeNA BAYSTARS VS BART&CHAPY 2017
+// https://annict.com/works/17891
+{"annict_id":17891}
+,
+// [2017-WINTER] WEB: ぷるぽん
+// https://annict.com/works/17892
+{"annict_id":17892,"mal_id":34949}
+,
+// [2026-SPRING] WEB: ウサビッチ 20周年の時間
+// https://annict.com/works/17893
+{"annict_id":17893}
 ,
 ]
