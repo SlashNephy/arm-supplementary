@@ -69418,4 +69418,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17896
 {"annict_id":17896}
 ,
+// [null-null] TV: Sランク冒険者である俺の娘たちは重度のファザコンでした
+// https://annict.com/works/17897
+{"annict_id":17897}
+,
 ]
