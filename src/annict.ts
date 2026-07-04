@@ -61650,7 +61650,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15940
 {"annict_id":15940,"mal_id":48311}
 ,
-// [null-null] TV: 生徒会にも穴はある！
+// [2026-AUTUMN] TV: 生徒会にも穴はある！
 // https://annict.com/works/15941
 {"annict_id":15941,"mal_id":61578}
 ,
@@ -69405,5 +69405,9 @@ export const annict: ArmEntry[] = [
 // [2026-SPRING] WEB: ウサビッチ 20周年の時間
 // https://annict.com/works/17893
 {"annict_id":17893}
+,
+// [1994-AUTUMN] MOVIE: 蒼き伝説シュート！(劇場版)
+// https://annict.com/works/17894
+{"annict_id":17894}
 ,
 ]
