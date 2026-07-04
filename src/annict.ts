@@ -50850,7 +50850,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/13232
 {"annict_id":13232}
 ,
-// [null-null] TV: ダンジョン飯 第2期
+// [2027-AUTUMN] TV: ダンジョン飯 Season2
 // https://annict.com/works/13233
 {"annict_id":13233,"mal_id":59068}
 ,
@@ -54428,7 +54428,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: 逃げ上手の若君 第二期
 // https://annict.com/works/14132
-{"annict_id":14132,"mal_id":60059}
+{"annict_id":14132,"mal_id":60059,"syobocal_tid":7953}
 ,
 // [2018-SUMMER] OTHER: メカウデ パイロットエピソード
 // https://annict.com/works/14133
