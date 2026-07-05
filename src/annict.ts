@@ -63058,7 +63058,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16293
 {"annict_id":16293,"mal_id":62037}
 ,
-// [2026-null] MOVIE: GROTESQQQUE -グロテスク-
+// [2026-AUTUMN] MOVIE: GROTESQQQUE -グロテスク-
 // https://annict.com/works/16294
 {"annict_id":16294,"mal_id":59217}
 ,
@@ -66552,7 +66552,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] WEB: Welcome to Sucre Town ~The Cinnamoroll Friends’ Happy Discovery~
 // https://annict.com/works/17175
-{"annict_id":17175}
+{"annict_id":17175,"mal_id":64538}
 ,
 // [2006-SPRING] TV: ポンポン ポロロ
 // https://annict.com/works/17176
@@ -69118,7 +69118,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17821
 {"annict_id":17821,"mal_id":64463}
 ,
-// [null-null] TV: レベルロボチカ
+// [2027-null] TV: レベルロボチカ
 // https://annict.com/works/17822
 {"annict_id":17822,"mal_id":64462}
 ,
@@ -69421,5 +69421,17 @@ export const annict: ArmEntry[] = [
 // [null-null] TV: Sランク冒険者である俺の娘たちは重度のファザコンでした
 // https://annict.com/works/17897
 {"annict_id":17897,"mal_id":64552}
+,
+// [2027-null] TV: MURCIÉLAGO-ムルシエラゴ-
+// https://annict.com/works/17898
+{"annict_id":17898,"mal_id":64555}
+,
+// [null-null] OTHER: 竜化粧の忍
+// https://annict.com/works/17899
+{"annict_id":17899,"mal_id":64556}
+,
+// [2026-SUMMER] WEB: レッツロール！シナモロール シーズン2
+// https://annict.com/works/17900
+{"annict_id":17900,"mal_id":64537}
 ,
 ]
