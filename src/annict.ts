@@ -65042,7 +65042,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16795
 {"annict_id":16795,"mal_id":12065,"syobocal_tid":6095}
 ,
-// [2026-null] TV: デモンズ・クレスト
+// [2026-AUTUMN] WEB: デモンズ・クレスト
 // https://annict.com/works/16796
 {"annict_id":16796,"mal_id":63045}
 ,
@@ -69437,5 +69437,9 @@ export const annict: ArmEntry[] = [
 // [2026-SUMMER] TV: 魔法少女ふらぴゅあ Shiny bouquet
 // https://annict.com/works/17901
 {"annict_id":17901}
+,
+// [2026-SUMMER] MOVIE: 幻想水滸伝 先行プレミアム上映
+// https://annict.com/works/17902
+{"annict_id":17902}
 ,
 ]
