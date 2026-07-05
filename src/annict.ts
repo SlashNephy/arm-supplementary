@@ -69434,4 +69434,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17900
 {"annict_id":17900,"mal_id":64537}
 ,
+// [2026-SUMMER] TV: 魔法少女ふらぴゅあ Shiny bouquet
+// https://annict.com/works/17901
+{"annict_id":17901}
+,
 ]
