@@ -66614,7 +66614,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17190
 {"annict_id":17190,"mal_id":63973}
 ,
-// [2026-WINTER] TV: 劇場版 ポロロ コンピュータ王国大冒険 日本語版
+// [2026-WINTER] MOVIE: 劇場版 ポロロ コンピュータ王国大冒険 日本語版
 // https://annict.com/works/17191
 {"annict_id":17191,"mal_id":48240}
 ,
@@ -69441,5 +69441,93 @@ export const annict: ArmEntry[] = [
 // [2026-SUMMER] MOVIE: 幻想水滸伝 先行プレミアム上映
 // https://annict.com/works/17902
 {"annict_id":17902}
+,
+// [2025-SUMMER] MOVIE: ブルーイ in シネマ
+// https://annict.com/works/17903
+{"annict_id":17903}
+,
+// [2026-SPRING] MOVIE: ブルーイ in シネマ みちしるべ
+// https://annict.com/works/17904
+{"annict_id":17904}
+,
+// [2021-SPRING] WEB: ブリッピーのふしぎがいっぱい（シーズン１）
+// https://annict.com/works/17905
+{"annict_id":17905}
+,
+// [2022-SUMMER] WEB: ブリッピーのふしぎがいっぱい（シーズン２）
+// https://annict.com/works/17906
+{"annict_id":17906}
+,
+// [2023-WINTER] MOVIE: ポロロ レーシングアドベンチャー
+// https://annict.com/works/17907
+{"annict_id":17907}
+,
+// [2024-AUTUMN] MOVIE: ポロロ 雪の妖精村大冒険
+// https://annict.com/works/17908
+{"annict_id":17908}
+,
+// [2023-SPRING] WEB: きょうりゅうようちえん
+// https://annict.com/works/17909
+{"annict_id":17909}
+,
+// [2019-AUTUMN] WEB: バスのバスター（シーズン１）
+// https://annict.com/works/17910
+{"annict_id":17910}
+,
+// [2021-AUTUMN] WEB: バスのバスター（シーズン２）
+// https://annict.com/works/17911
+{"annict_id":17911}
+,
+// [2023-SPRING] WEB: バスのバスター（シーズン３）
+// https://annict.com/works/17912
+{"annict_id":17912}
+,
+// [2022-AUTUMN] WEB: バスのバスター・リチャージド
+// https://annict.com/works/17913
+{"annict_id":17913}
+,
+// [2026-SPRING] WEB: ポロロ 病院ごっこ童話
+// https://annict.com/works/17914
+{"annict_id":17914}
+,
+// [2023-WINTER] WEB: ポロロTHE MOVIE：ウイルスモンスターを退治せよ！
+// https://annict.com/works/17915
+{"annict_id":17915}
+,
+// [2022-AUTUMN] WEB: ポロロ 童話の世界
+// https://annict.com/works/17916
+{"annict_id":17916}
+,
+// [2023-WINTER] WEB: ポロロTHE MOVIE：ドラゴン王国の大冒険
+// https://annict.com/works/17917
+{"annict_id":17917}
+,
+// [2026-SPRING] WEB: ポロロとサメの宝のお城
+// https://annict.com/works/17918
+{"annict_id":17918}
+,
+// [2024-AUTUMN] MOVIE: カンフー・パンダ４　伝説のマスター降臨
+// https://annict.com/works/17919
+{"annict_id":17919}
+,
+// [2009-SPRING] OVA: マスター・ファイブの秘密
+// https://annict.com/works/17920
+{"annict_id":17920}
+,
+// [2011-SUMMER] OVA: カンフー・パンダ マスターへの道
+// https://annict.com/works/17921
+{"annict_id":17921}
+,
+// [2010-AUTUMN] OVA: カンフー・パンダ ホリデイ
+// https://annict.com/works/17922
+{"annict_id":17922}
+,
+// [2019-SPRING] MOVIE: アグリードール
+// https://annict.com/works/17923
+{"annict_id":17923}
+,
+// [2020-WINTER] TV: トロールズ シング・ダンス・ハグ！（シーズン２）
+// https://annict.com/works/17924
+{"annict_id":17924}
 ,
 ]
