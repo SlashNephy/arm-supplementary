@@ -67982,7 +67982,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17535
 {"annict_id":17535,"mal_id":64079}
 ,
-// [null-null] MOVIE: ソードアート・オンライン 完全新作オリジナル劇場版
+// [2028-null] MOVIE: 劇場版 ソードアート・オンライン - インテグラル・ドメイン -
 // https://annict.com/works/17536
 {"annict_id":17536,"mal_id":53529}
 ,
@@ -69460,11 +69460,11 @@ export const annict: ArmEntry[] = [
 ,
 // [2023-WINTER] MOVIE: ポロロ レーシングアドベンチャー
 // https://annict.com/works/17907
-{"annict_id":17907}
+{"annict_id":17907,"mal_id":27463}
 ,
 // [2024-AUTUMN] MOVIE: ポロロ 雪の妖精村大冒険
 // https://annict.com/works/17908
-{"annict_id":17908}
+{"annict_id":17908,"mal_id":48238}
 ,
 // [2023-SPRING] WEB: きょうりゅうようちえん
 // https://annict.com/works/17909
@@ -69492,7 +69492,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2023-WINTER] WEB: ポロロTHE MOVIE：ウイルスモンスターを退治せよ！
 // https://annict.com/works/17915
-{"annict_id":17915}
+{"annict_id":17915,"mal_id":59021}
 ,
 // [2022-AUTUMN] WEB: ポロロ 童話の世界
 // https://annict.com/works/17916
@@ -69500,7 +69500,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2023-WINTER] WEB: ポロロTHE MOVIE：ドラゴン王国の大冒険
 // https://annict.com/works/17917
-{"annict_id":17917}
+{"annict_id":17917,"mal_id":59015}
 ,
 // [2026-SPRING] WEB: ポロロとサメの宝のお城
 // https://annict.com/works/17918
