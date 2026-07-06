@@ -68630,7 +68630,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17697
 {"annict_id":17697}
 ,
-// [2026-null] TV: ルパン三世傑作選
+// [2026-AUTUMN] TV: ルパン三世傑作選
 // https://annict.com/works/17698
 {"annict_id":17698}
 ,
