@@ -60978,7 +60978,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15771
 {"annict_id":15771,"mal_id":21541}
 ,
-// [null-null] TV: 魔のものたちは企てる
+// [2027-null] TV: 魔のものたちは企てる
 // https://annict.com/works/15772
 {"annict_id":15772,"mal_id":61301}
 ,
@@ -64930,7 +64930,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16767
 {"annict_id":16767,"mal_id":63038}
 ,
-// [null-null] OTHER: えぶりでいホスト 続編
+// [2027-WINTER] TV: えぶりでいホスト 続編
 // https://annict.com/works/16768
 {"annict_id":16768,"mal_id":63035}
 ,
@@ -69536,6 +69536,6 @@ export const annict: ArmEntry[] = [
 ,
 // [2027-null] TV: ７人の眠り姫
 // https://annict.com/works/17926
-{"annict_id":17926}
+{"annict_id":17926,"mal_id":64569}
 ,
 ]
