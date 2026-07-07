@@ -68754,7 +68754,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17728
 {"annict_id":17728}
 ,
-// [2026-SUMMER] WEB: うしろの正面カムイさん ミニアニメ
+// [2026-SUMMER] WEB: うしろの正面カムイさん ミニアニメ劇場
 // https://annict.com/works/17729
 {"annict_id":17729}
 ,
