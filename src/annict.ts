@@ -35054,7 +35054,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/9235
 {"annict_id":9235,"mal_id":50663,"syobocal_tid":6438}
 ,
-// [2026-null] MOVIE: 魔法使いの夜
+// [2026-AUTUMN] MOVIE: 魔法使いの夜
 // https://annict.com/works/9236
 {"annict_id":9236,"mal_id":50668}
 ,
@@ -69529,5 +69529,9 @@ export const annict: ArmEntry[] = [
 // [2020-WINTER] TV: トロールズ シング・ダンス・ハグ！（シーズン２）
 // https://annict.com/works/17924
 {"annict_id":17924}
+,
+// [2026-SUMMER] TV: コードギアス 奪還のロゼ Prologue
+// https://annict.com/works/17925
+{"annict_id":17925}
 ,
 ]
