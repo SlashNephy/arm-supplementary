@@ -69534,4 +69534,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17925
 {"annict_id":17925}
 ,
+// [2027-null] TV: ７人の眠り姫
+// https://annict.com/works/17926
+{"annict_id":17926}
+,
 ]
