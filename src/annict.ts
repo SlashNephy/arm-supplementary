@@ -69340,7 +69340,7 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] OTHER: ミルキー☆バイウェイ スプリングスペシャル "恐怖のチェロビン・パーティー"
 // https://annict.com/works/17877
-{"annict_id":17877}
+{"annict_id":17877,"mal_id":64554}
 ,
 // [2026-null] MOVIE: 砂塵ノ中デ
 // https://annict.com/works/17878
