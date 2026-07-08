@@ -22130,15 +22130,15 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/5569
 {"annict_id":5569,"mal_id":34281,"syobocal_tid":4857}
 ,
-// [2017-AUTUMN] MOVIE: フルメタル・パニック！ ディレクターズカット版 第1部「ボーイ・ミーツ・ガール」編
+// [2017-AUTUMN] MOVIE: フルメタル・パニック！ ボーイ・ミーツ・ガール
 // https://annict.com/works/5570
 {"annict_id":5570}
 ,
-// [2018-WINTER] MOVIE: フルメタル・パニック！ ディレクターズカット版 第2部「ワン・ナイト・スタンド」編
+// [2018-WINTER] MOVIE: フルメタル・パニック！ ワン・ナイト・スタンド
 // https://annict.com/works/5571
 {"annict_id":5571}
 ,
-// [2018-WINTER] MOVIE: フルメタル・パニック！ ディレクターズカット版 第3部「イントゥ・ザ・ブルー」編
+// [2018-WINTER] MOVIE: フルメタル・パニック！ イントゥ・ザ・ブルー
 // https://annict.com/works/5572
 {"annict_id":5572}
 ,
