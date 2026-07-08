@@ -69538,4 +69538,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17926
 {"annict_id":17926,"mal_id":64569}
 ,
+// [2026-SUMMER] TV: SEALOOK 2nd season
+// https://annict.com/works/17927
+{"annict_id":17927}
+,
+// [null-null] TV: 私をセンターにすると誓いますか？
+// https://annict.com/works/17928
+{"annict_id":17928,"mal_id":64573}
+,
 ]
