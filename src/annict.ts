@@ -69546,4 +69546,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17928
 {"annict_id":17928,"mal_id":64573}
 ,
+// [null-null] MOVIE: 魔法のない世界で生きるということ（劇場版）
+// https://annict.com/works/17929
+{"annict_id":17929}
+,
 ]
