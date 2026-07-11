@@ -69550,4 +69550,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17929
 {"annict_id":17929}
 ,
+// [null-null] OTHER: ノンタン 新作アニメ
+// https://annict.com/works/17930
+{"annict_id":17930}
+,
 ]
