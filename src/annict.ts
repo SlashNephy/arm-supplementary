@@ -67924,7 +67924,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: 地球大好き！きっくん
 // https://annict.com/works/17521
-{"annict_id":17521}
+{"annict_id":17521,"mal_id":64578}
 ,
 // [2026-SPRING] WEB: あんた私のことを好きだったの？
 // https://annict.com/works/17522
@@ -69292,7 +69292,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] MOVIE: るすばん
 // https://annict.com/works/17865
-{"annict_id":17865}
+{"annict_id":17865,"mal_id":64580}
 ,
 // [2004-WINTER] MOVIE: ピノキオ3000
 // https://annict.com/works/17866
@@ -69540,7 +69540,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: SEALOOK 2nd season
 // https://annict.com/works/17927
-{"annict_id":17927}
+{"annict_id":17927,"mal_id":64579}
 ,
 // [null-null] TV: 私をセンターにすると誓いますか？
 // https://annict.com/works/17928
@@ -69553,5 +69553,9 @@ export const annict: ArmEntry[] = [
 // [null-null] OTHER: ノンタン 新作アニメ
 // https://annict.com/works/17930
 {"annict_id":17930}
+,
+// [2026-SUMMER] WEB: ひまなひなひまなまま
+// https://annict.com/works/17931
+{"annict_id":17931}
 ,
 ]
