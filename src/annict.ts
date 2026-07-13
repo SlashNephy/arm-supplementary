@@ -69560,10 +69560,18 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] WEB: モブサイコ100 10周年記念特別映像
 // https://annict.com/works/17932
-{"annict_id":17932}
+{"annict_id":17932,"mal_id":64597}
 ,
 // [2027-null] OTHER: モンスターストライク 新シリーズ
 // https://annict.com/works/17933
 {"annict_id":17933}
+,
+// [null-null] TV: のあ先輩はともだち。
+// https://annict.com/works/17934
+{"annict_id":17934,"mal_id":64599}
+,
+// [2026-AUTUMN] TV: 紫禁・御猫房〜紫禁城猫警備室〜
+// https://annict.com/works/17935
+{"annict_id":17935,"mal_id":61640}
 ,
 ]
