@@ -69574,4 +69574,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17935
 {"annict_id":17935,"mal_id":61640}
 ,
+// [2027-WINTER] TV: 傷口と包帯
+// https://annict.com/works/17936
+{"annict_id":17936,"mal_id":64600}
+,
 ]
