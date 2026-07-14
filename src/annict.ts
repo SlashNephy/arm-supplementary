@@ -69580,7 +69580,7 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] TV: 虎鶫　－ＴＳＵＧＵＭＩ　ＰＲＯＪＥＣＴ－
 // https://annict.com/works/17937
-{"annict_id":17937}
+{"annict_id":17937,"mal_id":64608}
 ,
 // [2026-SPRING] WEB: 腐男子召喚～異世界で神獣にハメられました～ 11th
 // https://annict.com/works/17938
