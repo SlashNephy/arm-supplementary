@@ -69578,4 +69578,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17936
 {"annict_id":17936,"mal_id":64600}
 ,
+// [null-null] TV: 虎鶫　－ＴＳＵＧＵＭＩ　ＰＲＯＪＥＣＴ－
+// https://annict.com/works/17937
+{"annict_id":17937}
+,
 ]
