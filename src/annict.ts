@@ -67030,7 +67030,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17296
 {"annict_id":17296,"mal_id":63752,"syobocal_tid":7915}
 ,
-// [2026-null] TV: 彼方から
+// [2026-AUTUMN] TV: 彼方から
 // https://annict.com/works/17297
 {"annict_id":17297,"mal_id":63753}
 ,
