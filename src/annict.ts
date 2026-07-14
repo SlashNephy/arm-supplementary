@@ -67080,7 +67080,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] WEB: 機動武闘伝Gガンダム 30周年記念ファイティングムービー
 // https://annict.com/works/17309
-{"annict_id":17309}
+{"annict_id":17309,"mal_id":64603}
 ,
 // [2025-SUMMER] WEB: 新機動戦記ガンダムW-Operation30th-
 // https://annict.com/works/17310
@@ -69581,5 +69581,9 @@ export const annict: ArmEntry[] = [
 // [null-null] TV: 虎鶫　－ＴＳＵＧＵＭＩ　ＰＲＯＪＥＣＴ－
 // https://annict.com/works/17937
 {"annict_id":17937}
+,
+// [2026-SPRING] WEB: 腐男子召喚～異世界で神獣にハメられました～ 11th
+// https://annict.com/works/17938
+{"annict_id":17938,"mal_id":64607}
 ,
 ]
