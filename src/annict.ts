@@ -43946,7 +43946,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/11497
 {"annict_id":11497,"mal_id":7721}
 ,
-// [2009-AUTUMN] TV: 炬燵猫
+// [2009-AUTUMN] TV: 炬燵猫（TVアニメ）
 // https://annict.com/works/11498
 {"annict_id":11498,"mal_id":7189,"syobocal_tid":1761}
 ,
@@ -69585,5 +69585,9 @@ export const annict: ArmEntry[] = [
 // [2026-SPRING] WEB: 腐男子召喚～異世界で神獣にハメられました～ 11th
 // https://annict.com/works/17938
 {"annict_id":17938,"mal_id":64607}
+,
+// [2007-WINTER] MOVIE: 炬燵猫（映画）
+// https://annict.com/works/17939
+{"annict_id":17939}
 ,
 ]
