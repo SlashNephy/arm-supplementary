@@ -68412,7 +68412,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] WEB: ようじょしぇんき2
 // https://annict.com/works/17643
-{"annict_id":17643}
+{"annict_id":17643,"mal_id":64577}
 ,
 // [2026-SPRING] OTHER: 転生した暗殺者は剣術の天才
 // https://annict.com/works/17644
