@@ -63606,7 +63606,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16431
 {"annict_id":16431,"mal_id":62193}
 ,
-// [null-null] OTHER: 欠けた月のメルセデス～吸血鬼の貴族に転生したけど捨てられそうなのでダンジョンを制覇する～
+// [2027-WINTER] TV: 欠けた月のメルセデス
 // https://annict.com/works/16432
 {"annict_id":16432,"mal_id":62188}
 ,
