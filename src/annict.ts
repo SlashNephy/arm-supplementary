@@ -67230,7 +67230,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17346
 {"annict_id":17346,"mal_id":63807}
 ,
-// [2026-AUTUMN] MOVIE: 縁の手紙
+// [2026-SUMMER] MOVIE: 縁の手紙
 // https://annict.com/works/17347
 {"annict_id":17347,"mal_id":60020}
 ,
