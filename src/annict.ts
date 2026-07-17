@@ -69602,4 +69602,16 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17942
 {"annict_id":17942}
 ,
+// [2021-AUTUMN] TV: きっと明日は好きになる
+// https://annict.com/works/17943
+{"annict_id":17943}
+,
+// [2026-SUMMER] TV: クロノブレイバーズ
+// https://annict.com/works/17944
+{"annict_id":17944}
+,
+// [2026-SUMMER] TV: あづあやかし
+// https://annict.com/works/17945
+{"annict_id":17945}
+,
 ]
