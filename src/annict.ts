@@ -66392,7 +66392,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: パーフェクトアディクション
 // https://annict.com/works/17134
-{"annict_id":17134,"mal_id":63514}
+{"annict_id":17134,"mal_id":63514,"syobocal_tid":7964}
 ,
 // [2025-AUTUMN] WEB: 同志社創立150周年記念アニメーション「二百年の夢を見た。」
 // https://annict.com/works/17135
@@ -68756,7 +68756,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] WEB: うしろの正面カムイさん ミニアニメ劇場
 // https://annict.com/works/17729
-{"annict_id":17729}
+{"annict_id":17729,"mal_id":64543}
 ,
 // [null-null] OTHER: 別れるために色仕掛けしてみた
 // https://annict.com/works/17730
@@ -69589,5 +69589,17 @@ export const annict: ArmEntry[] = [
 // [2007-WINTER] MOVIE: 炬燵猫（映画）
 // https://annict.com/works/17939
 {"annict_id":17939}
+,
+// [2026-SUMMER] WEB: LEGO スター・ウォーズ／マンダロリアン
+// https://annict.com/works/17940
+{"annict_id":17940}
+,
+// [2026-SUMMER] WEB: 冒険大陸 アニアキングダム ドラゴン島の戦い編
+// https://annict.com/works/17941
+{"annict_id":17941}
+,
+// [2026-AUTUMN] TV: dreamland
+// https://annict.com/works/17942
+{"annict_id":17942}
 ,
 ]
