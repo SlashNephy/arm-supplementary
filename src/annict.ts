@@ -69614,4 +69614,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17945
 {"annict_id":17945}
 ,
+// [2025-AUTUMN] MOVIE: 空色のアルバ
+// https://annict.com/works/17946
+{"annict_id":17946}
+,
 ]
