@@ -67178,7 +67178,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17333
 {"annict_id":17333,"mal_id":64378,"syobocal_tid":7911}
 ,
-// [null-null] TV: 真夜中ハートチューン 第2期
+// [2027-null] TV: 真夜中ハートチューン 第2期
 // https://annict.com/works/17334
 {"annict_id":17334,"mal_id":63789}
 ,
