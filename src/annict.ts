@@ -69618,4 +69618,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17946
 {"annict_id":17946}
 ,
+// [2027-null] TV: 現実もたまには嘘をつく
+// https://annict.com/works/17947
+{"annict_id":17947}
+,
 ]
