@@ -69630,4 +69630,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17949
 {"annict_id":17949}
 ,
+// [2026-SPRING] WEB: ボックスパーティー
+// https://annict.com/works/17950
+{"annict_id":17950,"mal_id":64641}
+,
 ]
