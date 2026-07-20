@@ -42262,7 +42262,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/11076
 {"annict_id":11076,"mal_id":52107}
 ,
-// [null-null] MOVIE: Fate/kaleid liner プリズマ☆イリヤ Licht 続編
+// [2027-null] TV: Fate/kaleid liner プリズマ☆イリヤ FINALE
 // https://annict.com/works/11077
 {"annict_id":11077,"mal_id":49703}
 ,
@@ -69620,6 +69620,14 @@ export const annict: ArmEntry[] = [
 ,
 // [2027-null] TV: 現実もたまには嘘をつく
 // https://annict.com/works/17947
-{"annict_id":17947}
+{"annict_id":17947,"mal_id":64640}
+,
+// [null-null] TV: ゆらゆらQ
+// https://annict.com/works/17948
+{"annict_id":17948,"mal_id":64643}
+,
+// [2026-SUMMER] WEB: 「コードギアス 奪還のロゼ」幕間ミニドラマ
+// https://annict.com/works/17949
+{"annict_id":17949}
 ,
 ]
