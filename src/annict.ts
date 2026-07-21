@@ -69634,4 +69634,16 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17950
 {"annict_id":17950,"mal_id":64641}
 ,
+// [1998-SUMMER] OVA: 万能文化猫娘 特別編
+// https://annict.com/works/17951
+{"annict_id":17951,"mal_id":3232}
+,
+// [2016-SPRING] WEB: ふらいんぐうぃっち ぷち 告知編
+// https://annict.com/works/17952
+{"annict_id":17952}
+,
+// [2016-SPRING] OVA: ふらいんぐうぃっち ぷち 特別編
+// https://annict.com/works/17953
+{"annict_id":17953,"mal_id":33681}
+,
 ]
