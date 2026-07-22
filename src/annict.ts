@@ -69646,4 +69646,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17953
 {"annict_id":17953,"mal_id":33681}
 ,
+// [2027-null] TV: スタジオカバナ
+// https://annict.com/works/17954
+{"annict_id":17954}
+,
 ]
