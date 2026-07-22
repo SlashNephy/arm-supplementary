@@ -65530,7 +65530,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16918
 {"annict_id":16918}
 ,
-// [2026-AUTUMN] OVA: 魔法のプリンセス ミンキーモモ 憧れの夢へ まごころの二重奏
+// [2026-AUTUMN] MOVIE: 魔法のプリンセス ミンキーモモ 憧れの夢へ まごころの二重奏
 // https://annict.com/works/16919
 {"annict_id":16919,"mal_id":63167}
 ,
@@ -69648,6 +69648,6 @@ export const annict: ArmEntry[] = [
 ,
 // [2027-null] TV: スタジオカバナ
 // https://annict.com/works/17954
-{"annict_id":17954}
+{"annict_id":17954,"mal_id":64658}
 ,
 ]
