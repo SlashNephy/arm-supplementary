@@ -69670,4 +69670,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17959
 {"annict_id":17959,"mal_id":64665}
 ,
+// [2027-null] OTHER: 機動戦士ガンダムRG XARX-ZERO
+// https://annict.com/works/17960
+{"annict_id":17960}
+,
 ]
