@@ -69672,6 +69672,10 @@ export const annict: ArmEntry[] = [
 ,
 // [2027-null] OTHER: 機動戦士ガンダムRG XARX-ZERO
 // https://annict.com/works/17960
-{"annict_id":17960}
+{"annict_id":17960,"mal_id":64667}
+,
+// [2027-SPRING] MOVIE: 映画ドラえもん のび太の蒸気時間車
+// https://annict.com/works/17961
+{"annict_id":17961}
 ,
 ]
