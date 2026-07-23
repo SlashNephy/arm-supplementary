@@ -69654,4 +69654,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17955
 {"annict_id":17955}
 ,
+// [null-null] TV: 楠木さんは高校デビューに失敗している
+// https://annict.com/works/17956
+{"annict_id":17956}
+,
 ]
