@@ -5042,7 +5042,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/1262
 {"annict_id":1262,"mal_id":14397,"syobocal_tid":2875}
 ,
-// [1990-WINTER] TV: ちびまる子ちゃん
+// [1995-WINTER] TV: ちびまる子ちゃん
 // https://annict.com/works/1263
 {"annict_id":1263,"mal_id":6149,"syobocal_tid":1169}
 ,
@@ -69657,5 +69657,13 @@ export const annict: ArmEntry[] = [
 // [null-null] TV: 楠木さんは高校デビューに失敗している
 // https://annict.com/works/17956
 {"annict_id":17956}
+,
+// [2025-SPRING] WEB: おぼっちゃまくん（インド）
+// https://annict.com/works/17957
+{"annict_id":17957}
+,
+// [1990-WINTER] TV: ちびまる子ちゃん (1990)
+// https://annict.com/works/17958
+{"annict_id":17958,"mal_id":951}
 ,
 ]
