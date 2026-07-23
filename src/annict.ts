@@ -69650,4 +69650,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17954
 {"annict_id":17954,"mal_id":64658}
 ,
+// [2026-SUMMER] TV: ごーすと・みーつ・ぎゃる！
+// https://annict.com/works/17955
+{"annict_id":17955}
+,
 ]
