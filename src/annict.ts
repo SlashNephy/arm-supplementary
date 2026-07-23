@@ -69656,7 +69656,7 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] TV: 楠木さんは高校デビューに失敗している
 // https://annict.com/works/17956
-{"annict_id":17956}
+{"annict_id":17956,"mal_id":64664}
 ,
 // [2025-SPRING] WEB: おぼっちゃまくん（インド）
 // https://annict.com/works/17957
@@ -69665,5 +69665,9 @@ export const annict: ArmEntry[] = [
 // [1990-WINTER] TV: ちびまる子ちゃん (1990)
 // https://annict.com/works/17958
 {"annict_id":17958,"mal_id":951}
+,
+// [null-null] TV: 真の聖女である私は追放されました。だからこの国はもう終わりです
+// https://annict.com/works/17959
+{"annict_id":17959,"mal_id":64665}
 ,
 ]
