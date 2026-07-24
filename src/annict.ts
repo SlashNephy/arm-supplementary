@@ -69678,4 +69678,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17961
 {"annict_id":17961}
 ,
+// [2026-SUMMER] WEB: 甲鉄城のカバネリ 無名爛漫 フィギュア発売記念ムービー
+// https://annict.com/works/17962
+{"annict_id":17962}
+,
+// [2026-SUMMER] WEB: 超電磁ロボ コン・バトラーV 50周年記念アニメーション
+// https://annict.com/works/17963
+{"annict_id":17963}
+,
 ]
