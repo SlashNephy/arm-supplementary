@@ -69680,10 +69680,18 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] WEB: 甲鉄城のカバネリ 無名爛漫 フィギュア発売記念ムービー
 // https://annict.com/works/17962
-{"annict_id":17962}
+{"annict_id":17962,"mal_id":64672}
 ,
 // [2026-SUMMER] WEB: 超電磁ロボ コン・バトラーV 50周年記念アニメーション
 // https://annict.com/works/17963
 {"annict_id":17963}
+,
+// [2026-SPRING] TV: 伝えたい想いのそばに 碧い海商店街
+// https://annict.com/works/17964
+{"annict_id":17964}
+,
+// [2026-SUMMER] WEB: 天狗刀戦
+// https://annict.com/works/17965
+{"annict_id":17965,"mal_id":64668}
 ,
 ]
