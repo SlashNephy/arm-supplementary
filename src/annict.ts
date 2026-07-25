@@ -69698,4 +69698,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17966
 {"annict_id":17966}
 ,
+// [null-null] MOVIE: 新作劇場アニメーション作品『銀河鉄道999』
+// https://annict.com/works/17967
+{"annict_id":17967}
+,
 ]
