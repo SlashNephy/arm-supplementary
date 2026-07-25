@@ -69694,4 +69694,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17965
 {"annict_id":17965,"mal_id":64668}
 ,
+// [2026-SUMMER] WEB: 『名探偵コナン』×『鳥人間コンテスト2026』コラボプロモーションムービー「鳥になりたい探偵団」
+// https://annict.com/works/17966
+{"annict_id":17966}
+,
 ]
