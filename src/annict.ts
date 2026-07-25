@@ -69702,4 +69702,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17967
 {"annict_id":17967}
 ,
+// [2027-null] TV: みいちゃんと山田さん
+// https://annict.com/works/17968
+{"annict_id":17968}
+,
 ]
