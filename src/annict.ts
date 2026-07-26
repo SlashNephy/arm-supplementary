@@ -69726,4 +69726,20 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17974
 {"annict_id":17974}
 ,
+// [2026-SUMMER] OTHER: 聖者ですが、この国を滅ぼします
+// https://annict.com/works/17975
+{"annict_id":17975}
+,
+// [2026-SUMMER] OTHER: カンストプレイヤー
+// https://annict.com/works/17976
+{"annict_id":17976}
+,
+// [2026-SUMMER] OTHER: 回帰したら天才錬金術師
+// https://annict.com/works/17977
+{"annict_id":17977}
+,
+// [2026-SUMMER] WEB: ゼンレスゾーンゼロ レミエール ショートアニメ「沈黙の日」
+// https://annict.com/works/17978
+{"annict_id":17978}
+,
 ]
