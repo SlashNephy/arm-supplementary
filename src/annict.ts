@@ -69746,4 +69746,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17979
 {"annict_id":17979}
 ,
+// [2006-null] OVA: 桃色のクレヨン
+// https://annict.com/works/17980
+{"annict_id":17980,"mal_id":30760}
+,
 ]
