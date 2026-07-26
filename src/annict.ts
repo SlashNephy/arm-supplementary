@@ -22586,7 +22586,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/5685
 {"annict_id":5685}
 ,
-// [null-null] WEB: 阪九フェリーのふねこ
+// [2018-WINTER] WEB: 阪九フェリーのふねこ
 // https://annict.com/works/5686
 {"annict_id":5686}
 ,
@@ -60706,7 +60706,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15703
 {"annict_id":15703,"mal_id":61196,"syobocal_tid":7676}
 ,
-// [null-null] TV: この素晴らしい世界に祝福を！4
+// [2027-null] TV: この素晴らしい世界に祝福を！4
 // https://annict.com/works/15704
 {"annict_id":15704,"mal_id":61203}
 ,
@@ -69705,5 +69705,9 @@ export const annict: ArmEntry[] = [
 // [2027-null] TV: みいちゃんと山田さん
 // https://annict.com/works/17968
 {"annict_id":17968,"mal_id":64685}
+,
+// [2026-SUMMER] WEB: 角獣アニメ ちょうむかしばなし
+// https://annict.com/works/17969
+{"annict_id":17969}
 ,
 ]
