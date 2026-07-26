@@ -63452,7 +63452,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] WEB: サイボーグ009 ネメシス
 // https://annict.com/works/16393
-{"annict_id":16393,"mal_id":62079}
+{"annict_id":16393,"mal_id":62079,"syobocal_tid":7963}
 ,
 // [2023-SPRING] WEB: 贄姫と獣の王 ケモ姫と普通の王
 // https://annict.com/works/16394
