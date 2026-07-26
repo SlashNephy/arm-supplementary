@@ -69742,4 +69742,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17978
 {"annict_id":17978}
 ,
+// [2027-null] OTHER: 千恋＊万花
+// https://annict.com/works/17979
+{"annict_id":17979}
+,
 ]
