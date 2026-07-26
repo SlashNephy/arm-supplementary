@@ -69710,4 +69710,20 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17969
 {"annict_id":17969}
 ,
+// [1995-SPRING] OTHER: 都会のブッチー
+// https://annict.com/works/17971
+{"annict_id":17971}
+,
+// [2026-SUMMER] OTHER: 愛され末っ子は初めてで
+// https://annict.com/works/17972
+{"annict_id":17972}
+,
+// [2026-SUMMER] OTHER: 弓で無双する初心者ストリーマー
+// https://annict.com/works/17973
+{"annict_id":17973}
+,
+// [2026-SUMMER] OTHER: あなたの子じゃないの
+// https://annict.com/works/17974
+{"annict_id":17974}
+,
 ]
