@@ -66632,7 +66632,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: デザート キャッチ！ティニピン
 // https://annict.com/works/17195
-{"annict_id":17195}
+{"annict_id":17195,"mal_id":56677}
 ,
 // [2026-SUMMER] TV: プラノサウルス ガチコセイブツ部
 // https://annict.com/works/17196
@@ -69684,7 +69684,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] WEB: 超電磁ロボ コン・バトラーV 50周年記念アニメーション
 // https://annict.com/works/17963
-{"annict_id":17963}
+{"annict_id":17963,"mal_id":64686}
 ,
 // [2026-SPRING] TV: 伝えたい想いのそばに 碧い海商店街
 // https://annict.com/works/17964
@@ -69700,7 +69700,7 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] MOVIE: 新作劇場アニメーション作品『銀河鉄道999』
 // https://annict.com/works/17967
-{"annict_id":17967}
+{"annict_id":17967,"mal_id":64693}
 ,
 // [2027-null] TV: みいちゃんと山田さん
 // https://annict.com/works/17968
@@ -69744,10 +69744,14 @@ export const annict: ArmEntry[] = [
 ,
 // [2027-null] OTHER: 千恋＊万花
 // https://annict.com/works/17979
-{"annict_id":17979}
+{"annict_id":17979,"mal_id":64694}
 ,
 // [2006-null] OVA: 桃色のクレヨン
 // https://annict.com/works/17980
 {"annict_id":17980,"mal_id":30760}
+,
+// [null-null] TV: 踊る千年家族
+// https://annict.com/works/17981
+{"annict_id":17981,"mal_id":64695}
 ,
 ]
