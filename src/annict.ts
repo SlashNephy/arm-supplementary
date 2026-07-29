@@ -69790,4 +69790,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17990
 {"annict_id":17990}
 ,
+// [2005-AUTUMN] OVA: 遙かなる時空の中で〜八葉抄〜 心の行方 天
+// https://annict.com/works/17991
+{"annict_id":17991}
+,
 ]
