@@ -56874,7 +56874,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/14744
 {"annict_id":14744,"mal_id":60336}
 ,
-// [null-null] WEB: ディズニー ツイステッドワンダーランド エピソード オブ サバナクロー
+// [2026-AUTUMN] WEB: ディズニー ツイステッドワンダーランド エピソード オブ サバナクロー
 // https://annict.com/works/14745
 {"annict_id":14745,"mal_id":60348}
 ,
@@ -69753,5 +69753,41 @@ export const annict: ArmEntry[] = [
 // [null-null] TV: 踊る千年家族
 // https://annict.com/works/17981
 {"annict_id":17981,"mal_id":64695}
+,
+// [2025-AUTUMN] WEB: Pikmin Close to you
+// https://annict.com/works/17982
+{"annict_id":17982}
+,
+// [2026-AUTUMN] MOVIE: リロ＆スクラッチ
+// https://annict.com/works/17983
+{"annict_id":17983}
+,
+// [1995-SPRING] TV: ピングー(第2シリーズ)
+// https://annict.com/works/17984
+{"annict_id":17984}
+,
+// [1995-AUTUMN] TV: ピングー(第3シリーズ)
+// https://annict.com/works/17985
+{"annict_id":17985}
+,
+// [1999-AUTUMN] TV: ピングー(第4シリーズ)
+// https://annict.com/works/17986
+{"annict_id":17986}
+,
+// [2004-SPRING] TV: ピングー(第5シリーズ)
+// https://annict.com/works/17987
+{"annict_id":17987}
+,
+// [2006-SPRING] TV: ピングー(第6シリーズ)
+// https://annict.com/works/17988
+{"annict_id":17988}
+,
+// [2005-WINTER] OVA: ピングー しあわせな結婚式
+// https://annict.com/works/17989
+{"annict_id":17989}
+,
+// [2026-SUMMER] WEB: もりのあんどう
+// https://annict.com/works/17990
+{"annict_id":17990}
 ,
 ]
