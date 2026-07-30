@@ -64882,7 +64882,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16755
 {"annict_id":16755}
 ,
-// [null-null] OTHER: 悪党一家の愛娘、転生先も乙女ゲームの極道令嬢でした。～最上級ランクの悪役さま、その溺愛は不要です！～
+// [null-null] TV: 悪党一家の愛娘、転生先も乙女ゲームの極道令嬢でした。～最上級ランクの悪役さま、その溺愛は不要です！～
 // https://annict.com/works/16756
 {"annict_id":16756,"mal_id":63021}
 ,
@@ -68010,7 +68010,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17542
 {"annict_id":17542,"mal_id":57889}
 ,
-// [2026-SUMMER] OTHER: 僕のヒーローアカデミア I am a hero too
+// [2026-SUMMER] WEB: 僕のヒーローアカデミア I am a hero too
 // https://annict.com/works/17543
 {"annict_id":17543,"mal_id":64107}
 ,
