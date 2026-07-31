@@ -69794,4 +69794,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17991
 {"annict_id":17991}
 ,
+// [2010-WINTER] TV: MR.MENショー2
+// https://annict.com/works/17992
+{"annict_id":17992}
+,
 ]
