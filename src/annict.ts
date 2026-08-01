@@ -69818,4 +69818,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17998
 {"annict_id":17998}
 ,
+// [2027-SPRING] TV: Free Fire Daybreak
+// https://annict.com/works/17999
+{"annict_id":17999,"mal_id":58849}
+,
 ]
