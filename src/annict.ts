@@ -68238,7 +68238,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17599
 {"annict_id":17599}
 ,
-// [null-null] TV: 人付き合いが苦手な未亡人の雪女さんと呪いの指輪
+// [2026-AUTUMN] TV: 人付き合いが苦手な未亡人の雪女さんと呪いの指輪
 // https://annict.com/works/17600
 {"annict_id":17600,"mal_id":64298}
 ,
@@ -69821,5 +69821,9 @@ export const annict: ArmEntry[] = [
 // [2027-SPRING] TV: Free Fire Daybreak
 // https://annict.com/works/17999
 {"annict_id":17999,"mal_id":58849}
+,
+// [2026-AUTUMN] TV: ゆうさんち！from 遊ハち
+// https://annict.com/works/18000
+{"annict_id":18000}
 ,
 ]
