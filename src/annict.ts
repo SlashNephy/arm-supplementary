@@ -45062,7 +45062,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/11778
 {"annict_id":11778,"mal_id":1411}
 ,
-// [2002-SUMMER] OVA: ふたりエッチ(第1・2期)
+// [2002-SUMMER] OVA: ふたりエッチ(第1期)
 // https://annict.com/works/11779
 {"annict_id":11779,"mal_id":382}
 ,
@@ -66066,7 +66066,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17052
 {"annict_id":17052}
 ,
-// [2026-null] TV: FX戦士くるみちゃん
+// [2026-AUTUMN] TV: FX戦士くるみちゃん
 // https://annict.com/works/17053
 {"annict_id":17053,"mal_id":63337}
 ,
@@ -69805,5 +69805,17 @@ export const annict: ArmEntry[] = [
 // [null-null] TV: 追放された商人は金の力で世界を救う
 // https://annict.com/works/17995
 {"annict_id":17995,"mal_id":64712}
+,
+// [2027-null] TV: デジモン 完全新作アニメ
+// https://annict.com/works/17996
+{"annict_id":17996}
+,
+// [2026-AUTUMN] TV: 僕らが選んだベストアドベンチャー
+// https://annict.com/works/17997
+{"annict_id":17997}
+,
+// [2003-AUTUMN] TV: ふたりエッチ(第2期)
+// https://annict.com/works/17998
+{"annict_id":17998}
 ,
 ]
