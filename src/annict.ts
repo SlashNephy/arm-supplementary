@@ -69798,4 +69798,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17992
 {"annict_id":17992}
 ,
+// [2025-AUTUMN] WEB: スプーキッズ -モンスターズ・アウェイクニング-
+// https://annict.com/works/17993
+{"annict_id":17993}
+,
 ]
