@@ -69802,4 +69802,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17993
 {"annict_id":17993}
 ,
+// [null-null] TV: 追放された商人は金の力で世界を救う
+// https://annict.com/works/17995
+{"annict_id":17995,"mal_id":64712}
+,
 ]
