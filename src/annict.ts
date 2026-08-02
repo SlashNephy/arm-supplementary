@@ -69824,7 +69824,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: ゆうさんち！from 遊ハち
 // https://annict.com/works/18000
-{"annict_id":18000}
+{"annict_id":18000,"mal_id":64717}
 ,
 // [2026-SUMMER] WEB: 1999！アルカナム事件対策本部
 // https://annict.com/works/18001
@@ -69832,6 +69832,10 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] TV: 魔都精兵のスレイブ3
 // https://annict.com/works/18002
-{"annict_id":18002}
+{"annict_id":18002,"mal_id":64726}
+,
+// [2026-SUMMER] WEB: Fate/Grand Order 藤丸立香はわからない Season4
+// https://annict.com/works/18003
+{"annict_id":18003,"mal_id":64725}
 ,
 ]
