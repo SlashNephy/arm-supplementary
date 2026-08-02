@@ -5832,7 +5832,7 @@ export const annict: ArmEntry[] = [
 ,
 // [1991-AUTUMN] TV: ドラゴンクエスト ダイの大冒険
 // https://annict.com/works/1460
-{"annict_id":1460,"mal_id":7435}
+{"annict_id":1460,"mal_id":2229}
 ,
 // [2011-WINTER] TV: ドラゴンクライシス！
 // https://annict.com/works/1461
@@ -15116,7 +15116,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2008-AUTUMN] WEB: イヴの時間
 // https://annict.com/works/3794
-{"annict_id":3794,"mal_id":7465,"syobocal_tid":1455}
+{"annict_id":3794,"mal_id":3167,"syobocal_tid":1455}
 ,
 // [2003-SUMMER] WEB: Vie Durant
 // https://annict.com/works/3795
@@ -17720,7 +17720,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2015-AUTUMN] TV: 学戦都市アスタリスク
 // https://annict.com/works/4451
-{"annict_id":4451,"mal_id":31737,"syobocal_tid":3900}
+{"annict_id":4451,"mal_id":30544,"syobocal_tid":3900}
 ,
 // [2015-AUTUMN] TV: ご注文はうさぎですか？？
 // https://annict.com/works/4452
@@ -27512,7 +27512,7 @@ export const annict: ArmEntry[] = [
 ,
 // [1981-SPRING] TV: 新竹取物語 1000年女王
 // https://annict.com/works/6994
-{"annict_id":6994,"mal_id":34019,"syobocal_tid":3998}
+{"annict_id":6994,"mal_id":1548,"syobocal_tid":3998}
 ,
 // [1982-WINTER] MOVIE: 1000年女王
 // https://annict.com/works/6995
@@ -63260,11 +63260,11 @@ export const annict: ArmEntry[] = [
 ,
 // [2025-AUTUMN] MOVIE: 劇場先行版 ゴールデンカムイ 札幌ビール工場編【前編】
 // https://annict.com/works/16345
-{"annict_id":16345,"mal_id":62067}
+{"annict_id":16345}
 ,
 // [2025-AUTUMN] MOVIE: 劇場先行版 ゴールデンカムイ 札幌ビール工場編【後編】
 // https://annict.com/works/16346
-{"annict_id":16346,"mal_id":62067}
+{"annict_id":16346}
 ,
 // [2020-SUMMER] WEB: 腐男子召喚～異世界で神獣にハメられました～
 // https://annict.com/works/16347
@@ -66256,7 +66256,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2020-AUTUMN] WEB: MARS REDミニアニメ「ぜろきかん日報」
 // https://annict.com/works/17100
-{"annict_id":17100,"mal_id":41265,"syobocal_tid":5976}
+{"annict_id":17100,"mal_id":44129,"syobocal_tid":5976}
 ,
 // [1966-AUTUMN] TV: 世界の王者 キングコング大会
 // https://annict.com/works/17101
@@ -69825,5 +69825,9 @@ export const annict: ArmEntry[] = [
 // [2026-AUTUMN] TV: ゆうさんち！from 遊ハち
 // https://annict.com/works/18000
 {"annict_id":18000}
+,
+// [2026-SUMMER] WEB: 1999！アルカナム事件対策本部
+// https://annict.com/works/18001
+{"annict_id":18001}
 ,
 ]
