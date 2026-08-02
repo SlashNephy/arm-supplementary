@@ -69830,4 +69830,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18001
 {"annict_id":18001}
 ,
+// [null-null] TV: 魔都精兵のスレイブ3
+// https://annict.com/works/18002
+{"annict_id":18002}
+,
 ]
