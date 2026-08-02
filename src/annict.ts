@@ -69838,4 +69838,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18003
 {"annict_id":18003,"mal_id":64725}
 ,
+// [2025-SPRING] WEB: ユニトロボーン
+// https://annict.com/works/18004
+{"annict_id":18004}
+,
+// [2026-SUMMER] WEB: ユニトロボーン(2026)
+// https://annict.com/works/18005
+{"annict_id":18005}
+,
 ]
