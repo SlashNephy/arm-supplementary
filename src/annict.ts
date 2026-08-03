@@ -69652,7 +69652,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: ごーすと・みーつ・ぎゃる！
 // https://annict.com/works/17955
-{"annict_id":17955}
+{"annict_id":17955,"mal_id":64718}
 ,
 // [null-null] TV: 楠木さんは高校デビューに失敗している
 // https://annict.com/works/17956
@@ -69828,7 +69828,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] WEB: 1999！アルカナム事件対策本部
 // https://annict.com/works/18001
-{"annict_id":18001}
+{"annict_id":18001,"mal_id":64724}
 ,
 // [null-null] TV: 魔都精兵のスレイブ3
 // https://annict.com/works/18002
