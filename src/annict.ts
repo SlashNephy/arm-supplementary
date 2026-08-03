@@ -69846,4 +69846,28 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18005
 {"annict_id":18005}
 ,
+// [2007-WINTER] TV: 手裏剣スクール
+// https://annict.com/works/18006
+{"annict_id":18006}
+,
+// [2009-WINTER] TV: びっくりマジック・ファミリー
+// https://annict.com/works/18007
+{"annict_id":18007}
+,
+// [2013-WINTER] TV: ジグとシャーコ
+// https://annict.com/works/18008
+{"annict_id":18008}
+,
+// [2015-SUMMER] TV: ブンブン・タカコとブーブー・ヒューバート
+// https://annict.com/works/18009
+{"annict_id":18009}
+,
+// [2019-AUTUMN] TV: アドベンチャー・タイム ～ダイヤモンドとレモン～
+// https://annict.com/works/18010
+{"annict_id":18010}
+,
+// [2026-SPRING] TV: ドラゴンストライカー
+// https://annict.com/works/18011
+{"annict_id":18011}
+,
 ]
