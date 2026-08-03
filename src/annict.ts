@@ -69870,4 +69870,24 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18011
 {"annict_id":18011}
 ,
+// [2021-WINTER] WEB: 落下生
+// https://annict.com/works/18012
+{"annict_id":18012,"mal_id":51438}
+,
+// [2018-WINTER] WEB: 顔のない彼女
+// https://annict.com/works/18013
+{"annict_id":18013}
+,
+// [2021-AUTUMN] WEB: FILMED ROOTS
+// https://annict.com/works/18014
+{"annict_id":18014}
+,
+// [2019-AUTUMN] WEB: けせんっこ。
+// https://annict.com/works/18015
+{"annict_id":18015}
+,
+// [2022-WINTER] WEB: My Wonderland
+// https://annict.com/works/18016
+{"annict_id":18016}
+,
 ]
