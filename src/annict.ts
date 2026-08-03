@@ -49714,7 +49714,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/12947
 {"annict_id":12947,"mal_id":58833,"syobocal_tid":7410}
 ,
-// [2024-SPRING] WEB: スター・ウォーズ テイルズ・オブ・エンパイア
+// [2024-SPRING] WEB: スター・ウォーズ：テイルズ・オブ・エンパイア
 // https://annict.com/works/12948
 {"annict_id":12948}
 ,
@@ -69889,5 +69889,17 @@ export const annict: ArmEntry[] = [
 // [2022-WINTER] WEB: My Wonderland
 // https://annict.com/works/18016
 {"annict_id":18016}
+,
+// [2018-SPRING] WEB: しあわせごはん
+// https://annict.com/works/18017
+{"annict_id":18017}
+,
+// [2019-SPRING] WEB: スター・ウォーズ ギャラクシー・オブ・アドベンチャー
+// https://annict.com/works/18018
+{"annict_id":18018}
+,
+// [2027-null] MOVIE: ノット・アローン
+// https://annict.com/works/18019
+{"annict_id":18019}
 ,
 ]
