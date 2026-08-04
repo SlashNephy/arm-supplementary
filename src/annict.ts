@@ -69908,6 +69908,6 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] TV: ドカ食いダイスキ！ もちづきさん
 // https://annict.com/works/18021
-{"annict_id":18021}
+{"annict_id":18021,"mal_id":64737}
 ,
 ]
