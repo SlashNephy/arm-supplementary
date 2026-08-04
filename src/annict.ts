@@ -69910,4 +69910,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18021
 {"annict_id":18021,"mal_id":64737}
 ,
+// [2022-WINTER] WEB: Bite the Bullet
+// https://annict.com/works/18022
+{"annict_id":18022}
+,
 ]
