@@ -69808,7 +69808,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2027-null] TV: デジモン 完全新作アニメ
 // https://annict.com/works/17996
-{"annict_id":17996}
+{"annict_id":17996,"mal_id":64731}
 ,
 // [2026-AUTUMN] TV: 僕らが選んだベストアドベンチャー
 // https://annict.com/works/17997
@@ -69901,5 +69901,9 @@ export const annict: ArmEntry[] = [
 // [2027-null] MOVIE: ノット・アローン
 // https://annict.com/works/18019
 {"annict_id":18019}
+,
+// [2022-WINTER] WEB: GO!GO!TOKYO MER 緊急事態と戦う仲間達
+// https://annict.com/works/18020
+{"annict_id":18020,"mal_id":51211}
 ,
 ]
