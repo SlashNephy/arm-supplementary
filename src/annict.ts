@@ -65470,7 +65470,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16903
 {"annict_id":16903,"mal_id":63136}
 ,
-// [null-null] OTHER: 鳴海の平日
+// [2026-SUMMER] WEB: 鳴海の平日
 // https://annict.com/works/16904
 {"annict_id":16904,"mal_id":63138}
 ,
@@ -69913,5 +69913,21 @@ export const annict: ArmEntry[] = [
 // [2022-WINTER] WEB: Bite the Bullet
 // https://annict.com/works/18022
 {"annict_id":18022}
+,
+// [2017-SPRING] TV: レゴ スーパー・ヒーローズ：ねらわれたバットマン
+// https://annict.com/works/18023
+{"annict_id":18023}
+,
+// [2017-AUTUMN] TV: グリジーとレミングス
+// https://annict.com/works/18024
+{"annict_id":18024}
+,
+// [2025-SUMMER] TV: オレっちが主役！ビーストボーイ：ローンウルフ
+// https://annict.com/works/18025
+{"annict_id":18025}
+,
+// [2026-SUMMER] TV: まいにちドタバタ！ウィージー家族
+// https://annict.com/works/18026
+{"annict_id":18026}
 ,
 ]
