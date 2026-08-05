@@ -65478,7 +65478,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16905
 {"annict_id":16905,"mal_id":63135}
 ,
-// [null-null] TV: 野生のラスボスが現れた！ 第2期
+// [2026-AUTUMN] TV: 野生のラスボスが現れた！ 第2期
 // https://annict.com/works/16906
 {"annict_id":16906,"mal_id":63140}
 ,
@@ -65938,7 +65938,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17020
 {"annict_id":17020,"mal_id":4934}
 ,
-// [null-null] OTHER: こまどり モフモフパレード
+// [2027-WINTER] TV: こまどり モフモフパレード
 // https://annict.com/works/17021
 {"annict_id":17021}
 ,
@@ -67018,7 +67018,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17293
 {"annict_id":17293}
 ,
-// [2027-null] TV: 尚善
+// [2027-SPRING] TV: 尚善
 // https://annict.com/works/17294
 {"annict_id":17294,"mal_id":62951}
 ,
