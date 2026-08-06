@@ -60150,7 +60150,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15564
 {"annict_id":15564,"mal_id":52397}
 ,
-// [null-null] TV: ジャイアントお嬢様
+// [2027-WINTER] TV: ジャイアントお嬢様
 // https://annict.com/works/15565
 {"annict_id":15565,"mal_id":61135}
 ,
@@ -69969,5 +69969,9 @@ export const annict: ArmEntry[] = [
 // [2014-SPRING] WEB: ブーバ
 // https://annict.com/works/18036
 {"annict_id":18036}
+,
+// [2026-SUMMER] WEB: Re:ゼロから始める休憩時間 4th season 第2クール
+// https://annict.com/works/18037
+{"annict_id":18037}
 ,
 ]
