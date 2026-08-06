@@ -69934,4 +69934,40 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18027
 {"annict_id":18027}
 ,
+// [2013-AUTUMN] WEB: こびと大研究
+// https://annict.com/works/18028
+{"annict_id":18028}
+,
+// [2010-AUTUMN] OVA: こびと観察入門（シーズン1）
+// https://annict.com/works/18029
+{"annict_id":18029}
+,
+// [2012-AUTUMN] OVA: こびと観察入門（シーズン2）
+// https://annict.com/works/18030
+{"annict_id":18030}
+,
+// [2012-AUTUMN] OVA: こびと観察入門（シーズン3）
+// https://annict.com/works/18031
+{"annict_id":18031}
+,
+// [2014-SPRING] OVA: こびと観察入門（シーズン4）
+// https://annict.com/works/18032
+{"annict_id":18032}
+,
+// [2014-AUTUMN] OVA: こびと観察入門（シーズン5）
+// https://annict.com/works/18033
+{"annict_id":18033}
+,
+// [2012-SPRING] WEB: ロボットのアルポ
+// https://annict.com/works/18034
+{"annict_id":18034}
+,
+// [2021-AUTUMN] WEB: ARPO Robot Babysitter
+// https://annict.com/works/18035
+{"annict_id":18035}
+,
+// [2014-SPRING] WEB: ブーバ
+// https://annict.com/works/18036
+{"annict_id":18036}
+,
 ]
