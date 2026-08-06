@@ -69930,4 +69930,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18026
 {"annict_id":18026}
 ,
+// [2018-SUMMER] MOVIE: ウィーリー　ヒロイン救出大作戦!!
+// https://annict.com/works/18027
+{"annict_id":18027}
+,
 ]
