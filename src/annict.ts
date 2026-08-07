@@ -53730,7 +53730,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/13955
 {"annict_id":13955}
 ,
-// [2026-null] TV: ロメリア戦記
+// [2026-AUTUMN] TV: ロメリア戦記
 // https://annict.com/works/13957
 {"annict_id":13957,"mal_id":59787}
 ,
@@ -69978,7 +69978,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18038
 {"annict_id":18038}
 ,
-// [null-null] TV: Destiny Unchain Online〜吸血鬼少女となって、やがて『赤の魔王』と呼ばれるようになりました〜
+// [null-null] TV: Destiny Unchain Online
 // https://annict.com/works/18039
 {"annict_id":18039,"mal_id":64751}
 ,
