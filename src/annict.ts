@@ -69982,4 +69982,16 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18039
 {"annict_id":18039,"mal_id":64751}
 ,
+// [2021-SPRING] WEB: まほうペット☆モーフル
+// https://annict.com/works/18040
+{"annict_id":18040}
+,
+// [2022-SUMMER] WEB: まほうペット☆モーフル 3D
+// https://annict.com/works/18041
+{"annict_id":18041}
+,
+// [2022-WINTER] WEB: ゲッコーのガレージ
+// https://annict.com/works/18042
+{"annict_id":18042}
+,
 ]
