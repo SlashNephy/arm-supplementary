@@ -65940,7 +65940,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2027-WINTER] TV: こまどり モフモフパレード
 // https://annict.com/works/17021
-{"annict_id":17021}
+{"annict_id":17021,"mal_id":64746}
 ,
 // [2000-null] OTHER: キクマナ
 // https://annict.com/works/17022
@@ -68828,7 +68828,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2027-WINTER] TV: じょせまる
 // https://annict.com/works/17747
-{"annict_id":17747}
+{"annict_id":17747,"mal_id":64744}
 ,
 // [2027-WINTER] TV: モモモ！ニニモ
 // https://annict.com/works/17748
@@ -69977,5 +69977,9 @@ export const annict: ArmEntry[] = [
 // [2016-null] TV: オッドボッズ
 // https://annict.com/works/18038
 {"annict_id":18038}
+,
+// [null-null] TV: Destiny Unchain Online〜吸血鬼少女となって、やがて『赤の魔王』と呼ばれるようになりました〜
+// https://annict.com/works/18039
+{"annict_id":18039,"mal_id":64751}
 ,
 ]
