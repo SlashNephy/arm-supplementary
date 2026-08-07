@@ -69974,4 +69974,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18037
 {"annict_id":18037}
 ,
+// [2016-null] TV: オッドボッズ
+// https://annict.com/works/18038
+{"annict_id":18038}
+,
 ]
