@@ -59432,7 +59432,7 @@ export const annict: ArmEntry[] = [
 ,
 // [1983-null] MOVIE: 図形の発見 数学をきずいた人々
 // https://annict.com/works/15385
-{"annict_id":15385}
+{"annict_id":15385,"mal_id":64765}
 ,
 // [1962-null] MOVIE: たのしい文明史 鉄ものがたり
 // https://annict.com/works/15386
@@ -69997,5 +69997,9 @@ export const annict: ArmEntry[] = [
 // [1994-null] OVA: しんちゃんのさんりんしゃ
 // https://annict.com/works/18043
 {"annict_id":18043,"mal_id":26157}
+,
+// [null-null] TV: 悪役のエンディングは死のみ
+// https://annict.com/works/18044
+{"annict_id":18044,"mal_id":64768}
 ,
 ]
