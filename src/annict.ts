@@ -33582,7 +33582,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/8802
 {"annict_id":8802,"mal_id":49520,"syobocal_tid":6286}
 ,
-// [1988-SUMMER] TV: 夏服の少女たち
+// [1988-SUMMER] TV: 夏服の少女たち～ヒロシマ・昭和20年8月6日～
 // https://annict.com/works/8803
 {"annict_id":8803,"mal_id":8896}
 ,
@@ -69993,5 +69993,9 @@ export const annict: ArmEntry[] = [
 // [2022-WINTER] WEB: ゲッコーのガレージ
 // https://annict.com/works/18042
 {"annict_id":18042}
+,
+// [1994-null] OVA: しんちゃんのさんりんしゃ
+// https://annict.com/works/18043
+{"annict_id":18043,"mal_id":26157}
 ,
 ]
