@@ -70002,4 +70002,16 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18044
 {"annict_id":18044,"mal_id":64768}
 ,
+// [2015-AUTUMN] OVA: ポンコツクエスト～魔王と派遣の魔物たち～ シーズン2 OVA
+// https://annict.com/works/18045
+{"annict_id":18045,"mal_id":34847}
+,
+// [2017-WINTER] OVA: ポンコツクエスト～魔王と派遣の魔物たち～ シーズン3 OVA
+// https://annict.com/works/18046
+{"annict_id":18046}
+,
+// [2018-SPRING] OVA: ポンコツクエスト～魔王と派遣の魔物たち～ シーズン4 OVA
+// https://annict.com/works/18047
+{"annict_id":18047}
+,
 ]
