@@ -59688,7 +59688,7 @@ export const annict: ArmEntry[] = [
 ,
 // [1992-null] MOVIE: 少年と子だぬき
 // https://annict.com/works/15449
-{"annict_id":15449}
+{"annict_id":15449,"mal_id":64780}
 ,
 // [1958-SUMMER] MOVIE: ペンギンぼうや ルルとキキ
 // https://annict.com/works/15450
@@ -66722,7 +66722,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17218
 {"annict_id":17218,"mal_id":63697}
 ,
-// [null-null] TV: ゲーム世界転生〈ダン活〉～ゲーマーは【ダンジョン就活のススメ】を〈はじめから〉プレイする～
+// [2027-WINTER] TV: ゲーム世界転生〈ダン活〉～ゲーマーは【ダンジョン就活のススメ】を〈はじめから〉プレイする～
 // https://annict.com/works/17219
 {"annict_id":17219,"mal_id":63706}
 ,
@@ -70029,5 +70029,17 @@ export const annict: ArmEntry[] = [
 // [2025-SPRING] OVA: ポンコツクエスト～魔王と派遣の魔物たち～ シーズン8 映像特典「法令遵守」
 // https://annict.com/works/18051
 {"annict_id":18051}
+,
+// [null-null] OTHER: PUI PUI モルカー スペシャルエピソード
+// https://annict.com/works/18052
+{"annict_id":18052}
+,
+// [2026-SUMMER] MOVIE: ニホンジン
+// https://annict.com/works/18053
+{"annict_id":18053}
+,
+// [2027-null] TV: 赤ずきん、旅の途中で死体と出会う。
+// https://annict.com/works/18054
+{"annict_id":18054,"mal_id":64782}
 ,
 ]
