@@ -66434,7 +66434,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17144
 {"annict_id":17144,"mal_id":63536}
 ,
-// [2026-WINTER] WEB: 限界OL霧切ギリ子 2期
+// [2026-WINTER] WEB: 限界OL霧切ギリ子 第2弾
 // https://annict.com/works/17145
 {"annict_id":17145}
 ,
@@ -70042,7 +70042,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18054
 {"annict_id":18054,"mal_id":64782}
 ,
-// [2026-SUMMER] WEB: 限界OL霧切ギリ子 3期
+// [2026-SUMMER] WEB: 限界OL霧切ギリ子 第3弾
 // https://annict.com/works/18055
 {"annict_id":18055}
 ,
