@@ -70042,4 +70042,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18054
 {"annict_id":18054,"mal_id":64782}
 ,
+// [2026-SUMMER] WEB: 限界OL霧切ギリ子 3期
+// https://annict.com/works/18055
+{"annict_id":18055}
+,
 ]
