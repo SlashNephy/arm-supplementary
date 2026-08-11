@@ -25386,7 +25386,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/6391
 {"annict_id":6391,"mal_id":38629}
 ,
-// [null-null] MOVIE: 映画 ビブリア古書堂の事件手帖
+// [2027-null] MOVIE: 映画 ビブリア古書堂の事件手帖
 // https://annict.com/works/6392
 {"annict_id":6392}
 ,
