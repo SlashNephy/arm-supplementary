@@ -70046,4 +70046,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18055
 {"annict_id":18055}
 ,
+// [2026-SUMMER] WEB: GGSTショートアニメ『エリカさんの憂鬱』
+// https://annict.com/works/18056
+{"annict_id":18056}
+,
 ]
