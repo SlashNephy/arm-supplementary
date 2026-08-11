@@ -67898,7 +67898,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17514
 {"annict_id":17514,"mal_id":64012}
 ,
-// [null-null] TV: メガネ、時々、ヤンキーくん
+// [2027-null] TV: メガネ、時々、ヤンキーくん
 // https://annict.com/works/17515
 {"annict_id":17515,"mal_id":64006}
 ,
