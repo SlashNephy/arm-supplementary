@@ -612,7 +612,7 @@ export const annict: ArmEntry[] = [
 ,
 // [1975-AUTUMN] TV: 一休さん
 // https://annict.com/works/153
-{"annict_id":153,"mal_id":4935}
+{"annict_id":153,"mal_id":4935,"syobocal_tid":7831}
 ,
 // [2010-AUTUMN] TV: 一期一会～キミノコトバ～
 // https://annict.com/works/154
@@ -2072,7 +2072,7 @@ export const annict: ArmEntry[] = [
 ,
 // [1983-SPRING] TV: キン肉マン
 // https://annict.com/works/518
-{"annict_id":518,"mal_id":3272}
+{"annict_id":518,"mal_id":3272,"syobocal_tid":7845}
 ,
 // [2002-WINTER] TV: キン肉マンII世
 // https://annict.com/works/519
@@ -10056,7 +10056,7 @@ export const annict: ArmEntry[] = [
 ,
 // [1989-SUMMER] OVA: アーシアン
 // https://annict.com/works/2520
-{"annict_id":2520,"mal_id":1324}
+{"annict_id":2520,"mal_id":1324,"syobocal_tid":7968}
 ,
 // [1986-AUTUMN] OVA: アーバンスクウェア 琥珀の追撃
 // https://annict.com/works/2521
@@ -12000,7 +12000,7 @@ export const annict: ArmEntry[] = [
 ,
 // [1993-AUTUMN] OVA: ぼくの地球を守って
 // https://annict.com/works/3013
-{"annict_id":3013,"mal_id":526}
+{"annict_id":3013,"mal_id":526,"syobocal_tid":7969}
 ,
 // [1994-SPRING] OVA: ぼくはこのまま帰らない
 // https://annict.com/works/3014
@@ -13720,23 +13720,23 @@ export const annict: ArmEntry[] = [
 ,
 // [2006-WINTER] MOVIE: 超劇場版ケロロ軍曹
 // https://annict.com/works/3444
-{"annict_id":3444,"mal_id":2407}
+{"annict_id":3444,"mal_id":2407,"syobocal_tid":7875}
 ,
 // [2009-WINTER] MOVIE: 超劇場版ケロロ軍曹 撃侵ドラゴンウォリアーズであります！
 // https://annict.com/works/3445
-{"annict_id":3445,"mal_id":5710}
+{"annict_id":3445,"mal_id":5710,"syobocal_tid":7962}
 ,
 // [2010-WINTER] MOVIE: 超劇場版ケロロ軍曹 誕生！究極ケロロ 奇跡の時空島であります！！
 // https://annict.com/works/3446
-{"annict_id":3446,"mal_id":8134}
+{"annict_id":3446,"mal_id":8134,"syobocal_tid":7967}
 ,
 // [2007-WINTER] MOVIE: 超劇場版ケロロ軍曹2 深海のプリンセスであります!
 // https://annict.com/works/3447
-{"annict_id":3447,"mal_id":2408}
+{"annict_id":3447,"mal_id":2408,"syobocal_tid":7921}
 ,
 // [2008-WINTER] MOVIE: 超劇場版ケロロ軍曹3 ケロロ対ケロロ天空大決戦であります!
 // https://annict.com/works/3448
-{"annict_id":3448,"mal_id":5290}
+{"annict_id":3448,"mal_id":5290,"syobocal_tid":7937}
 ,
 // [1984-SUMMER] MOVIE: 超時空要塞マクロス 愛・おぼえていますか
 // https://annict.com/works/3449
@@ -14828,15 +14828,15 @@ export const annict: ArmEntry[] = [
 ,
 // [2012-SPRING] MOVIE: 名探偵コナン 11人目のストライカー
 // https://annict.com/works/3721
-{"annict_id":3721,"mal_id":12117}
+{"annict_id":3721,"mal_id":12117,"syobocal_tid":7866}
 ,
 // [1998-SPRING] MOVIE: 名探偵コナン 14番目の標的
 // https://annict.com/works/3722
-{"annict_id":3722,"mal_id":780}
+{"annict_id":3722,"mal_id":780,"syobocal_tid":7852}
 ,
 // [2002-SPRING] MOVIE: 名探偵コナン ベイカー街の亡霊
 // https://annict.com/works/3723
-{"annict_id":3723,"mal_id":1365}
+{"annict_id":3723,"mal_id":1365,"syobocal_tid":7854}
 ,
 // [1999-SPRING] MOVIE: 名探偵コナン 世紀末の魔術師
 // https://annict.com/works/3724
@@ -14852,11 +14852,11 @@ export const annict: ArmEntry[] = [
 ,
 // [2008-SPRING] MOVIE: 名探偵コナン 戦慄の楽譜
 // https://annict.com/works/3727
-{"annict_id":3727,"mal_id":4447}
+{"annict_id":3727,"mal_id":4447,"syobocal_tid":7862}
 ,
 // [2006-SPRING] MOVIE: 名探偵コナン 探偵たちの鎮魂歌
 // https://annict.com/works/3728
-{"annict_id":3728,"mal_id":1506}
+{"annict_id":3728,"mal_id":1506,"syobocal_tid":7860}
 ,
 // [1997-SPRING] MOVIE: 名探偵コナン 時計じかけの摩天楼
 // https://annict.com/works/3729
@@ -14864,35 +14864,35 @@ export const annict: ArmEntry[] = [
 ,
 // [2005-SPRING] MOVIE: 名探偵コナン 水平線上の陰謀
 // https://annict.com/works/3730
-{"annict_id":3730,"mal_id":1505}
+{"annict_id":3730,"mal_id":1505,"syobocal_tid":7858}
 ,
 // [2011-SPRING] MOVIE: 名探偵コナン 沈黙の15分
 // https://annict.com/works/3731
-{"annict_id":3731,"mal_id":9963}
+{"annict_id":3731,"mal_id":9963,"syobocal_tid":7865}
 ,
 // [2009-SPRING] MOVIE: 名探偵コナン 漆黒の追跡者
 // https://annict.com/works/3732
-{"annict_id":3732,"mal_id":5460}
+{"annict_id":3732,"mal_id":5460,"syobocal_tid":7712}
 ,
 // [2000-SPRING] MOVIE: 名探偵コナン 瞳の中の暗殺者
 // https://annict.com/works/3733
-{"annict_id":3733,"mal_id":1363}
+{"annict_id":3733,"mal_id":1363,"syobocal_tid":7853}
 ,
 // [2007-SPRING] MOVIE: 名探偵コナン 紺碧の棺
 // https://annict.com/works/3734
-{"annict_id":3734,"mal_id":2171}
+{"annict_id":3734,"mal_id":2171,"syobocal_tid":7861}
 ,
 // [2013-SPRING] MOVIE: 名探偵コナン 絶海の探偵
 // https://annict.com/works/3735
-{"annict_id":3735,"mal_id":14735}
+{"annict_id":3735,"mal_id":14735,"syobocal_tid":7867}
 ,
 // [2003-SPRING] MOVIE: 名探偵コナン 迷宮の十字路
 // https://annict.com/works/3736
-{"annict_id":3736,"mal_id":1366}
+{"annict_id":3736,"mal_id":1366,"syobocal_tid":7855}
 ,
 // [2004-SPRING] MOVIE: 名探偵コナン 銀翼の奇術師
 // https://annict.com/works/3737
-{"annict_id":3737,"mal_id":1367}
+{"annict_id":3737,"mal_id":1367,"syobocal_tid":7856}
 ,
 // [1984-WINTER] MOVIE: 劇場版 名探偵ホームズ 青い紅玉の巻/海底の財宝の巻
 // https://annict.com/works/3738
@@ -17162,9 +17162,9 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/4310
 {"annict_id":4310,"mal_id":29163,"syobocal_tid":3825}
 ,
-// [2015-SUMMER] TV: 攻殻機動隊 新劇場版
+// [2015-SUMMER] MOVIE: 攻殻機動隊 新劇場版
 // https://annict.com/works/4311
-{"annict_id":4311,"mal_id":27411}
+{"annict_id":4311,"mal_id":27411,"syobocal_tid":7864}
 ,
 // [2015-WINTER] MOVIE: アップルシード アルファ
 // https://annict.com/works/4312
@@ -19736,7 +19736,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2016-AUTUMN] OVA: 機動警察パトレイバーREBOOT
 // https://annict.com/works/4966
-{"annict_id":4966,"mal_id":33741}
+{"annict_id":4966,"mal_id":33741,"syobocal_tid":7965}
 ,
 // [2016-AUTUMN] MOVIE: CYBORG009 CALL OF JUSTICE
 // https://annict.com/works/4967
@@ -19752,7 +19752,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2001-WINTER] OVA: ねこぢる草
 // https://annict.com/works/4970
-{"annict_id":4970,"mal_id":601}
+{"annict_id":4970,"mal_id":601,"syobocal_tid":7960}
 ,
 // [1985-WINTER] OVA: 天使のたまご
 // https://annict.com/works/4971
@@ -19948,7 +19948,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2017-WINTER] MOVIE: 劇場版 黒執事 Book of the Atlantic
 // https://annict.com/works/5019
-{"annict_id":5019,"mal_id":31812}
+{"annict_id":5019,"mal_id":31812,"syobocal_tid":7355}
 ,
 // [2007-SPRING] OVA: 最遊記 RELOAD -burial-
 // https://annict.com/works/5020
@@ -20140,7 +20140,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2017-SPRING] MOVIE: 名探偵コナン から紅の恋歌
 // https://annict.com/works/5067
-{"annict_id":5067,"mal_id":34430}
+{"annict_id":5067,"mal_id":34430,"syobocal_tid":7869}
 ,
 // [2016-AUTUMN] TV: おそ松さん おうまでこばなし
 // https://annict.com/works/5068
@@ -22304,7 +22304,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2018-SPRING] MOVIE: 名探偵コナン ゼロの執行人
 // https://annict.com/works/5613
-{"annict_id":5613,"mal_id":35798}
+{"annict_id":5613,"mal_id":35798,"syobocal_tid":7713}
 ,
 // [2017-AUTUMN] MOVIE: 特別版 Free!-Take Your Marks-
 // https://annict.com/works/5614
@@ -23304,15 +23304,15 @@ export const annict: ArmEntry[] = [
 ,
 // [2015-SUMMER] MOVIE: ハイキュー!! 勝者と敗者
 // https://annict.com/works/5866
-{"annict_id":5866,"mal_id":30364}
+{"annict_id":5866,"mal_id":30364,"syobocal_tid":7847}
 ,
 // [2017-SUMMER] MOVIE: ハイキュー!! 才能とセンス
 // https://annict.com/works/5867
-{"annict_id":5867,"mal_id":35110}
+{"annict_id":5867,"mal_id":35110,"syobocal_tid":7868}
 ,
 // [2017-SUMMER] MOVIE: ハイキュー!! コンセプトの戦い
 // https://annict.com/works/5868
-{"annict_id":5868,"mal_id":35111}
+{"annict_id":5868,"mal_id":35111,"syobocal_tid":7870}
 ,
 // [2014-AUTUMN] OVA: ハイキュー!! OAD「リエーフ見参！」
 // https://annict.com/works/5869
@@ -23688,7 +23688,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2017-SUMMER] OVA: 美男高校地球防衛部LOVE！LOVE！LOVE！
 // https://annict.com/works/5962
-{"annict_id":5962,"mal_id":35182}
+{"annict_id":5962,"mal_id":35182,"syobocal_tid":7904}
 ,
 // [2015-SPRING] OVA: 四月は君の嘘 OAD(第23話)「MOMENTS」
 // https://annict.com/works/5963
@@ -25380,7 +25380,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2019-SPRING] MOVIE: 名探偵コナン 紺青の拳
 // https://annict.com/works/6390
-{"annict_id":6390,"mal_id":38770}
+{"annict_id":6390,"mal_id":38770,"syobocal_tid":7871}
 ,
 // [2019-SPRING] MOVIE: クレヨンしんちゃん 新婚旅行ハリケーン ～失われたひろし～
 // https://annict.com/works/6391
@@ -26452,7 +26452,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2019-AUTUMN] MOVIE: ぼくらの7日間戦争
 // https://annict.com/works/6695
-{"annict_id":6695,"mal_id":37828}
+{"annict_id":6695,"mal_id":37828,"syobocal_tid":7874}
 ,
 // [2010-SUMMER] MOVIE: 劇場版 NARUTO -ナルト- そよかぜ伝 ナルトと魔神と3つのお願いだってばよ!!
 // https://annict.com/works/6696
@@ -26648,7 +26648,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2023-SUMMER] MOVIE: 君たちはどう生きるか
 // https://annict.com/works/6745
-{"annict_id":6745,"mal_id":36699}
+{"annict_id":6745,"mal_id":36699,"syobocal_tid":7454}
 ,
 // [2021-WINTER] WEB: ぶらどらぶ
 // https://annict.com/works/6746
@@ -27984,7 +27984,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2021-SPRING] MOVIE: 名探偵コナン 緋色の弾丸
 // https://annict.com/works/7176
-{"annict_id":7176,"mal_id":39764}
+{"annict_id":7176,"mal_id":39764,"syobocal_tid":7832}
 ,
 // [2020-AUTUMN] TV: 『ヒプノシスマイク -Division Rap Battle-』Rhyme Anima
 // https://annict.com/works/7177
@@ -29048,7 +29048,7 @@ export const annict: ArmEntry[] = [
 ,
 // [1986-SUMMER] MOVIE: 劇場版 名探偵ホームズ ミセス・ハドソン人質事件の巻/ドーバー海峡の大空中戦の巻
 // https://annict.com/works/7509
-{"annict_id":7509,"mal_id":20441}
+{"annict_id":7509,"mal_id":20441,"syobocal_tid":7846}
 ,
 // [2022-WINTER] TV: 終末のハーレム
 // https://annict.com/works/7510
@@ -29228,7 +29228,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2021-SPRING] MOVIE: シドニアの騎士 あいつむぐほし
 // https://annict.com/works/7586
-{"annict_id":7586,"mal_id":35759}
+{"annict_id":7586,"mal_id":35759,"syobocal_tid":7649}
 ,
 // [2020-SUMMER] TV: ポータウンのなかまたち
 // https://annict.com/works/7587
@@ -30344,7 +30344,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2021-WINTER] MOVIE: 名探偵コナン 緋色の不在証明
 // https://annict.com/works/7898
-{"annict_id":7898,"mal_id":47413}
+{"annict_id":7898,"mal_id":47413,"syobocal_tid":7759}
 ,
 // [2021-SPRING] TV: カードファイト!! ヴァンガード overDress
 // https://annict.com/works/7899
@@ -30732,7 +30732,7 @@ export const annict: ArmEntry[] = [
 ,
 // [1950-AUTUMN] MOVIE: 白雪姫
 // https://annict.com/works/8025
-{"annict_id":8025}
+{"annict_id":8025,"syobocal_tid":7973}
 ,
 // [1952-SPRING] MOVIE: ピノキオ
 // https://annict.com/works/8026
@@ -30764,7 +30764,7 @@ export const annict: ArmEntry[] = [
 ,
 // [1953-SUMMER] MOVIE: ふしぎの国のアリス (1951年の映画)
 // https://annict.com/works/8033
-{"annict_id":8033}
+{"annict_id":8033,"syobocal_tid":7978}
 ,
 // [1987-AUTUMN] MOVIE: 勝利投手
 // https://annict.com/works/8034
@@ -30800,19 +30800,19 @@ export const annict: ArmEntry[] = [
 ,
 // [1955-WINTER] MOVIE: ピーター・パン
 // https://annict.com/works/8042
-{"annict_id":8042}
+{"annict_id":8042,"syobocal_tid":7980}
 ,
 // [1956-SUMMER] MOVIE: わんわん物語
 // https://annict.com/works/8043
-{"annict_id":8043}
+{"annict_id":8043,"syobocal_tid":7976}
 ,
 // [1960-SUMMER] MOVIE: 眠れる森の美女
 // https://annict.com/works/8044
-{"annict_id":8044}
+{"annict_id":8044,"syobocal_tid":7975}
 ,
 // [1962-SUMMER] MOVIE: 101匹わんちゃん
 // https://annict.com/works/8045
-{"annict_id":8045}
+{"annict_id":8045,"syobocal_tid":7977}
 ,
 // [1964-SUMMER] MOVIE: 王様の剣
 // https://annict.com/works/8046
@@ -30832,7 +30832,7 @@ export const annict: ArmEntry[] = [
 ,
 // [1977-SUMMER] MOVIE: くまのプーさん 完全保存版
 // https://annict.com/works/8050
-{"annict_id":8050}
+{"annict_id":8050,"syobocal_tid":7979}
 ,
 // [1981-AUTUMN] MOVIE: ビアンカの大冒険
 // https://annict.com/works/8051
@@ -30880,7 +30880,7 @@ export const annict: ArmEntry[] = [
 ,
 // [1998-AUTUMN] MOVIE: ムーラン
 // https://annict.com/works/8062
-{"annict_id":8062}
+{"annict_id":8062,"syobocal_tid":7974}
 ,
 // [1999-AUTUMN] MOVIE: ターザン (1999年の映画)
 // https://annict.com/works/8063
@@ -31280,7 +31280,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2023-AUTUMN] MOVIE: 鬼太郎誕生 ゲゲゲの謎
 // https://annict.com/works/8162
-{"annict_id":8162,"mal_id":48426}
+{"annict_id":8162,"mal_id":48426,"syobocal_tid":7542}
 ,
 // [2022-SPRING] TV: 史上最強の大魔王、村人Aに転生する
 // https://annict.com/works/8163
@@ -32412,7 +32412,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2024-SUMMER] MOVIE: 劇場版 オーバーロード 聖王国編
 // https://annict.com/works/8477
-{"annict_id":8477,"mal_id":48896}
+{"annict_id":8477,"mal_id":48896,"syobocal_tid":7603}
 ,
 // [2022-SPRING] TV: ラブライブ！虹ヶ咲学園スクールアイドル同好会 (第2期)
 // https://annict.com/works/8478
@@ -33436,7 +33436,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2022-SPRING] OVA: 怪盗クイーンはサーカスがお好き
 // https://annict.com/works/8766
-{"annict_id":8766,"mal_id":49423}
+{"annict_id":8766,"mal_id":49423,"syobocal_tid":7459}
 ,
 // [2017-WINTER] MOVIE: SING/シング
 // https://annict.com/works/8767
@@ -33512,7 +33512,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2022-SPRING] MOVIE: ドラゴンボール超 スーパーヒーロー
 // https://annict.com/works/8785
-{"annict_id":8785,"mal_id":48903}
+{"annict_id":8785,"mal_id":48903,"syobocal_tid":7214}
 ,
 // [2022-AUTUMN] TV: 令和のデ・ジ・キャラット
 // https://annict.com/works/8786
@@ -33596,7 +33596,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2022-WINTER] MOVIE: 魔神英雄伝ワタル 七魂の龍神丸 -再会-
 // https://annict.com/works/8806
-{"annict_id":8806,"mal_id":57828}
+{"annict_id":8806,"mal_id":57828,"syobocal_tid":7362}
 ,
 // [1974-SPRING] TV: 柔道讃歌
 // https://annict.com/works/8807
@@ -33644,11 +33644,11 @@ export const annict: ArmEntry[] = [
 ,
 // [1986-SPRING] OVA: 超獣機神ダンクーガ 失われた者たちへの鎮魂歌
 // https://annict.com/works/8818
-{"annict_id":8818,"mal_id":2256}
+{"annict_id":8818,"mal_id":2256,"syobocal_tid":7848}
 ,
 // [1987-SPRING] OVA: 超獣機神ダンクーガ GOD BLESS DANCOUGA
 // https://annict.com/works/8819
-{"annict_id":8819,"mal_id":5266}
+{"annict_id":8819,"mal_id":5266,"syobocal_tid":7849}
 ,
 // [1989-AUTUMN] OVA: 超獣機神ダンクーガ 白熱の終章
 // https://annict.com/works/8820
@@ -33948,7 +33948,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2023-AUTUMN] MOVIE: 劇場版 乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…
 // https://annict.com/works/8927
-{"annict_id":8927,"mal_id":49842}
+{"annict_id":8927,"mal_id":49842,"syobocal_tid":7309}
 ,
 // [2021-AUTUMN] WEB: BanG Dream! ガルパ☆ピコ ふぃーばー！
 // https://annict.com/works/8928
@@ -34084,7 +34084,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2022-SUMMER] MOVIE: 雨を告げる漂流団地
 // https://annict.com/works/8961
-{"annict_id":8961,"mal_id":49938}
+{"annict_id":8961,"mal_id":49938,"syobocal_tid":7169}
 ,
 // [2021-AUTUMN] TV: 吉田勝子のヤバイわ！SDGs ～荒ぶる！トラブル！サステナブル！～
 // https://annict.com/works/8962
@@ -34152,7 +34152,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2019-AUTUMN] MOVIE: ミッシング・リンク 英国紳士と秘密の相棒
 // https://annict.com/works/8978
-{"annict_id":8978}
+{"annict_id":8978,"syobocal_tid":7451}
 ,
 // [2022-SPRING] TV: 名探偵コナン ゼロの日常 (ティータイム)
 // https://annict.com/works/8979
@@ -34252,7 +34252,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2025-AUTUMN] MOVIE: 劇場版 ゾンビランドサガ ゆめぎんがパラダイス
 // https://annict.com/works/9003
-{"annict_id":9003,"mal_id":50159}
+{"annict_id":9003,"mal_id":50159,"syobocal_tid":7544}
 ,
 // [2022-SPRING] TV: キングダム 第4シリーズ
 // https://annict.com/works/9004
@@ -34824,7 +34824,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2022-SPRING] MOVIE: 名探偵コナン ハロウィンの花嫁
 // https://annict.com/works/9178
-{"annict_id":9178,"mal_id":49320}
+{"annict_id":9178,"mal_id":49320,"syobocal_tid":7844}
 ,
 // [2021-AUTUMN] WEB: 鎮西八郎為朝
 // https://annict.com/works/9179
@@ -34936,7 +34936,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2022-SUMMER] MOVIE: 夏へのトンネル、さよならの出口
 // https://annict.com/works/9206
-{"annict_id":9206,"mal_id":50593}
+{"annict_id":9206,"mal_id":50593,"syobocal_tid":7245}
 ,
 // [2022-AUTUMN] MOVIE: すずめの戸締まり
 // https://annict.com/works/9207
@@ -35284,7 +35284,7 @@ export const annict: ArmEntry[] = [
 ,
 // [1987-WINTER] TV: 世紀末救世主伝説 北斗の拳2
 // https://annict.com/works/9293
-{"annict_id":9293,"mal_id":1356}
+{"annict_id":9293,"mal_id":1356,"syobocal_tid":7736}
 ,
 // [2008-SPRING] OVA: 名探偵コナン MAGIC FILE
 // https://annict.com/works/9294
@@ -35644,7 +35644,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2022-SPRING] MOVIE: FLEE フリー
 // https://annict.com/works/9415
-{"annict_id":9415}
+{"annict_id":9415,"syobocal_tid":7365}
 ,
 // [1980-WINTER] TV: メーテルリンクの青い鳥 チルチルミチルの冒険旅行
 // https://annict.com/works/9416
@@ -36588,7 +36588,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2022-SUMMER] MOVIE: 銀河英雄伝説 Die Neue These 策謀 第一章
 // https://annict.com/works/9652
-{"annict_id":9652,"mal_id":51805}
+{"annict_id":9652,"mal_id":51805,"syobocal_tid":7256}
 ,
 // [2022-AUTUMN] MOVIE: 銀河英雄伝説 Die Neue These 策謀 第二章
 // https://annict.com/works/9653
@@ -38848,11 +38848,11 @@ export const annict: ArmEntry[] = [
 ,
 // [2024-SUMMER] MOVIE: きみの色
 // https://annict.com/works/10219
-{"annict_id":10219,"mal_id":53747}
+{"annict_id":10219,"mal_id":53747,"syobocal_tid":7172}
 ,
 // [2023-SPRING] MOVIE: 名探偵コナン 黒鉄の魚影
 // https://annict.com/works/10220
-{"annict_id":10220,"mal_id":53540}
+{"annict_id":10220,"mal_id":53540,"syobocal_tid":7905}
 ,
 // [2023-SUMMER] MOVIE: 劇場版シティーハンター 天使の涙
 // https://annict.com/works/10221
@@ -38948,11 +38948,11 @@ export const annict: ArmEntry[] = [
 ,
 // [2023-WINTER] MOVIE: 劇場総集編 SSSS.GRIDMAN
 // https://annict.com/works/10244
-{"annict_id":10244,"mal_id":53850}
+{"annict_id":10244,"mal_id":53850,"syobocal_tid":7824}
 ,
 // [2023-WINTER] MOVIE: 劇場総集編 SSSS.DYNAZENON
 // https://annict.com/works/10245
-{"annict_id":10245,"mal_id":53851}
+{"annict_id":10245,"mal_id":53851,"syobocal_tid":7836}
 ,
 // [2023-WINTER] TV: ポケットモンスター めざせポケモンマスター
 // https://annict.com/works/10246
@@ -40180,7 +40180,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2023-SUMMER] MOVIE: 映画プリキュアオールスターズ F
 // https://annict.com/works/10555
-{"annict_id":10555,"mal_id":54650}
+{"annict_id":10555,"mal_id":54650,"syobocal_tid":7178}
 ,
 // [1997-null] MOVIE: 空とぶドンキホーテ
 // https://annict.com/works/10556
@@ -40340,7 +40340,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2023-AUTUMN] MOVIE: 窓ぎわのトットちゃん
 // https://annict.com/works/10595
-{"annict_id":10595,"mal_id":54764}
+{"annict_id":10595,"mal_id":54764,"syobocal_tid":7168}
 ,
 // [2025-WINTER] TV: 想星のアクエリオン Myth of Emotions
 // https://annict.com/works/10596
@@ -40408,7 +40408,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2023-SUMMER] MOVIE: SAND LAND
 // https://annict.com/works/10612
-{"annict_id":10612,"mal_id":53882}
+{"annict_id":10612,"mal_id":53882,"syobocal_tid":7268}
 ,
 // [2024-WINTER] TV: うる星やつら 第2期
 // https://annict.com/works/10613
@@ -40508,7 +40508,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2024-SPRING] MOVIE: 劇場版ブルーロック -EPISODE 凪-
 // https://annict.com/works/10637
-{"annict_id":10637,"mal_id":54866}
+{"annict_id":10637,"mal_id":54866,"syobocal_tid":7253}
 ,
 // [2023-SUMMER] WEB: GAMERA -Rebirth-
 // https://annict.com/works/10638
@@ -40872,7 +40872,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2023-AUTUMN] MOVIE: 北極百貨店のコンシェルジュさん
 // https://annict.com/works/10729
-{"annict_id":10729,"mal_id":55115}
+{"annict_id":10729,"mal_id":55115,"syobocal_tid":7651}
 ,
 // [2023-AUTUMN] WEB: あんさんぶるスターズ!! 追憶セレクション 「クロスロード」
 // https://annict.com/works/10730
@@ -40888,7 +40888,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2023-AUTUMN] MOVIE: 駒田蒸留所へようこそ
 // https://annict.com/works/10733
-{"annict_id":10733,"mal_id":55149}
+{"annict_id":10733,"mal_id":55149,"syobocal_tid":7175}
 ,
 // [2024-AUTUMN] TV: やり直し令嬢は竜帝陛下を攻略中
 // https://annict.com/works/10734
@@ -41804,7 +41804,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2024-SUMMER] MOVIE: 映画 ラブライブ！虹ヶ咲学園スクールアイドル同好会 完結編 第1章
 // https://annict.com/works/10962
-{"annict_id":10962,"mal_id":55748}
+{"annict_id":10962,"mal_id":55748,"syobocal_tid":7640}
 ,
 // [2025-AUTUMN] MOVIE: 映画 ラブライブ！虹ヶ咲学園スクールアイドル同好会 完結編 第2章
 // https://annict.com/works/10963
@@ -41824,7 +41824,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2024-SPRING] MOVIE: i☆Ris the Movie -Full Energy!!-
 // https://annict.com/works/10967
-{"annict_id":10967,"mal_id":53534}
+{"annict_id":10967,"mal_id":53534,"syobocal_tid":7346}
 ,
 // [2023-SUMMER] TV: シルバニアファミリー フレアのゴー・フォー・ドリーム！
 // https://annict.com/works/10968
@@ -42244,11 +42244,11 @@ export const annict: ArmEntry[] = [
 ,
 // [2024-WINTER] MOVIE: 大室家 dear sisters
 // https://annict.com/works/11072
-{"annict_id":11072,"mal_id":56175}
+{"annict_id":11072,"mal_id":56175,"syobocal_tid":7279}
 ,
 // [2024-SPRING] MOVIE: 大室家 dear friends
 // https://annict.com/works/11073
-{"annict_id":11073,"mal_id":57993}
+{"annict_id":11073,"mal_id":57993,"syobocal_tid":7280}
 ,
 // [2024-WINTER] TV: 即死チートが最強すぎて、異世界のやつらがまるで相手にならないんですが。
 // https://annict.com/works/11074
@@ -42272,7 +42272,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2024-SUMMER] MOVIE: 僕のヒーローアカデミア THE MOVIE ユアネクスト
 // https://annict.com/works/11079
-{"annict_id":11079,"mal_id":56196}
+{"annict_id":11079,"mal_id":56196,"syobocal_tid":7167}
 ,
 // [2024-SPRING] TV: じいさんばあさん若返る
 // https://annict.com/works/11080
@@ -45148,7 +45148,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2024-SPRING] MOVIE: 名探偵コナン 100万ドルの五稜星
 // https://annict.com/works/11800
-{"annict_id":11800,"mal_id":56785}
+{"annict_id":11800,"mal_id":56785,"syobocal_tid":7909}
 ,
 // [2024-SUMMER] TV: 異世界ゆるり紀行 ～子育てしながら冒険者します～
 // https://annict.com/works/11801
@@ -45344,7 +45344,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] MOVIE: 機動警察パトレイバー EZY File 1
 // https://annict.com/works/11849
-{"annict_id":11849,"mal_id":59889}
+{"annict_id":11849,"mal_id":59889,"syobocal_tid":7808}
 ,
 // [2023-SUMMER] WEB: めちゃるGEAR MECHA MECHA NA MISSION
 // https://annict.com/works/11850
@@ -45380,7 +45380,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2024-AUTUMN] MOVIE: ふれる。
 // https://annict.com/works/11858
-{"annict_id":11858,"mal_id":57448}
+{"annict_id":11858,"mal_id":57448,"syobocal_tid":7222}
 ,
 // [1989-SPRING] MOVIE: 劇場版 妖刀伝
 // https://annict.com/works/11859
@@ -45388,11 +45388,11 @@ export const annict: ArmEntry[] = [
 ,
 // [2024-WINTER] MOVIE: 名探偵コナン vs. 怪盗キッド
 // https://annict.com/works/11860
-{"annict_id":11860}
+{"annict_id":11860,"syobocal_tid":7814}
 ,
 // [2023-WINTER] MOVIE: 名探偵コナン 灰原哀物語 〜黒鉄のミステリートレイン〜
 // https://annict.com/works/11861
-{"annict_id":11861,"mal_id":53780}
+{"annict_id":11861,"mal_id":53780,"syobocal_tid":7802}
 ,
 // [1986-SUMMER] MOVIE: ガルフォース エターナル・ストーリー
 // https://annict.com/works/11862
@@ -46144,7 +46144,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2024-SPRING] MOVIE: トラペジウム
 // https://annict.com/works/12050
-{"annict_id":12050,"mal_id":57508}
+{"annict_id":12050,"mal_id":57508,"syobocal_tid":7791}
 ,
 // [2014-AUTUMN] MOVIE: ピクミン ショートムービー
 // https://annict.com/works/12051
@@ -46428,7 +46428,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2025-SUMMER] MOVIE: 劇場版 チェンソーマン レゼ篇
 // https://annict.com/works/12122
-{"annict_id":12122,"mal_id":57555}
+{"annict_id":12122,"mal_id":57555,"syobocal_tid":7562}
 ,
 // [2027-WINTER] WEB: THE ONE PIECE
 // https://annict.com/works/12123
@@ -47792,7 +47792,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2024-SPRING] MOVIE: 数分間のエールを
 // https://annict.com/works/12464
-{"annict_id":12464,"mal_id":57915}
+{"annict_id":12464,"mal_id":57915,"syobocal_tid":7765}
 ,
 // [1981-AUTUMN] TV: ドラえもん ケンちゃんの冒険
 // https://annict.com/works/12465
@@ -48276,7 +48276,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2024-SPRING] MOVIE: ルックバック
 // https://annict.com/works/12586
-{"annict_id":12586,"mal_id":58125}
+{"annict_id":12586,"mal_id":58125,"syobocal_tid":7767}
 ,
 // [2024-SPRING] TV: SHIBUYA♡HACHI
 // https://annict.com/works/12587
@@ -48360,7 +48360,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2024-WINTER] MOVIE: 映画おしりたんてい さらば愛しき相棒(おしり)よ
 // https://annict.com/works/12607
-{"annict_id":12607,"mal_id":57590}
+{"annict_id":12607,"mal_id":57590,"syobocal_tid":7350}
 ,
 // [2024-WINTER] MOVIE: 映画おしりたんてい なんでもかいけつ倶楽部 対 かいとうU
 // https://annict.com/works/12608
@@ -48484,7 +48484,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2024-SUMMER] MOVIE: 化け猫あんずちゃん
 // https://annict.com/works/12639
-{"annict_id":12639,"mal_id":54603}
+{"annict_id":12639,"mal_id":54603,"syobocal_tid":7426}
 ,
 // [2024-SUMMER] MOVIE: 映画 クレヨンしんちゃん オラたちの恐竜日記
 // https://annict.com/works/12640
@@ -48896,7 +48896,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2024-AUTUMN] WEB: Duel Masters LOST～追憶の水晶～
 // https://annict.com/works/12742
-{"annict_id":12742,"mal_id":58275}
+{"annict_id":12742,"mal_id":58275,"syobocal_tid":7690}
 ,
 // [1931-null] MOVIE: 證城寺の狸囃子
 // https://annict.com/works/12743
@@ -49232,7 +49232,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2024-AUTUMN] MOVIE: がんばっていきまっしょい
 // https://annict.com/works/12826
-{"annict_id":12826,"mal_id":58491}
+{"annict_id":12826,"mal_id":58491,"syobocal_tid":7238}
 ,
 // [2025-SPRING] TV: mono
 // https://annict.com/works/12827
@@ -49344,7 +49344,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2025-WINTER] MOVIE: Thunderbolt Fantasy 東離劍遊紀 最終章
 // https://annict.com/works/12854
-{"annict_id":12854}
+{"annict_id":12854,"syobocal_tid":7955}
 ,
 // [2024-AUTUMN] WEB: HIGH CARD #25 THE FLOWERS BLOOM
 // https://annict.com/works/12855
@@ -49400,7 +49400,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] MOVIE: 新劇場版☆ケロロ軍曹 復活して速攻地球滅亡の危機であります！
 // https://annict.com/works/12868
-{"annict_id":12868,"mal_id":58773}
+{"annict_id":12868,"mal_id":58773,"syobocal_tid":7940}
 ,
 // [1941-null] MOVIE: アリチャン
 // https://annict.com/works/12869
@@ -49664,7 +49664,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2025-SUMMER] MOVIE: 映画 おでかけ子ザメ とかいのおともだち
 // https://annict.com/works/12935
-{"annict_id":12935,"mal_id":58837}
+{"annict_id":12935,"mal_id":58837,"syobocal_tid":7970}
 ,
 // [1929-AUTUMN] MOVIE: ミッキーの汽車旅行
 // https://annict.com/works/12936
@@ -50108,7 +50108,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2025-SUMMER] MOVIE: ひゃくえむ。
 // https://annict.com/works/13046
-{"annict_id":13046,"mal_id":58919}
+{"annict_id":13046,"mal_id":58919,"syobocal_tid":7857}
 ,
 // [2025-SUMMER] TV: 光が死んだ夏
 // https://annict.com/works/13047
@@ -50136,7 +50136,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2024-SPRING] WEB: コードギアス 奪還のロゼ
 // https://annict.com/works/13053
-{"annict_id":13053,"mal_id":56835}
+{"annict_id":13053,"mal_id":56835,"syobocal_tid":7929}
 ,
 // [1961-SPRING] TV: インスタントヒストリー
 // https://annict.com/works/13054
@@ -52820,7 +52820,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2025-WINTER] MOVIE: 美男高校地球防衛部ETERNAL LOVE！
 // https://annict.com/works/13725
-{"annict_id":13725,"mal_id":59406}
+{"annict_id":13725,"mal_id":59406,"syobocal_tid":7462}
 ,
 // [2025-WINTER] MOVIE: 劇場版 モノノ怪 火鼠
 // https://annict.com/works/13726
@@ -52828,7 +52828,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2025-WINTER] MOVIE: 劇場版プロジェクトセカイ 壊れたセカイと歌えないミク
 // https://annict.com/works/13727
-{"annict_id":13727,"mal_id":59419}
+{"annict_id":13727,"mal_id":59419,"syobocal_tid":7732}
 ,
 // [2025-SUMMER] TV: ずたぼろ令嬢は姉の元婚約者に溺愛される
 // https://annict.com/works/13728
@@ -52892,7 +52892,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2024-AUTUMN] WEB: Duel Masters LOST ～月下の死神～
 // https://annict.com/works/13743
-{"annict_id":13743,"mal_id":59458}
+{"annict_id":13743,"mal_id":59458,"syobocal_tid":7722}
 ,
 // [2025-SUMMER] TV: サイレント・ウィッチ 沈黙の魔女の隠しごと
 // https://annict.com/works/13744
@@ -53244,7 +53244,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2025-SPRING] MOVIE: 劇場版総集編 呪術廻戦 懐玉・玉折
 // https://annict.com/works/13831
-{"annict_id":13831,"mal_id":59654}
+{"annict_id":13831,"mal_id":59654,"syobocal_tid":7912}
 ,
 // [2004-WINTER] MOVIE: ONE PIECE めざせ！海賊野球王
 // https://annict.com/works/13832
@@ -53304,11 +53304,11 @@ export const annict: ArmEntry[] = [
 ,
 // [2024-AUTUMN] MOVIE: 映画イナズマイレブン総集編 伝説のキックオフ
 // https://annict.com/works/13847
-{"annict_id":13847,"mal_id":59709}
+{"annict_id":13847,"mal_id":59709,"syobocal_tid":7568}
 ,
 // [2024-AUTUMN] MOVIE: 劇場版イナズマイレブン 新たなる英雄たちの序章
 // https://annict.com/works/13848
-{"annict_id":13848,"mal_id":59710}
+{"annict_id":13848,"mal_id":59710,"syobocal_tid":7568}
 ,
 // [2025-SUMMER] TV: ゲーセン少女と異文化交流
 // https://annict.com/works/13849
@@ -53808,7 +53808,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2025-WINTER] MOVIE: 映画おしりたんてい スター・アンド・ムーン
 // https://annict.com/works/13976
-{"annict_id":13976,"mal_id":60613}
+{"annict_id":13976,"mal_id":60613,"syobocal_tid":7788}
 ,
 // [2025-AUTUMN] MOVIE: 劇場版総集編 ガールズバンドクライ 青春狂走曲
 // https://annict.com/works/13977
@@ -53912,7 +53912,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2025-SPRING] MOVIE: ヴァージン・パンク Clockwork Girl
 // https://annict.com/works/14002
-{"annict_id":14002,"mal_id":59848}
+{"annict_id":14002,"mal_id":59848,"syobocal_tid":7813}
 ,
 // [2025-SPRING] TV: ばいばい、アース 第2シーズン
 // https://annict.com/works/14003
@@ -54060,7 +54060,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2025-SPRING] MOVIE: 小林さんちのメイドラゴン さみしがりやの竜
 // https://annict.com/works/14039
-{"annict_id":14039,"mal_id":59897}
+{"annict_id":14039,"mal_id":59897,"syobocal_tid":7526}
 ,
 // [2025-SUMMER] TV: CITY THE ANIMATION
 // https://annict.com/works/14040
@@ -54160,7 +54160,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] MOVIE: 劇場版 転生したらスライムだった件  蒼海の涙編
 // https://annict.com/works/14065
-{"annict_id":14065,"mal_id":59971}
+{"annict_id":14065,"mal_id":59971,"syobocal_tid":7740}
 ,
 // [2026-SPRING] TV: 転生したらスライムだった件 第4期
 // https://annict.com/works/14066
@@ -56452,7 +56452,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2025-WINTER] MOVIE: 映画 『ヒプノシスマイク -Division Rap Battle-』
 // https://annict.com/works/14639
-{"annict_id":14639,"mal_id":60273}
+{"annict_id":14639,"mal_id":60273,"syobocal_tid":7349}
 ,
 // [2025-SUMMER] WEB: リヴァイアサン
 // https://annict.com/works/14640
@@ -57296,7 +57296,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2025-SPRING] MOVIE: 名探偵コナン 隻眼の残像
 // https://annict.com/works/14850
-{"annict_id":14850,"mal_id":60445}
+{"annict_id":14850,"mal_id":60445,"syobocal_tid":7843}
 ,
 // [2025-SPRING] TV: 増田こうすけ劇場 ギャグマンガ日和GO
 // https://annict.com/works/14851
@@ -57908,7 +57908,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2025-AUTUMN] MOVIE: 果てしなきスカーレット
 // https://annict.com/works/15003
-{"annict_id":15003,"mal_id":60610}
+{"annict_id":15003,"mal_id":60610,"syobocal_tid":7647}
 ,
 // [2025-WINTER] TV: とーがね！クロニクル＜再編集版＞
 // https://annict.com/works/15004
@@ -58352,7 +58352,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2025-SUMMER] MOVIE: 不思議の国でアリスと -Dive in Wonderland-
 // https://annict.com/works/15115
-{"annict_id":15115,"mal_id":60778}
+{"annict_id":15115,"mal_id":60778,"syobocal_tid":7933}
 ,
 // [2025-SUMMER] MOVIE: ChaO
 // https://annict.com/works/15116
@@ -58796,7 +58796,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2025-SUMMER] MOVIE: 映画クレヨンしんちゃん 超華麗！灼熱のカスカベダンサーズ
 // https://annict.com/works/15226
-{"annict_id":15226,"mal_id":60862}
+{"annict_id":15226,"mal_id":60862,"syobocal_tid":7966}
 ,
 // [2021-WINTER] TV: シュームの大冒険
 // https://annict.com/works/15227
@@ -60272,7 +60272,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2025-AUTUMN] MOVIE: 羅小黒戦記２ ぼくらが望む未来
 // https://annict.com/works/15595
-{"annict_id":15595,"mal_id":61952}
+{"annict_id":15595,"mal_id":61952,"syobocal_tid":7638}
 ,
 // [2025-SUMMER] TV: 陰陽廻天 Re:バース
 // https://annict.com/works/15596
@@ -60744,7 +60744,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2025-AUTUMN] MOVIE: ガールズ＆パンツァー もっとらぶらぶ作戦です！第１幕
 // https://annict.com/works/15713
-{"annict_id":15713,"mal_id":61227}
+{"annict_id":15713,"mal_id":61227,"syobocal_tid":7738}
 ,
 // [2025-WINTER] MOVIE: ワールズ・ディバイド
 // https://annict.com/works/15714
@@ -61432,7 +61432,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] MOVIE: えんとつ町のプペル 〜約束の時計台〜
 // https://annict.com/works/15886
-{"annict_id":15886,"mal_id":61492}
+{"annict_id":15886,"mal_id":61492,"syobocal_tid":7801}
 ,
 // [2026-null] MOVIE: ひな菊の人生
 // https://annict.com/works/15887
@@ -62352,7 +62352,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2025-SPRING] WEB: 新星ギャルバース
 // https://annict.com/works/16116
-{"annict_id":16116,"mal_id":61672}
+{"annict_id":16116,"mal_id":61672,"syobocal_tid":7507}
 ,
 // [2002-SUMMER] OVA: とらいあんぐるハート ～Sweet Songs Forever～ サウンドステージVA
 // https://annict.com/works/16117
@@ -62396,7 +62396,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2023-SUMMER] MOVIE: 忘星のヴァリシア 第一章：劫火
 // https://annict.com/works/16127
-{"annict_id":16127,"mal_id":55640}
+{"annict_id":16127,"mal_id":55640,"syobocal_tid":7882}
 ,
 // [2025-SPRING] MOVIE: 忘星のヴァリシア 第二章：群青
 // https://annict.com/works/16128
@@ -64640,7 +64640,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] WEB: 超かぐや姫！
 // https://annict.com/works/16694
-{"annict_id":16694,"mal_id":62896}
+{"annict_id":16694,"mal_id":62896,"syobocal_tid":7737}
 ,
 // [2011-SUMMER] OVA: 神様ドォルズ 特典映像
 // https://annict.com/works/16695
@@ -66132,7 +66132,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] MOVIE: 君と花火と約束と
 // https://annict.com/works/17069
-{"annict_id":17069,"mal_id":63366}
+{"annict_id":17069,"mal_id":63366,"syobocal_tid":7961}
 ,
 // [2026-WINTER] WEB: 『DRAGON BALL』40周年記念スペシャル映像
 // https://annict.com/works/17070
@@ -66444,7 +66444,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-WINTER] MOVIE: 超かぐや姫！(劇場版)
 // https://annict.com/works/17148
-{"annict_id":17148,"mal_id":62896}
+{"annict_id":17148,"mal_id":62896,"syobocal_tid":7737}
 ,
 // [null-null] OTHER: バッドエンド目前のヒロインに転生した私、今世では恋愛するつもりがチートな兄が離してくれません！？
 // https://annict.com/works/17149
