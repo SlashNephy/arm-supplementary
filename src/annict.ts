@@ -70054,4 +70054,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18057
 {"annict_id":18057,"mal_id":42074,"syobocal_tid":6588}
 ,
+// [2026-AUTUMN] MOVIE: マルセル＆ムッシュ・パニョル
+// https://annict.com/works/18058
+{"annict_id":18058}
+,
 ]
