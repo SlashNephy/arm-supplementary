@@ -1656,7 +1656,7 @@ export const annict: ArmEntry[] = [
 ,
 // [1984-SPRING] TV: ガラスの仮面 (1984)
 // https://annict.com/works/414
-{"annict_id":414,"mal_id":506}
+{"annict_id":414,"mal_id":506,"syobocal_tid":7863}
 ,
 // [2013-SPRING] TV: ガラスの仮面ですが
 // https://annict.com/works/415
@@ -2360,7 +2360,7 @@ export const annict: ArmEntry[] = [
 ,
 // [1997-SPRING] TV: 金田一少年の事件簿
 // https://annict.com/works/590
-{"annict_id":590,"mal_id":2076}
+{"annict_id":590,"mal_id":2076,"syobocal_tid":7873}
 ,
 // [2006-AUTUMN] TV: 金色のコルダ ～Primo Passo～
 // https://annict.com/works/591
@@ -5112,7 +5112,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2001-WINTER] TV: 地球少女アルジュナ
 // https://annict.com/works/1280
-{"annict_id":1280,"mal_id":812}
+{"annict_id":1280,"mal_id":812,"syobocal_tid":7859}
 ,
 // [1999-AUTUMN] TV: 地球防衛企業ダイ・ガード
 // https://annict.com/works/1281
@@ -18764,7 +18764,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2005-AUTUMN] WEB: やわらか戦車
 // https://annict.com/works/4720
-{"annict_id":4720,"mal_id":21275}
+{"annict_id":4720,"mal_id":21275,"syobocal_tid":7972}
 ,
 // [2005-SPRING] TV: 今日からマ王！(第2シリーズ)
 // https://annict.com/works/4721
@@ -34108,7 +34108,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2021-AUTUMN] TV: 湖池屋SDGs劇場 サスとテナ
 // https://annict.com/works/8967
-{"annict_id":8967,"mal_id":62556}
+{"annict_id":8967,"mal_id":62556,"syobocal_tid":7958}
 ,
 // [2021-AUTUMN] TV: 猫ジョッキー 2期
 // https://annict.com/works/8968
@@ -35944,7 +35944,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2022-SPRING] TV: 湖池屋SDGs劇場 サスとテナ シーズン2
 // https://annict.com/works/9491
-{"annict_id":9491,"mal_id":62557}
+{"annict_id":9491,"mal_id":62557,"syobocal_tid":7957}
 ,
 // [2022-WINTER] WEB: HEROES (ヒーローズ) ～Legend of Battle Disks～
 // https://annict.com/works/9492
@@ -38396,7 +38396,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2022-AUTUMN] TV: 湖池屋SDGs劇場 サスとテナ シーズン3
 // https://annict.com/works/10106
-{"annict_id":10106,"mal_id":62558}
+{"annict_id":10106,"mal_id":62558,"syobocal_tid":7956}
 ,
 // [2023-WINTER] TV: ダンジョンに出会いを求めるのは間違っているだろうかⅣ 深章 厄災篇
 // https://annict.com/works/10107
