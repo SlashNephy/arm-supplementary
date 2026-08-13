@@ -70058,4 +70058,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18058
 {"annict_id":18058}
 ,
+// [2026-AUTUMN] TV: ねずみくんのチョッキ 第2期
+// https://annict.com/works/18059
+{"annict_id":18059,"mal_id":64789}
+,
+// [2026-SUMMER] WEB: カメールと、夏のつづき
+// https://annict.com/works/18060
+{"annict_id":18060}
+,
 ]
