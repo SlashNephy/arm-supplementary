@@ -70094,4 +70094,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18067
 {"annict_id":18067,"mal_id":64793}
 ,
+// [2003-AUTUMN] OVA: ガラクタ通りのステイン エピローグ「ハーモニカ」
+// https://annict.com/works/18068
+{"annict_id":18068,"mal_id":12497}
+,
 ]
