@@ -59536,7 +59536,7 @@ export const annict: ArmEntry[] = [
 ,
 // [1933-null] MOVIE: 旋律
 // https://annict.com/works/15411
-{"annict_id":15411}
+{"annict_id":15411,"mal_id":64741}
 ,
 // [null-null] MOVIE: のらくろ二等兵（森紅作品）
 // https://annict.com/works/15412
