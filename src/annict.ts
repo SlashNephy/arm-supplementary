@@ -70066,4 +70066,28 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18060
 {"annict_id":18060}
 ,
+// [2020-AUTUMN] WEB: カモネギ三葱隊ものがたり
+// https://annict.com/works/18061
+{"annict_id":18061}
+,
+// [2023-SUMMER] WEB: 「ポケモンWCS2023」アニメーションCM「キミに会えた！」
+// https://annict.com/works/18062
+{"annict_id":18062,"mal_id":56064}
+,
+// [2024-WINTER] WEB: 知られざる「モモワロウ物語」
+// https://annict.com/works/18063
+{"annict_id":18063,"mal_id":57858}
+,
+// [2024-SPRING] WEB: Bubble Beam Berry Blast
+// https://annict.com/works/18064
+{"annict_id":18064,"mal_id":59013}
+,
+// [2024-SUMMER] WEB: ポケモンカードゲームPV 「Trainer's Pokémon」
+// https://annict.com/works/18065
+{"annict_id":18065,"mal_id":59615}
+,
+// [2024-AUTUMN] WEB: ポケモンカードゲームPV 「9つの冒険」
+// https://annict.com/works/18066
+{"annict_id":18066,"mal_id":60674}
+,
 ]
