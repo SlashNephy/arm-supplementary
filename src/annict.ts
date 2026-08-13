@@ -70090,4 +70090,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18066
 {"annict_id":18066,"mal_id":60674}
 ,
+// [2026-SUMMER] WEB: てっけん！ゆるっとカートゥーン
+// https://annict.com/works/18067
+{"annict_id":18067,"mal_id":64793}
+,
 ]
