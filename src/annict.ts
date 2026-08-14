@@ -70098,4 +70098,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18068
 {"annict_id":18068,"mal_id":12497}
 ,
+// [2026-SUMMER] TV: 食物戦隊クッキングレンジャー
+// https://annict.com/works/18069
+{"annict_id":18069}
+,
 ]
