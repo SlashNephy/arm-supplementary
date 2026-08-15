@@ -70122,4 +70122,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18074
 {"annict_id":18074}
 ,
+// [2026-SUMMER] WEB: 「Fate/Grand Order」11th Anniversary Movie -Cosmos in the Lostbelt-
+// https://annict.com/works/18075
+{"annict_id":18075}
+,
+// [2026-SUMMER] WEB: 『リバース：1999』3周年記念アニメーション「狭間の光」
+// https://annict.com/works/18076
+{"annict_id":18076}
+,
 ]
