@@ -53038,7 +53038,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/13779
 {"annict_id":13779}
 ,
-// [2027-null] MOVIE: アナと雪の女王３（原題）
+// [2027-AUTUMN] MOVIE: アナと雪の女王３（原題）
 // https://annict.com/works/13780
 {"annict_id":13780}
 ,
@@ -70137,5 +70137,33 @@ export const annict: ArmEntry[] = [
 // [2026-SUMMER] WEB: スヌーピー プレゼンツ：やっぱり、おうちがいちばん！
 // https://annict.com/works/18078
 {"annict_id":18078}
+,
+// [null-null] WEB: キングダム ハーツ（仮題）
+// https://annict.com/works/18079
+{"annict_id":18079}
+,
+// [2028-AUTUMN] MOVIE: クレイ（原題）
+// https://annict.com/works/18080
+{"annict_id":18080}
+,
+// [null-null] MOVIE: ズートピア３（仮題）
+// https://annict.com/works/18081
+{"annict_id":18081}
+,
+// [2027-WINTER] WEB: オズワルド（原題）
+// https://annict.com/works/18082
+{"annict_id":18082}
+,
+// [2027-null] MOVIE: アイスエイジ：ぐつぐつロストワールド
+// https://annict.com/works/18083
+{"annict_id":18083}
+,
+// [2028-SPRING] MOVIE: ゴースト・マーケット（原題）
+// https://annict.com/works/18084
+{"annict_id":18084}
+,
+// [2029-AUTUMN] MOVIE: リメンバーミー２
+// https://annict.com/works/18085
+{"annict_id":18085}
 ,
 ]
