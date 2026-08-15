@@ -70130,4 +70130,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18076
 {"annict_id":18076}
 ,
+// [2027-SUMMER] MOVIE: 映画 ブルーイ
+// https://annict.com/works/18077
+{"annict_id":18077}
+,
+// [2026-SUMMER] WEB: スヌーピー プレゼンツ：やっぱり、おうちがいちばん！
+// https://annict.com/works/18078
+{"annict_id":18078}
+,
 ]
