@@ -70154,10 +70154,6 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18082
 {"annict_id":18082}
 ,
-// [2027-null] MOVIE: アイスエイジ：ぐつぐつロストワールド
-// https://annict.com/works/18083
-{"annict_id":18083}
-,
 // [2028-SPRING] MOVIE: ゴースト・マーケット（原題）
 // https://annict.com/works/18084
 {"annict_id":18084}
