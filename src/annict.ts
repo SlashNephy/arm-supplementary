@@ -63038,7 +63038,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16288
 {"annict_id":16288,"mal_id":61973}
 ,
-// [2025-SUMMER] WEB: SUGAR SUGAR RUNE Les deux sorcières
+// [2025-SUMMER] WEB: SUGAR SUGAR RUNE　Les deux sorcières
 // https://annict.com/works/16289
 {"annict_id":16289}
 ,
@@ -70165,5 +70165,9 @@ export const annict: ArmEntry[] = [
 // [2029-AUTUMN] MOVIE: リメンバーミー２
 // https://annict.com/works/18085
 {"annict_id":18085}
+,
+// [2015-SPRING] WEB: 鼻下長紳士回顧録
+// https://annict.com/works/18086
+{"annict_id":18086}
 ,
 ]
