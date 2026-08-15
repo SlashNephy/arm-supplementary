@@ -70102,4 +70102,24 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18069
 {"annict_id":18069}
 ,
+// [2025-AUTUMN] WEB: 「お笑いえほん」シリーズ
+// https://annict.com/works/18070
+{"annict_id":18070}
+,
+// [2025-AUTUMN] WEB: すやすやおやすみ
+// https://annict.com/works/18071
+{"annict_id":18071}
+,
+// [2025-AUTUMN] WEB: やさしいおばけのパンやさん
+// https://annict.com/works/18072
+{"annict_id":18072}
+,
+// [2025-AUTUMN] WEB: おとうとなんてだいっきらい！
+// https://annict.com/works/18073
+{"annict_id":18073}
+,
+// [2025-AUTUMN] WEB: ぼくはシャンプーたまねぎマン
+// https://annict.com/works/18074
+{"annict_id":18074}
+,
 ]
