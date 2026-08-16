@@ -39004,7 +39004,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: 転生したら剣でしたII
 // https://annict.com/works/10258
-{"annict_id":10258,"mal_id":53913}
+{"annict_id":10258,"mal_id":53913,"syobocal_tid":7981}
 ,
 // [2024-SPRING] TV: 夜桜さんちの大作戦
 // https://annict.com/works/10259
