@@ -70162,4 +70162,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18085
 {"annict_id":18085}
 ,
+// [2026-SUMMER] WEB: トイ・ストーリー ボニーの新学期をすくえ！
+// https://annict.com/works/18087
+{"annict_id":18087}
+,
 ]
