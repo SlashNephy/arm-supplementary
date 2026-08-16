@@ -57762,7 +57762,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/14966
 {"annict_id":14966}
 ,
-// [2027-SPRING] TV: スキップとローファー 第2期
+// [2027-SPRING] TV: スキップとローファー 2nd season
 // https://annict.com/works/14967
 {"annict_id":14967,"mal_id":60548}
 ,
