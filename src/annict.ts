@@ -70146,7 +70146,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18080
 {"annict_id":18080}
 ,
-// [null-null] MOVIE: ズートピア３（仮題）
+// [null-null] MOVIE: ズートピア3（仮題）
 // https://annict.com/works/18081
 {"annict_id":18081}
 ,
@@ -70158,12 +70158,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18084
 {"annict_id":18084}
 ,
-// [2029-AUTUMN] MOVIE: リメンバーミー２
+// [2029-AUTUMN] MOVIE: リメンバー・ミー2
 // https://annict.com/works/18085
 {"annict_id":18085}
-,
-// [2015-SPRING] WEB: 鼻下長紳士回顧録
-// https://annict.com/works/18086
-{"annict_id":18086}
 ,
 ]
