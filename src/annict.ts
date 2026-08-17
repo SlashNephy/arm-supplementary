@@ -70166,4 +70166,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18087
 {"annict_id":18087}
 ,
+// [2012-AUTUMN] OVA: 人類は衰退しました 「人間さんの、ようせいさんめも」
+// https://annict.com/works/18088
+{"annict_id":18088}
+,
 ]
