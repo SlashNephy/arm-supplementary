@@ -42592,7 +42592,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2001-SPRING] TV: KEROKERO NEWS SHOW
 // https://annict.com/works/11159
-{"annict_id":11159}
+{"annict_id":11159,"mal_id":64798}
 ,
 // [2003-SPRING] TV: ケロケロキングデラックスプラス
 // https://annict.com/works/11160
