@@ -61386,7 +61386,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15874
 {"annict_id":15874}
 ,
-// [null-null] TV: テンカイチ 日本最強武芸者決定戦
+// [2027-SPRING] TV: テンカイチ 日本最強武芸者決定戦
 // https://annict.com/works/15875
 {"annict_id":15875,"mal_id":61461}
 ,
