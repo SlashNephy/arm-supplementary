@@ -70170,4 +70170,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18088
 {"annict_id":18088}
 ,
+// [2023-SUMMER] WEB: LEGO ディズニープリンセス：お城の冒険
+// https://annict.com/works/18089
+{"annict_id":18089}
+,
 ]
