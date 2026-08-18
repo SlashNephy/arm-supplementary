@@ -70174,4 +70174,20 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18089
 {"annict_id":18089}
 ,
+// [2025-SUMMER] WEB: LEGO ディズニープリンセス：ヴィランズ大集合
+// https://annict.com/works/18090
+{"annict_id":18090}
+,
+// [2026-SUMMER] WEB: LEGO ディズニープリンセス：動物たちと大騒ぎ
+// https://annict.com/works/18091
+{"annict_id":18091}
+,
+// [1978-AUTUMN] OTHER: ウーキー物語
+// https://annict.com/works/18092
+{"annict_id":18092}
+,
+// [2026-SPRING] WEB: スター・ウォーズ フォースのものがたり
+// https://annict.com/works/18093
+{"annict_id":18093}
+,
 ]
