@@ -52842,7 +52842,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/13730
 {"annict_id":13730}
 ,
-// [2026-null] TV: DARK MACHINE THE ANIMATION
+// [2026-AUTUMN] TV: DARK MACHINE THE ANIMATION
 // https://annict.com/works/13731
 {"annict_id":13731,"mal_id":59415}
 ,
