@@ -70190,4 +70190,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18093
 {"annict_id":18093}
 ,
+// [2026-SUMMER] WEB: いたずらエルフーンとさせるかマフィティフ
+// https://annict.com/works/18094
+{"annict_id":18094}
+,
 ]
