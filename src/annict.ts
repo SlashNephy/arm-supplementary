@@ -70194,4 +70194,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18094
 {"annict_id":18094}
 ,
+// [2026-SUMMER] WEB: 魔法童女よつぎ☆ピース
+// https://annict.com/works/18095
+{"annict_id":18095}
+,
 ]
