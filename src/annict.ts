@@ -70206,4 +70206,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18097
 {"annict_id":18097}
 ,
+// [2026-SUMMER] WEB: Angry Rabbit
+// https://annict.com/works/18098
+{"annict_id":18098,"mal_id":64840}
+,
+// [null-null] OTHER: お酒によわい安藤さん
+// https://annict.com/works/18099
+{"annict_id":18099,"mal_id":64835}
+,
 ]
