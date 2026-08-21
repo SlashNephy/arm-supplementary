@@ -70202,4 +70202,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18096
 {"annict_id":18096}
 ,
+// [2027-null] TV: Maiden Blood
+// https://annict.com/works/18097
+{"annict_id":18097}
+,
 ]
