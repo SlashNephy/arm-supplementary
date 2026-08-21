@@ -70214,4 +70214,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18099
 {"annict_id":18099,"mal_id":64835}
 ,
+// [2027-null] TV: 最弱な僕は＜壁抜けバグ＞で成り上がる
+// https://annict.com/works/18100
+{"annict_id":18100,"mal_id":63081}
+,
 ]
