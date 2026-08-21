@@ -70204,7 +70204,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2027-null] TV: Maiden Blood
 // https://annict.com/works/18097
-{"annict_id":18097}
+{"annict_id":18097,"mal_id":64844}
 ,
 // [2026-SUMMER] WEB: Angry Rabbit
 // https://annict.com/works/18098
