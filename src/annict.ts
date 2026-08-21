@@ -60898,7 +60898,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15751
 {"annict_id":15751,"mal_id":61280,"syobocal_tid":7889}
 ,
-// [null-null] TV: 俺と悠兄！
+// [2027-WINTER] TV: 俺と悠兄！
 // https://annict.com/works/15752
 {"annict_id":15752,"mal_id":61282}
 ,
@@ -67702,7 +67702,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17464
 {"annict_id":17464,"mal_id":48627}
 ,
-// [null-null] TV: ペンと手錠と事実婚
+// [2027-WINTER] TV: ペンと手錠と事実婚
 // https://annict.com/works/17465
 {"annict_id":17465,"mal_id":63970}
 ,
