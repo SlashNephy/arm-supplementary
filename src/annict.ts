@@ -70198,4 +70198,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18095
 {"annict_id":18095}
 ,
+// [2026-SUMMER] TV: ちいさなプリンセス ソフィア おうこくのまほう
+// https://annict.com/works/18096
+{"annict_id":18096}
+,
 ]
