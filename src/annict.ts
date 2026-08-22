@@ -69422,7 +69422,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17897
 {"annict_id":17897,"mal_id":64552}
 ,
-// [2027-null] TV: MURCIÉLAGO-ムルシエラゴ-
+// [2027-WINTER] TV: MURCIÉLAGO-ムルシエラゴ-
 // https://annict.com/works/17898
 {"annict_id":17898,"mal_id":64555}
 ,
