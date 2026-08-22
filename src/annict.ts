@@ -70226,4 +70226,16 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18102
 {"annict_id":18102,"mal_id":64848}
 ,
+// [2001-SUMMER] OVA: となかいロビー 炎のランナー
+// https://annict.com/works/18103
+{"annict_id":18103}
+,
+// [2003-AUTUMN] OVA: となかいロビー 伝説の勇者
+// https://annict.com/works/18104
+{"annict_id":18104}
+,
+// [2017-null] WEB: となかいロビー 宇宙人との遭遇
+// https://annict.com/works/18105
+{"annict_id":18105}
+,
 ]
