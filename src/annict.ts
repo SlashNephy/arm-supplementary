@@ -70222,4 +70222,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18101
 {"annict_id":18101,"mal_id":64847}
 ,
+// [2026-AUTUMN] WEB: Duel Masters LOST ～断罪の少年～
+// https://annict.com/works/18102
+{"annict_id":18102,"mal_id":64848}
+,
 ]
