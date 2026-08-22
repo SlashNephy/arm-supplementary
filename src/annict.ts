@@ -70238,4 +70238,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18105
 {"annict_id":18105}
 ,
+// [2026-AUTUMN] WEB: うまゆる ふるげ～と！
+// https://annict.com/works/18106
+{"annict_id":18106}
+,
 ]
