@@ -70218,4 +70218,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18100
 {"annict_id":18100,"mal_id":63081}
 ,
+// [null-null] TV: Fate/strange Fake 新シリーズ
+// https://annict.com/works/18101
+{"annict_id":18101,"mal_id":64847}
+,
 ]
