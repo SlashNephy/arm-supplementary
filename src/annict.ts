@@ -70256,7 +70256,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2027-SUMMER] MOVIE: ONE PIECE FILM GOD VALLEY
 // https://annict.com/works/18110
-{"annict_id":18110}
+{"annict_id":18110,"mal_id":64858}
 ,
 // [2014-SUMMER] OVA: コアラ･キッド
 // https://annict.com/works/18111
@@ -70264,7 +70264,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2029-null] MOVIE: ONE PIECE FILM BAAD
 // https://annict.com/works/18112
-{"annict_id":18112}
+{"annict_id":18112,"mal_id":64859}
 ,
 // [2019-AUTUMN] OVA: みんなあつまれ！ワンダーパーク
 // https://annict.com/works/18113
@@ -70285,5 +70285,9 @@ export const annict: ArmEntry[] = [
 // [2025-AUTUMN] WEB: でゅえる・ますたーず ろすとみに
 // https://annict.com/works/18117
 {"annict_id":18117}
+,
+// [2026-SUMMER] WEB: 帰ってきた でゅえる・ますたーず ろすとみに
+// https://annict.com/works/18118
+{"annict_id":18118}
 ,
 ]
