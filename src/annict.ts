@@ -67938,7 +67938,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17524
 {"annict_id":17524}
 ,
-// [null-null] TV: 暴食のベルセルク 第2期
+// [2027-null] TV: 暴食のベルセルク 第2期
 // https://annict.com/works/17525
 {"annict_id":17525,"mal_id":64059}
 ,
