@@ -70242,4 +70242,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18106
 {"annict_id":18106}
 ,
+// [2026-SUMMER] WEB: KAエスマ文庫『草原の輝き』アニメーションCM
+// https://annict.com/works/18107
+{"annict_id":18107}
+,
 ]
