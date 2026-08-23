@@ -70282,4 +70282,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18116
 {"annict_id":18116}
 ,
+// [2025-AUTUMN] WEB: でゅえる・ますたーず ろすとみに
+// https://annict.com/works/18117
+{"annict_id":18117}
+,
 ]
