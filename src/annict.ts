@@ -70250,4 +70250,36 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18108
 {"annict_id":18108,"mal_id":2522}
 ,
+// [2007-AUTUMN] MOVIE: リトル・レッド ～レシピ泥棒は誰だ!?～
+// https://annict.com/works/18109
+{"annict_id":18109}
+,
+// [2027-SUMMER] MOVIE: ONE PIECE FILM GOD VALLEY
+// https://annict.com/works/18110
+{"annict_id":18110}
+,
+// [2014-SUMMER] OVA: コアラ･キッド
+// https://annict.com/works/18111
+{"annict_id":18111}
+,
+// [2029-null] MOVIE: ONE PIECE FILM BAAD
+// https://annict.com/works/18112
+{"annict_id":18112}
+,
+// [2019-AUTUMN] OVA: みんなあつまれ！ワンダーパーク
+// https://annict.com/works/18113
+{"annict_id":18113}
+,
+// [2022-SPRING] WEB: モンスターズ・リーグ
+// https://annict.com/works/18114
+{"annict_id":18114}
+,
+// [2024-AUTUMN] WEB: アンダー・ザ・ボードウォーク
+// https://annict.com/works/18115
+{"annict_id":18115}
+,
+// [2024-SPRING] WEB: ガーディアンと魔法の虎
+// https://annict.com/works/18116
+{"annict_id":18116}
+,
 ]
