@@ -70246,4 +70246,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18107
 {"annict_id":18107,"mal_id":64839}
 ,
+// [1995-AUTUMN] OVA: 楽勝！ハイパー♥ドール
+// https://annict.com/works/18108
+{"annict_id":18108,"mal_id":2522}
+,
 ]
