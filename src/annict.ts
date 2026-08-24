@@ -70310,4 +70310,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18123
 {"annict_id":18123}
 ,
+// [2022-SUMMER] WEB: ライズ・オブ・ミュータント・タートルズ: THE MOVIE
+// https://annict.com/works/18124
+{"annict_id":18124}
+,
 ]
