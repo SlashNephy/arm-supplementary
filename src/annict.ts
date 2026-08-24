@@ -70314,4 +70314,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18124
 {"annict_id":18124}
 ,
+// [2026-SPRING] WEB: プークーと魔法の植物
+// https://annict.com/works/18125
+{"annict_id":18125}
+,
 ]
