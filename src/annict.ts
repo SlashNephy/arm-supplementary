@@ -70290,4 +70290,24 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18118
 {"annict_id":18118}
 ,
+// [1999-AUTUMN] MOVIE: ラグラッツ・ムービー
+// https://annict.com/works/18119
+{"annict_id":18119}
+,
+// [2002-SPRING] MOVIE: ラグラッツのパリ探検隊
+// https://annict.com/works/18120
+{"annict_id":18120}
+,
+// [2003-AUTUMN] MOVIE: ヘイ・アーノルド！ムービー
+// https://annict.com/works/18121
+{"annict_id":18121}
+,
+// [2003-AUTUMN] MOVIE: ワイルド・ソーンベリーズ ムービー
+// https://annict.com/works/18122
+{"annict_id":18122}
+,
+// [2004-AUTUMN] OVA: ラグラッツのGOGOアドベンチャー
+// https://annict.com/works/18123
+{"annict_id":18123}
+,
 ]
