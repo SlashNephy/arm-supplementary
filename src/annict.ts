@@ -70240,7 +70240,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] WEB: うまゆる ふるげ～と！
 // https://annict.com/works/18106
-{"annict_id":18106}
+{"annict_id":18106,"mal_id":64867}
 ,
 // [2026-SUMMER] WEB: KAエスマ文庫『草原の輝き』アニメーションCM
 // https://annict.com/works/18107
