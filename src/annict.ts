@@ -70318,4 +70318,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18125
 {"annict_id":18125}
 ,
+// [1973-SUMMER] MOVIE: シャーロットのおくりもの (1973年)
+// https://annict.com/works/18126
+{"annict_id":18126}
+,
+// [2004-AUTUMN] OVA: シャーロットのおくりもの ウィルバーの大ぼうけん
+// https://annict.com/works/18127
+{"annict_id":18127}
+,
 ]
