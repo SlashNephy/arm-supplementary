@@ -60756,7 +60756,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: Battle Spirits [Re] 絶界の空
 // https://annict.com/works/15716
-{"annict_id":15716}
+{"annict_id":15716,"mal_id":63818}
 ,
 // [2026-SPRING] MOVIE: 最終楽章 響け！ユーフォニアム 前編
 // https://annict.com/works/15717
@@ -70325,5 +70325,13 @@ export const annict: ArmEntry[] = [
 // [2004-AUTUMN] OVA: シャーロットのおくりもの ウィルバーの大ぼうけん
 // https://annict.com/works/18127
 {"annict_id":18127}
+,
+// [2026-AUTUMN] TV: ふんばるず
+// https://annict.com/works/18128
+{"annict_id":18128}
+,
+// [null-null] OTHER: ペロペロ★スパ〜クルズ
+// https://annict.com/works/18129
+{"annict_id":18129}
 ,
 ]
