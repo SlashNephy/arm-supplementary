@@ -67576,7 +67576,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] MOVIE: カードファイト!! ヴァンガード Divinez 運命星戦編
 // https://annict.com/works/17433
-{"annict_id":17433,"mal_id":63938}
+{"annict_id":17433,"mal_id":63938,"syobocal_tid":7987}
 ,
 // [2027-null] TV: カードファイト!! ヴァンガード 完全新作
 // https://annict.com/works/17434
