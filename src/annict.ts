@@ -67216,7 +67216,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] WEB: マツケンアニメ〜コレ成敗してもいいですか？〜
 // https://annict.com/works/17343
-{"annict_id":17343}
+{"annict_id":17343,"mal_id":64873}
 ,
 // [2026-AUTUMN] TV: らんま1/2 第3期
 // https://annict.com/works/17344
@@ -70333,5 +70333,17 @@ export const annict: ArmEntry[] = [
 // [null-null] OTHER: ペロペロ★スパ〜クルズ
 // https://annict.com/works/18129
 {"annict_id":18129}
+,
+// [2026-SUMMER] WEB: トミカ クロスレスキュー
+// https://annict.com/works/18130
+{"annict_id":18130}
+,
+// [2026-SUMMER] WEB: 餓狼伝説 CotW｜リック・ストラウド & ダック・キング｜ロングアニメーショントレーラー
+// https://annict.com/works/18131
+{"annict_id":18131,"mal_id":64876}
+,
+// [null-null] TV: ぼくの好きな人が好きな人
+// https://annict.com/works/18132
+{"annict_id":18132,"mal_id":64877}
 ,
 ]
