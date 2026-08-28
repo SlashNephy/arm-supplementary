@@ -62766,7 +62766,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16220
 {"annict_id":16220,"mal_id":61872}
 ,
-// [2025-SPRING] WEB: 猫猫のひとりごと 特別編
+// [2025-SPRING] WEB: 猫猫のひとりごと 特別編～USJを調査せよ！～
 // https://annict.com/works/16221
 {"annict_id":16221,"mal_id":61876}
 ,
@@ -70345,5 +70345,9 @@ export const annict: ArmEntry[] = [
 // [null-null] TV: ぼくの好きな人が好きな人
 // https://annict.com/works/18132
 {"annict_id":18132,"mal_id":64877}
+,
+// [2026-SUMMER] WEB: 猫猫のひとりごと 特別編～目の栄養～
+// https://annict.com/works/18133
+{"annict_id":18133}
 ,
 ]
