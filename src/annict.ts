@@ -57774,7 +57774,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/14969
 {"annict_id":14969,"mal_id":60552,"syobocal_tid":7892}
 ,
-// [null-null] TV: アルカナディア
+// [2027-WINTER] TV: アルカナディア
 // https://annict.com/works/14970
 {"annict_id":14970,"mal_id":60549}
 ,
@@ -63502,7 +63502,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16405
 {"annict_id":16405,"mal_id":62102,"syobocal_tid":7930}
 ,
-// [2027-null] OTHER: ポケモンテイルズ ネギガナイトとピチューの冒険
+// [2027-null] WEB: ポケモンテイルズ ネギガナイトとピチューの冒険
 // https://annict.com/works/16406
 {"annict_id":16406}
 ,
@@ -66138,7 +66138,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17070
 {"annict_id":17070}
 ,
-// [null-null] TV: マウスカーソルで現実を操作できるようになったので、女の子をいっぱいクリックしまーす
+// [2026-AUTUMN] TV: マウスカーソルで現実を操作できるようになったので、女の子をいっぱいクリックしまーす
 // https://annict.com/works/17071
 {"annict_id":17071,"mal_id":63381}
 ,
@@ -70349,5 +70349,9 @@ export const annict: ArmEntry[] = [
 // [2026-SUMMER] WEB: 猫猫のひとりごと 特別編～目の栄養～
 // https://annict.com/works/18133
 {"annict_id":18133}
+,
+// [2026-SUMMER] MOVIE: ベベフィン・ザ・ムービー：うたとまほうのピンキッツワールド
+// https://annict.com/works/18134
+{"annict_id":18134}
 ,
 ]
