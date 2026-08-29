@@ -70354,4 +70354,24 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18134
 {"annict_id":18134}
 ,
+// [2026-SUMMER] WEB: 【崩壊：スターレイル】ショートアニメ「あんたの終点、私の始まり」
+// https://annict.com/works/18135
+{"annict_id":18135}
+,
+// [null-null] OTHER: 『鳴潮』アニメシリーズ「エリュシオン」
+// https://annict.com/works/18136
+{"annict_id":18136}
+,
+// [2026-SUMMER] WEB:  【NTE】残虹 キャラアニメ｜魂の色
+// https://annict.com/works/18137
+{"annict_id":18137}
+,
+// [2026-SUMMER] WEB: ヘタリア World★Stars (#16～#19)
+// https://annict.com/works/18138
+{"annict_id":18138,"mal_id":64861}
+,
+// [2026-SUMMER] WEB: ウィッシュキャット
+// https://annict.com/works/18139
+{"annict_id":18139,"mal_id":59881}
+,
 ]
