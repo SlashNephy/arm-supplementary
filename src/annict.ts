@@ -66054,7 +66054,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17049
 {"annict_id":17049}
 ,
-// [2027-null] MOVIE: 劇場版 メダリスト
+// [2027-WINTER] MOVIE: 劇場版 メダリスト
 // https://annict.com/works/17050
 {"annict_id":17050,"mal_id":63326}
 ,
@@ -69688,7 +69688,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: 伝えたい想いのそばに 碧い海商店街
 // https://annict.com/works/17964
-{"annict_id":17964}
+{"annict_id":17964,"mal_id":64885}
 ,
 // [2026-SUMMER] WEB: 天狗刀戦
 // https://annict.com/works/17965
@@ -70373,5 +70373,9 @@ export const annict: ArmEntry[] = [
 // [2026-SUMMER] WEB: ウィッシュキャット
 // https://annict.com/works/18139
 {"annict_id":18139,"mal_id":59881}
+,
+// [null-null] OTHER: バキ外伝 烈海王は異世界転生しても一向にかまわんッッ
+// https://annict.com/works/18140
+{"annict_id":18140}
 ,
 ]
