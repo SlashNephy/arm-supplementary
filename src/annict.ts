@@ -54094,7 +54094,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/14047
 {"annict_id":14047,"mal_id":59914,"syobocal_tid":7302}
 ,
-// [null-null] TV: 狼と香辛料 MERCHANT MEETS THE WISE WOLF 2期
+// [2027-null] TV: 狼と香辛料 MERCHANT MEETS THE WISE WOLF 2期
 // https://annict.com/works/14048
 {"annict_id":14048,"mal_id":59928}
 ,
@@ -61374,7 +61374,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15871
 {"annict_id":15871,"syobocal_tid":1640}
 ,
-// [2026-null] TV: わたしの幸せな結婚 特別篇
+// [2026-AUTUMN] TV: わたしの幸せな結婚 特別篇
 // https://annict.com/works/15872
 {"annict_id":15872,"mal_id":61440}
 ,
