@@ -70378,4 +70378,16 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18140
 {"annict_id":18140}
 ,
+// [2027-null] MOVIE: ポケモン：ワイルドカード
+// https://annict.com/works/18141
+{"annict_id":18141}
+,
+// [null-null] TV: 8月31日のロングサマー
+// https://annict.com/works/18142
+{"annict_id":18142,"mal_id":64892}
+,
+// [1998-SUMMER] OVA: フライング・キッズの大冒険
+// https://annict.com/works/18143
+{"annict_id":18143}
+,
 ]
