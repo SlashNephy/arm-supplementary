@@ -68384,7 +68384,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: 獣王武神ダンデヴァイン
 // https://annict.com/works/17636
-{"annict_id":17636,"mal_id":64344}
+{"annict_id":17636,"mal_id":64344,"syobocal_tid":7996}
 ,
 // [2027-null] TV: ギフテッド
 // https://annict.com/works/17637
