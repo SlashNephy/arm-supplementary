@@ -56940,7 +56940,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2024-AUTUMN] MOVIE: 山中貞雄に捧げる漫画映画「鼠小僧次郎吉」
 // https://annict.com/works/14761
-{"annict_id":14761}
+{"annict_id":14761,"mal_id":54602}
 ,
 // [2024-AUTUMN] TV: シルバニアファミリー フレアのピース・オブ・シークレット
 // https://annict.com/works/14762
@@ -70380,7 +70380,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2027-null] MOVIE: ポケモン：ワイルドカード
 // https://annict.com/works/18141
-{"annict_id":18141}
+{"annict_id":18141,"mal_id":64895}
 ,
 // [null-null] TV: 8月31日のロングサマー
 // https://annict.com/works/18142
