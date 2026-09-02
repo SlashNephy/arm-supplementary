@@ -21022,7 +21022,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/5290
 {"annict_id":5290}
 ,
-// [null-null] TV: キャプテン・ブリープ
+// [1967-SPRING] TV: キャプテン・ブリープ
 // https://annict.com/works/5291
 {"annict_id":5291}
 ,
