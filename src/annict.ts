@@ -70390,4 +70390,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18143
 {"annict_id":18143}
 ,
+// [null-null] OTHER: 手札が多めのビクトリア 新作スペシャルエピソード
+// https://annict.com/works/18144
+{"annict_id":18144}
+,
+// [null-null] TV: 手札が多めのビクトリア 第2期
+// https://annict.com/works/18145
+{"annict_id":18145,"mal_id":64898}
+,
 ]
