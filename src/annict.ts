@@ -69236,7 +69236,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: ガールズ＆パンツァー もっとらぶらぶ作戦です！
 // https://annict.com/works/17851
-{"annict_id":17851,"mal_id":61227}
+{"annict_id":17851,"mal_id":61227,"syobocal_tid":7738}
 ,
 // [null-null] MOVIE: KING OF PRISM-Tri-Star Act-
 // https://annict.com/works/17852
@@ -70397,5 +70397,9 @@ export const annict: ArmEntry[] = [
 // [null-null] TV: 手札が多めのビクトリア 第2期
 // https://annict.com/works/18145
 {"annict_id":18145,"mal_id":64898}
+,
+// [2026-SUMMER] TV: ブラッククローバー 1st Season ダイジェスト
+// https://annict.com/works/18146
+{"annict_id":18146}
 ,
 ]
