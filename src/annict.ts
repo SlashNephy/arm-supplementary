@@ -70402,4 +70402,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18146
 {"annict_id":18146}
 ,
+// [null-null] TV: 日本三國 続編
+// https://annict.com/works/18147
+{"annict_id":18147}
+,
 ]
