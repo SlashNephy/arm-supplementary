@@ -42740,7 +42740,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: マジカル★エクスプローラー
 // https://annict.com/works/11196
-{"annict_id":11196,"mal_id":56733}
+{"annict_id":11196,"mal_id":56733,"syobocal_tid":8006}
 ,
 // [2024-SPRING] TV: 時光代理人 -LINK CLICK- Ⅱ
 // https://annict.com/works/11197
@@ -57506,9 +57506,9 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/14902
 {"annict_id":14902,"mal_id":60510}
 ,
-// [2026-AUTUMN] TV: 魔法少女育成計画 restart
+// [2026-AUTUMN] TV: 魔法少女育成計画restart
 // https://annict.com/works/14903
-{"annict_id":14903,"mal_id":54344}
+{"annict_id":14903,"mal_id":54344,"syobocal_tid":8004}
 ,
 // [2024-AUTUMN] WEB: 魔神創造伝ワタル オリジナルショートアニメ
 // https://annict.com/works/14904
@@ -61072,7 +61072,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: アオのハコ Season2
 // https://annict.com/works/15795
-{"annict_id":15795,"mal_id":61323}
+{"annict_id":15795,"mal_id":61323,"syobocal_tid":8007}
 ,
 // [2026-WINTER] TV: どうせ、恋してしまうんだ。 Season2
 // https://annict.com/works/15796
@@ -61652,7 +61652,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: 生徒会にも穴はある！
 // https://annict.com/works/15941
-{"annict_id":15941,"mal_id":61578}
+{"annict_id":15941,"mal_id":61578,"syobocal_tid":8005}
 ,
 // [2025-SPRING] WEB: うまゆる ぷりてぃ～ぐれい
 // https://annict.com/works/15942
@@ -69288,7 +69288,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: 氷の城壁 第2期
 // https://annict.com/works/17864
-{"annict_id":17864,"mal_id":64534}
+{"annict_id":17864,"mal_id":64534,"syobocal_tid":8008}
 ,
 // [2026-SUMMER] MOVIE: るすばん
 // https://annict.com/works/17865
