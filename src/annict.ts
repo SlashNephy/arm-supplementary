@@ -51064,7 +51064,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: 東京リベンジャーズ 三天戦争編
 // https://annict.com/works/13286
-{"annict_id":13286,"mal_id":59088}
+{"annict_id":13286,"mal_id":59088,"syobocal_tid":8001}
 ,
 // [2017-WINTER] WEB: ピーポくんアニメーション
 // https://annict.com/works/13287
@@ -59456,7 +59456,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: とある暗部の少女共棲
 // https://annict.com/works/15391
-{"annict_id":15391,"mal_id":61014}
+{"annict_id":15391,"mal_id":61014,"syobocal_tid":8000}
 ,
 // [2027-WINTER] TV: 姫騎士様のヒモ
 // https://annict.com/works/15392
@@ -64692,7 +64692,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: 貸した魔力は【リボ払い】で強制徴収
 // https://annict.com/works/16708
-{"annict_id":16708,"mal_id":62922}
+{"annict_id":16708,"mal_id":62922,"syobocal_tid":7999}
 ,
 // [null-null] TV: 勘違いの工房主～英雄パーティの元雑用係が、実は戦闘以外がSSSランクだったというよくある話～ 第2期
 // https://annict.com/works/16709
@@ -66068,7 +66068,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: FX戦士くるみちゃん
 // https://annict.com/works/17053
-{"annict_id":17053,"mal_id":63337}
+{"annict_id":17053,"mal_id":63337,"syobocal_tid":7998}
 ,
 // [2026-SUMMER] MOVIE: 機動警察パトレイバー EZY File 2
 // https://annict.com/works/17054
@@ -66164,7 +66164,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: 凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録
 // https://annict.com/works/17077
-{"annict_id":17077,"mal_id":63382}
+{"annict_id":17077,"mal_id":63382,"syobocal_tid":7997}
 ,
 // [2025-AUTUMN] WEB: Path of Progress
 // https://annict.com/works/17078
@@ -67996,7 +67996,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: 世界最強の魔女、始めました
 // https://annict.com/works/17539
-{"annict_id":17539,"mal_id":64084}
+{"annict_id":17539,"mal_id":64084,"syobocal_tid":8003}
 ,
 // [null-null] OTHER: 愛さないといわれましても ～元魔王の伯爵令嬢は生真面目軍人に餌付けをされて幸せになる～
 // https://annict.com/works/17540
@@ -69084,7 +69084,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: 魔法の姉妹ルルットリリィ 第2クール
 // https://annict.com/works/17813
-{"annict_id":17813,"mal_id":63667}
+{"annict_id":17813,"mal_id":63667,"syobocal_tid":8002}
 ,
 // [null-null] TV: 恋する(おとめ)の作り方
 // https://annict.com/works/17814
