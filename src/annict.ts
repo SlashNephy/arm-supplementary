@@ -70406,4 +70406,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18147
 {"annict_id":18147,"mal_id":64905}
 ,
+// [2026-SUMMER] WEB: 女体化した僕を騎士様達がねらってます 4th
+// https://annict.com/works/18148
+{"annict_id":18148}
+,
 ]
