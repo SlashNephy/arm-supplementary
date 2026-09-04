@@ -42722,7 +42722,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/11191
 {"annict_id":11191,"mal_id":56731,"syobocal_tid":6920}
 ,
-// [2027-null] TV: 世界最高の暗殺者、異世界貴族に転生する Season2
+// [2027-WINTER] TV: 世界最高の暗殺者、異世界貴族に転生する Season2
 // https://annict.com/works/11192
 {"annict_id":11192,"mal_id":56732}
 ,
@@ -51068,7 +51068,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2017-WINTER] WEB: ピーポくんアニメーション
 // https://annict.com/works/13287
-{"annict_id":13287}
+{"annict_id":13287,"mal_id":64900}
 ,
 // [2013-WINTER] WEB: 東京都水道局広報アニメ
 // https://annict.com/works/13288
@@ -70376,7 +70376,7 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] OTHER: バキ外伝 烈海王は異世界転生しても一向にかまわんッッ
 // https://annict.com/works/18140
-{"annict_id":18140}
+{"annict_id":18140,"mal_id":64893}
 ,
 // [2027-null] MOVIE: ポケモン：ワイルドカード
 // https://annict.com/works/18141
@@ -70409,5 +70409,17 @@ export const annict: ArmEntry[] = [
 // [2026-SUMMER] WEB: 女体化した僕を騎士様達がねらってます 4th
 // https://annict.com/works/18148
 {"annict_id":18148}
+,
+// [2026-SUMMER] MOVIE: 20001年 地球の旅
+// https://annict.com/works/18149
+{"annict_id":18149,"mal_id":64902}
+,
+// [null-null] TV: アオハル・ワンスモア
+// https://annict.com/works/18150
+{"annict_id":18150,"mal_id":64906}
+,
+// [2026-SUMMER] TV: ミッキーマウスクラブハウス プラス／ミッキーのカントリーファーム
+// https://annict.com/works/18151
+{"annict_id":18151}
 ,
 ]
