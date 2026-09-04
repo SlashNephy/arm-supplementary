@@ -64558,7 +64558,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16673
 {"annict_id":16673}
 ,
-// [null-null] TV: ダークギャザリング 第2期
+// [2027-null] TV: ダークギャザリング 第2期
 // https://annict.com/works/16674
 {"annict_id":16674,"mal_id":62865}
 ,
@@ -70421,5 +70421,9 @@ export const annict: ArmEntry[] = [
 // [2026-SUMMER] TV: ミッキーマウスクラブハウス プラス／ミッキーのカントリーファーム
 // https://annict.com/works/18151
 {"annict_id":18151}
+,
+// [2026-AUTUMN] WEB: ダークサモナーとデキている ミニアニメ劇場
+// https://annict.com/works/18152
+{"annict_id":18152}
 ,
 ]
