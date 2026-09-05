@@ -70426,4 +70426,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18152
 {"annict_id":18152}
 ,
+// [2026-SUMMER] TV: 名探偵コナン 30号殺人事件
+// https://annict.com/works/18153
+{"annict_id":18153}
+,
 ]
