@@ -70430,4 +70430,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18153
 {"annict_id":18153}
 ,
+// [2026-SUMMER] WEB: おわっタヌキ
+// https://annict.com/works/18154
+{"annict_id":18154}
+,
 ]
