@@ -29,7 +29,7 @@
     "remark-gfm": "4.0.1",
     "remark-stringify": "11.0.0",
     "unified": "11.0.5",
-    "zod": "4.4.3"
+    "zod": "4.5.4"
   },
   "devDependencies": {
     "@graphql-codegen/cli": "7.3.1",
