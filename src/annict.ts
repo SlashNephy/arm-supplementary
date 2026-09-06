@@ -65454,7 +65454,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16899
 {"annict_id":16899,"mal_id":63128}
 ,
-// [null-null] OTHER: 新こちら葛飾区亀有公園前派出所
+// [2027-null] TV: 新こちら葛飾区亀有公園前派出所
 // https://annict.com/works/16900
 {"annict_id":16900,"mal_id":63134}
 ,
@@ -70428,7 +70428,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] TV: 名探偵コナン 30号殺人事件
 // https://annict.com/works/18153
-{"annict_id":18153}
+{"annict_id":18153,"mal_id":64913}
 ,
 // [2026-SUMMER] WEB: おわっタヌキ
 // https://annict.com/works/18154
