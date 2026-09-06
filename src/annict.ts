@@ -36988,7 +36988,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: 探偵はもう、死んでいる。Season2
 // https://annict.com/works/9753
-{"annict_id":9753,"mal_id":52480}
+{"annict_id":9753,"mal_id":52480,"syobocal_tid":8010}
 ,
 // [2024-SUMMER] TV: 義妹生活
 // https://annict.com/works/9754
@@ -57888,7 +57888,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: 転生貴族、鑑定スキルで成り上がる 第3期
 // https://annict.com/works/14998
-{"annict_id":14998,"mal_id":60601}
+{"annict_id":14998,"mal_id":60601,"syobocal_tid":8009}
 ,
 // [2024-WINTER] MOVIE: インベンター
 // https://annict.com/works/14999
@@ -67220,7 +67220,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: らんま1/2 第3期
 // https://annict.com/works/17344
-{"annict_id":17344,"mal_id":63801}
+{"annict_id":17344,"mal_id":63801,"syobocal_tid":8012}
 ,
 // [null-null] TV: 呪術廻戦 死滅回游 後編
 // https://annict.com/works/17345
@@ -69232,7 +69232,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: 夜桜さんちの大作戦 第2期 第2クール
 // https://annict.com/works/17850
-{"annict_id":17850,"mal_id":64503}
+{"annict_id":17850,"mal_id":64503,"syobocal_tid":8011}
 ,
 // [2026-AUTUMN] TV: ガールズ＆パンツァー もっとらぶらぶ作戦です！
 // https://annict.com/works/17851
