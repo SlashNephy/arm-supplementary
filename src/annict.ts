@@ -66128,7 +66128,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: ドラゴンボール超 ビルス
 // https://annict.com/works/17068
-{"annict_id":17068}
+{"annict_id":17068,"mal_id":63367}
 ,
 // [2026-SUMMER] MOVIE: 君と花火と約束と
 // https://annict.com/works/17069
