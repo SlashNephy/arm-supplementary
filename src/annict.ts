@@ -60292,7 +60292,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: 転生した大聖女は、聖女であることをひた隠す
 // https://annict.com/works/15600
-{"annict_id":15600,"mal_id":61153}
+{"annict_id":15600,"mal_id":61153,"syobocal_tid":8014}
 ,
 // [2025-AUTUMN] TV: 東島丹三郎は仮面ライダーになりたい
 // https://annict.com/works/15601
@@ -70433,5 +70433,13 @@ export const annict: ArmEntry[] = [
 // [2026-SUMMER] WEB: おわっタヌキ
 // https://annict.com/works/18154
 {"annict_id":18154}
+,
+// [2026-SUMMER] WEB: 探検家たち
+// https://annict.com/works/18155
+{"annict_id":18155}
+,
+// [2026-SUMMER] WEB: MINIKKE ちょこっと童話集
+// https://annict.com/works/18156
+{"annict_id":18156}
 ,
 ]
