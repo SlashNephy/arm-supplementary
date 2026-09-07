@@ -64446,7 +64446,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16645
 {"annict_id":16645}
 ,
-// [null-null] TV: 弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった
+// [2026-AUTUMN] TV: 弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった
 // https://annict.com/works/16646
 {"annict_id":16646,"mal_id":62753}
 ,
@@ -69676,7 +69676,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2027-SPRING] MOVIE: 映画ドラえもん のび太の蒸気時間車
 // https://annict.com/works/17961
-{"annict_id":17961}
+{"annict_id":17961,"mal_id":64920}
 ,
 // [2026-SUMMER] WEB: 甲鉄城のカバネリ 無名爛漫 フィギュア発売記念ムービー
 // https://annict.com/works/17962
@@ -70441,5 +70441,21 @@ export const annict: ArmEntry[] = [
 // [2026-SUMMER] WEB: MINIKKE ちょこっと童話集
 // https://annict.com/works/18156
 {"annict_id":18156}
+,
+// [null-null] OTHER: きみは四葉のクローバー
+// https://annict.com/works/18157
+{"annict_id":18157,"mal_id":64922}
+,
+// [null-null] TV: おでホロ
+// https://annict.com/works/18158
+{"annict_id":18158}
+,
+// [null-null] TV: カラダにイイ男
+// https://annict.com/works/18159
+{"annict_id":18159}
+,
+// [2026-AUTUMN] WEB: ちょこっとヤバシティ
+// https://annict.com/works/18160
+{"annict_id":18160,"mal_id":64921}
 ,
 ]
