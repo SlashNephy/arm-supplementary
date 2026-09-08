@@ -70458,4 +70458,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18160
 {"annict_id":18160,"mal_id":64921}
 ,
+// [2026-SUMMER] TV: 明日まで待てない！
+// https://annict.com/works/18161
+{"annict_id":18161}
+,
 ]
