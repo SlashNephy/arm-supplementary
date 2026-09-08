@@ -70462,4 +70462,104 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18161
 {"annict_id":18161}
 ,
+// [2026-SUMMER] OTHER: 天下第一人の幼馴染
+// https://annict.com/works/18162
+{"annict_id":18162}
+,
+// [2026-SUMMER] OTHER: 真実が見える赤ちゃん皇女様
+// https://annict.com/works/18163
+{"annict_id":18163}
+,
+// [2026-SUMMER] OTHER: 公爵家に棲む狂犬
+// https://annict.com/works/18164
+{"annict_id":18164}
+,
+// [2026-SUMMER] OTHER: 意地悪な姑をやめたら、みんな私に執着します
+// https://annict.com/works/18165
+{"annict_id":18165}
+,
+// [2026-SUMMER] OTHER: 怪物公爵と契約公女
+// https://annict.com/works/18166
+{"annict_id":18166}
+,
+// [2026-SUMMER] OTHER: 悪党教授の生存攻略
+// https://annict.com/works/18167
+{"annict_id":18167}
+,
+// [2026-SUMMER] OTHER: レディベイビー
+// https://annict.com/works/18168
+{"annict_id":18168}
+,
+// [2026-SUMMER] OTHER: シークレットレディ
+// https://annict.com/works/18169
+{"annict_id":18169}
+,
+// [2026-SUMMER] OTHER: 偶然助けただけなので、責任は取りません
+// https://annict.com/works/18170
+{"annict_id":18170}
+,
+// [2026-SUMMER] OTHER: 忘れられた野原
+// https://annict.com/works/18171
+{"annict_id":18171}
+,
+// [2026-SUMMER] OTHER: ちびっこ妖精は悪党です！
+// https://annict.com/works/18172
+{"annict_id":18172}
+,
+// [2026-SUMMER] OTHER: 演技初心者は天才俳優
+// https://annict.com/works/18173
+{"annict_id":18173}
+,
+// [2026-SUMMER] OTHER: エキストラに男主人公たちを奪われた
+// https://annict.com/works/18174
+{"annict_id":18174}
+,
+// [2026-SUMMER] OTHER: 悪女が剣を持った理由
+// https://annict.com/works/18175
+{"annict_id":18175}
+,
+// [2026-SUMMER] OTHER: 回帰して世界を変える大魔法使い
+// https://annict.com/works/18176
+{"annict_id":18176}
+,
+// [2026-SUMMER] OTHER: 悪党のお父様、私と結婚してください♡
+// https://annict.com/works/18177
+{"annict_id":18177}
+,
+// [2022-SPRING] WEB: リトルワールド
+// https://annict.com/works/18178
+{"annict_id":18178}
+,
+// [2019-SUMMER] OTHER: リトルエンジェル
+// https://annict.com/works/18179
+{"annict_id":18179}
+,
+// [2017-SPRING] OTHER: タイニートラック
+// https://annict.com/works/18180
+{"annict_id":18180}
+,
+// [2016-SPRING] WEB: カーパトロールル
+// https://annict.com/works/18181
+{"annict_id":18181}
+,
+// [2017-SPRING] WEB: レッカー車のトム
+// https://annict.com/works/18182
+{"annict_id":18182}
+,
+// [2020-SPRING] WEB: トムの洗車場
+// https://annict.com/works/18183
+{"annict_id":18183}
+,
+// [2020-SPRING] WEB: カーシティーのトレインのトロイ
+// https://annict.com/works/18184
+{"annict_id":18184}
+,
+// [2020-SUMMER] WEB: カーシティのハロウィン
+// https://annict.com/works/18185
+{"annict_id":18185}
+,
+// [2022-SUMMER] WEB: モーフル
+// https://annict.com/works/18187
+{"annict_id":18187}
+,
 ]
