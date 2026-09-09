@@ -66764,7 +66764,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: 転生ゴブリンだけど質問ある？
 // https://annict.com/works/17229
-{"annict_id":17229,"mal_id":63712}
+{"annict_id":17229,"mal_id":63712,"syobocal_tid":8015}
 ,
 // [2026-SPRING] MOVIE: チ。 ―地球の運動について― プラネタリウム版
 // https://annict.com/works/17230
@@ -70561,5 +70561,9 @@ export const annict: ArmEntry[] = [
 // [2022-SUMMER] WEB: モーフル
 // https://annict.com/works/18187
 {"annict_id":18187}
+,
+// [2027-WINTER] TV: 死して生きるSSS級ハンター
+// https://annict.com/works/18188
+{"annict_id":18188}
 ,
 ]
