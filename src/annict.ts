@@ -69278,7 +69278,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17861
 {"annict_id":17861}
 ,
-// [null-null] WEB: Bass X Machina: バスXマキナ
+// [2026-AUTUMN] WEB: Bass X Machina: バスXマキナ
 // https://annict.com/works/17862
 {"annict_id":17862}
 ,
