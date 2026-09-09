@@ -64244,7 +64244,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: ホテル・インヒューマンズ 第2期
 // https://annict.com/works/16593
-{"annict_id":16593,"mal_id":62590}
+{"annict_id":16593,"mal_id":62590,"syobocal_tid":8016}
 ,
 // [2025-AUTUMN] TV: SEALOOK
 // https://annict.com/works/16594
@@ -64676,7 +64676,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: おじさんはカワイイものがお好き。
 // https://annict.com/works/16703
-{"annict_id":16703,"mal_id":62907}
+{"annict_id":16703,"mal_id":62907,"syobocal_tid":8018}
 ,
 // [2000-WINTER] OVA: 下級生 番外編 「はじめまして ティナ！」
 // https://annict.com/works/16705
