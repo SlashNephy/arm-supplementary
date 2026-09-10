@@ -70570,7 +70570,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18189
 {"annict_id":18189}
 ,
-// [2025-null] WEB: 君主様に胸やけ
+// [2025-AUTUMN] WEB: 君主様に胸やけ
 // https://annict.com/works/18190
 {"annict_id":18190}
 ,
