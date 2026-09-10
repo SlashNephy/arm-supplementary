@@ -2720,7 +2720,7 @@ export const annict: ArmEntry[] = [
 ,
 // [1985-AUTUMN] TV: ゲゲゲの鬼太郎 第3シリーズ
 // https://annict.com/works/681
-{"annict_id":681,"mal_id":7307}
+{"annict_id":681,"mal_id":7307,"syobocal_tid":7985}
 ,
 // [2007-SPRING] TV: ゲゲゲの鬼太郎 第5シリーズ
 // https://annict.com/works/682
@@ -2736,7 +2736,7 @@ export const annict: ArmEntry[] = [
 ,
 // [1968-WINTER] TV: ゲゲゲの鬼太郎 第1シリーズ
 // https://annict.com/works/685
-{"annict_id":685,"mal_id":5688}
+{"annict_id":685,"mal_id":5688,"syobocal_tid":7984}
 ,
 // [1974-SPRING] TV: ゲッターロボ
 // https://annict.com/works/686
@@ -2760,7 +2760,7 @@ export const annict: ArmEntry[] = [
 ,
 // [1982-SPRING] TV: ゲームセンターあらし
 // https://annict.com/works/691
-{"annict_id":691,"mal_id":12243}
+{"annict_id":691,"mal_id":12243,"syobocal_tid":7982}
 ,
 // [2011-SPRING] TV: 元気!!江古田ちゃん
 // https://annict.com/works/692
@@ -7700,7 +7700,7 @@ export const annict: ArmEntry[] = [
 ,
 // [1985-SPRING] TV: プロゴルファー猿
 // https://annict.com/works/1928
-{"annict_id":1928,"mal_id":16650}
+{"annict_id":1928,"mal_id":16650,"syobocal_tid":7988}
 ,
 // [2011-SPRING] TV: プ～ねこ
 // https://annict.com/works/1929
@@ -8360,7 +8360,7 @@ export const annict: ArmEntry[] = [
 ,
 // [1990-SPRING] TV: 魔法のエンジェル スイートミント
 // https://annict.com/works/2095
-{"annict_id":2095,"mal_id":2040}
+{"annict_id":2095,"mal_id":2040,"syobocal_tid":7986}
 ,
 // [1985-SPRING] TV: 魔法のスターマジカルエミ
 // https://annict.com/works/2096
@@ -8652,7 +8652,7 @@ export const annict: ArmEntry[] = [
 ,
 // [1996-SPRING] TV: 水色時代
 // https://annict.com/works/2168
-{"annict_id":2168,"mal_id":1040}
+{"annict_id":2168,"mal_id":1040,"syobocal_tid":8013}
 ,
 // [2004-SPRING] TV: 美鳥の日々
 // https://annict.com/works/2169
@@ -11912,7 +11912,7 @@ export const annict: ArmEntry[] = [
 ,
 // [1994-WINTER] OVA: プラスチックリトル
 // https://annict.com/works/2991
-{"annict_id":2991,"mal_id":2332}
+{"annict_id":2991,"mal_id":2332,"syobocal_tid":7995}
 ,
 // [1997-SUMMER] OVA: プリンセス・ルージュ
 // https://annict.com/works/2992
@@ -28940,7 +28940,7 @@ export const annict: ArmEntry[] = [
 ,
 // [1985-WINTER] OVA: 幻夢戦記レダ
 // https://annict.com/works/7482
-{"annict_id":7482,"mal_id":2196}
+{"annict_id":7482,"mal_id":2196,"syobocal_tid":7994}
 ,
 // [2020-SPRING] OVA: へやキャン△ SPECIAL EPISODE
 // https://annict.com/works/7483
@@ -32272,7 +32272,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] MOVIE: 劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉
 // https://annict.com/works/8410
-{"annict_id":8410,"mal_id":48820}
+{"annict_id":8410,"mal_id":48820,"syobocal_tid":7989}
 ,
 // [2022-SPRING] MOVIE: 劇場版 Free!-the Final Stroke- 後編
 // https://annict.com/works/8411
@@ -52288,7 +52288,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: 魔法騎士レイアース (2026)
 // https://annict.com/works/13592
-{"annict_id":13592,"mal_id":59204}
+{"annict_id":13592,"mal_id":59204,"syobocal_tid":8019}
 ,
 // [2025-SUMMER] TV: クレバテス-魔獣の王と赤子と屍の勇者-
 // https://annict.com/works/13593
@@ -64216,7 +64216,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] MOVIE: 青春ブタ野郎はディアフレンドの夢を見ない
 // https://annict.com/works/16586
-{"annict_id":16586,"mal_id":62582}
+{"annict_id":16586,"mal_id":62582,"syobocal_tid":7983}
 ,
 // [null-null] TV: 光が死んだ夏 第二期
 // https://annict.com/works/16587
@@ -67100,7 +67100,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: バーテックスフォース
 // https://annict.com/works/17314
-{"annict_id":17314,"mal_id":63764}
+{"annict_id":17314,"mal_id":63764,"syobocal_tid":8020}
 ,
 // [2024-SPRING] TV: 今からでも楽しめる！響け！ユーフォニアム
 // https://annict.com/works/17315
@@ -70564,6 +70564,14 @@ export const annict: ArmEntry[] = [
 ,
 // [2027-WINTER] TV: 死して生きるSSS級ハンター
 // https://annict.com/works/18188
-{"annict_id":18188}
+{"annict_id":18188,"mal_id":64950}
+,
+// [null-null] TV: EAT-MAN The Over Order
+// https://annict.com/works/18189
+{"annict_id":18189}
+,
+// [2025-null] WEB: 君主様に胸やけ
+// https://annict.com/works/18190
+{"annict_id":18190}
 ,
 ]
