@@ -70568,7 +70568,7 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] TV: EAT-MAN The Over Order
 // https://annict.com/works/18189
-{"annict_id":18189}
+{"annict_id":18189,"mal_id":64960}
 ,
 // [2025-AUTUMN] WEB: 君主様に胸やけ
 // https://annict.com/works/18190
