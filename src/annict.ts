@@ -65480,7 +65480,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: 野生のラスボスが現れた！ 第2期
 // https://annict.com/works/16906
-{"annict_id":16906,"mal_id":63140}
+{"annict_id":16906,"mal_id":63140,"syobocal_tid":8021}
 ,
 // [null-null] OTHER: チェンソーマン 刺客篇
 // https://annict.com/works/16907
@@ -70573,5 +70573,9 @@ export const annict: ArmEntry[] = [
 // [2025-AUTUMN] WEB: 君主様に胸やけ
 // https://annict.com/works/18190
 {"annict_id":18190}
+,
+// [2027-WINTER] TV: 青春のやり直しは異世界で
+// https://annict.com/works/18191
+{"annict_id":18191}
 ,
 ]
