@@ -49324,7 +49324,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: 佐々木とピーちゃん Season2
 // https://annict.com/works/12849
-{"annict_id":12849,"mal_id":58518}
+{"annict_id":12849,"mal_id":58518,"syobocal_tid":8023}
 ,
 // [2024-SUMMER] MOVIE: 劇場版すとぷり はじまりの物語～Strawberry School Festival!!!～
 // https://annict.com/works/12850
@@ -63044,7 +63044,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: 薬屋のひとりごと 第3期
 // https://annict.com/works/16290
-{"annict_id":16290,"mal_id":61987}
+{"annict_id":16290,"mal_id":61987,"syobocal_tid":8025}
 ,
 // [null-null] TV: 伊藤潤二『クリムゾン』
 // https://annict.com/works/16291
@@ -63088,7 +63088,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: ブラッククローバー 2nd Season
 // https://annict.com/works/16301
-{"annict_id":16301,"mal_id":61967}
+{"annict_id":16301,"mal_id":61967,"syobocal_tid":8026}
 ,
 // [2025-AUTUMN] TV: SHIBUYA♡HACHI 第4クール
 // https://annict.com/works/16302
@@ -65956,7 +65956,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: 信者ゼロの女神サマと始める異世界攻略
 // https://annict.com/works/17025
-{"annict_id":17025,"mal_id":63292}
+{"annict_id":17025,"mal_id":63292,"syobocal_tid":8024}
 ,
 // [2026-AUTUMN] TV: ホタルの嫁入り
 // https://annict.com/works/17026
@@ -67312,7 +67312,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: 千歳くんはラムネ瓶のなか 第2クール
 // https://annict.com/works/17367
-{"annict_id":17367,"mal_id":62484}
+{"annict_id":17367,"mal_id":62484,"syobocal_tid":8022}
 ,
 // [2026-WINTER] MOVIE: キング・オブ・キングス
 // https://annict.com/works/17368
@@ -70577,5 +70577,9 @@ export const annict: ArmEntry[] = [
 // [2027-WINTER] TV: 青春のやり直しは異世界で
 // https://annict.com/works/18191
 {"annict_id":18191}
+,
+// [2026-AUTUMN] WEB: ヤンキーハムスター！
+// https://annict.com/works/18192
+{"annict_id":18192}
 ,
 ]
