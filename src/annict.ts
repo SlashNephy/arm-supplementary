@@ -70586,4 +70586,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18193
 {"annict_id":18193,"mal_id":32461}
 ,
+// [2026-SUMMER] WEB: 東急エンタメイト コンセプトムービー「まちも、人も、好きが動かす。」
+// https://annict.com/works/18194
+{"annict_id":18194,"mal_id":64967}
+,
 ]
