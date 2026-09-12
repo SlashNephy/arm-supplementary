@@ -70582,4 +70582,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18192
 {"annict_id":18192}
 ,
+// [2015-AUTUMN] MOVIE: みつあみの神様
+// https://annict.com/works/18193
+{"annict_id":18193,"mal_id":32461}
+,
 ]
