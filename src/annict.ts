@@ -64128,7 +64128,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: #ゾンビさがしてます
 // https://annict.com/works/16563
-{"annict_id":16563,"mal_id":62524}
+{"annict_id":16563,"mal_id":62524,"syobocal_tid":8028}
 ,
 // [2023-AUTUMN] WEB: MOG MOG PLANET　REAL版
 // https://annict.com/works/16564
@@ -67024,7 +67024,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: TANK CHAIR-戦車椅子-
 // https://annict.com/works/17295
-{"annict_id":17295,"mal_id":63751}
+{"annict_id":17295,"mal_id":63751,"syobocal_tid":8027}
 ,
 // [2026-SUMMER] TV: 捨てられ聖女の異世界ごはん旅 隠れスキルでキャンピングカーを召喚しました
 // https://annict.com/works/17296
