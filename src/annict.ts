@@ -70590,4 +70590,16 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18194
 {"annict_id":18194,"mal_id":64967}
 ,
+// [2026-WINTER] MOVIE: 白蛇：浮生 ～巡りめぐる運命の赤い糸～
+// https://annict.com/works/18195
+{"annict_id":18195,"mal_id":57801}
+,
+// [2026-AUTUMN] MOVIE: ラブル＆クルー IN シアター 2026
+// https://annict.com/works/18196
+{"annict_id":18196}
+,
+// [2026-AUTUMN] OVA: コードギアス 奪還のロゼ ピクチャードラマ「好きなひとの話」
+// https://annict.com/works/18197
+{"annict_id":18197}
+,
 ]
