@@ -70602,4 +70602,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18197
 {"annict_id":18197}
 ,
+// [2010-AUTUMN] OVA: 娘クリ -Nyan×2 Music Clip-
+// https://annict.com/works/18198
+{"annict_id":18198,"mal_id":10050}
+,
 ]
