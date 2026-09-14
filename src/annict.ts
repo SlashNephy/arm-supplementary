@@ -61800,7 +61800,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: アオアシ Season2
 // https://annict.com/works/15978
-{"annict_id":15978,"mal_id":61603}
+{"annict_id":15978,"mal_id":61603,"syobocal_tid":8029}
 ,
 // [1978-null] MOVIE: MANGA
 // https://annict.com/works/15979
@@ -70609,5 +70609,9 @@ export const annict: ArmEntry[] = [
 // [2026-SUMMER] WEB:  「高橋和希原画展 YU-GI-OH! ART WORKS」開催記念スペシャルアニメーション
 // https://annict.com/works/18199
 {"annict_id":18199}
+,
+// [2026-SUMMER] WEB: 小学館絵本アニメ劇場
+// https://annict.com/works/18200
+{"annict_id":18200}
 ,
 ]
