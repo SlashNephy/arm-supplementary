@@ -69670,7 +69670,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17959
 {"annict_id":17959,"mal_id":64665}
 ,
-// [2027-null] OTHER: 機動戦士ガンダムRG XARX-ZERO
+// [2027-SPRING] TV: 機動戦士ガンダムRG XARX-ZERO
 // https://annict.com/works/17960
 {"annict_id":17960,"mal_id":64667}
 ,
@@ -70605,5 +70605,9 @@ export const annict: ArmEntry[] = [
 // [2010-AUTUMN] OVA: 娘クリ -Nyan×2 Music Clip-
 // https://annict.com/works/18198
 {"annict_id":18198,"mal_id":10050}
+,
+// [2026-SUMMER] WEB:  「高橋和希原画展 YU-GI-OH! ART WORKS」開催記念スペシャルアニメーション
+// https://annict.com/works/18199
+{"annict_id":18199}
 ,
 ]
