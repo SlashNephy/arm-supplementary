@@ -66626,7 +66626,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17193
 {"annict_id":17193,"mal_id":59236}
 ,
-// [2027-null] TV: ブレス
+// [2027-WINTER] TV: ブレス
 // https://annict.com/works/17194
 {"annict_id":17194,"mal_id":63640}
 ,
@@ -67266,7 +67266,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17355
 {"annict_id":17355,"mal_id":63820}
 ,
-// [2026-null] MOVIE: 風を継ぐもの 劇場先行版
+// [2026-AUTUMN] MOVIE: 風を継ぐもの -はじまり-
 // https://annict.com/works/17356
 {"annict_id":17356}
 ,
@@ -70617,5 +70617,13 @@ export const annict: ArmEntry[] = [
 // [2027-WINTER] TV: ハルとゲン ～70歳、はじめての子育て～
 // https://annict.com/works/18201
 {"annict_id":18201}
+,
+// [null-null] TV: 紛争でしたらハ田まで
+// https://annict.com/works/18202
+{"annict_id":18202}
+,
+// [2026-SUMMER] TV: BLEACH 千年血戦篇 クライマックスセレクション
+// https://annict.com/works/18203
+{"annict_id":18203}
 ,
 ]
