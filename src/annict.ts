@@ -65504,7 +65504,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: ケロロ軍曹☆
 // https://annict.com/works/16912
-{"annict_id":16912,"mal_id":63157}
+{"annict_id":16912,"mal_id":63157,"syobocal_tid":8033}
 ,
 // [2025-AUTUMN] WEB: マイティ・ナイン
 // https://annict.com/works/16913
@@ -66212,7 +66212,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: どうも、好きな人に惚れ薬を依頼された魔女です。
 // https://annict.com/works/17089
-{"annict_id":17089,"mal_id":63409}
+{"annict_id":17089,"mal_id":63409,"syobocal_tid":8030}
 ,
 // [2026-WINTER] WEB: LUCA
 // https://annict.com/works/17090
@@ -67032,7 +67032,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: 彼方から
 // https://annict.com/works/17297
-{"annict_id":17297,"mal_id":63753}
+{"annict_id":17297,"mal_id":63753,"syobocal_tid":8032}
 ,
 // [2026-AUTUMN] TV: 塩対応の佐藤さんが俺にだけ甘い
 // https://annict.com/works/17298
@@ -69600,7 +69600,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: dreamland
 // https://annict.com/works/17942
-{"annict_id":17942}
+{"annict_id":17942,"syobocal_tid":8031}
 ,
 // [2021-AUTUMN] TV: きっと明日は好きになる
 // https://annict.com/works/17943
