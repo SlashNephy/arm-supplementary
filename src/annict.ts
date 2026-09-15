@@ -70328,7 +70328,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: ふんばるず
 // https://annict.com/works/18128
-{"annict_id":18128}
+{"annict_id":18128,"mal_id":64981}
 ,
 // [null-null] OTHER: ペロペロ★スパ〜クルズ
 // https://annict.com/works/18129
@@ -70613,5 +70613,9 @@ export const annict: ArmEntry[] = [
 // [2026-SUMMER] WEB: 小学館絵本アニメ劇場
 // https://annict.com/works/18200
 {"annict_id":18200}
+,
+// [2027-WINTER] TV: ハルとゲン ～70歳、はじめての子育て～
+// https://annict.com/works/18201
+{"annict_id":18201}
 ,
 ]
