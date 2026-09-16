@@ -70626,4 +70626,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18203
 {"annict_id":18203}
 ,
+// [2026-SUMMER] WEB: 鹿島アントラーズ meets 鷹の爪団
+// https://annict.com/works/18204
+{"annict_id":18204}
+,
+// [2026-AUTUMN] TV: マゼンチュ
+// https://annict.com/works/18205
+{"annict_id":18205}
+,
 ]
