@@ -52844,7 +52844,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: DARK MACHINE THE ANIMATION
 // https://annict.com/works/13731
-{"annict_id":13731,"mal_id":59415}
+{"annict_id":13731,"mal_id":59415,"syobocal_tid":8034}
 ,
 // [2025-SUMMER] TV: 勇者パーティーを追放された白魔導師、Sランク冒険者に拾われる ～この白魔導師が規格外すぎる～
 // https://annict.com/works/13732
