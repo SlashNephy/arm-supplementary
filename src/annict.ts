@@ -59032,7 +59032,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: 目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい
 // https://annict.com/works/15285
-{"annict_id":15285,"mal_id":60948}
+{"annict_id":15285,"mal_id":60948,"syobocal_tid":8035}
 ,
 // [1989-WINTER] MOVIE: ロボタン(映画)
 // https://annict.com/works/15286
@@ -64276,7 +64276,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: てつりょー！meet with 鉄道むすめ
 // https://annict.com/works/16602
-{"annict_id":16602,"mal_id":62615}
+{"annict_id":16602,"mal_id":62615,"syobocal_tid":8038}
 ,
 // [2027-SPRING] TV: 幼稚園WARS
 // https://annict.com/works/16603
@@ -64448,7 +64448,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: 弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった
 // https://annict.com/works/16646
-{"annict_id":16646,"mal_id":62753}
+{"annict_id":16646,"mal_id":62753,"syobocal_tid":8036}
 ,
 // [2011-AUTUMN] WEB: 極限脱出ADV 善人シボウデス プロモーションアニメ
 // https://annict.com/works/16647
@@ -68184,7 +68184,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: 冰剣の魔術師が世界を統べるⅡ
 // https://annict.com/works/17586
-{"annict_id":17586,"mal_id":64254}
+{"annict_id":17586,"mal_id":64254,"syobocal_tid":8037}
 ,
 // [null-null] TV: 月華国奇医伝
 // https://annict.com/works/17587
