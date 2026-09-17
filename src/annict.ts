@@ -70646,4 +70646,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18208
 {"annict_id":18208}
 ,
+// [null-null] TV: 神さま学校の落ちこぼれ
+// https://annict.com/works/18209
+{"annict_id":18209}
+,
 ]
