@@ -70634,4 +70634,16 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18205
 {"annict_id":18205}
 ,
+// [2024-null] WEB: クマーバチャンネル
+// https://annict.com/works/18206
+{"annict_id":18206}
+,
+// [2026-AUTUMN] TV: シルバニアファミリー フレアのカラフル・エブリデイ
+// https://annict.com/works/18207
+{"annict_id":18207}
+,
+// [2026-AUTUMN] WEB: 楽楽飯店
+// https://annict.com/works/18208
+{"annict_id":18208}
+,
 ]
