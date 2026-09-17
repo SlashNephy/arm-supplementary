@@ -64404,7 +64404,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: 超巡！超条先輩
 // https://annict.com/works/16635
-{"annict_id":16635,"mal_id":62696}
+{"annict_id":16635,"mal_id":62696,"syobocal_tid":8039}
 ,
 // [2020-AUTUMN] MOVIE: 春空と秋空
 // https://annict.com/works/16636
@@ -65960,7 +65960,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: ホタルの嫁入り
 // https://annict.com/works/17026
-{"annict_id":17026,"mal_id":63293}
+{"annict_id":17026,"mal_id":63293,"syobocal_tid":8040}
 ,
 // [2025-AUTUMN] WEB: 腐男子召喚～異世界で神獣にハメられました～ 10th
 // https://annict.com/works/17027
