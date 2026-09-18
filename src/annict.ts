@@ -46752,7 +46752,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: 帰還者の魔法は特別です 第二期
 // https://annict.com/works/12204
-{"annict_id":12204,"mal_id":57612}
+{"annict_id":12204,"mal_id":57612,"syobocal_tid":8041}
 ,
 // [1999-SUMMER] OVA: 倒凶十将伝
 // https://annict.com/works/12205
@@ -53732,7 +53732,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: ロメリア戦記
 // https://annict.com/works/13957
-{"annict_id":13957,"mal_id":59787}
+{"annict_id":13957,"mal_id":59787,"syobocal_tid":8042}
 ,
 // [null-null] MOVIE: 千鳥の曲
 // https://annict.com/works/13958
@@ -70677,5 +70677,9 @@ export const annict: ArmEntry[] = [
 // [2022-AUTUMN] WEB: ウェンデルとワイルド
 // https://annict.com/works/18216
 {"annict_id":18216}
+,
+// [2026-AUTUMN] OTHER: 機動戦士ガンダム 光のともだち
+// https://annict.com/works/18217
+{"annict_id":18217}
 ,
 ]
