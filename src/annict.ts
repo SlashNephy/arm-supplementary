@@ -69102,7 +69102,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17817
 {"annict_id":17817}
 ,
-// [2026-null] WEB: フールナイト
+// [2026-AUTUMN] WEB: フールナイト
 // https://annict.com/works/17818
 {"annict_id":17818,"mal_id":64459}
 ,
