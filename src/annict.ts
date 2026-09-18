@@ -32302,7 +32302,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/8449
 {"annict_id":8449,"mal_id":48703}
 ,
-// [2022-null] MOVIE: CHERRY AND VIRGIN
+// [2027-null] MOVIE: CHERRY AND VIRGIN
 // https://annict.com/works/8450
 {"annict_id":8450,"mal_id":48832}
 ,
@@ -49512,7 +49512,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2024-SPRING] WEB: 原神ショートアニメ「燼中歌」
 // https://annict.com/works/12897
-{"annict_id":12897,"mal_id":58689}
+{"annict_id":12897,"mal_id":65004}
 ,
 // [2023-SPRING] MOVIE: シナぷしゅ THE MOVIE ぷしゅほっぺにゅうワールド
 // https://annict.com/works/12898
@@ -51396,7 +51396,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2023-SPRING] WEB: 【崩壊：スターレイル】ショートアニメ「飛光」
 // https://annict.com/works/13369
-{"annict_id":13369,"mal_id":55303}
+{"annict_id":13369,"mal_id":64979}
 ,
 // [2023-SUMMER] WEB: 【崩壊：スターレイル】ショートアニメ「玄黄」
 // https://annict.com/works/13370
@@ -57600,7 +57600,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2024-SUMMER] WEB: ゼンレスゾーンゼロ ジェーンショートアニメ「震える真夜中」
 // https://annict.com/works/14926
-{"annict_id":14926}
+{"annict_id":14926,"mal_id":65005}
 ,
 // [2024-AUTUMN] WEB: ゼンレスゾーンゼロ 星見雅ショートアニメ「英雄の旅路」
 // https://annict.com/works/14927
@@ -70608,7 +70608,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] WEB:  「高橋和希原画展 YU-GI-OH! ART WORKS」開催記念スペシャルアニメーション
 // https://annict.com/works/18199
-{"annict_id":18199}
+{"annict_id":18199,"mal_id":64977}
 ,
 // [2026-SUMMER] WEB: 小学館絵本アニメ劇場
 // https://annict.com/works/18200
@@ -70618,9 +70618,9 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18201
 {"annict_id":18201}
 ,
-// [null-null] TV: 紛争でしたらハ田まで
+// [null-null] TV: 紛争でしたら八田まで
 // https://annict.com/works/18202
-{"annict_id":18202}
+{"annict_id":18202,"mal_id":64978}
 ,
 // [2026-SUMMER] TV: BLEACH 千年血戦篇 クライマックスセレクション
 // https://annict.com/works/18203
@@ -70681,5 +70681,9 @@ export const annict: ArmEntry[] = [
 // [2026-AUTUMN] OTHER: 機動戦士ガンダム 光のともだち
 // https://annict.com/works/18217
 {"annict_id":18217}
+,
+// [2026-AUTUMN] TV: 蒼き伝承 ウェルシュ＆シェダー
+// https://annict.com/works/18218
+{"annict_id":18218,"mal_id":65009}
 ,
 ]
