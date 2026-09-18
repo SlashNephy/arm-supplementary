@@ -67794,7 +67794,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17488
 {"annict_id":17488,"mal_id":63997}
 ,
-// [null-null] TV: アラフォー賢者の異世界生活日記
+// [2027-WINTER] TV: アラフォー賢者の異世界生活日記
 // https://annict.com/works/17489
 {"annict_id":17489,"mal_id":63998}
 ,
