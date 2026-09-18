@@ -31630,7 +31630,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/8249
 {"annict_id":8249}
 ,
-// [2019-null] MOVIE: クロース
+// [2019-AUTUMN] MOVIE: クロース
 // https://annict.com/works/8250
 {"annict_id":8250}
 ,
@@ -70649,5 +70649,33 @@ export const annict: ArmEntry[] = [
 // [null-null] TV: 神さま学校の落ちこぼれ
 // https://annict.com/works/18209
 {"annict_id":18209,"mal_id":65015}
+,
+// [2026-AUTUMN] WEB: リリスとシンデレラのおとぎの王国
+// https://annict.com/works/18210
+{"annict_id":18210}
+,
+// [2025-AUTUMN] WEB: The Twits -アッホ夫婦
+// https://annict.com/works/18211
+{"annict_id":18211}
+,
+// [2020-WINTER] TV: ヒックとドラゴン 受け継ぐ者たち
+// https://annict.com/works/18212
+{"annict_id":18212}
+,
+// [2024-SPRING] WEB: ユニコーンのテルマ
+// https://annict.com/works/18213
+{"annict_id":18213}
+,
+// [2023-SUMMER] WEB: モンキー・キング
+// https://annict.com/works/18214
+{"annict_id":18214}
+,
+// [2023-WINTER] WEB: ピーターと魔法の象
+// https://annict.com/works/18215
+{"annict_id":18215}
+,
+// [2022-AUTUMN] WEB: ウェンデルとワイルド
+// https://annict.com/works/18216
+{"annict_id":18216}
 ,
 ]
