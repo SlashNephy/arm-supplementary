@@ -68206,7 +68206,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17591
 {"annict_id":17591}
 ,
-// [null-null] OTHER: Poppin-Play Kitchen 続編
+// [2027-WINTER] WEB: Poppin-Play Kitchen 続編
 // https://annict.com/works/17592
 {"annict_id":17592}
 ,
@@ -70689,5 +70689,25 @@ export const annict: ArmEntry[] = [
 // [null-null] TV: 新 美味しんぼ
 // https://annict.com/works/18219
 {"annict_id":18219}
+,
+// [null-null] WEB: あたしンちNEXT 新エピソード (2026)
+// https://annict.com/works/18220
+{"annict_id":18220}
+,
+// [2026-AUTUMN] WEB: おしゃべりジュエリーと怪盗の群れ
+// https://annict.com/works/18221
+{"annict_id":18221}
+,
+// [2026-AUTUMN] WEB: SALON de MONDE
+// https://annict.com/works/18222
+{"annict_id":18222}
+,
+// [2026-AUTUMN] WEB: 灯苔珈琲店
+// https://annict.com/works/18223
+{"annict_id":18223}
+,
+// [2021-SUMMER] MOVIE: 高野交差点
+// https://annict.com/works/18224
+{"annict_id":18224,"mal_id":50206}
 ,
 ]
