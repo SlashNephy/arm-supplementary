@@ -64206,7 +64206,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16583
 {"annict_id":16583,"mal_id":63709,"syobocal_tid":7828}
 ,
-// [null-null] TV: 真･侍伝 YAIBA 第2期
+// [2027-WINTER] TV: 真･侍伝 YAIBA 第2期
 // https://annict.com/works/16584
 {"annict_id":16584,"mal_id":62580}
 ,
@@ -70685,5 +70685,9 @@ export const annict: ArmEntry[] = [
 // [2026-AUTUMN] TV: 蒼き伝承 ウェルシュ＆シェダー
 // https://annict.com/works/18218
 {"annict_id":18218,"mal_id":65009}
+,
+// [null-null] TV: 新 美味しんぼ
+// https://annict.com/works/18219
+{"annict_id":18219}
 ,
 ]
