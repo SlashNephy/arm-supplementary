@@ -63220,7 +63220,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: パンどろぼう
 // https://annict.com/works/16335
-{"annict_id":16335,"mal_id":62039}
+{"annict_id":16335,"mal_id":62039,"syobocal_tid":8043}
 ,
 // [2025-SUMMER] WEB: ポケモンと駆ける夏物語
 // https://annict.com/works/16336
@@ -70709,5 +70709,9 @@ export const annict: ArmEntry[] = [
 // [2021-SUMMER] MOVIE: 高野交差点
 // https://annict.com/works/18224
 {"annict_id":18224,"mal_id":50206}
+,
+// [2027-null] TV: 猫と竜 第2期
+// https://annict.com/works/18225
+{"annict_id":18225}
 ,
 ]
