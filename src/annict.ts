@@ -64152,7 +64152,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: 新テニスの王子様 U-17 WORLD CUP 決勝メンバー決定戦
 // https://annict.com/works/16570
-{"annict_id":16570,"mal_id":62534}
+{"annict_id":16570,"mal_id":62534,"syobocal_tid":8044}
 ,
 // [2026-SUMMER] TV: ぐらんぶる Season 3
 // https://annict.com/works/16571
@@ -68554,7 +68554,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17678
 {"annict_id":17678}
 ,
-// [2027-null] TV: 電撃デイジー
+// [2027-WINTER] TV: 電撃デイジー
 // https://annict.com/works/17679
 {"annict_id":17679,"mal_id":64374}
 ,
@@ -70712,6 +70712,10 @@ export const annict: ArmEntry[] = [
 ,
 // [2027-null] TV: 猫と竜 第2期
 // https://annict.com/works/18225
-{"annict_id":18225}
+{"annict_id":18225,"mal_id":65025}
+,
+// [null-null] TV: 黄泉のツガイ 第2期
+// https://annict.com/works/18226
+{"annict_id":18226,"mal_id":65024}
 ,
 ]
