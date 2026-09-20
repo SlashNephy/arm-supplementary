@@ -47666,7 +47666,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/12432
 {"annict_id":12432}
 ,
-// [null-null] MOVIE: ヤマトよ永遠に REBEL3199 第七章
+// [2026-AUTUMN] MOVIE: ヤマトよ永遠に REBEL3199 第七章
 // https://annict.com/works/12433
 {"annict_id":12433}
 ,
@@ -64766,7 +64766,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16726
 {"annict_id":16726,"mal_id":62973}
 ,
-// [2027-null] TV: 魔術を極めて旅に出た転生エルフ、持て余した寿命で生ける伝説となる
+// [2027-WINTER] TV: 魔術を極めて旅に出た転生エルフ、持て余した寿命で生ける伝説となる
 // https://annict.com/works/16727
 {"annict_id":16727,"mal_id":62978}
 ,
