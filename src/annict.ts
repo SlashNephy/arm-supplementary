@@ -70718,4 +70718,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18226
 {"annict_id":18226,"mal_id":65024}
 ,
+// [2027-WINTER] TV: ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ伝～ 第2クール
+// https://annict.com/works/18227
+{"annict_id":18227,"mal_id":65032}
+,
 ]
