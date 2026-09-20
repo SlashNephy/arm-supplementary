@@ -60756,7 +60756,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: Battle Spirits [Re] 絶界の空
 // https://annict.com/works/15716
-{"annict_id":15716,"mal_id":63818}
+{"annict_id":15716,"mal_id":63818,"syobocal_tid":8046}
 ,
 // [2026-SPRING] MOVIE: 最終楽章 響け！ユーフォニアム 前編
 // https://annict.com/works/15717
@@ -67036,7 +67036,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: 塩対応の佐藤さんが俺にだけ甘い
 // https://annict.com/works/17298
-{"annict_id":17298,"mal_id":63754}
+{"annict_id":17298,"mal_id":63754,"syobocal_tid":8045}
 ,
 // [2010-AUTUMN] WEB: Calm
 // https://annict.com/works/17299
@@ -68104,7 +68104,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] WEB: 【NTE】ナナリ キャラアニメ｜「ボス」からのお誘い
 // https://annict.com/works/17566
-{"annict_id":17566}
+{"annict_id":17566,"mal_id":65029}
 ,
 // [2026-SPRING] WEB: 【NTE】潯 キャラアニメ｜懐表に刻まれた、時の全景を
 // https://annict.com/works/17567
@@ -69706,7 +69706,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17968
 {"annict_id":17968,"mal_id":64685}
 ,
-// [2026-SUMMER] WEB: 角獣アニメ ちょうむかしばなし
+// [2026-SUMMER] WEB: 角醒ハンター オメガホーン 角獣アニメ
 // https://annict.com/works/17969
 {"annict_id":17969}
 ,
