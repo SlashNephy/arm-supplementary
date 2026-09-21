@@ -66398,9 +66398,9 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17135
 {"annict_id":17135,"mal_id":63511}
 ,
-// [2026-AUTUMN] TV: 百妖譜 京師篇
+// [2026-AUTUMN] TV: 百妖譜 第3期京師篇
 // https://annict.com/works/17136
-{"annict_id":17136,"mal_id":50537}
+{"annict_id":17136,"mal_id":50537,"syobocal_tid":8047}
 ,
 // [2026-SPRING] TV: 百妖譜 第1期・第2期 傑作選
 // https://annict.com/works/17137
