@@ -66398,7 +66398,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17135
 {"annict_id":17135,"mal_id":63511}
 ,
-// [2026-AUTUMN] TV: 百妖譜 第3期京師篇
+// [2026-AUTUMN] TV: 百妖譜 第3期 京師篇
 // https://annict.com/works/17136
 {"annict_id":17136,"mal_id":50537,"syobocal_tid":8047}
 ,
@@ -70721,5 +70721,9 @@ export const annict: ArmEntry[] = [
 // [2027-WINTER] TV: ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ伝～ 第2クール
 // https://annict.com/works/18227
 {"annict_id":18227,"mal_id":65032}
+,
+// [2007-SUMMER] MOVIE: KND ハチャメチャ大作戦 オペレーションZ.E.R.O.
+// https://annict.com/works/18228
+{"annict_id":18228}
 ,
 ]
