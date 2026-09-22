@@ -55120,7 +55120,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SPRING] TV: リラックマ
 // https://annict.com/works/14305
-{"annict_id":14305,"mal_id":60153}
+{"annict_id":14305,"mal_id":60153,"syobocal_tid":8050}
 ,
 // [2025-SPRING] TV: 俺は星間国家の悪徳領主！
 // https://annict.com/works/14306
@@ -60188,7 +60188,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: 幻想水滸伝
 // https://annict.com/works/15574
-{"annict_id":15574,"mal_id":61140}
+{"annict_id":15574,"mal_id":61140,"syobocal_tid":8051}
 ,
 // [1999-WINTER] TV: エド エッド エディ
 // https://annict.com/works/15575
@@ -65084,7 +65084,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: 恐怖コレクター
 // https://annict.com/works/16806
-{"annict_id":16806,"mal_id":63053}
+{"annict_id":16806,"mal_id":63053,"syobocal_tid":8049}
 ,
 // [2025-SPRING] WEB: 婚約破棄23回の冷血貴公子は田舎のポンコツ令嬢にふりまわされる
 // https://annict.com/works/16807
@@ -65264,7 +65264,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: PSYREN -サイレン-
 // https://annict.com/works/16852
-{"annict_id":16852,"mal_id":63098}
+{"annict_id":16852,"mal_id":63098,"syobocal_tid":8053}
 ,
 // [2016-SPRING] TV: 新 ルーニー・テューンズ
 // https://annict.com/works/16853
@@ -65624,7 +65624,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: 桃源暗鬼 ～日光・華厳の滝編～
 // https://annict.com/works/16942
-{"annict_id":16942,"mal_id":63181}
+{"annict_id":16942,"mal_id":63181,"syobocal_tid":8052}
 ,
 // [null-null] TV: キングダム 第6シリーズ 続編
 // https://annict.com/works/16943
@@ -68348,7 +68348,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: マロニエ王国の七人の騎士
 // https://annict.com/works/17627
-{"annict_id":17627,"mal_id":64326}
+{"annict_id":17627,"mal_id":64326,"syobocal_tid":8048}
 ,
 // [2026-SPRING] TV: ちいさなプリンセス ソフィア マジカルフレンズ
 // https://annict.com/works/17628
