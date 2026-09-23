@@ -70730,4 +70730,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18229
 {"annict_id":18229,"mal_id":65037}
 ,
+// [2027-WINTER] MOVIE: 愛のハチュピン
+// https://annict.com/works/18230
+{"annict_id":18230}
+,
 ]
