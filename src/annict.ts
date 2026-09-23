@@ -70734,4 +70734,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18230
 {"annict_id":18230}
 ,
+// [null-null] TV: 片田舎のおっさん、剣聖になる 第三期
+// https://annict.com/works/18231
+{"annict_id":18231}
+,
 ]
