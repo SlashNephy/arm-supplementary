@@ -70446,7 +70446,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18157
 {"annict_id":18157,"mal_id":64922}
 ,
-// [null-null] TV: おでホロ
+// [null-null] TV: おでかけホロライブ
 // https://annict.com/works/18158
 {"annict_id":18158}
 ,
