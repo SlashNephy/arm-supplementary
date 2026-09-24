@@ -62302,7 +62302,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16103
 {"annict_id":16103}
 ,
-// [2025-SUMMER] TV: ちびゴジラの逆襲 (3期)
+// [2025-SUMMER] TV: ちびゴジラの逆襲 (3・4期)
 // https://annict.com/works/16104
 {"annict_id":16104,"mal_id":61765,"syobocal_tid":7534}
 ,
