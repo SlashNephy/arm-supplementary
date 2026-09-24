@@ -70632,7 +70632,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: マゼンチュ
 // https://annict.com/works/18205
-{"annict_id":18205}
+{"annict_id":18205,"mal_id":65007}
 ,
 // [2024-null] WEB: クマーバチャンネル
 // https://annict.com/works/18206
@@ -70753,5 +70753,13 @@ export const annict: ArmEntry[] = [
 // [2027-WINTER] TV: SEKIRO: NO DEFEAT（TV版）
 // https://annict.com/works/18235
 {"annict_id":18235}
+,
+// [2027-SPRING] TV: 桃源暗鬼 ～日光・華厳の滝編～ 第2クール
+// https://annict.com/works/18236
+{"annict_id":18236,"mal_id":65023}
+,
+// [2026-AUTUMN] TV: 桃源暗鬼 第一期 特別編集版
+// https://annict.com/works/18237
+{"annict_id":18237}
 ,
 ]
