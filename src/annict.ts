@@ -64790,7 +64790,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16732
 {"annict_id":16732}
 ,
-// [null-null] TV: 描くなるうえは
+// [2027-WINTER] TV: 描くなるうえは
 // https://annict.com/works/16733
 {"annict_id":16733,"mal_id":62989}
 ,
@@ -70684,7 +70684,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: 蒼き伝承 ウェルシュ＆シェダー
 // https://annict.com/works/18218
-{"annict_id":18218,"mal_id":65009}
+{"annict_id":18218,"mal_id":65009,"syobocal_tid":8058}
 ,
 // [2027-null] TV: 新 美味しんぼ
 // https://annict.com/works/18219
@@ -70736,6 +70736,22 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] TV: 片田舎のおっさん、剣聖になる 第三期
 // https://annict.com/works/18231
-{"annict_id":18231}
+{"annict_id":18231,"mal_id":65047}
+,
+// [2027-null] WEB: これってぷろせか？
+// https://annict.com/works/18232
+{"annict_id":18232}
+,
+// [2026-AUTUMN] TV: 魔法の姉妹ルルットリリィ 近くて遠いふたりの距離
+// https://annict.com/works/18233
+{"annict_id":18233}
+,
+// [2027-null] TV: ファントムバスターズ
+// https://annict.com/works/18234
+{"annict_id":18234,"mal_id":65052}
+,
+// [2027-WINTER] TV: SEKIRO: NO DEFEAT（TV版）
+// https://annict.com/works/18235
+{"annict_id":18235}
 ,
 ]
