@@ -66384,7 +66384,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: ダークサモナーとデキている
 // https://annict.com/works/17132
-{"annict_id":17132,"mal_id":63509}
+{"annict_id":17132,"mal_id":63509,"syobocal_tid":8056}
 ,
 // [2026-WINTER] WEB: SHIBUYA♡HACHI　「ハチと渋谷を歩こう！」
 // https://annict.com/works/17133
@@ -67274,7 +67274,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17357
 {"annict_id":17357,"mal_id":63822}
 ,
-// [null-null] TV: ぷにるんず ぷに4
+// [2026-AUTUMN] TV: ぷにるんず ぷに4
 // https://annict.com/works/17358
 {"annict_id":17358,"mal_id":63823}
 ,
@@ -68028,7 +68028,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: 彼女の友達
 // https://annict.com/works/17547
-{"annict_id":17547,"mal_id":64131}
+{"annict_id":17547,"mal_id":64131,"syobocal_tid":8057}
 ,
 // [2026-SPRING] MOVIE: 臨時増発 ミルキー☆サブウェイ 各駅停車劇場行き
 // https://annict.com/works/17548
@@ -68380,7 +68380,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: テムパル～アイテムの力～
 // https://annict.com/works/17635
-{"annict_id":17635,"mal_id":64340}
+{"annict_id":17635,"mal_id":64340,"syobocal_tid":8055}
 ,
 // [2026-AUTUMN] TV: 獣王武神ダンデヴァイン
 // https://annict.com/works/17636
@@ -69244,7 +69244,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: ダイヤのA actⅡ -Second Season- 第2クール
 // https://annict.com/works/17853
-{"annict_id":17853,"mal_id":64505}
+{"annict_id":17853,"mal_id":64505,"syobocal_tid":8054}
 ,
 // [null-null] TV: とんがり帽子のアトリエ 第2期
 // https://annict.com/works/17854
@@ -70686,9 +70686,9 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18218
 {"annict_id":18218,"mal_id":65009}
 ,
-// [null-null] TV: 新 美味しんぼ
+// [2027-null] TV: 新 美味しんぼ
 // https://annict.com/works/18219
-{"annict_id":18219}
+{"annict_id":18219,"mal_id":65053}
 ,
 // [null-null] WEB: あたしンちNEXT 新エピソード (2026)
 // https://annict.com/works/18220
