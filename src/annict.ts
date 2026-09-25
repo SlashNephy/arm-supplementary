@@ -70762,4 +70762,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18237
 {"annict_id":18237}
 ,
+// [2026-SUMMER] WEB: スパイディ and アベンジャーズ: しゅつどう！ハロウィーン
+// https://annict.com/works/18238
+{"annict_id":18238}
+,
 ]
