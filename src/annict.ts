@@ -65472,7 +65472,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] WEB: 鳴海の平日
 // https://annict.com/works/16904
-{"annict_id":16904,"mal_id":63138}
+{"annict_id":16904,"mal_id":63138,"syobocal_tid":7991}
 ,
 // [null-null] OTHER: Mr.Clice
 // https://annict.com/works/16905
@@ -66244,7 +66244,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: 追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。 ～俺は武器だけじゃなく、あらゆるものに『強化ポイント』を付与できるし、俺の意思でいつでも効果を解除できるけど、残った人たち大丈夫？～
 // https://annict.com/works/17097
-{"annict_id":17097,"mal_id":63431}
+{"annict_id":17097,"mal_id":63431,"syobocal_tid":8017}
 ,
 // [null-null] TV: ダンジョンに出会いを求めるのは間違っているだろうかⅥ
 // https://annict.com/works/17098
@@ -68064,7 +68064,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: 傷だらけ聖女より報復をこめて Season2
 // https://annict.com/works/17556
-{"annict_id":17556,"mal_id":64180}
+{"annict_id":17556,"mal_id":64180,"syobocal_tid":8062}
 ,
 // [2026-SPRING] WEB: トランスフォーマー ワイルドキングW
 // https://annict.com/works/17557
@@ -70328,7 +70328,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: ふんばるず
 // https://annict.com/works/18128
-{"annict_id":18128,"mal_id":64981}
+{"annict_id":18128,"mal_id":64981,"syobocal_tid":8060}
 ,
 // [null-null] OTHER: ペロペロ★スパ〜クルズ
 // https://annict.com/works/18129
@@ -70769,5 +70769,17 @@ export const annict: ArmEntry[] = [
 // [null-null] TV: エルフ先生のトイレはどこですか？
 // https://annict.com/works/18239
 {"annict_id":18239}
+,
+// [2027-SPRING] TV: 転生したらスライムだった件 クレイマンREVENGE
+// https://annict.com/works/18240
+{"annict_id":18240}
+,
+// [2027-SUMMER] TV: 転生したらスライムだった件 第4期 第3クール
+// https://annict.com/works/18241
+{"annict_id":18241}
+,
+// [null-null] TV: これ描いて死ね 第2期
+// https://annict.com/works/18242
+{"annict_id":18242}
 ,
 ]
