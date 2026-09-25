@@ -70766,4 +70766,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18238
 {"annict_id":18238}
 ,
+// [null-null] TV: エルフ先生のトイレはどこですか？
+// https://annict.com/works/18239
+{"annict_id":18239}
+,
 ]
