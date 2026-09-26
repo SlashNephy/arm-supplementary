@@ -70776,7 +70776,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2027-SUMMER] TV: 転生したらスライムだった件 第4期 第3クール
 // https://annict.com/works/18241
-{"annict_id":18241}
+{"annict_id":18241,"mal_id":63129}
 ,
 // [null-null] TV: これ描いて死ね 第2期
 // https://annict.com/works/18242
@@ -70788,7 +70788,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] WEB: 餓狼伝説 CotW｜キム･カッファン｜アニメーショントレーラー
 // https://annict.com/works/18244
-{"annict_id":18244}
+{"annict_id":18244,"mal_id":65054}
 ,
 // [null-null] TV: ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ 3rd Season
 // https://annict.com/works/18245
