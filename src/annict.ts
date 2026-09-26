@@ -70782,4 +70782,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18242
 {"annict_id":18242}
 ,
+// [2026-WINTER] WEB: スパイディ and アイアンマン: アベンジャーズ チームアップ！
+// https://annict.com/works/18243
+{"annict_id":18243}
+,
 ]
