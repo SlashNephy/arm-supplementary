@@ -70794,4 +70794,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18245
 {"annict_id":18245,"mal_id":65073}
 ,
+// [2027-WINTER] MOVIE: 新世紀GPXサイバーフォーミュラEARLYDAYS RENEWAL MOVIE EDITION
+// https://annict.com/works/18246
+{"annict_id":18246}
+,
+// [2027-WINTER] MOVIE: 新世紀GPXサイバーフォーミュラASURADA
+// https://annict.com/works/18247
+{"annict_id":18247}
+,
 ]
