@@ -69708,7 +69708,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] WEB: 角醒ハンター オメガホーン 角獣アニメ
 // https://annict.com/works/17969
-{"annict_id":17969}
+{"annict_id":17969,"mal_id":65067}
 ,
 // [1995-SPRING] OTHER: 都会のブッチー
 // https://annict.com/works/17971
@@ -70448,7 +70448,7 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] TV: おでかけホロライブ
 // https://annict.com/works/18158
-{"annict_id":18158}
+{"annict_id":18158,"mal_id":65050}
 ,
 // [null-null] TV: カラダにイイ男
 // https://annict.com/works/18159
@@ -70768,11 +70768,11 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] TV: エルフ先生のトイレはどこですか？
 // https://annict.com/works/18239
-{"annict_id":18239}
+{"annict_id":18239,"mal_id":65069}
 ,
 // [2027-SPRING] TV: 転生したらスライムだった件 クレイマンREVENGE
 // https://annict.com/works/18240
-{"annict_id":18240}
+{"annict_id":18240,"mal_id":65070}
 ,
 // [2027-SUMMER] TV: 転生したらスライムだった件 第4期 第3クール
 // https://annict.com/works/18241
@@ -70780,10 +70780,18 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] TV: これ描いて死ね 第2期
 // https://annict.com/works/18242
-{"annict_id":18242}
+{"annict_id":18242,"mal_id":65071}
 ,
 // [2026-WINTER] WEB: スパイディ and アイアンマン: アベンジャーズ チームアップ！
 // https://annict.com/works/18243
 {"annict_id":18243}
+,
+// [2026-SUMMER] WEB: 餓狼伝説 CotW｜キム･カッファン｜アニメーショントレーラー
+// https://annict.com/works/18244
+{"annict_id":18244}
+,
+// [null-null] TV: ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ 3rd Season
+// https://annict.com/works/18245
+{"annict_id":18245,"mal_id":65073}
 ,
 ]
