@@ -63506,7 +63506,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16406
 {"annict_id":16406}
 ,
-// [null-null] MOVIE: TAMALA2030 a punk cat in dark
+// [2027-WINTER] MOVIE: TAMALA2030 a punk cat in dark
 // https://annict.com/works/16407
 {"annict_id":16407,"mal_id":61699}
 ,
@@ -70801,5 +70801,9 @@ export const annict: ArmEntry[] = [
 // [2027-WINTER] MOVIE: 新世紀GPXサイバーフォーミュラASURADA
 // https://annict.com/works/18247
 {"annict_id":18247}
+,
+// [2026-SUMMER] WEB: 子猫の配達員うーにゃん(アニメシリーズ)
+// https://annict.com/works/18248
+{"annict_id":18248}
 ,
 ]
