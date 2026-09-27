@@ -70806,4 +70806,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18248
 {"annict_id":18248}
 ,
+// [null-null] MOVIE: 劇場版 魔入りました！入間くん
+// https://annict.com/works/18249
+{"annict_id":18249}
+,
 ]
