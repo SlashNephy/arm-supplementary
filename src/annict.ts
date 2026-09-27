@@ -67276,7 +67276,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: ぷにるんず ぷに4
 // https://annict.com/works/17358
-{"annict_id":17358,"mal_id":63823}
+{"annict_id":17358,"mal_id":63823,"syobocal_tid":8065}
 ,
 // [2026-AUTUMN] WEB: スティール・ボール・ラン ジョジョの奇妙な冒険 2nd & 3rd STAGE
 // https://annict.com/works/17359
@@ -69812,7 +69812,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: 僕らが選んだベストアドベンチャー
 // https://annict.com/works/17997
-{"annict_id":17997}
+{"annict_id":17997,"syobocal_tid":8064}
 ,
 // [2003-AUTUMN] TV: ふたりエッチ(第2期)
 // https://annict.com/works/17998
@@ -70060,7 +70060,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: ねずみくんのチョッキ 第2期
 // https://annict.com/works/18059
-{"annict_id":18059,"mal_id":64789}
+{"annict_id":18059,"mal_id":64789,"syobocal_tid":8063}
 ,
 // [2026-SUMMER] WEB: カメールと、夏のつづき
 // https://annict.com/works/18060
