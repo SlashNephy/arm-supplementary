@@ -66140,7 +66140,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: マウスカーソルで現実を操作できるようになったので、女の子をいっぱいクリックしまーす
 // https://annict.com/works/17071
-{"annict_id":17071,"mal_id":63381}
+{"annict_id":17071,"mal_id":63381,"syobocal_tid":8067}
 ,
 // [2026-WINTER] WEB: ふくふくの地図
 // https://annict.com/works/17072
@@ -69562,7 +69562,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17932
 {"annict_id":17932,"mal_id":64597}
 ,
-// [2027-null] OTHER: モンスターストライク 新シリーズ
+// [2027-WINTER] TV: メラ×デス 死神と僕の異常な恋
 // https://annict.com/works/17933
 {"annict_id":17933}
 ,
@@ -70240,7 +70240,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] WEB: うまゆる ふるげ～と！
 // https://annict.com/works/18106
-{"annict_id":18106,"mal_id":64867}
+{"annict_id":18106,"mal_id":64867,"syobocal_tid":8069}
 ,
 // [2026-SUMMER] WEB: KAエスマ文庫『草原の輝き』アニメーションCM
 // https://annict.com/works/18107
@@ -70808,6 +70808,10 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] MOVIE: 劇場版 魔入りました！入間くん
 // https://annict.com/works/18249
-{"annict_id":18249}
+{"annict_id":18249,"mal_id":65076}
+,
+// [2027-null] TV: 無職転生Ⅲ ～異世界行ったら本気だす～ 第2クール
+// https://annict.com/works/18250
+{"annict_id":18250,"mal_id":65077}
 ,
 ]
