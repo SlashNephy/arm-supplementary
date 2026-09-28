@@ -70818,4 +70818,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18251
 {"annict_id":18251,"mal_id":65080}
 ,
+// [null-null] TV: LIAR GAME -ライアーゲーム- 第2期
+// https://annict.com/works/18252
+{"annict_id":18252,"mal_id":65083}
+,
 ]
