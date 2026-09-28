@@ -70814,4 +70814,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18250
 {"annict_id":18250,"mal_id":65077}
 ,
+// [2027-SPRING] TV: 放課後のアイドルには秘密がある
+// https://annict.com/works/18251
+{"annict_id":18251}
+,
 ]
