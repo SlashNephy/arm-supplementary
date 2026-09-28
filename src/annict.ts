@@ -68240,7 +68240,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: 人付き合いが苦手な未亡人の雪女さんと呪いの指輪
 // https://annict.com/works/17600
-{"annict_id":17600,"mal_id":64298}
+{"annict_id":17600,"mal_id":64298,"syobocal_tid":8070}
 ,
 // [2004-WINTER] WEB: BATTLE OF CLAY/ねんどのたたかい
 // https://annict.com/works/17601
@@ -69564,7 +69564,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2027-WINTER] TV: メラ×デス 死神と僕の異常な恋
 // https://annict.com/works/17933
-{"annict_id":17933}
+{"annict_id":17933,"mal_id":65078}
 ,
 // [null-null] TV: のあ先輩はともだち。
 // https://annict.com/works/17934
@@ -70804,7 +70804,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-SUMMER] WEB: 子猫の配達員うーにゃん(アニメシリーズ)
 // https://annict.com/works/18248
-{"annict_id":18248}
+{"annict_id":18248,"mal_id":65079}
 ,
 // [null-null] MOVIE: 劇場版 魔入りました！入間くん
 // https://annict.com/works/18249
@@ -70816,6 +70816,6 @@ export const annict: ArmEntry[] = [
 ,
 // [2027-SPRING] TV: 放課後のアイドルには秘密がある
 // https://annict.com/works/18251
-{"annict_id":18251}
+{"annict_id":18251,"mal_id":65080}
 ,
 ]
