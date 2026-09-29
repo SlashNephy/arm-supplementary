@@ -69586,10 +69586,6 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17938
 {"annict_id":17938,"mal_id":64607}
 ,
-// [2007-WINTER] MOVIE: 炬燵猫（映画）
-// https://annict.com/works/17939
-{"annict_id":17939}
-,
 // [2026-SUMMER] WEB: LEGO スター・ウォーズ／マンダロリアン
 // https://annict.com/works/17940
 {"annict_id":17940}
@@ -70821,5 +70817,37 @@ export const annict: ArmEntry[] = [
 // [null-null] TV: LIAR GAME -ライアーゲーム- 第2期
 // https://annict.com/works/18252
 {"annict_id":18252,"mal_id":65083}
+,
+// [2026-SUMMER] OTHER: 兇手一族の末息子は五大魔王の力を宿して回帰する
+// https://annict.com/works/18253
+{"annict_id":18253}
+,
+// [2026-SUMMER] OTHER: シャチ族の赤ちゃん公女様、人生逆転します！
+// https://annict.com/works/18254
+{"annict_id":18254}
+,
+// [2026-SUMMER] OTHER: アイリス～スマホを持った貴族令嬢～
+// https://annict.com/works/18255
+{"annict_id":18255}
+,
+// [2026-SUMMER] OTHER: 執着はお断りします
+// https://annict.com/works/18256
+{"annict_id":18256}
+,
+// [2026-SUMMER] OTHER: 武人転生史
+// https://annict.com/works/18257
+{"annict_id":18257}
+,
+// [2026-SUMMER] OTHER: 悪役の完璧なエンディングプラン
+// https://annict.com/works/18258
+{"annict_id":18258}
+,
+// [2026-SUMMER] OTHER: 男主人公を誘惑するつもりはありませんでした
+// https://annict.com/works/18259
+{"annict_id":18259}
+,
+// [2026-SUMMER] OTHER: 黒幕の世話係になりました
+// https://annict.com/works/18260
+{"annict_id":18260}
 ,
 ]
