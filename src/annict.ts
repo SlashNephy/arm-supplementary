@@ -70870,4 +70870,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18265
 {"annict_id":18265}
 ,
+// [2027-null] TV: おぼっちゃまくん REBORN
+// https://annict.com/works/18266
+{"annict_id":18266}
+,
 ]
