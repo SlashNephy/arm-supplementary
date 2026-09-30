@@ -65530,7 +65530,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16918
 {"annict_id":16918}
 ,
-// [2026-AUTUMN] MOVIE: 魔法のプリンセス ミンキーモモ 憧れの夢へ まごころの二重奏
+// [null-null] MOVIE: 魔法のプリンセス ミンキーモモ 憧れの夢へ まごころの二重奏
 // https://annict.com/works/16919
 {"annict_id":16919,"mal_id":63167}
 ,
@@ -70853,5 +70853,17 @@ export const annict: ArmEntry[] = [
 // [2027-null] MOVIE: 映画すみっコぐらし 第5弾
 // https://annict.com/works/18261
 {"annict_id":18261}
+,
+// [2027-WINTER] MOVIE: ノルドコレアの恋
+// https://annict.com/works/18262
+{"annict_id":18262}
+,
+// [2026-AUTUMN] WEB: 無脳魔女 ブレインレス・ウィッチ
+// https://annict.com/works/18263
+{"annict_id":18263}
+,
+// [null-null] TV: 精霊幻想記3
+// https://annict.com/works/18264
+{"annict_id":18264,"mal_id":65087}
 ,
 ]
