@@ -70850,4 +70850,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18260
 {"annict_id":18260}
 ,
+// [2027-null] MOVIE: 映画すみっコぐらし 第5弾
+// https://annict.com/works/18261
+{"annict_id":18261}
+,
 ]
