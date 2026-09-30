@@ -66350,7 +66350,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17123
 {"annict_id":17123,"mal_id":10766}
 ,
-// [null-null] TV: おデブ悪女に転生したら、なぜかラスボス王子様に執着されています
+// [2027-WINTER] TV: おデブ悪女に転生したら、なぜかラスボス王子様に執着されています
 // https://annict.com/works/17124
 {"annict_id":17124,"mal_id":63476}
 ,
@@ -70865,5 +70865,9 @@ export const annict: ArmEntry[] = [
 // [null-null] TV: 精霊幻想記3
 // https://annict.com/works/18264
 {"annict_id":18264,"mal_id":65087}
+,
+// [2027-null] TV: サンダー３ SEASON２
+// https://annict.com/works/18265
+{"annict_id":18265}
 ,
 ]
