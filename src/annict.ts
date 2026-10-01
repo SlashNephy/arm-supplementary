@@ -70858,9 +70858,9 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18262
 {"annict_id":18262}
 ,
-// [2026-AUTUMN] WEB: 無脳魔女 ブレインレス・ウィッチ
+// [2026-AUTUMN] TV: 無脳魔女 ブレインレス・ウィッチ
 // https://annict.com/works/18263
-{"annict_id":18263}
+{"annict_id":18263,"mal_id":55731}
 ,
 // [null-null] TV: 精霊幻想記3
 // https://annict.com/works/18264
@@ -70868,7 +70868,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2027-null] TV: サンダー３ SEASON２
 // https://annict.com/works/18265
-{"annict_id":18265}
+{"annict_id":18265,"mal_id":65092}
 ,
 // [2027-null] TV: おぼっちゃまくん REBORN
 // https://annict.com/works/18266
@@ -70876,6 +70876,6 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] WEB: ぷちきゅあ～Precure Fairies～ シーズン4
 // https://annict.com/works/18267
-{"annict_id":18267}
+{"annict_id":18267,"syobocal_tid":8073}
 ,
 ]
