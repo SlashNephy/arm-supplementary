@@ -67366,7 +67366,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17380
 {"annict_id":17380}
 ,
-// [2026-AUTUMN] MOVIE: ポールプリンセス‼︎ 新作CGポールダンスショー映像
+// [2027-WINTER] MOVIE: ポールプリンセス‼︎ 新作CGポールダンスショー映像
 // https://annict.com/works/17381
 {"annict_id":17381}
 ,
@@ -67898,7 +67898,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17514
 {"annict_id":17514,"mal_id":64012}
 ,
-// [2027-null] TV: メガネ、時々、ヤンキーくん
+// [2027-SPRING] TV: メガネ、時々、ヤンキーくん
 // https://annict.com/works/17515
 {"annict_id":17515,"mal_id":64006}
 ,
@@ -70873,5 +70873,9 @@ export const annict: ArmEntry[] = [
 // [2027-null] TV: おぼっちゃまくん REBORN
 // https://annict.com/works/18266
 {"annict_id":18266}
+,
+// [2026-AUTUMN] WEB: ぷちきゅあ～Precure Fairies～ シーズン4
+// https://annict.com/works/18267
+{"annict_id":18267}
 ,
 ]
