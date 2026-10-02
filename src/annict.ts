@@ -66524,7 +66524,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: ポップパップポルターズ
 // https://annict.com/works/17168
-{"annict_id":17168}
+{"annict_id":17168,"syobocal_tid":8075}
 ,
 // [2025-SUMMER] WEB: ヘルヴァ・ボス ミッション：ゼロ
 // https://annict.com/works/17169
@@ -67160,7 +67160,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: しろたん
 // https://annict.com/works/17329
-{"annict_id":17329,"mal_id":63901}
+{"annict_id":17329,"mal_id":63901,"syobocal_tid":8074}
 ,
 // [2026-WINTER] WEB: 3分でわかる魔法科
 // https://annict.com/works/17330
@@ -70877,5 +70877,13 @@ export const annict: ArmEntry[] = [
 // [2026-AUTUMN] WEB: ぷちきゅあ～Precure Fairies～ シーズン4
 // https://annict.com/works/18267
 {"annict_id":18267,"syobocal_tid":8073}
+,
+// [null-null] TV: メイドなら当然です。
+// https://annict.com/works/18268
+{"annict_id":18268,"mal_id":65094}
+,
+// [2012-SUMMER] OTHER: マイの越中万葉体験記
+// https://annict.com/works/18269
+{"annict_id":18269}
 ,
 ]
