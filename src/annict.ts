@@ -63018,7 +63018,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16283
 {"annict_id":16283}
 ,
-// [2026-AUTUMN] OTHER: 〈物語〉シリーズ オフ&モンスターシーズン 業物語 かれんオウガ
+// [2026-WINTER] OTHER: 〈物語〉シリーズ オフ&モンスターシーズン 業物語 かれんオウガ
 // https://annict.com/works/16284
 {"annict_id":16284,"mal_id":61968}
 ,
