@@ -54094,7 +54094,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/14047
 {"annict_id":14047,"mal_id":59914,"syobocal_tid":7302}
 ,
-// [2027-null] TV: 狼と香辛料 MERCHANT MEETS THE WISE WOLF 2期
+// [2027-null] TV: 狼と香辛料 MERCHANT MEETS THE WISE WOLF 第2期
 // https://annict.com/works/14048
 {"annict_id":14048,"mal_id":59928}
 ,
@@ -63064,7 +63064,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: 朱色の仮面
 // https://annict.com/works/16295
-{"annict_id":16295,"mal_id":61999}
+{"annict_id":16295,"mal_id":61999,"syobocal_tid":8076}
 ,
 // [2026-WINTER] TV: 悪役令嬢は隣国の王太子に溺愛される
 // https://annict.com/works/16296
@@ -69662,7 +69662,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17958
 {"annict_id":17958,"mal_id":951}
 ,
-// [null-null] TV: 真の聖女である私は追放されました。だからこの国はもう終わりです
+// [2027-WINTER] TV: 真の聖女である私は追放されました。だからこの国はもう終わりです
 // https://annict.com/works/17959
 {"annict_id":17959,"mal_id":64665}
 ,
@@ -70876,7 +70876,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] WEB: ぷちきゅあ～Precure Fairies～ シーズン4
 // https://annict.com/works/18267
-{"annict_id":18267,"syobocal_tid":8073}
+{"annict_id":18267,"mal_id":65095,"syobocal_tid":8073}
 ,
 // [null-null] TV: メイドなら当然です。
 // https://annict.com/works/18268
@@ -70889,5 +70889,25 @@ export const annict: ArmEntry[] = [
 // [2026-AUTUMN] MOVIE: レズビアン・スペース・プリンセス
 // https://annict.com/works/18270
 {"annict_id":18270}
+,
+// [null-null] TV: 組織の宿敵と結婚したらめちゃ甘い
+// https://annict.com/works/18271
+{"annict_id":18271,"mal_id":65105}
+,
+// [null-null] TV: 本好きの下剋上 司書になるためには手段を選んでいられません 貴族院の自称図書委員
+// https://annict.com/works/18272
+{"annict_id":18272,"mal_id":65103}
+,
+// [null-null] OTHER: こちら、終末停滞委員会。
+// https://annict.com/works/18273
+{"annict_id":18273,"mal_id":65107}
+,
+// [null-null] OTHER: デルタとガンマの理学部ノート
+// https://annict.com/works/18274
+{"annict_id":18274,"mal_id":65106}
+,
+// [null-null] TV: 奴隷からの期待と評価のせいで搾取できないのだが
+// https://annict.com/works/18275
+{"annict_id":18275,"mal_id":65104}
 ,
 ]
