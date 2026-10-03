@@ -70728,7 +70728,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2027-WINTER] MOVIE: 愛のハチュピン
 // https://annict.com/works/18230
-{"annict_id":18230}
+{"annict_id":18230,"mal_id":59874}
 ,
 // [null-null] TV: 片田舎のおっさん、剣聖になる 第三期
 // https://annict.com/works/18231
