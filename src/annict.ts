@@ -67790,7 +67790,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17487
 {"annict_id":17487}
 ,
-// [2027-null] TV: ビブリア古書堂の事件手帖
+// [2027-SPRING] TV: ビブリア古書堂の事件手帖
 // https://annict.com/works/17488
 {"annict_id":17488,"mal_id":63997}
 ,
@@ -70885,5 +70885,9 @@ export const annict: ArmEntry[] = [
 // [2012-SUMMER] OTHER: マイの越中万葉体験記
 // https://annict.com/works/18269
 {"annict_id":18269}
+,
+// [2026-AUTUMN] MOVIE: レズビアン・スペース・プリンセス
+// https://annict.com/works/18270
+{"annict_id":18270}
 ,
 ]
