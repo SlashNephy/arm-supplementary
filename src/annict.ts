@@ -70914,4 +70914,20 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18276
 {"annict_id":18276}
 ,
+// [2026-AUTUMN] WEB: 彼女の友達 ミニアニメ劇場
+// https://annict.com/works/18277
+{"annict_id":18277}
+,
+// [2026-AUTUMN] WEB: ロメリア戦記 Ⅳコマミニアニメ
+// https://annict.com/works/18278
+{"annict_id":18278}
+,
+// [2019-null] OTHER: 片腕
+// https://annict.com/works/18279
+{"annict_id":18279}
+,
+// [null-null] OTHER: 満州アヘンスクワッド
+// https://annict.com/works/18280
+{"annict_id":18280,"mal_id":65115}
+,
 ]
