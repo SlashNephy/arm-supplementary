@@ -25386,7 +25386,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/6391
 {"annict_id":6391,"mal_id":38629}
 ,
-// [2027-null] MOVIE: 映画 ビブリア古書堂の事件手帖
+// [null-null] MOVIE: 映画 ビブリア古書堂の事件手帖
 // https://annict.com/works/6392
 {"annict_id":6392}
 ,
@@ -56634,7 +56634,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/14684
 {"annict_id":14684,"mal_id":12905}
 ,
-// [null-null] TV: 雨夜の月
+// [2027-null] TV: 雨夜の月
 // https://annict.com/works/14685
 {"annict_id":14685,"mal_id":60301}
 ,
@@ -70909,5 +70909,9 @@ export const annict: ArmEntry[] = [
 // [null-null] TV: 奴隷からの期待と評価のせいで搾取できないのだが
 // https://annict.com/works/18275
 {"annict_id":18275,"mal_id":65104}
+,
+// [null-null] WEB: DemVamps
+// https://annict.com/works/18276
+{"annict_id":18276}
 ,
 ]
