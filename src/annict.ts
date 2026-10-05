@@ -70930,4 +70930,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18280
 {"annict_id":18280,"mal_id":65115}
 ,
+// [2026-AUTUMN] WEB: 猫猫のひとりごと (第3期)
+// https://annict.com/works/18281
+{"annict_id":18281}
+,
 ]
