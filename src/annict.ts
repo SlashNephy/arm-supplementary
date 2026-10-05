@@ -67294,7 +67294,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17362
 {"annict_id":17362,"mal_id":63833}
 ,
-// [null-null] WEB: 童話リベンジャーズ ぷち
+// [2026-AUTUMN] WEB: 童話リベンジャーズ ぷち
 // https://annict.com/works/17363
 {"annict_id":17363,"mal_id":63834}
 ,
@@ -69572,7 +69572,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: 紫禁・御猫房〜紫禁城猫警備室〜
 // https://annict.com/works/17935
-{"annict_id":17935,"mal_id":61640}
+{"annict_id":17935,"mal_id":61640,"syobocal_tid":8078}
 ,
 // [2027-WINTER] TV: 傷口と包帯
 // https://annict.com/works/17936
@@ -70034,7 +70034,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18053
 {"annict_id":18053}
 ,
-// [2027-null] TV: 赤ずきん、旅の途中で死体と出会う。
+// [2027-WINTER] TV: 赤ずきん、旅の途中で死体と出会う。
 // https://annict.com/works/18054
 {"annict_id":18054,"mal_id":64782}
 ,
@@ -70933,5 +70933,13 @@ export const annict: ArmEntry[] = [
 // [2026-AUTUMN] WEB: 猫猫のひとりごと (第3期)
 // https://annict.com/works/18281
 {"annict_id":18281}
+,
+// [2027-null] TV: ヴァンパイア十字界
+// https://annict.com/works/18282
+{"annict_id":18282,"mal_id":65118}
+,
+// [2026-AUTUMN] WEB: 『魔法少女そらな☆マギカ ～Our Fates, Our Futures～』 プロモーションアニメ
+// https://annict.com/works/18283
+{"annict_id":18283}
 ,
 ]
