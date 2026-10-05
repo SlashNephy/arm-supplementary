@@ -70924,7 +70924,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2019-null] OTHER: 片腕
 // https://annict.com/works/18279
-{"annict_id":18279}
+{"annict_id":18279,"mal_id":48386}
 ,
 // [null-null] OTHER: 満州アヘンスクワッド
 // https://annict.com/works/18280
