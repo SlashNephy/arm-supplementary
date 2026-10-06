@@ -54422,7 +54422,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/14130
 {"annict_id":14130,"mal_id":60058,"syobocal_tid":7689}
 ,
-// [null-null] OTHER: 庵野秀明監督版｢宇宙戦艦ヤマト｣
+// [null-null] MOVIE: 宇宙戦艦ヤマト√2199
 // https://annict.com/works/14131
 {"annict_id":14131}
 ,
