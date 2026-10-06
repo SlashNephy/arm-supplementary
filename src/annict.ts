@@ -70932,7 +70932,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] WEB: 猫猫のひとりごと (第3期)
 // https://annict.com/works/18281
-{"annict_id":18281}
+{"annict_id":18281,"mal_id":65119}
 ,
 // [2027-null] TV: ヴァンパイア十字界
 // https://annict.com/works/18282
@@ -70941,5 +70941,9 @@ export const annict: ArmEntry[] = [
 // [2026-AUTUMN] WEB: 『魔法少女そらな☆マギカ ～Our Fates, Our Futures～』 プロモーションアニメ
 // https://annict.com/works/18283
 {"annict_id":18283}
+,
+// [2026-SUMMER] WEB: 『鳴潮』ショートアニメ | 心探し
+// https://annict.com/works/18284
+{"annict_id":18284}
 ,
 ]
