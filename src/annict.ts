@@ -54424,7 +54424,7 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] MOVIE: 宇宙戦艦ヤマト√2199
 // https://annict.com/works/14131
-{"annict_id":14131}
+{"annict_id":14131,"mal_id":65124}
 ,
 // [2026-SUMMER] TV: 逃げ上手の若君 第二期
 // https://annict.com/works/14132
@@ -58218,7 +58218,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15080
 {"annict_id":15080}
 ,
-// [null-null] OTHER: 乙女ゲームのヒロインで最強サバイバル
+// [2027-SUMMER] TV: 乙女ゲームのヒロインで最強サバイバル
 // https://annict.com/works/15081
 {"annict_id":15081,"mal_id":60739}
 ,
