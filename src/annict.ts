@@ -1116,7 +1116,7 @@ export const annict: ArmEntry[] = [
 ,
 // [1973-AUTUMN] TV: エースをねらえ！
 // https://annict.com/works/279
-{"annict_id":279,"mal_id":311}
+{"annict_id":279,"mal_id":311,"syobocal_tid":8072}
 ,
 // [1990-AUTUMN] TV: 江戸っ子ボーイ がってん太助
 // https://annict.com/works/280
@@ -6896,7 +6896,7 @@ export const annict: ArmEntry[] = [
 ,
 // [1979-WINTER] TV: 花の子ルンルン
 // https://annict.com/works/1727
-{"annict_id":1727,"mal_id":2230}
+{"annict_id":1727,"mal_id":2230,"syobocal_tid":8077}
 ,
 // [1992-WINTER] TV: 花の魔法使いマリーベル
 // https://annict.com/works/1728
@@ -12388,7 +12388,7 @@ export const annict: ArmEntry[] = [
 ,
 // [1997-SUMMER] OVA: レイアース（OVA）
 // https://annict.com/works/3110
-{"annict_id":3110,"mal_id":1954}
+{"annict_id":3110,"mal_id":1954,"syobocal_tid":8079}
 ,
 // [1998-SUMMER] OVA: 恋愛候補生 STARLIGHT SCRAMBLE
 // https://annict.com/works/3111
@@ -13376,7 +13376,7 @@ export const annict: ArmEntry[] = [
 ,
 // [1994-SUMMER] MOVIE: ストリートファイターII MOVIE
 // https://annict.com/works/3358
-{"annict_id":3358,"mal_id":1362,"syobocal_tid":1109}
+{"annict_id":3358,"mal_id":1362,"syobocal_tid":8059}
 ,
 // [2007-SUMMER] MOVIE: ストレンヂア 無皇刃譚
 // https://annict.com/works/3359
@@ -63060,7 +63060,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] MOVIE: GROTESQQQUE -グロテスク-
 // https://annict.com/works/16294
-{"annict_id":16294,"mal_id":59217}
+{"annict_id":16294,"mal_id":59217,"syobocal_tid":8071}
 ,
 // [2026-AUTUMN] TV: 朱色の仮面
 // https://annict.com/works/16295
@@ -66288,7 +66288,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] MOVIE: どこよりも遠い場所にいる君へ
 // https://annict.com/works/17108
-{"annict_id":17108,"mal_id":63423}
+{"annict_id":17108,"mal_id":63423,"syobocal_tid":8066}
 ,
 // [2019-AUTUMN] WEB: キリン 午後の紅茶 × バンドリ！コラボCM
 // https://annict.com/works/17109
@@ -70969,5 +70969,9 @@ export const annict: ArmEntry[] = [
 // [2026-AUTUMN] WEB: 『凶乱令嬢ニア・リストン』ショートストーリー『リノキスは見た』
 // https://annict.com/works/18290
 {"annict_id":18290}
+,
+// [2026-AUTUMN] WEB: おにもももも(第2期)
+// https://annict.com/works/18291
+{"annict_id":18291,"mal_id":65135}
 ,
 ]
