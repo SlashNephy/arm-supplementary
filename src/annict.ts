@@ -56640,7 +56640,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2024-WINTER] WEB: 小さなジャムとゴブリンのオップ
 // https://annict.com/works/14686
-{"annict_id":14686}
+{"annict_id":14686,"mal_id":62501}
 ,
 // [2025-SPRING] OVA: 夏目友人帳 漆 第十三話「伸ばした手は」
 // https://annict.com/works/14687
@@ -61086,7 +61086,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15798
 {"annict_id":15798}
 ,
-// [null-null] OTHER: 放課後帰宅びより
+// [2027-SPRING] TV: 放課後帰宅びより
 // https://annict.com/works/15799
 {"annict_id":15799,"mal_id":61199}
 ,
@@ -66128,7 +66128,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: ドラゴンボール超 ビルス
 // https://annict.com/works/17068
-{"annict_id":17068,"mal_id":63367}
+{"annict_id":17068,"mal_id":63367,"syobocal_tid":8081}
 ,
 // [2026-SUMMER] MOVIE: 君と花火と約束と
 // https://annict.com/works/17069
@@ -70945,5 +70945,29 @@ export const annict: ArmEntry[] = [
 // [2026-SUMMER] WEB: 『鳴潮』ショートアニメ | 心探し
 // https://annict.com/works/18284
 {"annict_id":18284}
+,
+// [2004-WINTER] OVA: フイチンさん
+// https://annict.com/works/18285
+{"annict_id":18285,"mal_id":23983}
+,
+// [2007-null] OVA: キャラ丸くんとドク丸くん
+// https://annict.com/works/18286
+{"annict_id":18286,"mal_id":30959}
+,
+// [2015-null] OVA: さくらとサクリン
+// https://annict.com/works/18287
+{"annict_id":18287,"mal_id":39145}
+,
+// [2015-null] MOVIE: したのや遺跡縄文物語
+// https://annict.com/works/18288
+{"annict_id":18288,"mal_id":65112}
+,
+// [2017-SUMMER] WEB: KABUTO武士
+// https://annict.com/works/18289
+{"annict_id":18289,"mal_id":65113}
+,
+// [2026-AUTUMN] WEB: 『凶乱令嬢ニア・リストン』ショートストーリー『リノキスは見た』
+// https://annict.com/works/18290
+{"annict_id":18290}
 ,
 ]
