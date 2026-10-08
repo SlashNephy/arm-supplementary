@@ -66602,7 +66602,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17187
 {"annict_id":17187}
 ,
-// [null-null] TV: 骨ドラゴンのマナ娘
+// [2027-null] TV: 骨ドラゴンのマナ娘
 // https://annict.com/works/17188
 {"annict_id":17188,"mal_id":63601}
 ,
