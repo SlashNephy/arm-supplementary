@@ -70974,4 +70974,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18291
 {"annict_id":18291,"mal_id":65135}
 ,
+// [2026-AUTUMN] WEB: BEYBLADE X ベイキングダム編
+// https://annict.com/works/18292
+{"annict_id":18292}
+,
 ]
