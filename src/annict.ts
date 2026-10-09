@@ -55946,7 +55946,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/14512
 {"annict_id":14512}
 ,
-// [null-null] MOVIE: 機動戦士ガンダムSEED FREEDOM ZERO
+// [2027-WINTER] MOVIE: 機動戦士ガンダムSEED FREEDOM ZERO
 // https://annict.com/works/14513
 {"annict_id":14513,"mal_id":60230}
 ,
