@@ -62762,7 +62762,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16219
 {"annict_id":16219,"mal_id":60030}
 ,
-// [null-null] OTHER: 入学傭兵
+// [2027-null] TV: 入学傭兵
 // https://annict.com/works/16220
 {"annict_id":16220,"mal_id":61872}
 ,
@@ -70976,6 +70976,14 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] WEB: BEYBLADE X ベイキングダム編
 // https://annict.com/works/18292
-{"annict_id":18292}
+{"annict_id":18292,"syobocal_tid":8082}
+,
+// [2027-null] TV: 再婚承認を要求します
+// https://annict.com/works/18293
+{"annict_id":18293,"mal_id":65145}
+,
+// [2027-null] TV: モンスターの肉を食っていたら王位に就いた件
+// https://annict.com/works/18294
+{"annict_id":18294,"mal_id":65147}
 ,
 ]
