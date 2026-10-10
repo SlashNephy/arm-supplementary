@@ -65678,7 +65678,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16955
 {"annict_id":16955,"mal_id":63188}
 ,
-// [2027-null] TV: ワンパンマン 第3期第2クール
+// [2027-WINTER] TV: ワンパンマン 第3期第2クール
 // https://annict.com/works/16956
 {"annict_id":16956,"mal_id":63193}
 ,
