@@ -70986,4 +70986,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18294
 {"annict_id":18294,"mal_id":65147}
 ,
+// [null-null] TV: ザ・ボクサー
+// https://annict.com/works/18295
+{"annict_id":18295,"mal_id":65144}
+,
+// [null-null] OTHER: Dr.STONE TERRAFORMING
+// https://annict.com/works/18296
+{"annict_id":18296}
+,
 ]
