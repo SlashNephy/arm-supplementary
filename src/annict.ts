@@ -69566,7 +69566,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17933
 {"annict_id":17933,"mal_id":65078}
 ,
-// [null-null] TV: のあ先輩はともだち。
+// [2027-null] TV: のあ先輩はともだち。
 // https://annict.com/works/17934
 {"annict_id":17934,"mal_id":64599}
 ,
