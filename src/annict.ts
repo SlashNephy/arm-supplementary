@@ -31466,11 +31466,11 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/8208
 {"annict_id":8208,"mal_id":12715}
 ,
-// [2015-null] MOVIE: アノマリサ
+// [2015-AUTUMN] MOVIE: アノマリサ
 // https://annict.com/works/8209
 {"annict_id":8209}
 ,
-// [2020-null] MOVIE: ジュゼップ 戦場の画家
+// [2020-SUMMER] MOVIE: ジュゼップ 戦場の画家
 // https://annict.com/works/8210
 {"annict_id":8210}
 ,
@@ -70997,5 +70997,25 @@ export const annict: ArmEntry[] = [
 // [null-null] OTHER: NARUTO-ナルト-×NINKŪ-忍空-
 // https://annict.com/works/18297
 {"annict_id":18297}
+,
+// [2026-AUTUMN] OTHER: 回帰者の取扱説明書
+// https://annict.com/works/18298
+{"annict_id":18298}
+,
+// [2026-AUTUMN] OTHER: 眠りのチートランカー
+// https://annict.com/works/18299
+{"annict_id":18299}
+,
+// [2026-AUTUMN] OTHER: 剣聖公務員の返り咲き
+// https://annict.com/works/18300
+{"annict_id":18300}
+,
+// [2026-AUTUMN] OTHER: 悪女が恋に落ちた時
+// https://annict.com/works/18301
+{"annict_id":18301}
+,
+// [2014-WINTER] WEB: 未成年者喫煙防止「たばこはダサい」
+// https://annict.com/works/18302
+{"annict_id":18302}
 ,
 ]
