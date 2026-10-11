@@ -70992,6 +70992,10 @@ export const annict: ArmEntry[] = [
 ,
 // [null-null] OTHER: Dr.STONE TERRAFORMING
 // https://annict.com/works/18296
-{"annict_id":18296}
+{"annict_id":18296,"mal_id":65161}
+,
+// [null-null] OTHER: NARUTO-ナルト-×NINKŪ-忍空-
+// https://annict.com/works/18297
+{"annict_id":18297}
 ,
 ]
