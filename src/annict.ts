@@ -71018,4 +71018,16 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18302
 {"annict_id":18302}
 ,
+// [2024-SUMMER] WEB: 【公式アニメPV】みんなで踊ってみた【生徒会にも穴はある！】
+// https://annict.com/works/18303
+{"annict_id":18303}
+,
+// [2026-SUMMER] WEB: ヒトカゲ キミと とべたなら
+// https://annict.com/works/18304
+{"annict_id":18304}
+,
+// [2026-AUTUMN] WEB: ポケモン動画図鑑(第5シーズン)
+// https://annict.com/works/18305
+{"annict_id":18305}
+,
 ]
