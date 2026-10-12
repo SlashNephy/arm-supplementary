@@ -42596,7 +42596,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2003-SPRING] TV: ケロケロキングデラックスプラス
 // https://annict.com/works/11160
-{"annict_id":11160}
+{"annict_id":11160,"mal_id":65160}
 ,
 // [2003-AUTUMN] TV: 福島民話館 ねぇみんな…
 // https://annict.com/works/11161
@@ -70420,7 +70420,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] WEB: ダークサモナーとデキている ミニアニメ劇場
 // https://annict.com/works/18152
-{"annict_id":18152}
+{"annict_id":18152,"mal_id":65169}
 ,
 // [2026-SUMMER] TV: 名探偵コナン 30号殺人事件
 // https://annict.com/works/18153
@@ -70916,7 +70916,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] WEB: 彼女の友達 ミニアニメ劇場
 // https://annict.com/works/18277
-{"annict_id":18277}
+{"annict_id":18277,"mal_id":65167}
 ,
 // [2026-AUTUMN] WEB: ロメリア戦記 Ⅳコマミニアニメ
 // https://annict.com/works/18278
@@ -71016,11 +71016,11 @@ export const annict: ArmEntry[] = [
 ,
 // [2014-WINTER] WEB: 未成年者喫煙防止「たばこはダサい」
 // https://annict.com/works/18302
-{"annict_id":18302}
+{"annict_id":18302,"mal_id":23401}
 ,
 // [2024-SUMMER] WEB: 【公式アニメPV】みんなで踊ってみた【生徒会にも穴はある！】
 // https://annict.com/works/18303
-{"annict_id":18303}
+{"annict_id":18303,"mal_id":59276}
 ,
 // [2026-SUMMER] WEB: ヒトカゲ キミと とべたなら
 // https://annict.com/works/18304
@@ -71029,5 +71029,9 @@ export const annict: ArmEntry[] = [
 // [2026-AUTUMN] WEB: ポケモン動画図鑑(第5シーズン)
 // https://annict.com/works/18305
 {"annict_id":18305}
+,
+// [2027-SUMMER] TV: 鵺の陰陽師
+// https://annict.com/works/18306
+{"annict_id":18306,"mal_id":65180}
 ,
 ]
