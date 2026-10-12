@@ -67446,9 +67446,9 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17400
 {"annict_id":17400,"mal_id":30311}
 ,
-// [null-null] OTHER: デート・ア・ライブF Last Date
+// [2027-WINTER] MOVIE: デート・ア・ライブF Last Date
 // https://annict.com/works/17401
-{"annict_id":17401}
+{"annict_id":17401,"mal_id":63934}
 ,
 // [2026-SPRING] WEB: 崩壊：スターレイル x MAPPA オリジナルアニメ·コンセプトPV 「午後の死」
 // https://annict.com/works/17402
