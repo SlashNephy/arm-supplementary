@@ -71046,4 +71046,16 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18309
 {"annict_id":18309}
 ,
+// [null-null] WEB: きび男子
+// https://annict.com/works/18310
+{"annict_id":18310}
+,
+// [2027-WINTER] TV: あはれ！名作くん (完全新作アニメ 2)
+// https://annict.com/works/18311
+{"annict_id":18311}
+,
+// [2023-SPRING] OTHER: GENJI FANTASY ネコが光源氏に恋をした
+// https://annict.com/works/18312
+{"annict_id":18312}
+,
 ]
