@@ -71056,6 +71056,6 @@ export const annict: ArmEntry[] = [
 ,
 // [2023-SPRING] OTHER: GENJI FANTASY ネコが光源氏に恋をした
 // https://annict.com/works/18312
-{"annict_id":18312}
+{"annict_id":18312,"mal_id":39272}
 ,
 ]
