@@ -71034,4 +71034,16 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18306
 {"annict_id":18306,"mal_id":65180}
 ,
+// [2026-AUTUMN] WEB: ホタルの嫁入り ちょいたし
+// https://annict.com/works/18307
+{"annict_id":18307}
+,
+// [2027-WINTER] MOVIE: アングリーバード／大奮闘！ファミリー・ミッション
+// https://annict.com/works/18308
+{"annict_id":18308}
+,
+// [2024-AUTUMN] WEB: あの年のクリスマス
+// https://annict.com/works/18309
+{"annict_id":18309}
+,
 ]
