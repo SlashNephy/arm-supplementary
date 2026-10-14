@@ -71062,4 +71062,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18313
 {"annict_id":18313,"mal_id":65188}
 ,
+// [null-null] OTHER: シンカリオン トレッズ
+// https://annict.com/works/18314
+{"annict_id":18314}
+,
 ]
