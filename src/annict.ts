@@ -71058,4 +71058,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18312
 {"annict_id":18312,"mal_id":39272}
 ,
+// [null-null] TV: ゆめねこねくと
+// https://annict.com/works/18313
+{"annict_id":18313}
+,
 ]
