@@ -70860,7 +70860,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: 無脳魔女 ブレインレス・ウィッチ
 // https://annict.com/works/18263
-{"annict_id":18263,"mal_id":55731}
+{"annict_id":18263,"mal_id":55731,"syobocal_tid":8087}
 ,
 // [null-null] TV: 精霊幻想記3
 // https://annict.com/works/18264
