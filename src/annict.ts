@@ -65814,7 +65814,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16989
 {"annict_id":16989}
 ,
-// [null-null] TV: 冒険者ライセンスを剥奪されたおっさんだけど、 愛娘ができたのでのんびり人生を謳歌する
+// [2027-WINTER] TV: 冒険者ライセンスを剥奪されたおっさんだけど、 愛娘ができたのでのんびり人生を謳歌する
 // https://annict.com/works/16990
 {"annict_id":16990,"mal_id":63256}
 ,
