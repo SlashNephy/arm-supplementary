@@ -67270,7 +67270,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17356
 {"annict_id":17356}
 ,
-// [null-null] TV: 異世界でチート能力を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～ 2nd Season
+// [2027-WINTER] TV: 異世界でチート能力を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～ 2nd Season
 // https://annict.com/works/17357
 {"annict_id":17357,"mal_id":63822}
 ,
@@ -71065,5 +71065,9 @@ export const annict: ArmEntry[] = [
 // [null-null] OTHER: シンカリオン トレッズ
 // https://annict.com/works/18314
 {"annict_id":18314}
+,
+// [2026-AUTUMN] WEB: 『凶乱令嬢ニア・リストン』ミニアニメ
+// https://annict.com/works/18315
+{"annict_id":18315}
 ,
 ]
