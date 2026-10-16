@@ -71070,4 +71070,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18315
 {"annict_id":18315}
 ,
+// [2027-SPRING] TV: 幸せカナコの殺し屋生活
+// https://annict.com/works/18316
+{"annict_id":18316,"mal_id":65205}
+,
 ]
