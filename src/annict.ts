@@ -69308,7 +69308,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2027-WINTER] MOVIE: アイカツスターズ！ ～星々のProgress～
 // https://annict.com/works/17869
-{"annict_id":17869}
+{"annict_id":17869,"mal_id":64541}
 ,
 // [null-null] TV: 魔物使いの娘
 // https://annict.com/works/17870
