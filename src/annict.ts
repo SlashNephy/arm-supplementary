@@ -61376,7 +61376,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] TV: わたしの幸せな結婚 特別篇
 // https://annict.com/works/15872
-{"annict_id":15872,"mal_id":61440}
+{"annict_id":15872,"mal_id":61440,"syobocal_tid":8088}
 ,
 // [2026-SPRING] TV: 春夏秋冬代行者 春の舞
 // https://annict.com/works/15873
