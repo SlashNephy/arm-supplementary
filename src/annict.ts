@@ -71076,6 +71076,6 @@ export const annict: ArmEntry[] = [
 ,
 // [2027-null] TV: ぬるめた
 // https://annict.com/works/18317
-{"annict_id":18317}
+{"annict_id":18317,"mal_id":65214}
 ,
 ]
