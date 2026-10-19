@@ -67294,7 +67294,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17362
 {"annict_id":17362,"mal_id":63833}
 ,
-// [2026-AUTUMN] WEB: 童話リベンジャーズ ぷち
+// [2026-AUTUMN] TV: 童話リベンジャーズ ぷち
 // https://annict.com/works/17363
 {"annict_id":17363,"mal_id":63834}
 ,
@@ -71077,5 +71077,9 @@ export const annict: ArmEntry[] = [
 // [2027-null] TV: ぬるめた
 // https://annict.com/works/18317
 {"annict_id":18317,"mal_id":65214}
+,
+// [2026-AUTUMN] WEB: お茶犬 WEBショートアニメ ーちょびっとものがたりー
+// https://annict.com/works/18318
+{"annict_id":18318}
 ,
 ]
