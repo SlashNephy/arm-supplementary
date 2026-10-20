@@ -71082,4 +71082,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18318
 {"annict_id":18318}
 ,
+// [2026-AUTUMN] TV: ゲルぴよ 第2弾
+// https://annict.com/works/18319
+{"annict_id":18319}
+,
 ]
