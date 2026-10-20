@@ -12202,7 +12202,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/3063
 {"annict_id":3063,"mal_id":16762,"syobocal_tid":3148}
 ,
-// [1990-SUMMER] OVA: 緑山高校 甲子園編
+// [1989-null] OVA: 緑山高校 甲子園編
 // https://annict.com/works/3064
 {"annict_id":3064,"mal_id":5994}
 ,
@@ -71085,5 +71085,9 @@ export const annict: ArmEntry[] = [
 // [2026-AUTUMN] TV: ゲルぴよ 第2弾
 // https://annict.com/works/18319
 {"annict_id":18319}
+,
+// [1995-null] TV: 緑山高校 甲子園編【衛星アニメ劇場Ver.】
+// https://annict.com/works/18320
+{"annict_id":18320}
 ,
 ]
