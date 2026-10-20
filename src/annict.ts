@@ -71090,4 +71090,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18320
 {"annict_id":18320}
 ,
+// [2003-null] MOVIE: 打つ娘サユリ
+// https://annict.com/works/18321
+{"annict_id":18321,"mal_id":13405}
+,
 ]
