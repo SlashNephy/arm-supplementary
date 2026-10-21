@@ -62970,7 +62970,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16271
 {"annict_id":16271,"mal_id":61943,"syobocal_tid":7798}
 ,
-// [2027-null] TV: ELECEED／エレキシード
+// [2027-SPRING] TV: エレキシード（ELECEED）
 // https://annict.com/works/16272
 {"annict_id":16272,"mal_id":61944}
 ,
@@ -63026,7 +63026,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16285
 {"annict_id":16285,"mal_id":61969,"syobocal_tid":7723}
 ,
-// [null-null] TV: 性別「モナリザ」の君へ。
+// [2027-null] TV: 性別「モナリザ」の君へ。
 // https://annict.com/works/16286
 {"annict_id":16286,"mal_id":61966}
 ,
