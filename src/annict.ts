@@ -70970,7 +70970,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18290
 {"annict_id":18290}
 ,
-// [2026-AUTUMN] WEB: おにもももも(第2期)
+// [2026-AUTUMN] WEB: おにもももも (第2期)
 // https://annict.com/works/18291
 {"annict_id":18291,"mal_id":65135}
 ,
@@ -71097,5 +71097,13 @@ export const annict: ArmEntry[] = [
 // [2026-SPRING] WEB: 東都観光バス　卓球サークル篇
 // https://annict.com/works/18322
 {"annict_id":18322}
+,
+// [2026-AUTUMN] WEB: 薬屋のひとりごと シリーズ総集編
+// https://annict.com/works/18323
+{"annict_id":18323}
+,
+// [2026-AUTUMN] TV: 薬屋のひとりごと 金曜ロードショー スペシャルエディション
+// https://annict.com/works/18324
+{"annict_id":18324}
 ,
 ]
