@@ -71036,7 +71036,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] WEB: ホタルの嫁入り ちょいたし
 // https://annict.com/works/18307
-{"annict_id":18307}
+{"annict_id":18307,"mal_id":65184}
 ,
 // [2027-WINTER] MOVIE: アングリーバード／大奮闘！ファミリー・ミッション
 // https://annict.com/works/18308
@@ -71068,7 +71068,7 @@ export const annict: ArmEntry[] = [
 ,
 // [2026-AUTUMN] WEB: 『凶乱令嬢ニア・リストン』ミニアニメ
 // https://annict.com/works/18315
-{"annict_id":18315}
+{"annict_id":18315,"mal_id":65196}
 ,
 // [2027-SPRING] TV: 幸せカナコの殺し屋生活
 // https://annict.com/works/18316
@@ -71093,5 +71093,9 @@ export const annict: ArmEntry[] = [
 // [2003-null] MOVIE: 打つ娘サユリ
 // https://annict.com/works/18321
 {"annict_id":18321,"mal_id":13405}
+,
+// [2026-SPRING] WEB: 東都観光バス　卓球サークル篇
+// https://annict.com/works/18322
+{"annict_id":18322}
 ,
 ]
