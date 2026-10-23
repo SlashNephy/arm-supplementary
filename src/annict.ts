@@ -71106,4 +71106,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18324
 {"annict_id":18324}
 ,
+// [2026-AUTUMN] TV: 古墳ドクター コフィーER
+// https://annict.com/works/18325
+{"annict_id":18325}
+,
 ]
