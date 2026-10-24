@@ -71098,7 +71098,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18322
 {"annict_id":18322}
 ,
-// [2026-AUTUMN] WEB: 薬屋のひとりごと シリーズ総集編
+// [2026-AUTUMN] WEB: 総集編 薬屋のひとりごと
 // https://annict.com/works/18323
 {"annict_id":18323}
 ,
@@ -71109,5 +71109,21 @@ export const annict: ArmEntry[] = [
 // [2026-AUTUMN] TV: 古墳ドクター コフィーER
 // https://annict.com/works/18325
 {"annict_id":18325}
+,
+// [null-null] MOVIE: メイドインアビス 劇場シリーズ【第二部】
+// https://annict.com/works/18326
+{"annict_id":18326,"mal_id":65248}
+,
+// [2026-SUMMER] MOVIE: メイドインアビス 烈日の黄金郷【前編】
+// https://annict.com/works/18327
+{"annict_id":18327}
+,
+// [2026-SUMMER] MOVIE: メイドインアビス 烈日の黄金郷【後編】
+// https://annict.com/works/18328
+{"annict_id":18328}
+,
+// [null-null] OTHER: 攻殻機動隊 新作アニメーション
+// https://annict.com/works/18329
+{"annict_id":18329,"mal_id":65252}
 ,
 ]
