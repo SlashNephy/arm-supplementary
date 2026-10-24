@@ -65466,7 +65466,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16902
 {"annict_id":16902,"mal_id":63139}
 ,
-// [null-null] OTHER: 怪獣8号 完結編
+// [2027-null] MOVIE: 劇場版 怪獣８号
 // https://annict.com/works/16903
 {"annict_id":16903,"mal_id":63136}
 ,
