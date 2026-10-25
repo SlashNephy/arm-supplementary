@@ -71126,4 +71126,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18329
 {"annict_id":18329,"mal_id":65252}
 ,
+// [2024-SPRING] WEB: さよならララ パイロットフィルム
+// https://annict.com/works/18330
+{"annict_id":18330}
+,
+// [2011-SUMMER] MOVIE: MOMOFUKU TV
+// https://annict.com/works/18331
+{"annict_id":18331}
+,
 ]
