@@ -61062,7 +61062,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/15792
 {"annict_id":15792,"mal_id":61322,"syobocal_tid":7494}
 ,
-// [2027-WINTER] TV: 「BanG Dream! It's MyGO!!!!! / BanG Dream! Ave Mujica」アニメ続編シリーズ
+// [2027-WINTER] TV: BanG Dream! MyGO!!!!! // Ave Mujica
 // https://annict.com/works/15793
 {"annict_id":15793,"mal_id":61324}
 ,
@@ -71137,5 +71137,17 @@ export const annict: ArmEntry[] = [
 // [null-null] TV: キミと僕の最後の戦場、あるいは世界が始まる聖戦 seasonⅢ
 // https://annict.com/works/18332
 {"annict_id":18332,"mal_id":65259}
+,
+// [2021-SPRING] WEB: 探偵はもう、死んでいる。 ミニアニメ
+// https://annict.com/works/18333
+{"annict_id":18333,"mal_id":49510}
+,
+// [2026-AUTUMN] WEB: さばげぶっ！× ルルットリリィ  どうしてこうなった⁉ 仁義なき蟹バトルPV
+// https://annict.com/works/18334
+{"annict_id":18334}
+,
+// [2021-SPRING] OTHER: 探偵はもう、死んでいる。 スペシャルトークミニアニメ
+// https://annict.com/works/18335
+{"annict_id":18335}
 ,
 ]
