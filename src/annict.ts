@@ -64538,7 +64538,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/16668
 {"annict_id":16668}
 ,
-// [null-null] OTHER: 王様のプロポーズ
+// [2027-null] TV: 王様のプロポーズ
 // https://annict.com/works/16669
 {"annict_id":16669,"mal_id":62857}
 ,
@@ -71054,7 +71054,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18311
 {"annict_id":18311}
 ,
-// [2023-SPRING] OTHER: GENJI FANTASY ネコが光源氏に恋をした
+// [2019-SPRING] OTHER: GENJI FANTASY ネコが光源氏に恋をした
 // https://annict.com/works/18312
 {"annict_id":18312,"mal_id":39272}
 ,
@@ -71133,5 +71133,9 @@ export const annict: ArmEntry[] = [
 // [2011-SUMMER] MOVIE: MOMOFUKU TV
 // https://annict.com/works/18331
 {"annict_id":18331}
+,
+// [null-null] TV: キミと僕の最後の戦場、あるいは世界が始まる聖戦 seasonⅢ
+// https://annict.com/works/18332
+{"annict_id":18332,"mal_id":65259}
 ,
 ]
