@@ -67578,7 +67578,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17433
 {"annict_id":17433,"mal_id":63938,"syobocal_tid":7987}
 ,
-// [2027-null] TV: カードファイト!! ヴァンガード 完全新作
+// [2027-null] TV: カードファイト!! ヴァンガード ベールリフト
 // https://annict.com/works/17434
 {"annict_id":17434}
 ,
@@ -71153,5 +71153,9 @@ export const annict: ArmEntry[] = [
 // [2027-null] TV: デュアルシャドウ～Precure Villain Heroines～
 // https://annict.com/works/18336
 {"annict_id":18336,"mal_id":65274}
+,
+// [null-null] TV: ごーすと・みーつ・ぎゃる！ 2期
+// https://annict.com/works/18337
+{"annict_id":18337}
 ,
 ]
