@@ -71152,6 +71152,6 @@ export const annict: ArmEntry[] = [
 ,
 // [2027-null] TV: デュアルシャドウ～Precure Villain Heroines～
 // https://annict.com/works/18336
-{"annict_id":18336}
+{"annict_id":18336,"mal_id":65274}
 ,
 ]
