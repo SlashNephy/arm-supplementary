@@ -71158,4 +71158,8 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18337
 {"annict_id":18337}
 ,
+// [2026-AUTUMN] WEB: 転生したらスライムだった件 魔王と竜の建国譚 5周年記念新アニメPV
+// https://annict.com/works/18338
+{"annict_id":18338}
+,
 ]
