@@ -67366,7 +67366,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/17380
 {"annict_id":17380}
 ,
-// [2027-WINTER] MOVIE: ポールプリンセス‼︎ 新作CGポールダンスショー映像
+// [2027-WINTER] MOVIE: ポールプリンセス!! -Croix du Nord-
 // https://annict.com/works/17381
 {"annict_id":17381}
 ,
@@ -69974,7 +69974,7 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18038
 {"annict_id":18038}
 ,
-// [null-null] TV: Destiny Unchain Online
+// [2027-null] TV: Destiny Unchain Online
 // https://annict.com/works/18039
 {"annict_id":18039,"mal_id":64751}
 ,
