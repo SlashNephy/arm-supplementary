@@ -71162,4 +71162,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18338
 {"annict_id":18338}
 ,
+// [2026-AUTUMN] TV: おじゃる丸 ダーウィンが来た!コラボスペシャル 「ダーウィンが来たでおじゃる」
+// https://annict.com/works/18339
+{"annict_id":18339}
+,
+// [null-null] TV: 柊さんちの吸血事情
+// https://annict.com/works/18340
+{"annict_id":18340,"mal_id":65288}
+,
 ]
