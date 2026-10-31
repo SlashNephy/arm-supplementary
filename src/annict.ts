@@ -71170,4 +71170,12 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18340
 {"annict_id":18340,"mal_id":65288}
 ,
+// [2027-SPRING] TV: ロメリア戦記 第IIクール
+// https://annict.com/works/18341
+{"annict_id":18341,"mal_id":65298}
+,
+// [2026-AUTUMN] WEB: Hello! Pikmin
+// https://annict.com/works/18342
+{"annict_id":18342}
+,
 ]
