@@ -71178,4 +71178,16 @@ export const annict: ArmEntry[] = [
 // https://annict.com/works/18342
 {"annict_id":18342}
 ,
+// [2027-SUMMER] TV: シバつき物件
+// https://annict.com/works/18343
+{"annict_id":18343,"mal_id":65300}
+,
+// [2027-null] MOVIE: クロミ
+// https://annict.com/works/18344
+{"annict_id":18344}
+,
+// [2026-AUTUMN] WEB: メカザムライ
+// https://annict.com/works/18345
+{"annict_id":18345}
+,
 ]
