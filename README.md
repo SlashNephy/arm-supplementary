@@ -1,54 +1,20 @@
 # arm-supplementary
 
-[![Check](https://github.com/SlashNephy/arm-supplementary/actions/workflows/check-node.yml/badge.svg)](https://github.com/SlashNephy/arm-supplementary/actions/workflows/check-node.yml)
+> [!WARNING]
+> This project has been discontinued and archived. `dist/arm.json` is kept only as an empty array (`[]`).
 
 💊 Supplemental database for [kawaiioverflow/arm](https://github.com/kawaiioverflow/arm)
 
-The database is updated once an hour by GitHub Actions.
+## Why
 
-## Usage
+arm-supplementary added ID mappings fetched from the [Annict](https://annict.com) API and distributed them as a public JSON file.
+The [Annict API Terms of Use](https://annict.com/terms/api) (effective 2026-11-25) prohibit redistributing data fetched from the API as files or datasets that third parties can retrieve (Article 6).
+To comply with the terms, the database and its history have been removed.
 
-Fetch arm.json from the following URL.
+## For existing users
 
-- https\://raw\.githubusercontent.com/SlashNephy/arm-supplementary/master/dist/arm.json
+`https://raw.githubusercontent.com/SlashNephy/arm-supplementary/master/dist/arm.json` still responds, but always returns an empty array.
+Please migrate to one of the following sources.
 
-In TypeScript, you can use arm-supplementary from the following code.
-
-```typescript
-export type ArmEntry = {
-  mal_id?: number
-  anilist_id?: number
-  annict_id?: number
-  syobocal_tid?: number
-
-  // extended
-  anidb_id?: number
-  animeplanet_id?: string
-  anisearch_id?: number
-  kitsu_id?: number
-  livechart_id?: number
-  notify_id?: string
-}
-
-export const fetchArmEntries = async (): Promise<ArmEntry[]> => {
-  const response = await fetch('https://raw.githubusercontent.com/SlashNephy/arm-supplementary/master/dist/arm.json')
-  return await response.json()
-}
-```
-
-## Statistics
-
-Currently, arm-supplementary has 48637 entries (+11503).
-
-| Service                                  | arm-supplementary | arm / anime-offline-database |
-| :--------------------------------------- | :---------------: | :--------------------------: |
-| [Annict](https://annict.com)             |    17789 (+264)   |             17525            |
-| [AniList](https://anilist.co)            |   24864 (+2252)   |             22612            |
-| [MyAnimeList](https://myanimelist.net)   |    31241 (+565)   |             30676            |
-| [しょぼいカレンダー](https://cal.syoboi.jp)       |     6986 (+75)    |             6911             |
-| [AniDB](https://anidb.net)               |    14695 (+180)   |             14515            |
-| [Anime-Planet](https://anime-planet.com) |    26850 (+204)   |             26646            |
-| [aniSearch](https://anisearch.com)       |    21290 (+193)   |             21097            |
-| [Kitsu](https://kitsu.io)                |       0 (±0)      |               0              |
-| [LiveChart.me](https://livechart.me)     |    12447 (+183)   |             12264            |
-| [Anime Notifier](https://notify.moe)     |       0 (±0)      |               0              |
+- [kawaiioverflow/arm](https://github.com/kawaiioverflow/arm): `mal_id`, `anilist_id`, `annict_id` and `syobocal_tid` in the same format
+- [manami-project/anime-offline-database](https://github.com/manami-project/anime-offline-database): IDs for MyAnimeList, AniList, AniDB, Anime-Planet, aniSearch, Kitsu, LiveChart.me and others
